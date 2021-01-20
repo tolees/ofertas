@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J1W88TQ-es Greylags Prima Calzoncillos Retro | Boxershorts | Tubo...'
+sku: 'B07J1W88TQ-es'
 tags: [  ]
 actualPrice: 26.95 EUR
 currency: EUR

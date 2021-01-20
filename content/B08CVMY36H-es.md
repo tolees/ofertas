@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CVMY36H-es Panamar Damas / Tejidos no Tejidos Tablero de ajedrez...'
+sku: 'B08CVMY36H-es'
 tags: [  ]
 actualPrice: 2.34 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073XD81MY-es Lacoste Reloj Análogo clásico para Niños de Cuarzo con...'
+sku: 'B073XD81MY-es'
 tags: [  ]
 actualPrice: 41.3 EUR
 currency: EUR

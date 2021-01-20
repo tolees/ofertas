@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVV94P8-es TOUS BRIGHT - Pendientes amatista hidrotermal con base de...'
+sku: 'B07TVV94P8-es'
 tags: [  ]
 actualPrice: 69 EUR
 currency: EUR

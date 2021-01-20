@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GRYFIOA-es LEICKE ULL Fuente de alimentación Universal Clavija DE 5 5...'
+sku: 'B01GRYFIOA-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

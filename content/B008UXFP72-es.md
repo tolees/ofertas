@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008UXFP72-es Surplus - Pantalón Chino para Mujer Talla W33/L30...'
+sku: 'B008UXFP72-es'
 tags: [  ]
 actualPrice: 6.65 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F2QJW7G-es Helly Hansen HH Duffel Bag 2 Bolsa de Viaje Unisex Adulto...'
+sku: 'B07F2QJW7G-es'
 tags: [  ]
 actualPrice: 50.48 EUR
 currency: EUR

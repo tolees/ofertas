@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NSG374Z-es Silence'
+sku: 'B07NSG374Z-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

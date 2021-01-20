@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MTFHSHH-es Pulidora de Coche GALAX PRO 1200W Velocidad 1000-3000RPM...'
+sku: 'B07MTFHSHH-es'
 tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR

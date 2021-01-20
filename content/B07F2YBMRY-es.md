@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F2YBMRY-es Palladium Pallabrouse Baggy Zapatillas Altas para Hombre...'
+sku: 'B07F2YBMRY-es'
 tags: [  ]
 actualPrice: 62.95 EUR
 currency: EUR

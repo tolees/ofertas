@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MR8F8XT-es Lee Scarlett High Jeans Azul Mid Copan Iw 29W / 31L para...'
+sku: 'B07MR8F8XT-es'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H4V3Z1N-es Osram Smart Encufe Controlable Con El Móvil Blanco'
+sku: 'B07H4V3Z1N-es'
 tags: [  ]
 actualPrice: 88.99 EUR
 currency: EUR

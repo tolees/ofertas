@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BZY55HQ-es AmazonBasics - Aro de fitness y pilates para entrenamiento...'
+sku: 'B07BZY55HQ-es'
 tags: [  ]
 actualPrice: 22.47 EUR
 currency: EUR

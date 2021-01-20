@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078MFXDJS-es SONGMICS Carrito de Cocina con Ruedas Estantería con 3...'
+sku: 'B078MFXDJS-es'
 tags: [  ]
 actualPrice: 18.05 EUR
 currency: EUR

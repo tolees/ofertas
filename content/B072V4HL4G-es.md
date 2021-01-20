@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072V4HL4G-es KLIM™ RGB Alfombrilla de Ratón Chroma – Material de Alta...'
+sku: 'B072V4HL4G-es'
 tags: [  ]
 actualPrice: 19.97 EUR
 currency: EUR

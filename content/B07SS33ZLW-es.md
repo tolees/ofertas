@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SS33ZLW-es DURAGADGET Cable De Audio Compatible con Portátil Samsung...'
+sku: 'B07SS33ZLW-es'
 tags: [  ]
 actualPrice: 9.89 EUR
 currency: EUR

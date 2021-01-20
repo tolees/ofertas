@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00V88DXMU-es Clarins - Crema Eclat du Jour - Hidratación frescor buena...'
+sku: 'B00V88DXMU-es'
 tags: [  ]
 actualPrice: 15.95 EUR
 currency: EUR

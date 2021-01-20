@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DM6D87B-es JACK & JONES PREMIUM Jprsolaris Trouser Noos Pantalones de...'
+sku: 'B07DM6D87B-es'
 tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR

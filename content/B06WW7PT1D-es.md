@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WW7PT1D-es Goonies / Gremlins / Gremlins 2 [Edizione: Stati Uniti]...'
+sku: 'B06WW7PT1D-es'
 tags: [  ]
 actualPrice: 22.48 EUR
 currency: EUR

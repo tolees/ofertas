@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V7B2FGS-es YISSVIC Humidificador Ultrasónico Silencioso 4.8L con...'
+sku: 'B07V7B2FGS-es'
 tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR

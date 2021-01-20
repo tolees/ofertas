@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CHXZ8F2-es ECCO Soft 7 Zapatillas para Hombre Azul Navy/Night Sky...'
+sku: 'B07CHXZ8F2-es'
 tags: [  ]
 actualPrice: 63.62 EUR
 currency: EUR

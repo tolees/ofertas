@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00F3U9N4Q-es Iron Man 2 [Blu-ray]'
+sku: 'B00F3U9N4Q-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

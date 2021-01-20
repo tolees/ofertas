@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TPRDC3T-es Bestway Piscina familiar 54150 - Piscina inflable - 305 x...'
+sku: 'B07TPRDC3T-es'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

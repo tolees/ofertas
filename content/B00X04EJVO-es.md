@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X04EJVO-es BSN Nutrition Syntha 6 Edge Whey Protein Isolate Proteinas...'
+sku: 'B00X04EJVO-es'
 tags: [  ]
 actualPrice: 34.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083PY7R4Z-es Espejo de coche para bebé Espejo automático Espejo...'
+sku: 'B083PY7R4Z-es'
 tags: [  ]
 actualPrice: 10.59 EUR
 currency: EUR

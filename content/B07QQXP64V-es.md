@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QQXP64V-es Vieta Pro Way – Auriculares inalámbricos Bluetooth radio...'
+sku: 'B07QQXP64V-es'
 tags: [  ]
 actualPrice: 23.79 EUR
 currency: EUR

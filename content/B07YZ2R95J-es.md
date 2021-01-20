@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YZ2R95J-es JIMMY Xiaomi JV71 Aspirador sin Cable Aspirador Escoba...'
+sku: 'B07YZ2R95J-es'
 tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR

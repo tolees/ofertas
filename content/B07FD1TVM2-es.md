@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FD1TVM2-es Adidas Lite Racer Cln K Zapatillas de deporte Unisex niños...'
+sku: 'B07FD1TVM2-es'
 tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR

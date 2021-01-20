@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072V6K1VS-es COMTEX hombres de color blanco reloj con pulsera de acero...'
+sku: 'B072V6K1VS-es'
 tags: [  ]
 actualPrice: 12.62 EUR
 currency: EUR

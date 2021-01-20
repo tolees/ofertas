@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NR8KN22-es INFILAND Estuche Kindle 2019 10ª generación - Modelo 2019...'
+sku: 'B07NR8KN22-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

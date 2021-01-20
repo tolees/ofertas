@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MHKW5ZN-es CKSOHOT Masajeador Manual con 10 modos de Frecuencia...'
+sku: 'B07MHKW5ZN-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

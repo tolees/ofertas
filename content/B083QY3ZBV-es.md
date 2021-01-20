@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083QY3ZBV-es yaoyan Funda Universal para Tableta portátil Funda Ultra...'
+sku: 'B083QY3ZBV-es'
 tags: [  ]
 actualPrice: 1.38 EUR
 currency: EUR

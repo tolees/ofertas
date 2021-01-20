@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WT48H4H-es Memoria USB 128GB SAWAKE Flash Drive USB 3.0 Mini Pendrive...'
+sku: 'B07WT48H4H-es'
 tags: [  ]
 actualPrice: 15.16 EUR
 currency: EUR

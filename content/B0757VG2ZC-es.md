@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0757VG2ZC-es Licwshi 450lm La luz solar 24 LED de una aleación de...'
+sku: 'B0757VG2ZC-es'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SRWRGMD-es Armani Exchange Icon Tracksuit Bottom Pantalones de...'
+sku: 'B07SRWRGMD-es'
 tags: [  ]
 actualPrice: 19.87 EUR
 currency: EUR

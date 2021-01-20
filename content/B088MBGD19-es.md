@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088MBGD19-es KN95 FFP2 Certificado CE Mascarilla Unica Blanco Talla'
+sku: 'B088MBGD19-es'
 tags: [  ]
 actualPrice: 3.59 EUR
 currency: EUR

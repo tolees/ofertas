@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076F4P3KK-es Safety 1st TIMBA con cojín White/Red Line - Trona de...'
+sku: 'B076F4P3KK-es'
 tags: [  ]
 actualPrice: 61.48 EUR
 currency: EUR

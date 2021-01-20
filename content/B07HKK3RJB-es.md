@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HKK3RJB-es Under Armour UA W Charged Impulse Zapatillas de Running...'
+sku: 'B07HKK3RJB-es'
 tags: [  ]
 actualPrice: 35.39 EUR
 currency: EUR

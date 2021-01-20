@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0781PPM4F-es Portarrollos de MEZOOM de 304 acero inoxidable de 3m...'
+sku: 'B0781PPM4F-es'
 tags: [  ]
 actualPrice: 12.49 EUR
 currency: EUR

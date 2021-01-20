@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KX0TCQE-es Gloss - caja de maquillaje caja de regalo para mujeres -...'
+sku: 'B01KX0TCQE-es'
 tags: [  ]
 actualPrice: 32.9 EUR
 currency: EUR

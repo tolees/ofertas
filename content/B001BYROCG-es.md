@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001BYROCG-es Vacu Vin 38855626-Enfriador rápido Estampado Color Platino...'
+sku: 'B001BYROCG-es'
 tags: [  ]
 actualPrice: 6.0 EUR
 currency: EUR

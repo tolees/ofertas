@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MRG3HAY-es Brazalete Deportivo para Correr Prueba de Sudor Apoyo...'
+sku: 'B01MRG3HAY-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

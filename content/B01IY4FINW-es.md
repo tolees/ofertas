@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IY4FINW-es Reebok Exofit Lo Clean Logo Zapatillas Para Hombre Negro...'
+sku: 'B01IY4FINW-es'
 tags: [  ]
 actualPrice: 39.49 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GX7T29R-es SKYSPER Camiseta de Compresión Manga Larga para Hombre...'
+sku: 'B07GX7T29R-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

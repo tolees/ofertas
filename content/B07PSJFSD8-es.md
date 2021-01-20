@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PSJFSD8-es Kipling - Arto Bolsos bandolera Mujer Verde Seagrass...'
+sku: 'B07PSJFSD8-es'
 tags: [  ]
 actualPrice: 34.5 EUR
 currency: EUR

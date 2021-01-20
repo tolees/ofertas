@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00Y9WTEX4-es Star Wars - Classic Saga Interactive Darth Vader de 45 cm...'
+sku: 'B00Y9WTEX4-es'
 tags: [  ]
 actualPrice: 69.9 EUR
 currency: EUR

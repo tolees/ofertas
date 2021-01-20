@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YL3KNR1-es MTNG Attitude 84361B Zapatillas para Hombre Azul Wax Suede...'
+sku: 'B07YL3KNR1-es'
 tags: [  ]
 actualPrice: 22.19 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01B3KQZXG-es DIM Generous Minimizer Sujetador reductor Beige New Skin...'
+sku: 'B01B3KQZXG-es'
 tags: [  ]
 actualPrice: 14.0 EUR
 currency: EUR

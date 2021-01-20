@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V5WCQ7P-es Neutrex Quitamanchas Pistola Color - 600 ml'
+sku: 'B07V5WCQ7P-es'
 tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR

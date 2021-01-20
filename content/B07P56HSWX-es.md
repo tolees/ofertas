@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P56HSWX-es Interruptor de límite micro 10pcs Interruptor de límite...'
+sku: 'B07P56HSWX-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RRPQ3WW-es Police 15917JS-03 Reloj de Hombres'
+sku: 'B07RRPQ3WW-es'
 tags: [  ]
 actualPrice: 123.63 EUR
 currency: EUR

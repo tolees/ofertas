@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F8TLKLY-es CHICTRY Cola de Sirena Mujer para Nadar Bañador Ropa de...'
+sku: 'B07F8TLKLY-es'
 tags: [  ]
 actualPrice: 14.49 EUR
 currency: EUR

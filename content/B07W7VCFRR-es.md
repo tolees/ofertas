@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W7VCFRR-es WWE 2K20 - Deluxe Edition'
+sku: 'B07W7VCFRR-es'
 tags: [  ]
 actualPrice: 69.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MYNMK1X-es JACK & JONES Jfwbarton Canvas Zapatillas para Hombre Azul...'
+sku: 'B07MYNMK1X-es'
 tags: [  ]
 actualPrice: 23.43 EUR
 currency: EUR

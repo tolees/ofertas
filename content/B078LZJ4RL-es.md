@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078LZJ4RL-es Tonerahorro CF279A XL - Toner laser color negro 2500...'
+sku: 'B078LZJ4RL-es'
 tags: [  ]
 actualPrice: 6.96 EUR
 currency: EUR

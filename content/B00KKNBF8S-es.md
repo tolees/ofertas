@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KKNBF8S-es Habitdesign LC7823O - Cómoda 3 cajones Color Roble...'
+sku: 'B00KKNBF8S-es'
 tags: [  ]
 actualPrice: 59.0 EUR
 currency: EUR

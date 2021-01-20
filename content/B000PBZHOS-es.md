@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000PBZHOS-es Wilton Gomas para Mangas pasteleras 12 Unidades Morado...'
+sku: 'B000PBZHOS-es'
 tags: [  ]
 actualPrice: 3.53 EUR
 currency: EUR

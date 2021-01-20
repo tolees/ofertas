@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C2QV3QZ-es ETEKCITY EK7017 Báscula Digital para Cocina con Pantalla...'
+sku: 'B07C2QV3QZ-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

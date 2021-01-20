@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YP6J53S-es Showyoo Reloj inteligente Pulsera de Actividad Pantalla a...'
+sku: 'B07YP6J53S-es'
 tags: [  ]
 actualPrice: 38.97 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081Q9PQVR-es Masajeador Control Remoto Inalámbrico 15m Para Mujer con...'
+sku: 'B081Q9PQVR-es'
 tags: [  ]
 actualPrice: 24.69 EUR
 currency: EUR

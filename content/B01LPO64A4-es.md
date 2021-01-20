@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LPO64A4-es Twins Sarah Polaina Bebé-Niñas Multicolor Mehrfarbig 80'
+sku: 'B01LPO64A4-es'
 tags: [  ]
 actualPrice: 3.59 EUR
 currency: EUR

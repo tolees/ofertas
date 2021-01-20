@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082HBHJ9R-es ART VVIES Für Hauptdekorationen Baum Mond See Mondlicht...'
+sku: 'B082HBHJ9R-es'
 tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RWVRTT6-es Diesel ShoesDiscover-me OderzoHombreCarterasMulticolor...'
+sku: 'B07RWVRTT6-es'
 tags: [  ]
 actualPrice: 29.91 EUR
 currency: EUR

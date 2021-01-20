@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W8LHM7X-es Dc Colección 7 Películas 2019 Blu-Ray [Blu-ray]'
+sku: 'B07W8LHM7X-es'
 tags: [  ]
 actualPrice: 35.4 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BSTMFZE-es Casio Reloj Analogico-Digital para Hombre de Cuarzo con...'
+sku: 'B01BSTMFZE-es'
 tags: [  ]
 actualPrice: 33.41 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RR7GCXL-es Aibrou Pijamas Hombre Verano Corto de 100% Algodón...'
+sku: 'B07RR7GCXL-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SB0JUUW-es Serum Facial Acido Hialuronico Puro - Enriquecido con...'
+sku: 'B00SB0JUUW-es'
 tags: [  ]
 actualPrice: 15.97 EUR
 currency: EUR

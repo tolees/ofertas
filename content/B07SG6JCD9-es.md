@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SG6JCD9-es Juego de Llaves de Vaso de Impacto 1/2" Meterk 20PCS con 3...'
+sku: 'B07SG6JCD9-es'
 tags: [  ]
 actualPrice: 38.99 EUR
 currency: EUR

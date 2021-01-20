@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BY784AA-es Superga 2750 COTU Classic Zapatillas Unisex Adulto Beige...'
+sku: 'B01BY784AA-es'
 tags: [  ]
 actualPrice: 10.62 EUR
 currency: EUR

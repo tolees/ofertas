@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WGRZXH2-es Puma Reloj Analógico para Hombre de Cuarzo con Correa en...'
+sku: 'B06WGRZXH2-es'
 tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR

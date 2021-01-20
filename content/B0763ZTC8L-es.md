@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0763ZTC8L-es Funko Pop!- Horror: 8-bit Jason Voorhees 24596'
+sku: 'B0763ZTC8L-es'
 tags: [  ]
 actualPrice: 9.89 EUR
 currency: EUR

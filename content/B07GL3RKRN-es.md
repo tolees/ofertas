@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GL3RKRN-es Nuxe Reve De Miel Baume Levres Ultra-Nourrissant 15 Ml -...'
+sku: 'B07GL3RKRN-es'
 tags: [  ]
 actualPrice: 5.85 EUR
 currency: EUR

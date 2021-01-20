@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N7EIQ32-es Mayting 3 pcs Pulsera de Piedra Natural de Ojo de Tigre...'
+sku: 'B01N7EIQ32-es'
 tags: [  ]
 actualPrice: 13.97 EUR
 currency: EUR

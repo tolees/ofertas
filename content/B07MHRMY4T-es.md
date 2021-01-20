@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MHRMY4T-es ZOEON Juegos de Recipientes para Alimentos Apta para...'
+sku: 'B07MHRMY4T-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

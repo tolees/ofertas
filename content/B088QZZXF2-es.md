@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088QZZXF2-es king do way Funda para Barbacoa Impermeable 183x66x130cm...'
+sku: 'B088QZZXF2-es'
 tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR

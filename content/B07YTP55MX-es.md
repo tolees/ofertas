@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YTP55MX-es Safety 1st Ever Safe Plus Silla Coche grupo 1 2 3 crece...'
+sku: 'B07YTP55MX-es'
 tags: [  ]
 actualPrice: 50.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WH77NW7-es Artesania Cerda Deportiva Suela Ligera Avengers Capitan...'
+sku: 'B07WH77NW7-es'
 tags: [  ]
 actualPrice: 22.89 EUR
 currency: EUR

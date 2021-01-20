@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013T6R1BW-es PenDrive 8 GB 10 Piezas USB Flash Drives - Portátil Azul...'
+sku: 'B013T6R1BW-es'
 tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01G31VDAU-es SueH Design Juego de Manteles Individuales de 8 Unidades...'
+sku: 'B01G31VDAU-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

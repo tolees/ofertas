@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C4H8D7X-es Electroestimuladores Tens y EMS Estimulador De Pulsos...'
+sku: 'B07C4H8D7X-es'
 tags: [  ]
 actualPrice: 32.9 EUR
 currency: EUR

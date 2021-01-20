@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPJSF9M-es Klarstein Beersafe XL Mix It Edition Nevera - Nevera de...'
+sku: 'B07KPJSF9M-es'
 tags: [  ]
 actualPrice: 219.99 EUR
 currency: EUR

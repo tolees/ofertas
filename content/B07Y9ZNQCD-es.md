@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y9ZNQCD-es Eva López Botín Piel Cowboy Negro Mujer'
+sku: 'B07Y9ZNQCD-es'
 tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR

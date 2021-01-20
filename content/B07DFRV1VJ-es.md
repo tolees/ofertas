@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFRV1VJ-es PUMA Active Leggings Pants Mujer Puma Black XS'
+sku: 'B07DFRV1VJ-es'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078NW9J2K-es Safta Bolsa De Deporte Levante U.D. Oficial 550x270x260mm'
+sku: 'B078NW9J2K-es'
 tags: [  ]
 actualPrice: 23.44 EUR
 currency: EUR

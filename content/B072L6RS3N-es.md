@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072L6RS3N-es Hollister Wave 2 for her eau de perfume spray 50ml'
+sku: 'B072L6RS3N-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

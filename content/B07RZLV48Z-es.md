@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZLV48Z-es Asics Gel-BND Zapatillas de Balonmano para Hombre Azul...'
+sku: 'B07RZLV48Z-es'
 tags: [  ]
 actualPrice: 64.99 EUR
 currency: EUR

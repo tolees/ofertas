@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085DKCP3D-es Paquete de 10 máscaras Desechables máscara de Filtro de...'
+sku: 'B085DKCP3D-es'
 tags: [  ]
 actualPrice: 2.17 EUR
 currency: EUR

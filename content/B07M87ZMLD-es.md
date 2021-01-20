@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M87ZMLD-es PETEMOO Asiento del Coche de Seguridad para Mascotas Perro...'
+sku: 'B07M87ZMLD-es'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

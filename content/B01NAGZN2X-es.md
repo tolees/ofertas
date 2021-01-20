@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NAGZN2X-es Pulsera Hombre Acero Inoxidable Silicona Punk Rock...'
+sku: 'B01NAGZN2X-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

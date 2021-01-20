@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078T69SQQ-es Tommy Hilfiger Tommy Star Metallic Sneaker Zapatillas para...'
+sku: 'B078T69SQQ-es'
 tags: [  ]
 actualPrice: 67.5 EUR
 currency: EUR

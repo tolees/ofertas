@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HSRHGHL-es Hello Neighbor: Hide And Seek'
+sku: 'B07HSRHGHL-es'
 tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR

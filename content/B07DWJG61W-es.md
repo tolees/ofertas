@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DWJG61W-es Fantasy Flight Games- Star Wars X-Wing: Renegados de Saw -...'
+sku: 'B07DWJG61W-es'
 tags: [  ]
 actualPrice: 20.8 EUR
 currency: EUR

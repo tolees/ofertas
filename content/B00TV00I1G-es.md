@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TV00I1G-es G-STAR RAW 3301 Tapered Jeans Azul dk aged 6576-89 31W /...'
+sku: 'B00TV00I1G-es'
 tags: [  ]
 actualPrice: 42.66 EUR
 currency: EUR

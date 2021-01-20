@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008LTBJFW-es Crucial CT2K8G3S160BM - Kit de Memoria para Mac de 16 GB 8...'
+sku: 'B008LTBJFW-es'
 tags: [  ]
 actualPrice: 76.84 EUR
 currency: EUR

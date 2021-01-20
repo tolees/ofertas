@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00J21SRBC-es Energy Sport CAM Extreme Full HD 1080p 30fps 5MP...'
+sku: 'B00J21SRBC-es'
 tags: [  ]
 actualPrice: 29.9 EUR
 currency: EUR

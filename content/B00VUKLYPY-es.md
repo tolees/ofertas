@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VUKLYPY-es Netgear EX3800 Repetidor WiFi AC750 amplificador WiFi...'
+sku: 'B00VUKLYPY-es'
 tags: [  ]
 actualPrice: 35.9 EUR
 currency: EUR

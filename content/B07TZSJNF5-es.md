@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZSJNF5-es Skechers Reggae Fest-Rooted Bailarinas con Punta Cerrada...'
+sku: 'B07TZSJNF5-es'
 tags: [  ]
 actualPrice: 19.33 EUR
 currency: EUR

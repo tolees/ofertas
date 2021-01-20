@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083VZWP5B-es MarinoBIRD para X-B0X360 Host Conversion Line Línea de...'
+sku: 'B083VZWP5B-es'
 tags: [  ]
 actualPrice: 1.32 EUR
 currency: EUR

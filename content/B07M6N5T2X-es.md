@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M6N5T2X-es Relojes Hombre Relojes de Pulsera Marea Cronometro...'
+sku: 'B07M6N5T2X-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

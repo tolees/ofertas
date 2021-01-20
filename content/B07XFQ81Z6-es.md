@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XFQ81Z6-es LIGE Relojes para Hombre Cronógrafo Impermeable Dorado...'
+sku: 'B07XFQ81Z6-es'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

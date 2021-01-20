@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L3VCT8G-es Aomekie Correa de hombro con cuello de cámara correa de...'
+sku: 'B07L3VCT8G-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

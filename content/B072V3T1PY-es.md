@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072V3T1PY-es Aodoor Parasol para Parabrisa parasoles de Coche Delantero...'
+sku: 'B072V3T1PY-es'
 tags: [  ]
 actualPrice: 11.04 EUR
 currency: EUR

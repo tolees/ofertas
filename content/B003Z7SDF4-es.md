@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003Z7SDF4-es Cosmos Versión Extendida [DVD]'
+sku: 'B003Z7SDF4-es'
 tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR

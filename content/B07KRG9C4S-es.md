@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRG9C4S-es adidas W E 3s Tight - Mallas Mujer Black/White S'
+sku: 'B07KRG9C4S-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

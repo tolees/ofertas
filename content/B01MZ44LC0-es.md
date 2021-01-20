@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MZ44LC0-es Nike Classic Cortez Leather Zapatillas para Mujer Blanco...'
+sku: 'B01MZ44LC0-es'
 tags: [  ]
 actualPrice: 59.45 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFGL5HR-es Mornwell D958 Dental Mirror Dental Inspection Mirror Oral...'
+sku: 'B07DFGL5HR-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

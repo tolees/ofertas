@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SWW6H27-es Mommy Hook Stroller Hanger Houkiper Ganchos Multiusos...'
+sku: 'B07SWW6H27-es'
 tags: [  ]
 actualPrice: 2.99 EUR
 currency: EUR

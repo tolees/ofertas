@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VZ6PW3D-es Showyoo Fitness Pulsera de Actividad Inteligente...'
+sku: 'B07VZ6PW3D-es'
 tags: [  ]
 actualPrice: 29.98 EUR
 currency: EUR

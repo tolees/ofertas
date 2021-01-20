@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016VWADHA-es Jata GR603 Plancha de Asar Eléctrica XXL Superficie XXL 60...'
+sku: 'B016VWADHA-es'
 tags: [  ]
 actualPrice: 48.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z4WPXRS-es INTEY Aspirador Nasal Eléctrica 2 Boquillas de Silicona...'
+sku: 'B07Z4WPXRS-es'
 tags: [  ]
 actualPrice: 20.59 EUR
 currency: EUR

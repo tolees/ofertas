@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077TJ1F5R-es Skechers Women s BOBS Squad-Tough Talk Sneakers Black...'
+sku: 'B077TJ1F5R-es'
 tags: [  ]
 actualPrice: 36.57 EUR
 currency: EUR

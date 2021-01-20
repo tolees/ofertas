@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N5DUT19-es G-STAR RAW Lynn Mid Waist Skinny Jeans Ajustados Azul lt...'
+sku: 'B01N5DUT19-es'
 tags: [  ]
 actualPrice: 68.99 EUR
 currency: EUR

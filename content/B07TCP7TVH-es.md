@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TCP7TVH-es Finocam Espiral Design Collection Elegant Agenda 2020 155...'
+sku: 'B07TCP7TVH-es'
 tags: [  ]
 actualPrice: 11.75 EUR
 currency: EUR

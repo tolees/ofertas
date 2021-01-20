@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YVQLH1W-es Nike Revolution 5 Zapatillas de Atletismo para Hombre...'
+sku: 'B07YVQLH1W-es'
 tags: [  ]
 actualPrice: 38.45 EUR
 currency: EUR

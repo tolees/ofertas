@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086WBM1FC-es ZXL Protector de Borde Protector de Esquina de Mesa Gel de...'
+sku: 'B086WBM1FC-es'
 tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR

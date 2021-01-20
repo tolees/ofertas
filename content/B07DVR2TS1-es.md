@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DVR2TS1-es Edifier W860NB Auriculares Bluetooth aptX con Smart Touch...'
+sku: 'B07DVR2TS1-es'
 tags: [  ]
 actualPrice: 59.68 EUR
 currency: EUR

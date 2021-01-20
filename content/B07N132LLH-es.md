@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N132LLH-es Skechers Go Run Fast Sneaker Donna Navy Textile/Coral Trim...'
+sku: 'B07N132LLH-es'
 tags: [  ]
 actualPrice: 41.95 EUR
 currency: EUR

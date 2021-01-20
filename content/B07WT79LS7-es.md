@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WT79LS7-es TESmart Interruptor HDMI 5 Entradas 1 Salida 4K @ 60Hz 4:...'
+sku: 'B07WT79LS7-es'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

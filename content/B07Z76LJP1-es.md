@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z76LJP1-es Rugby 20 [versión española]'
+sku: 'B07Z76LJP1-es'
 tags: [  ]
 actualPrice: 29.74 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MED7LTG-es 5BILLION Fortalecedor de Mano & Estiramiento de Dedo -...'
+sku: 'B01MED7LTG-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

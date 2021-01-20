@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085YCP8NH-es YAMAMAY® Pyjamas - Ultimi arrivi'
+sku: 'B085YCP8NH-es'
 tags: [  ]
 actualPrice: 17.98 EUR
 currency: EUR

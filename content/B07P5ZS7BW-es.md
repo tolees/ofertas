@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P5ZS7BW-es Wrangler Arizona Pantalones Gris Smoked Pearl M03 W32/L34...'
+sku: 'B07P5ZS7BW-es'
 tags: [  ]
 actualPrice: 34.98 EUR
 currency: EUR

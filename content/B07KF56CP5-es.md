@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KF56CP5-es Levi s 501 High Rise Short Pantalones Cortos Azul Weak In...'
+sku: 'B07KF56CP5-es'
 tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR

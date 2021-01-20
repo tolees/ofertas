@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PVH1ZW1-es KLIM™ Talk – Micrófono USB de Escritorio para PC y Mac –...'
+sku: 'B07PVH1ZW1-es'
 tags: [  ]
 actualPrice: 22.43 EUR
 currency: EUR

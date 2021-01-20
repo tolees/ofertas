@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082H9PVQP-es ART VVIES mit Haken Leinwanddrucke Rose Ringed Sittich...'
+sku: 'B082H9PVQP-es'
 tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR

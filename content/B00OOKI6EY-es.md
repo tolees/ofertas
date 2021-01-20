@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OOKI6EY-es Superga 2750 COTU Classic Zapatillas Unisex Adulto Azalea...'
+sku: 'B00OOKI6EY-es'
 tags: [  ]
 actualPrice: 19.08 EUR
 currency: EUR

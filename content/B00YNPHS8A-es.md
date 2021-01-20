@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00YNPHS8A-es adidas ZX Flux J Zapatillas Unisex Niños Blanco Footwear...'
+sku: 'B00YNPHS8A-es'
 tags: [  ]
 actualPrice: 26.38 EUR
 currency: EUR

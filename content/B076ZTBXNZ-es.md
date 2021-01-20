@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076ZTBXNZ-es Belkin ScreenForce TemperedCurve - Protección de Pantalla...'
+sku: 'B076ZTBXNZ-es'
 tags: [  ]
 actualPrice: 24.18 EUR
 currency: EUR

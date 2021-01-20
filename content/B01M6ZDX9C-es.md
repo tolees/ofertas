@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M6ZDX9C-es Rapesco Alu 40 - Perforadora de gruesos de 4 agujeros y 40...'
+sku: 'B01M6ZDX9C-es'
 tags: [  ]
 actualPrice: 40.79 EUR
 currency: EUR

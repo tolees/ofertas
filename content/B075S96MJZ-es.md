@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075S96MJZ-es ultrapower100® Cargador Compatible iPhone 1A 5 W 1400 +...'
+sku: 'B075S96MJZ-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

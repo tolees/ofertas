@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0814SR3ZY-es Under Armour Waist Bag Riñonera Unisex Adulto Verde OSFA'
+sku: 'B0814SR3ZY-es'
 tags: [  ]
 actualPrice: 20.97 EUR
 currency: EUR

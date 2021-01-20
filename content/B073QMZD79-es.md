@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073QMZD79-es find. Chaqueta Biker Hombre Gris Grau Large'
+sku: 'B073QMZD79-es'
 tags: [  ]
 actualPrice: 19.5 EUR
 currency: EUR

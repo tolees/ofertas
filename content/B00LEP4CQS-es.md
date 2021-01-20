@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LEP4CQS-es Panasonic KX-TGB213 - Teléfono fijo inalámbrico Trío LCD...'
+sku: 'B00LEP4CQS-es'
 tags: [  ]
 actualPrice: 43.91 EUR
 currency: EUR

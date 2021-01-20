@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JNFXSJ4-es Skechers Synergy 3.0 Zapatillas para Mujer Blanco White...'
+sku: 'B07JNFXSJ4-es'
 tags: [  ]
 actualPrice: 45.33 EUR
 currency: EUR

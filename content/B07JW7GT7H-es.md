@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JW7GT7H-es Adaptador USB C a HDMI QGeeM 4K USB C HDMI Cable...'
+sku: 'B07JW7GT7H-es'
 tags: [  ]
 actualPrice: 7.64 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JWQB8PS-es Pepe Jeans Pixlette High Pg201164 Jeans Black Wiser Wash...'
+sku: 'B07JWQB8PS-es'
 tags: [  ]
 actualPrice: 19.13 EUR
 currency: EUR

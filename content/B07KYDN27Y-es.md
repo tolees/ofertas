@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KYDN27Y-es Saro 1435-C - Porta chupete unisex'
+sku: 'B07KYDN27Y-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

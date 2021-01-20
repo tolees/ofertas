@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y1WR16D-es ROCKPALS Calefactor Cerámico de Torre PTC con Mando a...'
+sku: 'B07Y1WR16D-es'
 tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR

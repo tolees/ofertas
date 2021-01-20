@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RLDZXPG-es AUKEY Batería Externa de 5000 mAh Cargadores portátiles...'
+sku: 'B07RLDZXPG-es'
 tags: [  ]
 actualPrice: 9.89 EUR
 currency: EUR

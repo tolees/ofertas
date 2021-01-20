@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9PL51Z-es Napapijri Elbas 2 LS Polo Gris Volcano H74 Small para Hombre'
+sku: 'B07L9PL51Z-es'
 tags: [  ]
 actualPrice: 24.85 EUR
 currency: EUR

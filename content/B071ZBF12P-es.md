@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071ZBF12P-es Ravensburger- Juego Ahora caigo 26758'
+sku: 'B071ZBF12P-es'
 tags: [  ]
 actualPrice: 17.0 EUR
 currency: EUR

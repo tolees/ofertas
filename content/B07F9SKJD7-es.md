@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F9SKJD7-es Farline GOTAS OCULARES HUMECTANTES CON ACIDO HIALURONICO...'
+sku: 'B07F9SKJD7-es'
 tags: [  ]
 actualPrice: 6.35 EUR
 currency: EUR

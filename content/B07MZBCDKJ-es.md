@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZBCDKJ-es Britax Römer Cochecito de caña HOLIDAY 2 6 meses a 3 años...'
+sku: 'B07MZBCDKJ-es'
 tags: [  ]
 actualPrice: 128.59 EUR
 currency: EUR

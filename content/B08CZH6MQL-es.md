@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CZH6MQL-es Rybozen 4 Puertos USB 3.0 Switch Conmutador KVM USB 2...'
+sku: 'B08CZH6MQL-es'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

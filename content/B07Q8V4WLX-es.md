@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q8V4WLX-es Dockers by Gerli 43fa307 Botas Militar para Mujer Negro...'
+sku: 'B07Q8V4WLX-es'
 tags: [  ]
 actualPrice: 22.59 EUR
 currency: EUR

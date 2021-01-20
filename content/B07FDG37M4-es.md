@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FDG37M4-es Jabra Talk 30 - Auricular Bluetooth Negro'
+sku: 'B07FDG37M4-es'
 tags: [  ]
 actualPrice: 19.46 EUR
 currency: EUR

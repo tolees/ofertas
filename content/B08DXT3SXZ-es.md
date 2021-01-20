@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DXT3SXZ-es Auriculares inalámbricos Bluetooth Auriculares...'
+sku: 'B08DXT3SXZ-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

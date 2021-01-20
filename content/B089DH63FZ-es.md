@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089DH63FZ-es Sandalia Plana para Mujer Plateado 38 EU'
+sku: 'B089DH63FZ-es'
 tags: [  ]
 actualPrice: 29.4 EUR
 currency: EUR

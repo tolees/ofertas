@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FTDZCPX-es Huoyin Pulsera Dispensadora De Líquido Pulsera Pulsera...'
+sku: 'B08FTDZCPX-es'
 tags: [  ]
 actualPrice: 1.99 EUR
 currency: EUR

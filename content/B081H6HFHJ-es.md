@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081H6HFHJ-es Finether Dispensador de Jabón Automático Espuma...'
+sku: 'B081H6HFHJ-es'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

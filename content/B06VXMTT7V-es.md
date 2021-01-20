@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06VXMTT7V-es GEORGE GINA & LUCY Nylon 100 Peaches Red Palms'
+sku: 'B06VXMTT7V-es'
 tags: [  ]
 actualPrice: 63.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MXKINNO-es Pulsar Reloj de Pulsera PZ4006X1'
+sku: 'B01MXKINNO-es'
 tags: [  ]
 actualPrice: 65.55 EUR
 currency: EUR

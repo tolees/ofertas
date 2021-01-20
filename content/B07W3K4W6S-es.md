@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W3K4W6S-es Luz nocturna con altavoz Bluetooth lámpara de cabecera con...'
+sku: 'B07W3K4W6S-es'
 tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR

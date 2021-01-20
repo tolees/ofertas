@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077MDY52F-es Puma Basket Heart Patent Wn s Zapatillas para Mujer Beige...'
+sku: 'B077MDY52F-es'
 tags: [  ]
 actualPrice: 41.95 EUR
 currency: EUR

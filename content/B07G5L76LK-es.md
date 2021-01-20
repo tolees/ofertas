@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G5L76LK-es Cocktail Games- Plouf Party - Español Color Asmodee CGPP0001'
+sku: 'B07G5L76LK-es'
 tags: [  ]
 actualPrice: 5.95 EUR
 currency: EUR

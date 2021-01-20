@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0759LH9HC-es Volcom Lido Trunks 16" Boardshorts Hombre Neon Green M'
+sku: 'B0759LH9HC-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

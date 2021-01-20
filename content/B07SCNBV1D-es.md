@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SCNBV1D-es Newdora Almohada de Viaje Viscoelástica de Espuma de...'
+sku: 'B07SCNBV1D-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

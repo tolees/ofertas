@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003TOL0J4-es BRA Efficient - Plancha asador liso 45 cm aluminio fundido...'
+sku: 'B003TOL0J4-es'
 tags: [  ]
 actualPrice: 53.39 EUR
 currency: EUR

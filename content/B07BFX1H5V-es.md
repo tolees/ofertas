@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BFX1H5V-es Doble Consolador Double Consolador en color rosa...'
+sku: 'B07BFX1H5V-es'
 tags: [  ]
 actualPrice: 11.9 EUR
 currency: EUR

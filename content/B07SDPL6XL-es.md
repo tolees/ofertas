@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SDPL6XL-es adidas Own The Run Tgt Mallas Hombre Negro/Negro L'
+sku: 'B07SDPL6XL-es'
 tags: [  ]
 actualPrice: 29.15 EUR
 currency: EUR

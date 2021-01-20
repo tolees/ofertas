@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081GDB7T9-es BLU Ray 4k Grabadora DVD Reproductor Externo Portatil USB...'
+sku: 'B081GDB7T9-es'
 tags: [  ]
 actualPrice: 80.99 EUR
 currency: EUR

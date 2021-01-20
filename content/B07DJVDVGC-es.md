@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJVDVGC-es Pro Breeze Digital Radiador de Aceite 2500W - 10 Elementos...'
+sku: 'B07DJVDVGC-es'
 tags: [  ]
 actualPrice: 124.99 EUR
 currency: EUR

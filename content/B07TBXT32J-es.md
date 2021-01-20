@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TBXT32J-es MyHeritage ADN Kit de Salud — Pruebas Genéticas de Salud y...'
+sku: 'B07TBXT32J-es'
 tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR

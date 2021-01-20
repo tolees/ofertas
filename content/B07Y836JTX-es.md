@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y836JTX-es BANLVS Smartwatch Reloj Inteligente Impermeable 67 con...'
+sku: 'B07Y836JTX-es'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0825NNVYC-es Quiksilver New Slang - Camiseta para Hombre Screen tee...'
+sku: 'B0825NNVYC-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000UJFSHG-es Bausch & Lomb Soflens Tóricas Lentes de Contacto para...'
+sku: 'B000UJFSHG-es'
 tags: [  ]
 actualPrice: 29.19 EUR
 currency: EUR

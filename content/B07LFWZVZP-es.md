@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFWZVZP-es JARBO TN2220 Cartuchos de tóner Negro Compatible para...'
+sku: 'B07LFWZVZP-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

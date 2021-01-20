@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00U2LKWO6-es Incentivador Respiratorio Respiflo FS | Ejercitador...'
+sku: 'B00U2LKWO6-es'
 tags: [  ]
 actualPrice: 10.18 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BNRJOOC-es Superga Classic Zapatillas Unisex Adulto gris gris claro...'
+sku: 'B00BNRJOOC-es'
 tags: [  ]
 actualPrice: 33.2 EUR
 currency: EUR

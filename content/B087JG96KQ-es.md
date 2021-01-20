@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087JG96KQ-es Sawera Generador de Ozono portátil O3 Generador de Ozono...'
+sku: 'B087JG96KQ-es'
 tags: [  ]
 actualPrice: 55.99 EUR
 currency: EUR

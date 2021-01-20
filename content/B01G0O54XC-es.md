@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01G0O54XC-es DISFRAZ HIPPIE CHICA TALLA XL'
+sku: 'B01G0O54XC-es'
 tags: [  ]
 actualPrice: 14.07 EUR
 currency: EUR

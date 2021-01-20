@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076HC2WP8-es ADIDAS Duramo Lite 2.0 Zapatillas de Entrenamiento para...'
+sku: 'B076HC2WP8-es'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

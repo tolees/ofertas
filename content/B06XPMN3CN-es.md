@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XPMN3CN-es Marca Amazon - find. Pantalón Fruncido para Mujer Rosa...'
+sku: 'B06XPMN3CN-es'
 tags: [  ]
 actualPrice: 3.92 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JFL56N3-es PUMA Carina L Zapatillas para Mujer Blanco White White...'
+sku: 'B07JFL56N3-es'
 tags: [  ]
 actualPrice: 43.5 EUR
 currency: EUR

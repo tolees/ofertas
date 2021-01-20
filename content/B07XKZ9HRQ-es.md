@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XKZ9HRQ-es Medidor EMF TACKLIFE Detector de Radiación 5HZ - 3500MHz...'
+sku: 'B07XKZ9HRQ-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

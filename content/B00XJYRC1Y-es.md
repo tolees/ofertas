@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XJYRC1Y-es Reebok Classic Leather Zapatillas Mujer Blanco Int-White /...'
+sku: 'B00XJYRC1Y-es'
 tags: [  ]
 actualPrice: 35.01 EUR
 currency: EUR

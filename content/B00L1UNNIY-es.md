@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00L1UNNIY-es Skechers Equalizer Persistent Zapatillas para Hombre Negro...'
+sku: 'B00L1UNNIY-es'
 tags: [  ]
 actualPrice: 38.95 EUR
 currency: EUR

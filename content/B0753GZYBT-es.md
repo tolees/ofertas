@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0753GZYBT-es adidas Coneo Qt Zapatillas para Mujer Negro Core...'
+sku: 'B0753GZYBT-es'
 tags: [  ]
 actualPrice: 38.47 EUR
 currency: EUR

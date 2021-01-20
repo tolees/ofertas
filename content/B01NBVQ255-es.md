@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NBVQ255-es Hugo BOSS - Reloj para hombre - 1513460'
+sku: 'B01NBVQ255-es'
 tags: [  ]
 actualPrice: 119.0 EUR
 currency: EUR

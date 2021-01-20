@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D8WCG4Y-es HBselect 10 Pares Calcetines Mujer Cortos Algodon...'
+sku: 'B07D8WCG4Y-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

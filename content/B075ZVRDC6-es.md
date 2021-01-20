@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075ZVRDC6-es keeeper Hamaca de Baño Antideslizante Cars De 0 a 6 Meses...'
+sku: 'B075ZVRDC6-es'
 tags: [  ]
 actualPrice: 10.15 EUR
 currency: EUR

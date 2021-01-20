@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FN1D7B7-es adidas Galaxy 11 Zapatillas de Running para Hombre Negro...'
+sku: 'B07FN1D7B7-es'
 tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR

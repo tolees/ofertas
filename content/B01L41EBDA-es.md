@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01L41EBDA-es Havaianas Origine III Alpargatas Unisex Adulto Verde Green...'
+sku: 'B01L41EBDA-es'
 tags: [  ]
 actualPrice: 21.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG68YSQ-es Puma Future Runner Premium Zapatillas Unisex Adulto Blanco...'
+sku: 'B07KG68YSQ-es'
 tags: [  ]
 actualPrice: 34.95 EUR
 currency: EUR

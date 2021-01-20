@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00R4JTQSW-es Roca A5A3025C00 A5A2025C02 Monomando Mezclador Ducha...'
+sku: 'B00R4JTQSW-es'
 tags: [  ]
 actualPrice: 46.6 EUR
 currency: EUR

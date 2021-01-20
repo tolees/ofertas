@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CVLVXC6-es Panamar Borradores y fichas de ajedrez de Madera Natural y...'
+sku: 'B08CVLVXC6-es'
 tags: [  ]
 actualPrice: 2.12 EUR
 currency: EUR

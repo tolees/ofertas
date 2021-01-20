@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SWT69LQ-es adidas Countryxkamanda Zapatillas de Gimnasia para Hombre...'
+sku: 'B07SWT69LQ-es'
 tags: [  ]
 actualPrice: 90.97 EUR
 currency: EUR

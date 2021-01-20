@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BF020VU-es Seiko Reloj Analógico para Hombre con Correa de Cuero –...'
+sku: 'B01BF020VU-es'
 tags: [  ]
 actualPrice: 168.35 EUR
 currency: EUR

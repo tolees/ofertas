@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZTNZ1RK-es Frozen Wind-Bolsa de Deporte'
+sku: 'B07ZTNZ1RK-es'
 tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR

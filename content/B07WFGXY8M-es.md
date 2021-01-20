@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WFGXY8M-es Bandolera Pequeña Pepe Jeans Irvin'
+sku: 'B07WFGXY8M-es'
 tags: [  ]
 actualPrice: 16.0 EUR
 currency: EUR

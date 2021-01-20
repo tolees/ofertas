@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083YZCT41-es uni Adaptador USB C a HDMI Adaptador USB Tipo C a HDMI...'
+sku: 'B083YZCT41-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

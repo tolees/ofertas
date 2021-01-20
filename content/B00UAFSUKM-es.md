@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UAFSUKM-es Philips Sonicare AirFloss Ultra HX8332/01 - Irrigador...'
+sku: 'B00UAFSUKM-es'
 tags: [  ]
 actualPrice: 66.95 EUR
 currency: EUR

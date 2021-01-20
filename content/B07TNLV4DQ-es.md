@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TNLV4DQ-es Levi s 511 Slim Shorts Pantalones Cortos Gris Ciabatta...'
+sku: 'B07TNLV4DQ-es'
 tags: [  ]
 actualPrice: 33.64 EUR
 currency: EUR

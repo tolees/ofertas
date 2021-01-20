@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HGKXH5W-es KUTOOK Pantalones Softshell Trekking Mujer con Forro Polar...'
+sku: 'B08HGKXH5W-es'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

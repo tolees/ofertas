@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K9SZVB9-es Pearl Garland – Carrete redondo de perlas para...'
+sku: 'B07K9SZVB9-es'
 tags: [  ]
 actualPrice: 11.57 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TGWW1K4-es Finocam 623531020 Agenda Tamaño Único Multicolor'
+sku: 'B07TGWW1K4-es'
 tags: [  ]
 actualPrice: 6.3 EUR
 currency: EUR

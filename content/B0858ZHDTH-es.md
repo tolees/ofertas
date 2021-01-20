@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0858ZHDTH-es Oihxse Funda Huawei Honor 8C Ultra Delgado Transparente...'
+sku: 'B0858ZHDTH-es'
 tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR

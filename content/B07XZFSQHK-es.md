@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XZFSQHK-es Pistola de Calor TACKLIFE Pistola de Aire Caliente 2000W 3...'
+sku: 'B07XZFSQHK-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

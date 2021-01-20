@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CGJRSM4-es Feleph Kit de peinture animalière Enfants artisanat et...'
+sku: 'B08CGJRSM4-es'
 tags: [  ]
 actualPrice: 18.0 EUR
 currency: EUR

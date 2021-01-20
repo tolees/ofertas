@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00P9I2KPQ-es Greentech - Puños Manillar Plano Espuma Rojo'
+sku: 'B00P9I2KPQ-es'
 tags: [  ]
 actualPrice: 5.43 EUR
 currency: EUR

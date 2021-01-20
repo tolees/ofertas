@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WY3WHX1-es Pantalla HD Mini cámara Digital Recargable Niños Dibujos...'
+sku: 'B07WY3WHX1-es'
 tags: [  ]
 actualPrice: 6.12 EUR
 currency: EUR

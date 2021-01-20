@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W7RWFG1-es Durex Preservativos Dame Placer + Preservativos Sensitivo...'
+sku: 'B07W7RWFG1-es'
 tags: [  ]
 actualPrice: 22.82 EUR
 currency: EUR

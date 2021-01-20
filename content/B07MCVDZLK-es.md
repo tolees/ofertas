@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MCVDZLK-es Gant 3-Pack Trunk Seasonal Solid Calzoncillos Negro Black...'
+sku: 'B07MCVDZLK-es'
 tags: [  ]
 actualPrice: 23.08 EUR
 currency: EUR

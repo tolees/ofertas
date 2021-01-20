@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KD8FFGY-es Nike M NSW Club Hoodie FZ BB Sweatshirt Hombre Midnight...'
+sku: 'B07KD8FFGY-es'
 tags: [  ]
 actualPrice: 27.9 EUR
 currency: EUR

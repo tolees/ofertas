@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XWOCB30-es Nike Court Royale Zapatillas de Gimnasia para Hombre...'
+sku: 'B00XWOCB30-es'
 tags: [  ]
 actualPrice: 40.0 EUR
 currency: EUR

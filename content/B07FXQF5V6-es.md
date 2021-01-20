@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FXQF5V6-es Vans Ward Canvas Zapatillas para Hombre Azul Checkerboard...'
+sku: 'B07FXQF5V6-es'
 tags: [  ]
 actualPrice: 49.09 EUR
 currency: EUR

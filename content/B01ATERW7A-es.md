@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ATERW7A-es The North Face Exploration CNVRT Pantalones Convertibles...'
+sku: 'B01ATERW7A-es'
 tags: [  ]
 actualPrice: 50.79 EUR
 currency: EUR

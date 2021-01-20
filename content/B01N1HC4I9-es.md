@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N1HC4I9-es L Oréal Paris Colorista Coloración Permanente Colorista...'
+sku: 'B01N1HC4I9-es'
 tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR

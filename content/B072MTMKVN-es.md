@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072MTMKVN-es find. Botas Efecto Ante para Mujer Gris Grey 36 EU'
+sku: 'B072MTMKVN-es'
 tags: [  ]
 actualPrice: 19.5 EUR
 currency: EUR

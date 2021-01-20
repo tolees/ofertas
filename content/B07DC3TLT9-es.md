@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DC3TLT9-es LE COQ SPORTIF Verdon Sport Zapatillas para Hombre Beige...'
+sku: 'B07DC3TLT9-es'
 tags: [  ]
 actualPrice: 25.6 EUR
 currency: EUR

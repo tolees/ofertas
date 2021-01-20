@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VL1XW64-es TUTUO Adapter para dji Osmo Pocket Adaptador de Audio Tipo...'
+sku: 'B07VL1XW64-es'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

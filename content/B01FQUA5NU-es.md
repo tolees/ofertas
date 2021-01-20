@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FQUA5NU-es Brújula de Orientación la Herramienta Básica para...'
+sku: 'B01FQUA5NU-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

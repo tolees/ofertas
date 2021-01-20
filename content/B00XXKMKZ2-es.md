@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XXKMKZ2-es Adidas AA2297 Calcetines Unisex Blanco 47 - 50 EU Paquete...'
+sku: 'B00XXKMKZ2-es'
 tags: [  ]
 actualPrice: 5.97 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VWKQDG6-es Skechers ROVINA Clean Sheen Zapatillas para Mujer Negro...'
+sku: 'B07VWKQDG6-es'
 tags: [  ]
 actualPrice: 39.61 EUR
 currency: EUR

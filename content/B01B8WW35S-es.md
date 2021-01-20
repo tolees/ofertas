@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01B8WW35S-es Ladybug - Peluca complemento de disfraz infantil talla...'
+sku: 'B01B8WW35S-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

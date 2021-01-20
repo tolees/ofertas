@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EO6X7PG-es Creative Sound Blaster Audigy 5/RX - Tarjeta de sonido...'
+sku: 'B00EO6X7PG-es'
 tags: [  ]
 actualPrice: 48.9 EUR
 currency: EUR

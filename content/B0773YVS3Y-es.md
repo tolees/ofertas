@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0773YVS3Y-es adidas Stan Smith Sneaker Mens Blanco Footwear...'
+sku: 'B0773YVS3Y-es'
 tags: [  ]
 actualPrice: 59.95 EUR
 currency: EUR

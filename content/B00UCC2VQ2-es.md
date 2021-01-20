@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UCC2VQ2-es Vitroclen Limpiador de Vitrocerámica en crema acción...'
+sku: 'B00UCC2VQ2-es'
 tags: [  ]
 actualPrice: 3.45 EUR
 currency: EUR

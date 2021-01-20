@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H7RSPHL-es Sereney Mujer Sexy Criada Disfraz Lace Lencería Hot Halter...'
+sku: 'B07H7RSPHL-es'
 tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR

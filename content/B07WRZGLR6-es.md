@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WRZGLR6-es MP3 BENJIE 16GB 1.8" Reproductor de MP3 Pantalla Táctil...'
+sku: 'B07WRZGLR6-es'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

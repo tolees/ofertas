@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079Z3LK9G-es Logitech MX900 - Teclado Estándar Inalámbrico Bluetooth...'
+sku: 'B079Z3LK9G-es'
 tags: [  ]
 actualPrice: 109.95 EUR
 currency: EUR

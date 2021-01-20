@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076TDRLR4-es Skechers OG 85-Old School Cool 699 Zapatillas Altas para...'
+sku: 'B076TDRLR4-es'
 tags: [  ]
 actualPrice: 38.45 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XBSTFGV-es 8 pcs máscara encaje negro de KAKOO de modo diferente...'
+sku: 'B06XBSTFGV-es'
 tags: [  ]
 actualPrice: 9.49 EUR
 currency: EUR

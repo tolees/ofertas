@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CSZ96S6-es D DOLITY Dados D20 de Acrílico 20 Caras para Juego de rol...'
+sku: 'B07CSZ96S6-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

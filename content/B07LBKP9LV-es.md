@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBKP9LV-es Tommy Jeans TJM Essential Chino Short Bañador Verde...'
+sku: 'B07LBKP9LV-es'
 tags: [  ]
 actualPrice: 42.49 EUR
 currency: EUR

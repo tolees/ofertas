@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086ZGVXLG-es M30 6.0 Pulgadas Smartphone 512M + 4Gb ROM Dual Sim...'
+sku: 'B086ZGVXLG-es'
 tags: [  ]
 actualPrice: 53.59 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00006JDME-es Hama 070055 - Filtro ultravioleta color neutro 55 mm'
+sku: 'B00006JDME-es'
 tags: [  ]
 actualPrice: 6.39 EUR
 currency: EUR

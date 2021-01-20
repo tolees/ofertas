@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXR7MPM-es Wrangler Icons Jeans Blue 3 Years 10K 31W / 32L para Hombre'
+sku: 'B07TXR7MPM-es'
 tags: [  ]
 actualPrice: 19.13 EUR
 currency: EUR

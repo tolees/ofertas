@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LB5GRJT-es Nike W NSW LEGASEE HW JDI - Leggings Mujer Black/White M'
+sku: 'B07LB5GRJT-es'
 tags: [  ]
 actualPrice: 24.45 EUR
 currency: EUR

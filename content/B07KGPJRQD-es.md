@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KGPJRQD-es Buff R-Jayla Cinta de Cabeza Fastwick Mujer Rose Pink...'
+sku: 'B07KGPJRQD-es'
 tags: [  ]
 actualPrice: 11.21 EUR
 currency: EUR

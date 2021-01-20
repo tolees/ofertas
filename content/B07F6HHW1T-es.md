@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F6HHW1T-es HP 27xq - Monitor gaming con pantalla Quad HD 2560 x 1440...'
+sku: 'B07F6HHW1T-es'
 tags: [  ]
 actualPrice: 288.15 EUR
 currency: EUR

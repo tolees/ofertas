@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000WZH8M6-es Clinique -Mild With Dish Jabón Facial 100 g'
+sku: 'B000WZH8M6-es'
 tags: [  ]
 actualPrice: 13.75 EUR
 currency: EUR

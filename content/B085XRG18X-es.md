@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085XRG18X-es Oihxse Mandala Flores Encaje Patrón Serie Case Compatible...'
+sku: 'B085XRG18X-es'
 tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR

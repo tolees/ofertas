@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R9KR1GY-es Exerz Huchas Globo Diámetro 16 CM/Caja De Dinero Alcancía...'
+sku: 'B07R9KR1GY-es'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

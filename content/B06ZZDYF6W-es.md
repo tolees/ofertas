@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06ZZDYF6W-es Mobiclinic modelo Alcazaba Silla de ruedas para...'
+sku: 'B06ZZDYF6W-es'
 tags: [  ]
 actualPrice: 49.18 EUR
 currency: EUR

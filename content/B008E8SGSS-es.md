@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008E8SGSS-es Lacoste L1230 Polo de Manga Corta para Hombre Negro Noir...'
+sku: 'B008E8SGSS-es'
 tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR

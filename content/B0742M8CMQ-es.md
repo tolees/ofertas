@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0742M8CMQ-es UO- Pulsera Estampado Supermama Color Dorado'
+sku: 'B0742M8CMQ-es'
 tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR

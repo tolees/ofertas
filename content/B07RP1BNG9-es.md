@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RP1BNG9-es Ghost Recon - Figura Nomad Breakpoint'
+sku: 'B07RP1BNG9-es'
 tags: [  ]
 actualPrice: 14.9 EUR
 currency: EUR
@@ -26,8 +27,8 @@ Tienes [Ghost Recon - Figura Nomad Breakpoint](https://www.amazon.es/dp/B07RP1BN
 
 🔎:
 
-- Material: PVC
 - Detailed holster, handgun, bag pack & rifle
+- Material: PVC
 - Height: 23 cm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07RP1BNG9/?tag=tolees-21)

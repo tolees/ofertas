@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CKG2N24-es Auriculares inalámbricos Bluetooth 5.0 Control táctil...'
+sku: 'B08CKG2N24-es'
 tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR

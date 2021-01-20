@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IQI7HL2-es Osprey Tempest 20 Women s Hiking Pack - Mystic Magenta WS/WM'
+sku: 'B01IQI7HL2-es'
 tags: [  ]
 actualPrice: 85.94 EUR
 currency: EUR

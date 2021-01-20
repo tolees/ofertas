@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016XZRR56-es Steinbach Colector de Sol Speed Solar Exclusiv Negro 110 x...'
+sku: 'B016XZRR56-es'
 tags: [  ]
 actualPrice: 142.0 EUR
 currency: EUR

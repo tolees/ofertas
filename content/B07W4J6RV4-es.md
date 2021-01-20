@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W4J6RV4-es Amazon Essentials Long-Sleeve Lightweight French Terry...'
+sku: 'B07W4J6RV4-es'
 tags: [  ]
 actualPrice: 13.33 EUR
 currency: EUR

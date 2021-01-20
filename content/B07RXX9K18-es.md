@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RXX9K18-es HorBous Tarjetas de Aprendizaje Alfabeto Números Colores...'
+sku: 'B07RXX9K18-es'
 tags: [  ]
 actualPrice: 18.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LKWKAQK-es Epson WFDS570W - Escáner de Documentos en Color A4...'
+sku: 'B01LKWKAQK-es'
 tags: [  ]
 actualPrice: 329.64 EUR
 currency: EUR

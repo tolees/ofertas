@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z89CSXX-es Philips In Ear Sport ST702BK/00 True Wireless Sports...'
+sku: 'B07Z89CSXX-es'
 tags: [  ]
 actualPrice: 119.99 EUR
 currency: EUR

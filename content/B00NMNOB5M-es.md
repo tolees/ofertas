@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NMNOB5M-es ORICO Tarjeta de expansión PCI-E de 4 puertos USB 3.0...'
+sku: 'B00NMNOB5M-es'
 tags: [  ]
 actualPrice: 19.89 EUR
 currency: EUR

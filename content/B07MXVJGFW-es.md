@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MXVJGFW-es upHere 300mm Cable con Manguito - Extensión de Cable para...'
+sku: 'B07MXVJGFW-es'
 tags: [  ]
 actualPrice: 20.16 EUR
 currency: EUR

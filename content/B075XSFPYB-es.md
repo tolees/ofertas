@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075XSFPYB-es Sensilis Origin Pro EGF-5 - Crema Antiedad Rejuvenecedora...'
+sku: 'B075XSFPYB-es'
 tags: [  ]
 actualPrice: 58.93 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V2J3MPW-es Tommy Hilfiger LowCut Essential Sneaker Zapatillas para...'
+sku: 'B07V2J3MPW-es'
 tags: [  ]
 actualPrice: 28.94 EUR
 currency: EUR

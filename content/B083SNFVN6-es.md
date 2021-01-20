@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083SNFVN6-es San Ignacio Q3249 Set 3pc Utensilios de Cocina Nylon...'
+sku: 'B083SNFVN6-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

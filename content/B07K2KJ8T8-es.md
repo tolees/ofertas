@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2KJ8T8-es Under Armour UA Charged Europa 2 Zapatillas de Running...'
+sku: 'B07K2KJ8T8-es'
 tags: [  ]
 actualPrice: 25.54 EUR
 currency: EUR

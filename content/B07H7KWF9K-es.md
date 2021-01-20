@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H7KWF9K-es Brazalete Deportivo Brazalete Running Armband Movil...'
+sku: 'B07H7KWF9K-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

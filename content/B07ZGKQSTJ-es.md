@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZGKQSTJ-es kinder Fluff - Protector de Nieve y Parasol para Coche 8...'
+sku: 'B07ZGKQSTJ-es'
 tags: [  ]
 actualPrice: 18.6 EUR
 currency: EUR

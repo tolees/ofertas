@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085QZY81G-es Finocam - Agenda Curso 2020-2021 Cuarto-155x217 Semana...'
+sku: 'B085QZY81G-es'
 tags: [  ]
 actualPrice: 11.2 EUR
 currency: EUR

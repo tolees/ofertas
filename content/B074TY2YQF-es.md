@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074TY2YQF-es Juvena Tónico corporal - 50 ml.'
+sku: 'B074TY2YQF-es'
 tags: [  ]
 actualPrice: 10.45 EUR
 currency: EUR

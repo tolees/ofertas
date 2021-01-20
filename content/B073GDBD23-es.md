@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073GDBD23-es Alfombrilla de Ratón Cojín de Muñeca con Reposamuñecas...'
+sku: 'B073GDBD23-es'
 tags: [  ]
 actualPrice: 9.69 EUR
 currency: EUR

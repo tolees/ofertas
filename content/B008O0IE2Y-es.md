@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008O0IE2Y-es Canon EF-EOS M - Adaptador para Objetivos de cámaras Canon...'
+sku: 'B008O0IE2Y-es'
 tags: [  ]
 actualPrice: 87.58 EUR
 currency: EUR

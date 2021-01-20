@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078XYC3R2-es The Raven Remastered'
+sku: 'B078XYC3R2-es'
 tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR

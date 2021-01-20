@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079MCM7JQ-es Salomon XA Pro 3D Winter TS CSWP J Calzado de Invierno...'
+sku: 'B079MCM7JQ-es'
 tags: [  ]
 actualPrice: 35.95 EUR
 currency: EUR

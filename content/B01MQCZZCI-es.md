@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MQCZZCI-es Cáncer de Mama Pasadores Broche de Conciencia Caridad...'
+sku: 'B01MQCZZCI-es'
 tags: [  ]
 actualPrice: 4.08 EUR
 currency: EUR

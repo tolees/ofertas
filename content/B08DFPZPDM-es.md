@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DFPZPDM-es DIY Taladro Completo 5D Kits de Pintura de Diamantes...'
+sku: 'B08DFPZPDM-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

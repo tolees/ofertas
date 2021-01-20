@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GH12X4Q-es 12 Pares Distintos Tamaños De Perlas De Imitación Cremosa...'
+sku: 'B01GH12X4Q-es'
 tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR

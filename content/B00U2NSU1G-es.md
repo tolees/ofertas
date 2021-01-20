@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00U2NSU1G-es Bruguer - Esmalte Acrlico Satinado Laca Acrylic Blanco...'
+sku: 'B00U2NSU1G-es'
 tags: [  ]
 actualPrice: 13.9 EUR
 currency: EUR

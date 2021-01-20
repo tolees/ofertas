@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087D7NSJB-es Juego de Mueble de Baño Modelo ESPACE Conjunto formado por...'
+sku: 'B087D7NSJB-es'
 tags: [  ]
 actualPrice: 149.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V8VL7LB-es Tommy Hilfiger Corporate Material Mix Runner Zapatillas...'
+sku: 'B07V8VL7LB-es'
 tags: [  ]
 actualPrice: 47.0 EUR
 currency: EUR

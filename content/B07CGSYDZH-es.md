@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CGSYDZH-es L Óreal Paris Les Chocolats Labial Líquido Mate - Tono...'
+sku: 'B07CGSYDZH-es'
 tags: [  ]
 actualPrice: 4.89 EUR
 currency: EUR

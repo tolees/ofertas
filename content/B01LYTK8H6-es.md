@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LYTK8H6-es Olympus M.Zuiko Digital ED - Objectivo 25 mm ángulo de...'
+sku: 'B01LYTK8H6-es'
 tags: [  ]
 actualPrice: 879.99 EUR
 currency: EUR

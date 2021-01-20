@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VWY3KSJ-es Fairy Tail & Glitzer Fee - Granulado de arena decorativa...'
+sku: 'B07VWY3KSJ-es'
 tags: [  ]
 actualPrice: 9.55 EUR
 currency: EUR

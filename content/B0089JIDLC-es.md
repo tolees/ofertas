@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0089JIDLC-es Kingston KVR16N11/8 - Memoria RAM de 8 GB 1600 MHz DDR3...'
+sku: 'B0089JIDLC-es'
 tags: [  ]
 actualPrice: 43.8 EUR
 currency: EUR

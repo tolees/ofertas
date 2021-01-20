@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084T76ZBW-es kesoto M10 Timbres Inalambricos para Exterior Conectar...'
+sku: 'B084T76ZBW-es'
 tags: [  ]
 actualPrice: 35.19 EUR
 currency: EUR

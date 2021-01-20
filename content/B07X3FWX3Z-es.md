@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X3FWX3Z-es Orfeld Remachadora Remachadora Manual con 4 Cabezales...'
+sku: 'B07X3FWX3Z-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

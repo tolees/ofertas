@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QRKZJLH-es Le Creuset 20202320600460 Parrilla Rectangular Apto para...'
+sku: 'B07QRKZJLH-es'
 tags: [  ]
 actualPrice: 66.78 EUR
 currency: EUR

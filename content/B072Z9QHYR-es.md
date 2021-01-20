@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072Z9QHYR-es Micro USB Splitter Cable Cable de potencia OTG Power...'
+sku: 'B072Z9QHYR-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

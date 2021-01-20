@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071NLLJXC-es Marvel Comics MAY172531 Figura de acción de Daredevil...'
+sku: 'B071NLLJXC-es'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

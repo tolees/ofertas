@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R19JPSR-es Provide the best 4pcs / Set Universal de reemplazo...'
+sku: 'B07R19JPSR-es'
 tags: [  ]
 actualPrice: 1.7 EUR
 currency: EUR

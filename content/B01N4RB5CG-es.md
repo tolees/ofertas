@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N4RB5CG-es Panasonic SCUX100EK Home Audio Mini System Microcadena...'
+sku: 'B01N4RB5CG-es'
 tags: [  ]
 actualPrice: 119.95 EUR
 currency: EUR

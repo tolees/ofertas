@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00C9Z7JC6-es Toomax 162R Baùl Plástico Antracita'
+sku: 'B00C9Z7JC6-es'
 tags: [  ]
 actualPrice: 92.71 EUR
 currency: EUR

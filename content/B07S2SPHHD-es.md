@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S2SPHHD-es New Balance 574v2 Zapatillas para Hombre Rojo Red/Navy Spq...'
+sku: 'B07S2SPHHD-es'
 tags: [  ]
 actualPrice: 45.0 EUR
 currency: EUR

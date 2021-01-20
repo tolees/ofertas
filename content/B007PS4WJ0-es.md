@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007PS4WJ0-es Taurus Babel - Ventilador de torre sin control remoto 3...'
+sku: 'B007PS4WJ0-es'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

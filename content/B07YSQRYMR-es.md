@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YSQRYMR-es runya Teclado Numérico Inalámbrico 2.4G Mini 18 Teclas...'
+sku: 'B07YSQRYMR-es'
 tags: [  ]
 actualPrice: 7.61 EUR
 currency: EUR

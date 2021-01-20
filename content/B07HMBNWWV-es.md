@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HMBNWWV-es Dardaruga - Estufa de seta calefactora calefacción para...'
+sku: 'B07HMBNWWV-es'
 tags: [  ]
 actualPrice: 139.99 EUR
 currency: EUR

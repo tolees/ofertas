@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZTWLGVV-es Nike Jordan Jumpman 2020 Zapatillas de básquetbol para...'
+sku: 'B07ZTWLGVV-es'
 tags: [  ]
 actualPrice: 77.7 EUR
 currency: EUR

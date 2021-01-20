@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V8VL95N-es Tommy Hilfiger Causal Tommy Jeans Sneaker Zapatillas para...'
+sku: 'B07V8VL95N-es'
 tags: [  ]
 actualPrice: 38.19 EUR
 currency: EUR

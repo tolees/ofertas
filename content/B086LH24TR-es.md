@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086LH24TR-es Bandas compatibles con Inspire/Inspire HR/Ace2 Kitway-my...'
+sku: 'B086LH24TR-es'
 tags: [  ]
 actualPrice: 7.65 EUR
 currency: EUR

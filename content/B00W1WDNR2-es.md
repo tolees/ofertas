@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00W1WDNR2-es Keter - Conjunto de jardín de 4 plazas Corfu Color marrón'
+sku: 'B00W1WDNR2-es'
 tags: [  ]
 actualPrice: 189.9 EUR
 currency: EUR

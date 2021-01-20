@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KTXKV19-es adidas W E Lin Tight Tights Mujer Black/White 2XLS'
+sku: 'B07KTXKV19-es'
 tags: [  ]
 actualPrice: 18.49 EUR
 currency: EUR

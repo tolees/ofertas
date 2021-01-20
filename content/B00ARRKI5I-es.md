@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ARRKI5I-es Rexel Pizarra magnética individual 360x360m Diseño...'
+sku: 'B00ARRKI5I-es'
 tags: [  ]
 actualPrice: 6.29 EUR
 currency: EUR

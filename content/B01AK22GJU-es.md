@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AK22GJU-es NIKE Swoosh - Diadema para Mujer Mujer N.JN.D6.010.OS...'
+sku: 'B01AK22GJU-es'
 tags: [  ]
 actualPrice: 16.0 EUR
 currency: EUR

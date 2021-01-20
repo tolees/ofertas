@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VSGZTTS-es G-STAR RAW Rackam Core Low Zapatillas para Hombre...'
+sku: 'B07VSGZTTS-es'
 tags: [  ]
 actualPrice: 49.95 EUR
 currency: EUR

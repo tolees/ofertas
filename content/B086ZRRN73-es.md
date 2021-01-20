@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086ZRRN73-es B Blesiya Mini Adaptador De Audio Inalámbrico Portátil...'
+sku: 'B086ZRRN73-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W5NX6R2-es Neewer App Control Anillo Luz LED 41cm Táctil Manual...'
+sku: 'B07W5NX6R2-es'
 tags: [  ]
 actualPrice: 44.09 EUR
 currency: EUR

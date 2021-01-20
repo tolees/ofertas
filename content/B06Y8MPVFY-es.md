@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y8MPVFY-es BaronHong Sport Bra Chest Binder Transpirable Malla Corset...'
+sku: 'B06Y8MPVFY-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

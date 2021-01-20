@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M79G4PM-es HKT by Hackett Hkt SS Str Rby Polo Ink 591 Medium para Hombre'
+sku: 'B07M79G4PM-es'
 tags: [  ]
 actualPrice: 22.96 EUR
 currency: EUR

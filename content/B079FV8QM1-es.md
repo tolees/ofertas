@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079FV8QM1-es bugatti 321622513200 Botas Clasicas para Hombre Negro...'
+sku: 'B079FV8QM1-es'
 tags: [  ]
 actualPrice: 54.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071JYRNBH-es Victoria Deportivo Serraje P. Negro Zapatillas para Mujer...'
+sku: 'B071JYRNBH-es'
 tags: [  ]
 actualPrice: 22.72 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y3VWW1Q-es Bluefinity Aro Pilates Anillo Ejercicio Yoga Resistencia...'
+sku: 'B06Y3VWW1Q-es'
 tags: [  ]
 actualPrice: 27.9 EUR
 currency: EUR

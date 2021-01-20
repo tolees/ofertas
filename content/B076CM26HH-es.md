@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076CM26HH-es Britax Römer Silla de coche 9 meses - 12 años 9 - 36 kg...'
+sku: 'B076CM26HH-es'
 tags: [  ]
 actualPrice: 170.99 EUR
 currency: EUR

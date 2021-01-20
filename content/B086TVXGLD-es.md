@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086TVXGLD-es AIORNIY - 1/5/10 mascarillas para polvo resistentes al...'
+sku: 'B086TVXGLD-es'
 tags: [  ]
 actualPrice: 4.56 EUR
 currency: EUR

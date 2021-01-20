@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GCHFFN8-es MERIGLARE 10g UV Resina Cristal Claro Ultravioleta curado...'
+sku: 'B08GCHFFN8-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

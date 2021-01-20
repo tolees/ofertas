@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076QL5MCB-es Dewar s 15 Años Whisky Escocés - 700 ml'
+sku: 'B076QL5MCB-es'
 tags: [  ]
 actualPrice: 25.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FMCL59B-es Energy Headphones BT Travel 7 ANC Active Noise Cancelling...'
+sku: 'B07FMCL59B-es'
 tags: [  ]
 actualPrice: 56.99 EUR
 currency: EUR

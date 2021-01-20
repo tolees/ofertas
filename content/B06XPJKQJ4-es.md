@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XPJKQJ4-es IEFIEL Vestidos de Princesa Fiesta Bautizo Tutú con Braga...'
+sku: 'B06XPJKQJ4-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

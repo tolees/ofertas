@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NZY8STF-es Skechers Ultra Flex 2.0-Kelmer Zapatillas para Hombre...'
+sku: 'B07NZY8STF-es'
 tags: [  ]
 actualPrice: 33.19 EUR
 currency: EUR

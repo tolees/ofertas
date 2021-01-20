@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z7NV1CR-es Muñecas Arias - Elegance 36 cm con Conjunto Burgundy-60300'
+sku: 'B07Z7NV1CR-es'
 tags: [  ]
 actualPrice: 24.95 EUR
 currency: EUR

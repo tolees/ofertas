@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VG992YL-es Hackett London Hibiscus Pantalones Cortos Naranja 1audeep...'
+sku: 'B07VG992YL-es'
 tags: [  ]
 actualPrice: 44.74 EUR
 currency: EUR

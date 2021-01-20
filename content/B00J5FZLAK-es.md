@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00J5FZLAK-es Atopic Piel Crema Corporal Extreme para el tratamiento de...'
+sku: 'B00J5FZLAK-es'
 tags: [  ]
 actualPrice: 10.4 EUR
 currency: EUR

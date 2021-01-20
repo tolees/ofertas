@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N9NPQNB-es VULKKANO Blast el Altavoz Bluetooth más potente con 30W...'
+sku: 'B01N9NPQNB-es'
 tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NPZHT1H-es Razer Lancehead Ratón Gris'
+sku: 'B07NPZHT1H-es'
 tags: [  ]
 actualPrice: 91.32 EUR
 currency: EUR

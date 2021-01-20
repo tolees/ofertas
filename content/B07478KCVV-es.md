@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07478KCVV-es Miyare 2pcs Perchas Pinzas Faldas Antideslizantes de Acero...'
+sku: 'B07478KCVV-es'
 tags: [  ]
 actualPrice: 14.66 EUR
 currency: EUR

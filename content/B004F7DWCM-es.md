@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004F7DWCM-es AgfaPhoto 110-803951 - Pilas alcalinas AA Pack de 10...'
+sku: 'B004F7DWCM-es'
 tags: [  ]
 actualPrice: 2.33 EUR
 currency: EUR

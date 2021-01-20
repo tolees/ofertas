@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085G5JKN7-es Radio Meteorológica de 5 Vías para Emergencias Domésticas...'
+sku: 'B085G5JKN7-es'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

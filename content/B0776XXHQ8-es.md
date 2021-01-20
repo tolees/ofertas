@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0776XXHQ8-es Tommy Hilfiger Original Fine Pique Polo Gris Lt Grey Htr...'
+sku: 'B0776XXHQ8-es'
 tags: [  ]
 actualPrice: 31.28 EUR
 currency: EUR

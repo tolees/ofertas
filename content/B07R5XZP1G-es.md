@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R5XZP1G-es Boston Tech SP1 - Botella de Agua de Acero Inoxidable...'
+sku: 'B07R5XZP1G-es'
 tags: [  ]
 actualPrice: 8.54 EUR
 currency: EUR

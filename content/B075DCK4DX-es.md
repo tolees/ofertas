@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075DCK4DX-es EIS Aceite de masaje cálido prémium Excitante efecto calor...'
+sku: 'B075DCK4DX-es'
 tags: [  ]
 actualPrice: 6.49 EUR
 currency: EUR

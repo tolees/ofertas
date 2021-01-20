@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XGHWBKY-es Creative Saddle Almacenamiento de doble fregadero...'
+sku: 'B07XGHWBKY-es'
 tags: [  ]
 actualPrice: 7.97 EUR
 currency: EUR

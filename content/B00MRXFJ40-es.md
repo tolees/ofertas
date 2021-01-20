@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MRXFJ40-es INCREÍBLE Lima Pies Removedor De Piel Dura - MEJORES...'
+sku: 'B00MRXFJ40-es'
 tags: [  ]
 actualPrice: 11.21 EUR
 currency: EUR

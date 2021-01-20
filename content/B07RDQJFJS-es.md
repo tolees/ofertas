@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RDQJFJS-es Slendertone Brazaletes de bíceps y tríceps H / F...'
+sku: 'B07RDQJFJS-es'
 tags: [  ]
 actualPrice: 90.3 EUR
 currency: EUR

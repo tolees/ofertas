@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088TFXTKM-es 200 almohadillas de filtro desechables almohadillas...'
+sku: 'B088TFXTKM-es'
 tags: [  ]
 actualPrice: 6.78 EUR
 currency: EUR

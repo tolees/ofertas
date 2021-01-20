@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MN9LCV8-es UniqueMe Funda para Samsung Galaxy S10 Plus Funda TPU...'
+sku: 'B07MN9LCV8-es'
 tags: [  ]
 actualPrice: 1.99 EUR
 currency: EUR

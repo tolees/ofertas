@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08595DYBL-es Oihxse Animal Serie Case Compatible con Huawei Mate 20...'
+sku: 'B08595DYBL-es'
 tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083FRXYV3-es BRIKSMAX Kit de Iluminación Led para Lego Jurassic World...'
+sku: 'B083FRXYV3-es'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

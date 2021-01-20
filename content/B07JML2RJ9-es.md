@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JML2RJ9-es Ever-Pretty A-línea Vestito de Gala Cuello Redondo sin...'
+sku: 'B07JML2RJ9-es'
 tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR

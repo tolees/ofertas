@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XNPTBNQ-es Axiom Verge: Multiverse Edition'
+sku: 'B06XNPTBNQ-es'
 tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071NWMVVZ-es Asics Kanmei Zapatillas de Running para Hombre Azul...'
+sku: 'B071NWMVVZ-es'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

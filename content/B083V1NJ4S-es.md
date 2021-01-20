@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083V1NJ4S-es Buyger 2 en 1 Maletin Medicos Juguete Doctora Enfermeras...'
+sku: 'B083V1NJ4S-es'
 tags: [  ]
 actualPrice: 25.86 EUR
 currency: EUR

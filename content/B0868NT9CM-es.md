@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0868NT9CM-es Suhctup Transparente Funda Compatible con LG K4 2017...'
+sku: 'B0868NT9CM-es'
 tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR

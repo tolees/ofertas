@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SLLD37Y-es Asics Gel-Nimbus 22 Zapatillas de Running para Hombre...'
+sku: 'B07SLLD37Y-es'
 tags: [  ]
 actualPrice: 135.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NONXHVY-es Tommy Hilfiger New Denton Belt 4.0 Cinturón Negro NEGRO...'
+sku: 'B00NONXHVY-es'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

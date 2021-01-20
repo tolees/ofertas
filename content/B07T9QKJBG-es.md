@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T9QKJBG-es YuhooTech Funda con Cuerda para Xiaomi Mi 9 [Moda y...'
+sku: 'B07T9QKJBG-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

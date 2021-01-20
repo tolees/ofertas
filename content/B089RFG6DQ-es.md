@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089RFG6DQ-es Pistola de Masaje Muscular ANFLAG Premium Masajeador de...'
+sku: 'B089RFG6DQ-es'
 tags: [  ]
 actualPrice: 109.97 EUR
 currency: EUR

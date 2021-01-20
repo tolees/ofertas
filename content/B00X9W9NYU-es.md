@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X9W9NYU-es L Oréal Paris Sublime Mousse Tinte en Espuma Coloración...'
+sku: 'B00X9W9NYU-es'
 tags: [  ]
 actualPrice: 6.75 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FL7WGMS-es Pekitas - Colchón minicuna 50 x 75 cm Funda 3D Erogonómico...'
+sku: 'B07FL7WGMS-es'
 tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR

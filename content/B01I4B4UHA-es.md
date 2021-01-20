@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01I4B4UHA-es Vans UA ISO 2 Zapatillas para Hombre Gris C and L...'
+sku: 'B01I4B4UHA-es'
 tags: [  ]
 actualPrice: 25.2 EUR
 currency: EUR

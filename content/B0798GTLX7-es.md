@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0798GTLX7-es Figura Pop! Garbage Pail Kids Ghastly Ashley'
+sku: 'B0798GTLX7-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

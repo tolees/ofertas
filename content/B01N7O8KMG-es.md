@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N7O8KMG-es adidas Gazelle Zapatillas Unisex Niños Negro Core...'
+sku: 'B01N7O8KMG-es'
 tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR

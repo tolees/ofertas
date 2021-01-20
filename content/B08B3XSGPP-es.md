@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B3XSGPP-es Donci Termómetro de Interior Medidor de Humedad LCD...'
+sku: 'B08B3XSGPP-es'
 tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JKS2V6Z-es YaYuu Compatible Samsung Galaxy Watch Active/Active2 40mm...'
+sku: 'B07JKS2V6Z-es'
 tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR

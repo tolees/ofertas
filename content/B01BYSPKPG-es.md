@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BYSPKPG-es Fantasy Flight Games- Star Wars Imperial Assault Boba Fett...'
+sku: 'B01BYSPKPG-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

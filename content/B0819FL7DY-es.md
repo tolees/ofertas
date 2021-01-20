@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0819FL7DY-es PUTORSEN® Soporte de impresora debajo del escritorio con...'
+sku: 'B0819FL7DY-es'
 tags: [  ]
 actualPrice: 34.87 EUR
 currency: EUR

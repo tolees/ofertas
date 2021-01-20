@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFLNZMK-es adidas Grand Court Zapatillas de Running para Hombre...'
+sku: 'B07KFLNZMK-es'
 tags: [  ]
 actualPrice: 44.01 EUR
 currency: EUR

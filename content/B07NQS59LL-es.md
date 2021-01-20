@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NQS59LL-es Skechers Men s STAMINA CUTBACK Trainers Black Black...'
+sku: 'B07NQS59LL-es'
 tags: [  ]
 actualPrice: 46.74 EUR
 currency: EUR

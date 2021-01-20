@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZDTJDJ-es Puma Basket Heart Patent Wn s Zapatillas para Mujer Gris...'
+sku: 'B07CZDTJDJ-es'
 tags: [  ]
 actualPrice: 30.11 EUR
 currency: EUR

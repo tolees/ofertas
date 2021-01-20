@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZCTGT8R-es Colmanda Juguete Mágico de Hombre Wooden Man Daruma Stage...'
+sku: 'B07ZCTGT8R-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

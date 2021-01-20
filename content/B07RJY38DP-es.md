@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RJY38DP-es KooPower - Guirnalda de luces cable de cobre funciona con...'
+sku: 'B07RJY38DP-es'
 tags: [  ]
 actualPrice: 4.51 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083SRHM2M-es Bastilipo TLM-2000 Termoventilador-Calefactor de Aire...'
+sku: 'B083SRHM2M-es'
 tags: [  ]
 actualPrice: 16.07 EUR
 currency: EUR

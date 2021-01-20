@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FR7ZM4Q-es Clarks Un Lisbon Lace Zapatos de Cordones Derby para...'
+sku: 'B07FR7ZM4Q-es'
 tags: [  ]
 actualPrice: 35.8 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HCPGDYQ-es MODAUTO Antena de Radio Universal Varilla 9.5cm 4...'
+sku: 'B07HCPGDYQ-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

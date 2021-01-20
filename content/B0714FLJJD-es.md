@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0714FLJJD-es adidas Zx Flux J Zapatillas de Deporte Unisex Niños Rosa...'
+sku: 'B0714FLJJD-es'
 tags: [  ]
 actualPrice: 45.0 EUR
 currency: EUR

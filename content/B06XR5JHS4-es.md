@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XR5JHS4-es Nike Revolution 4 PSV Zapatillas de Entrenamiento Unisex...'
+sku: 'B06XR5JHS4-es'
 tags: [  ]
 actualPrice: 22.65 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SBVS27C-es PUMA Ignite Flash Evoknit Zapatillas de Running para...'
+sku: 'B07SBVS27C-es'
 tags: [  ]
 actualPrice: 26.68 EUR
 currency: EUR

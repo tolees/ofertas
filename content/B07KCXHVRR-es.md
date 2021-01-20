@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KCXHVRR-es adidas DX7301 Pantalones Cortos de Deporte Niños Rojo...'
+sku: 'B07KCXHVRR-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

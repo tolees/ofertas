@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014RJCS6S-es Issey Miyake Nuit D Issey Parfum Vapo 125 Ml 125 g'
+sku: 'B014RJCS6S-es'
 tags: [  ]
 actualPrice: 65.99 EUR
 currency: EUR

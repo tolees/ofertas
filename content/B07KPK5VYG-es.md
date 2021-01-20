@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPK5VYG-es Pop! Vinilo: Fairy Tail S3: Gajeel'
+sku: 'B07KPK5VYG-es'
 tags: [  ]
 actualPrice: 10.0 EUR
 currency: EUR

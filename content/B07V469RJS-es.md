@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V469RJS-es Xpassion Mini Maquina de Coser Portátil de Mano...'
+sku: 'B07V469RJS-es'
 tags: [  ]
 actualPrice: 17.24 EUR
 currency: EUR

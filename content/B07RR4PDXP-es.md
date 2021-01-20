@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RR4PDXP-es Tommy Hilfiger - Th Nylon Camera Bag Bolsos bandolera...'
+sku: 'B07RR4PDXP-es'
 tags: [  ]
 actualPrice: 33.96 EUR
 currency: EUR

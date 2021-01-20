@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9W1YRR-es Lacoste Courtline 319 1 Us Cfa Zapatillas para Mujer...'
+sku: 'B07L9W1YRR-es'
 tags: [  ]
 actualPrice: 29.91 EUR
 currency: EUR

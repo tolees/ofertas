@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M5ZH62H-es Lee Luke Pants Jeans Moto Grey Hga 31W / 34L para Hombre'
+sku: 'B07M5ZH62H-es'
 tags: [  ]
 actualPrice: 44.95 EUR
 currency: EUR

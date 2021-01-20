@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MTKM5VV-es Under NY Sky Delantal Azul - Tela Vaquera Profesional -...'
+sku: 'B01MTKM5VV-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

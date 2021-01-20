@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072JW8HVQ-es Cesta Picnic de Masha y el Oso con 21 accesorios Smoby 310564'
+sku: 'B072JW8HVQ-es'
 tags: [  ]
 actualPrice: 10.0 EUR
 currency: EUR

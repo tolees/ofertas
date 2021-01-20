@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DBSDD5S-es Glucosamina Complex con Condroitina MSM Boswellia y...'
+sku: 'B07DBSDD5S-es'
 tags: [  ]
 actualPrice: 20.97 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPYWYC9-es Pop! Vinilo: Disney: The Lion King: Pumbaa'
+sku: 'B07KPYWYC9-es'
 tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR

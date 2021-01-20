@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081HDDTH5-es XJ03 Cámaras portátiles portátiles domésticas compactas...'
+sku: 'B081HDDTH5-es'
 tags: [  ]
 actualPrice: 12.37 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RPTFW1Y-es ZoomSky Piedras Luminosas Azul 200pcs Stone Brillante Roca...'
+sku: 'B07RPTFW1Y-es'
 tags: [  ]
 actualPrice: 11.97 EUR
 currency: EUR

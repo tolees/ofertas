@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077YW65KM-es Sylvie Flirty Swimwear Bendi Traje de Baño de Una Pieza...'
+sku: 'B077YW65KM-es'
 tags: [  ]
 actualPrice: 46.75 EUR
 currency: EUR

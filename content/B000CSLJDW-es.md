@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000CSLJDW-es ghd original - Plancha de pelo profesional tecnología...'
+sku: 'B000CSLJDW-es'
 tags: [  ]
 actualPrice: 108.99 EUR
 currency: EUR

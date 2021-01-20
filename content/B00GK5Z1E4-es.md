@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GK5Z1E4-es Dell 470-13630 - Cable DisplayPort a VGA Negro'
+sku: 'B00GK5Z1E4-es'
 tags: [  ]
 actualPrice: 10.9 EUR
 currency: EUR

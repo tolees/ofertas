@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FSBHD5J-es Philips Serie 9000 Prestige SP9863/14 - Afeitadora...'
+sku: 'B07FSBHD5J-es'
 tags: [  ]
 actualPrice: 359.99 EUR
 currency: EUR

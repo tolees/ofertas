@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HPFH99V-es Cartera Pepe Jeans Deadline vertical con cierre de clic...'
+sku: 'B07HPFH99V-es'
 tags: [  ]
 actualPrice: 26.7 EUR
 currency: EUR

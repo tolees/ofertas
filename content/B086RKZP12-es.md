@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086RKZP12-es OWAYKEY - Amplificador Bluetooth 50 W + 50 W 2 canales...'
+sku: 'B086RKZP12-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S43WLCY-es ASUS ROG Strix G731GU-EV038T Portátil Gaming de 17.3"...'
+sku: 'B07S43WLCY-es'
 tags: [  ]
 actualPrice: 1199.99 EUR
 currency: EUR

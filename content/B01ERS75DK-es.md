@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ERS75DK-es Joma Drive Bermuda Deporte Hombre Royal 2XS'
+sku: 'B01ERS75DK-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

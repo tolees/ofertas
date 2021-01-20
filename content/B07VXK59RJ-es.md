@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VXK59RJ-es Skechers Solar Fuse Cosmic View Zapatillas para Mujer Gris...'
+sku: 'B07VXK59RJ-es'
 tags: [  ]
 actualPrice: 29.56 EUR
 currency: EUR

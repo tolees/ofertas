@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DKH72ST-es Kipling - Creativity Xl Monederos Mujer Multicolor Dynamic...'
+sku: 'B07DKH72ST-es'
 tags: [  ]
 actualPrice: 25.13 EUR
 currency: EUR

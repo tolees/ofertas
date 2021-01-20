@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082YQP7VC-es Hilo de bordado diy de 100 colores Hilo de bordado de 8 m...'
+sku: 'B082YQP7VC-es'
 tags: [  ]
 actualPrice: 6.28 EUR
 currency: EUR

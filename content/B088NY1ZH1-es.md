@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088NY1ZH1-es Lumemery Piscina Inflable Familia Niños Adultos Fiesta de...'
+sku: 'B088NY1ZH1-es'
 tags: [  ]
 actualPrice: 49.98 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BSHBIE6-es UNYQUE Compresas Maternidad de Algodon Puro 100%...'
+sku: 'B00BSHBIE6-es'
 tags: [  ]
 actualPrice: 8.32 EUR
 currency: EUR

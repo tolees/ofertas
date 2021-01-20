@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YB1RZ8R-es WinWonder Kit de Arcilla de Modelado 24 Colores de Arcilla...'
+sku: 'B07YB1RZ8R-es'
 tags: [  ]
 actualPrice: 24.9 EUR
 currency: EUR

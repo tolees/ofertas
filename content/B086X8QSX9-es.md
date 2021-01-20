@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086X8QSX9-es Batería Recargable LCD Multifuncional Adaptador de Carga...'
+sku: 'B086X8QSX9-es'
 tags: [  ]
 actualPrice: 30.79 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079VYD5F5-es Millet LD AMURI Zapatillas de Senderismo para Mujer...'
+sku: 'B079VYD5F5-es'
 tags: [  ]
 actualPrice: 36.14 EUR
 currency: EUR

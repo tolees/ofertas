@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015ORRJCK-es Niré Brochas de Maquillaje con Esponja Maquillaje Estuche...'
+sku: 'B015ORRJCK-es'
 tags: [  ]
 actualPrice: 44.95 EUR
 currency: EUR

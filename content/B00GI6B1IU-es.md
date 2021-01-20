@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GI6B1IU-es Led Lenser H7.2 Linterna frontal LED de 250 lúmenes de...'
+sku: 'B00GI6B1IU-es'
 tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR

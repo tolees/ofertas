@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072R6QSV2-es White Shark GP de 2028 PC USB Game Pad Rojo'
+sku: 'B072R6QSV2-es'
 tags: [  ]
 actualPrice: 10.77 EUR
 currency: EUR

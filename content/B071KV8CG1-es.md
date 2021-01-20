@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071KV8CG1-es MVPower Set de 10 marcos de fotos 10 marcos de cuadros...'
+sku: 'B071KV8CG1-es'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

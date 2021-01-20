@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008L16QMQ-es Poldark - La Serie Completa [DVD]'
+sku: 'B008L16QMQ-es'
 tags: [  ]
 actualPrice: 10 EUR
 currency: EUR

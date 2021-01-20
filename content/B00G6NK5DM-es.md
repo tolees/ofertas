@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00G6NK5DM-es Evergreenweb - Colchones matrimonial 160x190 Espuma de 20...'
+sku: 'B00G6NK5DM-es'
 tags: [  ]
 actualPrice: 229.0 EUR
 currency: EUR

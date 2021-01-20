@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NLFD1XW-es Nike Revolution 5 Running Shoe Womens Black/Anthracite 38 EU'
+sku: 'B07NLFD1XW-es'
 tags: [  ]
 actualPrice: 38.45 EUR
 currency: EUR

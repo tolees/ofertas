@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NFH8FV9-es Casio Reloj Analógico para Unisex Adultos de Cuarzo con...'
+sku: 'B07NFH8FV9-es'
 tags: [  ]
 actualPrice: 34.9 EUR
 currency: EUR

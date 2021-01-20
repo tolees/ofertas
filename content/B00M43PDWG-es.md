@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00M43PDWG-es BSN Nutrition N.O.-Xplode Suplementos Deportivos Pre...'
+sku: 'B00M43PDWG-es'
 tags: [  ]
 actualPrice: 33.97 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M66QDXJ-es Badabulle B022002 - Anillo de baño plegable montaña'
+sku: 'B01M66QDXJ-es'
 tags: [  ]
 actualPrice: 17.9 EUR
 currency: EUR

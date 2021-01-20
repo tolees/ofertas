@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N16CHNU-es Dickies Slim Fit Work Pantalones Cortos para Hombre Azul...'
+sku: 'B01N16CHNU-es'
 tags: [  ]
 actualPrice: 16.26 EUR
 currency: EUR

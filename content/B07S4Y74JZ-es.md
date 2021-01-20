@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S4Y74JZ-es New Balance 574v2 Zapatillas para Hombre Azul Blue/Black...'
+sku: 'B07S4Y74JZ-es'
 tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR

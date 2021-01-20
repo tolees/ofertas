@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NLHC54C-es Versace Jeans CoutureBorsaMujerBolso de manoMarrón Legno...'
+sku: 'B07NLHC54C-es'
 tags: [  ]
 actualPrice: 82.32 EUR
 currency: EUR

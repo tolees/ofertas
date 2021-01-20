@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GC7PJP2-es Auriculares Bluetooth Auriculares inalámbricos...'
+sku: 'B08GC7PJP2-es'
 tags: [  ]
 actualPrice: 16.89 EUR
 currency: EUR

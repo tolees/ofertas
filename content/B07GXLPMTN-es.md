@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GXLPMTN-es Adidas Falcon W Sneaker Womens Footwear White/Footwear...'
+sku: 'B07GXLPMTN-es'
 tags: [  ]
 actualPrice: 69.55 EUR
 currency: EUR

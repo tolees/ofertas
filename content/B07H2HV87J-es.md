@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H2HV87J-es TMISHION Ortesis para el Hombro Corrector de Postura del...'
+sku: 'B07H2HV87J-es'
 tags: [  ]
 actualPrice: 9.29 EUR
 currency: EUR

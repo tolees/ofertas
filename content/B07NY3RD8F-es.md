@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NY3RD8F-es Superdry Raven Slim Jogger Pantalones de Deporte Verde...'
+sku: 'B07NY3RD8F-es'
 tags: [  ]
 actualPrice: 33.36 EUR
 currency: EUR

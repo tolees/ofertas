@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ZVUZVFI-es WMF Gourmet-Set de 4 Boles Acero Inoxidable Mate'
+sku: 'B00ZVUZVFI-es'
 tags: [  ]
 actualPrice: 33.27 EUR
 currency: EUR

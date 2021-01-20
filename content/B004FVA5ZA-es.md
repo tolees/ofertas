@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004FVA5ZA-es Emsa Clip & Close Conservador Hermético de Plástico...'
+sku: 'B004FVA5ZA-es'
 tags: [  ]
 actualPrice: 5.55 EUR
 currency: EUR

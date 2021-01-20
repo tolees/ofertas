@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SMPL4WI-es Olympus OM-D E-M5 Mark II cámara de sistema Micro Cuatro...'
+sku: 'B00SMPL4WI-es'
 tags: [  ]
 actualPrice: 713.79 EUR
 currency: EUR

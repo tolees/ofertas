@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VXX3MM6-es Skechers Flex Appeal 3.0-Quick Voyage Zapatillas sin...'
+sku: 'B07VXX3MM6-es'
 tags: [  ]
 actualPrice: 34.65 EUR
 currency: EUR

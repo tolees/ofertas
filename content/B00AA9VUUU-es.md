@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00AA9VUUU-es Advance Sensitive Pienso para Gato Esterilizado Adulto con...'
+sku: 'B00AA9VUUU-es'
 tags: [  ]
 actualPrice: 16.82 EUR
 currency: EUR

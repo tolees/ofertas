@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0772ZCY6H-es Columbia Canyon Point Zapatillas de Senderismo para Hombre...'
+sku: 'B0772ZCY6H-es'
 tags: [  ]
 actualPrice: 53.89 EUR
 currency: EUR

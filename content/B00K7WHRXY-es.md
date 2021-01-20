@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K7WHRXY-es Need For Speed BD 3D + 2D [Blu-ray]'
+sku: 'B00K7WHRXY-es'
 tags: [  ]
 actualPrice: 7.5 EUR
 currency: EUR

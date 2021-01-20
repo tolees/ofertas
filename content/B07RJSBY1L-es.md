@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RJSBY1L-es UniqueMe [1 Pack] Protector de Pantalla para Oneplus 7 Pro...'
+sku: 'B07RJSBY1L-es'
 tags: [  ]
 actualPrice: 1.99 EUR
 currency: EUR

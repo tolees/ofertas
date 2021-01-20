@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000IYEMYI-es Bosch MFQ3540 Batidora y Amasadora con Accesorios 450 W 5...'
+sku: 'B000IYEMYI-es'
 tags: [  ]
 actualPrice: 44.95 EUR
 currency: EUR

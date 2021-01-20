@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UCDEOHA-es Autan Protection Plus Repelente de Mosquitos'
+sku: 'B00UCDEOHA-es'
 tags: [  ]
 actualPrice: 6.02 EUR
 currency: EUR

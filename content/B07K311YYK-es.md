@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K311YYK-es iiniim Conjunto de Traje Danza del Vientre para Niña Top +...'
+sku: 'B07K311YYK-es'
 tags: [  ]
 actualPrice: 17.49 EUR
 currency: EUR

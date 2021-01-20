@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01G5KURYC-es Zolion® Laptop Stand solide haut de gamme simple en...'
+sku: 'B01G5KURYC-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

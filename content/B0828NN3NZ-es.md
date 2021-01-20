@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0828NN3NZ-es Pincel de Pintura Set de Pinceles Cepillos de Pintura...'
+sku: 'B0828NN3NZ-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

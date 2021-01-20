@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JMG1CGY-es Faibo - Hojas lavables de recambio para borrador 15 M/ 15...'
+sku: 'B00JMG1CGY-es'
 tags: [  ]
 actualPrice: 2.83 EUR
 currency: EUR

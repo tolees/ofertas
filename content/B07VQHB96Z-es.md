@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VQHB96Z-es Nike Pico 5 TDV Zapatillas Unisex Niños Multicolor...'
+sku: 'B07VQHB96Z-es'
 tags: [  ]
 actualPrice: 12.95 EUR
 currency: EUR

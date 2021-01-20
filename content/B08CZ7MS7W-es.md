@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CZ7MS7W-es Trampa de Red de Pesca portátil Cuenta Luminosa Cobre...'
+sku: 'B08CZ7MS7W-es'
 tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FKL4J64-es Revlon Ultra HD Pintalabios Mate Kisses'
+sku: 'B01FKL4J64-es'
 tags: [  ]
 actualPrice: 4.97 EUR
 currency: EUR

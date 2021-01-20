@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CUQPIXA-es Edge Entertainment- Stormtroopers Sw Imperial Assault:...'
+sku: 'B01CUQPIXA-es'
 tags: [  ]
 actualPrice: 10.49 EUR
 currency: EUR

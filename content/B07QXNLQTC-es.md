@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QXNLQTC-es MiMiya Inoxidable Completo 6 Pisos Deshidratador de...'
+sku: 'B07QXNLQTC-es'
 tags: [  ]
 actualPrice: 149.99 EUR
 currency: EUR

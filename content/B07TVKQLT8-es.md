@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVKQLT8-es Wrangler Texas Contrast Hombre Pantalones Beige Sand 58n...'
+sku: 'B07TVKQLT8-es'
 tags: [  ]
 actualPrice: 44.16 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JZ5VFL1-es adidas Altasport CF K Zapatillas de Gimnasia Unisex Niños...'
+sku: 'B07JZ5VFL1-es'
 tags: [  ]
 actualPrice: 17.48 EUR
 currency: EUR

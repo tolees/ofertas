@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG16TJ6-es Puma Future Runner Premium Zapatillas Unisex Adulto Azul...'
+sku: 'B07KG16TJ6-es'
 tags: [  ]
 actualPrice: 21.02 EUR
 currency: EUR

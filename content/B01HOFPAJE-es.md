@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HOFPAJE-es Gigandet Reloj Hombre Cuarzo Minimalism Analógico Correa...'
+sku: 'B01HOFPAJE-es'
 tags: [  ]
 actualPrice: 89.9 EUR
 currency: EUR

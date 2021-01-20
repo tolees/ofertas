@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BYHSTVD-es Trueno Kids 2.0'
+sku: 'B07BYHSTVD-es'
 tags: [  ]
 actualPrice: 18.36 EUR
 currency: EUR

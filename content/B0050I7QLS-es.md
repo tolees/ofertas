@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0050I7QLS-es Skechers Diameter Vassell Diameter Vassell - Zapatillas de...'
+sku: 'B0050I7QLS-es'
 tags: [  ]
 actualPrice: 24.78 EUR
 currency: EUR

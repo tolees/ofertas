@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GGKYIHS-es AmazonBasics - Cable USB tipo C a Micro-B 3.1 de 2ª...'
+sku: 'B01GGKYIHS-es'
 tags: [  ]
 actualPrice: 7.89 EUR
 currency: EUR

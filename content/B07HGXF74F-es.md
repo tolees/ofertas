@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HGXF74F-es Tiny Dreamer de Tiny Love proyector musical de luz...'
+sku: 'B07HGXF74F-es'
 tags: [  ]
 actualPrice: 41.4 EUR
 currency: EUR

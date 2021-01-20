@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DL173HT-es XINFULUK DIY Color sólido 3D Fluffy Foam Clay Slime DIY...'
+sku: 'B08DL173HT-es'
 tags: [  ]
 actualPrice: 4.89 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SPVSJGD-es Funko- Pop Animation: Rick & Moty-Hologram Rick Clone...'
+sku: 'B07SPVSJGD-es'
 tags: [  ]
 actualPrice: 9.42 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JBVX7G6-es Hackett Aston Martin Racing Yd Str Polo Blk/Grey 9du...'
+sku: 'B07JBVX7G6-es'
 tags: [  ]
 actualPrice: 55.95 EUR
 currency: EUR

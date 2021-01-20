@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZDPVRJ-es Under Armour UA Tech Mesh Short Pantalones Cortos Hombre...'
+sku: 'B07CZDPVRJ-es'
 tags: [  ]
 actualPrice: 14.16 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KX2KV1B-es Brooks Addiction Walker 2 Zapatillas de Running para...'
+sku: 'B07KX2KV1B-es'
 tags: [  ]
 actualPrice: 72.52 EUR
 currency: EUR

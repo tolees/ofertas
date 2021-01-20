@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LCZD4VF-es Max Factor Colour Elixir Lip Liner 10 Red Poppy 40 g'
+sku: 'B07LCZD4VF-es'
 tags: [  ]
 actualPrice: 5.85 EUR
 currency: EUR

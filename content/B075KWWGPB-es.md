@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075KWWGPB-es Mipelo MLT-D111S D111S Cartuchos de Tóner 2 Negro...'
+sku: 'B075KWWGPB-es'
 tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR

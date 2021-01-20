@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZJ3M2HV-es NETVIP WiFi USB Adaptador 1200Mpbs Receptor WiFi...'
+sku: 'B07ZJ3M2HV-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RXJCF8D-es New Balance 373v2 Zapatillas para Mujer Rosa Pink Cc2 40.5 EU'
+sku: 'B07RXJCF8D-es'
 tags: [  ]
 actualPrice: 39.97 EUR
 currency: EUR

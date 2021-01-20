@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01G3EVOEC-es Hombre de Acero 4k Uhd [Blu-ray]'
+sku: 'B01G3EVOEC-es'
 tags: [  ]
 actualPrice: 13.47 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QXVWGKG-es Taladro G★LAXIA 510W Taladro Eléctrico 0-3000RPM Velocidad...'
+sku: 'B07QXVWGKG-es'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XRCG9LR-es LG SJ4R - Barra de sonido Potencia 420W 4.1 Hi-res Audio...'
+sku: 'B06XRCG9LR-es'
 tags: [  ]
 actualPrice: 193.19 EUR
 currency: EUR

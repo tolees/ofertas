@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YCG1MXG-es Vans Classic Patch Trucker Gorra de béisbol Multicolor...'
+sku: 'B07YCG1MXG-es'
 tags: [  ]
 actualPrice: 17.5 EUR
 currency: EUR

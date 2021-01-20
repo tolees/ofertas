@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WZNWZY5-es GSOTTA Calcetines premium 10 paquetes calcetines de...'
+sku: 'B07WZNWZY5-es'
 tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR

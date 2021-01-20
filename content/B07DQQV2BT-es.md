@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DQQV2BT-es adidas Runr Splt Short Sport Shorts Hombre Black L'
+sku: 'B07DQQV2BT-es'
 tags: [  ]
 actualPrice: 26.49 EUR
 currency: EUR

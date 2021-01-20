@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083TXWN8K-es wetry Disfraz de Wally para Hombre Mujer Niños Trajes de...'
+sku: 'B083TXWN8K-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DGN86YP-es Báscula Digital para Equipaje Buluri Bascula Maletas...'
+sku: 'B07DGN86YP-es'
 tags: [  ]
 actualPrice: 8.97 EUR
 currency: EUR

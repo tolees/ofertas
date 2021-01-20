@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0009OAGQU-es Calvin Klein 8Q1013000 Eau de perfume para mujer 50 ml'
+sku: 'B0009OAGQU-es'
 tags: [  ]
 actualPrice: 35.9 EUR
 currency: EUR

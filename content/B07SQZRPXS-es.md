@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SQZRPXS-es Lacoste Chaymon 120 4 CMA Zapatillas para Hombre Azul...'
+sku: 'B07SQZRPXS-es'
 tags: [  ]
 actualPrice: 67.99 EUR
 currency: EUR

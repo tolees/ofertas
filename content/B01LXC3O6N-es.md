@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LXC3O6N-es Fossil Reloj Cronógrafo para Hombre de Cuarzo con Correa...'
+sku: 'B01LXC3O6N-es'
 tags: [  ]
 actualPrice: 132.3 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VPBPRVV-es Pinko Love Classic Simply 1 Cl Pelle Bolsa de mensajero...'
+sku: 'B07VPBPRVV-es'
 tags: [  ]
 actualPrice: 169.38 EUR
 currency: EUR

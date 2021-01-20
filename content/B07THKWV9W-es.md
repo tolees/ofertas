@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07THKWV9W-es find. Arthur HS01 Botas Clasicas Negro Smart Black Smart...'
+sku: 'B07THKWV9W-es'
 tags: [  ]
 actualPrice: 10.75 EUR
 currency: EUR

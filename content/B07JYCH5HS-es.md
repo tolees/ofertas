@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JYCH5HS-es Bolsas de Aseo RUISIKIOU 3 Sets Bolsa de Viaje de PVC...'
+sku: 'B07JYCH5HS-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NNTJJVD-es Under Armour Women s Charged Pursuit 2 Laufschuhe...'
+sku: 'B07NNTJJVD-es'
 tags: [  ]
 actualPrice: 44.1 EUR
 currency: EUR

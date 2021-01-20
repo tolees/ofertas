@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077XKYGYM-es LW Cable de tendido electrónico de alta calidad Cable de...'
+sku: 'B077XKYGYM-es'
 tags: [  ]
 actualPrice: 68.79 EUR
 currency: EUR

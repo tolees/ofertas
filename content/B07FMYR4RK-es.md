@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FMYR4RK-es Philips Avent SCD303/01- Kit de cristal natural para...'
+sku: 'B07FMYR4RK-es'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

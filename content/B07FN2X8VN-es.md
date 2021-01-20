@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FN2X8VN-es Café FORTALEZA - Surtido de Cápsulas de Café Orígenes...'
+sku: 'B07FN2X8VN-es'
 tags: [  ]
 actualPrice: 33.91 EUR
 currency: EUR

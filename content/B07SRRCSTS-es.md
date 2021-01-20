@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SRRCSTS-es FITTOO Mallas 3/4 Leggings Mujer Pantalones de Yoga Alta...'
+sku: 'B07SRRCSTS-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

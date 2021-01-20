@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08D3T1NPL-es Panamar Negro Diseño portátil USB Hembra a Mini 5P USB B...'
+sku: 'B08D3T1NPL-es'
 tags: [  ]
 actualPrice: 1.01 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071XMDQX6-es Apple iPad Pro 12 9 pulgadas y 512 GB con Wi-Fi - Plata...'
+sku: 'B071XMDQX6-es'
 tags: [  ]
 actualPrice: 975.93 EUR
 currency: EUR

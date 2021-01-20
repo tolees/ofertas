@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072R1ZHCK-es 24 Tubos de Pintura de Acuarela de Zenacolor - Pintura de...'
+sku: 'B072R1ZHCK-es'
 tags: [  ]
 actualPrice: 14.97 EUR
 currency: EUR

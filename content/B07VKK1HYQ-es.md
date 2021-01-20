@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VKK1HYQ-es Calvin Klein Trunk 2pk Bañador Negro Black with/White WB...'
+sku: 'B07VKK1HYQ-es'
 tags: [  ]
 actualPrice: 19.74 EUR
 currency: EUR

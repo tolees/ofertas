@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VFWQ29W-es Pepe Jeans Malibu Summer Zapatillas para Hombre Verde...'
+sku: 'B07VFWQ29W-es'
 tags: [  ]
 actualPrice: 37.97 EUR
 currency: EUR

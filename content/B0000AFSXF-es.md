@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0000AFSXF-es Converse Chuck Taylor All Star Season Ox Zapatillas de...'
+sku: 'B0000AFSXF-es'
 tags: [  ]
 actualPrice: 48.9 EUR
 currency: EUR

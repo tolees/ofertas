@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VV494GK-es LOHOTEK Hombres 7" Pantalones Cortos para Atléticos -...'
+sku: 'B07VV494GK-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

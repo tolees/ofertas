@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000B2OWRO-es Reebok 6394 Zapatillas de Trail Running para Mujer Blanco...'
+sku: 'B000B2OWRO-es'
 tags: [  ]
 actualPrice: 36.26 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MJBR8VH-es Hackett Lambswool V suéter Navy 595 Small para Hombre'
+sku: 'B07MJBR8VH-es'
 tags: [  ]
 actualPrice: 24.78 EUR
 currency: EUR

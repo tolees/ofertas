@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CVCVZLK-es Under Armour UA W Charged Rogue Zapatillas de Running para...'
+sku: 'B07CVCVZLK-es'
 tags: [  ]
 actualPrice: 47.95 EUR
 currency: EUR

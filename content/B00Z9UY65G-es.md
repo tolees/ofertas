@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00Z9UY65G-es Anker PowerCore 13000 Batería externa Universal Micro-USB...'
+sku: 'B00Z9UY65G-es'
 tags: [  ]
 actualPrice: 21.39 EUR
 currency: EUR

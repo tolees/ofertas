@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003M8GMS6-es OXO Good Grips Limpieza Profunda del Sistema de Cepillo -...'
+sku: 'B003M8GMS6-es'
 tags: [  ]
 actualPrice: 7.95 EUR
 currency: EUR

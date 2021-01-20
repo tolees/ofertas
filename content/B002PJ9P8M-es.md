@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002PJ9P8M-es Michael Kors Reloj analogico para Mujer de Cuarzo con...'
+sku: 'B002PJ9P8M-es'
 tags: [  ]
 actualPrice: 129.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YDSBMY4-es Real Madrid CF- Estuche Color Negro SAFTA 811934635'
+sku: 'B07YDSBMY4-es'
 tags: [  ]
 actualPrice: 6.45 EUR
 currency: EUR

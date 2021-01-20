@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078W6J2KB-es Reloj de Bolsillo Vintage Retro Moto Grabado Motocicleta...'
+sku: 'B078W6J2KB-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

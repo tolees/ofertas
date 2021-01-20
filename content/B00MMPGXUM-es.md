@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MMPGXUM-es Vittoria MTB Lite-Box Camara Unisex Adulto Negro 26 x...'
+sku: 'B00MMPGXUM-es'
 tags: [  ]
 actualPrice: 4.85 EUR
 currency: EUR

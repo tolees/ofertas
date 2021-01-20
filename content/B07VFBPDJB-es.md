@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VFBPDJB-es Lifeprint: Impresora portátil de Fotos y vídeos Lifeprint...'
+sku: 'B07VFBPDJB-es'
 tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0871RZP5G-es MWyanlan Película de Ventana Colorida Opaca privacidad...'
+sku: 'B0871RZP5G-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

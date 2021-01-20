@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N9JOPXP-es Gillette Mach3 Irritation Defense Espuma de Afeitado Suave...'
+sku: 'B01N9JOPXP-es'
 tags: [  ]
 actualPrice: 1.71 EUR
 currency: EUR

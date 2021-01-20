@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KQVSLV5-es Monradbitt 1 Pair Fashion Rainbow Striped Socks Ladies...'
+sku: 'B07KQVSLV5-es'
 tags: [  ]
 actualPrice: 2.34 EUR
 currency: EUR

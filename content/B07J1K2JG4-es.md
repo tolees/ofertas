@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J1K2JG4-es Macrimo - Lámpara de altavoz Bluetooth luz nocturna...'
+sku: 'B07J1K2JG4-es'
 tags: [  ]
 actualPrice: 34.03 EUR
 currency: EUR

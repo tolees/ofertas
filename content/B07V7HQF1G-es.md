@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V7HQF1G-es SALOMON Agile 2 Set Mochila de Running Ligera 2L 2...'
+sku: 'B07V7HQF1G-es'
 tags: [  ]
 actualPrice: 40.0 EUR
 currency: EUR

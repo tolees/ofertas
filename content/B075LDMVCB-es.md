@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075LDMVCB-es Memoria Flash USB 512MB 10 Piezas Pequeña Capacidad Pen...'
+sku: 'B075LDMVCB-es'
 tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR

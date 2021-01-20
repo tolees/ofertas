@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077PWGY95-es Emma Colchón 135x190 cm - Viscoelástico Premium -...'
+sku: 'B077PWGY95-es'
 tags: [  ]
 actualPrice: 384.3 EUR
 currency: EUR

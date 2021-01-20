@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071CX5YD4-es Mobiclinic Mezquita Andador para ancianos mayores adultos...'
+sku: 'B071CX5YD4-es'
 tags: [  ]
 actualPrice: 22.5 EUR
 currency: EUR

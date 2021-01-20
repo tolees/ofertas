@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007N4QZPA-es Tommee Tippee Biberones Closer to Nature 340 ml 2 Unidades...'
+sku: 'B007N4QZPA-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H0CBMXO-es Electronic Arts - Titanfall 2'
+sku: 'B01H0CBMXO-es'
 tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NY7DFXN-es Superdry Urban Athletic Classic Zip Hood Capucha Negro...'
+sku: 'B07NY7DFXN-es'
 tags: [  ]
 actualPrice: 26.88 EUR
 currency: EUR

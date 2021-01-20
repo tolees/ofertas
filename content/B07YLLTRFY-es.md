@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YLLTRFY-es Maletas de Cabina 55x40x20 con USB de Carga Equipaje de...'
+sku: 'B07YLLTRFY-es'
 tags: [  ]
 actualPrice: 79.9 EUR
 currency: EUR

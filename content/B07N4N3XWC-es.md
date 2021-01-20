@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N4N3XWC-es Superga 2750 COTU Classic Zapatillas Unisex Azul Azure...'
+sku: 'B07N4N3XWC-es'
 tags: [  ]
 actualPrice: 12.09 EUR
 currency: EUR

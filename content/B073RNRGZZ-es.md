@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RNRGZZ-es Helly Hansen Logo Visera Unisex Adulto Azul Navy Única'
+sku: 'B073RNRGZZ-es'
 tags: [  ]
 actualPrice: 10.7 EUR
 currency: EUR

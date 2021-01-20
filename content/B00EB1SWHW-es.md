@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EB1SWHW-es Dolce Gusto Krups KP1208 - Cafetera de cápsulas Mini Me 15...'
+sku: 'B00EB1SWHW-es'
 tags: [  ]
 actualPrice: 54.45 EUR
 currency: EUR

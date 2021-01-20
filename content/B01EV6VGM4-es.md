@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EV6VGM4-es Woxter Big Bass 260 S - Altavoces 2.1 150W subwoofer de...'
+sku: 'B01EV6VGM4-es'
 tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR

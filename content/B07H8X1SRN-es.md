@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H8X1SRN-es Bourjois Sombra de ojos Tono: 16 Nude Gama Nudes - 3.2 g'
+sku: 'B07H8X1SRN-es'
 tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR

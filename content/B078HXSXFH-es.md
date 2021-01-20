@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078HXSXFH-es Pokémon Crystal - Edición Limitada Código Digital'
+sku: 'B078HXSXFH-es'
 tags: [  ]
 actualPrice: 7.18 EUR
 currency: EUR

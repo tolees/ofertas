@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CMWBKJY-es PROZOR HDMI Splitter 1X2 HDMI Switch 4Kx2K HD 2160P con...'
+sku: 'B08CMWBKJY-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

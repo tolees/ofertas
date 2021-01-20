@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KH4DPKD-es Under Armour Rush P Mallas de Compresion con Cinturilla...'
+sku: 'B07KH4DPKD-es'
 tags: [  ]
 actualPrice: 24.36 EUR
 currency: EUR

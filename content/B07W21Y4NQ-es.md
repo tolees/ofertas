@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W21Y4NQ-es Jack & Jones Jormastul Sweat Hood Capucha Azul Navy Blazer...'
+sku: 'B07W21Y4NQ-es'
 tags: [  ]
 actualPrice: 9.66 EUR
 currency: EUR

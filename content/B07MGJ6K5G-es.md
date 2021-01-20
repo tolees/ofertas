@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MGJ6K5G-es Spike Volleyball Versión Española'
+sku: 'B07MGJ6K5G-es'
 tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR

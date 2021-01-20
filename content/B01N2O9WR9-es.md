@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N2O9WR9-es SJCAM SJ6 Legend Cámara deportiva 4K de 16 MP procesador...'
+sku: 'B01N2O9WR9-es'
 tags: [  ]
 actualPrice: 139.99 EUR
 currency: EUR

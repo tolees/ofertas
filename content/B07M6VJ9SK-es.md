@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M6VJ9SK-es flintronic Cinturón Cuero Hombre Cinturones Piel con...'
+sku: 'B07M6VJ9SK-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GWYMKNC-es Under Armour Sportstyle Graphic Muscle SL Tanque Mujer...'
+sku: 'B07GWYMKNC-es'
 tags: [  ]
 actualPrice: 15.97 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EMZWAE2-es Fleck DUO5 80 EU - Termo electrico Duo 80 litros...'
+sku: 'B01EMZWAE2-es'
 tags: [  ]
 actualPrice: 249.0 EUR
 currency: EUR

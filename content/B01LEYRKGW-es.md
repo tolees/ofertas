@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LEYRKGW-es ID Italian Design | Cepillo Alisador Steam Brush Pro 2.0...'
+sku: 'B01LEYRKGW-es'
 tags: [  ]
 actualPrice: 33.11 EUR
 currency: EUR

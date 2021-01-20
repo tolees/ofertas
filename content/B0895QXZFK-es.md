@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0895QXZFK-es Bolsa de maquillaje con forma de concha de mar con...'
+sku: 'B0895QXZFK-es'
 tags: [  ]
 actualPrice: 10.39 EUR
 currency: EUR

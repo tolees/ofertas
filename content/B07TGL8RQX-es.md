@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TGL8RQX-es Muñeco Diabolico BD + DVD de Extras + Slip Cover 1988...'
+sku: 'B07TGL8RQX-es'
 tags: [  ]
 actualPrice: 8.0 EUR
 currency: EUR

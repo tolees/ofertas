@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RF1K5Q5-es MODAUTO Alerón Trasero para Coche Longitud 1.45cm Ancho...'
+sku: 'B07RF1K5Q5-es'
 tags: [  ]
 actualPrice: 16.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PPQ7G7L-es Clarins 57929 Joli Rouge Velvet N.762V'
+sku: 'B07PPQ7G7L-es'
 tags: [  ]
 actualPrice: 13.24 EUR
 currency: EUR

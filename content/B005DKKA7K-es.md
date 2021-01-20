@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005DKKA7K-es Constantin Durmont Calendar - Reloj analógico de caballero...'
+sku: 'B005DKKA7K-es'
 tags: [  ]
 actualPrice: 167.14 EUR
 currency: EUR

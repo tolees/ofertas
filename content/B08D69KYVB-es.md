@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08D69KYVB-es Disco Duro Externo 2 TB USB3.0 para PC Mac Xbox MacBook...'
+sku: 'B08D69KYVB-es'
 tags: [  ]
 actualPrice: 63.99 EUR
 currency: EUR

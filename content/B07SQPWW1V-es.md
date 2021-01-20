@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SQPWW1V-es lenbest Mesa Coche para Niños Mesa para Niños en la...'
+sku: 'B07SQPWW1V-es'
 tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR

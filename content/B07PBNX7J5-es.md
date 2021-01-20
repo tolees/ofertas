@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PBNX7J5-es Luz Nocturna Infantil con Control Remoto y Táctil 9...'
+sku: 'B07PBNX7J5-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

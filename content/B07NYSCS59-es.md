@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NYSCS59-es Kickers Lohan Zapatillas Altas Unisex Niños Rojo Noir...'
+sku: 'B07NYSCS59-es'
 tags: [  ]
 actualPrice: 17.45 EUR
 currency: EUR

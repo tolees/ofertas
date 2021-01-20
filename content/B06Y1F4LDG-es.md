@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y1F4LDG-es Wrangler Arizona Straight Jeans Negro Black 38W / 36L para...'
+sku: 'B06Y1F4LDG-es'
 tags: [  ]
 actualPrice: 38.99 EUR
 currency: EUR

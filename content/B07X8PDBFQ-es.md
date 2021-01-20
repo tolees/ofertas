@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X8PDBFQ-es PUMA Rtg 3` Shorts Pantalones Cortos Mujer Black L'
+sku: 'B07X8PDBFQ-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

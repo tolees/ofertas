@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZPRP7B-es Pop! Figura de Vinilo: Disney: Little Mermaid - 10" Ursula'
+sku: 'B07MZPRP7B-es'
 tags: [  ]
 actualPrice: 29.15 EUR
 currency: EUR

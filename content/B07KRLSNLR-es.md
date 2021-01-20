@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRLSNLR-es New Balance 574v2 Zapatillas para Mujer Morado Purple...'
+sku: 'B07KRLSNLR-es'
 tags: [  ]
 actualPrice: 22.59 EUR
 currency: EUR

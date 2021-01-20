@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GF263WP-es Levi s 501 Short Long Pantalones Cortos Azul Blue Clue...'
+sku: 'B07GF263WP-es'
 tags: [  ]
 actualPrice: 38.5 EUR
 currency: EUR

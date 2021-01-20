@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00QK372UC-es AUKEY Bluetooth Receptor portátil inalámbrico Bluetooth...'
+sku: 'B00QK372UC-es'
 tags: [  ]
 actualPrice: 15.31 EUR
 currency: EUR

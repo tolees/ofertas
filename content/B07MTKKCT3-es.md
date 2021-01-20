@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MTKKCT3-es Paw Patrol Impermeable para niños La Patrulla Canina Azul...'
+sku: 'B07MTKKCT3-es'
 tags: [  ]
 actualPrice: 12.95 EUR
 currency: EUR

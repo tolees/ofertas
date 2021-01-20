@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0881LTC4R-es Jeteven Dispensador de desinfección automático dispensador...'
+sku: 'B0881LTC4R-es'
 tags: [  ]
 actualPrice: 37.59 EUR
 currency: EUR

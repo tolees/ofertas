@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088ZWM2P5-es Rosa 24 K Chapado en Oro Rosa La flor Rosa Artificial es...'
+sku: 'B088ZWM2P5-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

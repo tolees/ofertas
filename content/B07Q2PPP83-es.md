@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q2PPP83-es Magic Wand Massager James love Masajeador Eléctrica...'
+sku: 'B07Q2PPP83-es'
 tags: [  ]
 actualPrice: 26.69 EUR
 currency: EUR

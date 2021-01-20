@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086BKGJHK-es Oihxse Funda Compatible con Huawei Y5 2018/honor 7s...'
+sku: 'B086BKGJHK-es'
 tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR

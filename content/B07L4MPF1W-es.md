@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L4MPF1W-es Adidas Terrex Ax3 GTX W Zapatillas de Deporte para Mujer...'
+sku: 'B07L4MPF1W-es'
 tags: [  ]
 actualPrice: 69.95 EUR
 currency: EUR

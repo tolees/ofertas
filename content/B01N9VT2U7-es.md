@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N9VT2U7-es adidas Gazelle C Zapatillas Unisex Niños Azul Collegiate...'
+sku: 'B01N9VT2U7-es'
 tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N3VYVTV-es SYOSS - Oleo Intense Coloración Permanente Sin Amoníaco -...'
+sku: 'B07N3VYVTV-es'
 tags: [  ]
 actualPrice: 8.3 EUR
 currency: EUR

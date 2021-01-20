@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08D3KZH4T-es yaoyan Trampa de Red de Pesca portátil Cuenta Luminosa...'
+sku: 'B08D3KZH4T-es'
 tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR

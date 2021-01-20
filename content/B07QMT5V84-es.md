@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QMT5V84-es New Balance 574v2 Core Zapatillas para Hombre Negro Black...'
+sku: 'B07QMT5V84-es'
 tags: [  ]
 actualPrice: 60.99 EUR
 currency: EUR

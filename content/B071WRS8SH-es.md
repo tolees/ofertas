@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071WRS8SH-es Lenny Sky EG.Liberty.PYV.MZ Conjunto Ropa Deportiva Gris...'
+sku: 'B071WRS8SH-es'
 tags: [  ]
 actualPrice: 6.4 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082D9FWQH-es YuanLey 8 Port Gigabit PoE Switch 8 PoE+ Port 1000Mbps...'
+sku: 'B082D9FWQH-es'
 tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR

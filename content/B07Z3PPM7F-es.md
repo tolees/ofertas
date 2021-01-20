@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z3PPM7F-es VARLION LW TI 8.8 ROJA 2020'
+sku: 'B07Z3PPM7F-es'
 tags: [  ]
 actualPrice: 69.95 EUR
 currency: EUR

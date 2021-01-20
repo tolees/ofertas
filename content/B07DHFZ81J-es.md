@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DHFZ81J-es Carttiya Cojin Lumbar Coche Almohada de Soporte Lumbar de...'
+sku: 'B07DHFZ81J-es'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

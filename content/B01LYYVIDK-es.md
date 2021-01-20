@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LYYVIDK-es Calvin Klein Reloj Analogico para Hombre de Cuarzo con...'
+sku: 'B01LYYVIDK-es'
 tags: [  ]
 actualPrice: 149.0 EUR
 currency: EUR

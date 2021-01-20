@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08KGL6J4P-es NOVELA Apto para NiñOs Estudiantes Linda ImpresióN 3 Capas...'
+sku: 'B08KGL6J4P-es'
 tags: [  ]
 actualPrice: 6.89 EUR
 currency: EUR

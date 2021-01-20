@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NVBSGMK-es Skechers Men s Expected 2.0 Oxfords Brown Brown Leather...'
+sku: 'B07NVBSGMK-es'
 tags: [  ]
 actualPrice: 55.97 EUR
 currency: EUR

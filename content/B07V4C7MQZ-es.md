@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V4C7MQZ-es HAMSWAN Espejo de Maquillaje [Regalos] Espejo de Mesa...'
+sku: 'B07V4C7MQZ-es'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

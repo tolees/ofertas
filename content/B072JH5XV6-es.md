@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072JH5XV6-es Under Armour UA Speedpocket Run Crop Leggings Capri Mujer...'
+sku: 'B072JH5XV6-es'
 tags: [  ]
 actualPrice: 34.29 EUR
 currency: EUR

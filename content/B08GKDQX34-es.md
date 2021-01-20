@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GKDQX34-es GZ Caja De Almacenamiento De Máscara A Prueba De Polvo...'
+sku: 'B08GKDQX34-es'
 tags: [  ]
 actualPrice: 3.58 EUR
 currency: EUR

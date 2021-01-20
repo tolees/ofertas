@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZWZY4Z8-es TACKLIFE Pistola de Calor 2000W Decapadora 2 Temperaturas...'
+sku: 'B07ZWZY4Z8-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JLSPLYL-es Memoria USB Universal de 128 GB Pen Drive Tipo C Micro USB...'
+sku: 'B07JLSPLYL-es'
 tags: [  ]
 actualPrice: 51.99 EUR
 currency: EUR

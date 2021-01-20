@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D75LH8J-es adidas Gazelle Zapatillas de Gimnasia para Hombre Rojo...'
+sku: 'B07D75LH8J-es'
 tags: [  ]
 actualPrice: 55.0 EUR
 currency: EUR

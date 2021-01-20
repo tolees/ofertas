@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0821FKF3F-es SMARTOMI - 2 cartucho de tóner negro de alto rendimiento...'
+sku: 'B0821FKF3F-es'
 tags: [  ]
 actualPrice: 13.71 EUR
 currency: EUR

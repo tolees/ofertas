@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SFW5B7W-es Kuhn Rikon Set de 2 ollas a presión con Asas 4 L + 8 L 24...'
+sku: 'B00SFW5B7W-es'
 tags: [  ]
 actualPrice: 219.55 EUR
 currency: EUR

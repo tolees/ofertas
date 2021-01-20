@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MRSVU74-es Braun MGK3060 Corta Barbas Hombre 8En1 Recortadora Barba y...'
+sku: 'B01MRSVU74-es'
 tags: [  ]
 actualPrice: 38.92 EUR
 currency: EUR

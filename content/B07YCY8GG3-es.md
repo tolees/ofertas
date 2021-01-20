@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YCY8GG3-es LIGE Relojes para Hombre Acero Inoxidable Impermeable...'
+sku: 'B07YCY8GG3-es'
 tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR

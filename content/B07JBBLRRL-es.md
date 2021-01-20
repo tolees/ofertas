@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JBBLRRL-es Skechers Side Street-Sunset Walks Zapatillas para Mujer...'
+sku: 'B07JBBLRRL-es'
 tags: [  ]
 actualPrice: 46.46 EUR
 currency: EUR

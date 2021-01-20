@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071XJMHM8-es Aquabot Bravo Limpiafondo Automático de Piscina Amarillo...'
+sku: 'B071XJMHM8-es'
 tags: [  ]
 actualPrice: 431.0 EUR
 currency: EUR

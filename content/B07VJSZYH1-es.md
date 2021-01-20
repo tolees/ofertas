@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VJSZYH1-es HUGO Reloj Analógico para Mujer de Cuarzo con Correa en...'
+sku: 'B07VJSZYH1-es'
 tags: [  ]
 actualPrice: 115.58 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0719KQPX5-es Funko - POP! Bobble Colección Star Wars - Figura Porg...'
+sku: 'B0719KQPX5-es'
 tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR

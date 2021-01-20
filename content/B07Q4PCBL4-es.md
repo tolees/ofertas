@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q4PCBL4-es Amzdeal Alcachofa de ducha Cabezal de Ducha de Agua Ahorro...'
+sku: 'B07Q4PCBL4-es'
 tags: [  ]
 actualPrice: 6.23 EUR
 currency: EUR

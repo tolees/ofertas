@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F2JYR75-es PUMA Axis Zapatillas Unisex Adulto Negro Black/Asphalt 42 EU'
+sku: 'B07F2JYR75-es'
 tags: [  ]
 actualPrice: 38.15 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075L8LMWP-es Memoria Flash USB 128MB 10 Piezas Pen Drives - Pequeña...'
+sku: 'B075L8LMWP-es'
 tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR

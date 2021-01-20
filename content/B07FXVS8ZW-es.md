@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FXVS8ZW-es Brother HL-L3270CDW - Impresora láser color Wifi USB 2.0...'
+sku: 'B07FXVS8ZW-es'
 tags: [  ]
 actualPrice: 169.0 EUR
 currency: EUR

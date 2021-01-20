@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JF4Y87L-es Abanderado Lote X4 Slip de Algodón Calzoncillos Azul...'
+sku: 'B07JF4Y87L-es'
 tags: [  ]
 actualPrice: 13.32 EUR
 currency: EUR

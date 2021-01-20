@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N27XY8F-es Lacoste Europa 417 Zapatillas para Hombre Negro Black...'
+sku: 'B01N27XY8F-es'
 tags: [  ]
 actualPrice: 51.95 EUR
 currency: EUR

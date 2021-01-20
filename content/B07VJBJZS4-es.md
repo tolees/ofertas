@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VJBJZS4-es edc by Esprit 099cc1b048 Pantalones Negro Black 001...'
+sku: 'B07VJBJZS4-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

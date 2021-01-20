@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KQ19TPQ-es MeaMae Care esterilizadora caja ultravioleta con cable USB...'
+sku: 'B07KQ19TPQ-es'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BXLPQDH-es Hugo Boss Reloj Analógico para Hombre de Cuarzo con Correa...'
+sku: 'B07BXLPQDH-es'
 tags: [  ]
 actualPrice: 162.57 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MZ44QLA-es Joseph Joseph Surface Organizador de Utensilios y...'
+sku: 'B01MZ44QLA-es'
 tags: [  ]
 actualPrice: 29.18 EUR
 currency: EUR

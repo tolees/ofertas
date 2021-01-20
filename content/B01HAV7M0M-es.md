@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HAV7M0M-es HUION GT-185 Tableta Gráfica con Pantalla TFT 2048 Niveles'
+sku: 'B01HAV7M0M-es'
 tags: [  ]
 actualPrice: 313.61 EUR
 currency: EUR

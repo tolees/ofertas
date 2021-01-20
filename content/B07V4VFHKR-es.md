@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V4VFHKR-es flintronic Medidor de Contornos 5"/127MM Herramienta de...'
+sku: 'B07V4VFHKR-es'
 tags: [  ]
 actualPrice: 7.49 EUR
 currency: EUR

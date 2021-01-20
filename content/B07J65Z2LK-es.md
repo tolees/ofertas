@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J65Z2LK-es FUNTOK Búho Espejo Kinders Chminken Face Paint Cara...'
+sku: 'B07J65Z2LK-es'
 tags: [  ]
 actualPrice: 11.66 EUR
 currency: EUR

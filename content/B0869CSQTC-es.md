@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0869CSQTC-es Longspeed Honeycomb - Puertos de Carga USB Individuales...'
+sku: 'B0869CSQTC-es'
 tags: [  ]
 actualPrice: 8.36 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ITM2CWO-es Runesol Dilatador Nasal - Antironquidos Nasal Dejar De...'
+sku: 'B01ITM2CWO-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

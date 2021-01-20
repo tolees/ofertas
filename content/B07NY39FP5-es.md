@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NY39FP5-es Skechers Men s Heston Classic Boots Black Black Leather...'
+sku: 'B07NY39FP5-es'
 tags: [  ]
 actualPrice: 32.16 EUR
 currency: EUR

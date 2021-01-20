@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CQ1YS6Z-es Lee Daren Zip Fly Jeans Azul Time out Dn 33W / 32L para...'
+sku: 'B07CQ1YS6Z-es'
 tags: [  ]
 actualPrice: 41.49 EUR
 currency: EUR

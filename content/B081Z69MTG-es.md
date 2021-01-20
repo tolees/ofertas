@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081Z69MTG-es HONZIN Alicate Multiuso 10-en-1 Alicates Plegables...'
+sku: 'B081Z69MTG-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

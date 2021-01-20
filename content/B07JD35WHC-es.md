@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JD35WHC-es HUAWEI 55030369 Viaje Cable de Carga Charger Super Charge...'
+sku: 'B07JD35WHC-es'
 tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR

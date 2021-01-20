@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JLZH26R-es Wrangler Arizona Jeans Azul Fuse Blue 40d 34W / 34L para...'
+sku: 'B07JLZH26R-es'
 tags: [  ]
 actualPrice: 42.48 EUR
 currency: EUR

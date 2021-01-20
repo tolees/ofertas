@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RLPX4YJ-es J.Rosée Pendientes Mujer Plata de Ley 925 Regalo de San...'
+sku: 'B07RLPX4YJ-es'
 tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR

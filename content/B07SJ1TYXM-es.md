@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SJ1TYXM-es Grid Day One Edition XONE'
+sku: 'B07SJ1TYXM-es'
 tags: [  ]
 actualPrice: 39.85 EUR
 currency: EUR

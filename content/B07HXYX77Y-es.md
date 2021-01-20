@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HXYX77Y-es ESPRIT Maternity Legging OTB Pantalones de deporte premamá...'
+sku: 'B07HXYX77Y-es'
 tags: [  ]
 actualPrice: 36.36 EUR
 currency: EUR

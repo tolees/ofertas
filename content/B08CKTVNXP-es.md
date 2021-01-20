@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CKTVNXP-es FORMIZON Juguete Lanzador de Cohetes Juguete de...'
+sku: 'B08CKTVNXP-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

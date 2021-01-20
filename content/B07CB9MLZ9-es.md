@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CB9MLZ9-es Hewlett Packard CHP850 PREMIUM Papel A4 80 gr 500 Lados...'
+sku: 'B07CB9MLZ9-es'
 tags: [  ]
 actualPrice: 5.67 EUR
 currency: EUR

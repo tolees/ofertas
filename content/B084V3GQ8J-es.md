@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084V3GQ8J-es BatPower A1527 Bateria de Laptop para Apple Early 2015...'
+sku: 'B084V3GQ8J-es'
 tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01F3HE5UA-es iEGrow Mini Ventiladores de Mano Ventilador Portátil USB...'
+sku: 'B01F3HE5UA-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

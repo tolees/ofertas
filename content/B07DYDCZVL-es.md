@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DYDCZVL-es Merrell Trail Glove 5 Zapatillas Deportivas para Interior...'
+sku: 'B07DYDCZVL-es'
 tags: [  ]
 actualPrice: 53.99 EUR
 currency: EUR

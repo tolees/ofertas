@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PQ87N6J-es Kipling - Creativity S Monederos Mujer Multicolor Navy...'
+sku: 'B07PQ87N6J-es'
 tags: [  ]
 actualPrice: 17.49 EUR
 currency: EUR

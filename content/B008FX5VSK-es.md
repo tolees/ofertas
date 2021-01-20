@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008FX5VSK-es Magefesa Black Sartén 18 cm de acero esmaltado...'
+sku: 'B008FX5VSK-es'
 tags: [  ]
 actualPrice: 7.37 EUR
 currency: EUR

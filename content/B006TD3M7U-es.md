@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006TD3M7U-es Garnier Niños Sensitive Advanced - Protector Solar para...'
+sku: 'B006TD3M7U-es'
 tags: [  ]
 actualPrice: 3.25 EUR
 currency: EUR

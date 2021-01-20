@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081WPYHXL-es Cuquiland Esencia Agenda ilustrada por Esther Gili Tamaño...'
+sku: 'B081WPYHXL-es'
 tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR

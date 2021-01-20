@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XD74RY4-es BAIGIO Bolsa para Herramientas de Gran Abertura con...'
+sku: 'B07XD74RY4-es'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TNS9R11-es Revamp Progloss Quad Ionic 3800 Secador de Pelo Iónico...'
+sku: 'B07TNS9R11-es'
 tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR

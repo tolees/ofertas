@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0868P9CGV-es ZOZOSEP Fundas para Apple iPad Mini 3 iPad Mini 2/1 Case...'
+sku: 'B0868P9CGV-es'
 tags: [  ]
 actualPrice: 2.26 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CU56KD8-es Fleur Paint 13247 - Pintura transforma superficies en...'
+sku: 'B01CU56KD8-es'
 tags: [  ]
 actualPrice: 21.64 EUR
 currency: EUR

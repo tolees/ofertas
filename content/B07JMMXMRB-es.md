@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JMMXMRB-es Hombre Botas de Nieve Al Aire Libre Senderismo...'
+sku: 'B07JMMXMRB-es'
 tags: [  ]
 actualPrice: 27.34 EUR
 currency: EUR

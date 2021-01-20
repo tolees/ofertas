@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081V9XVZF-es Disfraz Familiar Carnaval Trajes Super Mario Luigi para...'
+sku: 'B081V9XVZF-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

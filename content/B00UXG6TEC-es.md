@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UXG6TEC-es Clarks Trigenic Flex Zapatillas para Mujer Negro Black...'
+sku: 'B00UXG6TEC-es'
 tags: [  ]
 actualPrice: 35.4 EUR
 currency: EUR

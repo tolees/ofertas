@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VT9LTML-es Tommy Hilfiger Organic Cotton Silk V Neck Pantalones Azul...'
+sku: 'B07VT9LTML-es'
 tags: [  ]
 actualPrice: 23.13 EUR
 currency: EUR

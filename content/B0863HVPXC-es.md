@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0863HVPXC-es AGOTD Bombillas LED G9 4W Equivale 40W Halógena 6000K...'
+sku: 'B0863HVPXC-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

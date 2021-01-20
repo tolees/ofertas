@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NXV979H-es San Ignacio Premium Set de Bateria 5 Piezas + 4...'
+sku: 'B07NXV979H-es'
 tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR

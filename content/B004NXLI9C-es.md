@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004NXLI9C-es Donna Karan 31803 - Agua de colonia 50.0 ml'
+sku: 'B004NXLI9C-es'
 tags: [  ]
 actualPrice: 28.06 EUR
 currency: EUR

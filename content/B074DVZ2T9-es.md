@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074DVZ2T9-es Reposacabezas para coche apto para tablets de 7 pulgadas...'
+sku: 'B074DVZ2T9-es'
 tags: [  ]
 actualPrice: 16.3 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G897HRR-es New Balance Fuell Cell Propel Zapatillas de Running para...'
+sku: 'B07G897HRR-es'
 tags: [  ]
 actualPrice: 60 EUR
 currency: EUR

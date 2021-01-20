@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088V7FJVX-es Aussie 3 Minute Miracle Reconstructor Tratamiento...'
+sku: 'B088V7FJVX-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

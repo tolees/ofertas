@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00M3H9DBU-es deAO Cocinita de Juguete Playset Taburete & Maletín 2en1...'
+sku: 'B00M3H9DBU-es'
 tags: [  ]
 actualPrice: 7.89 EUR
 currency: EUR

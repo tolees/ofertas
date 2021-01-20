@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KJWMH9N-es QUIKSILVER Nelson Surfwash Hybrid Shorts Hombre Black 36'
+sku: 'B07KJWMH9N-es'
 tags: [  ]
 actualPrice: 19.07 EUR
 currency: EUR

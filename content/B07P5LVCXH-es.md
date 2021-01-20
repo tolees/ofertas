@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P5LVCXH-es Garnier Delial Bruma Protectora Refrescante UV Water Alta...'
+sku: 'B07P5LVCXH-es'
 tags: [  ]
 actualPrice: 9.44 EUR
 currency: EUR

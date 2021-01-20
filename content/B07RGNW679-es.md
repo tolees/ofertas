@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RGNW679-es New Balance Draft Zapatillas de Running para Hombre Gris...'
+sku: 'B07RGNW679-es'
 tags: [  ]
 actualPrice: 34.22 EUR
 currency: EUR

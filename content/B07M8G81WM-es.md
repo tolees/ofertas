@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8G81WM-es 2015 PVC Pasaporte Titular Cubierta Identidad ID Tarjeta...'
+sku: 'B07M8G81WM-es'
 tags: [  ]
 actualPrice: 2.46 EUR
 currency: EUR

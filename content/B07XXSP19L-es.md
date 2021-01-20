@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XXSP19L-es FitBeast Kit de Entrenamiento para Ejercitar el Agarre –...'
+sku: 'B07XXSP19L-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

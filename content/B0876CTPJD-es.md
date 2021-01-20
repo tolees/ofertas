@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0876CTPJD-es Aigostar Emery 33QRT - Ventilador de pie oscilante 80º 60W...'
+sku: 'B0876CTPJD-es'
 tags: [  ]
 actualPrice: 62.99 EUR
 currency: EUR

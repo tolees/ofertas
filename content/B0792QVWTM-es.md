@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0792QVWTM-es ENKEEO - 23x103.5cm Longboard Monopatín con Rodamiento de...'
+sku: 'B0792QVWTM-es'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074DR2JB3-es AUKEY Regleta con 3 Enchufes con el Cable Eléctrico de...'
+sku: 'B074DR2JB3-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

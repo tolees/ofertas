@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H87CVVX-es Amplificador WiFi Repetidor Extensor de Red WiFi Punto de...'
+sku: 'B07H87CVVX-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

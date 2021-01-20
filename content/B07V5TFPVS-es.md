@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V5TFPVS-es Juego de 5 pulseras de plata para mujer con símbolo de...'
+sku: 'B07V5TFPVS-es'
 tags: [  ]
 actualPrice: 15.81 EUR
 currency: EUR

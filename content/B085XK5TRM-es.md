@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085XK5TRM-es 123'
+sku: 'B085XK5TRM-es'
 tags: [  ]
 actualPrice: 31.5 EUR
 currency: EUR

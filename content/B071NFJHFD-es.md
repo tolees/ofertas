@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071NFJHFD-es "Corazo del Amor" Chapado en plata Pulseras Mujer Rosa...'
+sku: 'B071NFJHFD-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

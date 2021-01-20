@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RL21TXR-es Calvin Klein Unlined Triangle Sujetador de triángulo Gris...'
+sku: 'B07RL21TXR-es'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

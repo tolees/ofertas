@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L8HRTYM-es Monix Copper - Grill con rayas 28 x 28 cm de aluminio...'
+sku: 'B07L8HRTYM-es'
 tags: [  ]
 actualPrice: 25.4 EUR
 currency: EUR

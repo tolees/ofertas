@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NLEI9CS-es INCREÍBLE Serum Pestañas Crecimiento 8ml Suero De...'
+sku: 'B00NLEI9CS-es'
 tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR

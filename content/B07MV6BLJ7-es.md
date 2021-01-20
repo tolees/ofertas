@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MV6BLJ7-es TWBB Pantalón Casual de Camuflaje para Hombre'
+sku: 'B07MV6BLJ7-es'
 tags: [  ]
 actualPrice: 1.98 EUR
 currency: EUR

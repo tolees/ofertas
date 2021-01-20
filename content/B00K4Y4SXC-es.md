@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K4Y4SXC-es Tomodachi Life'
+sku: 'B00K4Y4SXC-es'
 tags: [  ]
 actualPrice: 29.8 EUR
 currency: EUR

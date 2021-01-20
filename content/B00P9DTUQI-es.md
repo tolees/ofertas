@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00P9DTUQI-es adidas Stan Smith J Zapatillas Unisex Niños Blanco Ftwr...'
+sku: 'B00P9DTUQI-es'
 tags: [  ]
 actualPrice: 40.01 EUR
 currency: EUR

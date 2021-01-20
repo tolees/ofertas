@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078GB8QXV-es Tommy Hilfiger Brazilian Braguita brasileña Azul Navy...'
+sku: 'B078GB8QXV-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

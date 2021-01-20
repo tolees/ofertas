@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BF9N8TT-es Garnier Delial UV Water Spray Protector Solar Transparente...'
+sku: 'B07BF9N8TT-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078NJRJQL-es Asics Gel-Mission 3 Zapatillas de Marcha Nórdica para...'
+sku: 'B078NJRJQL-es'
 tags: [  ]
 actualPrice: 45.0 EUR
 currency: EUR

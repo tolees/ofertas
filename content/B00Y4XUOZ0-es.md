@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00Y4XUOZ0-es Lacoste Ph4014 Polo para Hombre Negro Black 031 XX-Large...'
+sku: 'B00Y4XUOZ0-es'
 tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR

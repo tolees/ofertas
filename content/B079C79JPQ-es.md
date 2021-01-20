@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079C79JPQ-es Jack & Jones Jjepaulos Polo SS Noos Blanco White Detail:...'
+sku: 'B079C79JPQ-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SK76DVL-es Consola de juegos portátil JXD de 4.3 pulgadas y doble...'
+sku: 'B07SK76DVL-es'
 tags: [  ]
 actualPrice: 49.9 EUR
 currency: EUR

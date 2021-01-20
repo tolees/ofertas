@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F3L8BN4-es Garmin Fenix 5S Plus Sapphire Rose Gold Unisex 1'
+sku: 'B07F3L8BN4-es'
 tags: [  ]
 actualPrice: 489.0 EUR
 currency: EUR

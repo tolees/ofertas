@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NNTMYZ7-es Under Armour Men s Charged Bandit 5 Laufschuhe Zapatillas...'
+sku: 'B07NNTMYZ7-es'
 tags: [  ]
 actualPrice: 59.97 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083BFKS4M-es Grsta Botella de Agua Botella Agua Acero Inoxidable sin...'
+sku: 'B083BFKS4M-es'
 tags: [  ]
 actualPrice: 14.96 EUR
 currency: EUR

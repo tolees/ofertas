@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SOX5JUQ-es Guess W0289L2 - Reloj de Pulsera para Mujer Color...'
+sku: 'B00SOX5JUQ-es'
 tags: [  ]
 actualPrice: 135.95 EUR
 currency: EUR

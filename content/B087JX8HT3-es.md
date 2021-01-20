@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087JX8HT3-es Blindecor Ara Estor Enrollable translúcido Liso Poliéster...'
+sku: 'B087JX8HT3-es'
 tags: [  ]
 actualPrice: 32.85 EUR
 currency: EUR

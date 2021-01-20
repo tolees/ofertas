@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004WG3ZJG-es Bionaire BT19-I Ventilador de torre 40 W Gris'
+sku: 'B004WG3ZJG-es'
 tags: [  ]
 actualPrice: 43.58 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MCDJ4UK-es Epson Workforce WF-2630WF - Impresora multifunción de...'
+sku: 'B00MCDJ4UK-es'
 tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR

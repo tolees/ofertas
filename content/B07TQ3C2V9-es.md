@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TQ3C2V9-es Simpeak Ventilador Mini USB Silencioso de 3 Velocidades...'
+sku: 'B07TQ3C2V9-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

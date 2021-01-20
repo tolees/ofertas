@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VL91K1S-es Gimbal Estabilizador para Cámaras de Acción - 3-Axis...'
+sku: 'B07VL91K1S-es'
 tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR

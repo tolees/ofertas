@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HGDBC1S-es New Balance Numeric Nm255 Black 9'
+sku: 'B07HGDBC1S-es'
 tags: [  ]
 actualPrice: 36.5 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074QMN4YW-es Microsoft - Adaptador Wireless PC'
+sku: 'B074QMN4YW-es'
 tags: [  ]
 actualPrice: 16.52 EUR
 currency: EUR

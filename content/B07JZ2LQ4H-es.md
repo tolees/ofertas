@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JZ2LQ4H-es Bable Calienta Biberones 丨 Esterilizador Biberon 丨...'
+sku: 'B07JZ2LQ4H-es'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

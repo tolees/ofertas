@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007WRHT80-es Gre KIT730W Pacific - Piscina Elevada Ovalada Aspecto...'
+sku: 'B007WRHT80-es'
 tags: [  ]
 actualPrice: 465.0 EUR
 currency: EUR

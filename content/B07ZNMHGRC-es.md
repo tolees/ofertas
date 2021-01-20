@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZNMHGRC-es Pajitas de silicona reutilizables – pajitas grandes para...'
+sku: 'B07ZNMHGRC-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

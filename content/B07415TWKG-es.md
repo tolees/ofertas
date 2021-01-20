@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07415TWKG-es BERING Reloj Analogico para Mujer de Cuarzo con Correa en...'
+sku: 'B07415TWKG-es'
 tags: [  ]
 actualPrice: 89.73 EUR
 currency: EUR

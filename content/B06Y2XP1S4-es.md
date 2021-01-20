@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y2XP1S4-es New Balance 574 Core Zapatillas Hombre Negro Black EGK 37...'
+sku: 'B06Y2XP1S4-es'
 tags: [  ]
 actualPrice: 43.62 EUR
 currency: EUR

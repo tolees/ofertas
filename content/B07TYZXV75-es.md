@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TYZXV75-es Max Factor Perfect Gel Shine; Laca de Uñas Tono 619 - 12 ml'
+sku: 'B07TYZXV75-es'
 tags: [  ]
 actualPrice: 5.2 EUR
 currency: EUR

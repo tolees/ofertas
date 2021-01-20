@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XBQQ8RR-es BY BENYAR Reloj Casual de Cuarzo para Hombre con Correa de...'
+sku: 'B07XBQQ8RR-es'
 tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W2X1GBL-es Bovon Transmisor FM Bluetooth Coche Luz Ambiental de 7...'
+sku: 'B07W2X1GBL-es'
 tags: [  ]
 actualPrice: 12.74 EUR
 currency: EUR

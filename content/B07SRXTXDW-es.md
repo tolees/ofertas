@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SRXTXDW-es Mr. Tronic 20m Cable de Red Plano Ethernet Latiguillo |...'
+sku: 'B07SRXTXDW-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

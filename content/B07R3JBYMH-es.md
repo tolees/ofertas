@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R3JBYMH-es Ultimate Ears Megaboom Altavoz Portátil Inalámbrico...'
+sku: 'B07R3JBYMH-es'
 tags: [  ]
 actualPrice: 122.99 EUR
 currency: EUR

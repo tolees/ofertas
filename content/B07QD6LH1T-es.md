@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QD6LH1T-es PUMA Hit Feel It 7/8 Tight Mallas Deporte Mujer Black-...'
+sku: 'B07QD6LH1T-es'
 tags: [  ]
 actualPrice: 24.61 EUR
 currency: EUR

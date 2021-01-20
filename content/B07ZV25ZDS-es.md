@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZV25ZDS-es Helly Hansen HH Scout Wash Bag Neceser Unisex Adulto Navy STD'
+sku: 'B07ZV25ZDS-es'
 tags: [  ]
 actualPrice: 10.49 EUR
 currency: EUR

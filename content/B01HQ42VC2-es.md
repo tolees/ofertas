@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HQ42VC2-es Bolero Bebida Instantánea sin Azúcar Sabor Guanabana -...'
+sku: 'B01HQ42VC2-es'
 tags: [  ]
 actualPrice: 6.23 EUR
 currency: EUR

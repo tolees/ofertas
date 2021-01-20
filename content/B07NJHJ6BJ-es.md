@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJHJ6BJ-es Tamaris 1-1-26096-23 Botas Altas para Mujer Rosa Old Rose...'
+sku: 'B07NJHJ6BJ-es'
 tags: [  ]
 actualPrice: 18.84 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y4B8QM4-es ZIGLINT Z9 2 en 1 aspiradora a batería 19000Pa de Alta...'
+sku: 'B07Y4B8QM4-es'
 tags: [  ]
 actualPrice: 169.99 EUR
 currency: EUR

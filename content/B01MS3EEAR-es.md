@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MS3EEAR-es Tommy Hilfiger Denton C Cinturón con Hebilla Redondeada...'
+sku: 'B01MS3EEAR-es'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

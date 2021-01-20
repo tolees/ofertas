@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RHPP55R-es Salomon Sense Feel Zapatillas de Trail Running para Hombre...'
+sku: 'B07RHPP55R-es'
 tags: [  ]
 actualPrice: 32.87 EUR
 currency: EUR

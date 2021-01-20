@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QHK8N35-es PUMA One Strap Ball Balón de Fútbol Adultos Unisex Black-...'
+sku: 'B07QHK8N35-es'
 tags: [  ]
 actualPrice: 9.49 EUR
 currency: EUR

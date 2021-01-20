@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KTJDZVN-es Scuderia Ferrari Reloj de Pulsera 830597'
+sku: 'B07KTJDZVN-es'
 tags: [  ]
 actualPrice: 127.51 EUR
 currency: EUR

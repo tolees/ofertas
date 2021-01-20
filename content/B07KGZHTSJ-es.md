@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KGZHTSJ-es Under Armour Blitzing II - Gorra Hombre Gris...'
+sku: 'B07KGZHTSJ-es'
 tags: [  ]
 actualPrice: 10.49 EUR
 currency: EUR

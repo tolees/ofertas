@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0825MXLRY-es Quiksilver Dredge 17"-Short De Natación para Hombre Traje...'
+sku: 'B0825MXLRY-es'
 tags: [  ]
 actualPrice: 24.94 EUR
 currency: EUR

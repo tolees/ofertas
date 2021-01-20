@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DKVJTFF-es Sebago Schooner Náuticos para Hombre Azul Blue Navy/Gum...'
+sku: 'B07DKVJTFF-es'
 tags: [  ]
 actualPrice: 82.18 EUR
 currency: EUR

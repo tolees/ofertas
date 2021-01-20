@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M6ZYS87-es Fossil Reloj Cronógrafo para Hombre de Cuarzo con Correa...'
+sku: 'B07M6ZYS87-es'
 tags: [  ]
 actualPrice: 94.0 EUR
 currency: EUR

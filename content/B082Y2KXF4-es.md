@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082Y2KXF4-es Cocoda Dispensador Jabón Automático 500ml/17oz Dispensador...'
+sku: 'B082Y2KXF4-es'
 tags: [  ]
 actualPrice: 19.89 EUR
 currency: EUR

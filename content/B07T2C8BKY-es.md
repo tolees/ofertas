@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T2C8BKY-es Armani ExchangeCrossbodyHombreBolso bandoleraNegro...'
+sku: 'B07T2C8BKY-es'
 tags: [  ]
 actualPrice: 36.94 EUR
 currency: EUR

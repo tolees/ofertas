@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JCVVJ3G-es KAKOO 4pcs brazaletes Reflectantes Visibilidad Alta...'
+sku: 'B07JCVVJ3G-es'
 tags: [  ]
 actualPrice: 8.49 EUR
 currency: EUR

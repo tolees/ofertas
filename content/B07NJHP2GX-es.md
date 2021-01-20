@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJHP2GX-es Tamaris 1-1-25242-23 Botas Militar para Mujer Gris...'
+sku: 'B07NJHP2GX-es'
 tags: [  ]
 actualPrice: 23.39 EUR
 currency: EUR

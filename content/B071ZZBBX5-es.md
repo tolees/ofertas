@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071ZZBBX5-es Carterón Pepe Jeans Jake'
+sku: 'B071ZZBBX5-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

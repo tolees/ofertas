@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJHJBW3-es 10 Uniwork Cartuchos de tinta Compatibles para Brother...'
+sku: 'B07TJHJBW3-es'
 tags: [  ]
 actualPrice: 10.76 EUR
 currency: EUR

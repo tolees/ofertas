@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B62L4PB-es Pulsera de joyería Inteligente Multifuncional 18K Gold...'
+sku: 'B08B62L4PB-es'
 tags: [  ]
 actualPrice: 8.32 EUR
 currency: EUR

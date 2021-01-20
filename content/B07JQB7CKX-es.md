@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JQB7CKX-es ATZEBE Cable HDMI Fibra Óptica - 50m Cable HDMI 4k...'
+sku: 'B07JQB7CKX-es'
 tags: [  ]
 actualPrice: 81.99 EUR
 currency: EUR

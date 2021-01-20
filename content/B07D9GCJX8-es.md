@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D9GCJX8-es Protector WC Desechable Impermeable HTBAKOI Protector...'
+sku: 'B07D9GCJX8-es'
 tags: [  ]
 actualPrice: 9.98 EUR
 currency: EUR

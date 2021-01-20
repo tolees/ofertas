@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TNVPM7M-es Clarks Jillian Rise Sandalia con Pulsera para Mujer Azul...'
+sku: 'B07TNVPM7M-es'
 tags: [  ]
 actualPrice: 33.27 EUR
 currency: EUR

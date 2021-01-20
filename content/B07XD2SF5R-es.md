@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XD2SF5R-es COOAU Palo Flotante para Selfie Palo Flotante de Agarre...'
+sku: 'B07XD2SF5R-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

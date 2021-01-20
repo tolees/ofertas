@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QF9QCWV-es Puma Reactive Chaqueta De Entrenamiento Hombre Azul...'
+sku: 'B07QF9QCWV-es'
 tags: [  ]
 actualPrice: 44.49 EUR
 currency: EUR

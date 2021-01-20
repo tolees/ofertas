@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DND7QCN-es Adidas Grand Court Zapatillas de Deporte para Mujer...'
+sku: 'B07DND7QCN-es'
 tags: [  ]
 actualPrice: 49.95 EUR
 currency: EUR

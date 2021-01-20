@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WKWFTR1-es lenbest Alfombra de Agua Doodle Agua Dibujo Pintura...'
+sku: 'B07WKWFTR1-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OYJLH1Y-es Deportes Hera Ropa Ciclismo Perneras Térmicas Calentadores...'
+sku: 'B00OYJLH1Y-es'
 tags: [  ]
 actualPrice: 7.79 EUR
 currency: EUR

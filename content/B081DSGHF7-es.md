@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081DSGHF7-es Muñequera Túnel Carpiano Estabilizador de Muñeca Ajustable...'
+sku: 'B081DSGHF7-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

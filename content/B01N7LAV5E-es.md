@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N7LAV5E-es Reebok Club C 85 Zapatillas para Hombre Blanco Intense...'
+sku: 'B01N7LAV5E-es'
 tags: [  ]
 actualPrice: 55.95 EUR
 currency: EUR

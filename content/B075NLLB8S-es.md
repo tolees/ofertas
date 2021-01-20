@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075NLLB8S-es Beurer HC55 - Secador de pelo con sistema recogecable 2200...'
+sku: 'B075NLLB8S-es'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

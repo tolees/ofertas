@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MDH5RSX-es Altavoz Bluetooth Ducha COMISO IPX7 Impermeable Altavoz...'
+sku: 'B07MDH5RSX-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

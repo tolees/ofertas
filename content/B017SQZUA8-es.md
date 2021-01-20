@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017SQZUA8-es Salomon Speedcross 4 W Zapatillas de Trail Running para...'
+sku: 'B017SQZUA8-es'
 tags: [  ]
 actualPrice: 65.95 EUR
 currency: EUR

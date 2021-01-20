@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YXSFWHY-es LolaPix Cartera Personalizada con tu Foto/Diseño/Texto....'
+sku: 'B07YXSFWHY-es'
 tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR

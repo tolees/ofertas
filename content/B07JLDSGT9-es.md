@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JLDSGT9-es Glaray Camo Wrap Tape Cinta de Camuflaje Militar del...'
+sku: 'B07JLDSGT9-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

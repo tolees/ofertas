@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00H8NMYH4-es ELITE BAGS DIA´S Bolsillo de los diabéticos negro'
+sku: 'B00H8NMYH4-es'
 tags: [  ]
 actualPrice: 11.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085MYBJPX-es CT Aspersor Trampolín Set Cama elástica de Jardín Water...'
+sku: 'B085MYBJPX-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

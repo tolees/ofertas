@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00QK8IASU-es Aqua Dragons- Viaje EGGspedition al Periodo Jurásico...'
+sku: 'B00QK8IASU-es'
 tags: [  ]
 actualPrice: 21.21 EUR
 currency: EUR

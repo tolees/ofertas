@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P1WXXJQ-es Ombar Teclado Mecánico Gaming 105 Teclas y Switches Blue...'
+sku: 'B07P1WXXJQ-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

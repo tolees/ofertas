@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CG7TW5W-es amison 8 pieza automático de riego dispensador de agua...'
+sku: 'B07CG7TW5W-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

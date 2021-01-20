@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NLQJLRC-es Edge Entertainment - Kick-Ass El juego de Tablero -...'
+sku: 'B07NLQJLRC-es'
 tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR

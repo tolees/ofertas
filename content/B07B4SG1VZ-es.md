@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B4SG1VZ-es Fossil Reloj Analógico para Mujer de Cuarzo con Correa en...'
+sku: 'B07B4SG1VZ-es'
 tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR

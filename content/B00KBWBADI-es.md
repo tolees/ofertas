@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KBWBADI-es Oral-B SmartSeries 6000 Cepillo de Dientes Eléctrico con...'
+sku: 'B00KBWBADI-es'
 tags: [  ]
 actualPrice: 82.73 EUR
 currency: EUR

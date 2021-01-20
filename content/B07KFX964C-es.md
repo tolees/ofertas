@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFX964C-es PUMA TARRENZ SB PURETEX Zapatillas Unisex Adulto Black...'
+sku: 'B07KFX964C-es'
 tags: [  ]
 actualPrice: 61.15 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CR8NBQB-es Garmin Smartwatch Vivoactive 3 Music GPS Mano Ciclismo...'
+sku: 'B07CR8NBQB-es'
 tags: [  ]
 actualPrice: 209.0 EUR
 currency: EUR

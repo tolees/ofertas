@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HKB84NJ-es Feilaxleer Ropa Ciclismo Otoño/Invierno/Primavera para...'
+sku: 'B07HKB84NJ-es'
 tags: [  ]
 actualPrice: 34.49 EUR
 currency: EUR

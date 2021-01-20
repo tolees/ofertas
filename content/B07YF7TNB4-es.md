@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YF7TNB4-es New Balance FUELL Cell Echo NYC Marathon Negro Azul'
+sku: 'B07YF7TNB4-es'
 tags: [  ]
 actualPrice: 85.62 EUR
 currency: EUR

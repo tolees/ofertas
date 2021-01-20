@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TSKWMVP-es Kipling Creativity S Cartera para Mujer Negro Carbon...'
+sku: 'B07TSKWMVP-es'
 tags: [  ]
 actualPrice: 10.11 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01765JIBI-es JACK & JONES Jjspider Canvas Sneaker Anthracite Men s...'
+sku: 'B01765JIBI-es'
 tags: [  ]
 actualPrice: 12.86 EUR
 currency: EUR

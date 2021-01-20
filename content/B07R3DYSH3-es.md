@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R3DYSH3-es Helly Hansen Lifaloft Ligera Chaqueta Aislante Mujer...'
+sku: 'B07R3DYSH3-es'
 tags: [  ]
 actualPrice: 66.16 EUR
 currency: EUR

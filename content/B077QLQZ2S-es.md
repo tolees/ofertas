@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077QLQZ2S-es Reebok Princess Zapatillas para Mujer Negro Black 001 37.5 EU'
+sku: 'B077QLQZ2S-es'
 tags: [  ]
 actualPrice: 32.21 EUR
 currency: EUR

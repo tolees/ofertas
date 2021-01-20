@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y1NKDQN-es Puma Sport Junior 3P Calcetines Unisex para Niños pink...'
+sku: 'B06Y1NKDQN-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

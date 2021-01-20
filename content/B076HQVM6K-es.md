@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076HQVM6K-es adidas Con18 PES Jkt Sport Jacket Hombre Azul Azul/Blanco 2XL'
+sku: 'B076HQVM6K-es'
 tags: [  ]
 actualPrice: 29.97 EUR
 currency: EUR

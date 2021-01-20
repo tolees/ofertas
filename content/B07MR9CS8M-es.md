@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MR9CS8M-es Lee Austin Jeans Negro Moto Black HL 31W / 30L para Hombre'
+sku: 'B07MR9CS8M-es'
 tags: [  ]
 actualPrice: 70.31 EUR
 currency: EUR

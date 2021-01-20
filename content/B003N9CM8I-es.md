@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003N9CM8I-es Curver Touch 240269 - Cubo de basura mecanismo de apertura...'
+sku: 'B003N9CM8I-es'
 tags: [  ]
 actualPrice: 33.85 EUR
 currency: EUR

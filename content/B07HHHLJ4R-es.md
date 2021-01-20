@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HHHLJ4R-es SYOSS Coloración permanente - 6 unidades Sin Amoníaco Tono...'
+sku: 'B07HHHLJ4R-es'
 tags: [  ]
 actualPrice: 14.15 EUR
 currency: EUR

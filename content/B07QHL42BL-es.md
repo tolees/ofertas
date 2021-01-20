@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QHL42BL-es Pablosky 590622 Botas Slouch para Niños Azul Azul Azul 20 EU'
+sku: 'B07QHL42BL-es'
 tags: [  ]
 actualPrice: 9.42 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000O6AJNI-es Cressi Water Shoes Escarpines Unisex Adulto Claro...'
+sku: 'B000O6AJNI-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

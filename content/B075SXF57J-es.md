@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075SXF57J-es Rhodesy Funda Impermeable de Coche para Perros con Solapas...'
+sku: 'B075SXF57J-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

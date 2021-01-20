@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OHFXYFW-es Kappa Casarano - Pantalones de Deporte para Hombre Color...'
+sku: 'B00OHFXYFW-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

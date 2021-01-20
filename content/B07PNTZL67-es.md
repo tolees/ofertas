@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PNTZL67-es TZLong Sofá Hinchable con reposapiés otomano y Bomba...'
+sku: 'B07PNTZL67-es'
 tags: [  ]
 actualPrice: 43.99 EUR
 currency: EUR

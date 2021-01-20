@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q82YB6R-es Universal Solar LLEVÓ el Coche Portavasos Estera...'
+sku: 'B07Q82YB6R-es'
 tags: [  ]
 actualPrice: 3.38 EUR
 currency: EUR

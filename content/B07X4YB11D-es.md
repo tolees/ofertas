@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X4YB11D-es Smatree Funda protectora para tableta de 11 5 pulgadas...'
+sku: 'B07X4YB11D-es'
 tags: [  ]
 actualPrice: 13.04 EUR
 currency: EUR

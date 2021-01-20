@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XGLCJ28-es Skechers DARLOW REMEGO Zapatillas para Hombre Tela Vaquera...'
+sku: 'B07XGLCJ28-es'
 tags: [  ]
 actualPrice: 16.1 EUR
 currency: EUR

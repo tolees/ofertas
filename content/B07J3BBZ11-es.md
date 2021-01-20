@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J3BBZ11-es Fariña [Blu-ray]'
+sku: 'B07J3BBZ11-es'
 tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR

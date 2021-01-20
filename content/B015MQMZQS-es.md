@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015MQMZQS-es Moulinex Accesorios XF383110 - Accesorio cortador de 3...'
+sku: 'B015MQMZQS-es'
 tags: [  ]
 actualPrice: 65.89 EUR
 currency: EUR

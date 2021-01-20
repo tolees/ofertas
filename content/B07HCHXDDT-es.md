@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HCHXDDT-es Citizen Reloj Analógico para Mujer de Cuarzo con Correa en...'
+sku: 'B07HCHXDDT-es'
 tags: [  ]
 actualPrice: 238.4 EUR
 currency: EUR

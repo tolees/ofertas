@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PBB81FC-es AmazonBasics Cargador para pared USB de tipo C 3.0 65 W 1...'
+sku: 'B07PBB81FC-es'
 tags: [  ]
 actualPrice: 20.94 EUR
 currency: EUR

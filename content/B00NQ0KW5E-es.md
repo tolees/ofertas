@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NQ0KW5E-es Citizen Reloj Analógico para Hombre de Cuarzo con Correa...'
+sku: 'B00NQ0KW5E-es'
 tags: [  ]
 actualPrice: 208.6 EUR
 currency: EUR

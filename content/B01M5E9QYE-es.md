@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M5E9QYE-es Singer HZB-12/A - Máquina de hielos plástico Color Rojo'
+sku: 'B01M5E9QYE-es'
 tags: [  ]
 actualPrice: 159.0 EUR
 currency: EUR

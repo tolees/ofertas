@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QD3KDC3-es WisFox Ratón inalámbrico 2.4G Óptico Ratón Ratón de...'
+sku: 'B07QD3KDC3-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

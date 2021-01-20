@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HS7B6NY-es Sharp DR-I470 WH - Radio Internet Digital Estéreo con...'
+sku: 'B07HS7B6NY-es'
 tags: [  ]
 actualPrice: 109.92 EUR
 currency: EUR

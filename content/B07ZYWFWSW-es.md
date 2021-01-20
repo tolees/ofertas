@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZYWFWSW-es LOBKIN Bolsas Reutilizables de Almacenamiento de Alimentos...'
+sku: 'B07ZYWFWSW-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081RKCVJ4-es POVO Soporte de Portátil Ajustable Soporte Plegable...'
+sku: 'B081RKCVJ4-es'
 tags: [  ]
 actualPrice: 39.98 EUR
 currency: EUR

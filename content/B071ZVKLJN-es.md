@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071ZVKLJN-es adidas Campus Zapatillas de Deporte para Hombre Azul...'
+sku: 'B071ZVKLJN-es'
 tags: [  ]
 actualPrice: 45.0 EUR
 currency: EUR

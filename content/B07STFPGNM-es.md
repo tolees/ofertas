@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STFPGNM-es adidas EQT Gazelle Zapatillas de Gimnasia para Hombre Azul...'
+sku: 'B07STFPGNM-es'
 tags: [  ]
 actualPrice: 29.38 EUR
 currency: EUR

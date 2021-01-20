@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000P20JWW-es Rimmel London Soft Khol Kajal Eyeliner Pencil Liners Tono...'
+sku: 'B000P20JWW-es'
 tags: [  ]
 actualPrice: 2.06 EUR
 currency: EUR

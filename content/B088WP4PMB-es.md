@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088WP4PMB-es Benkeg Generador de ozono purificador de Aire eléctrico...'
+sku: 'B088WP4PMB-es'
 tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR

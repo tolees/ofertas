@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082M3YSZT-es NWOUIIAY Cargador de coche de carga 6 A/12 V Multi...'
+sku: 'B082M3YSZT-es'
 tags: [  ]
 actualPrice: 23.8 EUR
 currency: EUR

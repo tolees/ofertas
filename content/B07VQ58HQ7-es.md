@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VQ58HQ7-es Funda Samsung Galaxy A60 Funda Samsung A60 Libro Carcasa...'
+sku: 'B07VQ58HQ7-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

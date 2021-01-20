@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075Z4DJN2-es find. Botas Chelsea Mujer Marrón Tan 38 EU'
+sku: 'B075Z4DJN2-es'
 tags: [  ]
 actualPrice: 16.56 EUR
 currency: EUR

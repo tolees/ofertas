@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KV6E5HG-es MiroPure Cepillo Limpiador Eléctrico Facial y corporal...'
+sku: 'B01KV6E5HG-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

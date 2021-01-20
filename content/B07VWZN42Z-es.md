@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VWZN42Z-es Könighaus - Calefactor por infrarrojos 800 y 1000 W 12-34...'
+sku: 'B07VWZN42Z-es'
 tags: [  ]
 actualPrice: 179.9 EUR
 currency: EUR

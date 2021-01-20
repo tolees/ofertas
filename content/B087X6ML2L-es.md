@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087X6ML2L-es Suhctup Funda Transparent Compatible para Samsung Galaxy...'
+sku: 'B087X6ML2L-es'
 tags: [  ]
 actualPrice: 8.98 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078BPBCXB-es Emporio Armani Reloj Analógico para Hombre de Cuarzo con...'
+sku: 'B078BPBCXB-es'
 tags: [  ]
 actualPrice: 138.78 EUR
 currency: EUR

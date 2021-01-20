@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVBT7KG-es Napapijri Eisberg SS Polo Azul BLU Marine 176 Medium para...'
+sku: 'B07MVBT7KG-es'
 tags: [  ]
 actualPrice: 29.5 EUR
 currency: EUR

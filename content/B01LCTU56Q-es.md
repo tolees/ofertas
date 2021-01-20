@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LCTU56Q-es Aussie 3 Minute Miracle Reconstructor Tratamiento...'
+sku: 'B01LCTU56Q-es'
 tags: [  ]
 actualPrice: 2.63 EUR
 currency: EUR

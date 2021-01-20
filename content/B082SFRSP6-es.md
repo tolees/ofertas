@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082SFRSP6-es Auriculares inalámbricos Bluetooth Micrófono con...'
+sku: 'B082SFRSP6-es'
 tags: [  ]
 actualPrice: 10.88 EUR
 currency: EUR

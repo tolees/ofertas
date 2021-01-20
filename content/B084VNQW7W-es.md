@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084VNQW7W-es Coñac Naranja Marrón Báltico Ámbar Bola de Oro Vermeil...'
+sku: 'B084VNQW7W-es'
 tags: [  ]
 actualPrice: 42.0 EUR
 currency: EUR

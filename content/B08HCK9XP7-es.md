@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HCK9XP7-es ZoneYan Niños Bricolaje Conjunto de Cuentas Niños DIY Set...'
+sku: 'B08HCK9XP7-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

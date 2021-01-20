@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072JSZ9YK-es Optimum Nutrition ON Amino Energy pre workout powder keto...'
+sku: 'B072JSZ9YK-es'
 tags: [  ]
 actualPrice: 16.03 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077XMQ97Z-es Under Armour Rival Fleece Jogger Pantalones Hombre Negro...'
+sku: 'B077XMQ97Z-es'
 tags: [  ]
 actualPrice: 30.4 EUR
 currency: EUR

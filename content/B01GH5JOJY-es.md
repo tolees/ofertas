@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GH5JOJY-es Under Armour Tech Polo Hombre Azul Midnight Navy/Graphite...'
+sku: 'B01GH5JOJY-es'
 tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR

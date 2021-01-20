@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XKCX2FP-es Etekcity Masajeador de Espalda Masajeador Almohada de...'
+sku: 'B06XKCX2FP-es'
 tags: [  ]
 actualPrice: 42.99 EUR
 currency: EUR

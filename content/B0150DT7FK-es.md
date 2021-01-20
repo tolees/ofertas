@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0150DT7FK-es Libratone Zipp - Altavoz inalámbrico con Bluetooth...'
+sku: 'B0150DT7FK-es'
 tags: [  ]
 actualPrice: 165.03 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NONWUL2-es Tommy Hilfiger New Denton Belt 4.0 Cinturón Marrón TESTA...'
+sku: 'B00NONWUL2-es'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

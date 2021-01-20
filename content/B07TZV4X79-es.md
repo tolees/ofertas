@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZV4X79-es TOUS - Pendientes BRIGHT cristal de roca hidrotermal'
+sku: 'B07TZV4X79-es'
 tags: [  ]
 actualPrice: 69.0 EUR
 currency: EUR

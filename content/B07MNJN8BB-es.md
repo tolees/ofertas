@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MNJN8BB-es Crucial Ballistix Sport LT BLS8G4D30AESBK 3000 MHz DDR4...'
+sku: 'B07MNJN8BB-es'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

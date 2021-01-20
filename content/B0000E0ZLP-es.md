@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0000E0ZLP-es Zwilling TWIN POLLUX - Juego 3 piezas puntilla carne y...'
+sku: 'B0000E0ZLP-es'
 tags: [  ]
 actualPrice: 71.95 EUR
 currency: EUR

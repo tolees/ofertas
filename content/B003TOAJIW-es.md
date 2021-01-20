@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003TOAJIW-es BRA Efficient - Cacerola alta con tapa de cristal y asas...'
+sku: 'B003TOAJIW-es'
 tags: [  ]
 actualPrice: 38.4 EUR
 currency: EUR

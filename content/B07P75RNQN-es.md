@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P75RNQN-es deAO Unidad de Defensa Base Militar Vehículos de Fuerzas...'
+sku: 'B07P75RNQN-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

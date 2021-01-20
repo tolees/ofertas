@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GFDQ8K2-es i12-TWS Auriculares Bluetooth 5.0 Auriculares inalámbricos...'
+sku: 'B08GFDQ8K2-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

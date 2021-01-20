@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077C6NN3Z-es Emporio Armani Reloj Analogico para Hombre de Cuarzo con...'
+sku: 'B077C6NN3Z-es'
 tags: [  ]
 actualPrice: 230.0 EUR
 currency: EUR

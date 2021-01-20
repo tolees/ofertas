@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRM5XKZ-es New Balance 247v2 Zapatillas para Hombre Blanco Team Royal...'
+sku: 'B07KRM5XKZ-es'
 tags: [  ]
 actualPrice: 66.05 EUR
 currency: EUR

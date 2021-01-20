@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MC7FZC4-es Puma St Runner V2 Mesh Zapatillas para Hombre Black White...'
+sku: 'B07MC7FZC4-es'
 tags: [  ]
 actualPrice: 38.5 EUR
 currency: EUR

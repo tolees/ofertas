@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VJB88HW-es Max Power Digital Funda para Xiaomi Mi 9 6.39" con Soporte...'
+sku: 'B07VJB88HW-es'
 tags: [  ]
 actualPrice: 7.25 EUR
 currency: EUR

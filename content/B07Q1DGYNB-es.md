@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q1DGYNB-es Amazon Essentials Full-Zip High-Pile Polar Fleece Jacket...'
+sku: 'B07Q1DGYNB-es'
 tags: [  ]
 actualPrice: 14.6 EUR
 currency: EUR

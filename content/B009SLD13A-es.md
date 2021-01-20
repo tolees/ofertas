@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009SLD13A-es Philips AEA2000/12 - Adaptador de audio Adaptador Hi-Fi...'
+sku: 'B009SLD13A-es'
 tags: [  ]
 actualPrice: 19.97 EUR
 currency: EUR

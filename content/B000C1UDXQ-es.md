@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000C1UDXQ-es Davidoff - After Shave Cool Water Man'
+sku: 'B000C1UDXQ-es'
 tags: [  ]
 actualPrice: 17.0 EUR
 currency: EUR

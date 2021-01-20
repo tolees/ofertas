@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T2MCH4J-es Softee Equipment Pica Madera - 150CM - Color Madera'
+sku: 'B07T2MCH4J-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

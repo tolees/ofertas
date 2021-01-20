@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PWMTLRB-es Urbanears Pampas Auricular sobre la oreja - Negro Carbón'
+sku: 'B07PWMTLRB-es'
 tags: [  ]
 actualPrice: 71.99 EUR
 currency: EUR

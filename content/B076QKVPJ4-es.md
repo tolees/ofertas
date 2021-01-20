@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076QKVPJ4-es Tiny Love Oscar el murciélago Into the Forest juguete...'
+sku: 'B076QKVPJ4-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

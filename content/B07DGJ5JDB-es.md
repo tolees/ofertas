@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DGJ5JDB-es Skechers Boys Flex-Glow Trainers Black Black Blue Lime...'
+sku: 'B07DGJ5JDB-es'
 tags: [  ]
 actualPrice: 36.51 EUR
 currency: EUR

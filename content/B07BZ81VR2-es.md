@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BZ81VR2-es TACKLIFE Carrete de Manguera de Aire Enrollador de...'
+sku: 'B07BZ81VR2-es'
 tags: [  ]
 actualPrice: 58.99 EUR
 currency: EUR

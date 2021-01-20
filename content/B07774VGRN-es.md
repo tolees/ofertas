@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07774VGRN-es Tommy Jeans Mujer Mid Rise Nora Jeans Niceville Mid...'
+sku: 'B07774VGRN-es'
 tags: [  ]
 actualPrice: 66.49 EUR
 currency: EUR

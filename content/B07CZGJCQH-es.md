@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZGJCQH-es Razer Huntsman Teclado con Switches Opto Mecánicos...'
+sku: 'B07CZGJCQH-es'
 tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR

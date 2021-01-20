@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PQ87TCQ-es Kipling - Multiple Bolsos bandolera Mujer Verde Seagrass...'
+sku: 'B07PQ87TCQ-es'
 tags: [  ]
 actualPrice: 40.33 EUR
 currency: EUR

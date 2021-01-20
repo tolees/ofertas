@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079YFY2FG-es Funko Pop!- Pop Movies: Harry Potter-Tom Riddle Figura de...'
+sku: 'B079YFY2FG-es'
 tags: [  ]
 actualPrice: 9.38 EUR
 currency: EUR

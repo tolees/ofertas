@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LGBQ5VS-es Nike Wmns Legend React 2 Zapatillas de Running para Mujer...'
+sku: 'B07LGBQ5VS-es'
 tags: [  ]
 actualPrice: 42.0 EUR
 currency: EUR

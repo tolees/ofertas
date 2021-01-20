@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M9I6MET-es Nox Modus - NXMODUSB - Caja PC USB 3.0 Color Negro LED Azul'
+sku: 'B01M9I6MET-es'
 tags: [  ]
 actualPrice: 21.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0865J1KZN-es Oxímetro de Pulso Oxímetro de Dedo Digital Monitor de...'
+sku: 'B0865J1KZN-es'
 tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YTC914H-es Cortapelo Profesional Hombre Máquina Afeitar Barba...'
+sku: 'B07YTC914H-es'
 tags: [  ]
 actualPrice: 21.74 EUR
 currency: EUR

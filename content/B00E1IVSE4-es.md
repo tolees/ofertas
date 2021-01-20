@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00E1IVSE4-es BioTechUSA Iso Whey Zero Premium Protein Isolat Pulver...'
+sku: 'B00E1IVSE4-es'
 tags: [  ]
 actualPrice: 19.91 EUR
 currency: EUR

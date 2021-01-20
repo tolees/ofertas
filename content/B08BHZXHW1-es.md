@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BHZXHW1-es Cinturón de Cintura para Correr - HAISSKY Deportiva...'
+sku: 'B08BHZXHW1-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

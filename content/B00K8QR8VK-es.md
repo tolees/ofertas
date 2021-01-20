@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K8QR8VK-es Panama Jack Panama 03 Aviator Botas Militar para Hombre...'
+sku: 'B00K8QR8VK-es'
 tags: [  ]
 actualPrice: 107.95 EUR
 currency: EUR

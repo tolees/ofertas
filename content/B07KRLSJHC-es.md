@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRLSJHC-es New Balance 574v2 Zapatillas para Hombre Azul Navy/White...'
+sku: 'B07KRLSJHC-es'
 tags: [  ]
 actualPrice: 70.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZJKDJ3P-es ngzhongtu Smart Band Watch Bracelet Fitness Tracker...'
+sku: 'B07ZJKDJ3P-es'
 tags: [  ]
 actualPrice: 3.56 EUR
 currency: EUR

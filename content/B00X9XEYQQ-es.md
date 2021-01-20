@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X9XEYQQ-es Maybelline New York - Superstay 7 Días Esmalte de Uñas...'
+sku: 'B00X9XEYQQ-es'
 tags: [  ]
 actualPrice: 2.1 EUR
 currency: EUR

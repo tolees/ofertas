@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F3FQ2FG-es Guess Reloj Analógico para Mujer de Cuarzo con Correa en...'
+sku: 'B07F3FQ2FG-es'
 tags: [  ]
 actualPrice: 92.98 EUR
 currency: EUR

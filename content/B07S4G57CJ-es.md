@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S4G57CJ-es LA Active Polainas Antideslizantes Agarre – 3 Pares – Bebé...'
+sku: 'B07S4G57CJ-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BLHQ4DM-es Clarins Joli Rouge Brillant #07-Raspberry 3 5 Gr 1 Unidad...'
+sku: 'B01BLHQ4DM-es'
 tags: [  ]
 actualPrice: 15.95 EUR
 currency: EUR

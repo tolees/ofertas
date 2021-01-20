@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N635PIY-es Hugo Boss Orange Reloj Analógico para Hombre de Cuarzo con...'
+sku: 'B01N635PIY-es'
 tags: [  ]
 actualPrice: 103.03 EUR
 currency: EUR

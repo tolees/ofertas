@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WGMWV61-es TACKLIFE ACP1B Compresor Aire Coche 12V/150PSI Inflador...'
+sku: 'B07WGMWV61-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

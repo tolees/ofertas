@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QWY5G1Q-es WMF Steak Profi Sartén Profesional de inducción...'
+sku: 'B07QWY5G1Q-es'
 tags: [  ]
 actualPrice: 84.99 EUR
 currency: EUR

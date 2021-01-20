@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00R0AEWRU-es Jump Suede & Nubuck Brush 338734'
+sku: 'B00R0AEWRU-es'
 tags: [  ]
 actualPrice: 3.31 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072M7DRBD-es Miniland Humitouch Pure - Humidificador Ultrasónico...'
+sku: 'B072M7DRBD-es'
 tags: [  ]
 actualPrice: 71.06 EUR
 currency: EUR

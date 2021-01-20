@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L147KMD-es Cecotec Barbacoa eléctrica PerfectSteak 4250 Stand con...'
+sku: 'B07L147KMD-es'
 tags: [  ]
 actualPrice: 35.0 EUR
 currency: EUR

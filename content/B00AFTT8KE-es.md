@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00AFTT8KE-es Fossil Reloj Analogico para Mujer de Cuarzo con Correa en...'
+sku: 'B00AFTT8KE-es'
 tags: [  ]
 actualPrice: 90.3 EUR
 currency: EUR

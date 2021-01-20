@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K48LJLJ-es Reloj Viceroy Mujer 42358-06 Colección Antonio Banderas'
+sku: 'B07K48LJLJ-es'
 tags: [  ]
 actualPrice: 83.3 EUR
 currency: EUR

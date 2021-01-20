@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L52BYC6-es adidas Terrex Ax3 GTX W Zapatillas de Senderismo para...'
+sku: 'B07L52BYC6-es'
 tags: [  ]
 actualPrice: 69.95 EUR
 currency: EUR

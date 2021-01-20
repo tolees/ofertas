@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TI7O4HG-es Keter - Caseta de jardín exterior Fusion 7 5x9 Color marrón'
+sku: 'B00TI7O4HG-es'
 tags: [  ]
 actualPrice: 1051.0 EUR
 currency: EUR

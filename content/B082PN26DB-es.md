@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082PN26DB-es ValueHall Doblador de Ropa 56 x 68 cm Tabla para Doblar...'
+sku: 'B082PN26DB-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

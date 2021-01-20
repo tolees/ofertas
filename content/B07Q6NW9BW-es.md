@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q6NW9BW-es Dockers by Gerli 45sp001 Zapatillas para Hombre Gris Grau...'
+sku: 'B07Q6NW9BW-es'
 tags: [  ]
 actualPrice: 16.5 EUR
 currency: EUR

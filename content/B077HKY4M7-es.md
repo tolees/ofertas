@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077HKY4M7-es find. MDR 40621 vestidos mujer Rojo Red 38 Talla del...'
+sku: 'B077HKY4M7-es'
 tags: [  ]
 actualPrice: 11.4 EUR
 currency: EUR

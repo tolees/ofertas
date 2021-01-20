@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089GLRNBT-es BEUSS Pez Mariposa Botella de Agua Frasco de Vacío...'
+sku: 'B089GLRNBT-es'
 tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR

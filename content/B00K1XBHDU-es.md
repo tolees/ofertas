@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K1XBHDU-es Hunter Original Tall Classic Botas de Agua para Unisex...'
+sku: 'B00K1XBHDU-es'
 tags: [  ]
 actualPrice: 83.78 EUR
 currency: EUR

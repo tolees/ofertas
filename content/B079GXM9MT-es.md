@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079GXM9MT-es PUMA NRGY Neko Knit Zapatillas de Entrenamiento para...'
+sku: 'B079GXM9MT-es'
 tags: [  ]
 actualPrice: 28.3 EUR
 currency: EUR

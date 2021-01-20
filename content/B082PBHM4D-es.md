@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082PBHM4D-es JACK & JONES Jacsolid Bso Trunks 5 Pack Calzoncillos Black...'
+sku: 'B082PBHM4D-es'
 tags: [  ]
 actualPrice: 24.49 EUR
 currency: EUR

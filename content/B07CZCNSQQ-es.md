@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZCNSQQ-es Under Armour Play Up Short 2.0 Pantalón Corto Mujer Negro...'
+sku: 'B07CZCNSQQ-es'
 tags: [  ]
 actualPrice: 13.97 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WRG9B7M-es 6amLifestyle Alfombrilla para Raton Grande 800 * 300 * 4mm...'
+sku: 'B07WRG9B7M-es'
 tags: [  ]
 actualPrice: 14.88 EUR
 currency: EUR

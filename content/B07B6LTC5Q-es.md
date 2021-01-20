@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B6LTC5Q-es Marvel Avengers: Infinity War Hero Vision Iron Man AR...'
+sku: 'B07B6LTC5Q-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

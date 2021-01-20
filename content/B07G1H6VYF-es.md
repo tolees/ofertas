@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G1H6VYF-es Fitbit Charge 3 Pulsera Avanzada de Salud y Actividad...'
+sku: 'B07G1H6VYF-es'
 tags: [  ]
 actualPrice: 119.96 EUR
 currency: EUR

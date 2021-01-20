@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SFBQPW5-es Helly Hansen HH Duffel Bag 2 50l Bolsa de Viaje Unisex...'
+sku: 'B07SFBQPW5-es'
 tags: [  ]
 actualPrice: 63.5 EUR
 currency: EUR

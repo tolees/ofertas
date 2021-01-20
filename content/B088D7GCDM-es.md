@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088D7GCDM-es Suhctup Funda Compatible para Samsung Galaxy A9 Star Lite...'
+sku: 'B088D7GCDM-es'
 tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR

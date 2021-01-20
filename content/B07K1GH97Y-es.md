@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K1GH97Y-es Mini Vibrador Neo muy potente/Masajeador perfecto para uso...'
+sku: 'B07K1GH97Y-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

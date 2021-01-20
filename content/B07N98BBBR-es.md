@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N98BBBR-es BOSS Prime Polo Azul Bright Blue 434 Small para Hombre'
+sku: 'B07N98BBBR-es'
 tags: [  ]
 actualPrice: 29.44 EUR
 currency: EUR

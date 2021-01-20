@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XHMK18F-es auna TT-931 - Tocadiscos Reproductor de vinilos...'
+sku: 'B06XHMK18F-es'
 tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR

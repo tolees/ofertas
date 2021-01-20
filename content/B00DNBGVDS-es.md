@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DNBGVDS-es Select Trainigsjacke Ultimate Trainingsjacke - Soft Shell...'
+sku: 'B00DNBGVDS-es'
 tags: [  ]
 actualPrice: 14.69 EUR
 currency: EUR

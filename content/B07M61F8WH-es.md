@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M61F8WH-es Swatch Reloj Analógico para Hombre de Cuarzo con Correa en...'
+sku: 'B07M61F8WH-es'
 tags: [  ]
 actualPrice: 41.08 EUR
 currency: EUR

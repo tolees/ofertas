@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S7QL9YP-es PUMA Flyer Runner Zapatillas de Running Unisex Adulto...'
+sku: 'B07S7QL9YP-es'
 tags: [  ]
 actualPrice: 35.86 EUR
 currency: EUR

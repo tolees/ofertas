@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T592HGM-es SGILE 1:20 CocheTeledirigido Monstruo RC Rápido 4WD 26km/h...'
+sku: 'B07T592HGM-es'
 tags: [  ]
 actualPrice: 36.89 EUR
 currency: EUR

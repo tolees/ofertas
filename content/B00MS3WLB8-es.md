@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MS3WLB8-es Quinny 76909230 - Cuco plegable color rosa'
+sku: 'B00MS3WLB8-es'
 tags: [  ]
 actualPrice: 98.0 EUR
 currency: EUR

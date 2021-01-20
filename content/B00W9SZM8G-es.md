@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00W9SZM8G-es Calvin Klein Radiant Cotton-Bikini Lencería Negro Black...'
+sku: 'B00W9SZM8G-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

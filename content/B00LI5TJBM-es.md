@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LI5TJBM-es Buono Pelle - Cartera de piel para hombre plegable con...'
+sku: 'B00LI5TJBM-es'
 tags: [  ]
 actualPrice: 5.81 EUR
 currency: EUR

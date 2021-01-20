@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GY0WK52-es Mercedes-Benz M7003 Hombre Azul Blau 59'
+sku: 'B01GY0WK52-es'
 tags: [  ]
 actualPrice: 31.51 EUR
 currency: EUR

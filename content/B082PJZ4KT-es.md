@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082PJZ4KT-es hummel Hmlauthentic - Pantalón de Entrenamiento para...'
+sku: 'B082PJZ4KT-es'
 tags: [  ]
 actualPrice: 27.49 EUR
 currency: EUR

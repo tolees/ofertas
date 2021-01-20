@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q6NWB5T-es Dockers by Gerli 36ht039 Zapatillas para Hombre Negro...'
+sku: 'B07Q6NWB5T-es'
 tags: [  ]
 actualPrice: 19.64 EUR
 currency: EUR

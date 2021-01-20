@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HG47V4Q-es New Balance Hombre U420 Sneaker Vino tinto 44.5 EU'
+sku: 'B07HG47V4Q-es'
 tags: [  ]
 actualPrice: 27.46 EUR
 currency: EUR

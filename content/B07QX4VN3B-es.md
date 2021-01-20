@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QX4VN3B-es Warxin Soporte Magnético Movil Coche Mini Móvil Coche Iman...'
+sku: 'B07QX4VN3B-es'
 tags: [  ]
 actualPrice: 7.49 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBWPBTB-es Baby Jogger City Tour LUX color berenjena. Silla de paseo...'
+sku: 'B07LBWPBTB-es'
 tags: [  ]
 actualPrice: 229.0 EUR
 currency: EUR

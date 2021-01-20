@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TMNWGRB-es Superdry VL Stitch Sequin Entry Hood Capucha Gris Grey...'
+sku: 'B07TMNWGRB-es'
 tags: [  ]
 actualPrice: 40.99 EUR
 currency: EUR

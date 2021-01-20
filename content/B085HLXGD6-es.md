@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085HLXGD6-es Vivir sin permiso - Serie completa [DVD]'
+sku: 'B085HLXGD6-es'
 tags: [  ]
 actualPrice: 22.79 EUR
 currency: EUR

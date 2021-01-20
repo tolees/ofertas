@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LGXM8DV-es Salomon SENSIBELT Cinturón PortaBotellas Incluye Botella...'
+sku: 'B07LGXM8DV-es'
 tags: [  ]
 actualPrice: 31.49 EUR
 currency: EUR

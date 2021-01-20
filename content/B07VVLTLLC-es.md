@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VVLTLLC-es One Punch Man - Pack de 6 chapas Talla Única Multicolor'
+sku: 'B07VVLTLLC-es'
 tags: [  ]
 actualPrice: 3.2 EUR
 currency: EUR

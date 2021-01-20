@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG5CTZP-es PUMA Smash v2 L V Inf Zapatillas Unisex Niños Peacoat...'
+sku: 'B07KG5CTZP-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

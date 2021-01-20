@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DBXGMSQ-es Escurridor para secado de biberones Lawn Tendedero para...'
+sku: 'B07DBXGMSQ-es'
 tags: [  ]
 actualPrice: 14.59 EUR
 currency: EUR

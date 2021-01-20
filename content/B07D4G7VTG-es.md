@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D4G7VTG-es Linterna LED Thorfire Q8 Linterna Súper Brillante BLF 5000...'
+sku: 'B07D4G7VTG-es'
 tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VNNQMDX-es Calvin Klein Short Drawstring Bañador Azul Bluefish DW9...'
+sku: 'B07VNNQMDX-es'
 tags: [  ]
 actualPrice: 38.84 EUR
 currency: EUR

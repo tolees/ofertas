@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01B0O08HO-es STANHOME CREMA MUEBLES'
+sku: 'B01B0O08HO-es'
 tags: [  ]
 actualPrice: 5.39 EUR
 currency: EUR

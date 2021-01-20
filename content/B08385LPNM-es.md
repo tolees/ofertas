@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08385LPNM-es Hurley M Phantom One&Only 18 Bañador Hombre Pacific Blue 30'
+sku: 'B08385LPNM-es'
 tags: [  ]
 actualPrice: 17.25 EUR
 currency: EUR

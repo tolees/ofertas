@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00W9RSYIC-es Calvin Klein Radiant Cotton-Bikini Lencería Blanco White...'
+sku: 'B00W9RSYIC-es'
 tags: [  ]
 actualPrice: 8.49 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VH6VD31-es Eono Essentials Toalla de Microfibra para Llevar al...'
+sku: 'B07VH6VD31-es'
 tags: [  ]
 actualPrice: 7.69 EUR
 currency: EUR

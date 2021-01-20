@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P36FSL7-es Dickies Fairdale Pantalones para Hombre Negro Black Bk...'
+sku: 'B07P36FSL7-es'
 tags: [  ]
 actualPrice: 13.45 EUR
 currency: EUR

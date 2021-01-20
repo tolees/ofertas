@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079TKRZNV-es Yoku’s Island Express'
+sku: 'B079TKRZNV-es'
 tags: [  ]
 actualPrice: 26.64 EUR
 currency: EUR

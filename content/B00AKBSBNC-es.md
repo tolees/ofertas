@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00AKBSBNC-es NANOCABLE 10.20.0302 - Cable de Red Ethernet rigido RJ45...'
+sku: 'B00AKBSBNC-es'
 tags: [  ]
 actualPrice: 17.25 EUR
 currency: EUR

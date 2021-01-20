@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C32YNZ4-es Mascarilla facial con Ácido Hialurónico. Máscara de tejido...'
+sku: 'B07C32YNZ4-es'
 tags: [  ]
 actualPrice: 65.9 EUR
 currency: EUR

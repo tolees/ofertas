@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ESXN4IK-es Generic PB20586 Adaptador de Cable Mini HDMI HDMI Negro -...'
+sku: 'B00ESXN4IK-es'
 tags: [  ]
 actualPrice: 1.63 EUR
 currency: EUR

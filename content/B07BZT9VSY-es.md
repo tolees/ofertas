@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BZT9VSY-es Triumph Infinite Sensation W01 Sujetador con Aros Negro...'
+sku: 'B07BZT9VSY-es'
 tags: [  ]
 actualPrice: 27.95 EUR
 currency: EUR

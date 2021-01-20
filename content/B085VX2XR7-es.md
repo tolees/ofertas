@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085VX2XR7-es QHOHQ Protector de Pantalla Compatible para Xiaomi Redmi...'
+sku: 'B085VX2XR7-es'
 tags: [  ]
 actualPrice: 3.95 EUR
 currency: EUR

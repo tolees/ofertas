@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TTPDMBG-es Kipling Abanu Bolsos con Bandolera para Mujer Negro Carbon...'
+sku: 'B07TTPDMBG-es'
 tags: [  ]
 actualPrice: 33.45 EUR
 currency: EUR

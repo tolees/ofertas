@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZNY2MT-es Funko- Pop Figura de Vinilo: Disney: Little Mermaid-Prince...'
+sku: 'B07MZNY2MT-es'
 tags: [  ]
 actualPrice: 9.0 EUR
 currency: EUR

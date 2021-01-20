@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DB1C3ZB-es PUTUO Calcetines Dedos Hombres Calcetines de Deportes de...'
+sku: 'B07DB1C3ZB-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

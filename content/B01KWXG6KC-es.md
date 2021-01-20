@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KWXG6KC-es Curver 227328 Cubo De Basura Essentials Con Separador...'
+sku: 'B01KWXG6KC-es'
 tags: [  ]
 actualPrice: 10.5 EUR
 currency: EUR

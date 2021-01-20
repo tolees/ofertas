@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JL3X2BT-es MLOTECH Funda Huawei Mate 20 Lite Funda Case + Cristal...'
+sku: 'B07JL3X2BT-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

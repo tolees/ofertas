@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MH1KPLC-es Nicetree Espejo joyero Armario Montado Pared o Colgado en...'
+sku: 'B07MH1KPLC-es'
 tags: [  ]
 actualPrice: 70.99 EUR
 currency: EUR

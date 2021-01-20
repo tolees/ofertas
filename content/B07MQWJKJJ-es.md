@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MQWJKJJ-es VGBEY 5 Unids Señuelo de Pesca Calamar Jig Hooks Silicona...'
+sku: 'B07MQWJKJJ-es'
 tags: [  ]
 actualPrice: 7.39 EUR
 currency: EUR

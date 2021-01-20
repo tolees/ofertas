@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0823CJ6QF-es Tokyo Mirage'
+sku: 'B0823CJ6QF-es'
 tags: [  ]
 actualPrice: 39.66 EUR
 currency: EUR

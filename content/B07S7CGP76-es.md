@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S7CGP76-es Lee Rider Tonal Jeans Moto Worn 30W / 34L para Hombre'
+sku: 'B07S7CGP76-es'
 tags: [  ]
 actualPrice: 36.74 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077RZRDRS-es Heavy Duty alfabeto letra número juego de herramienta de...'
+sku: 'B077RZRDRS-es'
 tags: [  ]
 actualPrice: 9.59 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TWHJ6H6-es Funko- Pop Marvel: Endgame-Gamer Korg Collectible Toy...'
+sku: 'B07TWHJ6H6-es'
 tags: [  ]
 actualPrice: 10.75 EUR
 currency: EUR

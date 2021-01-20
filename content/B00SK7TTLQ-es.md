@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SK7TTLQ-es Hot Chocolate Design Chocolaticas Doris Tacon Mary Jane...'
+sku: 'B00SK7TTLQ-es'
 tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR

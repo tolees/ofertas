@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z35W9DK-es ECHTPower Plancha Vertical Vapor Plancha de Ropa...'
+sku: 'B07Z35W9DK-es'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

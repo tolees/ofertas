@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BL18JK9-es New Balance Fuel Cell Impulse Zapatillas de Running para...'
+sku: 'B07BL18JK9-es'
 tags: [  ]
 actualPrice: 36.22 EUR
 currency: EUR

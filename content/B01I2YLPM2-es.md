@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01I2YLPM2-es Tuc Tuc 04760 - Bolsa colgadores y bandolera color gris...'
+sku: 'B01I2YLPM2-es'
 tags: [  ]
 actualPrice: 27.36 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083ZJHJ38-es ghd curve soft curl - Tenacilla profesional 32mm para...'
+sku: 'B083ZJHJ38-es'
 tags: [  ]
 actualPrice: 119.0 EUR
 currency: EUR

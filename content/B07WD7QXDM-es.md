@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WD7QXDM-es Jojoin Bandejas de Viaje Mesa Coche para Niños Bandeja...'
+sku: 'B07WD7QXDM-es'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

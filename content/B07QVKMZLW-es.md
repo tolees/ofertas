@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QVKMZLW-es Receptor Bluetooth Jack 3.5 MM ieGeek Adaptador de Audio...'
+sku: 'B07QVKMZLW-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

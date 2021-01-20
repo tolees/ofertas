@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075QC89KP-es Kennti Alpargatas de Cordones y Chambray Hombre Blanco 42 EU'
+sku: 'B075QC89KP-es'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

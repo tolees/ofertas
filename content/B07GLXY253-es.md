@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GLXY253-es Tile Pro con pila reemplazable - Buscador de llaves....'
+sku: 'B07GLXY253-es'
 tags: [  ]
 actualPrice: 25.37 EUR
 currency: EUR

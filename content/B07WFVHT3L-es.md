@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WFVHT3L-es ieGeek Cámara de Vigilancia WiFi Interior Detección Humana...'
+sku: 'B07WFVHT3L-es'
 tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR

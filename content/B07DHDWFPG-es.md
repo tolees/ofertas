@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DHDWFPG-es Panegy - 4 pares Calcetines de Dedos para Hombres...'
+sku: 'B07DHDWFPG-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

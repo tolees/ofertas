@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B4DSPLX-es Skechers Bikers-Lineage Botas Estilo Motero para Mujer...'
+sku: 'B07B4DSPLX-es'
 tags: [  ]
 actualPrice: 18.31 EUR
 currency: EUR

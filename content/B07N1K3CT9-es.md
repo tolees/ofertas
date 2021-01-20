@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1K3CT9-es Clarks Sheer Flora Botas Chelsea para Mujer Azul Navy Navy...'
+sku: 'B07N1K3CT9-es'
 tags: [  ]
 actualPrice: 50.12 EUR
 currency: EUR

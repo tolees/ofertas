@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GLXW0VM-es Daler Rowney Set Metálico de Viaje de Acuarela Aquafine...'
+sku: 'B00GLXW0VM-es'
 tags: [  ]
 actualPrice: 14.89 EUR
 currency: EUR

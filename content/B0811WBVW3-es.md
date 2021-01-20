@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0811WBVW3-es TACKLIFE- 10 Pulgadas Alicates Extensibles Tenaza de Tipo...'
+sku: 'B0811WBVW3-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

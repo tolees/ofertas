@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BDQYP2M-es American Tourister Disney Wavebreaker - Maleta Infantil...'
+sku: 'B07BDQYP2M-es'
 tags: [  ]
 actualPrice: 82.71 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NNV9DZ5-es Under Armour UA TriBase Thrive Zapatillas Deportivas para...'
+sku: 'B07NNV9DZ5-es'
 tags: [  ]
 actualPrice: 54.95 EUR
 currency: EUR

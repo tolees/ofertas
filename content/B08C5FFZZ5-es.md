@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08C5FFZZ5-es Sandalia Plataforma para Mujer'
+sku: 'B08C5FFZZ5-es'
 tags: [  ]
 actualPrice: 41.4 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XJ5YZNP-es Skechers UNO Zapatillas para Hombre Negro Black...'
+sku: 'B07XJ5YZNP-es'
 tags: [  ]
 actualPrice: 27.83 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N11KNE0-es Toshiba Canvio - Disco Duro Externo 500 GB Blanco'
+sku: 'B01N11KNE0-es'
 tags: [  ]
 actualPrice: 26.97 EUR
 currency: EUR

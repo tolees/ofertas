@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01C4CC3LU-es adidas Stan Smith J Zapatillas de Deporte Unisex Niños...'
+sku: 'B01C4CC3LU-es'
 tags: [  ]
 actualPrice: 45.45 EUR
 currency: EUR

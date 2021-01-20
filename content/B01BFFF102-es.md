@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BFFF102-es Tribe Game of Thrones Juego de Tronos Daenerys - Memoria...'
+sku: 'B01BFFF102-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

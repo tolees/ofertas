@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086WYQ9S2-es AARDIMI - Sandalias para mujer sandalias con tacón plano...'
+sku: 'B086WYQ9S2-es'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

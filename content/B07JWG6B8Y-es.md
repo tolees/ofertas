@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JWG6B8Y-es Bolsa de aseo transparente + 7 ollas contenedores botellas...'
+sku: 'B07JWG6B8Y-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

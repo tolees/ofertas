@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AK0KJ1O-es PUMA Basket Classic LFS Zapatillas para Hombre Negro...'
+sku: 'B01AK0KJ1O-es'
 tags: [  ]
 actualPrice: 27.95 EUR
 currency: EUR

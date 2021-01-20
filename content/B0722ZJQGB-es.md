@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0722ZJQGB-es Emuca 9163651 Lote de 10 tiradores para mueble Ø12mm...'
+sku: 'B0722ZJQGB-es'
 tags: [  ]
 actualPrice: 15.67 EUR
 currency: EUR

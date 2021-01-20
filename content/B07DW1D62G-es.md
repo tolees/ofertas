@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DW1D62G-es Tommy Hilfiger Original Basic Polo Blanco Classic White...'
+sku: 'B07DW1D62G-es'
 tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR

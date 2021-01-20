@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JJJX4V8-es Cecotec Ready Warm 2000 Thermal - Emisor Térmico 10...'
+sku: 'B07JJJX4V8-es'
 tags: [  ]
 actualPrice: 95.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QDLHB53-es Wet n Wild Máscara - 30 gr.'
+sku: 'B07QDLHB53-es'
 tags: [  ]
 actualPrice: 2.34 EUR
 currency: EUR

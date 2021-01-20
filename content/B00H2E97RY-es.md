@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00H2E97RY-es Weider 40% Protein Low Carb. Barrita alto contenido en...'
+sku: 'B00H2E97RY-es'
 tags: [  ]
 actualPrice: 34.9 EUR
 currency: EUR

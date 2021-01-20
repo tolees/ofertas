@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CVDGDGF-es Under Armour UA W TriBase Reign Zapatillas Deportivas para...'
+sku: 'B07CVDGDGF-es'
 tags: [  ]
 actualPrice: 47.95 EUR
 currency: EUR

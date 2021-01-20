@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MG00CTF-es Speedo Sea Squad Armbands Aprender a Nadar Unisex niños...'
+sku: 'B01MG00CTF-es'
 tags: [  ]
 actualPrice: 6.05 EUR
 currency: EUR

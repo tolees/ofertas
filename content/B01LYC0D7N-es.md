@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LYC0D7N-es Brabantia Newicon-Cubo de Basura con Pedal 3 l Color Fpp...'
+sku: 'B01LYC0D7N-es'
 tags: [  ]
 actualPrice: 19.6 EUR
 currency: EUR

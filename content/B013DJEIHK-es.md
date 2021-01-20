@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013DJEIHK-es Skylanders SuperCharges - Figura Shark Tank Vehicle'
+sku: 'B013DJEIHK-es'
 tags: [  ]
 actualPrice: 5.95 EUR
 currency: EUR

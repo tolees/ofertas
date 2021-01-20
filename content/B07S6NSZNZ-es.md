@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S6NSZNZ-es PUMA Ascend Zapatillas Unisex-Adulto Negro Black...'
+sku: 'B07S6NSZNZ-es'
 tags: [  ]
 actualPrice: 27.88 EUR
 currency: EUR

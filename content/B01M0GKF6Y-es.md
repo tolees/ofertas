@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M0GKF6Y-es Manfrotto MB MA-SB-C1 - Funda Avanzada para cámara'
+sku: 'B01M0GKF6Y-es'
 tags: [  ]
 actualPrice: 44.66 EUR
 currency: EUR

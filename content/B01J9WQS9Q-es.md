@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01J9WQS9Q-es Philips Sonicare Diamond Clean HX9312/04 - Cepillo de...'
+sku: 'B01J9WQS9Q-es'
 tags: [  ]
 actualPrice: 153.96 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T961KCP-es Xnuoyo 20000mAh Power Bank Cargador Portátil Batería...'
+sku: 'B07T961KCP-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

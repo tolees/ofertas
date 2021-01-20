@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HM8QM7S-es CHS Caja de Almacenamiento de máscara portátil Caja de...'
+sku: 'B08HM8QM7S-es'
 tags: [  ]
 actualPrice: 1.99 EUR
 currency: EUR

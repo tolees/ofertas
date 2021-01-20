@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GPD3WXR-es storeofbaby Chicas Princesa Tutus Fiesta Linda Danza...'
+sku: 'B07GPD3WXR-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

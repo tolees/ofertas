@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XQV9F5K-es Huawei Watch GT 2 Elegant - Smartwatch con Caja de 42 mm...'
+sku: 'B07XQV9F5K-es'
 tags: [  ]
 actualPrice: 209.0 EUR
 currency: EUR

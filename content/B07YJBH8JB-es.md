@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YJBH8JB-es COMVIP Cojín Trenzado de Felpa con Nudos para Cuna...'
+sku: 'B07YJBH8JB-es'
 tags: [  ]
 actualPrice: 53.29 EUR
 currency: EUR

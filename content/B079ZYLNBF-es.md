@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079ZYLNBF-es VAIRO Short Columns Negro XXL'
+sku: 'B079ZYLNBF-es'
 tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR

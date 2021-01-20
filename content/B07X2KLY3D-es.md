@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X2KLY3D-es HOVNEE Pintura de cara Facial para Niños Kit de Pintura...'
+sku: 'B07X2KLY3D-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

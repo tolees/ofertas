@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CSTWDQK-es Braun 40B - Recambio para afeitadora eléctrica hombre...'
+sku: 'B00CSTWDQK-es'
 tags: [  ]
 actualPrice: 29.22 EUR
 currency: EUR

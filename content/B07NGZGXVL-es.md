@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NGZGXVL-es Strellson Premium Mercer2.0 12 Pantalones de Traje Azul...'
+sku: 'B07NGZGXVL-es'
 tags: [  ]
 actualPrice: 15.58 EUR
 currency: EUR

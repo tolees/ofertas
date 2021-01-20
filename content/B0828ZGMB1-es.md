@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0828ZGMB1-es Wuyee Un par de Fundas de Botas de Santa en Blanco y Negro...'
+sku: 'B0828ZGMB1-es'
 tags: [  ]
 actualPrice: 3.25 EUR
 currency: EUR

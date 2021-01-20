@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XGWMPHK-es Figura Pop trollhunters Toby'
+sku: 'B06XGWMPHK-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

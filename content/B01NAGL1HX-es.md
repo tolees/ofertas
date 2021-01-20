@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NAGL1HX-es Dymatize Elite Whey Strawberry Blast 2 1Kg - Pulverizador...'
+sku: 'B01NAGL1HX-es'
 tags: [  ]
 actualPrice: 34.63 EUR
 currency: EUR

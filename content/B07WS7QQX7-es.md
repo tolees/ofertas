@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WS7QQX7-es BRIKSMAX Kit de Iluminación Led para Lego Technic Depósito...'
+sku: 'B07WS7QQX7-es'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P49HCC2-es Skechers Meridian-Ostwall Zapatillas para Hombre Verde...'
+sku: 'B07P49HCC2-es'
 tags: [  ]
 actualPrice: 32.18 EUR
 currency: EUR

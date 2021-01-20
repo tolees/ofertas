@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DEICO1I-es Marvel Character World Disney Comics - Juego de Funda de...'
+sku: 'B00DEICO1I-es'
 tags: [  ]
 actualPrice: 30.39 EUR
 currency: EUR

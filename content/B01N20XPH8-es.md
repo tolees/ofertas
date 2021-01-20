@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N20XPH8-es dockers Alpha Original Skinny-Lite Pantalones Marrón New...'
+sku: 'B01N20XPH8-es'
 tags: [  ]
 actualPrice: 50.49 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P5ZSQ2R-es Wrangler Arizona Pantalones Azul Oxford Blue 072 W35/L32...'
+sku: 'B07P5ZSQ2R-es'
 tags: [  ]
 actualPrice: 34.98 EUR
 currency: EUR

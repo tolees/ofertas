@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00H9WQ1OG-es Merc of London Card Polo Shirt Gris Mineral Marl XL para...'
+sku: 'B00H9WQ1OG-es'
 tags: [  ]
 actualPrice: 28.98 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X9TNKIS-es Garnier Delial Spray Protector Hidratante 24 Horas con...'
+sku: 'B00X9TNKIS-es'
 tags: [  ]
 actualPrice: 7.95 EUR
 currency: EUR

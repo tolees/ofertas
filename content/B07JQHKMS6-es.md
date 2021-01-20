@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JQHKMS6-es Under Armour Huddle 2.0 Gorra Hombre Verde OSFA'
+sku: 'B07JQHKMS6-es'
 tags: [  ]
 actualPrice: 16.97 EUR
 currency: EUR

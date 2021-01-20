@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074PQ9DVK-es adidas V Racer 2.0 Zapatillas para Hombre Azul...'
+sku: 'B074PQ9DVK-es'
 tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR

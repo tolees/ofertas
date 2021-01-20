@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BHZC6H5-es BOWFU Funda para LG K51 Case [Ranuras de Tarjeta][Soporte...'
+sku: 'B08BHZC6H5-es'
 tags: [  ]
 actualPrice: 4.58 EUR
 currency: EUR

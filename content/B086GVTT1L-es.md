@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086GVTT1L-es Oihxse Compatible con Huawei Honor V10 Lite/8X Funda Suave...'
+sku: 'B086GVTT1L-es'
 tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR

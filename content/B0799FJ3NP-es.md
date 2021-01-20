@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0799FJ3NP-es TACKLIFE Cortasetos Eléctrico 600W Cortasetos 20mm Ancho...'
+sku: 'B0799FJ3NP-es'
 tags: [  ]
 actualPrice: 73.79 EUR
 currency: EUR

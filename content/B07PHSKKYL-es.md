@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PHSKKYL-es New Balance Trail Nitrel Zapatillas de Running para...'
+sku: 'B07PHSKKYL-es'
 tags: [  ]
 actualPrice: 44.79 EUR
 currency: EUR

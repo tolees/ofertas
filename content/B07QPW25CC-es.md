@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QPW25CC-es Asics Gel-Pulse 11 Winterized 1011a707-0 Zapatillas de...'
+sku: 'B07QPW25CC-es'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

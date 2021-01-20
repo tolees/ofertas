@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V1Z5L9K-es Nike Pico 5 Gymnastics Shoe Unisex-Child Deep Royal...'
+sku: 'B07V1Z5L9K-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

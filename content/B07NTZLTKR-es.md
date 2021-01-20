@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NTZLTKR-es Skechers Ultra Flex 2.0 Kelmer Zapatillas para Hombre Azul...'
+sku: 'B07NTZLTKR-es'
 tags: [  ]
 actualPrice: 31.64 EUR
 currency: EUR

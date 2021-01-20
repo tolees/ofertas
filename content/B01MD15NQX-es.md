@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MD15NQX-es G-STAR RAW Ladd Belt Cinturón Marrón Dk Cognac/antic...'
+sku: 'B01MD15NQX-es'
 tags: [  ]
 actualPrice: 16.97 EUR
 currency: EUR

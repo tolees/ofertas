@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R6XSWMC-es Only & Sons NOS Onswinston Sweat Hoodie Noos Capucha Azul...'
+sku: 'B07R6XSWMC-es'
 tags: [  ]
 actualPrice: 11.59 EUR
 currency: EUR

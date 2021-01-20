@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001AZSFHE-es Solgar D-Ribosa en Polvo 150 g'
+sku: 'B001AZSFHE-es'
 tags: [  ]
 actualPrice: 23.4 EUR
 currency: EUR

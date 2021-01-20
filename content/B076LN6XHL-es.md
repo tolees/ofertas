@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076LN6XHL-es SILIK para Mujer Entrenamiento Deportivo Leggings...'
+sku: 'B076LN6XHL-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

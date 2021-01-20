@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZIOW94-es Sigma 09162 Ciclocomputador Negro Talla Única'
+sku: 'B01LZIOW94-es'
 tags: [  ]
 actualPrice: 28.98 EUR
 currency: EUR

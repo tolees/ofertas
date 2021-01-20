@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MRY69G6-es NAUTICAL Classic Bag'
+sku: 'B01MRY69G6-es'
 tags: [  ]
 actualPrice: 5.45 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NRJ2B1F-es HANMUN Kid Electronic Musical Microphone Toys Toddler...'
+sku: 'B07NRJ2B1F-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

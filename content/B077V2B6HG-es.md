@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077V2B6HG-es TROTEC Convector Cristal de Diseño TCH 2011 E 2000 W...'
+sku: 'B077V2B6HG-es'
 tags: [  ]
 actualPrice: 64.95 EUR
 currency: EUR

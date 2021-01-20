@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P154JHQ-es deAO Cocinita Mi Pequeño Chef con Características de...'
+sku: 'B07P154JHQ-es'
 tags: [  ]
 actualPrice: 15.09 EUR
 currency: EUR

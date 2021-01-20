@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0039KMFS8-es Ibili 405014 Indubasic Sartén Aluminio Diámetro 14 cm'
+sku: 'B0039KMFS8-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

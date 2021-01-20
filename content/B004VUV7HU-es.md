@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004VUV7HU-es 5 Star 424410 Mini Dispensador de cinta Negro'
+sku: 'B004VUV7HU-es'
 tags: [  ]
 actualPrice: 3.72 EUR
 currency: EUR

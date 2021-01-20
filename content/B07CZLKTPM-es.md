@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZLKTPM-es Under Armour Tech 6In 2 Pack Ropa Interior Hombre Azul...'
+sku: 'B07CZLKTPM-es'
 tags: [  ]
 actualPrice: 26.23 EUR
 currency: EUR

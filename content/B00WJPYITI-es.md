@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WJPYITI-es Brabantia 105388 - Juego de 3 bolsas para lavadora 2 de 33...'
+sku: 'B00WJPYITI-es'
 tags: [  ]
 actualPrice: 5.55 EUR
 currency: EUR

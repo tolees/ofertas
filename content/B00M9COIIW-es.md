@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00M9COIIW-es Polti Forzaspira MC330 Turbo aspirador multiciclónico sin...'
+sku: 'B00M9COIIW-es'
 tags: [  ]
 actualPrice: 100.0 EUR
 currency: EUR

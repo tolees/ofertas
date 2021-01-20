@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XY68B4W-es Imperial Confort - Topper viscoelástico - 150 x 190 cm -...'
+sku: 'B06XY68B4W-es'
 tags: [  ]
 actualPrice: 116.13 EUR
 currency: EUR

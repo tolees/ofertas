@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2CYHK1-es adidas Superstar J Zapatillas de Gimnasia Unisex Niños...'
+sku: 'B07K2CYHK1-es'
 tags: [  ]
 actualPrice: 32.48 EUR
 currency: EUR

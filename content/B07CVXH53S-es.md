@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CVXH53S-es K-Speed Turf'
+sku: 'B07CVXH53S-es'
 tags: [  ]
 actualPrice: 15.58 EUR
 currency: EUR

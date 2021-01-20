@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BK3Y4DY-es Rodillos de Espuma 2 en 1 para Masajes Musculares...'
+sku: 'B07BK3Y4DY-es'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

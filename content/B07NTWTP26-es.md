@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NTWTP26-es Skechers Men s Ultra Flex 2.0 KELMER Trainers Blue Black...'
+sku: 'B07NTWTP26-es'
 tags: [  ]
 actualPrice: 38.44 EUR
 currency: EUR

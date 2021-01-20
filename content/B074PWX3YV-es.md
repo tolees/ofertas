@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074PWX3YV-es Renberg Cubiertos Diseño Liso y Plano Acero Inoxidable...'
+sku: 'B074PWX3YV-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

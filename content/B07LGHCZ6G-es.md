@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LGHCZ6G-es Nike Jordan CLC99 - Gorra Unisex Adulto Black/White MISC'
+sku: 'B07LGHCZ6G-es'
 tags: [  ]
 actualPrice: 16.75 EUR
 currency: EUR

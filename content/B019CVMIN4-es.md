@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019CVMIN4-es New Balance Vazee Coast Zapatillas de Running para Mujer...'
+sku: 'B019CVMIN4-es'
 tags: [  ]
 actualPrice: 26.52 EUR
 currency: EUR

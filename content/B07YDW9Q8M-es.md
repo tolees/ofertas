@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YDW9Q8M-es Pikolin Veza colchón de muelles ensacados y viscoelástica...'
+sku: 'B07YDW9Q8M-es'
 tags: [  ]
 actualPrice: 405.44 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2KJD9T-es Adidas RUNFALCON K Zapatillas Deportivas Unisex niño Negro...'
+sku: 'B07K2KJD9T-es'
 tags: [  ]
 actualPrice: 27.49 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZKVT8WQ-es BRA PRIOR Batería 4 piezas de aluminio fundido con...'
+sku: 'B07ZKVT8WQ-es'
 tags: [  ]
 actualPrice: 114.99 EUR
 currency: EUR

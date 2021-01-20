@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076HX4SQR-es Disney Star Wars Stormtrooper by Ubtech - Robot...'
+sku: 'B076HX4SQR-es'
 tags: [  ]
 actualPrice: 81.95 EUR
 currency: EUR

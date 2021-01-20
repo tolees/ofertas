@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YZPKGL6-es DEWALT DCD706D2-QW DCD706D2-QW-Taladro Percutor sin...'
+sku: 'B07YZPKGL6-es'
 tags: [  ]
 actualPrice: 179.37 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SDGN1SR-es Levi s Tijuana Zapatillas para Mujer Negro R Black 59 41 EU'
+sku: 'B07SDGN1SR-es'
 tags: [  ]
 actualPrice: 32.5 EUR
 currency: EUR

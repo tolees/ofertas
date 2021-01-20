@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MRPXWG9-es HOUSE DAY 8Pcs Perchas mágicas Armario Ahorro de Espacio...'
+sku: 'B01MRPXWG9-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

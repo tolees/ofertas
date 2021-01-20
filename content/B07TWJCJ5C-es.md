@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TWJCJ5C-es Gant Nicewill Zapatillas para Mujer Beige Yellow/Beige...'
+sku: 'B07TWJCJ5C-es'
 tags: [  ]
 actualPrice: 35.91 EUR
 currency: EUR

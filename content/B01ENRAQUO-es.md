@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ENRAQUO-es Safta Maletín Minions Oficial Para Ordenador 380x60x280mm'
+sku: 'B01ENRAQUO-es'
 tags: [  ]
 actualPrice: 13.95 EUR
 currency: EUR

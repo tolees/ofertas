@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076JRJXHQ-es Carcasa Funda Llave Remoto Mando 2 Botones para Opel...'
+sku: 'B076JRJXHQ-es'
 tags: [  ]
 actualPrice: 8.98 EUR
 currency: EUR

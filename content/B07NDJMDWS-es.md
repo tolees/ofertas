@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDJMDWS-es VistaMax | Potente optimizante y protector de la visión |...'
+sku: 'B07NDJMDWS-es'
 tags: [  ]
 actualPrice: 10.65 EUR
 currency: EUR

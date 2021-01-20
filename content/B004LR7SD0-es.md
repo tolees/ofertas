@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004LR7SD0-es Pulsar Uhren PT3005X1 - Reloj cronógrafo de Cuarzo para...'
+sku: 'B004LR7SD0-es'
 tags: [  ]
 actualPrice: 63.44 EUR
 currency: EUR

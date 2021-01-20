@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PGNLSGW-es New Balance Trail Nitrel Zapatillas de Running para...'
+sku: 'B07PGNLSGW-es'
 tags: [  ]
 actualPrice: 52.99 EUR
 currency: EUR

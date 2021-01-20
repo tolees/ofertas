@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YG7JX1R-es Indoor Copa'
+sku: 'B07YG7JX1R-es'
 tags: [  ]
 actualPrice: 22.95 EUR
 currency: EUR

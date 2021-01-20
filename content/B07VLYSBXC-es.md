@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VLYSBXC-es DC Shoes Court Graffik Zapatillas de Skateboard para Niños...'
+sku: 'B07VLYSBXC-es'
 tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR

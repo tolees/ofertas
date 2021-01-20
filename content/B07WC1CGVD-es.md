@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WC1CGVD-es Regalos Originales para Hombre y Mujer Sombrero Bluetooth...'
+sku: 'B07WC1CGVD-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

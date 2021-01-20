@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X5NJRVB-es Pnakqil Funda Xiaomi Redmi Note 6 Pro Rosa Ultrafina y...'
+sku: 'B07X5NJRVB-es'
 tags: [  ]
 actualPrice: 6.95 EUR
 currency: EUR

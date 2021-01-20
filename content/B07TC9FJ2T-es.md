@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TC9FJ2T-es Rodillera Menisco y Ligamentos Deportiva Rodillera de...'
+sku: 'B07TC9FJ2T-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

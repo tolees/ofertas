@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00B83RWBI-es Gigandet Reloj de Hombre Automático Sea Ground Vintage...'
+sku: 'B00B83RWBI-es'
 tags: [  ]
 actualPrice: 189.0 EUR
 currency: EUR

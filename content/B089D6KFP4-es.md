@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089D6KFP4-es Niños Unisex analógico Digital Resistente al Agua Reloj...'
+sku: 'B089D6KFP4-es'
 tags: [  ]
 actualPrice: 2.28 EUR
 currency: EUR

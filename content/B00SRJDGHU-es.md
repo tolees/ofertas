@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SRJDGHU-es Asics Mexico 66 Zapatillas de Deporte Unisex Adulto Blanco...'
+sku: 'B00SRJDGHU-es'
 tags: [  ]
 actualPrice: 67.6 EUR
 currency: EUR

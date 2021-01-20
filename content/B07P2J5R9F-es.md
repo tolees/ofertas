@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P2J5R9F-es Control Lub Chocolate - Gel lubricante sin azúcar ni...'
+sku: 'B07P2J5R9F-es'
 tags: [  ]
 actualPrice: 6.39 EUR
 currency: EUR

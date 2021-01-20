@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SD189FL-es Bersigar Hombres de Negocios Casual Sport Design Genuino...'
+sku: 'B07SD189FL-es'
 tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TNQXQ6N-es Unidad de Estado Sólido Lexar NS100 2 5" 256GB SATA III 6Gb/s'
+sku: 'B07TNQXQ6N-es'
 tags: [  ]
 actualPrice: 29.26 EUR
 currency: EUR

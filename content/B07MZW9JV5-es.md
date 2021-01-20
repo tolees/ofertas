@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZW9JV5-es EsportsMJJ Delantera Y Trasera De Goma De La Rueda...'
+sku: 'B07MZW9JV5-es'
 tags: [  ]
 actualPrice: 5.9 EUR
 currency: EUR

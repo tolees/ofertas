@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004R95IDE-es Tuscany Silver 8.43.7594 - Cadena con colgante de plata de...'
+sku: 'B004R95IDE-es'
 tags: [  ]
 actualPrice: 52.0 EUR
 currency: EUR

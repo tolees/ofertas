@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088GPWXZP-es DIY Slime Kit para Niñas Niños Fabrica de Slime con 18...'
+sku: 'B088GPWXZP-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

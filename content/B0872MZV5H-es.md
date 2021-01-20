@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0872MZV5H-es Funda Transparente Compatible para Samsung Galaxy S10E...'
+sku: 'B0872MZV5H-es'
 tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR

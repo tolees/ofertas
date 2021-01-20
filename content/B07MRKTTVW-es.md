@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MRKTTVW-es United Colors of Benetton Colors B2 Pantalones Gris Grigio...'
+sku: 'B07MRKTTVW-es'
 tags: [  ]
 actualPrice: 6.54 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WTV2HP8-es J.Endéar Letra Inicial A-Z Alfabeto Pulsera de Piedras...'
+sku: 'B07WTV2HP8-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

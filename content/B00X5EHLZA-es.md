@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X5EHLZA-es Star Wars - Disfraz de Storm Trooper para niños talla L...'
+sku: 'B00X5EHLZA-es'
 tags: [  ]
 actualPrice: 21.82 EUR
 currency: EUR

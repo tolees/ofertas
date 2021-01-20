@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088KF68LD-es Mapa Mundi Rascar Regalos Originales - Regalos Curiosos...'
+sku: 'B088KF68LD-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087X5VG9N-es Suhctup Funda Transparent Compatible para Huawei P Smart...'
+sku: 'B087X5VG9N-es'
 tags: [  ]
 actualPrice: 8.98 EUR
 currency: EUR

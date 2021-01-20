@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087CSZTNM-es Cámara web Full HD 1080P con micrófono cámara web USB 2.0...'
+sku: 'B087CSZTNM-es'
 tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR

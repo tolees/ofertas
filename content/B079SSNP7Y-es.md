@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079SSNP7Y-es Kappa SALCITO TKS Chándal Hombre Negro/Amarillo M'
+sku: 'B079SSNP7Y-es'
 tags: [  ]
 actualPrice: 27.49 EUR
 currency: EUR

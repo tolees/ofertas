@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077QQLQR2-es Superga 2750-cotbumpstrapj Zapatillas de Gimnasia Unisex...'
+sku: 'B077QQLQR2-es'
 tags: [  ]
 actualPrice: 14.91 EUR
 currency: EUR

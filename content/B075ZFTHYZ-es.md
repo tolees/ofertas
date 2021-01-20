@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075ZFTHYZ-es Hugo BOSS Reloj Análogo clásico para Hombre de Cuarzo con...'
+sku: 'B075ZFTHYZ-es'
 tags: [  ]
 actualPrice: 195.45 EUR
 currency: EUR

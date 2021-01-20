@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MGZSFT3-es 1370 hojas 2 estilos 32 colores Origami estrellas tiras de...'
+sku: 'B07MGZSFT3-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

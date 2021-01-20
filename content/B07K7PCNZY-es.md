@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K7PCNZY-es Asics Patriot 10 Zapatillas de Running para Mujer Negro...'
+sku: 'B07K7PCNZY-es'
 tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR

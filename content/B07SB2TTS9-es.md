@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SB2TTS9-es Camiseta Tirantes sin Mangas de Deporte para Mujer Verano...'
+sku: 'B07SB2TTS9-es'
 tags: [  ]
 actualPrice: 8.59 EUR
 currency: EUR

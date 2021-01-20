@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZM521M-es Under Armour Sportstyle Wind Parte Superior del...'
+sku: 'B07CZM521M-es'
 tags: [  ]
 actualPrice: 20.38 EUR
 currency: EUR

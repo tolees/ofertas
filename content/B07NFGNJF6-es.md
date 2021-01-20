@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NFGNJF6-es Casio Reloj Analógico para Mujer de Cuarzo con Correa en...'
+sku: 'B07NFGNJF6-es'
 tags: [  ]
 actualPrice: 62.88 EUR
 currency: EUR

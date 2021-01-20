@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083W2NZ2P-es NHUAIYINSHUGUOGUANGGAOJINGY Reloj Inteligente Monitor de...'
+sku: 'B083W2NZ2P-es'
 tags: [  ]
 actualPrice: 5.81 EUR
 currency: EUR

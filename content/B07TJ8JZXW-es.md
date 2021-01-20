@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJ8JZXW-es Harmont & Blaine Lrd123020989 Polo Blanco 100 Bianco 100...'
+sku: 'B07TJ8JZXW-es'
 tags: [  ]
 actualPrice: 47.94 EUR
 currency: EUR

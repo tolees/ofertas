@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FKLQQRW-es Joma Marsella Camisetas Equip. M/c Hombre Blanco 2XL'
+sku: 'B07FKLQQRW-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DN9JJAW-es Soria Natural - FOST PRINT JUNIOR SABOR FRESA -...'
+sku: 'B00DN9JJAW-es'
 tags: [  ]
 actualPrice: 13.79 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ELRLUJ2-es Suecos Alma Zapatillas de Deporte Unisex Adulto Blanco...'
+sku: 'B01ELRLUJ2-es'
 tags: [  ]
 actualPrice: 46.07 EUR
 currency: EUR

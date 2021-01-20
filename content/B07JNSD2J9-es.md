@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JNSD2J9-es Jack & Jones Jjimarco Jjbowie Sa Noos Pantalones Negro...'
+sku: 'B07JNSD2J9-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

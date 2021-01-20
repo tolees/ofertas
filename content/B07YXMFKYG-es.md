@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YXMFKYG-es Calefactor Calentador Eléctrico 500W con Oscilación...'
+sku: 'B07YXMFKYG-es'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

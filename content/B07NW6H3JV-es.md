@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NW6H3JV-es Skechers Women s Flex Appeal 3.0-Satellites Trainers Grey...'
+sku: 'B07NW6H3JV-es'
 tags: [  ]
 actualPrice: 22.19 EUR
 currency: EUR

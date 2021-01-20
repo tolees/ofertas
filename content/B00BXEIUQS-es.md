@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BXEIUQS-es Verbatim Store N Go - Memoria USB 3.0 Ultra Velocidad de...'
+sku: 'B00BXEIUQS-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

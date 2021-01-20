@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0044DXVCI-es CAMPER Pelotas XL Herren Sneakers Schwarz Black 45 EU 11 UK'
+sku: 'B0044DXVCI-es'
 tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR

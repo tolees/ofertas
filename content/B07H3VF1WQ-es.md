@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H3VF1WQ-es Venus Swirl Cuchillas afeitar mujer maquinilla + 5...'
+sku: 'B07H3VF1WQ-es'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

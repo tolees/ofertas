@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MQLV47I-es Indoor Copa'
+sku: 'B01MQLV47I-es'
 tags: [  ]
 actualPrice: 22.95 EUR
 currency: EUR

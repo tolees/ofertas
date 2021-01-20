@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N34R3PF-es Diesel Reloj Analogico para Hombre de Cuarzo con Correa en...'
+sku: 'B07N34R3PF-es'
 tags: [  ]
 actualPrice: 262.22 EUR
 currency: EUR

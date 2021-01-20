@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074M46VVS-es ELEGOO 32 Piezas Doble Cara Junta de PCB Doble Cara...'
+sku: 'B074M46VVS-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JKCS2E0-es Memoria Flash USB 128MB 10 Piezas Pen Drives - Pequeña...'
+sku: 'B00JKCS2E0-es'
 tags: [  ]
 actualPrice: 21.56 EUR
 currency: EUR

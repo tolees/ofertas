@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ETAVBT0-es Wurko 2498/237-03 Tubo Fluorescente 32 W Blanco 30 cm'
+sku: 'B01ETAVBT0-es'
 tags: [  ]
 actualPrice: 3.57 EUR
 currency: EUR

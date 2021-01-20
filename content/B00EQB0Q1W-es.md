@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EQB0Q1W-es Braun MQ20 Minipimer Accesorio Minipicadora 350 ml Blanco'
+sku: 'B00EQB0Q1W-es'
 tags: [  ]
 actualPrice: 18.0 EUR
 currency: EUR

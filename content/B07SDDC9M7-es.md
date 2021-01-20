@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SDDC9M7-es Zinmuwa Mujer Pendientes Bola Colgante Perla Artificial...'
+sku: 'B07SDDC9M7-es'
 tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR

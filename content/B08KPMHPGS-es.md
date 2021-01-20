@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08KPMHPGS-es Bisoo - Toalla Bebe con Capucha - Set de Baño 4 Piezas con...'
+sku: 'B08KPMHPGS-es'
 tags: [  ]
 actualPrice: 17.9 EUR
 currency: EUR

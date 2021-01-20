@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TWHH2NQ-es Funko- Pop Marvel: Fantastic Four-Silver Surfer...'
+sku: 'B07TWHH2NQ-es'
 tags: [  ]
 actualPrice: 6.67 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LAWZ2F4-es Tenswall Humidificador Ultrasónico 400ml Difusor de...'
+sku: 'B01LAWZ2F4-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

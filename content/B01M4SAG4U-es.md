@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M4SAG4U-es POP! Vinilo - Games: Mass Effect Andromeda: Jaal'
+sku: 'B01M4SAG4U-es'
 tags: [  ]
 actualPrice: 8.48 EUR
 currency: EUR

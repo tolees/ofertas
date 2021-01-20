@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S3X2DN9-es New Balance FuelCell Propel Zapatillas de Running para...'
+sku: 'B07S3X2DN9-es'
 tags: [  ]
 actualPrice: 83.49 EUR
 currency: EUR

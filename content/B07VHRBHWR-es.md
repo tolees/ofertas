@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VHRBHWR-es Desigual Foul_Fruits Bufanda Multicolor Blanco/Negro 9024...'
+sku: 'B07VHRBHWR-es'
 tags: [  ]
 actualPrice: 27.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J9QM5KX-es Asics Gel-Excite 6 - Zapatillas de Running para Hombre...'
+sku: 'B07J9QM5KX-es'
 tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR

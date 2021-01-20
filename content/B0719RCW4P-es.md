@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0719RCW4P-es Beoplay E4 de Bang & Olufsen - Auriculares con cancelación...'
+sku: 'B0719RCW4P-es'
 tags: [  ]
 actualPrice: 139.45 EUR
 currency: EUR

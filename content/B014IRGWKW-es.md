@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014IRGWKW-es Emporio Armani Reloj Esqueleto para Hombre de Automático...'
+sku: 'B014IRGWKW-es'
 tags: [  ]
 actualPrice: 287.13 EUR
 currency: EUR

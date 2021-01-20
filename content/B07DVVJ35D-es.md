@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DVVJ35D-es New Balance W890V7 Zapatillas de Running para Mujer Blanco...'
+sku: 'B07DVVJ35D-es'
 tags: [  ]
 actualPrice: 66.07 EUR
 currency: EUR

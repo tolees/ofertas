@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000VJW2L0-es Eukanuba Working & Endurance - Comida seca para perros...'
+sku: 'B000VJW2L0-es'
 tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR

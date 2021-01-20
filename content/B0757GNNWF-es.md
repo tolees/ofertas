@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0757GNNWF-es URCERI Telémetro Láser 60m Medidor Láser de...'
+sku: 'B0757GNNWF-es'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

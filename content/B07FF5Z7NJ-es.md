@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FF5Z7NJ-es Burrito Blanco Juego de Sábanas Blanco de Hostelería para...'
+sku: 'B07FF5Z7NJ-es'
 tags: [  ]
 actualPrice: 19.6 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DGV7UW0-es Fantasy Flight Games- Star Wars Imperial Assault R2D2 y...'
+sku: 'B01DGV7UW0-es'
 tags: [  ]
 actualPrice: 9.29 EUR
 currency: EUR

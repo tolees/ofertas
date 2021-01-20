@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CYS71M8-es TankerStreet 2 Piezas Alfombras de Cocina Antideslizante...'
+sku: 'B07CYS71M8-es'
 tags: [  ]
 actualPrice: 16.0 EUR
 currency: EUR

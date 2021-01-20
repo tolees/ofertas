@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NNV7J4Z-es Under Armour Women s Charged Aurora Hallenschuhe...'
+sku: 'B07NNV7J4Z-es'
 tags: [  ]
 actualPrice: 45.45 EUR
 currency: EUR

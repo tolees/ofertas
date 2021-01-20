@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009VBUJ96-es Superga 2750 COTU Classic Zapatillas Unisex Verde Military...'
+sku: 'B009VBUJ96-es'
 tags: [  ]
 actualPrice: 41.27 EUR
 currency: EUR

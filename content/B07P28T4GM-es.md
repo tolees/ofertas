@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P28T4GM-es Herbalgem Olivo - 30 gr'
+sku: 'B07P28T4GM-es'
 tags: [  ]
 actualPrice: 14.25 EUR
 currency: EUR

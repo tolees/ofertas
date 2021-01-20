@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BUXK01K-es POP! Vinilo - DC: Dark Knight Joker'
+sku: 'B00BUXK01K-es'
 tags: [  ]
 actualPrice: 8.25 EUR
 currency: EUR

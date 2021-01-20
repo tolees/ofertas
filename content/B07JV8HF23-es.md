@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JV8HF23-es LeYi Funda Huawei Mate 20 Lite Silicona Purpurina Carcasa...'
+sku: 'B07JV8HF23-es'
 tags: [  ]
 actualPrice: 8.57 EUR
 currency: EUR

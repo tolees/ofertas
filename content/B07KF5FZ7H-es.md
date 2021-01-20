@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KF5FZ7H-es Luchild Dispensador Portátil de Leche en Polvo Caja con...'
+sku: 'B07KF5FZ7H-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

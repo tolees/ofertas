@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00F961WJI-es deAO Vehículo Correpasillos Camión de Construcción con...'
+sku: 'B00F961WJI-es'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

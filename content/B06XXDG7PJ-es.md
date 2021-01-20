@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XXDG7PJ-es New Balance 574 Zapatillas Hombre Verde Olive EGO 42.5 EU...'
+sku: 'B06XXDG7PJ-es'
 tags: [  ]
 actualPrice: 54.0 EUR
 currency: EUR

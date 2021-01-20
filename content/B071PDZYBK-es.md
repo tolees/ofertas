@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071PDZYBK-es New Balance 574v2 Core Velcro Zapatillas Unisex Niños Azul...'
+sku: 'B071PDZYBK-es'
 tags: [  ]
 actualPrice: 27.5 EUR
 currency: EUR

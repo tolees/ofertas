@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HRLD7JR-es PREMYO Bandas Reflectantes Set de 4 Ajustable Brazalete...'
+sku: 'B07HRLD7JR-es'
 tags: [  ]
 actualPrice: 8.95 EUR
 currency: EUR

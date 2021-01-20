@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0797LBCNY-es Avengers - Disfraz de Thor oficial Infinity Wars para...'
+sku: 'B0797LBCNY-es'
 tags: [  ]
 actualPrice: 10.88 EUR
 currency: EUR

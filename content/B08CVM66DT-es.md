@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CVM66DT-es Altavoz inalámbrico portátil A10 Caja de Sonido estéreo...'
+sku: 'B08CVM66DT-es'
 tags: [  ]
 actualPrice: 4.9 EUR
 currency: EUR

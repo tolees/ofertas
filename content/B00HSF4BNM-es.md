@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HSF4BNM-es KUHN RIKON Molinillo con Palanca Rojo Centimeters'
+sku: 'B00HSF4BNM-es'
 tags: [  ]
 actualPrice: 13.17 EUR
 currency: EUR

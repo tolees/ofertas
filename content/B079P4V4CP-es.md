@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079P4V4CP-es Zyxel N300 LTE 4G Router Wi-Fi de banda dual con ranura...'
+sku: 'B079P4V4CP-es'
 tags: [  ]
 actualPrice: 91.5 EUR
 currency: EUR

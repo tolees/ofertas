@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0168IAEN0-es Beurer FC 76 - Exfoliador profesional de...'
+sku: 'B0168IAEN0-es'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

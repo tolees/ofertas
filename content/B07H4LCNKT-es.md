@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H4LCNKT-es Preciva CT480300 Crimpadora Terminales Electricos 0.5-1.5...'
+sku: 'B07H4LCNKT-es'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

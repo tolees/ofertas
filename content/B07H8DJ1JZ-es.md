@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H8DJ1JZ-es DORRISO Linda Sombrero y Bufanda Niño Niña Primavera Otoño...'
+sku: 'B07H8DJ1JZ-es'
 tags: [  ]
 actualPrice: 19.98 EUR
 currency: EUR

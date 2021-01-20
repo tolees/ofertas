@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BTS3Z2Q-es D18 Smart Fitness Pulsera Banda con medidor de Pulso de...'
+sku: 'B08BTS3Z2Q-es'
 tags: [  ]
 actualPrice: 5.34 EUR
 currency: EUR

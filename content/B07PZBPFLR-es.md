@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PZBPFLR-es KFD - Adaptador de Corriente DC 19 V para Intel NUC...'
+sku: 'B07PZBPFLR-es'
 tags: [  ]
 actualPrice: 23.61 EUR
 currency: EUR

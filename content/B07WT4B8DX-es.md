@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WT4B8DX-es HONCENMAX Funda Asiento Coche Suave Cojín de Asiento...'
+sku: 'B07WT4B8DX-es'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

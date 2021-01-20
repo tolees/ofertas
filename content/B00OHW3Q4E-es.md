@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OHW3Q4E-es Valueline VLAP22255B02 Adaptador de Cable 2 x RCA 3 5mm...'
+sku: 'B00OHW3Q4E-es'
 tags: [  ]
 actualPrice: 2.0 EUR
 currency: EUR

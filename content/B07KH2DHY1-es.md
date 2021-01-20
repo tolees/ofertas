@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KH2DHY1-es Under Armour Qualifier Wg Perf Short Pantalón Corto Hombre...'
+sku: 'B07KH2DHY1-es'
 tags: [  ]
 actualPrice: 14.72 EUR
 currency: EUR

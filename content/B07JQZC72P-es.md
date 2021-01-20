@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JQZC72P-es Marca Amazon - 28 Palms - Polo de golf de piqué con...'
+sku: 'B07JQZC72P-es'
 tags: [  ]
 actualPrice: 6.31 EUR
 currency: EUR

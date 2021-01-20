@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QGWMLNX-es Calcetines de Senderismo de Lana Merino 3 pares...'
+sku: 'B07QGWMLNX-es'
 tags: [  ]
 actualPrice: 28.95 EUR
 currency: EUR

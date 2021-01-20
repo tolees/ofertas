@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BF3S6C2-es RockPet Soporte para Perros con Manija para la Ayuda...'
+sku: 'B07BF3S6C2-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

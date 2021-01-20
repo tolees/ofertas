@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CVCKZKT-es Molyflower Black Remote Take Picture 240 * 240 píxeles...'
+sku: 'B08CVCKZKT-es'
 tags: [  ]
 actualPrice: 57.49 EUR
 currency: EUR

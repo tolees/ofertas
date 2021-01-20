@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N4OZKJR-es Citizen Reloj Analógico para Hombre de Cuarzo con Correa...'
+sku: 'B01N4OZKJR-es'
 tags: [  ]
 actualPrice: 95.95 EUR
 currency: EUR

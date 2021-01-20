@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TYXCFGN-es FORMIZON 40 Pcs Bolsas Regalo Papel 10 Colores Patrón...'
+sku: 'B07TYXCFGN-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

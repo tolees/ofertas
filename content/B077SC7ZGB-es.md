@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077SC7ZGB-es CITIZEN Reloj Analógico para Hombre de Cuarzo con Correa...'
+sku: 'B077SC7ZGB-es'
 tags: [  ]
 actualPrice: 105.41 EUR
 currency: EUR

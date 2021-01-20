@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y1L1NZ7-es Wrangler Arizona Jeans Azul Bright Stroke 1Q 31W / 34L...'
+sku: 'B06Y1L1NZ7-es'
 tags: [  ]
 actualPrice: 37.28 EUR
 currency: EUR

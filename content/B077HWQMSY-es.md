@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077HWQMSY-es find. MDR 40625 vestidos mujer Verde Green 44 Talla del...'
+sku: 'B077HWQMSY-es'
 tags: [  ]
 actualPrice: 12 EUR
 currency: EUR

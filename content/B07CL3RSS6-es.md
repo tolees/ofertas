@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CL3RSS6-es Auriculares Bluetooth Arbily Auriculares Inalámbricos...'
+sku: 'B07CL3RSS6-es'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

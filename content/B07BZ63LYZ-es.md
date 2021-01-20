@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BZ63LYZ-es Sotech - Juego de Herramientas de Pinzas de Freno Kit de...'
+sku: 'B07BZ63LYZ-es'
 tags: [  ]
 actualPrice: 29.69 EUR
 currency: EUR

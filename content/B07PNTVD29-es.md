@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PNTVD29-es Awroutdoor Dardos de Acero 12 Piezas Dardos con Puntas...'
+sku: 'B07PNTVD29-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

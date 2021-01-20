@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RNW9B3-es Columbia Goodlife Two Gore Slip Zapatillas Casual para...'
+sku: 'B073RNW9B3-es'
 tags: [  ]
 actualPrice: 8.82 EUR
 currency: EUR

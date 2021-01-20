@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G5B8FSF-es Ronda Impermeable Bebé Niños Baño Libro Early Educational...'
+sku: 'B07G5B8FSF-es'
 tags: [  ]
 actualPrice: 11.37 EUR
 currency: EUR

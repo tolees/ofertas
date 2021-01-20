@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BNL64VS-es Kono Bolsa de Viaje Ligero 40x20x25 Maleta de Cabina...'
+sku: 'B08BNL64VS-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

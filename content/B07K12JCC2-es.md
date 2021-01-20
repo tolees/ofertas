@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K12JCC2-es adidas Deerupt Runner W Zapatillas de Running Mujer Blanco...'
+sku: 'B07K12JCC2-es'
 tags: [  ]
 actualPrice: 60.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XAKG8EE-es Beter 64290 - Esponja'
+sku: 'B00XAKG8EE-es'
 tags: [  ]
 actualPrice: 1.96 EUR
 currency: EUR

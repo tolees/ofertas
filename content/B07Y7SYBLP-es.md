@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y7SYBLP-es Carcasa de silicona transparente y ultrafina para Samsung...'
+sku: 'B07Y7SYBLP-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

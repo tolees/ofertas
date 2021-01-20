@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S5CJ7SK-es Love MoschinoJc4043pp1aMujerBolso de manoBeige Naturale...'
+sku: 'B07S5CJ7SK-es'
 tags: [  ]
 actualPrice: 84.5 EUR
 currency: EUR

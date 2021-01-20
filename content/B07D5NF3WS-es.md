@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D5NF3WS-es Puma Phase Wallet Cartera Puma Black OSFA'
+sku: 'B07D5NF3WS-es'
 tags: [  ]
 actualPrice: 5.96 EUR
 currency: EUR

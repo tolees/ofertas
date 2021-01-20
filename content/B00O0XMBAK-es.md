@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00O0XMBAK-es Superga 2750 COTU Classic Zapatillas Unisex Gris Grey...'
+sku: 'B00O0XMBAK-es'
 tags: [  ]
 actualPrice: 30.81 EUR
 currency: EUR

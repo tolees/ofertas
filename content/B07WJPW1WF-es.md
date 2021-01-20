@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WJPW1WF-es Skechers Darlow Remego Zapatillas para Hombre Negro Black...'
+sku: 'B07WJPW1WF-es'
 tags: [  ]
 actualPrice: 33.02 EUR
 currency: EUR

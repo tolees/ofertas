@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CJF8VB1-es FIAT500 Rodilleras y Coderas FIAT 500 F500-PKL-K Color...'
+sku: 'B07CJF8VB1-es'
 tags: [  ]
 actualPrice: 1.98 EUR
 currency: EUR

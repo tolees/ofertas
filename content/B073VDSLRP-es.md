@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073VDSLRP-es Alimentador antiahogo bebe chupete fruta bebe de...'
+sku: 'B073VDSLRP-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

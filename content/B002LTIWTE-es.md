@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002LTIWTE-es Superga 2750 COTU Classic Zapatillas Unisex Adulto Navy S...'
+sku: 'B002LTIWTE-es'
 tags: [  ]
 actualPrice: 36.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013JSDY1Q-es Star Wars Saga Completa 2015 Blu-Ray [Blu-ray]'
+sku: 'B013JSDY1Q-es'
 tags: [  ]
 actualPrice: 58.29 EUR
 currency: EUR

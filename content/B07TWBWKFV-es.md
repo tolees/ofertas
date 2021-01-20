@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TWBWKFV-es 24x Color de la mezcla Lámina impresa 2d PEGATINAS lisas...'
+sku: 'B07TWBWKFV-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

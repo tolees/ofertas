@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0758BL4TY-es NUEVO Dermaroller Kit 3 en 1 Para la Cara y el Cuerpo -...'
+sku: 'B0758BL4TY-es'
 tags: [  ]
 actualPrice: 14.97 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SR84KXK-es Death Stranding - Collector s Edition [Importación francesa]'
+sku: 'B07SR84KXK-es'
 tags: [  ]
 actualPrice: 146.07 EUR
 currency: EUR

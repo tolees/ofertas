@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BHVS8BX-es Falechay Calcetines Deportivos para Hombre y Mujer 3 Pares...'
+sku: 'B08BHVS8BX-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

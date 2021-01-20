@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BGWYZXH-es Máscara para los ojos Parches para los ojos Ojos Parches...'
+sku: 'B07BGWYZXH-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CK87K1D-es Colmanda Juguetes de Maquillaje Niños 18 Piezas Kit de...'
+sku: 'B08CK87K1D-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

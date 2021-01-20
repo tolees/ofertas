@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B4VWZ2H-es Timbre Inalámbrico VOXON Impermeable Doble de Pared Plug-...'
+sku: 'B07B4VWZ2H-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

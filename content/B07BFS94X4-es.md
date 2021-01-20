@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BFS94X4-es HANPURE Adaptador USB Bluetooth 4.0 - Bluetooth 4.0 Dongle...'
+sku: 'B07BFS94X4-es'
 tags: [  ]
 actualPrice: 9.98 EUR
 currency: EUR

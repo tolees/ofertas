@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PWNLV5D-es Under Armour UA W HOVR Sonic 3 Zapatillas de Running para...'
+sku: 'B07PWNLV5D-es'
 tags: [  ]
 actualPrice: 49.04 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GWVLPXW-es Aerku Cámara Trasera Lente Protector de Pantalla para...'
+sku: 'B08GWVLPXW-es'
 tags: [  ]
 actualPrice: 6.98 EUR
 currency: EUR

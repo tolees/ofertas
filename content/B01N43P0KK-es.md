@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N43P0KK-es Indoor Copa'
+sku: 'B01N43P0KK-es'
 tags: [  ]
 actualPrice: 19.96 EUR
 currency: EUR

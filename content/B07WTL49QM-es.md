@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WTL49QM-es AngLink Linterna de Buceo 2000 Lumens CREE XHP-50 LED...'
+sku: 'B07WTL49QM-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

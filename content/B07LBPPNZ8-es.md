@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBPPNZ8-es Adidas Drive 1.9 Palas Adultos Unisex Rojo 375'
+sku: 'B07LBPPNZ8-es'
 tags: [  ]
 actualPrice: 34.95 EUR
 currency: EUR

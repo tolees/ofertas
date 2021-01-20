@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HH97V6Z-es KUTOOK Pantalones Softshell Trekking Hombre Impermeables...'
+sku: 'B08HH97V6Z-es'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

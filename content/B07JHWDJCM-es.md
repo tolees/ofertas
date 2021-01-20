@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JHWDJCM-es Columbia Heavenly Shorty Omni-Heat Botas de Invierno para...'
+sku: 'B07JHWDJCM-es'
 tags: [  ]
 actualPrice: 24.86 EUR
 currency: EUR

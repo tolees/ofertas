@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L369WKN-es AmazonBasics - Perchero de pared 8 ganchos modernos Café'
+sku: 'B07L369WKN-es'
 tags: [  ]
 actualPrice: 16.79 EUR
 currency: EUR

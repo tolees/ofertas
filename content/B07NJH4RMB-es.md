@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJH4RMB-es Adidas Deerupt Runner C Zapatillas de Deporte Unisex niño...'
+sku: 'B07NJH4RMB-es'
 tags: [  ]
 actualPrice: 41.95 EUR
 currency: EUR

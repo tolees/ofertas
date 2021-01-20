@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XXZTUMI-es BaByliss Clip n’ Curl RS100E - Set de 12 rulos térmicos de...'
+sku: 'B00XXZTUMI-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

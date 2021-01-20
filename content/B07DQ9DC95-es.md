@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DQ9DC95-es Sekiro: Shadows Die Twice'
+sku: 'B07DQ9DC95-es'
 tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR

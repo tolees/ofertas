@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MQEM6OU-es Intex 28602 - Depuradora cartucho tipo H Krystal Clear...'
+sku: 'B01MQEM6OU-es'
 tags: [  ]
 actualPrice: 21.08 EUR
 currency: EUR

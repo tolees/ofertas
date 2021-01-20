@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084D75NRV-es Bisoo - 70x140 cm Protector de Colchón Bebé + Sabana...'
+sku: 'B084D75NRV-es'
 tags: [  ]
 actualPrice: 24.9 EUR
 currency: EUR

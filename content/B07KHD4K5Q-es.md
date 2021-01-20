@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KHD4K5Q-es Under Armour Blitzing II - Gorra Hombre Rojo Red/White 610...'
+sku: 'B07KHD4K5Q-es'
 tags: [  ]
 actualPrice: 10.07 EUR
 currency: EUR

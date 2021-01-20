@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VVDWPFT-es Skechers Ultra Flex Zapatillas para Mujer Blanco Blanco...'
+sku: 'B07VVDWPFT-es'
 tags: [  ]
 actualPrice: 38.45 EUR
 currency: EUR

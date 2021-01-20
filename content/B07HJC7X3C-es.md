@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HJC7X3C-es Suavizante supreme glamour vernel 600ml.'
+sku: 'B07HJC7X3C-es'
 tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR

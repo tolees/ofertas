@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CSO1N9W-es Forty Seven B-Brans17Ctp-Bk Gorra Hombre Negro Talla única'
+sku: 'B01CSO1N9W-es'
 tags: [  ]
 actualPrice: 14.49 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D6SG9BK-es non-brand 10 Pedazos de Protector de Borde de Seguridad...'
+sku: 'B07D6SG9BK-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

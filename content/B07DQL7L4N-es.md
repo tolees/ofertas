@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DQL7L4N-es Lámpara Escritorio LED Lámparas de Mesa USB Regulable...'
+sku: 'B07DQL7L4N-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

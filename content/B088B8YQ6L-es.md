@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088B8YQ6L-es Docooler USB Webcam HD Web CAM Cámara Web Digital con Clip...'
+sku: 'B088B8YQ6L-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

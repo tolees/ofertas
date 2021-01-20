@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PUDU7DW-es Rexona Maximum Protection Crema Antitranspirante Stress...'
+sku: 'B00PUDU7DW-es'
 tags: [  ]
 actualPrice: 11.97 EUR
 currency: EUR

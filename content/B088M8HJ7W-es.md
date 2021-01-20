@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088M8HJ7W-es Amiiaz 2 Pcs Colchoneta para Tumbona Jardín Cojines para...'
+sku: 'B088M8HJ7W-es'
 tags: [  ]
 actualPrice: 60.99 EUR
 currency: EUR

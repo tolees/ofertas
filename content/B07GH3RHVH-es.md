@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GH3RHVH-es Skechers Stamina-Contic Zapatillas para Hombre Gris Gray &...'
+sku: 'B07GH3RHVH-es'
 tags: [  ]
 actualPrice: 41.26 EUR
 currency: EUR

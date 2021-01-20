@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074MKCXLH-es Havaianas Brasil Logo Zehentrenner Unisex-Erwachsene Negro...'
+sku: 'B074MKCXLH-es'
 tags: [  ]
 actualPrice: 6.01 EUR
 currency: EUR

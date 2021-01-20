@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FRCHQ6B-es HOMIEE Bolsa para Portátil Maletín Portátil 15...'
+sku: 'B07FRCHQ6B-es'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

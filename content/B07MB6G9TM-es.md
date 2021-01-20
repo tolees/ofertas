@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MB6G9TM-es Lacoste'
+sku: 'B07MB6G9TM-es'
 tags: [  ]
 actualPrice: 58.38 EUR
 currency: EUR

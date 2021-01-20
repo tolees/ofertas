@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BQY8GZB-es 2 Piezas de Altavoces Accesorios para Coche Automóvil Mini...'
+sku: 'B07BQY8GZB-es'
 tags: [  ]
 actualPrice: 16.72 EUR
 currency: EUR

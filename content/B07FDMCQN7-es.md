@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FDMCQN7-es Millet Ld Seneca Tecno polar mujer 111573_99152 rosa small'
+sku: 'B07FDMCQN7-es'
 tags: [  ]
 actualPrice: 47.58 EUR
 currency: EUR

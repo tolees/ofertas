@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085NMDGQB-es CRAPHY Trípode de Fotografía Soporte de luz 51-200cm con...'
+sku: 'B085NMDGQB-es'
 tags: [  ]
 actualPrice: 12.91 EUR
 currency: EUR

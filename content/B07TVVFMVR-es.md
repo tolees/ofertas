@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVVFMVR-es Skechers Equalizer 4.0 Zapatillas para Hombre Azul Black...'
+sku: 'B07TVVFMVR-es'
 tags: [  ]
 actualPrice: 29.14 EUR
 currency: EUR

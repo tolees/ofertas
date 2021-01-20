@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0886BJH1Q-es Niños Desechables de Filtro de Tres Capas con Pendientes...'
+sku: 'B0886BJH1Q-es'
 tags: [  ]
 actualPrice: 6.98 EUR
 currency: EUR

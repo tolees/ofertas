@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NNX914C-es Blend Jeans - Noos Cirrus - Parte de arriba para hombre...'
+sku: 'B00NNX914C-es'
 tags: [  ]
 actualPrice: 28.13 EUR
 currency: EUR

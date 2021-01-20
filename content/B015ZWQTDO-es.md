@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015ZWQTDO-es Inglesina Twin Swift - Sillita de paseo doble unisex color...'
+sku: 'B015ZWQTDO-es'
 tags: [  ]
 actualPrice: 142.28 EUR
 currency: EUR

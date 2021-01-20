@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PLT1PJ5-es Don Algodon DO015 Zapatillas para Mujer Multicolor 015 38 EU'
+sku: 'B07PLT1PJ5-es'
 tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR

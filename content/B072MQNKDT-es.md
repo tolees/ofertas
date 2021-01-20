@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072MQNKDT-es Nuevo Apple MacBook de 12 pulgadas Intel Core m3 de doble...'
+sku: 'B072MQNKDT-es'
 tags: [  ]
 actualPrice: 999.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XPG6WF1-es 1 - B.Catcher Silver Necklace Pearl Jewellery 925...'
+sku: 'B06XPG6WF1-es'
 tags: [  ]
 actualPrice: 13.87 EUR
 currency: EUR

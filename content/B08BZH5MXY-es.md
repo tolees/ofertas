@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BZH5MXY-es Superligero LED Touch Design Sport Running Pulsera Digital...'
+sku: 'B08BZH5MXY-es'
 tags: [  ]
 actualPrice: 1.12 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073HFQHGT-es Cillit Bang - Spray Limpiador Suciedad y Manchas de...'
+sku: 'B073HFQHGT-es'
 tags: [  ]
 actualPrice: 2.68 EUR
 currency: EUR

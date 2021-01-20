@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C5BV1VV-es Khanomak - Top Informal de Manga Corta con Cuello en V -...'
+sku: 'B07C5BV1VV-es'
 tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR

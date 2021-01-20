@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0053CJP4C-es Soehnle Page Evolution - Báscula de Cocina Color Blanco'
+sku: 'B0053CJP4C-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

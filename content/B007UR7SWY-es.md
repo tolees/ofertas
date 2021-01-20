@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007UR7SWY-es Máscara de payaso monstruo Halloween'
+sku: 'B007UR7SWY-es'
 tags: [  ]
 actualPrice: 35.93 EUR
 currency: EUR

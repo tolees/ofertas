@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NCJK33Y-es Bandolera pequeña Pepe Jeans Freida'
+sku: 'B07NCJK33Y-es'
 tags: [  ]
 actualPrice: 28.88 EUR
 currency: EUR

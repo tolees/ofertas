@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LFVKUBW-es Luminarc Set 6 Piezas Modelo Fiesta Combinados Juegos de...'
+sku: 'B00LFVKUBW-es'
 tags: [  ]
 actualPrice: 13.65 EUR
 currency: EUR

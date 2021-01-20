@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001HGXIFA-es Gonher - Fulminantes de 8 Disparos 8/0'
+sku: 'B001HGXIFA-es'
 tags: [  ]
 actualPrice: 1.2 EUR
 currency: EUR

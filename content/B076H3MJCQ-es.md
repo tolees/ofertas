@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076H3MJCQ-es 4pcs 70�x 51�mm al aire libre deporte monopat�n skateboard...'
+sku: 'B076H3MJCQ-es'
 tags: [  ]
 actualPrice: 15.9 EUR
 currency: EUR

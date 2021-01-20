@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S4HMXWY-es Tom Tailor Denim Cargo Pantalones de Deporte Verde Green...'
+sku: 'B07S4HMXWY-es'
 tags: [  ]
 actualPrice: 31.85 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000XQC41E-es Bosch Professional GBH 4-32 DFR - Martillo perforador 4 2...'
+sku: 'B000XQC41E-es'
 tags: [  ]
 actualPrice: 369.99 EUR
 currency: EUR

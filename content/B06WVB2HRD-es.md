@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WVB2HRD-es Princess 201852 Exprimidor Champion Juicer – Brazo de...'
+sku: 'B06WVB2HRD-es'
 tags: [  ]
 actualPrice: 38.25 EUR
 currency: EUR

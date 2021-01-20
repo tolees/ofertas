@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0829KZCZ2-es adidas Don t Rest Women s Bra - SS20 - M'
+sku: 'B0829KZCZ2-es'
 tags: [  ]
 actualPrice: 28.36 EUR
 currency: EUR

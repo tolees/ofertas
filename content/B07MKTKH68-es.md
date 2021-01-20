@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MKTKH68-es Memory Matching Game Pairs Juego Brain Entrenamiento Desk...'
+sku: 'B07MKTKH68-es'
 tags: [  ]
 actualPrice: 11.59 EUR
 currency: EUR

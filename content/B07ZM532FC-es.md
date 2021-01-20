@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZM532FC-es Repelente ultrasonico antimosquitos antimosquitos...'
+sku: 'B07ZM532FC-es'
 tags: [  ]
 actualPrice: 25.9 EUR
 currency: EUR

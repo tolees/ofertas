@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KK7N4HW-es ELEGIANT Mini LED Luz USB con Altavoz Bluetooth Lámpara...'
+sku: 'B07KK7N4HW-es'
 tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR

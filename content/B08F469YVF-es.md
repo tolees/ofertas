@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08F469YVF-es 12 lápices de colores diferentes con sacapuntas lápices de...'
+sku: 'B08F469YVF-es'
 tags: [  ]
 actualPrice: 1.45 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VWRPG55-es Tamaris 1-1-28339-24 Sandalia con Pulsera para Mujer Rosa...'
+sku: 'B07VWRPG55-es'
 tags: [  ]
 actualPrice: 15.02 EUR
 currency: EUR

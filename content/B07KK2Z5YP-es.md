@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KK2Z5YP-es Columbia Backpedal Clime Outdry Zapatillas de Cross para...'
+sku: 'B07KK2Z5YP-es'
 tags: [  ]
 actualPrice: 35.82 EUR
 currency: EUR

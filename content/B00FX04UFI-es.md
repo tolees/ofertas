@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FX04UFI-es World Of Warcraft 5.0'
+sku: 'B00FX04UFI-es'
 tags: [  ]
 actualPrice: 9.0 EUR
 currency: EUR

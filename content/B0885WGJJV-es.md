@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0885WGJJV-es Vaporizador de Tela portátil Fast-Heat 1200W Potente...'
+sku: 'B0885WGJJV-es'
 tags: [  ]
 actualPrice: 43.99 EUR
 currency: EUR

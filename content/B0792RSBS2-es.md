@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0792RSBS2-es Nakosite RAY2433 Reloj inteligente Mujer Hombre SmartWatch...'
+sku: 'B0792RSBS2-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

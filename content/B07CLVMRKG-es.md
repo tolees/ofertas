@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CLVMRKG-es Memorias USB 5 Piezas 16GB USB 2.0 Stick Flash Drive...'
+sku: 'B07CLVMRKG-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

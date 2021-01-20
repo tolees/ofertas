@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B646YRR-es Jack & Jones Jjecorp Logo Sweat Hood Noos Capucha Negro...'
+sku: 'B07B646YRR-es'
 tags: [  ]
 actualPrice: 16.49 EUR
 currency: EUR

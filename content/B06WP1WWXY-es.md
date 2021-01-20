@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WP1WWXY-es Seiko QHP005A Despertador analógico Marrón'
+sku: 'B06WP1WWXY-es'
 tags: [  ]
 actualPrice: 28.44 EUR
 currency: EUR

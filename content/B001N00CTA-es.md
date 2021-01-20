@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001N00CTA-es EUKANUBA Raza Pequeña Adulto Activo rico en pollo fresco...'
+sku: 'B001N00CTA-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

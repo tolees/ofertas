@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KQBMNNR-es Uten Batidoras Multifuncional Máquina de Batidos de...'
+sku: 'B07KQBMNNR-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

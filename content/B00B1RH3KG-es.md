@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00B1RH3KG-es Bosch Professional GBA 12V 2.0Ah - Batería de litio 1...'
+sku: 'B00B1RH3KG-es'
 tags: [  ]
 actualPrice: 32.9 EUR
 currency: EUR

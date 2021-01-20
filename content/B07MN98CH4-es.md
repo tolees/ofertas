@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MN98CH4-es The North Face Piqué Polo de Manga Corta Hombre Amarillo...'
+sku: 'B07MN98CH4-es'
 tags: [  ]
 actualPrice: 22.72 EUR
 currency: EUR

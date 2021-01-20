@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076VWS27H-es KHOMO Funda iPad Air 3 10.5 2019 / iPad Pro 10.5 2017...'
+sku: 'B076VWS27H-es'
 tags: [  ]
 actualPrice: 13.26 EUR
 currency: EUR

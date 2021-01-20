@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CMQHF2T-es THEE Alfombrilla de Planchar Esterilla de Planchar...'
+sku: 'B07CMQHF2T-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

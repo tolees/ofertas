@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00Q6GQS3K-es KEEP OUT KEP-F80S - Teclado Gaming retroiluminado Color Negro'
+sku: 'B00Q6GQS3K-es'
 tags: [  ]
 actualPrice: 22.47 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013S3UY2E-es Creative Sound Blasterx H3 - Cascos Portátiles Analógicos...'
+sku: 'B013S3UY2E-es'
 tags: [  ]
 actualPrice: 42.3 EUR
 currency: EUR

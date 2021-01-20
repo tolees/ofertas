@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZRX5M3D-es MSI Alpha 15 A3DDK-001XES - Ordenador Portátil Gaming de...'
+sku: 'B07ZRX5M3D-es'
 tags: [  ]
 actualPrice: 929.0 EUR
 currency: EUR

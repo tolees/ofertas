@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GPFFB5Q-es Piz Buin - Protector Solar Tan & Protect Intensificador...'
+sku: 'B07GPFFB5Q-es'
 tags: [  ]
 actualPrice: 17.5 EUR
 currency: EUR

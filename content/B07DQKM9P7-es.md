@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DQKM9P7-es LEADSTAR 5V 10A 50W Fuente de Alimentación Conmutada AC-DC...'
+sku: 'B07DQKM9P7-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

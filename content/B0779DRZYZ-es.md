@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0779DRZYZ-es adidas Entrada 18 JSY T-Shirt Hombre Black/White 2XL'
+sku: 'B0779DRZYZ-es'
 tags: [  ]
 actualPrice: 11.13 EUR
 currency: EUR

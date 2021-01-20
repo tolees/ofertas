@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08J451HBF-es DEtasyXworld Funda Protectora de Fieltro Suave y Liviana...'
+sku: 'B08J451HBF-es'
 tags: [  ]
 actualPrice: 4.0 EUR
 currency: EUR

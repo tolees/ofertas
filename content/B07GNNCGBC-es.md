@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GNNCGBC-es i-eX Puf para Videojuegos y reposapiés Negro 91cm x 88cm...'
+sku: 'B07GNNCGBC-es'
 tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00008XVSX-es WMF Classic Line Cuchillo Cocinero 34 cm con Hoja de Acero...'
+sku: 'B00008XVSX-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

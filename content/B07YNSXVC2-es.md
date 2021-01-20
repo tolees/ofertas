@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YNSXVC2-es Charles Wilson Calzoncillo Bóxer de Hombre 6 Unidades...'
+sku: 'B07YNSXVC2-es'
 tags: [  ]
 actualPrice: 16.95 EUR
 currency: EUR

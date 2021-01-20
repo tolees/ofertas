@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003UGVLPY-es Nixon Reloj Unisex de Digital con Correa en Acero...'
+sku: 'B003UGVLPY-es'
 tags: [  ]
 actualPrice: 72.21 EUR
 currency: EUR

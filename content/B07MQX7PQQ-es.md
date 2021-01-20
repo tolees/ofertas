@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MQX7PQQ-es GANT MD. Extrafine Lambswool V-Neck suéter Gris Dk...'
+sku: 'B07MQX7PQQ-es'
 tags: [  ]
 actualPrice: 49.07 EUR
 currency: EUR

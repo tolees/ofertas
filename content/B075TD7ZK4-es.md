@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075TD7ZK4-es Aqua Moto Racing: Utopia - Versión Española'
+sku: 'B075TD7ZK4-es'
 tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR

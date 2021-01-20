@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZV1WJWY-es Rosendo - Mi Tiempo Señorías… 2CD+DVD'
+sku: 'B07ZV1WJWY-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

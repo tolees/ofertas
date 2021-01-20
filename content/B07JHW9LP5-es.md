@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JHW9LP5-es Columbia Ivo Trail Zapatillas para Hombre Verde Peatmoss...'
+sku: 'B07JHW9LP5-es'
 tags: [  ]
 actualPrice: 67.98 EUR
 currency: EUR

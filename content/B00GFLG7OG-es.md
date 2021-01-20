@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GFLG7OG-es Kärcher WD2 - Aspirador seco y húmedo 1000 W depósito...'
+sku: 'B00GFLG7OG-es'
 tags: [  ]
 actualPrice: 44.85 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079FYVXXZ-es Samsung Protective Standing Cover - Funda para Galaxy S9+...'
+sku: 'B079FYVXXZ-es'
 tags: [  ]
 actualPrice: 18.49 EUR
 currency: EUR

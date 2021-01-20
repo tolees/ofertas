@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AIIPBR0-es UGG W Bailey Bow II Botas para Mujer Gris Grey 38 EU'
+sku: 'B01AIIPBR0-es'
 tags: [  ]
 actualPrice: 149.08 EUR
 currency: EUR

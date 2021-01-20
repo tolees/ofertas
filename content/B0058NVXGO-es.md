@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0058NVXGO-es Veet Tarro Cera Depilatoria Tibia de Resultados...'
+sku: 'B0058NVXGO-es'
 tags: [  ]
 actualPrice: 9.25 EUR
 currency: EUR

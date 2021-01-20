@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074DVDF9L-es Hiedra artificial de Amkun pack de 12 para bodas cocina...'
+sku: 'B074DVDF9L-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

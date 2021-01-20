@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0872VLVFK-es PopHMN Kit de sushi Kit de fabricación de sushi 5PCS Kit...'
+sku: 'B0872VLVFK-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

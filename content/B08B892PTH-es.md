@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B892PTH-es FLZONE Ganchos para Cortina de Ducha 12 Piezas Anillos de...'
+sku: 'B08B892PTH-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

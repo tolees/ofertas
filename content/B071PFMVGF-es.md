@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071PFMVGF-es Cool Area Toldo Vela de Sombra Rectangular 4 x 6 Metros...'
+sku: 'B071PFMVGF-es'
 tags: [  ]
 actualPrice: 95.98 EUR
 currency: EUR

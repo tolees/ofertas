@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P6RVWGK-es American Tourister Jetglam Spinner S Equipaje de Mano 55...'
+sku: 'B07P6RVWGK-es'
 tags: [  ]
 actualPrice: 80.5 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083XRM1DG-es Enchufe de sincronización wifi Enchufe inalámbrico Puertos...'
+sku: 'B083XRM1DG-es'
 tags: [  ]
 actualPrice: 15.91 EUR
 currency: EUR

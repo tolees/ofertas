@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDL9CB1-es Skechers Men s Dynamight 2.0-fallford Trainers Negro Black...'
+sku: 'B07NDL9CB1-es'
 tags: [  ]
 actualPrice: 38.45 EUR
 currency: EUR

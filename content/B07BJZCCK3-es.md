@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BJZCCK3-es BOSHUN Pintar por Numeros para Adultos Niños Pintura por...'
+sku: 'B07BJZCCK3-es'
 tags: [  ]
 actualPrice: 8.21 EUR
 currency: EUR

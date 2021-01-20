@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TLLFZW2-es Superdry OL Classic Raglan Ziphood Capucha Azul Rich Blue...'
+sku: 'B07TLLFZW2-es'
 tags: [  ]
 actualPrice: 47.44 EUR
 currency: EUR

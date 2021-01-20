@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DQKC555-es TACKLIFE Lijadora Orbital Lijadora Eléctrica de 6...'
+sku: 'B07DQKC555-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ZRD7J5O-es Trust Mico - Micrófono USB con trípode'
+sku: 'B00ZRD7J5O-es'
 tags: [  ]
 actualPrice: 18.47 EUR
 currency: EUR

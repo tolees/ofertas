@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N14DMWQ-es Skechers Go Walk 5 Prized Zapatillas para Mujer Negro...'
+sku: 'B07N14DMWQ-es'
 tags: [  ]
 actualPrice: 48.12 EUR
 currency: EUR

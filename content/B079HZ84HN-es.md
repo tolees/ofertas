@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079HZ84HN-es Racketworld Wilson Six Two BLX – Raqueta de Tenis + 3...'
+sku: 'B079HZ84HN-es'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

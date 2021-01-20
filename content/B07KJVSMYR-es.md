@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KJVSMYR-es Saucony Cohesion 12 Zapatillas de Running para Hombre...'
+sku: 'B07KJVSMYR-es'
 tags: [  ]
 actualPrice: 44.5 EUR
 currency: EUR

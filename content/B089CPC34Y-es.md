@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089CPC34Y-es WXQ Tapa de Basura de Acero Inoxidable de Tipo Pedal...'
+sku: 'B089CPC34Y-es'
 tags: [  ]
 actualPrice: 88.99 EUR
 currency: EUR

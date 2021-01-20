@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WJP5L1B-es Nox Hummer Fusion S - NXHUMMERFSNS - Caja PC ARGB USB 3.0...'
+sku: 'B07WJP5L1B-es'
 tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR

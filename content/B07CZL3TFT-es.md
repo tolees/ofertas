@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZL3TFT-es 8-Bit Armies'
+sku: 'B07CZL3TFT-es'
 tags: [  ]
 actualPrice: 10.8 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BB7SGYK-es Vaso Bambu 270 ML | Mickey Mouse - Disney - All Star'
+sku: 'B07BB7SGYK-es'
 tags: [  ]
 actualPrice: 2.0 EUR
 currency: EUR

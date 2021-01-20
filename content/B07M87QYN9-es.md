@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M87QYN9-es REPLAY ReplayFu3062.000.a0021bUnisex adultoMochilasNegro...'
+sku: 'B07M87QYN9-es'
 tags: [  ]
 actualPrice: 43.61 EUR
 currency: EUR

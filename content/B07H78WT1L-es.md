@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H78WT1L-es Moulinex Infiny Force Ultimate Cocktail DD87KD10 Batidora...'
+sku: 'B07H78WT1L-es'
 tags: [  ]
 actualPrice: 60.83 EUR
 currency: EUR

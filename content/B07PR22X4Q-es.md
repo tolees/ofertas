@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PR22X4Q-es Under Armour Fly by 2.0 Short Panatalones Cortos Deporte...'
+sku: 'B07PR22X4Q-es'
 tags: [  ]
 actualPrice: 13.49 EUR
 currency: EUR

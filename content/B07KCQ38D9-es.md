@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KCQ38D9-es Adidas T19 Kn SHO M Pantalones Cortos de Deporte Hombre...'
+sku: 'B07KCQ38D9-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

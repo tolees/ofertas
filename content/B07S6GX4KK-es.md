@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S6GX4KK-es Under Armour UA Remix 2.0 Zapatillas de Running Deportivas...'
+sku: 'B07S6GX4KK-es'
 tags: [  ]
 actualPrice: 52.97 EUR
 currency: EUR

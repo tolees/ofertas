@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0813HGBNN-es SHUIBIAN 5D DIY Diamante Pintura Diamante Completo Tigre...'
+sku: 'B0813HGBNN-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

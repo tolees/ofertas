@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CPPWYYS-es IBILI - Cortador Ondulado para Verduras'
+sku: 'B00CPPWYYS-es'
 tags: [  ]
 actualPrice: 2.85 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K6N8PY8-es Columbia Snuggly Bunny Mono de esquí infantil Niño Verde...'
+sku: 'B07K6N8PY8-es'
 tags: [  ]
 actualPrice: 30.08 EUR
 currency: EUR

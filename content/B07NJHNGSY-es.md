@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJHNGSY-es Brabantia Tasty + Espátula repostería de silicona color...'
+sku: 'B07NJHNGSY-es'
 tags: [  ]
 actualPrice: 4.55 EUR
 currency: EUR

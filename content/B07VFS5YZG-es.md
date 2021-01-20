@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VFS5YZG-es Protectores de la cubierta del respaldo del asiento...'
+sku: 'B07VFS5YZG-es'
 tags: [  ]
 actualPrice: 4.24 EUR
 currency: EUR

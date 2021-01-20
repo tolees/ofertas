@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079VSSRKK-es Weider Vegan Diet Meal Choco 540 Gr. Sutituto de comida...'
+sku: 'B079VSSRKK-es'
 tags: [  ]
 actualPrice: 11.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0796LKBLY-es RELIFE REBUILD YOUR LIFE Banco Musculación Abdominales...'
+sku: 'B0796LKBLY-es'
 tags: [  ]
 actualPrice: 72.99 EUR
 currency: EUR

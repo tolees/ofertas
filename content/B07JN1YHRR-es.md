@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JN1YHRR-es Relojes de Hombre Reloj Deportivo Digital para Hombre...'
+sku: 'B07JN1YHRR-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

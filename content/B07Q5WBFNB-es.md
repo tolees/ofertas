@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q5WBFNB-es My Lovely Bed - Almohada Cervical Viscoelástica | Memory...'
+sku: 'B07Q5WBFNB-es'
 tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR

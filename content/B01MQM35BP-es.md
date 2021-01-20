@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MQM35BP-es PUMA Basket Heart Patent WN S Zapatillas para Mujer Negro...'
+sku: 'B01MQM35BP-es'
 tags: [  ]
 actualPrice: 45.0 EUR
 currency: EUR

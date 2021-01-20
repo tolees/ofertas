@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S1SR2SL-es Vareone Cajas Cesta de Almacenamiento Plegables de...'
+sku: 'B07S1SR2SL-es'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

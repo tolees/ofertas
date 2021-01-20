@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S4XZP9N-es New Balance 574v2 Zapatillas para Mujer Rosa Pink/White...'
+sku: 'B07S4XZP9N-es'
 tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR

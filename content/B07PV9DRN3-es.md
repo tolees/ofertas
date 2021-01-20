@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PV9DRN3-es Tyroler Bright Tools Mopa de Microfibra para Usar Seca y...'
+sku: 'B07PV9DRN3-es'
 tags: [  ]
 actualPrice: 30.9 EUR
 currency: EUR

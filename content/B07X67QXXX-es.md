@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X67QXXX-es Mini Chupa Chups Caramelo con Palo de Sabores Variados -...'
+sku: 'B07X67QXXX-es'
 tags: [  ]
 actualPrice: 1.41 EUR
 currency: EUR

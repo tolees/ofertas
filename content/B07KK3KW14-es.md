@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KK3KW14-es Columbia Fire Venture L Mid II WP Botas de Senderismo para...'
+sku: 'B07KK3KW14-es'
 tags: [  ]
 actualPrice: 26.42 EUR
 currency: EUR

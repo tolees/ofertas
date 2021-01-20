@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N4QFIZY-es adidas X 17.3 FG Zapatillas de Fútbol para Hombre...'
+sku: 'B01N4QFIZY-es'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

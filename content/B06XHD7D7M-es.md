@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XHD7D7M-es Helly Hansen HH LIFA Merino Crew LS Baselayer Hombre Negro M'
+sku: 'B06XHD7D7M-es'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000PVH3ZE-es Quercetti-Quercetti-2123 FC Básico d.15-Juego Educativo de...'
+sku: 'B000PVH3ZE-es'
 tags: [  ]
 actualPrice: 7.5 EUR
 currency: EUR

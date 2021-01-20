@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CCRD39I-es TABAIBA Aloe Vera Gel Gel con Aloe Vera 150 ml'
+sku: 'B01CCRD39I-es'
 tags: [  ]
 actualPrice: 6.95 EUR
 currency: EUR

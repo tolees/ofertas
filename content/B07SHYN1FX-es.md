@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SHYN1FX-es Levi s Pillsbury Zapatillas para Hombre Blanco R White 51...'
+sku: 'B07SHYN1FX-es'
 tags: [  ]
 actualPrice: 30.0 EUR
 currency: EUR

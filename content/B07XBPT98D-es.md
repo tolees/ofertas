@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XBPT98D-es LIGE Relojes para Hombre Simple Negocio Deportivo Cuarzo...'
+sku: 'B07XBPT98D-es'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

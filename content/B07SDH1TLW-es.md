@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SDH1TLW-es adidas I Lin Jogg FL Tracksuit Unisex niños Real...'
+sku: 'B07SDH1TLW-es'
 tags: [  ]
 actualPrice: 14.97 EUR
 currency: EUR

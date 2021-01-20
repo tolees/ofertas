@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009B7RACY-es Selene Mariluz Sujetador con Aros Para Mujer Negro 95C'
+sku: 'B009B7RACY-es'
 tags: [  ]
 actualPrice: 11.6 EUR
 currency: EUR

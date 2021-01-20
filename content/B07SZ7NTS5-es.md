@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SZ7NTS5-es Blackview BV1000 - Teléfono Móvil Dual SIM de 2.4" Batería...'
+sku: 'B07SZ7NTS5-es'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

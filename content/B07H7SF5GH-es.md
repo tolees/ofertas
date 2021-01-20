@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H7SF5GH-es Nike Wmns Downshifter 9 Zapatillas de Running para Mujer...'
+sku: 'B07H7SF5GH-es'
 tags: [  ]
 actualPrice: 35.95 EUR
 currency: EUR

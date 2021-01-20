@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007ZPWIQC-es Melissa & Doug- Box of Rainbow Mini Tarjetas para Dibujar...'
+sku: 'B007ZPWIQC-es'
 tags: [  ]
 actualPrice: 7.44 EUR
 currency: EUR

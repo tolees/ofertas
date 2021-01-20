@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0833NFRBP-es Thicken The Body ḔxtêṈṧióṈ Dêl ḔxtêṈṧôr Dêl PêṈê PêṈê...'
+sku: 'B0833NFRBP-es'
 tags: [  ]
 actualPrice: 14.19 EUR
 currency: EUR

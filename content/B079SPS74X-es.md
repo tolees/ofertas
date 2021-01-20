@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079SPS74X-es GB eye LTD Rick and Morty Mr Meeseeks Taza 3D'
+sku: 'B079SPS74X-es'
 tags: [  ]
 actualPrice: 10.95 EUR
 currency: EUR

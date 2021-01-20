@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MRP5KTN-es Guess W0911L1 Reloj de pulsera para mujer Blanco'
+sku: 'B01MRP5KTN-es'
 tags: [  ]
 actualPrice: 62.4 EUR
 currency: EUR

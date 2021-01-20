@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016AFQVXS-es Dormio Ortopédico - Colchón de Eliocel Blanco 135 x 190 cm'
+sku: 'B016AFQVXS-es'
 tags: [  ]
 actualPrice: 97.02 EUR
 currency: EUR

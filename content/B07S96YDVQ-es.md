@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S96YDVQ-es adidas M Mh Plain T P Pantalones de Deporte Hombre Black L'
+sku: 'B07S96YDVQ-es'
 tags: [  ]
 actualPrice: 24.85 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TSQ8H7S-es Skechers Ultra Groove Zapatillas para Hombre Azul Navy...'
+sku: 'B07TSQ8H7S-es'
 tags: [  ]
 actualPrice: 36.9 EUR
 currency: EUR

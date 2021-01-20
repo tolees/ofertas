@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007FTKXWY-es RockShox Kit Mantenimiento Horquilla Reba/SID...'
+sku: 'B007FTKXWY-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

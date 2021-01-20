@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HB56W1W-es Woxter Stinger RX 1100 H - Auriculares Gaming...'
+sku: 'B07HB56W1W-es'
 tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR

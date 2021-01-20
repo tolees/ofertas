@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NPKSYBG-es Jabra Elite Active 45e – Auriculares Deportivos Bluetooth...'
+sku: 'B07NPKSYBG-es'
 tags: [  ]
 actualPrice: 74.99 EUR
 currency: EUR

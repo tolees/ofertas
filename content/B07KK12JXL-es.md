@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KK12JXL-es 10 Unids Lavado Facial Soplo Limpiador de Cara Esponjas de...'
+sku: 'B07KK12JXL-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

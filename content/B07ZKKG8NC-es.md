@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZKKG8NC-es VeagleFly Shiatsu Masajeador de cuello con Calor Cervical...'
+sku: 'B07ZKKG8NC-es'
 tags: [  ]
 actualPrice: 28.89 EUR
 currency: EUR

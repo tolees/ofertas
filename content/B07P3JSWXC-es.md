@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P3JSWXC-es Superdry Core Sport Graphic tee Top de Deporte Gris Light...'
+sku: 'B07P3JSWXC-es'
 tags: [  ]
 actualPrice: 12.73 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XY7JSNQ-es DoGeek Bolsas de Malla de Lavandería Bolsas de Lavado para...'
+sku: 'B06XY7JSNQ-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

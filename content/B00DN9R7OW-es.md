@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DN9R7OW-es HiPP Biológico Tarrito Manzana y Plátano con Galletas -...'
+sku: 'B00DN9R7OW-es'
 tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR

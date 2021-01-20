@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W72TF4S-es BaByliss 2165CE Plancha de crimpar para crear volumen y...'
+sku: 'B07W72TF4S-es'
 tags: [  ]
 actualPrice: 13.5 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JGM3LTE-es Rowenta RH8897W0 Air Force Extreme Power Pro - Aspirador...'
+sku: 'B01JGM3LTE-es'
 tags: [  ]
 actualPrice: 199.99 EUR
 currency: EUR

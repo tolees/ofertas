@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TTJLFAW-es Clarks Tilden Cap Zapatos de Cordones Derby para Hombre...'
+sku: 'B00TTJLFAW-es'
 tags: [  ]
 actualPrice: 59.71 EUR
 currency: EUR

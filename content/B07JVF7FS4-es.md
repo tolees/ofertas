@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JVF7FS4-es Moleskine - Agenda Semanal de 12 meses para 2020 El...'
+sku: 'B07JVF7FS4-es'
 tags: [  ]
 actualPrice: 13.7 EUR
 currency: EUR

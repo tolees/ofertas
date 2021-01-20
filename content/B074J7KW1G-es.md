@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074J7KW1G-es FLEXI Design M Cinta 5M. Azul'
+sku: 'B074J7KW1G-es'
 tags: [  ]
 actualPrice: 11.88 EUR
 currency: EUR

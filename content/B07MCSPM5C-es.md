@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MCSPM5C-es Napapijri TALY 2 LS Polo Azul BLU Marine 176 L para Hombre'
+sku: 'B07MCSPM5C-es'
 tags: [  ]
 actualPrice: 39.5 EUR
 currency: EUR

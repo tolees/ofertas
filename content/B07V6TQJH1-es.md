@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V6TQJH1-es Max Factor Colour Elixir Lipstick Barra de labios Tono 70...'
+sku: 'B07V6TQJH1-es'
 tags: [  ]
 actualPrice: 8.15 EUR
 currency: EUR

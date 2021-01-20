@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PJWK1GS-es Yeeper Zapatillas de Seguridad Deportivos con Puntera de...'
+sku: 'B07PJWK1GS-es'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

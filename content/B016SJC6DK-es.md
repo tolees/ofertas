@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016SJC6DK-es BeMaxx Juego de Bandas de Resistencia elásticas + guía de...'
+sku: 'B016SJC6DK-es'
 tags: [  ]
 actualPrice: 64.99 EUR
 currency: EUR

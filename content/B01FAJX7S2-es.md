@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FAJX7S2-es Junta de tapa compatible con Thermomix TM31'
+sku: 'B01FAJX7S2-es'
 tags: [  ]
 actualPrice: 8.9 EUR
 currency: EUR

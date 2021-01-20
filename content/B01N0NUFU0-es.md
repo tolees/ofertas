@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N0NUFU0-es Cecotec Envasadora Vacío SealVac 110. 3 Modos de...'
+sku: 'B01N0NUFU0-es'
 tags: [  ]
 actualPrice: 39.2 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N4B4DBP-es Piz Buin - Protector Solar Hydro Infusion Crema Solar...'
+sku: 'B07N4B4DBP-es'
 tags: [  ]
 actualPrice: 10.37 EUR
 currency: EUR

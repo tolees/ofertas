@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088FJJMYX-es PC Webcam USB Cámara Web con Micrófono Incorporado Que...'
+sku: 'B088FJJMYX-es'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

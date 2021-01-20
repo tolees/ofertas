@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084YZ94JP-es Saco Silla Universal Rosy Fuentes en celeste gris'
+sku: 'B084YZ94JP-es'
 tags: [  ]
 actualPrice: 69.9 EUR
 currency: EUR

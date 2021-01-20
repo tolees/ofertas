@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082NJY47R-es Medidor de Contornos Careslong 10"/250MM Herramienta de...'
+sku: 'B082NJY47R-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

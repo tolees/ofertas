@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HSHFPD0-es Sony Fe 28-70Mm F/3.5-5.6 OSS - Objetivo para Sony...'
+sku: 'B00HSHFPD0-es'
 tags: [  ]
 actualPrice: 289.0 EUR
 currency: EUR

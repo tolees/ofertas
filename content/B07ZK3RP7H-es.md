@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZK3RP7H-es Auriculares Bluetooth Inalámbricos AUSDOM AH01 Auriculares...'
+sku: 'B07ZK3RP7H-es'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

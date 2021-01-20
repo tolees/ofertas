@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RGX3HX2-es Nike Pico 5 PSV Zapatillas de Tenis Unisex Niños Negro...'
+sku: 'B07RGX3HX2-es'
 tags: [  ]
 actualPrice: 11.01 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YBRFZ8D-es NONZERS Protector de Pantalla para Samsung Galaxy S10 Plus...'
+sku: 'B07YBRFZ8D-es'
 tags: [  ]
 actualPrice: 6.2 EUR
 currency: EUR

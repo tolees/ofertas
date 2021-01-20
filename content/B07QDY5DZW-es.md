@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QDY5DZW-es Pokemon JCC - Archivo del caso de Detective Pikachu...'
+sku: 'B07QDY5DZW-es'
 tags: [  ]
 actualPrice: 3.6 EUR
 currency: EUR

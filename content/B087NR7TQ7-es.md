@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087NR7TQ7-es Set de Regalo de Piedras Refrigerantes para Whisky - 6...'
+sku: 'B087NR7TQ7-es'
 tags: [  ]
 actualPrice: 36.9 EUR
 currency: EUR

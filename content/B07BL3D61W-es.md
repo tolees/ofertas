@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BL3D61W-es New Balance 411 h Zapatillas de Running para Hombre Negro...'
+sku: 'B07BL3D61W-es'
 tags: [  ]
 actualPrice: 32.44 EUR
 currency: EUR

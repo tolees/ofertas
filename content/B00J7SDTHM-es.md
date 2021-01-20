@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00J7SDTHM-es Millet Friction - Calzado de senderismo para hombre color...'
+sku: 'B00J7SDTHM-es'
 tags: [  ]
 actualPrice: 97.95 EUR
 currency: EUR

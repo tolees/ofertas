@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KP5SN2V-es Lámpara Secador de Uñas NAVANINO LED/UV Gel Esmalte de...'
+sku: 'B07KP5SN2V-es'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

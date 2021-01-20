@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0758KSWZK-es Star Wars: The Last Jedi Digi Limitada'
+sku: 'B0758KSWZK-es'
 tags: [  ]
 actualPrice: 3.87 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0029EYNGW-es Trixie Alfombrilla Bandeja Gato PVC 37x45 cm Antracita'
+sku: 'B0029EYNGW-es'
 tags: [  ]
 actualPrice: 4.26 EUR
 currency: EUR

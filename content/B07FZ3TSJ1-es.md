@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FZ3TSJ1-es MEDION AKOYA PCC722 - Ordenador de sobremesa Intel Core...'
+sku: 'B07FZ3TSJ1-es'
 tags: [  ]
 actualPrice: 279.99 EUR
 currency: EUR

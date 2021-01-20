@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KTQFK7J-es Lacoste Reloj de Pulsera 2001065'
+sku: 'B07KTQFK7J-es'
 tags: [  ]
 actualPrice: 69.3 EUR
 currency: EUR

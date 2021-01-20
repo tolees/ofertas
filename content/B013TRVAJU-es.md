@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013TRVAJU-es POP! Vinilo - The Hunger Games: Peeta Mellark'
+sku: 'B013TRVAJU-es'
 tags: [  ]
 actualPrice: 9.5 EUR
 currency: EUR

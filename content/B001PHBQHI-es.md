@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001PHBQHI-es Superga 2750 COTU Classic Zapatillas de Gimnasia Unisexo...'
+sku: 'B001PHBQHI-es'
 tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR

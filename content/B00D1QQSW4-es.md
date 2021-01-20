@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00D1QQSW4-es Tatkraft Mercury Perchero de Ropa Plegable para Tiendas y...'
+sku: 'B00D1QQSW4-es'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

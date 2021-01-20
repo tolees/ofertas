@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CRFN3W1-es CYBEX Gold - Silla de Paseo Eezy S Twist Asiento Giratorio...'
+sku: 'B07CRFN3W1-es'
 tags: [  ]
 actualPrice: 159.98 EUR
 currency: EUR

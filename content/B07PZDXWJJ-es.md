@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PZDXWJJ-es Pop! Figura De Vinil: TV: Dark Crystal - Aughra'
+sku: 'B07PZDXWJJ-es'
 tags: [  ]
 actualPrice: 10.0 EUR
 currency: EUR

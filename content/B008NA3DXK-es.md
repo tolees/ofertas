@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008NA3DXK-es Zotal - Parasital Collar Antiparasitario de 75 cm para...'
+sku: 'B008NA3DXK-es'
 tags: [  ]
 actualPrice: 5.51 EUR
 currency: EUR

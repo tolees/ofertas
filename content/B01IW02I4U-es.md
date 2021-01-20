@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IW02I4U-es NYX Professional Makeup Paleta de sombra de ojos Ultimate...'
+sku: 'B01IW02I4U-es'
 tags: [  ]
 actualPrice: 12.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X9WY5B6-es L Oreal Paris Dermo Expertise - Revitalift Filler Sérum...'
+sku: 'B00X9WY5B6-es'
 tags: [  ]
 actualPrice: 11.17 EUR
 currency: EUR

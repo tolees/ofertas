@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BL4F9HK-es RECAMBIOS DREYMA Filtro METÁLICO Campana Extractor BALAY...'
+sku: 'B07BL4F9HK-es'
 tags: [  ]
 actualPrice: 18.85 EUR
 currency: EUR

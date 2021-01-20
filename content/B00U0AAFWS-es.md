@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00U0AAFWS-es Panasonic DMC-TZ70 Cámara Compacta de 12.1 MP Super Zoom...'
+sku: 'B00U0AAFWS-es'
 tags: [  ]
 actualPrice: 199.95 EUR
 currency: EUR

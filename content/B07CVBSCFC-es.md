@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CVBSCFC-es FIND - Princess of Shine Barra de labios mate n.5 + Brillo...'
+sku: 'B07CVBSCFC-es'
 tags: [  ]
 actualPrice: 2.81 EUR
 currency: EUR

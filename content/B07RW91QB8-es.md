@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RW91QB8-es Zeerkeer Rastreador GPS Reloj Inteligente para Niños...'
+sku: 'B07RW91QB8-es'
 tags: [  ]
 actualPrice: 29.9 EUR
 currency: EUR

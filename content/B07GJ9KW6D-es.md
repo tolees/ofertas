@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GJ9KW6D-es [2019 NEW] Pulseras magnéticas los mejores regalos para...'
+sku: 'B07GJ9KW6D-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

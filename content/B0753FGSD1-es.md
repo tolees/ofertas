@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0753FGSD1-es T-shirt Kappa Lucera'
+sku: 'B0753FGSD1-es'
 tags: [  ]
 actualPrice: 10.69 EUR
 currency: EUR

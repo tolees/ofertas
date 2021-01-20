@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFXG55Q-es PUMA Tarrenz SB Puretex Zapatillas Unisex Adulto Black...'
+sku: 'B07KFXG55Q-es'
 tags: [  ]
 actualPrice: 46.73 EUR
 currency: EUR

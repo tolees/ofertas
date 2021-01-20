@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FZ32XQX-es LXHGrowH Funda para Xiaomi Redmi 9A - Carcasa Completa...'
+sku: 'B08FZ32XQX-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077PQB2HC-es Masajeador Cuero Cabelludo FReatech [Mojado & Seco]...'
+sku: 'B077PQB2HC-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

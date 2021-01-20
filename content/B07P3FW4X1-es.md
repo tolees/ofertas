@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P3FW4X1-es Superdry Core Sport Small Logo tee Top de Deporte Gris...'
+sku: 'B07P3FW4X1-es'
 tags: [  ]
 actualPrice: 7.45 EUR
 currency: EUR

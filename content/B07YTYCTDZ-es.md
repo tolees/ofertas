@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YTYCTDZ-es omitium Luz De Nocturna LED Lámpara de Mesita de Noche...'
+sku: 'B07YTYCTDZ-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

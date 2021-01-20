@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074D7JFDG-es Matrix Mousse y espuma - 1 unidad'
+sku: 'B074D7JFDG-es'
 tags: [  ]
 actualPrice: 8.04 EUR
 currency: EUR

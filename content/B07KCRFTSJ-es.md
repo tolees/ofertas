@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KCRFTSJ-es adidas T19 M Polo Shirt Hombre Team Navy Blue/White L'
+sku: 'B07KCRFTSJ-es'
 tags: [  ]
 actualPrice: 20.49 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YFS9ZYX-es Van&Fancy NA cobre White Cubic Zirconia'
+sku: 'B07YFS9ZYX-es'
 tags: [  ]
 actualPrice: 10.3 EUR
 currency: EUR

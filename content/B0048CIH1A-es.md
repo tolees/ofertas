@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0048CIH1A-es Michael Kors Reloj analogico para Hombre de Cuarzo con...'
+sku: 'B0048CIH1A-es'
 tags: [  ]
 actualPrice: 208.0 EUR
 currency: EUR

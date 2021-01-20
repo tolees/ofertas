@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PJTKC3W-es Fairy Jabón Lavavajillas - 5350 gr'
+sku: 'B00PJTKC3W-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

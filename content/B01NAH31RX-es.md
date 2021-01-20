@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NAH31RX-es OrthoCare S.Fitness - Rodillera Soporte y compresión para...'
+sku: 'B01NAH31RX-es'
 tags: [  ]
 actualPrice: 7.95 EUR
 currency: EUR

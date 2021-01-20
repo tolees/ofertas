@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WQ4MX5P-es Divisor de Potencia liviano de Dos vías Jasen Power...'
+sku: 'B07WQ4MX5P-es'
 tags: [  ]
 actualPrice: 1.6 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DFSZ8R8-es Kaishuai Alfombrilla de Ratón Grande Gaming Mouse Pad...'
+sku: 'B08DFSZ8R8-es'
 tags: [  ]
 actualPrice: 7.47 EUR
 currency: EUR

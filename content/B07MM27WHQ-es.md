@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MM27WHQ-es PIKOLINOS Sandalia Plana de Piel Alcudia 816'
+sku: 'B07MM27WHQ-es'
 tags: [  ]
 actualPrice: 30.68 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MFBT3FX-es Kickers Kickstyle Zapatillas para Hombre Azul Marine/Camel...'
+sku: 'B07MFBT3FX-es'
 tags: [  ]
 actualPrice: 27.94 EUR
 currency: EUR

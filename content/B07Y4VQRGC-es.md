@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y4VQRGC-es Compatible con Samsung Galaxy S10 Plus funda transparente...'
+sku: 'B07Y4VQRGC-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

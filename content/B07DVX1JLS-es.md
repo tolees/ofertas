@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DVX1JLS-es Columbia Caldorado III Zapatillas de Running para Asfalto...'
+sku: 'B07DVX1JLS-es'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

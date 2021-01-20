@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RJW9H8T-es New Balance 574v2 Zapatillas para Hombre Gris Grey/Navy...'
+sku: 'B07RJW9H8T-es'
 tags: [  ]
 actualPrice: 55.63 EUR
 currency: EUR

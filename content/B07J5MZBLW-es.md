@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J5MZBLW-es American Tourister - Modern Dream - Spinner Equipaje de...'
+sku: 'B07J5MZBLW-es'
 tags: [  ]
 actualPrice: 92.08 EUR
 currency: EUR

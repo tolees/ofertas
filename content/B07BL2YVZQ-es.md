@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BL2YVZQ-es New Balance 220 Zapatillas para Mujer Negro Black/White...'
+sku: 'B07BL2YVZQ-es'
 tags: [  ]
 actualPrice: 44.95 EUR
 currency: EUR

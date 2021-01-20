@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079LBCV4V-es Gifts Treat Turbante de Secado de Pelo Toalla de Secado de...'
+sku: 'B079LBCV4V-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

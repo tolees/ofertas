@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QG9WWGN-es MTNG Attitude 84086 Zapatillas para Hombre Azul /Mesh 10...'
+sku: 'B07QG9WWGN-es'
 tags: [  ]
 actualPrice: 18.0 EUR
 currency: EUR

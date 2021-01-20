@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MM1TLKW-es upHere Rendimiento Alto Ventilador para Ordenador 140mm...'
+sku: 'B07MM1TLKW-es'
 tags: [  ]
 actualPrice: 12.73 EUR
 currency: EUR

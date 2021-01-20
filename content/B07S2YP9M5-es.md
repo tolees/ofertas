@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S2YP9M5-es BESCHOI Plancha de Pelo Profesional Revestimiento de...'
+sku: 'B07S2YP9M5-es'
 tags: [  ]
 actualPrice: 25.49 EUR
 currency: EUR

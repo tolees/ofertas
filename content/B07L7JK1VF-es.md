@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L7JK1VF-es RUNCCI 3528 2835 2 pines 8 mm Kit de conector de barra de...'
+sku: 'B07L7JK1VF-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

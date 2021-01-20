@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GYMH3QH-es Aussie Tratamiento Intensivo 3 Minute Miracle Hydration -...'
+sku: 'B07GYMH3QH-es'
 tags: [  ]
 actualPrice: 3.89 EUR
 currency: EUR

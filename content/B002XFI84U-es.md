@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002XFI84U-es Dickies Slim Fit Straight - Pantalones para hombre Beige...'
+sku: 'B002XFI84U-es'
 tags: [  ]
 actualPrice: 25.91 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JBK29Y7-es Hackett London Aston Martin Racing Tip Cllr Polo Blanco...'
+sku: 'B07JBK29Y7-es'
 tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR

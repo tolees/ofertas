@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZWV8CW3-es KuGi. para Xiaomi Mi Note 10 Protector de Pantalla TPU...'
+sku: 'B07ZWV8CW3-es'
 tags: [  ]
 actualPrice: 4.95 EUR
 currency: EUR

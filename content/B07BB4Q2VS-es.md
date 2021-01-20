@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BB4Q2VS-es The North Face Edgewood Botas Chukka para Hombre Negro Tnf...'
+sku: 'B07BB4Q2VS-es'
 tags: [  ]
 actualPrice: 39.88 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L44WQNB-es Adidas Terrex Skychaser LT Zapatillas de Deporte para...'
+sku: 'B07L44WQNB-es'
 tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR

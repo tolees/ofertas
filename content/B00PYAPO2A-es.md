@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PYAPO2A-es Biotina 45 comprimidos para fortalecimiento de pelo y uñas...'
+sku: 'B00PYAPO2A-es'
 tags: [  ]
 actualPrice: 5.2 EUR
 currency: EUR

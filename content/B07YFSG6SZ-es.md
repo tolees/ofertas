@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YFSG6SZ-es Horquillas Pelo Niña Remebe 36 Piezas Pinzas Niña e Gomas...'
+sku: 'B07YFSG6SZ-es'
 tags: [  ]
 actualPrice: 8.95 EUR
 currency: EUR

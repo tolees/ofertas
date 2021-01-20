@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K15CW8W-es adidas Superstar El I Zapatillas de Deporte Unisex niño...'
+sku: 'B07K15CW8W-es'
 tags: [  ]
 actualPrice: 27.48 EUR
 currency: EUR

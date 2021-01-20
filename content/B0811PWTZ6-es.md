@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0811PWTZ6-es Tamaño portátil Round Airplay 1080P Wireless WiFi Display...'
+sku: 'B0811PWTZ6-es'
 tags: [  ]
 actualPrice: 15.32 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086PCT1TB-es Funda para Samsung Galaxy S10 Lite + [2 Pack] Cristal...'
+sku: 'B086PCT1TB-es'
 tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR

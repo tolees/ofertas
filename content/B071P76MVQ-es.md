@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071P76MVQ-es BRTLX Bombillas de Vela LED E14 7W Equivalente a 40W...'
+sku: 'B071P76MVQ-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

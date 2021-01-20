@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071NWMVVG-es Asics T7D8N9006 Zapatillas de Running para Mujer Negro...'
+sku: 'B071NWMVVG-es'
 tags: [  ]
 actualPrice: 49.29 EUR
 currency: EUR

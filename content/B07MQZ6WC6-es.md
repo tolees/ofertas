@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MQZ6WC6-es Le Coq Sportif COURTSTAR Craft Zapatillas para Hombre...'
+sku: 'B07MQZ6WC6-es'
 tags: [  ]
 actualPrice: 40.38 EUR
 currency: EUR

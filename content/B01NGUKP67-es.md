@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NGUKP67-es G-STAR RAW Rovic Mid Waist Skinny Pantalones Verde Forest...'
+sku: 'B01NGUKP67-es'
 tags: [  ]
 actualPrice: 49.97 EUR
 currency: EUR

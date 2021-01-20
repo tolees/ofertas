@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V6SPJ1M-es Love MoschinoJc4247pp0aMujerCarteras de manoMarfil Ivory...'
+sku: 'B07V6SPJ1M-es'
 tags: [  ]
 actualPrice: 69.96 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077QB66FL-es Sanfor Pomo olla adaptable a magefesa tradicional con...'
+sku: 'B077QB66FL-es'
 tags: [  ]
 actualPrice: 0.99 EUR
 currency: EUR

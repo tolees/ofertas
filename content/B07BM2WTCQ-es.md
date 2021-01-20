@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BM2WTCQ-es Calcifort-D niños | Calcio puro microencapsulado con...'
+sku: 'B07BM2WTCQ-es'
 tags: [  ]
 actualPrice: 7.45 EUR
 currency: EUR

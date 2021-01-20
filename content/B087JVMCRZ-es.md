@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087JVMCRZ-es 10 unidades – Protector bucal para nariz con soporte nasal...'
+sku: 'B087JVMCRZ-es'
 tags: [  ]
 actualPrice: 7.79 EUR
 currency: EUR

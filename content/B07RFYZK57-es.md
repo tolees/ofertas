@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RFYZK57-es Under Armour Armour Fly Fast Tight Pantalones...'
+sku: 'B07RFYZK57-es'
 tags: [  ]
 actualPrice: 32.68 EUR
 currency: EUR

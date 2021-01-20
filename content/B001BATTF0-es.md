@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001BATTF0-es Philips 12499B2 Vision - Bombilla P21/5W para indicadores...'
+sku: 'B001BATTF0-es'
 tags: [  ]
 actualPrice: 1.72 EUR
 currency: EUR

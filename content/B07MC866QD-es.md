@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MC866QD-es Real Madrid RD-121-RM Despertador Campanas'
+sku: 'B07MC866QD-es'
 tags: [  ]
 actualPrice: 4.48 EUR
 currency: EUR

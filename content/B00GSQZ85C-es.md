@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GSQZ85C-es Victory Endurance Fat Burner - 120 Cápsulas'
+sku: 'B00GSQZ85C-es'
 tags: [  ]
 actualPrice: 10.46 EUR
 currency: EUR

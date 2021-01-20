@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084SPZ4B8-es Cómodo Cintura Media Verano Mujeres Hombres Casual algodón...'
+sku: 'B084SPZ4B8-es'
 tags: [  ]
 actualPrice: 4.14 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0020MMDLU-es Dolce & Gabbana 20984 - Agua de colonia'
+sku: 'B0020MMDLU-es'
 tags: [  ]
 actualPrice: 33.59 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVP2NYW-es BRIKSMAX Kit de Iluminación Led para Lego Technic...'
+sku: 'B07TVP2NYW-es'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

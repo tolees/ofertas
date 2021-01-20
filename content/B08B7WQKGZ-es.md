@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B7WQKGZ-es Ultra Delgado 7000mAh Banco de energía Externa Tamaño...'
+sku: 'B08B7WQKGZ-es'
 tags: [  ]
 actualPrice: 18.84 EUR
 currency: EUR

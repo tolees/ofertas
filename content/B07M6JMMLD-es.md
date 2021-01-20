@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M6JMMLD-es Homyl Caja Estuche para Bolsa Funda para Ordenador...'
+sku: 'B07M6JMMLD-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

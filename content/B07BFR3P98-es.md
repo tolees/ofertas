@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BFR3P98-es Microsoft Surface Book 2 - Ordenador portátil convertible...'
+sku: 'B07BFR3P98-es'
 tags: [  ]
 actualPrice: 1566.55 EUR
 currency: EUR

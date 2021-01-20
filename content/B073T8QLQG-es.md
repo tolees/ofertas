@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073T8QLQG-es Hugo BOSS Reloj Análogo clásico para Mujer de Cuarzo con...'
+sku: 'B073T8QLQG-es'
 tags: [  ]
 actualPrice: 173.6 EUR
 currency: EUR

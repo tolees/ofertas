@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFY5TD6-es Puma Future Runner Premium Zapatillas Unisex Adulto Gris...'
+sku: 'B07KFY5TD6-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

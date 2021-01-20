@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PLPBX5T-es ADATA ASD600Q-480GU31-CBK SD600Q'
+sku: 'B07PLPBX5T-es'
 tags: [  ]
 actualPrice: 54.64 EUR
 currency: EUR

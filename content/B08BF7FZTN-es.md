@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BF7FZTN-es NICEAO Almohadas Piernas Dormir Almohada Piernas Dormir...'
+sku: 'B08BF7FZTN-es'
 tags: [  ]
 actualPrice: 6.31 EUR
 currency: EUR

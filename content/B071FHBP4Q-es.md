@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071FHBP4Q-es 5D Pintura de Diamante de Imitación de Resina Decoración...'
+sku: 'B071FHBP4Q-es'
 tags: [  ]
 actualPrice: 3.29 EUR
 currency: EUR

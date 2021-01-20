@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000BPLGZC-es HP 643A - Cartucho de tóner original LaserJet para...'
+sku: 'B000BPLGZC-es'
 tags: [  ]
 actualPrice: 50.11 EUR
 currency: EUR

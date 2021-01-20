@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D3L7BC3-es Campeones [DVD]'
+sku: 'B07D3L7BC3-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016Y8PQTG-es SAMs Tierhausschuhe Disney Star Wars Trooper Hausschuhe'
+sku: 'B016Y8PQTG-es'
 tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR

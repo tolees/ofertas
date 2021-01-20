@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072KDDP7Y-es Senderismo y acampada Chubasquero Vaxiuja Impermeable De...'
+sku: 'B072KDDP7Y-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

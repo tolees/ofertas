@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LX0ZVXW-es Clatronic TA 3565 Tostadora de Pan Pequeña con 2 Ranuras 3...'
+sku: 'B00LX0ZVXW-es'
 tags: [  ]
 actualPrice: 12.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0173HJRKG-es Fresh N Rebel Rockbox Cube - Altavoz portátil con...'
+sku: 'B0173HJRKG-es'
 tags: [  ]
 actualPrice: 14.52 EUR
 currency: EUR

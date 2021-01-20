@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08G8BLBRS-es Lechnical Termómetros infrarrojos'
+sku: 'B08G8BLBRS-es'
 tags: [  ]
 actualPrice: 6.98 EUR
 currency: EUR

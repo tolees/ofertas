@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V7XV9TH-es Tommy Hilfiger Flatform Runner Colour Sneaker Zapatillas...'
+sku: 'B07V7XV9TH-es'
 tags: [  ]
 actualPrice: 33.98 EUR
 currency: EUR

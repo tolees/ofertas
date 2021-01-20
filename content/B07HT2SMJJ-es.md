@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HT2SMJJ-es Lepfun Laxuri Calcetines de Compresión Medias de...'
+sku: 'B07HT2SMJJ-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

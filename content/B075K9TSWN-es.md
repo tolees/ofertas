@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075K9TSWN-es New Balance 574 Core Zapatillas Hombre Negro Blackout ETE...'
+sku: 'B075K9TSWN-es'
 tags: [  ]
 actualPrice: 65.05 EUR
 currency: EUR

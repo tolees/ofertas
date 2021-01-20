@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077NVVQXM-es Vans Ward Hi Zapatillas Altas para Mujer Negro...'
+sku: 'B077NVVQXM-es'
 tags: [  ]
 actualPrice: 55.93 EUR
 currency: EUR

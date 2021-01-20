@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0748GG3GN-es Contorno de Ojos Antiarrugas | Anti-edad para ojeras...'
+sku: 'B0748GG3GN-es'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

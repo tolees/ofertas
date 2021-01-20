@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CTAMI0I-es 226ERS Recovery Drink Recuperador a base de Proteína...'
+sku: 'B01CTAMI0I-es'
 tags: [  ]
 actualPrice: 24.94 EUR
 currency: EUR

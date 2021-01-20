@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TP46KBJ-es Puma Rebound Layup LO SL Negro 369866 04'
+sku: 'B07TP46KBJ-es'
 tags: [  ]
 actualPrice: 29.3 EUR
 currency: EUR

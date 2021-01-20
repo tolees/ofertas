@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MTG7FX7-es Warner Bros Interactive Spain Harry Potter - Hermione Fun...'
+sku: 'B01MTG7FX7-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

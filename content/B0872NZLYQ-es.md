@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0872NZLYQ-es Funda Transparente Compatible para Mi 9 Pro/Mi 9 Pro 5G...'
+sku: 'B0872NZLYQ-es'
 tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR

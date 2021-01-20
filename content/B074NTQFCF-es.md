@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074NTQFCF-es SALCAR Caja con USB 3.0 para Disco Duro Externo HDD de 2.5...'
+sku: 'B074NTQFCF-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

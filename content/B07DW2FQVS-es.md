@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DW2FQVS-es Karcher Juego de llaves de carraca y de vaso - 130 piezas...'
+sku: 'B07DW2FQVS-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

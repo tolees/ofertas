@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MU50SRI-es adidas Altasport CF I Zapatillas Unisex Niños Blanco...'
+sku: 'B01MU50SRI-es'
 tags: [  ]
 actualPrice: 10.01 EUR
 currency: EUR

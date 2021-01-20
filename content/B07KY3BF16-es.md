@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KY3BF16-es Puma Rise Xt 4 Jr Zapatillas de Balonmano Unisex Niños...'
+sku: 'B07KY3BF16-es'
 tags: [  ]
 actualPrice: 16.72 EUR
 currency: EUR

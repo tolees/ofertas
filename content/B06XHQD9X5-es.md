@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XHQD9X5-es find. Amelie Botas Chelsea para Mujer Negro Black 38 EU'
+sku: 'B06XHQD9X5-es'
 tags: [  ]
 actualPrice: 28.35 EUR
 currency: EUR

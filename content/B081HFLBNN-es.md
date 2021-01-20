@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081HFLBNN-es Ibergrif M22115W-2 - Grifo Mezclador de Cocina Profesional...'
+sku: 'B081HFLBNN-es'
 tags: [  ]
 actualPrice: 49.59 EUR
 currency: EUR

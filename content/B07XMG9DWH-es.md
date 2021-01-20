@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XMG9DWH-es Skechers GO Run Pulse Zapatillas para Hombre Azul Azul...'
+sku: 'B07XMG9DWH-es'
 tags: [  ]
 actualPrice: 46.27 EUR
 currency: EUR

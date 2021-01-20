@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082SR4LZ5-es NHUAIYINSHUGUOGUANGGAOJINGY Tarjeta elevadora de Adaptador...'
+sku: 'B082SR4LZ5-es'
 tags: [  ]
 actualPrice: 5.59 EUR
 currency: EUR

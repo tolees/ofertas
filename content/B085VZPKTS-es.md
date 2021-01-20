@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085VZPKTS-es 5 IN 1 Húmedo & Seco Afeitadora eléctrica para Hombre 4D...'
+sku: 'B085VZPKTS-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZKRM12C-es UGREEN Lector Tarjetas SD y Micro SD USB Tipo C Lector...'
+sku: 'B07ZKRM12C-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

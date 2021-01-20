@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DWKKGG2-es Bourjois Velvet Barra de Labios Líquida Tono 15 Red-...'
+sku: 'B01DWKKGG2-es'
 tags: [  ]
 actualPrice: 4.48 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HY7N6MK-es Rowenta Perfect Steam Pro DG8626 Centro de Planchado...'
+sku: 'B07HY7N6MK-es'
 tags: [  ]
 actualPrice: 179.0 EUR
 currency: EUR

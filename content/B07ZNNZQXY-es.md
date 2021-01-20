@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZNNZQXY-es BRIKSMAX Kit de Iluminación Led para Lego Technic Bugatti...'
+sku: 'B07ZNNZQXY-es'
 tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR

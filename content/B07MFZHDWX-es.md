@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MFZHDWX-es GANT Hampton Botas Chelsea para Mujer Marrón Dark Brown...'
+sku: 'B07MFZHDWX-es'
 tags: [  ]
 actualPrice: 77.88 EUR
 currency: EUR

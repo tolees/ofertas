@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MS4RBRL-es Supportiback® Cojín ortopédico para ciática espalda...'
+sku: 'B01MS4RBRL-es'
 tags: [  ]
 actualPrice: 15.89 EUR
 currency: EUR

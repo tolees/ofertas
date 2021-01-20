@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FXWJQ3R-es Vans Palomar Zapatillas para Niños Negro Suede/Canvas...'
+sku: 'B07FXWJQ3R-es'
 tags: [  ]
 actualPrice: 35.9 EUR
 currency: EUR

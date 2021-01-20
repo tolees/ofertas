@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072DWC71W-es Ambielly calcetines de algodón calcetines térmicos Adulto...'
+sku: 'B072DWC71W-es'
 tags: [  ]
 actualPrice: 9.98 EUR
 currency: EUR

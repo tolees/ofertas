@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085MCJFXB-es MZY1188 Cielo Azul Molde Rectangular de Silicona Molde...'
+sku: 'B085MCJFXB-es'
 tags: [  ]
 actualPrice: 2.54 EUR
 currency: EUR

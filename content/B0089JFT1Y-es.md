@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0089JFT1Y-es Silikomart GEL01MB MINI CLASSIC - Mini moldes de...'
+sku: 'B0089JFT1Y-es'
 tags: [  ]
 actualPrice: 5.0 EUR
 currency: EUR

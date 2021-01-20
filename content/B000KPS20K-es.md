@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000KPS20K-es Philips 62093470 Iluminación de interior G24d-2 2 18 W...'
+sku: 'B000KPS20K-es'
 tags: [  ]
 actualPrice: 3.46 EUR
 currency: EUR

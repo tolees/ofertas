@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074ZPJVGL-es Quantum Mechanix Star Trek-Insignia: Medical Color...'
+sku: 'B074ZPJVGL-es'
 tags: [  ]
 actualPrice: 11.62 EUR
 currency: EUR

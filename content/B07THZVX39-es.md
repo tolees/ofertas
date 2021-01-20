@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07THZVX39-es BRA Advanced Plancha Lisa Aluminio Fundido Multicolor'
+sku: 'B07THZVX39-es'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

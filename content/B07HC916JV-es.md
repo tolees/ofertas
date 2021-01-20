@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HC916JV-es Nobleza – Poste rascador para Gatos de sisal con Juguete....'
+sku: 'B07HC916JV-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SLMS8HY-es Qkiss Rejuvenecimiento Facial Máquina Cuidado Facial de la...'
+sku: 'B07SLMS8HY-es'
 tags: [  ]
 actualPrice: 17.29 EUR
 currency: EUR

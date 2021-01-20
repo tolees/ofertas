@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01G3BGL8E-es MAKITA DEAADP06 - Adaptador para usb 10.8v'
+sku: 'B01G3BGL8E-es'
 tags: [  ]
 actualPrice: 21.02 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FKQTL3X-es adidas 3Mc Zapatillas de Skateboard Unisex Adulto Negro...'
+sku: 'B07FKQTL3X-es'
 tags: [  ]
 actualPrice: 47.65 EUR
 currency: EUR

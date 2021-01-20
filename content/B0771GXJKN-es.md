@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0771GXJKN-es Landove Estampado de animales de manga larga para Bebé-...'
+sku: 'B0771GXJKN-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

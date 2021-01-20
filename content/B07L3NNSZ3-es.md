@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L3NNSZ3-es PLA Plus Filament 1.75mm Tidy Winding 3D Printer Filament...'
+sku: 'B07L3NNSZ3-es'
 tags: [  ]
 actualPrice: 23.39 EUR
 currency: EUR

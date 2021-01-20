@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M8PX6KE-es Sándalo Pulsera de Cuentas Tibetano Budista Buda...'
+sku: 'B01M8PX6KE-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

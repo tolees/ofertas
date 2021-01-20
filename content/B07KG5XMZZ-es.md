@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG5XMZZ-es PUMA King Pro IT Zapatillas de fútbol Unisex Adulto Negro...'
+sku: 'B07KG5XMZZ-es'
 tags: [  ]
 actualPrice: 23.09 EUR
 currency: EUR

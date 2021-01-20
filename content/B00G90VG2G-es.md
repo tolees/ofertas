@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00G90VG2G-es Einhell TH-XG 75 Kit esmeriladora Mini Taladro 120 W 230 V...'
+sku: 'B00G90VG2G-es'
 tags: [  ]
 actualPrice: 49.8 EUR
 currency: EUR

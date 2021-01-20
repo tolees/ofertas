@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0863SQ2QQ-es Suhctup Transparente Funda Compatible con Xiaomi Redmi 6A...'
+sku: 'B0863SQ2QQ-es'
 tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR

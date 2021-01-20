@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YFMBCGW-es Lámparas Solares para Jardín Golwof 6 Piezas Luz Solar...'
+sku: 'B07YFMBCGW-es'
 tags: [  ]
 actualPrice: 26.95 EUR
 currency: EUR

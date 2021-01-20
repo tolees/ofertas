@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CRAE9MQ-es Samyang F1110901101 - Objetivo fotográfico DSLR para Canon...'
+sku: 'B00CRAE9MQ-es'
 tags: [  ]
 actualPrice: 691.95 EUR
 currency: EUR

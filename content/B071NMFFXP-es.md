@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071NMFFXP-es Lapices de Colores Kasimir 48 lapiz colores profesional...'
+sku: 'B071NMFFXP-es'
 tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR

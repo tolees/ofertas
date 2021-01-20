@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GUOB8SW-es Divaz - Zapatillas Deportivas Ellie de Estampado Floral...'
+sku: 'B01GUOB8SW-es'
 tags: [  ]
 actualPrice: 14.2 EUR
 currency: EUR

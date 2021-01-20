@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q5VVR21-es Rowenta VU4210F0 - Ventilador de pie antimosquitos 40 cm...'
+sku: 'B07Q5VVR21-es'
 tags: [  ]
 actualPrice: 47.9 EUR
 currency: EUR

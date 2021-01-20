@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075SXCVFS-es Roffatide Rayado Tartán Costura Hebilla Plano Gorra Boinas...'
+sku: 'B075SXCVFS-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C37STF2-es GRÜNTEK Rodilleras de Trabajo Profesional SOFT GEL....'
+sku: 'B07C37STF2-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

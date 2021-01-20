@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0784T8JVY-es PUMA Liga Casuals Chándal Hombre Negro Puma Black-Puma...'
+sku: 'B0784T8JVY-es'
 tags: [  ]
 actualPrice: 16.49 EUR
 currency: EUR

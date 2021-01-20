@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AAJP9GK-es Columbia Cascades Explorer Pantalones Convertibles para...'
+sku: 'B01AAJP9GK-es'
 tags: [  ]
 actualPrice: 40.89 EUR
 currency: EUR

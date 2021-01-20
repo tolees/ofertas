@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LYN6XTM-es Teka ML 820 bis Microondas con grill 1100 W 20 litros Otro...'
+sku: 'B01LYN6XTM-es'
 tags: [  ]
 actualPrice: 197.98 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y2M7RLY-es Bayala the Game'
+sku: 'B07Y2M7RLY-es'
 tags: [  ]
 actualPrice: 28.77 EUR
 currency: EUR

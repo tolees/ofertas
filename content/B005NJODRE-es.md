@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005NJODRE-es Waterman Expert pluma estilográfica acero inoxidable con...'
+sku: 'B005NJODRE-es'
 tags: [  ]
 actualPrice: 100.15 EUR
 currency: EUR

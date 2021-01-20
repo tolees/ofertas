@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N9K47KG-es Reebok Club C 85 Zapatillas Deportivas para Interior...'
+sku: 'B01N9K47KG-es'
 tags: [  ]
 actualPrice: 57.49 EUR
 currency: EUR

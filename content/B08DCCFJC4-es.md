@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DCCFJC4-es Jooheli Cámara Digital para Niños Cámara Infantil con...'
+sku: 'B08DCCFJC4-es'
 tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR

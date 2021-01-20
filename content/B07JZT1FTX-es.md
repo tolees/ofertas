@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JZT1FTX-es Cable de Cargador Micro USB Trenzado Duradero Cable de...'
+sku: 'B07JZT1FTX-es'
 tags: [  ]
 actualPrice: 3.18 EUR
 currency: EUR

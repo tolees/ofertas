@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BXVBJFP-es Carrera RC - Watergun 2.0 Coche Multicolor 370142033'
+sku: 'B07BXVBJFP-es'
 tags: [  ]
 actualPrice: 32.22 EUR
 currency: EUR

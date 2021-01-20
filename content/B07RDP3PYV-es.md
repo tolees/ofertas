@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RDP3PYV-es New Balance 574v2 Zapatillas para Hombre Negro Black Sov...'
+sku: 'B07RDP3PYV-es'
 tags: [  ]
 actualPrice: 55.63 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q2FG1BM-es HP 27MX - Monitor 27" velocidad de 144 Hz Tecnología AMD...'
+sku: 'B07Q2FG1BM-es'
 tags: [  ]
 actualPrice: 249.01 EUR
 currency: EUR

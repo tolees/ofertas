@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CQX2NWG-es Rowenta Infini Pro Elite CV8732 Negro 2200 W - Secador de...'
+sku: 'B01CQX2NWG-es'
 tags: [  ]
 actualPrice: 14.7 EUR
 currency: EUR

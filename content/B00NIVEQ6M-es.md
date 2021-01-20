@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NIVEQ6M-es Mustard M 16028 - Soporte magnético para clips con diseño...'
+sku: 'B00NIVEQ6M-es'
 tags: [  ]
 actualPrice: 3.95 EUR
 currency: EUR

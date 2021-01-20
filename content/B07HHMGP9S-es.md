@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HHMGP9S-es Chicco Good Night - Vigilabebés de audio con panel de cuna...'
+sku: 'B07HHMGP9S-es'
 tags: [  ]
 actualPrice: 57.01 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HDNBF9C-es ZLJ Cojín Largo Grueso para Tumbona cojín reclinable para...'
+sku: 'B08HDNBF9C-es'
 tags: [  ]
 actualPrice: 1139.99 EUR
 currency: EUR

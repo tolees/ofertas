@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GFQLYGW-es Bosch Home and Garden 0600833101 Bosch Tijera Jardín ISIO...'
+sku: 'B00GFQLYGW-es'
 tags: [  ]
 actualPrice: 56.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X1FLX44-es adidas Crazymove Studio Zapatillas de Deporte Interior...'
+sku: 'B06X1FLX44-es'
 tags: [  ]
 actualPrice: 7.01 EUR
 currency: EUR

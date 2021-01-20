@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074PQTCSX-es adidas V Racer 2.0 Zapatillas para Hombre Azul...'
+sku: 'B074PQTCSX-es'
 tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003WUGR6G-es Munchkin - Cubierto'
+sku: 'B003WUGR6G-es'
 tags: [  ]
 actualPrice: 4.49 EUR
 currency: EUR

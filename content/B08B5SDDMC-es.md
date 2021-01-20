@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B5SDDMC-es alvorog Espejo Maquillaje con Luz LED Espejo de Pared con...'
+sku: 'B08B5SDDMC-es'
 tags: [  ]
 actualPrice: 42.99 EUR
 currency: EUR

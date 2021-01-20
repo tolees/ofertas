@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S8ZSFPR-es Tratamiento de hongos anti hongos Tratamiento de hongos...'
+sku: 'B07S8ZSFPR-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

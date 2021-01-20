@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003CLSNX0-es FoodSaver FSR2802 Rollos de Envasado al Vacío FoodSaver 2...'
+sku: 'B003CLSNX0-es'
 tags: [  ]
 actualPrice: 8.75 EUR
 currency: EUR

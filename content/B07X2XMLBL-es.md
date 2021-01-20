@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X2XMLBL-es Sendowtek Wake Up Light Despertador Luz Reloj despertador...'
+sku: 'B07X2XMLBL-es'
 tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZQJKNH-es Finether Carretilla Plegable Carro de Transporte con 2...'
+sku: 'B07TZQJKNH-es'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

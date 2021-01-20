@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004S9EO4M-es Cudié Catànies - 80 gr.'
+sku: 'B004S9EO4M-es'
 tags: [  ]
 actualPrice: 1.14 EUR
 currency: EUR

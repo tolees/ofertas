@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S9S5L3X-es PUMA Cilia Mode Zapatillas para Mujer Blanco...'
+sku: 'B07S9S5L3X-es'
 tags: [  ]
 actualPrice: 34.95 EUR
 currency: EUR

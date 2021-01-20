@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JYPP44N-es Tommy Hilfiger Essential Craft Vulc Zapatillas para Hombre...'
+sku: 'B07JYPP44N-es'
 tags: [  ]
 actualPrice: 21.49 EUR
 currency: EUR

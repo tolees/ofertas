@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06VWS63K7-es Joyoldelf 30 Moldes para Galletas Moldes Galletas Acero...'
+sku: 'B06VWS63K7-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

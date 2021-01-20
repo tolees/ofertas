@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KK46MNY-es Columbia Conspiracy V Outdry Zapatillas de Senderismo para...'
+sku: 'B07KK46MNY-es'
 tags: [  ]
 actualPrice: 24.82 EUR
 currency: EUR

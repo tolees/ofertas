@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GED7PKU-es SHIMANO R55C4 Zapatas Sueltas Unisex Adulto Multicolor...'
+sku: 'B00GED7PKU-es'
 tags: [  ]
 actualPrice: 11.6 EUR
 currency: EUR

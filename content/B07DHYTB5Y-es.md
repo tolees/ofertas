@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DHYTB5Y-es Lacoste Carnaby EVO BL 2 SUI Zapatillas Unisex Niños...'
+sku: 'B07DHYTB5Y-es'
 tags: [  ]
 actualPrice: 26.37 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071VSTHGF-es Vegetalia Jengibre seco en polvo - 80 gr.'
+sku: 'B071VSTHGF-es'
 tags: [  ]
 actualPrice: 2.21 EUR
 currency: EUR

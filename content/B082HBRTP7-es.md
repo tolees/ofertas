@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082HBRTP7-es ART VVIES Wandbild 40 x 30 Zoll Sonnenuntergang Abend...'
+sku: 'B082HBRTP7-es'
 tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR

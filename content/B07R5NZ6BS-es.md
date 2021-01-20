@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R5NZ6BS-es Viviance Universal Motocicleta Quad Pit Dirt Moto Tambor...'
+sku: 'B07R5NZ6BS-es'
 tags: [  ]
 actualPrice: 3.28 EUR
 currency: EUR

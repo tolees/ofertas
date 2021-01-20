@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZKJHZ5F-es Hollylife Bandeja Extraible de Papel para Oficina...'
+sku: 'B07ZKJHZ5F-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

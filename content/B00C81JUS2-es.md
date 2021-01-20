@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00C81JUS2-es SKLZ Bauchtrainer Core Wheels und Rumpf Trainer Pesas...'
+sku: 'B00C81JUS2-es'
 tags: [  ]
 actualPrice: 34.48 EUR
 currency: EUR

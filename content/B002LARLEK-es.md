@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002LARLEK-es Love Hair Extensions Extensiones de Clip de Pelo Natural...'
+sku: 'B002LARLEK-es'
 tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR

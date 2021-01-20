@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TY263FT-es Skechers Go Run Fast Steadfast Zapatillas sin Cordones...'
+sku: 'B07TY263FT-es'
 tags: [  ]
 actualPrice: 34.45 EUR
 currency: EUR

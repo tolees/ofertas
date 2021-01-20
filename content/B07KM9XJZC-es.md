@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KM9XJZC-es Merrell Nova Gore-Tex Zapatillas de Running para Asfalto...'
+sku: 'B07KM9XJZC-es'
 tags: [  ]
 actualPrice: 61.93 EUR
 currency: EUR

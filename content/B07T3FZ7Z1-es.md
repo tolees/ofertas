@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T3FZ7Z1-es A1SONIC Juego de 2 Fundas de cojín Decorativas de Seda...'
+sku: 'B07T3FZ7Z1-es'
 tags: [  ]
 actualPrice: 3.7 EUR
 currency: EUR

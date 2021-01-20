@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0811LXHP2-es FYLINA Almohada de Viaje Viscoelástica de Espuma de...'
+sku: 'B0811LXHP2-es'
 tags: [  ]
 actualPrice: 12.28 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089YGGM8K-es BAÑADOR DE Hombre QUORIMINEL ASSOR B Blanco XXL'
+sku: 'B089YGGM8K-es'
 tags: [  ]
 actualPrice: 20.3 EUR
 currency: EUR

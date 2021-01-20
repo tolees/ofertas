@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SRXD3CJ-es Lacoste 739CMA0011082 Zapatillas para Hombre Blanco 42 EU'
+sku: 'B07SRXD3CJ-es'
 tags: [  ]
 actualPrice: 74.49 EUR
 currency: EUR

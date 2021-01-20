@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0794QQ1GZ-es Skechers Women s Sure Track Erath - Ii Lace-up Sneakers...'
+sku: 'B0794QQ1GZ-es'
 tags: [  ]
 actualPrice: 57.98 EUR
 currency: EUR

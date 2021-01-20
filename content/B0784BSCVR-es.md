@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0784BSCVR-es Aigostar MR. Black 32JVO - Maquinilla para cortar el pelo...'
+sku: 'B0784BSCVR-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

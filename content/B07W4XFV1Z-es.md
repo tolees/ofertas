@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W4XFV1Z-es Craft Short Progress Longer Shorts Contrast'
+sku: 'B07W4XFV1Z-es'
 tags: [  ]
 actualPrice: 17.89 EUR
 currency: EUR

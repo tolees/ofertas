@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LXWS126-es Khanomak - Body de Manga Larga con Cut out en la Parte de...'
+sku: 'B01LXWS126-es'
 tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G5KM7T7-es Funda nórdica estampada para cama de 105x190/200 Nórdico...'
+sku: 'B07G5KM7T7-es'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

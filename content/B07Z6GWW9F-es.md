@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z6GWW9F-es Cámara digital Vlogging accesorios para cámara G03'
+sku: 'B07Z6GWW9F-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

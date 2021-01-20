@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FCSYVJJ-es Adidas Lite Racer Cln K Zapatillas de deporte Unisex niños...'
+sku: 'B07FCSYVJJ-es'
 tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR

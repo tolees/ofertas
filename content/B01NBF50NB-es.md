@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NBF50NB-es Dickies New York Short Pantalones Cortos para Hombre...'
+sku: 'B01NBF50NB-es'
 tags: [  ]
 actualPrice: 25.21 EUR
 currency: EUR

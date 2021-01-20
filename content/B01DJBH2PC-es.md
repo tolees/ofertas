@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DJBH2PC-es Parker Jotter Kensington Red bolígrafo CT'
+sku: 'B01DJBH2PC-es'
 tags: [  ]
 actualPrice: 7.84 EUR
 currency: EUR

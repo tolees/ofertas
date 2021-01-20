@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L6RCYZM-es Kärcher 1.633-510.0 - Limpiador Eléctrico Ventana WV 6...'
+sku: 'B07L6RCYZM-es'
 tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR

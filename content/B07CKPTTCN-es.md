@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CKPTTCN-es HCMAX Almohada para el Reposacabezas del Coche - Cojín...'
+sku: 'B07CKPTTCN-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

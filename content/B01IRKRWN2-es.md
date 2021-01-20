@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IRKRWN2-es NIXON Reloj Cronógrafo para Hombre de Cuarzo con Correa en...'
+sku: 'B01IRKRWN2-es'
 tags: [  ]
 actualPrice: 58.34 EUR
 currency: EUR

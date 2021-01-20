@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000Y3XAAK-es Wrangler Texas Tonal Vaqueros Negro Black 100 30W / 32L...'
+sku: 'B000Y3XAAK-es'
 tags: [  ]
 actualPrice: 52.91 EUR
 currency: EUR

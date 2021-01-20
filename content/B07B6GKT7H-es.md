@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B6GKT7H-es Kellogg s KG30683 - Caja Cereales Metal Blanco Negro 18 5...'
+sku: 'B07B6GKT7H-es'
 tags: [  ]
 actualPrice: 8.69 EUR
 currency: EUR

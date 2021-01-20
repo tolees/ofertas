@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KC5AH7S-es Auriculares Inalámblicos Auriculares Bluetooth in Ear con...'
+sku: 'B01KC5AH7S-es'
 tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR

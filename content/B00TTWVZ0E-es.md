@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TTWVZ0E-es Lacer Enjuagues Bucales 1 Unidad 200 g'
+sku: 'B00TTWVZ0E-es'
 tags: [  ]
 actualPrice: 3.2 EUR
 currency: EUR

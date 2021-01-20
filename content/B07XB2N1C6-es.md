@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XB2N1C6-es Do not feed the monkey - Collector´s Edition'
+sku: 'B07XB2N1C6-es'
 tags: [  ]
 actualPrice: 29.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JZLBNU6-es BLACK+DECKER PV1820L-QW - Aspirador de mano sin cable 18V...'
+sku: 'B00JZLBNU6-es'
 tags: [  ]
 actualPrice: 74.35 EUR
 currency: EUR

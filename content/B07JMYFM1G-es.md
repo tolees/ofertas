@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JMYFM1G-es Adidas ASWEERUN Zapatillas de deporte Hombre Negro...'
+sku: 'B07JMYFM1G-es'
 tags: [  ]
 actualPrice: 29.87 EUR
 currency: EUR

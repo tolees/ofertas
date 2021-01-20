@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PBQP1TQ-es 100pcs Bola de Vidrio Guijarro de Mármol Color Sólido...'
+sku: 'B07PBQP1TQ-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

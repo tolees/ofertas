@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NOGU23M-es Taurus Galexia Premium - Plancha asador lisa 2200 W'
+sku: 'B00NOGU23M-es'
 tags: [  ]
 actualPrice: 34.9 EUR
 currency: EUR

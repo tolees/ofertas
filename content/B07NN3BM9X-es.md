@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NN3BM9X-es Digimon Data Squad Vol. 3 [Alemania] [DVD]'
+sku: 'B07NN3BM9X-es'
 tags: [  ]
 actualPrice: 13.72 EUR
 currency: EUR

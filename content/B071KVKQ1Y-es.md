@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071KVKQ1Y-es Linksys EA8300 - Router Wi-Fi AC2200 Tri-Banda MAX-Stream...'
+sku: 'B071KVKQ1Y-es'
 tags: [  ]
 actualPrice: 111.15 EUR
 currency: EUR

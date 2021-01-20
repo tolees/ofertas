@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079NHHDQ4-es iMagicBox Kit de Magia con Cartas Cife Spain 41448'
+sku: 'B079NHHDQ4-es'
 tags: [  ]
 actualPrice: 7.46 EUR
 currency: EUR

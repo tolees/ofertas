@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083KFLNLQ-es Voodoo Vixen Nicole Grey 40s Style Mujer Abrigos Negro-...'
+sku: 'B083KFLNLQ-es'
 tags: [  ]
 actualPrice: 96.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073PWZ9TN-es Anself Kit de Pie Escofina Doble Cara + 10pcs Papel de...'
+sku: 'B073PWZ9TN-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BR6DLJR-es Levi s Oversized Batwing Beanie Gorro de Punto Negro Noir...'
+sku: 'B07BR6DLJR-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

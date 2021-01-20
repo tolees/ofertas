@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017R8TBOI-es Tatkraft Panda Gancho Toallero Adhesivo Colgador Infantil...'
+sku: 'B017R8TBOI-es'
 tags: [  ]
 actualPrice: 10.8 EUR
 currency: EUR

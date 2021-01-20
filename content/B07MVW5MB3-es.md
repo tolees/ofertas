@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVW5MB3-es HP Z3700 - Ratón inalámbrico 1200 DPI color mármol'
+sku: 'B07MVW5MB3-es'
 tags: [  ]
 actualPrice: 15.79 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0719DGBFY-es find. Camiseta Estampada para Hombre Negro Charcoal Small'
+sku: 'B0719DGBFY-es'
 tags: [  ]
 actualPrice: 4.5 EUR
 currency: EUR

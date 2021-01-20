@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001FQIXDO-es Merrell Zapatillas J73703 Smooth Black'
+sku: 'B001FQIXDO-es'
 tags: [  ]
 actualPrice: 88.1 EUR
 currency: EUR

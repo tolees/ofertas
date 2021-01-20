@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071V8DY9K-es Powerextra Batería Nikon EN-EL15 de Repuesto y Cargador...'
+sku: 'B071V8DY9K-es'
 tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001KL18FO-es Moulinex Vitae JU200045 - Licuadoras para Verduras y...'
+sku: 'B001KL18FO-es'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N44LUJC-es Salomon Speedcross Vario 2 GTX Calzado de Trail Running...'
+sku: 'B01N44LUJC-es'
 tags: [  ]
 actualPrice: 60.65 EUR
 currency: EUR

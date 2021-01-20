@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0036QKPGE-es Havaianas Brasil Logo Zehentrenner Unisex-Erwachsene...'
+sku: 'B0036QKPGE-es'
 tags: [  ]
 actualPrice: 11.6 EUR
 currency: EUR

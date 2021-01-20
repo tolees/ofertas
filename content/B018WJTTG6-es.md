@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018WJTTG6-es ASUS RT-AC88U - Router Gaming AC3100 Doble Banda Gigabit...'
+sku: 'B018WJTTG6-es'
 tags: [  ]
 actualPrice: 223.0 EUR
 currency: EUR

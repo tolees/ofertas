@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EUWJF8M-es De longhi 5513292831 - Kit de limpieza y mantenimiento...'
+sku: 'B00EUWJF8M-es'
 tags: [  ]
 actualPrice: 20.65 EUR
 currency: EUR

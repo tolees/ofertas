@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00I8I6CTE-es Bomb Cosmetics Regalo para el cuidado de la piel Little...'
+sku: 'B00I8I6CTE-es'
 tags: [  ]
 actualPrice: 12.68 EUR
 currency: EUR

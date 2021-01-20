@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XYVPQSS-es Banda Reflectante 4 Luz Running Brazalete Reflectante con...'
+sku: 'B07XYVPQSS-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0083G9AMM-es MOTOGP MESSENGER BOLSA CASCO: MOTOGP'
+sku: 'B0083G9AMM-es'
 tags: [  ]
 actualPrice: 16.69 EUR
 currency: EUR

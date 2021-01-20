@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XNT455T-es Foto Clip Cadena de Luces LED - Elegear Cadena Luces de...'
+sku: 'B07XNT455T-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

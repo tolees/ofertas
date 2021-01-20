@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NY9ZQXK-es Skechers Heston-Regano Botas Clasicas para Hombre Marrón...'
+sku: 'B07NY9ZQXK-es'
 tags: [  ]
 actualPrice: 44.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RJTBZKP-es adidas Predator 19.3 FG Zapatillas de Fútbol para Hombre...'
+sku: 'B07RJTBZKP-es'
 tags: [  ]
 actualPrice: 48.99 EUR
 currency: EUR

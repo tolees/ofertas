@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PNS4R2Z-es Under Armour Rival Terry Pantalón Mujer Negro SM'
+sku: 'B07PNS4R2Z-es'
 tags: [  ]
 actualPrice: 34.97 EUR
 currency: EUR

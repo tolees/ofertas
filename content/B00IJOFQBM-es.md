@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IJOFQBM-es Russell Hobbs Mix & Go - Batidora de Vaso Individual 300 W...'
+sku: 'B00IJOFQBM-es'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

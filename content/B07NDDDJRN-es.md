@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDDDJRN-es Samsung Galaxy S10 - Smartphone de 6.1” Dual SIM 128 GB...'
+sku: 'B07NDDDJRN-es'
 tags: [  ]
 actualPrice: 639.95 EUR
 currency: EUR

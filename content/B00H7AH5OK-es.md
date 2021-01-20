@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00H7AH5OK-es Head - Pinzas para Pelotas de Mujer Color Rosa y Transparente'
+sku: 'B00H7AH5OK-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

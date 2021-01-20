@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PSJFMVL-es Kipling Cindy Cartera para Mujer Multicolor Navy Stick...'
+sku: 'B07PSJFMVL-es'
 tags: [  ]
 actualPrice: 10.97 EUR
 currency: EUR

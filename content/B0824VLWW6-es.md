@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0824VLWW6-es Auriculares Bluetooth Auriculares Inalámbricos Bluetooth...'
+sku: 'B0824VLWW6-es'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

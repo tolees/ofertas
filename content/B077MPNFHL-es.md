@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077MPNFHL-es Puma Vikky Platform Ribbon P Zapatillas para Mujer Negro...'
+sku: 'B077MPNFHL-es'
 tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR

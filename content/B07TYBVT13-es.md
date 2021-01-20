@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TYBVT13-es S.Lux Hombres Cinturón de Lona YKK Hebilla de Plástico...'
+sku: 'B07TYBVT13-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CWKGKP0-es Krafft - Auto-Arranque 210 Ml 12604'
+sku: 'B00CWKGKP0-es'
 tags: [  ]
 actualPrice: 5.59 EUR
 currency: EUR

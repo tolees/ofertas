@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M740ITK-es Bergner Infinity Chef Sartén de Inducción Aluminio Forjado...'
+sku: 'B01M740ITK-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

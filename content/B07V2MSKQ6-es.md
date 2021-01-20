@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V2MSKQ6-es Tommy Hilfiger - Th Essential Mini Cc Wallet Carteras...'
+sku: 'B07V2MSKQ6-es'
 tags: [  ]
 actualPrice: 26.87 EUR
 currency: EUR

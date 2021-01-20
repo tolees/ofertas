@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008HRESU6-es Bosch 2 608 587 009 - Set de 7 brocas fresadoras planas...'
+sku: 'B008HRESU6-es'
 tags: [  ]
 actualPrice: 14.51 EUR
 currency: EUR

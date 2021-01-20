@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XPPWM7G-es Forever Speed Piscina Perros Gatos Bañera Piscina Mascotas...'
+sku: 'B06XPPWM7G-es'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08723WDTK-es Mono de bebé Promini para bebé – If Grandad Can t Fix It...'
+sku: 'B08723WDTK-es'
 tags: [  ]
 actualPrice: 13.14 EUR
 currency: EUR

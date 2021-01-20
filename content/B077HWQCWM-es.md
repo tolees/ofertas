@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077HWQCWM-es FM London Vest Top and Leggings Conjunto Ropa Deportiva...'
+sku: 'B077HWQCWM-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

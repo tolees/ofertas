@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RB7TS5V-es Columbia Buga Conjunto para la Nieve Niños Azul Super Blue...'
+sku: 'B07RB7TS5V-es'
 tags: [  ]
 actualPrice: 53.19 EUR
 currency: EUR

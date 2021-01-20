@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001UHO8Q4-es Bosch - Desmenuzadora biotrituradora AXT 25 TC 2500 W caja...'
+sku: 'B001UHO8Q4-es'
 tags: [  ]
 actualPrice: 388.35 EUR
 currency: EUR

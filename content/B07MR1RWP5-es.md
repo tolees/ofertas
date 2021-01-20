@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MR1RWP5-es Skechers Go Run Focus-Athos Zapatillas para Hombre Negro...'
+sku: 'B07MR1RWP5-es'
 tags: [  ]
 actualPrice: 35.95 EUR
 currency: EUR

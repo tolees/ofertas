@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00380XNZS-es Panasonic ER-1411 - Cortapelos profesional Versión Importada'
+sku: 'B00380XNZS-es'
 tags: [  ]
 actualPrice: 64.0 EUR
 currency: EUR

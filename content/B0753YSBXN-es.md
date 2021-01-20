@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0753YSBXN-es Balvi chicletera American Dream Rojo Hucha y dispensador...'
+sku: 'B0753YSBXN-es'
 tags: [  ]
 actualPrice: 24.78 EUR
 currency: EUR

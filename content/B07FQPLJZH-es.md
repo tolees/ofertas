@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FQPLJZH-es Clarks Un Adorn Zip Mocasines Negro Black Combi- 37 EU'
+sku: 'B07FQPLJZH-es'
 tags: [  ]
 actualPrice: 75.74 EUR
 currency: EUR

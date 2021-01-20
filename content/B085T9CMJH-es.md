@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085T9CMJH-es J TOHLO 2pcs Aloe Vera Gel -Puro Gel Calmante 100% Natural...'
+sku: 'B085T9CMJH-es'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

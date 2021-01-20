@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XC8ZKJ8-es Nobleza - Rascador para Gatos de cartón. Soporte de...'
+sku: 'B06XC8ZKJ8-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

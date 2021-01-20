@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085WVBZDT-es Mazhar Natural Beige Cotton Rope Handmade Natural Cotton...'
+sku: 'B085WVBZDT-es'
 tags: [  ]
 actualPrice: 10.43 EUR
 currency: EUR

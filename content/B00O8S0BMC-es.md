@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00O8S0BMC-es Intex 28501 - Almohada hinchable para Spa color Beige 39 x...'
+sku: 'B00O8S0BMC-es'
 tags: [  ]
 actualPrice: 7.3 EUR
 currency: EUR

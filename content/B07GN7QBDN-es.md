@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GN7QBDN-es Automático Dispensador de Pasta de Dientes y Conjunto de...'
+sku: 'B07GN7QBDN-es'
 tags: [  ]
 actualPrice: 19.98 EUR
 currency: EUR

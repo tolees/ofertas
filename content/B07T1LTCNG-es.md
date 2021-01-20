@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T1LTCNG-es Buffalo Fierce P1 Zapatillas Altas para Mujer Multicolor...'
+sku: 'B07T1LTCNG-es'
 tags: [  ]
 actualPrice: 56.78 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CXGT5MD-es Cafetera Café Portátil Aicok K-Cup Cafetera Automatizada...'
+sku: 'B07CXGT5MD-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

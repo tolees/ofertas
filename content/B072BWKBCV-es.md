@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072BWKBCV-es Under Armour Men s Blitzing 3.0 Cap Gorra Hombre Azul...'
+sku: 'B072BWKBCV-es'
 tags: [  ]
 actualPrice: 15.29 EUR
 currency: EUR

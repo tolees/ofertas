@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0837QZJG4-es Auriculares Bluetooth Auriculares inalámbricos Mini TWS...'
+sku: 'B0837QZJG4-es'
 tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR

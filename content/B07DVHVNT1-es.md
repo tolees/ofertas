@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DVHVNT1-es New Balance M890v7 Zapatillas de Running para Hombre Verde...'
+sku: 'B07DVHVNT1-es'
 tags: [  ]
 actualPrice: 55.56 EUR
 currency: EUR

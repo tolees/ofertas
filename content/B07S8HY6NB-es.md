@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S8HY6NB-es Under Armour Men s Remix 2.0 Laufschuhe Zapatillas de...'
+sku: 'B07S8HY6NB-es'
 tags: [  ]
 actualPrice: 52.97 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BM1JBN8-es BaByliss Multigroom 8 en 1 E835E - Cortapelos multifunción...'
+sku: 'B00BM1JBN8-es'
 tags: [  ]
 actualPrice: 34.6 EUR
 currency: EUR

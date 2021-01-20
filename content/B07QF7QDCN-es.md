@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QF7QDCN-es Litthing Calcetines Deportivos Antideslizantes de Algodón...'
+sku: 'B07QF7QDCN-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

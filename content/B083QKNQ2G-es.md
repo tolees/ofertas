@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083QKNQ2G-es Asiento trasero Reposacabezas Creative Hook Organizador...'
+sku: 'B083QKNQ2G-es'
 tags: [  ]
 actualPrice: 3.04 EUR
 currency: EUR

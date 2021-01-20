@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVPDRTV-es Skechers Summits Zapatillas para Mujer Gris Gray Mesh/Hot...'
+sku: 'B07TVPDRTV-es'
 tags: [  ]
 actualPrice: 32.9 EUR
 currency: EUR

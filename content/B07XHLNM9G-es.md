@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XHLNM9G-es Botella Agua Acero Inoxidable 350/500/750ml Botella...'
+sku: 'B07XHLNM9G-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

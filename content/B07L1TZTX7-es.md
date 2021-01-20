@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L1TZTX7-es Relojes Hombre Relojes Grandes de Pulsera Militares...'
+sku: 'B07L1TZTX7-es'
 tags: [  ]
 actualPrice: 26.72 EUR
 currency: EUR

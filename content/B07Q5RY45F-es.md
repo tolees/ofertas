@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q5RY45F-es ONTA Botella De Agua Plegable-Botella De Agua Plegable De...'
+sku: 'B07Q5RY45F-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082D5MJS1-es MOZOOSON Pistola de Agua de Juguete para Niñas de Niños...'
+sku: 'B082D5MJS1-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

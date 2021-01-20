@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DVX1MPV-es Columbia Bajada III Zapatillas de Running para Asfalto...'
+sku: 'B07DVX1MPV-es'
 tags: [  ]
 actualPrice: 65.89 EUR
 currency: EUR

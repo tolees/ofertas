@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079CCMFS7-es ITALY MORN Hombre Jogger Pantalones Khaki para el Trabajo...'
+sku: 'B079CCMFS7-es'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0100REZ6C-es Superga 2750-cotu Classic Zapatillas de Gimnasia Unisex...'
+sku: 'B0100REZ6C-es'
 tags: [  ]
 actualPrice: 22.56 EUR
 currency: EUR

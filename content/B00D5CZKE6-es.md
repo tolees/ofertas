@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00D5CZKE6-es Durex Performax Intense 10'
+sku: 'B00D5CZKE6-es'
 tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR

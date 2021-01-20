@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PV1FSDF-es San Ignacio Q2996 Sarten cuadrada 24x24x9.5cm con t...'
+sku: 'B07PV1FSDF-es'
 tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W8HVBL7-es Kelme - Zapatillas Feline 7.0'
+sku: 'B07W8HVBL7-es'
 tags: [  ]
 actualPrice: 38.15 EUR
 currency: EUR

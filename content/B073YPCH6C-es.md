@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073YPCH6C-es Lámpara de noche decorativa Crescent Neon Moon-Nursery...'
+sku: 'B073YPCH6C-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

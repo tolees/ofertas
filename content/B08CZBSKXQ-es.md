@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CZBSKXQ-es 2x200ML Comedero para Perros y Gatode Acero Inoxidable 2...'
+sku: 'B08CZBSKXQ-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

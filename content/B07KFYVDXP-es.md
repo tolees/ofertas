@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFYVDXP-es PUMA Tarrenz SB Puretex Zapatillas Unisex Adulto Moss...'
+sku: 'B07KFYVDXP-es'
 tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR

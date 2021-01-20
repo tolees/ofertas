@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJV2NTB-es Vans Ward Suede/Canvas Zapatillas para Hombre Verde Otw...'
+sku: 'B07TJV2NTB-es'
 tags: [  ]
 actualPrice: 36.67 EUR
 currency: EUR

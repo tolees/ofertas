@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075JJGXVR-es Fujifilm X-E3 - Cuerpo de cámara EVIL de 24.3 MP color plata'
+sku: 'B075JJGXVR-es'
 tags: [  ]
 actualPrice: 499.0 EUR
 currency: EUR

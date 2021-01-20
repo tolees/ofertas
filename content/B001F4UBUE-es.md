@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001F4UBUE-es HP CE251A - Cartucho de tóner'
+sku: 'B001F4UBUE-es'
 tags: [  ]
 actualPrice: 129.82 EUR
 currency: EUR

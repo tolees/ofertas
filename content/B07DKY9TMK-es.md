@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DKY9TMK-es Champion 6pk Sneaker Socken Calcetines Multicolore...'
+sku: 'B07DKY9TMK-es'
 tags: [  ]
 actualPrice: 10.5 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VN63SBZ-es OFICINAS MONTIEL Mesa Escritorio Oficina Blanca de Madera...'
+sku: 'B07VN63SBZ-es'
 tags: [  ]
 actualPrice: 230.0 EUR
 currency: EUR

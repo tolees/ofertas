@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007PNZ4HO-es Romika Alaska 02 Botas de Nieve para Mujer Negro 39 EU'
+sku: 'B007PNZ4HO-es'
 tags: [  ]
 actualPrice: 61.7 EUR
 currency: EUR

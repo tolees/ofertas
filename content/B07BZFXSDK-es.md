@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BZFXSDK-es Lebze Bebé Muselina Swaddle Manta -"Diseño de Dinosaurio"...'
+sku: 'B07BZFXSDK-es'
 tags: [  ]
 actualPrice: 12.9 EUR
 currency: EUR

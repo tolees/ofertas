@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YQH188Z-es Pop! Rocks: Slayer - Jeff Hanneman'
+sku: 'B07YQH188Z-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

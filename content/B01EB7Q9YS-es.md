@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EB7Q9YS-es Suunto SS022154000 Monitores de Actividad Unisex Adulto...'
+sku: 'B01EB7Q9YS-es'
 tags: [  ]
 actualPrice: 59.49 EUR
 currency: EUR

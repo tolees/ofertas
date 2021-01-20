@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F8VK11T-es TACKLIFE Encendedor ELY04 Encendedor Cocina USB Mechero...'
+sku: 'B07F8VK11T-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

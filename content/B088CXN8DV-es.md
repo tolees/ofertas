@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088CXN8DV-es Meerway Bañador Hombre Bañadores de Natación para Hombre...'
+sku: 'B088CXN8DV-es'
 tags: [  ]
 actualPrice: 18.34 EUR
 currency: EUR

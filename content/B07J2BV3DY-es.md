@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J2BV3DY-es Michael Kors Reloj Analógico para Mujer de Cuarzo con...'
+sku: 'B07J2BV3DY-es'
 tags: [  ]
 actualPrice: 139.5 EUR
 currency: EUR

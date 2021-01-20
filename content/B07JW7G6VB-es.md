@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JW7G6VB-es Ping Pop Pijamas para niños Necesito Espacio Ajuste Ceñido...'
+sku: 'B07JW7G6VB-es'
 tags: [  ]
 actualPrice: 7.95 EUR
 currency: EUR

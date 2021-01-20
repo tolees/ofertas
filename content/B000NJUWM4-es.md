@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000NJUWM4-es Fellowes 53062 Pack de 100 fundas para plastificar brillo...'
+sku: 'B000NJUWM4-es'
 tags: [  ]
 actualPrice: 15.4 EUR
 currency: EUR

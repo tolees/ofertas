@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S9RRC38-es PUMA RS-X Reinvent WN S Zapatillas para Mujer Rosa...'
+sku: 'B07S9RRC38-es'
 tags: [  ]
 actualPrice: 81.71 EUR
 currency: EUR

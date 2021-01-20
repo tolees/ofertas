@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IS46XDS-es Travesero empapador impermeable para la cama Máxima...'
+sku: 'B00IS46XDS-es'
 tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR

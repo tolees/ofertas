@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PHZ1FPJ-es Belkin Boost Up Base de carga inalámbrica 10 W cargador...'
+sku: 'B07PHZ1FPJ-es'
 tags: [  ]
 actualPrice: 15.51 EUR
 currency: EUR

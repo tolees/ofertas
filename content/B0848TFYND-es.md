@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0848TFYND-es Hugo BOSS Reloj Cronógrafo para Hombre de Cuarzo con...'
+sku: 'B0848TFYND-es'
 tags: [  ]
 actualPrice: 179.95 EUR
 currency: EUR

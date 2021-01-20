@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KR5HZHD-es GANT FOOTWEAR Bari Zapatos de Cordones Brogue para Hombre...'
+sku: 'B07KR5HZHD-es'
 tags: [  ]
 actualPrice: 47.42 EUR
 currency: EUR

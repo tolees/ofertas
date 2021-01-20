@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T85LSQR-es Helly Hansen Vardapeak V2 Zapatillas de Running para...'
+sku: 'B07T85LSQR-es'
 tags: [  ]
 actualPrice: 48.46 EUR
 currency: EUR

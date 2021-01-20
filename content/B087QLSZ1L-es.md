@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087QLSZ1L-es NINGNETI Reutilizable y Lavable con Carbón Activado Filtro...'
+sku: 'B087QLSZ1L-es'
 tags: [  ]
 actualPrice: 3.0 EUR
 currency: EUR

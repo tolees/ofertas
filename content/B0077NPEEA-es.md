@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0077NPEEA-es Canon EF 24mm f/2.8 IS USM - Objetivo para Canon Distancia...'
+sku: 'B0077NPEEA-es'
 tags: [  ]
 actualPrice: 449.95 EUR
 currency: EUR

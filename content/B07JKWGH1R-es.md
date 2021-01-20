@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JKWGH1R-es Lee Scarlett High Jeans Negro Black Bucklin Ho 27W/35L...'
+sku: 'B07JKWGH1R-es'
 tags: [  ]
 actualPrice: 48.59 EUR
 currency: EUR

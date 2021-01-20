@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082FSDKQK-es Beurer MG10 Bola de masaje con vibración compacta 2...'
+sku: 'B082FSDKQK-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

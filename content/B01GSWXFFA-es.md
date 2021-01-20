@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GSWXFFA-es Under Armour UA M Locker III SL Negro 44 EU'
+sku: 'B01GSWXFFA-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

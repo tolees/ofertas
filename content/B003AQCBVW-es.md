@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003AQCBVW-es Birkenstock Boston 160583 - Zapatillas de casa de fieltro...'
+sku: 'B003AQCBVW-es'
 tags: [  ]
 actualPrice: 57.02 EUR
 currency: EUR

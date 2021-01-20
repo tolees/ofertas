@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FR1CSWR-es Clarks Step Urban Mix Zapatillas para Hombre Negro Black...'
+sku: 'B07FR1CSWR-es'
 tags: [  ]
 actualPrice: 50.0 EUR
 currency: EUR

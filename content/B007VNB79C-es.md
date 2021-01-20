@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007VNB79C-es Bosch - Siemens - Neff - Aceite de Limpieza y Cuidado para...'
+sku: 'B007VNB79C-es'
 tags: [  ]
 actualPrice: 15.6 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NCBT13J-es Pepe Jeans MC Queen Short para Hombre Verde Dark Olive 768...'
+sku: 'B07NCBT13J-es'
 tags: [  ]
 actualPrice: 20.14 EUR
 currency: EUR

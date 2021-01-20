@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N1K22YS-es New Balance ML373 Zapatillas para Hombre Rojo...'
+sku: 'B01N1K22YS-es'
 tags: [  ]
 actualPrice: 47.04 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q19YXNJ-es Fosly Utensilios de Cocina de Acero Inoxidable 10 Unidades...'
+sku: 'B07Q19YXNJ-es'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

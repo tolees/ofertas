@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XS3PLS7-es New Balance Fresh Foam Cruz Hoody Pack Zapatillas de...'
+sku: 'B06XS3PLS7-es'
 tags: [  ]
 actualPrice: 31.0 EUR
 currency: EUR

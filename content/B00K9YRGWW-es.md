@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K9YRGWW-es Original Album Classics. 5cd Slipcase'
+sku: 'B00K9YRGWW-es'
 tags: [  ]
 actualPrice: 8.4 EUR
 currency: EUR

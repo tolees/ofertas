@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078LLD5M5-es Maybelline New York - Color Sensational Pintalabios Mate...'
+sku: 'B078LLD5M5-es'
 tags: [  ]
 actualPrice: 2.95 EUR
 currency: EUR

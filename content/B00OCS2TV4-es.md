@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OCS2TV4-es Panama Jack Bambina Botas Altas para Mujer Negro B60 39 EU'
+sku: 'B00OCS2TV4-es'
 tags: [  ]
 actualPrice: 103.52 EUR
 currency: EUR

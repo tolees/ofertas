@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y8DR2GD-es Gioseppo Deming Zapatillas para Niñas Multicolor...'
+sku: 'B07Y8DR2GD-es'
 tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR

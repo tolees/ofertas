@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081SVSVBP-es Office Ink Toner Reemplazo para Canon PGI-580XXL...'
+sku: 'B081SVSVBP-es'
 tags: [  ]
 actualPrice: 59.94 EUR
 currency: EUR

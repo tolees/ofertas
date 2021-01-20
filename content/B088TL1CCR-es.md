@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088TL1CCR-es Anillo de luz LED 10" Ring Light 3 Colores 10 Brillos...'
+sku: 'B088TL1CCR-es'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

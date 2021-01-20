@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N4EC42N-es Mafia III - Deluxe Edition Includes Family Kick-Back'
+sku: 'B01N4EC42N-es'
 tags: [  ]
 actualPrice: 13.95 EUR
 currency: EUR

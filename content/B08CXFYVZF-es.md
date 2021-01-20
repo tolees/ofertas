@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CXFYVZF-es Beuya Colores sólidos Cajas de Almacenamiento para máscara...'
+sku: 'B08CXFYVZF-es'
 tags: [  ]
 actualPrice: 2.89 EUR
 currency: EUR

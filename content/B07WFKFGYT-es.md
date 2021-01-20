@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WFKFGYT-es Kit de Inicio de Bordado Patrón de Plantas Accesorios de...'
+sku: 'B07WFKFGYT-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

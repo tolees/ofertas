@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HFMMNSS-es Shock Absorber Ultimate Run Bra Sujetador Deportivo Azul...'
+sku: 'B07HFMMNSS-es'
 tags: [  ]
 actualPrice: 23.9 EUR
 currency: EUR

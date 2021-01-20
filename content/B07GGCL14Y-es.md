@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GGCL14Y-es Philips Plancha de vapor GC4567/80 2600 W Ceramic Negro'
+sku: 'B07GGCL14Y-es'
 tags: [  ]
 actualPrice: 49.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y1Q97JH-es BRIKSMAX Kit de Iluminación Led para Lego Aventura del...'
+sku: 'B07Y1Q97JH-es'
 tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR

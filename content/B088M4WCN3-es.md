@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088M4WCN3-es Abanicos Plegables 2 Piezas Abanicos de Mano Plegable Seda...'
+sku: 'B088M4WCN3-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

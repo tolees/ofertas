@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KP749VV-es Halloween 4 - El Regreso de Michael Myers BD + DVD de...'
+sku: 'B07KP749VV-es'
 tags: [  ]
 actualPrice: 8.0 EUR
 currency: EUR

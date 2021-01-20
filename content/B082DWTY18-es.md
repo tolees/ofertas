@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082DWTY18-es Auriculares Inalámbricos 2-en 1 Estéreo Auriculares...'
+sku: 'B082DWTY18-es'
 tags: [  ]
 actualPrice: 48.99 EUR
 currency: EUR

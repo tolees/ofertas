@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0863HCSQZ-es KETONG 50 Partes Desechables Boca Cara Facial Polvo Morph...'
+sku: 'B0863HCSQZ-es'
 tags: [  ]
 actualPrice: 29.9 EUR
 currency: EUR

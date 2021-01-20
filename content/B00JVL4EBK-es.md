@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JVL4EBK-es Casio Reloj Analógico para Mujer de Cuarzo con Correa en...'
+sku: 'B00JVL4EBK-es'
 tags: [  ]
 actualPrice: 43.33 EUR
 currency: EUR

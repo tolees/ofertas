@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KNEZM5A-es Finether-Joyero Bloqueable（Caja para joyas Estuche...'
+sku: 'B01KNEZM5A-es'
 tags: [  ]
 actualPrice: 42.99 EUR
 currency: EUR

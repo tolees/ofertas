@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078GGHNKR-es Tommy Hilfiger Brazilian Braguita brasileña Gris Grey...'
+sku: 'B078GGHNKR-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

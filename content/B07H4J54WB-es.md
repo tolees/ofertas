@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H4J54WB-es SlowTon Sin tirones Arnés de Perro Suave Malla Acolchada...'
+sku: 'B07H4J54WB-es'
 tags: [  ]
 actualPrice: 9.05 EUR
 currency: EUR

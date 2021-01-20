@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HG19YVD-es Zenph Tiendas de campaña Familiares Tienda de campaña...'
+sku: 'B07HG19YVD-es'
 tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR

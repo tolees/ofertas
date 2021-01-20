@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVP1MQJ-es BRIKSMAX Kit de Iluminación Led para Lego Ideas Tron...'
+sku: 'B07TVP1MQJ-es'
 tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR

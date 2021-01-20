@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QSBX2HD-es Funko- 5 Star: Frozen 2-Olaf Disney Figura Coleccionable...'
+sku: 'B07QSBX2HD-es'
 tags: [  ]
 actualPrice: 12.85 EUR
 currency: EUR

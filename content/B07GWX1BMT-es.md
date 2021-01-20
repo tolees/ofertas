@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GWX1BMT-es NNJXD Partido del Unicornio Flor de Las Muchachas del...'
+sku: 'B07GWX1BMT-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

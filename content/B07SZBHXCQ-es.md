@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SZBHXCQ-es Afinador de Guitarra Sintonizador Digital Cromático con...'
+sku: 'B07SZBHXCQ-es'
 tags: [  ]
 actualPrice: 8.69 EUR
 currency: EUR

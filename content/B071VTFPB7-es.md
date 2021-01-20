@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071VTFPB7-es Vintage Rectangle Mantel de lino de algodón Yanyi Brand...'
+sku: 'B071VTFPB7-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

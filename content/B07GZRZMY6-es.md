@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GZRZMY6-es RECCI Cubre Colchón 150x190/200 - Cubrecolchón Impermeable...'
+sku: 'B07GZRZMY6-es'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

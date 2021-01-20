@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000LFXHO0-es Silverline TB05 - Banco de trabajo resistente y plegable...'
+sku: 'B000LFXHO0-es'
 tags: [  ]
 actualPrice: 30.65 EUR
 currency: EUR

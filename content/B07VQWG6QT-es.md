@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VQWG6QT-es Calvin Klein Medium Drawstring Bañador Rojo High Risk XBG...'
+sku: 'B07VQWG6QT-es'
 tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR

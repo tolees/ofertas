@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RJS98ZP-es Rodillo de jade Incluye tres cabezas reemplazables Piedra...'
+sku: 'B07RJS98ZP-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

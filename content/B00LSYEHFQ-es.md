@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LSYEHFQ-es Bosch PHO 2000 - Cuchilla cepilladora caja de cartón 680 W...'
+sku: 'B00LSYEHFQ-es'
 tags: [  ]
 actualPrice: 87.0 EUR
 currency: EUR

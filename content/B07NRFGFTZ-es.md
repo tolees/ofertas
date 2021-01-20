@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NRFGFTZ-es Schwarzkopf Gliss Champú seco anti-grasa - 200 ml x Pack...'
+sku: 'B07NRFGFTZ-es'
 tags: [  ]
 actualPrice: 4.25 EUR
 currency: EUR

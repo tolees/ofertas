@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00I46YF8A-es Deltadore 217 Termostato'
+sku: 'B00I46YF8A-es'
 tags: [  ]
 actualPrice: 90.45 EUR
 currency: EUR

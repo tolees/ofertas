@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y14NR9W-es Philips Everplay BT3900B - Altavoz Bluetooth Potente y...'
+sku: 'B06Y14NR9W-es'
 tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR

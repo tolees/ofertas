@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NKYZQGP-es ZIPRINT 2 Pack Negro Toner MIT Chip Compatible Brother...'
+sku: 'B07NKYZQGP-es'
 tags: [  ]
 actualPrice: 30.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00Q4MXNAC-es Lacoste Crew Neck-sudadera Hombre azul Marine XX-Large...'
+sku: 'B00Q4MXNAC-es'
 tags: [  ]
 actualPrice: 44.95 EUR
 currency: EUR

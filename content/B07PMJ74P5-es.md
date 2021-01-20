@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PMJ74P5-es The Nisha 24 PC pegatinas para pared Adhesivo de Pared...'
+sku: 'B07PMJ74P5-es'
 tags: [  ]
 actualPrice: 24.95 EUR
 currency: EUR

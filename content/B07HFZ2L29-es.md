@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HFZ2L29-es Theefun Máquina de Burbujas automática Dispensador de...'
+sku: 'B07HFZ2L29-es'
 tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR

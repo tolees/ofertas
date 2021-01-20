@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S4XXNW3-es New Balance 373v2 Zapatillas para Mujer Dorado Gold Ga2 35 EU'
+sku: 'B07S4XXNW3-es'
 tags: [  ]
 actualPrice: 20.87 EUR
 currency: EUR

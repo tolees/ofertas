@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZV36R5J-es Helly Hansen Transat Polo Polo Hombre Royal Blue M'
+sku: 'B07ZV36R5J-es'
 tags: [  ]
 actualPrice: 22.49 EUR
 currency: EUR

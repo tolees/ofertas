@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H2TDDYH-es vidaXL Alfombra Redonda 90cm Yute Trenzado Decoración Casa...'
+sku: 'B07H2TDDYH-es'
 tags: [  ]
 actualPrice: 12.0 EUR
 currency: EUR

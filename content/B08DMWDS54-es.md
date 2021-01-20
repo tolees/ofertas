@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DMWDS54-es Panamar S485 a TTL Módulo TTL a RS485 Convertidor de señal...'
+sku: 'B08DMWDS54-es'
 tags: [  ]
 actualPrice: 1.52 EUR
 currency: EUR

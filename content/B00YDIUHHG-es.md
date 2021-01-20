@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00YDIUHHG-es Merrell Terran Lattice Ii Tira de tobillo para Mujer...'
+sku: 'B00YDIUHHG-es'
 tags: [  ]
 actualPrice: 54.95 EUR
 currency: EUR

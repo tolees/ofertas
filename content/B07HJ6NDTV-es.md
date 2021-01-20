@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HJ6NDTV-es Funko- Pop Vinyl: Animation: Rick & Morty: Unity Rick and...'
+sku: 'B07HJ6NDTV-es'
 tags: [  ]
 actualPrice: 6.28 EUR
 currency: EUR

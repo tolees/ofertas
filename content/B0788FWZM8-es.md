@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0788FWZM8-es Lictin Unisex 3 Pcs babero con mangas EVA Impermeable...'
+sku: 'B0788FWZM8-es'
 tags: [  ]
 actualPrice: 7.49 EUR
 currency: EUR

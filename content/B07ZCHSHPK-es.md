@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZCHSHPK-es CD16 Smart Fashion Pantalla en Color Monitorización del...'
+sku: 'B07ZCHSHPK-es'
 tags: [  ]
 actualPrice: 17.39 EUR
 currency: EUR

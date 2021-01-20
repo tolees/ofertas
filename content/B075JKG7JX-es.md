@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075JKG7JX-es Red Castle Citylink III - Silla de paseo plegable color...'
+sku: 'B075JKG7JX-es'
 tags: [  ]
 actualPrice: 182 EUR
 currency: EUR

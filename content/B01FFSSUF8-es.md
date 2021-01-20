@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FFSSUF8-es Nosaprotect Spray triple acción Melocotón. Protección...'
+sku: 'B01FFSSUF8-es'
 tags: [  ]
 actualPrice: 7.5 EUR
 currency: EUR

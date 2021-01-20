@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KO0T5VA-es Kodak Photo Printer Mini WiFi - Impresora fotográfica...'
+sku: 'B01KO0T5VA-es'
 tags: [  ]
 actualPrice: 73.0 EUR
 currency: EUR

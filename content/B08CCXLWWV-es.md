@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CCXLWWV-es Auriculares Bluetooth 5.0 Auriculares inalámbricos 3D...'
+sku: 'B08CCXLWWV-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

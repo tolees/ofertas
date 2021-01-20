@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MPVG3XX-es [Nuevo Modelo]Juego de Bordado Punch Needle Kit de Costura...'
+sku: 'B07MPVG3XX-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

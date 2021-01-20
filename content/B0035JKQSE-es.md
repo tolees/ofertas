@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0035JKQSE-es VAUDE Bike Essential Kits Primeros Auxilios Unisex Adulto...'
+sku: 'B0035JKQSE-es'
 tags: [  ]
 actualPrice: 9.2 EUR
 currency: EUR

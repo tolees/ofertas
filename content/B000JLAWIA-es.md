@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000JLAWIA-es Thierry Mugler - A*MEN RUBBER R edt vapo 100 ml'
+sku: 'B000JLAWIA-es'
 tags: [  ]
 actualPrice: 45.5 EUR
 currency: EUR

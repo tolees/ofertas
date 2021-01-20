@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C78J1BS-es Omen Of Sorrow'
+sku: 'B07C78J1BS-es'
 tags: [  ]
 actualPrice: 10 EUR
 currency: EUR

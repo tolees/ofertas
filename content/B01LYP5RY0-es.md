@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LYP5RY0-es Parker Urban 1931585 - Bolígrafo roller azul vibrante...'
+sku: 'B01LYP5RY0-es'
 tags: [  ]
 actualPrice: 24.0 EUR
 currency: EUR

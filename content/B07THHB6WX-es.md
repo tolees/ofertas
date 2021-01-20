@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07THHB6WX-es Mydours Alfombrillas de Ratón de Cuero de la PU 95 x40cm...'
+sku: 'B07THHB6WX-es'
 tags: [  ]
 actualPrice: 25.97 EUR
 currency: EUR

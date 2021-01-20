@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0721SHDSY-es Nautica Reloj Analogico para Hombre de Cuarzo con Correa...'
+sku: 'B0721SHDSY-es'
 tags: [  ]
 actualPrice: 170.12 EUR
 currency: EUR

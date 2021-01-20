@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078KWXRYP-es adidas Originals X_PLR Zapatillas para Hombre Negro Core...'
+sku: 'B078KWXRYP-es'
 tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR

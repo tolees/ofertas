@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VCKM2PH-es Lacoste Reloj Analógico para Mujer de Cuarzo con Correa en...'
+sku: 'B07VCKM2PH-es'
 tags: [  ]
 actualPrice: 77.47 EUR
 currency: EUR

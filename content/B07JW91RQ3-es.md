@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JW91RQ3-es PanaCasa - Conjuntos de Mesa y 3 Sillas de Jardín Madera...'
+sku: 'B07JW91RQ3-es'
 tags: [  ]
 actualPrice: 120.0 EUR
 currency: EUR

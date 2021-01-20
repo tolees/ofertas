@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SXFR769-es YMX BOXING Pelota Entrenamiento de Reflejos Boxeo - Banda...'
+sku: 'B07SXFR769-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

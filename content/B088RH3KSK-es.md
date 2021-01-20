@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088RH3KSK-es Alfombrilla De Planchar Portátil Manta De Planchar Lana...'
+sku: 'B088RH3KSK-es'
 tags: [  ]
 actualPrice: 41.99 EUR
 currency: EUR

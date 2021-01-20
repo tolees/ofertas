@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NC34MV7-es AXE Gold - Desodorante Bodyspray para hombre 48 horas de...'
+sku: 'B07NC34MV7-es'
 tags: [  ]
 actualPrice: 9.3 EUR
 currency: EUR

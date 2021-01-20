@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000AM7SJO-es Cullmann Alpha 1000 - Trípode Completo hasta 106 cm Negro'
+sku: 'B000AM7SJO-es'
 tags: [  ]
 actualPrice: 10.74 EUR
 currency: EUR

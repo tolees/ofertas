@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077MLQ23K-es PUMA St Runner V2 NL Zapatillas Unisex Adulto Negro Black...'
+sku: 'B077MLQ23K-es'
 tags: [  ]
 actualPrice: 40.42 EUR
 currency: EUR

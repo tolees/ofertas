@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B012FU5IUO-es PANOZON Nuevo Corpiño de Encaje para Mujer de Corsés de...'
+sku: 'B012FU5IUO-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FYCV42G-es Champion Freedom Seamless Soutien-Gorge de Sport Femme...'
+sku: 'B07FYCV42G-es'
 tags: [  ]
 actualPrice: 12.25 EUR
 currency: EUR

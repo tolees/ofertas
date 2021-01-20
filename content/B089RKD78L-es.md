@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089RKD78L-es RuiDaXiang Friends-Casa del árbol Conjunto de Bloques de...'
+sku: 'B089RKD78L-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

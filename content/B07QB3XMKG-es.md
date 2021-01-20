@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QB3XMKG-es MTNG Attitude 69867 Zapatillas para Mujer Blanco Zebro...'
+sku: 'B07QB3XMKG-es'
 tags: [  ]
 actualPrice: 18.25 EUR
 currency: EUR

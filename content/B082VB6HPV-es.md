@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082VB6HPV-es LIUMY Pelota de Juguete al Aire Libre para Perros Juguete...'
+sku: 'B082VB6HPV-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

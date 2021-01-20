@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078H89XFZ-es Wilson WTX0523KIT Set de Pelota de Voleibol Playa y...'
+sku: 'B078H89XFZ-es'
 tags: [  ]
 actualPrice: 17.98 EUR
 currency: EUR

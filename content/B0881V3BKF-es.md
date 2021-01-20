@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0881V3BKF-es Godya Pendientes de Tejido con Papel higiénico Divertido...'
+sku: 'B0881V3BKF-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

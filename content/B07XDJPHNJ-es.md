@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XDJPHNJ-es Bombilla LED G4 2 W de repuesto para bombillas halógenas...'
+sku: 'B07XDJPHNJ-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

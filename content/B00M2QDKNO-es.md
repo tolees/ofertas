@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00M2QDKNO-es SODIAL R Soporte base de mesa universal ajustable plegable...'
+sku: 'B00M2QDKNO-es'
 tags: [  ]
 actualPrice: 2.61 EUR
 currency: EUR

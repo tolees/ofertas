@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079ZZ2RBQ-es VAIRO Short Columns XXL'
+sku: 'B079ZZ2RBQ-es'
 tags: [  ]
 actualPrice: 10.9 EUR
 currency: EUR

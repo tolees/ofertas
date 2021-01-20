@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000J38THE-es Saucony Clarion Zapatillas de Running para Mujer Rosa Rose...'
+sku: 'B000J38THE-es'
 tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR

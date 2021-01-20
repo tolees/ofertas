@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GHUHNPC-es Intex 29020 - Cobertor solar para piscinas 244 cm de diámetro'
+sku: 'B00GHUHNPC-es'
 tags: [  ]
 actualPrice: 7.95 EUR
 currency: EUR

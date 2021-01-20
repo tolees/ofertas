@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XW45MZ8-es Amazon Essentials Classic-Fit Cargo Short Pantalones...'
+sku: 'B06XW45MZ8-es'
 tags: [  ]
 actualPrice: 8.85 EUR
 currency: EUR

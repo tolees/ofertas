@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NFJ4ZXM-es U.S. Polo Assn. Wilde2 Zapatillas de Gimnasia para Hombre...'
+sku: 'B07NFJ4ZXM-es'
 tags: [  ]
 actualPrice: 53.96 EUR
 currency: EUR

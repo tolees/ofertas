@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X9W56RI-es LOREAL Men expert tinte para hombre Moreno Natural Nº 3...'
+sku: 'B00X9W56RI-es'
 tags: [  ]
 actualPrice: 4.75 EUR
 currency: EUR

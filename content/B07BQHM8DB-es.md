@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BQHM8DB-es Luz de decoración con forma de letrero de neón LED...'
+sku: 'B07BQHM8DB-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

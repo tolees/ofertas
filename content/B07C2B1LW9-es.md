@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C2B1LW9-es JACK & JONES Jjipaul Jjflake AKM 542 Noos Pantalones Gris...'
+sku: 'B07C2B1LW9-es'
 tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR

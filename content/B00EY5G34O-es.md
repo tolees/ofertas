@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EY5G34O-es Taurus Tasty Ncream Heladera 12 W 1.5 litros Plástico...'
+sku: 'B00EY5G34O-es'
 tags: [  ]
 actualPrice: 58.99 EUR
 currency: EUR

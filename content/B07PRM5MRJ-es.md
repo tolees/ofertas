@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PRM5MRJ-es West Ham United FC Pijamas de Manga Corta para niños...'
+sku: 'B07PRM5MRJ-es'
 tags: [  ]
 actualPrice: 7.95 EUR
 currency: EUR

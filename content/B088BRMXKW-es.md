@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088BRMXKW-es havit Teclados mecánico Gaming de una Mano y Ratón Teclado...'
+sku: 'B088BRMXKW-es'
 tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR

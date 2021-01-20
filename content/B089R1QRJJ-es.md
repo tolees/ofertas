@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089R1QRJJ-es Reloj de Cabeza Fantasma para niños Reloj de Barril Banda...'
+sku: 'B089R1QRJJ-es'
 tags: [  ]
 actualPrice: 3.59 EUR
 currency: EUR

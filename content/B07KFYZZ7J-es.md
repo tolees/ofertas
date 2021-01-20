@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFYZZ7J-es PUMA Vista Lux Zapatillas Unisex Adulto Galaxy Blue-High...'
+sku: 'B07KFYZZ7J-es'
 tags: [  ]
 actualPrice: 19.58 EUR
 currency: EUR

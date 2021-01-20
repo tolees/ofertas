@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NQN625L-es Bimar Silente VPS40 - Ventilador de Pie Silencioso Mado a...'
+sku: 'B07NQN625L-es'
 tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UN4R3XA-es Montblanc Emblem Intense Edt Vapo 100 Ml 1 Unidad 100 ml'
+sku: 'B00UN4R3XA-es'
 tags: [  ]
 actualPrice: 35.07 EUR
 currency: EUR

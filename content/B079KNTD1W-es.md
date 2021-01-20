@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079KNTD1W-es Remington Compact Control IPL3500 - Depiladora de Luz...'
+sku: 'B079KNTD1W-es'
 tags: [  ]
 actualPrice: 93.92 EUR
 currency: EUR

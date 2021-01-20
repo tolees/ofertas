@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FKP2YLH-es The Gourmet Collection - Mezcla de especias - Sazonador de...'
+sku: 'B07FKP2YLH-es'
 tags: [  ]
 actualPrice: 1.99 EUR
 currency: EUR

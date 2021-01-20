@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083NJLSP3-es Prenine Funda de Silicona para Control Remoto Funda de...'
+sku: 'B083NJLSP3-es'
 tags: [  ]
 actualPrice: 2.39 EUR
 currency: EUR

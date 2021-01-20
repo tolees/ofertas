@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X9TTEQA-es Garnier Delial Protector Solar en Spray para Niños Alta...'
+sku: 'B00X9TTEQA-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

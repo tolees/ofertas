@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CNQ4CH2-es Linterna LED Recargable Zoomable Ajustable Linterna -...'
+sku: 'B07CNQ4CH2-es'
 tags: [  ]
 actualPrice: 12.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SF8PQV2-es G-STAR RAW Midge Cody Mid Waist Skinny Vaquero Azul Medium...'
+sku: 'B00SF8PQV2-es'
 tags: [  ]
 actualPrice: 66.52 EUR
 currency: EUR

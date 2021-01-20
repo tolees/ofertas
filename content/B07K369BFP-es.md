@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K369BFP-es Adidas Vs Advantage Cl K Zapatillas de Deporte Unisex...'
+sku: 'B07K369BFP-es'
 tags: [  ]
 actualPrice: 24.6 EUR
 currency: EUR

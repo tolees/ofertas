@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CX6YZBW-es K&F Concept Bolsa de Filtros Funda Portátil de Cámara 3...'
+sku: 'B08CX6YZBW-es'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

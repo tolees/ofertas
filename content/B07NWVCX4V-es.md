@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NWVCX4V-es Rollerblade Patines RB Cruiser Adultos Unisex Negro/Azul...'
+sku: 'B07NWVCX4V-es'
 tags: [  ]
 actualPrice: 59.98 EUR
 currency: EUR

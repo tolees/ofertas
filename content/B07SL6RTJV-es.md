@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SL6RTJV-es Lacoste 739SFA003421G Zapatillas para Mujer Blanco 37 EU'
+sku: 'B07SL6RTJV-es'
 tags: [  ]
 actualPrice: 58.38 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJK4XX3-es Tefal Everyday Slim - Placa de inducción portatil 6 modos...'
+sku: 'B07NJK4XX3-es'
 tags: [  ]
 actualPrice: 59.98 EUR
 currency: EUR

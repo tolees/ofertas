@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007TS68BG-es Arcos Universal - Macheta 160 mm f.hoja'
+sku: 'B007TS68BG-es'
 tags: [  ]
 actualPrice: 24.95 EUR
 currency: EUR

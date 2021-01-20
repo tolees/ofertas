@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DD6VKBR-es Gormiti GRM05000 Hyperbeast Animal con Sonidos y Figura de...'
+sku: 'B07DD6VKBR-es'
 tags: [  ]
 actualPrice: 16.9 EUR
 currency: EUR

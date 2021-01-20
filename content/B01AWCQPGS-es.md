@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AWCQPGS-es Rollei Compact Traveler No I Carbon I Negro I Trípode de...'
+sku: 'B01AWCQPGS-es'
 tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR

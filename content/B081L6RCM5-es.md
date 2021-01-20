@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081L6RCM5-es Adornos Escultura Einfache Decoración Moderna Keramik...'
+sku: 'B081L6RCM5-es'
 tags: [  ]
 actualPrice: 86.99 EUR
 currency: EUR

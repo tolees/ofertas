@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000NG8ZK8-es Casio Collection Despetador TQ140 Blanco'
+sku: 'B000NG8ZK8-es'
 tags: [  ]
 actualPrice: 8.0 EUR
 currency: EUR

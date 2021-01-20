@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CH3DY12-es Dolity 6 Hojas de Pegatinas Transparentes de Conejo Gordo...'
+sku: 'B07CH3DY12-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

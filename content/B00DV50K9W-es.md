@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DV50K9W-es Superga 2750-cotu Classic Zapatillas de Estar por casa...'
+sku: 'B00DV50K9W-es'
 tags: [  ]
 actualPrice: 27.17 EUR
 currency: EUR

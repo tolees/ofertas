@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079KZLC76-es Veatree Bloques Magnéticos de Construcción para Niños...'
+sku: 'B079KZLC76-es'
 tags: [  ]
 actualPrice: 25.5 EUR
 currency: EUR

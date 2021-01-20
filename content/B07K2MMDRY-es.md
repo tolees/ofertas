@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2MMDRY-es adidas RUNFALCON Zapatillas de Trail Running para Mujer...'
+sku: 'B07K2MMDRY-es'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RMY4DCM-es XJD Patinete Tres 3 Ruedas para Niños de 2 a 10 Años...'
+sku: 'B07RMY4DCM-es'
 tags: [  ]
 actualPrice: 39.98 EUR
 currency: EUR

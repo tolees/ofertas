@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z65NCDS-es Montse Interiors Funda nórdica Estampada Cuadros de...'
+sku: 'B07Z65NCDS-es'
 tags: [  ]
 actualPrice: 30.95 EUR
 currency: EUR

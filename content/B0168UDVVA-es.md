@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0168UDVVA-es Clint Eastwood - Pack 10 [Blu-ray]'
+sku: 'B0168UDVVA-es'
 tags: [  ]
 actualPrice: 24.69 EUR
 currency: EUR

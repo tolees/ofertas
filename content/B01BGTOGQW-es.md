@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BGTOGQW-es G-Star Raw Bronson Pantalones Para Hombre Azul Blue...'
+sku: 'B01BGTOGQW-es'
 tags: [  ]
 actualPrice: 65.99 EUR
 currency: EUR

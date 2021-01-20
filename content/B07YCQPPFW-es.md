@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YCQPPFW-es LeYi Funda Xiaomi Mi A3 / Mi CC9e con HD Protector...'
+sku: 'B07YCQPPFW-es'
 tags: [  ]
 actualPrice: 8.77 EUR
 currency: EUR

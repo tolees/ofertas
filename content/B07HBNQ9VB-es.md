@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HBNQ9VB-es Ease Leap Bufanda Mujer con Tacto Cachemira Fiesta Chal...'
+sku: 'B07HBNQ9VB-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

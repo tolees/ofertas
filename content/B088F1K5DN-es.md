@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088F1K5DN-es OWSOO 720P Cámara Webcam Incorporado Micrófono Cámara USB...'
+sku: 'B088F1K5DN-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

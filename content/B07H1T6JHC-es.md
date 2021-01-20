@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H1T6JHC-es ORNARTO Funda Huawei Mate 20 Lite Mate 20 Lite Carcasa...'
+sku: 'B07H1T6JHC-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

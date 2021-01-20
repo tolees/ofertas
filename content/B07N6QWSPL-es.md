@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N6QWSPL-es MSI Clutch GM50 - Ratón para Gaming Sensor óptico PMW-3330...'
+sku: 'B07N6QWSPL-es'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

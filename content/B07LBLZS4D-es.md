@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBLZS4D-es Rieker B5124-14 Zapatillas para Hombre Azul...'
+sku: 'B07LBLZS4D-es'
 tags: [  ]
 actualPrice: 18.43 EUR
 currency: EUR

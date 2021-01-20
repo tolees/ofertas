@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078BMVGXT-es Pala NOX Equation A.4'
+sku: 'B078BMVGXT-es'
 tags: [  ]
 actualPrice: 99.95 EUR
 currency: EUR

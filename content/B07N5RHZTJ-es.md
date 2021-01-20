@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N5RHZTJ-es Calvin Klein CK UP MINI REPORTERHombreShoppers y bolsos de...'
+sku: 'B07N5RHZTJ-es'
 tags: [  ]
 actualPrice: 37.5 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07575RRKD-es Chicco Echo - Silla de paseo ligera y compacta soporta...'
+sku: 'B07575RRKD-es'
 tags: [  ]
 actualPrice: 87.2 EUR
 currency: EUR

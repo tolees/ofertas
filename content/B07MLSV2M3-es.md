@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MLSV2M3-es Clarks Un Tread UpGTX Botas clásicas. para Hombre Marrón...'
+sku: 'B07MLSV2M3-es'
 tags: [  ]
 actualPrice: 58.75 EUR
 currency: EUR

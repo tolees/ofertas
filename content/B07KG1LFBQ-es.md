@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG1LFBQ-es PUMA RS 9.8 Space Zapatillas Unisex Adulto White-High Risk...'
+sku: 'B07KG1LFBQ-es'
 tags: [  ]
 actualPrice: 43.24 EUR
 currency: EUR

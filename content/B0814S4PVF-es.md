@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0814S4PVF-es Under Armour Challenger III Midlayer Camiseta De Hombre...'
+sku: 'B0814S4PVF-es'
 tags: [  ]
 actualPrice: 27.82 EUR
 currency: EUR

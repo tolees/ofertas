@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0727RKJFL-es KEEPOW Paños de limpieza de microfibra para aspiradora...'
+sku: 'B0727RKJFL-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

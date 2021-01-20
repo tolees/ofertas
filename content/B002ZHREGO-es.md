@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002ZHREGO-es Optimum Nutrition ON Platinum Hydro Whey Proteinas en...'
+sku: 'B002ZHREGO-es'
 tags: [  ]
 actualPrice: 59.26 EUR
 currency: EUR

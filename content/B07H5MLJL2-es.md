@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H5MLJL2-es Triple Magnesium Complex Citrato de magnesio completamente...'
+sku: 'B07H5MLJL2-es'
 tags: [  ]
 actualPrice: 13.43 EUR
 currency: EUR

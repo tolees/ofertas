@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XY5FVZZ-es Valkyria Revolution - Edición Limitada'
+sku: 'B06XY5FVZZ-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

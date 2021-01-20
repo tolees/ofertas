@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015YP76SY-es Beurer ME90-BT - Cardiómetro con Bluetooth compatible con...'
+sku: 'B015YP76SY-es'
 tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR

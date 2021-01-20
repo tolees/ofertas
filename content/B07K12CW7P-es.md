@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K12CW7P-es adidas Forest Grove C Zapatillas de Gimnasia Unisex Niños...'
+sku: 'B07K12CW7P-es'
 tags: [  ]
 actualPrice: 22.82 EUR
 currency: EUR

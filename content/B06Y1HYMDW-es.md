@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y1HYMDW-es Wrangler Arizona Jeans Azul Blue Stroke 1O 33W / 32L para...'
+sku: 'B06Y1HYMDW-es'
 tags: [  ]
 actualPrice: 44.1 EUR
 currency: EUR

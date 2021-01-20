@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075FQKNR4-es Imanes Neodimio FEYG imanes pequeños potentes Imanes...'
+sku: 'B075FQKNR4-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PYX946C-es Cepillo para llantas El cepillo de ruedas de limpia las...'
+sku: 'B07PYX946C-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

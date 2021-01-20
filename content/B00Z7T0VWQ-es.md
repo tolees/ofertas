@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00Z7T0VWQ-es OtterBox Defender - Funda anticaídas para Apple iPad Pro...'
+sku: 'B00Z7T0VWQ-es'
 tags: [  ]
 actualPrice: 54.62 EUR
 currency: EUR

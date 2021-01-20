@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BGFLW9K-es Braun HC 5030 - Máquina de cortar pelo profesional...'
+sku: 'B01BGFLW9K-es'
 tags: [  ]
 actualPrice: 33.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0868NCGXS-es Suhctup Transparente Funda Compatible con Xiaomi Mi Mix 3...'
+sku: 'B0868NCGXS-es'
 tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR

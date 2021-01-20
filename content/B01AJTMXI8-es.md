@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AJTMXI8-es Pioneer TS-A133Ci Altavoces de componentes 2 vías 13 cm...'
+sku: 'B01AJTMXI8-es'
 tags: [  ]
 actualPrice: 75.85 EUR
 currency: EUR

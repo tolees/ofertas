@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDQ2YZ4-es G-STAR RAW Halite Polo Gris Asfalt 995 Medium para Hombre'
+sku: 'B07NDQ2YZ4-es'
 tags: [  ]
 actualPrice: 20.47 EUR
 currency: EUR

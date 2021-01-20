@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CGVTKNC-es Licuadoras Para Verduras y Frutas Aicok 800W Centrífugo...'
+sku: 'B07CGVTKNC-es'
 tags: [  ]
 actualPrice: 51.99 EUR
 currency: EUR

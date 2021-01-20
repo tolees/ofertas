@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008AH41LO-es Trixie Comedero Acero INOX Recub. Plástico 0.4 l ø14 cm'
+sku: 'B008AH41LO-es'
 tags: [  ]
 actualPrice: 3.69 EUR
 currency: EUR

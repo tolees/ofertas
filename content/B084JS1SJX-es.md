@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084JS1SJX-es REFRESH - Sandalia Plana BIOS Casual - Color Camel - Talla 39'
+sku: 'B084JS1SJX-es'
 tags: [  ]
 actualPrice: 20.95 EUR
 currency: EUR

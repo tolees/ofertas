@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M86ZQ6K-es Adidas ENERGYFALCON Zapatillas de Trail Running para...'
+sku: 'B07M86ZQ6K-es'
 tags: [  ]
 actualPrice: 46.17 EUR
 currency: EUR

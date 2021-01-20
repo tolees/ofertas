@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X9SQC2U-es Babyliss Ipro 230 Steam - Plancha de Vapor Profesional con...'
+sku: 'B00X9SQC2U-es'
 tags: [  ]
 actualPrice: 43.72 EUR
 currency: EUR

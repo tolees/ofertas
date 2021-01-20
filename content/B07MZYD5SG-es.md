@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZYD5SG-es HABA- Juego de Mesa Guisantes Habermass H304278'
+sku: 'B07MZYD5SG-es'
 tags: [  ]
 actualPrice: 6.95 EUR
 currency: EUR

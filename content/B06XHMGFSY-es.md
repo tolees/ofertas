@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XHMGFSY-es Silent Mind ~ Juego De Cuencos Tibetanos ~ Diseño Azul ~...'
+sku: 'B06XHMGFSY-es'
 tags: [  ]
 actualPrice: 34.0 EUR
 currency: EUR

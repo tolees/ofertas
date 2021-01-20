@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PPQ68HM-es New Balance 373 Zapatillas para Hombre Amarillo Yellow...'
+sku: 'B07PPQ68HM-es'
 tags: [  ]
 actualPrice: 48 EUR
 currency: EUR

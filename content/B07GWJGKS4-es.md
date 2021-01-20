@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GWJGKS4-es Caler ® Funda Compatible/Reemplazo para Xiaomi MI A2 / 6X...'
+sku: 'B07GWJGKS4-es'
 tags: [  ]
 actualPrice: 11.49 EUR
 currency: EUR

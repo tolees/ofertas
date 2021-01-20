@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004VRBGQK-es BGS 50855 | Caja de ingletes de plástico | 245 x 67 x 48 mm'
+sku: 'B004VRBGQK-es'
 tags: [  ]
 actualPrice: 6.64 EUR
 currency: EUR

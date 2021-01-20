@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MBFGGXZ-es INTEY Faja Reductora Adelgazante Neopreno Faja Lumbar de...'
+sku: 'B07MBFGGXZ-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

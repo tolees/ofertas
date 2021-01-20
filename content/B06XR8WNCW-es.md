@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XR8WNCW-es Precision'
+sku: 'B06XR8WNCW-es'
 tags: [  ]
 actualPrice: 30.54 EUR
 currency: EUR

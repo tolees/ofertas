@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y3VJ8BV-es RAVPower Cargador de Pared con 4 Puertos 40W USB iSmart...'
+sku: 'B06Y3VJ8BV-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077S8NZ9L-es Kit Protector para Esquinas y Bordes de Muebles de Bébé...'
+sku: 'B077S8NZ9L-es'
 tags: [  ]
 actualPrice: 18.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082WVWB5J-es Aigostar - Recipientes para envasar al vacío. Conservación...'
+sku: 'B082WVWB5J-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

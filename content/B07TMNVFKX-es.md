@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TMNVFKX-es Superdry Classic Superstate S/s Polo Amarillo Upstate Gold...'
+sku: 'B07TMNVFKX-es'
 tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR

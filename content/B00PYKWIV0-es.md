@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PYKWIV0-es Nike Court Royale Zapatillas de Gimnasia para Hombre Negro...'
+sku: 'B00PYKWIV0-es'
 tags: [  ]
 actualPrice: 30.01 EUR
 currency: EUR

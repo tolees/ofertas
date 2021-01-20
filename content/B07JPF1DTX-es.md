@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JPF1DTX-es adidas Terrex Eastrail GTX Track and Field Shoe Mens...'
+sku: 'B07JPF1DTX-es'
 tags: [  ]
 actualPrice: 68.49 EUR
 currency: EUR

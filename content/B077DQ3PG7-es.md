@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077DQ3PG7-es Lacoste Carnaby EVO 118 6 SPW Zapatillas para Mujer Blanco...'
+sku: 'B077DQ3PG7-es'
 tags: [  ]
 actualPrice: 67.99 EUR
 currency: EUR

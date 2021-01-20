@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QST8W6D-es Huevos Vibradores FIDECH pro 2 - Balas para Mujer 12 Modos...'
+sku: 'B07QST8W6D-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

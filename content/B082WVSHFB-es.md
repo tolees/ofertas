@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082WVSHFB-es Magicfly Cesto Ropa Sucia Lavandería 75L Bolsa Lavandería...'
+sku: 'B082WVSHFB-es'
 tags: [  ]
 actualPrice: 10.32 EUR
 currency: EUR

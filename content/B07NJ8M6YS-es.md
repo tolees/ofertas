@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJ8M6YS-es Springfield 4.2.Pc.Mono Liso Navy Pantalones para Mujer...'
+sku: 'B07NJ8M6YS-es'
 tags: [  ]
 actualPrice: 9.04 EUR
 currency: EUR

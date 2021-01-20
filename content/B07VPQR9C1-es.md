@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VPQR9C1-es Tommy Hilfiger Tommy Regular Polo Azul Blue Ink X-Small...'
+sku: 'B07VPQR9C1-es'
 tags: [  ]
 actualPrice: 26.18 EUR
 currency: EUR

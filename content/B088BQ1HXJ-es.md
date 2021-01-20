@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088BQ1HXJ-es Sekey Soporte para Hamaca Soporte de Hamaca de Acero para...'
+sku: 'B088BQ1HXJ-es'
 tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR

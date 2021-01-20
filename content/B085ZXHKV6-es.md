@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085ZXHKV6-es Bovon Soporte Móvil Soporte para iPad Mini Multiángulo...'
+sku: 'B085ZXHKV6-es'
 tags: [  ]
 actualPrice: 11.04 EUR
 currency: EUR

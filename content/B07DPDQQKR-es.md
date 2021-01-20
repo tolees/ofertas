@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DPDQQKR-es Cargador Mando para Switch 4 en 1 Estación de Carga para...'
+sku: 'B07DPDQQKR-es'
 tags: [  ]
 actualPrice: 16.35 EUR
 currency: EUR

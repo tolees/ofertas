@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DVGXNJF-es David Walliams Memory Game'
+sku: 'B07DVGXNJF-es'
 tags: [  ]
 actualPrice: 8.62 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V6T85MC-es Asiento del automóvil Asiento trasero Protector de la...'
+sku: 'B07V6T85MC-es'
 tags: [  ]
 actualPrice: 4.0 EUR
 currency: EUR

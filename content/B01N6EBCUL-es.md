@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N6EBCUL-es Columbia Childrens FirecampTM Sledder II WP Zapatillas de...'
+sku: 'B01N6EBCUL-es'
 tags: [  ]
 actualPrice: 20.39 EUR
 currency: EUR

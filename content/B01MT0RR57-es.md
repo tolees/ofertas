@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MT0RR57-es Jack & Jones Jjimarco Jjenzo WW 420 Noos Pantalones Marrón...'
+sku: 'B01MT0RR57-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

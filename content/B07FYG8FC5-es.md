@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FYG8FC5-es Smart MAX My First Farm Animals Multicolor 25cm x 25cm x...'
+sku: 'B07FYG8FC5-es'
 tags: [  ]
 actualPrice: 19.34 EUR
 currency: EUR

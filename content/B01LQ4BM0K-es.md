@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LQ4BM0K-es Razer Goliathus Control Fissure Medium - Suave alfombrilla...'
+sku: 'B01LQ4BM0K-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

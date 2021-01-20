@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XA6G9D8-es Flota - Jabón de Marsella - Detergente líquido para lavado...'
+sku: 'B00XA6G9D8-es'
 tags: [  ]
 actualPrice: 2.83 EUR
 currency: EUR

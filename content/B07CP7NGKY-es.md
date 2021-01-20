@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CP7NGKY-es Relaxdays - Aspersor Riego Regulable 78 metros cuadrados...'
+sku: 'B07CP7NGKY-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

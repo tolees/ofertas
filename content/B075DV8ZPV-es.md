@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075DV8ZPV-es GOXAWEE Mini Disco Corte Diamante & Mini Hoja de Sierra...'
+sku: 'B075DV8ZPV-es'
 tags: [  ]
 actualPrice: 14.98 EUR
 currency: EUR

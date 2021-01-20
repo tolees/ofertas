@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01K955KGY-es Schramm® Paquete de 4 Vasos con Tapa asa y Pajita Vasos de...'
+sku: 'B01K955KGY-es'
 tags: [  ]
 actualPrice: 11.5 EUR
 currency: EUR

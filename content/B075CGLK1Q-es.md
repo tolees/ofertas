@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075CGLK1Q-es Essort Funda Mesa Jardin 213x123x74cm Fundas para Muebles...'
+sku: 'B075CGLK1Q-es'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

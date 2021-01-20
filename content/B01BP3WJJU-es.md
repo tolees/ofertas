@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BP3WJJU-es HP PageWide Pro 477dw MFP Impresora inyección de tinta...'
+sku: 'B01BP3WJJU-es'
 tags: [  ]
 actualPrice: 399.0 EUR
 currency: EUR

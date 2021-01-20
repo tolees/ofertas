@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q5GPDTB-es The Indian Face Escalada Gorra Born to Climb Hombre y...'
+sku: 'B07Q5GPDTB-es'
 tags: [  ]
 actualPrice: 24.0 EUR
 currency: EUR

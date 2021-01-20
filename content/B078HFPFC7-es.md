@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078HFPFC7-es Sisbelt Forte Complemento Alimenticio con Berenjena y...'
+sku: 'B078HFPFC7-es'
 tags: [  ]
 actualPrice: 17.68 EUR
 currency: EUR

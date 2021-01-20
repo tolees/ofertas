@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LGXRTKL-es The North Face Ambition P Pantalón Mujer Multicolor...'
+sku: 'B07LGXRTKL-es'
 tags: [  ]
 actualPrice: 11.36 EUR
 currency: EUR

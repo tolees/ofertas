@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083VWLZ7V-es PULEN [3 Unidades] Protector de Pantalla Compatible con...'
+sku: 'B083VWLZ7V-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

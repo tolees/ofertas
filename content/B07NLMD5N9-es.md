@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NLMD5N9-es FILA Disruptor Zapatillas para Hombre Black/Black 45 EU'
+sku: 'B07NLMD5N9-es'
 tags: [  ]
 actualPrice: 56.18 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BNBLNZ5-es MIFU Mini Máquinas de coser Portátil Herramienta de...'
+sku: 'B08BNBLNZ5-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

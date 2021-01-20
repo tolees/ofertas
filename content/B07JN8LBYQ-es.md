@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JN8LBYQ-es Powerlegs – Ejercita Tus Piernas Sin Esfuerzo Con Mando A...'
+sku: 'B07JN8LBYQ-es'
 tags: [  ]
 actualPrice: 149.0 EUR
 currency: EUR

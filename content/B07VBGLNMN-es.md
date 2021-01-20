@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VBGLNMN-es Lee Extreme Motion Straight Jeans Azul Theo AC 31W / 34L...'
+sku: 'B07VBGLNMN-es'
 tags: [  ]
 actualPrice: 38.64 EUR
 currency: EUR

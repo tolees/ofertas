@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z6MZVKL-es Asus ROG Zephyrus S GX701GWR-H6063T - Portátil Gaming de...'
+sku: 'B07Z6MZVKL-es'
 tags: [  ]
 actualPrice: 1799.0 EUR
 currency: EUR

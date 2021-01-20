@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089DDZMNL-es Fristone - Colchón de espuma viscoelástica para perro con...'
+sku: 'B089DDZMNL-es'
 tags: [  ]
 actualPrice: 31.97 EUR
 currency: EUR

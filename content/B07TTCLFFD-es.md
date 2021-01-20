@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TTCLFFD-es MoKo Ventilador USB Portátil Mini Cuello Ventilador de...'
+sku: 'B07TTCLFFD-es'
 tags: [  ]
 actualPrice: 8.59 EUR
 currency: EUR

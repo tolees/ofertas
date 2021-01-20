@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088B8FY6J-es Carrito de almacenamiento carrito de almacenamiento de 3...'
+sku: 'B088B8FY6J-es'
 tags: [  ]
 actualPrice: 25.48 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CV7VX1V-es Amplificador Señal WiFi 300Mbps/2.4 GHz Repetidores WiFi...'
+sku: 'B08CV7VX1V-es'
 tags: [  ]
 actualPrice: 16.6 EUR
 currency: EUR

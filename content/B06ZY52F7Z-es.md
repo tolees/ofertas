@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06ZY52F7Z-es Pierre Cardin Reloj Analogico para Mujer de Cuarzo con...'
+sku: 'B06ZY52F7Z-es'
 tags: [  ]
 actualPrice: 34.95 EUR
 currency: EUR

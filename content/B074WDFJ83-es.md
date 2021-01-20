@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074WDFJ83-es Puma PUMA UNISEX SNEAKER PLAIN 3P Calcetines Unisex adulto...'
+sku: 'B074WDFJ83-es'
 tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR

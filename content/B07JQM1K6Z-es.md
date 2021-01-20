@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JQM1K6Z-es Under Armour Men s Printed Blitzing 3.0 Gorra Hombre Gris...'
+sku: 'B07JQM1K6Z-es'
 tags: [  ]
 actualPrice: 11.55 EUR
 currency: EUR

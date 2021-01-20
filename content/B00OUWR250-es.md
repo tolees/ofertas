@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OUWR250-es adidas Superstar Zapatillas de deporte Unisex Adulto...'
+sku: 'B00OUWR250-es'
 tags: [  ]
 actualPrice: 65.47 EUR
 currency: EUR

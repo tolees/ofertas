@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RT6CXQQ-es Mr. Wonderful Carpeta archivadora-Apunta Alto y llegarás...'
+sku: 'B07RT6CXQQ-es'
 tags: [  ]
 actualPrice: 3.98 EUR
 currency: EUR

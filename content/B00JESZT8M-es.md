@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JESZT8M-es Inversor De Corriente 300W para Coche BESTEK Transformador...'
+sku: 'B00JESZT8M-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

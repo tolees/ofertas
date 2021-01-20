@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NVAWTLY-es Fossil Reloj Cronógrafo para Hombre de Cuarzo con Correa...'
+sku: 'B00NVAWTLY-es'
 tags: [  ]
 actualPrice: 129.95 EUR
 currency: EUR

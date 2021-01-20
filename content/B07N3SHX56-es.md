@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N3SHX56-es Michael Kors Reloj Cronógrafo para Hombre de Cuarzo con...'
+sku: 'B07N3SHX56-es'
 tags: [  ]
 actualPrice: 168.51 EUR
 currency: EUR

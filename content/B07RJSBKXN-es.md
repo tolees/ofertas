@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RJSBKXN-es FNTSIC - Bolsas de hombro ligeras de camuflaje para niños...'
+sku: 'B07RJSBKXN-es'
 tags: [  ]
 actualPrice: 21.78 EUR
 currency: EUR

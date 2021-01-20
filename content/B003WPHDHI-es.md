@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003WPHDHI-es Orlane Fermete Sérum Thermo Actif 30 ml'
+sku: 'B003WPHDHI-es'
 tags: [  ]
 actualPrice: 87.79 EUR
 currency: EUR

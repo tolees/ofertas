@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084WNXMF1-es Prensa de ajos Trongle - Trituradora de ajos con pelador...'
+sku: 'B084WNXMF1-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

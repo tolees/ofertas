@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078SQLHRF-es Victure Cámara Deportiva 4k WiFi Camara Acción Deporte...'
+sku: 'B078SQLHRF-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

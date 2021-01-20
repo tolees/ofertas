@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008RHG27S-es Cuerda Bungee Elástica Red De Carga Para Motocicleta Casco...'
+sku: 'B008RHG27S-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

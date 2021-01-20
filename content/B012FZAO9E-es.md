@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B012FZAO9E-es WMF Kult X Mix & Go Keep Cool Mini licuadora 300 vatios...'
+sku: 'B012FZAO9E-es'
 tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR

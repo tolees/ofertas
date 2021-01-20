@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q46YSYX-es Sally Hansen Airbrush Legs Maquillaje para piernas Spray...'
+sku: 'B07Q46YSYX-es'
 tags: [  ]
 actualPrice: 9.7 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2YYQSP-es SmugPets - 315 Bolsas biodegradables para excrementos -...'
+sku: 'B07K2YYQSP-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

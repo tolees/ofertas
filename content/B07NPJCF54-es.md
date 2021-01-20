@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NPJCF54-es Skechers Dynamight 2.0-fallford Zapatillas para Hombre...'
+sku: 'B07NPJCF54-es'
 tags: [  ]
 actualPrice: 32.95 EUR
 currency: EUR

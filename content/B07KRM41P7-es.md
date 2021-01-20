@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRM41P7-es New Balance 373 Zapatillas Hombre Negro Black/Blue...'
+sku: 'B07KRM41P7-es'
 tags: [  ]
 actualPrice: 38.61 EUR
 currency: EUR

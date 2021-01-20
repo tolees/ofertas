@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VS8X1ZC-es Varita masajeadora de ojos con calor de 42 ° C y vibración...'
+sku: 'B07VS8X1ZC-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

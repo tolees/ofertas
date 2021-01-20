@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HPZR8DZ-es Funko Pop: Fortnite: Raptor multicolor 36823 color/modelo...'
+sku: 'B07HPZR8DZ-es'
 tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR

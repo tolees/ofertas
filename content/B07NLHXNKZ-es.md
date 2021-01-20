@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NLHXNKZ-es Versace Jeans CoutureBorsaMujerShoppers y bolsos de...'
+sku: 'B07NLHXNKZ-es'
 tags: [  ]
 actualPrice: 83.38 EUR
 currency: EUR

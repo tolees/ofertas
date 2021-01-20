@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002OHKHKK-es Wolfcraft 2459000 2459000-1 Llave de Brida Universal para...'
+sku: 'B002OHKHKK-es'
 tags: [  ]
 actualPrice: 3.4 EUR
 currency: EUR

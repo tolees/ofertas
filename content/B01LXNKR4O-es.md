@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LXNKR4O-es Imetec CH 3000 - Picadora 4 Cuchillas de Acero Inoxidable...'
+sku: 'B01LXNKR4O-es'
 tags: [  ]
 actualPrice: 41.9 EUR
 currency: EUR

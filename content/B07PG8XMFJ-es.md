@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PG8XMFJ-es A'
+sku: 'B07PG8XMFJ-es'
 tags: [  ]
 actualPrice: 6.98 EUR
 currency: EUR

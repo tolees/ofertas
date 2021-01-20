@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HG3YXR8-es Tahe Fitoxil Forte Plus Tratamiento Anticaída del Cabello...'
+sku: 'B07HG3YXR8-es'
 tags: [  ]
 actualPrice: 8.0 EUR
 currency: EUR

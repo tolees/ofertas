@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FXH5YPG-es Vans Filmore Decon Zapatillas para Hombre Rojo Canvas Port...'
+sku: 'B07FXH5YPG-es'
 tags: [  ]
 actualPrice: 35.61 EUR
 currency: EUR

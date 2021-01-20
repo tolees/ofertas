@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRXMLSW-es Columbia Sun Ridge Polo Hombre Verde Cypress M'
+sku: 'B07KRXMLSW-es'
 tags: [  ]
 actualPrice: 30.49 EUR
 currency: EUR

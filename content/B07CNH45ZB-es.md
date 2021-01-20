@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CNH45ZB-es Bolsas de plástico resellables bolsa sellada bolsa de...'
+sku: 'B07CNH45ZB-es'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

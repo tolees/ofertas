@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MCSVYAS-es Remington HC5880 - Máquina de Cortar Pelo Prácticamente...'
+sku: 'B00MCSVYAS-es'
 tags: [  ]
 actualPrice: 50.57 EUR
 currency: EUR

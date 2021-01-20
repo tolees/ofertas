@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MBZ8F34-es MSI GE63 Raider RGB 8SG-029ES - Ordenador portátil Gaming...'
+sku: 'B07MBZ8F34-es'
 tags: [  ]
 actualPrice: 1910.0 EUR
 currency: EUR

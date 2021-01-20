@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJ8ZVBX-es Localizador GPS for Coche Toptellite 3G GPS Tracker NO...'
+sku: 'B07TJ8ZVBX-es'
 tags: [  ]
 actualPrice: 45.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H5WLY2F-es Skechers Sepulveda Blvd-A La Mode Zapatillas sin Cordones...'
+sku: 'B07H5WLY2F-es'
 tags: [  ]
 actualPrice: 27.17 EUR
 currency: EUR

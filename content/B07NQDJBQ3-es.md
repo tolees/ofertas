@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NQDJBQ3-es Unidad externa de CD y DVD VersionTECH. USB 3.0 -...'
+sku: 'B07NQDJBQ3-es'
 tags: [  ]
 actualPrice: 22.77 EUR
 currency: EUR

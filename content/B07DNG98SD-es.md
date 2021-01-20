@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DNG98SD-es Adidas Court Adapt Zapatillas de Tenis para Hombre Blanco...'
+sku: 'B07DNG98SD-es'
 tags: [  ]
 actualPrice: 44.95 EUR
 currency: EUR

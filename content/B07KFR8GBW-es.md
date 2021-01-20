@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFR8GBW-es Adidas RUNFALCON Zapatillas de Trail Running para Hombre...'
+sku: 'B07KFR8GBW-es'
 tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR

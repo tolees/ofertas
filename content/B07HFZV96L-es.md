@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HFZV96L-es New Balance Solvi h Zapatillas de Running para Hombre Azul...'
+sku: 'B07HFZV96L-es'
 tags: [  ]
 actualPrice: 60.7 EUR
 currency: EUR

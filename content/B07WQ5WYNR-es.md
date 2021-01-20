@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WQ5WYNR-es DesigualBols brown Sugar RotterdamMujerBolsos mochilaBeige...'
+sku: 'B07WQ5WYNR-es'
 tags: [  ]
 actualPrice: 41.66 EUR
 currency: EUR

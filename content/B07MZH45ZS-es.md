@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZH45ZS-es Superdry State Volley Swim SHO Bañador Nero Black 02a L...'
+sku: 'B07MZH45ZS-es'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

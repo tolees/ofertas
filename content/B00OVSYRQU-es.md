@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OVSYRQU-es Camano 3003 Ca-Soft Sneaker 7 Paar Calcetines cortos Gris...'
+sku: 'B00OVSYRQU-es'
 tags: [  ]
 actualPrice: 11.85 EUR
 currency: EUR

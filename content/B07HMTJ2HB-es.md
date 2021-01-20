@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HMTJ2HB-es AmazonBasics – Balancín plegable con toldo Negro'
+sku: 'B07HMTJ2HB-es'
 tags: [  ]
 actualPrice: 58.21 EUR
 currency: EUR

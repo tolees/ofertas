@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F9RYWWJ-es San Ignacio Premium Dina - Bateria de cocina de 4 piezas...'
+sku: 'B07F9RYWWJ-es'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

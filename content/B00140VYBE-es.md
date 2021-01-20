@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00140VYBE-es Salter Báscula de Cocina Digital de Acero Inoxidable...'
+sku: 'B00140VYBE-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

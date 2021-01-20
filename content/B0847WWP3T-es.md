@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0847WWP3T-es Oddworld: Stranger s Wrath HD'
+sku: 'B0847WWP3T-es'
 tags: [  ]
 actualPrice: 21.24 EUR
 currency: EUR

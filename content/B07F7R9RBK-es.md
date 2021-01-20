@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F7R9RBK-es Louvra Capazo del Perro Portador del Perro Bolsa del Perro...'
+sku: 'B07F7R9RBK-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084QGJBC8-es Tooth Instant Perfect Smile Flex Blanqueamiento de dientes...'
+sku: 'B084QGJBC8-es'
 tags: [  ]
 actualPrice: 1.6 EUR
 currency: EUR

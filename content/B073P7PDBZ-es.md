@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073P7PDBZ-es FIRENZE ARTEGIANI.Cartera de Mujer Piel auténtica.Bolso de...'
+sku: 'B073P7PDBZ-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

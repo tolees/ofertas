@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RCTZQ3G-es Tosbess 12 Piezas Minifiguras y Arma Policía Y Gangsters...'
+sku: 'B07RCTZQ3G-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

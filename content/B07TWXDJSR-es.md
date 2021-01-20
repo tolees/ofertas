@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TWXDJSR-es Women s Secret Print Flower Mesh Pink Sujetador básico...'
+sku: 'B07TWXDJSR-es'
 tags: [  ]
 actualPrice: 11.23 EUR
 currency: EUR

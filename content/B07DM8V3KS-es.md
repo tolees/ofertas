@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DM8V3KS-es Philips Avent SCF044/27-2 - Tetinas natural flujo rápido...'
+sku: 'B07DM8V3KS-es'
 tags: [  ]
 actualPrice: 4.49 EUR
 currency: EUR

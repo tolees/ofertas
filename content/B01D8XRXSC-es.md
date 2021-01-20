@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01D8XRXSC-es Parlux Advance Light - Secador de pelo ionico Rojo'
+sku: 'B01D8XRXSC-es'
 tags: [  ]
 actualPrice: 104.67 EUR
 currency: EUR

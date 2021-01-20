@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RS79KTF-es Calvin Klein - Revealed 2g Mini Reporter Organizadores de...'
+sku: 'B07RS79KTF-es'
 tags: [  ]
 actualPrice: 61.09 EUR
 currency: EUR

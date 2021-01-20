@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M999MUH-es Aroncent Gafa de Sol Polarizada con Clip de Metal Lente...'
+sku: 'B01M999MUH-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

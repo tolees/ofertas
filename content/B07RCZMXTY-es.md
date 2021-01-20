@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RCZMXTY-es Under Armour Heatgear Armour Sujetador Deportivo Mujer...'
+sku: 'B07RCZMXTY-es'
 tags: [  ]
 actualPrice: 38.97 EUR
 currency: EUR

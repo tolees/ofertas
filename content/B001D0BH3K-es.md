@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001D0BH3K-es Sebastian Tratamiento Capilar - 150 ml'
+sku: 'B001D0BH3K-es'
 tags: [  ]
 actualPrice: 12.49 EUR
 currency: EUR

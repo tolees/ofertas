@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081J8CB8P-es Delantales de Cocina 2 Piezas con Bolsillo Delantal...'
+sku: 'B081J8CB8P-es'
 tags: [  ]
 actualPrice: 13.66 EUR
 currency: EUR

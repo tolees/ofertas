@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00020IAPA-es Solgar Comprimidos Masticables Sublinguales Vitamina B 12...'
+sku: 'B00020IAPA-es'
 tags: [  ]
 actualPrice: 21.5 EUR
 currency: EUR

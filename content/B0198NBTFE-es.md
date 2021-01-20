@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0198NBTFE-es HP Legend - Maletín para portátiles de hasta 15.6" negra'
+sku: 'B0198NBTFE-es'
 tags: [  ]
 actualPrice: 22.29 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086KXZ4LJ-es 108 rollos de papel higiénico doble capa'
+sku: 'B086KXZ4LJ-es'
 tags: [  ]
 actualPrice: 13.7 EUR
 currency: EUR

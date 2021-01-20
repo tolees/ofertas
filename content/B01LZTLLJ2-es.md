@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZTLLJ2-es GoPro AMCRU-001 - Lector de Tarjetas MicroSD Portátil con...'
+sku: 'B01LZTLLJ2-es'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

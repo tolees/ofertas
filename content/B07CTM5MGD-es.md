@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CTM5MGD-es NAME IT Nkmtheo Dnmclas 2082 Pant Noos Jeans Azul Medium...'
+sku: 'B07CTM5MGD-es'
 tags: [  ]
 actualPrice: 23.09 EUR
 currency: EUR

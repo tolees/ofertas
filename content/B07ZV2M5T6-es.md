@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZV2M5T6-es Helly Hansen Transat Polo Hombre Navy L'
+sku: 'B07ZV2M5T6-es'
 tags: [  ]
 actualPrice: 22.49 EUR
 currency: EUR

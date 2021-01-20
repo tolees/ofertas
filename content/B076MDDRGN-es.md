@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076MDDRGN-es Stranger Things: Music From The Netflix Original Series -...'
+sku: 'B076MDDRGN-es'
 tags: [  ]
 actualPrice: 13.63 EUR
 currency: EUR

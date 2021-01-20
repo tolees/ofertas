@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RXJG271-es New Balance Fresh Foam Tempo h Zapatillas de Running para...'
+sku: 'B07RXJG271-es'
 tags: [  ]
 actualPrice: 43.28 EUR
 currency: EUR

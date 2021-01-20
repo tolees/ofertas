@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01K7RIVTC-es Neutrex Oxy Blanco Puro Quitamanchas sin lejía 800ml'
+sku: 'B01K7RIVTC-es'
 tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR

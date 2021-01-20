@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077KK4PGJ-es Zapatillas/Botas de Estar por casa Suaves con Detalle de...'
+sku: 'B077KK4PGJ-es'
 tags: [  ]
 actualPrice: 3.45 EUR
 currency: EUR

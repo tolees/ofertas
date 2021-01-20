@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S8PXBBW-es PUMA Carina Zapatillas para Mujer Negro Black-Pink...'
+sku: 'B07S8PXBBW-es'
 tags: [  ]
 actualPrice: 38.45 EUR
 currency: EUR

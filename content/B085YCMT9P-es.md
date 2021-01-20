@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085YCMT9P-es YAMAMAY® Bralette with bow - Charlize'
+sku: 'B085YCMT9P-es'
 tags: [  ]
 actualPrice: 16.18 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MQEAP3R-es Vans UA ISO 2 Zapatillas para Hombre Azul Prime 40.5 EU'
+sku: 'B01MQEAP3R-es'
 tags: [  ]
 actualPrice: 31.82 EUR
 currency: EUR

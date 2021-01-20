@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0811CNVCJ-es Sierra Sable Inalámbrica Sierra de Sable HYCHIKA 18V...'
+sku: 'B0811CNVCJ-es'
 tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR

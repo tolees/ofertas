@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1JNVRR-es Clarks Un.loop2 Walk Mocasines para Mujer Marrón Dark Tan...'
+sku: 'B07N1JNVRR-es'
 tags: [  ]
 actualPrice: 17.11 EUR
 currency: EUR

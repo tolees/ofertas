@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EX8TDH0-es TBS Phenis Náuticos para Hombre Azul Marine + Tan E8c32 40 EU'
+sku: 'B01EX8TDH0-es'
 tags: [  ]
 actualPrice: 34.65 EUR
 currency: EUR

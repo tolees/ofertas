@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TF68GB4-es Estuche rígido de Viaje para Sony MDRZX110NC / ZX300 /...'
+sku: 'B07TF68GB4-es'
 tags: [  ]
 actualPrice: 11.95 EUR
 currency: EUR

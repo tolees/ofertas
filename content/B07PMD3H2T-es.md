@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PMD3H2T-es casa pura Alfombras Fibras Naturales - Alfombras Sisal...'
+sku: 'B07PMD3H2T-es'
 tags: [  ]
 actualPrice: 169.99 EUR
 currency: EUR

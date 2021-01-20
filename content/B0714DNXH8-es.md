@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0714DNXH8-es BENYAR Cuarzo cronógrafo Impermeable Relojes Business...'
+sku: 'B0714DNXH8-es'
 tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR

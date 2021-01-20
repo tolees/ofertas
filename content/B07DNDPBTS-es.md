@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DNDPBTS-es adidas Advantage Sneaker Mens Footwear White/Footwear...'
+sku: 'B07DNDPBTS-es'
 tags: [  ]
 actualPrice: 49.75 EUR
 currency: EUR

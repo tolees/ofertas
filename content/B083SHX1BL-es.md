@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083SHX1BL-es Home Fleek - Envases de Vidrio para Alimentos | 6...'
+sku: 'B083SHX1BL-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B4ZRJJY-es JACK & JONES Jjeunion Knit Crew Neck Noos suéter Gris Dark...'
+sku: 'B07B4ZRJJY-es'
 tags: [  ]
 actualPrice: 20.95 EUR
 currency: EUR

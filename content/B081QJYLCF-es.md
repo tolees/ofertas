@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081QJYLCF-es Deik Juego de 5 Utensilios Antiadherentes para Horno-...'
+sku: 'B081QJYLCF-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

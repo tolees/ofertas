@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LAX2RIY-es HENDI Bandejas para comida rápida mediana - Rojo -...'
+sku: 'B00LAX2RIY-es'
 tags: [  ]
 actualPrice: 3.57 EUR
 currency: EUR

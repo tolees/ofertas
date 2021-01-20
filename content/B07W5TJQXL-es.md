@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W5TJQXL-es Only 15186153 Pantalones Cortos Negro Black Black Talla...'
+sku: 'B07W5TJQXL-es'
 tags: [  ]
 actualPrice: 6.48 EUR
 currency: EUR

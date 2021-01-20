@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PWG4PZH-es Aceite de Ricino Orgánico Presionado en Frío Eclat -...'
+sku: 'B07PWG4PZH-es'
 tags: [  ]
 actualPrice: 7.48 EUR
 currency: EUR

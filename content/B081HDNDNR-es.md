@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081HDNDNR-es Ibergrif M11050 Roma Grifo Baño Clásico Mezclador...'
+sku: 'B081HDNDNR-es'
 tags: [  ]
 actualPrice: 21.66 EUR
 currency: EUR

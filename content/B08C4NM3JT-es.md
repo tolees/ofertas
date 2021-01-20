@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08C4NM3JT-es JSDing Delantal Cocina Mujer 2 Capa con Correa de Cuello...'
+sku: 'B08C4NM3JT-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

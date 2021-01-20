@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009S2IMDS-es Max Factor FaceFinity 3 en 1 All Day Flawless Base de...'
+sku: 'B009S2IMDS-es'
 tags: [  ]
 actualPrice: 6.95 EUR
 currency: EUR

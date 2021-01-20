@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01G0QBL8M-es DISFRAZ SHERIFF CHICA TALLA M-L'
+sku: 'B01G0QBL8M-es'
 tags: [  ]
 actualPrice: 11.78 EUR
 currency: EUR

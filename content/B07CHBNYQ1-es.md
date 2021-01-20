@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CHBNYQ1-es Samsung HW-N400 Barra de Sonido Inalámbrica Estéreo 2 Ch 1...'
+sku: 'B07CHBNYQ1-es'
 tags: [  ]
 actualPrice: 116.22 EUR
 currency: EUR

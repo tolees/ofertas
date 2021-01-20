@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077MLQ26Y-es PUMA Smash V2 L V PS Zapatillas Unisex niños Blanco White...'
+sku: 'B077MLQ26Y-es'
 tags: [  ]
 actualPrice: 11.91 EUR
 currency: EUR

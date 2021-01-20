@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVHTTVF-es Kipling - Money Keeper Carteras Mujer Gris Chalk Grey...'
+sku: 'B07MVHTTVF-es'
 tags: [  ]
 actualPrice: 9.42 EUR
 currency: EUR

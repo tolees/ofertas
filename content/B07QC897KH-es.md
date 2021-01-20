@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QC897KH-es Pablosky 715420 Mocasines para Niños Azul Azul Azul 26 EU'
+sku: 'B07QC897KH-es'
 tags: [  ]
 actualPrice: 19.73 EUR
 currency: EUR

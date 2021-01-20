@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFZQNRV-es Puma Future Runner Premium Zapatillas Unisex Adulto Blanco...'
+sku: 'B07KFZQNRV-es'
 tags: [  ]
 actualPrice: 21.97 EUR
 currency: EUR

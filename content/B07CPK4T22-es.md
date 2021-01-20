@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CPK4T22-es Biokat s Diamond Care Fresh arena para gatos con fragancia...'
+sku: 'B07CPK4T22-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

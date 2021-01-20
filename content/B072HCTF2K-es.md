@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072HCTF2K-es SELECTED HOMME Shddome Crew Neck Noos suéter Azul Dark...'
+sku: 'B072HCTF2K-es'
 tags: [  ]
 actualPrice: 27.0 EUR
 currency: EUR

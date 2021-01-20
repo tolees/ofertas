@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PJKNZTD-es Yunteng Precisión Cosido y Durable Dragonfly Oil Custom...'
+sku: 'B07PJKNZTD-es'
 tags: [  ]
 actualPrice: 3.89 EUR
 currency: EUR

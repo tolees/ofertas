@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00RK4SE5M-es Fossil Reloj Analogico para Mujer de Cuarzo con Correa en...'
+sku: 'B00RK4SE5M-es'
 tags: [  ]
 actualPrice: 58.0 EUR
 currency: EUR

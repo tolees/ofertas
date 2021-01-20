@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NHPY3TN-es Veet for Men Crema Depilatoria para Hombre Piel Sensible...'
+sku: 'B07NHPY3TN-es'
 tags: [  ]
 actualPrice: 17.94 EUR
 currency: EUR

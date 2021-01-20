@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EUJ8I74-es Nostalgic-Art - Placa metálica Decorativa 15 x 20 cm...'
+sku: 'B00EUJ8I74-es'
 tags: [  ]
 actualPrice: 7.95 EUR
 currency: EUR

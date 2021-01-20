@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082DZ5JJD-es TAZEMAT 48 Hojas Marcapágina Originales para Rascar...'
+sku: 'B082DZ5JJD-es'
 tags: [  ]
 actualPrice: 10.95 EUR
 currency: EUR

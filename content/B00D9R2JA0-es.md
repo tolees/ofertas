@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00D9R2JA0-es Samsung EB-B500BEBECWW - Batería oficial para móvil Galaxy...'
+sku: 'B00D9R2JA0-es'
 tags: [  ]
 actualPrice: 7.44 EUR
 currency: EUR

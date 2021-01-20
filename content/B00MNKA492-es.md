@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MNKA492-es Led Lenser T² Linterna LED Negro'
+sku: 'B00MNKA492-es'
 tags: [  ]
 actualPrice: 23.95 EUR
 currency: EUR

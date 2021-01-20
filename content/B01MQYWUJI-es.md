@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MQYWUJI-es DAONLY Levadura Cerveza fortalece el Cabello y Evita la...'
+sku: 'B01MQYWUJI-es'
 tags: [  ]
 actualPrice: 15.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079JJRXPP-es PUMA Urban SL Zapatillas Unisex Adulto Black White 42 EU'
+sku: 'B079JJRXPP-es'
 tags: [  ]
 actualPrice: 22.01 EUR
 currency: EUR

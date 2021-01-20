@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CSYMGDD-es Calvin Klein Reloj Analógico para Mujer de Cuarzo con...'
+sku: 'B07CSYMGDD-es'
 tags: [  ]
 actualPrice: 107.78 EUR
 currency: EUR

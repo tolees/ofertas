@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0764HFT1S-es Philips Sonicare - CleanCare Cepillo dental eléctrico...'
+sku: 'B0764HFT1S-es'
 tags: [  ]
 actualPrice: 29.9 EUR
 currency: EUR

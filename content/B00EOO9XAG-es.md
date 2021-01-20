@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EOO9XAG-es Calvin Klein Carousel-Thong Bragas Blanco WHITE 100 Medium...'
+sku: 'B00EOO9XAG-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

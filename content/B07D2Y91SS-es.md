@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D2Y91SS-es GEKER Compresor de Aire Portátil 12V 150 PSI con LED Luz...'
+sku: 'B07D2Y91SS-es'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

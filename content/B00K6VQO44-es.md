@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K6VQO44-es American Tourister - Bon Air - Spinner Maleta 66 cm 58 L...'
+sku: 'B00K6VQO44-es'
 tags: [  ]
 actualPrice: 75.0 EUR
 currency: EUR

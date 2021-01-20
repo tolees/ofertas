@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZQSZBD-es Pepe Jeans Marissa suéter Candle 806 Small para Mujer'
+sku: 'B07MZQSZBD-es'
 tags: [  ]
 actualPrice: 16.26 EUR
 currency: EUR

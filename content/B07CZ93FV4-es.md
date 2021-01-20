@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZ93FV4-es Under Armour Armour Heatgear Legging Leggings Niños Negro...'
+sku: 'B07CZ93FV4-es'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

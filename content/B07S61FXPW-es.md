@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S61FXPW-es Twinzen Bata Mujer Invierno Microfibra con Capucha para...'
+sku: 'B07S61FXPW-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZQ58QZ-es Funko- Mystery Mini Cajita misteriosa incluye algún...'
+sku: 'B07MZQ58QZ-es'
 tags: [  ]
 actualPrice: 4.0 EUR
 currency: EUR

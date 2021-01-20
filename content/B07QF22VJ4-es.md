@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QF22VJ4-es WOTEK Conjunto de bandas de aptitud bandas de...'
+sku: 'B07QF22VJ4-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

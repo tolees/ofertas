@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CFH2D8G-es Jack & Jones Jjidrake Jjchop AKM 574 F Noos Pantalones...'
+sku: 'B07CFH2D8G-es'
 tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR

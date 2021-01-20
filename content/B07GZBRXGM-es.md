@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GZBRXGM-es XCYYOO [1-Pack]para Samsung Galaxy S8 Plus Protector de...'
+sku: 'B07GZBRXGM-es'
 tags: [  ]
 actualPrice: 1.03 EUR
 currency: EUR

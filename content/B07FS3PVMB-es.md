@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FS3PVMB-es TOMALL Funda de Repuesto para Fitbit Zip Clip Sujetador...'
+sku: 'B07FS3PVMB-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WL7BB43-es Epson Workforce WF-2850 - Impresora Multifunción Color'
+sku: 'B07WL7BB43-es'
 tags: [  ]
 actualPrice: 94.9 EUR
 currency: EUR

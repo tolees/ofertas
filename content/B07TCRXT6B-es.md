@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TCRXT6B-es TeléFono MóVil Con Botones Grandes Chshe ™ L8Star Bm10...'
+sku: 'B07TCRXT6B-es'
 tags: [  ]
 actualPrice: 10.0 EUR
 currency: EUR

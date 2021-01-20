@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081JFJ5MY-es Pulverizador Facial Hieha Nano Vapor Pulverizador Portátil...'
+sku: 'B081JFJ5MY-es'
 tags: [  ]
 actualPrice: 6.19 EUR
 currency: EUR

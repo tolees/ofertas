@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SF90E4K-es G-STAR RAW Stean Tapered Jeans Azul dk aged 7056-89 30W /...'
+sku: 'B00SF90E4K-es'
 tags: [  ]
 actualPrice: 45.99 EUR
 currency: EUR

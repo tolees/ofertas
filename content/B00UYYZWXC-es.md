@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UYYZWXC-es HOMCOM Remolque para Niños DOS PLAZAS con Amortiguadores...'
+sku: 'B00UYYZWXC-es'
 tags: [  ]
 actualPrice: 90.94 EUR
 currency: EUR

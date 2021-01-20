@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M5HKKFY-es Geox M Vincit C Chaqueta Bomber Verde Mid Forest F3211...'
+sku: 'B07M5HKKFY-es'
 tags: [  ]
 actualPrice: 49.83 EUR
 currency: EUR

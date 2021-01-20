@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BFB8Y8W-es LoveOlvidoF Carga portátil Carga USB Cable de alimentación...'
+sku: 'B08BFB8Y8W-es'
 tags: [  ]
 actualPrice: 1.15 EUR
 currency: EUR

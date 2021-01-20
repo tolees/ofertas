@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088WYD9GX-es Agger MicroUSB Conector Macho de 5 Pines Micro USB Tipo B...'
+sku: 'B088WYD9GX-es'
 tags: [  ]
 actualPrice: 2.78 EUR
 currency: EUR

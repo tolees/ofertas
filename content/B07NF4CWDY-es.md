@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NF4CWDY-es Olympus Objetivo M.Zuiko Digital ED 12-200 mm F3.5-6.3...'
+sku: 'B07NF4CWDY-es'
 tags: [  ]
 actualPrice: 669.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T8MVK97-es 4 diademas Naruto con chapado en metal para cosplay hoja...'
+sku: 'B07T8MVK97-es'
 tags: [  ]
 actualPrice: 6.66 EUR
 currency: EUR

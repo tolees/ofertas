@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00159JVVO-es Gillette venus breeze - Cuchillas de recambio para...'
+sku: 'B00159JVVO-es'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

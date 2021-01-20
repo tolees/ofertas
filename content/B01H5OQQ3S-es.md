@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H5OQQ3S-es Angel Schlesser - Eau de cologne bergamota 150 ml'
+sku: 'B01H5OQQ3S-es'
 tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR

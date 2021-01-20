@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XNMN6VZ-es Natural madera relojes MUJUZE Japón Movt reloj de cuarzo...'
+sku: 'B06XNMN6VZ-es'
 tags: [  ]
 actualPrice: 25.69 EUR
 currency: EUR

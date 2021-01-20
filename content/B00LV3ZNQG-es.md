@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LV3ZNQG-es Helly Hansen HH QD Cargo Shorts 11 - Pantalón corto para...'
+sku: 'B00LV3ZNQG-es'
 tags: [  ]
 actualPrice: 23.61 EUR
 currency: EUR

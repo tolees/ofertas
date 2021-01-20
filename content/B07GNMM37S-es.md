@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GNMM37S-es D DOLITY Herramientas de Taladro Hand Tool Drill para...'
+sku: 'B07GNMM37S-es'
 tags: [  ]
 actualPrice: 13.27 EUR
 currency: EUR

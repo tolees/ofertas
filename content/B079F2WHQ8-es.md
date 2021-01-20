@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079F2WHQ8-es Vans Ward Zapatillas para Mujer Rosa Canvas/Sepia Rose Oln...'
+sku: 'B079F2WHQ8-es'
 tags: [  ]
 actualPrice: 38.0 EUR
 currency: EUR

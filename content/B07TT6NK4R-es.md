@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TT6NK4R-es Levi s Graphic Sport Capucha Gris Hoodie T3 90 s Serif...'
+sku: 'B07TT6NK4R-es'
 tags: [  ]
 actualPrice: 48.99 EUR
 currency: EUR

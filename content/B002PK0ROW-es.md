@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002PK0ROW-es Crema Cutículas - Aceite de Limón'
+sku: 'B002PK0ROW-es'
 tags: [  ]
 actualPrice: 5.95 EUR
 currency: EUR

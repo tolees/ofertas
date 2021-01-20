@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W4HZ1XR-es Tommy Hilfiger Buoy Print Regular Polo Azul Large Talla...'
+sku: 'B07W4HZ1XR-es'
 tags: [  ]
 actualPrice: 32.86 EUR
 currency: EUR

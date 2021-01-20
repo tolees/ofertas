@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVXY28B-es Báscula de Baño Zuzpao Báscula Grasa Corporal Básculas...'
+sku: 'B07TVXY28B-es'
 tags: [  ]
 actualPrice: 21.88 EUR
 currency: EUR

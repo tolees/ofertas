@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KQSHR4P-es adidas Essentials 3 Bandas Tight Mallas Mujer Negro...'
+sku: 'B07KQSHR4P-es'
 tags: [  ]
 actualPrice: 21.5 EUR
 currency: EUR

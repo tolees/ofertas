@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZP7FTW-es Gioseppo 56139 Botas Clasicas para Niños Negro Negro Negro...'
+sku: 'B07MZP7FTW-es'
 tags: [  ]
 actualPrice: 15.38 EUR
 currency: EUR

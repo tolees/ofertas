@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J34TNPQ-es Funko- Pop Bobble Marvel Studios 10: Doctor Strange Chrome...'
+sku: 'B07J34TNPQ-es'
 tags: [  ]
 actualPrice: 9.56 EUR
 currency: EUR

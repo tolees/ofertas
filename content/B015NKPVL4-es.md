@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015NKPVL4-es Rust-Oleum 4081303 Pintura Grafito 750 ml'
+sku: 'B015NKPVL4-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

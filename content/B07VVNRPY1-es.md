@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VVNRPY1-es Bolsas Vacio Ropa Bolsas de Almacenaje al Vacío Bolsas...'
+sku: 'B07VVNRPY1-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

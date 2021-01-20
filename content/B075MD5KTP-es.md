@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075MD5KTP-es Fantasy Flight Games- Caja de Inicio para Dos Jugadores...'
+sku: 'B075MD5KTP-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

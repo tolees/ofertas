@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XA0XYXM-es Príncipe Mini - Galletas Rellenas de Chocolate con Leche...'
+sku: 'B00XA0XYXM-es'
 tags: [  ]
 actualPrice: 1.3 EUR
 currency: EUR

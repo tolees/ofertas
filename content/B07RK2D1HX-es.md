@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RK2D1HX-es New Balance Fresh Foam Arishi V3 Zapatillas de Running...'
+sku: 'B07RK2D1HX-es'
 tags: [  ]
 actualPrice: 43.39 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BWTCCDF-es Nike Nk Acdmy Team L Hdcs Gym Duffel Bag Unisex Adulto...'
+sku: 'B07BWTCCDF-es'
 tags: [  ]
 actualPrice: 27.65 EUR
 currency: EUR

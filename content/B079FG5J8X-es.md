@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079FG5J8X-es Beronia Gran Reserva Vino D.O.CA. Rioja - 750 ml'
+sku: 'B079FG5J8X-es'
 tags: [  ]
 actualPrice: 10.27 EUR
 currency: EUR

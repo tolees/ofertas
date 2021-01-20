@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R2C9S7G-es Zombie Army Trilogy - Survivor Edition'
+sku: 'B07R2C9S7G-es'
 tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KJZRPLZ-es Under Armour Patterson Backpack Mochila Unisex Adulto Gris...'
+sku: 'B07KJZRPLZ-es'
 tags: [  ]
 actualPrice: 12.9 EUR
 currency: EUR

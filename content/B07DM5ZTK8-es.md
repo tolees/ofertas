@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DM5ZTK8-es Bohell TP710REA - Taladro percutor 710 W velocidad...'
+sku: 'B07DM5ZTK8-es'
 tags: [  ]
 actualPrice: 24.34 EUR
 currency: EUR

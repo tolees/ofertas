@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZO9XY2-es Parker Urban 1931590 - Bolígrafo roller magenta vibrante...'
+sku: 'B01LZO9XY2-es'
 tags: [  ]
 actualPrice: 30.5 EUR
 currency: EUR

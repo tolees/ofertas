@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W9L3KXH-es Lixada Esterilla de Yoga Antideslizante TPE Insípido con...'
+sku: 'B07W9L3KXH-es'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

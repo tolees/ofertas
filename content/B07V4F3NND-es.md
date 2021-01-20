@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V4F3NND-es Tom Tailor Print Polo Gris Grey Triangle Design 22587 M...'
+sku: 'B07V4F3NND-es'
 tags: [  ]
 actualPrice: 7.36 EUR
 currency: EUR

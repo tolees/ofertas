@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07146KKVL-es Under Armour Armour Mid Crossback Heather Sujetador...'
+sku: 'B07146KKVL-es'
 tags: [  ]
 actualPrice: 16.8 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BBWU596-es Sony NWE394B.CEW - Reproductor MP3 reproducción de música...'
+sku: 'B01BBWU596-es'
 tags: [  ]
 actualPrice: 79.89 EUR
 currency: EUR

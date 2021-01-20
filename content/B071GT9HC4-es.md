@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071GT9HC4-es RioRiva Calcetines de colores envueltos para regalo para...'
+sku: 'B071GT9HC4-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

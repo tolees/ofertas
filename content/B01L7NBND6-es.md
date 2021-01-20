@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01L7NBND6-es Trucos de Magia Hierro con Memoria en Forma de Alambre...'
+sku: 'B01L7NBND6-es'
 tags: [  ]
 actualPrice: 7.97 EUR
 currency: EUR

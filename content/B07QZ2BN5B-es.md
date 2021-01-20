@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QZ2BN5B-es DlandHome Banco Pesas Multifunción Banca de Peso Ajustable...'
+sku: 'B07QZ2BN5B-es'
 tags: [  ]
 actualPrice: 114.66 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CHRTQ59-es Tommy Hilfiger TH Jeans Flag 1p Calcetines Hombre Azul...'
+sku: 'B07CHRTQ59-es'
 tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR

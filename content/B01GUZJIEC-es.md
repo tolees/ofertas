@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GUZJIEC-es Adidas Stan Smith C Zapatillas Unisex Niños Blanco...'
+sku: 'B01GUZJIEC-es'
 tags: [  ]
 actualPrice: 32.53 EUR
 currency: EUR

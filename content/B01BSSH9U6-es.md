@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BSSH9U6-es Samsung S View Cover - Funda para Samsung Galaxy S7 Edge...'
+sku: 'B01BSSH9U6-es'
 tags: [  ]
 actualPrice: 4.49 EUR
 currency: EUR

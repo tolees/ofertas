@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X51FCYF-es Eastpak Traf ik Light L Maleta 85 cm 101 L Negro Blackout...'
+sku: 'B07X51FCYF-es'
 tags: [  ]
 actualPrice: 60.8 EUR
 currency: EUR

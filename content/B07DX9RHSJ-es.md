@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DX9RHSJ-es Greylags Calcetines Prima Calidad deportiva Respirable...'
+sku: 'B07DX9RHSJ-es'
 tags: [  ]
 actualPrice: 13.46 EUR
 currency: EUR

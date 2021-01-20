@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FFTQKVH-es Auriculares verdaderamente inalámbricos Giaride V4.1...'
+sku: 'B07FFTQKVH-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

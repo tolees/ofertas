@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RQ7CBFD-es Oral-B Genius 10000N - Cepillo Eléctrico Recargable con...'
+sku: 'B07RQ7CBFD-es'
 tags: [  ]
 actualPrice: 109.24 EUR
 currency: EUR

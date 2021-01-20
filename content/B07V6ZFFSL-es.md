@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V6ZFFSL-es 52mm 58mm 2.0X Teleobjetivo para Nikon D90 D80 D700 D300...'
+sku: 'B07V6ZFFSL-es'
 tags: [  ]
 actualPrice: 6.7 EUR
 currency: EUR

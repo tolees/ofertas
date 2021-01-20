@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002QRYDN0-es Silverline 633400 - Carretilla con caja plegable 25 kg'
+sku: 'B002QRYDN0-es'
 tags: [  ]
 actualPrice: 20.93 EUR
 currency: EUR

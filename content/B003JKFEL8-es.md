@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003JKFEL8-es Moroccanoil Treatment For All Hair Types Tratamiento...'
+sku: 'B003JKFEL8-es'
 tags: [  ]
 actualPrice: 12.7 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1JGVDY-es Clarks Un Maui Mid Zapatillas Altas para Mujer Negro Black...'
+sku: 'B07N1JGVDY-es'
 tags: [  ]
 actualPrice: 16.35 EUR
 currency: EUR

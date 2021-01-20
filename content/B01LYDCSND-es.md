@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LYDCSND-es Parker Urban 1931596 - Pluma estilográfica negro London...'
+sku: 'B01LYDCSND-es'
 tags: [  ]
 actualPrice: 41.61 EUR
 currency: EUR

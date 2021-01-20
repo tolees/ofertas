@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003HLQX00-es Revlon ColorStay Maquillaje en Polvo Medium'
+sku: 'B003HLQX00-es'
 tags: [  ]
 actualPrice: 5.95 EUR
 currency: EUR

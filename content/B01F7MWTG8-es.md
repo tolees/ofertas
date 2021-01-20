@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01F7MWTG8-es Luxana Phyto Nature Tónico Azul Cabellos Grises y Blancos...'
+sku: 'B01F7MWTG8-es'
 tags: [  ]
 actualPrice: 8.65 EUR
 currency: EUR

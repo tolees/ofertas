@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZYSW44-es Love MoschinoJc4009pp1aMujerBolsos mochilaRojo Rosso...'
+sku: 'B07RZYSW44-es'
 tags: [  ]
 actualPrice: 117.3 EUR
 currency: EUR

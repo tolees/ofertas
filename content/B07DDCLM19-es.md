@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DDCLM19-es BlueXP 100 Unidades Botón de Mariposa Pintado de Madera...'
+sku: 'B07DDCLM19-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

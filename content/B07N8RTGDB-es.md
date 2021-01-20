@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N8RTGDB-es Tommy Hilfiger ESSENTIAL MINI REPORTERHombreMonederosNegro...'
+sku: 'B07N8RTGDB-es'
 tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR

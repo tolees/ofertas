@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00J9QACSQ-es Tesa TE05671-00000-11 Cinta doble cara Extra fuerte 10m x...'
+sku: 'B00J9QACSQ-es'
 tags: [  ]
 actualPrice: 3.89 EUR
 currency: EUR

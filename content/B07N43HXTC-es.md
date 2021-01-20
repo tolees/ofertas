@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N43HXTC-es Tommy Hilfiger Pima Cotton Cashmere Crew Neck Suéter Gris...'
+sku: 'B07N43HXTC-es'
 tags: [  ]
 actualPrice: 69.56 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017SL6ECQ-es Tommy Hilfiger Core Hilfiger Regular Polo Negro Flag Black...'
+sku: 'B017SL6ECQ-es'
 tags: [  ]
 actualPrice: 45.46 EUR
 currency: EUR

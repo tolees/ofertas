@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IH1Q2KA-es BATMAN ANIMATED SERIES'
+sku: 'B01IH1Q2KA-es'
 tags: [  ]
 actualPrice: 14.0 EUR
 currency: EUR

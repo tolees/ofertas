@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074GD22JW-es Fossil Reloj Analogico para Hombre de Cuarzo con Correa en...'
+sku: 'B074GD22JW-es'
 tags: [  ]
 actualPrice: 132.25 EUR
 currency: EUR

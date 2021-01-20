@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082SW1HCR-es Ventilador Portátil Versátil de Escritorio Personal...'
+sku: 'B082SW1HCR-es'
 tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR

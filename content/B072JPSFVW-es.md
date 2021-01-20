@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072JPSFVW-es adidas Campus Zapatillas de Deporte para Hombre Azul...'
+sku: 'B072JPSFVW-es'
 tags: [  ]
 actualPrice: 58.82 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B011UMD60M-es CABLEDECONN Mini Displayport Puerto Thunderbolt Compatible...'
+sku: 'B011UMD60M-es'
 tags: [  ]
 actualPrice: 12.74 EUR
 currency: EUR

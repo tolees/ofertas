@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DSCCJHY-es Reebok Te Woven Tracksuit Chándal Hombre Negro L'
+sku: 'B07DSCCJHY-es'
 tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR

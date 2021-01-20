@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M9IHRQ7-es G-STAR RAW ZED Cinturón Marrón Dk Brown/black Metal 8127...'
+sku: 'B01M9IHRQ7-es'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

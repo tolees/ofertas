@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PDR5FKU-es Liderpapel PA03 - Papel'
+sku: 'B00PDR5FKU-es'
 tags: [  ]
 actualPrice: 3.03 EUR
 currency: EUR

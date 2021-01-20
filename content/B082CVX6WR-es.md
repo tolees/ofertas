@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082CVX6WR-es 2020 Auriculares inalámbricos Bluetooth actualizados con...'
+sku: 'B082CVX6WR-es'
 tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR

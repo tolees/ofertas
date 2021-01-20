@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WWD67Y7-es iTieTie 6-Unidades Protector de Pantalla Amazfit Bip Suave...'
+sku: 'B07WWD67Y7-es'
 tags: [  ]
 actualPrice: 5.55 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y15LY4T-es Mini Cámara Espía Oculta Mini Cámara de Vigilancia con...'
+sku: 'B07Y15LY4T-es'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

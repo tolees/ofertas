@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T9CKRKK-es Lepfun SS154/SS155 Tobilleras Deportivas de Compresión...'
+sku: 'B07T9CKRKK-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

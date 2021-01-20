@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003LVYRK4-es Compactor Bolsa para la Colada Blanco Polipropileno...'
+sku: 'B003LVYRK4-es'
 tags: [  ]
 actualPrice: 0.97 EUR
 currency: EUR

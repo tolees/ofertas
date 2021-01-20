@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PIOQRZU-es abril et nature bain shampoo Color 250 ml.'
+sku: 'B00PIOQRZU-es'
 tags: [  ]
 actualPrice: 6.2 EUR
 currency: EUR

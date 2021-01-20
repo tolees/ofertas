@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DHV2RKX-es AmazonBasics - Juego de ropa de cama con funda de edredón...'
+sku: 'B07DHV2RKX-es'
 tags: [  ]
 actualPrice: 17.17 EUR
 currency: EUR

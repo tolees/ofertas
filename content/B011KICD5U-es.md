@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B011KICD5U-es MaxHold Sistema de vacío Doble Ganchos para colgadores -...'
+sku: 'B011KICD5U-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

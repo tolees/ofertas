@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RLHX6WG-es Guardabarros Patinete Electrico Guardabarros Scooter...'
+sku: 'B07RLHX6WG-es'
 tags: [  ]
 actualPrice: 8.49 EUR
 currency: EUR

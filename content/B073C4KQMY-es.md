@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073C4KQMY-es Converse Chuck Taylor CTAS Lift Ox Canvas Zapatillas para...'
+sku: 'B073C4KQMY-es'
 tags: [  ]
 actualPrice: 60.0 EUR
 currency: EUR

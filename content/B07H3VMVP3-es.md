@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H3VMVP3-es Coolbell Bolsa de mensajero convertible multifuncional...'
+sku: 'B07H3VMVP3-es'
 tags: [  ]
 actualPrice: 37.91 EUR
 currency: EUR

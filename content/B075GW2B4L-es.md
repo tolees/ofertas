@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075GW2B4L-es Rastar - Coche teledirigido 1:18 AUDI R8 LMS Performance...'
+sku: 'B075GW2B4L-es'
 tags: [  ]
 actualPrice: 15.49 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SH8H9N1-es Santa Rita Pan Rallado Panko Estilo Japonés - 100 gr'
+sku: 'B07SH8H9N1-es'
 tags: [  ]
 actualPrice: 1.69 EUR
 currency: EUR

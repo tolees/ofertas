@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000UDNRT8-es Eastpak Doggy Bag Riñonera 27 cm 3 L Negro Black'
+sku: 'B000UDNRT8-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNLTWPX-es Clarks Cloud Air T Zapatillas Altas para Niños Azul Navy...'
+sku: 'B07FNLTWPX-es'
 tags: [  ]
 actualPrice: 32.44 EUR
 currency: EUR

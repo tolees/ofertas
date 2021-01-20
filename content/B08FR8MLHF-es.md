@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FR8MLHF-es VYPE ePen 3 Cigarrillo electrónico Negro'
+sku: 'B08FR8MLHF-es'
 tags: [  ]
 actualPrice: 2.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HJLS7R3-es Wowwee- Wildfire Mascota Interactiva Color Rojo 3861'
+sku: 'B07HJLS7R3-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

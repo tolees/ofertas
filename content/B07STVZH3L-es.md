@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STVZH3L-es Darksiders Genesis - PS4'
+sku: 'B07STVZH3L-es'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

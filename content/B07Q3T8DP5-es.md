@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q3T8DP5-es Cerike Funda para Samsung Galaxy Watch 42mm de Parachoques...'
+sku: 'B07Q3T8DP5-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

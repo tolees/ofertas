@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D3Z2KZ1-es Dreaming Kamahaus Elite Colchón con Viscografeno-Soft 150x200'
+sku: 'B07D3Z2KZ1-es'
 tags: [  ]
 actualPrice: 192.88 EUR
 currency: EUR

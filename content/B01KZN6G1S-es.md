@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KZN6G1S-es Yuntab BL20 proyector multimedia portátil HD 1080P USB AV...'
+sku: 'B01KZN6G1S-es'
 tags: [  ]
 actualPrice: 65.99 EUR
 currency: EUR

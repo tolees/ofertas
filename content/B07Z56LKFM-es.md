@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z56LKFM-es DULALA Peine Peluquería Cabello Belleza Peine Cepillo...'
+sku: 'B07Z56LKFM-es'
 tags: [  ]
 actualPrice: 4.0 EUR
 currency: EUR

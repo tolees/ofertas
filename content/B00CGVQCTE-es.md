@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CGVQCTE-es Nike Air Max 90 Essential - Zapatillas de running Hombre...'
+sku: 'B00CGVQCTE-es'
 tags: [  ]
 actualPrice: 90.01 EUR
 currency: EUR

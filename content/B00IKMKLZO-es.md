@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IKMKLZO-es Mates Manix Preservativo Masculino en Sexo Seguro 1 Unidad...'
+sku: 'B00IKMKLZO-es'
 tags: [  ]
 actualPrice: 57.45 EUR
 currency: EUR

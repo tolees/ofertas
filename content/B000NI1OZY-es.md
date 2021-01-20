@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000NI1OZY-es Clevamama Capa de Baño Bebé - Toalla Delantal con Capucha...'
+sku: 'B000NI1OZY-es'
 tags: [  ]
 actualPrice: 15.9 EUR
 currency: EUR

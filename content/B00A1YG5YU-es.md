@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00A1YG5YU-es Wrangler Texas Contrast Hombre Jeans Azul Night Break 37W...'
+sku: 'B00A1YG5YU-es'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

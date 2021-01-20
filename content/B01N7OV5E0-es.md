@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N7OV5E0-es Reloj para hombre Tommy Hilfiger 1791348.'
+sku: 'B01N7OV5E0-es'
 tags: [  ]
 actualPrice: 132.3 EUR
 currency: EUR

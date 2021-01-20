@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M7D1KF1-es Lifewit 17L Bolsa Térmica Porta Alimentos Bolsa de Compra...'
+sku: 'B07M7D1KF1-es'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

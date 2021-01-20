@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0723D5MJC-es Anpollo Alfombrilla Raton Ordenador XXL Gaming Grande...'
+sku: 'B0723D5MJC-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

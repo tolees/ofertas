@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VNFSTDH-es Anself 18 pcs Kit de Manicura Pedicura Profesional Kit de...'
+sku: 'B07VNFSTDH-es'
 tags: [  ]
 actualPrice: 11.89 EUR
 currency: EUR

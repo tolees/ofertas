@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003USKNPQ-es Vans Atwood Zapatillas Unisex Niños Negro Black/Black 186...'
+sku: 'B003USKNPQ-es'
 tags: [  ]
 actualPrice: 20.0 EUR
 currency: EUR

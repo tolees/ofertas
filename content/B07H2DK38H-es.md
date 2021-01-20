@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H2DK38H-es Juntas Cilindro Maestro Junta de Mirilla de Vista Hierro +...'
+sku: 'B07H2DK38H-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

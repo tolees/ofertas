@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0792FW1DL-es Diesel UMBX-DAMIENTHREEPACK Calzoncillo para Hombre...'
+sku: 'B0792FW1DL-es'
 tags: [  ]
 actualPrice: 19.5 EUR
 currency: EUR

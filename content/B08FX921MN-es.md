@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FX921MN-es Antena de TV Interior/Exterior Antena per DVB-T/DVB-T2 de...'
+sku: 'B08FX921MN-es'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

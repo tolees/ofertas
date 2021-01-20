@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DP94FR2-es Trials Rising - Gold Edition'
+sku: 'B07DP94FR2-es'
 tags: [  ]
 actualPrice: 14.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V3NXHRS-es Triumph Amourette Charm W Sujetador con Aros Azul Peacock...'
+sku: 'B07V3NXHRS-es'
 tags: [  ]
 actualPrice: 29.84 EUR
 currency: EUR

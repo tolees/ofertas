@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1JFL8Y-es Superga 2730-cotu Zapatillas de Gimnasia para Mujer Rosa...'
+sku: 'B07N1JFL8Y-es'
 tags: [  ]
 actualPrice: 12.26 EUR
 currency: EUR

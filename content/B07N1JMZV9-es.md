@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1JMZV9-es Clarks Un Elda Mid Botas Slouch para Mujer Negro Black...'
+sku: 'B07N1JMZV9-es'
 tags: [  ]
 actualPrice: 26.21 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SZH7J3R-es Nike Air Heights Zapatillas para Hombre Negro Black/White...'
+sku: 'B07SZH7J3R-es'
 tags: [  ]
 actualPrice: 52.47 EUR
 currency: EUR

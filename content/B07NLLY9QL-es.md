@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NLLY9QL-es Versace Jeans CouturePortafoglioMujerCarterasRosa Fuxia...'
+sku: 'B07NLLY9QL-es'
 tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR

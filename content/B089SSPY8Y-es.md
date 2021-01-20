@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089SSPY8Y-es ZoneYan Pistola de Agua Grande Pistola de Agua para Niños...'
+sku: 'B089SSPY8Y-es'
 tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QWNG32Q-es Under Armour Unstoppable Essential Bomber Parte Superior...'
+sku: 'B07QWNG32Q-es'
 tags: [  ]
 actualPrice: 23.03 EUR
 currency: EUR

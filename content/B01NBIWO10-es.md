@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NBIWO10-es find. Sudadera Oversized con Volantes para Mujer Rosa Old...'
+sku: 'B01NBIWO10-es'
 tags: [  ]
 actualPrice: 9.6 EUR
 currency: EUR

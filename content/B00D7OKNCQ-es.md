@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00D7OKNCQ-es Maybelline New York - El Borrador Instant Anti Age...'
+sku: 'B00D7OKNCQ-es'
 tags: [  ]
 actualPrice: 5.57 EUR
 currency: EUR

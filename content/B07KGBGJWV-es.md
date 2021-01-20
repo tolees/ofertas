@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KGBGJWV-es New Balance 574v2 Zapatillas Hombre Gris Grey/Blue...'
+sku: 'B07KGBGJWV-es'
 tags: [  ]
 actualPrice: 45.0 EUR
 currency: EUR

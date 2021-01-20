@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CP8BF26-es Chupa Chups Original Caramelo con Palo de Sabores a Fresa...'
+sku: 'B01CP8BF26-es'
 tags: [  ]
 actualPrice: 8.8 EUR
 currency: EUR

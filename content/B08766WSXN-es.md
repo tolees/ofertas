@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08766WSXN-es MWPO Cortinas de Cuentas Azules Cuerdas Colgantes de...'
+sku: 'B08766WSXN-es'
 tags: [  ]
 actualPrice: 184.99 EUR
 currency: EUR

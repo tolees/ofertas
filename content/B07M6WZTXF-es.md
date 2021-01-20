@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M6WZTXF-es Luces Solares Jardín Lamparas Solares Exterior con Sensor...'
+sku: 'B07M6WZTXF-es'
 tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR

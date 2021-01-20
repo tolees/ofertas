@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BRCN34L-es Naipo Respaldo de Masaje Cojín Asiento Masajeador Portátil...'
+sku: 'B07BRCN34L-es'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

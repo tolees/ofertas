@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NVJB2W9-es Libertroy Longitud del Tobillo de Invierno Polainas...'
+sku: 'B07NVJB2W9-es'
 tags: [  ]
 actualPrice: 2.0 EUR
 currency: EUR

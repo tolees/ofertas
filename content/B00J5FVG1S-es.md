@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00J5FVG1S-es Pharmaton 50+| Multivitamínico con Omega 3 | 60 cápsulas'
+sku: 'B00J5FVG1S-es'
 tags: [  ]
 actualPrice: 12.9 EUR
 currency: EUR

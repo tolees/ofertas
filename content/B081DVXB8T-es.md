@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081DVXB8T-es para HDMI Scanline Generator Scanner para Juegos Retro...'
+sku: 'B081DVXB8T-es'
 tags: [  ]
 actualPrice: 41.86 EUR
 currency: EUR

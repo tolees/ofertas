@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SHHDNCD-es Baldur s Gate: Enhanced Edition Pack'
+sku: 'B07SHHDNCD-es'
 tags: [  ]
 actualPrice: 31.49 EUR
 currency: EUR

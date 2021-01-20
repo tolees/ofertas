@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RT4CT4Z-es NEWYES Tableta de Escritura LCD a Color Pizarra Digital...'
+sku: 'B07RT4CT4Z-es'
 tags: [  ]
 actualPrice: 14.98 EUR
 currency: EUR

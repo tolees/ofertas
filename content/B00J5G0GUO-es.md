@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00J5G0GUO-es Isdin Bexident Encías Uso Diario Pasta Dentrífica Previene...'
+sku: 'B00J5G0GUO-es'
 tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR

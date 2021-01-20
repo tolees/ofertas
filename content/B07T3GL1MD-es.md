@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T3GL1MD-es Betued Herramienta de artesanía Ajustable del Divisor del...'
+sku: 'B07T3GL1MD-es'
 tags: [  ]
 actualPrice: 7.19 EUR
 currency: EUR

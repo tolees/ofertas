@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DVMQNXW-es Soporte Monitor de Ordenador Madera Elevador Monitor...'
+sku: 'B07DVMQNXW-es'
 tags: [  ]
 actualPrice: 15.29 EUR
 currency: EUR

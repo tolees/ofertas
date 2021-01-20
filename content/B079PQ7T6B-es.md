@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079PQ7T6B-es Funko Pop!- Marvel: Avengers Infinity War Figura de Vinilo...'
+sku: 'B079PQ7T6B-es'
 tags: [  ]
 actualPrice: 11.11 EUR
 currency: EUR

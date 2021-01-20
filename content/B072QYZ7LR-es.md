@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072QYZ7LR-es Pinza Digital Multímetro Meterk Medida Amperímetro...'
+sku: 'B072QYZ7LR-es'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

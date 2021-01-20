@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KGG93S1-es Buff Flash Logo Cinta De Cabeza Coolnet Unisex Adulto...'
+sku: 'B07KGG93S1-es'
 tags: [  ]
 actualPrice: 6.71 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00O90GWFO-es Teslagrad'
+sku: 'B00O90GWFO-es'
 tags: [  ]
 actualPrice: 17.03 EUR
 currency: EUR

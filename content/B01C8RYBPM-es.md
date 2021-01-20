@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01C8RYBPM-es Police Reloj Multiesfera para Hombre de Cuarzo con Correa...'
+sku: 'B01C8RYBPM-es'
 tags: [  ]
 actualPrice: 89.28 EUR
 currency: EUR

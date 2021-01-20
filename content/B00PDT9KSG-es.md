@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PDT9KSG-es MAM - Conjunto de 2 chupetes que brillan en la oscuridad...'
+sku: 'B00PDT9KSG-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

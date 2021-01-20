@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LUFSUF6-es Revlon ColorStay Gel Envy Esmalte de Uñas de Larga...'
+sku: 'B00LUFSUF6-es'
 tags: [  ]
 actualPrice: 1.99 EUR
 currency: EUR

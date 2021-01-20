@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RV7GP3D-es Adidas Originals Continental 80 Zapatillas para Correr...'
+sku: 'B07RV7GP3D-es'
 tags: [  ]
 actualPrice: 50.0 EUR
 currency: EUR

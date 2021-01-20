@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KKYJB94-es Joseph Joseph M-Poach Escalfador de Huevos para microondas...'
+sku: 'B07KKYJB94-es'
 tags: [  ]
 actualPrice: 6.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CCPHLJI-es Urchoiceltd Juego De Teclado y Mouse Tecnología M398...'
+sku: 'B01CCPHLJI-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

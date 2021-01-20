@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0774WGGJ5-es Pop Lobo Vinyl Figure'
+sku: 'B0774WGGJ5-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

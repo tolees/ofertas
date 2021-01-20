@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UXABDJO-es Dräger X-pect 8110 | Cubregafas Protectoras | Lentes de...'
+sku: 'B00UXABDJO-es'
 tags: [  ]
 actualPrice: 4.94 EUR
 currency: EUR

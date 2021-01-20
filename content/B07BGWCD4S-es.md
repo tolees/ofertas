@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BGWCD4S-es FITTOO Mallas Leggings Mujer Yoga de Alta Cintura...'
+sku: 'B07BGWCD4S-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

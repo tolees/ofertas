@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BLZ1JCP-es ITALY MORN Pantalones Jogger de Hombre Bolsillos Laterales...'
+sku: 'B07BLZ1JCP-es'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

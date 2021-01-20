@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z3MRLR3-es Revlon uniq one foam treatment 200 ml fine hair'
+sku: 'B07Z3MRLR3-es'
 tags: [  ]
 actualPrice: 10.21 EUR
 currency: EUR

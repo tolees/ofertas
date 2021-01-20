@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HB5VQV6-es AUNA IR-120 Radio de Internet - MP3 WMA Acc Wi-Fi conexión...'
+sku: 'B07HB5VQV6-es'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

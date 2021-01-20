@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FFRXLJD-es Venta caliente Superior Tikuanyin Oolong Tea Gift Package...'
+sku: 'B07FFRXLJD-es'
 tags: [  ]
 actualPrice: 8.27 EUR
 currency: EUR

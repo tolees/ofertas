@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJDZMV5-es Tommy Hilfiger K1285esha 6d Zapatillas para Niñas Azul...'
+sku: 'B07DJDZMV5-es'
 tags: [  ]
 actualPrice: 31.74 EUR
 currency: EUR

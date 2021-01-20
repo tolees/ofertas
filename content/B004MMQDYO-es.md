@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004MMQDYO-es Josef Seibel Schuhfabrik GmbH Anvers 08 Zapatos de...'
+sku: 'B004MMQDYO-es'
 tags: [  ]
 actualPrice: 40.7 EUR
 currency: EUR

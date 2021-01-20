@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D55JQJR-es D DOLITY Indicador de Presión de Aire de Balones con...'
+sku: 'B07D55JQJR-es'
 tags: [  ]
 actualPrice: 8.58 EUR
 currency: EUR

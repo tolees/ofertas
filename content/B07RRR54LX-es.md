@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RRR54LX-es Casio Reloj Analógico-Digital para Hombre de Cuarzo con...'
+sku: 'B07RRR54LX-es'
 tags: [  ]
 actualPrice: 97.8 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QFYVLWJ-es Emporio Armani Reloj Analógico para Mujer de Cuarzo con...'
+sku: 'B07QFYVLWJ-es'
 tags: [  ]
 actualPrice: 163.44 EUR
 currency: EUR

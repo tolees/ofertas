@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JP19R4V-es Barra Lateral de Seguridad de la Cama Plegable Guardia...'
+sku: 'B07JP19R4V-es'
 tags: [  ]
 actualPrice: 59.0 EUR
 currency: EUR

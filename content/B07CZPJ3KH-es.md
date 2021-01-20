@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZPJ3KH-es Under Armour HG Armour Graphic Legging Leggings Mujer Gris...'
+sku: 'B07CZPJ3KH-es'
 tags: [  ]
 actualPrice: 32.49 EUR
 currency: EUR

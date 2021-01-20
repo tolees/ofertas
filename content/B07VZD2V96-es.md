@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VZD2V96-es Cepillo Secador 1200W Abody 4 en 1 Cepillo Secador de Pelo...'
+sku: 'B07VZD2V96-es'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

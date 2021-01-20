@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X3STSVJ-es Braun Minipimer 3025 Batidora de mano 2 velocidades...'
+sku: 'B06X3STSVJ-es'
 tags: [  ]
 actualPrice: 28.84 EUR
 currency: EUR

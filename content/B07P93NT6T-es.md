@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P93NT6T-es COSORI Tazas de Café y Té de Acero Inoxidable de Grado...'
+sku: 'B07P93NT6T-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00T4SJFD2-es Balvi Bote Cocina Cucina Color Blanco Recipiente de Cocina...'
+sku: 'B00T4SJFD2-es'
 tags: [  ]
 actualPrice: 5.75 EUR
 currency: EUR

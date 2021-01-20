@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFHS667-es Kalokelvin Fregona Giratoria Juego de Fregona Cubo con...'
+sku: 'B07DFHS667-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

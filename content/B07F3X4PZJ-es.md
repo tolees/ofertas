@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F3X4PZJ-es AmazonBasics - Juego de cama de franela con funda nórdica...'
+sku: 'B07F3X4PZJ-es'
 tags: [  ]
 actualPrice: 24.74 EUR
 currency: EUR

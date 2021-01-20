@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P5QQZQL-es Liu Jo BXX049 PX003 Sneakers Mujer Ocre 36'
+sku: 'B07P5QQZQL-es'
 tags: [  ]
 actualPrice: 44.55 EUR
 currency: EUR

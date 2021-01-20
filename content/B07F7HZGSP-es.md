@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F7HZGSP-es BRA Profesional Batería 5 Piezas Apta para Todo Tipo De...'
+sku: 'B07F7HZGSP-es'
 tags: [  ]
 actualPrice: 139.99 EUR
 currency: EUR

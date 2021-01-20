@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RWLQKZD-es Slypnos - Estera de la Silla de PVC Estera de Protección...'
+sku: 'B07RWLQKZD-es'
 tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR

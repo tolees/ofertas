@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0019TRCK2-es HP 364 - Cartucho de tinta Original HP 364 Magenta para HP...'
+sku: 'B0019TRCK2-es'
 tags: [  ]
 actualPrice: 7.88 EUR
 currency: EUR

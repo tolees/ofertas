@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FY6DYHM-es Vans Ward Hi Mujer Zapatillas Altas Negro Canvas...'
+sku: 'B07FY6DYHM-es'
 tags: [  ]
 actualPrice: 53.89 EUR
 currency: EUR

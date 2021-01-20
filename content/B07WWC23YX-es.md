@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WWC23YX-es Ebanku Conjunto de plantillas de estampado 6 placas de...'
+sku: 'B07WWC23YX-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

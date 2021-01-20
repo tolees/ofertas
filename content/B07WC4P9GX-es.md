@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WC4P9GX-es Explore Scientific Deep Sky Astro - Cámara de Fotos a Color'
+sku: 'B07WC4P9GX-es'
 tags: [  ]
 actualPrice: 1243.78 EUR
 currency: EUR

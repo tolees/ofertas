@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MQH3EYP-es Nuk - Calienta Biberones y Potitos en Casa o de Viaje'
+sku: 'B01MQH3EYP-es'
 tags: [  ]
 actualPrice: 19.46 EUR
 currency: EUR

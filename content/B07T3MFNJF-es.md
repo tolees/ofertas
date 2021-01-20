@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T3MFNJF-es Nike Benassi Sandalia de Diapositivas para Hombre Hierro...'
+sku: 'B07T3MFNJF-es'
 tags: [  ]
 actualPrice: 10.01 EUR
 currency: EUR

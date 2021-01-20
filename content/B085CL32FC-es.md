@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085CL32FC-es Baoblaze 50ml de Fragancia Masculina Perfume de Fragancia...'
+sku: 'B085CL32FC-es'
 tags: [  ]
 actualPrice: 19.38 EUR
 currency: EUR

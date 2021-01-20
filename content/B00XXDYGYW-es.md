@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XXDYGYW-es SONGMICS Cubo de Basura de Acero Inoxidable Basurero...'
+sku: 'B00XXDYGYW-es'
 tags: [  ]
 actualPrice: 54.98 EUR
 currency: EUR

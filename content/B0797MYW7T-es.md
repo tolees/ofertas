@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0797MYW7T-es Funko Pop!- 889698299138 Atomic Blonde Figura de vinilo...'
+sku: 'B0797MYW7T-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

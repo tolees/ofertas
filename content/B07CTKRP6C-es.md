@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CTKRP6C-es JACK & JONES Jfwalbany Leather Brown Stone STS Botas...'
+sku: 'B07CTKRP6C-es'
 tags: [  ]
 actualPrice: 61.99 EUR
 currency: EUR

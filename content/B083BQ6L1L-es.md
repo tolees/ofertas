@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083BQ6L1L-es MENGH Antirutschmatte küche 120x140cm Wohnzimmer Carpet...'
+sku: 'B083BQ6L1L-es'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JMSX8FJ-es Chantelle DE Orangerie Sujetador Marfil Elfenbein 35 90B...'
+sku: 'B07JMSX8FJ-es'
 tags: [  ]
 actualPrice: 41.4 EUR
 currency: EUR

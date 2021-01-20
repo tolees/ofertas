@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V3M9BCG-es Kipling PALMBEACH Bolsa de Viaje 23 cm 7 Liters Negro...'
+sku: 'B07V3M9BCG-es'
 tags: [  ]
 actualPrice: 47.37 EUR
 currency: EUR

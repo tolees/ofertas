@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FKDFB3G-es Nike W NP Tight Sport Trousers Mujer Gunsmoke/htr/Black/...'
+sku: 'B07FKDFB3G-es'
 tags: [  ]
 actualPrice: 28.22 EUR
 currency: EUR

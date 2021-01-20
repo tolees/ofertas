@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C58F3BL-es Kelme - Zapatillas Flamenco Sala'
+sku: 'B07C58F3BL-es'
 tags: [  ]
 actualPrice: 24.5 EUR
 currency: EUR

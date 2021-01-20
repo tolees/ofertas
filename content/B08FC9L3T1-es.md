@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FC9L3T1-es Cabin Max Manhattan Stowaway XL - Maleta de Cabina para...'
+sku: 'B08FC9L3T1-es'
 tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR

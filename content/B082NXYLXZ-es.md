@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082NXYLXZ-es MEGALITH Relojes Hombre Relojes de Pulsera Militar...'
+sku: 'B082NXYLXZ-es'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

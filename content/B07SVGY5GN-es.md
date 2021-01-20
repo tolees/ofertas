@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SVGY5GN-es The Fisherman: Fishing Planet - Day One Edition [Versión...'
+sku: 'B07SVGY5GN-es'
 tags: [  ]
 actualPrice: 25.9 EUR
 currency: EUR

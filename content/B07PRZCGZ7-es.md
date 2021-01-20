@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PRZCGZ7-es New Balance 373 Zapatillas para Hombre Verde Green/Black...'
+sku: 'B07PRZCGZ7-es'
 tags: [  ]
 actualPrice: 40.0 EUR
 currency: EUR

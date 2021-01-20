@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDMPXTM-es G-STAR RAW Core Round Neck suéter Negro Dk Black 6484 XX-...'
+sku: 'B07NDMPXTM-es'
 tags: [  ]
 actualPrice: 57.49 EUR
 currency: EUR

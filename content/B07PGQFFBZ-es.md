@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PGQFFBZ-es IKOHS Best Toast - Tostadora'
+sku: 'B07PGQFFBZ-es'
 tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR

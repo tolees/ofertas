@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077T6Z7HT-es Panasonic RP-HTX80BE-R Auriculares Bluetooth Diadema 24 h...'
+sku: 'B077T6Z7HT-es'
 tags: [  ]
 actualPrice: 49.0 EUR
 currency: EUR

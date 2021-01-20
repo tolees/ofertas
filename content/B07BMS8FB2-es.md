@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BMS8FB2-es NOFFA Almohada Piernas Dormir almohada para rodillas Ideal...'
+sku: 'B07BMS8FB2-es'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

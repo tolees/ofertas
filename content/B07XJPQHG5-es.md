@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XJPQHG5-es PUMA ftblNXT Team Sleeve Espinillera Futbol Unisex-Adult...'
+sku: 'B07XJPQHG5-es'
 tags: [  ]
 actualPrice: 11.21 EUR
 currency: EUR

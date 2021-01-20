@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNZ7VFZ-es ERAY Luz Solar Exterior Lámpara Solar 100 Leds con Sensor...'
+sku: 'B07FNZ7VFZ-es'
 tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR

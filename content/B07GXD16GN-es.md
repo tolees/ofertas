@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GXD16GN-es DH-QN05 Calefactor Portátil Eléctrico PTC Calefacción de...'
+sku: 'B07GXD16GN-es'
 tags: [  ]
 actualPrice: 24.84 EUR
 currency: EUR

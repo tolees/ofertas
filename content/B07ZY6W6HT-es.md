@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZY6W6HT-es Kraumi Faro Trabajo LED Focos de Coche 12V Square Faros...'
+sku: 'B07ZY6W6HT-es'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

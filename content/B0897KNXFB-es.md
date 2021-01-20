@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0897KNXFB-es NA Organizador de Maquillaje de lápiz Organizador de lápiz...'
+sku: 'B0897KNXFB-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

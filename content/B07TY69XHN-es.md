@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TY69XHN-es DONPEREGRINO 55cm Maletas de Cabina Rígidas y Resistentes...'
+sku: 'B07TY69XHN-es'
 tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR

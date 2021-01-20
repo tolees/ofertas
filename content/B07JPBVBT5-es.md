@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JPBVBT5-es DAM. DMZ038BL. Smartwatch L2 Plus con Monitor Cardíaco Y...'
+sku: 'B07JPBVBT5-es'
 tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR

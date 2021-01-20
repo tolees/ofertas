@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076HRQBKN-es adidas CORE18 tee T-Shirt Hombre Black/White XS'
+sku: 'B076HRQBKN-es'
 tags: [  ]
 actualPrice: 13.89 EUR
 currency: EUR

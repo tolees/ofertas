@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083SJZ2NN-es OurLeeme Caja de Almacenamiento de Especias Caja de...'
+sku: 'B083SJZ2NN-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

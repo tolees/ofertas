@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PN6D7LX-es Bourjois Velvet The Pencil - Pintalabios Tono 15 Rouge ES-...'
+sku: 'B07PN6D7LX-es'
 tags: [  ]
 actualPrice: 4.14 EUR
 currency: EUR

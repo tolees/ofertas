@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LF8MF2K-es XLTOK Cable USB Tipo C Cable USB C [ 3Pack 1M +1M+2M ]...'
+sku: 'B07LF8MF2K-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SC7HLGW-es Cooko Decantador de Vino Decantador de Aireación de Vino...'
+sku: 'B07SC7HLGW-es'
 tags: [  ]
 actualPrice: 26.98 EUR
 currency: EUR

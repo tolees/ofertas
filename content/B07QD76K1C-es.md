@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QD76K1C-es Dekora Hucha Infantil de Cars Rayo McQueen con Billetes de...'
+sku: 'B07QD76K1C-es'
 tags: [  ]
 actualPrice: 21.23 EUR
 currency: EUR

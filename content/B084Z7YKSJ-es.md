@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084Z7YKSJ-es Para Oral Para Braun Cepillo de dientes eléctrico...'
+sku: 'B084Z7YKSJ-es'
 tags: [  ]
 actualPrice: 3.8 EUR
 currency: EUR

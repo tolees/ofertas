@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZCYKTVC-es Bálsamo de labios Lip Balm Cuidado De Labios Barra de...'
+sku: 'B07ZCYKTVC-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

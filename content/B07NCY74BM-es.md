@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NCY74BM-es non-brand 50pcs Juego de Dados de Madera en Blanco D6 3cm...'
+sku: 'B07NCY74BM-es'
 tags: [  ]
 actualPrice: 25.02 EUR
 currency: EUR

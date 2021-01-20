@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0853PRF6H-es Big Pharma. Manager Edition'
+sku: 'B0853PRF6H-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

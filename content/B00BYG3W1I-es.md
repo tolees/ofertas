@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BYG3W1I-es Nike T-Lite 11 Zapatillas de Cross Training para Hombre...'
+sku: 'B00BYG3W1I-es'
 tags: [  ]
 actualPrice: 32.9 EUR
 currency: EUR

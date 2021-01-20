@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077ZJXGF8-es Avène Aceite corporal - 250 ml.'
+sku: 'B077ZJXGF8-es'
 tags: [  ]
 actualPrice: 16.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HG4NQCT-es New Balance Cm997hv1 Zapatillas para Hombre Gris Grey Grey...'
+sku: 'B07HG4NQCT-es'
 tags: [  ]
 actualPrice: 53.49 EUR
 currency: EUR

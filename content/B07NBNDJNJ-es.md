@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NBNDJNJ-es National Geographic - Telescopio y microscopio para...'
+sku: 'B07NBNDJNJ-es'
 tags: [  ]
 actualPrice: 69.2 EUR
 currency: EUR

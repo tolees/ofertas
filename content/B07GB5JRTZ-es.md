@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GB5JRTZ-es ARCTIC P12 PWM - Ventilador para caja 0 3 Sone Ventilador...'
+sku: 'B07GB5JRTZ-es'
 tags: [  ]
 actualPrice: 6.55 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KZ5LFX9-es PBN - Proteína de suero de leche en polvo 2.27 kg sabor...'
+sku: 'B07KZ5LFX9-es'
 tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR

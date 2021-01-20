@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VHDHMCC-es Qkiss Caja de Almacenamiento de joyería de 12 Ranuras Caja...'
+sku: 'B07VHDHMCC-es'
 tags: [  ]
 actualPrice: 6.59 EUR
 currency: EUR

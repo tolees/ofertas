@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S2S5VHB-es Levi s Graphic Sport Hoodie Capucha Azul Goodie Box Taba...'
+sku: 'B07S2S5VHB-es'
 tags: [  ]
 actualPrice: 23.03 EUR
 currency: EUR

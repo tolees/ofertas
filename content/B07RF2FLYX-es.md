@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RF2FLYX-es Tommy Hilfiger Kids Plaque Belt 3.0 Cinturón Azul Blue 0Gy...'
+sku: 'B07RF2FLYX-es'
 tags: [  ]
 actualPrice: 17.95 EUR
 currency: EUR

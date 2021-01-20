@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DKMY8JY-es Burberry London Men Perfume - 50 ml'
+sku: 'B00DKMY8JY-es'
 tags: [  ]
 actualPrice: 17.24 EUR
 currency: EUR

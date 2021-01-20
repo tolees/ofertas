@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZJ83M5D-es JK-2 Escena de la habitación del bebé Decoración Colgante...'
+sku: 'B07ZJ83M5D-es'
 tags: [  ]
 actualPrice: 4.3 EUR
 currency: EUR

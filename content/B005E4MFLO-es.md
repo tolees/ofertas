@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005E4MFLO-es Bosch Professional GSH 27 VC - Martillo demoledor 62 J Hex...'
+sku: 'B005E4MFLO-es'
 tags: [  ]
 actualPrice: 1615.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013C4NPXE-es adidas Stan Smith S75104 Zapatillas para Hombre Blanco...'
+sku: 'B013C4NPXE-es'
 tags: [  ]
 actualPrice: 60.54 EUR
 currency: EUR

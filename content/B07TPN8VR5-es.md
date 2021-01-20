@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TPN8VR5-es Arena W V Back One Piece Bañador Deportivo Mujer...'
+sku: 'B07TPN8VR5-es'
 tags: [  ]
 actualPrice: 11.09 EUR
 currency: EUR

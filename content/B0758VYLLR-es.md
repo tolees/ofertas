@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0758VYLLR-es Tommy Hilfiger Reloj Multiesfera para Hombre de Cuarzo con...'
+sku: 'B0758VYLLR-es'
 tags: [  ]
 actualPrice: 132.3 EUR
 currency: EUR

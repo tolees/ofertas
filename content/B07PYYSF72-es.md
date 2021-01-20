@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PYYSF72-es Under Armour UA W Charged Pursuit 2 Zapatillas de Running...'
+sku: 'B07PYYSF72-es'
 tags: [  ]
 actualPrice: 33.57 EUR
 currency: EUR

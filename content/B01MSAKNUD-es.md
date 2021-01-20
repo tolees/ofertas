@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MSAKNUD-es Head Hombres Club Short M'
+sku: 'B01MSAKNUD-es'
 tags: [  ]
 actualPrice: 18.95 EUR
 currency: EUR

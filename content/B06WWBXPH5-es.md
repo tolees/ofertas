@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WWBXPH5-es Juegos de Mesa Ajedrez Portátil de Bolsillo Plegable...'
+sku: 'B06WWBXPH5-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

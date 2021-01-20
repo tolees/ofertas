@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LWJB9K8-es Edge Entertainment - Misión: Planeta rojo juego de mesa...'
+sku: 'B01LWJB9K8-es'
 tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR

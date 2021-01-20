@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HFP98EM-es Zwilling Twin Nova - Juego de 113 cubiertos de mesa acero...'
+sku: 'B00HFP98EM-es'
 tags: [  ]
 actualPrice: 179.49 EUR
 currency: EUR

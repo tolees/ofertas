@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XCJP51J-es BRIKSMAX Kit de Iluminación Led para Harry Potter Cabaña...'
+sku: 'B07XCJP51J-es'
 tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR

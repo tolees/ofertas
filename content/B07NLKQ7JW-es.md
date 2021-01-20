@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NLKQ7JW-es Versace Jeans CouturePortafoglioMujerCarterasAmarillo...'
+sku: 'B07NLKQ7JW-es'
 tags: [  ]
 actualPrice: 68.64 EUR
 currency: EUR

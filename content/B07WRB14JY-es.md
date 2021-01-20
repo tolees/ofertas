@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WRB14JY-es Botas de Nieve para niños y niñas Caminar Senderismo con...'
+sku: 'B07WRB14JY-es'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

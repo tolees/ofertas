@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CRDXBHD-es Auriculares inalámbricos de diadema para TV con estación...'
+sku: 'B08CRDXBHD-es'
 tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR

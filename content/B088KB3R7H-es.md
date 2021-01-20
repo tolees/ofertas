@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088KB3R7H-es Remescar - Reparación Nocturna - Contorno De Ojos -...'
+sku: 'B088KB3R7H-es'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

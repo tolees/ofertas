@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XHKBJKD-es VEIERSIA Calentador de Mano Recargable Portátil con USB...'
+sku: 'B07XHKBJKD-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

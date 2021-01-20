@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VHD33P7-es Teslagrad - Value Pack'
+sku: 'B07VHD33P7-es'
 tags: [  ]
 actualPrice: 28.49 EUR
 currency: EUR

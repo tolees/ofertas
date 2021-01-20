@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072PTRBY1-es Manchester City FC - Pulsera de silicona oficial de v...'
+sku: 'B072PTRBY1-es'
 tags: [  ]
 actualPrice: 2.95 EUR
 currency: EUR

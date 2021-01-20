@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009M3HZ2M-es Hauck Freerider Silla de paseo gemelar para 1 o 2 niños de...'
+sku: 'B009M3HZ2M-es'
 tags: [  ]
 actualPrice: 163.86 EUR
 currency: EUR

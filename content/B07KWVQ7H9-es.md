@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KWVQ7H9-es 7 CM Electrostática Eliminación de lavandería Bolas...'
+sku: 'B07KWVQ7H9-es'
 tags: [  ]
 actualPrice: 5.22 EUR
 currency: EUR

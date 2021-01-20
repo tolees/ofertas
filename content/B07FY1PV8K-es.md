@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FY1PV8K-es Philips Hue White bombilla LED inteligente GU10 luz blanca...'
+sku: 'B07FY1PV8K-es'
 tags: [  ]
 actualPrice: 12.9 EUR
 currency: EUR

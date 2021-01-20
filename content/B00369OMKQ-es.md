@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00369OMKQ-es Mannesmann M53255 - Juego de herramientas para roscar de...'
+sku: 'B00369OMKQ-es'
 tags: [  ]
 actualPrice: 122.16 EUR
 currency: EUR

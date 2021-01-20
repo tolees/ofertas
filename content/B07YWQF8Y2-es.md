@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YWQF8Y2-es Tusscle Almohada Cojín Lumbar，Soporte Lumbar Dormir，Apoyo...'
+sku: 'B07YWQF8Y2-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

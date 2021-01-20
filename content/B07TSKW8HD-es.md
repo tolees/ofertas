@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TSKW8HD-es Kipling Abanu Bolsos con Bandolera para Mujer Blanco White...'
+sku: 'B07TSKW8HD-es'
 tags: [  ]
 actualPrice: 43.99 EUR
 currency: EUR

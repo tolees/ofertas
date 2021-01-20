@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084HB3Q6D-es Mini Enfriador de Aire Acondicionador de Aire Móviles...'
+sku: 'B084HB3Q6D-es'
 tags: [  ]
 actualPrice: 45.99 EUR
 currency: EUR

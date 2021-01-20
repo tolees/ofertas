@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076H8BXPQ-es Tuc Tuc 05789 - Trona'
+sku: 'B076H8BXPQ-es'
 tags: [  ]
 actualPrice: 36.1 EUR
 currency: EUR

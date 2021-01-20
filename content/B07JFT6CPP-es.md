@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JFT6CPP-es Crocs Crocband Rain Boot Kids Botas de Agua Unisex Niños...'
+sku: 'B07JFT6CPP-es'
 tags: [  ]
 actualPrice: 14.49 EUR
 currency: EUR

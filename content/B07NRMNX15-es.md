@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NRMNX15-es Cámara IP Exterior Camara IP WiFi 1080p Cámara Vigilancia...'
+sku: 'B07NRMNX15-es'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

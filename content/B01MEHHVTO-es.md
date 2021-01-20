@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MEHHVTO-es Under Armour Sportstyle Tricot Jogger Pantalones Hombre...'
+sku: 'B01MEHHVTO-es'
 tags: [  ]
 actualPrice: 43.34 EUR
 currency: EUR

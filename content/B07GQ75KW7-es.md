@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GQ75KW7-es Seiko Reloj Cronógrafo para Hombre de Cuarzo con Correa en...'
+sku: 'B07GQ75KW7-es'
 tags: [  ]
 actualPrice: 216.1 EUR
 currency: EUR

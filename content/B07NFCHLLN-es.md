@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NFCHLLN-es Casio Reloj Analógico para Mujer de Cuarzo con Correa en...'
+sku: 'B07NFCHLLN-es'
 tags: [  ]
 actualPrice: 23.78 EUR
 currency: EUR

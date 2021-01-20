@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFGZ15S-es Intex 57267EU - Flamenco hinchable gigante'
+sku: 'B07LFGZ15S-es'
 tags: [  ]
 actualPrice: 122.0 EUR
 currency: EUR

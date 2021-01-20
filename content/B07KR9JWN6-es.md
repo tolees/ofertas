@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KR9JWN6-es New Balance 574v2 Zapatillas Hombre Rojo Red/Grey 40 EU...'
+sku: 'B07KR9JWN6-es'
 tags: [  ]
 actualPrice: 61.91 EUR
 currency: EUR

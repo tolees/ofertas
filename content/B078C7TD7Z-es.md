@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078C7TD7Z-es Motorola Talkabout T82 Extrem - Walki-Talkis Alcance hasta...'
+sku: 'B078C7TD7Z-es'
 tags: [  ]
 actualPrice: 74.97 EUR
 currency: EUR

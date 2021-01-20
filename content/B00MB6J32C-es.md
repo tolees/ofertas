@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MB6J32C-es Russell Hobbs Grind & Brew - Cafetera de Goteo Jarra...'
+sku: 'B00MB6J32C-es'
 tags: [  ]
 actualPrice: 158.49 EUR
 currency: EUR

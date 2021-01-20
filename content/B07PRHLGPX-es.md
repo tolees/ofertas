@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PRHLGPX-es 100 Etiquetas Termoadhesivas Personalizadas con Icono para...'
+sku: 'B07PRHLGPX-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

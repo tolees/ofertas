@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083R51WMC-es OtterBox Commuter - Funda de Protección para Samsung...'
+sku: 'B083R51WMC-es'
 tags: [  ]
 actualPrice: 21.61 EUR
 currency: EUR

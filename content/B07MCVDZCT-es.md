@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MCVDZCT-es Gant D1.2-Pack Barstripe and Solid Sock Calcetines Naranja...'
+sku: 'B07MCVDZCT-es'
 tags: [  ]
 actualPrice: 6.37 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JKB11C7-es Columbia Mojave Trail II Outdry Zapatillas de Running para...'
+sku: 'B07JKB11C7-es'
 tags: [  ]
 actualPrice: 50.7 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VWJ81CP-es INTEY Bandas de Ejercicios Conjunto de Bandas de Gimnasia...'
+sku: 'B07VWJ81CP-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

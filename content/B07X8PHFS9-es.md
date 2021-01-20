@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X8PHFS9-es PUMA Ftblnxt Pant Sr Pantalones de Chándal de Fútbol...'
+sku: 'B07X8PHFS9-es'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

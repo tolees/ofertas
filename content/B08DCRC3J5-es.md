@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DCRC3J5-es JOYUE 40 Pcs Bolsas de Fiesta Dinosaurios Bolsas de Papel...'
+sku: 'B08DCRC3J5-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

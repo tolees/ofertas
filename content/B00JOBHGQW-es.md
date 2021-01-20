@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JOBHGQW-es Casio Reloj Analógico de Cuarzo con Correa en Cuero...'
+sku: 'B00JOBHGQW-es'
 tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001CB9V7E-es Revlon Super Lustrous Pintalabios Wink for Pink'
+sku: 'B001CB9V7E-es'
 tags: [  ]
 actualPrice: 1.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KSQPZ2Y-es BaByliss Diamond Slim ST325E - Plancha de pelo con placas...'
+sku: 'B00KSQPZ2Y-es'
 tags: [  ]
 actualPrice: 15.73 EUR
 currency: EUR

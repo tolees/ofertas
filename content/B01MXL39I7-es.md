@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MXL39I7-es L Oréal Paris Colorista Coloración Temporal Colorista...'
+sku: 'B01MXL39I7-es'
 tags: [  ]
 actualPrice: 0.5 EUR
 currency: EUR

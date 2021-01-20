@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NW7VXC4-es Skechers Women s SYNERGY Ankle Boots Brown Chestnut Micro...'
+sku: 'B07NW7VXC4-es'
 tags: [  ]
 actualPrice: 38.97 EUR
 currency: EUR

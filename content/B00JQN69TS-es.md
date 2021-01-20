@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JQN69TS-es Etnies Scout Zapatillas de Skateboard para Hombre Azul...'
+sku: 'B00JQN69TS-es'
 tags: [  ]
 actualPrice: 24.75 EUR
 currency: EUR

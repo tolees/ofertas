@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0888CZCTB-es GONGFF Archivadores Armario Armario Cosmético Caja de...'
+sku: 'B0888CZCTB-es'
 tags: [  ]
 actualPrice: 88.99 EUR
 currency: EUR

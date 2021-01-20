@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VDCLYJW-es Napapijri Elbas 3 Polo Turquesa Reef Turquoise I711 Large...'
+sku: 'B07VDCLYJW-es'
 tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR

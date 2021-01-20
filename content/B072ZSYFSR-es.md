@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072ZSYFSR-es Wandf Kit para artículos de tocador expandible Dopp con...'
+sku: 'B072ZSYFSR-es'
 tags: [  ]
 actualPrice: 12.15 EUR
 currency: EUR

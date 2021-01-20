@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S3QYBSS-es koulate Luz De Gabinete Led 2 Piezas De Gabinete...'
+sku: 'B07S3QYBSS-es'
 tags: [  ]
 actualPrice: 8.39 EUR
 currency: EUR

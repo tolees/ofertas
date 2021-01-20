@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077YC1FRX-es Sylvie Flirty Swimwear Bela Traje de Baño de Una Pieza...'
+sku: 'B077YC1FRX-es'
 tags: [  ]
 actualPrice: 9.56 EUR
 currency: EUR

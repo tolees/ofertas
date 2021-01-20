@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FZKXLYR-es RIIQIICHY Mujer Cachemira Bufanda Pashmina Chal Armada...'
+sku: 'B07FZKXLYR-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

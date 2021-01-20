@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HL29RL1-es Amazon Essentials - Pack de 3 sacos de dormir de bebé para...'
+sku: 'B07HL29RL1-es'
 tags: [  ]
 actualPrice: 12.25 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FLZGFTT-es Buff Tiger Hombre Grey Talla única'
+sku: 'B07FLZGFTT-es'
 tags: [  ]
 actualPrice: 7.48 EUR
 currency: EUR

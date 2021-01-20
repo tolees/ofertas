@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077XNVKFC-es Under Armour Woven Graphic Pantalón Corto Hombre Azul...'
+sku: 'B077XNVKFC-es'
 tags: [  ]
 actualPrice: 16.82 EUR
 currency: EUR

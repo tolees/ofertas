@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XD12SXN-es BLAVOR - Cargador Solar inalámbrico batería Externa de...'
+sku: 'B07XD12SXN-es'
 tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR

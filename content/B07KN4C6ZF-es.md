@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KN4C6ZF-es MOSISO Funda Dura Compatible con 2019 2018 MacBook Air 13...'
+sku: 'B07KN4C6ZF-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

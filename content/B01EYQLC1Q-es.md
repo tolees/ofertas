@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EYQLC1Q-es BERING Reloj Analógico para Mujer de Cuarzo con Correa en...'
+sku: 'B01EYQLC1Q-es'
 tags: [  ]
 actualPrice: 118.3 EUR
 currency: EUR

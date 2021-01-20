@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074FPHKDB-es Festina Reloj Analogico para Mujer de Cuarzo con Correa en...'
+sku: 'B074FPHKDB-es'
 tags: [  ]
 actualPrice: 69.0 EUR
 currency: EUR

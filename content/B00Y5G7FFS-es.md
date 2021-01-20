@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00Y5G7FFS-es Aceite de Rosa Mosqueta 120ml . Aceite orgánico...'
+sku: 'B00Y5G7FFS-es'
 tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RLNYDX4-es Atornillador Eléctrico Jellas Destornillador Eléctrico...'
+sku: 'B07RLNYDX4-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

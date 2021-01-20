@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FGSYLG8-es Under Armour Favorite Graphic Legging-WM Pantalones Mujer...'
+sku: 'B07FGSYLG8-es'
 tags: [  ]
 actualPrice: 19.23 EUR
 currency: EUR

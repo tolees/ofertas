@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WTLQDBP-es Adaptador USB C a Ethernet Hub USB Tipo C Thunderbolt 3 a...'
+sku: 'B07WTLQDBP-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

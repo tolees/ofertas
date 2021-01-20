@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KF67L2Z-es Levi s Housemark Polo Negro Mineral Black 0080 Small para...'
+sku: 'B07KF67L2Z-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

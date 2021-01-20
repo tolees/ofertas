@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X95QGZJ-es DOBEN - Barra de dominadas Profesional telescópica para...'
+sku: 'B06X95QGZJ-es'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

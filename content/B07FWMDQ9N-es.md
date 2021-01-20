@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FWMDQ9N-es Seiko Reloj analogico para Mujer de Cuarzo con Correa en...'
+sku: 'B07FWMDQ9N-es'
 tags: [  ]
 actualPrice: 155.92 EUR
 currency: EUR

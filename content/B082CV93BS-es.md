@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082CV93BS-es 50 Ml Perfume De Mujer Elegante Original Fragancia De...'
+sku: 'B082CV93BS-es'
 tags: [  ]
 actualPrice: 10.09 EUR
 currency: EUR

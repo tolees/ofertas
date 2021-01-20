@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XL483SR-es Montse Interiors S.L. Cuadrante o Cojín Decoración Liso...'
+sku: 'B07XL483SR-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

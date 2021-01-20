@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LAV6PF6-es LG Cinebeam Ph150G - Proyector con Batería Integrada hasta...'
+sku: 'B01LAV6PF6-es'
 tags: [  ]
 actualPrice: 249.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ECGX8FM-es Nikon AF-S DX NIKKOR 18-140 f/3.5-5.6G ED VR - Objetivo...'
+sku: 'B00ECGX8FM-es'
 tags: [  ]
 actualPrice: 361.95 EUR
 currency: EUR

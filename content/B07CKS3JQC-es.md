@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CKS3JQC-es KOOOPER Mapa del Mundo Mapa Mural para Rascar del Mundo...'
+sku: 'B07CKS3JQC-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DVPMWVH-es YspgArt66 - Lienzo Decorativo para Pared 5 Piezas diseño...'
+sku: 'B07DVPMWVH-es'
 tags: [  ]
 actualPrice: 22.79 EUR
 currency: EUR

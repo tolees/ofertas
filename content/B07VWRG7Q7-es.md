@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VWRG7Q7-es Jack & Jones JORFAME Crew Neck Suéter Azul Sea Moss Fit:...'
+sku: 'B07VWRG7Q7-es'
 tags: [  ]
 actualPrice: 12.71 EUR
 currency: EUR

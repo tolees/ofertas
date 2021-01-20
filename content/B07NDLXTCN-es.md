@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDLXTCN-es Nixon Reloj Hombre de Digital con Correa en Acero...'
+sku: 'B07NDLXTCN-es'
 tags: [  ]
 actualPrice: 112.53 EUR
 currency: EUR

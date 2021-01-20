@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074D9BRRB-es Victoria Deportivo PU Contraste Zapatillas para Hombre...'
+sku: 'B074D9BRRB-es'
 tags: [  ]
 actualPrice: 24.15 EUR
 currency: EUR

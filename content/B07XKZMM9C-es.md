@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XKZMM9C-es Raclette Grill Parrilla Electrico per 8 Persone Portatil...'
+sku: 'B07XKZMM9C-es'
 tags: [  ]
 actualPrice: 54.99 EUR
 currency: EUR

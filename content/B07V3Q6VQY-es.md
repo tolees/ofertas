@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V3Q6VQY-es Jack & Jones 12158190 Suéter Verde Darkest Spruce Darkest...'
+sku: 'B07V3Q6VQY-es'
 tags: [  ]
 actualPrice: 19.18 EUR
 currency: EUR

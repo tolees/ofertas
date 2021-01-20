@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0751GPX5W-es New Balance 247 Zapatillas para Mujer Rosa Rosa Rosa 40.5 EU'
+sku: 'B0751GPX5W-es'
 tags: [  ]
 actualPrice: 48.95 EUR
 currency: EUR

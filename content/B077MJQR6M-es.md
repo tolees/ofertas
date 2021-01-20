@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077MJQR6M-es Curren hombres reloj de cuarzo analógico reloj de pulsera...'
+sku: 'B077MJQR6M-es'
 tags: [  ]
 actualPrice: 17.89 EUR
 currency: EUR

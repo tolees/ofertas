@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K77FLGM-es Asics Patriot 10 Zapatillas de Running para Mujer Rosa...'
+sku: 'B07K77FLGM-es'
 tags: [  ]
 actualPrice: 31.49 EUR
 currency: EUR

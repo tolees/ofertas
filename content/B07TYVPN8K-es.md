@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TYVPN8K-es Skechers Arya-Airy Days Bailarinas con Punta Cerrada para...'
+sku: 'B07TYVPN8K-es'
 tags: [  ]
 actualPrice: 44.47 EUR
 currency: EUR

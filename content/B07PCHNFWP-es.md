@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PCHNFWP-es KOOTION Pendrive 64GB 3.0 Memoria USB Stick Flash Drive...'
+sku: 'B07PCHNFWP-es'
 tags: [  ]
 actualPrice: 10.98 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S3WXNSW-es Asics Patriot 11 GS Zapatillas de Running Unisex Niños...'
+sku: 'B07S3WXNSW-es'
 tags: [  ]
 actualPrice: 22.45 EUR
 currency: EUR

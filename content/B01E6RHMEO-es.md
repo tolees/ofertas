@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01E6RHMEO-es Brabantia Sort & Go Cubo de Basura 16 L Plástico Blanco 27...'
+sku: 'B01E6RHMEO-es'
 tags: [  ]
 actualPrice: 20.95 EUR
 currency: EUR

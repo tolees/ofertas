@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFHCHRD-es Syncwire Cable iPhone Cable Lightning a USB 1m - [MFi...'
+sku: 'B07DFHCHRD-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

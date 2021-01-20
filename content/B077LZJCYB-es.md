@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077LZJCYB-es HelpCuisine infusor de te/infusionador/colador te/filtro...'
+sku: 'B077LZJCYB-es'
 tags: [  ]
 actualPrice: 11.97 EUR
 currency: EUR

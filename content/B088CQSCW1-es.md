@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088CQSCW1-es Gebildet DC 12V 200mA Interruptor de Tipo de Pasta de...'
+sku: 'B088CQSCW1-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

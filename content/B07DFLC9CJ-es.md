@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFLC9CJ-es Comficent Juego de Sábanas 3D Ropa de Cama Universo 2...'
+sku: 'B07DFLC9CJ-es'
 tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR

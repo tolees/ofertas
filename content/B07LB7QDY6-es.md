@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LB7QDY6-es Adidas Terrex EASTRAIL GTX Zapatillas de Deporte para...'
+sku: 'B07LB7QDY6-es'
 tags: [  ]
 actualPrice: 68.99 EUR
 currency: EUR

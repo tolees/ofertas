@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TNVVLBT-es Clarks Atticus Lace Zapatos de Cordones Derby para Hombre...'
+sku: 'B07TNVVLBT-es'
 tags: [  ]
 actualPrice: 28.88 EUR
 currency: EUR

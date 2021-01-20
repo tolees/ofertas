@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HZ49PXS-es Petusco - Ana Blanco y Azul Piel de Vacuno tipo grano y...'
+sku: 'B07HZ49PXS-es'
 tags: [  ]
 actualPrice: 72.0 EUR
 currency: EUR

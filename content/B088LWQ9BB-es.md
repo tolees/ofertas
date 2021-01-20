@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088LWQ9BB-es KRY Ear Wax Remover Limpiadores de oídos Soft Tips...'
+sku: 'B088LWQ9BB-es'
 tags: [  ]
 actualPrice: 18.33 EUR
 currency: EUR

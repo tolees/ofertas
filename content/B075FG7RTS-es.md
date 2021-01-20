@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075FG7RTS-es Ksix BXSING01 - Karaoke portátil para Smartphones Color Plata'
+sku: 'B075FG7RTS-es'
 tags: [  ]
 actualPrice: 6.98 EUR
 currency: EUR

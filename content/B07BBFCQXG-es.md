@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BBFCQXG-es Versus by Versace Reloj Analogico para Hombre de Cuarzo...'
+sku: 'B07BBFCQXG-es'
 tags: [  ]
 actualPrice: 187.87 EUR
 currency: EUR

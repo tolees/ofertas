@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CLGCVJG-es COSORI Mantenedor de Café Caliente de Acero Inoxidable...'
+sku: 'B07CLGCVJG-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LC6PDQT-es BOSS Prime Polo Azul Light/Pastel Blue 454 XX-Large para...'
+sku: 'B07LC6PDQT-es'
 tags: [  ]
 actualPrice: 34.95 EUR
 currency: EUR

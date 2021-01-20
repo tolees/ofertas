@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RHN4GFF-es Pistola de Aire Caliente AREWTEC 2000W Decapadora...'
+sku: 'B07RHN4GFF-es'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081Q42SJR-es Depiladora de Luz Pulsada ACTION 2 Modos Depilación...'
+sku: 'B081Q42SJR-es'
 tags: [  ]
 actualPrice: 69.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G33JG2N-es Toalla Playa Personalizada con Nombre o Texto. Regalo...'
+sku: 'B07G33JG2N-es'
 tags: [  ]
 actualPrice: 12.5 EUR
 currency: EUR

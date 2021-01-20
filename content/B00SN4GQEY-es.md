@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SN4GQEY-es Chicco Steril Natural 3en1 - Esterilizador eléctrico de...'
+sku: 'B00SN4GQEY-es'
 tags: [  ]
 actualPrice: 50.0 EUR
 currency: EUR

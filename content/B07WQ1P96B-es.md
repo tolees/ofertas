@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WQ1P96B-es TUBBZ Street Fighter Ryu Collectible Duck'
+sku: 'B07WQ1P96B-es'
 tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C5QT5PJ-es Donnay CYNETIC Lady'
+sku: 'B07C5QT5PJ-es'
 tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR

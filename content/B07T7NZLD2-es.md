@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T7NZLD2-es The North Face M Croda Rossa Forro Polar Hombre Asphalt...'
+sku: 'B07T7NZLD2-es'
 tags: [  ]
 actualPrice: 51.33 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079HS2XY9-es El Reloj de Niños de Vinmori Reloj de Cuarzo con Dibujos...'
+sku: 'B079HS2XY9-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NFDMZY9-es Valentino by Mario ValentinoAudreyMujerCarteras de...'
+sku: 'B07NFDMZY9-es'
 tags: [  ]
 actualPrice: 52.4 EUR
 currency: EUR

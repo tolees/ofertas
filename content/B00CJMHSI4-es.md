@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CJMHSI4-es Nike NSW Pq Matchup Polo Hombre Blanco L'
+sku: 'B00CJMHSI4-es'
 tags: [  ]
 actualPrice: 16.95 EUR
 currency: EUR

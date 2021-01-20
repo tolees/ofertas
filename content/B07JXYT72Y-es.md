@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JXYT72Y-es Adidas Tiro 19 Training Pnt Pantalones Deportivos Hombre...'
+sku: 'B07JXYT72Y-es'
 tags: [  ]
 actualPrice: 29.49 EUR
 currency: EUR

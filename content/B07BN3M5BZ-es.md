@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BN3M5BZ-es NGS Premium Speaker WildRock - Altavoz portátil con...'
+sku: 'B07BN3M5BZ-es'
 tags: [  ]
 actualPrice: 109.99 EUR
 currency: EUR

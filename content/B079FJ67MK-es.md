@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079FJ67MK-es Veramonte Carmenere Vino Chile - 750 ml'
+sku: 'B079FJ67MK-es'
 tags: [  ]
 actualPrice: 5.92 EUR
 currency: EUR

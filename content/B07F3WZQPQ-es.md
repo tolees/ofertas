@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F3WZQPQ-es Cortapelos Profesional Hombre Cortadora de Pelo Eléctrico...'
+sku: 'B07F3WZQPQ-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078YG46CP-es Lorus Reloj Digital para Unisex de Cuarzo con Correa en...'
+sku: 'B078YG46CP-es'
 tags: [  ]
 actualPrice: 18.67 EUR
 currency: EUR

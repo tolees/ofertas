@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074JJWHDG-es Skechers Desert Kiss 31440 Sandalia con Pulsera para Mujer...'
+sku: 'B074JJWHDG-es'
 tags: [  ]
 actualPrice: 30.08 EUR
 currency: EUR

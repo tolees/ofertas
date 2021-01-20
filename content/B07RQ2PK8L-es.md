@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RQ2PK8L-es Calvin Klein - Ck Cast Pebble Mini 6cc W/Coin Carteras...'
+sku: 'B07RQ2PK8L-es'
 tags: [  ]
 actualPrice: 39.64 EUR
 currency: EUR

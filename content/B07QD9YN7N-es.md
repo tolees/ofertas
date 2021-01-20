@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QD9YN7N-es Adidas Grand Court K Zapatillas de Tenis Unisex niño Blanc...'
+sku: 'B07QD9YN7N-es'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

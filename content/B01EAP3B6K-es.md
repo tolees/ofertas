@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EAP3B6K-es Lonsdale Pantalones de entrenamiento de boxeo para hombre...'
+sku: 'B01EAP3B6K-es'
 tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR

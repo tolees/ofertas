@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MXTLPVR-es SALOMON Explore Graphic SS tee T-Shirt Hombre Azul...'
+sku: 'B07MXTLPVR-es'
 tags: [  ]
 actualPrice: 21.0 EUR
 currency: EUR

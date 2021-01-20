@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LF9X75M-es Dibea CM00341 - Alfombra para baño de Gatos PVC 40 x 60 cm...'
+sku: 'B07LF9X75M-es'
 tags: [  ]
 actualPrice: 8.11 EUR
 currency: EUR

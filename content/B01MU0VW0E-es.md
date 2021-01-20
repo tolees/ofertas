@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MU0VW0E-es Garnier Olia - Coloración Permanente sin Amoniaco con...'
+sku: 'B01MU0VW0E-es'
 tags: [  ]
 actualPrice: 4.25 EUR
 currency: EUR

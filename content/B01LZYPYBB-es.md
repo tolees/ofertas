@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZYPYBB-es Brabantia Cubo de Basura con Pedal Inoxidable Acero Mate...'
+sku: 'B01LZYPYBB-es'
 tags: [  ]
 actualPrice: 26.55 EUR
 currency: EUR

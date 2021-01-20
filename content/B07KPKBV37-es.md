@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPKBV37-es San Ignacio PK661 San Ignacio Set de Cacerolas Ã˜20/24/28...'
+sku: 'B07KPKBV37-es'
 tags: [  ]
 actualPrice: 84.99 EUR
 currency: EUR

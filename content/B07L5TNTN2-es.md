@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L5TNTN2-es Vieta pro Smartness - Auricular inalámbrico de Diadema con...'
+sku: 'B07L5TNTN2-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

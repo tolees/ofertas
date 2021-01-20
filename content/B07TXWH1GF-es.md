@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXWH1GF-es Skechers Boys ELITE FLEX HYDROX Trainers Brown Chocolate...'
+sku: 'B07TXWH1GF-es'
 tags: [  ]
 actualPrice: 37.11 EUR
 currency: EUR

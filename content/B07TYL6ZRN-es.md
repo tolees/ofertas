@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TYL6ZRN-es Meizas Conjuntos de Bikinis para Mujer Gris + Blanco Medium'
+sku: 'B07TYL6ZRN-es'
 tags: [  ]
 actualPrice: 10.0 EUR
 currency: EUR

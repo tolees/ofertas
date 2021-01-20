@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01L9EZET2-es This Is Acting'
+sku: 'B01L9EZET2-es'
 tags: [  ]
 actualPrice: 5.98 EUR
 currency: EUR

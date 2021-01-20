@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GGBXYRX-es ghd curve soft curl - Tenacilla profesional con barril de...'
+sku: 'B07GGBXYRX-es'
 tags: [  ]
 actualPrice: 130.99 EUR
 currency: EUR

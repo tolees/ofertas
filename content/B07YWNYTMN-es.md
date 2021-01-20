@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YWNYTMN-es Bandeja de Comida Fresca GHONLZIN Bandeja Fresca...'
+sku: 'B07YWNYTMN-es'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

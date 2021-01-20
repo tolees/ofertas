@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H93STY4-es 30000RPM Herramienta de manicura de Torno máquina de...'
+sku: 'B07H93STY4-es'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

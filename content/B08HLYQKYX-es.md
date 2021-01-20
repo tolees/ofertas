@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HLYQKYX-es Bolsas Reutilizables PEVA 15 Pack KEEHOM Bolsa Congelación...'
+sku: 'B08HLYQKYX-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

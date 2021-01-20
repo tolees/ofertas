@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J1V4NPN-es Petusco - Judith Amarillo Piel de Vacuno tipo grano y...'
+sku: 'B07J1V4NPN-es'
 tags: [  ]
 actualPrice: 100.0 EUR
 currency: EUR

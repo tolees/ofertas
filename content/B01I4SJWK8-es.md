@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01I4SJWK8-es Luces Solar Exterior Tira Lamparas led de Decoración/...'
+sku: 'B01I4SJWK8-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

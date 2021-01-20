@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081V3VT2R-es Arbily Auriculares Inalámbricos Auriculares Estéreo...'
+sku: 'B081V3VT2R-es'
 tags: [  ]
 actualPrice: 18.69 EUR
 currency: EUR

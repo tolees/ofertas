@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087LQQLF4-es Tyannan Cortina de Puerta Mantener alejados a los Insectos...'
+sku: 'B087LQQLF4-es'
 tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR

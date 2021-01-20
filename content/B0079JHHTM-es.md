@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0079JHHTM-es Arena Classic Gorro de Natación Unisex Adulto Azul...'
+sku: 'B0079JHHTM-es'
 tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR

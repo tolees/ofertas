@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MS5ZVHD-es Dockers Bic Alpha Original Skinny-Stretch Twill Pantalones...'
+sku: 'B01MS5ZVHD-es'
 tags: [  ]
 actualPrice: 39.23 EUR
 currency: EUR

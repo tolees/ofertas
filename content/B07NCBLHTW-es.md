@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NCBLHTW-es Pepe Jeans MC Queen Short para Hombre Rojo Jam 213 W29...'
+sku: 'B07NCBLHTW-es'
 tags: [  ]
 actualPrice: 21.08 EUR
 currency: EUR

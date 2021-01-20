@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HB8HFR8-es Funko Capitan Marvel Pop talos Multicolor 36378'
+sku: 'B07HB8HFR8-es'
 tags: [  ]
 actualPrice: 5.5 EUR
 currency: EUR

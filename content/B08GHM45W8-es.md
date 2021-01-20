@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GHM45W8-es GEEMEE Mando Inalámbrico para PS4 Wireless Bluetooth...'
+sku: 'B08GHM45W8-es'
 tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR

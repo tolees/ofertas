@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MEHHC70-es Rimmel London rossetto The Only 1 Lipstick colore Peachy-...'
+sku: 'B01MEHHC70-es'
 tags: [  ]
 actualPrice: 1.95 EUR
 currency: EUR

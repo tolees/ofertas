@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MKBMZJS-es UniqueMe Funda para Samsung Galaxy S10e Funda TPU Suave...'
+sku: 'B07MKBMZJS-es'
 tags: [  ]
 actualPrice: 1.99 EUR
 currency: EUR

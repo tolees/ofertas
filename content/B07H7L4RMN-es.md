@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H7L4RMN-es Rowenta RR6971WH Smart Force Essential Aqua - Robot...'
+sku: 'B07H7L4RMN-es'
 tags: [  ]
 actualPrice: 244.37 EUR
 currency: EUR

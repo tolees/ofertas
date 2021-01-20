@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X3NKHWP-es Eastpak Springer Riñonera 23 cm 2 L Multicolor Blurred Lines'
+sku: 'B07X3NKHWP-es'
 tags: [  ]
 actualPrice: 16.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GSM1B55-es KollyKolla Botella de Agua Acero Inoxidable Termo Sin BPA...'
+sku: 'B07GSM1B55-es'
 tags: [  ]
 actualPrice: 13.97 EUR
 currency: EUR

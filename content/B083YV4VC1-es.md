@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083YV4VC1-es Sujeciones de cable de nylon autoblocantes Manejo de...'
+sku: 'B083YV4VC1-es'
 tags: [  ]
 actualPrice: 3.37 EUR
 currency: EUR

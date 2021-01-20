@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DC26ML5-es PUMA Vikky Stacked SD Zapatillas para Mujer Negro Black...'
+sku: 'B07DC26ML5-es'
 tags: [  ]
 actualPrice: 45.81 EUR
 currency: EUR

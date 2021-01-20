@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F81JRJ9-es Cepillo de pelo de cerda de jabalí Cepillo de pelo de...'
+sku: 'B07F81JRJ9-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

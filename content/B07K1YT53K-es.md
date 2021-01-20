@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K1YT53K-es Apple Watch Series 4 GPS + Cellular con caja de 40 mm de...'
+sku: 'B07K1YT53K-es'
 tags: [  ]
 actualPrice: 548.7 EUR
 currency: EUR

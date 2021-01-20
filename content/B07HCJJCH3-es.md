@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HCJJCH3-es P Prettyia 1 Par Cuernos Tornillos de Fijación Sonido para...'
+sku: 'B07HCJJCH3-es'
 tags: [  ]
 actualPrice: 11.04 EUR
 currency: EUR

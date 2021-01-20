@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000NONWIK-es Shimano SM-SH11 - Par Calas Sm-Sh11 68 color amarillo'
+sku: 'B000NONWIK-es'
 tags: [  ]
 actualPrice: 12.55 EUR
 currency: EUR

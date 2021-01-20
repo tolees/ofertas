@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BWP85RW-es WMF PermaDur Premium - Sartén Aluminio Fundido Inducción...'
+sku: 'B00BWP85RW-es'
 tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR

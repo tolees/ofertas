@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C5LTZ6Q-es Removedor espinilla Chuangmeida Limpiador de Poros...'
+sku: 'B07C5LTZ6Q-es'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

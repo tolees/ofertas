@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003BIFRBA-es pjur ORIGINAL - Lubricante de silicona Premium -...'
+sku: 'B003BIFRBA-es'
 tags: [  ]
 actualPrice: 51.29 EUR
 currency: EUR

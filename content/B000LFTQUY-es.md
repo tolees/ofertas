@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000LFTQUY-es Silverline WR40 Llave Inglesa Ajustable Longitud 300 mm...'
+sku: 'B000LFTQUY-es'
 tags: [  ]
 actualPrice: 9.08 EUR
 currency: EUR

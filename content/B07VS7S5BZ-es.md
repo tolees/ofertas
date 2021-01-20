@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VS7S5BZ-es Almohada de Viaje Almohada Cervical de Viaje Almohada de...'
+sku: 'B07VS7S5BZ-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

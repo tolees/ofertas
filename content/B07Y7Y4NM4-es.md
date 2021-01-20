@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y7Y4NM4-es O PRO9 USB-C Hub Opro9 concentrador Tipo C 10 en 1 con 3...'
+sku: 'B07Y7Y4NM4-es'
 tags: [  ]
 actualPrice: 89.15 EUR
 currency: EUR

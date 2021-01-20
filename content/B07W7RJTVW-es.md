@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W7RJTVW-es Antena TV Antena TV Interior HDTV Digital con Amplificador...'
+sku: 'B07W7RJTVW-es'
 tags: [  ]
 actualPrice: 19.19 EUR
 currency: EUR

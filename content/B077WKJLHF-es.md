@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077WKJLHF-es afeitadora hombre corporal cable recortadora barba...'
+sku: 'B077WKJLHF-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

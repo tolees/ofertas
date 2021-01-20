@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DFTGMPM-es 50 colores 100 colores hilo de punto de cruz hilo de...'
+sku: 'B08DFTGMPM-es'
 tags: [  ]
 actualPrice: 3.37 EUR
 currency: EUR

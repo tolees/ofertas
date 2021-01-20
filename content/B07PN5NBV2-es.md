@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PN5NBV2-es Estuche rígido para Sony Wh-CH510 / Sony WH-CH500 Sony...'
+sku: 'B07PN5NBV2-es'
 tags: [  ]
 actualPrice: 12.95 EUR
 currency: EUR

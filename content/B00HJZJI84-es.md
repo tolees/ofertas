@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HJZJI84-es StarTech.com USB3S2SAT3CB - Adaptador USB 3.0-2.5" SATA...'
+sku: 'B00HJZJI84-es'
 tags: [  ]
 actualPrice: 10.12 EUR
 currency: EUR

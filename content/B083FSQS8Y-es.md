@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083FSQS8Y-es BRIKSMAX Kit de Iluminación Led para Lego City Space Port...'
+sku: 'B083FSQS8Y-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

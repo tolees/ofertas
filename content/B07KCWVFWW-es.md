@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KCWVFWW-es Hurley M Cut IT UP tee Camisetas Hombre White'
+sku: 'B07KCWVFWW-es'
 tags: [  ]
 actualPrice: 10.13 EUR
 currency: EUR

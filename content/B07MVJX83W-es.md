@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVJX83W-es Napapijri Eils SS Polo Azul BLU Marine 176 XX-Large para...'
+sku: 'B07MVJX83W-es'
 tags: [  ]
 actualPrice: 29.5 EUR
 currency: EUR

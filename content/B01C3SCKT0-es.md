@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01C3SCKT0-es Sigma 30mm f/1.4 DC DN Contemporary - Objetivo estándar...'
+sku: 'B01C3SCKT0-es'
 tags: [  ]
 actualPrice: 186.12 EUR
 currency: EUR

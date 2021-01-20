@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MMN8YSD-es GANT MD. Extrafine Lambswool V-Neck suéter Rojo Red 610...'
+sku: 'B07MMN8YSD-es'
 tags: [  ]
 actualPrice: 31.91 EUR
 currency: EUR

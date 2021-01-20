@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MT5KD69-es Cerdá 2200004036 Toalla Polyester Toy Story Buzz Lightyear...'
+sku: 'B07MT5KD69-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

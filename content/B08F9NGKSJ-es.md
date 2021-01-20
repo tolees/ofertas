@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08F9NGKSJ-es Auriculare/Auriculares Auriculares Cableados En El Ruido...'
+sku: 'B08F9NGKSJ-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

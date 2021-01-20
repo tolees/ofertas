@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IEXCBS8-es Dreamlove Skins Preservativo Sabores Varios - 12 Unidades'
+sku: 'B01IEXCBS8-es'
 tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR

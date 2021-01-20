@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QWND5YW-es Under Armour Metallic Woven FZ Parte Superior del...'
+sku: 'B07QWND5YW-es'
 tags: [  ]
 actualPrice: 25.89 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083QBNY9J-es Zapatillas Running Hombre Antideslizantes Ligeras...'
+sku: 'B083QBNY9J-es'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

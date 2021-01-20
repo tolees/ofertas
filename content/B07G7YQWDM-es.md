@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G7YQWDM-es IPOTCH 2 Piezas Medallón De Medalla De Uniforme Militar...'
+sku: 'B07G7YQWDM-es'
 tags: [  ]
 actualPrice: 11.76 EUR
 currency: EUR

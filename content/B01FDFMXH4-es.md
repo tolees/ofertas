@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FDFMXH4-es Suaoki - Mini Compresor de aire portátil bomba inflador...'
+sku: 'B01FDFMXH4-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

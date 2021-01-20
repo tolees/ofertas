@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KLSZG7L-es Crema hidratante antiarrugas con ácido hialurónico...'
+sku: 'B07KLSZG7L-es'
 tags: [  ]
 actualPrice: 20.4 EUR
 currency: EUR

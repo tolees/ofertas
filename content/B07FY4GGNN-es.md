@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FY4GGNN-es Vans Ward Canvas Zapatillas Unisex Niños Rojo Canvas Port...'
+sku: 'B07FY4GGNN-es'
 tags: [  ]
 actualPrice: 31.5 EUR
 currency: EUR

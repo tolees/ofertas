@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004V54ZVK-es Absolut Vodka - 1 L'
+sku: 'B004V54ZVK-es'
 tags: [  ]
 actualPrice: 12.65 EUR
 currency: EUR

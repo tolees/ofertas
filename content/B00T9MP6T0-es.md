@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00T9MP6T0-es Guess W0366G4 - Reloj de pulsera para hombre color azul /...'
+sku: 'B00T9MP6T0-es'
 tags: [  ]
 actualPrice: 168.52 EUR
 currency: EUR

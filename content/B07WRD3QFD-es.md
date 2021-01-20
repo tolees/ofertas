@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WRD3QFD-es Vicloon Tarjetas de Felicitación Tarjeta de San Valentín...'
+sku: 'B07WRD3QFD-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

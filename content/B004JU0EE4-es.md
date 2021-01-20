@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004JU0EE4-es Leifheit 24055 Sterling - Cuchara para Servir de Metal'
+sku: 'B004JU0EE4-es'
 tags: [  ]
 actualPrice: 4.29 EUR
 currency: EUR

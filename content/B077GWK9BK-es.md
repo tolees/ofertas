@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077GWK9BK-es Lente de Cámara de Seguridad 1080P 4mm M12 Lente de...'
+sku: 'B077GWK9BK-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

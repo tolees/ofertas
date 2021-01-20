@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q5FBKB6-es Regleta Enchufes Múltiples Base USB - SAFEMORE - 11...'
+sku: 'B07Q5FBKB6-es'
 tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR

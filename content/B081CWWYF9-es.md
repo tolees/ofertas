@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081CWWYF9-es Gillette Platinum Cuchillas de afeitar de doble filo para...'
+sku: 'B081CWWYF9-es'
 tags: [  ]
 actualPrice: 7.33 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NAEKRNB-es Limpiador de pelotas de golf'
+sku: 'B01NAEKRNB-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

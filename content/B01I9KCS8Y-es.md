@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01I9KCS8Y-es Lancardo Reloj Analógico Cuadrado Movimiento de Cuarzo...'
+sku: 'B01I9KCS8Y-es'
 tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR

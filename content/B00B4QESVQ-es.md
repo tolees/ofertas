@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00B4QESVQ-es HGST Travelstar 7K1000 1TB - Disco Duro Interno de 1 TB...'
+sku: 'B00B4QESVQ-es'
 tags: [  ]
 actualPrice: 51.26 EUR
 currency: EUR

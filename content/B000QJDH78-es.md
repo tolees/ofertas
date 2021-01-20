@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000QJDH78-es Merrell Waterpro Maipo 2 Zapatillas Impermeables para...'
+sku: 'B000QJDH78-es'
 tags: [  ]
 actualPrice: 47.34 EUR
 currency: EUR

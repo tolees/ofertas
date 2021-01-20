@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N6EMPXO-es Vitamaze® Vitamina B Complex con 180 tabletas veganas de...'
+sku: 'B01N6EMPXO-es'
 tags: [  ]
 actualPrice: 12.77 EUR
 currency: EUR

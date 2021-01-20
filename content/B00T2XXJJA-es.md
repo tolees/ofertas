@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00T2XXJJA-es Remington Ionic Dry D3190 Secador de Pelo Secador Iónico...'
+sku: 'B00T2XXJJA-es'
 tags: [  ]
 actualPrice: 22.79 EUR
 currency: EUR

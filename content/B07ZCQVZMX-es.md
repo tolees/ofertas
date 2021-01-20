@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZCQVZMX-es Compatible con la funda de iPhoneX silicona flexible...'
+sku: 'B07ZCQVZMX-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

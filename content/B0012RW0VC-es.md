@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0012RW0VC-es Bosch Professional GLI 12V-80 - Linterna a batería sin...'
+sku: 'B0012RW0VC-es'
 tags: [  ]
 actualPrice: 23.9 EUR
 currency: EUR

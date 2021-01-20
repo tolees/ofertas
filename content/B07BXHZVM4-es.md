@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BXHZVM4-es WLZP Toalla de Playa 100% algodón Absorbente Manta de...'
+sku: 'B07BXHZVM4-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

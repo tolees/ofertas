@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017UW5Y6K-es Sorel Childrens Yoot Pac Nylon Botas de Nieve para Niños...'
+sku: 'B017UW5Y6K-es'
 tags: [  ]
 actualPrice: 31.7 EUR
 currency: EUR

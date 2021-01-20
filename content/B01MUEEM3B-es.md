@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MUEEM3B-es Reloj Viceroy - Chicos 401055-05'
+sku: 'B01MUEEM3B-es'
 tags: [  ]
 actualPrice: 39.5 EUR
 currency: EUR

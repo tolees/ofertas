@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0785VP7RM-es Louviva Bolas da Masaje Set de 6 con Bolsa de Terciopelo'
+sku: 'B0785VP7RM-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

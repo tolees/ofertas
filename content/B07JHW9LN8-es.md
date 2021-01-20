@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JHW9LN8-es Columbia Nikiski Botas Bajas para Mujer Verde Nori...'
+sku: 'B07JHW9LN8-es'
 tags: [  ]
 actualPrice: 23.06 EUR
 currency: EUR

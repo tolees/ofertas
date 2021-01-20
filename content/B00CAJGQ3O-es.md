@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CAJGQ3O-es Beckham David Beckham Classic Agua de toilette con...'
+sku: 'B00CAJGQ3O-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CHYKFXR-es El Naturalista NG24 Lux Suede YUGEN Botas Chelsea para...'
+sku: 'B07CHYKFXR-es'
 tags: [  ]
 actualPrice: 31.92 EUR
 currency: EUR

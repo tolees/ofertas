@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089KKLHGX-es PROJEWE 30-72 Pares Aretes Surtidos Múltiples Pendientes...'
+sku: 'B089KKLHGX-es'
 tags: [  ]
 actualPrice: 8.69 EUR
 currency: EUR

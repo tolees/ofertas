@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RCNSS4S-es Nike W Nk Dry Get Fit FLC HD FZ JDI Long Sleeved T-Shirt...'
+sku: 'B07RCNSS4S-es'
 tags: [  ]
 actualPrice: 24.58 EUR
 currency: EUR

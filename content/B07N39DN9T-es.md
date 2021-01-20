@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N39DN9T-es QITAYO Funda Huawei P30 Lite de Tup Suave Carcasa...'
+sku: 'B07N39DN9T-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

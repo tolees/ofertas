@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N2PLMII-es adidas 6P Cotton Gorra de Tenis Hombre Blanco...'
+sku: 'B01N2PLMII-es'
 tags: [  ]
 actualPrice: 10.77 EUR
 currency: EUR

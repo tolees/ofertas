@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0899L2SSX-es Brewsly Termo Cafe 900ml 6 h Caliente y 12 h Frío Botella...'
+sku: 'B0899L2SSX-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

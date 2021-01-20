@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MJ5LVLN-es Lenovo Ideapad 330-15IKBR Ordenador Platinum Grey'
+sku: 'B07MJ5LVLN-es'
 tags: [  ]
 actualPrice: 279.99 EUR
 currency: EUR

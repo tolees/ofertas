@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0051POZ8W-es Johnson s Baby Crema Protectora de Pañal ideal para la...'
+sku: 'B0051POZ8W-es'
 tags: [  ]
 actualPrice: 3.25 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B3Y15FZ-es Cepillo de dientes para perros juguete para masticar...'
+sku: 'B08B3Y15FZ-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

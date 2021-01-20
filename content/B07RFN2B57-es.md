@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RFN2B57-es Salomon RX Break 4.0 W Zapatillas Deportivas para Interior...'
+sku: 'B07RFN2B57-es'
 tags: [  ]
 actualPrice: 24.65 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076ZVGZ6J-es Smartwares FEX-15112 Extintor de Polvo seco capacidad 1 kg...'
+sku: 'B076ZVGZ6J-es'
 tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR

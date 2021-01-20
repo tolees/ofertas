@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S39KBLP-es Maletín de Herramientas 102 Kit Caja Herramientas Portátil...'
+sku: 'B07S39KBLP-es'
 tags: [  ]
 actualPrice: 41.99 EUR
 currency: EUR

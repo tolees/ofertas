@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YDXKZ1V-es LeYi Funda Xiaomi Redmi Note 8 con HD Protector Pantalla...'
+sku: 'B07YDXKZ1V-es'
 tags: [  ]
 actualPrice: 8.87 EUR
 currency: EUR

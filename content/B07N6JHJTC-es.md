@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N6JHJTC-es Baseus Hub Tipo C de 5 Puertos de Datos Ultrafino de...'
+sku: 'B07N6JHJTC-es'
 tags: [  ]
 actualPrice: 10.45 EUR
 currency: EUR

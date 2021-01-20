@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F74M1JM-es Godagoda T244D - Juego de 5 hojas de sierra para sierra de...'
+sku: 'B07F74M1JM-es'
 tags: [  ]
 actualPrice: 0.1 EUR
 currency: EUR

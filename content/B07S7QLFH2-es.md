@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S7QLFH2-es PUMA Flyer Runner Zapatillas para Correr de Carretera...'
+sku: 'B07S7QLFH2-es'
 tags: [  ]
 actualPrice: 35.0 EUR
 currency: EUR

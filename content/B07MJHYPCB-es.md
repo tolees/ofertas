@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MJHYPCB-es molezu Máscara de Veneno con Cara de fusión de la Lengua...'
+sku: 'B07MJHYPCB-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

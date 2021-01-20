@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VDLFGJ7-es Vans Atwood Canvas Zapatillas para Hombre Gris Enzyme Wash...'
+sku: 'B07VDLFGJ7-es'
 tags: [  ]
 actualPrice: 46.75 EUR
 currency: EUR

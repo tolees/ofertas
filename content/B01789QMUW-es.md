@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01789QMUW-es LaCie Rugged Mini - Disco Duro Externo de 4 TB con USB 3.0...'
+sku: 'B01789QMUW-es'
 tags: [  ]
 actualPrice: 149.0 EUR
 currency: EUR

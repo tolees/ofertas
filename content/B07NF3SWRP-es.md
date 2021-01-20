@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NF3SWRP-es Lotus Reloj Analógico para Hombre de Cuarzo con Correa en...'
+sku: 'B07NF3SWRP-es'
 tags: [  ]
 actualPrice: 60.63 EUR
 currency: EUR

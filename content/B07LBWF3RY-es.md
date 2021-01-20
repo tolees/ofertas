@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBWF3RY-es IPOTCH 1 Piezas De Pinceles De Pintura De Arte Aceite...'
+sku: 'B07LBWF3RY-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0057G0TOY-es TRIXIE 12 Pañales Perros ultra absorbentes M Perro'
+sku: 'B0057G0TOY-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

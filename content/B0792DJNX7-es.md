@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0792DJNX7-es XOMAX XL-518 Silla de coche con ISOFIX I creciendo con...'
+sku: 'B0792DJNX7-es'
 tags: [  ]
 actualPrice: 88.9 EUR
 currency: EUR

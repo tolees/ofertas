@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QPZZPRC-es Asics Gel-Rocket 9 Zapatillas de Deporte Interior para...'
+sku: 'B07QPZZPRC-es'
 tags: [  ]
 actualPrice: 36.4 EUR
 currency: EUR

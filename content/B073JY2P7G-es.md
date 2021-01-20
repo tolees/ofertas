@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073JY2P7G-es SanDisk - Base iXpand de 32 GB para Cargar iPhone y Hacer...'
+sku: 'B073JY2P7G-es'
 tags: [  ]
 actualPrice: 26.92 EUR
 currency: EUR

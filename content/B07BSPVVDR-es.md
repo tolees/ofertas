@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BSPVVDR-es PowerBar Protein Plus 52% Chocolate Nut 20x50g - Barras de...'
+sku: 'B07BSPVVDR-es'
 tags: [  ]
 actualPrice: 27.89 EUR
 currency: EUR

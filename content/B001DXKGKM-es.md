@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001DXKGKM-es HP 304 - Cartucho de tóner Original HP 304A Amarillo para...'
+sku: 'B001DXKGKM-es'
 tags: [  ]
 actualPrice: 75.0 EUR
 currency: EUR

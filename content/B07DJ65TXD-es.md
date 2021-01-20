@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJ65TXD-es New Balance 247v1 Zapatillas para Hombre Azul...'
+sku: 'B07DJ65TXD-es'
 tags: [  ]
 actualPrice: 50.21 EUR
 currency: EUR

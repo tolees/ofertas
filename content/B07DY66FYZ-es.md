@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DY66FYZ-es Orient Reloj Analógico para Unisex Adultos de Automático...'
+sku: 'B07DY66FYZ-es'
 tags: [  ]
 actualPrice: 110.59 EUR
 currency: EUR

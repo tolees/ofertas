@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RHY12QC-es Under Armour Men s Charged Assert 8 Ltd Laufschuhe...'
+sku: 'B07RHY12QC-es'
 tags: [  ]
 actualPrice: 48.97 EUR
 currency: EUR

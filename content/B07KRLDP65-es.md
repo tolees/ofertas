@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRLDP65-es New Balance 624v5 Zapatillas Deportivas para Interior para...'
+sku: 'B07KRLDP65-es'
 tags: [  ]
 actualPrice: 25.15 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZ761KR-es Tecboss Encendedor Eléctrico Encendedor de Arco Eléctrico...'
+sku: 'B07TZ761KR-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

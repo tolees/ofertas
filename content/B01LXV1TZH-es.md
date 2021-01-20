@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LXV1TZH-es Nestlé KiKat Mini Chocolate con Leche - Barritas de...'
+sku: 'B01LXV1TZH-es'
 tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR

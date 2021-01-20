@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082D2BHNR-es 30 ml Perfume De Mujer Elegante Original Fragancia De...'
+sku: 'B082D2BHNR-es'
 tags: [  ]
 actualPrice: 9.69 EUR
 currency: EUR

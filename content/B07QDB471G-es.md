@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QDB471G-es Esprit Broome Fashion UW Bra Sujetador Rosa Blush 665 105D...'
+sku: 'B07QDB471G-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

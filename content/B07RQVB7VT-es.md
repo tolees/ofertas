@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RQVB7VT-es 3D Simulación de la Vagina la Lengua y los Dientes Fácil...'
+sku: 'B07RQVB7VT-es'
 tags: [  ]
 actualPrice: 13.95 EUR
 currency: EUR

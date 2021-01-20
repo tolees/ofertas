@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072JW7YLZ-es White Day: A Labyrinth Named School'
+sku: 'B072JW7YLZ-es'
 tags: [  ]
 actualPrice: 16.07 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088D9Z3KB-es Suhctup Funda Compatible para Samsung Galaxy S20 Ultra...'
+sku: 'B088D9Z3KB-es'
 tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR

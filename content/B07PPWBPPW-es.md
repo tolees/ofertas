@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PPWBPPW-es Anoopsyche Hombrera Ajustable Hombro Apoyo Transpirable de...'
+sku: 'B07PPWBPPW-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

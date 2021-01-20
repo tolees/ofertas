@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0758LBVDC-es Clarks Maritsa Lara Sandalia con Pulsera Tira de Tobillo...'
+sku: 'B0758LBVDC-es'
 tags: [  ]
 actualPrice: 69.9 EUR
 currency: EUR

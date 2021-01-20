@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000V3NBIO-es Emsa Basic Tapa Blanco 33 cm'
+sku: 'B000V3NBIO-es'
 tags: [  ]
 actualPrice: 11.15 EUR
 currency: EUR

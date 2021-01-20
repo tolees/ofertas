@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y5YP4WG-es Powcan Gorro Bluetooth V5.0 Inalámbricos Sombrero...'
+sku: 'B07Y5YP4WG-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

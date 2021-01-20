@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XLCVRNH-es CARPISA ® Cartera con cremallera completa de fantasía -...'
+sku: 'B07XLCVRNH-es'
 tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SPX5NPK-es Anbber Aire Acondicionado móvil 4 en 1 multifunción USB...'
+sku: 'B07SPX5NPK-es'
 tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR

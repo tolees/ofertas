@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SRSY4SN-es Paraguas de Viaje automático Plegable Compacto Paraguas...'
+sku: 'B07SRSY4SN-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

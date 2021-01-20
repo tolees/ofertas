@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0857YY2LP-es Zombie Army Trilogy'
+sku: 'B0857YY2LP-es'
 tags: [  ]
 actualPrice: 28.92 EUR
 currency: EUR

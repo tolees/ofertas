@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JLFKRTK-es PLAYMOBIL- Maricela con Bicicleta Juguete Multicolor...'
+sku: 'B07JLFKRTK-es'
 tags: [  ]
 actualPrice: 6.3 EUR
 currency: EUR

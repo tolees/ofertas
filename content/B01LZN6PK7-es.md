@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZN6PK7-es Resident Evil 4 HD'
+sku: 'B01LZN6PK7-es'
 tags: [  ]
 actualPrice: 14.9 EUR
 currency: EUR

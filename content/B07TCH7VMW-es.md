@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TCH7VMW-es Quiksilver Miz Kimitt-Polo De Manga Larga para Hombre Navy...'
+sku: 'B07TCH7VMW-es'
 tags: [  ]
 actualPrice: 18.72 EUR
 currency: EUR

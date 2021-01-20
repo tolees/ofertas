@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2WP9VJ-es Máquina picadora de carne manual máquina trituradora de...'
+sku: 'B07K2WP9VJ-es'
 tags: [  ]
 actualPrice: 25.09 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SWT3X79-es adidas X 19.2 FG Zapatillas de Fútbol para Hombre Verde...'
+sku: 'B07SWT3X79-es'
 tags: [  ]
 actualPrice: 67.64 EUR
 currency: EUR

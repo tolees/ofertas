@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XD9CQXN-es Smooce Piedras Luminosas 200 Piezas Piedras Decorativas...'
+sku: 'B07XD9CQXN-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

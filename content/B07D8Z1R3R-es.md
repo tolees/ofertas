@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D8Z1R3R-es Tommy Jeans Retro Flag Sneaker Zapatillas para Hombre...'
+sku: 'B07D8Z1R3R-es'
 tags: [  ]
 actualPrice: 63.78 EUR
 currency: EUR

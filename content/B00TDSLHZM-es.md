@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TDSLHZM-es Clarks Taylor Shine Botas Chelsea para Mujer Azul Navy...'
+sku: 'B00TDSLHZM-es'
 tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR

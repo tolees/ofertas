@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DC7DIJ8-es Samsung EHS64AVFBE - Auriculares para Samsung Galaxy S4...'
+sku: 'B00DC7DIJ8-es'
 tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR

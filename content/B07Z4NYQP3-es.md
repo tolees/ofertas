@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z4NYQP3-es GALAX PRO Sierra de calar a Batería DC-20V 2500SPM...'
+sku: 'B07Z4NYQP3-es'
 tags: [  ]
 actualPrice: 29.73 EUR
 currency: EUR

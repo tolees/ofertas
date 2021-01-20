@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003NZ6F6M-es DiMarzio EP1104 - Selector de pastilla para guitarra 5...'
+sku: 'B003NZ6F6M-es'
 tags: [  ]
 actualPrice: 20.97 EUR
 currency: EUR

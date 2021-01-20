@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G8F6TXJ-es Russell Hobbs Retro 25230-56 - Batidora de mano 700 W...'
+sku: 'B07G8F6TXJ-es'
 tags: [  ]
 actualPrice: 29.9 EUR
 currency: EUR

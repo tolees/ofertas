@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XV99GTD-es PRIXTON - Bombilla Inteligente Wifi/Smart Bulb/Bombillas...'
+sku: 'B07XV99GTD-es'
 tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR

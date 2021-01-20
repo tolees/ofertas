@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MCSPMX8-es Napapijri Rainforest Pocket Chaqueta Rojo High Risk Red...'
+sku: 'B07MCSPMX8-es'
 tags: [  ]
 actualPrice: 77.43 EUR
 currency: EUR

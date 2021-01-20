@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TTT1HVM-es Women s Secret Feminine Lace Off White Sujetador con Push-...'
+sku: 'B07TTT1HVM-es'
 tags: [  ]
 actualPrice: 11.12 EUR
 currency: EUR

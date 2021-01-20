@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076NH6TSZ-es Fellowes - Platinum Series - Soporte De Monitor Individual...'
+sku: 'B076NH6TSZ-es'
 tags: [  ]
 actualPrice: 95.1 EUR
 currency: EUR

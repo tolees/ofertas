@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DQWN8YN-es SWITCH SNK Heroines: Tag Team Frenzy'
+sku: 'B07DQWN8YN-es'
 tags: [  ]
 actualPrice: 20.82 EUR
 currency: EUR

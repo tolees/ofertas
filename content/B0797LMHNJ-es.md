@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0797LMHNJ-es Barbie Muñeca Articulada con Bicicleta y Accesorios Mattel...'
+sku: 'B0797LMHNJ-es'
 tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR

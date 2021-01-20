@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LA5FCJ2-es CamelBak 1228401003 Bolsa de hidratación Unisex Azul 3 litros'
+sku: 'B01LA5FCJ2-es'
 tags: [  ]
 actualPrice: 32.74 EUR
 currency: EUR

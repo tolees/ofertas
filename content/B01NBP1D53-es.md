@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NBP1D53-es adidas Altasport CF I Zapatillas Unisex Niños Multicolor...'
+sku: 'B01NBP1D53-es'
 tags: [  ]
 actualPrice: 17.5 EUR
 currency: EUR

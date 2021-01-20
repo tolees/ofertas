@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074ST3KLH-es Vitamina D3 400 Tabletas Veganas para 13 meses - Dosis...'
+sku: 'B074ST3KLH-es'
 tags: [  ]
 actualPrice: 9.97 EUR
 currency: EUR

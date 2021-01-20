@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M9BX7RG-es Silla de paseo compacta iCOO Acrobat hasta 18 kg con...'
+sku: 'B01M9BX7RG-es'
 tags: [  ]
 actualPrice: 199.99 EUR
 currency: EUR

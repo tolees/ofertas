@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KWAE4BE-es Tropico 5'
+sku: 'B00KWAE4BE-es'
 tags: [  ]
 actualPrice: 25.95 EUR
 currency: EUR

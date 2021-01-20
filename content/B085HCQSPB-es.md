@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085HCQSPB-es Total Safe 500ml Spray | Ideal para una higiene profunda...'
+sku: 'B085HCQSPB-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

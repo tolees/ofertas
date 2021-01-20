@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q76J2WK-es Pack 2x Tubo LED 120 cm 18w. Color Blanco Frio 6500K ....'
+sku: 'B07Q76J2WK-es'
 tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR

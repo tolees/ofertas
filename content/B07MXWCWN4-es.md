@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MXWCWN4-es GLOBE Encore-2 Zapatillas de Skateboard para Hombre Marrón...'
+sku: 'B07MXWCWN4-es'
 tags: [  ]
 actualPrice: 16.82 EUR
 currency: EUR

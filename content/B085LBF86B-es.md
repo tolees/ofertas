@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085LBF86B-es 8 piezas Broca Uso Power Tuerca Conductor Juego de puntas...'
+sku: 'B085LBF86B-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

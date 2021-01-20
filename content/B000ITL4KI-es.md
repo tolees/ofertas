@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000ITL4KI-es Gembird CC-PSU-1 - Cable de alimentación para CD/HDD/DVD Y...'
+sku: 'B000ITL4KI-es'
 tags: [  ]
 actualPrice: 1.97 EUR
 currency: EUR

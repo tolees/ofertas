@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009AQWJRC-es Essie Esmalte de Uñas Tono: 009 Vanity Fairest'
+sku: 'B009AQWJRC-es'
 tags: [  ]
 actualPrice: 4.79 EUR
 currency: EUR

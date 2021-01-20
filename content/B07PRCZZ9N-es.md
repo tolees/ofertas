@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PRCZZ9N-es Playtex Soutien-Gorge Emboitant Avec Armatures Essential...'
+sku: 'B07PRCZZ9N-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

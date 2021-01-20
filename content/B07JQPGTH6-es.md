@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JQPGTH6-es NYX Professional Makeup Base de maquillaje Can t Stop Won...'
+sku: 'B07JQPGTH6-es'
 tags: [  ]
 actualPrice: 4.88 EUR
 currency: EUR

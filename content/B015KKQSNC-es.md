@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015KKQSNC-es Kappa Speed II Zapatillas Unisex Adulto Negro 1110...'
+sku: 'B015KKQSNC-es'
 tags: [  ]
 actualPrice: 23.5 EUR
 currency: EUR

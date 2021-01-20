@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BR5LHGT-es L Oreal Paris Colorista Hair Make Up Metallic Blue'
+sku: 'B07BR5LHGT-es'
 tags: [  ]
 actualPrice: 1.5 EUR
 currency: EUR

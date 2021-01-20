@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BHRWDWL-es Mouse para juegos Bluetooth mouse inalámbrico recargable...'
+sku: 'B08BHRWDWL-es'
 tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR

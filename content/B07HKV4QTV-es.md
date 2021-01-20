@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HKV4QTV-es Under Armour UA W HOVR Rise Zapatillas Deportivas para...'
+sku: 'B07HKV4QTV-es'
 tags: [  ]
 actualPrice: 34.15 EUR
 currency: EUR

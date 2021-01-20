@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SH1VM58-es Levi s Woodward L Zapatillas para Hombre Blanco R White 51...'
+sku: 'B07SH1VM58-es'
 tags: [  ]
 actualPrice: 30.77 EUR
 currency: EUR

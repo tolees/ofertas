@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0711LZNFS-es Under Armour UA Heatgear Ankle Crop Leggings Capri Mujer...'
+sku: 'B0711LZNFS-es'
 tags: [  ]
 actualPrice: 21.49 EUR
 currency: EUR

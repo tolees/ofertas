@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075Y3BD5B-es Funda de almohada de seda marrón Ruwado | Funda de...'
+sku: 'B075Y3BD5B-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IUDMYRU-es Dakine Penelope Dinero Bolsa Color Sand Dollar tamaño...'
+sku: 'B01IUDMYRU-es'
 tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR

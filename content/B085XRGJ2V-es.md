@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085XRGJ2V-es BESTBOMG Cortapelos Profesional Hombre Máquina de Cortar...'
+sku: 'B085XRGJ2V-es'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

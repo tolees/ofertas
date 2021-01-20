@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088LHQR14-es Altavoz Bluetooth Portátil Altavoces Bluetooth Portatiles...'
+sku: 'B088LHQR14-es'
 tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR

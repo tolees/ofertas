@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KT45DTL-es Mini Altavoz con Forma de Coche Colorido LED Luz de Flash...'
+sku: 'B07KT45DTL-es'
 tags: [  ]
 actualPrice: 13.8 EUR
 currency: EUR

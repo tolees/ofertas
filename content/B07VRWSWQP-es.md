@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VRWSWQP-es Trona Evolutiva con bandeja Babify Evo/Nuevo Cojín +...'
+sku: 'B07VRWSWQP-es'
 tags: [  ]
 actualPrice: 52.99 EUR
 currency: EUR

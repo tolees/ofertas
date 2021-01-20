@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085HPHKNG-es Lifewit 10L Bolsa Isotermica de Almuerzo Nevera Portatil...'
+sku: 'B085HPHKNG-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

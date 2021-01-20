@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZG399VQ-es NEW C Funda para iPhone 11 Funda Protectora absorción de...'
+sku: 'B07ZG399VQ-es'
 tags: [  ]
 actualPrice: 4.9 EUR
 currency: EUR

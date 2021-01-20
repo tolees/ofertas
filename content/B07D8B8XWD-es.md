@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D8B8XWD-es New Balance Fresh Foam Cruz Sockfit Zapatillas para Hombre...'
+sku: 'B07D8B8XWD-es'
 tags: [  ]
 actualPrice: 45.84 EUR
 currency: EUR

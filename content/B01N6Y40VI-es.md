@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N6Y40VI-es Pritt Roller Compact corrector roller para tapar errores...'
+sku: 'B01N6Y40VI-es'
 tags: [  ]
 actualPrice: 3.29 EUR
 currency: EUR

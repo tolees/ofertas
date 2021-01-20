@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075TBP7QS-es Badger Protector solar para bebé SP30 | 1 x 87 ml'
+sku: 'B075TBP7QS-es'
 tags: [  ]
 actualPrice: 14.78 EUR
 currency: EUR

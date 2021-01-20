@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00AZTTTJO-es HP CN627AE 971XL Cartucho de Tinta Original de alto...'
+sku: 'B00AZTTTJO-es'
 tags: [  ]
 actualPrice: 102.0 EUR
 currency: EUR

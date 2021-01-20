@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RH37FWC-es Under Armour UA HG Armour Capri Leggings Mujer Rosa Hushed...'
+sku: 'B07RH37FWC-es'
 tags: [  ]
 actualPrice: 19.49 EUR
 currency: EUR

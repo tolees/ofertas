@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B011PXRL34-es EXZACT Pro – Escala Súper Delgada Analizador Corporal...'
+sku: 'B011PXRL34-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

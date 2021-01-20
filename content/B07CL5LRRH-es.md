@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CL5LRRH-es Scotch & Soda Nos Ralston Vaqueros Straight Azul Beaten...'
+sku: 'B07CL5LRRH-es'
 tags: [  ]
 actualPrice: 34.33 EUR
 currency: EUR

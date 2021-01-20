@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DCBGNDM-es PUMA Smash V2 Zapatillas Unisex Adulto Azul Peacoat Team...'
+sku: 'B07DCBGNDM-es'
 tags: [  ]
 actualPrice: 34.85 EUR
 currency: EUR

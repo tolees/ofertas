@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00280MUVC-es Chuckit! 17020 Ultra Ball 2 Pelotas para Perros Compatible...'
+sku: 'B00280MUVC-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

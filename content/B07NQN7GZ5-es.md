@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NQN7GZ5-es Zapatillas de Montaña Impermeable diseñados para...'
+sku: 'B07NQN7GZ5-es'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

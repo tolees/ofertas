@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071KCB2JL-es Palette Intense Cream Coloration Intensive Coloración del...'
+sku: 'B071KCB2JL-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

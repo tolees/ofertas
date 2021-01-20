@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QB2R6BS-es Lámparas de Mesa Lampop LED Luz Mesita de Noche Lámpara...'
+sku: 'B07QB2R6BS-es'
 tags: [  ]
 actualPrice: 19.98 EUR
 currency: EUR

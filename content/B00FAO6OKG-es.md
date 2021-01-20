@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FAO6OKG-es Cybex Silver Pallas-Fix 514110006 Silla de Coche Grupo...'
+sku: 'B00FAO6OKG-es'
 tags: [  ]
 actualPrice: 159.0 EUR
 currency: EUR

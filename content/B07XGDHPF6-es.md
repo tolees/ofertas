@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XGDHPF6-es Hauck Autoclose N Stop 2 puerta de segurida 75-80 cm...'
+sku: 'B07XGDHPF6-es'
 tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR

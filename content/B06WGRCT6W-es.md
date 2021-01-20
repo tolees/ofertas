@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WGRCT6W-es Dcasa DC-2430192 - Cubos de basura para pañales y...'
+sku: 'B06WGRCT6W-es'
 tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR

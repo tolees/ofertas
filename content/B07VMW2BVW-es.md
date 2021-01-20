@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VMW2BVW-es Organizadores para Coche 2 Pack Organizadores para...'
+sku: 'B07VMW2BVW-es'
 tags: [  ]
 actualPrice: 13.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RTW9KQW-es DAYNEW Dispensador De Aceite De Oliva y Vinagre con...'
+sku: 'B07RTW9KQW-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

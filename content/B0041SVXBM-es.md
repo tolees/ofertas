@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0041SVXBM-es STANLEY 0-83-122 - Sargento de angulo carga pesada'
+sku: 'B0041SVXBM-es'
 tags: [  ]
 actualPrice: 9.55 EUR
 currency: EUR

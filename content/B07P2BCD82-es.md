@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P2BCD82-es Superdry OL Elite Ziphood Capucha Gris Slate 07x XX-Small...'
+sku: 'B07P2BCD82-es'
 tags: [  ]
 actualPrice: 19.96 EUR
 currency: EUR

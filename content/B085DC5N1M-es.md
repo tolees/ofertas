@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085DC5N1M-es Alfombra De Pelo Largo Suave Salón Shaggy Estilo...'
+sku: 'B085DC5N1M-es'
 tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR

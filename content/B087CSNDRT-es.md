@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087CSNDRT-es FitBeast Banda de Resistencia con Anclaje para Puerta...'
+sku: 'B087CSNDRT-es'
 tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR

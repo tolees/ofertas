@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KPN9K2A-es De Longhi Molinillo de café Delonghi Dedica kg 521.M 150W...'
+sku: 'B01KPN9K2A-es'
 tags: [  ]
 actualPrice: 162.8 EUR
 currency: EUR

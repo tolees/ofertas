@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JG5T2A8-es Sisley Crema para el cuello la fórmula enriquecida - 50 ml'
+sku: 'B01JG5T2A8-es'
 tags: [  ]
 actualPrice: 81.9 EUR
 currency: EUR

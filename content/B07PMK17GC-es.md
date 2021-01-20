@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PMK17GC-es TOPsic Correa Gear Fit 2 Pro/Fit 2 Correa Reemplazo de...'
+sku: 'B07PMK17GC-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

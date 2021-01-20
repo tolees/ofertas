@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DKM7NQ1-es Imperial Confort Helsinki - Colchón Viscoelástico de...'
+sku: 'B07DKM7NQ1-es'
 tags: [  ]
 actualPrice: 185.04 EUR
 currency: EUR

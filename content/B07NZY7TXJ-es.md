@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NZY7TXJ-es Skechers Men s Elite Flex-BELBURN Trainers Blue Navy...'
+sku: 'B07NZY7TXJ-es'
 tags: [  ]
 actualPrice: 28.75 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000NRR30U-es Converse Chuck Taylor All Star Hi Zapatillas de tela...'
+sku: 'B000NRR30U-es'
 tags: [  ]
 actualPrice: 46.23 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0773HDJYM-es AmazonBasics – Cargador USB de pared de dos puertos 2 4...'
+sku: 'B0773HDJYM-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

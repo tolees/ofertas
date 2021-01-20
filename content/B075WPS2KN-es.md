@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075WPS2KN-es BelleStyle Alfombra Musical - Musical Canto Teclado Estera...'
+sku: 'B075WPS2KN-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

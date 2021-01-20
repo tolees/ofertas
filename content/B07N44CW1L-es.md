@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N44CW1L-es Desigual Trousers Pat Pantalones Negro 2000 W Talla de...'
+sku: 'B07N44CW1L-es'
 tags: [  ]
 actualPrice: 18.28 EUR
 currency: EUR

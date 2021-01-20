@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089Z3KCC2-es Nightmare Boy - Mongano´s Edition'
+sku: 'B089Z3KCC2-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

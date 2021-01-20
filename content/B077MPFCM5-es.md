@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077MPFCM5-es Chocolates Valor Chocolate Negro 70% con Naranja - 200 gr.'
+sku: 'B077MPFCM5-es'
 tags: [  ]
 actualPrice: 1.7 EUR
 currency: EUR

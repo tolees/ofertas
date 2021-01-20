@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QNP7M5C-es Hombres Sombrero de Safari Bucket Hat Verano Protección UV...'
+sku: 'B07QNP7M5C-es'
 tags: [  ]
 actualPrice: 12.68 EUR
 currency: EUR

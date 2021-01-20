@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002N5UL9A-es hummel 022030 Socks Unisex Adulto Blanco 10'
+sku: 'B002N5UL9A-es'
 tags: [  ]
 actualPrice: 7.13 EUR
 currency: EUR

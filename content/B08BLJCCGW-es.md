@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BLJCCGW-es Smartphone Oferta del día Ofertas móviles 3 GB RAM 32 GB...'
+sku: 'B08BLJCCGW-es'
 tags: [  ]
 actualPrice: 83.15 EUR
 currency: EUR

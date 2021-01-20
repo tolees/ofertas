@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075DCHBDR-es BigBen Sound BTLSUNICORN - Altavoz Wireless Luminoso...'
+sku: 'B075DCHBDR-es'
 tags: [  ]
 actualPrice: 33.92 EUR
 currency: EUR

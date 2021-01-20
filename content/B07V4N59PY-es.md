@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V4N59PY-es Tommy Hilfiger Essential Stripes Detail Sneaker Zapatillas...'
+sku: 'B07V4N59PY-es'
 tags: [  ]
 actualPrice: 47.99 EUR
 currency: EUR

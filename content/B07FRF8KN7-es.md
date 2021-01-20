@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FRF8KN7-es ZCHI 4 Piezas Bolsa de Almacenamiento Debajo de la Cama de...'
+sku: 'B07FRF8KN7-es'
 tags: [  ]
 actualPrice: 17.89 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078J2FZ4G-es D-Link COVR-C1203 - Kit WiFi Mesh/Malla con 3 Puntos de...'
+sku: 'B078J2FZ4G-es'
 tags: [  ]
 actualPrice: 156.09 EUR
 currency: EUR

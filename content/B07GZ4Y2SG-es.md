@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GZ4Y2SG-es Tamron T81140 - Objetivo SP 15-30mm F/2.8 Di VC USD G2...'
+sku: 'B07GZ4Y2SG-es'
 tags: [  ]
 actualPrice: 1018.36 EUR
 currency: EUR

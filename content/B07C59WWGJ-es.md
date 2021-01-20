@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C59WWGJ-es Khanomak Sólido Ligero y Mediana Altura Auto Cinturón de...'
+sku: 'B07C59WWGJ-es'
 tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR

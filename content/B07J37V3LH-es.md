@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J37V3LH-es Under Armour Tech Polo Hombre Rojo Beta Red/Pitch Gray 632 M'
+sku: 'B07J37V3LH-es'
 tags: [  ]
 actualPrice: 25.95 EUR
 currency: EUR

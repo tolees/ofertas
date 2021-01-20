@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BB44HMR-es Helly Hansen TSUGA Zapatillas de Deporte para Hombre...'
+sku: 'B07BB44HMR-es'
 tags: [  ]
 actualPrice: 51.78 EUR
 currency: EUR

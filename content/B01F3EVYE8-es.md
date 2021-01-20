@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01F3EVYE8-es Fotopro Palo Selfie para Gopro Selfie Stick con Mini...'
+sku: 'B01F3EVYE8-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

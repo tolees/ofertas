@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q9LTDRD-es Lámpara de pie vintage - Lámpara de Suelo pantalla negro-...'
+sku: 'B07Q9LTDRD-es'
 tags: [  ]
 actualPrice: 55.88 EUR
 currency: EUR

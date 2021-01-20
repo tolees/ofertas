@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PNUI5CC-es adidas Originals Superstar Zapatillas Unisex Adulto Negro...'
+sku: 'B00PNUI5CC-es'
 tags: [  ]
 actualPrice: 62.9 EUR
 currency: EUR

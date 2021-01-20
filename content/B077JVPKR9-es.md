@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077JVPKR9-es HEAD GRAPHENE TORNADO CONTROL LTD AZUL'
+sku: 'B077JVPKR9-es'
 tags: [  ]
 actualPrice: 79.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DRNNXQV-es Skechers Boys Go Run 600-Farrox Trainers Black Black Blue...'
+sku: 'B07DRNNXQV-es'
 tags: [  ]
 actualPrice: 27.95 EUR
 currency: EUR

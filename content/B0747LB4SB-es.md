@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0747LB4SB-es SkullCap® Casco BMX Bici y Casco Skate - Hombres Mujeres...'
+sku: 'B0747LB4SB-es'
 tags: [  ]
 actualPrice: 34.9 EUR
 currency: EUR

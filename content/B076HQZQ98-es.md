@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076HQZQ98-es adidas CORE18 tee T-Shirt Hombre Power Red/White L'
+sku: 'B076HQZQ98-es'
 tags: [  ]
 actualPrice: 14.7 EUR
 currency: EUR

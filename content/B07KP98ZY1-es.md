@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KP98ZY1-es HongHu Vocaloid MIKU Peluca larga y recta con lado Doble...'
+sku: 'B07KP98ZY1-es'
 tags: [  ]
 actualPrice: 16.04 EUR
 currency: EUR

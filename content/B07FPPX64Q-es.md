@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FPPX64Q-es Moulinex XF389010 Accesorios Cuisine Companion kit...'
+sku: 'B07FPPX64Q-es'
 tags: [  ]
 actualPrice: 69.0 EUR
 currency: EUR

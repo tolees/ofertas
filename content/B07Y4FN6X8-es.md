@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y4FN6X8-es Compatible con Samsung Galaxy Note 10 Pro funda de...'
+sku: 'B07Y4FN6X8-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

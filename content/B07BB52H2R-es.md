@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BB52H2R-es Kodak Printomatic - Cámara de impresión instantánea...'
+sku: 'B07BB52H2R-es'
 tags: [  ]
 actualPrice: 66.93 EUR
 currency: EUR

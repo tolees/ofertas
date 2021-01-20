@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WWCM1Q-es Silla de paseo Globetrotter de Maclaren: ligera compacta y...'
+sku: 'B078WWCM1Q-es'
 tags: [  ]
 actualPrice: 105.11 EUR
 currency: EUR

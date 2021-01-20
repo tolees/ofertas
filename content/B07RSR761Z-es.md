@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RSR761Z-es Everybodys Golf'
+sku: 'B07RSR761Z-es'
 tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR

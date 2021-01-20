@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N7PA1SE-es El Hombre Tranquilo/ The Quiet Man [Blu-ray]'
+sku: 'B01N7PA1SE-es'
 tags: [  ]
 actualPrice: 9.0 EUR
 currency: EUR

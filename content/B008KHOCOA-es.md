@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008KHOCOA-es Beefeater London Dry Ginebra - 1500 ml'
+sku: 'B008KHOCOA-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
@@ -28,9 +29,9 @@ En este momento está [Beefeater London Dry Ginebra - 1500 ml](https://www.amazo
 
 - Beefeater London Dry es una ginebra premium fresca, pura y crespa, con un sutil toque cítrico y afrutado
 - Se recomienda servir la ginebra Beefeater London Dry Gin con tónica y un twist de limón
-- Es un gin premium con un sabor muy limpio, y un carácter de enebro fuerte equilibrado con notas de cítricos de limón y naranja
-- La complejidad de la receta de Beefeater produce un gin multidimensional en carácter y, al mismo tiempo, equilibrado y completo
 - Beefeater London Dry es una ginebra premium con un color cristalino y nacida en el centro de Londres
+- La complejidad de la receta de Beefeater produce un gin multidimensional en carácter y, al mismo tiempo, equilibrado y completo
+- Es un gin premium con un sabor muy limpio, y un carácter de enebro fuerte equilibrado con notas de cítricos de limón y naranja
 - Entre sus ingredientes destacan el enebro, la cáscara de limón, la cáscara de naranja de Sevilla, la raíz de regaliz, almendra y la raíz de angélica
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B008KHOCOA/?tag=tolees-21)

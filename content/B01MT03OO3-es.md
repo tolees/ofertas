@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MT03OO3-es Bourjois Healthy Mix Base de Maquillaje Tono 53 Light...'
+sku: 'B01MT03OO3-es'
 tags: [  ]
 actualPrice: 2.1 EUR
 currency: EUR

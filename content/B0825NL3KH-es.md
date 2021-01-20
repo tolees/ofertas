@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0825NL3KH-es Quiksilver On Tour - Licra De Manga Corta con Protección...'
+sku: 'B0825NL3KH-es'
 tags: [  ]
 actualPrice: 23.67 EUR
 currency: EUR

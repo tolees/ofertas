@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N8KVKTF-es HOMYBABY Ganchos Carrito Bebé 2 pcs | Diseño...'
+sku: 'B07N8KVKTF-es'
 tags: [  ]
 actualPrice: 6.49 EUR
 currency: EUR

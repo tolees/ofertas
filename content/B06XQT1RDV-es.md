@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XQT1RDV-es HorBous Exquisito de madera redonda de 3 Min / 5 Min / 10...'
+sku: 'B06XQT1RDV-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0029F4XZW-es Zestaw twist n flex nielamliwa linijka 15 ekierka katomierz'
+sku: 'B0029F4XZW-es'
 tags: [  ]
 actualPrice: 1.44 EUR
 currency: EUR

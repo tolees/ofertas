@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y9MC1JX-es Onlyoily Lápiz labial 5 colores mate de larga duración...'
+sku: 'B07Y9MC1JX-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

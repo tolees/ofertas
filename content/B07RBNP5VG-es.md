@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RBNP5VG-es Meinkind Silla de Coche Niños Grupo 1 2 3 Isofix 9-36 kg...'
+sku: 'B07RBNP5VG-es'
 tags: [  ]
 actualPrice: 139.99 EUR
 currency: EUR

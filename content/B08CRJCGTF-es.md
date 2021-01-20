@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CRJCGTF-es MaNMaNing Protección 3 Capas Transpirables con Elástico...'
+sku: 'B08CRJCGTF-es'
 tags: [  ]
 actualPrice: 2.99 EUR
 currency: EUR

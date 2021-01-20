@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X422YRF-es Himaly Báscula de baño Antideslizante Digital de Alta...'
+sku: 'B07X422YRF-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

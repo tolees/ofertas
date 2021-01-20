@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CPPMFV2-es Munvot Mujer Mallas Deportivas Pantalones Cortos con...'
+sku: 'B07CPPMFV2-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N34S5GF-es Emporio Armani Reloj Analógico para Hombre de Cuarzo con...'
+sku: 'B07N34S5GF-es'
 tags: [  ]
 actualPrice: 79.6 EUR
 currency: EUR

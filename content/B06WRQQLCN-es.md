@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WRQQLCN-es Tijeras de Cocina de Alta Resistencia – Galardonadas como...'
+sku: 'B06WRQQLCN-es'
 tags: [  ]
 actualPrice: 17.81 EUR
 currency: EUR

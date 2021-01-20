@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007YFYU5K-es Faro Barcelona 33415 - EASY Ventilador de techo con luz...'
+sku: 'B007YFYU5K-es'
 tags: [  ]
 actualPrice: 105.0 EUR
 currency: EUR

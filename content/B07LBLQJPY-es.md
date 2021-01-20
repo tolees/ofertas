@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBLQJPY-es Napapijri Nakuro 2 Pantalones Cortos Blanco Bright White...'
+sku: 'B07LBLQJPY-es'
 tags: [  ]
 actualPrice: 20.01 EUR
 currency: EUR

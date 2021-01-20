@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000KTAP6K-es Edding 212342 - Marcador con punta cónica color azul'
+sku: 'B000KTAP6K-es'
 tags: [  ]
 actualPrice: 2.9 EUR
 currency: EUR

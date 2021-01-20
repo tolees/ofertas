@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K78BR7V-es Levi s 502 Regular Taper Jeans Azul Kalsomine 0388 33W /...'
+sku: 'B07K78BR7V-es'
 tags: [  ]
 actualPrice: 51.64 EUR
 currency: EUR

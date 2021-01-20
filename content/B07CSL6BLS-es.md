@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CSL6BLS-es Acabado sal mejor protección de la máquina 3Kg'
+sku: 'B07CSL6BLS-es'
 tags: [  ]
 actualPrice: 6.56 EUR
 currency: EUR

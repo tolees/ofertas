@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00W5NJBRS-es Protefix - Almohadillas Adhesivas para Protesis Dentales'
+sku: 'B00W5NJBRS-es'
 tags: [  ]
 actualPrice: 6.95 EUR
 currency: EUR

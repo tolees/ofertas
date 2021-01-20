@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016FS2UEO-es NOVEX Sérum Absoluto 30 ml Pack de 6'
+sku: 'B016FS2UEO-es'
 tags: [  ]
 actualPrice: 7.89 EUR
 currency: EUR

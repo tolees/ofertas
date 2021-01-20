@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GKWKFF6-es FELiCON K109 Juegos De una Sola Mano Teclado Mecánico USB...'
+sku: 'B07GKWKFF6-es'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

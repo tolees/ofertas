@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AY6CYIU-es UGG W Classic Mini II Botas para Mujer Gris Grey Grey 38 EU'
+sku: 'B01AY6CYIU-es'
 tags: [  ]
 actualPrice: 122.66 EUR
 currency: EUR

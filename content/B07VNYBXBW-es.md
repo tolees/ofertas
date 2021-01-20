@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VNYBXBW-es NEW C 2 Unidades Protector de Pantalla para Xiaomi Mi 9 SE...'
+sku: 'B07VNYBXBW-es'
 tags: [  ]
 actualPrice: 4.9 EUR
 currency: EUR

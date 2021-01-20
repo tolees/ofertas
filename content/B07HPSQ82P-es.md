@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HPSQ82P-es find. Kitten Heel Sling Back Mary Jane Negro Black 39 EU'
+sku: 'B07HPSQ82P-es'
 tags: [  ]
 actualPrice: 8.53 EUR
 currency: EUR

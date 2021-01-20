@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077MYTPPM-es CORNERIA Easy-store Portacepillos De Diente - Soporte de...'
+sku: 'B077MYTPPM-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

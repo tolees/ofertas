@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFZFQKD-es PUMA Future 4.3 Netfit FG/AG Jr Botas de fútbol Unisex...'
+sku: 'B07KFZFQKD-es'
 tags: [  ]
 actualPrice: 38.95 EUR
 currency: EUR

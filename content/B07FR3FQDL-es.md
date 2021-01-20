@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FR3FQDL-es Clarks Un Trail Step Mocasines para Hombre Negro Black...'
+sku: 'B07FR3FQDL-es'
 tags: [  ]
 actualPrice: 36.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083GJJ6LX-es scottpown Reproductor de música de Tarjeta de Altavoz...'
+sku: 'B083GJJ6LX-es'
 tags: [  ]
 actualPrice: 7.0 EUR
 currency: EUR

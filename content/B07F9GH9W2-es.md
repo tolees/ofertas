@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F9GH9W2-es Rayman Legends'
+sku: 'B07F9GH9W2-es'
 tags: [  ]
 actualPrice: 14.9 EUR
 currency: EUR

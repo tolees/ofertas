@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HG79GG9-es New Balance 373 Zapatillas para Mujer Azul Navy Navy 37.5 EU'
+sku: 'B07HG79GG9-es'
 tags: [  ]
 actualPrice: 41.52 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BJMRDTL-es Sivane Aire humidificador ultrasónico difusor de...'
+sku: 'B08BJMRDTL-es'
 tags: [  ]
 actualPrice: 5.86 EUR
 currency: EUR

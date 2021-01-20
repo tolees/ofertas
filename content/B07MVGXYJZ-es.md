@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVGXYJZ-es Disney Bañador de Dos Piezas para niña Moana Multicolor...'
+sku: 'B07MVGXYJZ-es'
 tags: [  ]
 actualPrice: 11.95 EUR
 currency: EUR

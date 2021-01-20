@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00W68P4SM-es Dickies Slim Fit Work Pant Pantalones Negro Black BK...'
+sku: 'B00W68P4SM-es'
 tags: [  ]
 actualPrice: 38.59 EUR
 currency: EUR

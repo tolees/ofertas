@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085WR6M6P-es Juego de 10 brochas de maquillaje de cerdas sintéticas de...'
+sku: 'B085WR6M6P-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

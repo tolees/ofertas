@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082Z6ML5V-es Wanxian Lámpara de Ventilador de Escritorio 2600mAh...'
+sku: 'B082Z6ML5V-es'
 tags: [  ]
 actualPrice: 16.63 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IRD6SNE-es Quntis® - Ganchos Ventosa Fuerte [2 Piezas] Perchas...'
+sku: 'B01IRD6SNE-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

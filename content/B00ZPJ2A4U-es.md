@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ZPJ2A4U-es Bourjois Push Up Máscara de pestañas Tono 71 Waterproof...'
+sku: 'B00ZPJ2A4U-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

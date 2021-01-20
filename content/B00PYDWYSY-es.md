@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PYDWYSY-es Nike MD Runner 2 Zapatillas para Hombre Midnight...'
+sku: 'B00PYDWYSY-es'
 tags: [  ]
 actualPrice: 33.49 EUR
 currency: EUR

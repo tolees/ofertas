@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076CDK15D-es Just Stationery - 24 Fundas de plástico transparentes...'
+sku: 'B076CDK15D-es'
 tags: [  ]
 actualPrice: 2.7 EUR
 currency: EUR

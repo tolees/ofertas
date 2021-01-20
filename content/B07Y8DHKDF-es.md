@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y8DHKDF-es Konesky Portátil Podómetro Digital para Caminar 3D...'
+sku: 'B07Y8DHKDF-es'
 tags: [  ]
 actualPrice: 9.29 EUR
 currency: EUR

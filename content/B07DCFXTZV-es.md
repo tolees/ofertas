@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DCFXTZV-es Puma Smash v2 Zapatillas Unisex adulto Beige Elm-Puma...'
+sku: 'B07DCFXTZV-es'
 tags: [  ]
 actualPrice: 38.32 EUR
 currency: EUR

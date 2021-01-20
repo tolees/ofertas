@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N98WQBY-es Milton Mini Tabletas Esterilizadoras - Pastillas para...'
+sku: 'B01N98WQBY-es'
 tags: [  ]
 actualPrice: 4.72 EUR
 currency: EUR

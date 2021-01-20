@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QCQ9YX6-es Funko Pop Figura De Vinil TV: Mad Men-Betty Coleccionable...'
+sku: 'B07QCQ9YX6-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

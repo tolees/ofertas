@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TQ4RXTW-es Funko Pop!- Albus Dumbledore Figura de Vinilo colección de...'
+sku: 'B00TQ4RXTW-es'
 tags: [  ]
 actualPrice: 8.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079DHKBWR-es Casio Reloj Digital para Hombre de Cuarzo con Correa en...'
+sku: 'B079DHKBWR-es'
 tags: [  ]
 actualPrice: 31.98 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M1EATN5-es SUNLU WOOD Filamento PLA Madera 1.75 1kg Spool Impresora...'
+sku: 'B01M1EATN5-es'
 tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR

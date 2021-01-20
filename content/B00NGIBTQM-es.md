@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NGIBTQM-es Bestway 52195 - Piscina de Bolas Hinchable Circo 137x96x96...'
+sku: 'B00NGIBTQM-es'
 tags: [  ]
 actualPrice: 21.37 EUR
 currency: EUR

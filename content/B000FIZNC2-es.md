@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000FIZNC2-es Shimano Fx Spinning 66Mhb2 195Mh'
+sku: 'B000FIZNC2-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

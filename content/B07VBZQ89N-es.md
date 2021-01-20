@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VBZQ89N-es Jack & Jones Jjiace Jjworker WW Pantalones Negro Black...'
+sku: 'B07VBZQ89N-es'
 tags: [  ]
 actualPrice: 15.71 EUR
 currency: EUR

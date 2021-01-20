@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DKD1FT1-es Energy Music Box 5+ Yall Edition Bluetooth 4.1 10 W...'
+sku: 'B07DKD1FT1-es'
 tags: [  ]
 actualPrice: 24.9 EUR
 currency: EUR

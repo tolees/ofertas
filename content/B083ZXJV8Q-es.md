@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083ZXJV8Q-es Piscina Luz LED Impermeables Luces Sumergibles Control...'
+sku: 'B083ZXJV8Q-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

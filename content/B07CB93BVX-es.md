@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CB93BVX-es Gen‚rico Calzador de Mango Largo Accesorios Acero...'
+sku: 'B07CB93BVX-es'
 tags: [  ]
 actualPrice: 7.81 EUR
 currency: EUR

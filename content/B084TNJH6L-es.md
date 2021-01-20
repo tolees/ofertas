@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084TNJH6L-es Triamisu Vaporizador de Ropa portátil de Viaje...'
+sku: 'B084TNJH6L-es'
 tags: [  ]
 actualPrice: 20.1 EUR
 currency: EUR

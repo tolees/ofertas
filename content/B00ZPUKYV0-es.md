@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ZPUKYV0-es Roca A816850001 Portarrollo sin tapa Posibilidad de...'
+sku: 'B00ZPUKYV0-es'
 tags: [  ]
 actualPrice: 24.12 EUR
 currency: EUR

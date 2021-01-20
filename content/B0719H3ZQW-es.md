@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0719H3ZQW-es Compartimientos plegables del almacenaje del yute cesta de...'
+sku: 'B0719H3ZQW-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

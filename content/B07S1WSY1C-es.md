@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S1WSY1C-es Melissa Pack Hilo Acrílico Ovillos de Lanas de Hilo Lana...'
+sku: 'B07S1WSY1C-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

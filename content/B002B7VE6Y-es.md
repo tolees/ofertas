@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002B7VE6Y-es Plantronics - Aps-11 - accesorio para auriculares'
+sku: 'B002B7VE6Y-es'
 tags: [  ]
 actualPrice: 17.49 EUR
 currency: EUR

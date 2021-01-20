@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QSZW52D-es SIMUER 3Pcs Bolsa de Riñonera Impermeable Funda con Triple...'
+sku: 'B07QSZW52D-es'
 tags: [  ]
 actualPrice: 9.18 EUR
 currency: EUR

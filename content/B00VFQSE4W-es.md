@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VFQSE4W-es Samsonite Lite-Shock - Spinner M Maleta 69 cm 73 L Color...'
+sku: 'B00VFQSE4W-es'
 tags: [  ]
 actualPrice: 345.31 EUR
 currency: EUR

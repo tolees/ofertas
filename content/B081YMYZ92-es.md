@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081YMYZ92-es 20m Guirnalda luces LEDOU 200 LED Luces Cable de Cobre...'
+sku: 'B081YMYZ92-es'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BQD4YU2-es Haverland RC3W - Emisor Térmico De Inercia De Fundición De...'
+sku: 'B00BQD4YU2-es'
 tags: [  ]
 actualPrice: 164.15 EUR
 currency: EUR

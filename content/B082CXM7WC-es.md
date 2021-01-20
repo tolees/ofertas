@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082CXM7WC-es NETVIP WiFi Repetidor de Red WiFi Amplificador 300Mbps...'
+sku: 'B082CXM7WC-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

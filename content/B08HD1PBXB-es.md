@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HD1PBXB-es Termometro Infrarrojos ℃ y ℉ Conmutable Termometro Sin...'
+sku: 'B08HD1PBXB-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

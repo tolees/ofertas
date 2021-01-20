@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XC465DS-es Amaco Cinta de Correr Semi Profesional 2 HP. 20 Programas...'
+sku: 'B06XC465DS-es'
 tags: [  ]
 actualPrice: 307.0 EUR
 currency: EUR

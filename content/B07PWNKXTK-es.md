@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PWNKXTK-es Under Armour UA GS Assert 8 Zapatillas de Running Unisex...'
+sku: 'B07PWNKXTK-es'
 tags: [  ]
 actualPrice: 20.15 EUR
 currency: EUR

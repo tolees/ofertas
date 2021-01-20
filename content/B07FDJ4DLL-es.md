@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FDJ4DLL-es Afeitadora eléctrica para mujer depilación facial para...'
+sku: 'B07FDJ4DLL-es'
 tags: [  ]
 actualPrice: 8.78 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008AJEGBC-es New Super Mario Bros 2'
+sku: 'B008AJEGBC-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

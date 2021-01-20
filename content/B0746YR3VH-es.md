@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0746YR3VH-es Camper Uno Zapatillas para Mujer Negro Black 047 37 EU'
+sku: 'B0746YR3VH-es'
 tags: [  ]
 actualPrice: 69.3 EUR
 currency: EUR

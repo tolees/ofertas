@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PKS78MF-es ADATA 480GB SD600Q Unidad Externa de Estado sólido USB 3.1...'
+sku: 'B07PKS78MF-es'
 tags: [  ]
 actualPrice: 55.82 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FQ3KBH8-es INTEY Silla de Oficina Silla Ergonómica Ajustables...'
+sku: 'B07FQ3KBH8-es'
 tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F8TXSCN-es TACKLIFE 2 Piezas Encendedor Eléctrico ELY08 Encendedor...'
+sku: 'B07F8TXSCN-es'
 tags: [  ]
 actualPrice: 14.98 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009M4M9UO-es Rhinomer Baby - Narhinel Confort Aspirador Nasal+ 2...'
+sku: 'B009M4M9UO-es'
 tags: [  ]
 actualPrice: 6.53 EUR
 currency: EUR

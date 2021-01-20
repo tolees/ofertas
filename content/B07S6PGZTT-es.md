@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S6PGZTT-es Lámpara LED de techo regulable para dormitorio salón...'
+sku: 'B07S6PGZTT-es'
 tags: [  ]
 actualPrice: 48.0 EUR
 currency: EUR

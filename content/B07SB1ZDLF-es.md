@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SB1ZDLF-es Helly Hansen HH Ball Cap Gorra Unisex Adulto Grey Fog STD'
+sku: 'B07SB1ZDLF-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

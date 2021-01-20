@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001CT1CHI-es SHIMANO 1Mm M970/770/600 Zapatas Unisex Multicolor Talla...'
+sku: 'B001CT1CHI-es'
 tags: [  ]
 actualPrice: 2.5 EUR
 currency: EUR

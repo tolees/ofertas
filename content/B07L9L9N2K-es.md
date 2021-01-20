@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9L9N2K-es Lacoste Ampthill 319 1 CMA Zapatillas para Hombre Negro...'
+sku: 'B07L9L9N2K-es'
 tags: [  ]
 actualPrice: 45.49 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V8V4PQW-es Love MoschinoJc4247pp0aMujerCarteras de manoNegro Black...'
+sku: 'B07V8V4PQW-es'
 tags: [  ]
 actualPrice: 70.11 EUR
 currency: EUR

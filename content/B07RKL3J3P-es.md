@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RKL3J3P-es Motivational Posters for Office Room Home Classroom...'
+sku: 'B07RKL3J3P-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

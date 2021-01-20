@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H5Z1DLM-es Skechers Flex Appeal 3.0 Zapatillas para Mujer Gris Light...'
+sku: 'B07H5Z1DLM-es'
 tags: [  ]
 actualPrice: 32.95 EUR
 currency: EUR

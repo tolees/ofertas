@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XMFBTFG-es Skechers Uno Zapatillas para Hombre Negro Black...'
+sku: 'B07XMFBTFG-es'
 tags: [  ]
 actualPrice: 37.41 EUR
 currency: EUR

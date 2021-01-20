@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C5FF4MN-es Pulsera Repelente de Mosquitos -12 Paquetes Todo Pulsera...'
+sku: 'B07C5FF4MN-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

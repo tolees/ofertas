@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SJ5KWZK-es 5 Unids Niños Juego de Vajilla Diseño de Dibujos Animados...'
+sku: 'B07SJ5KWZK-es'
 tags: [  ]
 actualPrice: 6.89 EUR
 currency: EUR

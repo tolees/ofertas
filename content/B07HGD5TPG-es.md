@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HGD5TPG-es New Balance Trail Nitrel Zapatillas de Running para...'
+sku: 'B07HGD5TPG-es'
 tags: [  ]
 actualPrice: 48.97 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076F47BXK-es Guess Reloj Cronógrafo para Hombre de Cuarzo con Correa en...'
+sku: 'B076F47BXK-es'
 tags: [  ]
 actualPrice: 127.94 EUR
 currency: EUR

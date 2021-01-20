@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088LSL22G-es Haton Bandas Elasticas Musculacion Antideslizantes Banda...'
+sku: 'B088LSL22G-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

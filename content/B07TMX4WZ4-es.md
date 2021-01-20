@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TMX4WZ4-es Clarks Tri Amelia Bar Zapatillas sin Cordones para Mujer...'
+sku: 'B07TMX4WZ4-es'
 tags: [  ]
 actualPrice: 44.62 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PVQKWC9-es Under Armour Women s Tribase Edge Trainer Hallenschuhe...'
+sku: 'B07PVQKWC9-es'
 tags: [  ]
 actualPrice: 52.97 EUR
 currency: EUR

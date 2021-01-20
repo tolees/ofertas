@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0002CTYGC-es HP 122A - Cartucho de tóner original LaserJet para...'
+sku: 'B0002CTYGC-es'
 tags: [  ]
 actualPrice: 17.04 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00YS7I65C-es Clarins Pmg Leche Desmaquillante 400 ml'
+sku: 'B00YS7I65C-es'
 tags: [  ]
 actualPrice: 15.95 EUR
 currency: EUR

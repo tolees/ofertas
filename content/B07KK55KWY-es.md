@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KK55KWY-es Saucony Xodus ISO 3 Zapatillas de Trail Running para Mujer...'
+sku: 'B07KK55KWY-es'
 tags: [  ]
 actualPrice: 73.27 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VJP4HS9-es HUGO Dinoso202 Polo Rosa Open Pink 693 X-Large para Hombre'
+sku: 'B07VJP4HS9-es'
 tags: [  ]
 actualPrice: 44.8 EUR
 currency: EUR

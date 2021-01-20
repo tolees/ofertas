@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VSTYQYJ-es Calvin Klein Short Runner Bañador Negro PVH Black BEH...'
+sku: 'B07VSTYQYJ-es'
 tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR

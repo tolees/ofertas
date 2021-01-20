@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073XL4H7Y-es EYEPOWER Suelo de Gimnasio de Goma EVA 10mm de Grosor...'
+sku: 'B073XL4H7Y-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

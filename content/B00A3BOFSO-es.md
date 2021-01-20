@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00A3BOFSO-es Dodot Toallitas Para Bebé 1 Paquetes 64 Toallitas'
+sku: 'B00A3BOFSO-es'
 tags: [  ]
 actualPrice: 1.13 EUR
 currency: EUR

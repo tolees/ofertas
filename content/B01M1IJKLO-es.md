@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M1IJKLO-es Trust GXT 105 - Ratón Gaming con 6 Botones e iluminación...'
+sku: 'B01M1IJKLO-es'
 tags: [  ]
 actualPrice: 14.91 EUR
 currency: EUR

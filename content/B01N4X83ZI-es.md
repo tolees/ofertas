@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N4X83ZI-es Festina Reloj Analógico para Hombre de Cuarzo con Correa...'
+sku: 'B01N4X83ZI-es'
 tags: [  ]
 actualPrice: 81.16 EUR
 currency: EUR

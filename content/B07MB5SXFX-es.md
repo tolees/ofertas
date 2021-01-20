@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MB5SXFX-es FANDINIER Cartera hombre billeteras hombre cartera hombre...'
+sku: 'B07MB5SXFX-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

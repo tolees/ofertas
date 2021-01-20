@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X41VNDL-es Munchkin Set De Alimentación Para Niños Grandes Food...'
+sku: 'B07X41VNDL-es'
 tags: [  ]
 actualPrice: 8.09 EUR
 currency: EUR

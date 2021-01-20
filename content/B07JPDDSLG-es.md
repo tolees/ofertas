@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JPDDSLG-es DAM. DMX197BKCorrea Diseño Flores De Piel Sintética Iwatch...'
+sku: 'B07JPDDSLG-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GVDKYK1-es Magichome Temporizador Digital Programable Enchufe...'
+sku: 'B07GVDKYK1-es'
 tags: [  ]
 actualPrice: 19.89 EUR
 currency: EUR

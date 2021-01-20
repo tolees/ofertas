@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DLSTF5Z-es American Tourister Urban Groove - Bolsa de Viaje 50 cm...'
+sku: 'B07DLSTF5Z-es'
 tags: [  ]
 actualPrice: 23.89 EUR
 currency: EUR

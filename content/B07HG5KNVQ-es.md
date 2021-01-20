@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HG5KNVQ-es New Balance 997h Zapatillas para Mujer Blanco Off White...'
+sku: 'B07HG5KNVQ-es'
 tags: [  ]
 actualPrice: 54 EUR
 currency: EUR

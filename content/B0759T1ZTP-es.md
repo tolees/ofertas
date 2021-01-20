@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0759T1ZTP-es TUXWANG Bol de Acero Inoxidable Ensaladera de Acero...'
+sku: 'B0759T1ZTP-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

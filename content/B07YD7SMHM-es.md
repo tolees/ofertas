@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YD7SMHM-es Linterna LED Vander con foco ajustable linterna de mano...'
+sku: 'B07YD7SMHM-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

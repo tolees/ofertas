@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DC1YXTV-es Puma Turin Ii Zapatillas Unisex adulto Azul Peacoat-Puma...'
+sku: 'B07DC1YXTV-es'
 tags: [  ]
 actualPrice: 27.5 EUR
 currency: EUR

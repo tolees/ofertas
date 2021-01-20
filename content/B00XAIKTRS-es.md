@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XAIKTRS-es Baldosinín 8410952001802 Productos de Limpieza para el Hogar'
+sku: 'B00XAIKTRS-es'
 tags: [  ]
 actualPrice: 4.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078KP6K7S-es CASALS VBLI12 - Taladro Atornillador con batería de Litio...'
+sku: 'B078KP6K7S-es'
 tags: [  ]
 actualPrice: 28 EUR
 currency: EUR

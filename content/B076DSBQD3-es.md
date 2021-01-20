@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076DSBQD3-es Pajoma - Velas de té sin Perfume 100 Unidades Tiempo de...'
+sku: 'B076DSBQD3-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

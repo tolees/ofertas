@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N6XXC0R-es Seiko Reloj Analogico para Mujer de Cuarzo con Correa en...'
+sku: 'B01N6XXC0R-es'
 tags: [  ]
 actualPrice: 140.59 EUR
 currency: EUR

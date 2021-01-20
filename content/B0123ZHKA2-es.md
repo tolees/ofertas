@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0123ZHKA2-es Compo Universal para Frutas Verduras Plantas aromáticas y...'
+sku: 'B0123ZHKA2-es'
 tags: [  ]
 actualPrice: 5.19 EUR
 currency: EUR

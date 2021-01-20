@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073WZR6LH-es find. Mdr 40444 vestidos mujer Mujer Rojo Red Mehrfarbig...'
+sku: 'B073WZR6LH-es'
 tags: [  ]
 actualPrice: 11.4 EUR
 currency: EUR

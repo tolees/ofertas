@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DS1FG46-es Salomon Xview Access Máscara de esquí unisex Negro-...'
+sku: 'B07DS1FG46-es'
 tags: [  ]
 actualPrice: 42.99 EUR
 currency: EUR

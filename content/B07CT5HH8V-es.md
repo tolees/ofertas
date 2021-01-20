@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CT5HH8V-es Cecotec Ventilador de Torre ForceSilence 790 Skyline. 30...'
+sku: 'B07CT5HH8V-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

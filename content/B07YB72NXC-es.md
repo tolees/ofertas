@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YB72NXC-es Taurus MyBread Panificadora Plástico'
+sku: 'B07YB72NXC-es'
 tags: [  ]
 actualPrice: 89.9 EUR
 currency: EUR

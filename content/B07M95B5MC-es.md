@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M95B5MC-es Lee 5 Pocket Wide Leg Corduroy Pantalones para Mujer Rosa...'
+sku: 'B07M95B5MC-es'
 tags: [  ]
 actualPrice: 10.97 EUR
 currency: EUR

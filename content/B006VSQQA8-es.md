@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006VSQQA8-es KanaaN Converter - Convertidor de BNC-Video S-Video o...'
+sku: 'B006VSQQA8-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

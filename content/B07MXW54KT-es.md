@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MXW54KT-es GLOBE Motley Zapatillas de Skateboard para Hombre Negro...'
+sku: 'B07MXW54KT-es'
 tags: [  ]
 actualPrice: 22.47 EUR
 currency: EUR

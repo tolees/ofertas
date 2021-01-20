@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2JCXC4-es adidas Galaxy 4 Zapatillas de Running para Hombre Gris...'
+sku: 'B07K2JCXC4-es'
 tags: [  ]
 actualPrice: 34.95 EUR
 currency: EUR

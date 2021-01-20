@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XTVBYNZ-es Yazubi Pantalon Chino Hombre Slim fit Verano - Simon...'
+sku: 'B06XTVBYNZ-es'
 tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR

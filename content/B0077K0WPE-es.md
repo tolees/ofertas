@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0077K0WPE-es Tamiya 40-Foot Container - Scale Model Accessories Azul'
+sku: 'B0077K0WPE-es'
 tags: [  ]
 actualPrice: 81.32 EUR
 currency: EUR

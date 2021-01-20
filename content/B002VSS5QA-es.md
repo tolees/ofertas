@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002VSS5QA-es Converse Chuck Taylor All Star Zapatillas Unisex Negro...'
+sku: 'B002VSS5QA-es'
 tags: [  ]
 actualPrice: 50.05 EUR
 currency: EUR

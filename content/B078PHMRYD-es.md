@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078PHMRYD-es Insta360 Nano S - Videocámara 3D VR Compacta Cámara HD 4K...'
+sku: 'B078PHMRYD-es'
 tags: [  ]
 actualPrice: 129.0 EUR
 currency: EUR

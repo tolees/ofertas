@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08JG1JGB3-es Ocobudbxw pequeño y Encantador Forma de ratón Espuma...'
+sku: 'B08JG1JGB3-es'
 tags: [  ]
 actualPrice: 6.09 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007NVZJBO-es Curver Cubo decorado con pedal duo 30 L cubetas 10+18L...'
+sku: 'B007NVZJBO-es'
 tags: [  ]
 actualPrice: 36.0 EUR
 currency: EUR

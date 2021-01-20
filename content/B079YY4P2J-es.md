@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079YY4P2J-es Adidas Samba OG Zapatillas de Gimnasia para Hombre Negro...'
+sku: 'B079YY4P2J-es'
 tags: [  ]
 actualPrice: 63.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IDLP6SI-es BATH+ by Cosmic Espejo B-Box 50 x 80 cm'
+sku: 'B01IDLP6SI-es'
 tags: [  ]
 actualPrice: 38.85 EUR
 currency: EUR

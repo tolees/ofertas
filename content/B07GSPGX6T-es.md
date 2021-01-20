@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GSPGX6T-es Atrix Crema de Manos con Protección Intensiva Camomila -...'
+sku: 'B07GSPGX6T-es'
 tags: [  ]
 actualPrice: 11.0 EUR
 currency: EUR

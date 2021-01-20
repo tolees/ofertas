@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073S1JVGR-es Finether-Chimenea Eléctrica de la Pared Estufa Eléctrica...'
+sku: 'B073S1JVGR-es'
 tags: [  ]
 actualPrice: 129.99 EUR
 currency: EUR

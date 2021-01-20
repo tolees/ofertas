@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DHTSTJG-es Lacoste Graduate BL 1 SFA Zapatillas para Mujer Azul...'
+sku: 'B07DHTSTJG-es'
 tags: [  ]
 actualPrice: 53.96 EUR
 currency: EUR

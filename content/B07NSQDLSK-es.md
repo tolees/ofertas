@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NSQDLSK-es little live pets 28617 Light Up Songbirds S9-Estilos...'
+sku: 'B07NSQDLSK-es'
 tags: [  ]
 actualPrice: 11.23 EUR
 currency: EUR

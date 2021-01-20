@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089DZ5ZBG-es Niluoya Bandas Elásticas Fitness 4-Pack 1.5M+2M Cintas...'
+sku: 'B089DZ5ZBG-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

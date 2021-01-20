@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S8Y8P2Y-es Helly Hansen HH Wash Bag 2 Neceser Unisex Adulto Cherry...'
+sku: 'B07S8Y8P2Y-es'
 tags: [  ]
 actualPrice: 17.5 EUR
 currency: EUR

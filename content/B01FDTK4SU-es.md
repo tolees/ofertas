@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FDTK4SU-es LEDKIA LIGHTING Baliza Augusta'
+sku: 'B01FDTK4SU-es'
 tags: [  ]
 actualPrice: 22.43 EUR
 currency: EUR

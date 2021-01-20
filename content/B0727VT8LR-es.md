@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0727VT8LR-es Saucony Jazz Original Vintage Zapatillas de Cross para...'
+sku: 'B0727VT8LR-es'
 tags: [  ]
 actualPrice: 50.51 EUR
 currency: EUR

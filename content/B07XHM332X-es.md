@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XHM332X-es Skechers Solar Fuse KRYZIK Zapatillas para Hombre Negro...'
+sku: 'B07XHM332X-es'
 tags: [  ]
 actualPrice: 48.95 EUR
 currency: EUR

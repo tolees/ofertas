@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FTYNKIK-es Skechers Energy Lights-Elate Zapatillas Altas para Niños...'
+sku: 'B01FTYNKIK-es'
 tags: [  ]
 actualPrice: 47.95 EUR
 currency: EUR

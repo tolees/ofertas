@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XKS8HWJ-es LileZbox - Soporte Expositor de acrílico para Figuras...'
+sku: 'B07XKS8HWJ-es'
 tags: [  ]
 actualPrice: 25.0 EUR
 currency: EUR

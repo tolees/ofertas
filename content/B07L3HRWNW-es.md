@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L3HRWNW-es adidas Advantage Zapatillas de Gimnasia para Hombre Blanco...'
+sku: 'B07L3HRWNW-es'
 tags: [  ]
 actualPrice: 43.99 EUR
 currency: EUR

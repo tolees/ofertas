@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VXC99LK-es G-STAR RAW 3301 Straight Classic Jeans Azul Dk Aged...'
+sku: 'B00VXC99LK-es'
 tags: [  ]
 actualPrice: 64.99 EUR
 currency: EUR

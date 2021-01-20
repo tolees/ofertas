@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073TB1FHC-es Gigaset E260 - Teléfono inalámbrico teclas grandes...'
+sku: 'B073TB1FHC-es'
 tags: [  ]
 actualPrice: 29.66 EUR
 currency: EUR

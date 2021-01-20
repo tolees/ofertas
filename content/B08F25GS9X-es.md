@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08F25GS9X-es UniqueMe [3 Pack] Protector de Pantalla para Xiaomi Mi...'
+sku: 'B08F25GS9X-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

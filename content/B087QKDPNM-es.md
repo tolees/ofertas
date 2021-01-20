@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087QKDPNM-es LAQI Oído de la Salud de eliminación de Cera del oído...'
+sku: 'B087QKDPNM-es'
 tags: [  ]
 actualPrice: 5.39 EUR
 currency: EUR

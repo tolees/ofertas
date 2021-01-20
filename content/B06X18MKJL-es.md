@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X18MKJL-es Ron Millonario 10º aniversario'
+sku: 'B06X18MKJL-es'
 tags: [  ]
 actualPrice: 23.05 EUR
 currency: EUR

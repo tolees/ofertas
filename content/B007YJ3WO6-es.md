@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007YJ3WO6-es Universal Microondas Plato Giratorio Placa de Cristal con...'
+sku: 'B007YJ3WO6-es'
 tags: [  ]
 actualPrice: 3.0 EUR
 currency: EUR

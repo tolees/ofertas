@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000C3MOCM-es Kenwood AT320A Accesorio de Robot de Cocina Vidrio De...'
+sku: 'B000C3MOCM-es'
 tags: [  ]
 actualPrice: 68.13 EUR
 currency: EUR

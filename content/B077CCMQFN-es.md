@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077CCMQFN-es Converse Taylor Chuck 70 Hi Sneaker Unisex-Adult...'
+sku: 'B077CCMQFN-es'
 tags: [  ]
 actualPrice: 46.76 EUR
 currency: EUR

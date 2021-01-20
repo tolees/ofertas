@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XJIXT5S-es Philips myLiving Hailton - Lámpara colgante iluminación...'
+sku: 'B00XJIXT5S-es'
 tags: [  ]
 actualPrice: 43.99 EUR
 currency: EUR

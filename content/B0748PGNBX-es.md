@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0748PGNBX-es Bose SoundLink Micro Altavoz Inalámbrico Micro-USB Naranja'
+sku: 'B0748PGNBX-es'
 tags: [  ]
 actualPrice: 85.99 EUR
 currency: EUR

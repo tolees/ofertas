@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L4KWD22-es Swonuk Alfombra Inflable con Agua 66*50 Juego de Esterilla...'
+sku: 'B07L4KWD22-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

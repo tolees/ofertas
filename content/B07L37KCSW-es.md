@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L37KCSW-es Aceite de Krill | Krill puro + EPA + DHA + astaxantina |...'
+sku: 'B07L37KCSW-es'
 tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR

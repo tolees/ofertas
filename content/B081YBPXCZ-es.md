@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081YBPXCZ-es Luces solares Luces con sensor de movimiento solar para...'
+sku: 'B081YBPXCZ-es'
 tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR

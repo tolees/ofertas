@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R1LVMW9-es dothnix Collares Antiparasitos para Perros y Gatos contra...'
+sku: 'B07R1LVMW9-es'
 tags: [  ]
 actualPrice: 13.98 EUR
 currency: EUR

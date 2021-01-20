@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07575VMLT-es Garmin Vívofit Jr. 2 - Monitor de actividad para niños...'
+sku: 'B07575VMLT-es'
 tags: [  ]
 actualPrice: 57.99 EUR
 currency: EUR

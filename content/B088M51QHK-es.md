@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088M51QHK-es McNory Ventilador Recargable portátil USB Mini Ventilador...'
+sku: 'B088M51QHK-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

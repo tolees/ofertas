@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0767D8HLY-es Festina Reloj Análogo clásico para Hombre de Cuarzo con...'
+sku: 'B0767D8HLY-es'
 tags: [  ]
 actualPrice: 77.93 EUR
 currency: EUR

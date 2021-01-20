@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SF116TP-es PUMA ST Runner V2 NL JR Zapatillas Unisex niños Rosa...'
+sku: 'B07SF116TP-es'
 tags: [  ]
 actualPrice: 31.47 EUR
 currency: EUR

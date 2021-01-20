@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TS5QJ5L-es Mini Camara Espia FREDI/Cámara Oculta HD 1080P Spy Mini...'
+sku: 'B07TS5QJ5L-es'
 tags: [  ]
 actualPrice: 45.99 EUR
 currency: EUR

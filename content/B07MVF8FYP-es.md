@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVF8FYP-es Zapatillas/ADIDAS:Daily 2.0 46 Negro'
+sku: 'B07MVF8FYP-es'
 tags: [  ]
 actualPrice: 30.5 EUR
 currency: EUR

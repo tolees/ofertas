@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8LV12F-es Wrangler Arizona Pantalones BLU Navy 11 40W / 30L para Hombre'
+sku: 'B07M8LV12F-es'
 tags: [  ]
 actualPrice: 55.97 EUR
 currency: EUR

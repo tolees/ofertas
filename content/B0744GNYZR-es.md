@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0744GNYZR-es DXRacer OH/RE21/NY/NAVI Asiento Acolchado Respaldo...'
+sku: 'B0744GNYZR-es'
 tags: [  ]
 actualPrice: 322.99 EUR
 currency: EUR

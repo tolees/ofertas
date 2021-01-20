@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WSNX35V-es Ferilinso Funda para Xiaomi Redmi Note 8 Carcasa Cuero...'
+sku: 'B07WSNX35V-es'
 tags: [  ]
 actualPrice: 9.98 EUR
 currency: EUR

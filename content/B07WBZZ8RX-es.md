@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WBZZ8RX-es Nike Pico 5 TDV Zapatillas Unisex Niños Azul Deep Royal...'
+sku: 'B07WBZZ8RX-es'
 tags: [  ]
 actualPrice: 14.89 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HF0NVP4-es WMF Profi Plus - Sartén con tapa cromargan 18/10 acero...'
+sku: 'B00HF0NVP4-es'
 tags: [  ]
 actualPrice: 110.23 EUR
 currency: EUR

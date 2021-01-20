@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016M5AP5Q-es OililyOilily Carry All - Shopper Mujer Color Rosa Talla...'
+sku: 'B016M5AP5Q-es'
 tags: [  ]
 actualPrice: 85.0 EUR
 currency: EUR

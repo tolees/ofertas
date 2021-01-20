@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K1WAPPM-es Hunter Original Short Botas de Agua Unisex Adulto Negro...'
+sku: 'B00K1WAPPM-es'
 tags: [  ]
 actualPrice: 83.85 EUR
 currency: EUR

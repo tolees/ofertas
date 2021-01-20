@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0816DNNNL-es Cepillo para Perros y Gatos Secador para Perros Pienes...'
+sku: 'B0816DNNNL-es'
 tags: [  ]
 actualPrice: 28.69 EUR
 currency: EUR

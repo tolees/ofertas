@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GJQL8VS-es Domoclip DOP156 para Máquina para hacer Yogurt y Queso...'
+sku: 'B01GJQL8VS-es'
 tags: [  ]
 actualPrice: 25.77 EUR
 currency: EUR

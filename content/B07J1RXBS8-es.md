@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J1RXBS8-es FitFitaly Rodillera Protectora Ortopédica para Ligamentos...'
+sku: 'B07J1RXBS8-es'
 tags: [  ]
 actualPrice: 18.25 EUR
 currency: EUR

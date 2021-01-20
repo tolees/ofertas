@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MYYWT4W-es Skechers Solar Fuse Zapatillas Deportivas para Mujer Negro...'
+sku: 'B07MYYWT4W-es'
 tags: [  ]
 actualPrice: 44.26 EUR
 currency: EUR

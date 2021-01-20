@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0055BYDAW-es BSN Nutrition Amino X Suplementos Deportivos BCAA Polvo...'
+sku: 'B0055BYDAW-es'
 tags: [  ]
 actualPrice: 17.14 EUR
 currency: EUR

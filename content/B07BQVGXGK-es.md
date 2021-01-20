@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BQVGXGK-es Maytronics 9995670-ASSY - Cuadro alimentacion basico para...'
+sku: 'B07BQVGXGK-es'
 tags: [  ]
 actualPrice: 83.54 EUR
 currency: EUR

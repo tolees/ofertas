@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CP1B3KV-es PRIXTON Smartwatch SWB31 - Reloj Inteligente Sumergible...'
+sku: 'B07CP1B3KV-es'
 tags: [  ]
 actualPrice: 42.95 EUR
 currency: EUR

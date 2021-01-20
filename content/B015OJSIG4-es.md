@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015OJSIG4-es PUMA ICRA Trainer SD Zapatillas Unisex Adulto Negro...'
+sku: 'B015OJSIG4-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

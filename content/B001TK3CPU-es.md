@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001TK3CPU-es Casio Reloj Analógico para Hombre de Cuarzo con Correa en...'
+sku: 'B001TK3CPU-es'
 tags: [  ]
 actualPrice: 39.97 EUR
 currency: EUR

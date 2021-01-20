@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NW5GZTM-es Skechers Street Cleats 2 Zapatillas para Mujer Olive Suede...'
+sku: 'B07NW5GZTM-es'
 tags: [  ]
 actualPrice: 16.65 EUR
 currency: EUR

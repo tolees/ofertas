@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0784GXWQZ-es New Balance 500 Core Zapatillas para Hombre Negro Black...'
+sku: 'B0784GXWQZ-es'
 tags: [  ]
 actualPrice: 34.95 EUR
 currency: EUR

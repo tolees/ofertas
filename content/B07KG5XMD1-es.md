@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG5XMD1-es PUMA Axis Plus SD Zapatillas Unisex Adulto Castlerock...'
+sku: 'B07KG5XMD1-es'
 tags: [  ]
 actualPrice: 33.95 EUR
 currency: EUR

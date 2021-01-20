@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074GTSNR4-es Color Technik Water Colouring Brush Pens Set of 6 Premium...'
+sku: 'B074GTSNR4-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

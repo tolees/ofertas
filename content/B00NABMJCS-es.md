@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NABMJCS-es Beurer MG155 - Funda a siento Masaje vibratoria 2 niveles...'
+sku: 'B00NABMJCS-es'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

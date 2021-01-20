@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MQJDIC7-es Helly Hansen Calshot Trunk Bañador para Hombre Azul Azul...'
+sku: 'B01MQJDIC7-es'
 tags: [  ]
 actualPrice: 22.67 EUR
 currency: EUR

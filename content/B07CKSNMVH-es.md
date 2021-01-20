@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CKSNMVH-es Peppa Pig PPC28 Kit de Figura de Juguete para niños Chica...'
+sku: 'B07CKSNMVH-es'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

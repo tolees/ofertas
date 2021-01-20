@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F6L38TP-es Spin Master Dragons Deluxe Dragon Toothless - Figuras de...'
+sku: 'B07F6L38TP-es'
 tags: [  ]
 actualPrice: 15.49 EUR
 currency: EUR

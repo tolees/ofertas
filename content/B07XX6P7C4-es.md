@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XX6P7C4-es WESCO Telémetro Láser 40m Telémetro con Rango Distancia de...'
+sku: 'B07XX6P7C4-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

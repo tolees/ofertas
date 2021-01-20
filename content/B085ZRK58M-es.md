@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085ZRK58M-es MarinoBIRD T10 3PCS Rectangle Plastic Webcam Cover Ultra-...'
+sku: 'B085ZRK58M-es'
 tags: [  ]
 actualPrice: 1.4 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DZKTUHG-es Organizador universal de Maclaren: Tenga lo esencial...'
+sku: 'B00DZKTUHG-es'
 tags: [  ]
 actualPrice: 23.07 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0822WJNZD-es CLOEN Set de sartenes de Aluminio Forjado con...'
+sku: 'B0822WJNZD-es'
 tags: [  ]
 actualPrice: 29.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H1X8RXU-es Panama Jack Panama 03 Igloo Botas Militar para Mujer Gris...'
+sku: 'B01H1X8RXU-es'
 tags: [  ]
 actualPrice: 129.95 EUR
 currency: EUR

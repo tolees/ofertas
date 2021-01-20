@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MDZ9ZYN-es L.O.L Surprise Squishy Pocket Plush - Modelo surtido...'
+sku: 'B07MDZ9ZYN-es'
 tags: [  ]
 actualPrice: 5.67 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0043M4XWM-es Oral-B 3DWhite Cabezales De Recambio - Pack De 3 Unidades'
+sku: 'B0043M4XWM-es'
 tags: [  ]
 actualPrice: 10.95 EUR
 currency: EUR

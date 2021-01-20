@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VC1JCTS-es Almohadillas Desmaquillantes TURATA 16Pcs Almohadillas de...'
+sku: 'B07VC1JCTS-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

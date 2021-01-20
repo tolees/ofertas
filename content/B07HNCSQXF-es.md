@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HNCSQXF-es Aerocool Cs105Rd Caja De Ordenador Con Ventana Acrílica...'
+sku: 'B07HNCSQXF-es'
 tags: [  ]
 actualPrice: 25.98 EUR
 currency: EUR

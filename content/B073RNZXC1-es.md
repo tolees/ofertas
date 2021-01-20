@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RNZXC1-es Columbia Drainmaker IV Zapatillas para Hombre Gris City...'
+sku: 'B073RNZXC1-es'
 tags: [  ]
 actualPrice: 59.89 EUR
 currency: EUR

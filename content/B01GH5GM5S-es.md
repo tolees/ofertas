@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GH5GM5S-es Under Armour Tech Polo Hombre Blanco...'
+sku: 'B01GH5GM5S-es'
 tags: [  ]
 actualPrice: 19.49 EUR
 currency: EUR

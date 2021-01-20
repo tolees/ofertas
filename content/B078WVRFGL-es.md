@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WVRFGL-es Calvin Klein Unlined Bralette Sujetador sin Aros Negro...'
+sku: 'B078WVRFGL-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

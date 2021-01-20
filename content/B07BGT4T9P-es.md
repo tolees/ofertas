@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BGT4T9P-es BGT Navaja de Bolsillo con Hoja de Acero Herramientas...'
+sku: 'B07BGT4T9P-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CYDN9ZJ-es Salomon XA Pro 3D J Zapatillas de Trail Running Unisex...'
+sku: 'B07CYDN9ZJ-es'
 tags: [  ]
 actualPrice: 40.7 EUR
 currency: EUR

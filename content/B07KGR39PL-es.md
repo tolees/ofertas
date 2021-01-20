@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KGR39PL-es Sabrent Lector de Tarjetas USB 3.0 USB Tipo-C. El Lector...'
+sku: 'B07KGR39PL-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

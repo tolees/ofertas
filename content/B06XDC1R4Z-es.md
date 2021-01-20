@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XDC1R4Z-es Epson WF4720 Impresora multifunción c11cf74402 Ya...'
+sku: 'B06XDC1R4Z-es'
 tags: [  ]
 actualPrice: 132.44 EUR
 currency: EUR

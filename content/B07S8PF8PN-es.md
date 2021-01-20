@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S8PF8PN-es PUMA Cali WN S Zapatos Deportivos para Mujer Negro Black...'
+sku: 'B07S8PF8PN-es'
 tags: [  ]
 actualPrice: 58.27 EUR
 currency: EUR

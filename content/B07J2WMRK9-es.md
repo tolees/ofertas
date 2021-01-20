@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J2WMRK9-es Bosch MSM89160 MaxoMixx Batidora de Mano Con 3 accesorios...'
+sku: 'B07J2WMRK9-es'
 tags: [  ]
 actualPrice: 62.0 EUR
 currency: EUR

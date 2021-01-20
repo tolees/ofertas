@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000JVXUF2-es Nuby ID91164 Set De Recipientes Herméticos Multicolor 300...'
+sku: 'B000JVXUF2-es'
 tags: [  ]
 actualPrice: 6.74 EUR
 currency: EUR

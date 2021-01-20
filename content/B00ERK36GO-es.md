@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ERK36GO-es Simba - Juguete de playa 107110558 color/modelo surtido'
+sku: 'B00ERK36GO-es'
 tags: [  ]
 actualPrice: 4.75 EUR
 currency: EUR

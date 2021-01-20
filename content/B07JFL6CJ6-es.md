@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JFL6CJ6-es PUMA Carina Zapatillas para Mujer Negro Black Black Silver...'
+sku: 'B07JFL6CJ6-es'
 tags: [  ]
 actualPrice: 39.96 EUR
 currency: EUR

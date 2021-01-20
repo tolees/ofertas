@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005LU5U4K-es HP CN045AE 950XL Cartucho de Tinta Original de alto...'
+sku: 'B005LU5U4K-es'
 tags: [  ]
 actualPrice: 34 EUR
 currency: EUR

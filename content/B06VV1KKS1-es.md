@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06VV1KKS1-es Fanvans Vestidos de Playa Elegante de Encaje de la Mujer...'
+sku: 'B06VV1KKS1-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

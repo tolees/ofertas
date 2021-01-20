@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B010ADAAG0-es Crocs Santa Cruz Clean Cut Loafer Hombre Mocasín Azul...'
+sku: 'B010ADAAG0-es'
 tags: [  ]
 actualPrice: 31.5 EUR
 currency: EUR

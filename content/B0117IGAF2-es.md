@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0117IGAF2-es HP X3000 - Ratón inalámbrico óptico Color Blanco'
+sku: 'B0117IGAF2-es'
 tags: [  ]
 actualPrice: 7.5 EUR
 currency: EUR

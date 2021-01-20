@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00B7MY5MO-es Seiko Reloj de Cuarzo para Hombre con Correa de Acero...'
+sku: 'B00B7MY5MO-es'
 tags: [  ]
 actualPrice: 227.24 EUR
 currency: EUR

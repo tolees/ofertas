@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001IX6ACA-es K&N E-1987 Filtro de Aire Coche Lavable y Reutilizable'
+sku: 'B001IX6ACA-es'
 tags: [  ]
 actualPrice: 64.76 EUR
 currency: EUR

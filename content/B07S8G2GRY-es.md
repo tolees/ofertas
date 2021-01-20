@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S8G2GRY-es Vicloon Arnes Bebes Correa Bebe Para Caminar Arnés de...'
+sku: 'B07S8G2GRY-es'
 tags: [  ]
 actualPrice: 9.98 EUR
 currency: EUR

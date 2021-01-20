@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0882PNJMJ-es Syxinn Compatible con Correa de Reloj Gear S3...'
+sku: 'B0882PNJMJ-es'
 tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR

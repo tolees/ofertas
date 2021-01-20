@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MXL7RZP-es Starcraft II Battlechest 2.0'
+sku: 'B01MXL7RZP-es'
 tags: [  ]
 actualPrice: 14.79 EUR
 currency: EUR

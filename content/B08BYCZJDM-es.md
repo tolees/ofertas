@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BYCZJDM-es UniqueMe [3 Pack] Protector de Pantalla para Xiaomi Redmi...'
+sku: 'B08BYCZJDM-es'
 tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR

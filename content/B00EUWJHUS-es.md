@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EUWJHUS-es DeLonghi EO12012W Horno de sobremesa con temporizador de...'
+sku: 'B00EUWJHUS-es'
 tags: [  ]
 actualPrice: 48.51 EUR
 currency: EUR

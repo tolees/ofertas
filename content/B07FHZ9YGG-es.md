@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FHZ9YGG-es lenbest Pinturas Cara Maquillaje al Agua Pinturas...'
+sku: 'B07FHZ9YGG-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

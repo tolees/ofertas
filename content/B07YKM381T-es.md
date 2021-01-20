@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YKM381T-es Precision Kids Lace'
+sku: 'B07YKM381T-es'
 tags: [  ]
 actualPrice: 24.0 EUR
 currency: EUR

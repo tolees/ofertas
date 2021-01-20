@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SH8NNLX-es IKOHS Retro Fridge - Frigorífico con diseño Control de...'
+sku: 'B07SH8NNLX-es'
 tags: [  ]
 actualPrice: 169.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PIYM4GG-es Victoria S Secret Spray corporal con fragancia para...'
+sku: 'B00PIYM4GG-es'
 tags: [  ]
 actualPrice: 13.1 EUR
 currency: EUR

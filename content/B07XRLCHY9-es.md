@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XRLCHY9-es Fintie Funda para iPad 10.2" 2019 - Trasera Transparente...'
+sku: 'B07XRLCHY9-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

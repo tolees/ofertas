@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JJYL6TN-es CLA Ácido Linoleico Conjugado 3000 mg por dosis | 180...'
+sku: 'B07JJYL6TN-es'
 tags: [  ]
 actualPrice: 14.77 EUR
 currency: EUR

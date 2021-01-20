@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004X4W8EA-es Great Gizmos 4M - Mould & Paint Fridge Magnets 004M3536'
+sku: 'B004X4W8EA-es'
 tags: [  ]
 actualPrice: 11.95 EUR
 currency: EUR

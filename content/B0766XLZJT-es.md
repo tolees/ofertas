@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0766XLZJT-es Fossil Reloj Analogico para Mujer de Cuarzo con Correa en...'
+sku: 'B0766XLZJT-es'
 tags: [  ]
 actualPrice: 81.13 EUR
 currency: EUR

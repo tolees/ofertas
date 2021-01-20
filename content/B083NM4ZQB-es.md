@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083NM4ZQB-es 1 unid profesional salón peluquería tinte crema batidor...'
+sku: 'B083NM4ZQB-es'
 tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR

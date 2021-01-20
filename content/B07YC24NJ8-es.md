@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YC24NJ8-es Irrigador Bucal Portátil de 330ml iTeknic Irrigador Dental...'
+sku: 'B07YC24NJ8-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

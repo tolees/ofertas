@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005H9XK0G-es Westinghouse Ceiling Fans Industrial Ventilador de Techo...'
+sku: 'B005H9XK0G-es'
 tags: [  ]
 actualPrice: 74.47 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TPPPTJF-es Levi s Original Batwing Multicolor Hm Patch Polo...'
+sku: 'B07TPPPTJF-es'
 tags: [  ]
 actualPrice: 27.5 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CJP12Y3-es Amazon Essentials - Braguitas - para mujer multicolor...'
+sku: 'B07CJP12Y3-es'
 tags: [  ]
 actualPrice: 16.19 EUR
 currency: EUR

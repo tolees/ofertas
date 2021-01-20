@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TWD4QRS-es loud + proud Striped Shorts Organic Cotton Pantalones...'
+sku: 'B07TWD4QRS-es'
 tags: [  ]
 actualPrice: 9.27 EUR
 currency: EUR

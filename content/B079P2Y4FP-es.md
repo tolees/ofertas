@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079P2Y4FP-es Diset- Pinto con el Dedo 2 años 68953'
+sku: 'B079P2Y4FP-es'
 tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR

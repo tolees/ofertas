@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZNGT932-es BSEED Interruptor de luz Interruptor de pared con Botón...'
+sku: 'B07ZNGT932-es'
 tags: [  ]
 actualPrice: 8.4 EUR
 currency: EUR

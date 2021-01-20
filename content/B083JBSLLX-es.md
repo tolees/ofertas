@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083JBSLLX-es Rizador de Pestañas TOUCHBeauty Rizador de Pestañas...'
+sku: 'B083JBSLLX-es'
 tags: [  ]
 actualPrice: 13.98 EUR
 currency: EUR

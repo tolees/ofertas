@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MYMM9EX-es L Oreal Paris Colorista Coloración Temporal Colorista...'
+sku: 'B01MYMM9EX-es'
 tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR

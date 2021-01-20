@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L3N63TD-es Dioche Medidor de Presion Balones Mini Utilidad de Aire...'
+sku: 'B07L3N63TD-es'
 tags: [  ]
 actualPrice: 7.69 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SBKH7QN-es Luces Solares 【1200lm 5200mAh Potente Versión 2 Piezas】...'
+sku: 'B07SBKH7QN-es'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

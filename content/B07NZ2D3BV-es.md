@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NZ2D3BV-es Superdry Applique Ziphood Capucha Rosa Smoke Rose L6y...'
+sku: 'B07NZ2D3BV-es'
 tags: [  ]
 actualPrice: 37.17 EUR
 currency: EUR

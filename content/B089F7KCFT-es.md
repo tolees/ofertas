@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089F7KCFT-es Z Paint by Numbers Animales con pinceles y pigmento...'
+sku: 'B089F7KCFT-es'
 tags: [  ]
 actualPrice: 9.04 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R5FCC6S-es Pendrive 8GB 3.0 5 Piezas Memorias USB - Metal Aluminio...'
+sku: 'B07R5FCC6S-es'
 tags: [  ]
 actualPrice: 25.89 EUR
 currency: EUR

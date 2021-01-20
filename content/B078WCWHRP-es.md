@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WCWHRP-es Palladium Pampa Hi Mono U Zapatillas Altas Unisex Adulto...'
+sku: 'B078WCWHRP-es'
 tags: [  ]
 actualPrice: 46.69 EUR
 currency: EUR

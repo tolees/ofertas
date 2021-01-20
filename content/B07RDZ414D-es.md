@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RDZ414D-es Acer Swift 3 - Ordenador portátil de 15.6" FullHD AMD...'
+sku: 'B07RDZ414D-es'
 tags: [  ]
 actualPrice: 599.99 EUR
 currency: EUR

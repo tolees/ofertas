@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088TQT8RX-es N / A Pretyj Funda para ZTE Blade A3 2020 con 3 Piezas...'
+sku: 'B088TQT8RX-es'
 tags: [  ]
 actualPrice: 2.89 EUR
 currency: EUR

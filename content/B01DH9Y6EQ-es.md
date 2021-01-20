@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DH9Y6EQ-es Victoria Mercedes Terciopelo Zapatillas Unisex Niños Gris...'
+sku: 'B01DH9Y6EQ-es'
 tags: [  ]
 actualPrice: 10.95 EUR
 currency: EUR

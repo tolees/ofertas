@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G5TB61T-es ZHENROG Electroestimulador Muscular Abdominales Masajeador...'
+sku: 'B07G5TB61T-es'
 tags: [  ]
 actualPrice: 30.9 EUR
 currency: EUR

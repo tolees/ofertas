@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1JNHYS-es Clarks Verona Gleam Botas Plisadas para Mujer Braun...'
+sku: 'B07N1JNHYS-es'
 tags: [  ]
 actualPrice: 50.41 EUR
 currency: EUR

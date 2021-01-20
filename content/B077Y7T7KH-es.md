@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077Y7T7KH-es HP Pavilion Monitor 1 Plata Mineral'
+sku: 'B077Y7T7KH-es'
 tags: [  ]
 actualPrice: 255.0 EUR
 currency: EUR

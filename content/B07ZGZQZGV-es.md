@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZGZQZGV-es ZOZOSEP Azucarero para medir el azúcar Azucarero de Acero...'
+sku: 'B07ZGZQZGV-es'
 tags: [  ]
 actualPrice: 2.83 EUR
 currency: EUR

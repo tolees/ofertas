@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004VQXPK6-es Kitchen Craft - Papelera a Pedal para Compost 3 L'
+sku: 'B004VQXPK6-es'
 tags: [  ]
 actualPrice: 14.52 EUR
 currency: EUR

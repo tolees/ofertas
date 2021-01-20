@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082YDK4MB-es Vidal & Vidal Brazalete Rosado Original'
+sku: 'B082YDK4MB-es'
 tags: [  ]
 actualPrice: 32.0 EUR
 currency: EUR

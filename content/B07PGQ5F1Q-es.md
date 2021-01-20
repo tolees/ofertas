@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PGQ5F1Q-es Scarpa Fila Venom Low Bianca Fuxia nera'
+sku: 'B07PGQ5F1Q-es'
 tags: [  ]
 actualPrice: 85.29 EUR
 currency: EUR

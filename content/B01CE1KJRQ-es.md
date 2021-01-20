@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CE1KJRQ-es TRENDnet TV-IP315PI - Cámara de Red PoE con Domo Color Gris'
+sku: 'B01CE1KJRQ-es'
 tags: [  ]
 actualPrice: 94.35 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FKW7D3D-es Nikon COOLPIX P1000 - Cámara compacta tipo Bridge 16 MP...'
+sku: 'B07FKW7D3D-es'
 tags: [  ]
 actualPrice: 782.0 EUR
 currency: EUR

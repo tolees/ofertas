@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVKFYP9-es Kipling Izellah Bolso con Bandolera para Mujer Gris Chalk...'
+sku: 'B07MVKFYP9-es'
 tags: [  ]
 actualPrice: 39.5 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SB8DL5X-es Purina DentaLife Snack Dental para Gato con Sabor a Pollo...'
+sku: 'B07SB8DL5X-es'
 tags: [  ]
 actualPrice: 7.49 EUR
 currency: EUR

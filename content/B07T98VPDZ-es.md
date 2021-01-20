@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T98VPDZ-es Helly Hansen Scurry V3 Zapatillas para Hombre Turquesa...'
+sku: 'B07T98VPDZ-es'
 tags: [  ]
 actualPrice: 38.31 EUR
 currency: EUR

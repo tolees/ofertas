@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NBFARIJ-es Ukelele Redondo de 21” Construido con Funda Bolsa de...'
+sku: 'B01NBFARIJ-es'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

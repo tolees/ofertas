@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DO97ND0-es Klarstein Grill eléctrico multifunción 1600W Parrilla de...'
+sku: 'B01DO97ND0-es'
 tags: [  ]
 actualPrice: 119.99 EUR
 currency: EUR

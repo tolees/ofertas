@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VB9YWKD-es edc by Esprit 099cc1i020 suéter Gris Gunmetal 5 019 Medium...'
+sku: 'B07VB9YWKD-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01K47HYE8-es One For All WM2221 Soporte de pared para TV de 13 a 40”...'
+sku: 'B01K47HYE8-es'
 tags: [  ]
 actualPrice: 9.44 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DLTTB5R-es LOSMILE Bolsa de Viaje la Lona. Marrón'
+sku: 'B07DLTTB5R-es'
 tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR

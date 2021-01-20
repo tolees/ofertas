@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07575WFLT-es Garmin Forerunner 30 - Reloj de carrera con GPS y sensor...'
+sku: 'B07575WFLT-es'
 tags: [  ]
 actualPrice: 99.95 EUR
 currency: EUR

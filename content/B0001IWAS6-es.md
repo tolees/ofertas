@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0001IWAS6-es STANLEY 1-92-066 - Caja de herramientas Milenium 48.9 x 26...'
+sku: 'B0001IWAS6-es'
 tags: [  ]
 actualPrice: 14.32 EUR
 currency: EUR

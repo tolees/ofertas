@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0814SRFV6-es Under Armour UA Tech P Pantalón de Entrenamiento Hombre...'
+sku: 'B0814SRFV6-es'
 tags: [  ]
 actualPrice: 24.8 EUR
 currency: EUR

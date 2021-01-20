@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JM6KNUU-es Luminarc HERMETICO CUAD 122CL Pure Box Active Lum...'
+sku: 'B00JM6KNUU-es'
 tags: [  ]
 actualPrice: 3.5 EUR
 currency: EUR
@@ -26,10 +27,10 @@ Está [Luminarc HERMETICO CUAD 122CL Pure Box Active Lum  Transparente y Azul  1
 
 ℹ️:
 
-- Recipiente hermético
 - Con válvula de vapor
-- Resistente choque térmico
 - Recipiente apilable
+- Recipiente hermético
+- Resistente choque térmico
 - Recipiente para transportar alimentos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00JM6KNUU/?tag=tolees-21)

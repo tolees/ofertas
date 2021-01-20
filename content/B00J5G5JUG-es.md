@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00J5G5JUG-es Fotoprotector ISDIN Fusion Fluid Color SPF 50+ | Protector...'
+sku: 'B00J5G5JUG-es'
 tags: [  ]
 actualPrice: 15.95 EUR
 currency: EUR

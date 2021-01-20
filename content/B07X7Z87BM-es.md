@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X7Z87BM-es perfk Enrutador Móvil 4g Punto de Acceso Móvil WiFi para...'
+sku: 'B07X7Z87BM-es'
 tags: [  ]
 actualPrice: 47.34 EUR
 currency: EUR

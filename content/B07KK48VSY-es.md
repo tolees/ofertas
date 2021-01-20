@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KK48VSY-es SIMBR Soporte TV de Pared para 30"-85" Pantalla...'
+sku: 'B07KK48VSY-es'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

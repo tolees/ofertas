@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0714MTQJY-es Khanomak - Pantalón Corto Deportivo - para Mujer Negro...'
+sku: 'B0714MTQJY-es'
 tags: [  ]
 actualPrice: 9 EUR
 currency: EUR

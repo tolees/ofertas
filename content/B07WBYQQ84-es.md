@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WBYQQ84-es AmazonBasics - Carreta plegable para jardín y aire libre...'
+sku: 'B07WBYQQ84-es'
 tags: [  ]
 actualPrice: 53.48 EUR
 currency: EUR

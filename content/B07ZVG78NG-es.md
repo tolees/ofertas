@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZVG78NG-es 3W GRT Leggings mujer fitness Mallas Deportivas de Mujer...'
+sku: 'B07ZVG78NG-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

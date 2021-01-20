@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FLT5L4Y-es Marvel Los Vengadores- Juego de 2 cepillos de dientes para...'
+sku: 'B07FLT5L4Y-es'
 tags: [  ]
 actualPrice: 4.75 EUR
 currency: EUR

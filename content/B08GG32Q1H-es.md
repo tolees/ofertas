@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GG32Q1H-es FERYES - Exprimidor de pasta de dientes de 2 piezas...'
+sku: 'B08GG32Q1H-es'
 tags: [  ]
 actualPrice: 6.9 EUR
 currency: EUR

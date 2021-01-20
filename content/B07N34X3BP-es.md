@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N34X3BP-es Emporio Armani Reloj Analógico para Hombre de Cuarzo con...'
+sku: 'B07N34X3BP-es'
 tags: [  ]
 actualPrice: 119.0 EUR
 currency: EUR

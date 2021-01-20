@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KCHKCS2-es Ringke Fusion-X Compatible con Funda Huawei Mate 20...'
+sku: 'B07KCHKCS2-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

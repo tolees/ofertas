@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071VZL4QY-es Vampirina-78035 la Pensión del Terror Multicolor Bandai 78036'
+sku: 'B071VZL4QY-es'
 tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR

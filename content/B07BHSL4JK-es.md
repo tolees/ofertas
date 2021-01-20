@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BHSL4JK-es HAIROXOL-Cápsulas tratamiento anti-caída de cabello |...'
+sku: 'B07BHSL4JK-es'
 tags: [  ]
 actualPrice: 49.9 EUR
 currency: EUR

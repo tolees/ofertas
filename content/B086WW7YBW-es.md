@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086WW7YBW-es Soporte Movil Coche Magnético Universal Avolare N52 Iman...'
+sku: 'B086WW7YBW-es'
 tags: [  ]
 actualPrice: 8.49 EUR
 currency: EUR

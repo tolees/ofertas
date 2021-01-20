@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M6DRQMO-es Jata Hogar 762 Balanza electrónica dietética Capacidad 5kg...'
+sku: 'B01M6DRQMO-es'
 tags: [  ]
 actualPrice: 16.75 EUR
 currency: EUR

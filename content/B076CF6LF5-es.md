@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076CF6LF5-es BRTLX Tira LED RGB LED Luz de Atmósfera del Interior de...'
+sku: 'B076CF6LF5-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086ZMZK2W-es B Blesiya Caja De Almacenamiento/Organizador/Soporte De...'
+sku: 'B086ZMZK2W-es'
 tags: [  ]
 actualPrice: 9.25 EUR
 currency: EUR

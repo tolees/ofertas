@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081F6MC9N-es Taurus R850 Ventilador humidificador 3 velocidades y modos...'
+sku: 'B081F6MC9N-es'
 tags: [  ]
 actualPrice: 104.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GVQKJ9W-es Belkin Ultra HD 2018 - Cable HDMI de Alta Velocidad 1 m...'
+sku: 'B07GVQKJ9W-es'
 tags: [  ]
 actualPrice: 42.19 EUR
 currency: EUR

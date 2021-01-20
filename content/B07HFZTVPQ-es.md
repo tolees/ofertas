@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HFZTVPQ-es New Balance 574v2 Zapatillas para Mujer Rosa Pink Pink 35 EU'
+sku: 'B07HFZTVPQ-es'
 tags: [  ]
 actualPrice: 32.68 EUR
 currency: EUR

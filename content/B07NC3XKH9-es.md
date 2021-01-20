@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NC3XKH9-es AXE Adrenaline Charge Up - Desodorante antitranspirante en...'
+sku: 'B07NC3XKH9-es'
 tags: [  ]
 actualPrice: 6.24 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074ZQZYGK-es Funko Pop!- 24972 Wonder Woman ETTA Sword & Shield Figura...'
+sku: 'B074ZQZYGK-es'
 tags: [  ]
 actualPrice: 7.59 EUR
 currency: EUR

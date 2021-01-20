@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WAHYY2G-es OOTB 93/2072 - Tubos de ensayo de plástico para chupitos...'
+sku: 'B00WAHYY2G-es'
 tags: [  ]
 actualPrice: 4.4 EUR
 currency: EUR

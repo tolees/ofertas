@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003VEILMG-es Bosch Professional Bosch GSR 12V-15 Professional-...'
+sku: 'B003VEILMG-es'
 tags: [  ]
 actualPrice: 64.75 EUR
 currency: EUR

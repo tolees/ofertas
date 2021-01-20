@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RN3K7TH-es Snailax Masajeador de mano eléctrico para masaje de...'
+sku: 'B07RN3K7TH-es'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071X9DZFC-es Schwarzkopf Root Retoucher - Coloración del Cabello Negro...'
+sku: 'B071X9DZFC-es'
 tags: [  ]
 actualPrice: 9.5 EUR
 currency: EUR

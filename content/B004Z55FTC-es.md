@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004Z55FTC-es MAKITA BHX2501 Herramienta 810 W Negro/Azul/Plata Talla Única'
+sku: 'B004Z55FTC-es'
 tags: [  ]
 actualPrice: 233.82 EUR
 currency: EUR

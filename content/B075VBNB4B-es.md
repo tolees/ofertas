@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075VBNB4B-es Filomatic Filo2 Maquinilla de Afeitar - 30 Unidades'
+sku: 'B075VBNB4B-es'
 tags: [  ]
 actualPrice: 11.58 EUR
 currency: EUR

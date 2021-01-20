@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IUD4CIY-es Conservas Dantza Esparrago - 345 gr'
+sku: 'B01IUD4CIY-es'
 tags: [  ]
 actualPrice: 5.14 EUR
 currency: EUR

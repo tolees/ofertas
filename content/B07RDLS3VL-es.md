@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RDLS3VL-es Salomon Sense Feel W Zapatillas para Correr para Mujer...'
+sku: 'B07RDLS3VL-es'
 tags: [  ]
 actualPrice: 39.84 EUR
 currency: EUR

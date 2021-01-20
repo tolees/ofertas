@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NW7JY8K-es Skechers Breathe-easy - Sole-full Zapatillas sin cordones...'
+sku: 'B07NW7JY8K-es'
 tags: [  ]
 actualPrice: 33.26 EUR
 currency: EUR

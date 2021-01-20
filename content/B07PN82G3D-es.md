@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PN82G3D-es Super Mario Cuello Redondo Carta ImpresiÓN Manga Corta...'
+sku: 'B07PN82G3D-es'
 tags: [  ]
 actualPrice: 9.94 EUR
 currency: EUR

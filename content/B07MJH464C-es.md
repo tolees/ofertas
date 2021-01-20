@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MJH464C-es GLOBE Encore-2 Zapatillas de Skateboarding para Hombre...'
+sku: 'B07MJH464C-es'
 tags: [  ]
 actualPrice: 35.95 EUR
 currency: EUR

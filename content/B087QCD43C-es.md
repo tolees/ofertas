@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087QCD43C-es GOLDGE 540 Pares Adhesivo Redondo Monedas Lunares Adhesivo...'
+sku: 'B087QCD43C-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01I2Y4SMQ-es Taky Chocolate Bandas De Cera Corporales Depilatorias 12 +...'
+sku: 'B01I2Y4SMQ-es'
 tags: [  ]
 actualPrice: 1.49 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L6LYLJM-es Skagen Reloj Analógico para Mujer de Cuarzo con Correa en...'
+sku: 'B07L6LYLJM-es'
 tags: [  ]
 actualPrice: 118.95 EUR
 currency: EUR

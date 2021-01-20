@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SMFXJRN-es Mini PC Intel Atom Z8350 de Windows 10 Mini computadora...'
+sku: 'B07SMFXJRN-es'
 tags: [  ]
 actualPrice: 109.99 EUR
 currency: EUR

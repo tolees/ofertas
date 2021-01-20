@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y2XZMB3-es New Balance 574 Core Zapatillas Hombre Azul Blue Navy 42...'
+sku: 'B06Y2XZMB3-es'
 tags: [  ]
 actualPrice: 54.6 EUR
 currency: EUR

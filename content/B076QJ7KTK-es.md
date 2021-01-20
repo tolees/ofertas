@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076QJ7KTK-es Mark Maddox Reloj Analogico para Mujer de Cuarzo con...'
+sku: 'B076QJ7KTK-es'
 tags: [  ]
 actualPrice: 37.5 EUR
 currency: EUR

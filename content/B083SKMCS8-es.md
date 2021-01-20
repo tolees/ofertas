@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083SKMCS8-es TONGJI Vitrina de Acrílico Compatible con Lego 21319 Ideas...'
+sku: 'B083SKMCS8-es'
 tags: [  ]
 actualPrice: 85.99 EUR
 currency: EUR

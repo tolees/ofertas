@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N7L65OW-es Orbegozo MIG 2038 - Microondas con grill 700 W de potencia...'
+sku: 'B01N7L65OW-es'
 tags: [  ]
 actualPrice: 64.9 EUR
 currency: EUR

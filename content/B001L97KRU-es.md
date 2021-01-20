@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001L97KRU-es Babaria - Aloe Vera Balsamo Reparador 250 ml'
+sku: 'B001L97KRU-es'
 tags: [  ]
 actualPrice: 4.95 EUR
 currency: EUR

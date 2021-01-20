@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PWVFPTJ-es Batería de Repuesto ENEGON Paquete de 2 y Smart LED...'
+sku: 'B07PWVFPTJ-es'
 tags: [  ]
 actualPrice: 49.59 EUR
 currency: EUR

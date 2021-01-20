@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C2B33KT-es JACK & JONES Jjebasic Knit V-Neck Noos suéter Azul Navy...'
+sku: 'B07C2B33KT-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

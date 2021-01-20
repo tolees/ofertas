@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MNVK4TT-es UniqueMe Funda para Huawei P30 Ultra [Slim Thin] TPU Funda...'
+sku: 'B07MNVK4TT-es'
 tags: [  ]
 actualPrice: 1.99 EUR
 currency: EUR

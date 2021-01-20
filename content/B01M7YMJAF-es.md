@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M7YMJAF-es Cool Area Toldo Vela de Sombra Rectangular 3 x 4 Metros...'
+sku: 'B01M7YMJAF-es'
 tags: [  ]
 actualPrice: 44.98 EUR
 currency: EUR

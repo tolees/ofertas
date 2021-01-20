@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CPM5G8X-es Lunvon 12 Canales Enchufes Inalámbricos Inteligentes con...'
+sku: 'B07CPM5G8X-es'
 tags: [  ]
 actualPrice: 20.22 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005L2EKDA-es Sorel Caribou Botas de Invierno para Hombre Marrón Bruno...'
+sku: 'B005L2EKDA-es'
 tags: [  ]
 actualPrice: 83.99 EUR
 currency: EUR

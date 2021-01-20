@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00U7HUY7K-es Smile Pin Up Style - Bolsa reversible para cámara réflex...'
+sku: 'B00U7HUY7K-es'
 tags: [  ]
 actualPrice: 22.88 EUR
 currency: EUR

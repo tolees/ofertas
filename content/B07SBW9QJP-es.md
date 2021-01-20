@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SBW9QJP-es PUMA One 20.4 FG/AG Botas de fútbol para Hombre Amarillo...'
+sku: 'B07SBW9QJP-es'
 tags: [  ]
 actualPrice: 30.45 EUR
 currency: EUR

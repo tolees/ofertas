@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015GZJ8EC-es HoMedics BMSC-4600H-EU - Respaldo masajeador Shiatsu...'
+sku: 'B015GZJ8EC-es'
 tags: [  ]
 actualPrice: 132.09 EUR
 currency: EUR

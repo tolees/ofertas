@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFZQZYC-es PUMA LQDCELL Optic Zapatillas de Running para Hombre...'
+sku: 'B07KFZQZYC-es'
 tags: [  ]
 actualPrice: 35.93 EUR
 currency: EUR

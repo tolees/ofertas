@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GX4DG81-es Philips Avent SCD301/03 - Set de recién nacido gama...'
+sku: 'B07GX4DG81-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

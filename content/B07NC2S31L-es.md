@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NC2S31L-es camel active Houston 488385/2511 Pantalones Grün Khaki 36...'
+sku: 'B07NC2S31L-es'
 tags: [  ]
 actualPrice: 55.86 EUR
 currency: EUR

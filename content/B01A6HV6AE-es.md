@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01A6HV6AE-es MR. SIGA Dual Action Scrubbing Sponge Pack of 6...'
+sku: 'B01A6HV6AE-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

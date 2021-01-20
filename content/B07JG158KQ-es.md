@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JG158KQ-es DragonSwordlinsu COOSUN - Panel de cortina transparente...'
+sku: 'B07JG158KQ-es'
 tags: [  ]
 actualPrice: 37.89 EUR
 currency: EUR

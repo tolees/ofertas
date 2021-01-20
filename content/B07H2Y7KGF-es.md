@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H2Y7KGF-es Bellivera Giacca Corta da Donna in Ecopelle Scamosciata...'
+sku: 'B07H2Y7KGF-es'
 tags: [  ]
 actualPrice: 45.99 EUR
 currency: EUR

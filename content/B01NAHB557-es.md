@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NAHB557-es 1 pieza Ungfu Mall de tambor de encendido con interruptor...'
+sku: 'B01NAHB557-es'
 tags: [  ]
 actualPrice: 8.83 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083SLVVMP-es San Ignacio Q3245 Asador 35.5x28.3cm Aluminio Forjado Apta...'
+sku: 'B083SLVVMP-es'
 tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NW9MV1X-es Skechers Solar Fuse-brisk Escape Zapatillas Mujer Black...'
+sku: 'B07NW9MV1X-es'
 tags: [  ]
 actualPrice: 48.9 EUR
 currency: EUR

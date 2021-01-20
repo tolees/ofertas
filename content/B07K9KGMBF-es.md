@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K9KGMBF-es Odlo Sports Bra Blackcomb Seamless Medium Sujetador Mujer...'
+sku: 'B07K9KGMBF-es'
 tags: [  ]
 actualPrice: 6.36 EUR
 currency: EUR

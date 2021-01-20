@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019XD5BI0-es Desigual Bols Elmira Silvana Borse a spalla - berenjena...'
+sku: 'B019XD5BI0-es'
 tags: [  ]
 actualPrice: 41.59 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087RKTJW2-es Paquete de 100 Unidades – se suministra en Bolsa sellada...'
+sku: 'B087RKTJW2-es'
 tags: [  ]
 actualPrice: 27.12 EUR
 currency: EUR

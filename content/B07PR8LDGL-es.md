@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PR8LDGL-es Nekteck USB C Cargador de Red 72W USB Cargador con el Tipo...'
+sku: 'B07PR8LDGL-es'
 tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR

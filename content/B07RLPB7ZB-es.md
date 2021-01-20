@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RLPB7ZB-es J.Rosée Collana Donna Argento Sterling 925 Pendente...'
+sku: 'B07RLPB7ZB-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

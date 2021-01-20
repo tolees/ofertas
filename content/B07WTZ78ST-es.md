@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WTZ78ST-es GALAX PRO Sierras circulares/Sierra Sable 20V Batería...'
+sku: 'B07WTZ78ST-es'
 tags: [  ]
 actualPrice: 119.99 EUR
 currency: EUR

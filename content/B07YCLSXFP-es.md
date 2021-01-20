@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YCLSXFP-es Windgoo Patinete Eléctrico Plegable E Scooter hasta 25...'
+sku: 'B07YCLSXFP-es'
 tags: [  ]
 actualPrice: 259.98 EUR
 currency: EUR

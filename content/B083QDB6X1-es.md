@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083QDB6X1-es EZON Reloj Deportivo Digital con Monitor de frecuencia...'
+sku: 'B083QDB6X1-es'
 tags: [  ]
 actualPrice: 36.52 EUR
 currency: EUR

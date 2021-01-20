@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KGQYNXP-es Helly Hansen KOS - Polo Hombre Azul Navy 597 L'
+sku: 'B07KGQYNXP-es'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

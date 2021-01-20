@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q34ZZDR-es Libertroy Gel de Sílice Galactorrhea Colección de...'
+sku: 'B07Q34ZZDR-es'
 tags: [  ]
 actualPrice: 1.52 EUR
 currency: EUR

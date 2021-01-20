@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0719RRPKR-es Finether Armario de Cultivo Interior 120x120x200 cm Grow...'
+sku: 'B0719RRPKR-es'
 tags: [  ]
 actualPrice: 93.99 EUR
 currency: EUR

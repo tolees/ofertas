@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0825PKS6G-es Roxy Favorite Song - Mono Corto con Tiras para Mujer Mono...'
+sku: 'B0825PKS6G-es'
 tags: [  ]
 actualPrice: 32.94 EUR
 currency: EUR

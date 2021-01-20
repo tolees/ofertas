@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0037NX6JY-es Canon RC-6 - Mando a Distancia para cámaras Digitales...'
+sku: 'B0037NX6JY-es'
 tags: [  ]
 actualPrice: 14.09 EUR
 currency: EUR

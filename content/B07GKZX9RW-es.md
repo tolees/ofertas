@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GKZX9RW-es Yifen Base de Carga 4 en 1 de Silicona para Apple Watch...'
+sku: 'B07GKZX9RW-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

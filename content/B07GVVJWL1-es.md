@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GVVJWL1-es So Slime SSC 014 - Funda para Manualidades Multicolor'
+sku: 'B07GVVJWL1-es'
 tags: [  ]
 actualPrice: 15.95 EUR
 currency: EUR

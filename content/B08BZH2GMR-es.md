@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BZH2GMR-es 4Pcs / Vtc6 3.7V 2500Mah Batería recargable de iones de...'
+sku: 'B08BZH2GMR-es'
 tags: [  ]
 actualPrice: 20.09 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085KY6TZP-es Máscara ffp2 Máscara para Exteriores Máscara...'
+sku: 'B085KY6TZP-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

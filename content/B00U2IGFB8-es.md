@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00U2IGFB8-es Pikolin Home - Almohada de fibra antiácaros funda 100%...'
+sku: 'B00U2IGFB8-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

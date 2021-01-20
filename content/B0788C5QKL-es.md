@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0788C5QKL-es Vero Moda Vmhot Seven NW Dnm Slit Knicker Mix Noos...'
+sku: 'B0788C5QKL-es'
 tags: [  ]
 actualPrice: 12.02 EUR
 currency: EUR

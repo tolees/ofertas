@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NCQU738-es TurnRaise Niños Pretend Play Alimentos Juguete Set - 75 PC...'
+sku: 'B01NCQU738-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

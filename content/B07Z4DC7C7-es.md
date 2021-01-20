@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z4DC7C7-es Controladora DMX Lixada 192 Canales DMX 512 Consola para...'
+sku: 'B07Z4DC7C7-es'
 tags: [  ]
 actualPrice: 41.99 EUR
 currency: EUR

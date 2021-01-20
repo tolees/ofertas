@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07999FXZT-es AUKEY Hub USB C HDMI 4k Ranuras para SD&MicroSD Ethernet...'
+sku: 'B07999FXZT-es'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

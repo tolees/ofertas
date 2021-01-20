@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HMNLRMB-es Skechers Men s Heston-ROGIC Oxfords Grey Grey Gry 9.5 44 EU'
+sku: 'B07HMNLRMB-es'
 tags: [  ]
 actualPrice: 44.5 EUR
 currency: EUR

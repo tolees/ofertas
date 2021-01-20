@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TRLWQGY-es Daniel Wellington Reloj Analógico para Mujer de Cuarzo...'
+sku: 'B07TRLWQGY-es'
 tags: [  ]
 actualPrice: 72.0 EUR
 currency: EUR

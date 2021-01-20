@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KIWRQMK-es Gigandet Reloj de Hombre Automático Sea Ground Reloj de...'
+sku: 'B00KIWRQMK-es'
 tags: [  ]
 actualPrice: 179.0 EUR
 currency: EUR

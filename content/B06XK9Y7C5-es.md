@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XK9Y7C5-es Happilax Alfombrilla Perro y Gato en Silicona...'
+sku: 'B06XK9Y7C5-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

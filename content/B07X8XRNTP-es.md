@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X8XRNTP-es Funko Pop! Marvel: Marvel Venom S3 - Ultron Multicolor'
+sku: 'B07X8XRNTP-es'
 tags: [  ]
 actualPrice: 9.78 EUR
 currency: EUR

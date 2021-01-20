@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MV4QI62-es Festina Reloj Analógico para Mujer de Cuarzo con Correa en...'
+sku: 'B01MV4QI62-es'
 tags: [  ]
 actualPrice: 62.05 EUR
 currency: EUR

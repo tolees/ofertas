@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087CC77PB-es Dungeons 3 - Complete Collection'
+sku: 'B087CC77PB-es'
 tags: [  ]
 actualPrice: 13.2 EUR
 currency: EUR

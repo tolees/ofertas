@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0773RS2JZ-es Beurer BM28 Onpack - Tensiómetro de brazo con adaptador'
+sku: 'B0773RS2JZ-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

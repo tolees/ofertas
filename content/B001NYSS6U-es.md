@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001NYSS6U-es Pranarom - Aceite arbol del té 10 ml'
+sku: 'B001NYSS6U-es'
 tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR

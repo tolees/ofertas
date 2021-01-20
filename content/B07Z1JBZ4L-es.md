@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z1JBZ4L-es HengBO Barbacoa Grill Eléctrica de Mesa Superficie de...'
+sku: 'B07Z1JBZ4L-es'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

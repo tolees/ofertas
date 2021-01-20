@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PQD54YW-es Relaxdays Verde-Marrón 80 cm de Altura Palmera Hinchable...'
+sku: 'B07PQD54YW-es'
 tags: [  ]
 actualPrice: 12.1 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG6Z5YT-es PUMA One 5.4 TT Botas de fútbol para Hombre White Black-...'
+sku: 'B07KG6Z5YT-es'
 tags: [  ]
 actualPrice: 32.27 EUR
 currency: EUR

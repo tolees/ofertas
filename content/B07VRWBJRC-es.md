@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VRWBJRC-es Antony Morato Cintura In Pelle H.30mm Cinturón Negro NERO...'
+sku: 'B07VRWBJRC-es'
 tags: [  ]
 actualPrice: 35.77 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HFGPY7P-es Cecotec Báscula de Baño Digital Surface Precision 9100...'
+sku: 'B07HFGPY7P-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

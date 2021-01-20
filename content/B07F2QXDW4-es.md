@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F2QXDW4-es Vans Herren Left Chest Logo Tee T-Shirt Schwarz Black...'
+sku: 'B07F2QXDW4-es'
 tags: [  ]
 actualPrice: 13.95 EUR
 currency: EUR

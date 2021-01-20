@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CHHJT52-es Joyjoz Tatuajes Temporales de Disfraz Halloween niña niño...'
+sku: 'B08CHHJT52-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089W5ZZHJ-es Aotlet Bañador para Hombre Pantalones Cortos de los...'
+sku: 'B089W5ZZHJ-es'
 tags: [  ]
 actualPrice: 14.56 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001CZKC4G-es Liqui Moly 4087 Detergente para Acondicionadores de Aire...'
+sku: 'B001CZKC4G-es'
 tags: [  ]
 actualPrice: 13.29 EUR
 currency: EUR

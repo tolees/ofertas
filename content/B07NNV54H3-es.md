@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NNV54H3-es Under Armour UA W Charged Intake 4 Zapatillas de Running...'
+sku: 'B07NNV54H3-es'
 tags: [  ]
 actualPrice: 42.86 EUR
 currency: EUR

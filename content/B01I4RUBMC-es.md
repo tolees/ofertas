@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01I4RUBMC-es Breville DuraCeramic VST074X - Sandwichera con...'
+sku: 'B01I4RUBMC-es'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

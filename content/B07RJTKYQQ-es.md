@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RJTKYQQ-es Columbia IVO Trail Breeze Zapatillas Deportivas para...'
+sku: 'B07RJTKYQQ-es'
 tags: [  ]
 actualPrice: 63.99 EUR
 currency: EUR

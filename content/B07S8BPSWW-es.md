@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S8BPSWW-es Justdodo Bolsa de cosméticos de Gran Capacidad Las Mujeres...'
+sku: 'B07S8BPSWW-es'
 tags: [  ]
 actualPrice: 2.8 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086X2LKQ3-es Ukerdo DIY Diamante Pintura Kits Lleno Taladro Flor...'
+sku: 'B086X2LKQ3-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084DSVSXL-es Suavinex - Chupete para bebés 0-6 meses. Chupete con...'
+sku: 'B084DSVSXL-es'
 tags: [  ]
 actualPrice: 3.85 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078GHSVKT-es T4U Artificial Serie de Plantas Suculentas Hierba...'
+sku: 'B078GHSVKT-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

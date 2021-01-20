@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MQOS8KA-es Ewent EW1280 - Soporte para monitor con elvación regulable...'
+sku: 'B01MQOS8KA-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084DPKKF1-es Remington TSeries MB7000 - Set Recotador de Barba y...'
+sku: 'B084DPKKF1-es'
 tags: [  ]
 actualPrice: 39.2 EUR
 currency: EUR

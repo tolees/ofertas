@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VCRWFFX-es 6 Piezas Étnico Tribal Pulsera Pulseras Cuero para Hombre...'
+sku: 'B07VCRWFFX-es'
 tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR

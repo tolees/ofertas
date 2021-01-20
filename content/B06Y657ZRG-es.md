@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y657ZRG-es Gel de Ducha Avena - Instituto Español - Pack 5 uds 1250 ML'
+sku: 'B06Y657ZRG-es'
 tags: [  ]
 actualPrice: 9.5 EUR
 currency: EUR

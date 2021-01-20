@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0872PW9TT-es Funda Transparente Compatible para Xiaomi Redmi S2/Y2...'
+sku: 'B0872PW9TT-es'
 tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR

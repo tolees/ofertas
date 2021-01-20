@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CTPNGJC-es Alminatur Papilla de Multicereales con Plátano a Partir de...'
+sku: 'B07CTPNGJC-es'
 tags: [  ]
 actualPrice: 10.2 EUR
 currency: EUR

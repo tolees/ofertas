@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GDL853Z-es Festina Reloj Cronógrafo para Hombre de Cuarzo con Correa...'
+sku: 'B07GDL853Z-es'
 tags: [  ]
 actualPrice: 110.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VPRDZGF-es Calvin Klein Short Runner Bañador Rojo High Risk XBG Large...'
+sku: 'B07VPRDZGF-es'
 tags: [  ]
 actualPrice: 34.49 EUR
 currency: EUR

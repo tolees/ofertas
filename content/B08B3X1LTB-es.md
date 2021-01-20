@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B3X1LTB-es Interruptores automáticos Interruptor automático WIFI de...'
+sku: 'B08B3X1LTB-es'
 tags: [  ]
 actualPrice: 27.0 EUR
 currency: EUR

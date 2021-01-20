@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BGTL0C0-es G-STAR RAW 5620 Elwood 3D Skinny Jeans Gris dk aged cobler...'
+sku: 'B01BGTL0C0-es'
 tags: [  ]
 actualPrice: 66.71 EUR
 currency: EUR

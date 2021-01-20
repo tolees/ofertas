@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077BJGXW3-es Hollywood Star Fashion - Camisas - Sin Mangas - para Mujer...'
+sku: 'B077BJGXW3-es'
 tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VCTX2HH-es NEW C 2 Unidades Protector de Pantalla para Xiaomi...'
+sku: 'B07VCTX2HH-es'
 tags: [  ]
 actualPrice: 4.9 EUR
 currency: EUR

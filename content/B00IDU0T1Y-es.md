@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IDU0T1Y-es Sabrent Adaptador de Cable de Impresora USB a Paralelo...'
+sku: 'B00IDU0T1Y-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

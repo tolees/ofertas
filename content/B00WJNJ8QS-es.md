@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WJNJ8QS-es Philips Avent SCF553/05 - Vaso con boquilla de silicona...'
+sku: 'B00WJNJ8QS-es'
 tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR

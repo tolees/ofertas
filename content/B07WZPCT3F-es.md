@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WZPCT3F-es Eastpak BENCHMARK SINGLE Estuches 21 cm Azul Nep Gulf'
+sku: 'B07WZPCT3F-es'
 tags: [  ]
 actualPrice: 10.16 EUR
 currency: EUR

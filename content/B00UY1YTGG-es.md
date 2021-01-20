@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UY1YTGG-es PopSockets PS04454 - Soporte telescópico para Smartphones...'
+sku: 'B00UY1YTGG-es'
 tags: [  ]
 actualPrice: 6.97 EUR
 currency: EUR

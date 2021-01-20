@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XGX4BHX-es Funko Pop! - Vivec Figura de Vinilo seria The Elder...'
+sku: 'B06XGX4BHX-es'
 tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR

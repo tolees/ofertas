@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DC11GQ3-es Puma Icra Trainer SD Zapatillas Unisex adulto Marrón...'
+sku: 'B07DC11GQ3-es'
 tags: [  ]
 actualPrice: 32.45 EUR
 currency: EUR

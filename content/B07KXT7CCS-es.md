@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KXT7CCS-es Sinis Hispania - Polen Natural de Abeja - Pack 2 unidades...'
+sku: 'B07KXT7CCS-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

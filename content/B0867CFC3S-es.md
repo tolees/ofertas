@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0867CFC3S-es Maquina Cortapelo Cortapelos Hombre Cortapelos Juego de...'
+sku: 'B0867CFC3S-es'
 tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR

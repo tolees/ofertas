@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086JY2W2K-es Cepillo Desenredador Cepillo para Alisar Cabello Cepillo...'
+sku: 'B086JY2W2K-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T2T1M6X-es MSI PS42 Modern 8RA-280XES - Ordenador portátil de 14" FHD...'
+sku: 'B07T2T1M6X-es'
 tags: [  ]
 actualPrice: 849.99 EUR
 currency: EUR

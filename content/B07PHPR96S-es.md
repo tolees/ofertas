@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PHPR96S-es SweetLF Afeitadora Electrica Hombre Máquina de Afeitar...'
+sku: 'B07PHPR96S-es'
 tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR

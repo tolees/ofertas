@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078VGJ3LB-es Sony WI-C300W - Auriculares Inalámbricos Bluetooth NFC...'
+sku: 'B078VGJ3LB-es'
 tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR

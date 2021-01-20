@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JM43QHG-es Lee Breese Pantalones para Mujer Azul Jaded Eu 33W / 33L'
+sku: 'B07JM43QHG-es'
 tags: [  ]
 actualPrice: 73.53 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FL5JJL9-es Superdry Label Ziphood suéter Gris Flint Grey Grit Xje L...'
+sku: 'B07FL5JJL9-es'
 tags: [  ]
 actualPrice: 47.99 EUR
 currency: EUR

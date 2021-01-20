@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019JIADKU-es Funko - POP! Vinilo Colección Harry Potter - Figura Albus...'
+sku: 'B019JIADKU-es'
 tags: [  ]
 actualPrice: 9.38 EUR
 currency: EUR

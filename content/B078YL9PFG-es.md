@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078YL9PFG-es Hyrule Warriors - Edición definitiva'
+sku: 'B078YL9PFG-es'
 tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR

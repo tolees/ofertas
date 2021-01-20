@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XRFXZ2C-es Corsair HD140 RGB - Ventilador de PC 140 mm Iluminación a...'
+sku: 'B06XRFXZ2C-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

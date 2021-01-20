@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WFB8L41-es MaoXinTek Sofa Hinchable Tumbona Inflable con Paquete...'
+sku: 'B07WFB8L41-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

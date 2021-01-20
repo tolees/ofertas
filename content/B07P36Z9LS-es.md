@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P36Z9LS-es Skechers Men s Solar Fuse Trainers Black Black...'
+sku: 'B07P36Z9LS-es'
 tags: [  ]
 actualPrice: 29.31 EUR
 currency: EUR

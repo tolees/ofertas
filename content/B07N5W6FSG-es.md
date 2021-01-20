@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N5W6FSG-es ELEVATED NYLON MINI CROSSOVERHombreMonederosAzul Sky...'
+sku: 'B07N5W6FSG-es'
 tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR

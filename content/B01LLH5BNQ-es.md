@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LLH5BNQ-es Orbegozo CM 2360 - Crepera eléctrica superficie...'
+sku: 'B01LLH5BNQ-es'
 tags: [  ]
 actualPrice: 19.75 EUR
 currency: EUR

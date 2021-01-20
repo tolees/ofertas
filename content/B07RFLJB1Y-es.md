@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RFLJB1Y-es Trust GXT 107 Izza Ratón inalámbrico para Juegos Negro'
+sku: 'B07RFLJB1Y-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

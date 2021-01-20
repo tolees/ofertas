@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086PNHZPN-es LNIEGE Anillo de bebé Mam Transparentes de Silicona...'
+sku: 'B086PNHZPN-es'
 tags: [  ]
 actualPrice: 4.77 EUR
 currency: EUR

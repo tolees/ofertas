@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0752XNX6V-es Llave USB 16 GB R2D2 TLJ - Memoria Flash Drive 2.0...'
+sku: 'B0752XNX6V-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

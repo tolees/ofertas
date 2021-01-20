@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VVW9P8Z-es Reloj LIGE para Hombre Deporte Cronógrafo Analógico Cuarzo...'
+sku: 'B07VVW9P8Z-es'
 tags: [  ]
 actualPrice: 18.02 EUR
 currency: EUR

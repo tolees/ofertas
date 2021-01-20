@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PKF5G59-es Wenko 23615100 Vetro-Dispensador de jabón líquido...'
+sku: 'B07PKF5G59-es'
 tags: [  ]
 actualPrice: 6.5 EUR
 currency: EUR

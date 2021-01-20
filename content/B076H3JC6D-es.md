@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076H3JC6D-es Kipling Travel Doc Cartera De Viaje Negro True Black'
+sku: 'B076H3JC6D-es'
 tags: [  ]
 actualPrice: 11.02 EUR
 currency: EUR

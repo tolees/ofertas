@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZJLNQ2D-es Jack & Jones Jcocharming Polo SS Noos Negro Grande Tamaño...'
+sku: 'B07ZJLNQ2D-es'
 tags: [  ]
 actualPrice: 7.46 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00YTPLUD8-es Sonline Nail 2 X acero inoxidable del arte del clavo de...'
+sku: 'B00YTPLUD8-es'
 tags: [  ]
 actualPrice: 0.65 EUR
 currency: EUR

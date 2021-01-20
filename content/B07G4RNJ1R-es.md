@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G4RNJ1R-es Sony DSCRX100M5A - Cámara Compacta 20.1 MP AF Híbrido de...'
+sku: 'B07G4RNJ1R-es'
 tags: [  ]
 actualPrice: 727.99 EUR
 currency: EUR

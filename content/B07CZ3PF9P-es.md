@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZ3PF9P-es Puma Icra Trainer SD Zapatillas Unisex adulto Azul...'
+sku: 'B07CZ3PF9P-es'
 tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR

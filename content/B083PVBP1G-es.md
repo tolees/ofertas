@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083PVBP1G-es Enfriador de Aire Grande Aire Acondicionado Climatizador...'
+sku: 'B083PVBP1G-es'
 tags: [  ]
 actualPrice: 119.99 EUR
 currency: EUR

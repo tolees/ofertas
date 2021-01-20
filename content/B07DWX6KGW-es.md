@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DWX6KGW-es Energy Sistem Box 1+ Altavoz inalámbrico portátil con...'
+sku: 'B07DWX6KGW-es'
 tags: [  ]
 actualPrice: 12.31 EUR
 currency: EUR

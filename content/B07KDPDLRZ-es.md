@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KDPDLRZ-es Baoblaze Reparación de Motor de Vibración a Izquierda 3D...'
+sku: 'B07KDPDLRZ-es'
 tags: [  ]
 actualPrice: 3.08 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004E0ZZIE-es Columbia Sun Ridge Polo Hombre Negro S'
+sku: 'B004E0ZZIE-es'
 tags: [  ]
 actualPrice: 16.0 EUR
 currency: EUR

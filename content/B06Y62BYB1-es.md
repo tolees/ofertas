@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y62BYB1-es Pikolin Home - Protector de colchón/Cubre colchón...'
+sku: 'B06Y62BYB1-es'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

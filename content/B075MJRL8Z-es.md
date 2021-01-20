@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075MJRL8Z-es Solac PV1651 Plancha de viaje Bi-tensión mango plegable...'
+sku: 'B075MJRL8Z-es'
 tags: [  ]
 actualPrice: 16.79 EUR
 currency: EUR

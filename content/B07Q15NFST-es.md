@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q15NFST-es L Oreal Paris Make-up Designer Kit Serum de Pestañas...'
+sku: 'B07Q15NFST-es'
 tags: [  ]
 actualPrice: 15.39 EUR
 currency: EUR

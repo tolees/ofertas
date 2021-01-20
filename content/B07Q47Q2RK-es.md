@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q47Q2RK-es Spotted Zebra 2-Pack Long-Sleeve Novelty T-Shirts Fashion...'
+sku: 'B07Q47Q2RK-es'
 tags: [  ]
 actualPrice: 15.04 EUR
 currency: EUR

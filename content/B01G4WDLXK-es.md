@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01G4WDLXK-es VTech-80-190922 Oso de Tela Interactivo Multicolor...'
+sku: 'B01G4WDLXK-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

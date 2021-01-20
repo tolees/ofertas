@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MGFRPP5-es Napapijri Damavand V suéter Azul French Blue BB7 Small...'
+sku: 'B07MGFRPP5-es'
 tags: [  ]
 actualPrice: 21.86 EUR
 currency: EUR

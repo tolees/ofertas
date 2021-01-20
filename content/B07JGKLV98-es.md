@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JGKLV98-es HBselect Gorros De Punto Bebe Niños Invierno Gorra Bebe...'
+sku: 'B07JGKLV98-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

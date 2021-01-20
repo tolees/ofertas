@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FSZQR7M-es Clarks Glove Puppet Mocasines para Mujer Naranja Orange...'
+sku: 'B07FSZQR7M-es'
 tags: [  ]
 actualPrice: 30.18 EUR
 currency: EUR

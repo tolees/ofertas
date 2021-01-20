@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RFJD6H7-es Herramientas de pulido de la joyería de la regla del papel...'
+sku: 'B07RFJD6H7-es'
 tags: [  ]
 actualPrice: 5.69 EUR
 currency: EUR

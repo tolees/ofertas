@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VFFD53H-es Beikell Cable de Audio Jack Cable Audio 3.5mm Macho Macho...'
+sku: 'B07VFFD53H-es'
 tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR

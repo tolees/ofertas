@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086HCP44H-es Ausonia Discreet Compresas Para Pérdidas De Orina Mini...'
+sku: 'B086HCP44H-es'
 tags: [  ]
 actualPrice: 18.4 EUR
 currency: EUR

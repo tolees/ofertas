@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GH2R45H-es Skechers Men s Stamina-CONTIC Trainers Grey Gray & Red...'
+sku: 'B07GH2R45H-es'
 tags: [  ]
 actualPrice: 37.91 EUR
 currency: EUR

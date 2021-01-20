@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005C7S5BC-es Stargate Atlantis - Die komplette Kollektion [Alemania] [DVD]'
+sku: 'B005C7S5BC-es'
 tags: [  ]
 actualPrice: 48.19 EUR
 currency: EUR

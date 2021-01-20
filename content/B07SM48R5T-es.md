@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SM48R5T-es 128GB Pendrive RAOYI Memoria USB 3.0 Pen Drive 128GB Alta...'
+sku: 'B07SM48R5T-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

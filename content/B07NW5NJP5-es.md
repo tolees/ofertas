@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NW5NJP5-es Skechers Envy-Good Thinking Zapatillas para Mujer Azul...'
+sku: 'B07NW5NJP5-es'
 tags: [  ]
 actualPrice: 28.06 EUR
 currency: EUR

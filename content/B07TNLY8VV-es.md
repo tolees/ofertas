@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TNLY8VV-es Levi s Azul Hm Patch Housemark Polo Riverside 0110 X-Small...'
+sku: 'B07TNLY8VV-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

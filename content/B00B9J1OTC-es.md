@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00B9J1OTC-es Roca A5A6125C00 A5A3125C00 Monomando Lavabo Colección...'
+sku: 'B00B9J1OTC-es'
 tags: [  ]
 actualPrice: 32.5 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NU5T30U-es Polly Super Conjunto para el supermercado Infantil Espana...'
+sku: 'B00NU5T30U-es'
 tags: [  ]
 actualPrice: 6.95 EUR
 currency: EUR

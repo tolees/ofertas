@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QZRZSDR-es Irrigador Dental Portátil - Liberex Irrigador Bucal...'
+sku: 'B07QZRZSDR-es'
 tags: [  ]
 actualPrice: 24.28 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001NYF3HM-es Reebok Classic Leather Zapatillas Mujer Blanco 38.5 EU /...'
+sku: 'B001NYF3HM-es'
 tags: [  ]
 actualPrice: 31.96 EUR
 currency: EUR

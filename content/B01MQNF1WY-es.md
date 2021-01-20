@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MQNF1WY-es Asics Gel-Lyte V Zapatillas Unisex Adulto Blanco Bianco 36 EU'
+sku: 'B01MQNF1WY-es'
 tags: [  ]
 actualPrice: 58 EUR
 currency: EUR

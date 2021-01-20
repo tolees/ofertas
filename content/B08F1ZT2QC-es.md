@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08F1ZT2QC-es Auriculares Bluetooth 5.0 Auricular Inalámbrico Bluetooth...'
+sku: 'B08F1ZT2QC-es'
 tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR

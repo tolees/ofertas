@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V2J4B5H-es Tommy Hilfiger Tommy Jeans Lifestyle Runner Zapatillas...'
+sku: 'B07V2J4B5H-es'
 tags: [  ]
 actualPrice: 39.29 EUR
 currency: EUR

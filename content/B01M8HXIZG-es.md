@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M8HXIZG-es Arcopal - Vajilla con 18 Piezas Blanco'
+sku: 'B01M8HXIZG-es'
 tags: [  ]
 actualPrice: 24.9 EUR
 currency: EUR

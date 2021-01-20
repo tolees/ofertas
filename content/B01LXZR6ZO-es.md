@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LXZR6ZO-es Moulinex i-Companion HF9001 - Robot de cocina Bluetooth 13...'
+sku: 'B01LXZR6ZO-es'
 tags: [  ]
 actualPrice: 599.0 EUR
 currency: EUR

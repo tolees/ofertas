@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FQNCHY8-es Adidas V Racer 2.0 Zapatillas de Deporte para Hombre...'
+sku: 'B07FQNCHY8-es'
 tags: [  ]
 actualPrice: 37.66 EUR
 currency: EUR

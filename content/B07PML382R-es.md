@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PML382R-es Marea: El Azogue'
+sku: 'B07PML382R-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

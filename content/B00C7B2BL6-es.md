@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00C7B2BL6-es Orofluido Colour Elixir Tinte Permanente Tono 4 Marrón -...'
+sku: 'B00C7B2BL6-es'
 tags: [  ]
 actualPrice: 3.73 EUR
 currency: EUR

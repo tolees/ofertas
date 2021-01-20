@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F7D6V1P-es INTEY Perchero de Pie Perchero Metálico de Árbol de Pie...'
+sku: 'B07F7D6V1P-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

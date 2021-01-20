@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KTQQHYS-es Scuderia Ferrari Reloj de Pulsera 830615'
+sku: 'B07KTQQHYS-es'
 tags: [  ]
 actualPrice: 69.58 EUR
 currency: EUR

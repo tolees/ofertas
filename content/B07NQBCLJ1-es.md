@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NQBCLJ1-es SAMSUNG SM-R375NZKADBT Reloj Inteligente Negro 1 88 cm...'
+sku: 'B07NQBCLJ1-es'
 tags: [  ]
 actualPrice: 31.91 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084VH2QLL-es KESOTO Madera USB 2.0 Flash Pen Drive Disco De Memoria...'
+sku: 'B084VH2QLL-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

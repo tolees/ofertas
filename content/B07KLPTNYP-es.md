@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KLPTNYP-es El Mal Querer'
+sku: 'B07KLPTNYP-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

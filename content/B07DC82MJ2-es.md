@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DC82MJ2-es LE COQ SPORTIF Verdon Sport Zapatillas para Hombre Beige...'
+sku: 'B07DC82MJ2-es'
 tags: [  ]
 actualPrice: 32.97 EUR
 currency: EUR

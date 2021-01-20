@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N1P0OQ4-es B+W 1089607 - Soporte para filtros 100 x 100'
+sku: 'B01N1P0OQ4-es'
 tags: [  ]
 actualPrice: 30.11 EUR
 currency: EUR

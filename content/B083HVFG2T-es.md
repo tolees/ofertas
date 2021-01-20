@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083HVFG2T-es K9CK Luces LED para Technic Grúa Todoterreno 42082 Kit de...'
+sku: 'B083HVFG2T-es'
 tags: [  ]
 actualPrice: 43.99 EUR
 currency: EUR

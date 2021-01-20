@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087FG79WT-es Libershine Bandas Elásticas Musculación Fitness Cintas...'
+sku: 'B087FG79WT-es'
 tags: [  ]
 actualPrice: 8.63 EUR
 currency: EUR

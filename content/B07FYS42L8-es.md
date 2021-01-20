@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FYS42L8-es Bandolera para portátil Pepe Jeans Bromley con solapa Verde'
+sku: 'B07FYS42L8-es'
 tags: [  ]
 actualPrice: 36.5 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WDBSVK5-es Farming Simulator 19 - Platinum Edition'
+sku: 'B07WDBSVK5-es'
 tags: [  ]
 actualPrice: 33.74 EUR
 currency: EUR

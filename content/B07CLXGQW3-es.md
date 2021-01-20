@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CLXGQW3-es Adidas Gazelle C Zapatillas de Deporte Unisex niño Verde...'
+sku: 'B07CLXGQW3-es'
 tags: [  ]
 actualPrice: 36.41 EUR
 currency: EUR

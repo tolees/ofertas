@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WDNDSVB-es REYLEO Maleta Cabina Rígida PC+ABS Material Equipaje de...'
+sku: 'B07WDNDSVB-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

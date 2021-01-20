@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0758BMRHY-es EXERZ Juego de 5 Lienzos preestirados/Paquete de 5 Lienzos...'
+sku: 'B0758BMRHY-es'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085YG9PP3-es HR-International - 2 rollos de paño desechable para...'
+sku: 'B085YG9PP3-es'
 tags: [  ]
 actualPrice: 12.98 EUR
 currency: EUR

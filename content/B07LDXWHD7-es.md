@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LDXWHD7-es Agerul Vinagre de Limpieza 1l'
+sku: 'B07LDXWHD7-es'
 tags: [  ]
 actualPrice: 0.94 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X2C5Q1F-es Litthing Envoltorio Cera De Abeja Envoltorios de Alimentos...'
+sku: 'B07X2C5Q1F-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

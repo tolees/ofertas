@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V4CWBD5-es LK [3 Pack] Protector de Pantalla para iPhone 11 / iPhone...'
+sku: 'B07V4CWBD5-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

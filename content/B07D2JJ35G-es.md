@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D2JJ35G-es Dim Generous Ed. Limitada Capacidad Sujetador básico Azul...'
+sku: 'B07D2JJ35G-es'
 tags: [  ]
 actualPrice: 21.98 EUR
 currency: EUR

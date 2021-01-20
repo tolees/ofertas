@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JN5C2ZW-es Tural - Protector de Colchón de Cuna Impermeable con...'
+sku: 'B07JN5C2ZW-es'
 tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR

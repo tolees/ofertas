@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SRJWGCX-es adidas Forest Grove Zapatillas de Gimnasia para Hombre...'
+sku: 'B07SRJWGCX-es'
 tags: [  ]
 actualPrice: 45.8 EUR
 currency: EUR

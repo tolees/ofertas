@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG6YQ5M-es PUMA Rebound Layup LO SL Zapatillas Unisex Adulto Negro...'
+sku: 'B07KG6YQ5M-es'
 tags: [  ]
 actualPrice: 39.11 EUR
 currency: EUR

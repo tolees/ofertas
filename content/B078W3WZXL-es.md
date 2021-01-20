@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078W3WZXL-es fundas Samsung Galaxy S7 protector pantalla bateria 9x...'
+sku: 'B078W3WZXL-es'
 tags: [  ]
 actualPrice: 8.57 EUR
 currency: EUR

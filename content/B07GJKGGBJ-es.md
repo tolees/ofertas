@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GJKGGBJ-es MODERN LIFE Soporte de Pared para TV 14-42 Pulgadas...'
+sku: 'B07GJKGGBJ-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

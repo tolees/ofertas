@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00008WURJ-es Zwilling Twinsharp Afilador Cuchillos Manual Negro'
+sku: 'B00008WURJ-es'
 tags: [  ]
 actualPrice: 13.55 EUR
 currency: EUR

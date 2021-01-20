@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TWNGZVC-es Lacoste Rc2012 Cinturón Beige Fog D47 95 tamaño del...'
+sku: 'B07TWNGZVC-es'
 tags: [  ]
 actualPrice: 31.88 EUR
 currency: EUR

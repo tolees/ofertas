@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074T7Q2WB-es TACKLIFE M1 Compresor Aire Coche Inflador Digital 150PSI...'
+sku: 'B074T7Q2WB-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

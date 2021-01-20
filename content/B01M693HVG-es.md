@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M693HVG-es Auna iAdapt 280 - Adaptador de Radio Digital Módulo de...'
+sku: 'B01M693HVG-es'
 tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR

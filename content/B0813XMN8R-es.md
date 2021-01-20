@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0813XMN8R-es adidas Duramo Lite 2.0 Zapatillas para Correr para Hombre...'
+sku: 'B0813XMN8R-es'
 tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR

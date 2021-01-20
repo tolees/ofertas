@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VNB72VY-es JAIMIE JACOBS Cartera Hombre Nano Boy Cartera Minimalista...'
+sku: 'B07VNB72VY-es'
 tags: [  ]
 actualPrice: 24.9 EUR
 currency: EUR

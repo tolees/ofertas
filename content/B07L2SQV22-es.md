@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L2SQV22-es Asics Patriot 11 Zapatillas de Running para Hombre Azul...'
+sku: 'B07L2SQV22-es'
 tags: [  ]
 actualPrice: 40.33 EUR
 currency: EUR

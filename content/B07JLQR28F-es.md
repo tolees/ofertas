@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JLQR28F-es Lee Daren Zip Fly Jeans Azul Dark Diamond Ft 44W / 34L...'
+sku: 'B07JLQR28F-es'
 tags: [  ]
 actualPrice: 60.99 EUR
 currency: EUR

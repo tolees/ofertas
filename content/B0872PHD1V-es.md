@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0872PHD1V-es Funda Transparente Compatible para Xiaomi Redmi Note 8...'
+sku: 'B0872PHD1V-es'
 tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR

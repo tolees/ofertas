@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083LGFDCV-es 100pcs Discos de Madera Rebanada SEELOK Rodajas de Madera...'
+sku: 'B083LGFDCV-es'
 tags: [  ]
 actualPrice: 14.59 EUR
 currency: EUR

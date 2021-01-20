@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P2F1ZFL-es FITTOO Mallas Pantalones Deportivos Mujer Elásticos...'
+sku: 'B07P2F1ZFL-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

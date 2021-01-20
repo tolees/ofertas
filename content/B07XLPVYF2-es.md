@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XLPVYF2-es Cuchara de Limpieza de Cerumen Oído con Luz LED...'
+sku: 'B07XLPVYF2-es'
 tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR

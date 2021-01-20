@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MY6WFTW-es L Oréal Paris False Lash Superstar Xfiber Máscara de...'
+sku: 'B01MY6WFTW-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

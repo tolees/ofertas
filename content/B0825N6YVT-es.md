@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0825N6YVT-es Quiksilver All Time - Licra De Manga Larga con Protección...'
+sku: 'B0825N6YVT-es'
 tags: [  ]
 actualPrice: 13.55 EUR
 currency: EUR

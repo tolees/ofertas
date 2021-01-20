@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GV7DCD9-es QUEEN ROSE Almohada de Embarazo con Funda de Lavable...'
+sku: 'B07GV7DCD9-es'
 tags: [  ]
 actualPrice: 53.79 EUR
 currency: EUR

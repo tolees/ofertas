@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NGTKWWM-es Cable guy Buzz Lightyear soporte de sujeción o carga para...'
+sku: 'B07NGTKWWM-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

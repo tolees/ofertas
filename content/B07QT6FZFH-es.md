@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QT6FZFH-es Asics Gel-Sonoma 4 Zapatillas de Running para Hombre Negro...'
+sku: 'B07QT6FZFH-es'
 tags: [  ]
 actualPrice: 42.99 EUR
 currency: EUR

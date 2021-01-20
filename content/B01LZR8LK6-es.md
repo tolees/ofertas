@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZR8LK6-es Miropure Cepillo alisador de cabello con calentamiento MCH...'
+sku: 'B01LZR8LK6-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

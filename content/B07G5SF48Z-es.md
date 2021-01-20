@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G5SF48Z-es Logitech G PRO Ratón Gaming Inalámbrico Sensor HERO 16K 16...'
+sku: 'B07G5SF48Z-es'
 tags: [  ]
 actualPrice: 115.75 EUR
 currency: EUR

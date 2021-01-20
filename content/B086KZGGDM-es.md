@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086KZGGDM-es Toallas refrigerantes de toalla toalla fría toalla juego...'
+sku: 'B086KZGGDM-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

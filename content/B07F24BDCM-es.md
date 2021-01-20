@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F24BDCM-es JIANYE Calcetines Ciclismo Transpirable Que Absorbe...'
+sku: 'B07F24BDCM-es'
 tags: [  ]
 actualPrice: 4.69 EUR
 currency: EUR

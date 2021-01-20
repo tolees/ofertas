@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L61DNMR-es Tangle Teezer Cepillo fine & fragile mint & lilac 70 g'
+sku: 'B07L61DNMR-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

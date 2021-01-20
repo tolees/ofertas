@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0030DWZFM-es Rubies Buzz Lightyear Toy Story Classic Costume - Child s...'
+sku: 'B0030DWZFM-es'
 tags: [  ]
 actualPrice: 22.33 EUR
 currency: EUR

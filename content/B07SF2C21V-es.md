@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SF2C21V-es PUMA Radiate XT Pattern WN S Zapatillas Deportivas para...'
+sku: 'B07SF2C21V-es'
 tags: [  ]
 actualPrice: 25.55 EUR
 currency: EUR

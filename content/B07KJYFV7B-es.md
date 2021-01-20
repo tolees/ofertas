@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KJYFV7B-es Quiksilver Everyday Ev Sr Pantalones Cortos Hombre Negro...'
+sku: 'B07KJYFV7B-es'
 tags: [  ]
 actualPrice: 34.94 EUR
 currency: EUR

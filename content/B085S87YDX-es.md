@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085S87YDX-es Synology DiskStation DS220j - Servidor NAS 4 TB 2 bahías y...'
+sku: 'B085S87YDX-es'
 tags: [  ]
 actualPrice: 179.99 EUR
 currency: EUR

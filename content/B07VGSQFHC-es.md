@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VGSQFHC-es Vans Atwood Canvas Zapatillas para Hombre Multicolor Otw...'
+sku: 'B07VGSQFHC-es'
 tags: [  ]
 actualPrice: 42.95 EUR
 currency: EUR

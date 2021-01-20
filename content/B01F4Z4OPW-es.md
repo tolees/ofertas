@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01F4Z4OPW-es Crucial Ballistix Sport LT BLS2K4G4D240FSE 2400 MHz DDR4...'
+sku: 'B01F4Z4OPW-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083DWL6CB-es Caja para pilas ignífuga bolsa de transporte con probador...'
+sku: 'B083DWL6CB-es'
 tags: [  ]
 actualPrice: 33.9 EUR
 currency: EUR

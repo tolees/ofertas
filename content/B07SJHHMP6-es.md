@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SJHHMP6-es Pala de Pádel Masai | Black Crown | Nivel: Avanzado...'
+sku: 'B07SJHHMP6-es'
 tags: [  ]
 actualPrice: 114.95 EUR
 currency: EUR

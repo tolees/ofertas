@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0778LHWRM-es WAVLINK Tipo-A USB 3.0 a 4 Puertos de USB 3.0 Hub Alta...'
+sku: 'B0778LHWRM-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

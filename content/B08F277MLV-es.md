@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08F277MLV-es NKare - Dispensador de Jabón automático de Pie 1L Sensor...'
+sku: 'B08F277MLV-es'
 tags: [  ]
 actualPrice: 55.99 EUR
 currency: EUR

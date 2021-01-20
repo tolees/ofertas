@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8L2BJT-es Lee Scarlett Corduroy Pantalones Marfil Off White 26 25W /...'
+sku: 'B07M8L2BJT-es'
 tags: [  ]
 actualPrice: 12.36 EUR
 currency: EUR

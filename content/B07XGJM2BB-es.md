@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XGJM2BB-es Justdodo Bolsa de Cintura Deportiva multifunción Bolsa de...'
+sku: 'B07XGJM2BB-es'
 tags: [  ]
 actualPrice: 1.85 EUR
 currency: EUR

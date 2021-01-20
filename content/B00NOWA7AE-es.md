@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NOWA7AE-es BAUSCH + LOMB - SofLens® Natural Colors - Lentes De...'
+sku: 'B00NOWA7AE-es'
 tags: [  ]
 actualPrice: 12.9 EUR
 currency: EUR

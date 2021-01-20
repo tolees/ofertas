@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W1V4PKQ-es Skechers Ultra Groove Pure Vision Zapatillas para Mujer...'
+sku: 'B07W1V4PKQ-es'
 tags: [  ]
 actualPrice: 29.44 EUR
 currency: EUR

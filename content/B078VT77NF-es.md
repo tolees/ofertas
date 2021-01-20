@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078VT77NF-es XINZUO Set Cuchillo Cocina 5 Piezas Damasco Japonés 67...'
+sku: 'B078VT77NF-es'
 tags: [  ]
 actualPrice: 259.99 EUR
 currency: EUR

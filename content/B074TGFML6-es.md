@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074TGFML6-es Parrot Mambo Fly - Dron cuadricóptero 30 Km/h 8 minutos de...'
+sku: 'B074TGFML6-es'
 tags: [  ]
 actualPrice: 58.9 EUR
 currency: EUR

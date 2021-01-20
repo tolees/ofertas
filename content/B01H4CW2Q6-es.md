@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H4CW2Q6-es PUMA Tazon 6 FM Zapatillas para Correr de Carretera para...'
+sku: 'B01H4CW2Q6-es'
 tags: [  ]
 actualPrice: 40.7 EUR
 currency: EUR

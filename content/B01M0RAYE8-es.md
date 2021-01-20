@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M0RAYE8-es BenQ W1090 Proyector 1080P modo Deporte pantalla grande de...'
+sku: 'B01M0RAYE8-es'
 tags: [  ]
 actualPrice: 629.77 EUR
 currency: EUR

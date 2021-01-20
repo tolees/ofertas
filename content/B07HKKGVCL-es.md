@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HKKGVCL-es JDC Anclaje Al Suelo De Acero Endurecido De Alta...'
+sku: 'B07HKKGVCL-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

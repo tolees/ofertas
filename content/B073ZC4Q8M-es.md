@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073ZC4Q8M-es DEIK Cuchillos Cocina Juego de Cuchillos de Acero...'
+sku: 'B073ZC4Q8M-es'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

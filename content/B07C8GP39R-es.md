@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C8GP39R-es isYoung Comedero Automático 5.5 L de Alimentos para...'
+sku: 'B07C8GP39R-es'
 tags: [  ]
 actualPrice: 41.99 EUR
 currency: EUR

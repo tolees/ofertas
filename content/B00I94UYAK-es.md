@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00I94UYAK-es Trio Lighting 603900302 Lámpara de techo Stoffschirm...'
+sku: 'B00I94UYAK-es'
 tags: [  ]
 actualPrice: 61.87 EUR
 currency: EUR

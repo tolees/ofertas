@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LRYUJQS-es Mini-Concentrador USB 3.0 Giratorio de Aluminio Sabrent...'
+sku: 'B00LRYUJQS-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

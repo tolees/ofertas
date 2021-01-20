@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0868N3KVC-es Suhctup Transparente Funda Compatible con OnePlus 6...'
+sku: 'B0868N3KVC-es'
 tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR

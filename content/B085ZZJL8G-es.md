@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085ZZJL8G-es Pijamas Dos Piezas para Niño Impresión de Excavadora Manga...'
+sku: 'B085ZZJL8G-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

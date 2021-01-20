@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TYXYJKQ-es BRIKSMAX Kit de Iluminación Led para Lego City Comisaría...'
+sku: 'B07TYXYJKQ-es'
 tags: [  ]
 actualPrice: 51.99 EUR
 currency: EUR

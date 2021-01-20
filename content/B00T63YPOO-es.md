@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00T63YPOO-es Yazilind Joyas de plata esterlina corazón diseño anillo...'
+sku: 'B00T63YPOO-es'
 tags: [  ]
 actualPrice: 1.38 EUR
 currency: EUR

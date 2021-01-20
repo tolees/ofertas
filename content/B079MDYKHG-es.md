@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079MDYKHG-es Salomon Speedcross CSWP J Zapatillas de Trail Running...'
+sku: 'B079MDYKHG-es'
 tags: [  ]
 actualPrice: 59.98 EUR
 currency: EUR

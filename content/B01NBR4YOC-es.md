@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NBR4YOC-es Sony MDR-XB550AP - Auriculares de Diadema Extra Bass...'
+sku: 'B01NBR4YOC-es'
 tags: [  ]
 actualPrice: 25.59 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085QL3VZG-es Gel hidroalcoholico para la limpieza y desinfección de...'
+sku: 'B085QL3VZG-es'
 tags: [  ]
 actualPrice: 12.4 EUR
 currency: EUR

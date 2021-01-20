@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PL25BGT-es Nike Todos Zapatillas de Entrenamiento para Hombre Blanco...'
+sku: 'B07PL25BGT-es'
 tags: [  ]
 actualPrice: 31.71 EUR
 currency: EUR

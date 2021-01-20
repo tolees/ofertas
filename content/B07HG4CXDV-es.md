@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HG4CXDV-es New Balance 247v2 Zapatillas para Hombre Blanco Pigment...'
+sku: 'B07HG4CXDV-es'
 tags: [  ]
 actualPrice: 42.77 EUR
 currency: EUR

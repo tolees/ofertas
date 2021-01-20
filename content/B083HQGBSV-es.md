@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083HQGBSV-es Vestigia® - Monorim V1 & V2 Soporte Guardabarros Frontal...'
+sku: 'B083HQGBSV-es'
 tags: [  ]
 actualPrice: 14.5 EUR
 currency: EUR

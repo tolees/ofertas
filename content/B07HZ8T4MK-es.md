@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HZ8T4MK-es Amazon Essentials - Pantalones cargo para niño Caqui 9-10...'
+sku: 'B07HZ8T4MK-es'
 tags: [  ]
 actualPrice: 12.93 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D4T6JPB-es Kappa Follow OC XL Zapatillas para Hombre Negro Black/Grey...'
+sku: 'B07D4T6JPB-es'
 tags: [  ]
 actualPrice: 23.73 EUR
 currency: EUR

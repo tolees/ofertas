@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004UDLUWU-es Master Lock 1551 Mosquetón Ajustable 0.90m Cable En...'
+sku: 'B004UDLUWU-es'
 tags: [  ]
 actualPrice: 6.44 EUR
 currency: EUR

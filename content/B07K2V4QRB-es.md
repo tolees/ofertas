@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2V4QRB-es Adidas Falcon Zapatillas de Running Hombre Gris Grey...'
+sku: 'B07K2V4QRB-es'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

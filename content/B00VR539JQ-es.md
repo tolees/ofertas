@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VR539JQ-es Skechers Men s STAMINA CUTBACK Trainers Grey Charcoal &...'
+sku: 'B00VR539JQ-es'
 tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR

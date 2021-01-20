@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H9QFV64-es Etiquetas adhesivas Unicornio Tatuajes Temporales -...'
+sku: 'B07H9QFV64-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

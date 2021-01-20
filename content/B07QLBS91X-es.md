@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QLBS91X-es VLIKE Estación meteorológica con 2PCS sensores Estación...'
+sku: 'B07QLBS91X-es'
 tags: [  ]
 actualPrice: 52.99 EUR
 currency: EUR

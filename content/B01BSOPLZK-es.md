@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BSOPLZK-es Samsung Clear Cover - Funda para Samsung Galaxy S7 Edge...'
+sku: 'B01BSOPLZK-es'
 tags: [  ]
 actualPrice: 2.09 EUR
 currency: EUR

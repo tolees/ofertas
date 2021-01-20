@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PWMXPQQ-es Kinderkraft Carrito Bebé 2 en 1 JULI Silla de Paseo Capazo...'
+sku: 'B07PWMXPQQ-es'
 tags: [  ]
 actualPrice: 129.95 EUR
 currency: EUR

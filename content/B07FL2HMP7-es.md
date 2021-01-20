@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FL2HMP7-es LG 24MK600M-B - Monitor FHD de 60 4 cm 23 8" con Panel IPS...'
+sku: 'B07FL2HMP7-es'
 tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CK7O8DA-es Energy Sistem Music Box B2 Bluetooth Bluetooth Entrada de...'
+sku: 'B01CK7O8DA-es'
 tags: [  ]
 actualPrice: 14.9 EUR
 currency: EUR

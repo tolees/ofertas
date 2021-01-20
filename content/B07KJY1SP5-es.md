@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KJY1SP5-es Nike W Nk Gym Club Bolsa de Gimnasio para Mujer Negro...'
+sku: 'B07KJY1SP5-es'
 tags: [  ]
 actualPrice: 14.98 EUR
 currency: EUR

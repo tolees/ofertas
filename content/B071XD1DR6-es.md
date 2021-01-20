@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071XD1DR6-es Xiaomi Mi Band 2 Fitness Smartband Pulsera de actividad...'
+sku: 'B071XD1DR6-es'
 tags: [  ]
 actualPrice: 14.2 EUR
 currency: EUR

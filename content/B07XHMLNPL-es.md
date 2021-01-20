@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XHMLNPL-es Inventor Fresh 12L Deshumidificador Portátil con...'
+sku: 'B07XHMLNPL-es'
 tags: [  ]
 actualPrice: 94.95 EUR
 currency: EUR

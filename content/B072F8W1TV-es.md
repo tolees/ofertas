@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072F8W1TV-es FOREO Espada tratamiento de luz azul para acné Pink'
+sku: 'B072F8W1TV-es'
 tags: [  ]
 actualPrice: 111.75 EUR
 currency: EUR

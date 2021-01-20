@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BTTBC0S-es KidKraft- Set de pista de carreras de madera Mega Ramp con...'
+sku: 'B00BTTBC0S-es'
 tags: [  ]
 actualPrice: 93.99 EUR
 currency: EUR

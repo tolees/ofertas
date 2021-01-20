@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077SPZ63X-es Puma Liga Casuals Shorts Pantalones Cortos Hombre Negro...'
+sku: 'B077SPZ63X-es'
 tags: [  ]
 actualPrice: 21.9 EUR
 currency: EUR

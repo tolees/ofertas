@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T1L4RYW-es Gohepi 12 Multipack 33XL Alta Capacidad Cartuchos de tinta...'
+sku: 'B07T1L4RYW-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

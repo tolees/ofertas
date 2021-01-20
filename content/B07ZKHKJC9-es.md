@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZKHKJC9-es 120x120cm Manta de muselina para bebé manta para bebé...'
+sku: 'B07ZKHKJC9-es'
 tags: [  ]
 actualPrice: 4.14 EUR
 currency: EUR

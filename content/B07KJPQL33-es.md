@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KJPQL33-es Clay Dinosaur Toys Set for Kids - Magic Modeling Clay 26...'
+sku: 'B07KJPQL33-es'
 tags: [  ]
 actualPrice: 15.97 EUR
 currency: EUR

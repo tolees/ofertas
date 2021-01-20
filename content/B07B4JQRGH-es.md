@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B4JQRGH-es Auriculares Bluetooth Manos Libres Oreja Auricular...'
+sku: 'B07B4JQRGH-es'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

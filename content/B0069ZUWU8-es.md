@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0069ZUWU8-es Dickies Original 874 Work Pant Pantalones Marina Oscuro...'
+sku: 'B0069ZUWU8-es'
 tags: [  ]
 actualPrice: 26.63 EUR
 currency: EUR

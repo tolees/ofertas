@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KQXCZDS-es Helly Hansen KOS Polo Hombre Rojo Rojo 147 L'
+sku: 'B07KQXCZDS-es'
 tags: [  ]
 actualPrice: 40.0 EUR
 currency: EUR

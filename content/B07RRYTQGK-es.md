@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RRYTQGK-es HP Color Laser 150a - Impresora láser 18 ppm/4 ppm Bandeja...'
+sku: 'B07RRYTQGK-es'
 tags: [  ]
 actualPrice: 121.9 EUR
 currency: EUR

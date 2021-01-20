@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FW19VT4-es molis&co. Saco de Dormir para bebé. Ideal para Verano. 0-6...'
+sku: 'B07FW19VT4-es'
 tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR

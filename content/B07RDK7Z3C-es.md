@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RDK7Z3C-es Luz del Sensor de Movimiento LOFTer Luz de Armario de...'
+sku: 'B07RDK7Z3C-es'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

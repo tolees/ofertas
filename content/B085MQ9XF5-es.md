@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085MQ9XF5-es Kelme - Zapatillas Precision Wild'
+sku: 'B085MQ9XF5-es'
 tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR

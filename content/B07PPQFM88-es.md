@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PPQFM88-es Grabadora CD/DVD Externa USB 3.0 Colourstone USB 3.0 y...'
+sku: 'B07PPQFM88-es'
 tags: [  ]
 actualPrice: 17.59 EUR
 currency: EUR

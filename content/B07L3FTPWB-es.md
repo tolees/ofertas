@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L3FTPWB-es Tommy Hilfiger Core Thick Textile Sneaker Zapatillas para...'
+sku: 'B07L3FTPWB-es'
 tags: [  ]
 actualPrice: 44.9 EUR
 currency: EUR

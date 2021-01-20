@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TMCRDGC-es Pre-Workout X6 | Potente Pre-entreno Ultra Concentrado |...'
+sku: 'B07TMCRDGC-es'
 tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR

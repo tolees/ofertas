@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075BMNC5Y-es Impresora Multifuncional Canon PIXMA TR7550 Negra Wifi de...'
+sku: 'B075BMNC5Y-es'
 tags: [  ]
 actualPrice: 78.05 EUR
 currency: EUR

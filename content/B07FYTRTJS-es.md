@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FYTRTJS-es OSRAM NIGHT BREAKER LASER H1 Gen 2 +150% más luz bombilla...'
+sku: 'B07FYTRTJS-es'
 tags: [  ]
 actualPrice: 10.38 EUR
 currency: EUR

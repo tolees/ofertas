@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WBXM53L-es Tommy Hilfiger Hilfiger Slim Polo Azul Blue Ink Large...'
+sku: 'B07WBXM53L-es'
 tags: [  ]
 actualPrice: 38.45 EUR
 currency: EUR

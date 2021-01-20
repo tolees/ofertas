@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M9NCW7S-es LParkin - Llavero para Parejas con Texto en inglés I Love...'
+sku: 'B07M9NCW7S-es'
 tags: [  ]
 actualPrice: 1.56 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GLP11B0-es Elbe Regleta Enchufes Esquina Enchufes multiple con 3...'
+sku: 'B00GLP11B0-es'
 tags: [  ]
 actualPrice: 46.56 EUR
 currency: EUR

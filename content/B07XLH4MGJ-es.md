@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XLH4MGJ-es Agenda 2021 Agenda Académica A5 Semanal para ver la agenda...'
+sku: 'B07XLH4MGJ-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K3S13TW-es BOSS Schino-Slim D Pantalones Beige Open Beige 280 W30/L34...'
+sku: 'B07K3S13TW-es'
 tags: [  ]
 actualPrice: 36.72 EUR
 currency: EUR

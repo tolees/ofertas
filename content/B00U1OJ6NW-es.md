@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00U1OJ6NW-es Jimten Sifón para fregadero curvo extensible salida...'
+sku: 'B00U1OJ6NW-es'
 tags: [  ]
 actualPrice: 2.84 EUR
 currency: EUR

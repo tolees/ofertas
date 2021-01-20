@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2LP5BQ-es Adidas Adilette Aqua Zapatillas de Cross Unisex Adulto...'
+sku: 'B07K2LP5BQ-es'
 tags: [  ]
 actualPrice: 5.01 EUR
 currency: EUR

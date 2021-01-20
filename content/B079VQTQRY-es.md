@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079VQTQRY-es L Oreal Paris Age Perfect Renacimiento Celular Contorno de...'
+sku: 'B079VQTQRY-es'
 tags: [  ]
 actualPrice: 11.25 EUR
 currency: EUR

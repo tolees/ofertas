@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QWRZZVX-es AGPTEK Portátil Ventilador de Mano Silencioso con Luz de...'
+sku: 'B07QWRZZVX-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

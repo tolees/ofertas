@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HVN65LF-es MSI Optix MAG341CQ - Monitor Gaming Curvo de 34" UWQHD LED...'
+sku: 'B07HVN65LF-es'
 tags: [  ]
 actualPrice: 389.74 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078VFT6R1-es Sorel Nakiska Slide II Zapatillas de casa para Mujer Beige...'
+sku: 'B078VFT6R1-es'
 tags: [  ]
 actualPrice: 39 EUR
 currency: EUR

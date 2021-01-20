@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082HMWGZZ-es Guantes de Levantamiento de Pesas Guantes de Entrenamiento...'
+sku: 'B082HMWGZZ-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

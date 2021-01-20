@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y43F3MM-es Parfois - Clutch - Bandolera Efecto Serpiente - Mujeres -...'
+sku: 'B07Y43F3MM-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

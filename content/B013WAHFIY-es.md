@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013WAHFIY-es Bosch Professional GAM 220 - Medidor de ángulos /...'
+sku: 'B013WAHFIY-es'
 tags: [  ]
 actualPrice: 137.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JGPQ4SG-es STAR WARS Pijamas para Niños 2 Paquetes La Guerra de Las...'
+sku: 'B07JGPQ4SG-es'
 tags: [  ]
 actualPrice: 12.95 EUR
 currency: EUR

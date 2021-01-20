@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JZCLV9R-es Lee Malone Jeans Black Rinse 47 32W / 32L para Hombre'
+sku: 'B07JZCLV9R-es'
 tags: [  ]
 actualPrice: 29.75 EUR
 currency: EUR

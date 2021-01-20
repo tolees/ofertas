@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SBW25DT-es PUMA Stepfleex 2 SL Ve V PS Zapatillas Unisex Niños Azul...'
+sku: 'B07SBW25DT-es'
 tags: [  ]
 actualPrice: 12.0 EUR
 currency: EUR

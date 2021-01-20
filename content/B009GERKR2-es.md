@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009GERKR2-es Maidenform Comfort Devotion Demi - Sujetador para mujer...'
+sku: 'B009GERKR2-es'
 tags: [  ]
 actualPrice: 16.06 EUR
 currency: EUR

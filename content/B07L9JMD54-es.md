@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9JMD54-es Under Armour Challenger III Training Pant pantalones de...'
+sku: 'B07L9JMD54-es'
 tags: [  ]
 actualPrice: 16.67 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFY5VRQ-es PUMA LQDCELL Origin Tech Zapatillas de Running para Hombre...'
+sku: 'B07KFY5VRQ-es'
 tags: [  ]
 actualPrice: 29.72 EUR
 currency: EUR

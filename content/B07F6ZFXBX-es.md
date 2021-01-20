@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F6ZFXBX-es Grand Line Cubiertas Impermeables para La Lluvia con Forro...'
+sku: 'B07F6ZFXBX-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

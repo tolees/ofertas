@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KW21YSF-es Masajeador de ojos sónico de varita galvanica...'
+sku: 'B07KW21YSF-es'
 tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GY9A2N6-es fascinations- Darth Vader s Tie Fighter Maqueta metálica...'
+sku: 'B00GY9A2N6-es'
 tags: [  ]
 actualPrice: 10.85 EUR
 currency: EUR

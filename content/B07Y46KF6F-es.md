@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y46KF6F-es ZIGLINT Z6 sin Cable Aspirador 2 en 1 con una Potencia de...'
+sku: 'B07Y46KF6F-es'
 tags: [  ]
 actualPrice: 119.99 EUR
 currency: EUR

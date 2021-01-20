@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KZST2PG-es EisEyen RC Auto 1: 22 2 WD Rallye Offroad Rock Crawler...'
+sku: 'B07KZST2PG-es'
 tags: [  ]
 actualPrice: 24.14 EUR
 currency: EUR

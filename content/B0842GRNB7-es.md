@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0842GRNB7-es Kit De Funda Transparente: Un Estado Emocionante Y...'
+sku: 'B0842GRNB7-es'
 tags: [  ]
 actualPrice: 12.91 EUR
 currency: EUR

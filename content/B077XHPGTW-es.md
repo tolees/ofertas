@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077XHPGTW-es Marca Amazon - Presto! Pañuelos de 3 capas - 12 cajas 12 x...'
+sku: 'B077XHPGTW-es'
 tags: [  ]
 actualPrice: 16.7 EUR
 currency: EUR

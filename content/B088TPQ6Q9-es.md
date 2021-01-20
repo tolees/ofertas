@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088TPQ6Q9-es IDEASY Tableta de Escritura LCD de 8.5 Pulgadas Tableta de...'
+sku: 'B088TPQ6Q9-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

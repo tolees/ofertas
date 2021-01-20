@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KW2NSF3-es Baseus Cargador de Coche Quick Charge 3.0 5A 30W Carga...'
+sku: 'B07KW2NSF3-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

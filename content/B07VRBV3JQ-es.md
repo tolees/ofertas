@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VRBV3JQ-es SKY LIGHT Sartén Antiadherente 24 cm Embalaje Caja de...'
+sku: 'B07VRBV3JQ-es'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

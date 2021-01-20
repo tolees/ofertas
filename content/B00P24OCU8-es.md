@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00P24OCU8-es Pekatherm US30TD - Almohadilla Universal ECO Mediana de...'
+sku: 'B00P24OCU8-es'
 tags: [  ]
 actualPrice: 16.26 EUR
 currency: EUR

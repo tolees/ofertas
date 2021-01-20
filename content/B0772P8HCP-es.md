@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0772P8HCP-es SUBITO Knit'
+sku: 'B0772P8HCP-es'
 tags: [  ]
 actualPrice: 29 EUR
 currency: EUR

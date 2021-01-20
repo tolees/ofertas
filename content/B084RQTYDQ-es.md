@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084RQTYDQ-es MSI Pro MP221 - Monitor de 22" FHD 60 Hz 1920 x 1080...'
+sku: 'B084RQTYDQ-es'
 tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR

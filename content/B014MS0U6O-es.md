@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014MS0U6O-es Original Junta de Cuchillas para Thermomix TM 21/ TM 31'
+sku: 'B014MS0U6O-es'
 tags: [  ]
 actualPrice: 3.75 EUR
 currency: EUR

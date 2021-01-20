@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M3PXA1X-es Sigma 01417 Ciclocomputador Negro'
+sku: 'B01M3PXA1X-es'
 tags: [  ]
 actualPrice: 51.67 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G4VR6L6-es Braun Hogar CareStyle Compact IS2043 Centro de Planchado...'
+sku: 'B07G4VR6L6-es'
 tags: [  ]
 actualPrice: 105.9 EUR
 currency: EUR

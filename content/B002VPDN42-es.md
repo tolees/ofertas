@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002VPDN42-es Superga 2750 Jvel Classic Zapatillas Unisex Niños Blanco...'
+sku: 'B002VPDN42-es'
 tags: [  ]
 actualPrice: 28.13 EUR
 currency: EUR

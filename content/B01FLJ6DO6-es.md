@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FLJ6DO6-es Bosch Professional 0601066E00 Nivel GCL 2-15 interior con...'
+sku: 'B01FLJ6DO6-es'
 tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR

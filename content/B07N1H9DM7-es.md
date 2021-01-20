@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1H9DM7-es Clarks Orinoco Snug Botas Estilo Motero para Mujer Marrón...'
+sku: 'B07N1H9DM7-es'
 tags: [  ]
 actualPrice: 44.4 EUR
 currency: EUR

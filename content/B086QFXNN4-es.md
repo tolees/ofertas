@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086QFXNN4-es Suhctup Funda Compatible con Huawei P20 Lite 2019 Carcasa...'
+sku: 'B086QFXNN4-es'
 tags: [  ]
 actualPrice: 8.98 EUR
 currency: EUR

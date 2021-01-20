@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FY2H5NS-es Green2Print Tóner Magenta 4000 páginas sustituye a Lexmark...'
+sku: 'B01FY2H5NS-es'
 tags: [  ]
 actualPrice: 61.44 EUR
 currency: EUR

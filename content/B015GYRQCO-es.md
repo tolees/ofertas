@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015GYRQCO-es L Oréal Paris Accord Parfait Base de maquillaje acabado...'
+sku: 'B015GYRQCO-es'
 tags: [  ]
 actualPrice: 8.22 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R7TMGPS-es Liberex Máquina de Cortar Pelo Profesional - Barbero...'
+sku: 'B07R7TMGPS-es'
 tags: [  ]
 actualPrice: 24.29 EUR
 currency: EUR

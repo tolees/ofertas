@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078JG94GV-es Kicode Los titulares cama lámina elástica De sujeción...'
+sku: 'B078JG94GV-es'
 tags: [  ]
 actualPrice: 6.49 EUR
 currency: EUR

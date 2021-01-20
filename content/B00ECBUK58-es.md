@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ECBUK58-es Philips Pro HPS920/00 - Secador profesional 2300 W 6...'
+sku: 'B00ECBUK58-es'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WFGI0JK-es Babymoov procesador de alimentos para bebés Nutribaby...'
+sku: 'B00WFGI0JK-es'
 tags: [  ]
 actualPrice: 47.2 EUR
 currency: EUR

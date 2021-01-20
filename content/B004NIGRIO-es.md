@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004NIGRIO-es Cressi Mettalite Escarpines Neopreno Metallite Unisex...'
+sku: 'B004NIGRIO-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

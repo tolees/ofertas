@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DHC822P-es YQHbe Caja de Almacenamiento de M-á-scara Desechables...'
+sku: 'B08DHC822P-es'
 tags: [  ]
 actualPrice: 10.97 EUR
 currency: EUR

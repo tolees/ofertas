@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YGNQ251-es Controlador Cepillo 24V 350W Controlador para Bicicletas...'
+sku: 'B07YGNQ251-es'
 tags: [  ]
 actualPrice: 14.69 EUR
 currency: EUR

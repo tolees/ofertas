@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TS9GZBX-es Gant Cocoville Zapatillas para Mujer Blanco...'
+sku: 'B07TS9GZBX-es'
 tags: [  ]
 actualPrice: 53.55 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KYRG6B0-es American Crew Tratamiento Revigorizante Del Cuero...'
+sku: 'B01KYRG6B0-es'
 tags: [  ]
 actualPrice: 10.95 EUR
 currency: EUR

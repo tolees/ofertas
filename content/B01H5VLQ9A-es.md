@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H5VLQ9A-es Cosmoplast Apósitos Impermeables - 20 Unidades'
+sku: 'B01H5VLQ9A-es'
 tags: [  ]
 actualPrice: 1.8 EUR
 currency: EUR

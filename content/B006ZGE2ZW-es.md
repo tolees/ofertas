@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006ZGE2ZW-es Rapesco Accesorios - Sacapuntas tradicional metalico de 2...'
+sku: 'B006ZGE2ZW-es'
 tags: [  ]
 actualPrice: 1.37 EUR
 currency: EUR

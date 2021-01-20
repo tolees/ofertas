@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X8GM42T-es KM-Gaming K-GM2 PMW3330 - Ratón óptico para Videojuegos 7...'
+sku: 'B07X8GM42T-es'
 tags: [  ]
 actualPrice: 28.82 EUR
 currency: EUR

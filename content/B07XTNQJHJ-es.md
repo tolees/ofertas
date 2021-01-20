@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XTNQJHJ-es GSOTTA Calcetines invisibles 6 paquetes calcetines para...'
+sku: 'B07XTNQJHJ-es'
 tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR

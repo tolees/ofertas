@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N8LXRF2-es Izod Performance Pique Polo Azul True Blue 426 L para Hombre'
+sku: 'B07N8LXRF2-es'
 tags: [  ]
 actualPrice: 14.87 EUR
 currency: EUR

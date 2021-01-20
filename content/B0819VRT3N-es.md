@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0819VRT3N-es Guess jeans HWSM74 76180 logo city'
+sku: 'B0819VRT3N-es'
 tags: [  ]
 actualPrice: 81.65 EUR
 currency: EUR

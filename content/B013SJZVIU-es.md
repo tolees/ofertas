@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013SJZVIU-es Manfrotto 290 Xtra - Kit trípode de 3 Secciones y rótula 3...'
+sku: 'B013SJZVIU-es'
 tags: [  ]
 actualPrice: 139.0 EUR
 currency: EUR

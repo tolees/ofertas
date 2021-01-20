@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RGLT5X3-es adidas Ultraboost S&l Zapatillas de Running para Hombre...'
+sku: 'B07RGLT5X3-es'
 tags: [  ]
 actualPrice: 99.95 EUR
 currency: EUR

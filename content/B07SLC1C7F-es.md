@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SLC1C7F-es New Balance Fresh Foam Evare Zapatillas para Correr de...'
+sku: 'B07SLC1C7F-es'
 tags: [  ]
 actualPrice: 45.53 EUR
 currency: EUR

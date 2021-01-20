@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077SHTYF4-es Exerz Cajón archivador de Oficina/Clasificador de Papel...'
+sku: 'B077SHTYF4-es'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

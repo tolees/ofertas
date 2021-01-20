@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K3C6GMG-es Legrand 050462 Bases y clavijas - Adaptador de enchufe con...'
+sku: 'B00K3C6GMG-es'
 tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR

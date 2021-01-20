@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GCCFHSB-es Tommee Tippee Juguete transpirable Henry el Hipopótamo'
+sku: 'B07GCCFHSB-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

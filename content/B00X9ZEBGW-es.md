@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X9ZEBGW-es NIVEA SUN After Sun Loción Hidratante 1 x 400 ml loción...'
+sku: 'B00X9ZEBGW-es'
 tags: [  ]
 actualPrice: 7.15 EUR
 currency: EUR

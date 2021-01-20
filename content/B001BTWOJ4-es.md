@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001BTWOJ4-es Fellowes Gel con Canal Health-V - Alfombrilla con...'
+sku: 'B001BTWOJ4-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

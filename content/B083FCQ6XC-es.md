@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083FCQ6XC-es Zapatillas de Running para Unisex Niños Gimnasia Ligero...'
+sku: 'B083FCQ6XC-es'
 tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR

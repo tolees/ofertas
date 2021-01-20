@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VCSNCDJ-es Bee Simulator [Versión Española]'
+sku: 'B07VCSNCDJ-es'
 tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR

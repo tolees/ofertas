@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PQHK8YC-es Piz Buin Allergy Protector Solar en Spray SPF 50+...'
+sku: 'B07PQHK8YC-es'
 tags: [  ]
 actualPrice: 10.55 EUR
 currency: EUR

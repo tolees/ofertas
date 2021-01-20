@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JQSQ5V6-es AUKEY Auriculares inalámbricos Auriculares Bluetooth 5 de...'
+sku: 'B07JQSQ5V6-es'
 tags: [  ]
 actualPrice: 65.42 EUR
 currency: EUR

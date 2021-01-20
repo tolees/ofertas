@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077HVKRH2-es G-STAR RAW Rovulc Denim Mid Sneakers Zapatillas para Mujer...'
+sku: 'B077HVKRH2-es'
 tags: [  ]
 actualPrice: 29.74 EUR
 currency: EUR

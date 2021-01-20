@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089Y2RHR9-es Clevefun - Cable USB C 1 m 2 unidades nailon resistente...'
+sku: 'B089Y2RHR9-es'
 tags: [  ]
 actualPrice: 9.8 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VLHTCHK-es Tommy Hilfiger Tommy Regular Polo Faded Indigo Medium para...'
+sku: 'B07VLHTCHK-es'
 tags: [  ]
 actualPrice: 48.0 EUR
 currency: EUR

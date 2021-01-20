@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LGCDKZB-es Mr. Tronic 305m Cable de Instalación Red Ethernet Bobina |...'
+sku: 'B07LGCDKZB-es'
 tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0759VT1ZN-es LG CineBeam PH30JG - Proyector con batería integrada hasta...'
+sku: 'B0759VT1ZN-es'
 tags: [  ]
 actualPrice: 319.98 EUR
 currency: EUR

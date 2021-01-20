@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HFAD518-es Merrell Moab 2 GTX Zapatillas de Senderismo para Hombre...'
+sku: 'B01HFAD518-es'
 tags: [  ]
 actualPrice: 64.95 EUR
 currency: EUR

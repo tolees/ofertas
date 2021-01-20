@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002DGTH4O-es Zwilling Twin Choice - Sartén acero inoxidable 20 cm'
+sku: 'B002DGTH4O-es'
 tags: [  ]
 actualPrice: 51.06 EUR
 currency: EUR

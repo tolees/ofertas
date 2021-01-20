@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FN5LBN4-es Rowenta Silence Force Cyclonic RO7691EA Aspirador sin...'
+sku: 'B07FN5LBN4-es'
 tags: [  ]
 actualPrice: 199.2 EUR
 currency: EUR

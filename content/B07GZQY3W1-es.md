@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GZQY3W1-es Refrigerador de aire acondicionado manómetro de presión...'
+sku: 'B07GZQY3W1-es'
 tags: [  ]
 actualPrice: 7.19 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081CZDCHS-es JOYUE Joyero Pequeña Joyero portátil de Viaje para Mujer...'
+sku: 'B081CZDCHS-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

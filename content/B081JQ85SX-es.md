@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081JQ85SX-es Justdodo Neopreno DSLR Lente de la cámara Protector Suave...'
+sku: 'B081JQ85SX-es'
 tags: [  ]
 actualPrice: 2.32 EUR
 currency: EUR

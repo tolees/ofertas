@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JZNBVND-es 28 Palms Tropical Hawaiian Print Halter Shift Dress...'
+sku: 'B07JZNBVND-es'
 tags: [  ]
 actualPrice: 4.4 EUR
 currency: EUR

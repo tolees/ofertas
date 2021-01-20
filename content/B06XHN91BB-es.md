@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XHN91BB-es Swimways 6038062 - Pelota de fútbol Luminosa reactorz...'
+sku: 'B06XHN91BB-es'
 tags: [  ]
 actualPrice: 8 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018LLLUXU-es Tommy Hilfiger New ALY Belt Cinturón Schwarz BLACK 090 105...'
+sku: 'B018LLLUXU-es'
 tags: [  ]
 actualPrice: 26.49 EUR
 currency: EUR

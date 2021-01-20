@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NVQNMVL-es H.Koenig MSX250 Cortafiambre 25 cm profesional precisión...'
+sku: 'B07NVQNMVL-es'
 tags: [  ]
 actualPrice: 349.0 EUR
 currency: EUR

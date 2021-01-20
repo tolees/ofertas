@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PDJ85TH-es Huawei Watch GT Elegant Smartwatch con Caja de Metal...'
+sku: 'B07PDJ85TH-es'
 tags: [  ]
 actualPrice: 94.7 EUR
 currency: EUR

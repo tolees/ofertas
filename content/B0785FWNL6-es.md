@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0785FWNL6-es Under Armour Tech 2.0. Camiseta masculina camiseta...'
+sku: 'B0785FWNL6-es'
 tags: [  ]
 actualPrice: 14.49 EUR
 currency: EUR

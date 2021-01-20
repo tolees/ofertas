@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZRJHGF-es Lacoste - Polo de Manga Corta para Mujer King pq8 . 34 EU'
+sku: 'B07RZRJHGF-es'
 tags: [  ]
 actualPrice: 59.98 EUR
 currency: EUR

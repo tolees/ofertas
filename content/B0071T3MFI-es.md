@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0071T3MFI-es Bosch Professional GST 90 E - Sierra de calar 650 W 500 -...'
+sku: 'B0071T3MFI-es'
 tags: [  ]
 actualPrice: 125.0 EUR
 currency: EUR

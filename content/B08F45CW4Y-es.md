@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08F45CW4Y-es Toallero de baño Organizador de baño Toallero de pared de...'
+sku: 'B08F45CW4Y-es'
 tags: [  ]
 actualPrice: 10.82 EUR
 currency: EUR

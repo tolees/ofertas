@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07641TGTQ-es Funko Pop!- Sonic: Dr. Eggman Figura de Vinilo 20149'
+sku: 'B07641TGTQ-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

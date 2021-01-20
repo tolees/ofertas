@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0063PYMFU-es Baby Art 34120085 - Marco para fotos recuerdo del primer...'
+sku: 'B0063PYMFU-es'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

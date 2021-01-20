@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2LDQXG-es adidas Galaxy 4 Zapatillas de Running para Mujer Negro...'
+sku: 'B07K2LDQXG-es'
 tags: [  ]
 actualPrice: 34.95 EUR
 currency: EUR

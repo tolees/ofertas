@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088D8CGS9-es Younsea Correa Galaxy Watch Active 2 Correas de Acero...'
+sku: 'B088D8CGS9-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08D7H2WS6-es Luckywing Termómetro de Frente，Termómetro Infrarrojos...'
+sku: 'B08D7H2WS6-es'
 tags: [  ]
 actualPrice: 8.93 EUR
 currency: EUR

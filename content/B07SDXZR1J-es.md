@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SDXZR1J-es PUMA X-Ray Zapatillas Unisex-Adulto Azul Royal White/High...'
+sku: 'B07SDXZR1J-es'
 tags: [  ]
 actualPrice: 38.01 EUR
 currency: EUR

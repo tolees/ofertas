@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N6NXEY7-es Sony HT-ST5000 - Barra de Sonido 7.1.2 Canales 800 W Dolby...'
+sku: 'B01N6NXEY7-es'
 tags: [  ]
 actualPrice: 999.0 EUR
 currency: EUR

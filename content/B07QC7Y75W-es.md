@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QC7Y75W-es Marvel Comic - Equipaje Infantil Blanco 55 cm'
+sku: 'B07QC7Y75W-es'
 tags: [  ]
 actualPrice: 62.38 EUR
 currency: EUR

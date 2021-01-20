@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STY29SP-es LEADSTAR Funda para Samsung Galaxy Tab A 10.1 2019 Ligero...'
+sku: 'B07STY29SP-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

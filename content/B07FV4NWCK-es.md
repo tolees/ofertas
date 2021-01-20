@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FV4NWCK-es Asmodee- Colt Express: Bandits Pack Django Expansion en...'
+sku: 'B07FV4NWCK-es'
 tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR

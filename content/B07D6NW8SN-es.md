@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D6NW8SN-es Kingston SUV500/1920G - Unidad de Disco Duro SSD 1920 GB...'
+sku: 'B07D6NW8SN-es'
 tags: [  ]
 actualPrice: 246.54 EUR
 currency: EUR

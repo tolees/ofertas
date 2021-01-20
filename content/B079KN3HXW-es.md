@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079KN3HXW-es Polly Pocket Cofre refugio de nieve muñeca con accesorios...'
+sku: 'B079KN3HXW-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

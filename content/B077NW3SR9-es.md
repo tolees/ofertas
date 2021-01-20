@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077NW3SR9-es AUSTOR 16 Piezas Ganchos de Pared Adhesivo Ganchos de...'
+sku: 'B077NW3SR9-es'
 tags: [  ]
 actualPrice: 10.09 EUR
 currency: EUR

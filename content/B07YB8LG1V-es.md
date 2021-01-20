@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YB8LG1V-es Relaxdays Plancha Cocina Lisa y con Rayas Grill Eléctrico...'
+sku: 'B07YB8LG1V-es'
 tags: [  ]
 actualPrice: 61.73 EUR
 currency: EUR

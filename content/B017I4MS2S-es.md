@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017I4MS2S-es HOMCOM Puerta Corredera 205x77.5cm Puertas Correderas...'
+sku: 'B017I4MS2S-es'
 tags: [  ]
 actualPrice: 169.99 EUR
 currency: EUR

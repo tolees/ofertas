@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WHRZFM7-es GC Pro Cargador para Portátil ASUS F553 F553M F553MA R540L...'
+sku: 'B07WHRZFM7-es'
 tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078T57KVV-es adidas X_PLR J Zapatillas Unisex Niños Blanco Footwear...'
+sku: 'B078T57KVV-es'
 tags: [  ]
 actualPrice: 38.15 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZKSR35-es Salomon XA Pro 3D GTX Zapatillas de Trail Running para...'
+sku: 'B07CZKSR35-es'
 tags: [  ]
 actualPrice: 101.95 EUR
 currency: EUR

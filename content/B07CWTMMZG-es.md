@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CWTMMZG-es Font Vella Levité Agua Mineral con zumo de limón - Pack 12...'
+sku: 'B07CWTMMZG-es'
 tags: [  ]
 actualPrice: 5.1 EUR
 currency: EUR

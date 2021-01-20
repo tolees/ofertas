@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003KT3TEM-es Astor Eyeartist Liner Longlasting Eyeliner Líquido Tono...'
+sku: 'B003KT3TEM-es'
 tags: [  ]
 actualPrice: 3.85 EUR
 currency: EUR

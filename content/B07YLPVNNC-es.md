@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YLPVNNC-es Cecotec Cafetera Express con Manómetro Cafelizzia 790...'
+sku: 'B07YLPVNNC-es'
 tags: [  ]
 actualPrice: 84.9 EUR
 currency: EUR

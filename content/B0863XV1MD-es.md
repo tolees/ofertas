@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0863XV1MD-es MomMed Oxímetro de Pulso Oxímetro digital de pulso digital...'
+sku: 'B0863XV1MD-es'
 tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TP26F5K-es VGEBY1 Pelota de Tenis Entrenador de Espalda Pelota de...'
+sku: 'B07TP26F5K-es'
 tags: [  ]
 actualPrice: 6.59 EUR
 currency: EUR

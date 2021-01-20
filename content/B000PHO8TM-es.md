@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000PHO8TM-es HP C9464A - Cartucho de tinta 775 ml Negro'
+sku: 'B000PHO8TM-es'
 tags: [  ]
 actualPrice: 181.95 EUR
 currency: EUR

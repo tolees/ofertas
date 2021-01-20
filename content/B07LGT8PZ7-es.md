@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LGT8PZ7-es Decodificador TDT Terrestre - Leelbox Digital TV HD...'
+sku: 'B07LGT8PZ7-es'
 tags: [  ]
 actualPrice: 22.49 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FQX2F7J-es Clarks Step Urban Mix Zapatillas para Hombre Negro Black...'
+sku: 'B07FQX2F7J-es'
 tags: [  ]
 actualPrice: 34.95 EUR
 currency: EUR

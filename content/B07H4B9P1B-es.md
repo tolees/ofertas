@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H4B9P1B-es DINOKA Cadena de Nieve 6er Universal Cadenas Coche...'
+sku: 'B07H4B9P1B-es'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

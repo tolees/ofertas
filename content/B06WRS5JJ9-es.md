@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WRS5JJ9-es Corsair Force LE200 - Unidad de estado sólido de TLC NY...'
+sku: 'B06WRS5JJ9-es'
 tags: [  ]
 actualPrice: 64.94 EUR
 currency: EUR

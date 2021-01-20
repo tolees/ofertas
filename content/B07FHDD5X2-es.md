@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FHDD5X2-es Salomon XA Gap Gorra para Entrenamientos Protección UV...'
+sku: 'B07FHDD5X2-es'
 tags: [  ]
 actualPrice: 16.49 EUR
 currency: EUR

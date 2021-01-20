@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TQOLNXO-es Nuby ID5397AQUA - Alimentador antiahogo con redecilla...'
+sku: 'B00TQOLNXO-es'
 tags: [  ]
 actualPrice: 4.02 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZH5R5LP-es Blevit Plus Blevit Plus Papilla 8 Cereales Y Fruta Para...'
+sku: 'B07ZH5R5LP-es'
 tags: [  ]
 actualPrice: 6.1 EUR
 currency: EUR

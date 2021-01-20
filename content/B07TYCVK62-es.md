@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TYCVK62-es Bearbelly Gigante súper pene Ventosa simulación pene Falso...'
+sku: 'B07TYCVK62-es'
 tags: [  ]
 actualPrice: 6.98 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ARYJCG6-es Einhell Expert Taladro Power X-Change TE-CD 18/2 Li 18V...'
+sku: 'B01ARYJCG6-es'
 tags: [  ]
 actualPrice: 89.95 EUR
 currency: EUR

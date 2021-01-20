@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0714DHKPW-es Under Armour Ua Ultimate Speed Zapatillas de deporte...'
+sku: 'B0714DHKPW-es'
 tags: [  ]
 actualPrice: 64.9 EUR
 currency: EUR

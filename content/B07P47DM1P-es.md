@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P47DM1P-es Samsung Space Monitor de 27 WQHD con Marcos Estrechos 2560...'
+sku: 'B07P47DM1P-es'
 tags: [  ]
 actualPrice: 299.0 EUR
 currency: EUR

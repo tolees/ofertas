@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DX4DJRB-es Caterpillar Prepense Botas Chukka para Hombre Marrón Sand...'
+sku: 'B07DX4DJRB-es'
 tags: [  ]
 actualPrice: 23.73 EUR
 currency: EUR

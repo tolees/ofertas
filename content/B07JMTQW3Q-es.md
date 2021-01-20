@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JMTQW3Q-es Ghassoul Rhassoul Gránulos 800g | Arcilla roja marroquí...'
+sku: 'B07JMTQW3Q-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

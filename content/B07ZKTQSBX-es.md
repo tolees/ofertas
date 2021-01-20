@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZKTQSBX-es Lixada Cuerda de Saltar Ajustable—Manijas de Espuma Suave...'
+sku: 'B07ZKTQSBX-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

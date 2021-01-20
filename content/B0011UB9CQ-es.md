@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0011UB9CQ-es Beyerdynamic DT 990 PRO - Auriculares de Estudio'
+sku: 'B0011UB9CQ-es'
 tags: [  ]
 actualPrice: 118.0 EUR
 currency: EUR

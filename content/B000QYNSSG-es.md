@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000QYNSSG-es Garcima 5020073 Paellera Valenciana de 60 cm. Pulida para...'
+sku: 'B000QYNSSG-es'
 tags: [  ]
 actualPrice: 15.71 EUR
 currency: EUR

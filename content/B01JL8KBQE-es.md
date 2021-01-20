@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JL8KBQE-es POP! Bobble - Marvel: Doctor Strange: Kaecilius'
+sku: 'B01JL8KBQE-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

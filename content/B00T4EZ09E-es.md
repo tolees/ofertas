@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00T4EZ09E-es Philips HD7435 Cafetera Goteo Color Metal 700 W 6 Cups...'
+sku: 'B00T4EZ09E-es'
 tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR

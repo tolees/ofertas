@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJ2C2GK-es New Balance Fresh Foam Cruz v2 Silent Rave Pack Zapatillas...'
+sku: 'B07DJ2C2GK-es'
 tags: [  ]
 actualPrice: 45.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XU8KKUE-es Burberry My Burberry Edt Vapo 90 Ml 1 Unidad 90 g'
+sku: 'B00XU8KKUE-es'
 tags: [  ]
 actualPrice: 51.99 EUR
 currency: EUR

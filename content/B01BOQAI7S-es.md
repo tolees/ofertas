@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BOQAI7S-es 5 Pcs Broca Escalonada Cobalt Múltiples Orificios...'
+sku: 'B01BOQAI7S-es'
 tags: [  ]
 actualPrice: 8.39 EUR
 currency: EUR

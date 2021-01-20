@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1H9JYD-es Angelady Timeline Brazaletes de Oro Rosa Pulseras para...'
+sku: 'B07N1H9JYD-es'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

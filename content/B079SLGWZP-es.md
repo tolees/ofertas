@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079SLGWZP-es NUNCAD Anillo Mujer Hombre Unisex de Tungsteno con Chapado...'
+sku: 'B079SLGWZP-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

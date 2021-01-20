@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SL2YV12-es adidas SPT 3s Short Pantalones Cortos de Deporte Hombre...'
+sku: 'B07SL2YV12-es'
 tags: [  ]
 actualPrice: 20.97 EUR
 currency: EUR

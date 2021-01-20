@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FVKSRWQ-es Lotus Reloj para de Cuarzo con Correa en Acero Inoxidable...'
+sku: 'B07FVKSRWQ-es'
 tags: [  ]
 actualPrice: 78.19 EUR
 currency: EUR

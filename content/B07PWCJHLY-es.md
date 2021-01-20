@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PWCJHLY-es Casio Reloj Hombre de Digital con Correa en Resina...'
+sku: 'B07PWCJHLY-es'
 tags: [  ]
 actualPrice: 79.0 EUR
 currency: EUR

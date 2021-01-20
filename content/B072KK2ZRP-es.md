@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072KK2ZRP-es HP Spectre Bluetooth 500 Bluetooth Blue LED 1600DPI...'
+sku: 'B072KK2ZRP-es'
 tags: [  ]
 actualPrice: 36.85 EUR
 currency: EUR

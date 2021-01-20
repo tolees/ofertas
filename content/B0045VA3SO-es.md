@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0045VA3SO-es Reductor Silla Auto Invierno/Verano'
+sku: 'B0045VA3SO-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

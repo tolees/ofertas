@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CZMSYZS-es Buscando a Dory - Disfraza a Dory Bandai 36690'
+sku: 'B01CZMSYZS-es'
 tags: [  ]
 actualPrice: 9.27 EUR
 currency: EUR

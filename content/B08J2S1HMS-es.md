@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08J2S1HMS-es Bluelucon lenceria mujer 4 Cajas De Almacenamiento Cajas...'
+sku: 'B08J2S1HMS-es'
 tags: [  ]
 actualPrice: 2.99 EUR
 currency: EUR

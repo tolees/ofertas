@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FYFDBJ7-es Champion The Absolute Workout Sujetador Deportivo...'
+sku: 'B07FYFDBJ7-es'
 tags: [  ]
 actualPrice: 14.09 EUR
 currency: EUR

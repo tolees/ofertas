@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XAOFHRO-es Mousehouse Gifts Perro de Madera para Arrastrar con...'
+sku: 'B00XAOFHRO-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

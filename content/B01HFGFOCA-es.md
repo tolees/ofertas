@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HFGFOCA-es Columbia Vapor Vent Zapatillas de Senderismo para Mujer...'
+sku: 'B01HFGFOCA-es'
 tags: [  ]
 actualPrice: 31.17 EUR
 currency: EUR

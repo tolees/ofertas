@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NVMSJT8-es Mantona 20142 - Bolsa para cámara Color Rojo'
+sku: 'B00NVMSJT8-es'
 tags: [  ]
 actualPrice: 16.55 EUR
 currency: EUR

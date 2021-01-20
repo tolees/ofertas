@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YXK8Q1R-es BRIKSMAX Kit de Iluminación Led para Lego La casa del...'
+sku: 'B07YXK8Q1R-es'
 tags: [  ]
 actualPrice: 58.99 EUR
 currency: EUR

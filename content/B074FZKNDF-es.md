@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074FZKNDF-es Revell Maqueta Wars Imperial Star Destroyer Kit Modelo...'
+sku: 'B074FZKNDF-es'
 tags: [  ]
 actualPrice: 78.25 EUR
 currency: EUR

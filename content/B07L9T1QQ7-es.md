@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9T1QQ7-es Lacoste Carnaby EVO 419 2 SFA Zapatillas para Mujer Blanco...'
+sku: 'B07L9T1QQ7-es'
 tags: [  ]
 actualPrice: 47.33 EUR
 currency: EUR

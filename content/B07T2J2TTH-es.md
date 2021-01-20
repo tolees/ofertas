@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T2J2TTH-es Te-Rich Bandas Elásticas Gluteos para Fitness Banda de...'
+sku: 'B07T2J2TTH-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002FU56TI-es Rubies - Disfraz infantil de bruja color púrpura 1-2 años...'
+sku: 'B002FU56TI-es'
 tags: [  ]
 actualPrice: 5.0 EUR
 currency: EUR

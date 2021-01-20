@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KCQLPHY-es MINI BOX Mini van Maped Creativ 907017'
+sku: 'B07KCQLPHY-es'
 tags: [  ]
 actualPrice: 5.5 EUR
 currency: EUR

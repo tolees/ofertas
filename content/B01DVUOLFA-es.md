@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DVUOLFA-es NZI 150262G860 Capital Visor Graphics Bloom Casco de Moto...'
+sku: 'B01DVUOLFA-es'
 tags: [  ]
 actualPrice: 43.33 EUR
 currency: EUR

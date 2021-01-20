@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071VRG7P1-es The Binding Of Isaac: Afterbirth'
+sku: 'B071VRG7P1-es'
 tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR

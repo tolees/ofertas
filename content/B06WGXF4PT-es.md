@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WGXF4PT-es Vans Herren Colorblock Tee T - Shirt Schwarz...'
+sku: 'B06WGXF4PT-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

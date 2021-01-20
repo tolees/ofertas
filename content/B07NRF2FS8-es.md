@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NRF2FS8-es SYOSS - Espuma Rizos Flex - Rizos Perfectamente Definidos...'
+sku: 'B07NRF2FS8-es'
 tags: [  ]
 actualPrice: 5.0 EUR
 currency: EUR

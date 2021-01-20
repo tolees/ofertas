@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H3XYK78-es Fujifilm X-T3 - Cámara de objetivo intercambiable sin...'
+sku: 'B07H3XYK78-es'
 tags: [  ]
 actualPrice: 1099.9 EUR
 currency: EUR

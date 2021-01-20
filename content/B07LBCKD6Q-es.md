@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBCKD6Q-es Kappa Cammy Kids Botas Unisex Niños Grey Pink 1622 31 EU'
+sku: 'B07LBCKD6Q-es'
 tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR

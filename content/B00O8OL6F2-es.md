@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00O8OL6F2-es Manguitos Hinchables Bestway Minnie Mouse'
+sku: 'B00O8OL6F2-es'
 tags: [  ]
 actualPrice: 3.79 EUR
 currency: EUR

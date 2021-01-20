@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0786W1XXQ-es adidas Gazelle Zapatillas de deporte Unisex niños Rojo...'
+sku: 'B0786W1XXQ-es'
 tags: [  ]
 actualPrice: 40.0 EUR
 currency: EUR

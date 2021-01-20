@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001RSVPEO-es Reebok Classic Leather Zapatillas de Running Niños Blanco...'
+sku: 'B001RSVPEO-es'
 tags: [  ]
 actualPrice: 38.0 EUR
 currency: EUR

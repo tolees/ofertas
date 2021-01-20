@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00N5TXTQK-es Bausch & Lomb - PureVision 2 Multifocales - Lentes de...'
+sku: 'B00N5TXTQK-es'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HHTZVMV-es ammoon Soporte Trípode para Micrófono Mini Plegable Mesa...'
+sku: 'B07HHTZVMV-es'
 tags: [  ]
 actualPrice: 14.39 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MU35ARE-es Reebok Club C 85 Zapatillas Deportivas para Interior...'
+sku: 'B01MU35ARE-es'
 tags: [  ]
 actualPrice: 55.99 EUR
 currency: EUR

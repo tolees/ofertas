@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BJHDO42-es POSTQUAM - Mascarilla facial calmante para pieles normales'
+sku: 'B00BJHDO42-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

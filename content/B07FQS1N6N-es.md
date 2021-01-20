@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FQS1N6N-es Clarks Un Abode Strap Mocasines para Hombre Negro Black...'
+sku: 'B07FQS1N6N-es'
 tags: [  ]
 actualPrice: 55 EUR
 currency: EUR

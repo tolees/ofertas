@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LY6GUPR-es Petdentist polvo probiótico para perros y gatos con 17...'
+sku: 'B01LY6GUPR-es'
 tags: [  ]
 actualPrice: 36.36 EUR
 currency: EUR

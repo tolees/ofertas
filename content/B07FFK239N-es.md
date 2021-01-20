@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FFK239N-es Amazon Essentials Studio Relaxed-Fit Crewneck T-Shirt...'
+sku: 'B07FFK239N-es'
 tags: [  ]
 actualPrice: 8.76 EUR
 currency: EUR

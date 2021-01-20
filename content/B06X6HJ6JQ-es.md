@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X6HJ6JQ-es Puma Reloj Digital para Hombre de Cuarzo con Correa en...'
+sku: 'B06X6HJ6JQ-es'
 tags: [  ]
 actualPrice: 30.95 EUR
 currency: EUR

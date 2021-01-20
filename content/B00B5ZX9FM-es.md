@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00B5ZX9FM-es Audio-Technica AT2020USB - Micrófono Studio 20-20000 Hz...'
+sku: 'B00B5ZX9FM-es'
 tags: [  ]
 actualPrice: 89.0 EUR
 currency: EUR

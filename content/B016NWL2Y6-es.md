@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016NWL2Y6-es Victoria s Secret Secret Charm Fragrance Mist 250 ml - 250 ml'
+sku: 'B016NWL2Y6-es'
 tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR

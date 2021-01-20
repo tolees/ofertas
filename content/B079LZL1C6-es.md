@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079LZL1C6-es Disney El Amor Incondicional de Una Madre-Dumbo Figurina...'
+sku: 'B079LZL1C6-es'
 tags: [  ]
 actualPrice: 42.04 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MFH5W4J-es Chanel Chance Eau Tendre Edp Vapo 50 Ml - 50 ml'
+sku: 'B07MFH5W4J-es'
 tags: [  ]
 actualPrice: 75.2 EUR
 currency: EUR

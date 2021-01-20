@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VFLR4XS-es Optimum Nutrition Optimum Protein Shakes Vanilla Listo a...'
+sku: 'B07VFLR4XS-es'
 tags: [  ]
 actualPrice: 18.65 EUR
 currency: EUR

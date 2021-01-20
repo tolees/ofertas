@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DV7KCGQ-es Columbia Drainmaker™ IV Zapatillas para Mujer Rojo...'
+sku: 'B07DV7KCGQ-es'
 tags: [  ]
 actualPrice: 26.3 EUR
 currency: EUR

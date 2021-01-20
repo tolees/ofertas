@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DVKVKJK-es New Balance W890V7 Zapatillas de Running para Mujer Verde...'
+sku: 'B07DVKVKJK-es'
 tags: [  ]
 actualPrice: 29.97 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SGCNRKC-es Asics Lyte Classic Zapatillas para Correr para Hombre...'
+sku: 'B07SGCNRKC-es'
 tags: [  ]
 actualPrice: 34.86 EUR
 currency: EUR

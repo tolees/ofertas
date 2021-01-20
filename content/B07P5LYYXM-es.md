@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P5LYYXM-es Morgan Pull Fin Col roulé MENTOS Pullover Sweater Rojo...'
+sku: 'B07P5LYYXM-es'
 tags: [  ]
 actualPrice: 13.06 EUR
 currency: EUR

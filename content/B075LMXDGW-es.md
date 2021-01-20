@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075LMXDGW-es adidas CE8097 Balón Hombre Negro S'
+sku: 'B075LMXDGW-es'
 tags: [  ]
 actualPrice: 14.26 EUR
 currency: EUR

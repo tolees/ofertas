@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2NHF24-es Adidas VL Court 2.0 K Zapatillas de Deporte Unisex Adulto...'
+sku: 'B07K2NHF24-es'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

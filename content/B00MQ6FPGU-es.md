@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MQ6FPGU-es Sangean WFR-29C - Radiodespertador negro'
+sku: 'B00MQ6FPGU-es'
 tags: [  ]
 actualPrice: 199.99 EUR
 currency: EUR

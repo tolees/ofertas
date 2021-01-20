@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0143IIP4W-es SanDisk SDSDUNC-064G-GN6IN Ultra Tarjeta de Memoria SDXC...'
+sku: 'B0143IIP4W-es'
 tags: [  ]
 actualPrice: 12.49 EUR
 currency: EUR

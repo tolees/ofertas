@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RKXZLWH-es adidas Gazelle Zapatillas para Hombre Azul Hi/Res...'
+sku: 'B07RKXZLWH-es'
 tags: [  ]
 actualPrice: 47.48 EUR
 currency: EUR

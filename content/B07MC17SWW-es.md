@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MC17SWW-es HKT by Hackett Hkt SS Str Polo Ink 591 Large para Hombre'
+sku: 'B07MC17SWW-es'
 tags: [  ]
 actualPrice: 17.04 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018LLP9O6-es Tommy Hilfiger New Danny Belt Cinturón Azul NIGHT SKY 421...'
+sku: 'B018LLP9O6-es'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

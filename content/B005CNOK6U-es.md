@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005CNOK6U-es Premier Housewares Portarrollos Negro Centimeters'
+sku: 'B005CNOK6U-es'
 tags: [  ]
 actualPrice: 11.65 EUR
 currency: EUR

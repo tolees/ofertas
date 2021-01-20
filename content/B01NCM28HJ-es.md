@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NCM28HJ-es L Oréal Paris Barra de labios líquida Infalible Lip Paint...'
+sku: 'B01NCM28HJ-es'
 tags: [  ]
 actualPrice: 5.52 EUR
 currency: EUR

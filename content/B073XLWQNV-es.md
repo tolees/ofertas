@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073XLWQNV-es Youngdo 1 Par Muñequeras Deportivas Ajustables más Anchas...'
+sku: 'B073XLWQNV-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

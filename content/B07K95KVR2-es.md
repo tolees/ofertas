@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K95KVR2-es Motorola Lifestyle VerveLoop200 - Auriculares...'
+sku: 'B07K95KVR2-es'
 tags: [  ]
 actualPrice: 10.52 EUR
 currency: EUR

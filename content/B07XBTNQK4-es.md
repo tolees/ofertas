@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XBTNQK4-es Mr. Tronic 10m Cable de Red Ethernet Latiguillo | CAT6...'
+sku: 'B07XBTNQK4-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

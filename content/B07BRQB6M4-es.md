@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BRQB6M4-es Asics Kanmei 2 Zapatillas de Running para Mujer Negro...'
+sku: 'B07BRQB6M4-es'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

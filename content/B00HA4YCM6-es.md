@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HA4YCM6-es Rubie s 620019-L Avengers - Disfraz Capitán América para...'
+sku: 'B00HA4YCM6-es'
 tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR

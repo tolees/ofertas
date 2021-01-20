@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B010GTJ38E-es Timex Expedition - Reloj análogico de cuarzo con correa de...'
+sku: 'B010GTJ38E-es'
 tags: [  ]
 actualPrice: 47.4 EUR
 currency: EUR

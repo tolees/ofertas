@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0007CO8XQ-es Converse Chuck Taylor All Star Hi Zapatillas Altas Unisex...'
+sku: 'B0007CO8XQ-es'
 tags: [  ]
 actualPrice: 21.23 EUR
 currency: EUR

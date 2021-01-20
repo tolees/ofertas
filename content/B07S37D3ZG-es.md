@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S37D3ZG-es Gillette Venus Swirl - Set Maquinilla para Mujer con 2...'
+sku: 'B07S37D3ZG-es'
 tags: [  ]
 actualPrice: 20.75 EUR
 currency: EUR

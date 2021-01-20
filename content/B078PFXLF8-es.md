@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078PFXLF8-es ammoon Kit Herramientas de Guitarra Mantenimiento de...'
+sku: 'B078PFXLF8-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PM99YTC-es BRIKSMAX Kit de Iluminación Led para Mini Cooper-...'
+sku: 'B07PM99YTC-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

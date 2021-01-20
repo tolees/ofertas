@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081RBK1N9-es Pawhut Cueva Gato Cama para Gato de Forma de Cáscara Semi-...'
+sku: 'B081RBK1N9-es'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

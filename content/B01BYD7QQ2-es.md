@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BYD7QQ2-es Oral-B Genius 9000N Cepillo de Dientes Eléctrico con...'
+sku: 'B01BYD7QQ2-es'
 tags: [  ]
 actualPrice: 119.9 EUR
 currency: EUR

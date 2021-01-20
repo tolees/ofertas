@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B3FTQY6-es Aire Acondicionado Portátil Mini Enfriador de Aire con 3...'
+sku: 'B08B3FTQY6-es'
 tags: [  ]
 actualPrice: 42.98 EUR
 currency: EUR

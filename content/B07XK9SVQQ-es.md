@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XK9SVQQ-es Inventor EVA II PRO 16 litros/día Deshumidificador Secador...'
+sku: 'B07XK9SVQQ-es'
 tags: [  ]
 actualPrice: 109.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HX5MX9Q-es Nox AT10 Gold Palas Adultos Unisex Negro 375'
+sku: 'B07HX5MX9Q-es'
 tags: [  ]
 actualPrice: 119.0 EUR
 currency: EUR

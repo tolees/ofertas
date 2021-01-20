@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJJT1DH-es Charles Wilson Juego de Toallas 100% Algodón 500g/m² 2...'
+sku: 'B07TJJT1DH-es'
 tags: [  ]
 actualPrice: 7.95 EUR
 currency: EUR

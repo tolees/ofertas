@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XQ1RDM7-es Moza Mini C - Estabilizador portátil para Smartphones...'
+sku: 'B06XQ1RDM7-es'
 tags: [  ]
 actualPrice: 89.05 EUR
 currency: EUR

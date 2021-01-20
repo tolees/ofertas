@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HG5STZY-es Panel Solar Fuente de Alimentación Compatible con Cámara...'
+sku: 'B07HG5STZY-es'
 tags: [  ]
 actualPrice: 35.02 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XHZ54F7-es Minnie Mouse- Centro Comercial con luz y Sonidos 40 x 29...'
+sku: 'B06XHZ54F7-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

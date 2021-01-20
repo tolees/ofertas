@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081WQZHLT-es Agenda Esther Gili 2020 Fondo Marino'
+sku: 'B081WQZHLT-es'
 tags: [  ]
 actualPrice: 12.95 EUR
 currency: EUR

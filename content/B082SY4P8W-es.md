@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082SY4P8W-es Cable Ethernet Plano Cable LAN RJ45 Redes LAN Cables...'
+sku: 'B082SY4P8W-es'
 tags: [  ]
 actualPrice: 0.01 EUR
 currency: EUR

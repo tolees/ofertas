@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GWY9K36-es Philips Avent SCF045/27-2 - Tetinas natural flujo variable...'
+sku: 'B07GWY9K36-es'
 tags: [  ]
 actualPrice: 4.79 EUR
 currency: EUR

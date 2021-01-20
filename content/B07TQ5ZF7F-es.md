@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TQ5ZF7F-es Bammax Parque Infantil Bebe Extensible Parque de Juegos...'
+sku: 'B07TQ5ZF7F-es'
 tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR

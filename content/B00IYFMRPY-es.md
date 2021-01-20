@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IYFMRPY-es Princess 112380 Deshidratador de alimentos seis niveles...'
+sku: 'B00IYFMRPY-es'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

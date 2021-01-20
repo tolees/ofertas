@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MNZY759-es Nike Air MAX Infuriate III Low Zapatillas de Baloncesto...'
+sku: 'B07MNZY759-es'
 tags: [  ]
 actualPrice: 66.95 EUR
 currency: EUR

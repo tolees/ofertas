@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ALCE9TY-es Forestry 2017'
+sku: 'B01ALCE9TY-es'
 tags: [  ]
 actualPrice: 18.67 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJCK7DX-es Lacoste Carnaby EVO 119 7 SMA Zapatillas para Hombre Azul...'
+sku: 'B07NJCK7DX-es'
 tags: [  ]
 actualPrice: 59.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CAUJGRG-es Estee Lauder 53381 - Desmaquillante'
+sku: 'B00CAUJGRG-es'
 tags: [  ]
 actualPrice: 17.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BNMSWV2-es Philips Satinelle Advanced BRE620/00 - Depiladora Wet &...'
+sku: 'B01BNMSWV2-es'
 tags: [  ]
 actualPrice: 47.99 EUR
 currency: EUR

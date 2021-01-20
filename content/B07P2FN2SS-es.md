@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P2FN2SS-es Superdry Core Sport Graphic tee Top de Deporte Azul Dark...'
+sku: 'B07P2FN2SS-es'
 tags: [  ]
 actualPrice: 10.26 EUR
 currency: EUR

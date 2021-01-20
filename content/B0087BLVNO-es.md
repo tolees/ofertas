@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0087BLVNO-es Zeno Watch Basel 6569-a1 - Reloj analógico automático para...'
+sku: 'B0087BLVNO-es'
 tags: [  ]
 actualPrice: 341.94 EUR
 currency: EUR

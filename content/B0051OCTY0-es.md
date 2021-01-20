@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0051OCTY0-es Westinghouse Lighting Vegas Ventilador de Techo E27...'
+sku: 'B0051OCTY0-es'
 tags: [  ]
 actualPrice: 59.56 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M2UURKQ-es Amzdeal Caja de Fotografía Caja de Luz Portátil 50 x 50 x...'
+sku: 'B01M2UURKQ-es'
 tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR

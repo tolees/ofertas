@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QGWYL1Y-es Funko Pop Bobble Vinyle Marvel: Holiday-Groot Figura...'
+sku: 'B07QGWYL1Y-es'
 tags: [  ]
 actualPrice: 10.55 EUR
 currency: EUR

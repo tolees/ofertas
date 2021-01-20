@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YFCTWR5-es TROMEE Bastones de Senderismo'
+sku: 'B07YFCTWR5-es'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

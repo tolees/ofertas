@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FQMM737-es Clarks Landry Edge Mocasines para Hombre Negro Black...'
+sku: 'B07FQMM737-es'
 tags: [  ]
 actualPrice: 38.57 EUR
 currency: EUR

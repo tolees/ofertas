@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SFBPSBH-es Helly Hansen Daybreaker 1/2 Zip Fleece Forro Polar Hombre...'
+sku: 'B07SFBPSBH-es'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

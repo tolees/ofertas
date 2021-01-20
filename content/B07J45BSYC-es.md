@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J45BSYC-es Triumph Amourette Charm N Sujetador sin Aros Blanco White...'
+sku: 'B07J45BSYC-es'
 tags: [  ]
 actualPrice: 24.8 EUR
 currency: EUR

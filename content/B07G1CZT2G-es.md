@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G1CZT2G-es AUNA Connect System Equipo estéreo - Equipo de música...'
+sku: 'B07G1CZT2G-es'
 tags: [  ]
 actualPrice: 159.99 EUR
 currency: EUR

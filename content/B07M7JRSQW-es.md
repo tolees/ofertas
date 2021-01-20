@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M7JRSQW-es Te-Rich 2020 Wake Up Light Luz Despertador Simulación del...'
+sku: 'B07M7JRSQW-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

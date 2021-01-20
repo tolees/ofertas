@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081RJWHB4-es Dinosaurio Luz Nocturna Infantil Juguete Dinosaurio para...'
+sku: 'B081RJWHB4-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

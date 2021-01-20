@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BBLVFDD-es PUTORSEN® Soporte de Escritorio para Monitor de Las...'
+sku: 'B07BBLVFDD-es'
 tags: [  ]
 actualPrice: 42.38 EUR
 currency: EUR

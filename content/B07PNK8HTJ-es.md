@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PNK8HTJ-es New Balance 373 Zapatillas para Mujer Gris Grey Grey 35 EU'
+sku: 'B07PNK8HTJ-es'
 tags: [  ]
 actualPrice: 35.51 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074ZRMYKM-es Prime Pantalones de Trabajo para Hombre BLJ-02 BL001 32W X...'
+sku: 'B074ZRMYKM-es'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

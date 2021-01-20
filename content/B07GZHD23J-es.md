@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GZHD23J-es Peluca para disfraz de Capitán América con soldado de...'
+sku: 'B07GZHD23J-es'
 tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR

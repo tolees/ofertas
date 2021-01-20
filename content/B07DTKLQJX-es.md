@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DTKLQJX-es GREENCUT GS400L - Motosierra de batería de litio 40V para...'
+sku: 'B07DTKLQJX-es'
 tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR

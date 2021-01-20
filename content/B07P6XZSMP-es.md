@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P6XZSMP-es DANISH ENDURANCE Calzoncillos Bóxer de Deporte Pack de 2...'
+sku: 'B07P6XZSMP-es'
 tags: [  ]
 actualPrice: 15.95 EUR
 currency: EUR

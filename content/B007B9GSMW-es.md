@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007B9GSMW-es Ulysse - Juego de Tabla de multiplicar 10x10'
+sku: 'B007B9GSMW-es'
 tags: [  ]
 actualPrice: 10.5 EUR
 currency: EUR

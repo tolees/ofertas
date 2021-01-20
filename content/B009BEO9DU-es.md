@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009BEO9DU-es Fossil Reloj Analógico para Mujer de Cuarzo con Correa en...'
+sku: 'B009BEO9DU-es'
 tags: [  ]
 actualPrice: 68.0 EUR
 currency: EUR

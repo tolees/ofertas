@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0055TBLXG-es L Oréal Paris Volumissime Carbone X5 Máscara de Pestañas...'
+sku: 'B0055TBLXG-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

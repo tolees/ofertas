@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081GZ1XM6-es int!rend Caja de Regalo | Caja de Sorpresa Personalizada 5...'
+sku: 'B081GZ1XM6-es'
 tags: [  ]
 actualPrice: 14.9 EUR
 currency: EUR

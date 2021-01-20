@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000NM0MR6-es Casio Reloj Multiesfera para Mujer de Cuarzo con Correa en...'
+sku: 'B000NM0MR6-es'
 tags: [  ]
 actualPrice: 48.99 EUR
 currency: EUR

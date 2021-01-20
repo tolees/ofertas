@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WWM6S2R-es Mata insectos sobremesa por absorción con ventilador para...'
+sku: 'B06WWM6S2R-es'
 tags: [  ]
 actualPrice: 29.9 EUR
 currency: EUR

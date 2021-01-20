@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VG97HPJ-es Hackett London Coral Swim Trim Polo Blanco 800white 800...'
+sku: 'B07VG97HPJ-es'
 tags: [  ]
 actualPrice: 38.0 EUR
 currency: EUR

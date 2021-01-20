@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XGSMX1R-es Funko- Kevin Figura de Vinilo seria The Leftovers 14299'
+sku: 'B06XGSMX1R-es'
 tags: [  ]
 actualPrice: 5.95 EUR
 currency: EUR

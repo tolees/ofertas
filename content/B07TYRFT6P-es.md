@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TYRFT6P-es Pop Doctor Who Kerblam Man Vinyl Figure'
+sku: 'B07TYRFT6P-es'
 tags: [  ]
 actualPrice: 4.34 EUR
 currency: EUR

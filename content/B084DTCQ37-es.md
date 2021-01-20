@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084DTCQ37-es Cartera Caballero en Piel napa'
+sku: 'B084DTCQ37-es'
 tags: [  ]
 actualPrice: 17.4 EUR
 currency: EUR

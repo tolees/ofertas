@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DRDTBM4-es Dreamlove Secretplay Triple X Unisex Pleasure...'
+sku: 'B07DRDTBM4-es'
 tags: [  ]
 actualPrice: 8.59 EUR
 currency: EUR

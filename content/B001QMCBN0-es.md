@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001QMCBN0-es Pimms Licores - 1000 ml'
+sku: 'B001QMCBN0-es'
 tags: [  ]
 actualPrice: 16.8 EUR
 currency: EUR

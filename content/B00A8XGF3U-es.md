@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00A8XGF3U-es Thrustmaster - USB Joystick PC MAC'
+sku: 'B00A8XGF3U-es'
 tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR

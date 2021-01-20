@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071HPSG4X-es Under Armour Heatgear Armour Middy Corto Mujer Gris MD'
+sku: 'B071HPSG4X-es'
 tags: [  ]
 actualPrice: 15.49 EUR
 currency: EUR

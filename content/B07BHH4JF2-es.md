@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BHH4JF2-es Superga 2730-COTU Zapatillas para Mujer Grigio Grey...'
+sku: 'B07BHH4JF2-es'
 tags: [  ]
 actualPrice: 47.82 EUR
 currency: EUR

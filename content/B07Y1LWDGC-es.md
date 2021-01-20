@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y1LWDGC-es LIGE Relojes para Hombre Impermeable Cuarzo Analógica...'
+sku: 'B07Y1LWDGC-es'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

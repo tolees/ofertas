@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N9FIYCI-es CLP Estantería de Madera de 3 hasta 5 Niveles | Estantería...'
+sku: 'B01N9FIYCI-es'
 tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079VSK9JG-es The Lost Child'
+sku: 'B079VSK9JG-es'
 tags: [  ]
 actualPrice: 22.57 EUR
 currency: EUR

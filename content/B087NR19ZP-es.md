@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087NR19ZP-es Mascarilla 20PCS Pañuelos de Protección Personal'
+sku: 'B087NR19ZP-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

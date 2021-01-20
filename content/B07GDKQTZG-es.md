@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GDKQTZG-es Lámpara de trabajo de inspección con 3 modos de...'
+sku: 'B07GDKQTZG-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZP2WZ6W-es BLU Ray 4k Grabadora DVD Reproductor Externo Portatil USB...'
+sku: 'B07ZP2WZ6W-es'
 tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR

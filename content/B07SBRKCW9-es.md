@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SBRKCW9-es Nihlsen Almohadilla de PVC Inflable Redonda para niños...'
+sku: 'B07SBRKCW9-es'
 tags: [  ]
 actualPrice: 6.89 EUR
 currency: EUR

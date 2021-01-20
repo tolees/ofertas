@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017SQUA5I-es Salomon Speedcross 4 GTX W Zapatillas de Trail Running...'
+sku: 'B017SQUA5I-es'
 tags: [  ]
 actualPrice: 108.99 EUR
 currency: EUR

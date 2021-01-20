@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MTX5TGD-es Dispensador de jabón Kapitan de repuesto con rosca de 28...'
+sku: 'B01MTX5TGD-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

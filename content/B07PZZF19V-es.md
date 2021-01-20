@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PZZF19V-es 2pcs Mosquitera Carrito Bebe Universal Mosquitera para...'
+sku: 'B07PZZF19V-es'
 tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR

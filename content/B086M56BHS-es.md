@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086M56BHS-es Oihxse Funda para Huawei Honor V10 Lite/8X Transparente...'
+sku: 'B086M56BHS-es'
 tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR

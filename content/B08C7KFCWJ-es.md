@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08C7KFCWJ-es Longspeed Dibujar con luz Tablero de Dibujo Divertido...'
+sku: 'B08C7KFCWJ-es'
 tags: [  ]
 actualPrice: 5.67 EUR
 currency: EUR

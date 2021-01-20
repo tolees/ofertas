@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WYKCHN3-es Lomogo Funda Xiaomi Redmi 7A Cartera Funda de Cuero...'
+sku: 'B07WYKCHN3-es'
 tags: [  ]
 actualPrice: 8.95 EUR
 currency: EUR

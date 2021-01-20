@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W2QQDZ3-es Philips Avent SCF376/12 - Pack de 2 chupetes Ultra Air...'
+sku: 'B07W2QQDZ3-es'
 tags: [  ]
 actualPrice: 5.2 EUR
 currency: EUR

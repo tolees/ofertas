@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001BJ4FBO-es Piscina Ultra Frame'
+sku: 'B001BJ4FBO-es'
 tags: [  ]
 actualPrice: 470.0 EUR
 currency: EUR

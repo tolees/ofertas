@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N39JTJQ-es QITAYO Funda Huawei P30 Pro de Tup Suave Carcasa...'
+sku: 'B07N39JTJQ-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

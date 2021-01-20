@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08532VWTV-es Mesa de aleación de aluminio de 35 mm Abrazadera de banco...'
+sku: 'B08532VWTV-es'
 tags: [  ]
 actualPrice: 6.85 EUR
 currency: EUR

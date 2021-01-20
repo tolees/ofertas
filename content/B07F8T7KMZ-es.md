@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F8T7KMZ-es VNOX de Acero Inoxidable y Chapado en Oro 3A Cubic...'
+sku: 'B07F8T7KMZ-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

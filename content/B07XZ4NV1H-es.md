@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XZ4NV1H-es SHENMATE Envoltorio Cera De Abeja Beeswax Wrap Natural...'
+sku: 'B07XZ4NV1H-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

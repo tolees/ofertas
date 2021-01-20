@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077WR69NZ-es Funda impermeable de Kayond para ordenador portátil de 11...'
+sku: 'B077WR69NZ-es'
 tags: [  ]
 actualPrice: 18.49 EUR
 currency: EUR

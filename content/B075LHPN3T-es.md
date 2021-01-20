@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075LHPN3T-es Tommy Hilfiger Reloj Multiesfera para Mujer de Cuarzo con...'
+sku: 'B075LHPN3T-es'
 tags: [  ]
 actualPrice: 125.0 EUR
 currency: EUR

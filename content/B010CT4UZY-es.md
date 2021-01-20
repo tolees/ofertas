@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B010CT4UZY-es Teka Microondas Grill | Modelo MWE 225 G | Capacidad 20 L...'
+sku: 'B010CT4UZY-es'
 tags: [  ]
 actualPrice: 87.99 EUR
 currency: EUR

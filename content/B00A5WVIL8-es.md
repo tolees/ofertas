@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00A5WVIL8-es Haribo Lampions Negros Dulces de Regaliz - 2000 gr'
+sku: 'B00A5WVIL8-es'
 tags: [  ]
 actualPrice: 9.7 EUR
 currency: EUR

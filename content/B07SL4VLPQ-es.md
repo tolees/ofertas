@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SL4VLPQ-es Smarten Zapatillas de Running Hombre Mujer Air Correr...'
+sku: 'B07SL4VLPQ-es'
 tags: [  ]
 actualPrice: 33.88 EUR
 currency: EUR

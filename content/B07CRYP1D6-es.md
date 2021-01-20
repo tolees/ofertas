@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CRYP1D6-es Pop Vinyl - G Dota 2 S1 Phantom Assasin with Sword'
+sku: 'B07CRYP1D6-es'
 tags: [  ]
 actualPrice: 8.95 EUR
 currency: EUR

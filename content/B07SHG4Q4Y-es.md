@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SHG4Q4Y-es Active Era® Báscula Grasa Corporal Inteligente - Báscula...'
+sku: 'B07SHG4Q4Y-es'
 tags: [  ]
 actualPrice: 22.39 EUR
 currency: EUR

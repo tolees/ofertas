@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072KNQNTQ-es Speed Magic Cube MF8 2 x 3 x 4 Cube Professional Magic...'
+sku: 'B072KNQNTQ-es'
 tags: [  ]
 actualPrice: 16.7 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NZ1ZJ66-es KitGarden - Armario Camping con Paraviento 88x47x80 cm...'
+sku: 'B07NZ1ZJ66-es'
 tags: [  ]
 actualPrice: 49.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H2DQ6X7-es K KYUER 41.6Wh JC03 JC04 Batería para HP 240 245 250 255...'
+sku: 'B07H2DQ6X7-es'
 tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR

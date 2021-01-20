@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XKSKXMX-es Barra de Sonido Envolvente EXCELVAN S18L 40W Barra de...'
+sku: 'B07XKSKXMX-es'
 tags: [  ]
 actualPrice: 74.99 EUR
 currency: EUR

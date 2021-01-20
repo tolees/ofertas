@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PC3F8PV-es Set Cuidado Facial | 6 productos | Agua Micelar Active...'
+sku: 'B07PC3F8PV-es'
 tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR

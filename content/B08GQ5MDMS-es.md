@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GQ5MDMS-es 4 pcs Caja para Guardar Mas/carillas - Estuche Rectangular...'
+sku: 'B08GQ5MDMS-es'
 tags: [  ]
 actualPrice: 3.08 EUR
 currency: EUR

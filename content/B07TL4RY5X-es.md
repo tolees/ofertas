@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TL4RY5X-es BRA Advanced Cazo 16 cm aluminio fundido con antiadherente...'
+sku: 'B07TL4RY5X-es'
 tags: [  ]
 actualPrice: 19.49 EUR
 currency: EUR

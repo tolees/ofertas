@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W65XMGP-es Tefal Optigrill Elite GC750D Grill parrilla eléctrica...'
+sku: 'B07W65XMGP-es'
 tags: [  ]
 actualPrice: 159.2 EUR
 currency: EUR

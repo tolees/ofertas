@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004LAWLPW-es Logitech K120 Teclado con Cable Business para Windows...'
+sku: 'B004LAWLPW-es'
 tags: [  ]
 actualPrice: 11.98 EUR
 currency: EUR

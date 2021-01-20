@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C2Y1FWL-es New Balance Rubix Zapatillas de Running para Mujer Negro...'
+sku: 'B07C2Y1FWL-es'
 tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR

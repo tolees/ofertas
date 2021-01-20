@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HKP1PWQ-es Under Armour UA GS Infinity 2 Zapatillas de Running Unisex...'
+sku: 'B07HKP1PWQ-es'
 tags: [  ]
 actualPrice: 19.59 EUR
 currency: EUR

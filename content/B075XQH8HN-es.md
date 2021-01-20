@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075XQH8HN-es Orbegozo VT 2410 Vinoteca de 24 Botellas Dos Zonas de...'
+sku: 'B075XQH8HN-es'
 tags: [  ]
 actualPrice: 189.0 EUR
 currency: EUR

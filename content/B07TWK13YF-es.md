@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TWK13YF-es Belkin Boost Charger - Cargador para coche USB-C 18 W con...'
+sku: 'B07TWK13YF-es'
 tags: [  ]
 actualPrice: 24.49 EUR
 currency: EUR

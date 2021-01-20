@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HLST2C7-es LA Panel LED redondo plano 18W 1600 lumenes reales! driver...'
+sku: 'B07HLST2C7-es'
 tags: [  ]
 actualPrice: 7.29 EUR
 currency: EUR

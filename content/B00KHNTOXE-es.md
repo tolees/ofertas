@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KHNTOXE-es L-Arginina PURA 99.7% Vegavero® Sport | TESTADO EN...'
+sku: 'B00KHNTOXE-es'
 tags: [  ]
 actualPrice: 22.9 EUR
 currency: EUR

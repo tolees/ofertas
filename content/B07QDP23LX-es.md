@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QDP23LX-es Funko Pop Figura De Vinil TV: Mad Men-Roger Coleccionable...'
+sku: 'B07QDP23LX-es'
 tags: [  ]
 actualPrice: 7.15 EUR
 currency: EUR

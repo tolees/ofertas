@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K5R99JG-es Tommy Hilfiger 3p Trunk Tanga Blanco White 100 Large Pack...'
+sku: 'B00K5R99JG-es'
 tags: [  ]
 actualPrice: 23.8 EUR
 currency: EUR

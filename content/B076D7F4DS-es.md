@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076D7F4DS-es iWALK 20000mAh Alta Capacidad Móvil Batería Externa Power...'
+sku: 'B076D7F4DS-es'
 tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001XN0QSO-es Vogue Olympia - Fuente redonda de servir de hierro fundido...'
+sku: 'B001XN0QSO-es'
 tags: [  ]
 actualPrice: 18.33 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083NN4M5Z-es Niños Puzzle Memory Game Console LED Light Sound...'
+sku: 'B083NN4M5Z-es'
 tags: [  ]
 actualPrice: 2.92 EUR
 currency: EUR

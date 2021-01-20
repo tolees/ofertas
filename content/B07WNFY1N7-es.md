@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WNFY1N7-es Anyutai Hermosa Starfish Beach Crafts Garden Decoration...'
+sku: 'B07WNFY1N7-es'
 tags: [  ]
 actualPrice: 5.28 EUR
 currency: EUR

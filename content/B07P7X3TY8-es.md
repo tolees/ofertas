@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P7X3TY8-es Asiento del coche Organizador Bolsa de almacenamiento de...'
+sku: 'B07P7X3TY8-es'
 tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR

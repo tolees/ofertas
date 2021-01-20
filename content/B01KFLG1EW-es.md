@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KFLG1EW-es Philips Optimal Temp GC8715/20 - Centro de Planchado de...'
+sku: 'B01KFLG1EW-es'
 tags: [  ]
 actualPrice: 135.0 EUR
 currency: EUR

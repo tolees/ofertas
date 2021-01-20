@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G6ZDXYY-es Antena de TV de alta ganancia Freeview – MASO portátil...'
+sku: 'B07G6ZDXYY-es'
 tags: [  ]
 actualPrice: 14.89 EUR
 currency: EUR

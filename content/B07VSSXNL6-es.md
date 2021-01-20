@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VSSXNL6-es Moonssy EMS Electroestimulador Gluteos - EMS Hips Trainer...'
+sku: 'B07VSSXNL6-es'
 tags: [  ]
 actualPrice: 21.9 EUR
 currency: EUR

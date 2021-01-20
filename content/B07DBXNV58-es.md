@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DBXNV58-es Anker Cargador inalámbrico rápido Soporte de Carga...'
+sku: 'B07DBXNV58-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

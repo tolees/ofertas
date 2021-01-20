@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00U2DUA3M-es Elizabeth Arden Ceramide Flawless Future Ceramide Crema...'
+sku: 'B00U2DUA3M-es'
 tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR

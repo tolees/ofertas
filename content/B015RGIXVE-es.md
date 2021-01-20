@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015RGIXVE-es adidas Stan Smith Cf - Zapatillas de running Hombre Blanc...'
+sku: 'B015RGIXVE-es'
 tags: [  ]
 actualPrice: 57.98 EUR
 currency: EUR

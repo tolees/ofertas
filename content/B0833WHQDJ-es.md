@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0833WHQDJ-es DONPEREGRINO Maleta Cabina Avión 55x40x20 Rígida Ligera y...'
+sku: 'B0833WHQDJ-es'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

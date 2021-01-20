@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083ZQ23YH-es Fossil Smartwatch Pantalla táctil para Hombre de Connected...'
+sku: 'B083ZQ23YH-es'
 tags: [  ]
 actualPrice: 169.0 EUR
 currency: EUR

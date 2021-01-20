@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ACTOHXY-es Dek Kids - Zapatillas Unisex de tela de cordones para...'
+sku: 'B01ACTOHXY-es'
 tags: [  ]
 actualPrice: 8.2 EUR
 currency: EUR

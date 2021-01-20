@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081PQDGV5-es Kingston DataTraveler 100 G3 -DT100G3/32GB-2P 2 Piezas USB...'
+sku: 'B081PQDGV5-es'
 tags: [  ]
 actualPrice: 7.71 EUR
 currency: EUR

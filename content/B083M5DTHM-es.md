@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083M5DTHM-es szlsl88 Esterilla de Yoga Grande y Gruesa para Ejercicios...'
+sku: 'B083M5DTHM-es'
 tags: [  ]
 actualPrice: 5.19 EUR
 currency: EUR

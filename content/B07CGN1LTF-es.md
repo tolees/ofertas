@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CGN1LTF-es Fossil Reloj Analogico para Hombre de Cuarzo con Correa en...'
+sku: 'B07CGN1LTF-es'
 tags: [  ]
 actualPrice: 88.0 EUR
 currency: EUR

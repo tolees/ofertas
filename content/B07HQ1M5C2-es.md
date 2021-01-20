@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HQ1M5C2-es Funko Pop: Fortnite: Tower Recon Specialist multicolor...'
+sku: 'B07HQ1M5C2-es'
 tags: [  ]
 actualPrice: 7.76 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00A9VWCUG-es Philips myLiving Star - Barra de 4 focos iluminación...'
+sku: 'B00A9VWCUG-es'
 tags: [  ]
 actualPrice: 76.34 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017Y0R3IU-es MaxHold Sistema de vacío - Toalleros de aro - Acero...'
+sku: 'B017Y0R3IU-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

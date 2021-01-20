@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRT925B-es Columbia Silver Ridge 2.0 Pantalón de Senderismo Nailon...'
+sku: 'B07KRT925B-es'
 tags: [  ]
 actualPrice: 28.92 EUR
 currency: EUR

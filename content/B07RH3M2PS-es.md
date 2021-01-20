@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RH3M2PS-es Reebok Rush Runner Zapatillas de Entrenamiento para Niñas...'
+sku: 'B07RH3M2PS-es'
 tags: [  ]
 actualPrice: 19.62 EUR
 currency: EUR

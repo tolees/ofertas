@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079WRY8T4-es Assassin S Creed pp4101as Notebook'
+sku: 'B079WRY8T4-es'
 tags: [  ]
 actualPrice: 4.95 EUR
 currency: EUR

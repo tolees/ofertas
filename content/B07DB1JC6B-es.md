@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DB1JC6B-es Citizen Reloj Analógico para Hombre de Cuarzo con Correa...'
+sku: 'B07DB1JC6B-es'
 tags: [  ]
 actualPrice: 168.31 EUR
 currency: EUR

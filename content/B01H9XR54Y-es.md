@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H9XR54Y-es SPC Harmony - Teléfono móvil Dual SIM Números y letras...'
+sku: 'B01H9XR54Y-es'
 tags: [  ]
 actualPrice: 33.15 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086QM6XZ8-es Promini - Body para bebé con texto en inglés "I Love Mom...'
+sku: 'B086QM6XZ8-es'
 tags: [  ]
 actualPrice: 13.62 EUR
 currency: EUR

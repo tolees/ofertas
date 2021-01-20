@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TMYWKJ2-es Bamamx Parque Infantil Bebe Plegable Anillas Parque Bebe...'
+sku: 'B07TMYWKJ2-es'
 tags: [  ]
 actualPrice: 96.99 EUR
 currency: EUR

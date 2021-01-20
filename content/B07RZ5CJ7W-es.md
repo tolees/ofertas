@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZ5CJ7W-es KECC MacBook Pro Retina 13 Pulgadas Funda Dura Case w/EU...'
+sku: 'B07RZ5CJ7W-es'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NK7N58S-es Famgizmo Soporte de Pared para TV 14-37 Pulgadas 35-94cm...'
+sku: 'B07NK7N58S-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

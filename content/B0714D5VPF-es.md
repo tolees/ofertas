@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0714D5VPF-es Under Armour Warp Knit High Impact Bra Sujetador Deportivo...'
+sku: 'B0714D5VPF-es'
 tags: [  ]
 actualPrice: 27.08 EUR
 currency: EUR

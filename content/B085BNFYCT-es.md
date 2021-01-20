@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085BNFYCT-es Kit de Iluminación para Fotografía: 3X Ventana de Luz 3X...'
+sku: 'B085BNFYCT-es'
 tags: [  ]
 actualPrice: 119.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JZX9C6B-es WateLves Leggings de Yoga para Mujer Pantalones de Deporte...'
+sku: 'B07JZX9C6B-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

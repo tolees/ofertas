@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y4DGVZC-es DAMN.'
+sku: 'B06Y4DGVZC-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

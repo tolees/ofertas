@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084X5DSRK-es PACK - Windows 10 Professiona + office pro 2019 +...'
+sku: 'B084X5DSRK-es'
 tags: [  ]
 actualPrice: 3.3 EUR
 currency: EUR

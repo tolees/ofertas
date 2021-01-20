@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071JB8YKB-es MagicLux Tech 11 a 11 6 Pulgadas Funda Protectora para...'
+sku: 'B071JB8YKB-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XD2GVJN-es Ezlife Protector de Parabrisas Protector para Parabrisas...'
+sku: 'B07XD2GVJN-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9KWH1B-es Adidas Yatra Zapatillas de Deporte para Mujer Multicolor...'
+sku: 'B07L9KWH1B-es'
 tags: [  ]
 actualPrice: 27.48 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z7SDFRS-es 6ml 12 colores Acrílico profesional Pinturas pintadas a...'
+sku: 'B07Z7SDFRS-es'
 tags: [  ]
 actualPrice: 4.53 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KF3PC7Y-es Pegatinas de espuma – 700 piezas autoadhesivas formas de...'
+sku: 'B07KF3PC7Y-es'
 tags: [  ]
 actualPrice: 15.05 EUR
 currency: EUR

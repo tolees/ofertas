@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078SFYRJR-es Michael Kors Reloj Analogico para Unisex de Cuarzo con...'
+sku: 'B078SFYRJR-es'
 tags: [  ]
 actualPrice: 179.4 EUR
 currency: EUR

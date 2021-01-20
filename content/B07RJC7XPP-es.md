@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RJC7XPP-es Legendarte Cuadro Lienzo Impresión Digital - El Gran Árbol...'
+sku: 'B07RJC7XPP-es'
 tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR

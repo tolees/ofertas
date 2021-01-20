@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0838YRF4Y-es LEMEGO Pistola de Masaje Muscular Masajeador de Cuerpo...'
+sku: 'B0838YRF4Y-es'
 tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR

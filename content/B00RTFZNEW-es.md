@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00RTFZNEW-es Grohe Eurosmart - Grifo de bidé con vaciador automático...'
+sku: 'B00RTFZNEW-es'
 tags: [  ]
 actualPrice: 74.24 EUR
 currency: EUR

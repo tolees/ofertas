@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LX2JC4O-es Acer Monitor K222HQLbid 55cm 21.5 5ms 100M:1 ACM 200nits...'
+sku: 'B00LX2JC4O-es'
 tags: [  ]
 actualPrice: 53.4 EUR
 currency: EUR

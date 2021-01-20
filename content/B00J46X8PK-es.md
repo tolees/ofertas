@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00J46X8PK-es Vichy Capital Soleil Brume Hydratante Invisible SPF50...'
+sku: 'B00J46X8PK-es'
 tags: [  ]
 actualPrice: 11.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ENCGDRE-es Andis Lithium - Maquinilla afeitar sólo recargable'
+sku: 'B01ENCGDRE-es'
 tags: [  ]
 actualPrice: 50.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W7P7H3J-es Tapas de Silicona Elásticas DYROE 12 Tapas silicona...'
+sku: 'B07W7P7H3J-es'
 tags: [  ]
 actualPrice: 9.88 EUR
 currency: EUR

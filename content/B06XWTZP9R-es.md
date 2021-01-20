@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XWTZP9R-es New Balance WL574EB Zapatillas Mujer Negro Black 36.5 EU'
+sku: 'B06XWTZP9R-es'
 tags: [  ]
 actualPrice: 53.95 EUR
 currency: EUR

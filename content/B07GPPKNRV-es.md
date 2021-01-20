@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GPPKNRV-es Skechers Men s Moreno Trainers Beige Taupe TPE 9.5 UK 44 EU'
+sku: 'B07GPPKNRV-es'
 tags: [  ]
 actualPrice: 47.01 EUR
 currency: EUR

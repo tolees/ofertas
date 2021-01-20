@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077ZK2PFF-es Braun Silk-épil 3 3-410 - Depiladora Eléctrica para mujer...'
+sku: 'B077ZK2PFF-es'
 tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR

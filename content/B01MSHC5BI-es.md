@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MSHC5BI-es Pediatopic Cuidado Facial 50ml crema emoliente e...'
+sku: 'B01MSHC5BI-es'
 tags: [  ]
 actualPrice: 7.5 EUR
 currency: EUR

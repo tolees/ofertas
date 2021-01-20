@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LWSGUPN-es Lutsine Xeramance Crema Reestructurante Intensiva Piel Muy...'
+sku: 'B01LWSGUPN-es'
 tags: [  ]
 actualPrice: 15.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8VTY2P-es Morph Adulto Iluminarse Screaming Payaso del Demonio...'
+sku: 'B07M8VTY2P-es'
 tags: [  ]
 actualPrice: 11.95 EUR
 currency: EUR

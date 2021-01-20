@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VG3PHLS-es SmartDevil [2 Pack Protector Pantalla de Huawei P30 Pro...'
+sku: 'B07VG3PHLS-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RCNV9DY-es Columbia Powder Lite Forro Polar Mujer Color: Azul...'
+sku: 'B07RCNV9DY-es'
 tags: [  ]
 actualPrice: 54.73 EUR
 currency: EUR

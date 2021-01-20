@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZYB7VZ5-es Scimitar - Deportivas Casuales de Cierre Adhesivo para...'
+sku: 'B07ZYB7VZ5-es'
 tags: [  ]
 actualPrice: 28.7 EUR
 currency: EUR

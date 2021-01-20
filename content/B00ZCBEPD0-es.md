@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ZCBEPD0-es Party Fiesta Cubo Golosinas 1 5 Kg'
+sku: 'B00ZCBEPD0-es'
 tags: [  ]
 actualPrice: 7.25 EUR
 currency: EUR

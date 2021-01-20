@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003L1AASW-es Hawaiian Tropic - Protective Dry Oil Spray - Aceite...'
+sku: 'B003L1AASW-es'
 tags: [  ]
 actualPrice: 7.95 EUR
 currency: EUR

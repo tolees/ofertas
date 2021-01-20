@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KHQ7UTG-es Rust-Oleum RO0070002G1 - Pintura De Chalky Finalizar...'
+sku: 'B00KHQ7UTG-es'
 tags: [  ]
 actualPrice: 13.9 EUR
 currency: EUR

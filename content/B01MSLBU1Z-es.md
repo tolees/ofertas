@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MSLBU1Z-es HP Cable Adaptador HDMI a VGA - Adaptador para Cable HDMI...'
+sku: 'B01MSLBU1Z-es'
 tags: [  ]
 actualPrice: 22.37 EUR
 currency: EUR

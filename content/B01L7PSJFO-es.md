@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01L7PSJFO-es Bose SoundSport - Auriculares inalámbricos Bluetooth NFC...'
+sku: 'B01L7PSJFO-es'
 tags: [  ]
 actualPrice: 109.0 EUR
 currency: EUR

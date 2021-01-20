@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RXF38TZ-es EMS Hips Electroestimulador Muscular Gluteos Estimulador...'
+sku: 'B07RXF38TZ-es'
 tags: [  ]
 actualPrice: 23.9 EUR
 currency: EUR

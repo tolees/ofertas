@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QVDD6SN-es Funda XiaoMi Mi 9 SE con Cristal Templado AChris 3 en 1...'
+sku: 'B07QVDD6SN-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

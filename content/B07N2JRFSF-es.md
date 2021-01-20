@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N2JRFSF-es Intey 3-in-1 Wall Detector with LCD Display and Beep for...'
+sku: 'B07N2JRFSF-es'
 tags: [  ]
 actualPrice: 11.91 EUR
 currency: EUR

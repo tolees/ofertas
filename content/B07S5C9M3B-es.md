@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S5C9M3B-es Love MoschinoJc4093pp1aMujerBolso de manoNegro Negro...'
+sku: 'B07S5C9M3B-es'
 tags: [  ]
 actualPrice: 62.33 EUR
 currency: EUR

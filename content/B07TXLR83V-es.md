@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXLR83V-es Superga 2750-cotcontrastu Zapatillas de Gimnasia Unisex...'
+sku: 'B07TXLR83V-es'
 tags: [  ]
 actualPrice: 29.85 EUR
 currency: EUR

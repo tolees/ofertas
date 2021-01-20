@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RP9ML6R-es HARRY POTTER Set Imanes Multicolor 18 x 24 x 0 3 cm'
+sku: 'B07RP9ML6R-es'
 tags: [  ]
 actualPrice: 7.74 EUR
 currency: EUR

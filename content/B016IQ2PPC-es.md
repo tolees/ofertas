@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016IQ2PPC-es Tienda de campaña Vinson Altus'
+sku: 'B016IQ2PPC-es'
 tags: [  ]
 actualPrice: 229.99 EUR
 currency: EUR

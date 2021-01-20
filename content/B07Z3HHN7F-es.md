@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z3HHN7F-es Bidé de Viaje Portátil Dalmo DDB01S3 Bidet de Viaje...'
+sku: 'B07Z3HHN7F-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

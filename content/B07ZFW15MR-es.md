@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZFW15MR-es 24x Gris blanco Lámina impresa 2d 15x15cm PEGATINAS lisas...'
+sku: 'B07ZFW15MR-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

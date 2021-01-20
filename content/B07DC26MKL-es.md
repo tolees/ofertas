@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DC26MKL-es PUMA VISTA Zapatillas Unisex Adulto Azul Peacoat...'
+sku: 'B07DC26MKL-es'
 tags: [  ]
 actualPrice: 32.47 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RN73HB3-es Oral-B Junior - Cepillo Eléctrico Recargable con...'
+sku: 'B07RN73HB3-es'
 tags: [  ]
 actualPrice: 35.09 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015SGE37G-es Havaianas Brasil Logo Zehentrenner Unisex-Erwachsene...'
+sku: 'B015SGE37G-es'
 tags: [  ]
 actualPrice: 16.49 EUR
 currency: EUR

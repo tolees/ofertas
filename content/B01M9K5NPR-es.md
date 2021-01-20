@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M9K5NPR-es Mar de plástico - Serie completa [DVD]'
+sku: 'B01M9K5NPR-es'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9SB7DS-es Brocha de Madera de Nylon para Pintura de Acrílico de...'
+sku: 'B07L9SB7DS-es'
 tags: [  ]
 actualPrice: 2.99 EUR
 currency: EUR

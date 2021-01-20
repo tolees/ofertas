@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081VHQ8FF-es Folconauto Simulation Penis Plush Toy-Soft Stuffed...'
+sku: 'B081VHQ8FF-es'
 tags: [  ]
 actualPrice: 13.59 EUR
 currency: EUR

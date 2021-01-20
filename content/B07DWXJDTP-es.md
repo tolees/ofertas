@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DWXJDTP-es 750ml A5 Botella de Agua Portable Transparente...'
+sku: 'B07DWXJDTP-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

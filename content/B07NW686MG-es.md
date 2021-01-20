@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NW686MG-es Skechers Summits-Lovely Sky Zapatillas para Mujer Negro...'
+sku: 'B07NW686MG-es'
 tags: [  ]
 actualPrice: 38.4 EUR
 currency: EUR

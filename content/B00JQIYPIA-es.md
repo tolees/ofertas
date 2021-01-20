@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JQIYPIA-es ENERGETICS Pesas Mancuernas Neopreno Unisex Hantel Neopren...'
+sku: 'B00JQIYPIA-es'
 tags: [  ]
 actualPrice: 10.9 EUR
 currency: EUR

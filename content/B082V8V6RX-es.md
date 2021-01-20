@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082V8V6RX-es Rucae - Juego de tornillos para ordenador portátil 500...'
+sku: 'B082V8V6RX-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

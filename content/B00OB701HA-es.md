@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OB701HA-es Puma PUMA UNISEX SNEAKER PLAIN 3P Calcetines Unisex adulto...'
+sku: 'B00OB701HA-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

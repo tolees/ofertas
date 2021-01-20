@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076LJHZVD-es Pisen Ultrafino Banco de la energía 10000 mAh de Capacidad...'
+sku: 'B076LJHZVD-es'
 tags: [  ]
 actualPrice: 15.75 EUR
 currency: EUR

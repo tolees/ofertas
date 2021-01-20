@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0769D8VZP-es HAORUI Telón De Fondo De Los 3mx3m De Seda Blanca del Sin...'
+sku: 'B0769D8VZP-es'
 tags: [  ]
 actualPrice: 30.15 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013U9RSH0-es Remington PG6130 Groomkit - Recortador multifunción...'
+sku: 'B013U9RSH0-es'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

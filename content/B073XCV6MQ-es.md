@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073XCV6MQ-es Lacoste Reloj Análogo clásico para Niños de Cuarzo con...'
+sku: 'B073XCV6MQ-es'
 tags: [  ]
 actualPrice: 41.3 EUR
 currency: EUR

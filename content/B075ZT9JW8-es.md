@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075ZT9JW8-es VICTSING Transmisor FM Bluetooth 4.1 para Coche Mini Manos...'
+sku: 'B075ZT9JW8-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

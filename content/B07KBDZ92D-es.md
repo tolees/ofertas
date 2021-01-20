@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KBDZ92D-es Vero Moda Vmeva Abby 3/4 Trenchcoat Noos Abrigo Negro...'
+sku: 'B07KBDZ92D-es'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

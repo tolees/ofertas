@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FHDFGWD-es PUMA Puma Vikky v2 Ribbon P Zapatillas Mujer Negro Puma...'
+sku: 'B07FHDFGWD-es'
 tags: [  ]
 actualPrice: 38.49 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S2T4MJS-es BOSS Plisy Polo Gris Medium Grey 34 Hombre'
+sku: 'B07S2T4MJS-es'
 tags: [  ]
 actualPrice: 28.9 EUR
 currency: EUR

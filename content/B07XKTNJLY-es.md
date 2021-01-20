@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XKTNJLY-es PUMA Fundamentals Sports Bag S Bolsa Deporte Unisex-Adult...'
+sku: 'B07XKTNJLY-es'
 tags: [  ]
 actualPrice: 18.13 EUR
 currency: EUR

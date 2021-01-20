@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MD5B94Z-es Masthome tabla de cortar de bambú con ranura para jugo y...'
+sku: 'B07MD5B94Z-es'
 tags: [  ]
 actualPrice: 19.61 EUR
 currency: EUR

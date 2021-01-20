@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B6BRFCM-es Correa para Reloj Hanyixue Active Correa de reemplazo...'
+sku: 'B08B6BRFCM-es'
 tags: [  ]
 actualPrice: 3.29 EUR
 currency: EUR

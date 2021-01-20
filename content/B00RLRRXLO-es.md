@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00RLRRXLO-es Joseph Joseph 10108 Pelador Recto Acero Inoxidable Verde...'
+sku: 'B00RLRRXLO-es'
 tags: [  ]
 actualPrice: 6.95 EUR
 currency: EUR

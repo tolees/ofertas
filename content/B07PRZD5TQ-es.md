@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PRZD5TQ-es New Balance 997h Zapatillas para Hombre Marfil Off White...'
+sku: 'B07PRZD5TQ-es'
 tags: [  ]
 actualPrice: 22.17 EUR
 currency: EUR

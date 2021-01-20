@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KM28KRQ-es Semillas Hortícolas - Tomate Corazón de Buey - Batlle'
+sku: 'B00KM28KRQ-es'
 tags: [  ]
 actualPrice: 0.99 EUR
 currency: EUR

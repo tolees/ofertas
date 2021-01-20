@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TMWT8CR-es Clarks Originals Boot Botas Desert Verde Dark Olive SDE...'
+sku: 'B07TMWT8CR-es'
 tags: [  ]
 actualPrice: 82.84 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FQJ3VCN-es Rybozen Hub USB 3.0 7-Puertos SuperSpeed 5 Gbps Hub...'
+sku: 'B07FQJ3VCN-es'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

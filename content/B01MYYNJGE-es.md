@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MYYNJGE-es Velvet - Serie completa [Blu-ray]'
+sku: 'B01MYYNJGE-es'
 tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZ1QH61-es Relaxdays Set de 500 Palitos Helado Palos Manualidades...'
+sku: 'B07MZ1QH61-es'
 tags: [  ]
 actualPrice: 7.65 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WCCF5N7-es Lumberjack Vendor Zapatillas de Gimnasia para Hombre Azul...'
+sku: 'B07WCCF5N7-es'
 tags: [  ]
 actualPrice: 29.3 EUR
 currency: EUR

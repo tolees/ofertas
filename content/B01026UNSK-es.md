@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01026UNSK-es Trespass - Zapatillas de Tela para el Colegio Modelo Gym...'
+sku: 'B01026UNSK-es'
 tags: [  ]
 actualPrice: 8.7 EUR
 currency: EUR

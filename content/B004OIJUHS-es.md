@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004OIJUHS-es Mirak - Zapatillas/Zapatos sin Cordones Estilo Marinero...'
+sku: 'B004OIJUHS-es'
 tags: [  ]
 actualPrice: 19.45 EUR
 currency: EUR

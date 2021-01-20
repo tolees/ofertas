@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CVKPJZG-es Panamar Tamaño Compacto 65MM 32 Piezas de ajedrez...'
+sku: 'B08CVKPJZG-es'
 tags: [  ]
 actualPrice: 4.54 EUR
 currency: EUR

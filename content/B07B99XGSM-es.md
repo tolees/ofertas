@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B99XGSM-es Clarks Un Abode Ease Zapatos de Cordones Derby para Hombre...'
+sku: 'B07B99XGSM-es'
 tags: [  ]
 actualPrice: 42.12 EUR
 currency: EUR

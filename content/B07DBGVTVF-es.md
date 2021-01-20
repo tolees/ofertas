@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DBGVTVF-es Lenovo Ideapad 320-15AST - Ordenador Portátil 15.6" HD AMD...'
+sku: 'B07DBGVTVF-es'
 tags: [  ]
 actualPrice: 299.99 EUR
 currency: EUR

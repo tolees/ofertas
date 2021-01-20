@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GWVF3LM-es FitFlop Allegro Bailarinas con Punta Cerrada para Mujer...'
+sku: 'B07GWVF3LM-es'
 tags: [  ]
 actualPrice: 18.5 EUR
 currency: EUR

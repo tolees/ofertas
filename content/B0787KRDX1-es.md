@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0787KRDX1-es Pepe Jeans London Verona W Sequins Zapatillas Mujer Rosa...'
+sku: 'B0787KRDX1-es'
 tags: [  ]
 actualPrice: 37.5 EUR
 currency: EUR

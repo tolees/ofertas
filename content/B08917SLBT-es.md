@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08917SLBT-es Amoladora Angular 18V Brushless POPOMAN Angular Sin...'
+sku: 'B08917SLBT-es'
 tags: [  ]
 actualPrice: 74.79 EUR
 currency: EUR

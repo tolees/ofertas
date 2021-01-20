@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N4J42PR-es Bourjois Delice de Poudre Polvos Bronceadores Tono 001-113 g'
+sku: 'B07N4J42PR-es'
 tags: [  ]
 actualPrice: 6.3 EUR
 currency: EUR

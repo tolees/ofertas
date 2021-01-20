@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFMPP1H-es Levi s Graphic Sport Capucha Azul Sptwr Hoodie Baltic Sea...'
+sku: 'B07LFMPP1H-es'
 tags: [  ]
 actualPrice: 34.95 EUR
 currency: EUR

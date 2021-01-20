@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DD5D91T-es Miracle Tunes- Vestido/Disfraz Jasmine Color blanco/azul S...'
+sku: 'B07DD5D91T-es'
 tags: [  ]
 actualPrice: 27.29 EUR
 currency: EUR

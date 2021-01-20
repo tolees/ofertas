@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EUN9XD2-es Ingenuity Jungle Journey - Columpio portátil unisex'
+sku: 'B01EUN9XD2-es'
 tags: [  ]
 actualPrice: 82.8 EUR
 currency: EUR

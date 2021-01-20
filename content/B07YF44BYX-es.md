@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YF44BYX-es Microsoft Surface Pro Signature - Funda con teclado plata'
+sku: 'B07YF44BYX-es'
 tags: [  ]
 actualPrice: 118.99 EUR
 currency: EUR

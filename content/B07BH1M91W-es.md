@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BH1M91W-es SILLA DE PASEO RAPID PREMIUN GOLD ULTRALIGERA'
+sku: 'B07BH1M91W-es'
 tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR

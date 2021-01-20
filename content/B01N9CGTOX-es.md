@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N9CGTOX-es Bensimon Tennis Lacet Femme Zapatillas Mujer Beige Beige...'
+sku: 'B01N9CGTOX-es'
 tags: [  ]
 actualPrice: 17.39 EUR
 currency: EUR

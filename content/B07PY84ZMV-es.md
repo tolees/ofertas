@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PY84ZMV-es Philips MUE4088RT - Bombilla Wi-Fi E27 Led Controlada de...'
+sku: 'B07PY84ZMV-es'
 tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR

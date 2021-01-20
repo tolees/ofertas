@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJ3YBZW-es YoRiBo Pajitas multifunción de Silicona Reutilizables con...'
+sku: 'B07TJ3YBZW-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

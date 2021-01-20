@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P7GN5QR-es Willsence Tostadoras Pan 2 Rebanadas con Pantalla LCD y 9...'
+sku: 'B07P7GN5QR-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

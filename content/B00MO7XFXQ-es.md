@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MO7XFXQ-es Assassin s Creed: Rogue - Collector s Limited Edition...'
+sku: 'B00MO7XFXQ-es'
 tags: [  ]
 actualPrice: 46.8 EUR
 currency: EUR

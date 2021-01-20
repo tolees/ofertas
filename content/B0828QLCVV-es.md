@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0828QLCVV-es SHEGRACE plata de ley'
+sku: 'B0828QLCVV-es'
 tags: [  ]
 actualPrice: 20.45 EUR
 currency: EUR

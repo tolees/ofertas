@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FZJBVDV-es Star Ibaby - Parque de bebés plegable color natural'
+sku: 'B07FZJBVDV-es'
 tags: [  ]
 actualPrice: 79.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EYLCRCO-es Presto 570 23970 Griferia Temporizada. Lavabo mezclador pedal'
+sku: 'B01EYLCRCO-es'
 tags: [  ]
 actualPrice: 112.67 EUR
 currency: EUR

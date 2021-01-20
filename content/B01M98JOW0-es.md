@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M98JOW0-es Manduca by MAM 199–41–13–003 Deluxe Cover Flex Pluie Cover...'
+sku: 'B01M98JOW0-es'
 tags: [  ]
 actualPrice: 65.0 EUR
 currency: EUR

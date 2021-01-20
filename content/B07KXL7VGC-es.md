@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KXL7VGC-es Asics Gel-Pulse 10 1012a010-002 Zapatillas de...'
+sku: 'B07KXL7VGC-es'
 tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR

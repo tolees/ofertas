@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0014GX2AY-es Solgar Male Múltiple Multinutriente para el Hombre Con...'
+sku: 'B0014GX2AY-es'
 tags: [  ]
 actualPrice: 33.48 EUR
 currency: EUR

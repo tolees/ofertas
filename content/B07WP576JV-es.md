@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WP576JV-es Shark Steam Mop Vapor Mopa de Bolsillo Blanco y Verde'
+sku: 'B07WP576JV-es'
 tags: [  ]
 actualPrice: 46.18 EUR
 currency: EUR

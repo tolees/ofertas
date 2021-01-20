@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001GNBVU8-es Max Factor Lasting Performance Base de Maquillaje Líquida...'
+sku: 'B001GNBVU8-es'
 tags: [  ]
 actualPrice: 7.64 EUR
 currency: EUR

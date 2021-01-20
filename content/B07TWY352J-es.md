@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TWY352J-es Skechers Equalizer 4.0 Zapatillas para Hombre Azul Black...'
+sku: 'B07TWY352J-es'
 tags: [  ]
 actualPrice: 33.16 EUR
 currency: EUR

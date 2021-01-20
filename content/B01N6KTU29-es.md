@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N6KTU29-es FORTEM Cojín de Asiento y Respaldo de Soporte Lumbar...'
+sku: 'B01N6KTU29-es'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

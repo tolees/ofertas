@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0719RYJ3V-es Di4 Jet Pressing 5b Centro de planchado con caldera de...'
+sku: 'B0719RYJ3V-es'
 tags: [  ]
 actualPrice: 83.99 EUR
 currency: EUR

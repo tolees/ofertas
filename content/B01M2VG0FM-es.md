@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M2VG0FM-es DC Heathrow M Zapatillas Hombre Negro Black 40 EU 6.5 UK'
+sku: 'B01M2VG0FM-es'
 tags: [  ]
 actualPrice: 28.96 EUR
 currency: EUR

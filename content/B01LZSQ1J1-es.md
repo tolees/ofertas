@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZSQ1J1-es INDASEC Discreet - Compresa para Pérdidas Leves Maxi 15...'
+sku: 'B01LZSQ1J1-es'
 tags: [  ]
 actualPrice: 3.48 EUR
 currency: EUR

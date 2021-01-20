@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F98NJZN-es Trust Urban Ula - Cargador portátil con batería integrada...'
+sku: 'B07F98NJZN-es'
 tags: [  ]
 actualPrice: 15.26 EUR
 currency: EUR

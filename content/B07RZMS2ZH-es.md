@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZMS2ZH-es YABER Arrancador de Coches 1200A Arrancador Batería Coche...'
+sku: 'B07RZMS2ZH-es'
 tags: [  ]
 actualPrice: 66.59 EUR
 currency: EUR

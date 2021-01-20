@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SL53WC5-es Funko- Pop TV: La Casa de Papel-Professor O Clown...'
+sku: 'B07SL53WC5-es'
 tags: [  ]
 actualPrice: 9.91 EUR
 currency: EUR

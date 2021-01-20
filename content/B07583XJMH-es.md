@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07583XJMH-es The North Face T934VX Pantalón Infantil con Tirantes...'
+sku: 'B07583XJMH-es'
 tags: [  ]
 actualPrice: 41.33 EUR
 currency: EUR

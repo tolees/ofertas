@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0854RJ6KF-es Beurer EM-26 Electroestimulador para hombro TENS alivia...'
+sku: 'B0854RJ6KF-es'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

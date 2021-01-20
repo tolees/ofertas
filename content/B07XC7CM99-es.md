@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XC7CM99-es Giochi Preziosi - Camión de policía con 2 Personajes y...'
+sku: 'B07XC7CM99-es'
 tags: [  ]
 actualPrice: 25.61 EUR
 currency: EUR

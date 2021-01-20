@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DNZCFWT-es Termómetro Digital Frente y Oído 4 in 1 Termómetro...'
+sku: 'B07DNZCFWT-es'
 tags: [  ]
 actualPrice: 15.95 EUR
 currency: EUR

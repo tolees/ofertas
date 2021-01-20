@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J31WCRC-es Under Armour Undeniable Duffel 4.0 LG Bolsa De Deportes...'
+sku: 'B07J31WCRC-es'
 tags: [  ]
 actualPrice: 27.71 EUR
 currency: EUR

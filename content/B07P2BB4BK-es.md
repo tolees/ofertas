@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P2BB4BK-es Superdry OL Elite Crop Hood Capucha Blanco White 04c...'
+sku: 'B07P2BB4BK-es'
 tags: [  ]
 actualPrice: 41.99 EUR
 currency: EUR

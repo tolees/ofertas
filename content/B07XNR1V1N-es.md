@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XNR1V1N-es WIWJ Funda para Samsung Galaxy A8 2018 Carcasa Hollow...'
+sku: 'B07XNR1V1N-es'
 tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR

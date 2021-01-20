@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002OXNWKG-es Converse M5039c Sneaker Unisex-Adult Black Monochrome 39 EU'
+sku: 'B002OXNWKG-es'
 tags: [  ]
 actualPrice: 49.91 EUR
 currency: EUR

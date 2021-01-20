@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V8VD5W6-es Tommy Hilfiger Essential Retro Sneaker Zapatillas para...'
+sku: 'B07V8VD5W6-es'
 tags: [  ]
 actualPrice: 33.41 EUR
 currency: EUR

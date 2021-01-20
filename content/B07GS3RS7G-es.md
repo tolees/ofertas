@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GS3RS7G-es Bourjois Velvet The Lipstick Barra De Labios Tono 018...'
+sku: 'B07GS3RS7G-es'
 tags: [  ]
 actualPrice: 6.9 EUR
 currency: EUR

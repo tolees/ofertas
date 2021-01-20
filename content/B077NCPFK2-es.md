@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077NCPFK2-es modamoda de - pequeño de cuero embrague ital metálico...'
+sku: 'B077NCPFK2-es'
 tags: [  ]
 actualPrice: 31.0 EUR
 currency: EUR

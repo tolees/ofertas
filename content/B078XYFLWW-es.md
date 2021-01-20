@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078XYFLWW-es Bestway 41113 - Unicornio de Fantasía Hinchable 224x164 cm...'
+sku: 'B078XYFLWW-es'
 tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR

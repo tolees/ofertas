@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BRLLYBP-es Berglander - Juego de cubiertos 30 piezas plateado negro...'
+sku: 'B07BRLLYBP-es'
 tags: [  ]
 actualPrice: 35.09 EUR
 currency: EUR

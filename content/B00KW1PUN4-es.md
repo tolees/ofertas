@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KW1PUN4-es CSL - Ventilador USB - Ventilador de Mesa - Ventilador -...'
+sku: 'B00KW1PUN4-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

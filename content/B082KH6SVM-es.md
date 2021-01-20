@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082KH6SVM-es Funda para teléfono Impermeable al Aire Libre con Correa...'
+sku: 'B082KH6SVM-es'
 tags: [  ]
 actualPrice: 1.62 EUR
 currency: EUR

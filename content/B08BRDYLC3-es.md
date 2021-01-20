@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BRDYLC3-es Grapas de Pared para Cables Eléctricos con Adhesivo...'
+sku: 'B08BRDYLC3-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

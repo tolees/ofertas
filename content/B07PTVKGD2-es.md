@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PTVKGD2-es Apple iPad mini - Tablet 20 1 cm 7.9" 2048 x 1536 Pixeles...'
+sku: 'B07PTVKGD2-es'
 tags: [  ]
 actualPrice: 561.71 EUR
 currency: EUR

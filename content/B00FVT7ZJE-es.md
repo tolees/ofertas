@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FVT7ZJE-es Soporte Pared Monitor/TV EWENT Easy Pan-Tilt EW1522...'
+sku: 'B00FVT7ZJE-es'
 tags: [  ]
 actualPrice: 10.24 EUR
 currency: EUR

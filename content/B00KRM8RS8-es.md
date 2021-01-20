@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KRM8RS8-es Amazon - Funda protectora de cuero para Kindle 7ª...'
+sku: 'B00KRM8RS8-es'
 tags: [  ]
 actualPrice: 14.78 EUR
 currency: EUR

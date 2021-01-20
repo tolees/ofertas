@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PWNLT1Q-es Under Armour UA GS Charged Rogue 2 Zapatillas para Correr...'
+sku: 'B07PWNLT1Q-es'
 tags: [  ]
 actualPrice: 28.5 EUR
 currency: EUR

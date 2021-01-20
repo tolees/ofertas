@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00YHHV31C-es Oralteck - Esterilizador por UV y Ozono. UV Sanitizer....'
+sku: 'B00YHHV31C-es'
 tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR

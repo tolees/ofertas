@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083HZX3VJ-es Caja del teléfono Triángulo Cubierta Resistente a roturas...'
+sku: 'B083HZX3VJ-es'
 tags: [  ]
 actualPrice: 1.02 EUR
 currency: EUR

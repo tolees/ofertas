@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PM6P34B-es Inulina BIO en Polvo Vegavero® | Prebiótico Orgánico Sin...'
+sku: 'B07PM6P34B-es'
 tags: [  ]
 actualPrice: 17.9 EUR
 currency: EUR

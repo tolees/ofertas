@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FX8QW9X-es 3 Pares Calcetines Mujer Hombre Senderismo Calcetines para...'
+sku: 'B08FX8QW9X-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

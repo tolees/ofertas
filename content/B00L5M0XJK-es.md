@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00L5M0XJK-es Bomann RG2279CB Raclette Grill con Piedra Natural y Placa...'
+sku: 'B00L5M0XJK-es'
 tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR

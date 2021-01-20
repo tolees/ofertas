@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FQB4LCH-es Jack & Jones Jjestructure Knit Crew Neck Noos suéter Negro...'
+sku: 'B07FQB4LCH-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

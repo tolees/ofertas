@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018LLLOTK-es Tommy Hilfiger New Aly Belt Cinturón Hombre Marrón TESTA...'
+sku: 'B018LLLOTK-es'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

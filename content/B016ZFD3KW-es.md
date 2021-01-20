@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016ZFD3KW-es Kepuch Custer Funda para Kindle Paperwhite 1/2/3 2012 2013...'
+sku: 'B016ZFD3KW-es'
 tags: [  ]
 actualPrice: 8.98 EUR
 currency: EUR

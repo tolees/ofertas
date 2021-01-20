@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GZOGCEI-es Joma Suez Pantalones Hombre Azul Marino 14'
+sku: 'B00GZOGCEI-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

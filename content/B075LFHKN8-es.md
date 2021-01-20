@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075LFHKN8-es Beurer IH55 Inhalador silencioso con membrana oscilante...'
+sku: 'B075LFHKN8-es'
 tags: [  ]
 actualPrice: 68.66 EUR
 currency: EUR

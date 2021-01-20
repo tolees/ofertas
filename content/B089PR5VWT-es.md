@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089PR5VWT-es Pendientes Mujer con piedra de nacimiento Plata de Ley 925...'
+sku: 'B089PR5VWT-es'
 tags: [  ]
 actualPrice: 22.34 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EX9MPX8-es LEDKIA LIGHTING Plafón LED Cuadrado 24W Blanco Cálido...'
+sku: 'B01EX9MPX8-es'
 tags: [  ]
 actualPrice: 13.86 EUR
 currency: EUR

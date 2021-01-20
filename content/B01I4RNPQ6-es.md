@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01I4RNPQ6-es Fujifilm NP-W126S - Batería Recargable Negro'
+sku: 'B01I4RNPQ6-es'
 tags: [  ]
 actualPrice: 41.99 EUR
 currency: EUR

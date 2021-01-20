@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GT7N9Q8-es Anker Soundcore Spirit Pro Intraaural Dentro de oído Negro...'
+sku: 'B07GT7N9Q8-es'
 tags: [  ]
 actualPrice: 20.0 EUR
 currency: EUR

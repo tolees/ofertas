@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086BFQ34N-es Oihxse Funda Compatible con Xiaomi Redmi GO/Redmi 5A...'
+sku: 'B086BFQ34N-es'
 tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR

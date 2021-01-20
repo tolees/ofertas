@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078SZWR1R-es Joseph Joseph Index 3 piezas Juego de tabla de cortar...'
+sku: 'B078SZWR1R-es'
 tags: [  ]
 actualPrice: 63.03 EUR
 currency: EUR

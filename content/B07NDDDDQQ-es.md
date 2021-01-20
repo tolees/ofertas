@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDDDDQQ-es Samsung Galaxy S10+ - Smartphone de 6.4" QHD+ Curved...'
+sku: 'B07NDDDDQQ-es'
 tags: [  ]
 actualPrice: 899.0 EUR
 currency: EUR

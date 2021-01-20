@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JJ48CZM-es Paquete de 5 parches de lentejuelas bordados con diseño de...'
+sku: 'B07JJ48CZM-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

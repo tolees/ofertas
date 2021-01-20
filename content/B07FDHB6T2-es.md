@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FDHB6T2-es Bra Prior -Set de 3 Sartenes Aluminio Fundido con...'
+sku: 'B07FDHB6T2-es'
 tags: [  ]
 actualPrice: 63.99 EUR
 currency: EUR

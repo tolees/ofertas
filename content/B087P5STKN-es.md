@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087P5STKN-es LQHZWY Cortina de Puerta Pantalla de la Puerta Puerta de...'
+sku: 'B087P5STKN-es'
 tags: [  ]
 actualPrice: 43.99 EUR
 currency: EUR

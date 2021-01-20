@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074SY7FWR-es Nave Acuatica Hinchable Bestway Wet Jet'
+sku: 'B074SY7FWR-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

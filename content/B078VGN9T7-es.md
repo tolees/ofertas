@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078VGN9T7-es Sony WHCH400H - Auriculares inalámbricos Bluetooth NFC...'
+sku: 'B078VGN9T7-es'
 tags: [  ]
 actualPrice: 27.5 EUR
 currency: EUR

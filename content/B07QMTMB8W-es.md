@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QMTMB8W-es Asics Gel-Sonoma 4 Zapatillas de Running para Mujer Negro...'
+sku: 'B07QMTMB8W-es'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

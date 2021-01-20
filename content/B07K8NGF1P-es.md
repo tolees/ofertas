@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K8NGF1P-es Manta de Bebé Terciopelo Tacto Seda o Visón 440gr/m2...'
+sku: 'B07K8NGF1P-es'
 tags: [  ]
 actualPrice: 11.95 EUR
 currency: EUR

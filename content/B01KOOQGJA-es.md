@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KOOQGJA-es Weider Vegan Protein. Sabor Cappuccino. Proteína 100%...'
+sku: 'B01KOOQGJA-es'
 tags: [  ]
 actualPrice: 16.67 EUR
 currency: EUR

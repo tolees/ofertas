@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S5BW1N7-es Love MoschinoJc4042pp1aMujerBolsos bandoleraNegro Negro...'
+sku: 'B07S5BW1N7-es'
 tags: [  ]
 actualPrice: 67.47 EUR
 currency: EUR

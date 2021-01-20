@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015N3QPIY-es Parker Sonnet - Bolígrafo lacado en azul con adorno...'
+sku: 'B015N3QPIY-es'
 tags: [  ]
 actualPrice: 54.1 EUR
 currency: EUR

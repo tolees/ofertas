@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RM39V5F-es Corsair Vengeance LPX 16GB 2x8GB DDR4 3600MHz C18 Módulo...'
+sku: 'B07RM39V5F-es'
 tags: [  ]
 actualPrice: 76.69 EUR
 currency: EUR

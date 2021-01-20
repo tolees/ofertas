@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074J8PK8R-es CLOCOLOR Halloween Cosplay Peluca de Pelo Natural Largo...'
+sku: 'B074J8PK8R-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

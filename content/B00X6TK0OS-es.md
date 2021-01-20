@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X6TK0OS-es Phenovo 100pcs 5.5cm Díametro Tarjetas Redondas...'
+sku: 'B00X6TK0OS-es'
 tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR

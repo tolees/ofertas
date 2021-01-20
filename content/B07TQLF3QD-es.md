@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TQLF3QD-es ROMIX Esterilla Deporte Antideslizante Extra Gruesa 10MM...'
+sku: 'B07TQLF3QD-es'
 tags: [  ]
 actualPrice: 18.89 EUR
 currency: EUR

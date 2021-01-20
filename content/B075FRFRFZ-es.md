@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075FRFRFZ-es Vicloon 106cm Aluminio Trípode para Cámara Trípode...'
+sku: 'B075FRFRFZ-es'
 tags: [  ]
 actualPrice: 9.39 EUR
 currency: EUR

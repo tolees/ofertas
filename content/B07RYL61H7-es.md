@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RYL61H7-es New Balance 373v2 Zapatillas para Hombre Marfil Off AC...'
+sku: 'B07RYL61H7-es'
 tags: [  ]
 actualPrice: 47.98 EUR
 currency: EUR

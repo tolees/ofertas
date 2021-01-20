@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NWFYLKV-es Soporte Tablet Coche Soporte iPad Tablet Soporte...'
+sku: 'B07NWFYLKV-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

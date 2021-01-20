@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KFL8HQ2-es Philips Optimal Temp GC8723/20 - Centro de Planchado de 6...'
+sku: 'B01KFL8HQ2-es'
 tags: [  ]
 actualPrice: 156.27 EUR
 currency: EUR

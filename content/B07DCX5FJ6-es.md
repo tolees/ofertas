@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DCX5FJ6-es Victoria Tribu Doble Botin Lona Zapatillas Unisex Adulto...'
+sku: 'B07DCX5FJ6-es'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

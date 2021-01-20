@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WMD8PR8-es Scholl Velvet Smooth Recambios para Lima Pies Durezas...'
+sku: 'B00WMD8PR8-es'
 tags: [  ]
 actualPrice: 7.52 EUR
 currency: EUR

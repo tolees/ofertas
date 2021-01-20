@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9VLWBL-es Adidas Predator 19.3 FG J Botas de fútbol Unisex niño Azul...'
+sku: 'B07L9VLWBL-es'
 tags: [  ]
 actualPrice: 60.73 EUR
 currency: EUR

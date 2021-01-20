@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000WFBNB8-es Trixie Accesorio para Mascotas Un tamaño 112 g'
+sku: 'B000WFBNB8-es'
 tags: [  ]
 actualPrice: 3.49 EUR
 currency: EUR

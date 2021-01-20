@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P5N9JLB-es Cacerola con 2 asas 16-30 cm de diámetro Inoxidable...'
+sku: 'B07P5N9JLB-es'
 tags: [  ]
 actualPrice: 19.03 EUR
 currency: EUR

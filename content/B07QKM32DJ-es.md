@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QKM32DJ-es Taladro Percutor LOMVUM 810W Taladro Eléctrico 3000RPM...'
+sku: 'B07QKM32DJ-es'
 tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR

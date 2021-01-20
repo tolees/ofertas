@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00506KMRK-es Munchkin 12501 Cubo Desechable & Portátil para Pañales...'
+sku: 'B00506KMRK-es'
 tags: [  ]
 actualPrice: 9.09 EUR
 currency: EUR

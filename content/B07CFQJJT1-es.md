@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CFQJJT1-es Pulsera Inteligente IP68 CHEREEKI Fitness Tracker Pantalla...'
+sku: 'B07CFQJJT1-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

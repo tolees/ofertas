@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SRURHNI-es Anillo de bodas Anillos de Pareja con grabado...'
+sku: 'B00SRURHNI-es'
 tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR

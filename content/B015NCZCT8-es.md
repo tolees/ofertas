@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015NCZCT8-es Aigostar Queen - Hervidor de Agua Eléctrico con...'
+sku: 'B015NCZCT8-es'
 tags: [  ]
 actualPrice: 18.3 EUR
 currency: EUR

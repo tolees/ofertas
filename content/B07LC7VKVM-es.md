@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LC7VKVM-es Moneta Stratomax Juego de Sartenes 24 + 28 cm Aluminio...'
+sku: 'B07LC7VKVM-es'
 tags: [  ]
 actualPrice: 23.82 EUR
 currency: EUR

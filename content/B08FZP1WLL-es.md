@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FZP1WLL-es Fiesta Cotigo Caja para Mascarillas Caja Portátil de...'
+sku: 'B08FZP1WLL-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

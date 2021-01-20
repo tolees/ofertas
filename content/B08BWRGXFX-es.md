@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BWRGXFX-es LXHGrowH Funda para Huawei P40 Lite E - Carcasa Completa...'
+sku: 'B08BWRGXFX-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

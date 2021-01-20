@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K8N9R5H-es Ferilinso Protector de Pantalla para Huawei Watch GT [4...'
+sku: 'B07K8N9R5H-es'
 tags: [  ]
 actualPrice: 7.01 EUR
 currency: EUR

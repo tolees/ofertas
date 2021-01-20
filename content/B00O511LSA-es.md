@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00O511LSA-es Bébé Confort Rodi AirProtect - Silla de coche para niños...'
+sku: 'B00O511LSA-es'
 tags: [  ]
 actualPrice: 84.92 EUR
 currency: EUR

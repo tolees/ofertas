@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0757K2TND-es URCERI Telémetro Láser 100m Medidor Láser de Distancia...'
+sku: 'B0757K2TND-es'
 tags: [  ]
 actualPrice: 19.11 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076D8H5GD-es Masajeador AREALER Spa Pies con 3 Velocidades de Masaje...'
+sku: 'B076D8H5GD-es'
 tags: [  ]
 actualPrice: 55.99 EUR
 currency: EUR

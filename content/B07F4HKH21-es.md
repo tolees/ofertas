@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F4HKH21-es Mr. Wonderful Carpeta con Anillas'
+sku: 'B07F4HKH21-es'
 tags: [  ]
 actualPrice: 6.98 EUR
 currency: EUR

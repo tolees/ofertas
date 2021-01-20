@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VVWWHS5-es Jojoin Agua Dibujo Pintura 100x100 cm Alfombra de Agua...'
+sku: 'B07VVWWHS5-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

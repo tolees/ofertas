@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087X5MFSY-es Suhctup Funda Transparent Compatible para Galaxy J2 Prime...'
+sku: 'B087X5MFSY-es'
 tags: [  ]
 actualPrice: 8.98 EUR
 currency: EUR

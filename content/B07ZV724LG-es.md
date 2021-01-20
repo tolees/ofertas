@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZV724LG-es HUMTUS Calentadores de Manos Recargables Cargador USB de...'
+sku: 'B07ZV724LG-es'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

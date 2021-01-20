@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CKM4T7P-es Bolsas de Leche Materna Bestele Recipientes para leche...'
+sku: 'B07CKM4T7P-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

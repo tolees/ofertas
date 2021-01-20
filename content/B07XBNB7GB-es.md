@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XBNB7GB-es Martina D Antiochia La Diversión de Martina Pink-Mochila HS'
+sku: 'B07XBNB7GB-es'
 tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR

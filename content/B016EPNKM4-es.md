@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016EPNKM4-es Nike MD Runner 2 Zapatillas para Niños Multicolor Negro...'
+sku: 'B016EPNKM4-es'
 tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR

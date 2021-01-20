@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G9FR1R5-es Outsunny Calefactor Infrarrojo Calentador Eléctrico de...'
+sku: 'B07G9FR1R5-es'
 tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR

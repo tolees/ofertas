@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086YCXMRX-es HAOYE Funda para Xiaomi Mi 10 5G Shockproof Carcasa con...'
+sku: 'B086YCXMRX-es'
 tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR

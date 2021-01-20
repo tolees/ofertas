@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MQNQ7FK-es Cerdá 2200003875 Poncho Algodón Avengers Hulk Verde 50x115cm'
+sku: 'B07MQNQ7FK-es'
 tags: [  ]
 actualPrice: 7.1 EUR
 currency: EUR

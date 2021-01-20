@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BHTV62P-es Mr Wonderful Funda Portátil/PC 13.3" Pulgadas - con Diseño...'
+sku: 'B07BHTV62P-es'
 tags: [  ]
 actualPrice: 9.97 EUR
 currency: EUR

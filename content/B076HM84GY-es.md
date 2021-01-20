@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076HM84GY-es Doro'
+sku: 'B076HM84GY-es'
 tags: [  ]
 actualPrice: 32.0 EUR
 currency: EUR

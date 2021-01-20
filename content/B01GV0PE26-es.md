@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GV0PE26-es Emuca - Regleta multienchufe retráctil con 3 enchufes...'
+sku: 'B01GV0PE26-es'
 tags: [  ]
 actualPrice: 24.95 EUR
 currency: EUR

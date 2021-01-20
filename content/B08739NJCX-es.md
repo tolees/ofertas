@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08739NJCX-es Anillo de Luz LED Fotografia de Escritorio 8" Ring Light...'
+sku: 'B08739NJCX-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P3Z76CD-es Cámara IP HD IP66 Impermeable Cámara Bullet con IR Vision...'
+sku: 'B07P3Z76CD-es'
 tags: [  ]
 actualPrice: 8.79 EUR
 currency: EUR

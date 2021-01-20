@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X91FK3L-es Osprey Transporter 40 Unisex Durable Duffel Travel Pack...'
+sku: 'B06X91FK3L-es'
 tags: [  ]
 actualPrice: 89.7 EUR
 currency: EUR

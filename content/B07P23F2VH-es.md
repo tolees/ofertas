@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P23F2VH-es Skechers Sergeants-Verno Botas Clasicas para Hombre Negro...'
+sku: 'B07P23F2VH-es'
 tags: [  ]
 actualPrice: 33.7 EUR
 currency: EUR

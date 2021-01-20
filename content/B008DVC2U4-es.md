@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008DVC2U4-es Absorbente Universal 3 unid'
+sku: 'B008DVC2U4-es'
 tags: [  ]
 actualPrice: 8 EUR
 currency: EUR

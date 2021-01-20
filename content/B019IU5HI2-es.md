@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019IU5HI2-es KLIM™ Wind + Base de refrigeración para portátil + La más...'
+sku: 'B019IU5HI2-es'
 tags: [  ]
 actualPrice: 29.97 EUR
 currency: EUR

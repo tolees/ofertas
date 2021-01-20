@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078SYN7ZF-es Salomon Speedcross 4 GTX Zapatillas de Trail Running para...'
+sku: 'B078SYN7ZF-es'
 tags: [  ]
 actualPrice: 82.87 EUR
 currency: EUR

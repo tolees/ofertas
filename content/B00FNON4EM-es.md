@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FNON4EM-es Biosilk Volumizing Therapy Root Lift - lacas para el...'
+sku: 'B00FNON4EM-es'
 tags: [  ]
 actualPrice: 4.5 EUR
 currency: EUR

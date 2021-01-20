@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000RE3OMK-es Brabantia 214585 Barra para Colgar los Utensilios de...'
+sku: 'B000RE3OMK-es'
 tags: [  ]
 actualPrice: 9.79 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KNVNK7K-es adidas 4k SPR GF Bos Pantalones Cortos de Deporte Hombre...'
+sku: 'B07KNVNK7K-es'
 tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR

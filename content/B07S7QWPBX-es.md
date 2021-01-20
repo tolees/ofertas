@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S7QWPBX-es PUMA Carina L JR Zapatillas para Niñas Blanco White/Gulf...'
+sku: 'B07S7QWPBX-es'
 tags: [  ]
 actualPrice: 31.12 EUR
 currency: EUR

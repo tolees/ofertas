@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N43PCMT-es Desigual Blouse Lucia Blusas Orange Cobre 7006 L para Mujer'
+sku: 'B07N43PCMT-es'
 tags: [  ]
 actualPrice: 42.99 EUR
 currency: EUR

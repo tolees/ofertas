@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004M9ML2K-es Rimmel London Lasting Finish Barra De Labios Tono 170...'
+sku: 'B004M9ML2K-es'
 tags: [  ]
 actualPrice: 2.55 EUR
 currency: EUR

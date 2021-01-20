@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BZFNS6Z-es 4.4inches Protección para los Ojos Almohadilla de Dibujo...'
+sku: 'B08BZFNS6Z-es'
 tags: [  ]
 actualPrice: 3.46 EUR
 currency: EUR

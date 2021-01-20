@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VHD5FZW-es EUKO Guirnalda luces exterior 10 m 100 LEDs impermeable...'
+sku: 'B07VHD5FZW-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085Y4WN8P-es AYUN - Funda Protectora Impermeable para Asiento de Coche...'
+sku: 'B085Y4WN8P-es'
 tags: [  ]
 actualPrice: 5.41 EUR
 currency: EUR

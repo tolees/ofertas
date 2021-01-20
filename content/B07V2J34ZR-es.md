@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V2J34ZR-es Tommy Hilfiger Essential Lace Up Sneaker Zapatillas para...'
+sku: 'B07V2J34ZR-es'
 tags: [  ]
 actualPrice: 29.73 EUR
 currency: EUR

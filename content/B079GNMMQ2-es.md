@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079GNMMQ2-es Pendientes Colgantes Diseño Flor de Verano Multicolor para...'
+sku: 'B079GNMMQ2-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

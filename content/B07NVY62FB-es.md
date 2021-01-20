@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NVY62FB-es Estuches Multicolor PRINCESAS'
+sku: 'B07NVY62FB-es'
 tags: [  ]
 actualPrice: 17.5 EUR
 currency: EUR

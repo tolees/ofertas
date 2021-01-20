@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083Z65VYF-es Panamami Magic Drawing Light Effect Board Sketch Board...'
+sku: 'B083Z65VYF-es'
 tags: [  ]
 actualPrice: 4.37 EUR
 currency: EUR

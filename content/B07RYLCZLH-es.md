@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RYLCZLH-es Termómetro Digital para la Fiebre Termómetro Médico Oral...'
+sku: 'B07RYLCZLH-es'
 tags: [  ]
 actualPrice: 8.49 EUR
 currency: EUR

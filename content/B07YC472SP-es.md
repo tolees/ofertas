@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YC472SP-es Gimbal Estabilizador 3 en1 para Cámara Digital/Gopro...'
+sku: 'B07YC472SP-es'
 tags: [  ]
 actualPrice: 179.0 EUR
 currency: EUR

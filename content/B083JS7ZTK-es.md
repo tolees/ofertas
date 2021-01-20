@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083JS7ZTK-es seenlast Raqueta Mosca Antimosquitos Matamoscas Eléctrico...'
+sku: 'B083JS7ZTK-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

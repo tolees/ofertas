@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G74S8CD-es laamei Manta de Invierno para Bebé Recién Nacido Manta...'
+sku: 'B07G74S8CD-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

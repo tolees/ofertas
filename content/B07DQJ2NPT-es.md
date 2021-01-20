@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DQJ2NPT-es SunTop LED Lámpara de Inspección Recargable Linterna de...'
+sku: 'B07DQJ2NPT-es'
 tags: [  ]
 actualPrice: 13.49 EUR
 currency: EUR

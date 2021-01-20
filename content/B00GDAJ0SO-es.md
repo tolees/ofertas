@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GDAJ0SO-es YAZILIND Joyería Hecha a Mano con Encanto étnica de Plata...'
+sku: 'B00GDAJ0SO-es'
 tags: [  ]
 actualPrice: 0.48 EUR
 currency: EUR

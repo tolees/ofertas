@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00V88E0PO-es Clarins - Gel contorno de ojos - Antiojeras Antibolsas -...'
+sku: 'B00V88E0PO-es'
 tags: [  ]
 actualPrice: 21.95 EUR
 currency: EUR

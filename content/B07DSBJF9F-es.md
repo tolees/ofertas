@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DSBJF9F-es L Oréal Paris Make-up designer Infalible 24H Fresh Wear...'
+sku: 'B07DSBJF9F-es'
 tags: [  ]
 actualPrice: 9.31 EUR
 currency: EUR

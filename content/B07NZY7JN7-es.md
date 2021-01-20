@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NZY7JN7-es Skechers Men s Metco-Parken Trainers Gris Gray Black Mesh...'
+sku: 'B07NZY7JN7-es'
 tags: [  ]
 actualPrice: 42.32 EUR
 currency: EUR

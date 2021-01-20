@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086M8B4ZK-es Oihxse Funda para iPhone XS MAX/iPhone 10 Plus...'
+sku: 'B086M8B4ZK-es'
 tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR

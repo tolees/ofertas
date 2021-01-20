@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZLNJHX-es Under Armour Tech Mesh 3 Inch Corto Mujer Negro XS'
+sku: 'B07CZLNJHX-es'
 tags: [  ]
 actualPrice: 10.49 EUR
 currency: EUR

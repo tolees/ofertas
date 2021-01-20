@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B1PYPGH-es Cámara de Conferencia USB sin Disco con micrófono HD...'
+sku: 'B08B1PYPGH-es'
 tags: [  ]
 actualPrice: 17.81 EUR
 currency: EUR

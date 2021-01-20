@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F1NQ7M1-es Conector Coaxial RF Adaptadores Accesorios para Imagen...'
+sku: 'B07F1NQ7M1-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

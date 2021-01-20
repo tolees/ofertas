@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002PX5H9Y-es Kent Car Care Q9255 Kit de 3 Pulidores con Mango'
+sku: 'B002PX5H9Y-es'
 tags: [  ]
 actualPrice: 5.09 EUR
 currency: EUR

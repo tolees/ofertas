@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MZ0T0C9-es Bourjois Healthy Mix Concealer Corrector Tono 52 Medium...'
+sku: 'B01MZ0T0C9-es'
 tags: [  ]
 actualPrice: 4.35 EUR
 currency: EUR

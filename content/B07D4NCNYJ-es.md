@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D4NCNYJ-es Krups Dispensador de cerveza The Sub Compact VB641810 -...'
+sku: 'B07D4NCNYJ-es'
 tags: [  ]
 actualPrice: 69.0 EUR
 currency: EUR

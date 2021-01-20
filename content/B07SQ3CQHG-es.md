@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SQ3CQHG-es TedGem Ventilador Ventilador USB Ventilador de Mesa Mini...'
+sku: 'B07SQ3CQHG-es'
 tags: [  ]
 actualPrice: 11.04 EUR
 currency: EUR

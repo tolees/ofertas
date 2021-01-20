@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078ZZFDBW-es TRESemmé Champú Hidratación Intensa - Paquete de 4 x 900...'
+sku: 'B078ZZFDBW-es'
 tags: [  ]
 actualPrice: 14.41 EUR
 currency: EUR

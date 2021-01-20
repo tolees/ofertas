@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004ZIPKJE-es Helly Hansen Driftline Polo Hombre Negro XL'
+sku: 'B004ZIPKJE-es'
 tags: [  ]
 actualPrice: 32.73 EUR
 currency: EUR

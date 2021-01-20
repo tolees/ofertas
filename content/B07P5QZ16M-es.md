@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P5QZ16M-es ENEGON Batería de Repuesto Paquete de 2 y Cargador rápido...'
+sku: 'B07P5QZ16M-es'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

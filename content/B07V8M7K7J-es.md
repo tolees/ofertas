@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V8M7K7J-es Mishansha Zapatillas de Estar en Casa Hombre Mujer...'
+sku: 'B07V8M7K7J-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

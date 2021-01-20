@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M9B1DXB-es Gel separador y corrector de los dedos de los pies para...'
+sku: 'B01M9B1DXB-es'
 tags: [  ]
 actualPrice: 7.09 EUR
 currency: EUR

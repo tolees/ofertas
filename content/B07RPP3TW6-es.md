@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RPP3TW6-es Gifts Treat Sombrero de niña Summer Sun Hat Sombrero de...'
+sku: 'B07RPP3TW6-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

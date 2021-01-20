@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083XJLCNZ-es Masajeador Portátil 10 Modos de Frecuencia Silicona Suave...'
+sku: 'B083XJLCNZ-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

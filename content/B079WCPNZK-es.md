@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079WCPNZK-es Lenovo 120S-11IAP - Ordenador portátil de 11.6" HD Intel...'
+sku: 'B079WCPNZK-es'
 tags: [  ]
 actualPrice: 183.11 EUR
 currency: EUR

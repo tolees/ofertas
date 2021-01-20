@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00AATN1TS-es Clinique 52245 - Barra de labios'
+sku: 'B00AATN1TS-es'
 tags: [  ]
 actualPrice: 13.1 EUR
 currency: EUR

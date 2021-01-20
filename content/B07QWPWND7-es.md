@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QWPWND7-es Gitany Juego de 10 Utensilios de Cocina Set de Utensilios...'
+sku: 'B07QWPWND7-es'
 tags: [  ]
 actualPrice: 23.55 EUR
 currency: EUR

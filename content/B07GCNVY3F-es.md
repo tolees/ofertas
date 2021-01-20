@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GCNVY3F-es RREN-Faucet Versión extendida de la grifería de Doble...'
+sku: 'B07GCNVY3F-es'
 tags: [  ]
 actualPrice: 35.2 EUR
 currency: EUR

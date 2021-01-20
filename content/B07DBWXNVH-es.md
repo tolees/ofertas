@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DBWXNVH-es PUMA Vikky V2 Zapatillas para Mujer Negro Black White...'
+sku: 'B07DBWXNVH-es'
 tags: [  ]
 actualPrice: 21.87 EUR
 currency: EUR

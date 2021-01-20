@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KK44VXD-es Columbia Peakfreak Venture S II Mid Botas de Senderismo...'
+sku: 'B07KK44VXD-es'
 tags: [  ]
 actualPrice: 41.98 EUR
 currency: EUR

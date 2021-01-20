@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JQHH1GT-es AngLink Mechero Electrico Encendedor USB Doble Arco...'
+sku: 'B07JQHH1GT-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

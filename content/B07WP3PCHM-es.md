@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WP3PCHM-es LYCAON AB Wheel Roller con Barra de Empuje Cuerda de...'
+sku: 'B07WP3PCHM-es'
 tags: [  ]
 actualPrice: 14.82 EUR
 currency: EUR

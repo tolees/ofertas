@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MFQHZW7-es Hackett London Amr SS Polo Navy/Multi 5cv Small para Hombre'
+sku: 'B07MFQHZW7-es'
 tags: [  ]
 actualPrice: 53.26 EUR
 currency: EUR

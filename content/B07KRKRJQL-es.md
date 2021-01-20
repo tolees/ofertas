@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRKRJQL-es New Balance Fresh Foam Zante Pursuit Zapatillas de Running...'
+sku: 'B07KRKRJQL-es'
 tags: [  ]
 actualPrice: 29.1 EUR
 currency: EUR

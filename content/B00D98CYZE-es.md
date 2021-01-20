@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00D98CYZE-es D-Link DWM-157 - Modem 3G USB 2.0 Libre HSPA+ 21.6 Mbps...'
+sku: 'B00D98CYZE-es'
 tags: [  ]
 actualPrice: 31.06 EUR
 currency: EUR

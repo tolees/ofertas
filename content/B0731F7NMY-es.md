@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0731F7NMY-es Festina Reloj Cronógrafo para Hombre de Cuarzo con Correa...'
+sku: 'B0731F7NMY-es'
 tags: [  ]
 actualPrice: 299.0 EUR
 currency: EUR

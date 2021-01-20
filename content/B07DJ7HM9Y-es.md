@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJ7HM9Y-es New Balance 574S v2 Zapatillas para Mujer Negro...'
+sku: 'B07DJ7HM9Y-es'
 tags: [  ]
 actualPrice: 58.4 EUR
 currency: EUR

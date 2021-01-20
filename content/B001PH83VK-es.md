@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001PH83VK-es Superga 2750 COTU Classic Zapatillas para Hombre White 901...'
+sku: 'B001PH83VK-es'
 tags: [  ]
 actualPrice: 39.0 EUR
 currency: EUR

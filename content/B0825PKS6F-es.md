@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0825PKS6F-es Roxy - Licra - Mujer - M - Blanco'
+sku: 'B0825PKS6F-es'
 tags: [  ]
 actualPrice: 14.54 EUR
 currency: EUR

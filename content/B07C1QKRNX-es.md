@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C1QKRNX-es Bird - Anclaje de pared suelo punto de seguridad para...'
+sku: 'B07C1QKRNX-es'
 tags: [  ]
 actualPrice: 13.01 EUR
 currency: EUR

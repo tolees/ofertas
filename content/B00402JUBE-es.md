@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00402JUBE-es Dual DT 210 USB - Tocadiscos para equipo de audio USB...'
+sku: 'B00402JUBE-es'
 tags: [  ]
 actualPrice: 82.7 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R3XXFMR-es Angel Schlesser Eau Fraiche Citrus Pomelo Edt Vapo 150 Ml...'
+sku: 'B07R3XXFMR-es'
 tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR

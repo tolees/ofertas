@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QD29NG8-es MTNG Attitude 69147 Zapatillas para Mujer Negro Goat PU...'
+sku: 'B07QD29NG8-es'
 tags: [  ]
 actualPrice: 28.94 EUR
 currency: EUR

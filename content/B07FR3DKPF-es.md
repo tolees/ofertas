@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FR3DKPF-es K KYUER TF03XL Batería del Portátil para HP Pavilion 15-CC...'
+sku: 'B07FR3DKPF-es'
 tags: [  ]
 actualPrice: 43.99 EUR
 currency: EUR

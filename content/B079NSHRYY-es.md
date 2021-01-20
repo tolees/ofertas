@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079NSHRYY-es Hugo Boss Orange Reloj Multiesfera para Hombre de Cuarzo...'
+sku: 'B079NSHRYY-es'
 tags: [  ]
 actualPrice: 124.94 EUR
 currency: EUR

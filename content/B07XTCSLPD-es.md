@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XTCSLPD-es JOOMFEEN Cargador de Coche Qualcomm Quick Charge 3.0+2.4A...'
+sku: 'B07XTCSLPD-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

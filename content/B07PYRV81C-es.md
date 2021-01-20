@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PYRV81C-es Telmu 10 x 42 Prismáticos con Prisma Superior BAK4 y Lente...'
+sku: 'B07PYRV81C-es'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

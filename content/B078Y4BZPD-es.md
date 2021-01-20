@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078Y4BZPD-es BRA Advanced Grill con rayas 28 cm aluminio fundido con...'
+sku: 'B078Y4BZPD-es'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

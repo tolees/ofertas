@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GXJMFQQ-es Comfysail 2Pcs Dispensador de Leche en Polvo para...'
+sku: 'B07GXJMFQQ-es'
 tags: [  ]
 actualPrice: 10.78 EUR
 currency: EUR

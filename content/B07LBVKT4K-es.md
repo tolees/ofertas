@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBVKT4K-es Calvin Klein Unlined Sujetador estilo bralette Azul Blue...'
+sku: 'B07LBVKT4K-es'
 tags: [  ]
 actualPrice: 15.64 EUR
 currency: EUR

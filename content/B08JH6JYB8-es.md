@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08JH6JYB8-es Auriculares Bluetooth 5.0 Auricular Inalámbrico reducción...'
+sku: 'B08JH6JYB8-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EX9MAA6-es LEDKIA LIGHTING Lámpara Colgante Jagger Negro'
+sku: 'B01EX9MAA6-es'
 tags: [  ]
 actualPrice: 35.83 EUR
 currency: EUR

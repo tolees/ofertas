@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFYFGLG-es PUMJV|#Puma Defy Wn s Zapatillas Deportivas para Interior...'
+sku: 'B07KFYFGLG-es'
 tags: [  ]
 actualPrice: 45.86 EUR
 currency: EUR

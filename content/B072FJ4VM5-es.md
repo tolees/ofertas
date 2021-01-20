@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072FJ4VM5-es Grace & Stella Co. Tratamiento de pérdida de cabello...'
+sku: 'B072FJ4VM5-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

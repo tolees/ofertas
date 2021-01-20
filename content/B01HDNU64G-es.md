@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HDNU64G-es Columbia Cascade Pass Waterproof Botas de Senderismo para...'
+sku: 'B01HDNU64G-es'
 tags: [  ]
 actualPrice: 47.06 EUR
 currency: EUR

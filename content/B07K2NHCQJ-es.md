@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2NHCQJ-es adidas Runfalcon Zapatillas de Running para Hombre Rot...'
+sku: 'B07K2NHCQJ-es'
 tags: [  ]
 actualPrice: 30.0 EUR
 currency: EUR

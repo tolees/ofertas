@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T9ZK41M-es Tostadora Pan Ranura Ancha 3 en 1 - Blanca Mate Inoxidable...'
+sku: 'B07T9ZK41M-es'
 tags: [  ]
 actualPrice: 29.97 EUR
 currency: EUR

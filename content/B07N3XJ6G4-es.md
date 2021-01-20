@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N3XJ6G4-es Diadermine - Hydralist Crema Hidratante de Día - Textura...'
+sku: 'B07N3XJ6G4-es'
 tags: [  ]
 actualPrice: 8.95 EUR
 currency: EUR

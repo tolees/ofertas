@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081VC8DNW-es Frozen Pijamas de Manga Larga para niños El Reino del...'
+sku: 'B081VC8DNW-es'
 tags: [  ]
 actualPrice: 12.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086GTMKZN-es Oihxse Transparente Funda para Huawei Mate 8 Ultrafina...'
+sku: 'B086GTMKZN-es'
 tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR

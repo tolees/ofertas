@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NBMZUR5-es Vans Classic Slip-on Platform Zapatillas sin Cordones para...'
+sku: 'B01NBMZUR5-es'
 tags: [  ]
 actualPrice: 50.41 EUR
 currency: EUR

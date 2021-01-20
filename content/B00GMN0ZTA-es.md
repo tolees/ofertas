@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GMN0ZTA-es EL ACCESORIO ORIGINAL de"BuyAndFeelGood" con EFECTO...'
+sku: 'B00GMN0ZTA-es'
 tags: [  ]
 actualPrice: 12.5 EUR
 currency: EUR

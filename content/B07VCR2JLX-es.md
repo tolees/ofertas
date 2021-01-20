@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VCR2JLX-es Linterna de trabajo 1000Lumen Alta Potencia Lámpara de...'
+sku: 'B07VCR2JLX-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

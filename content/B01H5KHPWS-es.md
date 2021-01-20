@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H5KHPWS-es Pikolin Home - Protector de colchón para cuna de rizo 100%...'
+sku: 'B01H5KHPWS-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

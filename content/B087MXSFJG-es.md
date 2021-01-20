@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087MXSFJG-es 50 colores 100 colores punto de cruz hilo poliéster...'
+sku: 'B087MXSFJG-es'
 tags: [  ]
 actualPrice: 3.66 EUR
 currency: EUR

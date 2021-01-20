@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007XC72JA-es M MOLTO Pupitre Pizarra 2 en 1'
+sku: 'B007XC72JA-es'
 tags: [  ]
 actualPrice: 25.0 EUR
 currency: EUR

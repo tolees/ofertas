@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VR53UC2-es Skechers Men s STAMINA CUTBACK Trainers Blue Navy & Black...'
+sku: 'B00VR53UC2-es'
 tags: [  ]
 actualPrice: 38.32 EUR
 currency: EUR

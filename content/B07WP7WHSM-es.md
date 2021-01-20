@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WP7WHSM-es Funda Protectora para Huawei MediaPad M6 10.8 Pulgadas...'
+sku: 'B07WP7WHSM-es'
 tags: [  ]
 actualPrice: 14.06 EUR
 currency: EUR

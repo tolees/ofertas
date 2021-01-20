@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WC9HSYB-es TQmate 6Pack Protector de Pantalla Compatible con Xiaomi...'
+sku: 'B07WC9HSYB-es'
 tags: [  ]
 actualPrice: 5.55 EUR
 currency: EUR

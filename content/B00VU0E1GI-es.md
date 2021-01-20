@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VU0E1GI-es Nike Knee High Classic Football Dri Fit Calcetines Unisex...'
+sku: 'B00VU0E1GI-es'
 tags: [  ]
 actualPrice: 4.95 EUR
 currency: EUR

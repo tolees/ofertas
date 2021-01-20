@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CB4V5PK-es Festina Reloj Cronógrafo para Hombre de Cuarzo con Correa...'
+sku: 'B07CB4V5PK-es'
 tags: [  ]
 actualPrice: 130.45 EUR
 currency: EUR

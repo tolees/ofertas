@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LGLMRJ4-es Evax Fina y Segura Super/Maxi Compresas Con Alas - 11...'
+sku: 'B07LGLMRJ4-es'
 tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR

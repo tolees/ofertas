@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JPZ471T-es adidas Tastigo19 SHO Pantalones Cortos de Deporte Hombre...'
+sku: 'B07JPZ471T-es'
 tags: [  ]
 actualPrice: 19.94 EUR
 currency: EUR

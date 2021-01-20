@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S4CMS4S-es FitFlop Uberknit F-Sporty Sneaker Zapatillas para Mujer...'
+sku: 'B07S4CMS4S-es'
 tags: [  ]
 actualPrice: 24.1 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WWV3Z5S-es ELTD Funda + Protector Pantalla para Samsung Galaxy Tab A...'
+sku: 'B07WWV3Z5S-es'
 tags: [  ]
 actualPrice: 11.5 EUR
 currency: EUR

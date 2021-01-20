@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004ISL2LQ-es Gowi 454-81 - Juego de cubiertos y bandeja 17 piezas...'
+sku: 'B004ISL2LQ-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

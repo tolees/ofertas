@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVVFW8X-es Skechers Ultra Flex 2.0 Zapatillas sin Cordones para...'
+sku: 'B07TVVFW8X-es'
 tags: [  ]
 actualPrice: 43.8 EUR
 currency: EUR

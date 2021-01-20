@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HLWJ3M5-es READ Reloj Deportivo Impermeable para Hombres con Fecha...'
+sku: 'B07HLWJ3M5-es'
 tags: [  ]
 actualPrice: 9.89 EUR
 currency: EUR

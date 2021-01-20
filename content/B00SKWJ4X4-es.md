@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SKWJ4X4-es Lonsdale Hombre Box Shorts Entrenar Boxeo Pantalones...'
+sku: 'B00SKWJ4X4-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

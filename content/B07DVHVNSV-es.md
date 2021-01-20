@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DVHVNSV-es New Balance M1400V6 Zapatillas de Running para Hombre...'
+sku: 'B07DVHVNSV-es'
 tags: [  ]
 actualPrice: 69 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N6KVZBS-es Tommy Hilfiger Flag Knit Scarf Bufanda Pink Tf6 Talla...'
+sku: 'B07N6KVZBS-es'
 tags: [  ]
 actualPrice: 34.0 EUR
 currency: EUR

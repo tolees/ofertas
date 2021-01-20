@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HZM82GY-es Pulsar Reloj Mujer de Analogico PH7447X1'
+sku: 'B01HZM82GY-es'
 tags: [  ]
 actualPrice: 45.23 EUR
 currency: EUR

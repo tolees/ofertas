@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00L0MIB8K-es EasyRead ERTT-DIG Reloj Infantil de Pared Time Teacher Que...'
+sku: 'B00L0MIB8K-es'
 tags: [  ]
 actualPrice: 25.0 EUR
 currency: EUR

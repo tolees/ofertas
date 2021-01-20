@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SVPHRP4-es adidas Terrex Agravic Flow GTX W Zapatillas de Cross para...'
+sku: 'B07SVPHRP4-es'
 tags: [  ]
 actualPrice: 48.39 EUR
 currency: EUR

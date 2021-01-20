@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KP9GW69-es DlandHome Mesa Auxiliar En Forma de U con Ruedas Cesta...'
+sku: 'B07KP9GW69-es'
 tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR

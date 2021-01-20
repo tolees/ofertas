@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075R4MX4L-es Firbon Álbum de Fotos álbum de Recortes Pegatina Creativa...'
+sku: 'B075R4MX4L-es'
 tags: [  ]
 actualPrice: 13.49 EUR
 currency: EUR

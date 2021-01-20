@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071ZZD8T2-es HyperX Predator - Memoria RAM de 8 GB DDR4 2400 MHz CL12...'
+sku: 'B071ZZD8T2-es'
 tags: [  ]
 actualPrice: 42.0 EUR
 currency: EUR

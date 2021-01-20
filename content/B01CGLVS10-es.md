@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CGLVS10-es SECTOR NO LIMITS Reloj Digital para Hombre de Cuarzo con...'
+sku: 'B01CGLVS10-es'
 tags: [  ]
 actualPrice: 17.7 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00630TLAG-es Naturtint. Tinte Sin Amoniaco. Ingredientes Vegetales. 10N...'
+sku: 'B00630TLAG-es'
 tags: [  ]
 actualPrice: 4.29 EUR
 currency: EUR

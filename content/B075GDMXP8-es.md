@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075GDMXP8-es Pioneer SE-E7BT-Y - Auricular Deportivo con Bluetooth...'
+sku: 'B075GDMXP8-es'
 tags: [  ]
 actualPrice: 53.14 EUR
 currency: EUR

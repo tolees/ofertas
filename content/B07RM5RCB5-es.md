@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RM5RCB5-es Under Armour Roland Duffle SM Bolsa de Deportes Hombre...'
+sku: 'B07RM5RCB5-es'
 tags: [  ]
 actualPrice: 13.26 EUR
 currency: EUR

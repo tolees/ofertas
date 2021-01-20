@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZNL2X8-es Gioseppo 56776 Zapatillas Altas para Mujer Azul Marino...'
+sku: 'B07MZNL2X8-es'
 tags: [  ]
 actualPrice: 24.44 EUR
 currency: EUR

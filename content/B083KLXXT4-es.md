@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083KLXXT4-es Scholl Plantillas Gelactiv Uso Diario Mujer + Crema de...'
+sku: 'B083KLXXT4-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085KX43TW-es YMing Velas Aromaticas Velas de Te Set de Regalo de Velas...'
+sku: 'B085KX43TW-es'
 tags: [  ]
 actualPrice: 15.89 EUR
 currency: EUR

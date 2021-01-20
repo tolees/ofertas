@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVZPPGY-es Reebok Forever FLOATRIDE Energy Zapatillas de Trail...'
+sku: 'B07MVZPPGY-es'
 tags: [  ]
 actualPrice: 54.97 EUR
 currency: EUR

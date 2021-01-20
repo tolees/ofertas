@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YNR26HL-es Krups EA82F0 - Cafetera Superautomática 1450 W 15 bares 1...'
+sku: 'B07YNR26HL-es'
 tags: [  ]
 actualPrice: 199.0 EUR
 currency: EUR

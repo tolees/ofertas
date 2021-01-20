@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CW7LY44-es Columbia Camden Outdry Chukka Botas Casual Impermeable...'
+sku: 'B07CW7LY44-es'
 tags: [  ]
 actualPrice: 69.95 EUR
 currency: EUR

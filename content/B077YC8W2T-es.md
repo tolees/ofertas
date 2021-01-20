@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077YC8W2T-es CRZ YOGA Sujetador Deportivo Yoga para Mujer Ejercicio...'
+sku: 'B077YC8W2T-es'
 tags: [  ]
 actualPrice: 16.0 EUR
 currency: EUR

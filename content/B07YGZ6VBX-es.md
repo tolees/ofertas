@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YGZ6VBX-es Miquel Rius 17280 - Cubilete Azul Bella Garden'
+sku: 'B07YGZ6VBX-es'
 tags: [  ]
 actualPrice: 6.1 EUR
 currency: EUR

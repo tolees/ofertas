@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C2CLPVD-es JACK & JONES Jjeunion Knit Crew Neck Noos suéter Rojo Port...'
+sku: 'B07C2CLPVD-es'
 tags: [  ]
 actualPrice: 10.5 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0053C9FGA-es El increible Hulk 2ª temporada [DVD]'
+sku: 'B0053C9FGA-es'
 tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR

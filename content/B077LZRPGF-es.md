@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077LZRPGF-es Timex Reloj Analógico para Mujer de Cuarzo con Correa en...'
+sku: 'B077LZRPGF-es'
 tags: [  ]
 actualPrice: 26.7 EUR
 currency: EUR

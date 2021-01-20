@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZBQBVL-es LIGHTAILING Conjunto de Luces Architecture Edificio del...'
+sku: 'B07RZBQBVL-es'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

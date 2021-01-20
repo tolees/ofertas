@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VFDTJ6X-es Triumph Essential Minimizer W X Sujetador con Aros Marrón...'
+sku: 'B07VFDTJ6X-es'
 tags: [  ]
 actualPrice: 19.0 EUR
 currency: EUR

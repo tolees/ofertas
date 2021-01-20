@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVSWQFT-es Valentino by Mario - Summer Memento Bolsos bandolera Mujer...'
+sku: 'B07TVSWQFT-es'
 tags: [  ]
 actualPrice: 79.05 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SS6JPXH-es Skin Scrubber Ultrasónico WOWGO Exfoliación Facial...'
+sku: 'B07SS6JPXH-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

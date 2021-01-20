@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C7YDGFP-es Easton Marlowe 6 PR Calcetines Sutilmente Estampados...'
+sku: 'B07C7YDGFP-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

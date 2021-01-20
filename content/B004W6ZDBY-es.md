@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004W6ZDBY-es Babyliss - 3038e - Estuche de 5 rulos términos tamaño...'
+sku: 'B004W6ZDBY-es'
 tags: [  ]
 actualPrice: 27.19 EUR
 currency: EUR

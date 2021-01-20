@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZW89RQ-es Kipling Abanu Bolsos con Bandolera para Mujer Amarillo...'
+sku: 'B07TZW89RQ-es'
 tags: [  ]
 actualPrice: 32.5 EUR
 currency: EUR

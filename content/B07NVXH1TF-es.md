@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NVXH1TF-es G-Star Raw 3301 Slim 1/2 Pantalones cortos Negro medium...'
+sku: 'B07NVXH1TF-es'
 tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089YW9CT4-es DOHUI Funda para Xiaomi Redmi 10X Pro 5G Silicona Suave...'
+sku: 'B089YW9CT4-es'
 tags: [  ]
 actualPrice: 4.5 EUR
 currency: EUR

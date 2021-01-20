@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N4LL9IU-es G-STAR RAW Rovulc Denim Mid Sneakers Zapatillas para...'
+sku: 'B01N4LL9IU-es'
 tags: [  ]
 actualPrice: 24.61 EUR
 currency: EUR

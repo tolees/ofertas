@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YXXVN2P-es Soporte de Carga para A pple Watch Estación de Carga...'
+sku: 'B07YXXVN2P-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

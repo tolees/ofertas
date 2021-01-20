@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00D5Q5AJM-es Yimidear Anillos de Gimnasia Madera Anillos Olímpicos con...'
+sku: 'B00D5Q5AJM-es'
 tags: [  ]
 actualPrice: 25.98 EUR
 currency: EUR

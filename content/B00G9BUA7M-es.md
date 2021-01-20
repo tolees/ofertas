@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00G9BUA7M-es Beronia 198 Barricas Vino D.O.CA. Rioja - 750 ml'
+sku: 'B00G9BUA7M-es'
 tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR

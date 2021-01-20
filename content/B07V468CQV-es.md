@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V468CQV-es CARAMAZ Parasol Coche con protección UV Extra Oscura -...'
+sku: 'B07V468CQV-es'
 tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR

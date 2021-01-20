@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0826NKLZ1-es ysister Album de Fotos Our Adventure Book Álbum de Fotos...'
+sku: 'B0826NKLZ1-es'
 tags: [  ]
 actualPrice: 9.94 EUR
 currency: EUR

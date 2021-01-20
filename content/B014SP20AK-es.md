@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014SP20AK-es TOUCHBeauty Mujeres Mini Ladies Shaver Pluma Portátil...'
+sku: 'B014SP20AK-es'
 tags: [  ]
 actualPrice: 12.98 EUR
 currency: EUR

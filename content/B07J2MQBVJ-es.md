@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J2MQBVJ-es REYLEO'
+sku: 'B07J2MQBVJ-es'
 tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR

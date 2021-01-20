@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G2GJVXB-es Fossil Reloj Analógico para Hombre de Cuarzo con Correa en...'
+sku: 'B07G2GJVXB-es'
 tags: [  ]
 actualPrice: 75.6 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TLFK9XV-es Levi s Housemark Polo Multicolor Raven Stripe Mineral...'
+sku: 'B07TLFK9XV-es'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GCMS8B7-es Tommee Tippee Doudou Ernesto el Elefante'
+sku: 'B07GCMS8B7-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

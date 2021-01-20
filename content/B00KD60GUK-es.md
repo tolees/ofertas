@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KD60GUK-es Gillette BODY - Maquinilla de afeitar 3 hojas Para hombre...'
+sku: 'B00KD60GUK-es'
 tags: [  ]
 actualPrice: 4.89 EUR
 currency: EUR
@@ -26,12 +27,12 @@ Tienes [Gillette BODY - Maquinilla de afeitar 3 hojas  Para hombre  Verde](https
 
 ℹ️:
 
-- Diseñada para el afeitado del cuerpo masculino, también llamada depilación masculina
-- Maquinilla corporal que incluye tres hojas PowerGlide flotantes
-- Encaja con cualquier recambio de Gillette Body y Mach3
-- Menor sensación de irritación (en comparación con las desechables Blue II Plus)
-- Mango ergonómico antideslizamiento para un mejor control incluso en la ducha
-- Hojas redondeadas diseñadas para una comodidad total en el cuerpo
 - Tres bandas lubricantes para un deslizamiento increíble
+- Diseñada para el afeitado del cuerpo masculino, también llamada depilación masculina
+- Menor sensación de irritación (en comparación con las desechables Blue II Plus)
+- Encaja con cualquier recambio de Gillette Body y Mach3
+- Hojas redondeadas diseñadas para una comodidad total en el cuerpo
+- Mango ergonómico antideslizamiento para un mejor control incluso en la ducha
+- Maquinilla corporal que incluye tres hojas PowerGlide flotantes
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00KD60GUK/?tag=tolees-21)

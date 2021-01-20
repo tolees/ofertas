@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0868GL8LX-es ORIA Termómetro Infrarrojo Digital Termómetro sin Contacto...'
+sku: 'B0868GL8LX-es'
 tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR

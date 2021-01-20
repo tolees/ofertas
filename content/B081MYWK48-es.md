@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081MYWK48-es BLU Ray 4k Grabadora DVD Reproductor Externo Portatil USB...'
+sku: 'B081MYWK48-es'
 tags: [  ]
 actualPrice: 77.39 EUR
 currency: EUR

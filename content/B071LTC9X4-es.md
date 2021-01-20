@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071LTC9X4-es New Balance Pc574v1 Zapatillas Unisex Niños Negro...'
+sku: 'B071LTC9X4-es'
 tags: [  ]
 actualPrice: 30.85 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RDLQXLB-es Salomon Tech Lite Zapatillas de Senderismo acuáticas para...'
+sku: 'B07RDLQXLB-es'
 tags: [  ]
 actualPrice: 48.99 EUR
 currency: EUR

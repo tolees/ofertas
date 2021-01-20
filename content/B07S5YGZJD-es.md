@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S5YGZJD-es Bandas Elasticas Fitness Glúteos Bandas de Resistencia de...'
+sku: 'B07S5YGZJD-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

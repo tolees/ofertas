@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KZ81SLS-es AmazonBasics - Sábana ajustable de microfibra premium 135...'
+sku: 'B07KZ81SLS-es'
 tags: [  ]
 actualPrice: 6.91 EUR
 currency: EUR

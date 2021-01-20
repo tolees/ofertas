@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CHV9KWZ-es Levi s Graphic Sport Capucha Blanco Housemark Hoodie White...'
+sku: 'B07CHV9KWZ-es'
 tags: [  ]
 actualPrice: 37.18 EUR
 currency: EUR

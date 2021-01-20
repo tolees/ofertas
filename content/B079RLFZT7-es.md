@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079RLFZT7-es Funko- Pocket Pop Avengers Infinity War PPK 4 Figura de...'
+sku: 'B079RLFZT7-es'
 tags: [  ]
 actualPrice: 4.3 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081FSHHWZ-es Pack: Frozen + Frozen 2 BD [Blu-ray]'
+sku: 'B081FSHHWZ-es'
 tags: [  ]
 actualPrice: 21.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G91CCRY-es Bonsenkitchen Envasadora al Vacío Sellador al Vacío de...'
+sku: 'B07G91CCRY-es'
 tags: [  ]
 actualPrice: 27.88 EUR
 currency: EUR

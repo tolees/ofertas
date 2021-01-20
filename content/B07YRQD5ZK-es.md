@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YRQD5ZK-es flintronic® Taza de Viaje Termo Taza 500ML Travel Mug...'
+sku: 'B07YRQD5ZK-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

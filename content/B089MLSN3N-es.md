@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089MLSN3N-es Molyflower El más Nuevo B17 Pulsera Deportiva Inteligente...'
+sku: 'B089MLSN3N-es'
 tags: [  ]
 actualPrice: 7.65 EUR
 currency: EUR

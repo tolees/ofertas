@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WSBBLCS-es Sacaleches Eléctrico Eccomum Sacaleches Doble...'
+sku: 'B07WSBBLCS-es'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

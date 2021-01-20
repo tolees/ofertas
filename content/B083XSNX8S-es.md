@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083XSNX8S-es Manfrotto Befree Advanced Camo Trípode de Viaje con Cabeza...'
+sku: 'B083XSNX8S-es'
 tags: [  ]
 actualPrice: 135.0 EUR
 currency: EUR

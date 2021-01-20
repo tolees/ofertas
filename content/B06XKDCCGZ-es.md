@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XKDCCGZ-es Epson DURABrite Ultra Ink Cartucho de Tinta para...'
+sku: 'B06XKDCCGZ-es'
 tags: [  ]
 actualPrice: 34.11 EUR
 currency: EUR

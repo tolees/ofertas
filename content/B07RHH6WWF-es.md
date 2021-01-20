@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RHH6WWF-es El clip del oído de las Estrellas Ninguna Perforación...'
+sku: 'B07RHH6WWF-es'
 tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR

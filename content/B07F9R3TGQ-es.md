@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F9R3TGQ-es Festina Reloj de Pulsera F20361/1'
+sku: 'B07F9R3TGQ-es'
 tags: [  ]
 actualPrice: 121.98 EUR
 currency: EUR

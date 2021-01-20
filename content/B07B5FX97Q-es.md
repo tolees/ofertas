@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B5FX97Q-es Trabanco Sidra Natural. Caja de 6 Botellas de 70 cl.'
+sku: 'B07B5FX97Q-es'
 tags: [  ]
 actualPrice: 11.5 EUR
 currency: EUR

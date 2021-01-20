@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PTTCV49-es Kipling - Atlez Duo Bolsos bandolera Mujer Marrón Metallic...'
+sku: 'B07PTTCV49-es'
 tags: [  ]
 actualPrice: 34.5 EUR
 currency: EUR

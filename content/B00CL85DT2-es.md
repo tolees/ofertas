@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CL85DT2-es Melissa & Doug-Mis Primeros Tatuajes Provisorios...'
+sku: 'B00CL85DT2-es'
 tags: [  ]
 actualPrice: 4.74 EUR
 currency: EUR

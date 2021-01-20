@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008SOPYIS-es Targus AWE77EU - Soporte para Tableta de 7-10" para...'
+sku: 'B008SOPYIS-es'
 tags: [  ]
 actualPrice: 14.29 EUR
 currency: EUR

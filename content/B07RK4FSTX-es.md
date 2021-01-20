@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RK4FSTX-es Nike Renew Lucent PS Zapatillas Unisex Niños Negro...'
+sku: 'B07RK4FSTX-es'
 tags: [  ]
 actualPrice: 18.56 EUR
 currency: EUR

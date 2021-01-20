@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007CFTGB0-es Orbegozo HO 810 A Mini horno- tostador multifunción 800 W...'
+sku: 'B007CFTGB0-es'
 tags: [  ]
 actualPrice: 25 EUR
 currency: EUR

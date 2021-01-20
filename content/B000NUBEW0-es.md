@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000NUBEW0-es XLC 2501810002 Pedal para BTT PD-M01'
+sku: 'B000NUBEW0-es'
 tags: [  ]
 actualPrice: 6.95 EUR
 currency: EUR

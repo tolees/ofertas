@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JO57YZQ-es Biosilk Mascarilla de pelo - 118 ml.'
+sku: 'B00JO57YZQ-es'
 tags: [  ]
 actualPrice: 5.7 EUR
 currency: EUR

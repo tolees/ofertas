@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TTDKWFN-es Skechers Skech-Air Dynamight-Fast Brak Zapatillas para...'
+sku: 'B07TTDKWFN-es'
 tags: [  ]
 actualPrice: 35.9 EUR
 currency: EUR

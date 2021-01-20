@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CB94KYC-es Gen‚rico Calzador de Mango Largo Acero Inoxidable Cordón...'
+sku: 'B07CB94KYC-es'
 tags: [  ]
 actualPrice: 7.26 EUR
 currency: EUR

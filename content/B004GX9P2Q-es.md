@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004GX9P2Q-es Maybelline New York - Superstay 24H Pintalabios Mate de...'
+sku: 'B004GX9P2Q-es'
 tags: [  ]
 actualPrice: 8.9 EUR
 currency: EUR

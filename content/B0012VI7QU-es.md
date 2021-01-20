@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0012VI7QU-es Delonghi ESAM 5500.M Máquina De Espresso Automática 1350 W...'
+sku: 'B0012VI7QU-es'
 tags: [  ]
 actualPrice: 492.26 EUR
 currency: EUR

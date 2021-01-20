@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZKJRB5-es Destornillador Eléctrico Inalámbrico LOMVUM LV401 4V...'
+sku: 'B07RZKJRB5-es'
 tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR

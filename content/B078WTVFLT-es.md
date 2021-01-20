@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WTVFLT-es Nike Internationalist Women s Shoe Zapatillas para Mujer...'
+sku: 'B078WTVFLT-es'
 tags: [  ]
 actualPrice: 62.8 EUR
 currency: EUR

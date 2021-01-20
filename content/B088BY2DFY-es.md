@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088BY2DFY-es Slabo Protector de Pantalla Privacy para Realme 6 Pro...'
+sku: 'B088BY2DFY-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078MFZX81-es Distribuidores de señal Splitter Combinador de Cables...'
+sku: 'B078MFZX81-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

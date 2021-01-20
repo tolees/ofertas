@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MDMMM5R-es Equipo fotográfico portátil de Photo Booster de Mini...'
+sku: 'B07MDMMM5R-es'
 tags: [  ]
 actualPrice: 16.45 EUR
 currency: EUR

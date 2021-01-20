@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GNOCAHM-es Luz Solar Kealive Lámpara Solar Exterior 8 Colores...'
+sku: 'B01GNOCAHM-es'
 tags: [  ]
 actualPrice: 22.98 EUR
 currency: EUR

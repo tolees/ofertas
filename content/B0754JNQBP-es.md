@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0754JNQBP-es AMD Ryzen Threadripper 1900X Box sTR4 - Microprocesador...'
+sku: 'B0754JNQBP-es'
 tags: [  ]
 actualPrice: 183.43 EUR
 currency: EUR

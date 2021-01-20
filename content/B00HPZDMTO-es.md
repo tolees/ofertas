@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HPZDMTO-es PUMA Basket Classic LFS Zapatillas para Hombre Blanco...'
+sku: 'B00HPZDMTO-es'
 tags: [  ]
 actualPrice: 58.09 EUR
 currency: EUR

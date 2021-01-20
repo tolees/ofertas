@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081W2D9YW-es Carpeta Clasificadora - ABClife Archivador acordeón 12...'
+sku: 'B081W2D9YW-es'
 tags: [  ]
 actualPrice: 7.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VC1PHKT-es JACK & JONES Jorrafael Sweat Hood Capucha Azul Sea Moss...'
+sku: 'B07VC1PHKT-es'
 tags: [  ]
 actualPrice: 8.86 EUR
 currency: EUR

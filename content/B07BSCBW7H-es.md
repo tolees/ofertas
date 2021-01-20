@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BSCBW7H-es SaintderG® Fundas para sillas Pack de 6 Fundas sillas...'
+sku: 'B07BSCBW7H-es'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

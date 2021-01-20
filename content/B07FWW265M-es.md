@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FWW265M-es non-brand 5X Bandera China del Dragón Al Aire Libre...'
+sku: 'B07FWW265M-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

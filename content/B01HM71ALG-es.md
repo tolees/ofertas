@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HM71ALG-es Ferrari 0830344 Gran Premio - Reloj analógico de pulsera...'
+sku: 'B01HM71ALG-es'
 tags: [  ]
 actualPrice: 236.36 EUR
 currency: EUR

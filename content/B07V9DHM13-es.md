@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V9DHM13-es TECOOL 13 Pulgadas Funda Portátil Funda de Cuero...'
+sku: 'B07V9DHM13-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J2BHHPT-es Lee Rider Short Pantalones Cortos Azul Flick Dark Ka 28W...'
+sku: 'B07J2BHHPT-es'
 tags: [  ]
 actualPrice: 12.37 EUR
 currency: EUR

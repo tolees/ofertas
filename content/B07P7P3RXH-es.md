@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P7P3RXH-es Garnier BIO - Kit Limpiador incluye Gel Detox Lemongrass...'
+sku: 'B07P7P3RXH-es'
 tags: [  ]
 actualPrice: 5.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005C2UFTC-es Star Wars Trilogía Episodios I-Iii 2011 [Blu-ray]'
+sku: 'B005C2UFTC-es'
 tags: [  ]
 actualPrice: 22.74 EUR
 currency: EUR

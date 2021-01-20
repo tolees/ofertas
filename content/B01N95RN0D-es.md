@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N95RN0D-es Braun Series 3 3010 BT W&D Afeitadora Eléctrica Afeitadora...'
+sku: 'B01N95RN0D-es'
 tags: [  ]
 actualPrice: 64 EUR
 currency: EUR

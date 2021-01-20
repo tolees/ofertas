@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082KKKKTW-es FUKTSYSM Cortador de Verdura Mandolina - 8 en 1 Rebanador...'
+sku: 'B082KKKKTW-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

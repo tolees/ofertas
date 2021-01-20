@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KQPPGZQ-es Salomon Trailster W Zapatillas de Trail Running para Mujer...'
+sku: 'B07KQPPGZQ-es'
 tags: [  ]
 actualPrice: 34.37 EUR
 currency: EUR

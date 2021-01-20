@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ANYAQTI-es WELEDA Acondicionador Reparador con Avena 1x 200 ml'
+sku: 'B00ANYAQTI-es'
 tags: [  ]
 actualPrice: 8.75 EUR
 currency: EUR

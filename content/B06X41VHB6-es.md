@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X41VHB6-es adidas Vs Set Zapatillas de Deporte Hombre Negro Core...'
+sku: 'B06X41VHB6-es'
 tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR

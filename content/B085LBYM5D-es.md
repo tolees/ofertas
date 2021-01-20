@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085LBYM5D-es Safety – Pantalla Facial Cocina cocinar Aceite de Doble...'
+sku: 'B085LBYM5D-es'
 tags: [  ]
 actualPrice: 3.39 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y359JNV-es Idefair Bandeja De Viaje para Niños Bandeja para automóvil...'
+sku: 'B07Y359JNV-es'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

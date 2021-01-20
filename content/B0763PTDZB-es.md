@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0763PTDZB-es MolinQ Cartera para Tarjetas de Crédito | Tarjetero...'
+sku: 'B0763PTDZB-es'
 tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F9VBSN3-es E-MANIS Bolsa Almuerzo Bolsa Térmica con Compartimentos...'
+sku: 'B07F9VBSN3-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

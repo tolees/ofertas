@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RDL8VBW-es Utawarerumono: ZAN - Unmasked Edition'
+sku: 'B07RDL8VBW-es'
 tags: [  ]
 actualPrice: 35.11 EUR
 currency: EUR

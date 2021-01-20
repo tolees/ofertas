@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079C4HPCW-es Birkenstock Rio Sandalia con Pulsera para Niñas Blanco...'
+sku: 'B079C4HPCW-es'
 tags: [  ]
 actualPrice: 35.93 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XHJP73X-es Smatree Funda para portátil Funda para portátil de 14...'
+sku: 'B07XHJP73X-es'
 tags: [  ]
 actualPrice: 18.97 EUR
 currency: EUR

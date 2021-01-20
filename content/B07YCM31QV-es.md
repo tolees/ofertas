@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YCM31QV-es Dye Hair Comb 5 piezas Professional Hair Dying Tool...'
+sku: 'B07YCM31QV-es'
 tags: [  ]
 actualPrice: 6.89 EUR
 currency: EUR

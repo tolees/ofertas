@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LH1HJJ7-es Salomon out Day 20+4 Mochila Capacidad 24 L Mujer Gris...'
+sku: 'B07LH1HJJ7-es'
 tags: [  ]
 actualPrice: 69.0 EUR
 currency: EUR

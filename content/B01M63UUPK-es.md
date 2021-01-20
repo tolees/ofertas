@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M63UUPK-es Air Wick Freshmatic Max Recambio Ambientador Oasis...'
+sku: 'B01M63UUPK-es'
 tags: [  ]
 actualPrice: 7.55 EUR
 currency: EUR

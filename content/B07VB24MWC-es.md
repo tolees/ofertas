@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VB24MWC-es LUDOS Comfy Almohadillas de Espuma Viscoelástica para...'
+sku: 'B07VB24MWC-es'
 tags: [  ]
 actualPrice: 9.97 EUR
 currency: EUR

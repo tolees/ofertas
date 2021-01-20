@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LWL87NJ-es Kimi Koala'
+sku: 'B01LWL87NJ-es'
 tags: [  ]
 actualPrice: 9.2 EUR
 currency: EUR

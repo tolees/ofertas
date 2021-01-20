@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JXYH74G-es Tommy Hilfiger Formal Belt 3.5 Cinturón Beige 100 Talla...'
+sku: 'B07JXYH74G-es'
 tags: [  ]
 actualPrice: 33.06 EUR
 currency: EUR

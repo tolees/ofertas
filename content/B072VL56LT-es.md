@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072VL56LT-es BERING Reloj Analogico para Mujer de Cuarzo con Correa en...'
+sku: 'B072VL56LT-es'
 tags: [  ]
 actualPrice: 128.68 EUR
 currency: EUR

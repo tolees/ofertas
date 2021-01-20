@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00AKBQM9W-es NanoCable 10.15.0903 - Cable HDMI a Mini HDMI alta...'
+sku: 'B00AKBQM9W-es'
 tags: [  ]
 actualPrice: 4.79 EUR
 currency: EUR

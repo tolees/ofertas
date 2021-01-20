@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N99QKOB-es Fantasy Flight Games Star Wars - Caja de Inicio: Kylo REN...'
+sku: 'B01N99QKOB-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

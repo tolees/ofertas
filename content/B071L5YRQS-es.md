@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071L5YRQS-es ASUS VA326H 31.5" Full HD Mate Negro Pantalla para PC -...'
+sku: 'B071L5YRQS-es'
 tags: [  ]
 actualPrice: 284 EUR
 currency: EUR

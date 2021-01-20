@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XDBCL13-es Vicloon Grifo Dispensador de bebidas de repuesto Acero...'
+sku: 'B06XDBCL13-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

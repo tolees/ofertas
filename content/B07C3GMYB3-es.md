@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C3GMYB3-es Zeewoo Juego de Accesorios Baño 5 Piezas Cerámica de...'
+sku: 'B07C3GMYB3-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

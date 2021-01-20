@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081MXYGQD-es Masajeador 10 Modos de Vibración Silicona Masajeador...'
+sku: 'B081MXYGQD-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

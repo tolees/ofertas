@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WPWHTHP-es Pepe Jeans Piccadilly 7/8 Short Azul Denim 000 30W / 30L...'
+sku: 'B07WPWHTHP-es'
 tags: [  ]
 actualPrice: 31.45 EUR
 currency: EUR

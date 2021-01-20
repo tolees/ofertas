@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HRXWYSR-es Eme Hybrid Challenger WPT'
+sku: 'B07HRXWYSR-es'
 tags: [  ]
 actualPrice: 93.99 EUR
 currency: EUR

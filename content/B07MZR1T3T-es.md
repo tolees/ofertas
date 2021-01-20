@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZR1T3T-es Vans Ward Hi Platform Sneaker para Mujer Negro Canvas...'
+sku: 'B07MZR1T3T-es'
 tags: [  ]
 actualPrice: 45.02 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081QLPRY3-es adidas Trefoil Tgh Mallas Mujer Rojo Lush Red/White 34'
+sku: 'B081QLPRY3-es'
 tags: [  ]
 actualPrice: 20.97 EUR
 currency: EUR

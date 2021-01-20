@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VDFL6G2-es 19 compartimentos Bolsa de almacenamiento de viaje de 2 ml...'
+sku: 'B07VDFL6G2-es'
 tags: [  ]
 actualPrice: 7.19 EUR
 currency: EUR

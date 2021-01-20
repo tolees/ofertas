@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TN2M12H-es Vans Atwood Textile Zapatillas para Hombre Rojo Corduroy...'
+sku: 'B07TN2M12H-es'
 tags: [  ]
 actualPrice: 36.86 EUR
 currency: EUR

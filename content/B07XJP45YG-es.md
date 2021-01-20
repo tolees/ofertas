@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XJP45YG-es Fullmosa Correa Compatible de Acero Inoxidable y Desmontar...'
+sku: 'B07XJP45YG-es'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

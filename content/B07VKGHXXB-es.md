@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VKGHXXB-es NIKE M NSW Swoosh Hbr SS tee T-Shirt Hombre White/ Black M'
+sku: 'B07VKGHXXB-es'
 tags: [  ]
 actualPrice: 11.01 EUR
 currency: EUR

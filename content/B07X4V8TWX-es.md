@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X4V8TWX-es Envasadoras al vacío Padi Home El Aparato para envasar al...'
+sku: 'B07X4V8TWX-es'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

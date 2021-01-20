@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WLMRK34-es ISOPHO Colchoneta Inflable colchón de Camping Ultraligero...'
+sku: 'B07WLMRK34-es'
 tags: [  ]
 actualPrice: 34.07 EUR
 currency: EUR

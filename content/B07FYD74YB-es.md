@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FYD74YB-es Champion the Curvy Soutien-Gorge de Sport Femme Noir Noir...'
+sku: 'B07FYD74YB-es'
 tags: [  ]
 actualPrice: 24.55 EUR
 currency: EUR

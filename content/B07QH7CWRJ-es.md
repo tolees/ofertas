@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QH7CWRJ-es PRIMENATURE Energy Shot. Energía y vitaminas. Suplemento...'
+sku: 'B07QH7CWRJ-es'
 tags: [  ]
 actualPrice: 16.85 EUR
 currency: EUR

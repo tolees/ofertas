@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DNH9TJS-es HDMI a SCART Convertidor convierte la señal digital de...'
+sku: 'B08DNH9TJS-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

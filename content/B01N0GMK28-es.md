@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N0GMK28-es Tibhar Tischtennisschläger Powercarbon XT neu azul'
+sku: 'B01N0GMK28-es'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

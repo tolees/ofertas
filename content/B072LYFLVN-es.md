@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072LYFLVN-es Tesa Assa Abloy Cilindro de Alta Seguridad Llave - Leva...'
+sku: 'B072LYFLVN-es'
 tags: [  ]
 actualPrice: 47.32 EUR
 currency: EUR

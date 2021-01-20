@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WTHJ1XO-es AmazonBasics - Riñonera de viaje con tecnología RFID Negro'
+sku: 'B00WTHJ1XO-es'
 tags: [  ]
 actualPrice: 6.98 EUR
 currency: EUR

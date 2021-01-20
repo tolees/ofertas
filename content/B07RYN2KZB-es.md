@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RYN2KZB-es Asics Gel-Bondi Zapatillas de Running para Hombre Negro...'
+sku: 'B07RYN2KZB-es'
 tags: [  ]
 actualPrice: 51.0 EUR
 currency: EUR

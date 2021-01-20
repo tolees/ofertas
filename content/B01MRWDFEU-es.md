@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MRWDFEU-es Pendientes Azul Marino Tradicionales y Elegantes para...'
+sku: 'B01MRWDFEU-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

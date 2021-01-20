@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0748BSWN2-es Suministros para mascotas suave y acogedor algodón...'
+sku: 'B0748BSWN2-es'
 tags: [  ]
 actualPrice: 28.98 EUR
 currency: EUR

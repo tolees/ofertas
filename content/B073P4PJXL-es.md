@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073P4PJXL-es LifeTree Cubiertas De Enfermería | Poncho de Enfermería |...'
+sku: 'B073P4PJXL-es'
 tags: [  ]
 actualPrice: 12.9 EUR
 currency: EUR

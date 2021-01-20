@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014WEJF6E-es RockJam Superkit Guitarra eléctrica de tamaño completo con...'
+sku: 'B014WEJF6E-es'
 tags: [  ]
 actualPrice: 98.98 EUR
 currency: EUR

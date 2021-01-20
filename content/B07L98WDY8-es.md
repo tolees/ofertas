@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L98WDY8-es Nike Renew Rival 2 Zapatillas de Running para Hombre Negro...'
+sku: 'B07L98WDY8-es'
 tags: [  ]
 actualPrice: 31.13 EUR
 currency: EUR

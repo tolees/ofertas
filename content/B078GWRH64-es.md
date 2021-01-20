@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078GWRH64-es Eve Button - Mando para la casa conectada con tecnología...'
+sku: 'B078GWRH64-es'
 tags: [  ]
 actualPrice: 30.2 EUR
 currency: EUR

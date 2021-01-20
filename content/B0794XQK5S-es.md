@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0794XQK5S-es Echo Plus 2.ª generación - Sonido de alta calidad y...'
+sku: 'B0794XQK5S-es'
 tags: [  ]
 actualPrice: 74.99 EUR
 currency: EUR

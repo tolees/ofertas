@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KIUEUDO-es Trust Premo - Presentador láser y ratón inalámbricos Color...'
+sku: 'B01KIUEUDO-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

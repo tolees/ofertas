@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NBB1L7O-es Metal Earth- Tren Expresso Hogwarts Harry Potter Series...'
+sku: 'B01NBB1L7O-es'
 tags: [  ]
 actualPrice: 7.47 EUR
 currency: EUR

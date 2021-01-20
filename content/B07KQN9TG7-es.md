@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KQN9TG7-es Helly Hansen KOS Polo Hombre Blanco Blanco 001 S'
+sku: 'B07KQN9TG7-es'
 tags: [  ]
 actualPrice: 21.59 EUR
 currency: EUR

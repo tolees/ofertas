@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RP6PXL-es Helly Hansen Logo Visera Unisex Adulto Blanco Única'
+sku: 'B073RP6PXL-es'
 tags: [  ]
 actualPrice: 12.38 EUR
 currency: EUR

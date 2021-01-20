@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DMW5JMN-es Panamar NE555 + CD4017 Rojo Azul Doble Color Juego de...'
+sku: 'B08DMW5JMN-es'
 tags: [  ]
 actualPrice: 2.28 EUR
 currency: EUR

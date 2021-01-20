@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YG4D9HL-es Precision Kids V'
+sku: 'B07YG4D9HL-es'
 tags: [  ]
 actualPrice: 28.8 EUR
 currency: EUR

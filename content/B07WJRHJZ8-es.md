@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WJRHJZ8-es Rodillo de la Fascia Rodillo de Espuma de Eva Port¨¢Til...'
+sku: 'B07WJRHJZ8-es'
 tags: [  ]
 actualPrice: 16.59 EUR
 currency: EUR

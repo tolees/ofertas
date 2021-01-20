@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00M1T11HE-es Yazilind deslumbrante Ba?ado En Plata corte rojoondo...'
+sku: 'B00M1T11HE-es'
 tags: [  ]
 actualPrice: 2.5 EUR
 currency: EUR

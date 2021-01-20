@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0826T7WBV-es HP ProDesk 600 G2 i5 6500 3.60GHz 8GB 256gb ssd + 500GB...'
+sku: 'B0826T7WBV-es'
 tags: [  ]
 actualPrice: 306.84 EUR
 currency: EUR

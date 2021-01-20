@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R9MTK6V-es LD pañuelo seda Mujer Cuello Bufanda Mantón Elegante...'
+sku: 'B07R9MTK6V-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WHRF4YC-es GC Pro Cargador para Portátil Lenovo B560 B570 G530 G550...'
+sku: 'B07WHRF4YC-es'
 tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR

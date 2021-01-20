@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LAO0YSM-es Castellanisimos C00102 Mocasines Piel Florentic Borlas...'
+sku: 'B01LAO0YSM-es'
 tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR

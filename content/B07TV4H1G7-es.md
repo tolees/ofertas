@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TV4H1G7-es H1 LED 10800LM Bombillas para Montaje de Faros Delanteros...'
+sku: 'B07TV4H1G7-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

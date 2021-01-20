@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WHRCU66-es NIVEA SUN Protege & Hidrata Spray Solar FP20 1 x 300 ml...'
+sku: 'B00WHRCU66-es'
 tags: [  ]
 actualPrice: 10.81 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078TKMLPF-es Pepe Jeans Vincent Polo Azul Navy 595 XX-Large para Hombre'
+sku: 'B078TKMLPF-es'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

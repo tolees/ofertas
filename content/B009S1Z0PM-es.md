@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009S1Z0PM-es Vans Atwood Canvas Zapatillas para Hombre Azul Navy/White...'
+sku: 'B009S1Z0PM-es'
 tags: [  ]
 actualPrice: 47.0 EUR
 currency: EUR

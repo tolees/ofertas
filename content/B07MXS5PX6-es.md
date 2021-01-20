@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MXS5PX6-es Desigual Backpack Inlove Venice Mini Mochila moderna. para...'
+sku: 'B07MXS5PX6-es'
 tags: [  ]
 actualPrice: 40.64 EUR
 currency: EUR

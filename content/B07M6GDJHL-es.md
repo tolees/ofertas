@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M6GDJHL-es Rimmel London Provocalips Barra de labioss Tono 780 Shore...'
+sku: 'B07M6GDJHL-es'
 tags: [  ]
 actualPrice: 1.2 EUR
 currency: EUR

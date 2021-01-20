@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014QLGE7Q-es Manfrotto Holster XS - Bolsa para cámara'
+sku: 'B014QLGE7Q-es'
 tags: [  ]
 actualPrice: 22.19 EUR
 currency: EUR

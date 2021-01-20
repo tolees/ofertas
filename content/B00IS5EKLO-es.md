@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IS5EKLO-es Cubre escayolas brazo'
+sku: 'B00IS5EKLO-es'
 tags: [  ]
 actualPrice: 8.6 EUR
 currency: EUR

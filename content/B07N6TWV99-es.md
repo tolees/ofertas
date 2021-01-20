@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N6TWV99-es Tommy Hilfiger Leather Lifestyle Sneaker Zapatillas para...'
+sku: 'B07N6TWV99-es'
 tags: [  ]
 actualPrice: 59.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017B9KBWO-es Bresser FlipMe Despertador radio controlado - blanco'
+sku: 'B017B9KBWO-es'
 tags: [  ]
 actualPrice: 10.97 EUR
 currency: EUR

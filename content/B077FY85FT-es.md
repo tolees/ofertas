@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077FY85FT-es New Balance MA33 Zapatillas Deportivas para Interior para...'
+sku: 'B077FY85FT-es'
 tags: [  ]
 actualPrice: 42.62 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VGHQRR2-es Disney Pijamas de Manga Corta para niños Toy Story Azul...'
+sku: 'B07VGHQRR2-es'
 tags: [  ]
 actualPrice: 7.95 EUR
 currency: EUR

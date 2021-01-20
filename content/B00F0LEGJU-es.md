@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00F0LEGJU-es Hauck Sport Silla de paseo ligera y practica para bebes de...'
+sku: 'B00F0LEGJU-es'
 tags: [  ]
 actualPrice: 51.77 EUR
 currency: EUR

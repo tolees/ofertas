@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076B1QNRH-es Tefal - Sartén grill 26x26cm aluminio fundido compatible...'
+sku: 'B076B1QNRH-es'
 tags: [  ]
 actualPrice: 29.0 EUR
 currency: EUR

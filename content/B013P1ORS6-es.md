@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013P1ORS6-es Gigaset PRO SL750H. Teléfono inalámbrico para conectar a...'
+sku: 'B013P1ORS6-es'
 tags: [  ]
 actualPrice: 81.24 EUR
 currency: EUR

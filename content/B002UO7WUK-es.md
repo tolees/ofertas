@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002UO7WUK-es Playgro Set de Animales Rociadores Azul/Verde 8 figuras...'
+sku: 'B002UO7WUK-es'
 tags: [  ]
 actualPrice: 6.79 EUR
 currency: EUR

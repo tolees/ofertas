@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GNQQLM9-es Hoja de Fieltro 20 * 30cm 40 Colores No Tejido Tela de...'
+sku: 'B07GNQQLM9-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

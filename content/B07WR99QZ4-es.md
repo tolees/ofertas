@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WR99QZ4-es Boao 35 Piezas Decoraciones de Fiesta de Música Rock and...'
+sku: 'B07WR99QZ4-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

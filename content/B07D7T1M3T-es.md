@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D7T1M3T-es BRA Efficient orange Sartén honda 28 cm aluminio fundido...'
+sku: 'B07D7T1M3T-es'
 tags: [  ]
 actualPrice: 31.75 EUR
 currency: EUR

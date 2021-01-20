@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VVQ2Q4T-es Depiladora de Luz Pulsada 2NLF Depilación Definitiva...'
+sku: 'B07VVQ2Q4T-es'
 tags: [  ]
 actualPrice: 66.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083FY5TBY-es BEFANS Kit de Barra de Pilates portátil con Banda de...'
+sku: 'B083FY5TBY-es'
 tags: [  ]
 actualPrice: 10.4 EUR
 currency: EUR

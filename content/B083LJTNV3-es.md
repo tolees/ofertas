@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083LJTNV3-es QHOHQ Funda Samsung Galaxy A51 4G No 5G +2 Pack Cristal...'
+sku: 'B083LJTNV3-es'
 tags: [  ]
 actualPrice: 5.95 EUR
 currency: EUR

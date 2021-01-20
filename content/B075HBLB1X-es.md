@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075HBLB1X-es Relojes deportivos digitales para niñas Yesure. Reloj...'
+sku: 'B075HBLB1X-es'
 tags: [  ]
 actualPrice: 12.9 EUR
 currency: EUR

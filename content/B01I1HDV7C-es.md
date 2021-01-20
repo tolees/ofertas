@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01I1HDV7C-es Bolsa de Playa Grande con Cremallera 58 x 38 x 18 cm...'
+sku: 'B01I1HDV7C-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

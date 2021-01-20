@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H22DVQS-es Resident Evil 7: Biohazard'
+sku: 'B01H22DVQS-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

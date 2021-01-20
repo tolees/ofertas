@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NYTJCK8-es Skechers Uno- Stacre Zapatillas para Hombre Rojo Red...'
+sku: 'B07NYTJCK8-es'
 tags: [  ]
 actualPrice: 28.44 EUR
 currency: EUR

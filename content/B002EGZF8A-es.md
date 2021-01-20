@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002EGZF8A-es Escalerita de Ikea de madera color beis modelo Bekvam...'
+sku: 'B002EGZF8A-es'
 tags: [  ]
 actualPrice: 27.95 EUR
 currency: EUR

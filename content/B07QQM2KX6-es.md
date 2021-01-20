@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QQM2KX6-es KLIM™ Esports Silla Gaming Rosa + Ergonómica con Soporte...'
+sku: 'B07QQM2KX6-es'
 tags: [  ]
 actualPrice: 262.43 EUR
 currency: EUR

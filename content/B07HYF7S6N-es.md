@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HYF7S6N-es Lenor Unstoppables Fresh Perlas Impulsoras De Fragancia -...'
+sku: 'B07HYF7S6N-es'
 tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR

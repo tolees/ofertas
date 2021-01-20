@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JYRSGK1-es Tommy Hilfiger Corp Merge tee Top Deportivo Amarillo...'
+sku: 'B07JYRSGK1-es'
 tags: [  ]
 actualPrice: 19.0 EUR
 currency: EUR

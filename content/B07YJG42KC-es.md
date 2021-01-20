@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YJG42KC-es EKKONG 15 Hojas 2081 Piezas Diamantes Autoadhesivas...'
+sku: 'B07YJG42KC-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

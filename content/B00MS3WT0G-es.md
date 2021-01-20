@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MS3WT0G-es Quinny 72409140 - Sombrilla para silla de paseo y...'
+sku: 'B00MS3WT0G-es'
 tags: [  ]
 actualPrice: 25.71 EUR
 currency: EUR

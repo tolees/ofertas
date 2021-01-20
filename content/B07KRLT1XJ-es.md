@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRLT1XJ-es New Balance Yv373v1 Zapatillas para Niñas Plateado Silver...'
+sku: 'B07KRLT1XJ-es'
 tags: [  ]
 actualPrice: 28.24 EUR
 currency: EUR

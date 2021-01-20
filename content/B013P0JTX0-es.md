@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013P0JTX0-es Belkin F2CD079bt - Adaptador de Mini DisplayPort a HDMI 4K...'
+sku: 'B013P0JTX0-es'
 tags: [  ]
 actualPrice: 13.82 EUR
 currency: EUR

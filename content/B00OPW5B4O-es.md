@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OPW5B4O-es Protenrop Ecol-Trio - Cubo de basura con 3 compartimentos...'
+sku: 'B00OPW5B4O-es'
 tags: [  ]
 actualPrice: 65.0 EUR
 currency: EUR

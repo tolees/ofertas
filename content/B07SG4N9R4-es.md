@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SG4N9R4-es RUNCCI Kit Conectores Tiras LED RGB 5050 con Cable Divisor...'
+sku: 'B07SG4N9R4-es'
 tags: [  ]
 actualPrice: 9.92 EUR
 currency: EUR

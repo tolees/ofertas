@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XR9V7SB-es Apple Funda Leather Case para el iPhone 11 Pro MAX - Azul...'
+sku: 'B07XR9V7SB-es'
 tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR

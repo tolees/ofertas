@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HQCBH3F-es Fujitsu Scansnap IX 1500 Escáner de documentos'
+sku: 'B07HQCBH3F-es'
 tags: [  ]
 actualPrice: 395.0 EUR
 currency: EUR

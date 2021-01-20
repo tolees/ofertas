@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079MKVZ5P-es Tommy Hilfiger Trunk Bóxer Azul Navy Blazer 416 Small para...'
+sku: 'B079MKVZ5P-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

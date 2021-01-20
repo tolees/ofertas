@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074GZFC3Y-es Willful Pulsera Inteligente con Pulsómetro Pulsera de...'
+sku: 'B074GZFC3Y-es'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XBBMBSG-es Coche de Carreras Juguete Desmontable Juguetes Educativos...'
+sku: 'B06XBBMBSG-es'
 tags: [  ]
 actualPrice: 13.98 EUR
 currency: EUR

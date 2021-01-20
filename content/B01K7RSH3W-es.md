@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01K7RSH3W-es Sanex Dermo Extra Control Desodorante Spray - 200 ml'
+sku: 'B01K7RSH3W-es'
 tags: [  ]
 actualPrice: 2.38 EUR
 currency: EUR

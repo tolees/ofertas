@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076ZJXGXW-es 1mii Receptor Bluetooth Adaptador de Audio Inalámbrico Hi-...'
+sku: 'B076ZJXGXW-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

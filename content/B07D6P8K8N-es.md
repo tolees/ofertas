@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D6P8K8N-es LOFIR Calcetines Cortos de Algodón para Hombres Calcetines...'
+sku: 'B07D6P8K8N-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

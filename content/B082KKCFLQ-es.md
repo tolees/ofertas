@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082KKCFLQ-es Xnuoyo Cepillo de Limpieza Facial Set Completo de Spa...'
+sku: 'B082KKCFLQ-es'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

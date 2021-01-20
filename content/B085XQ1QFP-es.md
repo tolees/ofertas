@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085XQ1QFP-es Calcetines deportivos largos de J color unisex mitad...'
+sku: 'B085XQ1QFP-es'
 tags: [  ]
 actualPrice: 9.08 EUR
 currency: EUR

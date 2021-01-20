@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XPYZW5X-es 3 5 mm Macho a 2 5 mm Hembra Adaptador de Audio Chapado en...'
+sku: 'B06XPYZW5X-es'
 tags: [  ]
 actualPrice: 8.29 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K42KJFL-es Columbia Hombre Mallas técnicas M Engineered Tight Nailon...'
+sku: 'B07K42KJFL-es'
 tags: [  ]
 actualPrice: 17.25 EUR
 currency: EUR

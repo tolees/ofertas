@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08344ZLMY-es Moliies Funda para Tableta Universal portátil Funda Ultra...'
+sku: 'B08344ZLMY-es'
 tags: [  ]
 actualPrice: 1.44 EUR
 currency: EUR

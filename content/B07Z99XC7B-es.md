@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z99XC7B-es SOOPSON Alfombrilla para ratón Gaming Alfombrilla de Gel...'
+sku: 'B07Z99XC7B-es'
 tags: [  ]
 actualPrice: 1.27 EUR
 currency: EUR

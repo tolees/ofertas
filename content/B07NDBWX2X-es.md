@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDBWX2X-es Desigual 19WAYP07 - Cartera para mujer de Sintético Mujer...'
+sku: 'B07NDBWX2X-es'
 tags: [  ]
 actualPrice: 24.95 EUR
 currency: EUR

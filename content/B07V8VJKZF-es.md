@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V8VJKZF-es Love MoschinoJc4233pp0aMujerBolsos bandoleraNegro Black...'
+sku: 'B07V8VJKZF-es'
 tags: [  ]
 actualPrice: 132.99 EUR
 currency: EUR

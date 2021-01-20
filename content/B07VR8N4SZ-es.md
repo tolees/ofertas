@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VR8N4SZ-es Skechers GO Run Fast Zapatillas para Mujer Azul Azul Azul...'
+sku: 'B07VR8N4SZ-es'
 tags: [  ]
 actualPrice: 28.71 EUR
 currency: EUR

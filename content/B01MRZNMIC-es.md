@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MRZNMIC-es adidas Gazelle J Zapatillas Unisex Niños Azul Collegiate...'
+sku: 'B01MRZNMIC-es'
 tags: [  ]
 actualPrice: 42.99 EUR
 currency: EUR

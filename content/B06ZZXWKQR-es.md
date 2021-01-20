@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06ZZXWKQR-es Botellas de Agua de Cristal - Set de 6 Botellas...'
+sku: 'B06ZZXWKQR-es'
 tags: [  ]
 actualPrice: 34.97 EUR
 currency: EUR

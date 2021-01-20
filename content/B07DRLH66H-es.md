@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DRLH66H-es Homyl - Cerradura antirrobo para Cable de Seguridad para...'
+sku: 'B07DRLH66H-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

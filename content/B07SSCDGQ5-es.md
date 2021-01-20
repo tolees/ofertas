@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SSCDGQ5-es adidas Stan Smith J Zapatillas de Gimnasia Unisex Niños...'
+sku: 'B07SSCDGQ5-es'
 tags: [  ]
 actualPrice: 31.87 EUR
 currency: EUR

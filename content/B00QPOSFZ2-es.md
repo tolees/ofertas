@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00QPOSFZ2-es Manta personalizada con tu foto. Manta polar"King Size" -...'
+sku: 'B00QPOSFZ2-es'
 tags: [  ]
 actualPrice: 54.29 EUR
 currency: EUR

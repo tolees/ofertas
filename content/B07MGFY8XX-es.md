@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MGFY8XX-es Antimosquitos Repelente Ultrasónico de Control de Plagas...'
+sku: 'B07MGFY8XX-es'
 tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR

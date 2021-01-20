@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085M1XPJG-es Adoric Cortador de Verdura 4 en 1 Rallador de Verduras...'
+sku: 'B085M1XPJG-es'
 tags: [  ]
 actualPrice: 6.88 EUR
 currency: EUR

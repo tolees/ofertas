@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MNBQ6KC-es Moulinex Fresh Express DJ753500 Rallador Eléctrico Con 3...'
+sku: 'B00MNBQ6KC-es'
 tags: [  ]
 actualPrice: 40.99 EUR
 currency: EUR

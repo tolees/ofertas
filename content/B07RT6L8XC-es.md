@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RT6L8XC-es Diesel ShoesZippy Hiresh SHombreCarterasAzul Blue Nights...'
+sku: 'B07RT6L8XC-es'
 tags: [  ]
 actualPrice: 32.5 EUR
 currency: EUR

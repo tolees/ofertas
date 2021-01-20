@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M3SGV22-es TOPLUS Cadena de luces LED Blanco Cálido 10m 100 Leds IP65...'
+sku: 'B01M3SGV22-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

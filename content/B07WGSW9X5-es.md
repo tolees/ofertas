@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WGSW9X5-es Yageshark - Pantalones de deporte para hombre de algodón...'
+sku: 'B07WGSW9X5-es'
 tags: [  ]
 actualPrice: 25.71 EUR
 currency: EUR

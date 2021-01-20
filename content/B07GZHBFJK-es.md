@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GZHBFJK-es Camfosy - Botas de Cuero para mujer color Azul talla 39 EU'
+sku: 'B07GZHBFJK-es'
 tags: [  ]
 actualPrice: 78.69 EUR
 currency: EUR

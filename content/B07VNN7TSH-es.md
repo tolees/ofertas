@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VNN7TSH-es Tommy Hilfiger Tommy Regular Polo Azul Sail Blue Small...'
+sku: 'B07VNN7TSH-es'
 tags: [  ]
 actualPrice: 33.35 EUR
 currency: EUR

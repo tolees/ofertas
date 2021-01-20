@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KKXKX7J-es Joseph Joseph Grandes Nest Juego de 3 Tablas para Cortar...'
+sku: 'B07KKXKX7J-es'
 tags: [  ]
 actualPrice: 48.16 EUR
 currency: EUR

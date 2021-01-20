@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K7W3XCR-es Reebok Rapide Mu Zapatillas de Gimnasia para Hombre...'
+sku: 'B07K7W3XCR-es'
 tags: [  ]
 actualPrice: 26.25 EUR
 currency: EUR

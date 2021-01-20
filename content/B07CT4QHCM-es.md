@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CT4QHCM-es Severin HV 7165 Aspiradora Manual y de Mango con Cepillo...'
+sku: 'B07CT4QHCM-es'
 tags: [  ]
 actualPrice: 198.75 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RW23K2W-es Cloud Kids - Pantalones cortos para bebé o niña de algodón...'
+sku: 'B07RW23K2W-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

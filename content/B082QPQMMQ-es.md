@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082QPQMMQ-es SEELOK Lentejuelas Redondas Planas 24 bolsas Lentejuelas...'
+sku: 'B082QPQMMQ-es'
 tags: [  ]
 actualPrice: 11.97 EUR
 currency: EUR

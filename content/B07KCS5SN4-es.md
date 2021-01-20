@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KCS5SN4-es CYBEX - Silla de Paseo Eezy S Plegable con una Mano...'
+sku: 'B07KCS5SN4-es'
 tags: [  ]
 actualPrice: 190.46 EUR
 currency: EUR

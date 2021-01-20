@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZZNHXTV-es Pop! Heroes: Batman Returns - Catwoman'
+sku: 'B07ZZNHXTV-es'
 tags: [  ]
 actualPrice: 8.71 EUR
 currency: EUR

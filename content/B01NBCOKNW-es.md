@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NBCOKNW-es Tommy Hilfiger Iconic Slip on Sneaker Zapatillas para...'
+sku: 'B01NBCOKNW-es'
 tags: [  ]
 actualPrice: 26.49 EUR
 currency: EUR

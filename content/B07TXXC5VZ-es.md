@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXXC5VZ-es Wrangler Texas Contrast Hombre Jeans Azul Mistral Green...'
+sku: 'B07TXXC5VZ-es'
 tags: [  ]
 actualPrice: 39.98 EUR
 currency: EUR

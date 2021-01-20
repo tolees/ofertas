@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K5L4LKG-es Levi s 502 Regular Taper Jeans Azul Crocodile Adapt 0160...'
+sku: 'B07K5L4LKG-es'
 tags: [  ]
 actualPrice: 60.95 EUR
 currency: EUR

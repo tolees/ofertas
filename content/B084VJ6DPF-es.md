@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084VJ6DPF-es Mesa de cama para ordenador portátil escritorio de regazo...'
+sku: 'B084VJ6DPF-es'
 tags: [  ]
 actualPrice: 27.0 EUR
 currency: EUR

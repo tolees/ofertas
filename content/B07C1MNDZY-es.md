@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C1MNDZY-es hotbesteu Cortinas Dormitorio Moderno Lujo Flores Impreso...'
+sku: 'B07C1MNDZY-es'
 tags: [  ]
 actualPrice: 9.81 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WNZC8GS-es MEGALITH Relojes Hombre Relojes Grandes de Pulsera...'
+sku: 'B07WNZC8GS-es'
 tags: [  ]
 actualPrice: 31.44 EUR
 currency: EUR

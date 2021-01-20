@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071Z3HPN8-es Asics B756Y 1990 Zapatillas de Deporte Unisex Adulto...'
+sku: 'B071Z3HPN8-es'
 tags: [  ]
 actualPrice: 30.79 EUR
 currency: EUR

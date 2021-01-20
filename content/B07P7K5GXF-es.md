@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P7K5GXF-es Libartly Translúcido Color sólido Hilado de Vidrio Ventana...'
+sku: 'B07P7K5GXF-es'
 tags: [  ]
 actualPrice: 1.37 EUR
 currency: EUR

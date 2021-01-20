@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRLDNSQ-es New Balance 574v2 Zapatillas para Hombre Rojo Red/White...'
+sku: 'B07KRLDNSQ-es'
 tags: [  ]
 actualPrice: 63.0 EUR
 currency: EUR

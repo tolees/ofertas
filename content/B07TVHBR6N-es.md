@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVHBR6N-es FLYLINKTECH 14.4V 4500mAh Ni-MH Aspiradoras de Repuesto...'
+sku: 'B07TVHBR6N-es'
 tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR

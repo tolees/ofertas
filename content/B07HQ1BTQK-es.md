@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HQ1BTQK-es Neutrogena Radiance Boost Mascarilla Paquete de 4'
+sku: 'B07HQ1BTQK-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

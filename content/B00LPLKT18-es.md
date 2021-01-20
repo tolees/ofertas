@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LPLKT18-es Lullage acneXpert Renovador Celular Concentrado exfoliante...'
+sku: 'B00LPLKT18-es'
 tags: [  ]
 actualPrice: 9.72 EUR
 currency: EUR

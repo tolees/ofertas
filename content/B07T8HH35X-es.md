@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T8HH35X-es Finocam - Agenda 2020 semana vista apaisada Espiral Year...'
+sku: 'B07T8HH35X-es'
 tags: [  ]
 actualPrice: 5.35 EUR
 currency: EUR

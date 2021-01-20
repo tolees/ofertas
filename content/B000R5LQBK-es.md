@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000R5LQBK-es Bosch Professional 2607010146 Bosch 2607010146-Cuchilla de...'
+sku: 'B000R5LQBK-es'
 tags: [  ]
 actualPrice: 10.49 EUR
 currency: EUR

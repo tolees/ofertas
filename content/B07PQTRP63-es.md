@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PQTRP63-es New Balance 574 Zapatillas para Hombre Negro Black Black...'
+sku: 'B07PQTRP63-es'
 tags: [  ]
 actualPrice: 33.32 EUR
 currency: EUR

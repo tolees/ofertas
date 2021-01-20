@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HROI6SO-es Onitsuka Tiger Mexico 66 Zapatillas de Entrenamiento...'
+sku: 'B01HROI6SO-es'
 tags: [  ]
 actualPrice: 49.45 EUR
 currency: EUR

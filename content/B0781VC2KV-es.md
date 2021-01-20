@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0781VC2KV-es adidas Gazelle Zapatillas de deporte Unisex niños Rojo...'
+sku: 'B0781VC2KV-es'
 tags: [  ]
 actualPrice: 40.0 EUR
 currency: EUR

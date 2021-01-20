@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002RWK1DA-es Pedigree Dentastix de uso diario para higiene oral para...'
+sku: 'B002RWK1DA-es'
 tags: [  ]
 actualPrice: 19.0 EUR
 currency: EUR

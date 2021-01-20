@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VDSH1JS-es Mellerware City Lite Robot Aspirador con Mando a Distancia...'
+sku: 'B07VDSH1JS-es'
 tags: [  ]
 actualPrice: 119.99 EUR
 currency: EUR

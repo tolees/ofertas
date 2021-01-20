@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K8KHFVJ-es MOSNOVO Ultra Hybrid Funda iPhone XR Funda protección...'
+sku: 'B07K8KHFVJ-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075V7CF9C-es Sunstech CDP10BK - Reproductor CD portátil con Bass Boost...'
+sku: 'B075V7CF9C-es'
 tags: [  ]
 actualPrice: 29.85 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y4YF7TS-es HP Pavilion Gaming TG01-0024ns - Ordenador de sobremesa de...'
+sku: 'B07Y4YF7TS-es'
 tags: [  ]
 actualPrice: 499.99 EUR
 currency: EUR

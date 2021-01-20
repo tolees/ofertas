@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08C4VY9WS-es LXHGrowH Funda Realme 6 Fundas Duro PC Cristal Templado...'
+sku: 'B08C4VY9WS-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

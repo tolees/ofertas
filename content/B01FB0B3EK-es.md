@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FB0B3EK-es La Pajarita Cera Incolora / Solida Natural 100ML Especial...'
+sku: 'B01FB0B3EK-es'
 tags: [  ]
 actualPrice: 3.95 EUR
 currency: EUR

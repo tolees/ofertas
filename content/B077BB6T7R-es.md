@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077BB6T7R-es Calvin Klein Cotton Stretch-3er Calcetines Negro Black W....'
+sku: 'B077BB6T7R-es'
 tags: [  ]
 actualPrice: 27.95 EUR
 currency: EUR

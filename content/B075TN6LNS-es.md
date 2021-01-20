@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075TN6LNS-es URCERI Medidor de Luz Luxómetro Portátil Medidor de...'
+sku: 'B075TN6LNS-es'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

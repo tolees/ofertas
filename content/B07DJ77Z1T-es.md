@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJ77Z1T-es New Balance 411 Zapatillas de Running para Mujer Negro...'
+sku: 'B07DJ77Z1T-es'
 tags: [  ]
 actualPrice: 36.04 EUR
 currency: EUR

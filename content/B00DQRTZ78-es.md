@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DQRTZ78-es Keter Pacific Cool Bar - Mesa nevera para jardín Color Marrón'
+sku: 'B00DQRTZ78-es'
 tags: [  ]
 actualPrice: 43.27 EUR
 currency: EUR

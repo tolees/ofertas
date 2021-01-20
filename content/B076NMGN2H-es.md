@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076NMGN2H-es DIXIUZA 72Pcs Spoke Skins Cubierta del Radio de Rueda de...'
+sku: 'B076NMGN2H-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

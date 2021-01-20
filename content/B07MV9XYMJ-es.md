@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MV9XYMJ-es Kipling - Money Keeper Carteras Mujer Negro Black Indigo...'
+sku: 'B07MV9XYMJ-es'
 tags: [  ]
 actualPrice: 27.93 EUR
 currency: EUR

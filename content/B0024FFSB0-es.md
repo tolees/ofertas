@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0024FFSB0-es Nuk Thermo Rapid - Calientabiberón'
+sku: 'B0024FFSB0-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

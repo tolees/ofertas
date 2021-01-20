@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MW4V6SD-es Fischer Duoblade S 545676 - Tacos de yeso autoperforante...'
+sku: 'B07MW4V6SD-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

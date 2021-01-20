@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFJ4NVJ-es Adidas Runfalcon Zapatillas de trail running Hombre Blanco...'
+sku: 'B07KFJ4NVJ-es'
 tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR

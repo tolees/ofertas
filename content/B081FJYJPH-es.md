@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081FJYJPH-es Pendientes Luxenter Panya plata y circonita brillante'
+sku: 'B081FJYJPH-es'
 tags: [  ]
 actualPrice: 20.93 EUR
 currency: EUR

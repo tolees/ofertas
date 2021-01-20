@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S6J21TC-es KELME - Short Portero 18/19 A.d Alcorcon'
+sku: 'B07S6J21TC-es'
 tags: [  ]
 actualPrice: 11.34 EUR
 currency: EUR

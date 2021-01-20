@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087X6P4WH-es Suhctup Funda Transparent Compatible para Galaxy J5 Prime...'
+sku: 'B087X6P4WH-es'
 tags: [  ]
 actualPrice: 8.98 EUR
 currency: EUR

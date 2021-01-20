@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V1JKS2V-es Nike Pico 5 Gymnastics Shoe Unisex-Child Negro 40 EU'
+sku: 'B07V1JKS2V-es'
 tags: [  ]
 actualPrice: 20.67 EUR
 currency: EUR

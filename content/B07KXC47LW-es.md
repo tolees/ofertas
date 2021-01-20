@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KXC47LW-es Apisérum Intelecto Viales Bebibles - Favorece el...'
+sku: 'B07KXC47LW-es'
 tags: [  ]
 actualPrice: 14.78 EUR
 currency: EUR

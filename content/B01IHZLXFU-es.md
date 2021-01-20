@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IHZLXFU-es Lullage acneXpert Gel Limpiador Purificante para la...'
+sku: 'B01IHZLXFU-es'
 tags: [  ]
 actualPrice: 10.6 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083SDL1YS-es Encantadores niños no tóxicos Niños Crayon Oil Pastel...'
+sku: 'B083SDL1YS-es'
 tags: [  ]
 actualPrice: 4.77 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086MNN9RD-es Taylor Swoden Elizabeth - Humidificador ultrasónico 5 L...'
+sku: 'B086MNN9RD-es'
 tags: [  ]
 actualPrice: 67.19 EUR
 currency: EUR

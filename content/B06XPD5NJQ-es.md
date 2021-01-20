@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XPD5NJQ-es Golvery Metal silbato de árbitro entrenador silbato –...'
+sku: 'B06XPD5NJQ-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

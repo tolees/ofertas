@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088B7CGN4-es Oihxse Cristal Compatible con Samsung Galaxy S10 Funda...'
+sku: 'B088B7CGN4-es'
 tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR

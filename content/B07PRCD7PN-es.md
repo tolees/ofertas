@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PRCD7PN-es Kipling - Baroe Monederos Mujer Verde Seagrass 20.5x10x7.5...'
+sku: 'B07PRCD7PN-es'
 tags: [  ]
 actualPrice: 8.82 EUR
 currency: EUR

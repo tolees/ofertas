@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083SM1H1D-es 2020 Auriculares inalámbricos Bluetooth actualizados con...'
+sku: 'B083SM1H1D-es'
 tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR

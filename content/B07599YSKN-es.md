@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07599YSKN-es Funko Pop!- Disney Aladdin: Jafar Figura de Vinilo 24403'
+sku: 'B07599YSKN-es'
 tags: [  ]
 actualPrice: 10.98 EUR
 currency: EUR

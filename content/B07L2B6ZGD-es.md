@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L2B6ZGD-es Celio Jopry Pantalones Azul Navy Océano Navy Océano W32...'
+sku: 'B07L2B6ZGD-es'
 tags: [  ]
 actualPrice: 27.92 EUR
 currency: EUR

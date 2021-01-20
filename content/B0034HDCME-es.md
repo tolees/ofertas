@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0034HDCME-es Benbat Amigos de Viaje - Reposacabezas 1-4 años diseño gato'
+sku: 'B0034HDCME-es'
 tags: [  ]
 actualPrice: 5.87 EUR
 currency: EUR

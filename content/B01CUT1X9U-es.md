@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CUT1X9U-es Exerz Bandejas oficina 4 Piezas de Malla/Oficina Conjunto...'
+sku: 'B01CUT1X9U-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

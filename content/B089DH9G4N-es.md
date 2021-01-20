@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089DH9G4N-es DEIK Hot&Hot Parrilla Eléctrica de Asar 1400W Parrilla en...'
+sku: 'B089DH9G4N-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

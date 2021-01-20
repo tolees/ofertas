@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MXM01FQ-es ZJchao - Incubadoras lámpara LED Incubadora de huevos con...'
+sku: 'B01MXM01FQ-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

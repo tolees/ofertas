@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IQ8BH0A-es Astralpool 11390 Floculante en Cartuchos para Piscinas...'
+sku: 'B00IQ8BH0A-es'
 tags: [  ]
 actualPrice: 18.84 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07234VBWJ-es Manguera de jardín manguera Flexi sailun® Flexible incluye...'
+sku: 'B07234VBWJ-es'
 tags: [  ]
 actualPrice: 12.6 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073BCZKHW-es Estuche Pepe Jeans Duetone Negro tres compartimentos'
+sku: 'B073BCZKHW-es'
 tags: [  ]
 actualPrice: 16.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HMZL2J7-es Athletic Club B-04-AC Botella Aluminio 500 ml'
+sku: 'B07HMZL2J7-es'
 tags: [  ]
 actualPrice: 7.7 EUR
 currency: EUR

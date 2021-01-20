@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZQ84G4-es Pepe Jeans London Zion Mesh Zapatillas para Mujer Black...'
+sku: 'B07MZQ84G4-es'
 tags: [  ]
 actualPrice: 36.53 EUR
 currency: EUR

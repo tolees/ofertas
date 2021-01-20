@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077PXBQPF-es Pala NOX Attraction A.4'
+sku: 'B077PXBQPF-es'
 tags: [  ]
 actualPrice: 69.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BU5ANR4-es Medipaq Rodillera Protectora de Rótula y Ligamientos –...'
+sku: 'B00BU5ANR4-es'
 tags: [  ]
 actualPrice: 7.02 EUR
 currency: EUR

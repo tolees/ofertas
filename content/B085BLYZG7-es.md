@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085BLYZG7-es YIMINYUER Juego de Alfombrillas de Espuma EVA para niños...'
+sku: 'B085BLYZG7-es'
 tags: [  ]
 actualPrice: 34.43 EUR
 currency: EUR

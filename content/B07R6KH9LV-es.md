@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R6KH9LV-es RAOYI 2X 32GB Memoria USB 3.0 Pendrive USB Portátil 32GB...'
+sku: 'B07R6KH9LV-es'
 tags: [  ]
 actualPrice: 12.58 EUR
 currency: EUR

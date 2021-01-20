@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CP0K3B4-es Vans Atwood Canvas Zapatillas para Hombre Rojo...'
+sku: 'B00CP0K3B4-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

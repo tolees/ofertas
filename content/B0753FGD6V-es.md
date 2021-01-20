@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0753FGD6V-es Lotus Watches Reloj Análogo clásico para Mujer de Cuarzo...'
+sku: 'B0753FGD6V-es'
 tags: [  ]
 actualPrice: 92.71 EUR
 currency: EUR

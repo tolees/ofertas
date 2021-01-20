@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002CEM7QM-es bmerch Ltd. Hermanos Star Trek: USS Enterprise abrebotellas'
+sku: 'B002CEM7QM-es'
 tags: [  ]
 actualPrice: 16.37 EUR
 currency: EUR

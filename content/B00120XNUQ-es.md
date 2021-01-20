@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00120XNUQ-es Converse Chuck Taylor All Star Zapatillas de Tela Unisex...'
+sku: 'B00120XNUQ-es'
 tags: [  ]
 actualPrice: 48.94 EUR
 currency: EUR

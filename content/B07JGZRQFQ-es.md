@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JGZRQFQ-es Altavoz inalámbrico con Bluetooth AICase Altavoz Bluetooth...'
+sku: 'B07JGZRQFQ-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

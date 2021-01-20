@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083WS3X9R-es STARBILD Leggins Deportivas para Mujer para Adelgazar...'
+sku: 'B083WS3X9R-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

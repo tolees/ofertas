@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002VYP5QW-es TP-LINK TL-ANT2408CL 2 4 GHz de Interior omnidireccional...'
+sku: 'B002VYP5QW-es'
 tags: [  ]
 actualPrice: 5.72 EUR
 currency: EUR

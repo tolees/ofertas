@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0841VCDR6-es Generador de ozono Ionizador Purificador de aire...'
+sku: 'B0841VCDR6-es'
 tags: [  ]
 actualPrice: 52.01 EUR
 currency: EUR

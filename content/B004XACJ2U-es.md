@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004XACJ2U-es Nixon Reloj Analógico de Cuarzo para Hombre con Correa de...'
+sku: 'B004XACJ2U-es'
 tags: [  ]
 actualPrice: 64.95 EUR
 currency: EUR

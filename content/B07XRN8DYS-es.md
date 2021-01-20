@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XRN8DYS-es Rizador de Pestañas Electrico Rizador de Pestañas Termico...'
+sku: 'B07XRN8DYS-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

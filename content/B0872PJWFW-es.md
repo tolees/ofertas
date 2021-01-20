@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0872PJWFW-es Funda Transparente Compatible para Huawei P8 Lite/P9 Lite...'
+sku: 'B0872PJWFW-es'
 tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR

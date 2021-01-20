@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073JQSRYT-es find. Camiseta Manga Larga Hombre Gris Stone 50 Talla del...'
+sku: 'B073JQSRYT-es'
 tags: [  ]
 actualPrice: 4.2 EUR
 currency: EUR

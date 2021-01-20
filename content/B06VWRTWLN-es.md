@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06VWRTWLN-es Lock S Quest'
+sku: 'B06VWRTWLN-es'
 tags: [  ]
 actualPrice: 10.88 EUR
 currency: EUR

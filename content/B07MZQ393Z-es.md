@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZQ393Z-es Funko- Pop Vinilo: Spongebob Squarepants S3: Squidward...'
+sku: 'B07MZQ393Z-es'
 tags: [  ]
 actualPrice: 11.77 EUR
 currency: EUR

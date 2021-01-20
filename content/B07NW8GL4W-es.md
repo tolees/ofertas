@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NW8GL4W-es SYOSIN Corrector de Postura Abrazadera de Respaldo...'
+sku: 'B07NW8GL4W-es'
 tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR

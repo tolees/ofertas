@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPB17DQ-es Qhui Protector Asiento Coche Silla Bebe Fundas Asiento...'
+sku: 'B07KPB17DQ-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0772STHQS-es Call Of Duty: World War II'
+sku: 'B0772STHQS-es'
 tags: [  ]
 actualPrice: 15.77 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000YJB8YE-es Kitchen Craft Mini Salad Spinner Centrifuga de Esaladas...'
+sku: 'B000YJB8YE-es'
 tags: [  ]
 actualPrice: 14.33 EUR
 currency: EUR

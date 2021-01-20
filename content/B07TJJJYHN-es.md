@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJJJYHN-es Nike Renew Fusion Zapatillas para Hombre 2 41 EU'
+sku: 'B07TJJJYHN-es'
 tags: [  ]
 actualPrice: 42.97 EUR
 currency: EUR

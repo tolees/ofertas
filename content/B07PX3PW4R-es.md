@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PX3PW4R-es Funko- Pop Figura De Vinil: Disney Clause-Santa...'
+sku: 'B07PX3PW4R-es'
 tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR

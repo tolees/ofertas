@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008GTKSTU-es Kärcher Conector universal para mangueras 2.645-191.0'
+sku: 'B008GTKSTU-es'
 tags: [  ]
 actualPrice: 2.5 EUR
 currency: EUR

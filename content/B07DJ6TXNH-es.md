@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJ6TXNH-es New Balance 574S v2 Zapatillas para Mujer Rosa Cashmere...'
+sku: 'B07DJ6TXNH-es'
 tags: [  ]
 actualPrice: 48.57 EUR
 currency: EUR

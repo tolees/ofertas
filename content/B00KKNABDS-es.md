@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KKNABDS-es Habitdesign 007820BO - Mesita de noche dos cajones Ward.E...'
+sku: 'B00KKNABDS-es'
 tags: [  ]
 actualPrice: 37.21 EUR
 currency: EUR

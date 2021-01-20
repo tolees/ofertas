@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CLQIMEM-es SHIMANO DEORE 9V. Shadow Cambio Multicolor Talla Única'
+sku: 'B00CLQIMEM-es'
 tags: [  ]
 actualPrice: 33.49 EUR
 currency: EUR

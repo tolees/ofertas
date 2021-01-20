@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072J2QH6L-es Under Armour Sportstyle Pique Pantalón deportivo para...'
+sku: 'B072J2QH6L-es'
 tags: [  ]
 actualPrice: 33.75 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNMK2YW-es HOMCOM Coche Eléctrico para Niño 3-8 Años Audi R8 con...'
+sku: 'B07FNMK2YW-es'
 tags: [  ]
 actualPrice: 188.99 EUR
 currency: EUR

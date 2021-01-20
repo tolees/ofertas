@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T9BWNLP-es YESKAMO Kit Cámaras de Vigilancia Wifi Exterior 8 Canales...'
+sku: 'B07T9BWNLP-es'
 tags: [  ]
 actualPrice: 359.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BS2LSTD-es Levi s LEVIS FOOTWEAR AND ACCESSORIES CALYPSO Cinturón...'
+sku: 'B07BS2LSTD-es'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

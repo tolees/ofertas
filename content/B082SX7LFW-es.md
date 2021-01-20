@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082SX7LFW-es AOTOZE Almohada Ortopédica Ergonómica Almohada de Espuma...'
+sku: 'B082SX7LFW-es'
 tags: [  ]
 actualPrice: 36.9 EUR
 currency: EUR

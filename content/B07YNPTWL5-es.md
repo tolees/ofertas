@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YNPTWL5-es Cecotec Afeitadora Multifunción 5 en 1 Bamba PrecisionCare...'
+sku: 'B07YNPTWL5-es'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

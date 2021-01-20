@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KGCKQZ1-es Alomejor Controlador sin escobillas del Motor 48V 500W...'
+sku: 'B07KGCKQZ1-es'
 tags: [  ]
 actualPrice: 27.19 EUR
 currency: EUR

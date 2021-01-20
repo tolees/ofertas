@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZ2DJDK-es BLACK+DECKER BEG220-QS Amoladora angular 900 W 12.000 rpm...'
+sku: 'B07CZ2DJDK-es'
 tags: [  ]
 actualPrice: 35.5 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S8XNJ9K-es GREAT ART Foto Mural New York Skyline al Atardecer Ciudad...'
+sku: 'B07S8XNJ9K-es'
 tags: [  ]
 actualPrice: 44.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01J46ZDZC-es Khomo - Funda Universal con Cremallera para Tablet Negro...'
+sku: 'B01J46ZDZC-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

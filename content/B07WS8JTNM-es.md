@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WS8JTNM-es Power Bank PD 3.0 Batería Externa15800mAh con USB C QC 3.0...'
+sku: 'B07WS8JTNM-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

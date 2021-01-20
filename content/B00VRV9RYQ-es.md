@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VRV9RYQ-es HENDI Bandejas para comida rápida grande - Verde -...'
+sku: 'B00VRV9RYQ-es'
 tags: [  ]
 actualPrice: 4.42 EUR
 currency: EUR

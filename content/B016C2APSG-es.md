@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016C2APSG-es Maybelline New York - Lash Sensational Intense Black...'
+sku: 'B016C2APSG-es'
 tags: [  ]
 actualPrice: 4.69 EUR
 currency: EUR

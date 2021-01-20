@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BZXLS2G-es Melchioni ARTIC47LT - Mini nevera bar con congelador A+...'
+sku: 'B08BZXLS2G-es'
 tags: [  ]
 actualPrice: 97.48 EUR
 currency: EUR

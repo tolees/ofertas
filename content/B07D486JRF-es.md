@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D486JRF-es KUNGYO Decoraciones de Fiesta de Cumpleaños para Adultos y...'
+sku: 'B07D486JRF-es'
 tags: [  ]
 actualPrice: 9.49 EUR
 currency: EUR

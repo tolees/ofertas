@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078ZYQY33-es TRESemmé Champú Color Keratina - Paquete de 3 x 700 ml -...'
+sku: 'B078ZYQY33-es'
 tags: [  ]
 actualPrice: 12.25 EUR
 currency: EUR

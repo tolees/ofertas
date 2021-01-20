@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DXVRY1C-es Camiseta/UNDER ARMOUR:FOUNTATION XL'
+sku: 'B07DXVRY1C-es'
 tags: [  ]
 actualPrice: 13.49 EUR
 currency: EUR

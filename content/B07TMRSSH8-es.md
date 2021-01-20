@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TMRSSH8-es TUBBZ Oficial Borderlands 3 Mercancías Lillith Figurita...'
+sku: 'B07TMRSSH8-es'
 tags: [  ]
 actualPrice: 5.95 EUR
 currency: EUR

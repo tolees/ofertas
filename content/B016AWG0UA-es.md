@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016AWG0UA-es ASUS BE249QLB 23.8" Full HD IPS Mate Negro Pantalla para...'
+sku: 'B016AWG0UA-es'
 tags: [  ]
 actualPrice: 129.93 EUR
 currency: EUR

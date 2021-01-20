@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XPGQ9SK-es Mr.Ho Terciopelo Almohada para el Reposacabezas del Coche...'
+sku: 'B06XPGQ9SK-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

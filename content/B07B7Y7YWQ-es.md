@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B7Y7YWQ-es Trust Gaming GXT 845 Tural - Set de Teclado y ratón Gaming...'
+sku: 'B07B7Y7YWQ-es'
 tags: [  ]
 actualPrice: 28.94 EUR
 currency: EUR

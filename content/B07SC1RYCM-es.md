@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SC1RYCM-es FUNNY HOUSE 5 Pcs Tapón de Drenaje de Silicona Tapón de...'
+sku: 'B07SC1RYCM-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BGX2F4Y-es Thai Green curry paste 400g by Mae Ploy'
+sku: 'B00BGX2F4Y-es'
 tags: [  ]
 actualPrice: 5.93 EUR
 currency: EUR

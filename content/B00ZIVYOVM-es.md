@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ZIVYOVM-es Mass Effect: Andrómeda'
+sku: 'B00ZIVYOVM-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

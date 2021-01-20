@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V5QPNNM-es Tommy Hilfiger Core Corporate Leather Sneaker Zapatillas...'
+sku: 'B07V5QPNNM-es'
 tags: [  ]
 actualPrice: 49.95 EUR
 currency: EUR

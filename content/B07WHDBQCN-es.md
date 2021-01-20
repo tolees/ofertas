@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WHDBQCN-es CIVO Relojes Mujer Oro Rosa Reloj de Pulsera Mujer...'
+sku: 'B07WHDBQCN-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

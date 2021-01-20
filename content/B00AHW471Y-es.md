@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00AHW471Y-es GBC Fusion 3000L - Plastificadora para oficina y hogar A3...'
+sku: 'B00AHW471Y-es'
 tags: [  ]
 actualPrice: 101.72 EUR
 currency: EUR

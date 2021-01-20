@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009UNH0EM-es Plantronics 89032-01 - Cable de alimentación USB'
+sku: 'B009UNH0EM-es'
 tags: [  ]
 actualPrice: 10.89 EUR
 currency: EUR

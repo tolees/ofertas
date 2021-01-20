@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PBZ8Z94-es American Tourister Disney Legends Spinner S Equipaje de...'
+sku: 'B07PBZ8Z94-es'
 tags: [  ]
 actualPrice: 65.4 EUR
 currency: EUR

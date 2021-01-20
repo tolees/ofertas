@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008BT1GBE-es Philips 12258LLECOS2 LongLife EcoVision - Bombillas para...'
+sku: 'B008BT1GBE-es'
 tags: [  ]
 actualPrice: 11.16 EUR
 currency: EUR

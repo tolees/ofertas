@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DAST78K-es Acer Essential - Monitor de 19.5" pantalla LED 1600 x 900...'
+sku: 'B00DAST78K-es'
 tags: [  ]
 actualPrice: 64.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VDLCRRY-es 00119 XuanPad'
+sku: 'B07VDLCRRY-es'
 tags: [  ]
 actualPrice: 45.66 EUR
 currency: EUR

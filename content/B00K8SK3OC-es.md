@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K8SK3OC-es Yazilind deslumbrante Oro plateado alrojoedor Pear cortada...'
+sku: 'B00K8SK3OC-es'
 tags: [  ]
 actualPrice: 3.76 EUR
 currency: EUR

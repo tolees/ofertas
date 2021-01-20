@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TKN8LSC-es Clarks Botanic Poppy Sandalia con Pulsera para Mujer...'
+sku: 'B07TKN8LSC-es'
 tags: [  ]
 actualPrice: 49.82 EUR
 currency: EUR

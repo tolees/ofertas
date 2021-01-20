@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KF56CRF-es Levi s 501 Long Pantalones Cortos Azul Montgomery Stone...'
+sku: 'B07KF56CRF-es'
 tags: [  ]
 actualPrice: 21.95 EUR
 currency: EUR

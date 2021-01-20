@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H051CYU-es Forticoll Colágeno Piel y Cabello-Complemento alimenticio...'
+sku: 'B01H051CYU-es'
 tags: [  ]
 actualPrice: 8.88 EUR
 currency: EUR

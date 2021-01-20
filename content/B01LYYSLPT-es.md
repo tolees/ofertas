@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LYYSLPT-es Smilodox Shorts Pantalones Cortos para Hombre multicolor S'
+sku: 'B01LYYSLPT-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

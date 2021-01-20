@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076KD27ZQ-es ORICO Funda Disco Duro Externo 3.5 para Western Digital WD...'
+sku: 'B076KD27ZQ-es'
 tags: [  ]
 actualPrice: 9.47 EUR
 currency: EUR

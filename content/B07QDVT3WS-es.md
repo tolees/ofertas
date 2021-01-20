@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QDVT3WS-es Michael Kors Reloj Analógico-Digital para Mujer Correa en...'
+sku: 'B07QDVT3WS-es'
 tags: [  ]
 actualPrice: 221.4 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WV8XF7Y-es Alled Cámara Correa Correa de Cuello Camara De Hombro...'
+sku: 'B07WV8XF7Y-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

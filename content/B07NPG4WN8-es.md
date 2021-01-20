@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NPG4WN8-es Skechers Elite Flex-Lochbay Zapatillas para Hombre Azul...'
+sku: 'B07NPG4WN8-es'
 tags: [  ]
 actualPrice: 41.95 EUR
 currency: EUR

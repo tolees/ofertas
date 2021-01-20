@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YFBH6BJ-es Tevlaphee Soporte Móvil para Coche Universal Soporte Móvil...'
+sku: 'B07YFBH6BJ-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

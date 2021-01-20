@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004DJS70O-es Estilo de carreras almohadillas de cinturón de seguridad...'
+sku: 'B004DJS70O-es'
 tags: [  ]
 actualPrice: 4.19 EUR
 currency: EUR

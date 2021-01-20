@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VBXBV3J-es Cepillo alisador eléctrico para barba/pelo 2.0 peine para...'
+sku: 'B07VBXBV3J-es'
 tags: [  ]
 actualPrice: 19.88 EUR
 currency: EUR

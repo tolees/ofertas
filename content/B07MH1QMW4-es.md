@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MH1QMW4-es Only NOS Onlpoptrash Easy Colour Pant Pnt Noos Pantalones...'
+sku: 'B07MH1QMW4-es'
 tags: [  ]
 actualPrice: 11.55 EUR
 currency: EUR

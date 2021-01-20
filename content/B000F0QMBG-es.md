@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000F0QMBG-es Cross Classic Century Bolígrafo - plata de ley'
+sku: 'B000F0QMBG-es'
 tags: [  ]
 actualPrice: 111.97 EUR
 currency: EUR

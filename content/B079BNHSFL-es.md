@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079BNHSFL-es XP-Pen 16 Pro HD IPS Tableta Gráfica con Pantalla con...'
+sku: 'B079BNHSFL-es'
 tags: [  ]
 actualPrice: 459.0 EUR
 currency: EUR

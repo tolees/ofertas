@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B011IO7OEQ-es Tommy Hilfiger Hombre Reloj de Pulsera analógico Cuarzo...'
+sku: 'B011IO7OEQ-es'
 tags: [  ]
 actualPrice: 139.0 EUR
 currency: EUR

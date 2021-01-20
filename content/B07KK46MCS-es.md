@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KK46MCS-es Columbia Peakfreak X2 Mid Outdry Botas de Senderismo para...'
+sku: 'B07KK46MCS-es'
 tags: [  ]
 actualPrice: 31.92 EUR
 currency: EUR

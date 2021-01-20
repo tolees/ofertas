@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ZWTH5CA-es Bolsa Termica Comida Trabajo Porta Alimentos Isotermica...'
+sku: 'B00ZWTH5CA-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XL1Q14H-es KPCB Máquina de Coser para Principiantes con Material de...'
+sku: 'B07XL1Q14H-es'
 tags: [  ]
 actualPrice: 38.99 EUR
 currency: EUR

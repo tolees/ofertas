@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PVRP3KS-es MOSISO Tote Bolsa para Mujer hasta 15.6 Pulgadas...'
+sku: 'B07PVRP3KS-es'
 tags: [  ]
 actualPrice: 35.46 EUR
 currency: EUR

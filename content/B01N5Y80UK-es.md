@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N5Y80UK-es MASERATI Reloj Analógico para Hombre de Cuarzo con Correa...'
+sku: 'B01N5Y80UK-es'
 tags: [  ]
 actualPrice: 152.66 EUR
 currency: EUR

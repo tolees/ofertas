@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HGH259Y-es Winsor & Newton Cotman Set regalo acuarela multicolor 12...'
+sku: 'B07HGH259Y-es'
 tags: [  ]
 actualPrice: 25.82 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00T7ZR6K6-es Shock Absorber Active Shaped Support Sujetador Deportivo...'
+sku: 'B00T7ZR6K6-es'
 tags: [  ]
 actualPrice: 25.42 EUR
 currency: EUR

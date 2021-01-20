@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VRNR64N-es Onnea 5 Pares Pendientes Aro de Acero Inoxidable para...'
+sku: 'B07VRNR64N-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

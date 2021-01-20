@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KH2XV6J-es Under Armour UA Rush Tank Tanque Mujer Gris Ash...'
+sku: 'B07KH2XV6J-es'
 tags: [  ]
 actualPrice: 9.26 EUR
 currency: EUR

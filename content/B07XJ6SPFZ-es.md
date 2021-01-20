@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XJ6SPFZ-es La Mulana 1 & 2 - Hidden Treasures Edition'
+sku: 'B07XJ6SPFZ-es'
 tags: [  ]
 actualPrice: 43.79 EUR
 currency: EUR

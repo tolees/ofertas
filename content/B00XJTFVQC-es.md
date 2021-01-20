@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XJTFVQC-es Rayt 1315-13 Novopur Cartucho de Adhesivo monocomponente...'
+sku: 'B00XJTFVQC-es'
 tags: [  ]
 actualPrice: 5.9 EUR
 currency: EUR

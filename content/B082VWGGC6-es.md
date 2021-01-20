@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082VWGGC6-es Auriculares-Micrófono-Cascos-Cable-Alambricos LUDOS Turbo...'
+sku: 'B082VWGGC6-es'
 tags: [  ]
 actualPrice: 14.97 EUR
 currency: EUR

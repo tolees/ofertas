@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084X2D6GP-es Rettos - Zapatillas Bajas Hombre Afelpado Color: Brandy...'
+sku: 'B084X2D6GP-es'
 tags: [  ]
 actualPrice: 54.6 EUR
 currency: EUR

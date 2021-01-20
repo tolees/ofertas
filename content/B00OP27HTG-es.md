@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OP27HTG-es Orbegozo MIG 2031 - Microondas con grill 700 W 20 L 9...'
+sku: 'B00OP27HTG-es'
 tags: [  ]
 actualPrice: 61.0 EUR
 currency: EUR

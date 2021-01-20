@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FD13SXG-es MVMT Reloj Cronógrafo para Hombre de Cuarzo con Correa en...'
+sku: 'B07FD13SXG-es'
 tags: [  ]
 actualPrice: 99.95 EUR
 currency: EUR

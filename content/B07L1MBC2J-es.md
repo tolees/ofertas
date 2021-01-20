@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L1MBC2J-es APC BV500I-GR Easy-UPS BV - Sistema de alimentación...'
+sku: 'B07L1MBC2J-es'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

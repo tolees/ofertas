@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YXQHPL4-es Máscara para pelo Cabello Mascarillas Magical Hair Mask...'
+sku: 'B07YXQHPL4-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

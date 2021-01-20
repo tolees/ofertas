@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BQFTTTW-es Yesterday Origins'
+sku: 'B07BQFTTTW-es'
 tags: [  ]
 actualPrice: 18.38 EUR
 currency: EUR

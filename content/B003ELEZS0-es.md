@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003ELEZS0-es Piz Buin - Crema solar Allergy Lotion SPF30 200 ml'
+sku: 'B003ELEZS0-es'
 tags: [  ]
 actualPrice: 7.95 EUR
 currency: EUR

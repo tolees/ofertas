@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077ZGS1LP-es Netgear Nighthawk GS810EMX-100PES - Switch Pro Gaming SX10...'
+sku: 'B077ZGS1LP-es'
 tags: [  ]
 actualPrice: 179.99 EUR
 currency: EUR

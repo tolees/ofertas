@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N42FIBF-es Puma Roma Basic Zapatillas para Hombre Negro Black-black...'
+sku: 'B01N42FIBF-es'
 tags: [  ]
 actualPrice: 27.21 EUR
 currency: EUR

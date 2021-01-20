@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0034AZO6I-es Silverline 845318 - Herramientas para soldadura eléctrica...'
+sku: 'B0034AZO6I-es'
 tags: [  ]
 actualPrice: 32.74 EUR
 currency: EUR

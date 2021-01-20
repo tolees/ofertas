@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SSS6M3Q-es Simply Natural Cortaúñas para Mascotas Cortaúñas para...'
+sku: 'B07SSS6M3Q-es'
 tags: [  ]
 actualPrice: 7.88 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WCC24N-es MASERATI Reloj Analógico para Hombre de Automático con...'
+sku: 'B078WCC24N-es'
 tags: [  ]
 actualPrice: 244.18 EUR
 currency: EUR

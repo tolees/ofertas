@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BFN9CBF-es Oriware Estanteria Ducha Adhesivos Organizador Estantes...'
+sku: 'B07BFN9CBF-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

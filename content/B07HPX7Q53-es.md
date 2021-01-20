@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HPX7Q53-es Barra De Labios Mate Permanente De Pintalabios Impermeable...'
+sku: 'B07HPX7Q53-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

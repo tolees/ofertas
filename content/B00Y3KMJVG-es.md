@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00Y3KMJVG-es Beter Minnie Eyeliner Azul Océano'
+sku: 'B00Y3KMJVG-es'
 tags: [  ]
 actualPrice: 0.71 EUR
 currency: EUR

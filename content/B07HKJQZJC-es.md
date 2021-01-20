@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HKJQZJC-es Under Armour UA Ripple 2.0 Zapatillas de Running para...'
+sku: 'B07HKJQZJC-es'
 tags: [  ]
 actualPrice: 25.74 EUR
 currency: EUR

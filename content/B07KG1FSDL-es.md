@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG1FSDL-es LIGHTAILING Conjunto de Luces Barco En Botella Modelo de...'
+sku: 'B07KG1FSDL-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

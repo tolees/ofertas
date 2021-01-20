@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00D10IR1K-es Bioderma Sebium H2O Solución Micelar - 250 ml'
+sku: 'B00D10IR1K-es'
 tags: [  ]
 actualPrice: 7.7 EUR
 currency: EUR

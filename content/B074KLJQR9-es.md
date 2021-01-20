@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074KLJQR9-es Denon D-M41 Home audio mini system 60W Negro Plata -...'
+sku: 'B074KLJQR9-es'
 tags: [  ]
 actualPrice: 297.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GUZJCFW-es Adidas Stan Smith Zapatillas Unisex Niños Blanco Footwear...'
+sku: 'B01GUZJCFW-es'
 tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR

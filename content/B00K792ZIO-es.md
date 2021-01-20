@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K792ZIO-es Philips SHK2000 - Auriculares de diadema cerrados control...'
+sku: 'B00K792ZIO-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

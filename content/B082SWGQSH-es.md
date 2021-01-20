@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082SWGQSH-es Ratón inalámbrico de 2.4GHz Ratón Inteligente portátil...'
+sku: 'B082SWGQSH-es'
 tags: [  ]
 actualPrice: 1.98 EUR
 currency: EUR

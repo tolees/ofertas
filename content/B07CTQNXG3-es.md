@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CTQNXG3-es FIND - Cat Lady Máscara efecto alargador marrón +...'
+sku: 'B07CTQNXG3-es'
 tags: [  ]
 actualPrice: 2.86 EUR
 currency: EUR

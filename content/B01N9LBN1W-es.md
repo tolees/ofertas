@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N9LBN1W-es Smoby SMOBH - Caja de Frutas y Verduras Modelos/Colores...'
+sku: 'B01N9LBN1W-es'
 tags: [  ]
 actualPrice: 2.9 EUR
 currency: EUR

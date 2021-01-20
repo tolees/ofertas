@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BSXWG9K-es DURAGADGET Funda/Riñonera Negra Sumergible para Canon...'
+sku: 'B01BSXWG9K-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

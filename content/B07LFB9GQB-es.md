@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFB9GQB-es 15 unids/rollo bolsas de pañales para bebés desechables...'
+sku: 'B07LFB9GQB-es'
 tags: [  ]
 actualPrice: 2.85 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B012GQVTIC-es Capital Sports Adjustar Banco de entrenamiento adaptable...'
+sku: 'B012GQVTIC-es'
 tags: [  ]
 actualPrice: 124.99 EUR
 currency: EUR

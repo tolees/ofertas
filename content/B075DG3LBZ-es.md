@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075DG3LBZ-es EIS Lubricante Deluxe Aqua chocolate efecto de larga...'
+sku: 'B075DG3LBZ-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

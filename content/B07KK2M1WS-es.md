@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KK2M1WS-es GEKER Aspirador Mano de coche Aspiradora Automotriz 6 KPA...'
+sku: 'B07KK2M1WS-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

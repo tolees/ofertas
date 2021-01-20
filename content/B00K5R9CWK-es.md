@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K5R9CWK-es Tommy Hilfiger 3p Lr Trunk Calcetines Negro Black 990...'
+sku: 'B00K5R9CWK-es'
 tags: [  ]
 actualPrice: 27.49 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013T5I2HA-es Lacoste PH4012 Polo Para Hombre Rojo Rouge Medium Talla...'
+sku: 'B013T5I2HA-es'
 tags: [  ]
 actualPrice: 62.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVTPTQW-es Women s Secret Vintage Mv DS Mickey Stripes Nd Camisón...'
+sku: 'B07TVTPTQW-es'
 tags: [  ]
 actualPrice: 13.6 EUR
 currency: EUR

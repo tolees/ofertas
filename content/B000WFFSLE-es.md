@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000WFFSLE-es Trixie 1571260031 - Pala p/lecho bandejas granulado silice...'
+sku: 'B000WFFSLE-es'
 tags: [  ]
 actualPrice: 2.11 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089SXPXTV-es Faux Gemstones Naturales Colgante de Reiki Puntiagudo...'
+sku: 'B089SXPXTV-es'
 tags: [  ]
 actualPrice: 2.94 EUR
 currency: EUR

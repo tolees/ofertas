@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NZIHK2K-es Lee Luke Pants Jeans Clean Black 34W / 36L para Hombre'
+sku: 'B00NZIHK2K-es'
 tags: [  ]
 actualPrice: 44.33 EUR
 currency: EUR

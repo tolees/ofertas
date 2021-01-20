@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TFQ9QF6-es Quiksilver Mission-Guantes para Snowboard/Esquí para...'
+sku: 'B07TFQ9QF6-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CLZD3VZ-es Set Pintura Acrílica Nazca para Trabajo Artístico y...'
+sku: 'B08CLZD3VZ-es'
 tags: [  ]
 actualPrice: 13.9 EUR
 currency: EUR

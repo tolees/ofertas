@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FAD71KY-es Samsung EE-V200SA - Soporte de móviles para coches Diseño...'
+sku: 'B00FAD71KY-es'
 tags: [  ]
 actualPrice: 11.89 EUR
 currency: EUR

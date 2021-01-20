@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HFGGVDB-es Smilodox Power - Pantalones de chándal para hombre para...'
+sku: 'B07HFGGVDB-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

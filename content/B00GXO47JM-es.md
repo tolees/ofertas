@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GXO47JM-es Funko Pop! - Vinyl: Game of Thrones: Drogon 3873'
+sku: 'B00GXO47JM-es'
 tags: [  ]
 actualPrice: 7.26 EUR
 currency: EUR

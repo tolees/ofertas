@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L5FKZL3-es Viking Alvdal Mid R GTX Zapatillas Altas Unisex Niños...'
+sku: 'B07L5FKZL3-es'
 tags: [  ]
 actualPrice: 13.09 EUR
 currency: EUR

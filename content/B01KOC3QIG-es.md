@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KOC3QIG-es Beurer MP 55 Máquina para Callos Recargable Eliminador de...'
+sku: 'B01KOC3QIG-es'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KP6XFQB-es Flybiz Prensa 3-en-1 para Hacer Hamburguesas Rellenas con...'
+sku: 'B07KP6XFQB-es'
 tags: [  ]
 actualPrice: 12.49 EUR
 currency: EUR

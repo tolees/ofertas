@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072Q2KLVJ-es Wilson Federer Junior 19 21 23 25 26 Raqueta De Tenis + 3...'
+sku: 'B072Q2KLVJ-es'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

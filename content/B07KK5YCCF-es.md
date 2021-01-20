@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KK5YCCF-es Columbia Redmond V2 Mid Botas de Senderismo Impermeables...'
+sku: 'B07KK5YCCF-es'
 tags: [  ]
 actualPrice: 74.99 EUR
 currency: EUR

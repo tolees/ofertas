@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZBZH2WL-es Ozono Peel Peeling Enzimático. 210 Ml'
+sku: 'B07ZBZH2WL-es'
 tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR

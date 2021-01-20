@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087ZFDF7X-es Pintar por números para adultos la chica en el bosque'
+sku: 'B087ZFDF7X-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

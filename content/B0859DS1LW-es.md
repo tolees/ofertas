@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0859DS1LW-es Oihxse Animal Serie Case Compatible con Huawei Y5...'
+sku: 'B0859DS1LW-es'
 tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR

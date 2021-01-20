@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079C1NMM7-es Gomyhom Rosa 24K Rosa de Oro Chapada en Oro con Caja de...'
+sku: 'B079C1NMM7-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

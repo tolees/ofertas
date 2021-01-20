@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPD9SV2-es Gant The Original Heavy Rugger Polo Hombre Azul Evening...'
+sku: 'B07KPD9SV2-es'
 tags: [  ]
 actualPrice: 50.96 EUR
 currency: EUR

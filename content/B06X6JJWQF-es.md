@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X6JJWQF-es HelpCuisine Salvamanteles/Agarrador de ollas/salvamanteles...'
+sku: 'B06X6JJWQF-es'
 tags: [  ]
 actualPrice: 12.97 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SGCQF97-es KEXIN 64GB Memoria USB 3.0 2 Pendrives de 64GB Alta...'
+sku: 'B07SGCQF97-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

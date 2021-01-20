@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MH1RKN6-es CubicFun National Geographic Puzzle 3D España Barcelona...'
+sku: 'B07MH1RKN6-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

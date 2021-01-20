@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RYL4YBS-es New Balance 574v2 Zapatillas para Mujer Gris Grey/White O...'
+sku: 'B07RYL4YBS-es'
 tags: [  ]
 actualPrice: 64.99 EUR
 currency: EUR

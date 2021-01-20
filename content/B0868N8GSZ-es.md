@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0868N8GSZ-es Suhctup Transparente Funda Compatible con Huawei Mate 8...'
+sku: 'B0868N8GSZ-es'
 tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR

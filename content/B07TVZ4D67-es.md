@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVZ4D67-es Fenteer Papel Garland Colgando Banner Boda Cumpleaños Prom...'
+sku: 'B07TVZ4D67-es'
 tags: [  ]
 actualPrice: 3.82 EUR
 currency: EUR

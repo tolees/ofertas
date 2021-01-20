@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B2TYRMT-es RIFFUE Moto G6 Play Protector de Pantalla Cristal Vidrio...'
+sku: 'B07B2TYRMT-es'
 tags: [  ]
 actualPrice: 7.01 EUR
 currency: EUR

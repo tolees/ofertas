@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KQQTJG3-es Salomon Trailster GTX W Zapatillas de Trail Running para...'
+sku: 'B07KQQTJG3-es'
 tags: [  ]
 actualPrice: 51.01 EUR
 currency: EUR

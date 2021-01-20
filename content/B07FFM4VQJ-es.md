@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FFM4VQJ-es Fossil - Reloj Gen 4 Smartwatch con correa de cuero - FTW6015'
+sku: 'B07FFM4VQJ-es'
 tags: [  ]
 actualPrice: 189.89 EUR
 currency: EUR

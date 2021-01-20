@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BGG0GK6-es Borella Casalighi Vira Juego 6 Cuencos para Macedonia 6...'
+sku: 'B00BGG0GK6-es'
 tags: [  ]
 actualPrice: 10.85 EUR
 currency: EUR

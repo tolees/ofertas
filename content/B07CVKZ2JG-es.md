@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CVKZ2JG-es Skechers Women s Side Street-TEGU Trainers White White Wht...'
+sku: 'B07CVKZ2JG-es'
 tags: [  ]
 actualPrice: 36.4 EUR
 currency: EUR

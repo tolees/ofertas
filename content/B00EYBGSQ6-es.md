@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EYBGSQ6-es Invicta'
+sku: 'B00EYBGSQ6-es'
 tags: [  ]
 actualPrice: 31.25 EUR
 currency: EUR

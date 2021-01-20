@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01I4H0AF0-es Urban Classics Hibi Mid Shoe Zapatillas para Hombre Braun...'
+sku: 'B01I4H0AF0-es'
 tags: [  ]
 actualPrice: 13.47 EUR
 currency: EUR

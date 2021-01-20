@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075S5NCYV-es Bosch MSM6S50B ErgoMixx Style Batidora de mano con...'
+sku: 'B075S5NCYV-es'
 tags: [  ]
 actualPrice: 39.0 EUR
 currency: EUR

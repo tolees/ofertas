@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QTYHN25-es TATAFUN Máscaras de Superhéroe Suministros de Fiesta de...'
+sku: 'B07QTYHN25-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

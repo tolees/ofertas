@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071L4HGYD-es Utawarerumono: Mask Of Truth'
+sku: 'B071L4HGYD-es'
 tags: [  ]
 actualPrice: 25.35 EUR
 currency: EUR

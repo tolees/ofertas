@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000GIPJ0M-es Optimum Nutrition ON Serious Mass proteina en polvo mass...'
+sku: 'B000GIPJ0M-es'
 tags: [  ]
 actualPrice: 42.7 EUR
 currency: EUR

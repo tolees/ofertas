@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MRIM579-es Playmobil-9101 Maletín Grande Exploración Espacial...'
+sku: 'B01MRIM579-es'
 tags: [  ]
 actualPrice: 14.9 EUR
 currency: EUR

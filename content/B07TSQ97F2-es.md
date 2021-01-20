@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TSQ97F2-es Skechers Flex Advantage 3.0 Zapatillas para Hombre Negro...'
+sku: 'B07TSQ97F2-es'
 tags: [  ]
 actualPrice: 43.98 EUR
 currency: EUR

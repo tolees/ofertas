@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001N2MLYW-es Helly Hansen HH LIFA Stripe Crew Ropa Interior Hombre...'
+sku: 'B001N2MLYW-es'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

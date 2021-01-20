@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NT57BJM-es De Longhi Pac AN98 Aire Acondicionado portátil capacidad...'
+sku: 'B07NT57BJM-es'
 tags: [  ]
 actualPrice: 490.0 EUR
 currency: EUR

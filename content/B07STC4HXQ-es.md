@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STC4HXQ-es Zapatillas Converse Chuck Taylor All Stars para mujer...'
+sku: 'B07STC4HXQ-es'
 tags: [  ]
 actualPrice: 55.0 EUR
 currency: EUR

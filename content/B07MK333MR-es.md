@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MK333MR-es Marca Amazon - MERAKI Shorts de Natación Hombre Gris...'
+sku: 'B07MK333MR-es'
 tags: [  ]
 actualPrice: 5.74 EUR
 currency: EUR

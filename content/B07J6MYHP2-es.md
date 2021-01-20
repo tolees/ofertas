@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J6MYHP2-es Hugo Boss-Boss The Scent for Her 3 productos 107 ml'
+sku: 'B07J6MYHP2-es'
 tags: [  ]
 actualPrice: 47.32 EUR
 currency: EUR

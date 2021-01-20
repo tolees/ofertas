@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LYZERF7-es Brennenstuhl Comfort Line regleta de enchufes con 6 tomas...'
+sku: 'B01LYZERF7-es'
 tags: [  ]
 actualPrice: 11.54 EUR
 currency: EUR

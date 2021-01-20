@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TWMFJZ1-es Beholder CE - Collector s Edition'
+sku: 'B07TWMFJZ1-es'
 tags: [  ]
 actualPrice: 18.52 EUR
 currency: EUR

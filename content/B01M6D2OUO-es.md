@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M6D2OUO-es Funko Rocket Figura de Vinilo colección de Pop seria...'
+sku: 'B01M6D2OUO-es'
 tags: [  ]
 actualPrice: 8.4 EUR
 currency: EUR

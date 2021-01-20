@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GSCHRRJ-es Max Factor LipFinity Classic Pintalabios Tono 210...'
+sku: 'B07GSCHRRJ-es'
 tags: [  ]
 actualPrice: 5.45 EUR
 currency: EUR

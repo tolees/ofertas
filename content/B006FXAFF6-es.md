@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006FXAFF6-es BRA Olla RÁPIDA Vitesse Acero Inoxidable Plata 22 cm'
+sku: 'B006FXAFF6-es'
 tags: [  ]
 actualPrice: 53.65 EUR
 currency: EUR

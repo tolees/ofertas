@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CJHRWYR-es Calvin Klein Reloj Analógico para Mujer de Cuarzo con...'
+sku: 'B07CJHRWYR-es'
 tags: [  ]
 actualPrice: 109.97 EUR
 currency: EUR

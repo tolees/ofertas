@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002R0GL8G-es WAHL Peines de plástico Arco Adelar y Bravura - Color Negro'
+sku: 'B002R0GL8G-es'
 tags: [  ]
 actualPrice: 8.4 EUR
 currency: EUR

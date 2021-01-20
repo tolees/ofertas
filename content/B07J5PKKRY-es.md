@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J5PKKRY-es Victory Endurance Oxy Storm 90 capsulas. Nitratos...'
+sku: 'B07J5PKKRY-es'
 tags: [  ]
 actualPrice: 13.7 EUR
 currency: EUR

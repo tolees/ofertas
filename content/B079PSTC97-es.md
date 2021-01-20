@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079PSTC97-es Adidas by Nixon Reloj Mujer de Digital con Correa en Acero...'
+sku: 'B079PSTC97-es'
 tags: [  ]
 actualPrice: 81.0 EUR
 currency: EUR

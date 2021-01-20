@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XCJ8YRC-es Hosome Juego de Luces Para Bicicleta Recargable por USB...'
+sku: 'B07XCJ8YRC-es'
 tags: [  ]
 actualPrice: 19.49 EUR
 currency: EUR

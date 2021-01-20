@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085KWVMNQ-es HUNDA Cargador Surface Pro 44W 15V 2.58A Surface Cargador...'
+sku: 'B085KWVMNQ-es'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

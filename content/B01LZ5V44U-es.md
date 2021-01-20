@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZ5V44U-es Timotei Champú Fresco Y Puro - 400 ml'
+sku: 'B01LZ5V44U-es'
 tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NCWHLW3-es adidas Stan Smith Zapatillas Unisex Niños Blanco Footwear...'
+sku: 'B01NCWHLW3-es'
 tags: [  ]
 actualPrice: 11.01 EUR
 currency: EUR

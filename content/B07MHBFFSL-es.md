@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MHBFFSL-es Star vie Aquila Pro'
+sku: 'B07MHBFFSL-es'
 tags: [  ]
 actualPrice: 102.5 EUR
 currency: EUR

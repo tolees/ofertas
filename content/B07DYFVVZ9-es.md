@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DYFVVZ9-es Merrell Nova GTX Zapatillas de Running para Asfalto para...'
+sku: 'B07DYFVVZ9-es'
 tags: [  ]
 actualPrice: 85.03 EUR
 currency: EUR

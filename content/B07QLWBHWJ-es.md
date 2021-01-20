@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QLWBHWJ-es Hawiton Sujetadores Deportivos Mujer con Almohadillas...'
+sku: 'B07QLWBHWJ-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

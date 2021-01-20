@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PDHPBGN-es Wilkinson Sword - Maquinilla de Afeitar Hydro 5 Sense...'
+sku: 'B07PDHPBGN-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

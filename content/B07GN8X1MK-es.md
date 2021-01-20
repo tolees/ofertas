@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GN8X1MK-es ZIGLINT Cargador Inalámbrico Coche Rápido Cargador Qi de...'
+sku: 'B07GN8X1MK-es'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

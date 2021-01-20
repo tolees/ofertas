@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FJS2LV8-es Mars Gaming MRK0 teclado gaming iluminación RGB capacidad...'
+sku: 'B07FJS2LV8-es'
 tags: [  ]
 actualPrice: 12.9 EUR
 currency: EUR

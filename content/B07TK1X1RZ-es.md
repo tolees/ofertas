@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TK1X1RZ-es Crema de Ojos Crema para los Ojos Contorno de Ojos Anti...'
+sku: 'B07TK1X1RZ-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

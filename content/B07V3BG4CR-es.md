@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V3BG4CR-es Swatch Reloj Analógico para Hombre de Automático con...'
+sku: 'B07V3BG4CR-es'
 tags: [  ]
 actualPrice: 134.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RJTD5YT-es adidas Gazelle Zapatillas para Hombre Azul Real...'
+sku: 'B07RJTD5YT-es'
 tags: [  ]
 actualPrice: 47.48 EUR
 currency: EUR

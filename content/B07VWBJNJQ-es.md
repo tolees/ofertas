@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VWBJNJQ-es Recambios Cepillo Compatible Aiemok 16 Cabezales de...'
+sku: 'B07VWBJNJQ-es'
 tags: [  ]
 actualPrice: 12.74 EUR
 currency: EUR

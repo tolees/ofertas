@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077M8YY2B-es PUMA Smash V2 Zapatillas Unisex-Adulto Negro Black White...'
+sku: 'B077M8YY2B-es'
 tags: [  ]
 actualPrice: 33.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GB0HJUM-es Rimmel London Moisture Renew Barra De Labios Tono 200...'
+sku: 'B00GB0HJUM-es'
 tags: [  ]
 actualPrice: 4.0 EUR
 currency: EUR

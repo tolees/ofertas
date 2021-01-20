@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZLXGZH9-es NMDD Ornament Schöne Harz Ballon Hund Handwerk Zimmer...'
+sku: 'B07ZLXGZH9-es'
 tags: [  ]
 actualPrice: 60.99 EUR
 currency: EUR

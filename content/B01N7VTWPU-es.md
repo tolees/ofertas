@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N7VTWPU-es CLUSE Correa de Reloj CLS053'
+sku: 'B01N7VTWPU-es'
 tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR

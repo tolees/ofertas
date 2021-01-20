@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087CYM86L-es Fabur 210 * 90CM Cubierta Aislante para Puertas de Tela...'
+sku: 'B087CYM86L-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

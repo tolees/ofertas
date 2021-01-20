@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M9NJ4SD-es KollyKolla Botella de Agua Deporte Botellas Sin BPA Tritan...'
+sku: 'B07M9NJ4SD-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

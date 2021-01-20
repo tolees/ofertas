@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VK4CYQR-es Auriculares inalámbricos Verdaderos Bluetooth 5.0 Estuche...'
+sku: 'B07VK4CYQR-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

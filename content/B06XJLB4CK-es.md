@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XJLB4CK-es AiSi - Cartera de mano para mujer negro negro Talla única'
+sku: 'B06XJLB4CK-es'
 tags: [  ]
 actualPrice: 24.16 EUR
 currency: EUR

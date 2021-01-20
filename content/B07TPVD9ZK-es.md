@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TPVD9ZK-es Superdry Core Cargo Shorts Pantalones Cortos Beige Dress...'
+sku: 'B07TPVD9ZK-es'
 tags: [  ]
 actualPrice: 31.76 EUR
 currency: EUR

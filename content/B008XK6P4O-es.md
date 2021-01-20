@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008XK6P4O-es DIM Generous Minimizer Sujetador Reductor Blanco White 90D...'
+sku: 'B008XK6P4O-es'
 tags: [  ]
 actualPrice: 14.0 EUR
 currency: EUR

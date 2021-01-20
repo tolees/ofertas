@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00B45MGU2-es Philips Lighting 915002790302 - Aplique de exterior...'
+sku: 'B00B45MGU2-es'
 tags: [  ]
 actualPrice: 13.85 EUR
 currency: EUR

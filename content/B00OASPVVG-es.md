@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OASPVVG-es SONGMICS LJB65W - Taburete de Bar con Respaldo Sintético...'
+sku: 'B00OASPVVG-es'
 tags: [  ]
 actualPrice: 66.59 EUR
 currency: EUR

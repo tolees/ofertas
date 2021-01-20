@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FXDL9AS-es Pro Mountain - Calcetines deportivos unisex de algodón -...'
+sku: 'B01FXDL9AS-es'
 tags: [  ]
 actualPrice: 21.36 EUR
 currency: EUR

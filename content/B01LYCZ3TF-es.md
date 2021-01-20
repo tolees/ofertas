@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LYCZ3TF-es Gourmet Mini Crackers Redondas - 350 g'
+sku: 'B01LYCZ3TF-es'
 tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MQNVU7O-es New Balance 373 Core Zapatillas Bajas para Hombre Bordeaux...'
+sku: 'B01MQNVU7O-es'
 tags: [  ]
 actualPrice: 51.0 EUR
 currency: EUR

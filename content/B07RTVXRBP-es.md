@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RTVXRBP-es Peine Eléctrico para Hombres - AKIMO Plancha de Pelo con...'
+sku: 'B07RTVXRBP-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

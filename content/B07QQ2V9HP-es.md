@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QQ2V9HP-es Montse Interiors S.L. Toalla Playa o Piscina Áncora Azul...'
+sku: 'B07QQ2V9HP-es'
 tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00009VGXX-es D-Link DES-1008D - Switch de Red con 8 Puertos LAN Fast...'
+sku: 'B00009VGXX-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

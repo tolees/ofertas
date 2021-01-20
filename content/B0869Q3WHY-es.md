@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0869Q3WHY-es WOLTU Mesa de Bar Mesa de Bistro Mesa de Comedor con 2...'
+sku: 'B0869Q3WHY-es'
 tags: [  ]
 actualPrice: 73.99 EUR
 currency: EUR

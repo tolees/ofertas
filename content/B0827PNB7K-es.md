@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0827PNB7K-es Mameluco de Orejas de Oso bebé Sudaderas con Capucha de...'
+sku: 'B0827PNB7K-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

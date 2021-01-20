@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019XUFSXQ-es Clarins Multi Active Crema de Noche Piel Normal a Seca -...'
+sku: 'B019XUFSXQ-es'
 tags: [  ]
 actualPrice: 29.92 EUR
 currency: EUR

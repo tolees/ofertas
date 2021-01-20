@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVVC7SZ-es Skechers Equalizer 4.0 Zapatillas para Hombre Azul Navy...'
+sku: 'B07TVVC7SZ-es'
 tags: [  ]
 actualPrice: 33.92 EUR
 currency: EUR

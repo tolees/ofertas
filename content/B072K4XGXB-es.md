@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072K4XGXB-es Decyam Comedero de Perros para ralentizar la Comida...'
+sku: 'B072K4XGXB-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NXJWP5X-es Skechers Dyna-Lights Zapatillas para Niños Azul Navy...'
+sku: 'B07NXJWP5X-es'
 tags: [  ]
 actualPrice: 32.95 EUR
 currency: EUR

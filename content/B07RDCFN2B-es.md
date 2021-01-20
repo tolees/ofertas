@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RDCFN2B-es Tommy Hilfiger Anya 1a1 Zapatillas para Mujer Beige White...'
+sku: 'B07RDCFN2B-es'
 tags: [  ]
 actualPrice: 86.95 EUR
 currency: EUR

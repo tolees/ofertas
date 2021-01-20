@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BGSC6AC-es De Longhi PrimaDonna XS Deluxe - Cafetera Superautomática...'
+sku: 'B00BGSC6AC-es'
 tags: [  ]
 actualPrice: 830.74 EUR
 currency: EUR

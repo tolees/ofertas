@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LB5FY6V-es TOOHUI 6Pcs Acoplador HDMI HDMI Acoplador Hembra a Hembra...'
+sku: 'B07LB5FY6V-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

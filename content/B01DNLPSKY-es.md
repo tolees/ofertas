@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DNLPSKY-es Leathario Marca de Portafolio/ Carpeta Plegable de Mano PU...'
+sku: 'B01DNLPSKY-es'
 tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR

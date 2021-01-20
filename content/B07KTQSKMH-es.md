@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KTQSKMH-es Tommy Hilfiger Reloj de Pulsera 1782024'
+sku: 'B07KTQSKMH-es'
 tags: [  ]
 actualPrice: 100.98 EUR
 currency: EUR

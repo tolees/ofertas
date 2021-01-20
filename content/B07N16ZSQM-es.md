@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N16ZSQM-es G-STAR RAW 3301 Slim Fit Jeans Negro Antic Charcoal 31W /...'
+sku: 'B07N16ZSQM-es'
 tags: [  ]
 actualPrice: 47.95 EUR
 currency: EUR

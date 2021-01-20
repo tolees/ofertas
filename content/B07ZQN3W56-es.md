@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZQN3W56-es adidas Duramo 9 Zapatillas para Correr para Mujer Tinte...'
+sku: 'B07ZQN3W56-es'
 tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR

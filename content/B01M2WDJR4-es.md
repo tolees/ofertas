@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M2WDJR4-es Luceco lfs6b130 de la UE a + Foco LED aluminio 8 Watts...'
+sku: 'B01M2WDJR4-es'
 tags: [  ]
 actualPrice: 4.36 EUR
 currency: EUR

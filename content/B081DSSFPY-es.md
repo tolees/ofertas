@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081DSSFPY-es Antena Interior TV Antena de TV de Rango Amplificado de...'
+sku: 'B081DSSFPY-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

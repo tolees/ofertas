@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HP7CM94-es Skechers Men s STATUS 2.0 PEXTON Boat Shoes Grey Taupe...'
+sku: 'B07HP7CM94-es'
 tags: [  ]
 actualPrice: 44.5 EUR
 currency: EUR

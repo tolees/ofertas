@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007ZSUMCQ-es NanoCable 10.15.0305 - Cable HDMI V1.3 alta velocidad...'
+sku: 'B007ZSUMCQ-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

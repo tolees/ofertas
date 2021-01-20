@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000O3SXUW-es Cressi DP182041 Aletas Unisex-Youth Azul 41/42'
+sku: 'B000O3SXUW-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

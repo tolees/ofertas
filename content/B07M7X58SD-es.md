@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M7X58SD-es Wilson WTB2501XB07 Pelota de Baloncesto NCAA Battleground...'
+sku: 'B07M7X58SD-es'
 tags: [  ]
 actualPrice: 11.12 EUR
 currency: EUR

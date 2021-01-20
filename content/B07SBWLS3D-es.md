@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SBWLS3D-es PUMA X-Ray Zapatillas Unisex Adulto Negro Black/Dark...'
+sku: 'B07SBWLS3D-es'
 tags: [  ]
 actualPrice: 37.71 EUR
 currency: EUR

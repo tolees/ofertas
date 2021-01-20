@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BCBCDB9-es feihao-Rodillo de Amasar-Rodillos Ajustables de Acero...'
+sku: 'B08BCBCDB9-es'
 tags: [  ]
 actualPrice: 13.88 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NRTD77M-es Schwarzkopf Gliss - Reparador de puntas Ultimate Repair 2...'
+sku: 'B07NRTD77M-es'
 tags: [  ]
 actualPrice: 6.5 EUR
 currency: EUR

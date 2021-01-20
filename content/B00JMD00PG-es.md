@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JMD00PG-es Canson Iris - Cartulina 50 Unidades Color Gris Perla'
+sku: 'B00JMD00PG-es'
 tags: [  ]
 actualPrice: 5.65 EUR
 currency: EUR

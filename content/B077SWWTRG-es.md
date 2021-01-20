@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077SWWTRG-es Nike U Nk H86 Cap Metal Swoosh Hat Unisex Adulto Negro...'
+sku: 'B077SWWTRG-es'
 tags: [  ]
 actualPrice: 7.45 EUR
 currency: EUR

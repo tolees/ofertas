@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG1LR1N-es Puma Smash V2 Zapatillas Unisex adulto Castlerock-Puma...'
+sku: 'B07KG1LR1N-es'
 tags: [  ]
 actualPrice: 41.02 EUR
 currency: EUR

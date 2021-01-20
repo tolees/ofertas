@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07576NTQM-es Garmin Forerunner 30 - Reloj de carrera con GPS y sensor...'
+sku: 'B07576NTQM-es'
 tags: [  ]
 actualPrice: 83.99 EUR
 currency: EUR

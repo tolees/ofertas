@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EIN8NTY-es Victoria Deportivo Basket Piel - Zapatillas de Deporte...'
+sku: 'B01EIN8NTY-es'
 tags: [  ]
 actualPrice: 37.29 EUR
 currency: EUR

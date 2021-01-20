@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HPDBKKQ-es Apple iPhone XS de 512GB - Oro'
+sku: 'B07HPDBKKQ-es'
 tags: [  ]
 actualPrice: 938.9 EUR
 currency: EUR

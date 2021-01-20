@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFJJ5CL-es LAST LEVEL- Funko Pop: Kingdom Hearts 3: Goofy Monsters...'
+sku: 'B07DFJJ5CL-es'
 tags: [  ]
 actualPrice: 9.48 EUR
 currency: EUR

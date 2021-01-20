@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D5SCDNW-es PUMA ESS Logo tee T-Shirt Mujer Puma White XS'
+sku: 'B07D5SCDNW-es'
 tags: [  ]
 actualPrice: 10.49 EUR
 currency: EUR

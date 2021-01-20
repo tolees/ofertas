@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S7HZF2S-es Adidas Runfalcon K Unisex Adulto Multicolor...'
+sku: 'B07S7HZF2S-es'
 tags: [  ]
 actualPrice: 27.9 EUR
 currency: EUR

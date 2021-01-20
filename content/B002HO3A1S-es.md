@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002HO3A1S-es Thierry Mugler Angel Agua de perfume Vaporizador...'
+sku: 'B002HO3A1S-es'
 tags: [  ]
 actualPrice: 68.95 EUR
 currency: EUR

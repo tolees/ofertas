@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003ZOFRO2-es Bel Premium Bolas de Algodon 70 piezas'
+sku: 'B003ZOFRO2-es'
 tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR

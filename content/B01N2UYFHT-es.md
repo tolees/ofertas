@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N2UYFHT-es Bourjois Healthy Mix Base de Maquillaje Tono 52 Vanilla 30 ml'
+sku: 'B01N2UYFHT-es'
 tags: [  ]
 actualPrice: 5.59 EUR
 currency: EUR

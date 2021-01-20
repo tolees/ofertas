@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRLZF6D-es New Balance Yc373v1 Zapatillas para Niños Rojo Burgundy...'
+sku: 'B07KRLZF6D-es'
 tags: [  ]
 actualPrice: 30 EUR
 currency: EUR

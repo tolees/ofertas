@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG4W2ZW-es PUMA Turin II AC PS Zapatillas Unisex Niños White-Calypso...'
+sku: 'B07KG4W2ZW-es'
 tags: [  ]
 actualPrice: 12.69 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JGHV3SD-es Pepe Jeans Lena Pl800863 Bañador Multi Bleu 0aa W32 Talla...'
+sku: 'B07JGHV3SD-es'
 tags: [  ]
 actualPrice: 38.99 EUR
 currency: EUR

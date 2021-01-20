@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FS8S3PT-es Pulsera de Emergencia para Niños Pulseras de...'
+sku: 'B07FS8S3PT-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005HF4GKS-es Han Rondo - Organizador de escritorio 9 compartimentos...'
+sku: 'B005HF4GKS-es'
 tags: [  ]
 actualPrice: 8.47 EUR
 currency: EUR

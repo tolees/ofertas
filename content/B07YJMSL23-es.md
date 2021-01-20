@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YJMSL23-es Dularf Masajeador de Percusión Mano Portátil Masajeador de...'
+sku: 'B07YJMSL23-es'
 tags: [  ]
 actualPrice: 22.65 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JLFBTD3-es Lee Breese Pantalones para Mujer Negro Black Rinse 47 27W...'
+sku: 'B07JLFBTD3-es'
 tags: [  ]
 actualPrice: 9.07 EUR
 currency: EUR

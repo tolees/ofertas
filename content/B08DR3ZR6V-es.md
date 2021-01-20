@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DR3ZR6V-es Capturadora de vídeo HDMI USB 2.0 Caja de captura de video...'
+sku: 'B08DR3ZR6V-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

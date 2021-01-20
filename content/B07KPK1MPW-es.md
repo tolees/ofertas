@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPK1MPW-es Pop! Vinilo: Fairy Tail S3: Zeref'
+sku: 'B07KPK1MPW-es'
 tags: [  ]
 actualPrice: 10.0 EUR
 currency: EUR

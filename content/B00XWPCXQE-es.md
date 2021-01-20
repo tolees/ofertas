@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XWPCXQE-es NIKE Men s Cortez Basic Leather Shoe Zapatillas Hombre...'
+sku: 'B00XWPCXQE-es'
 tags: [  ]
 actualPrice: 59.5 EUR
 currency: EUR

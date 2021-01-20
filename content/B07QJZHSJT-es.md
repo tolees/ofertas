@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QJZHSJT-es Lámpara de Espejo Baño LED 5W 30cm 400LM Azhien Blanco...'
+sku: 'B07QJZHSJT-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NBKC102-es Reebok Club C 85 Zapatillas para Hombre Blanco INT...'
+sku: 'B01NBKC102-es'
 tags: [  ]
 actualPrice: 47.96 EUR
 currency: EUR

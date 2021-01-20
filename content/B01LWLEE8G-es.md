@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LWLEE8G-es Nike Tanjun Zapatillas de Running para Hombre Blanco...'
+sku: 'B01LWLEE8G-es'
 tags: [  ]
 actualPrice: 38.99 EUR
 currency: EUR

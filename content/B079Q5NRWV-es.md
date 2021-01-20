@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079Q5NRWV-es Finca La Estacada Vino 12 Meses - 750 ml'
+sku: 'B079Q5NRWV-es'
 tags: [  ]
 actualPrice: 3.7 EUR
 currency: EUR

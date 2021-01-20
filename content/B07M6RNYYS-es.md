@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M6RNYYS-es De Longhi Pingüino PAC N77ECO Aire Acondicionado Portátil...'
+sku: 'B07M6RNYYS-es'
 tags: [  ]
 actualPrice: 357.99 EUR
 currency: EUR

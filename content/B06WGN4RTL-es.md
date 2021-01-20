@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WGN4RTL-es Foxom Cronómetro Deportivo Profesional Portátil Digital...'
+sku: 'B06WGN4RTL-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

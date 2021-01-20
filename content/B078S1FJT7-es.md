@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078S1FJT7-es Lentejuelas Portátil - 2 Color Reversible diario de...'
+sku: 'B078S1FJT7-es'
 tags: [  ]
 actualPrice: 12.92 EUR
 currency: EUR

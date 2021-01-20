@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CVMSTSQ-es Panamar Juego Entre Padres e Hijos Alfombra no Tejida...'
+sku: 'B08CVMSTSQ-es'
 tags: [  ]
 actualPrice: 1.58 EUR
 currency: EUR

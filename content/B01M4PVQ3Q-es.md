@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M4PVQ3Q-es ITALY MORN Joggers Hombre Panatalones para Chicos Deportes...'
+sku: 'B01M4PVQ3Q-es'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

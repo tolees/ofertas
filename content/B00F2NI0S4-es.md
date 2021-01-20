@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00F2NI0S4-es Bellota 3555 - Tijeras cortacésped para cortar el césped...'
+sku: 'B00F2NI0S4-es'
 tags: [  ]
 actualPrice: 12.95 EUR
 currency: EUR

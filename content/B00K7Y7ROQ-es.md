@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K7Y7ROQ-es Beissier M109055 - Aguaplast express de 1 kg'
+sku: 'B00K7Y7ROQ-es'
 tags: [  ]
 actualPrice: 3.35 EUR
 currency: EUR

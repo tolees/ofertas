@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KHILBHU-es Philips - bombilla E27 rosca Edison LED 230 V – blanco...'
+sku: 'B01KHILBHU-es'
 tags: [  ]
 actualPrice: 14.62 EUR
 currency: EUR

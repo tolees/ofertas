@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QSJHXQ3-es Nike Downshifter 9 PSV Zapatillas de Running Unisex Niños...'
+sku: 'B07QSJHXQ3-es'
 tags: [  ]
 actualPrice: 19.52 EUR
 currency: EUR

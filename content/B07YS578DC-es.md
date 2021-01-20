@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YS578DC-es HOMCOM Banco de Pesas Multifuncional Tipo Banco de...'
+sku: 'B07YS578DC-es'
 tags: [  ]
 actualPrice: 110.99 EUR
 currency: EUR

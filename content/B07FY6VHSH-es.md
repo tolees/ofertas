@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FY6VHSH-es Champion The Curvy Sujetador Deportivo Blanc/Noir 8ml...'
+sku: 'B07FY6VHSH-es'
 tags: [  ]
 actualPrice: 14.35 EUR
 currency: EUR

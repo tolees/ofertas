@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NW53KKJ-es Skechers Women s STAMINA-CLASSY TRAIL Trainers Black Black...'
+sku: 'B07NW53KKJ-es'
 tags: [  ]
 actualPrice: 45.99 EUR
 currency: EUR

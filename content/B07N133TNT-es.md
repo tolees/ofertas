@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N133TNT-es Skechers Go Run Focus Zapatillas para Mujer Black...'
+sku: 'B07N133TNT-es'
 tags: [  ]
 actualPrice: 25.16 EUR
 currency: EUR

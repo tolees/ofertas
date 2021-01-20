@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NZ7QY5K-es Chatham Grampian Botas Clasicas para Hombre Khaki Nubuck...'
+sku: 'B07NZ7QY5K-es'
 tags: [  ]
 actualPrice: 20.68 EUR
 currency: EUR

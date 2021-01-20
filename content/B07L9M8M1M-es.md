@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9M8M1M-es RECCI Breeze Almohada de Fibra 40x80 cm Altura Ajustable...'
+sku: 'B07L9M8M1M-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QMRJVN6-es Keenstone Almohada de Viaje Almohada para el Cuello Hecha...'
+sku: 'B07QMRJVN6-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

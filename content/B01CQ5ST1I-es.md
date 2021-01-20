@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CQ5ST1I-es San Ignacio Set De Sartenes Ø 18 20 Y 24 De Acero De...'
+sku: 'B01CQ5ST1I-es'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

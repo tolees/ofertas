@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HVSORU8-es Kärcher Bolsas de filtro de fieltro WD4-WD5-WD6 4u...'
+sku: 'B00HVSORU8-es'
 tags: [  ]
 actualPrice: 11.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082KRSQ9K-es Parches Faciales Parches Antiarrugas Anti-Arrugas Parches...'
+sku: 'B082KRSQ9K-es'
 tags: [  ]
 actualPrice: 11.24 EUR
 currency: EUR

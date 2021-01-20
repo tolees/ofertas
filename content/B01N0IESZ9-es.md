@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N0IESZ9-es Skagen Reloj Análogo clásico para Mujer de Cuarzo con...'
+sku: 'B01N0IESZ9-es'
 tags: [  ]
 actualPrice: 92.0 EUR
 currency: EUR

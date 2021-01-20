@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZBK2N9-es Under Armour Vanish Woven Short Pantalón Corto Hombre...'
+sku: 'B07CZBK2N9-es'
 tags: [  ]
 actualPrice: 19.84 EUR
 currency: EUR

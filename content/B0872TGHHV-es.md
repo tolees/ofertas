@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0872TGHHV-es Filtros reemplazables unisex de 5 capas antipolvo y niebla...'
+sku: 'B0872TGHHV-es'
 tags: [  ]
 actualPrice: 8.43 EUR
 currency: EUR

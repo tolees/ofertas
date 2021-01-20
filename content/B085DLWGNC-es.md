@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085DLWGNC-es Alfombrilla de Baño Extralargo Alfombra para Bañera...'
+sku: 'B085DLWGNC-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TKN8T2Y-es Clarks Step Allena Go Zapatillas para Mujer Beige White...'
+sku: 'B07TKN8T2Y-es'
 tags: [  ]
 actualPrice: 24.54 EUR
 currency: EUR

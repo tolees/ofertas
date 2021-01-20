@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005XMW38C-es DIM Generous Sujetador Negro 105B para Mujer'
+sku: 'B005XMW38C-es'
 tags: [  ]
 actualPrice: 9.0 EUR
 currency: EUR

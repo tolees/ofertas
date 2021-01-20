@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FK6HP8D-es ETNAB|#Etnies Cyprus SC Zapatillas para Hombre Black/White...'
+sku: 'B07FK6HP8D-es'
 tags: [  ]
 actualPrice: 18.11 EUR
 currency: EUR

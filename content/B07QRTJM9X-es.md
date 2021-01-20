@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QRTJM9X-es Medisana IPL 836 99120 - Depiladora a base de luz para una...'
+sku: 'B07QRTJM9X-es'
 tags: [  ]
 actualPrice: 59.25 EUR
 currency: EUR

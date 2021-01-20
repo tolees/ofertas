@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00RXQJE5G-es Tristar RK-6127 - Arrocera Capacidad 1.5 litros Función...'
+sku: 'B00RXQJE5G-es'
 tags: [  ]
 actualPrice: 25.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVJX86V-es Napapijri Damavand V suéter Verde Green Forest 2 GE3 Small...'
+sku: 'B07MVJX86V-es'
 tags: [  ]
 actualPrice: 39.6 EUR
 currency: EUR

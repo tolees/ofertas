@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XVQ2H9P-es Esprit 119EE2I011 Suéter Azul Navy 400 M para Hombre'
+sku: 'B07XVQ2H9P-es'
 tags: [  ]
 actualPrice: 8.49 EUR
 currency: EUR

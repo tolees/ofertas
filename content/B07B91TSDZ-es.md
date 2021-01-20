@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B91TSDZ-es Clarks Rushwaymid GTX Botas Chelsea para Hombre Negro Blk...'
+sku: 'B07B91TSDZ-es'
 tags: [  ]
 actualPrice: 52.0 EUR
 currency: EUR

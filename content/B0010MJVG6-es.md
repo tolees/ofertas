@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0010MJVG6-es Casio Classic MW-59-7BVDF Reloj Analógico de Cuarzo con...'
+sku: 'B0010MJVG6-es'
 tags: [  ]
 actualPrice: 19.6 EUR
 currency: EUR

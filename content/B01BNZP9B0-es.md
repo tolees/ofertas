@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BNZP9B0-es Michael Kors Reloj Analógico para Mujer de Cuarzo con...'
+sku: 'B01BNZP9B0-es'
 tags: [  ]
 actualPrice: 132.0 EUR
 currency: EUR

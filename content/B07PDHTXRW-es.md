@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PDHTXRW-es Philips Aspirador vertical sin cable FC6722/01 -...'
+sku: 'B07PDHTXRW-es'
 tags: [  ]
 actualPrice: 99.9 EUR
 currency: EUR

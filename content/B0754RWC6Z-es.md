@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0754RWC6Z-es Salomon Mallas 3 y 4 para running agile mid tight tejido...'
+sku: 'B0754RWC6Z-es'
 tags: [  ]
 actualPrice: 33.49 EUR
 currency: EUR

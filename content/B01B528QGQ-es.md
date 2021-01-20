@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01B528QGQ-es Hugo BOSS - Reloj para hombre - 1513337'
+sku: 'B01B528QGQ-es'
 tags: [  ]
 actualPrice: 297.58 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9VNCV2-es Auriculares Inalámbricos Verdaderos iHaper TWS Audífonos...'
+sku: 'B07L9VNCV2-es'
 tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR

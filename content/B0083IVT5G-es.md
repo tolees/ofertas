@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0083IVT5G-es IBRA® Promo - 15m- Cable HDMI de alta velocidad | nuevo...'
+sku: 'B0083IVT5G-es'
 tags: [  ]
 actualPrice: 39.81 EUR
 currency: EUR

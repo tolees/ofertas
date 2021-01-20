@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D7RH56K-es BOSS Passerby Polo Gris Light/Pastel Grey 051 XXX-Large...'
+sku: 'B07D7RH56K-es'
 tags: [  ]
 actualPrice: 27.17 EUR
 currency: EUR

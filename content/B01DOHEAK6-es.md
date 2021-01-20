@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DOHEAK6-es Trango SHANGU IP Zapatillas de Deporte Exterior Unisex...'
+sku: 'B01DOHEAK6-es'
 tags: [  ]
 actualPrice: 57.23 EUR
 currency: EUR

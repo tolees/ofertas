@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZYRKJK5-es Queta 3Pcs Pulsera de Plata Pulsera para niña Kit de...'
+sku: 'B07ZYRKJK5-es'
 tags: [  ]
 actualPrice: 12.89 EUR
 currency: EUR

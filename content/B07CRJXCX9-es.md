@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CRJXCX9-es American Tourister Holiday Heat - Upright Equipaje de Mano...'
+sku: 'B07CRJXCX9-es'
 tags: [  ]
 actualPrice: 48.84 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H9PSJHT-es Apple Funda Leather Folio para el iPhone XS - Azul cabo'
+sku: 'B07H9PSJHT-es'
 tags: [  ]
 actualPrice: 43.06 EUR
 currency: EUR

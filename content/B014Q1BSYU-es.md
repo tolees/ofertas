@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014Q1BSYU-es Sunstech ARGOS4GBBL - Reproductor MP3 deportivo resistente...'
+sku: 'B014Q1BSYU-es'
 tags: [  ]
 actualPrice: 31.53 EUR
 currency: EUR

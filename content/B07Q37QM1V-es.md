@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q37QM1V-es Ferilinso Funda para Xiaomi Redmi S3/ Redmi 7 Funda...'
+sku: 'B07Q37QM1V-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

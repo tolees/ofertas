@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DHYDLZ4-es Lacoste Ziane BL 2 CFA Zapatillas para Mujer Blanco...'
+sku: 'B07DHYDLZ4-es'
 tags: [  ]
 actualPrice: 25.37 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086PZVF3X-es Disney Pijamas de Manga Corta para niñas La Sirenita...'
+sku: 'B086PZVF3X-es'
 tags: [  ]
 actualPrice: 11.95 EUR
 currency: EUR

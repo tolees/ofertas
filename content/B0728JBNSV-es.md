@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0728JBNSV-es Aigostar Protector 33JHG - Radiador de aceite portátil 13...'
+sku: 'B0728JBNSV-es'
 tags: [  ]
 actualPrice: 99.74 EUR
 currency: EUR

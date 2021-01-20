@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08D6F8ZR9-es Correa Apple Watch Correa Compatible con Apple Watch 44 mm...'
+sku: 'B08D6F8ZR9-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

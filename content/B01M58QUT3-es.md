@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M58QUT3-es Umbro Loyal Pantalones Hombre Azul Marino Oscuro XXL'
+sku: 'B01M58QUT3-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

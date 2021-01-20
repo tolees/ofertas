@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MDJ839G-es Tesa Assa Abloy 1970908NV Barra Antipánico Universal 1970...'
+sku: 'B00MDJ839G-es'
 tags: [  ]
 actualPrice: 93.74 EUR
 currency: EUR

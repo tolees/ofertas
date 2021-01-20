@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077MJGN7M-es PUMA Smash WNS V2 L Zapatillas para Mujer Blanco White...'
+sku: 'B077MJGN7M-es'
 tags: [  ]
 actualPrice: 31.24 EUR
 currency: EUR

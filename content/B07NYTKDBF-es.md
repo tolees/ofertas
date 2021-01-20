@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NYTKDBF-es Skechers Elite Flex Zapatillas para Hombre Gris Charcoal...'
+sku: 'B07NYTKDBF-es'
 tags: [  ]
 actualPrice: 47.75 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KESSHGC-es Thermaltake Pure 12 LED DC - Ventilador Transparente y Blanco'
+sku: 'B00KESSHGC-es'
 tags: [  ]
 actualPrice: 4.5 EUR
 currency: EUR

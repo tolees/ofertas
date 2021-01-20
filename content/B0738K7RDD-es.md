@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0738K7RDD-es Amazon Essentials Fleece-Outerwear-Jackets Negro S'
+sku: 'B0738K7RDD-es'
 tags: [  ]
 actualPrice: 10.88 EUR
 currency: EUR

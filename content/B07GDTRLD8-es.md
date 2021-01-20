@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GDTRLD8-es Toyvelt 32-Piece Wrestling Toys For Kids - WWE Wrestler...'
+sku: 'B07GDTRLD8-es'
 tags: [  ]
 actualPrice: 23.83 EUR
 currency: EUR

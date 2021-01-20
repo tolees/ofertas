@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0895PFFCL-es Molyflower Caja de conservación Blanca Fresca Caja de...'
+sku: 'B0895PFFCL-es'
 tags: [  ]
 actualPrice: 6.74 EUR
 currency: EUR

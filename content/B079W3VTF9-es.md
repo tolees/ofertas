@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079W3VTF9-es Lisciani- LED Space Vehicle 65868'
+sku: 'B079W3VTF9-es'
 tags: [  ]
 actualPrice: 8.0 EUR
 currency: EUR

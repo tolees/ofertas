@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UB70K8Y-es Einhell GC-EM 1030 - Cortacésped eléctrico 1000 W altura...'
+sku: 'B00UB70K8Y-es'
 tags: [  ]
 actualPrice: 52.15 EUR
 currency: EUR

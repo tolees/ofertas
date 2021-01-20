@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00J4JRXBM-es Xylazel M57858 - Carcomas 750 ml'
+sku: 'B00J4JRXBM-es'
 tags: [  ]
 actualPrice: 8.95 EUR
 currency: EUR

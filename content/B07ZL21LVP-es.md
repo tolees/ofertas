@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZL21LVP-es Fossil Reloj Analogico para Mujer de Cuarzo con Correa en...'
+sku: 'B07ZL21LVP-es'
 tags: [  ]
 actualPrice: 36.68 EUR
 currency: EUR

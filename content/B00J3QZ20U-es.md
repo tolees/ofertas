@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00J3QZ20U-es H2D Professional - Cepillo desenredante para desenredar el...'
+sku: 'B00J3QZ20U-es'
 tags: [  ]
 actualPrice: 4.89 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8QPDVS-es Kayond Rose - Funda para portátil de 11-17 Pulgadas...'
+sku: 'B07M8QPDVS-es'
 tags: [  ]
 actualPrice: 13.64 EUR
 currency: EUR

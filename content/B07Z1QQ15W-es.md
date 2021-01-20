@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z1QQ15W-es NAPATEK Lámpara Escritorio LED Lámpara De Mesa Para...'
+sku: 'B07Z1QQ15W-es'
 tags: [  ]
 actualPrice: 51.99 EUR
 currency: EUR

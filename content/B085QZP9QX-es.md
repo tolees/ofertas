@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085QZP9QX-es Finocam - Agenda Curso 2020-2021 Octavo-120x164 1 Día...'
+sku: 'B085QZP9QX-es'
 tags: [  ]
 actualPrice: 6.95 EUR
 currency: EUR

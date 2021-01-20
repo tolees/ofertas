@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SXM70UA-es La Roche Posay Agua Micelar Piel Sensible – 750'
+sku: 'B00SXM70UA-es'
 tags: [  ]
 actualPrice: 15.8 EUR
 currency: EUR

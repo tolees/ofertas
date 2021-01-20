@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0863SZBND-es Suhctup Transparente Funda Compatible con Huawei Honor 6X...'
+sku: 'B0863SZBND-es'
 tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR

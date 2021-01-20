@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000PY1RDA-es First American Brands Love Is just The Two Of Us Eau De...'
+sku: 'B000PY1RDA-es'
 tags: [  ]
 actualPrice: 13.5 EUR
 currency: EUR

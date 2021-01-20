@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B012GX5HQK-es iMixCity Conjuntos de Lencería Mujer Encaje Atractivo...'
+sku: 'B012GX5HQK-es'
 tags: [  ]
 actualPrice: 7.08 EUR
 currency: EUR

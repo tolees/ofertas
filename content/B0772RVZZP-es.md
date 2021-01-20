@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0772RVZZP-es Marca Amazon - MERAKI Pantalón Cortos Chinos Hombre azul...'
+sku: 'B0772RVZZP-es'
 tags: [  ]
 actualPrice: 7.12 EUR
 currency: EUR

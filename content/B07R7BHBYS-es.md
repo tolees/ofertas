@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R7BHBYS-es JACK & JONES JFWORCA Leather 19 STS Chukka Boots para...'
+sku: 'B07R7BHBYS-es'
 tags: [  ]
 actualPrice: 43.17 EUR
 currency: EUR

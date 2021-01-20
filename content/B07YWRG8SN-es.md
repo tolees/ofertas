@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YWRG8SN-es Fundas Sillas Oficina Elasticas Modernas Fundas para...'
+sku: 'B07YWRG8SN-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KGYPZMV-es Under Armour UA Rush Camiseta Masculina de Manga Corta...'
+sku: 'B07KGYPZMV-es'
 tags: [  ]
 actualPrice: 32.97 EUR
 currency: EUR

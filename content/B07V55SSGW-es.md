@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V55SSGW-es Xnuoyo 10000mAh Mini Power Bank Diseño de Espejo Cargador...'
+sku: 'B07V55SSGW-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

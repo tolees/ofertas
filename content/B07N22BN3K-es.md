@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N22BN3K-es Sennheiser HD 300 Auriculares Circumaurales Ligeros y...'
+sku: 'B07N22BN3K-es'
 tags: [  ]
 actualPrice: 27.19 EUR
 currency: EUR

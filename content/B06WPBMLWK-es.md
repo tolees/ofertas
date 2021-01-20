@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WPBMLWK-es Cable USB-A 2.0 a USB Tipo C Certificado USB-IF con Forro...'
+sku: 'B06WPBMLWK-es'
 tags: [  ]
 actualPrice: 5.93 EUR
 currency: EUR

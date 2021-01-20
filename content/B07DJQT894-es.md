@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJQT894-es FITTOO Pantalones Deportivos Mujer Yoga Leggings de Alta...'
+sku: 'B07DJQT894-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

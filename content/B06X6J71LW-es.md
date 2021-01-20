@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X6J71LW-es Metal Bookmark with Tassels and Envelope - Amupper Página...'
+sku: 'B06X6J71LW-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

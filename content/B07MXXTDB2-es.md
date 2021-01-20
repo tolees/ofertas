@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MXXTDB2-es Desigual Shoes Cosmic Navajo Zapatillas para Mujer Negro...'
+sku: 'B07MXXTDB2-es'
 tags: [  ]
 actualPrice: 34.98 EUR
 currency: EUR

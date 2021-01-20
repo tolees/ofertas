@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BQYKNLN-es Zapatillas New Balance GS574 Lifestyle Cordon 39'
+sku: 'B07BQYKNLN-es'
 tags: [  ]
 actualPrice: 39.0 EUR
 currency: EUR

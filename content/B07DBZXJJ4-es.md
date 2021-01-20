@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DBZXJJ4-es Puma Leader Vt SL Zapatillas de Running Unisex Adulto...'
+sku: 'B07DBZXJJ4-es'
 tags: [  ]
 actualPrice: 37.95 EUR
 currency: EUR

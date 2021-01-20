@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S31J3ZG-es BOSS Starfish Bañador para Hombre Verde Green Medium'
+sku: 'B07S31J3ZG-es'
 tags: [  ]
 actualPrice: 34.0 EUR
 currency: EUR

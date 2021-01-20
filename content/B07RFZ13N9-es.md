@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RFZ13N9-es Under Armour Pennant Jacket 2.0 Parte Superior del...'
+sku: 'B07RFZ13N9-es'
 tags: [  ]
 actualPrice: 27.86 EUR
 currency: EUR

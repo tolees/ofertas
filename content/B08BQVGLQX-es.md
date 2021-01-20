@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BQVGLQX-es ZNE 14ct 3 Colores oro'
+sku: 'B08BQVGLQX-es'
 tags: [  ]
 actualPrice: 18.77 EUR
 currency: EUR

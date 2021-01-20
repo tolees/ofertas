@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CVLS9HJ-es Brunoko Plato para bebe con babero Azul - Plato Silicona...'
+sku: 'B07CVLS9HJ-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

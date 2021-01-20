@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00I8EVCJ8-es Epson C13T789440 - Tóner para impresoras láser 4000...'
+sku: 'B00I8EVCJ8-es'
 tags: [  ]
 actualPrice: 40.13 EUR
 currency: EUR

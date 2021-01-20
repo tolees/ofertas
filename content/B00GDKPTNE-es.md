@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GDKPTNE-es Lee Daren Button Fly Jeans Azul Clean Black 29W / 34L para...'
+sku: 'B00GDKPTNE-es'
 tags: [  ]
 actualPrice: 24.56 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BPBTYRN-es Wrangler Larston Slim Jeans Indigo Wit 32W / 34L para Hombre'
+sku: 'B07BPBTYRN-es'
 tags: [  ]
 actualPrice: 45.51 EUR
 currency: EUR

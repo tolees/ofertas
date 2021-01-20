@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D52HVJS-es MZMing 2piecesx235cm Artificial Cereza Colgando Vid Flor...'
+sku: 'B07D52HVJS-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

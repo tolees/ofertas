@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DC1L74Q-es Puma RS-150 Satin Wn s Zapatillas para Mujer Morado Sweet...'
+sku: 'B07DC1L74Q-es'
 tags: [  ]
 actualPrice: 25.98 EUR
 currency: EUR

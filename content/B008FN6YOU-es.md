@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008FN6YOU-es Optimum Nutrition ON Opti-Men Suplemento multivitamínico...'
+sku: 'B008FN6YOU-es'
 tags: [  ]
 actualPrice: 26.61 EUR
 currency: EUR

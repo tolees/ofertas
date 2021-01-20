@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFZFMN2-es PUMA King Pro FG Zapatillas de fútbol Unisex Adulto Negro...'
+sku: 'B07KFZFMN2-es'
 tags: [  ]
 actualPrice: 38.68 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007Y4NWSW-es Case Logic TBC-404 - Funda para cámara compacta Negro'
+sku: 'B007Y4NWSW-es'
 tags: [  ]
 actualPrice: 10.52 EUR
 currency: EUR

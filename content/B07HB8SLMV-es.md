@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HB8SLMV-es SanDisk Extreme - Tarjeta de memoria microSDXC para...'
+sku: 'B07HB8SLMV-es'
 tags: [  ]
 actualPrice: 14.9 EUR
 currency: EUR

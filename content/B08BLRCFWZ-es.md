@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BLRCFWZ-es HAVERLAND PUREAIRBOX - Purificador Desinfectador de Aire y...'
+sku: 'B08BLRCFWZ-es'
 tags: [  ]
 actualPrice: 199.0 EUR
 currency: EUR

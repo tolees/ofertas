@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08211DQXS-es AIMIUVIE Smartwatch Reloj Inteligente IP67 con Pulsómetro...'
+sku: 'B08211DQXS-es'
 tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR

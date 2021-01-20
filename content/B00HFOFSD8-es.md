@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HFOFSD8-es Keep Out Gaming R4 - Alfombrilla 450x370x3 mm Color Negro...'
+sku: 'B00HFOFSD8-es'
 tags: [  ]
 actualPrice: 3.61 EUR
 currency: EUR

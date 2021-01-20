@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088WTTJH1-es Oihxse Cristal Funda Compatible con Samsung Galaxy M30s...'
+sku: 'B088WTTJH1-es'
 tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TTTSLWX-es Skechers Bounder Zapatillas para Hombre Gris Black...'
+sku: 'B07TTTSLWX-es'
 tags: [  ]
 actualPrice: 41.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076LLT64M-es HomCom Lámpara de Pie Moderna con 2 Luces E27 40W y...'
+sku: 'B076LLT64M-es'
 tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR

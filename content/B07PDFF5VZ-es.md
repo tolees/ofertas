@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PDFF5VZ-es PRIXTON - Reloj Inteligente Hombre/Mujer-Reloj Smartwatch...'
+sku: 'B07PDFF5VZ-es'
 tags: [  ]
 actualPrice: 49.95 EUR
 currency: EUR

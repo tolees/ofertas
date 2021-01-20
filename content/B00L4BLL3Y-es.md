@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00L4BLL3Y-es Panasonic Lumix DMC FZ1000 - Cámara Bridge de 20.1 MP...'
+sku: 'B00L4BLL3Y-es'
 tags: [  ]
 actualPrice: 561.95 EUR
 currency: EUR

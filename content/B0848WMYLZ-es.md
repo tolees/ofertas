@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0848WMYLZ-es Goldyqin M.2 NVME Mobile Hard Disk Box USB3.0 SSD Metal...'
+sku: 'B0848WMYLZ-es'
 tags: [  ]
 actualPrice: 26.97 EUR
 currency: EUR

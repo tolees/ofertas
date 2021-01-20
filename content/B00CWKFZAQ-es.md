@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CWKFZAQ-es Pattex No Más Clavos Original adhesivo de montaje...'
+sku: 'B00CWKFZAQ-es'
 tags: [  ]
 actualPrice: 6.9 EUR
 currency: EUR

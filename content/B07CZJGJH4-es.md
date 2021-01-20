@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZJGJH4-es Under Armour Charged Cotton 3In 3 Pack Ropa Interior...'
+sku: 'B07CZJGJH4-es'
 tags: [  ]
 actualPrice: 19.49 EUR
 currency: EUR

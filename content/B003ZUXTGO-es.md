@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003ZUXTGO-es Reloj Casio para Hombre EF-558D-1AVEF'
+sku: 'B003ZUXTGO-es'
 tags: [  ]
 actualPrice: 137.16 EUR
 currency: EUR

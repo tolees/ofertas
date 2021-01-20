@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZMGLYL-es Under Armour Sc30 Sleeveless tee Tanque Niños Negro...'
+sku: 'B07CZMGLYL-es'
 tags: [  ]
 actualPrice: 19.42 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078T6KQNB-es PUMA Liga Casuals Jr Chándal Unisex niños Medium Gray...'
+sku: 'B078T6KQNB-es'
 tags: [  ]
 actualPrice: 15.5 EUR
 currency: EUR

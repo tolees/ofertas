@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FC3H9UO-es Maria de Nazaret [Blu-ray]'
+sku: 'B00FC3H9UO-es'
 tags: [  ]
 actualPrice: 11.68 EUR
 currency: EUR

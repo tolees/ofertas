@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1GXBX5-es Kipling ONALO PACKABLE - Bolsa de viaje 25 liters...'
+sku: 'B07N1GXBX5-es'
 tags: [  ]
 actualPrice: 29.44 EUR
 currency: EUR

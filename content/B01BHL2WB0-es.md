@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BHL2WB0-es Police 14536JSB/12A - Reloj mecánico para hombre con...'
+sku: 'B01BHL2WB0-es'
 tags: [  ]
 actualPrice: 134.95 EUR
 currency: EUR

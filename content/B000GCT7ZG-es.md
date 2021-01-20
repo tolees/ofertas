@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000GCT7ZG-es Revlon ColorSilk Tinte de Cabello Permanente Tono #43...'
+sku: 'B000GCT7ZG-es'
 tags: [  ]
 actualPrice: 2.03 EUR
 currency: EUR

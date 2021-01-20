@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XC339HB-es Nikon D5600 - [Versión Nikonistas] - Kit cámara réflex de...'
+sku: 'B06XC339HB-es'
 tags: [  ]
 actualPrice: 560.62 EUR
 currency: EUR

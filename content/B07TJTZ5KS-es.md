@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJTZ5KS-es Vans Atwood Canvas Zapatillas para Hombre Rojo Oxblood...'
+sku: 'B07TJTZ5KS-es'
 tags: [  ]
 actualPrice: 30.0 EUR
 currency: EUR

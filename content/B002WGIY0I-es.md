@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002WGIY0I-es Superga 2750 COTU Classic Zapatillas Unisex Negro Full...'
+sku: 'B002WGIY0I-es'
 tags: [  ]
 actualPrice: 38.5 EUR
 currency: EUR

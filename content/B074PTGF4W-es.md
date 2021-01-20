@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074PTGF4W-es Saucony Jazz O Vintage Zapatillas de Cross para Hombre...'
+sku: 'B074PTGF4W-es'
 tags: [  ]
 actualPrice: 51.07 EUR
 currency: EUR

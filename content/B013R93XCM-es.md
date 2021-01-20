@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013R93XCM-es 8GB Pendrive 10 Piezas Memoria USB - Portátil Pen Drive 8...'
+sku: 'B013R93XCM-es'
 tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VG3T1XJ-es edc by Esprit 099cc1b048 Pantalones Gris Gunmetal 015...'
+sku: 'B07VG3T1XJ-es'
 tags: [  ]
 actualPrice: 19.85 EUR
 currency: EUR

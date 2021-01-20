@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WLSF114-es adidas Sport RPT-01 Bluetooth Auriculares Gris Noche'
+sku: 'B07WLSF114-es'
 tags: [  ]
 actualPrice: 84.96 EUR
 currency: EUR

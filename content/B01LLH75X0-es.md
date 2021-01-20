@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LLH75X0-es Monix Mineral - Cazo 16 cm aluminio forjado con...'
+sku: 'B01LLH75X0-es'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

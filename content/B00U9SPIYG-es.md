@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00U9SPIYG-es LACOR - Cocedor a baja temperatura Roner Sous Vide 1500W...'
+sku: 'B00U9SPIYG-es'
 tags: [  ]
 actualPrice: 325.5 EUR
 currency: EUR

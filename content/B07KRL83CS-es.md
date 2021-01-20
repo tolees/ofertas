@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRL83CS-es New Balance 574v2 Zapatillas para Mujer Rosa Pink/Black...'
+sku: 'B07KRL83CS-es'
 tags: [  ]
 actualPrice: 40.12 EUR
 currency: EUR

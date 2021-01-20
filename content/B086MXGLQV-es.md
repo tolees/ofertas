@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086MXGLQV-es KFAWON Ring Pilates Yoga Magic Fitness Circle -Equipo de...'
+sku: 'B086MXGLQV-es'
 tags: [  ]
 actualPrice: 13.0 EUR
 currency: EUR

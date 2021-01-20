@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NBT54BI-es Guess Reloj Analógico para Mujer de Cuarzo con Correa en...'
+sku: 'B01NBT54BI-es'
 tags: [  ]
 actualPrice: 122.06 EUR
 currency: EUR

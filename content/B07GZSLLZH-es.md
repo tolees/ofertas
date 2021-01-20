@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GZSLLZH-es HP DeskJet 3750 - Impresora de tinta multifunción 8 ppm...'
+sku: 'B07GZSLLZH-es'
 tags: [  ]
 actualPrice: 47.39 EUR
 currency: EUR

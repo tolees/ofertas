@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019M0AY3Q-es Trust Urban - Palo para Selfie Bluetooth plegable negro'
+sku: 'B019M0AY3Q-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

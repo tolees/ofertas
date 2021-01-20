@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XGP6XP6-es Trollhunters Trollhunters-13695-PX-1SS Figura de Vinilo...'
+sku: 'B06XGP6XP6-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

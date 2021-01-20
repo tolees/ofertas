@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019LZNP38-es Candy CDH30 Encimera Vitrocerámica Dominó Integrada 30 cm...'
+sku: 'B019LZNP38-es'
 tags: [  ]
 actualPrice: 114.69 EUR
 currency: EUR

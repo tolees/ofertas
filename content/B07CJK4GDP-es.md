@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CJK4GDP-es Juego de 12 pajitas de acero inoxidable pajitas metálicas...'
+sku: 'B07CJK4GDP-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

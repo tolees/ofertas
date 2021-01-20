@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L32FVW5-es ASICS Chaussures Roadhawk FF 2'
+sku: 'B07L32FVW5-es'
 tags: [  ]
 actualPrice: 90.99 EUR
 currency: EUR

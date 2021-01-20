@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XCCDKH4-es Montibel-Lo Finalfine Laca Ultra Extra Fuerte Sin Gas 400 ml'
+sku: 'B06XCCDKH4-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

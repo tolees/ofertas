@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PSJ4HN7-es Kipling Money Love Carteras para Mujer Multicolor Camo...'
+sku: 'B07PSJ4HN7-es'
 tags: [  ]
 actualPrice: 16.0 EUR
 currency: EUR

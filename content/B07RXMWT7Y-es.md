@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RXMWT7Y-es Hapilife 360 Grifo de Cocina Grifo Mezclador Grifo de...'
+sku: 'B07RXMWT7Y-es'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TTS9QGM-es New Look Iris Utility Paperbag Pantalones Negro Black 1 38...'
+sku: 'B07TTS9QGM-es'
 tags: [  ]
 actualPrice: 6 EUR
 currency: EUR

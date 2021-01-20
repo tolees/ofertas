@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085KXWLR3-es SCOBUTY Pulsera Repelente de Mosquitos Mosquito Anti...'
+sku: 'B085KXWLR3-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

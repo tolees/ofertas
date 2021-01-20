@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CWZLZEQ-es Titanlux - Esmalte-Laca poliuretano satinada Titanlak...'
+sku: 'B00CWZLZEQ-es'
 tags: [  ]
 actualPrice: 12.95 EUR
 currency: EUR

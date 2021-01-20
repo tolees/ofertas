@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B94GQRM-es Purina Friskies Vitafit Omega Pienso para Perro Adulto...'
+sku: 'B07B94GQRM-es'
 tags: [  ]
 actualPrice: 25.2 EUR
 currency: EUR

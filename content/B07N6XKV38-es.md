@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N6XKV38-es Calvin Klein 3.5cm New Essential Belt Cinturón Marrón...'
+sku: 'B07N6XKV38-es'
 tags: [  ]
 actualPrice: 28.35 EUR
 currency: EUR

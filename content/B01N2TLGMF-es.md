@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N2TLGMF-es JBL Flip 4 - Altavoz inalámbrico portátil con Bluetooth...'
+sku: 'B01N2TLGMF-es'
 tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR

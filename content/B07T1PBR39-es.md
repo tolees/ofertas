@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T1PBR39-es BESTEK Inversor De Corriente 300W para Coche Transformador...'
+sku: 'B07T1PBR39-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XI07U7K-es Nikidom Raincover XL Chubasquero Unisex Adulto Negro Talla...'
+sku: 'B00XI07U7K-es'
 tags: [  ]
 actualPrice: 7.22 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PRBTYR6-es FKANT Batería Externa Movil Powerbank 25000mAh Carga...'
+sku: 'B07PRBTYR6-es'
 tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR

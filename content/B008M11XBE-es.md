@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008M11XBE-es HP CF210A 131A Cartucho de Tóner Original 1 unidad negro'
+sku: 'B008M11XBE-es'
 tags: [  ]
 actualPrice: 61.99 EUR
 currency: EUR

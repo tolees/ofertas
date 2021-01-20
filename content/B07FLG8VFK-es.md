@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FLG8VFK-es Philips Avent Biberón Natural SCF070/22 - Biberón de 260...'
+sku: 'B07FLG8VFK-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

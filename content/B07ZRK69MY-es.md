@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZRK69MY-es Distribuidor Divisor de TV vía satélite/Antena/Cable de 4...'
+sku: 'B07ZRK69MY-es'
 tags: [  ]
 actualPrice: 2.0 EUR
 currency: EUR

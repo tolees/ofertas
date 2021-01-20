@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0767PCYKY-es The Inpatient'
+sku: 'B0767PCYKY-es'
 tags: [  ]
 actualPrice: 18.95 EUR
 currency: EUR

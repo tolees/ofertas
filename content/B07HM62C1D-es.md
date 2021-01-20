@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HM62C1D-es Easton Marlowe 6 PR Calcetines Estampados Hombre Argyle -...'
+sku: 'B07HM62C1D-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

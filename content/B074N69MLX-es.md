@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074N69MLX-es S&R Sierra Corona Perforadora Hormigon en seco Ø 68mm +...'
+sku: 'B074N69MLX-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

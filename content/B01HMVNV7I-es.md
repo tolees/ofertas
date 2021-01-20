@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HMVNV7I-es Benro GoPlus Travel S1 Alum 4 Sect Twist'
+sku: 'B01HMVNV7I-es'
 tags: [  ]
 actualPrice: 112.99 EUR
 currency: EUR

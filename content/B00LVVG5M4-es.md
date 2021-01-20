@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LVVG5M4-es Rio LAHR-C - Depiladora con láser'
+sku: 'B00LVVG5M4-es'
 tags: [  ]
 actualPrice: 56.27 EUR
 currency: EUR

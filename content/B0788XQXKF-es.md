@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0788XQXKF-es MagiDeal Cubierta Protectora de Teclado de Silicona para...'
+sku: 'B0788XQXKF-es'
 tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR

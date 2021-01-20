@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08598FXBN-es Oihxse Funda Samsung Galaxy S6 Ultra Delgado Transparente...'
+sku: 'B08598FXBN-es'
 tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B24YWSK-es TACKLIFE Carrete para Manguera 20+2m Manguera de Riego...'
+sku: 'B07B24YWSK-es'
 tags: [  ]
 actualPrice: 79.0 EUR
 currency: EUR

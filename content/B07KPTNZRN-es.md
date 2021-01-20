@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPTNZRN-es Pop! Bobble: Avengers Endgame: Hulk'
+sku: 'B07KPTNZRN-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

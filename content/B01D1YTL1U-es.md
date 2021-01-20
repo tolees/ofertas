@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01D1YTL1U-es atFoliX Lámina Protectora de plástico Cristal compatible...'
+sku: 'B01D1YTL1U-es'
 tags: [  ]
 actualPrice: 5.79 EUR
 currency: EUR

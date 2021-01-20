@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KSXLKW8-es adidas Adilette Aqua K Zapatillas de Deporte Unisex Niños...'
+sku: 'B07KSXLKW8-es'
 tags: [  ]
 actualPrice: 5.01 EUR
 currency: EUR

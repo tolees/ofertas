@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000LXXXDC-es Versele-laga Pienso para Loro - 1 kg'
+sku: 'B000LXXXDC-es'
 tags: [  ]
 actualPrice: 7.5 EUR
 currency: EUR

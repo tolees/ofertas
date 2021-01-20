@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DWNMY5A-es Verbatim PinStripe 32GB USB 3.0 3.1 Gen 1 Conector USB...'
+sku: 'B01DWNMY5A-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

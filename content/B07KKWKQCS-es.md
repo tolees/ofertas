@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KKWKQCS-es Nike B Dri-FIT Academy Wpz Pantalones Niños Azul...'
+sku: 'B07KKWKQCS-es'
 tags: [  ]
 actualPrice: 7.96 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RLQ6SWN-es J.Rosée Collares Mujer Colgante Plata de Ley 925 Circonita...'
+sku: 'B07RLQ6SWN-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

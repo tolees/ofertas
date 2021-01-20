@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVN77N3-es Helly Hansen HH Mizu V7 Aislado Botella De Agua Acero...'
+sku: 'B07MVN77N3-es'
 tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR

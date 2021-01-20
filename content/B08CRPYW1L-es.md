@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CRPYW1L-es Panamar 360 Grados de rotación de 9.7/10.1 Pulgadas Tablet...'
+sku: 'B08CRPYW1L-es'
 tags: [  ]
 actualPrice: 6.94 EUR
 currency: EUR

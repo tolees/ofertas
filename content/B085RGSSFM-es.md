@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085RGSSFM-es Calcetines de fútbol J color personalizados con número de...'
+sku: 'B085RGSSFM-es'
 tags: [  ]
 actualPrice: 7.49 EUR
 currency: EUR

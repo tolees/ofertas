@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079TJJGM1-es Funko Pop!- Pop Marvel: Deadpool-Cable Figura de Vinilo...'
+sku: 'B079TJJGM1-es'
 tags: [  ]
 actualPrice: 9.44 EUR
 currency: EUR

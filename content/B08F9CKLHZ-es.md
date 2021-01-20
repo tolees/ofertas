@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08F9CKLHZ-es Auricular Bluetooth 5.0 Auricular inalámbrico micrófono y...'
+sku: 'B08F9CKLHZ-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

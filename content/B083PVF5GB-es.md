@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083PVF5GB-es Jazmiu - Sombrero unisex divertido con dibujos de frutas...'
+sku: 'B083PVF5GB-es'
 tags: [  ]
 actualPrice: 2.99 EUR
 currency: EUR

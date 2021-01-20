@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085CGNFF6-es Universal Candy Color 3USB Cargador Travel Wall Charger...'
+sku: 'B085CGNFF6-es'
 tags: [  ]
 actualPrice: 1.54 EUR
 currency: EUR

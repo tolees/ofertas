@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W8JQ43X-es Funko- Pop Movies: Devil Wears Prada-Miranda Priestly...'
+sku: 'B07W8JQ43X-es'
 tags: [  ]
 actualPrice: 9.38 EUR
 currency: EUR

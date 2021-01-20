@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076MHKYCS-es Under NY Sky Delantal de Peluquero - Resistente al Agua y...'
+sku: 'B076MHKYCS-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

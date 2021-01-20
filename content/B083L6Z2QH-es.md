@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083L6Z2QH-es Ballet Girl Night Light para Niños Luces de Lámpara de...'
+sku: 'B083L6Z2QH-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

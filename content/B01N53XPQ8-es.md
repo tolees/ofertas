@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N53XPQ8-es Fluval Flex - Kit de acuario 57L'
+sku: 'B01N53XPQ8-es'
 tags: [  ]
 actualPrice: 109.99 EUR
 currency: EUR

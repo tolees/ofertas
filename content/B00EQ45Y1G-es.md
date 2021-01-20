@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EQ45Y1G-es Trípode para altavoces de poliamida con bolsa de transporte'
+sku: 'B00EQ45Y1G-es'
 tags: [  ]
 actualPrice: 38.02 EUR
 currency: EUR

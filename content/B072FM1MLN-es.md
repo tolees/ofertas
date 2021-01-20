@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072FM1MLN-es find. Zapatillas Clásicas con Cordones para Hombre Azul...'
+sku: 'B072FM1MLN-es'
 tags: [  ]
 actualPrice: 8.1 EUR
 currency: EUR

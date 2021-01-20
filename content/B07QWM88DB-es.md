@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QWM88DB-es Under Armour Launch Compression Pantalones Cortos Mujer...'
+sku: 'B07QWM88DB-es'
 tags: [  ]
 actualPrice: 16.94 EUR
 currency: EUR

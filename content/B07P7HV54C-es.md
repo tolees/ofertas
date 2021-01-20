@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P7HV54C-es San Ignacio PK1319 Set de Sartenes VINUM-Ø20/24/28/30 cms...'
+sku: 'B07P7HV54C-es'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

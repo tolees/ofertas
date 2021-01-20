@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S5GMPL4-es Under Armour Rival Print Fill Logo Parte Superior del...'
+sku: 'B07S5GMPL4-es'
 tags: [  ]
 actualPrice: 23.97 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KQQ95SQ-es Salomon XA Pro 3D Zapatillas de Trail Running para Hombre...'
+sku: 'B07KQQ95SQ-es'
 tags: [  ]
 actualPrice: 51.97 EUR
 currency: EUR

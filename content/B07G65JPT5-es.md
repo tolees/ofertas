@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G65JPT5-es Michael Kors Reloj Analógico para Mujer de Cuarzo con...'
+sku: 'B07G65JPT5-es'
 tags: [  ]
 actualPrice: 157.3 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KMZZJWC-es MICHELIN 9519 Compresor de aire portatil programable 12 V'
+sku: 'B00KMZZJWC-es'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

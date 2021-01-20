@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HNHG84W-es TOPELEK Luz de Lectura Recargable con 60H de Autonomía...'
+sku: 'B07HNHG84W-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

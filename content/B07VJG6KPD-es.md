@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VJG6KPD-es YSense 20 Piezas de Pulsera Antimosquitos Impermeable...'
+sku: 'B07VJG6KPD-es'
 tags: [  ]
 actualPrice: 6.79 EUR
 currency: EUR

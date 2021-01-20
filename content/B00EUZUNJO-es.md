@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EUZUNJO-es Bourjois Poudre De Java Polvos Tono 3.5gr'
+sku: 'B00EUZUNJO-es'
 tags: [  ]
 actualPrice: 7.74 EUR
 currency: EUR

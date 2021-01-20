@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X9W35GM-es L Oréal Paris Men Expert Hydra Sensitive Espuma de Afeitar...'
+sku: 'B00X9W35GM-es'
 tags: [  ]
 actualPrice: 3.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XW7B4RM-es Hieha 23 Kit Accesorio Universal de Cámara Deportiva...'
+sku: 'B06XW7B4RM-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

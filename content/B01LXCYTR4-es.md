@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LXCYTR4-es Brabantia Cubo de Basura con Pedal Inoxidable Acero...'
+sku: 'B01LXCYTR4-es'
 tags: [  ]
 actualPrice: 49.4 EUR
 currency: EUR

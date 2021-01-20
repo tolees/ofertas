@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0009RNQEQ-es CRAYOLA - 24 Lápices De Colores 3624'
+sku: 'B0009RNQEQ-es'
 tags: [  ]
 actualPrice: 4.54 EUR
 currency: EUR

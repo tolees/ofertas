@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZ5JQSH-es Libershine Organizadores de Viaje para Maletas 8 Set de...'
+sku: 'B07RZ5JQSH-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZRZH88-es Funko- Pop Figura de Vinilo: Música Morrissey...'
+sku: 'B07MZRZH88-es'
 tags: [  ]
 actualPrice: 8.27 EUR
 currency: EUR

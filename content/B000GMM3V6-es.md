@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000GMM3V6-es Reebok Classic Leather - Zapatillas de cuero para hombre...'
+sku: 'B000GMM3V6-es'
 tags: [  ]
 actualPrice: 60.13 EUR
 currency: EUR

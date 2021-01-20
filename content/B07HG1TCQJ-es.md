@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HG1TCQJ-es New Balance Fresh Foam Beacon Zapatillas de Running para...'
+sku: 'B07HG1TCQJ-es'
 tags: [  ]
 actualPrice: 80.0 EUR
 currency: EUR

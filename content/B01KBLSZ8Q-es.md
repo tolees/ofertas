@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KBLSZ8Q-es Quinny Zapp Xpress - Silla de paseo color all black'
+sku: 'B01KBLSZ8Q-es'
 tags: [  ]
 actualPrice: 112.86 EUR
 currency: EUR

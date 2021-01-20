@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VL5FMMS-es Doc Mao Enchufe de Acero Inoxidable con diseño de Joyas...'
+sku: 'B07VL5FMMS-es'
 tags: [  ]
 actualPrice: 12.0 EUR
 currency: EUR

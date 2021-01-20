@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00T34TZ6O-es Emsa Clip&Close - Set de 9 Herméticos de Plástico...'
+sku: 'B00T34TZ6O-es'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

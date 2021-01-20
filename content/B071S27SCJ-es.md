@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071S27SCJ-es Cinta Métrica - Fléxometro 20M /66 FT de doble cara mm y...'
+sku: 'B071S27SCJ-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

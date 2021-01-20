@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P2BBB4K-es Superdry Classic Lite Micro Pique Polo Verde Army Green...'
+sku: 'B07P2BBB4K-es'
 tags: [  ]
 actualPrice: 18.93 EUR
 currency: EUR

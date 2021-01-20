@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MFQOZKS-es Tectonic - Reloj Analógico de Cuarzo Unisex Correa de...'
+sku: 'B00MFQOZKS-es'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

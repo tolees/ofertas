@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072KDX14X-es Far Cry 5 - The Father Edition'
+sku: 'B072KDX14X-es'
 tags: [  ]
 actualPrice: 63.89 EUR
 currency: EUR

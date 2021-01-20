@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NZB2GQM-es Goodthreads Standard-Fit Long-Sleeve Stretch Oxford Shirt...'
+sku: 'B07NZB2GQM-es'
 tags: [  ]
 actualPrice: 10.68 EUR
 currency: EUR

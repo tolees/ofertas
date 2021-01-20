@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IDH2PL8-es WandSticker4U - Adhesivo decorativo para pared o ventana...'
+sku: 'B01IDH2PL8-es'
 tags: [  ]
 actualPrice: 3.09 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MKTZQ6T-es Geestock - Riñonera Rojo Red Medium'
+sku: 'B07MKTZQ6T-es'
 tags: [  ]
 actualPrice: 10.91 EUR
 currency: EUR

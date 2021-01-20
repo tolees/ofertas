@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVVG91H-es Skechers Flex Advantage 3.0 Zapatillas para Hombre Azul...'
+sku: 'B07TVVG91H-es'
 tags: [  ]
 actualPrice: 41.61 EUR
 currency: EUR

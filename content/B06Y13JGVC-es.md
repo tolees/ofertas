@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y13JGVC-es Wrangler HIGH RISE SKINNY Pantalones Negro Rinsewash 023...'
+sku: 'B06Y13JGVC-es'
 tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DC19HKN-es PUMA Cali-0 Zapatillas deportivas de piel Unisex adulto...'
+sku: 'B07DC19HKN-es'
 tags: [  ]
 actualPrice: 33.44 EUR
 currency: EUR

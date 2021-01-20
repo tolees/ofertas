@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076HRMKSY-es adidas CORE18 TR PNT Pantalones de Deporte Hombre...'
+sku: 'B076HRMKSY-es'
 tags: [  ]
 actualPrice: 22.01 EUR
 currency: EUR

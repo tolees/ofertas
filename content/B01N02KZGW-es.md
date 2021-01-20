@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N02KZGW-es Aigostar Stirring Set Silver 30IOO - Set de batidora de...'
+sku: 'B01N02KZGW-es'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

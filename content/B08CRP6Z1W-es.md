@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CRP6Z1W-es ZZZXX Pintar por Numeros Niños Chicas Sexy Niños Pintura...'
+sku: 'B08CRP6Z1W-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016AFQFXO-es Dormio Zafiro Colchón viscoelástico Blanco 90 x 190 x 24...'
+sku: 'B016AFQFXO-es'
 tags: [  ]
 actualPrice: 92.64 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VVB69PS-es adidas Superstar J Unisex niños Blanco Cloud White/Core...'
+sku: 'B07VVB69PS-es'
 tags: [  ]
 actualPrice: 51.95 EUR
 currency: EUR

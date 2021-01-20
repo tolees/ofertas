@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0825MQV3X-es Quiksilver Principle - Cinturón De Nailon Belts Hombre...'
+sku: 'B0825MQV3X-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

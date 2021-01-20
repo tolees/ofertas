@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071LKY1P4-es Pack Bones Temporada 1-12 [DVD]'
+sku: 'B071LKY1P4-es'
 tags: [  ]
 actualPrice: 89.55 EUR
 currency: EUR

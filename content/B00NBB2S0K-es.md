@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NBB2S0K-es Compex SP 4.0. Electroestimulador Unisex'
+sku: 'B00NBB2S0K-es'
 tags: [  ]
 actualPrice: 439.0 EUR
 currency: EUR

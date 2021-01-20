@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MD3ZP1B-es Skechers GO Walk 5 Qualify Zapatillas para Hombre Azul...'
+sku: 'B07MD3ZP1B-es'
 tags: [  ]
 actualPrice: 48.0 EUR
 currency: EUR

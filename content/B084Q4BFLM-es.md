@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084Q4BFLM-es Maksexy Masajeador Portátil 12 Modos de Frecuencia...'
+sku: 'B084Q4BFLM-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

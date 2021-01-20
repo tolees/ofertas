@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L3TTH5X-es IOCHIC Patinete Eléctrico con Bluetooth Niños Unisex Talla...'
+sku: 'B07L3TTH5X-es'
 tags: [  ]
 actualPrice: 119.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X1BC3GF-es Alessi - Pulcina MDL02/6 R - Cafetera Inducción de Diseño...'
+sku: 'B06X1BC3GF-es'
 tags: [  ]
 actualPrice: 64.99 EUR
 currency: EUR

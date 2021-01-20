@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VF73Z1H-es Max Power Digital Funda para Xiaomi Mi 9 SE 5.97" con...'
+sku: 'B07VF73Z1H-es'
 tags: [  ]
 actualPrice: 7.25 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G1ZBY8M-es Cortapelos Profesional Hombre TTMOW Maquina Cortar Pelo...'
+sku: 'B07G1ZBY8M-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

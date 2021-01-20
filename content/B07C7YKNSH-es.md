@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C7YKNSH-es Ao International Tennis'
+sku: 'B07C7YKNSH-es'
 tags: [  ]
 actualPrice: 18 EUR
 currency: EUR

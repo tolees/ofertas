@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006XBSPF2-es Yale YSV/200/DB1 Caja Fuerte Básica Pequeña 200 x 310 x...'
+sku: 'B006XBSPF2-es'
 tags: [  ]
 actualPrice: 33.47 EUR
 currency: EUR

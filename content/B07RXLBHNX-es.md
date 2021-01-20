@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RXLBHNX-es Asics Gel-BND Zapatillas de Balonmano para Hombre Negro...'
+sku: 'B07RXLBHNX-es'
 tags: [  ]
 actualPrice: 65.99 EUR
 currency: EUR

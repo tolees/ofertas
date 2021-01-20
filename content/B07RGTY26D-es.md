@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RGTY26D-es New Balance Hombre Fresh Foam Arishi v3 Scarpe Running...'
+sku: 'B07RGTY26D-es'
 tags: [  ]
 actualPrice: 34.85 EUR
 currency: EUR

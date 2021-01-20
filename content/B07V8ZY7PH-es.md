@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V8ZY7PH-es Calvin Klein - Striped Logo Pu Mini Reporter Shoppers y...'
+sku: 'B07V8ZY7PH-es'
 tags: [  ]
 actualPrice: 35.94 EUR
 currency: EUR

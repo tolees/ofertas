@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000VCZU8O-es Stanley 1-51-937 Martillo de carpintero'
+sku: 'B000VCZU8O-es'
 tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR

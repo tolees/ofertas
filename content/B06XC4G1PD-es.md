@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XC4G1PD-es INJUSA – Moto África Twin de 6V Licenciada con Maletín...'
+sku: 'B06XC4G1PD-es'
 tags: [  ]
 actualPrice: 126.43 EUR
 currency: EUR

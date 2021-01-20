@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0776ZRHXB-es Tommy Hilfiger Original Fine Pique Polo Blanco Classic...'
+sku: 'B0776ZRHXB-es'
 tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR

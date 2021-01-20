@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083LVQ1BF-es Mini Amoladora POPOMAN 8V Amoladora Electrónica DC...'
+sku: 'B083LVQ1BF-es'
 tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR

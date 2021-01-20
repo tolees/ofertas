@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFNF8QK-es Cuckool-5 test de embarazo ultrasensibles 10mIU/ml 5 HCG'
+sku: 'B07KFNF8QK-es'
 tags: [  ]
 actualPrice: 7.69 EUR
 currency: EUR

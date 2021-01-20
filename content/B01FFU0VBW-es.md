@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FFU0VBW-es True Instinct Original Pienso para Perros Medium Adult con...'
+sku: 'B01FFU0VBW-es'
 tags: [  ]
 actualPrice: 8.54 EUR
 currency: EUR

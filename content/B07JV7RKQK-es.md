@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JV7RKQK-es Figura Pop FORTNITE: Dark Voyager'
+sku: 'B07JV7RKQK-es'
 tags: [  ]
 actualPrice: 9.94 EUR
 currency: EUR

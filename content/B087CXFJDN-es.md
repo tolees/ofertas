@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087CXFJDN-es Coolcept Women Casual Slip On Court Shoes Flat Pumps Shoes...'
+sku: 'B087CXFJDN-es'
 tags: [  ]
 actualPrice: 26.89 EUR
 currency: EUR

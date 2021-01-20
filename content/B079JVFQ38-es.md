@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079JVFQ38-es Bonmedico Almohada Comfort Almohada Ergonómica para la...'
+sku: 'B079JVFQ38-es'
 tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR

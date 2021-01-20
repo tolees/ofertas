@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071QY4NHW-es De Longhi PrimaDonna S EVO - Cafetera Automática...'
+sku: 'B071QY4NHW-es'
 tags: [  ]
 actualPrice: 353.0 EUR
 currency: EUR

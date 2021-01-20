@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG39G5S-es PUMA Carson 2 New Core Wn s Zapatillas de Running para...'
+sku: 'B07KG39G5S-es'
 tags: [  ]
 actualPrice: 17.15 EUR
 currency: EUR

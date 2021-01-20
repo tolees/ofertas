@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0798HL4BL-es G-STAR RAW Rovulc Low Zapatillas para Mujer Rosa Bright...'
+sku: 'B0798HL4BL-es'
 tags: [  ]
 actualPrice: 16.23 EUR
 currency: EUR

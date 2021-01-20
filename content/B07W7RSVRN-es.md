@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W7RSVRN-es Tommy Hilfiger Shoulder GS Insert Slim Polo Azul Desert...'
+sku: 'B07W7RSVRN-es'
 tags: [  ]
 actualPrice: 29.22 EUR
 currency: EUR

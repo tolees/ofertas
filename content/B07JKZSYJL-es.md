@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JKZSYJL-es NIVEA Pack Hyalurron Cellular Filler Crema Antiedad Día y...'
+sku: 'B07JKZSYJL-es'
 tags: [  ]
 actualPrice: 11.0 EUR
 currency: EUR

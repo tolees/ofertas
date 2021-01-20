@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZ72OSN-es Eagle Flight'
+sku: 'B01LZ72OSN-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

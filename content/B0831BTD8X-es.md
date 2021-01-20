@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0831BTD8X-es Alcachofa Ducha con Manguera Zorara Cabezal de Ducha con...'
+sku: 'B0831BTD8X-es'
 tags: [  ]
 actualPrice: 11.89 EUR
 currency: EUR

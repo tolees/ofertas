@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JKXC26X-es Memoria USB Universal de 64 GB Pen Drive Tipo C Micro USB...'
+sku: 'B07JKXC26X-es'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

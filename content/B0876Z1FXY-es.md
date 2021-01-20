@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0876Z1FXY-es Homtiky Medidor pH Digital Medidor TDS Temperatura EC 4 en...'
+sku: 'B0876Z1FXY-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

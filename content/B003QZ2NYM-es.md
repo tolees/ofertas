@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003QZ2NYM-es adidas Originals Samba Zapatillas de Fútbol para Hombre...'
+sku: 'B003QZ2NYM-es'
 tags: [  ]
 actualPrice: 44.1 EUR
 currency: EUR

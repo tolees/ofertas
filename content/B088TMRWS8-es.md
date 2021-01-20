@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088TMRWS8-es AnamSafdarButt59 Estante de Secado portátil Desmontable...'
+sku: 'B088TMRWS8-es'
 tags: [  ]
 actualPrice: 3.96 EUR
 currency: EUR

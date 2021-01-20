@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TYXRZ4L-es Aogled LED Lámpara de Techo 18W 1800LM 4000K Blanco...'
+sku: 'B07TYXRZ4L-es'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

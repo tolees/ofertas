@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FXQ5N4D-es Havaianas Brasil Logo Zehentrenner Unisex-Erwachsene Verde...'
+sku: 'B07FXQ5N4D-es'
 tags: [  ]
 actualPrice: 17.45 EUR
 currency: EUR

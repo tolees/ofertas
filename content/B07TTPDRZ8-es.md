@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TTPDRZ8-es KiplingAbanu MultiMujerBolsos bandoleraMulticolor Speckled...'
+sku: 'B07TTPDRZ8-es'
 tags: [  ]
 actualPrice: 28.25 EUR
 currency: EUR

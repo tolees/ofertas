@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GN5SP1R-es WinWonder 17 piezas de fabricación de joyas herramientas...'
+sku: 'B07GN5SP1R-es'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PCR85J3-es LotFancy 2PCS Rascadors para Gatos con Catnip para Cama y...'
+sku: 'B07PCR85J3-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

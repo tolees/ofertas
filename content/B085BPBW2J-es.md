@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085BPBW2J-es HIDARLING Bolsa Seca Impermeable con Correa Larga...'
+sku: 'B085BPBW2J-es'
 tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N4MQC8F-es NIKE M CFD Pant FLC TM Club19 Pantalones de Deporte Hombre...'
+sku: 'B07N4MQC8F-es'
 tags: [  ]
 actualPrice: 28.0 EUR
 currency: EUR

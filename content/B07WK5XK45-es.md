@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WK5XK45-es MATT SAGA Botella de Agua para Perros Portatil Envase de...'
+sku: 'B07WK5XK45-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

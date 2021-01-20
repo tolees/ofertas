@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071CJSGFH-es POWERADD Versión Mejorada Pilot 2GS Power Bank 10000mAh...'
+sku: 'B071CJSGFH-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

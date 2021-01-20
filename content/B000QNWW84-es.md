@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000QNWW84-es Botones pres.sport 15mm lt. plat.+herra.'
+sku: 'B000QNWW84-es'
 tags: [  ]
 actualPrice: 8.51 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R4XTP42-es Towinle Gomitas para Hacer Pulseras 15000 Cintas en Caja...'
+sku: 'B07R4XTP42-es'
 tags: [  ]
 actualPrice: 27.89 EUR
 currency: EUR

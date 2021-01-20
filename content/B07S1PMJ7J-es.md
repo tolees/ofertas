@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S1PMJ7J-es New Balance 373v2 Zapatillas para Mujer Blanco White/Grey...'
+sku: 'B07S1PMJ7J-es'
 tags: [  ]
 actualPrice: 46.49 EUR
 currency: EUR

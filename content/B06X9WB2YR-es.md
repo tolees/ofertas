@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X9WB2YR-es find. 70296 vestidos mujer Multicolor Black Mix 36 Talla...'
+sku: 'B06X9WB2YR-es'
 tags: [  ]
 actualPrice: 9 EUR
 currency: EUR

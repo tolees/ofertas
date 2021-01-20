@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XPHGJW4-es Jack & Jones Jcopolar Sweat Half Zip Capucha Verde Forest...'
+sku: 'B07XPHGJW4-es'
 tags: [  ]
 actualPrice: 10.51 EUR
 currency: EUR

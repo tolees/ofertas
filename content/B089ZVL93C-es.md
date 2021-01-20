@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089ZVL93C-es GiiYoon-3 Piezas Protector de Pantalla para Xiaomi Redmi...'
+sku: 'B089ZVL93C-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

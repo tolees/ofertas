@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075FF6K1X-es Maxi-Cosi CabrioFix Silla de Auto Reclinable y de Alta...'
+sku: 'B075FF6K1X-es'
 tags: [  ]
 actualPrice: 131.59 EUR
 currency: EUR

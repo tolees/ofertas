@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087BML2Z4-es Mediffen Mujer Fiesta Tacón Ancho Correa De Tobillo Lazos...'
+sku: 'B087BML2Z4-es'
 tags: [  ]
 actualPrice: 25.65 EUR
 currency: EUR

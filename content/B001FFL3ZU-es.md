@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001FFL3ZU-es Weider Victory Endurance Amino Recovery - 120 Capsulas'
+sku: 'B001FFL3ZU-es'
 tags: [  ]
 actualPrice: 12.0 EUR
 currency: EUR

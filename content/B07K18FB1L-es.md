@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K18FB1L-es Nixon Reloj Analógico para Mujer de Cuarzo con Correa en...'
+sku: 'B07K18FB1L-es'
 tags: [  ]
 actualPrice: 65.75 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HT952FI-es Einhell TH-US 240 - Esmeriladora combinada 4 patas de goma...'
+sku: 'B00HT952FI-es'
 tags: [  ]
 actualPrice: 47.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082W1G1ST-es Ruichenxi Metal USB Pen Drive 256GB Mini Memorias USB...'
+sku: 'B082W1G1ST-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

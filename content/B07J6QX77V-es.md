@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J6QX77V-es Hackett Garment Dyed Jeans Pantalones Off White 803 38W /...'
+sku: 'B07J6QX77V-es'
 tags: [  ]
 actualPrice: 22.53 EUR
 currency: EUR

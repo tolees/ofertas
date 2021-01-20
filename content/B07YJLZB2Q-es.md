@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YJLZB2Q-es FORMIZON Equilibrar Juego de Matemáticas Juguete Animal...'
+sku: 'B07YJLZB2Q-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

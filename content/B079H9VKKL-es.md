@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079H9VKKL-es Optimum Nutrition Protein Whipped Bites barrita proteica...'
+sku: 'B079H9VKKL-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

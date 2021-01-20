@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V7KV81S-es Death Stranding'
+sku: 'B07V7KV81S-es'
 tags: [  ]
 actualPrice: 41.2 EUR
 currency: EUR

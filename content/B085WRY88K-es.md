@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085WRY88K-es Diadema de Flores Corona 5 piezas Corona de Flores Girasol...'
+sku: 'B085WRY88K-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

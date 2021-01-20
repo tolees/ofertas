@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089KM7JHC-es Guzack Brazalete deportivo para iPhone XR/XS/8 Plus/7 Plus...'
+sku: 'B089KM7JHC-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HYFKFOA-es Syndicate 58/6 - Scotch Whisky 700 ml'
+sku: 'B00HYFKFOA-es'
 tags: [  ]
 actualPrice: 29.86 EUR
 currency: EUR

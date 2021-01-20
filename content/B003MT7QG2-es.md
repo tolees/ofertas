@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003MT7QG2-es Papel de Armenia rosas 12 uds'
+sku: 'B003MT7QG2-es'
 tags: [  ]
 actualPrice: 3.56 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RMRN7BX-es Finish Todo en 1 Max Limón Pastillas para Lavavajillas -...'
+sku: 'B07RMRN7BX-es'
 tags: [  ]
 actualPrice: 13.49 EUR
 currency: EUR

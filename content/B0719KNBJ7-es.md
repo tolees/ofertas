@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0719KNBJ7-es Adidas Terrex Tracerocker Zapatillas de Senderismo para...'
+sku: 'B0719KNBJ7-es'
 tags: [  ]
 actualPrice: 51.14 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076JP8ZXL-es adidas Trefoil T-Shirt Black XL para Hombre'
+sku: 'B076JP8ZXL-es'
 tags: [  ]
 actualPrice: 18.49 EUR
 currency: EUR

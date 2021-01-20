@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002WGHYMW-es Superga 2750 COTU Classic Zapatillas Unisex Adulto Black...'
+sku: 'B002WGHYMW-es'
 tags: [  ]
 actualPrice: 36.35 EUR
 currency: EUR

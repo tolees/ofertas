@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078NJ8TQ6-es Modeen 40W Lámpara de mesa LED espiral lámpara de...'
+sku: 'B078NJ8TQ6-es'
 tags: [  ]
 actualPrice: 9.0 EUR
 currency: EUR

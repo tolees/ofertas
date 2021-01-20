@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00L56VQXS-es Verdeo Verdejo Vino Blanco. DO Rueda - 750ml'
+sku: 'B00L56VQXS-es'
 tags: [  ]
 actualPrice: 4.0 EUR
 currency: EUR

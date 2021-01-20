@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TKXPF19-es Superdry State Volley Swim Short Pantalones Cortos Negro...'
+sku: 'B07TKXPF19-es'
 tags: [  ]
 actualPrice: 30.49 EUR
 currency: EUR

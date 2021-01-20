@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GR2AEK0-es ENKEEO Candado U Retorcible Cerradura Antirobo con Capa de...'
+sku: 'B01GR2AEK0-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

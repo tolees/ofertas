@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073QS34HH-es find. 18137 camisetas Rosa Oscuro Pink 36 Talla del...'
+sku: 'B073QS34HH-es'
 tags: [  ]
 actualPrice: 3.6 EUR
 currency: EUR

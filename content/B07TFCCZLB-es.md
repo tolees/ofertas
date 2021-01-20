@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TFCCZLB-es JIMIGO 16XL Alta Capacidad Cartuchos de Tinta para Epson...'
+sku: 'B07TFCCZLB-es'
 tags: [  ]
 actualPrice: 11.89 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JFQ3TSH-es Lacoste Ph5522 Polo Azul Lilium Chiné 9n0 Small Talla del...'
+sku: 'B07JFQ3TSH-es'
 tags: [  ]
 actualPrice: 60.8 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X8ZF3TS-es Bandolera con solapa Pepe Jeans Nicole'
+sku: 'B06X8ZF3TS-es'
 tags: [  ]
 actualPrice: 22.0 EUR
 currency: EUR

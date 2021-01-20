@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZCX3CB3-es Decdeal Grifos de Cocina/Baño Extraíbles con 3 Modos de...'
+sku: 'B07ZCX3CB3-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

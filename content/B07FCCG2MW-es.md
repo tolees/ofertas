@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FCCG2MW-es G9 Led Bulb 3W Bombilla Led G9 Pursnic equivalente a...'
+sku: 'B07FCCG2MW-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

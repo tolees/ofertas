@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HLF4TG4-es Converse Tipoff Chuck Baseball Mpu 10008 Gorra de béisbol...'
+sku: 'B07HLF4TG4-es'
 tags: [  ]
 actualPrice: 12.55 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C94BCKM-es Columbia Canyon Point Zapatillas de Senderismo...'
+sku: 'B07C94BCKM-es'
 tags: [  ]
 actualPrice: 57.95 EUR
 currency: EUR

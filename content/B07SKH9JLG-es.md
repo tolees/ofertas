@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SKH9JLG-es J.Endéar Infinito Amor Amistad Cuerda Pulsera Regalo para...'
+sku: 'B07SKH9JLG-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

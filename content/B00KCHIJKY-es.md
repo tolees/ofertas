@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KCHIJKY-es BLEND Jeans-Noos Cirrus Parte de Arriba Blau Fane...'
+sku: 'B00KCHIJKY-es'
 tags: [  ]
 actualPrice: 33.82 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FPB7BKZ-es Neadas Caja Cajas Cesta Cesto Plastico Plegable de...'
+sku: 'B07FPB7BKZ-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

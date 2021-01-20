@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GKLH333-es yaoyan Nuevo Inalámbrico 2.4G Modo Dual Azul Rosa...'
+sku: 'B08GKLH333-es'
 tags: [  ]
 actualPrice: 33.43 EUR
 currency: EUR

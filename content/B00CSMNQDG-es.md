@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CSMNQDG-es 2piezas desinfectante manos Sterillium 500ml desinfección'
+sku: 'B00CSMNQDG-es'
 tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR

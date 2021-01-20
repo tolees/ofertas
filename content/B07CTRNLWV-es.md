@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CTRNLWV-es FIND - Tender Hues - Trío de sombras de ojos n.4 n.5 n.6'
+sku: 'B07CTRNLWV-es'
 tags: [  ]
 actualPrice: 2.62 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y75JTL1-es Pantuflas de invierno para hombre y mujer con espuma...'
+sku: 'B07Y75JTL1-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

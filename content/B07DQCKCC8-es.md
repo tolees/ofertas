@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DQCKCC8-es Khanomak de Mujeres Camiseta de Manga Corta de algodón con...'
+sku: 'B07DQCKCC8-es'
 tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR

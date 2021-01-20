@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077MHS3VT-es S&R Martillo de Cerrajero Carpintero 300 G. Mango de fibra...'
+sku: 'B077MHS3VT-es'
 tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR

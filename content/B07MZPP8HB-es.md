@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZPP8HB-es Pepe Jeans Anabella Pantalones Black 999 17-18 años de...'
+sku: 'B07MZPP8HB-es'
 tags: [  ]
 actualPrice: 24.52 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0756GVZJ7-es Rexona Roll-On Tropical Desodorante para Mujer - 50 ml'
+sku: 'B0756GVZJ7-es'
 tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR

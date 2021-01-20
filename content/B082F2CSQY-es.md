@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082F2CSQY-es Cobertura de lactancia de algodón Cubiertas de lactancia...'
+sku: 'B082F2CSQY-es'
 tags: [  ]
 actualPrice: 5.27 EUR
 currency: EUR

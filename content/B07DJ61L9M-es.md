@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJ61L9M-es New Balance Cm997hce Zapatillas para Hombre Plateado...'
+sku: 'B07DJ61L9M-es'
 tags: [  ]
 actualPrice: 54.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TW69QMP-es Aggelos'
+sku: 'B07TW69QMP-es'
 tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR

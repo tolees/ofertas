@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GS896CJ-es Lenovo Legion Y920-17IKB - Ordenador portátil gaming de...'
+sku: 'B07GS896CJ-es'
 tags: [  ]
 actualPrice: 1549.0 EUR
 currency: EUR

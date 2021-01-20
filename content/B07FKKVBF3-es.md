@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FKKVBF3-es Joma Academy Chandal Caballero Hombre Marino/Blanco L'
+sku: 'B07FKKVBF3-es'
 tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SPB9R79-es FORMIZON Loom Bands 6800 Kit Completo 22 Colores Kit de...'
+sku: 'B07SPB9R79-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

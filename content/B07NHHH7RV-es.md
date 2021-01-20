@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NHHH7RV-es Kipling - Creativity L Monederos Mujer Verde Seagrass...'
+sku: 'B07NHHH7RV-es'
 tags: [  ]
 actualPrice: 14.5 EUR
 currency: EUR

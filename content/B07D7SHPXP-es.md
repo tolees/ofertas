@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D7SHPXP-es Caja para Relojes de Madera Estuche para Relojes y joyeros 6'
+sku: 'B07D7SHPXP-es'
 tags: [  ]
 actualPrice: 12.59 EUR
 currency: EUR

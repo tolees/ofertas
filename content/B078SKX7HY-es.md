@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078SKX7HY-es Diesel Reloj Cronógrafo para Hombre de Cuarzo con Correa...'
+sku: 'B078SKX7HY-es'
 tags: [  ]
 actualPrice: 149.54 EUR
 currency: EUR

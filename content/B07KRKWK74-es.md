@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRKWK74-es New Balance 624v5 Zapatillas Deportivas para Interior para...'
+sku: 'B07KRKWK74-es'
 tags: [  ]
 actualPrice: 22.94 EUR
 currency: EUR

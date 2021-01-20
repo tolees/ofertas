@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089QFMQ1R-es VPCOK Mini Ventilador USB Silencioso 2 en 1 Ventiladores...'
+sku: 'B089QFMQ1R-es'
 tags: [  ]
 actualPrice: 10.77 EUR
 currency: EUR

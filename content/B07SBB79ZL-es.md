@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SBB79ZL-es Crocs Swiftwater Expedition Sandal Kids Sandalia con...'
+sku: 'B07SBB79ZL-es'
 tags: [  ]
 actualPrice: 12.5 EUR
 currency: EUR

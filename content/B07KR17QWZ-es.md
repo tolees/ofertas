@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KR17QWZ-es Nike NK Brsla M Duff - 9.0 60L Gym Bag Unisex Adulto...'
+sku: 'B07KR17QWZ-es'
 tags: [  ]
 actualPrice: 20.95 EUR
 currency: EUR

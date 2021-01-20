@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074PDD3CW-es Grohe 27473001 Euphoria 260 - Sistema de ducha con grifo...'
+sku: 'B074PDD3CW-es'
 tags: [  ]
 actualPrice: 320.99 EUR
 currency: EUR

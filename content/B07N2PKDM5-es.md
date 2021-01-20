@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N2PKDM5-es HOMCOM Mesilla de Centro Mesita de Noche Mesa de Café Té...'
+sku: 'B07N2PKDM5-es'
 tags: [  ]
 actualPrice: 29.74 EUR
 currency: EUR

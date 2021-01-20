@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CTT534Y-es Skechers Men s Flex Advantage 3.0-Jection Trainers Blue...'
+sku: 'B07CTT534Y-es'
 tags: [  ]
 actualPrice: 45.45 EUR
 currency: EUR

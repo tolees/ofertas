@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XJ5YZGR-es Skechers UNO Zapatillas para Hombre Gris carbón de Malla...'
+sku: 'B07XJ5YZGR-es'
 tags: [  ]
 actualPrice: 29.82 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084P7LVHC-es USB portátil 3.1 Tipo-C Macho a USB 3.0 A Hembra...'
+sku: 'B084P7LVHC-es'
 tags: [  ]
 actualPrice: 1.11 EUR
 currency: EUR

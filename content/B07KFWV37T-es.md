@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFWV37T-es PUMA Aeon Heritage Wn s Zapatillas Deportivas para Mujer...'
+sku: 'B07KFWV37T-es'
 tags: [  ]
 actualPrice: 26.45 EUR
 currency: EUR

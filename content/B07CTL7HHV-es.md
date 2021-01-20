@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CTL7HHV-es Under Armour Charged Europa 2 Zapatillas de Running para...'
+sku: 'B07CTL7HHV-es'
 tags: [  ]
 actualPrice: 48.64 EUR
 currency: EUR

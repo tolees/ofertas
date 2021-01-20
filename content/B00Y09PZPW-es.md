@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00Y09PZPW-es Jata SW546 SANDWICHERA 1500 W 0 Decibeles Negro'
+sku: 'B00Y09PZPW-es'
 tags: [  ]
 actualPrice: 27.2 EUR
 currency: EUR

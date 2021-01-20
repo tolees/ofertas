@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01L8S48ZA-es Saint Seiya Myth Cloth Figura Bandai BDISS079170'
+sku: 'B01L8S48ZA-es'
 tags: [  ]
 actualPrice: 47.0 EUR
 currency: EUR

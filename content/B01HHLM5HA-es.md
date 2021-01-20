@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HHLM5HA-es Puzle coloreable 20 piezas. Frozen Puzle coloreable frozen'
+sku: 'B01HHLM5HA-es'
 tags: [  ]
 actualPrice: 2.12 EUR
 currency: EUR

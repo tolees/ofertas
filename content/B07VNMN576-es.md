@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VNMN576-es G-STAR RAW Carnic Pantalones Cortos Rosa Langoustino Pink...'
+sku: 'B07VNMN576-es'
 tags: [  ]
 actualPrice: 16.16 EUR
 currency: EUR

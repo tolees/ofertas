@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N6CQSGM-es 3/8"1700 RPM Taladro Neumático de Alta Velocidad Rotación...'
+sku: 'B07N6CQSGM-es'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

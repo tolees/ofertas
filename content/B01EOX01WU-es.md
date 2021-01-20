@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EOX01WU-es Helly Hansen Coastal 2 Parka Chaqueta Impermeable...'
+sku: 'B01EOX01WU-es'
 tags: [  ]
 actualPrice: 148.99 EUR
 currency: EUR

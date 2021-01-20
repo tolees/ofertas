@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FTH781B-es Lee Daren Zip Fly Jeans Azul Broken Blue Sx 31W / 30L para...'
+sku: 'B07FTH781B-es'
 tags: [  ]
 actualPrice: 61.49 EUR
 currency: EUR

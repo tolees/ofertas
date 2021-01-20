@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078HDHNXT-es Smile 111720640199 - Bolsa para ordenadores portátiles de...'
+sku: 'B078HDHNXT-es'
 tags: [  ]
 actualPrice: 15.96 EUR
 currency: EUR

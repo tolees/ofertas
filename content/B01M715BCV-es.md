@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M715BCV-es KLIM™ Wind + Base de refrigeración para portátil + La más...'
+sku: 'B01M715BCV-es'
 tags: [  ]
 actualPrice: 29.97 EUR
 currency: EUR

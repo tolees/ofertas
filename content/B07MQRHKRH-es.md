@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MQRHKRH-es Camiseta y Pantalón Corto Riverdale Adolescente Chica...'
+sku: 'B07MQRHKRH-es'
 tags: [  ]
 actualPrice: 10.82 EUR
 currency: EUR

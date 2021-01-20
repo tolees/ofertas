@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YZCNBLC-es PRIXTON - Robot Aspirador Fregasuelos Barre y...'
+sku: 'B07YZCNBLC-es'
 tags: [  ]
 actualPrice: 129.99 EUR
 currency: EUR

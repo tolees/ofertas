@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TKSX9C6-es Clarks Un Rio Lace Zapatillas Azul Dark Blush Combi Dark...'
+sku: 'B07TKSX9C6-es'
 tags: [  ]
 actualPrice: 53.61 EUR
 currency: EUR

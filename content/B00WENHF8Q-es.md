@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WENHF8Q-es Case Logic HDC11K - Funda rígida para disco duro de 2.5"...'
+sku: 'B00WENHF8Q-es'
 tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR

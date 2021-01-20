@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QHR588G-es NYX Professional Makeup Paleta de correctores y contouring...'
+sku: 'B07QHR588G-es'
 tags: [  ]
 actualPrice: 8.45 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P3DD31X-es Trudi Muñeca Chiara Ferragni Limited Edition S 69061'
+sku: 'B07P3DD31X-es'
 tags: [  ]
 actualPrice: 14.59 EUR
 currency: EUR

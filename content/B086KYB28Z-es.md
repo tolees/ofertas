@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086KYB28Z-es Aigostar Doreen 30LYD - Envasadora al vacío para alimentos...'
+sku: 'B086KYB28Z-es'
 tags: [  ]
 actualPrice: 35.19 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0857DF1TG-es CHIKA10 Amira 06 Nude/LG.Pink Talla 39'
+sku: 'B0857DF1TG-es'
 tags: [  ]
 actualPrice: 25.89 EUR
 currency: EUR

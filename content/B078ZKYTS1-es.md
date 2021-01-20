@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078ZKYTS1-es Supra Hammer Run Zapatillas Unisex Adulto Negro...'
+sku: 'B078ZKYTS1-es'
 tags: [  ]
 actualPrice: 39.03 EUR
 currency: EUR

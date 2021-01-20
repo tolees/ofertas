@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IZE4UQS-es Casio Reloj Analógico para Hombre de Cuarzo con Correa en...'
+sku: 'B00IZE4UQS-es'
 tags: [  ]
 actualPrice: 30.93 EUR
 currency: EUR

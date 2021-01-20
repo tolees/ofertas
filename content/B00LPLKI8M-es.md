@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LPLKI8M-es Bella Aurora Gel Exfoliante Facial Anti-Manchas | Limpia...'
+sku: 'B00LPLKI8M-es'
 tags: [  ]
 actualPrice: 5.95 EUR
 currency: EUR

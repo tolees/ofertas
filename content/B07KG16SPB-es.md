@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG16SPB-es PUMA Insurge Mesh 2.0 Zapatillas Unisex Adulto Rhubarb...'
+sku: 'B07KG16SPB-es'
 tags: [  ]
 actualPrice: 20.45 EUR
 currency: EUR

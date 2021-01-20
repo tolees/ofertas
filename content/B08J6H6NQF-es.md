@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08J6H6NQF-es Panamar Funda Protectora de Fieltro Suave y Liviana para...'
+sku: 'B08J6H6NQF-es'
 tags: [  ]
 actualPrice: 3.13 EUR
 currency: EUR

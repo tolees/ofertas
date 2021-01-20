@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C5B54ZF-es Flamenco Sala'
+sku: 'B07C5B54ZF-es'
 tags: [  ]
 actualPrice: 25.98 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XAPCWZS-es Konfekt - Geles dulces'
+sku: 'B00XAPCWZS-es'
 tags: [  ]
 actualPrice: 8.97 EUR
 currency: EUR

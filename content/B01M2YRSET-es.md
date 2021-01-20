@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M2YRSET-es Roxy Endless Summer Pantalones Cortos Mujer Negro Antracite M'
+sku: 'B01M2YRSET-es'
 tags: [  ]
 actualPrice: 27.59 EUR
 currency: EUR

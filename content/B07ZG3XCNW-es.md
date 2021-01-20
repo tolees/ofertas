@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZG3XCNW-es TRESemmé Botanique Pack Champú + Protector y Rizador de...'
+sku: 'B07ZG3XCNW-es'
 tags: [  ]
 actualPrice: 10.0 EUR
 currency: EUR

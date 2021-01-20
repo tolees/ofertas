@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F7KVCZF-es SATECHI Adaptador Multi-Puertos Delgado Tipo-C de Aluminio...'
+sku: 'B07F7KVCZF-es'
 tags: [  ]
 actualPrice: 55.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BPRC7JV-es Homyl 1 Par Sonido de Sistema de Audio Estéreo de Coche...'
+sku: 'B07BPRC7JV-es'
 tags: [  ]
 actualPrice: 15.22 EUR
 currency: EUR

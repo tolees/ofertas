@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082HBDRF2-es ART VVIES mit Haken für hauptdekorationen Vintage kätzchen...'
+sku: 'B082HBDRF2-es'
 tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR

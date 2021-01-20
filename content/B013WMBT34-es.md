@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013WMBT34-es Russell Hobbs Fiesta - Fondue Eléctrica 1200 W 1 7l Acero...'
+sku: 'B013WMBT34-es'
 tags: [  ]
 actualPrice: 33.91 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GXKBTM4-es Irrigador Bucal Portátil de 300ml iTeknic Irrigador Dental...'
+sku: 'B07GXKBTM4-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086SWLM97-es Color&Geometry Alfombrilla de Cocina de 2 Piezas Alfombra...'
+sku: 'B086SWLM97-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

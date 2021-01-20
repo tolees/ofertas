@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FD3PZL5-es Myada 55000 Piezas Bolas de Gel de Agua Perlas de Gel de...'
+sku: 'B08FD3PZL5-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

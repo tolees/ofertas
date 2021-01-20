@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085S4BZ8B-es Rollo Césped de 7mm 2x5 Metros'
+sku: 'B085S4BZ8B-es'
 tags: [  ]
 actualPrice: 40.45 EUR
 currency: EUR

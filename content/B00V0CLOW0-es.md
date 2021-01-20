@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00V0CLOW0-es Poltergeist Ii / Poltergeist Iii [Edizione: Stati Uniti]...'
+sku: 'B00V0CLOW0-es'
 tags: [  ]
 actualPrice: 20.67 EUR
 currency: EUR

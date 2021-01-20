@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F31RHKT-es Vans Colorblock tee - Camiseta para Hombre Azul Dress...'
+sku: 'B07F31RHKT-es'
 tags: [  ]
 actualPrice: 12.5 EUR
 currency: EUR

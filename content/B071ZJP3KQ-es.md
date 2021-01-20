@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071ZJP3KQ-es Parabrisas Parasol Auto 2win2buy Parabrisas Parasol...'
+sku: 'B071ZJP3KQ-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

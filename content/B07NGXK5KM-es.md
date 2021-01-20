@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NGXK5KM-es Marca Amazon - IRIS & LILLY Braguita Mujer Pack de 5...'
+sku: 'B07NGXK5KM-es'
 tags: [  ]
 actualPrice: 3.36 EUR
 currency: EUR

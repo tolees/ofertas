@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G1TTVRP-es Suizo Digital Dulect IP66 Caja de Sonido a Prueba de Agua...'
+sku: 'B07G1TTVRP-es'
 tags: [  ]
 actualPrice: 26.69 EUR
 currency: EUR

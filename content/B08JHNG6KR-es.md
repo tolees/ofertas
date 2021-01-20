@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08JHNG6KR-es Grifo de Filtro de Salpicaduras Universal Boquilla de...'
+sku: 'B08JHNG6KR-es'
 tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR

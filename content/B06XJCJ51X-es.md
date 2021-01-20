@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XJCJ51X-es Joma Tokio II Pantalones Cortos Hombre Multicolor...'
+sku: 'B06XJCJ51X-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

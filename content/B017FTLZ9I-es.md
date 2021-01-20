@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017FTLZ9I-es KS Tools 713.1103 módulo de abolladuras de carrocería 3...'
+sku: 'B017FTLZ9I-es'
 tags: [  ]
 actualPrice: 138.7 EUR
 currency: EUR

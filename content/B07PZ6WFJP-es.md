@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PZ6WFJP-es FREDI Cámara espía Wireless Mini cámara de Seguridad HD...'
+sku: 'B07PZ6WFJP-es'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

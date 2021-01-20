@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPRPHNQ-es FitFlop Lottie Glitzy Sandalias de Punta Descubierta Women...'
+sku: 'B07KPRPHNQ-es'
 tags: [  ]
 actualPrice: 43.99 EUR
 currency: EUR

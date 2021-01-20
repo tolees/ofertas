@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004I6AKT8-es WIDMANN 7083U - Ametralladora de juguete con sonido'
+sku: 'B004I6AKT8-es'
 tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR

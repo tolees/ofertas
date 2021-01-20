@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SD8GUFK-es Star Wars: El Retorno del Jedi Luke Skywalker Sable láser...'
+sku: 'B00SD8GUFK-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

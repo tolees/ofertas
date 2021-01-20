@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F9JMJW3-es Festina Reloj de Pulsera F20363/3'
+sku: 'B07F9JMJW3-es'
 tags: [  ]
 actualPrice: 183.58 EUR
 currency: EUR

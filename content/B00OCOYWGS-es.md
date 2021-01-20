@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OCOYWGS-es auna Radio Gaga AN - Radio por Internet Digital WLAN...'
+sku: 'B00OCOYWGS-es'
 tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR

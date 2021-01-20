@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083HZ3PGM-es UnitedheartES Banco de energía Caja de batería Cargador de...'
+sku: 'B083HZ3PGM-es'
 tags: [  ]
 actualPrice: 2.47 EUR
 currency: EUR

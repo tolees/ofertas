@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RFFZNZM-es eufy BoostIQ RoboVac 15C MAX Robot Aspirador con conexión...'
+sku: 'B07RFFZNZM-es'
 tags: [  ]
 actualPrice: 179.99 EUR
 currency: EUR

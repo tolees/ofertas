@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WSMYYR9-es memumi Delgado Funda Compatible con iPhone 11 Pro MAX...'
+sku: 'B07WSMYYR9-es'
 tags: [  ]
 actualPrice: 12.77 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06ZYQNP1X-es Gazechimp Interruptor de Encendido Tercer Engranaje Pin de...'
+sku: 'B06ZYQNP1X-es'
 tags: [  ]
 actualPrice: 2.05 EUR
 currency: EUR

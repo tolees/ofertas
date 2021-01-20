@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S5CDJKM-es Love MoschinoJc4054pp1aMujerBolsos bandoleraRosa5x13x20...'
+sku: 'B07S5CDJKM-es'
 tags: [  ]
 actualPrice: 68.45 EUR
 currency: EUR

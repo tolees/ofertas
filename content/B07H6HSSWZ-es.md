@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H6HSSWZ-es Unidad externa de DVD USB 3.0 CD / DVD-RW Drive Writer...'
+sku: 'B07H6HSSWZ-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

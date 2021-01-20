@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KW924YB-es Salomon Trailster Zapatillas de trail running Hombre Gris...'
+sku: 'B07KW924YB-es'
 tags: [  ]
 actualPrice: 59.95 EUR
 currency: EUR

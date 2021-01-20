@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0711LMQVQ-es COOSA Correa de Recambio Brazalete Extensibles Coloridos...'
+sku: 'B0711LMQVQ-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

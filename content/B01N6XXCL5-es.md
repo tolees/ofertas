@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N6XXCL5-es Casio Reloj Digital para Hombre de Cuarzo con Correa en...'
+sku: 'B01N6XXCL5-es'
 tags: [  ]
 actualPrice: 58.9 EUR
 currency: EUR

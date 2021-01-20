@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L6DHMJQ-es Dispensador automático de pasta de dientes y cepillo de...'
+sku: 'B07L6DHMJQ-es'
 tags: [  ]
 actualPrice: 18.58 EUR
 currency: EUR

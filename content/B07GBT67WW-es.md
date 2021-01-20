@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GBT67WW-es Pulsar Reloj analogico para Hombre de Cuarzo con Correa en...'
+sku: 'B07GBT67WW-es'
 tags: [  ]
 actualPrice: 68.41 EUR
 currency: EUR

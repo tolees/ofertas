@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IZZCSHO-es Swiffer XXL Mopa & Completo de Sistema de Limpieza Plus 8...'
+sku: 'B01IZZCSHO-es'
 tags: [  ]
 actualPrice: 23.0 EUR
 currency: EUR

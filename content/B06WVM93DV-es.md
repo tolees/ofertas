@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WVM93DV-es Tommy Hilfiger Sujetador Deportivo de Estilo Bralette de...'
+sku: 'B06WVM93DV-es'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

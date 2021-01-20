@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBYWTTH-es Etrogo Bombilla Crepuscular Led Sensor Luz E27 10W...'
+sku: 'B07LBYWTTH-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

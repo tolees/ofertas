@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0829HWNDM-es Reloj de Pulsera para Hombre Luminoso Casual Delgado de...'
+sku: 'B0829HWNDM-es'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

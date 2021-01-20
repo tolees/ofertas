@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0814SQTFV-es Under Armour Armour Mid Keyhole Graphic Ropa Mujer para...'
+sku: 'B0814SQTFV-es'
 tags: [  ]
 actualPrice: 15.49 EUR
 currency: EUR

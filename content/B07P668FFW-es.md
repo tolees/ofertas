@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P668FFW-es Munich Osaka Zapatillas de Deporte para Mujer Dorado...'
+sku: 'B07P668FFW-es'
 tags: [  ]
 actualPrice: 72.68 EUR
 currency: EUR

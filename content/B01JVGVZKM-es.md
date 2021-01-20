@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JVGVZKM-es Juego de pinceles con estuche de viaje: 5 cepillos de...'
+sku: 'B01JVGVZKM-es'
 tags: [  ]
 actualPrice: 33.69 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CBME1U4-es Funko - Pop! Vinilo Colección Dragonball Z - Figura Majin...'
+sku: 'B01CBME1U4-es'
 tags: [  ]
 actualPrice: 8.25 EUR
 currency: EUR

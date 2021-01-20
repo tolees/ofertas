@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KT5ZZ8L-es DC-77 16MP 4X Zoom Videocámara Digital de Alta definición...'
+sku: 'B07KT5ZZ8L-es'
 tags: [  ]
 actualPrice: 15.13 EUR
 currency: EUR

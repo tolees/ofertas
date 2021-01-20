@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XZ78SYB-es Auriculares Inalámbricos Bluetooth 5.0 SoundPEATS...'
+sku: 'B07XZ78SYB-es'
 tags: [  ]
 actualPrice: 23.84 EUR
 currency: EUR

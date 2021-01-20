@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082N13MND-es Adiós BD [Blu-ray]'
+sku: 'B082N13MND-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

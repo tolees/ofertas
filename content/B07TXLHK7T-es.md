@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXLHK7T-es Funko- Pop Animation: Speed Racer X Collectible Toy...'
+sku: 'B07TXLHK7T-es'
 tags: [  ]
 actualPrice: 6.54 EUR
 currency: EUR

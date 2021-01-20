@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BQCQHW6-es Mr. Robot - Temporada 3 [Blu-ray]'
+sku: 'B07BQCQHW6-es'
 tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YXYR78Y-es Guess Piumino Modello Histy W94L85 WC4V0 G72G W94L85 WC4V0 M'
+sku: 'B07YXYR78Y-es'
 tags: [  ]
 actualPrice: 149.0 EUR
 currency: EUR

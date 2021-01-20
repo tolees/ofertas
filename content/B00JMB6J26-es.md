@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JMB6J26-es Yazilind elegante 14K Gold Filled embutido cúbico del...'
+sku: 'B00JMB6J26-es'
 tags: [  ]
 actualPrice: 1.31 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PGSWBR6-es Camiseta de manga corta con cuello en V para mujer varios...'
+sku: 'B00PGSWBR6-es'
 tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR

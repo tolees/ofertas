@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZN3KCH-es Funko- Pop Vinyl: Movie Moment 80th: Batman and Joker 1989...'
+sku: 'B07MZN3KCH-es'
 tags: [  ]
 actualPrice: 22.63 EUR
 currency: EUR

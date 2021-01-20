@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QJYQNHK-es Digital Mini Timer Loud Alarm Clock Self Standing Magnetic...'
+sku: 'B07QJYQNHK-es'
 tags: [  ]
 actualPrice: 13.59 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RNQ5RN-es Columbia Drainmaker IV Zapatillas Hombres Black Black Lux...'
+sku: 'B073RNQ5RN-es'
 tags: [  ]
 actualPrice: 55.99 EUR
 currency: EUR

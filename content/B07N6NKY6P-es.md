@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N6NKY6P-es Tommy Hilfiger Legging Tanga Azul Blue 416 Talla única...'
+sku: 'B07N6NKY6P-es'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

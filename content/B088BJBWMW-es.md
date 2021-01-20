@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088BJBWMW-es morpilot Batería 14.4V 2600mah Litio Compatible con Conga...'
+sku: 'B088BJBWMW-es'
 tags: [  ]
 actualPrice: 19.54 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DHDHLYQ-es AVerMedia Live Gamer Ultra Capturadora de vídeo y de...'
+sku: 'B07DHDHLYQ-es'
 tags: [  ]
 actualPrice: 179.9 EUR
 currency: EUR

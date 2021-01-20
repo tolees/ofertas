@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QZGM1RP-es Espejo de Maquillaje Morpilot Espejo de Aumento 1x/5x con...'
+sku: 'B07QZGM1RP-es'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

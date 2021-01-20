@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WVYZV58-es Mástil de Antena-Antena TV Interior/Exterior de Alta...'
+sku: 'B07WVYZV58-es'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078BMKQRB-es TACKLIFE Papeles de Lija de 40 Piezas 40 80 120 240 Granos...'
+sku: 'B078BMKQRB-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

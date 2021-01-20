@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SBVQF92-es PUMA Flyer Modern Zapatillas de Running Unisex-Adulto...'
+sku: 'B07SBVQF92-es'
 tags: [  ]
 actualPrice: 32.51 EUR
 currency: EUR

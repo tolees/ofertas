@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y8R7F7Y-es Jack & Jones Jorbrandon Sweat Hood Capucha Azul Navy...'
+sku: 'B07Y8R7F7Y-es'
 tags: [  ]
 actualPrice: 13.43 EUR
 currency: EUR

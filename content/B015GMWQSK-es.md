@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015GMWQSK-es ETEKCITY EHS-18 Báscula de Equipaje Digital con Gancho...'
+sku: 'B015GMWQSK-es'
 tags: [  ]
 actualPrice: 10.96 EUR
 currency: EUR

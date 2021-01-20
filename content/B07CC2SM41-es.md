@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CC2SM41-es Spyro Reignited Trilogy'
+sku: 'B07CC2SM41-es'
 tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR

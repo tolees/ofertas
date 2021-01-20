@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076QF7M6J-es Tiny Love Take-Along Mobile Carrousel cuna rosa bebé y...'
+sku: 'B076QF7M6J-es'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

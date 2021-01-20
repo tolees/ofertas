@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XR2SPQY-es Marca Amazon - FIND Shoe Boot Botas Marrón Chocolate Croc...'
+sku: 'B07XR2SPQY-es'
 tags: [  ]
 actualPrice: 6.17 EUR
 currency: EUR

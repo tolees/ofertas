@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074JF32NW-es Air Wick Essential Mist - Aparato y recambio de...'
+sku: 'B074JF32NW-es'
 tags: [  ]
 actualPrice: 10.95 EUR
 currency: EUR

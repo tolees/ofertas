@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MRG93QT-es Jata Hogar Mod. 773 Balanza de Cocina de Gran precisión...'
+sku: 'B01MRG93QT-es'
 tags: [  ]
 actualPrice: 18.23 EUR
 currency: EUR

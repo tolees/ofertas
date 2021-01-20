@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BYBCNDA-es 700 Pegatinas de Huellas de Animal con Patrol'
+sku: 'B01BYBCNDA-es'
 tags: [  ]
 actualPrice: 2.99 EUR
 currency: EUR

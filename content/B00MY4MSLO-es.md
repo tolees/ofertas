@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MY4MSLO-es Clarks Originals Boot Botas Desert para Mujer Beige Sand...'
+sku: 'B00MY4MSLO-es'
 tags: [  ]
 actualPrice: 24.51 EUR
 currency: EUR

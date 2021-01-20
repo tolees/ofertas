@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NYB3HMC-es Satechi Ratón Bluetooth M1 Inalámbrico de Aluminio -...'
+sku: 'B07NYB3HMC-es'
 tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR

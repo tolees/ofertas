@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0812Z4TRB-es Gancho de jardín de infantes Fibra de bambú Cuadrado...'
+sku: 'B0812Z4TRB-es'
 tags: [  ]
 actualPrice: 3.36 EUR
 currency: EUR

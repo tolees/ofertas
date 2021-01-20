@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078W3KT6D-es Vans Filmore Zapatillas para Hombre Negro Suede/canvas...'
+sku: 'B078W3KT6D-es'
 tags: [  ]
 actualPrice: 46.89 EUR
 currency: EUR

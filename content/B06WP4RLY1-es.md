@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WP4RLY1-es adidas Altasport CF I Zapatillas Unisex Niños Blanco...'
+sku: 'B06WP4RLY1-es'
 tags: [  ]
 actualPrice: 10.01 EUR
 currency: EUR

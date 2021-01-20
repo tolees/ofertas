@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JHXHPYM-es dodocool Soporte Auriculares para Cascos Gaming Headphone...'
+sku: 'B07JHXHPYM-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

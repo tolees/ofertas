@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZPR7Y6-es Pepe Jeans London Koko Archi Zapatillas Altas para Mujer...'
+sku: 'B07MZPR7Y6-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JVY3BJG-es Skechers Men s Flex Advantage 3.0- Stally Trainers Black...'
+sku: 'B07JVY3BJG-es'
 tags: [  ]
 actualPrice: 49.0 EUR
 currency: EUR

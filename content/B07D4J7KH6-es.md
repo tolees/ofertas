@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D4J7KH6-es CooSpo Zwift Ant - Adaptador de Receptor USB para Garmin...'
+sku: 'B07D4J7KH6-es'
 tags: [  ]
 actualPrice: 18.3 EUR
 currency: EUR

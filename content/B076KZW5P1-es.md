@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076KZW5P1-es find. Cazadora Bomber Mujer Rosa Pink Black Mix 36 Talla...'
+sku: 'B076KZW5P1-es'
 tags: [  ]
 actualPrice: 16.5 EUR
 currency: EUR

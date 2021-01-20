@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CVBSC96-es FIND - Free Spirit Líquido de labios mate n.1 + Brillo de...'
+sku: 'B07CVBSC96-es'
 tags: [  ]
 actualPrice: 2.83 EUR
 currency: EUR

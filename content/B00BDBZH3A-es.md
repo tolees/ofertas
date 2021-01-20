@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BDBZH3A-es Thermaltake SMART SE 630W Alimentación'
+sku: 'B00BDBZH3A-es'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

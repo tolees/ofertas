@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M7CPVK6-es Skechers Dynamight 2.0- Rayhill Men s Trainers Black...'
+sku: 'B07M7CPVK6-es'
 tags: [  ]
 actualPrice: 27.48 EUR
 currency: EUR

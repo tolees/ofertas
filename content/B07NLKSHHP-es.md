@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NLKSHHP-es Versace Jeans CouturePortafoglioMujerCarterasRojo Rosso 2...'
+sku: 'B07NLKSHHP-es'
 tags: [  ]
 actualPrice: 128.13 EUR
 currency: EUR

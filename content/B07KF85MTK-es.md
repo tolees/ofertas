@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KF85MTK-es Levi s Housemark Polo Azul Sodalite Blue 0092 Medium para...'
+sku: 'B07KF85MTK-es'
 tags: [  ]
 actualPrice: 24.5 EUR
 currency: EUR

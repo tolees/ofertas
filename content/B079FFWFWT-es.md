@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079FFWFWT-es VENUS ComfortGlide Spa Breeze Maquinilla 2 en 1 + 3...'
+sku: 'B079FFWFWT-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

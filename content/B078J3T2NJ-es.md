@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078J3T2NJ-es Maybelline New York Master Chrome - Polvos Iluminadores...'
+sku: 'B078J3T2NJ-es'
 tags: [  ]
 actualPrice: 6.66 EUR
 currency: EUR

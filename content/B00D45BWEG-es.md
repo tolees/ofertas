@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00D45BWEG-es Mousehouse Gifts Caja Mediana con Juego de libreta y...'
+sku: 'B00D45BWEG-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

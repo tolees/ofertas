@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N39HV4L-es Reebok Classic Leather Zapatillas para Mujer Blanco...'
+sku: 'B07N39HV4L-es'
 tags: [  ]
 actualPrice: 47.85 EUR
 currency: EUR

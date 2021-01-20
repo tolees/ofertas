@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KQPJNXT-es Salomon XA Discovery GTX Zapatillas de Trail Running para...'
+sku: 'B07KQPJNXT-es'
 tags: [  ]
 actualPrice: 46.16 EUR
 currency: EUR

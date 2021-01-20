@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002KXH0WG-es Alligator 3093 Cortador de Fruta Verdura y Cebolla...'
+sku: 'B002KXH0WG-es'
 tags: [  ]
 actualPrice: 80.37 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007UY3GMI-es Just Watches 48-S3455-Bk-BK - Reloj analógico de Cuarzo...'
+sku: 'B007UY3GMI-es'
 tags: [  ]
 actualPrice: 41.18 EUR
 currency: EUR

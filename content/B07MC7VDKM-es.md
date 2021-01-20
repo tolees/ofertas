@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MC7VDKM-es Microsoft Surface Laptop 2 - Ordenador portátil ultrafino...'
+sku: 'B07MC7VDKM-es'
 tags: [  ]
 actualPrice: 788.02 EUR
 currency: EUR

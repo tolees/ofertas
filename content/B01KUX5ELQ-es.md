@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KUX5ELQ-es Reebok Cuerda Saltar'
+sku: 'B01KUX5ELQ-es'
 tags: [  ]
 actualPrice: 3.98 EUR
 currency: EUR

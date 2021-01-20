@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LYP5UV9-es PARKER IM pluma estilográfica azul mate con plumín fino y...'
+sku: 'B01LYP5UV9-es'
 tags: [  ]
 actualPrice: 30.0 EUR
 currency: EUR

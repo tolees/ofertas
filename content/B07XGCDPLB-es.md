@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XGCDPLB-es Blindecor Lira Estor Enrollable de Doble Capa Noche y Día...'
+sku: 'B07XGCDPLB-es'
 tags: [  ]
 actualPrice: 31.83 EUR
 currency: EUR

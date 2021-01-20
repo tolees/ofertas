@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S6GWB6D-es Amerigo Whisky Stones Gift Set - ¿Aguar tu Whisky? Nunca...'
+sku: 'B07S6GWB6D-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

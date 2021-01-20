@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GIZN5KC-es MAPUX Soporte Movil Coche Soporte para Móvil Coche para...'
+sku: 'B01GIZN5KC-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

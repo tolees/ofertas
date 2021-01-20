@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086JVY8GG-es HACR Bolsa Protectora desechable 50 Piezas por Bolsa 3...'
+sku: 'B086JVY8GG-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

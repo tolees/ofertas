@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RWN3X2X-es American Tourister Matchup Equipaje de Mano 55 centimetros...'
+sku: 'B07RWN3X2X-es'
 tags: [  ]
 actualPrice: 59.0 EUR
 currency: EUR

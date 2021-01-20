@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005FJSVV6-es Epson C13T70144010 - Cartucho de tinta amarillo'
+sku: 'B005FJSVV6-es'
 tags: [  ]
 actualPrice: 34.3 EUR
 currency: EUR

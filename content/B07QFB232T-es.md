@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QFB232T-es Puckator FRUTITOSCOM - Taza - Game Over con asa en Forma...'
+sku: 'B07QFB232T-es'
 tags: [  ]
 actualPrice: 5.25 EUR
 currency: EUR

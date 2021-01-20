@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVVDZMT-es Skechers Moreno Zapatillas para Hombre Azul Navy Mesh Nvy...'
+sku: 'B07TVVDZMT-es'
 tags: [  ]
 actualPrice: 44.76 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BSBK3L8-es BLESSUME Mujer Cordón infinito católico Capilla Velo latín...'
+sku: 'B07BSBK3L8-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

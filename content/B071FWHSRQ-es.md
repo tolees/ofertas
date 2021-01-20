@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071FWHSRQ-es adidas Campus Zapatillas de Deporte para Hombre Azul...'
+sku: 'B071FWHSRQ-es'
 tags: [  ]
 actualPrice: 67.46 EUR
 currency: EUR

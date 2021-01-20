@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000BMZHXW-es HP Q7581A - Cartucho de tóner'
+sku: 'B000BMZHXW-es'
 tags: [  ]
 actualPrice: 49.12 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QF9RQJR-es PUMA Modern Sport Leggings Mallas Deporte Mujer Black L'
+sku: 'B07QF9RQJR-es'
 tags: [  ]
 actualPrice: 24.49 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V8JPK1Y-es deAO Lanzador de Cohetes Infantil Salta y Lanza Cohetes...'
+sku: 'B07V8JPK1Y-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

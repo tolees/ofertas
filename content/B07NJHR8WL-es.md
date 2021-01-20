@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJHR8WL-es Tamaris 1-1-25537-23 Botas Mosqueteras para Mujer Rojo...'
+sku: 'B07NJHR8WL-es'
 tags: [  ]
 actualPrice: 18.71 EUR
 currency: EUR

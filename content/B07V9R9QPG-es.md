@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V9R9QPG-es SunneSolar - Panel Solar de Policristalino con 60 células...'
+sku: 'B07V9R9QPG-es'
 tags: [  ]
 actualPrice: 125.52 EUR
 currency: EUR

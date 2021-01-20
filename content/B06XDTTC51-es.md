@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XDTTC51-es Grohe 30 294 DC0 30294DC0-Essence Grifo Cocina...'
+sku: 'B06XDTTC51-es'
 tags: [  ]
 actualPrice: 428.41 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V489KXW-es FCB FC Barcelona Equipaje Niños Unisex Azul Marino 21x8x6'
+sku: 'B07V489KXW-es'
 tags: [  ]
 actualPrice: 6.71 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B6JMXB4-es Tommy Hilfiger X Sujetador estilo bralette Negro Black 990...'
+sku: 'B07B6JMXB4-es'
 tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VHKB3RL-es Jack & Jones Jjeliam Knit Crew Neck Noos suéter Verde...'
+sku: 'B07VHKB3RL-es'
 tags: [  ]
 actualPrice: 10.4 EUR
 currency: EUR

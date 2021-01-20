@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZCZST6V-es Brillos corporales Purpurinas Polvo Purpurina para Cara...'
+sku: 'B07ZCZST6V-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

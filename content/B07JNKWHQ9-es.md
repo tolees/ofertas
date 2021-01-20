@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JNKWHQ9-es Cecotec Ready Warm 6600 Turbo Convection Plus - Convector...'
+sku: 'B07JNKWHQ9-es'
 tags: [  ]
 actualPrice: 25.78 EUR
 currency: EUR

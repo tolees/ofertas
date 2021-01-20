@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082YQYKDH-es Oihxse Colorido Gradual Cristal Estilo Case Compatible con...'
+sku: 'B082YQYKDH-es'
 tags: [  ]
 actualPrice: 9.98 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MCBF51Y-es Seiko Reloj Analógico para Hombre de Energía Solar con...'
+sku: 'B00MCBF51Y-es'
 tags: [  ]
 actualPrice: 129.42 EUR
 currency: EUR

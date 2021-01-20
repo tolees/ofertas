@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0886JPML1-es aZengear Calcetines de Compresión para Hombres y Mujeres -...'
+sku: 'B0886JPML1-es'
 tags: [  ]
 actualPrice: 14.98 EUR
 currency: EUR

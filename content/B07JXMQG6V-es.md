@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JXMQG6V-es Chantelle DE Pyramide Sujetador Beige Champagner NL 85D...'
+sku: 'B07JXMQG6V-es'
 tags: [  ]
 actualPrice: 30.27 EUR
 currency: EUR

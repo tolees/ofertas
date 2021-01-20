@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083HWWGPN-es Ritokme Auriculares intrauditivos inalámbricos estéreo...'
+sku: 'B083HWWGPN-es'
 tags: [  ]
 actualPrice: 31.63 EUR
 currency: EUR

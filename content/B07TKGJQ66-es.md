@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TKGJQ66-es BESTWAY 58424 - Cobertor Invierno para Piscina Desmontable...'
+sku: 'B07TKGJQ66-es'
 tags: [  ]
 actualPrice: 16.02 EUR
 currency: EUR

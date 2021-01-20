@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NLLF6SK-es Versace Jeans CoutureBorsaMujerBolsos mochilaMorado...'
+sku: 'B07NLLF6SK-es'
 tags: [  ]
 actualPrice: 86.0 EUR
 currency: EUR

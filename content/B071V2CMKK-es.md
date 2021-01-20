@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071V2CMKK-es Arena Magnus Bañador Hombre Azul Blue Navy 100'
+sku: 'B071V2CMKK-es'
 tags: [  ]
 actualPrice: 17.91 EUR
 currency: EUR

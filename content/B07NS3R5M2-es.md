@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NS3R5M2-es BERSIGAR Negocio de los Hombres Casual Cronógrafo Cuarzo...'
+sku: 'B07NS3R5M2-es'
 tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR

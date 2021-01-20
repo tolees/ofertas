@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFDPJVD-es USB Recargable Calentador De Manos 6000 mAh Banco De...'
+sku: 'B07KFDPJVD-es'
 tags: [  ]
 actualPrice: 9.19 EUR
 currency: EUR

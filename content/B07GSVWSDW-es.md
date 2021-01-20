@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GSVWSDW-es Trimming Shop Filtro de Aspirador Dyson DC37 DC33C DC39...'
+sku: 'B07GSVWSDW-es'
 tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR

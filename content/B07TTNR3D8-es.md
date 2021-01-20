@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TTNR3D8-es Olay Total Effects 7 en 1 Crema Transformadora de Ojos -...'
+sku: 'B07TTNR3D8-es'
 tags: [  ]
 actualPrice: 8.48 EUR
 currency: EUR

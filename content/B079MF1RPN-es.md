@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079MF1RPN-es QH-Shop Mosquitera Puertas Mosquitera Magnética Automático...'
+sku: 'B079MF1RPN-es'
 tags: [  ]
 actualPrice: 7.0 EUR
 currency: EUR

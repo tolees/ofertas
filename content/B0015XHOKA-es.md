@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0015XHOKA-es DeBuyer Comprador De Mini automático del pistón Embudo 0 8...'
+sku: 'B0015XHOKA-es'
 tags: [  ]
 actualPrice: 38.08 EUR
 currency: EUR

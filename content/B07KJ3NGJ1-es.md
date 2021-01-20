@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KJ3NGJ1-es ASICS Gel-Game 7 Clay/OC Zapatillas de Tenis para Mujer...'
+sku: 'B07KJ3NGJ1-es'
 tags: [  ]
 actualPrice: 32.45 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PZP2H71-es Taurus fresko 5b ventilador de techo con luz y mando a...'
+sku: 'B07PZP2H71-es'
 tags: [  ]
 actualPrice: 116.0 EUR
 currency: EUR

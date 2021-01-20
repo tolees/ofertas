@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087F1VQGS-es Naruto Sudaderas con Capucha de Manga Larga de otoño...'
+sku: 'B087F1VQGS-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MX1TFJQ-es The Division 2'
+sku: 'B07MX1TFJQ-es'
 tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR

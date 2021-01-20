@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MYUGOGM-es adidas Vs Pace Zapatillas para Hombre Azul Collegiate...'
+sku: 'B01MYUGOGM-es'
 tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VGN2X5X-es TACKLIFE - Juego de taladros profesionales 110 piezas con...'
+sku: 'B07VGN2X5X-es'
 tags: [  ]
 actualPrice: 13.49 EUR
 currency: EUR

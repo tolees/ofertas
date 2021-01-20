@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XPNG1F3-es Jevogh GR28D Parte de Repuesto para Coche'
+sku: 'B07XPNG1F3-es'
 tags: [  ]
 actualPrice: 26.7 EUR
 currency: EUR

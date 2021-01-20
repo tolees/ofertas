@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XCJR4KJ-es Susan Y Regalos para Mujer San valentín Pulsera Mujer...'
+sku: 'B07XCJR4KJ-es'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

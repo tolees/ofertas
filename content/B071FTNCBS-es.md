@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071FTNCBS-es Reebok Club C 85 Melted Metal Zapatillas de Deporte para...'
+sku: 'B071FTNCBS-es'
 tags: [  ]
 actualPrice: 59.0 EUR
 currency: EUR

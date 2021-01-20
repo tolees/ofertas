@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0711SFLJR-es Candado Fortlocks – Candado De Combinación De 4 Dígitos...'
+sku: 'B0711SFLJR-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

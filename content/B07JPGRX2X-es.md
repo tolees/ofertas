@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JPGRX2X-es VSADEY Aceites Esenciales Aromaterapia Aceites Esenciales...'
+sku: 'B07JPGRX2X-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

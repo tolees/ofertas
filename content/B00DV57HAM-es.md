@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DV57HAM-es Superga Classic Zapatillas para Mujer Amarillo Yellow...'
+sku: 'B00DV57HAM-es'
 tags: [  ]
 actualPrice: 12.12 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T28L2CG-es B Blesiya Reloj de Tiempo de Contador Cuenta Atrás con...'
+sku: 'B07T28L2CG-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

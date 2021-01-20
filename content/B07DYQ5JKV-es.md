@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DYQ5JKV-es Superga 2730-cotropew Zapatillas de Gimnasia para Mujer...'
+sku: 'B07DYQ5JKV-es'
 tags: [  ]
 actualPrice: 42.45 EUR
 currency: EUR

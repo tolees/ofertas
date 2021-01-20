@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BQCSSVM-es Wella Cuidado del pelo y del cuero cabelludo - 1 unidad'
+sku: 'B07BQCSSVM-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

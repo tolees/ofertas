@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BCHCNLN-es Kayboo Memoria USB 512GB Pendrive Mental USB Memory Stick...'
+sku: 'B08BCHCNLN-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00R10ZUWU-es Gillette Fusion ProGlide - Cuchillas de recambio para...'
+sku: 'B00R10ZUWU-es'
 tags: [  ]
 actualPrice: 24.09 EUR
 currency: EUR

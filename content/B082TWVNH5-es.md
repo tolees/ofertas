@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082TWVNH5-es ValueHall Coronas Perforadoras 19 PCS Juego de Coronas...'
+sku: 'B082TWVNH5-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

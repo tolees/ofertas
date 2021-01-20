@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG39MWP-es PUMA Cell Plasmic WN S Zapatillas Deportivas para Interior...'
+sku: 'B07KG39MWP-es'
 tags: [  ]
 actualPrice: 32.45 EUR
 currency: EUR

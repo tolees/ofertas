@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DM4Y9TZ-es Salter BW06667W - Cubo de Basura Rectangular con Pedal de...'
+sku: 'B07DM4Y9TZ-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CQY3QLS-es TOSING 008 Micrófono de Karaoke Inalámbrico Bluetooth...'
+sku: 'B07CQY3QLS-es'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

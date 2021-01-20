@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N1F57QL-es L Oréal Paris Colorista Coloración Temporal Colorista...'
+sku: 'B01N1F57QL-es'
 tags: [  ]
 actualPrice: 2.39 EUR
 currency: EUR

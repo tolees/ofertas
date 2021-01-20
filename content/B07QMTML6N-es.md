@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QMTML6N-es Asics Gel-Cumulus 21 G-TX Zapatillas de Running para Mujer...'
+sku: 'B07QMTML6N-es'
 tags: [  ]
 actualPrice: 109.59 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001V1RDXO-es Gum Cepillo de Dientes 40 unidades'
+sku: 'B001V1RDXO-es'
 tags: [  ]
 actualPrice: 3.55 EUR
 currency: EUR

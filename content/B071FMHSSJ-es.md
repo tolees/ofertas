@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071FMHSSJ-es Olivares de Altomira Aceite Oliva Virgen Extra 500 ml -...'
+sku: 'B071FMHSSJ-es'
 tags: [  ]
 actualPrice: 6.69 EUR
 currency: EUR

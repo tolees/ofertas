@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LRKUKLA-es atFoliX Lámina Protectora de plástico Cristal Compatible...'
+sku: 'B01LRKUKLA-es'
 tags: [  ]
 actualPrice: 5.39 EUR
 currency: EUR

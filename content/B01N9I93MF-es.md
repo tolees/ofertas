@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N9I93MF-es Mando Distancia Universal Para la Mayoría TV Televisores...'
+sku: 'B01N9I93MF-es'
 tags: [  ]
 actualPrice: 6.0 EUR
 currency: EUR

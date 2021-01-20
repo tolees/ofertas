@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R412YLW-es JACK & JONES Jfwalbany Leather Botas Estilo Motero para...'
+sku: 'B07R412YLW-es'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

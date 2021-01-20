@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TCJ42HL-es ProbioMax X7 [60 billones de CFU] | Fórmula única de...'
+sku: 'B07TCJ42HL-es'
 tags: [  ]
 actualPrice: 12.55 EUR
 currency: EUR

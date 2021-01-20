@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NZY5B5W-es Skechers Uno- Stacre Zapatillas para Hombre Marfil...'
+sku: 'B07NZY5B5W-es'
 tags: [  ]
 actualPrice: 33.39 EUR
 currency: EUR

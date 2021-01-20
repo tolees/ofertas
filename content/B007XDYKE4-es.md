@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007XDYKE4-es Targus Classic+ - Funda de 15-15.6" color negro'
+sku: 'B007XDYKE4-es'
 tags: [  ]
 actualPrice: 18.44 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00F3U9N2S-es Iron Man 2 [DVD]'
+sku: 'B00F3U9N2S-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

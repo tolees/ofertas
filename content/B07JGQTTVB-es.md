@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JGQTTVB-es Skechers Girls DYNA-AIR-JUMP BRIGHTS Trainers Black Black...'
+sku: 'B07JGQTTVB-es'
 tags: [  ]
 actualPrice: 25.76 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZJPZPP-es Under Armour Playoff 2.0 Polo Hombre Negro Black/Pitch...'
+sku: 'B07CZJPZPP-es'
 tags: [  ]
 actualPrice: 25.44 EUR
 currency: EUR

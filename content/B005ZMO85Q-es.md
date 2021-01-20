@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005ZMO85Q-es AEG HTD 5595 - Secador de pelo profesional con difusor 3...'
+sku: 'B005ZMO85Q-es'
 tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR

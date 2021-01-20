@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HBCSKJS-es Khanomak de Mujer de Manga Larga básica de Cuello V Crop...'
+sku: 'B07HBCSKJS-es'
 tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR

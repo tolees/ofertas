@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071ZFVQYB-es Banana Boat KIDS Advanced Protection - Crema solar en...'
+sku: 'B071ZFVQYB-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

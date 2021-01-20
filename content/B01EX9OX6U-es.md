@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EX9OX6U-es LEDKIA LIGHTING Placa LED Circular SuperSlim 18W Silver...'
+sku: 'B01EX9OX6U-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

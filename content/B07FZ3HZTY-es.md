@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FZ3HZTY-es Kipling - Fundamental Nc Mochilas Mujer Azul Lively Navy'
+sku: 'B07FZ3HZTY-es'
 tags: [  ]
 actualPrice: 37.5 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WVTVJ8K-es Lámpara de Techo Moderna Tomshine 24W 169 Piezas * 2835...'
+sku: 'B07WVTVJ8K-es'
 tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR

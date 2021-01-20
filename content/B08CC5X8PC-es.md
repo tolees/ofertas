@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CC5X8PC-es Compatible para Samsung Galaxy Note 10 Lite Silicone Case...'
+sku: 'B08CC5X8PC-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

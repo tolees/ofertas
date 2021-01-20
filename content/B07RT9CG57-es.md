@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RT9CG57-es CESFONJER 10 Metros Tubo de Agua Blanco 1/4" 6.3 mm Kit de...'
+sku: 'B07RT9CG57-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

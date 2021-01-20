@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078GQPKVK-es NutriBullet NB90928R Extractor de nutrientes original con...'
+sku: 'B078GQPKVK-es'
 tags: [  ]
 actualPrice: 85.75 EUR
 currency: EUR

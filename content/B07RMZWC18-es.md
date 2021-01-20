@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RMZWC18-es Casio Reloj Mujer de Digital con Correa en Acero...'
+sku: 'B07RMZWC18-es'
 tags: [  ]
 actualPrice: 48.51 EUR
 currency: EUR

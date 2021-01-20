@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AS6QCVG-es Swatch Reloj Digital para Hombre de Cuarzo con Correa en...'
+sku: 'B01AS6QCVG-es'
 tags: [  ]
 actualPrice: 86.1 EUR
 currency: EUR

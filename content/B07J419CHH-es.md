@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J419CHH-es Diesel Reloj Cronógrafo para Hombre de Cuarzo con Correa...'
+sku: 'B07J419CHH-es'
 tags: [  ]
 actualPrice: 180.0 EUR
 currency: EUR

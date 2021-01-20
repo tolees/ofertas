@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YYBWJGN-es American Tourister Equipaje Infantil Logotipo de Marvel S...'
+sku: 'B07YYBWJGN-es'
 tags: [  ]
 actualPrice: 84.03 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJ6QWW7-es Espirulina ecológica en Comprimidos Premium Carefood para...'
+sku: 'B07NJ6QWW7-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

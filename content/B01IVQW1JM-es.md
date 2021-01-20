@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IVQW1JM-es One For All WM4421 Soporte de pared para TV de 32 a 60"...'
+sku: 'B01IVQW1JM-es'
 tags: [  ]
 actualPrice: 17.44 EUR
 currency: EUR

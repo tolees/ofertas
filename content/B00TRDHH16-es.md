@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TRDHH16-es Funko - Estatuilla de Disney Cars - Doc Hudson Pop 10cm -...'
+sku: 'B00TRDHH16-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

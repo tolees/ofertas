@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STW3SSN-es Quiksilver Espadrilled Alpargata para Hombre Verde...'
+sku: 'B07STW3SSN-es'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KVVFYYY-es Samsung Galaxy S10 Tim Prism Green 6 1" 512gb Dual Sim'
+sku: 'B07KVVFYYY-es'
 tags: [  ]
 actualPrice: 816.9 EUR
 currency: EUR

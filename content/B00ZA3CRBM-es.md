@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ZA3CRBM-es Aussie Repair Miracle Champú su Fórmula Milagrosa Llena de...'
+sku: 'B00ZA3CRBM-es'
 tags: [  ]
 actualPrice: 4.36 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HK7YQS7-es Amazon Essentials - Cazadora ligera para hombre Azul...'
+sku: 'B07HK7YQS7-es'
 tags: [  ]
 actualPrice: 17.25 EUR
 currency: EUR

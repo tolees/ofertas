@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WBZ4D7H-es Sábana encimera colcha de belleza sábanas lavables colcha...'
+sku: 'B07WBZ4D7H-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

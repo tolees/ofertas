@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076PM1GSK-es Scholl Lima Electrónica de Pies Rosa y 2 Pintauñas de...'
+sku: 'B076PM1GSK-es'
 tags: [  ]
 actualPrice: 28.0 EUR
 currency: EUR

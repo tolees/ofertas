@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NZV3JBG-es Laken Unisex - Adultos Classic Aluminio Azul Claro 0 75...'
+sku: 'B07NZV3JBG-es'
 tags: [  ]
 actualPrice: 8.55 EUR
 currency: EUR

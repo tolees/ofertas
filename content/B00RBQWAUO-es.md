@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00RBQWAUO-es Dolce & Gabbana - Pour Homme Intenso Eau De Perfume Spray...'
+sku: 'B00RBQWAUO-es'
 tags: [  ]
 actualPrice: 64.32 EUR
 currency: EUR

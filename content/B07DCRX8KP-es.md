@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DCRX8KP-es Bluetooth 5.0 Transmisor y Receptor | TV Bluetooth...'
+sku: 'B07DCRX8KP-es'
 tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR

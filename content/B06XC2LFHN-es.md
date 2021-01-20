@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XC2LFHN-es Funko Pop! - Dolores Abernathy Figura de Vinilo seria...'
+sku: 'B06XC2LFHN-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

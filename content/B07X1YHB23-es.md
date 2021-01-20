@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X1YHB23-es Yves Saint Laurent YSL Libre EPV 50 ml'
+sku: 'B07X1YHB23-es'
 tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR

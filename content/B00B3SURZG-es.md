@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00B3SURZG-es BRA Terra - Sartén 18 cm aluminio fundido con...'
+sku: 'B00B3SURZG-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

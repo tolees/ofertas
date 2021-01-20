@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TQWGZDH-es Clarks Sift Lace Zapatillas para Mujer Blanco White Combi...'
+sku: 'B07TQWGZDH-es'
 tags: [  ]
 actualPrice: 28.01 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JJ77RWS-es Reebok Classic Leather Zapatillas Mujer Negro Int / Black...'
+sku: 'B01JJ77RWS-es'
 tags: [  ]
 actualPrice: 25.73 EUR
 currency: EUR

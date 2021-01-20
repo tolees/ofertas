@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QPFJ89D-es New Balance Wl574 - Zapatillas para Mujer Black/White 36.5 EU'
+sku: 'B07QPFJ89D-es'
 tags: [  ]
 actualPrice: 49.95 EUR
 currency: EUR

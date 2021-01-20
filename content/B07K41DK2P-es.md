@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K41DK2P-es Funda para Moto Scooter XXL Cubierta de Moto Impermeable...'
+sku: 'B07K41DK2P-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

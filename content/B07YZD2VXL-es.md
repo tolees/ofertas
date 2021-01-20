@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YZD2VXL-es Casco Moto Modular SPEEDWAY con ECE y DOT Homologado -...'
+sku: 'B07YZD2VXL-es'
 tags: [  ]
 actualPrice: 69.0 EUR
 currency: EUR

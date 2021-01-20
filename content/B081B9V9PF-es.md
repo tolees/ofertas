@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081B9V9PF-es KROM Knout XL RGB - NXKROMKNTXLRGB - Alfombrilla Gaming XL...'
+sku: 'B081B9V9PF-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

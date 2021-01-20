@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GTDYKJK-es GERUIKE Estante Ducha Rinconera Ducha Estanteria Baño...'
+sku: 'B07GTDYKJK-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

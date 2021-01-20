@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07574TYWW-es Bowers & Wilkins PX - Auriculares inalámbricos con...'
+sku: 'B07574TYWW-es'
 tags: [  ]
 actualPrice: 265.98 EUR
 currency: EUR

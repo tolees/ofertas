@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XYLY4HM-es find. 53669 Chaqueta Para Mujer Azul Mid Blue X-Large'
+sku: 'B06XYLY4HM-es'
 tags: [  ]
 actualPrice: 15 EUR
 currency: EUR

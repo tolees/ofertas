@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076HPB8HC-es Adidas Core18 3/4 Pnt Sport Trousers Hombre black/white M'
+sku: 'B076HPB8HC-es'
 tags: [  ]
 actualPrice: 9.01 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C2V8M6K-es Brica by Munchkin Espejo de coche Baby In-Sight...'
+sku: 'B07C2V8M6K-es'
 tags: [  ]
 actualPrice: 43.19 EUR
 currency: EUR

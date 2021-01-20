@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VK8BCV7-es TECHGEAR Funda Compatible con iPad Pro 11" 2018 [Apple...'
+sku: 'B07VK8BCV7-es'
 tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR

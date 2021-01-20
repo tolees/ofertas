@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NRTDTHX-es Vis a vis - Serie Completa - BD [Blu-ray]'
+sku: 'B07NRTDTHX-es'
 tags: [  ]
 actualPrice: 35.78 EUR
 currency: EUR

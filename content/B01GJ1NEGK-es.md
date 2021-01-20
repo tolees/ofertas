@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GJ1NEGK-es Activ Life Luces LED Ruedas de bicis 1 Set Verde . Aporte...'
+sku: 'B01GJ1NEGK-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

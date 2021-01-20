@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CEVRCR2-es Vanguard Endeavor HD 82A - Telescopio Terrestre ED Angular...'
+sku: 'B00CEVRCR2-es'
 tags: [  ]
 actualPrice: 382.42 EUR
 currency: EUR

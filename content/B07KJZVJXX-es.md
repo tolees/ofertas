@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KJZVJXX-es Sorel Madson Hiker Waterproof Botas para Hombre Marrón...'
+sku: 'B07KJZVJXX-es'
 tags: [  ]
 actualPrice: 89.95 EUR
 currency: EUR

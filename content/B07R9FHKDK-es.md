@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R9FHKDK-es JACK & JONES Jfwduston PU Combo Botas Chukka para Hombre...'
+sku: 'B07R9FHKDK-es'
 tags: [  ]
 actualPrice: 14.94 EUR
 currency: EUR

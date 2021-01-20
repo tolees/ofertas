@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZSOD69-es Symantec Norton AntiVirus Basic Base license 1usuario s...'
+sku: 'B01LZSOD69-es'
 tags: [  ]
 actualPrice: 17.09 EUR
 currency: EUR

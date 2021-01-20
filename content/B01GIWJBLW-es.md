@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GIWJBLW-es Emblema Piaggio. 6 de Esquina Cascada para Vespa PX T5...'
+sku: 'B01GIWJBLW-es'
 tags: [  ]
 actualPrice: 5.28 EUR
 currency: EUR

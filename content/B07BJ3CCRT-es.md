@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BJ3CCRT-es Lámpara solar Luces Jardín 42 LED solares exterior foco...'
+sku: 'B07BJ3CCRT-es'
 tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JCNTMW5-es Levoit Purificador de Aire para Hogar con Filtro HEPA y...'
+sku: 'B07JCNTMW5-es'
 tags: [  ]
 actualPrice: 59.49 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y39HK6D-es Soul Projekt x 10 Almohadillas desmaquillantes...'
+sku: 'B07Y39HK6D-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

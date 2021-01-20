@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NAL8Z8D-es find. Top sin Magas de Encaje para Mujer Multicolor...'
+sku: 'B01NAL8Z8D-es'
 tags: [  ]
 actualPrice: 6.25 EUR
 currency: EUR

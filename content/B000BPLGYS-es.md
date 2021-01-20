@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000BPLGYS-es HP Q5953A - Cartucho de tóner'
+sku: 'B000BPLGYS-es'
 tags: [  ]
 actualPrice: 26.73 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BR41KH7-es ANAZOZ Pendientes Mujer Plata Pendientes Aro Mujer Plata...'
+sku: 'B08BR41KH7-es'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

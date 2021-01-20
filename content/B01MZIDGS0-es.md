@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MZIDGS0-es Serum contorno ojos 30ml con ácido hialurónico y colágeno....'
+sku: 'B01MZIDGS0-es'
 tags: [  ]
 actualPrice: 15.97 EUR
 currency: EUR

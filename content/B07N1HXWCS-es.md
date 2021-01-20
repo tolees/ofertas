@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1HXWCS-es Clarks Sheer Flora Botas Chelsea para Mujer Marrón...'
+sku: 'B07N1HXWCS-es'
 tags: [  ]
 actualPrice: 28.47 EUR
 currency: EUR

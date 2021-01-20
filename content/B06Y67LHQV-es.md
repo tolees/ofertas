@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y67LHQV-es Hosaire Funda para Disco Duro Externo 2.5" para WD Western...'
+sku: 'B06Y67LHQV-es'
 tags: [  ]
 actualPrice: 2.4 EUR
 currency: EUR

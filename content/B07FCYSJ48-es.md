@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FCYSJ48-es Baoblaze Boquilla de Pulverización de Agua Nebulización...'
+sku: 'B07FCYSJ48-es'
 tags: [  ]
 actualPrice: 1.99 EUR
 currency: EUR

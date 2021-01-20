@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WP7JK81-es LIBERRWAY Tubo Termorretráctil 615 Piezas 2: 1 Poliolefina...'
+sku: 'B06WP7JK81-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

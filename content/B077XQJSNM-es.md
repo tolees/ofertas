@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077XQJSNM-es Under Armour Sujetador Deportivo para Mujer Cross Back...'
+sku: 'B077XQJSNM-es'
 tags: [  ]
 actualPrice: 11.69 EUR
 currency: EUR

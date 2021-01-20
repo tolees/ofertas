@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XFCLLNR-es Ezfull Protector para Parabrisas Protector de Parabrisas...'
+sku: 'B07XFCLLNR-es'
 tags: [  ]
 actualPrice: 10.39 EUR
 currency: EUR

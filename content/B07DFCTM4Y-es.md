@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFCTM4Y-es Pop! Disney Mickey 90 Years - Figura de Vinilo Conductor...'
+sku: 'B07DFCTM4Y-es'
 tags: [  ]
 actualPrice: 9.85 EUR
 currency: EUR

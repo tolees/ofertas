@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0869MBBNP-es Suhctup Funda Compatible con Huawei P20 Lite Transparente...'
+sku: 'B0869MBBNP-es'
 tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR

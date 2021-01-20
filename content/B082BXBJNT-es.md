@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082BXBJNT-es En Tus Planes'
+sku: 'B082BXBJNT-es'
 tags: [  ]
 actualPrice: 9.0 EUR
 currency: EUR

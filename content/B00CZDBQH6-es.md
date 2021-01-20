@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CZDBQH6-es Spirella 5PCS Set Negro colección Pingy Alfombrilla de...'
+sku: 'B00CZDBQH6-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

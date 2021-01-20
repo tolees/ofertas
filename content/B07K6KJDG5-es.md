@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K6KJDG5-es Mini Vibrador Neo Plus super potente/Masajeador perfecto...'
+sku: 'B07K6KJDG5-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

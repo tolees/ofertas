@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B012GR9HS0-es Buff Solid Gorro Lana Merino Lightweight Unisex Adulto...'
+sku: 'B012GR9HS0-es'
 tags: [  ]
 actualPrice: 9.98 EUR
 currency: EUR

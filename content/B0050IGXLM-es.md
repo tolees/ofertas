@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0050IGXLM-es RGV LUXOR 22 - Cortafiambre'
+sku: 'B0050IGXLM-es'
 tags: [  ]
 actualPrice: 202.45 EUR
 currency: EUR

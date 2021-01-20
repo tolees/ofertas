@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0813SMZVQ-es BESTKEE Cinturón táctico para hombres 1.5 pulgadas estilo...'
+sku: 'B0813SMZVQ-es'
 tags: [  ]
 actualPrice: 16.49 EUR
 currency: EUR

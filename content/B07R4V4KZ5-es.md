@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R4V4KZ5-es Helly Hansen Classic Duffel Bolsa De Viaje Impermeable...'
+sku: 'B07R4V4KZ5-es'
 tags: [  ]
 actualPrice: 48.06 EUR
 currency: EUR

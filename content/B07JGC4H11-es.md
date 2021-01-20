@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JGC4H11-es Lacoste HH9553 Pantalones Azul Marine W28 Talla del...'
+sku: 'B07JGC4H11-es'
 tags: [  ]
 actualPrice: 52.54 EUR
 currency: EUR

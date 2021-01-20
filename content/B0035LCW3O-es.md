@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0035LCW3O-es Ardell Tratamiento para pestañas 109 Black - 25 gr.'
+sku: 'B0035LCW3O-es'
 tags: [  ]
 actualPrice: 5.09 EUR
 currency: EUR

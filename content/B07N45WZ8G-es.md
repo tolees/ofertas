@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N45WZ8G-es Paco Rabanne 58009 Xs Pure Night Eau de Parfum 100 ml'
+sku: 'B07N45WZ8G-es'
 tags: [  ]
 actualPrice: 44.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KG66OOE-es Braun 51B - Recambio para afeitadora eléctrica hombre...'
+sku: 'B00KG66OOE-es'
 tags: [  ]
 actualPrice: 23.09 EUR
 currency: EUR

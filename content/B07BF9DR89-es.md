@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BF9DR89-es Garnier Delial Sensitive Advanced - Protector Solar Facial...'
+sku: 'B07BF9DR89-es'
 tags: [  ]
 actualPrice: 8.5 EUR
 currency: EUR

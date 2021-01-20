@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJK9P44-es Clarks Un Costa Lace Zapatillas Azul Navy Leather Navy...'
+sku: 'B07TJK9P44-es'
 tags: [  ]
 actualPrice: 48.93 EUR
 currency: EUR

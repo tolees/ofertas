@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GLD2VT4-es Té Yunnan Puerh 100g 0.22LB conservas Jazmín Puer pequeño...'
+sku: 'B07GLD2VT4-es'
 tags: [  ]
 actualPrice: 6.35 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002ZN01MW-es My Day Protector Incontinencia Ultra Mini Compresas - 28...'
+sku: 'B002ZN01MW-es'
 tags: [  ]
 actualPrice: 1.15 EUR
 currency: EUR

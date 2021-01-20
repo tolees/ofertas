@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V3BXRMS-es 16V Adaptador de fuente alimentación para Canon...'
+sku: 'B07V3BXRMS-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

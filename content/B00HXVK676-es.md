@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HXVK676-es Wilson Pro Overgrip Empuñadura 30 unidades unisex blanco'
+sku: 'B00HXVK676-es'
 tags: [  ]
 actualPrice: 36.67 EUR
 currency: EUR

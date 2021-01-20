@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TSQ8W35-es Skechers Ingram Streetway Zapatillas sin Cordones para...'
+sku: 'B07TSQ8W35-es'
 tags: [  ]
 actualPrice: 32.51 EUR
 currency: EUR

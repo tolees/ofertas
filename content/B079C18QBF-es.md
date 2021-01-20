@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079C18QBF-es JACK & JONES Jjepaulos Polo SS Noos Gris Light Grey...'
+sku: 'B079C18QBF-es'
 tags: [  ]
 actualPrice: 13.0 EUR
 currency: EUR

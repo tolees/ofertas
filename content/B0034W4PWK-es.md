@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0034W4PWK-es Suvorna Professional Manicure Nail and Cuticle Pusher Tool...'
+sku: 'B0034W4PWK-es'
 tags: [  ]
 actualPrice: 8.95 EUR
 currency: EUR

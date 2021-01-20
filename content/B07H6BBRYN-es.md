@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H6BBRYN-es Medias de Compresión Gradual Para Mujer 15-20mmHg 3Pares...'
+sku: 'B07H6BBRYN-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

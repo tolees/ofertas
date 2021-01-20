@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001NAUAI8-es K&N HD-0900 Filtro de Aire para Harley Davidson Sportster...'
+sku: 'B001NAUAI8-es'
 tags: [  ]
 actualPrice: 54.47 EUR
 currency: EUR

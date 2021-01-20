@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QCT4ZYS-es NGS Matrix Kit Teclado + RATÓN INALÁMBRICOS Ultra Plano...'
+sku: 'B07QCT4ZYS-es'
 tags: [  ]
 actualPrice: 12.32 EUR
 currency: EUR

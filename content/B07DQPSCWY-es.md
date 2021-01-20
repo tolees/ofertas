@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DQPSCWY-es adidas Saturday Short Pantalones Cortos de Deporte Hombre...'
+sku: 'B07DQPSCWY-es'
 tags: [  ]
 actualPrice: 16.75 EUR
 currency: EUR

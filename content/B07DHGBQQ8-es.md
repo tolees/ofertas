@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DHGBQQ8-es INTEY Perchero de Pie Perchero de Burro de Metal...'
+sku: 'B07DHGBQQ8-es'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

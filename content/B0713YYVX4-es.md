@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0713YYVX4-es Star Wars-Funko Pop Figura de Vinilo Death Star Droid...'
+sku: 'B0713YYVX4-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

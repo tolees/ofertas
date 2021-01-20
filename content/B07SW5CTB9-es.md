@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SW5CTB9-es ALIKEY Sacacorchos Eléctrico nalámbrico profesional Caja...'
+sku: 'B07SW5CTB9-es'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081W7CDZS-es TEENO Moviles Libres 4G 6.2 Pulgadas Telefonos 3GB...'
+sku: 'B081W7CDZS-es'
 tags: [  ]
 actualPrice: 74.99 EUR
 currency: EUR

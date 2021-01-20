@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GSHT5YZ-es HERZO Taladro/Atornillador Configuración de 2 velocidades...'
+sku: 'B07GSHT5YZ-es'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

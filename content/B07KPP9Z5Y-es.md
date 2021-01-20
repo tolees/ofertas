@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPP9Z5Y-es Ban presto- The Battle Dragon Ball Estatua Androide 18...'
+sku: 'B07KPP9Z5Y-es'
 tags: [  ]
 actualPrice: 20.0 EUR
 currency: EUR

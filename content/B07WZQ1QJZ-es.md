@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WZQ1QJZ-es Wonderbra Glamour Raffine Triangle Padde Sujetador de...'
+sku: 'B07WZQ1QJZ-es'
 tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR

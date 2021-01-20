@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RW51DXK-es Estera Para Parrilla de Yawao Forro del Horno Teflon que...'
+sku: 'B07RW51DXK-es'
 tags: [  ]
 actualPrice: 12.48 EUR
 currency: EUR

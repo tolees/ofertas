@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TMQ9RMB-es GRIDINLUX. Aparato de Radiofrecuencia Facial. Tecnología...'
+sku: 'B07TMQ9RMB-es'
 tags: [  ]
 actualPrice: 79.98 EUR
 currency: EUR

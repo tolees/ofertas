@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V5HNWML-es Tom Tailor Leichter suéter Multicolor Multi Color Melange...'
+sku: 'B07V5HNWML-es'
 tags: [  ]
 actualPrice: 7.94 EUR
 currency: EUR

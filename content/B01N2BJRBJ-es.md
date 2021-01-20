@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N2BJRBJ-es Festina Hombre Reloj F20205/4'
+sku: 'B01N2BJRBJ-es'
 tags: [  ]
 actualPrice: 50.08 EUR
 currency: EUR

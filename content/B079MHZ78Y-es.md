@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079MHZ78Y-es Mosquitera Puertas Mosquitera Magnética Automático para...'
+sku: 'B079MHZ78Y-es'
 tags: [  ]
 actualPrice: 11.7 EUR
 currency: EUR

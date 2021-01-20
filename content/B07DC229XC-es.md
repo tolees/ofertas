@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DC229XC-es PUMA Vista Zapatillas Unisex-Adulto Azul Peacoat...'
+sku: 'B07DC229XC-es'
 tags: [  ]
 actualPrice: 39.9 EUR
 currency: EUR

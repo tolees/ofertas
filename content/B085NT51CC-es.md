@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085NT51CC-es Jeslon Mandolina Rebanador Frutas cortadas & Vegetales 5...'
+sku: 'B085NT51CC-es'
 tags: [  ]
 actualPrice: 12.88 EUR
 currency: EUR

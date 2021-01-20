@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C58DTJQ-es Precision Kids'
+sku: 'B07C58DTJQ-es'
 tags: [  ]
 actualPrice: 20.0 EUR
 currency: EUR

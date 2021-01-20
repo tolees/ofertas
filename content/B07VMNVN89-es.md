@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VMNVN89-es Calvin Klein Push Up Plunge Almohadillas y Rellenos de...'
+sku: 'B07VMNVN89-es'
 tags: [  ]
 actualPrice: 16.96 EUR
 currency: EUR

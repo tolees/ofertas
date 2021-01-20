@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MLSVJZY-es Clarks BatcombeAlpGTX Botas de Motorista para Hombre...'
+sku: 'B07MLSVJZY-es'
 tags: [  ]
 actualPrice: 47.33 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0779CSNRT-es adidas Adi Sock 18 Calcetines Unisex Adulto Black/Power...'
+sku: 'B0779CSNRT-es'
 tags: [  ]
 actualPrice: 8.49 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CPZ1HNY-es American Tourister Holiday Heat - Spinner Equipaje de Mano...'
+sku: 'B07CPZ1HNY-es'
 tags: [  ]
 actualPrice: 61.5 EUR
 currency: EUR

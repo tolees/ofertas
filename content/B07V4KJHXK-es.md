@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V4KJHXK-es Deerbird® Hucha - Creativo Bronce Egipcio Pirámide Metal...'
+sku: 'B07V4KJHXK-es'
 tags: [  ]
 actualPrice: 14.49 EUR
 currency: EUR

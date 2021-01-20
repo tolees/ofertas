@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003RRWMOA-es Mannesmann - M19828-5 piezas Juego de llaves de carraca'
+sku: 'B003RRWMOA-es'
 tags: [  ]
 actualPrice: 32.32 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WVHRPSD-es adidas Crazymove Studio Zapatillas de Deporte Interior...'
+sku: 'B06WVHRPSD-es'
 tags: [  ]
 actualPrice: 7.01 EUR
 currency: EUR

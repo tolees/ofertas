@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0081G2SBO-es Yamaha EZ-220 - Teclado digital portátil de iniciación con...'
+sku: 'B0081G2SBO-es'
 tags: [  ]
 actualPrice: 166.8 EUR
 currency: EUR

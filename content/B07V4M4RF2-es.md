@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V4M4RF2-es Love MoschinoJc4247pp0aMujerCarteras de manoRojo Red...'
+sku: 'B07V4M4RF2-es'
 tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR

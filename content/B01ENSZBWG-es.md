@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ENSZBWG-es Panasonic EW1411H845 - Irrigador Bucal Eléctrico Portátil...'
+sku: 'B01ENSZBWG-es'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

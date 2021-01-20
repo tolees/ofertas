@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HJCD7B5-es Pop! Stranger Things S2 - Figura de Vinilo Mike Snowball...'
+sku: 'B07HJCD7B5-es'
 tags: [  ]
 actualPrice: 8.25 EUR
 currency: EUR

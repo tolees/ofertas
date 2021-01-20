@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MDC5RR3-es E-MANIS Caja Joyero Caja de Joyas Estuche Rectangular para...'
+sku: 'B07MDC5RR3-es'
 tags: [  ]
 actualPrice: 15.29 EUR
 currency: EUR

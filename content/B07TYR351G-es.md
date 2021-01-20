@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TYR351G-es Gant Leisha Zapatillas para Mujer Amarillo Light Yellow...'
+sku: 'B07TYR351G-es'
 tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR

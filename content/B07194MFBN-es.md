@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07194MFBN-es SELECTED HOMME Shnstraight-Scott 1001 St JNS Noos Jeans...'
+sku: 'B07194MFBN-es'
 tags: [  ]
 actualPrice: 48.78 EUR
 currency: EUR

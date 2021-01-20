@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFWTZWP-es PUMA Cilia SD Zapatillas para Mujer Vineyard Wine-Pastel...'
+sku: 'B07KFWTZWP-es'
 tags: [  ]
 actualPrice: 42.34 EUR
 currency: EUR

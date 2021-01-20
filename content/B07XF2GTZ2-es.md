@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XF2GTZ2-es POWEROWL Cargador de Pilas AA AAA con 16 Ranuras para Ni-...'
+sku: 'B07XF2GTZ2-es'
 tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR

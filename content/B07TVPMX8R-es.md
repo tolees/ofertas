@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVPMX8R-es Skechers Boys Elite Flex HYDROX Trainers Grey Stone...'
+sku: 'B07TVPMX8R-es'
 tags: [  ]
 actualPrice: 22.9 EUR
 currency: EUR

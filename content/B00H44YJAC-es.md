@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00H44YJAC-es Linksys EA6900-EJ - Router inalámbrico Smart Wi-Fi de...'
+sku: 'B00H44YJAC-es'
 tags: [  ]
 actualPrice: 99.9 EUR
 currency: EUR

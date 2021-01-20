@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MFQR4M2-es Urban Classics Block Swim Shorts Pnt Pantalones Cortos...'
+sku: 'B07MFQR4M2-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

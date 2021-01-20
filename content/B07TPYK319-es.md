@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TPYK319-es Clarks Sift Speed Zapatillas para Hombre Marrón British...'
+sku: 'B07TPYK319-es'
 tags: [  ]
 actualPrice: 77.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0895VFBXR-es FSXMPL Pintura por NúMeros NiñOs para Adultos...'
+sku: 'B0895VFBXR-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00I459SDI-es Cojín antiescaras cuadrado y con agujero 44x44x9 cm'
+sku: 'B00I459SDI-es'
 tags: [  ]
 actualPrice: 25.0 EUR
 currency: EUR

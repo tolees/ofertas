@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083ZJQXB2-es ghd curve classic curl - Tenacilla profesional de 26mm...'
+sku: 'B083ZJQXB2-es'
 tags: [  ]
 actualPrice: 119.0 EUR
 currency: EUR

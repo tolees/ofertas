@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089Y7RYPQ-es KKTECT Parque de Atracciones de Bolas Blandas de plástico...'
+sku: 'B089Y7RYPQ-es'
 tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR

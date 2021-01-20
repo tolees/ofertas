@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CLJGDTN-es Miracle Baby Mantas Muselina Bebe Algodon，Manta Dos Capas...'
+sku: 'B07CLJGDTN-es'
 tags: [  ]
 actualPrice: 16.87 EUR
 currency: EUR

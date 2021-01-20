@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TMHGXSZ-es Levi s XX Std II Khakis Beige True Chino Shady GD Ccu B...'
+sku: 'B07TMHGXSZ-es'
 tags: [  ]
 actualPrice: 56.12 EUR
 currency: EUR

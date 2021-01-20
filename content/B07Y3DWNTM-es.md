@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y3DWNTM-es Grifo de Ducha Dalmo Grifo Ducha Cubre con Alcachofa de...'
+sku: 'B07Y3DWNTM-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

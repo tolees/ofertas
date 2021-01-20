@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WJ41VPZ-es NAIXUES 2020 Smartwatch Niños Reloj Inteligente para Niños...'
+sku: 'B07WJ41VPZ-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

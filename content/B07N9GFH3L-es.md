@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N9GFH3L-es Timex Reloj de Pulsera TW2R93900'
+sku: 'B07N9GFH3L-es'
 tags: [  ]
 actualPrice: 54.46 EUR
 currency: EUR

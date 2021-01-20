@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YN5XVQ2-es Blindecor Estor enrollable translúcido digital Zen...'
+sku: 'B07YN5XVQ2-es'
 tags: [  ]
 actualPrice: 72.1 EUR
 currency: EUR

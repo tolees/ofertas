@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG1H1B2-es PUMA Rebound Layup Lo SL Zapatillas Unisex Adulto White...'
+sku: 'B07KG1H1B2-es'
 tags: [  ]
 actualPrice: 22.02 EUR
 currency: EUR

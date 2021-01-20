@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0815TDL8D-es Luz de noche lámpara de noche Smart Touch Luz blanca...'
+sku: 'B0815TDL8D-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

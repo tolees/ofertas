@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0754RNX6M-es Salomon shorts para running agile short tafetán negro...'
+sku: 'B0754RNX6M-es'
 tags: [  ]
 actualPrice: 21.89 EUR
 currency: EUR

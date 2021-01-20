@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q3GYBHT-es Dockers by Gerli 45pa040 Botas Militar para Hombre...'
+sku: 'B07Q3GYBHT-es'
 tags: [  ]
 actualPrice: 26.91 EUR
 currency: EUR

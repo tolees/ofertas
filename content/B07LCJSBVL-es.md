@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LCJSBVL-es Probus Santoku knife 34 cm hand sharpened premium kitchen...'
+sku: 'B07LCJSBVL-es'
 tags: [  ]
 actualPrice: 9.64 EUR
 currency: EUR

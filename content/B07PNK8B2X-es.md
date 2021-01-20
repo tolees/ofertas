@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PNK8B2X-es New Balance 574v2 Zapatillas para Hombre Azul Navy Navy 37 EU'
+sku: 'B07PNK8B2X-es'
 tags: [  ]
 actualPrice: 28.81 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081RJ1P5G-es Dookey Pintura Facial Maquillaje al Agua Pinturas Cara...'
+sku: 'B081RJ1P5G-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

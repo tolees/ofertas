@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N7QWYZ9-es Arehucas Ginebra Carmela Mango Guayaba - 700 ml'
+sku: 'B01N7QWYZ9-es'
 tags: [  ]
 actualPrice: 14.05 EUR
 currency: EUR

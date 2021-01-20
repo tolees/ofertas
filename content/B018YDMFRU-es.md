@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018YDMFRU-es CORDAYS - Organizador de Mandos a Distancia y Material de...'
+sku: 'B018YDMFRU-es'
 tags: [  ]
 actualPrice: 26.9 EUR
 currency: EUR

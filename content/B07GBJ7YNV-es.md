@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GBJ7YNV-es Pulsar Reloj cronografo para Hombre de Cuarzo con Correa...'
+sku: 'B07GBJ7YNV-es'
 tags: [  ]
 actualPrice: 86.59 EUR
 currency: EUR

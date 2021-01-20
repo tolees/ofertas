@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077FJJ3DQ-es New Balance MA33 Zapatillas Deportivas para Interior para...'
+sku: 'B077FJJ3DQ-es'
 tags: [  ]
 actualPrice: 35.29 EUR
 currency: EUR

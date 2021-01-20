@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B1HP9Z4-es Auriculares Bluetooth 5.0 Inalámbricos TWS i12 Touch...'
+sku: 'B08B1HP9Z4-es'
 tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RHLZ8QS-es Set De Baberos Bandana Cadenas Chupetes Toallas Bebe Suave...'
+sku: 'B07RHLZ8QS-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

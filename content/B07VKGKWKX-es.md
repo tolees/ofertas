@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VKGKWKX-es Munich G 3 KID VCO INDOOR 72 Zapatillas Niño Multicolor 27 EU'
+sku: 'B07VKGKWKX-es'
 tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR

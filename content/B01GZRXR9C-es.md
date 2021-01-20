@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GZRXR9C-es Atosa- Disfraz Mujer Charleston Color Negro y Dorado XS-S...'
+sku: 'B01GZRXR9C-es'
 tags: [  ]
 actualPrice: 15.22 EUR
 currency: EUR

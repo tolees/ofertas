@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00L37VHEC-es Artero Acondicionador y desenredante para Perros y Gatos...'
+sku: 'B00L37VHEC-es'
 tags: [  ]
 actualPrice: 15.5 EUR
 currency: EUR

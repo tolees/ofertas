@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0832MPQVB-es Wakana Trampa para Ratones 2 Pcs Ratonera Ratas Vivos...'
+sku: 'B0832MPQVB-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

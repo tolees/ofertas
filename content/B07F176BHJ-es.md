@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F176BHJ-es LEVIS FOOTWEAR AND ACCESSORIES Webb Zapatillas para Hombre...'
+sku: 'B07F176BHJ-es'
 tags: [  ]
 actualPrice: 43.71 EUR
 currency: EUR

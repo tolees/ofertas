@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078S9DX9D-es Quemagrasas Natural Termogénico Adelgazante Fat Burner...'
+sku: 'B078S9DX9D-es'
 tags: [  ]
 actualPrice: 14.96 EUR
 currency: EUR

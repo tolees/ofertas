@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X23RKST-es EASE LEAP Calcetines Ejecutivos para Hombre Largos Negros...'
+sku: 'B07X23RKST-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

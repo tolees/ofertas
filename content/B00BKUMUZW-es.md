@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BKUMUZW-es Astor Big & Beautiful Eye Opener Máscara de Pestañas'
+sku: 'B00BKUMUZW-es'
 tags: [  ]
 actualPrice: 5.2 EUR
 currency: EUR

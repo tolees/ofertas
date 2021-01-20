@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PWNL7ZC-es Under Armour UA W TriBase Edge Trainer Zapatillas...'
+sku: 'B07PWNL7ZC-es'
 tags: [  ]
 actualPrice: 29.58 EUR
 currency: EUR

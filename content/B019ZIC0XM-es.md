@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019ZIC0XM-es Under Armour Sportswear Stirnband UA Mini Headband 6 Pack...'
+sku: 'B019ZIC0XM-es'
 tags: [  ]
 actualPrice: 6.59 EUR
 currency: EUR

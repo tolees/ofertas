@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZJFSLVB-es TENMOS T85 Raton Inalambrico Gaming 2.4G USB LED...'
+sku: 'B07ZJFSLVB-es'
 tags: [  ]
 actualPrice: 11.89 EUR
 currency: EUR

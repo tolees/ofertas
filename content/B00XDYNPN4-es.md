@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XDYNPN4-es Tommy Hilfiger New Danny Belt Cinturón Masters Black 85 cm...'
+sku: 'B00XDYNPN4-es'
 tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR

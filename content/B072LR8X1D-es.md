@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072LR8X1D-es Gola Stimson Velcro Botas de fútbol para Niños Plateado...'
+sku: 'B072LR8X1D-es'
 tags: [  ]
 actualPrice: 13.8 EUR
 currency: EUR

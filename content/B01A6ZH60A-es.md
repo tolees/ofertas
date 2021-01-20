@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01A6ZH60A-es Columbia Cascade Explorer Pantalón Convertible Hombre Gris...'
+sku: 'B01A6ZH60A-es'
 tags: [  ]
 actualPrice: 43.49 EUR
 currency: EUR

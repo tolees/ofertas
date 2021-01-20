@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VF6H2C8-es Hackett London Sanderson Chino Pantalones Azul Navy 595...'
+sku: 'B07VF6H2C8-es'
 tags: [  ]
 actualPrice: 81.09 EUR
 currency: EUR

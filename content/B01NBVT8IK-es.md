@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NBVT8IK-es ACANA Grasslands Comida para Perros - 11400 gr'
+sku: 'B01NBVT8IK-es'
 tags: [  ]
 actualPrice: 68.99 EUR
 currency: EUR

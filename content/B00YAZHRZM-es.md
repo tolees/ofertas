@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00YAZHRZM-es Rode VideoMic Pro R - Micrófono Externo para videocámara...'
+sku: 'B00YAZHRZM-es'
 tags: [  ]
 actualPrice: 159.0 EUR
 currency: EUR

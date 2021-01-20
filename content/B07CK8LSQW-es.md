@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CK8LSQW-es Rubies - Disfraz oficial de DC Aquaman The Movie disfraz...'
+sku: 'B07CK8LSQW-es'
 tags: [  ]
 actualPrice: 44.96 EUR
 currency: EUR

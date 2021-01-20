@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0191TGYG4-es Cartulinas Colores'
+sku: 'B0191TGYG4-es'
 tags: [  ]
 actualPrice: 3.0 EUR
 currency: EUR

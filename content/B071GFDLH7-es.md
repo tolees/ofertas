@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071GFDLH7-es find. Zapatillas Deportivas con Textura para Hombre Azul...'
+sku: 'B071GFDLH7-es'
 tags: [  ]
 actualPrice: 11.4 EUR
 currency: EUR

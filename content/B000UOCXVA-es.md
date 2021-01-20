@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000UOCXVA-es Pyrex Molde PLUMCAKE 28 CM 838 Cristal'
+sku: 'B000UOCXVA-es'
 tags: [  ]
 actualPrice: 12.0 EUR
 currency: EUR

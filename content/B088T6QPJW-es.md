@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088T6QPJW-es SpringPear® 15 × 15 cm 5 9 × 5 9 pulgadas Cuadrado 64...'
+sku: 'B088T6QPJW-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

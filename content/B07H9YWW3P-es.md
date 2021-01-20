@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H9YWW3P-es Funko Modern Family Llavero Pop Gloria Color Mulitcolor...'
+sku: 'B07H9YWW3P-es'
 tags: [  ]
 actualPrice: 5.26 EUR
 currency: EUR

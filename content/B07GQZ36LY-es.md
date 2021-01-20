@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GQZ36LY-es Piy Painting Cuadro en Lienzo en Orquidea Elegante La Flor...'
+sku: 'B07GQZ36LY-es'
 tags: [  ]
 actualPrice: 29.98 EUR
 currency: EUR

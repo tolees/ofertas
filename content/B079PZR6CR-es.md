@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079PZR6CR-es Funko Pop! - Marvel: Avengers Infinity War Figura de...'
+sku: 'B079PZR6CR-es'
 tags: [  ]
 actualPrice: 10.23 EUR
 currency: EUR

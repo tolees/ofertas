@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083SKPRJB-es TELMU Telescopio monocular 10X42 para adultos prisma BAK-4...'
+sku: 'B083SKPRJB-es'
 tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR

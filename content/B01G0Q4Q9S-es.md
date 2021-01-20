@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01G0Q4Q9S-es DISFRAZ HIPPIE CHICA TALLA S'
+sku: 'B01G0Q4Q9S-es'
 tags: [  ]
 actualPrice: 14.07 EUR
 currency: EUR

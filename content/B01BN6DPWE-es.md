@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BN6DPWE-es Reloj Komono Moneypenny Royale para Mujer KOM-W1246'
+sku: 'B01BN6DPWE-es'
 tags: [  ]
 actualPrice: 34.95 EUR
 currency: EUR

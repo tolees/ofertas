@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PL9RJPG-es LA Active Calcetines Antideslizantes - Para Yoga Pilates...'
+sku: 'B07PL9RJPG-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PDZM748-es Samsung Galaxy A50 - Smartphone de 6.4" FHD sAmoled...'
+sku: 'B07PDZM748-es'
 tags: [  ]
 actualPrice: 259.99 EUR
 currency: EUR

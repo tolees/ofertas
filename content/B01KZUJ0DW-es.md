@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KZUJ0DW-es Moulinex Vitapress PC603D Exprimidor 100W de potencia con...'
+sku: 'B01KZUJ0DW-es'
 tags: [  ]
 actualPrice: 40.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QWNC3KW-es Under Armour Armour Mid Keyhole Graphic Sujetador...'
+sku: 'B07QWNC3KW-es'
 tags: [  ]
 actualPrice: 16.3 EUR
 currency: EUR

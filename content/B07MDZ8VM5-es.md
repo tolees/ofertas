@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MDZ8VM5-es Qshare - Platos de silicona para bebé una pieza para bebés...'
+sku: 'B07MDZ8VM5-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

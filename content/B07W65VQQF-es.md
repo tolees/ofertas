@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W65VQQF-es QNIGLO Q188 Walkie Talkie Niños Recargable 8 Canales PMR 2...'
+sku: 'B07W65VQQF-es'
 tags: [  ]
 actualPrice: 42.35 EUR
 currency: EUR

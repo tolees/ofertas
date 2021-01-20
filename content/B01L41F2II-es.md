@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01L41F2II-es Havaianas Origine III Alpargatas Unisex Adulto Rojo Red 42 EU'
+sku: 'B01L41F2II-es'
 tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR

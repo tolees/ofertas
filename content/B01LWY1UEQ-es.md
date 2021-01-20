@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LWY1UEQ-es Falomir Parchís Magnético Juego de Mesa Clásicos 16 x 16...'
+sku: 'B01LWY1UEQ-es'
 tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR

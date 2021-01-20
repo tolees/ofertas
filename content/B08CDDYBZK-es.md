@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CDDYBZK-es AYIYO - Pantalones cortos de algodón y lino para bebés de...'
+sku: 'B08CDDYBZK-es'
 tags: [  ]
 actualPrice: 8.9 EUR
 currency: EUR

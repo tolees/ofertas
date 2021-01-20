@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0779DFRFG-es adidas Entrada 18 JSY T-Shirt Hombre Bold Blue/White 2XL'
+sku: 'B0779DFRFG-es'
 tags: [  ]
 actualPrice: 7.77 EUR
 currency: EUR

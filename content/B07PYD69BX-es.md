@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PYD69BX-es Diadermine Lift Plus - Cápsulas Super Rellenador Paquete...'
+sku: 'B07PYD69BX-es'
 tags: [  ]
 actualPrice: 2.79 EUR
 currency: EUR

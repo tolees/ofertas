@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W2WFQPL-es BESTEK Abrazadera de Soporte de Tableta Ajustable Flexible...'
+sku: 'B07W2WFQPL-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

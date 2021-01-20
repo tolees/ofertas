@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HBKP847-es Pop! Modern Family - Figura de Vinilo Jay'
+sku: 'B07HBKP847-es'
 tags: [  ]
 actualPrice: 5.0 EUR
 currency: EUR

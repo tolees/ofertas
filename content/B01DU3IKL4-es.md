@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DU3IKL4-es Balanza de cocina digital Laica KS1029W con diseño de...'
+sku: 'B01DU3IKL4-es'
 tags: [  ]
 actualPrice: 17.48 EUR
 currency: EUR

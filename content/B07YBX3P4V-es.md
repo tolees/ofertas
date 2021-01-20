@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YBX3P4V-es Ventiladores de 80 mm de fácil instalación 4 LED Azul para...'
+sku: 'B07YBX3P4V-es'
 tags: [  ]
 actualPrice: 1.87 EUR
 currency: EUR

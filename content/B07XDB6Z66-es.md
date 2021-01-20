@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XDB6Z66-es ERIK - Calendario de pared 2020 Gameration 30 x 30 cm...'
+sku: 'B07XDB6Z66-es'
 tags: [  ]
 actualPrice: 6.9 EUR
 currency: EUR

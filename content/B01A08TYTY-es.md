@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01A08TYTY-es Lume Cube LC0003NE - Antorcha LED para cámaras Negro'
+sku: 'B01A08TYTY-es'
 tags: [  ]
 actualPrice: 92.61 EUR
 currency: EUR

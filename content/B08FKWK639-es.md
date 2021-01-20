@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FKWK639-es Cordón que cubre la cara de longitud ajustable conveniente...'
+sku: 'B08FKWK639-es'
 tags: [  ]
 actualPrice: 2.68 EUR
 currency: EUR

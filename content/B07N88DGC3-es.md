@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N88DGC3-es Pala De Padel Adidas Faster Pink 1 9'
+sku: 'B07N88DGC3-es'
 tags: [  ]
 actualPrice: 69.95 EUR
 currency: EUR

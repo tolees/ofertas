@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072MDTTWZ-es Optimum Nutrition Suplemento Alimenticio Essential Amino...'
+sku: 'B072MDTTWZ-es'
 tags: [  ]
 actualPrice: 20.5 EUR
 currency: EUR

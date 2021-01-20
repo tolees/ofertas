@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F38CB8N-es KLIMTM Esports Silla Gaming Ergonómica + con Soporte...'
+sku: 'B07F38CB8N-es'
 tags: [  ]
 actualPrice: 262.43 EUR
 currency: EUR

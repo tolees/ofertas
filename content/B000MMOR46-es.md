@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000MMOR46-es Philips SCF145/06 - Cepillo escobilla de limpieza para...'
+sku: 'B000MMOR46-es'
 tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR

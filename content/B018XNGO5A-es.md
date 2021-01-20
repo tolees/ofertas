@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018XNGO5A-es Aftershokz Trekz Titanium Auriculares deportivas con...'
+sku: 'B018XNGO5A-es'
 tags: [  ]
 actualPrice: 58.39 EUR
 currency: EUR

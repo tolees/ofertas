@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NVKCBP9-es Zer one Ventilador de refrigeración de la CPU portátil de...'
+sku: 'B07NVKCBP9-es'
 tags: [  ]
 actualPrice: 6.79 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S2SN5MB-es New Balance 500 Zapatillas para Mujer Rosa Pink Hgy 35 EU'
+sku: 'B07S2SN5MB-es'
 tags: [  ]
 actualPrice: 21.09 EUR
 currency: EUR

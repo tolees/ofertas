@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P5N2MT8-es HOMOZE Manguera de Agua expandible de jardín con Conector...'
+sku: 'B07P5N2MT8-es'
 tags: [  ]
 actualPrice: 25.57 EUR
 currency: EUR

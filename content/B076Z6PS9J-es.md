@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076Z6PS9J-es knowing 100MM Blanco Corazón Madera Rodajas Discos para...'
+sku: 'B076Z6PS9J-es'
 tags: [  ]
 actualPrice: 9.89 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VBIB1LW-es PNY Attaché 4 - Memoria USB 3.0 de 16 GB'
+sku: 'B00VBIB1LW-es'
 tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR

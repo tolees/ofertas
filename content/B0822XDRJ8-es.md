@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0822XDRJ8-es LACORAMO Alarma Sensor De Puerta y Ventana Con Remoto...'
+sku: 'B0822XDRJ8-es'
 tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR

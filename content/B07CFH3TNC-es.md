@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CFH3TNC-es JACK & JONES Jjipaul Jjflake AKM 542 Asphalt Noos...'
+sku: 'B07CFH3TNC-es'
 tags: [  ]
 actualPrice: 29.49 EUR
 currency: EUR

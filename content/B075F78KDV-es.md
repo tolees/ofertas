@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075F78KDV-es Kärcher Window Vac WV 2 Premium 10 years - Limpiadora de...'
+sku: 'B075F78KDV-es'
 tags: [  ]
 actualPrice: 51.76 EUR
 currency: EUR

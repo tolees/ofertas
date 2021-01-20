@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074DJST82-es Melissa and dong Set de Alimentos'
+sku: 'B074DJST82-es'
 tags: [  ]
 actualPrice: 9.42 EUR
 currency: EUR

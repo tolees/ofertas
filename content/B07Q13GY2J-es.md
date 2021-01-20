@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q13GY2J-es Under Armour UA Charged Intake 4 Zapatillas de Running...'
+sku: 'B07Q13GY2J-es'
 tags: [  ]
 actualPrice: 43.45 EUR
 currency: EUR

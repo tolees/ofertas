@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HNXYS55-es Sonew Buscador de Seguimiento de Mascotas Portátil USB...'
+sku: 'B07HNXYS55-es'
 tags: [  ]
 actualPrice: 42.59 EUR
 currency: EUR

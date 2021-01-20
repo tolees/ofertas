@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01F5NEFMU-es Yacel CELLUBLOCK. Anticelulítico Intensivo. Quemagrasa y...'
+sku: 'B01F5NEFMU-es'
 tags: [  ]
 actualPrice: 9.06 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFV1P2B-es Micrófono Gaming Voice USB de escritorio Luz LED Micrófono...'
+sku: 'B07LFV1P2B-es'
 tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR

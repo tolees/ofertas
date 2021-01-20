@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TNZMDD5-es Clarks Sense Strap Sandalia con Pulsera para Mujer Beige...'
+sku: 'B07TNZMDD5-es'
 tags: [  ]
 actualPrice: 17.91 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X9BHYYC-es find. Zapatillas con Plataforma Mujer Azul Light Blue 40 EU'
+sku: 'B06X9BHYYC-es'
 tags: [  ]
 actualPrice: 6.26 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BH0WW5W-es S&R 25 Discos de corte 125 Metal y Acero INOX .Set de 25...'
+sku: 'B01BH0WW5W-es'
 tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR

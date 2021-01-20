@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077Y1MTNM-es Superga 2730-Cotu Zapatillas de Gimnasio para Mujer Grigio...'
+sku: 'B077Y1MTNM-es'
 tags: [  ]
 actualPrice: 49.43 EUR
 currency: EUR

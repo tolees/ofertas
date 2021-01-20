@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089Y41BXX-es Auriculares Bluetooth 5.0 Auriculares inalámbricos...'
+sku: 'B089Y41BXX-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

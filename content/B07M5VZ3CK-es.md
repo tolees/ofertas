@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M5VZ3CK-es Micoke Cámara de Caza 16MP 1080P IP65 Impermeable 36 LED...'
+sku: 'B07M5VZ3CK-es'
 tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR

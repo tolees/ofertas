@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LD5M3QS-es Code: Realize Wintertide Miracles'
+sku: 'B07LD5M3QS-es'
 tags: [  ]
 actualPrice: 16.45 EUR
 currency: EUR

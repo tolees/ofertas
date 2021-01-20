@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EW5FPXQ-es Nike Revolution 4 GS Zapatillas de Running para Niños...'
+sku: 'B00EW5FPXQ-es'
 tags: [  ]
 actualPrice: 22.45 EUR
 currency: EUR

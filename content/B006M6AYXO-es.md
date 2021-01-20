@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006M6AYXO-es Converse Chuck Taylor Core Lea Ox Zapatillas De Cuero...'
+sku: 'B006M6AYXO-es'
 tags: [  ]
 actualPrice: 48.08 EUR
 currency: EUR

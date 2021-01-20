@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081KXNTGK-es amzdeal Inflador Globo electrico para inflar Globos...'
+sku: 'B081KXNTGK-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

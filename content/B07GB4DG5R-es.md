@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GB4DG5R-es Lacoste HH9553 Pantalones Azul Marine 36 Talla del...'
+sku: 'B07GB4DG5R-es'
 tags: [  ]
 actualPrice: 62.49 EUR
 currency: EUR

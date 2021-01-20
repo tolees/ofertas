@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DCJ6B3S-es Puma Zeta Suede Zapatillas Unisex Adulto Blanco White-...'
+sku: 'B07DCJ6B3S-es'
 tags: [  ]
 actualPrice: 27.29 EUR
 currency: EUR

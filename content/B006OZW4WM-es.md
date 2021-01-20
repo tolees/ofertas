@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006OZW4WM-es Speedo Solid Leisure - Bañador de natación para hombre...'
+sku: 'B006OZW4WM-es'
 tags: [  ]
 actualPrice: 13.47 EUR
 currency: EUR

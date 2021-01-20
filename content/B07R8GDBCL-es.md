@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R8GDBCL-es CARE OF by PUMA Zapatillas bajas en cuero y con plataforma...'
+sku: 'B07R8GDBCL-es'
 tags: [  ]
 actualPrice: 48.3 EUR
 currency: EUR

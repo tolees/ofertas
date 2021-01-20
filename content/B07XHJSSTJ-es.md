@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XHJSSTJ-es jerryvon Juego de Pista de Madera Circuito Coches con 2...'
+sku: 'B07XHJSSTJ-es'
 tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR

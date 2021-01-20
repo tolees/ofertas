@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LUIKVBO-es adidas Originals Adidas Stan Smith M20324 Zapatillas de...'
+sku: 'B00LUIKVBO-es'
 tags: [  ]
 actualPrice: 62.33 EUR
 currency: EUR

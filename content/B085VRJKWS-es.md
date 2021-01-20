@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085VRJKWS-es Oacvien 7 Puertos Hub USB 3.0 Interruptor de Encendido...'
+sku: 'B085VRJKWS-es'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

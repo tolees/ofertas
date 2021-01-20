@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RV3P1YL-es Bikinis Mujer 2020 Push up Sexy de Lunares de Playa...'
+sku: 'B07RV3P1YL-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

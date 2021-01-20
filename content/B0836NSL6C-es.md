@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0836NSL6C-es Otto Koning - Berlín - Set cubiertos de 30 piezas de acero...'
+sku: 'B0836NSL6C-es'
 tags: [  ]
 actualPrice: 29.0 EUR
 currency: EUR

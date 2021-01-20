@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004X4KW5M-es Braun BN0032WHSLMHG - Reloj análogico de cuarzo con correa...'
+sku: 'B004X4KW5M-es'
 tags: [  ]
 actualPrice: 113.96 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J5GXF81-es Skechers Boys Flex Advantage 3.0 Trainers Blue Navy &...'
+sku: 'B07J5GXF81-es'
 tags: [  ]
 actualPrice: 30.0 EUR
 currency: EUR

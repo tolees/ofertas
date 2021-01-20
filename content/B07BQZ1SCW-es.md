@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BQZ1SCW-es Taurus Striker 2.0 Robot Aspirador Compacto con Sensor...'
+sku: 'B07BQZ1SCW-es'
 tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR

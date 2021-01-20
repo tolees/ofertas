@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072VH9CSW-es Super wings pelota 40 cm'
+sku: 'B072VH9CSW-es'
 tags: [  ]
 actualPrice: 2.2 EUR
 currency: EUR

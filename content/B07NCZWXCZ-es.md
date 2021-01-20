@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NCZWXCZ-es SYOSS - Reavivador de Rizos y Ondas - Efecto Anti...'
+sku: 'B07NCZWXCZ-es'
 tags: [  ]
 actualPrice: 3.25 EUR
 currency: EUR

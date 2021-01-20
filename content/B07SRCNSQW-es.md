@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SRCNSQW-es adidas EQT Gazelle W Zapatillas de Gimnasia para Mujer...'
+sku: 'B07SRCNSQW-es'
 tags: [  ]
 actualPrice: 24.9 EUR
 currency: EUR

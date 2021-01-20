@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CG4SPVS-es ERAY Manguera Jardín Manguera Extensible 15M/50FT Triple...'
+sku: 'B07CG4SPVS-es'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

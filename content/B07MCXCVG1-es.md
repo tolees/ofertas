@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MCXCVG1-es MiMiya Deshidratador de Alimentos Profesional de 5...'
+sku: 'B07MCXCVG1-es'
 tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR

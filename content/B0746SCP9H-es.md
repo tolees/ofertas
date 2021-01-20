@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0746SCP9H-es L Oréal Paris Make-up designer Accord Parfait Base...'
+sku: 'B0746SCP9H-es'
 tags: [  ]
 actualPrice: 9.5 EUR
 currency: EUR

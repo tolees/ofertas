@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H29Z3YW-es Gowind6 - Extensión de pestañas de algodón para...'
+sku: 'B07H29Z3YW-es'
 tags: [  ]
 actualPrice: 3.38 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XPJ32RC-es Rimmel London Fresher Skin Base de Maquillaje Tono 101...'
+sku: 'B06XPJ32RC-es'
 tags: [  ]
 actualPrice: 2.69 EUR
 currency: EUR

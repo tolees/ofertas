@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087QM6HVM-es Dani - Estragón hoja - Pack 12 x 8g'
+sku: 'B087QM6HVM-es'
 tags: [  ]
 actualPrice: 6.03 EUR
 currency: EUR

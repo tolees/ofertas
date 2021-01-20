@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RVBTK4F-es SNK NEO GEO MINI Samurai Shodown V ED. Haohmara'
+sku: 'B07RVBTK4F-es'
 tags: [  ]
 actualPrice: 109.9 EUR
 currency: EUR

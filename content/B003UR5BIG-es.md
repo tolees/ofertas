@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003UR5BIG-es Escobilla Flexible inoxidable pelo de cabra de limpieza...'
+sku: 'B003UR5BIG-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

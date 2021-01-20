@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00U8QYRUU-es Beter - Pinzas con punta roma recta - 10.4 cm - 1 unidad'
+sku: 'B00U8QYRUU-es'
 tags: [  ]
 actualPrice: 4.72 EUR
 currency: EUR

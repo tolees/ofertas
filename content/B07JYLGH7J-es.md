@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JYLGH7J-es Adidas Swift Run J Zapatillas de Gimnasia Unisex Niños...'
+sku: 'B07JYLGH7J-es'
 tags: [  ]
 actualPrice: 36.0 EUR
 currency: EUR

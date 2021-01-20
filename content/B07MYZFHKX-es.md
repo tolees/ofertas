@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MYZFHKX-es Skechers Women s Stretch Flat Laced Slip Trainers Negro...'
+sku: 'B07MYZFHKX-es'
 tags: [  ]
 actualPrice: 48.74 EUR
 currency: EUR

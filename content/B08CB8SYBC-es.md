@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CB8SYBC-es JEVX Megafono Portatil 4 en 1 con BATERIA Recargable +...'
+sku: 'B08CB8SYBC-es'
 tags: [  ]
 actualPrice: 27.41 EUR
 currency: EUR

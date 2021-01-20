@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XNJMAU8-es Aigostar - Regleta con 5 enchufes y 1 5 metros con...'
+sku: 'B00XNJMAU8-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

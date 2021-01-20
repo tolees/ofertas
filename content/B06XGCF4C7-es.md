@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XGCF4C7-es Sonos PBASEWH - Base TV Multiroom color blanco'
+sku: 'B06XGCF4C7-es'
 tags: [  ]
 actualPrice: 535.62 EUR
 currency: EUR

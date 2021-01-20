@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MBPK528-es WOSTOO Coches de Animales 6 Paquetes Tire hacia atrás de...'
+sku: 'B07MBPK528-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

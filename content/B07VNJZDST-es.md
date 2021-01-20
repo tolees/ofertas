@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VNJZDST-es Besrey Silla de paseo de bebe Compacta y Ligera Cochecito...'
+sku: 'B07VNJZDST-es'
 tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR

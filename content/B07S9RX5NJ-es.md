@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S9RX5NJ-es PUMA LQDCELL Hydra Zapatillas Deportivas para Interior...'
+sku: 'B07S9RX5NJ-es'
 tags: [  ]
 actualPrice: 37.45 EUR
 currency: EUR

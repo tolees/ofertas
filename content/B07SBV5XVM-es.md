@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SBV5XVM-es WayEee Termo para Comida 450ml Botella Aislada de Acero...'
+sku: 'B07SBV5XVM-es'
 tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015CMH0HG-es Rimmel London 3 The Only One Lipstick Barra De Labios Mate...'
+sku: 'B015CMH0HG-es'
 tags: [  ]
 actualPrice: 2.01 EUR
 currency: EUR

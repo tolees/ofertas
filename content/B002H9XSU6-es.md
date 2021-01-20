@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002H9XSU6-es Piz Buin - After Sun Loción Hidratante Intensificadora del...'
+sku: 'B002H9XSU6-es'
 tags: [  ]
 actualPrice: 7.95 EUR
 currency: EUR

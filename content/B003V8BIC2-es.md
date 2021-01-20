@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003V8BIC2-es BIC Velleda 1741 - Blíster de 4 unidades marcadores de...'
+sku: 'B003V8BIC2-es'
 tags: [  ]
 actualPrice: 3.5 EUR
 currency: EUR

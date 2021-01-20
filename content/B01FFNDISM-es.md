@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FFNDISM-es Under Armour HG Armour 2.0 Legging Leggings Hombre Gris...'
+sku: 'B01FFNDISM-es'
 tags: [  ]
 actualPrice: 26.9 EUR
 currency: EUR

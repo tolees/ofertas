@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085WR4KJB-es IDEASY Actualice la Tableta de Escritura LCD de Borrado...'
+sku: 'B085WR4KJB-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H26S7NJ-es COMVIP - Calcetines hasta la rodilla - Liso - para hombre...'
+sku: 'B07H26S7NJ-es'
 tags: [  ]
 actualPrice: 8.89 EUR
 currency: EUR

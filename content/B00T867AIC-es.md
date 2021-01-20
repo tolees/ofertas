@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00T867AIC-es JINX- Minecraft Llavero Diamond Pickaxe 3784'
+sku: 'B00T867AIC-es'
 tags: [  ]
 actualPrice: 3.95 EUR
 currency: EUR

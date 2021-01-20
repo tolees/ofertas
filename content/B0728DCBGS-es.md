@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0728DCBGS-es Reishi Neo Defensas Complemento Alimenticio 30 Cápsulas'
+sku: 'B0728DCBGS-es'
 tags: [  ]
 actualPrice: 14.25 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HMG2R9W-es Auriculares Bluetooth 5.0 Auriculares Inalambricos Cascos...'
+sku: 'B08HMG2R9W-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

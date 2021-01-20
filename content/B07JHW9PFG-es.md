@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JHW9PFG-es Columbia MARAGAL WP Botas Casual para Mujer Negro Black...'
+sku: 'B07JHW9PFG-es'
 tags: [  ]
 actualPrice: 36.43 EUR
 currency: EUR

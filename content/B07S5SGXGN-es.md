@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S5SGXGN-es Love MoschinoJc4000pp1aMujerBolsos bandoleraRojo Rosso...'
+sku: 'B07S5SGXGN-es'
 tags: [  ]
 actualPrice: 131.53 EUR
 currency: EUR

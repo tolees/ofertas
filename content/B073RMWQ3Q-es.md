@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RMWQ3Q-es Columbia GoodlifeTM Lace Zapatillas Casual para Mujer...'
+sku: 'B073RMWQ3Q-es'
 tags: [  ]
 actualPrice: 21.42 EUR
 currency: EUR

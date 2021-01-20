@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014MI5EN8-es S R SUNRISE SRSB-3027 SRSB3027-Soporte cuadrado para...'
+sku: 'B014MI5EN8-es'
 tags: [  ]
 actualPrice: 19.0 EUR
 currency: EUR

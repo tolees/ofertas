@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NW87N4K-es Skechers D lites 3.0-Proven Force Zapatillas para Mujer...'
+sku: 'B07NW87N4K-es'
 tags: [  ]
 actualPrice: 53.33 EUR
 currency: EUR

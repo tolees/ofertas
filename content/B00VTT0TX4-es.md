@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VTT0TX4-es Skechers Synergy-Winter Nights Botas para Mujer Negro...'
+sku: 'B00VTT0TX4-es'
 tags: [  ]
 actualPrice: 30.38 EUR
 currency: EUR

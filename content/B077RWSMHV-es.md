@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077RWSMHV-es MYCARBON Escala del Equipaje Pesa Maletas Báscula Digital...'
+sku: 'B077RWSMHV-es'
 tags: [  ]
 actualPrice: 11.54 EUR
 currency: EUR

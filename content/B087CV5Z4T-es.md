@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087CV5Z4T-es Cámara Web con micrófono cámara Web Full HD 1296P cámara...'
+sku: 'B087CV5Z4T-es'
 tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F2N3TRP-es Puma Axis Zapatillas Unisex Adulto Black White 43 EU'
+sku: 'B07F2N3TRP-es'
 tags: [  ]
 actualPrice: 35.65 EUR
 currency: EUR

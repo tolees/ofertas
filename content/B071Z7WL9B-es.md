@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071Z7WL9B-es Carissima Gold - Pendientes para mujer 9 k 375 oro bicolor...'
+sku: 'B071Z7WL9B-es'
 tags: [  ]
 actualPrice: 69.0 EUR
 currency: EUR

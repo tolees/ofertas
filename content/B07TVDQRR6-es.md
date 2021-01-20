@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVDQRR6-es Funko- Pop Movies: Warriors-Cochise The Collectible Toy...'
+sku: 'B07TVDQRR6-es'
 tags: [  ]
 actualPrice: 10.0 EUR
 currency: EUR

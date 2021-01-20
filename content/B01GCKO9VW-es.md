@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GCKO9VW-es GoPro AMBSM-001 - Soporte Profesional para rieles de...'
+sku: 'B01GCKO9VW-es'
 tags: [  ]
 actualPrice: 30.37 EUR
 currency: EUR

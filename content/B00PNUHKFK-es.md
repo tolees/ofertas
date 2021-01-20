@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PNUHKFK-es adidas Originals Superstar Zapatillas Unisex Adulto Blanco...'
+sku: 'B00PNUHKFK-es'
 tags: [  ]
 actualPrice: 70.0 EUR
 currency: EUR

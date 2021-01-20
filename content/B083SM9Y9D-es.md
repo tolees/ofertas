@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083SM9Y9D-es Masajeador Portátil 10 modos ricaricabile'
+sku: 'B083SM9Y9D-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

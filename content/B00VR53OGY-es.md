@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VR53OGY-es Skechers Men s Stamina Cutback Trainers Blue Navy & Black...'
+sku: 'B00VR53OGY-es'
 tags: [  ]
 actualPrice: 47.95 EUR
 currency: EUR

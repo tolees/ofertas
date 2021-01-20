@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QVZV8Q5-es Exprimidor Manual de Acero Inoxidable 304 con Recipiente...'
+sku: 'B07QVZV8Q5-es'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

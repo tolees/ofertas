@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0797TLSGC-es VENTILADOR Digital Dardaruga WFD NEBULIZADOR tanque XXL de...'
+sku: 'B0797TLSGC-es'
 tags: [  ]
 actualPrice: 109.99 EUR
 currency: EUR

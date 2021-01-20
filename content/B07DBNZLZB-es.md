@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DBNZLZB-es Espejo Retrovisor Coche bebé coche espejo para Vigilar al...'
+sku: 'B07DBNZLZB-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076HPV36V-es adidas Core18 Rn Jkt Y Sport Jacket Unisex niños Power...'
+sku: 'B076HPV36V-es'
 tags: [  ]
 actualPrice: 20.14 EUR
 currency: EUR

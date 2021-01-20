@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LLH6YGY-es Monix Mineral - Cacerola alta 24 cm aluminio forjado con...'
+sku: 'B01LLH6YGY-es'
 tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR

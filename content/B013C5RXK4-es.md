@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013C5RXK4-es Bolero Bebida Instantánea sin Azúcar Sabor Limón - Paquete...'
+sku: 'B013C5RXK4-es'
 tags: [  ]
 actualPrice: 7.95 EUR
 currency: EUR

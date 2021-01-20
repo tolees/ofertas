@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ITHI8RW-es Otterbox Clearly Protected Skin - Funda de Gel...'
+sku: 'B01ITHI8RW-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

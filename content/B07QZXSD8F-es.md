@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QZXSD8F-es Tonysa SU-668 1.5KM Sistema de Llamadas Restaurante...'
+sku: 'B07QZXSD8F-es'
 tags: [  ]
 actualPrice: 128.09 EUR
 currency: EUR

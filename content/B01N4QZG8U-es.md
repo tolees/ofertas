@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N4QZG8U-es L Oréal Paris Color Riche Mate Pintalabios mate rojo 347...'
+sku: 'B01N4QZG8U-es'
 tags: [  ]
 actualPrice: 8.45 EUR
 currency: EUR

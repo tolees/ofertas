@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KJXPRVP-es Guirnalda Luces Exterior Kenlita Cadena de Luces 15m IP65...'
+sku: 'B07KJXPRVP-es'
 tags: [  ]
 actualPrice: 48.99 EUR
 currency: EUR

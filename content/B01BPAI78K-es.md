@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BPAI78K-es Hugo Boss-Boss Agua fresca - 100 gr.'
+sku: 'B01BPAI78K-es'
 tags: [  ]
 actualPrice: 37.0 EUR
 currency: EUR

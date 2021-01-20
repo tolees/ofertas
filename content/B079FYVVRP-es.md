@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079FYVVRP-es Sveon SAC140 - Cargador de portátil Color Negro'
+sku: 'B079FYVVRP-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

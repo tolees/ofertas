@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NYTJJ6B-es Skechers Go Run 600 Zapatillas para Hombre Azul Blue...'
+sku: 'B07NYTJJ6B-es'
 tags: [  ]
 actualPrice: 38.55 EUR
 currency: EUR

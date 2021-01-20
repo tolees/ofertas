@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J9HJWP7-es Awenia Calcetines de Compresión Deportivos Medias...'
+sku: 'B07J9HJWP7-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

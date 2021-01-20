@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MMD1DVQ-es Sentido Y Sensibilidad [Blu-ray]'
+sku: 'B07MMD1DVQ-es'
 tags: [  ]
 actualPrice: 7.4 EUR
 currency: EUR

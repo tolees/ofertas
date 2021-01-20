@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0754PJG9N-es Salomon Shorts para running AGILE 5" tafetán negro hombre...'
+sku: 'B0754PJG9N-es'
 tags: [  ]
 actualPrice: 23.75 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1J7TVC-es Clarks Step Weltfree Zapatillas para Mujer Negro Black...'
+sku: 'B07N1J7TVC-es'
 tags: [  ]
 actualPrice: 21.39 EUR
 currency: EUR

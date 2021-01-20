@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085CDGC4Q-es FMPC Carcasa con Cuerda Samsung Galaxy A6 Plus 2018...'
+sku: 'B085CDGC4Q-es'
 tags: [  ]
 actualPrice: 8.9 EUR
 currency: EUR

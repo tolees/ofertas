@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S7QLWZ1-es Puma Persist Xt Knit Zapatillas Deportivas para Interior...'
+sku: 'B07S7QLWZ1-es'
 tags: [  ]
 actualPrice: 38.45 EUR
 currency: EUR

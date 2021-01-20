@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SCG885J-es Ice-Watch Reloj Analógico 16985'
+sku: 'B07SCG885J-es'
 tags: [  ]
 actualPrice: 69.0 EUR
 currency: EUR

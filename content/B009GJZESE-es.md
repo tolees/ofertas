@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009GJZESE-es WIDMANN Disfraz para Adulto Talla única 9438M'
+sku: 'B009GJZESE-es'
 tags: [  ]
 actualPrice: 5.6 EUR
 currency: EUR

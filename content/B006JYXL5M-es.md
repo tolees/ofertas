@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006JYXL5M-es El motor eléctrico se basa leche Nuby Natural Touch'
+sku: 'B006JYXL5M-es'
 tags: [  ]
 actualPrice: 9.71 EUR
 currency: EUR

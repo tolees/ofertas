@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KHQLL5B-es Auriculares Bluetooth Deportivos Syllable D15 Auriculares...'
+sku: 'B07KHQLL5B-es'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

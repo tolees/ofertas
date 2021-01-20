@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LY856ZO-es Teka | Placa de Vitrocerámica | Modelo TB6315 | 3 zonas...'
+sku: 'B01LY856ZO-es'
 tags: [  ]
 actualPrice: 149.0 EUR
 currency: EUR

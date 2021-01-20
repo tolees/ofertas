@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BVW9QW3-es seQoya - Crooked | Reloj de Madera con Esfera de Madera y...'
+sku: 'B07BVW9QW3-es'
 tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F1ZWJLX-es Samsung - Funda de silicona para Galaxy Note 9 color...'
+sku: 'B07F1ZWJLX-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

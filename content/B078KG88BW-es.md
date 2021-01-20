@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078KG88BW-es Puma Leader Vt SL Zapatillas de Running Unisex Adulto...'
+sku: 'B078KG88BW-es'
 tags: [  ]
 actualPrice: 43.95 EUR
 currency: EUR

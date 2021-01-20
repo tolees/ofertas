@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GCDV3TW-es Meterk Alicates para Crimpadora y Pelacables Kit 4 en 1...'
+sku: 'B07GCDV3TW-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

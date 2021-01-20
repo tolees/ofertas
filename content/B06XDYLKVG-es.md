@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XDYLKVG-es Kepmem Memoria USB de 16GB Figuras Tortuga con Llavero USB...'
+sku: 'B06XDYLKVG-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MSKM3H5-es Clarks Step Explor Hi Botas para Nieve para Hombre Azul...'
+sku: 'B07MSKM3H5-es'
 tags: [  ]
 actualPrice: 26.7 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SYHJXBS-es Auriculares Inalámbricos Deportivos AIWONS Audífonos...'
+sku: 'B07SYHJXBS-es'
 tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR

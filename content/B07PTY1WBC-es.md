@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PTY1WBC-es FREDI Cámara de Vigilancia para exteriore 1080P HD...'
+sku: 'B07PTY1WBC-es'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

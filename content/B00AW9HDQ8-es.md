@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00AW9HDQ8-es FERM WEM1042 Soldador de arco 40-100A'
+sku: 'B00AW9HDQ8-es'
 tags: [  ]
 actualPrice: 74.95 EUR
 currency: EUR

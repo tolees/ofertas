@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0756FGW5S-es Calcetines de Compresión de Algodón Orgánico Pack de 1...'
+sku: 'B0756FGW5S-es'
 tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR

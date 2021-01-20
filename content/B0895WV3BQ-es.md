@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0895WV3BQ-es Bebé Pantalones Cortos Niñas Niños Bombacho Estampado...'
+sku: 'B0895WV3BQ-es'
 tags: [  ]
 actualPrice: 5.29 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086ZHMHGN-es Microondas Cocina rápida Tejido de poliéster Lavable Bolsa...'
+sku: 'B086ZHMHGN-es'
 tags: [  ]
 actualPrice: 4.41 EUR
 currency: EUR

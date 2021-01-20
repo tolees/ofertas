@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00W9OYBN2-es Calvin Klein Radiant Cotton-Thong Tanga Negro Black Medium...'
+sku: 'B00W9OYBN2-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

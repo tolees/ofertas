@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HH223KV-es AmazonBasics - Auriculares de botón con micrófono Rojo'
+sku: 'B07HH223KV-es'
 tags: [  ]
 actualPrice: 5.19 EUR
 currency: EUR

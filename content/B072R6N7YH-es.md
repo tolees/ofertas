@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072R6N7YH-es adidas Crazy Explosive 2017 Zapatillas de Deporte para...'
+sku: 'B072R6N7YH-es'
 tags: [  ]
 actualPrice: 85.0 EUR
 currency: EUR

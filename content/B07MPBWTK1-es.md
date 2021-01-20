@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MPBWTK1-es Transmisor FM Manos Libres Bluetooth para Coche...'
+sku: 'B07MPBWTK1-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

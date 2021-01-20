@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y5DSBSQ-es GRIDINLUX. Batería de cocina. 8 piezas de Alta Gama...'
+sku: 'B07Y5DSBSQ-es'
 tags: [  ]
 actualPrice: 49.97 EUR
 currency: EUR

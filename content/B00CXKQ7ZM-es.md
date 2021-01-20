@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CXKQ7ZM-es Philips PHICSP630 - Altavoces coaxiales para Coche 16.5 cm...'
+sku: 'B00CXKQ7ZM-es'
 tags: [  ]
 actualPrice: 23.95 EUR
 currency: EUR

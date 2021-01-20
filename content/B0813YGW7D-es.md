@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0813YGW7D-es adidas Duramo Lite 2.0 Zapatillas para Correr para Hombre...'
+sku: 'B0813YGW7D-es'
 tags: [  ]
 actualPrice: 38.99 EUR
 currency: EUR

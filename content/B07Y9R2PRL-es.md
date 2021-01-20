@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y9R2PRL-es Junfire 2019 - Funda para iPad de 10 2 Pulgadas función...'
+sku: 'B07Y9R2PRL-es'
 tags: [  ]
 actualPrice: 28.24 EUR
 currency: EUR

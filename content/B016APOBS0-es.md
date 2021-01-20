@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016APOBS0-es Twistshake 78012 - Biberón color Blanco'
+sku: 'B016APOBS0-es'
 tags: [  ]
 actualPrice: 6.49 EUR
 currency: EUR

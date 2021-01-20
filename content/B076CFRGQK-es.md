@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076CFRGQK-es Samsonite 93057-1820 maletines para portátil 39 6 cm 15.6"...'
+sku: 'B076CFRGQK-es'
 tags: [  ]
 actualPrice: 35.09 EUR
 currency: EUR

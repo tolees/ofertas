@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NN6IYCE-es Panasonic Lumix DMC-LX100 - Cámara Compacta Premium de...'
+sku: 'B00NN6IYCE-es'
 tags: [  ]
 actualPrice: 435.2 EUR
 currency: EUR

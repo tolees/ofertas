@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V4RVD4J-es Calvin Klein - Primary L 5cc W/Coin Carteras Hombre Negro...'
+sku: 'B07V4RVD4J-es'
 tags: [  ]
 actualPrice: 42.2 EUR
 currency: EUR

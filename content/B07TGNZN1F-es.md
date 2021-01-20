@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TGNZN1F-es Only & Sons NOS Onssato 7 Multi Clr Knit Noos suéter Gris...'
+sku: 'B07TGNZN1F-es'
 tags: [  ]
 actualPrice: 10.71 EUR
 currency: EUR

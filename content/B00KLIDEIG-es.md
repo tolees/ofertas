@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KLIDEIG-es Calvin Klein 0000F3785E Sujetador Deportivo para Mujer...'
+sku: 'B00KLIDEIG-es'
 tags: [  ]
 actualPrice: 22.0 EUR
 currency: EUR

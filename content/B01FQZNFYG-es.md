@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FQZNFYG-es Artistry Set de Niré: brochas de maquillaje veganas con...'
+sku: 'B01FQZNFYG-es'
 tags: [  ]
 actualPrice: 33.71 EUR
 currency: EUR

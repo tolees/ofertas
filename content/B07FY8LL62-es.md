@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FY8LL62-es Wrangler Sign Off Crew Error:# Gris Mid Grey Mel A37...'
+sku: 'B07FY8LL62-es'
 tags: [  ]
 actualPrice: 27.85 EUR
 currency: EUR

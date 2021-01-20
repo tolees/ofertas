@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RCJRKV-es HAUEA Almohadilla Teclado y Alfombrilla de Ratón...'
+sku: 'B073RCJRKV-es'
 tags: [  ]
 actualPrice: 8.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082XXWSFZ-es Orfeld 13" Remachadora de Tuercas Remachadora con M3 M4 M5...'
+sku: 'B082XXWSFZ-es'
 tags: [  ]
 actualPrice: 41.99 EUR
 currency: EUR

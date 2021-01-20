@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KGGHYJJ-es Buff R-Grace Gorra Pack Run Mujer Multi Talla única'
+sku: 'B07KGGHYJJ-es'
 tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR

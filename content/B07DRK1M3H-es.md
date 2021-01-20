@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DRK1M3H-es Valencia F.C. - Pulsera Valencia Club De Fútbol Fashion...'
+sku: 'B07DRK1M3H-es'
 tags: [  ]
 actualPrice: 5.0 EUR
 currency: EUR

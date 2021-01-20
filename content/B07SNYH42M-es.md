@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SNYH42M-es Frozen 2 Classic Disfraz Anna Travel M Multicolor Rubie S...'
+sku: 'B07SNYH42M-es'
 tags: [  ]
 actualPrice: 17.24 EUR
 currency: EUR

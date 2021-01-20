@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PTM6TG4-es Kipling - Duo Pouch 2 x Monederos Mujer Multicolor Camo...'
+sku: 'B07PTM6TG4-es'
 tags: [  ]
 actualPrice: 14.5 EUR
 currency: EUR

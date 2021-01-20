@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YVP3YYP-es Essie Pintauñas Nude tono 654 Hold´em Tight - 13.5 ml'
+sku: 'B07YVP3YYP-es'
 tags: [  ]
 actualPrice: 6.31 EUR
 currency: EUR

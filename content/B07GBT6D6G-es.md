@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GBT6D6G-es Pulsar Reloj analogico para Mujer de Cuarzo con Correa en...'
+sku: 'B07GBT6D6G-es'
 tags: [  ]
 actualPrice: 46.67 EUR
 currency: EUR

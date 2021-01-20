@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CV97QBE-es De Longhi Dolce Gusto Mini Me EDG305.BG - Cafetera de...'
+sku: 'B00CV97QBE-es'
 tags: [  ]
 actualPrice: 63.84 EUR
 currency: EUR

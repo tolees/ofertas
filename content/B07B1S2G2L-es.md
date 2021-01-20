@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B1S2G2L-es Skechers Women s Go Walk Evolution Ultra-Reach Slip On...'
+sku: 'B07B1S2G2L-es'
 tags: [  ]
 actualPrice: 38.95 EUR
 currency: EUR

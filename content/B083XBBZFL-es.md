@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083XBBZFL-es Kosiy Dispensadores de jabón automático Dispensador Jabón...'
+sku: 'B083XBBZFL-es'
 tags: [  ]
 actualPrice: 18.47 EUR
 currency: EUR

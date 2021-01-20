@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088JTFWRT-es First - Lote de 50 máscaras de protección para la boca 3...'
+sku: 'B088JTFWRT-es'
 tags: [  ]
 actualPrice: 11.0 EUR
 currency: EUR

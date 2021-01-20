@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RNN1BG-es Columbia Drainmaker IV Zapatillas de Senderismo para Mujer...'
+sku: 'B073RNN1BG-es'
 tags: [  ]
 actualPrice: 33.6 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078YXHJ7Z-es Calzoncillo tanga sexi sensual erotico para hombres. TALLA...'
+sku: 'B078YXHJ7Z-es'
 tags: [  ]
 actualPrice: 5.95 EUR
 currency: EUR

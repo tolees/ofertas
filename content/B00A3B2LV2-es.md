@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00A3B2LV2-es Essie Esmalte de Uñas Tono: 014 Fiji'
+sku: 'B00A3B2LV2-es'
 tags: [  ]
 actualPrice: 4.79 EUR
 currency: EUR

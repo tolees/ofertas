@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MJFWHWD-es MaGeek® [Paquete de 5] 0 3m Corto Cables USB Tipo C USB-C...'
+sku: 'B07MJFWHWD-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

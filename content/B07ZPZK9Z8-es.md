@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZPZK9Z8-es Masajeador Electrónico 10 Modos Vibración Masajeador de...'
+sku: 'B07ZPZK9Z8-es'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KZ8JWGE-es 10 "12" 16 " Barra De Apoyo De Seguridad De Soporte De...'
+sku: 'B01KZ8JWGE-es'
 tags: [  ]
 actualPrice: 6.26 EUR
 currency: EUR

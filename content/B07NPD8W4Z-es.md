@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NPD8W4Z-es Skechers Men s DYNAMIGHT 2.0-FALLFORD Trainers Grey...'
+sku: 'B07NPD8W4Z-es'
 tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR

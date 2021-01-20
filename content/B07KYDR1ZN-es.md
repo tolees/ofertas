@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KYDR1ZN-es JASHKE Traje Inflable alienígena Mascota Cosplay Disfraces...'
+sku: 'B07KYDR1ZN-es'
 tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR

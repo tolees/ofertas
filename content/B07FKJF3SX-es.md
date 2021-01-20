@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FKJF3SX-es Darksiders III - Edición Estándar'
+sku: 'B07FKJF3SX-es'
 tags: [  ]
 actualPrice: 10.61 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LW3XDVB-es Pañuelos Kleenex Ultrasoft Delicados y Suaves - 5 Packs de...'
+sku: 'B01LW3XDVB-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

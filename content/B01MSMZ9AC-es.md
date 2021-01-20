@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MSMZ9AC-es Superga 2750 COTU Classic Zapatillas Unisex Verde Green...'
+sku: 'B01MSMZ9AC-es'
 tags: [  ]
 actualPrice: 38.53 EUR
 currency: EUR

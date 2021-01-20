@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IBDVR4G-es Remington Bodyguard BHT2000A - Afeitadora Corporal...'
+sku: 'B00IBDVR4G-es'
 tags: [  ]
 actualPrice: 28.0 EUR
 currency: EUR

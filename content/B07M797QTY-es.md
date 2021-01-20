@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M797QTY-es Clarks Un Larvik Peak Botas clásicas. para Hombre Piel...'
+sku: 'B07M797QTY-es'
 tags: [  ]
 actualPrice: 57.31 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JJ22G4W-es AMDXD Joyería Pendientes para Mujer Oro de 18K Lágrima...'
+sku: 'B07JJ22G4W-es'
 tags: [  ]
 actualPrice: 6398.99 EUR
 currency: EUR

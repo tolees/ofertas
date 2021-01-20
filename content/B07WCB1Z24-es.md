@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WCB1Z24-es Awenia Calcetines de Compresión Deportivos Medias...'
+sku: 'B07WCB1Z24-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

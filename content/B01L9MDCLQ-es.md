@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01L9MDCLQ-es Belkin F8J206BTGRY - Funda y Soporte para Apple Pencil...'
+sku: 'B01L9MDCLQ-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

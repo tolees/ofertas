@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08D6DRP87-es Primewire - 0 25m Cable de Red Cat 8 - Gigabit Ethernet...'
+sku: 'B08D6DRP87-es'
 tags: [  ]
 actualPrice: 3.49 EUR
 currency: EUR

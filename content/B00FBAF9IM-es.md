@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FBAF9IM-es Lacoste L1230 Polo de Manga Corta para Hombre Azul Marine...'
+sku: 'B00FBAF9IM-es'
 tags: [  ]
 actualPrice: 47.95 EUR
 currency: EUR

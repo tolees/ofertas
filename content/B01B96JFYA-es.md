@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01B96JFYA-es ESI PROPOLAID PROPOLGOLA Spray 20ml voz de la garganta...'
+sku: 'B01B96JFYA-es'
 tags: [  ]
 actualPrice: 9.69 EUR
 currency: EUR

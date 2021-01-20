@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KBMSXA6-es Control Nature Preservativos - Pack de 24 preservativos'
+sku: 'B00KBMSXA6-es'
 tags: [  ]
 actualPrice: 6.49 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y7SSMNK-es Funda compatible con Samsung Galaxy Note 9 diseño de...'
+sku: 'B07Y7SSMNK-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

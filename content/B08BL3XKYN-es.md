@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BL3XKYN-es Lima Electrica Pies Pedicura Profesional Durezas LimaPies...'
+sku: 'B08BL3XKYN-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

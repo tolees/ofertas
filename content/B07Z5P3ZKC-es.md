@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z5P3ZKC-es Masajeador personal de varita recargable masajeador...'
+sku: 'B07Z5P3ZKC-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

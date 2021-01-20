@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072HLR5MS-es CINTA ANTIDESLIZANTE - LUMINOSO FLUORESCENTE - 50 mm x 5 M...'
+sku: 'B072HLR5MS-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

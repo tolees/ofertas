@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K6ZK1T8-es Asics Patriot 10 Zapatillas de Running para Hombre Azul...'
+sku: 'B07K6ZK1T8-es'
 tags: [  ]
 actualPrice: 39.35 EUR
 currency: EUR

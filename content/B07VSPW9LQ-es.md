@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VSPW9LQ-es jerryvon Cocina Infantil Madera Pequeña Portatil con...'
+sku: 'B07VSPW9LQ-es'
 tags: [  ]
 actualPrice: 76.99 EUR
 currency: EUR

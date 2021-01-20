@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LMKL8OY-es Quiksilver Carver Suede M Sndl Tkd0 - Chancletas para...'
+sku: 'B00LMKL8OY-es'
 tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR

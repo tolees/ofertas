@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BZHSZ4M-es Joma Winner Camisetas Equip. M/c Hombre Royal/Blanco'
+sku: 'B07BZHSZ4M-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085SQR1HL-es Jack & Jones JJIARUBA JJSWIM Shorts AKM STS Bañador para...'
+sku: 'B085SQR1HL-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

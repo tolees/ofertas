@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086JHXXYK-es N/ A Mascara Ninos Mascarilla Antipolvo Boca Mascarillas...'
+sku: 'B086JHXXYK-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

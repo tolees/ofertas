@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S2QMG5S-es New Balance 411 Zapatillas Deportivas para Interior para...'
+sku: 'B07S2QMG5S-es'
 tags: [  ]
 actualPrice: 30.04 EUR
 currency: EUR

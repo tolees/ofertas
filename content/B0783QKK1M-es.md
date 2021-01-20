@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0783QKK1M-es MagiDeal 4 Pedazos de Tren de Aterrizaje Accesorio...'
+sku: 'B0783QKK1M-es'
 tags: [  ]
 actualPrice: 11.63 EUR
 currency: EUR

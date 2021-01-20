@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DNBLLRB-es DB15 Adaptador de conector de 15 pines adaptador de puerto...'
+sku: 'B07DNBLLRB-es'
 tags: [  ]
 actualPrice: 6.37 EUR
 currency: EUR

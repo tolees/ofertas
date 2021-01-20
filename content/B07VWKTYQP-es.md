@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VWKTYQP-es SkinXmed Crema Glúteos y Muslos | Reafirmante +...'
+sku: 'B07VWKTYQP-es'
 tags: [  ]
 actualPrice: 49.9 EUR
 currency: EUR

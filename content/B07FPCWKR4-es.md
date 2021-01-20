@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FPCWKR4-es BEZOX Lima y Elevador de Uñas Encarnadas - Gancho...'
+sku: 'B07FPCWKR4-es'
 tags: [  ]
 actualPrice: 10.9 EUR
 currency: EUR

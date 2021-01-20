@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01F5OPRG2-es Muévete | Potente antiinflamatorio con acción analgésica |...'
+sku: 'B01F5OPRG2-es'
 tags: [  ]
 actualPrice: 12.7 EUR
 currency: EUR

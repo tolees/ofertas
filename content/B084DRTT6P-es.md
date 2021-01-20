@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084DRTT6P-es Lékué 8420460013921 Molde Pretzel helado Silicona Negro'
+sku: 'B084DRTT6P-es'
 tags: [  ]
 actualPrice: 3.36 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JLLD8N7-es TECKEPIC Fitness Tracker Color Screen Activity Tracker...'
+sku: 'B07JLLD8N7-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

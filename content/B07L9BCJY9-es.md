@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9BCJY9-es Nike Legend React 2 Zapatillas de Trail Running para...'
+sku: 'B07L9BCJY9-es'
 tags: [  ]
 actualPrice: 39.8 EUR
 currency: EUR

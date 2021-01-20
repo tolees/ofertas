@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013J7WUGC-es Edifier H840 - Auriculares de Diadema'
+sku: 'B013J7WUGC-es'
 tags: [  ]
 actualPrice: 49.42 EUR
 currency: EUR

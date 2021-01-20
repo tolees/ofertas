@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QV1V4TJ-es POWER GUIDANCE Escalera de Velocidad Escalera de Agilidad...'
+sku: 'B07QV1V4TJ-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

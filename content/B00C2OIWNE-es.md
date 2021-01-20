@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00C2OIWNE-es Arnold 1194-X1-0030 - Juego de limas para afilar sierras...'
+sku: 'B00C2OIWNE-es'
 tags: [  ]
 actualPrice: 12.08 EUR
 currency: EUR

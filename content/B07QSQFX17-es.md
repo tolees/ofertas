@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QSQFX17-es Amzchef Picadora de Carne Eléctrica con alta y baja...'
+sku: 'B07QSQFX17-es'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

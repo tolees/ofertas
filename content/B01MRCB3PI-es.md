@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MRCB3PI-es Montse Interiors S.L. Relleno NÓRDICO SINTÉTICO Invierno...'
+sku: 'B01MRCB3PI-es'
 tags: [  ]
 actualPrice: 28.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PH1ZLXG-es Juego de 3 Bolsas de Almacenaje Plegable Caja de Tela de...'
+sku: 'B07PH1ZLXG-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

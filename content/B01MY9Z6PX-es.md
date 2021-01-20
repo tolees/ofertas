@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MY9Z6PX-es Victoria Basket Lona Piso Negro Zapatillas Unisex Adulto...'
+sku: 'B01MY9Z6PX-es'
 tags: [  ]
 actualPrice: 35.21 EUR
 currency: EUR

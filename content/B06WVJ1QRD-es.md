@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WVJ1QRD-es Safety 1st Travel Booster Trona de viaje portátil Asiento...'
+sku: 'B06WVJ1QRD-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

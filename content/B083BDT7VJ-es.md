@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083BDT7VJ-es Grsta Botella de Agua Acero Inoxidable sin BPA Pared...'
+sku: 'B083BDT7VJ-es'
 tags: [  ]
 actualPrice: 15.39 EUR
 currency: EUR

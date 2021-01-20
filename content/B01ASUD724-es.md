@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ASUD724-es Melissa & Doug- On The Farm Juego con Pegatines...'
+sku: 'B01ASUD724-es'
 tags: [  ]
 actualPrice: 4.41 EUR
 currency: EUR

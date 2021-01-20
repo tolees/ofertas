@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CY1W7IU-es HUION Inalámbrico Tableta Gráfica WH1409'
+sku: 'B01CY1W7IU-es'
 tags: [  ]
 actualPrice: 80.09 EUR
 currency: EUR

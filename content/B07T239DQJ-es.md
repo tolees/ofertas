@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T239DQJ-es Simpeak Funda Compatible con Xiaomi Mi 9T / Mi 9T Pro +...'
+sku: 'B07T239DQJ-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

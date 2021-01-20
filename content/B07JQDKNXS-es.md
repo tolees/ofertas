@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JQDKNXS-es XFX RX-590P8DFD6 Tarjeta Gráfica Radeon RX 590 Tamaño...'
+sku: 'B07JQDKNXS-es'
 tags: [  ]
 actualPrice: 219.91 EUR
 currency: EUR

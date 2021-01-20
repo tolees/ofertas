@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086ZMT6H8-es B Blesiya Caja De Almacenamiento De Batería Caja De...'
+sku: 'B086ZMT6H8-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

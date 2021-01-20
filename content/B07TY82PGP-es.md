@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TY82PGP-es Thomas Sabo Mujer Vermeil Abalorios K0334-414-7'
+sku: 'B07TY82PGP-es'
 tags: [  ]
 actualPrice: 57.02 EUR
 currency: EUR

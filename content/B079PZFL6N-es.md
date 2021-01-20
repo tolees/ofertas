@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079PZFL6N-es Fujifilm FUJ105231 - Pel?cula instant instax mini pink...'
+sku: 'B079PZFL6N-es'
 tags: [  ]
 actualPrice: 8.09 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0002XVJZ0-es Slendertone Ceinture Electrodos de Repuesto para cinturón...'
+sku: 'B0002XVJZ0-es'
 tags: [  ]
 actualPrice: 10.45 EUR
 currency: EUR

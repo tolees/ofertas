@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QZHZLQG-es Mono para bebé recién Nacido Goku de Manga Corta con...'
+sku: 'B07QZHZLQG-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

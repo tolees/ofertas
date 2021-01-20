@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00E9WAPXM-es Bausch & Lomb - Biotrue One Day Esféricas - Lentes de...'
+sku: 'B00E9WAPXM-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

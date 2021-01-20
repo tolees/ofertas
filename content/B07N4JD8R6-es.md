@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N4JD8R6-es Superga 2750 COTU Classic Zapatillas Unisex Beige Beige...'
+sku: 'B07N4JD8R6-es'
 tags: [  ]
 actualPrice: 12.62 EUR
 currency: EUR

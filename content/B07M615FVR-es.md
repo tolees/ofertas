@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M615FVR-es AWESAFE GPS para Coches con 5 Pulgadas Pantalla LCD...'
+sku: 'B07M615FVR-es'
 tags: [  ]
 actualPrice: 45.99 EUR
 currency: EUR

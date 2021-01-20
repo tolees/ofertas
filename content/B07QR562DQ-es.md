@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QR562DQ-es Joligrace Bolsa de Maquillaje Profesional de tela Oxford...'
+sku: 'B07QR562DQ-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

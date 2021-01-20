@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00RGYXWT4-es Top Race Control remoto RC Blocks Robot Vehicle Building...'
+sku: 'B00RGYXWT4-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

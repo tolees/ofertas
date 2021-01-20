@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YD9ZSNJ-es MOSOTECH Microfono Solapa Omnidireccional Lavalier...'
+sku: 'B07YD9ZSNJ-es'
 tags: [  ]
 actualPrice: 9.34 EUR
 currency: EUR

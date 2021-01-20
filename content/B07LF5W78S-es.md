@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LF5W78S-es Levi s 501 Fit Jeans Pantalón vaquero para hombre con...'
+sku: 'B07LF5W78S-es'
 tags: [  ]
 actualPrice: 34.71 EUR
 currency: EUR

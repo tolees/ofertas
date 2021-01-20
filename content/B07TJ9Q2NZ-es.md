@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJ9Q2NZ-es Levi s Original Batwing Blanco Hm Patch Polo White + 0000...'
+sku: 'B07TJ9Q2NZ-es'
 tags: [  ]
 actualPrice: 24.5 EUR
 currency: EUR

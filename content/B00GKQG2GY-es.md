@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GKQG2GY-es Wilson Pro Feel Antivibrador Raqueta-Unisex Rojo/Plata NS'
+sku: 'B00GKQG2GY-es'
 tags: [  ]
 actualPrice: 3.28 EUR
 currency: EUR

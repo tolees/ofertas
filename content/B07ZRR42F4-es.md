@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZRR42F4-es Suhctup Espejo Funda Reemplazo para Huawei Mate 10 Caso PC...'
+sku: 'B07ZRR42F4-es'
 tags: [  ]
 actualPrice: 10.98 EUR
 currency: EUR

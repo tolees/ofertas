@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JWX4BJ6-es G-STAR RAW Feldspar High Waist Straight Cargo Pantalones...'
+sku: 'B07JWX4BJ6-es'
 tags: [  ]
 actualPrice: 15.33 EUR
 currency: EUR

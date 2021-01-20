@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HHC7G1P-es SYOSS Laca - 6 de 400 ml. Total 2400 ml'
+sku: 'B07HHC7G1P-es'
 tags: [  ]
 actualPrice: 13.04 EUR
 currency: EUR

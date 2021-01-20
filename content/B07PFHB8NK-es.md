@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PFHB8NK-es New Balance 574v2 Zapatillas para Hombre Azul Blue Blue 37 EU'
+sku: 'B07PFHB8NK-es'
 tags: [  ]
 actualPrice: 42.63 EUR
 currency: EUR

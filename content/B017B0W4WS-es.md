@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017B0W4WS-es Tommy Hilfiger Bralette Sujetador Deportivo Blanco WHITE...'
+sku: 'B017B0W4WS-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

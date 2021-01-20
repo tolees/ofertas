@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PQQKQ13-es J.Endéar Tobillera de plata de ley 925 con símbolo de amor...'
+sku: 'B07PQQKQ13-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

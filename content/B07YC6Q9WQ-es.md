@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YC6Q9WQ-es PAIPU Deshumidificador Compacto y portátil 900 ml...'
+sku: 'B07YC6Q9WQ-es'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

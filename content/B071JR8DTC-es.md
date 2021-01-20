@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071JR8DTC-es find. HWCAP0002 Pantalones Para Hombre Beige Tan Large'
+sku: 'B071JR8DTC-es'
 tags: [  ]
 actualPrice: 9 EUR
 currency: EUR

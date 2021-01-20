@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01I9VUN0S-es New Balance Gw500v1 Zapatillas de Deporte para Mujer Azul...'
+sku: 'B01I9VUN0S-es'
 tags: [  ]
 actualPrice: 38.04 EUR
 currency: EUR

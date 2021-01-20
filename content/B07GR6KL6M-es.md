@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GR6KL6M-es Fdit Deriva Lazos pulir taladrar Cortes Herramientas de...'
+sku: 'B07GR6KL6M-es'
 tags: [  ]
 actualPrice: 7.19 EUR
 currency: EUR

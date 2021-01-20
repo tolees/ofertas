@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BKQT6B2-es Daniel Wellington 0505DW - Reloj con correa para mujer...'
+sku: 'B00BKQT6B2-es'
 tags: [  ]
 actualPrice: 59.9 EUR
 currency: EUR

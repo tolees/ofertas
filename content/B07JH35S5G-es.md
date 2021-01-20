@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JH35S5G-es Columbia Nikiski Botas Bajas para Mujer Negro Black 39 EU'
+sku: 'B07JH35S5G-es'
 tags: [  ]
 actualPrice: 96.89 EUR
 currency: EUR

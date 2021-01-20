@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GNF2M1M-es LKXHarleya 1000 pcs Unids/Lote Mini Artificial Cabezas...'
+sku: 'B07GNF2M1M-es'
 tags: [  ]
 actualPrice: 13.97 EUR
 currency: EUR

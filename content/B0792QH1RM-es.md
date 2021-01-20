@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0792QH1RM-es adidas V Racer 2.0 Zapatillas de Running para Hombre Negro...'
+sku: 'B0792QH1RM-es'
 tags: [  ]
 actualPrice: 38.42 EUR
 currency: EUR

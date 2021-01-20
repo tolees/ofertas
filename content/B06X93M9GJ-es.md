@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X93M9GJ-es Pierre Cardin PC106042S01 - Reloj de cuarzo para mujer...'
+sku: 'B06X93M9GJ-es'
 tags: [  ]
 actualPrice: 48.69 EUR
 currency: EUR

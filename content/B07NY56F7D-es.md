@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NY56F7D-es WAVLINK 1200Mbps Amplificador de Rango WiFi Señal 2.4 + 5...'
+sku: 'B07NY56F7D-es'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

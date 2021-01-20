@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JKGMYK8-es Panasonic KX-TGC210 - Teléfono Fijo Inalámbrico Digital...'
+sku: 'B07JKGMYK8-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

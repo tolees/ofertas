@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0013Y3CIO-es Superga 2750 COTU Classic Zapatillas Unisex-Adulto Blanco...'
+sku: 'B0013Y3CIO-es'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

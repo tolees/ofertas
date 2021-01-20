@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N8PZ1UO-es Dockers by Gerli 30st027-790200 Zapatillas para Hombre...'
+sku: 'B01N8PZ1UO-es'
 tags: [  ]
 actualPrice: 29.31 EUR
 currency: EUR

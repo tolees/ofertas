@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DL1CD53-es XINFULUK Eco-Friendly Kids Baby Write Draw Paint Water...'
+sku: 'B08DL1CD53-es'
 tags: [  ]
 actualPrice: 1.62 EUR
 currency: EUR

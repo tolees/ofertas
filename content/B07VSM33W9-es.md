@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VSM33W9-es Qishare 2 Pares de Calcetines Antideslizantes para Hombres...'
+sku: 'B07VSM33W9-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

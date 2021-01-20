@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VS7GBLC-es LUDOS Clamor Auriculares con Micrófono y Cable Cascos...'
+sku: 'B07VS7GBLC-es'
 tags: [  ]
 actualPrice: 16.97 EUR
 currency: EUR

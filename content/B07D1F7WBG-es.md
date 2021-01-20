@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D1F7WBG-es LaCabine Ampollas Contorno De Ojos 10 X 2 Ml - 1 Unidad'
+sku: 'B07D1F7WBG-es'
 tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR

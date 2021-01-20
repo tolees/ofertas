@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076HPGDD5-es Adidas Core 18 Presentation TR Pnt Pantalones Deportivos...'
+sku: 'B076HPGDD5-es'
 tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P82MVJ7-es Pop! Figura de Vinilo: Música: The Struts - Luke Spiller'
+sku: 'B07P82MVJ7-es'
 tags: [  ]
 actualPrice: 6.67 EUR
 currency: EUR

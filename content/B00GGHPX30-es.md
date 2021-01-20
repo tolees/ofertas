@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GGHPX30-es Max Factor LipFinity Colour & Gloss Lip Gloss Pintalabios...'
+sku: 'B00GGHPX30-es'
 tags: [  ]
 actualPrice: 7.21 EUR
 currency: EUR

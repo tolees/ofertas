@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DVXV6J7-es Columbia Trans Alps F.k.t. II Zapatillas de Running para...'
+sku: 'B07DVXV6J7-es'
 tags: [  ]
 actualPrice: 69.95 EUR
 currency: EUR

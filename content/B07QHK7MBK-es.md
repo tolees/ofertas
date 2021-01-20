@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QHK7MBK-es PUMA VCF Future Flare Mini Ball Balón de Fútbol Adultos...'
+sku: 'B07QHK7MBK-es'
 tags: [  ]
 actualPrice: 9.49 EUR
 currency: EUR

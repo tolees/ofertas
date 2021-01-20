@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KG2ED04-es Juego de 7 destornilladores aislados y buscapolos de...'
+sku: 'B01KG2ED04-es'
 tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR

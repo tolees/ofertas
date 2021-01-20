@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079G45BDX-es find. Botín de Ante con Tacón Mujer Beige Taupe Taupe 36 EU'
+sku: 'B079G45BDX-es'
 tags: [  ]
 actualPrice: 18 EUR
 currency: EUR

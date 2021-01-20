@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081C4NKVG-es Divit Shilp Streamline Ganchillo con mango ergonómico para...'
+sku: 'B081C4NKVG-es'
 tags: [  ]
 actualPrice: 8.95 EUR
 currency: EUR

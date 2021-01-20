@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NRNJMCG-es Apexcam 4K 20MP Cámara Deportiva WiFi EIS Ultra HD Cámara...'
+sku: 'B07NRNJMCG-es'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

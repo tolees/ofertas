@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077SKKQBM-es MTNG Rolling Zapatillas de Deporte para Mujer Rosa Raspe...'
+sku: 'B077SKKQBM-es'
 tags: [  ]
 actualPrice: 16.95 EUR
 currency: EUR

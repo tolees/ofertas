@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BGVHNPM-es Fruit of the Loom- Polo de Manga Corta Premium Entallado...'
+sku: 'B00BGVHNPM-es'
 tags: [  ]
 actualPrice: 9.45 EUR
 currency: EUR

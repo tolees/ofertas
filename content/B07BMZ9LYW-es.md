@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BMZ9LYW-es Skechers Flex Play Zapatillas para Niñas Gris Grey/Hot...'
+sku: 'B07BMZ9LYW-es'
 tags: [  ]
 actualPrice: 21.6 EUR
 currency: EUR

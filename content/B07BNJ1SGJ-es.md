@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BNJ1SGJ-es Disney Frozen - El reino del hielo Bañador de dos piezas...'
+sku: 'B07BNJ1SGJ-es'
 tags: [  ]
 actualPrice: 7.95 EUR
 currency: EUR

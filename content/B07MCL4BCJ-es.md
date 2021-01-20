@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MCL4BCJ-es Wand Vi-brador para Mu-jeres Wysgvazgv Pun-to G Ma-...'
+sku: 'B07MCL4BCJ-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

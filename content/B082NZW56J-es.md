@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082NZW56J-es KAILH Doble Pared con Aislamiento de Botella Agua de Acero...'
+sku: 'B082NZW56J-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

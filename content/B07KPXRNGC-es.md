@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPXRNGC-es Max Factor Base de maquillaje Corrector del color y...'
+sku: 'B07KPXRNGC-es'
 tags: [  ]
 actualPrice: 6.62 EUR
 currency: EUR

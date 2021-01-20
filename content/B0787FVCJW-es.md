@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0787FVCJW-es Brother MFCJ895DW - Equipo multifunción de tinta A4 con...'
+sku: 'B0787FVCJW-es'
 tags: [  ]
 actualPrice: 119.0 EUR
 currency: EUR

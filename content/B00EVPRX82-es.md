@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EVPRX82-es Calvin Klein Bottoms UP-Thong Tanga Blanco White 100 Small...'
+sku: 'B00EVPRX82-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

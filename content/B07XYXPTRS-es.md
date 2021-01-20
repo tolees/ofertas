@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XYXPTRS-es UCMDA Funda para Xiaomi Redmi Note 8 Pro con Protector de...'
+sku: 'B07XYXPTRS-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SGHQBWJ-es FITTOO Leggings Sin Costuras Corte de Malla Mujer Pantalon...'
+sku: 'B07SGHQBWJ-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

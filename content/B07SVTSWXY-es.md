@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SVTSWXY-es Maneki Neko Feng Shui Colgante con gato Japonés Porcelana...'
+sku: 'B07SVTSWXY-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

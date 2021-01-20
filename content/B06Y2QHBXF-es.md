@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y2QHBXF-es New Balance Hombre 574v2-core Trainers Zapatillas Azul...'
+sku: 'B06Y2QHBXF-es'
 tags: [  ]
 actualPrice: 61.9 EUR
 currency: EUR

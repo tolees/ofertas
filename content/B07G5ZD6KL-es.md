@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G5ZD6KL-es Botas de Mujer PANAMA JACK Panama 03 Igloo B34 Nobuck Natural'
+sku: 'B07G5ZD6KL-es'
 tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR

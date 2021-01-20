@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YVFQFFY-es Panamami Acero Inoxidable Aislamiento Pot Doble vacío...'
+sku: 'B07YVFQFFY-es'
 tags: [  ]
 actualPrice: 22.33 EUR
 currency: EUR

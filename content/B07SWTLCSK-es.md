@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SWTLCSK-es adidas Ultraboost 19 W Zapatillas de Running para Mujer...'
+sku: 'B07SWTLCSK-es'
 tags: [  ]
 actualPrice: 125.95 EUR
 currency: EUR

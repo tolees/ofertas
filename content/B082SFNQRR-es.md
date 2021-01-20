@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082SFNQRR-es AirPods Pro Funda Case ICARER Piel Genuina Cuero Luxury...'
+sku: 'B082SFNQRR-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

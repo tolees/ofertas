@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NR1V2KH-es Skechers Equalizer 3.0-Aquablast Zapatillas para Niños...'
+sku: 'B07NR1V2KH-es'
 tags: [  ]
 actualPrice: 38.45 EUR
 currency: EUR

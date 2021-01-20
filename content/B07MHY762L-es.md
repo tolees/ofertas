@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MHY762L-es Kickers Kickstyle Zapatillas para Hombre Azul Marine/Camel...'
+sku: 'B07MHY762L-es'
 tags: [  ]
 actualPrice: 28.48 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9B2BWG-es Under Armour Unstoppable Move Light FZ Parte Superior del...'
+sku: 'B07L9B2BWG-es'
 tags: [  ]
 actualPrice: 22.68 EUR
 currency: EUR

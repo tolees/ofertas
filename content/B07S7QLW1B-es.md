@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S7QLW1B-es PUMA Nrgy Neko Retro Wns Zapatillas de Running para Mujer...'
+sku: 'B07S7QLW1B-es'
 tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR

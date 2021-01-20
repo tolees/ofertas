@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01F3PZVHI-es Ice-Watch - ICE duo Ombre orange - Reloj blu para Hombre...'
+sku: 'B01F3PZVHI-es'
 tags: [  ]
 actualPrice: 60.67 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K3MR8CG-es L Oréal Paris Unlimited Máscara de Pestañas Waterproof...'
+sku: 'B07K3MR8CG-es'
 tags: [  ]
 actualPrice: 10.58 EUR
 currency: EUR

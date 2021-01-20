@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078T6NM5H-es Puma LIGA Casuals Shorts Pantalones Cortos Hombre Gris...'
+sku: 'B078T6NM5H-es'
 tags: [  ]
 actualPrice: 19.88 EUR
 currency: EUR

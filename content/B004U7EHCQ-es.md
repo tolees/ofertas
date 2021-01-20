@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004U7EHCQ-es Kärcher Tubo de chorro telescópico 2.642-347.0'
+sku: 'B004U7EHCQ-es'
 tags: [  ]
 actualPrice: 119.0 EUR
 currency: EUR

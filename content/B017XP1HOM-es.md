@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017XP1HOM-es Helly Hansen Vancouver Jacket Hombre Black S'
+sku: 'B017XP1HOM-es'
 tags: [  ]
 actualPrice: 64.28 EUR
 currency: EUR

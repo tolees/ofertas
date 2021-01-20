@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GBW5XJ1-es Baseus Soporte Móvil Coche Soporte del Coche Móvil...'
+sku: 'B07GBW5XJ1-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

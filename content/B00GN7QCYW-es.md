@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GN7QCYW-es LEE DAREN - Pantalones para hombre Azul 31W x 34L'
+sku: 'B00GN7QCYW-es'
 tags: [  ]
 actualPrice: 45.0 EUR
 currency: EUR

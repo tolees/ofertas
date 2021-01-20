@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDRZCXG-es MEDION AKOYA M80 - PCC893 Ordenador de sobremesa Intel...'
+sku: 'B07NDRZCXG-es'
 tags: [  ]
 actualPrice: 389.99 EUR
 currency: EUR

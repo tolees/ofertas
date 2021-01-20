@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FPTR9RT-es PUMA Axis Zapatillas Unisex Adulto Black White 40.5 EU'
+sku: 'B07FPTR9RT-es'
 tags: [  ]
 actualPrice: 24.65 EUR
 currency: EUR

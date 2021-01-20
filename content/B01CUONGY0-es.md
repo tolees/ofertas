@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CUONGY0-es Hoover TE-75 - Aspiradora 700 W A 27 kWh Aspiradora...'
+sku: 'B01CUONGY0-es'
 tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR

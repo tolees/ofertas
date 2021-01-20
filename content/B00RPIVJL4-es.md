@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00RPIVJL4-es adidas Zx Flux Zapatillas Unisex para Niños Negro...'
+sku: 'B00RPIVJL4-es'
 tags: [  ]
 actualPrice: 23.22 EUR
 currency: EUR

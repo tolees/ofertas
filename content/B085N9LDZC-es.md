@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085N9LDZC-es Dek - Zapatillas Tenis de Lona para Chico Hombre 44 EU Marino'
+sku: 'B085N9LDZC-es'
 tags: [  ]
 actualPrice: 20.2 EUR
 currency: EUR

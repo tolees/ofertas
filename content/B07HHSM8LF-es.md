@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HHSM8LF-es Jump Force - Collector s Edition'
+sku: 'B07HHSM8LF-es'
 tags: [  ]
 actualPrice: 129.95 EUR
 currency: EUR

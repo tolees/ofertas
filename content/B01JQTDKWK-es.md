@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JQTDKWK-es Amazon Essentials Drawstring Walk Short Azul Navy Small'
+sku: 'B01JQTDKWK-es'
 tags: [  ]
 actualPrice: 11.9 EUR
 currency: EUR

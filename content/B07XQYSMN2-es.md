@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XQYSMN2-es Espirógrafo multifuncional Gobernante geométrico Niños...'
+sku: 'B07XQYSMN2-es'
 tags: [  ]
 actualPrice: 3.19 EUR
 currency: EUR

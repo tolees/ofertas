@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PPQ4J9Y-es New Balance 500 h Zapatillas para Hombre Gris Grey Grey...'
+sku: 'B07PPQ4J9Y-es'
 tags: [  ]
 actualPrice: 47.73 EUR
 currency: EUR

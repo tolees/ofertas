@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0759PGM2R-es Clarks Brixby Cove Sandalia con Pulsera para Hombre Marrón...'
+sku: 'B0759PGM2R-es'
 tags: [  ]
 actualPrice: 43.95 EUR
 currency: EUR

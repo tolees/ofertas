@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WRKRV1T-es Espejo Maquillaje TOUCHBeauty Espejo de Maquillaje...'
+sku: 'B07WRKRV1T-es'
 tags: [  ]
 actualPrice: 32.98 EUR
 currency: EUR

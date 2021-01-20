@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SD1FPN7-es PUMA Future 5.3 Netfit FG/AG Botas de fútbol para Hombre...'
+sku: 'B07SD1FPN7-es'
 tags: [  ]
 actualPrice: 53.08 EUR
 currency: EUR

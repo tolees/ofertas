@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GODPB6U-es Baby Jogger Deluxe - Capazo color negro'
+sku: 'B00GODPB6U-es'
 tags: [  ]
 actualPrice: 159.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BQYOKG4-es Case Logic CPL102K - Bolsa para cámara Negro'
+sku: 'B00BQYOKG4-es'
 tags: [  ]
 actualPrice: 7.19 EUR
 currency: EUR

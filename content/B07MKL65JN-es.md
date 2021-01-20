@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MKL65JN-es TK.DILIGARM Look At You Becoming A Medical Coder and Shit...'
+sku: 'B07MKL65JN-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

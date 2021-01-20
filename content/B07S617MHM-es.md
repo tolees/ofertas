@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S617MHM-es Twinzen Bata Mujer Invierno Microfibra con Capucha para...'
+sku: 'B07S617MHM-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

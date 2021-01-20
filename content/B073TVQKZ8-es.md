@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073TVQKZ8-es Maxesla Mini Bomba de Agua Ultra Silencioso 220 GPH...'
+sku: 'B073TVQKZ8-es'
 tags: [  ]
 actualPrice: 14.59 EUR
 currency: EUR

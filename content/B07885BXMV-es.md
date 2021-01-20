@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07885BXMV-es Casio Smart Watch Armbanduhr LA670WEM-7EF'
+sku: 'B07885BXMV-es'
 tags: [  ]
 actualPrice: 32.9 EUR
 currency: EUR

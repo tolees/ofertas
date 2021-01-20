@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079Y9P6JY-es Funko Pop!- Disney: The Incredibles 2 Figura de Vinilo 29208'
+sku: 'B079Y9P6JY-es'
 tags: [  ]
 actualPrice: 10.46 EUR
 currency: EUR

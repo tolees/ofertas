@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004RETWGI-es Tuscany Silver Pulsera con plata de ley 925/1000'
+sku: 'B004RETWGI-es'
 tags: [  ]
 actualPrice: 43.0 EUR
 currency: EUR

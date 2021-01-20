@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPHL367-es Pop! Vinilo: Disney: The Lion King: Timon'
+sku: 'B07KPHL367-es'
 tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR

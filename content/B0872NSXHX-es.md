@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0872NSXHX-es Funda Transparente Compatible para Xiaomi Redmi Note 3...'
+sku: 'B0872NSXHX-es'
 tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR

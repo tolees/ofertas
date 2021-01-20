@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N5L6PWH-es Banpresto Blood of Saiyans Dragon Ball Estatua Super...'
+sku: 'B07N5L6PWH-es'
 tags: [  ]
 actualPrice: 25.0 EUR
 currency: EUR

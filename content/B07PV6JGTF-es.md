@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PV6JGTF-es KEXIN 32GB Memoria USB Tipo C y USB 3.0 OTG Flash Drive...'
+sku: 'B07PV6JGTF-es'
 tags: [  ]
 actualPrice: 13.49 EUR
 currency: EUR

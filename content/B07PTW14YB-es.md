@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PTW14YB-es Carrera- Mercedes-AMG F1 W09 EQ Power+L. Hamilton No.44...'
+sku: 'B07PTW14YB-es'
 tags: [  ]
 actualPrice: 16.95 EUR
 currency: EUR

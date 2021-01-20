@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FOHMB38-es ACTIVISION Skylanders: Swap Force - Figurina Single...'
+sku: 'B00FOHMB38-es'
 tags: [  ]
 actualPrice: 6.26 EUR
 currency: EUR

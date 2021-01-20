@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073PB2C1M-es Bourjois Velvet The Lipstick Barra de Labios Tono 02...'
+sku: 'B073PB2C1M-es'
 tags: [  ]
 actualPrice: 3.89 EUR
 currency: EUR

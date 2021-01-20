@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MP1QV1X-es BRIKSMAX Kit de Iluminación Led para Aston Martin...'
+sku: 'B07MP1QV1X-es'
 tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CWG4T4P-es Melatonina 1 8 mg con 5-HTP Magnesio y Vitamina B6 180...'
+sku: 'B07CWG4T4P-es'
 tags: [  ]
 actualPrice: 14.97 EUR
 currency: EUR

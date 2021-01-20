@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MXWC8JD-es Desigual 19WAXPBS - Bolso de hombro de Sintético Mujer...'
+sku: 'B07MXWC8JD-es'
 tags: [  ]
 actualPrice: 41.96 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0075CPSHQ-es POP! Vinilo - Disney: Minnie Mouse'
+sku: 'B0075CPSHQ-es'
 tags: [  ]
 actualPrice: 8.25 EUR
 currency: EUR

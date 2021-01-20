@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085G7FCY1-es 14 Piezas Perilla Estrella Negro M9 Tornillo Perilla de...'
+sku: 'B085G7FCY1-es'
 tags: [  ]
 actualPrice: 11.79 EUR
 currency: EUR

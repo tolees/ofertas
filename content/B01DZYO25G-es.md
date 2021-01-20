@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DZYO25G-es Optimum Nutrition ON Gold Standard BCAA Polvo Suplementos...'
+sku: 'B01DZYO25G-es'
 tags: [  ]
 actualPrice: 19.52 EUR
 currency: EUR

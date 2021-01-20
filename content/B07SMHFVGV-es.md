@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SMHFVGV-es One Piece: Unlimited World - Red Deluxe Edition Code In A Box'
+sku: 'B07SMHFVGV-es'
 tags: [  ]
 actualPrice: 18.85 EUR
 currency: EUR

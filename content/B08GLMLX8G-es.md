@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GLMLX8G-es SNUNGPHIR® 4pcs Protector de Pantalla para Xiaomi Mi Band...'
+sku: 'B08GLMLX8G-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

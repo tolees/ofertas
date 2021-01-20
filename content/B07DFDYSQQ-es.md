@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFDYSQQ-es Funko Little Shop of Horrors - Figura de Vinilo Orin...'
+sku: 'B07DFDYSQQ-es'
 tags: [  ]
 actualPrice: 9.59 EUR
 currency: EUR

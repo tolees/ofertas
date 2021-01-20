@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00D2LRUAM-es Levi s Limit Bufanda Unisex adulto Negro Black Talla única'
+sku: 'B00D2LRUAM-es'
 tags: [  ]
 actualPrice: 16.25 EUR
 currency: EUR

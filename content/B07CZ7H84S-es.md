@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZ7H84S-es Salomon RX Moc 4.0 Calzado de recuperación para Hombre...'
+sku: 'B07CZ7H84S-es'
 tags: [  ]
 actualPrice: 52.99 EUR
 currency: EUR

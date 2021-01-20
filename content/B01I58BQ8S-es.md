@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01I58BQ8S-es Silver HT Messenger - Bolsa para Laptop de hasta 15" Color...'
+sku: 'B01I58BQ8S-es'
 tags: [  ]
 actualPrice: 26.44 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VGL6SMV-es DURAGADGET Cable De Audio Compatible con Portátil Acer...'
+sku: 'B07VGL6SMV-es'
 tags: [  ]
 actualPrice: 9.89 EUR
 currency: EUR

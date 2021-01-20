@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0725R2MYD-es Adidas Terrex Tracerocker Zapatillas de Senderismo para...'
+sku: 'B0725R2MYD-es'
 tags: [  ]
 actualPrice: 39.98 EUR
 currency: EUR

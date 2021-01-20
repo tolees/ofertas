@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PAJNQES-es PUMA Suede Classic + Zapatillas para Hombre Azul...'
+sku: 'B00PAJNQES-es'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

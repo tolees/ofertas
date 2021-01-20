@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RMLGLYS-es Calvin Klein - Revealed Laptop Bag Organizadores de bolsos...'
+sku: 'B07RMLGLYS-es'
 tags: [  ]
 actualPrice: 57.22 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0758BJR2C-es BOSS Prime Polo Blanco White 100 Medium para Hombre'
+sku: 'B0758BJR2C-es'
 tags: [  ]
 actualPrice: 38.45 EUR
 currency: EUR

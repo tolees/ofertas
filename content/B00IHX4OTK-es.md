@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IHX4OTK-es Wild Stylers by Tecni.art - Depolish - Pasta...'
+sku: 'B00IHX4OTK-es'
 tags: [  ]
 actualPrice: 7.08 EUR
 currency: EUR

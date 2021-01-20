@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RMB91DJ-es Nike Air MAX Graviton Zapatillas de Running para Asfalto...'
+sku: 'B07RMB91DJ-es'
 tags: [  ]
 actualPrice: 67.3 EUR
 currency: EUR

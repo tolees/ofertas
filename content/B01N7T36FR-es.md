@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N7T36FR-es Campingaz Xpert 200 L Classic Barbacoa Gas BBQ Gas con 2...'
+sku: 'B01N7T36FR-es'
 tags: [  ]
 actualPrice: 110.56 EUR
 currency: EUR

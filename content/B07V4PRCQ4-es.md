@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V4PRCQ4-es WinArrow Cabezal Ducha Filtro Vitamina C Iones KDF55...'
+sku: 'B07V4PRCQ4-es'
 tags: [  ]
 actualPrice: 32.27 EUR
 currency: EUR

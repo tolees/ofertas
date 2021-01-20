@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CWZK4AM-es BRA Bella - Cafetera capacidad 4 tazas acero inoxidable 18/10'
+sku: 'B00CWZK4AM-es'
 tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BSZBVLH-es Wangel Adhesivo 7 Gancho Barra Soportes y Organizadores...'
+sku: 'B07BSZBVLH-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

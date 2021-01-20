@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PHX4WTL-es Inesita la jirafa mordedora. Juguete con caja regalo....'
+sku: 'B07PHX4WTL-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

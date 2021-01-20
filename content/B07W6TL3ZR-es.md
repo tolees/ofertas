@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W6TL3ZR-es Proyector portátil Nebula Mars II Pro de 500 lúmenes ANSI...'
+sku: 'B07W6TL3ZR-es'
 tags: [  ]
 actualPrice: 436.99 EUR
 currency: EUR

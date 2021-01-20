@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VQK94XG-es Batidora de Mano Inoxidable 5 en 1 - Batidor Batidor...'
+sku: 'B07VQK94XG-es'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

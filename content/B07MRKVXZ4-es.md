@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MRKVXZ4-es United Colors of Benetton Basic G1 Pantalones Gris Grigio...'
+sku: 'B07MRKVXZ4-es'
 tags: [  ]
 actualPrice: 6.01 EUR
 currency: EUR

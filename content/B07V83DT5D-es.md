@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V83DT5D-es Halloween Tatuajes Temporales Halloween Zombie Tattoo 3...'
+sku: 'B07V83DT5D-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

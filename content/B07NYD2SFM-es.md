@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NYD2SFM-es AVIWIS Cable Magnético Tipo C [2Pack 1M] Cargador Tipo C...'
+sku: 'B07NYD2SFM-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

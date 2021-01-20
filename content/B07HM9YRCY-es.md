@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HM9YRCY-es Maverick - Almohada de viaje de ALGODÓN. Cojín cervical...'
+sku: 'B07HM9YRCY-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

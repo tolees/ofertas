@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P5TLRQD-es American Tourister Jetglam Spinner M Expandible Maleta 67...'
+sku: 'B07P5TLRQD-es'
 tags: [  ]
 actualPrice: 95.56 EUR
 currency: EUR

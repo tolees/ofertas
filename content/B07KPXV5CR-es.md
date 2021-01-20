@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPXV5CR-es UniqueMe Funda para Nokia 9 Ultra [Slim Thin] TPU Funda...'
+sku: 'B07KPXV5CR-es'
 tags: [  ]
 actualPrice: 1.99 EUR
 currency: EUR

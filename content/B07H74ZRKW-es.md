@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H74ZRKW-es DEK - Zapatillas Deportivas de Memory Foam para Chico...'
+sku: 'B07H74ZRKW-es'
 tags: [  ]
 actualPrice: 18.7 EUR
 currency: EUR

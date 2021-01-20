@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CVHX2Y2-es Skechers Go Walk 4-Privilege Zapatillas sin Cordones para...'
+sku: 'B07CVHX2Y2-es'
 tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR

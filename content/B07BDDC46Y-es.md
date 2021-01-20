@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BDDC46Y-es N300 Repetidor Extensor de Red WiFi Enrutador Inalámbrico...'
+sku: 'B07BDDC46Y-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

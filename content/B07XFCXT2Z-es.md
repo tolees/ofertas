@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XFCXT2Z-es XGEAR Canasta Baloncesto Tablero Baloncesto Juego Al Aire...'
+sku: 'B07XFCXT2Z-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

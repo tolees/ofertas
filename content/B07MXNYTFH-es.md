@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MXNYTFH-es JACK & JONES Jfwbarton Canvas Zapatillas para Hombre Gris...'
+sku: 'B07MXNYTFH-es'
 tags: [  ]
 actualPrice: 32.49 EUR
 currency: EUR

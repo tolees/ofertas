@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08178RKBX-es Columbia Baker Valley Forro Polar con Cremallera Mujer...'
+sku: 'B08178RKBX-es'
 tags: [  ]
 actualPrice: 25.07 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K1YFIZC-es Emporio Armani Underwear 111357CC717 - Calzoncillos Para...'
+sku: 'B00K1YFIZC-es'
 tags: [  ]
 actualPrice: 31.0 EUR
 currency: EUR

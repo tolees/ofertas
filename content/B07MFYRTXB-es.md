@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MFYRTXB-es Adidas Fortagym CF Jr Zapatillas de Competición Unisex...'
+sku: 'B07MFYRTXB-es'
 tags: [  ]
 actualPrice: 19.98 EUR
 currency: EUR

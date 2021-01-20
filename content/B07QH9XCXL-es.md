@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QH9XCXL-es KUNGYO Portarrollos de Cocina Dispensador de Película...'
+sku: 'B07QH9XCXL-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

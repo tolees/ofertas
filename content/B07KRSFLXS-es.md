@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRSFLXS-es Columbia Sun Ridge Polo Hombre Azul Blue Sky S'
+sku: 'B07KRSFLXS-es'
 tags: [  ]
 actualPrice: 22.8 EUR
 currency: EUR

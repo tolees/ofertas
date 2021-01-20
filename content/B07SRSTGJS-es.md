@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SRSTGJS-es DC Shoes Switch Zapatillas de Skateboard para Hombre Negro...'
+sku: 'B07SRSTGJS-es'
 tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR

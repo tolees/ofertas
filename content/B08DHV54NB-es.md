@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DHV54NB-es JCKSimpleLife DIY Pintura por NúMeros Ciervo de Nieve...'
+sku: 'B08DHV54NB-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

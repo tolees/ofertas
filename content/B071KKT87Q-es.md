@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071KKT87Q-es YAZILIND Elegante Joyas de Estilo Floral con Encanto...'
+sku: 'B071KKT87Q-es'
 tags: [  ]
 actualPrice: 2.61 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005C3R8FU-es Vodka belvedere 40º 700 ml'
+sku: 'B005C3R8FU-es'
 tags: [  ]
 actualPrice: 29.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075S3CK1S-es Reebok Ovett Ropa Interior Hombre Negro/Gris S'
+sku: 'B075S3CK1S-es'
 tags: [  ]
 actualPrice: 21.6 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q6PQ8MR-es Smoby Pelota 230 MM LOL 50079'
+sku: 'B07Q6PQ8MR-es'
 tags: [  ]
 actualPrice: 3.25 EUR
 currency: EUR

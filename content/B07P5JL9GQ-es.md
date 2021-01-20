@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P5JL9GQ-es Joma Combi Camisetas Equip. M/c Hombre Burdeos XL'
+sku: 'B07P5JL9GQ-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

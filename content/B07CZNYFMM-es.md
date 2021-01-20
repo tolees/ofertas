@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZNYFMM-es DURAGADGET Práctico Divisor De Auriculares para...'
+sku: 'B07CZNYFMM-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

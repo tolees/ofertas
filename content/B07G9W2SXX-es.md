@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G9W2SXX-es Garmin Vivosmart 4 Pulsera de Actividad Adultos Unisex...'
+sku: 'B07G9W2SXX-es'
 tags: [  ]
 actualPrice: 90.99 EUR
 currency: EUR

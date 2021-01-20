@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y4YF7TK-es HP M01-F0026ns - Ordenador de sobremesa AMD Athlon SDRAM...'
+sku: 'B07Y4YF7TK-es'
 tags: [  ]
 actualPrice: 299.99 EUR
 currency: EUR

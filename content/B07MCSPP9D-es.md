@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MCSPP9D-es Napapijri DAIN C Suéter Gris Dark Grey Mel 197 S para Hombre'
+sku: 'B07MCSPP9D-es'
 tags: [  ]
 actualPrice: 21.15 EUR
 currency: EUR

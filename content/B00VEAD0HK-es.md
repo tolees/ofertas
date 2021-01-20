@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VEAD0HK-es Andador Caminador de aluminio con rueda doble y sin asiento'
+sku: 'B00VEAD0HK-es'
 tags: [  ]
 actualPrice: 55.99 EUR
 currency: EUR

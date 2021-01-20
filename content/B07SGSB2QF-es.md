@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SGSB2QF-es Nike ATM NK PRSTG Soccer Ball Adultos Unisex White/Sport...'
+sku: 'B07SGSB2QF-es'
 tags: [  ]
 actualPrice: 17.45 EUR
 currency: EUR

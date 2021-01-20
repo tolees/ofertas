@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GFKWNY6-es AmazonBasics - Botellero para vinos de 4 niveles tono cromado'
+sku: 'B07GFKWNY6-es'
 tags: [  ]
 actualPrice: 41.97 EUR
 currency: EUR

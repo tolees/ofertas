@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08F45HRDR-es XINFULUK Baño a Prueba de Agua Juguetes de luz LED Niños...'
+sku: 'B08F45HRDR-es'
 tags: [  ]
 actualPrice: 2.94 EUR
 currency: EUR

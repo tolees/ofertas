@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087JHRLL8-es BACKTURE Bandas Elásticas de Resistencia 11Pcs Juego de...'
+sku: 'B087JHRLL8-es'
 tags: [  ]
 actualPrice: 17.84 EUR
 currency: EUR

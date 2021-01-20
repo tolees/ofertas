@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087JSTNB4-es Saco Silla Universal Rosy Fuentes en blanco gris'
+sku: 'B087JSTNB4-es'
 tags: [  ]
 actualPrice: 69.9 EUR
 currency: EUR

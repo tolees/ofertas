@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071S5P3VG-es Asics Kanmei Zapatillas Para Correr - AW17-47'
+sku: 'B071S5P3VG-es'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

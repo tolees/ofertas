@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GCRMSRC-es Bluelucon 1 Unidad de paños faciales de protección Facial...'
+sku: 'B08GCRMSRC-es'
 tags: [  ]
 actualPrice: 1.89 EUR
 currency: EUR

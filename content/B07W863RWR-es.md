@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W863RWR-es BaByliss ST397E Planchas de pelo profesionales placas...'
+sku: 'B07W863RWR-es'
 tags: [  ]
 actualPrice: 38.99 EUR
 currency: EUR

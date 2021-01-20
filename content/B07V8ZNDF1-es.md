@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V8ZNDF1-es ASUS ROG Zephyrus G GA502DU-BQ015 - Portátil Gaming de 15...'
+sku: 'B07V8ZNDF1-es'
 tags: [  ]
 actualPrice: 971.93 EUR
 currency: EUR

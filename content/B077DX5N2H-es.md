@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077DX5N2H-es Rieker B8762 Zapatillas sin Cordones para Hombre Azul...'
+sku: 'B077DX5N2H-es'
 tags: [  ]
 actualPrice: 13.2 EUR
 currency: EUR

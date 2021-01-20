@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MXKSPCK-es Tommy Hilfiger Triangle Bra Sujetador de triángulo Gris...'
+sku: 'B07MXKSPCK-es'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GY2KN0A-es Vagisil Gel lubricante vaginal. Alivia la sequedad vaginal...'
+sku: 'B00GY2KN0A-es'
 tags: [  ]
 actualPrice: 5.9 EUR
 currency: EUR

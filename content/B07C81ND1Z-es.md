@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C81ND1Z-es Altavoz Portátil Bluetooth Muzili Altavoz Bluetooth...'
+sku: 'B07C81ND1Z-es'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

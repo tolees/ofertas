@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M8IEC6H-es Razer Gigantus - Alfombrilla de ratón con superficie extra...'
+sku: 'B01M8IEC6H-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

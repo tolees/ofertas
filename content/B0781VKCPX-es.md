@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0781VKCPX-es Habitdesign - Estantería librería estanteria despacho...'
+sku: 'B0781VKCPX-es'
 tags: [  ]
 actualPrice: 105.99 EUR
 currency: EUR

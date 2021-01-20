@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078NBZYNV-es Catherine Lansfield - Juego de Funda de edredón de fácil...'
+sku: 'B078NBZYNV-es'
 tags: [  ]
 actualPrice: 21.78 EUR
 currency: EUR

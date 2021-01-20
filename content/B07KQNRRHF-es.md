@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KQNRRHF-es KESOTO 3 Piezas Barril de Cerveza Modelo Accesorios de...'
+sku: 'B07KQNRRHF-es'
 tags: [  ]
 actualPrice: 10.66 EUR
 currency: EUR

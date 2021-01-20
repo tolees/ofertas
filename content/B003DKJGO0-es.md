@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003DKJGO0-es L Oréal Paris Máscara de Pestañas Volume Million Lashes...'
+sku: 'B003DKJGO0-es'
 tags: [  ]
 actualPrice: 9.49 EUR
 currency: EUR

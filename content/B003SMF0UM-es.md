@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003SMF0UM-es Prym - Agujas para Coser a Mano tamaños de 1 a 5 Color...'
+sku: 'B003SMF0UM-es'
 tags: [  ]
 actualPrice: 4.55 EUR
 currency: EUR

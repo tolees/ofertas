@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZTQBLG1-es Mickey Mouse Skater-Bolsa de Deporte'
+sku: 'B07ZTQBLG1-es'
 tags: [  ]
 actualPrice: 9.52 EUR
 currency: EUR

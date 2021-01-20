@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NNMJK5R-es Pack Vikingos 15 [DVD]'
+sku: 'B07NNMJK5R-es'
 tags: [  ]
 actualPrice: 46.19 EUR
 currency: EUR

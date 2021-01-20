@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZJXGLB-es Reloj Inteligente Ninos con Musica MP3 - Smartwatch Niños...'
+sku: 'B07MZJXGLB-es'
 tags: [  ]
 actualPrice: 39.49 EUR
 currency: EUR

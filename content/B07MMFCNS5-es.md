@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MMFCNS5-es upHere PWM Ventilador PC 120mm 5V ARGB LED Ventilador para...'
+sku: 'B07MMFCNS5-es'
 tags: [  ]
 actualPrice: 23.63 EUR
 currency: EUR

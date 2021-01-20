@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QYVLWHK-es ZERHOK Muñequeras y Diadema Sudor Conjunto de muñequeras y...'
+sku: 'B07QYVLWHK-es'
 tags: [  ]
 actualPrice: 8.97 EUR
 currency: EUR

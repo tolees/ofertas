@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S9SRW57-es PUMA Cilia Zapatillas para Mujer Rosa Black/Pink Rosewater...'
+sku: 'B07S9SRW57-es'
 tags: [  ]
 actualPrice: 27.24 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N4CR5M8-es Kipling - City Pack Mochilas Mujer Multicolor Tile Print...'
+sku: 'B07N4CR5M8-es'
 tags: [  ]
 actualPrice: 38.72 EUR
 currency: EUR

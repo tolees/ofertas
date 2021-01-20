@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W8XPH12-es JACK & JONES Jcomilla Sweat Hood Capucha Multicolor China...'
+sku: 'B07W8XPH12-es'
 tags: [  ]
 actualPrice: 15.93 EUR
 currency: EUR

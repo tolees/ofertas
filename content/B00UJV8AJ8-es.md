@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UJV8AJ8-es Final Fantasy XIV: Heavensward'
+sku: 'B00UJV8AJ8-es'
 tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR

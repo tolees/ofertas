@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004RUHPOS-es HP CE390X - Cartucho de tóner'
+sku: 'B004RUHPOS-es'
 tags: [  ]
 actualPrice: 169.0 EUR
 currency: EUR

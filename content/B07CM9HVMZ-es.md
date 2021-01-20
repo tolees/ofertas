@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CM9HVMZ-es STANLEY STHT77502-1 Nivel láser rojo cubix cruzadas y...'
+sku: 'B07CM9HVMZ-es'
 tags: [  ]
 actualPrice: 69.95 EUR
 currency: EUR

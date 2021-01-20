@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0117DMNTE-es Citizen Reloj Analógico para Hombre de Cuarzo con Correa...'
+sku: 'B0117DMNTE-es'
 tags: [  ]
 actualPrice: 44.4 EUR
 currency: EUR

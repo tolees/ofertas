@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073W4SCLZ-es Lorus Reloj de Pulsera RT315GX9'
+sku: 'B073W4SCLZ-es'
 tags: [  ]
 actualPrice: 57.96 EUR
 currency: EUR

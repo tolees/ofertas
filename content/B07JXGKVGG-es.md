@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JXGKVGG-es Lee Luke Jeans Dark Diamond Ft 30W / 32L para Hombre'
+sku: 'B07JXGKVGG-es'
 tags: [  ]
 actualPrice: 59.97 EUR
 currency: EUR

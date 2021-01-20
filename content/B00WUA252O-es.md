@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WUA252O-es Nixon Reloj Analógico para Hombre de Cuarzo con Correa en...'
+sku: 'B00WUA252O-es'
 tags: [  ]
 actualPrice: 137.07 EUR
 currency: EUR

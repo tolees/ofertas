@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ISTGSG4-es Bosch Serie | 6 EasyComfort TDS6040 - Centro de planchado...'
+sku: 'B01ISTGSG4-es'
 tags: [  ]
 actualPrice: 142.0 EUR
 currency: EUR

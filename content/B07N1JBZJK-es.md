@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1JBZJK-es Clarks Orinoco Dusk Botas Estilo Motero para Mujer Marrón...'
+sku: 'B07N1JBZJK-es'
 tags: [  ]
 actualPrice: 36.62 EUR
 currency: EUR

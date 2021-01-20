@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00STJP8VK-es Vision Xiam 1.5 - Pala de Nivel Medio Alto de Juego'
+sku: 'B00STJP8VK-es'
 tags: [  ]
 actualPrice: 69.95 EUR
 currency: EUR

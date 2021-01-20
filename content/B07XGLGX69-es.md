@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XGLGX69-es Skechers GO Run 400 V2 Zapatillas para Hombre Verde Verde...'
+sku: 'B07XGLGX69-es'
 tags: [  ]
 actualPrice: 32.16 EUR
 currency: EUR

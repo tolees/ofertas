@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UT2NX44-es Tommy Hilfiger Bralette Corsetto Gris GREY HEATHER 004 36...'
+sku: 'B00UT2NX44-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

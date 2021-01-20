@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005FP2YSG-es TFA 38.1028.10 Avisador de Cocina de Metal Negro Gris'
+sku: 'B005FP2YSG-es'
 tags: [  ]
 actualPrice: 6.37 EUR
 currency: EUR

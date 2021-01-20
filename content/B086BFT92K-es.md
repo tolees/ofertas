@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086BFT92K-es TENDYCOCO 100Pcs Cubren Los Zapatos Útiles Portátiles...'
+sku: 'B086BFT92K-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

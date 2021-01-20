@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFTKD3Y-es Zapatillas de Seguridad Hombres LM-30 Zapatos de Trabajo...'
+sku: 'B07LFTKD3Y-es'
 tags: [  ]
 actualPrice: 41.99 EUR
 currency: EUR

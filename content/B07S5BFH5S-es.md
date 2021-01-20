@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S5BFH5S-es NvWang Origami Papel Origami 100 Hojas 15 x 15 cm Doble...'
+sku: 'B07S5BFH5S-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

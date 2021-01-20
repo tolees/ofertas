@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007YFVP4E-es Faro Barcelona 70754 - AGRA Baliza bombilla incluida LED...'
+sku: 'B007YFVP4E-es'
 tags: [  ]
 actualPrice: 105.76 EUR
 currency: EUR

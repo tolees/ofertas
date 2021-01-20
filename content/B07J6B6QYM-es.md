@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J6B6QYM-es Cuña de Cama Ortopédica + Almohada anti-estrés! Cojín de...'
+sku: 'B07J6B6QYM-es'
 tags: [  ]
 actualPrice: 54.99 EUR
 currency: EUR

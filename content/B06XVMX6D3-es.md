@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XVMX6D3-es Mujer Plisada EláStica Escuela Skorts Tenis Con Ropa...'
+sku: 'B06XVMX6D3-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T4SCDM7-es Nike Women s Revolution 4 Running Shoe Mujer Azul Half...'
+sku: 'B07T4SCDM7-es'
 tags: [  ]
 actualPrice: 26.81 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086SXX8D2-es ZHBRE Humidificador de 400 ml de Gran Capacidad Apagado...'
+sku: 'B086SXX8D2-es'
 tags: [  ]
 actualPrice: 39.52 EUR
 currency: EUR

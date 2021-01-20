@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00QDTT986-es Bosch BER634GS1 Serie 8 - Microondas integrable / encastre...'
+sku: 'B00QDTT986-es'
 tags: [  ]
 actualPrice: 491.0 EUR
 currency: EUR

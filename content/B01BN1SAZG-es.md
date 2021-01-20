@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BN1SAZG-es ISDIN Lambdapil Cápsulas Anticaída del Cabello Fortalece...'
+sku: 'B01BN1SAZG-es'
 tags: [  ]
 actualPrice: 38.8 EUR
 currency: EUR

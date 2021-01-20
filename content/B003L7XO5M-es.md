@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003L7XO5M-es Solgar Full Spectrum Omega de Salmón Salvaje de Alaska...'
+sku: 'B003L7XO5M-es'
 tags: [  ]
 actualPrice: 31.0 EUR
 currency: EUR

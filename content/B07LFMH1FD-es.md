@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFMH1FD-es Levi s LS Baby tee Camiseta Multicolor Koronis Meteorite...'
+sku: 'B07LFMH1FD-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

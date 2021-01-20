@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBN44BY-es Kappa Klasen Zapatillas Unisex Adulto Coral/White 2910 45 EU'
+sku: 'B07LBN44BY-es'
 tags: [  ]
 actualPrice: 19.83 EUR
 currency: EUR

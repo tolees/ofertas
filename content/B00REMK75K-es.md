@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00REMK75K-es Cluse Reloj Analógico Automático para Mujer con Correa de...'
+sku: 'B00REMK75K-es'
 tags: [  ]
 actualPrice: 64.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00V6XSOR6-es Scitec Nutrition Protein Pancake comida funcional...'
+sku: 'B00V6XSOR6-es'
 tags: [  ]
 actualPrice: 13.13 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0011ECJ6M-es DeLOCK Cable Power SATA 15pin > 2X SATA HDD – Straight 0...'
+sku: 'B0011ECJ6M-es'
 tags: [  ]
 actualPrice: 3.04 EUR
 currency: EUR

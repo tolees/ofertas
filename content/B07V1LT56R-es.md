@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V1LT56R-es BRA Advanced - Batería de 3 piezas de aluminio fundido con...'
+sku: 'B07V1LT56R-es'
 tags: [  ]
 actualPrice: 83.99 EUR
 currency: EUR

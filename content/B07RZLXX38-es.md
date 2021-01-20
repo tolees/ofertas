@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZLXX38-es New Balance 373v2 Zapatillas para Hombre Azul Navy/White...'
+sku: 'B07RZLXX38-es'
 tags: [  ]
 actualPrice: 37.22 EUR
 currency: EUR

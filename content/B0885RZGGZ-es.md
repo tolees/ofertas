@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0885RZGGZ-es 【2 Pack】Abridor de puerta de latón sin contacto Higiene...'
+sku: 'B0885RZGGZ-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00W3QO0VE-es Nokia Lumia 640 XL - Smartphone 5.7" 3G Qualcomm MSM8926...'
+sku: 'B00W3QO0VE-es'
 tags: [  ]
 actualPrice: 132.43 EUR
 currency: EUR

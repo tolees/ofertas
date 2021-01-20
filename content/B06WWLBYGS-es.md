@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WWLBYGS-es HAORUI Spandex Lycra Elástica Cubierta de Mesa Paño de 6...'
+sku: 'B06WWLBYGS-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

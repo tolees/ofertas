@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SD146BC-es PUMA COURTFLEX V2 V INF Zapatillas Unisex niños Azul...'
+sku: 'B07SD146BC-es'
 tags: [  ]
 actualPrice: 10.02 EUR
 currency: EUR

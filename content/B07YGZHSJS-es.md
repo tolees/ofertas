@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YGZHSJS-es Kingston Canvas Select Plus Tarjeta microSD SDCS2/16GB...'
+sku: 'B07YGZHSJS-es'
 tags: [  ]
 actualPrice: 3.59 EUR
 currency: EUR

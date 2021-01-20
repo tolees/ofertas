@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K34JWGJ-es auna DigiPlug FM - Radio de Enchufe Radio con RDS...'
+sku: 'B07K34JWGJ-es'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

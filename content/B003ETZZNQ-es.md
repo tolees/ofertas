@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003ETZZNQ-es American Crew Classic Precision Blend Tinte Gel Crema...'
+sku: 'B003ETZZNQ-es'
 tags: [  ]
 actualPrice: 7.13 EUR
 currency: EUR

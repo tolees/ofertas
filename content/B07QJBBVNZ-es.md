@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QJBBVNZ-es ROYAL SLEEP Canapé Abatible 105x190 de Gran Capacidad Tapa...'
+sku: 'B07QJBBVNZ-es'
 tags: [  ]
 actualPrice: 279.99 EUR
 currency: EUR

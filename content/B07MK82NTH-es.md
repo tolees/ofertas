@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MK82NTH-es Le Coq Sportif Break COCARDE Zapatillas Unisex Adulto...'
+sku: 'B07MK82NTH-es'
 tags: [  ]
 actualPrice: 18.66 EUR
 currency: EUR

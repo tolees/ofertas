@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DB17V5T-es Citizen Reloj Analógico para Hombre de Cuarzo con Correa...'
+sku: 'B07DB17V5T-es'
 tags: [  ]
 actualPrice: 152.42 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078B2BWCW-es atFoliX Antichoque Película Protectora para Suunto EON...'
+sku: 'B078B2BWCW-es'
 tags: [  ]
 actualPrice: 6.39 EUR
 currency: EUR

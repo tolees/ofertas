@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086TSZYS1-es AIORNIY 1/5/10 piezas polvo antipolvo Nebelnebel-...'
+sku: 'B086TSZYS1-es'
 tags: [  ]
 actualPrice: 5.54 EUR
 currency: EUR

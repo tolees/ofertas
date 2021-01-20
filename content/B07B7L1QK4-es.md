@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B7L1QK4-es VASAGLE Carrito de Servicio de 3 Niveles Estantería...'
+sku: 'B07B7L1QK4-es'
 tags: [  ]
 actualPrice: 51.99 EUR
 currency: EUR

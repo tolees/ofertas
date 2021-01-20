@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y1LHKKH-es Wrangler ARIZONA DENIM PANTS Pantalones Bright Stroke 35W...'
+sku: 'B06Y1LHKKH-es'
 tags: [  ]
 actualPrice: 50.99 EUR
 currency: EUR

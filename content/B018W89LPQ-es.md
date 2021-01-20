@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018W89LPQ-es Superga 2790-COTROPEW Zapatillas Mujer Azul Marineblau 40...'
+sku: 'B018W89LPQ-es'
 tags: [  ]
 actualPrice: 34.76 EUR
 currency: EUR

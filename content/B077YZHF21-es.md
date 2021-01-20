@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077YZHF21-es Casio Reloj Digital para Mujer de Cuarzo con Correa en...'
+sku: 'B077YZHF21-es'
 tags: [  ]
 actualPrice: 23.73 EUR
 currency: EUR

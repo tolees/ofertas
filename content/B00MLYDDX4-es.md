@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MLYDDX4-es Reloj para mujer Tommy Hilfiger 1781488 mecanismo de...'
+sku: 'B00MLYDDX4-es'
 tags: [  ]
 actualPrice: 140.95 EUR
 currency: EUR

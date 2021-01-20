@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K8HSSRG-es MOSNOVO Funda para iPhone XR Transparente Carcasa para...'
+sku: 'B07K8HSSRG-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

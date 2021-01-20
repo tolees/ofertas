@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QLSYS2Y-es Britax Römer Silla de coche Nacimiento - 4 años hasta 18...'
+sku: 'B07QLSYS2Y-es'
 tags: [  ]
 actualPrice: 289.0 EUR
 currency: EUR

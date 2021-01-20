@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019DZ7U2S-es Sabrent Cable de extensión 22AWG USB 3.0 - A-Macho a...'
+sku: 'B019DZ7U2S-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

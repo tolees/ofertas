@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007QS7VX8-es Pierre Lannier 295C488 - Reloj analógico de Cuarzo para...'
+sku: 'B007QS7VX8-es'
 tags: [  ]
 actualPrice: 129.0 EUR
 currency: EUR

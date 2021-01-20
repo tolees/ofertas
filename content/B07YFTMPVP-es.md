@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YFTMPVP-es COOAU 4K Camara Deportiva cámara Web 20MP WiFi Underwater...'
+sku: 'B07YFTMPVP-es'
 tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR

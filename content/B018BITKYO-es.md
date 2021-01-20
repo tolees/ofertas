@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018BITKYO-es COMPRESSPORT Ultralight Visera Unisex Blanco Talla Única'
+sku: 'B018BITKYO-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

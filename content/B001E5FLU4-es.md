@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001E5FLU4-es Zippo Jim Beam | Emblem Lighter - Mechero Color Color...'
+sku: 'B001E5FLU4-es'
 tags: [  ]
 actualPrice: 34.45 EUR
 currency: EUR

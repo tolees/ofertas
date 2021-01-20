@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083DDTY4Y-es Sacaleches Sacaleches Manual Extractor de leche manual...'
+sku: 'B083DDTY4Y-es'
 tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR

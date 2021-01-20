@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZQBKQ9X-es TICTID Raspberry Pi 4 Accesorios Caja para Raspberry Pi 4...'
+sku: 'B07ZQBKQ9X-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

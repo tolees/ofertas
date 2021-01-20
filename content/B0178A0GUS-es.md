@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0178A0GUS-es Microsoft – Wireless Desktop 3050 Ratón y teclado QWERTY...'
+sku: 'B0178A0GUS-es'
 tags: [  ]
 actualPrice: 46.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPK6JBT-es Funko- Pop Vinilo: Kiss: Spaceman Figura Coleccionable...'
+sku: 'B07KPK6JBT-es'
 tags: [  ]
 actualPrice: 10.0 EUR
 currency: EUR

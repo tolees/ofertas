@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BGQXEJU-es Pikolin Home - Almohada de fibra con tratamiento aloe vera...'
+sku: 'B01BGQXEJU-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

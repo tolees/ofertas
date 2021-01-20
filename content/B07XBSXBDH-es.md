@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XBSXBDH-es PUMA Rtg 3/4 Tight Mallas Deporte Mujer Black S'
+sku: 'B07XBSXBDH-es'
 tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR

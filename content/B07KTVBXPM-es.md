@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KTVBXPM-es Columbia Street Elite Bolsa de Viaje Convertible Unisex...'
+sku: 'B07KTVBXPM-es'
 tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR

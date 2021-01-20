@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075GMTBZP-es Pendientes Mujer J.Rosée Pendientes Mujer Perla de Agua...'
+sku: 'B075GMTBZP-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

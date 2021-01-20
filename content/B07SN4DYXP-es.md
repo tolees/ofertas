@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SN4DYXP-es Umi. Essentials - Auriculares de botón inalámbricos TWS W9...'
+sku: 'B07SN4DYXP-es'
 tags: [  ]
 actualPrice: 19.17 EUR
 currency: EUR

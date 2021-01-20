@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076CW6CJN-es Astro Gaming A20 - Auriculares Gaming Inalámbricos Astro...'
+sku: 'B076CW6CJN-es'
 tags: [  ]
 actualPrice: 124.99 EUR
 currency: EUR

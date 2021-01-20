@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P9C1TFM-es ORNARTO Case Mi9 MI9 Clear Protective Cover Anti-Shock...'
+sku: 'B07P9C1TFM-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

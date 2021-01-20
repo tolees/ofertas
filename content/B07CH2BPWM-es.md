@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CH2BPWM-es PUTUO Calcetines Cinco Dedos Mujer Calcetines Invisibles...'
+sku: 'B07CH2BPWM-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

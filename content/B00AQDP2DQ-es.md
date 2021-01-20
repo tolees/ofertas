@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00AQDP2DQ-es L Oréal Paris Color Riche Quad Pro S4 - Sombra de ojos'
+sku: 'B00AQDP2DQ-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

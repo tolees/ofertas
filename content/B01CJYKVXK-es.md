@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CJYKVXK-es Casio Reloj Analogico para Hombre de Cuarzo con Correa en...'
+sku: 'B01CJYKVXK-es'
 tags: [  ]
 actualPrice: 24.0 EUR
 currency: EUR

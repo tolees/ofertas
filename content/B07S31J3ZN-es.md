@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S31J3ZN-es BOSS Starfish Bañador para Hombre Negro Black Medium'
+sku: 'B07S31J3ZN-es'
 tags: [  ]
 actualPrice: 31.15 EUR
 currency: EUR

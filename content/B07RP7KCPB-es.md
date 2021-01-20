@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RP7KCPB-es wirarpa Bragas Mujer Algodón de Cintura Alta Ropa Interior...'
+sku: 'B07RP7KCPB-es'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

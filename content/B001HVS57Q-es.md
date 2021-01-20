@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001HVS57Q-es Beurer UB30 Calientacamas individual 100% algodón en capa...'
+sku: 'B001HVS57Q-es'
 tags: [  ]
 actualPrice: 34.47 EUR
 currency: EUR

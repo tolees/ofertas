@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HS1UGFC-es L Oréal Paris Elvive Champú Aceite Extraordinario - 700 ml'
+sku: 'B01HS1UGFC-es'
 tags: [  ]
 actualPrice: 4.19 EUR
 currency: EUR

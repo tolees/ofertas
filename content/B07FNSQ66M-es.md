@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNSQ66M-es AGPTEK Reproductor Mp3 Bluetooth 8GB HD Pantalla 2.4 a...'
+sku: 'B07FNSQ66M-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

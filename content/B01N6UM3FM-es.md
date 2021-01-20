@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N6UM3FM-es Fellowes Foam Fusion Plus Touch - Alfombrilla con...'
+sku: 'B01N6UM3FM-es'
 tags: [  ]
 actualPrice: 18.25 EUR
 currency: EUR

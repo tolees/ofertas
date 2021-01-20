@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ND0WQ2X-es Scholl Medias de Compresión Ligera Mujer Light Legs 20DEN...'
+sku: 'B01ND0WQ2X-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

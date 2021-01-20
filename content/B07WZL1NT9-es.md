@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WZL1NT9-es H+Y Mini Grabadora de Voz Grabadora Espia Portátil de 16...'
+sku: 'B07WZL1NT9-es'
 tags: [  ]
 actualPrice: 37.39 EUR
 currency: EUR

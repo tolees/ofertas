@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TDS2JN1-es Yooka-Laylee and the Impossible Lair'
+sku: 'B07TDS2JN1-es'
 tags: [  ]
 actualPrice: 24.9 EUR
 currency: EUR

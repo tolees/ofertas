@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072MZ7NMP-es adidas Adi-Ease Zapatillas de Skateboard para Hombre Negro...'
+sku: 'B072MZ7NMP-es'
 tags: [  ]
 actualPrice: 48.9 EUR
 currency: EUR

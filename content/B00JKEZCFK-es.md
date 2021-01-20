@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JKEZCFK-es Yazilind Elegante diseño único 14K Gold Filled Inlay...'
+sku: 'B00JKEZCFK-es'
 tags: [  ]
 actualPrice: 3.69 EUR
 currency: EUR

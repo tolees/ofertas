@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0753GWYDG-es ADIDAS Daily 2.0 Db0271 Zapatillas para Hombre Azul...'
+sku: 'B0753GWYDG-es'
 tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR

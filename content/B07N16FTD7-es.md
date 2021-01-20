@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N16FTD7-es Desigual Bag Gemini Colorado Bandolera para Mujer Negro...'
+sku: 'B07N16FTD7-es'
 tags: [  ]
 actualPrice: 24.97 EUR
 currency: EUR

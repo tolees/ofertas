@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FYDY6DX-es Naipo Masajeador de Piernas Compression para Pierna...'
+sku: 'B07FYDY6DX-es'
 tags: [  ]
 actualPrice: 74.99 EUR
 currency: EUR

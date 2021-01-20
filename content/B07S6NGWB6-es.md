@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S6NGWB6-es PUMA JARO Zapatillas de Running para Hombre Negro Black...'
+sku: 'B07S6NGWB6-es'
 tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR

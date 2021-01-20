@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EPQRPSU-es Nixon Reloj Analógico de Cuarzo para Hombre con Correa de...'
+sku: 'B00EPQRPSU-es'
 tags: [  ]
 actualPrice: 159.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00QQM733I-es Munchkin - Espejo musical con luz Day & Night'
+sku: 'B00QQM733I-es'
 tags: [  ]
 actualPrice: 28.49 EUR
 currency: EUR

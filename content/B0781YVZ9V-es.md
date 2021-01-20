@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0781YVZ9V-es ADIDAS X PLR Zapatillas para Hombre Negro Core...'
+sku: 'B0781YVZ9V-es'
 tags: [  ]
 actualPrice: 53.95 EUR
 currency: EUR

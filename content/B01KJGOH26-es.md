@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KJGOH26-es Maybelline New York Paleta de Sombras de Ojos The Rock Nudes'
+sku: 'B01KJGOH26-es'
 tags: [  ]
 actualPrice: 8.95 EUR
 currency: EUR

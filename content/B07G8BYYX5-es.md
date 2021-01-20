@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G8BYYX5-es TRESEMMÉ champú liso keratina bote 700 ml'
+sku: 'B07G8BYYX5-es'
 tags: [  ]
 actualPrice: 2.85 EUR
 currency: EUR

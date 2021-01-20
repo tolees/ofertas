@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DSD6R96-es Antical-Desincrustante Corcal Profesional 5 Litros'
+sku: 'B07DSD6R96-es'
 tags: [  ]
 actualPrice: 17.63 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HNB1O4O-es Odelay [Vinilo]'
+sku: 'B01HNB1O4O-es'
 tags: [  ]
 actualPrice: 13.21 EUR
 currency: EUR

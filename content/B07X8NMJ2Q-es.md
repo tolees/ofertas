@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X8NMJ2Q-es GGMM Base de batería para Dot de 3ª generación y Altavoces...'
+sku: 'B07X8NMJ2Q-es'
 tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR

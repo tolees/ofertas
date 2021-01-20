@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KHN23GR-es UniqueMe Funda Huawei Mate 20 X Ultra [Slim Thin] TPU...'
+sku: 'B07KHN23GR-es'
 tags: [  ]
 actualPrice: 1.99 EUR
 currency: EUR

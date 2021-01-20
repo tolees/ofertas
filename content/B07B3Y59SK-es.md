@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B3Y59SK-es Clarks Batcombe Lord Botas Chelsea para Hombre Negro Black...'
+sku: 'B07B3Y59SK-es'
 tags: [  ]
 actualPrice: 82.5 EUR
 currency: EUR

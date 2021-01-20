@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HG4LGSC-es New Balance Ypariv2 n Zapatillas Deportivas para Interior...'
+sku: 'B07HG4LGSC-es'
 tags: [  ]
 actualPrice: 38.5 EUR
 currency: EUR

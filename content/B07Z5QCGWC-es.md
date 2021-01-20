@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z5QCGWC-es LEADSTAR Bolsa de Pañales 3 PCS Wetbag Lavable...'
+sku: 'B07Z5QCGWC-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

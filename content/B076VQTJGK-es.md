@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076VQTJGK-es Zelite Infinity Cuchillo de Trinchar 30 cm - Serie...'
+sku: 'B076VQTJGK-es'
 tags: [  ]
 actualPrice: 59.7 EUR
 currency: EUR

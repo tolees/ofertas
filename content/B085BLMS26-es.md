@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085BLMS26-es YIMINYUER Cómodas alfombras para niños Juego para niños...'
+sku: 'B085BLMS26-es'
 tags: [  ]
 actualPrice: 34.43 EUR
 currency: EUR

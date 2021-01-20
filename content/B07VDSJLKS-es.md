@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VDSJLKS-es Mellerware Batidora de mano de 1000W. Velocidad regulable...'
+sku: 'B07VDSJLKS-es'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

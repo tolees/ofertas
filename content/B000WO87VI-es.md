@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000WO87VI-es Bormioli Rocco 6238002 Plato Hondo Parma Cuadrado 23 Cm...'
+sku: 'B000WO87VI-es'
 tags: [  ]
 actualPrice: 9.01 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P6GYQL9-es Joma Nobel Pantalon equipaciones Hombre Verde Fluor XL'
+sku: 'B07P6GYQL9-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

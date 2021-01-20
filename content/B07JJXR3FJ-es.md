@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JJXR3FJ-es TAILI Estante de baño Cesta para Ducha Almacenamiento...'
+sku: 'B07JJXR3FJ-es'
 tags: [  ]
 actualPrice: 13.28 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S63FN9M-es LuckyGirls • • Men Fashion Letter Solid Elastic Running...'
+sku: 'B07S63FN9M-es'
 tags: [  ]
 actualPrice: 11.37 EUR
 currency: EUR

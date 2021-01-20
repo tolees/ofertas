@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L2T4XLJ-es EMOCCI Aspiradora de Mano Sin Cable 5500PA 100W 8.4V...'
+sku: 'B07L2T4XLJ-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

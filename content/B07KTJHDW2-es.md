@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KTJHDW2-es Scuderia Ferrari Reloj de pulsera Analógico Para Unisex...'
+sku: 'B07KTJHDW2-es'
 tags: [  ]
 actualPrice: 48.3 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QGWYPBR-es Funko Pop Figura De Vinil Harry Potter-Cedric Diggory Yule...'
+sku: 'B07QGWYPBR-es'
 tags: [  ]
 actualPrice: 4.96 EUR
 currency: EUR

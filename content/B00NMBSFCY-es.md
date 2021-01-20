@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NMBSFCY-es Leathlux Funda Xiaomi Redmi 7 + Cristal Templado Xiaomi...'
+sku: 'B00NMBSFCY-es'
 tags: [  ]
 actualPrice: 7.01 EUR
 currency: EUR

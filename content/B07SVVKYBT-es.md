@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SVVKYBT-es BNC a HDMI Convertidor Monitor a HDMI HD 1080P / 720P...'
+sku: 'B07SVVKYBT-es'
 tags: [  ]
 actualPrice: 11.77 EUR
 currency: EUR

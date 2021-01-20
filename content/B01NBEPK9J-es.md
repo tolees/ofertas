@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NBEPK9J-es POP! Vinilo - DC: DC Bombshells Katana'
+sku: 'B01NBEPK9J-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

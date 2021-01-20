@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DUOHNCU-es NK NK-AC3061 - Cámara Deportiva Subacuática 4K Ultra-Alta...'
+sku: 'B01DUOHNCU-es'
 tags: [  ]
 actualPrice: 37.0 EUR
 currency: EUR

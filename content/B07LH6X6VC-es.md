@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LH6X6VC-es WeightWorld Plataforma Vibratoria 3D para Adelgazar y...'
+sku: 'B07LH6X6VC-es'
 tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR

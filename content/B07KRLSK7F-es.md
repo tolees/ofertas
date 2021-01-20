@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRLSK7F-es New Balance 373 Zapatillas para Mujer Azul Blue Blue 42.5 EU'
+sku: 'B07KRLSK7F-es'
 tags: [  ]
 actualPrice: 40 EUR
 currency: EUR

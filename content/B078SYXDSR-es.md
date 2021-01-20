@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078SYXDSR-es Seiko Reloj Analógico para Hombre de Automático con Correa...'
+sku: 'B078SYXDSR-es'
 tags: [  ]
 actualPrice: 188.62 EUR
 currency: EUR

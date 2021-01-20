@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YYVHW7L-es Elbe Regleta multienchufe retráctil 2 USB Mesa Enchufe...'
+sku: 'B07YYVHW7L-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

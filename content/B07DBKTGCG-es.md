@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DBKTGCG-es Foto Clip cadena de luces LED 2.4m 20 foto clips luces...'
+sku: 'B07DBKTGCG-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

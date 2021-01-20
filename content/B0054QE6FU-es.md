@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0054QE6FU-es Mister Vac A307 - Filtro HEPA H 12 para aspiradoras...'
+sku: 'B0054QE6FU-es'
 tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR

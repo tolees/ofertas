@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TT9CYFZ-es Succionador de Clítoris Vibradores para Mujer Clítoris y...'
+sku: 'B07TT9CYFZ-es'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DR2FLKN-es X-Crystal Mini Ventilador de Aire Acondicionado portátil...'
+sku: 'B08DR2FLKN-es'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

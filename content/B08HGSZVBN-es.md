@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HGSZVBN-es KUTOOK Pantalones Softshell Mujer Invierno Pantalones...'
+sku: 'B08HGSZVBN-es'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

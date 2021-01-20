@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DRL41LD-es Ricatech PR22 - Radio análoga vintage nostálgica canales...'
+sku: 'B07DRL41LD-es'
 tags: [  ]
 actualPrice: 6.25 EUR
 currency: EUR

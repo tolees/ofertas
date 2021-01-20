@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZ639EW-es Michael Kors Reloj Cronógrafo para Mujer de Cuarzo con...'
+sku: 'B01LZ639EW-es'
 tags: [  ]
 actualPrice: 171.18 EUR
 currency: EUR

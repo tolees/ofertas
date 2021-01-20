@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0000TII0K-es Timex Reloj Analógico para Hombre de Cuarzo con Correa en...'
+sku: 'B0000TII0K-es'
 tags: [  ]
 actualPrice: 43.26 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L8KPTJF-es KLARSTEIN GrowIt Farm - Jardín Inteligente de Interior...'
+sku: 'B07L8KPTJF-es'
 tags: [  ]
 actualPrice: 169.99 EUR
 currency: EUR

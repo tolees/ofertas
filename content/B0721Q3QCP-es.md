@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0721Q3QCP-es Vibram Fivefingers Vi-b Zapatillas de Deporte para Mujer...'
+sku: 'B0721Q3QCP-es'
 tags: [  ]
 actualPrice: 55.95 EUR
 currency: EUR

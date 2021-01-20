@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z7CTYRX-es Alfombrilla de ratón para juegos RGB ampliada extra grande...'
+sku: 'B07Z7CTYRX-es'
 tags: [  ]
 actualPrice: 12.71 EUR
 currency: EUR

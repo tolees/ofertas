@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G7QZM75-es DINOKA Riñonera de Gran Capacidad Cintura Fanny Pack Mujer...'
+sku: 'B07G7QZM75-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

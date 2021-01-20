@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CBPKW6S-es Victoria Basket Lona Plataforma Autoclave Zapatillas para...'
+sku: 'B07CBPKW6S-es'
 tags: [  ]
 actualPrice: 30.3 EUR
 currency: EUR

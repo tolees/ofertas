@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071VMGBPP-es Under Armour Armour Mid Crossback Heather Sujetador...'
+sku: 'B071VMGBPP-es'
 tags: [  ]
 actualPrice: 10.9 EUR
 currency: EUR

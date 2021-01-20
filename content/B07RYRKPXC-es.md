@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RYRKPXC-es COMLIFE Ventilador de Escritorio con Clip USB y Batería...'
+sku: 'B07RYRKPXC-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

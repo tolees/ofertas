@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CCNQNFM-es Aire Acondicionado Portátil Mini Enfriador de Aire 4 en 1...'
+sku: 'B08CCNQNFM-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WTV3T22-es 8GB Bluetooth 4.1 MP4 Reproductor con Pantalla TFT de 1.8...'
+sku: 'B07WTV3T22-es'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

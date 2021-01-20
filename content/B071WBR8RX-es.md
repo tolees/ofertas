@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071WBR8RX-es ammoon Mezclador de Sonido Ultra Compacto Ruido Bajo 8...'
+sku: 'B071WBR8RX-es'
 tags: [  ]
 actualPrice: 35.49 EUR
 currency: EUR

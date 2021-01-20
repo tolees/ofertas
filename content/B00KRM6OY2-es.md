@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KRM6OY2-es Amazon - Funda protectora para Kindle 7ª generación -...'
+sku: 'B00KRM6OY2-es'
 tags: [  ]
 actualPrice: 20.75 EUR
 currency: EUR

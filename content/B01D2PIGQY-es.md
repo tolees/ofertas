@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01D2PIGQY-es LG CineBeam PH550G - Proyector con batería integrada hasta...'
+sku: 'B01D2PIGQY-es'
 tags: [  ]
 actualPrice: 259.26 EUR
 currency: EUR

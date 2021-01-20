@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088LMH6DT-es RAIN BOW ISLAND Zuecos Clásicos con Correa Trasera Hombre...'
+sku: 'B088LMH6DT-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

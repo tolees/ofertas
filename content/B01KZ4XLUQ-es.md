@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KZ4XLUQ-es Canon EF 24-105mm f/4L IS II USM - Objetivo Canon EF...'
+sku: 'B01KZ4XLUQ-es'
 tags: [  ]
 actualPrice: 931.3 EUR
 currency: EUR

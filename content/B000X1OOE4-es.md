@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000X1OOE4-es Reebok F/S Hi Zapatillas de Deporte para Mujer Blanco INT-...'
+sku: 'B000X1OOE4-es'
 tags: [  ]
 actualPrice: 44.95 EUR
 currency: EUR

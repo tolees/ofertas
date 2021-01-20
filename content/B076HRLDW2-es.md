@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076HRLDW2-es adidas Core18 TR SHO Y Sport Shorts Unisex niños...'
+sku: 'B076HRLDW2-es'
 tags: [  ]
 actualPrice: 11.13 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CXW9LD9-es Belkin - Cable de audio de 3.5 mm con conector Lightning...'
+sku: 'B07CXW9LD9-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

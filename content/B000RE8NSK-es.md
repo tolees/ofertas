@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000RE8NSK-es Brabantia 363665 - Cuchara de Servir Antiadherente'
+sku: 'B000RE8NSK-es'
 tags: [  ]
 actualPrice: 5.39 EUR
 currency: EUR

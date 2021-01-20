@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BKMXKO0-es Revlon Style Masters Strong Sculpted Curls Tratamiento...'
+sku: 'B00BKMXKO0-es'
 tags: [  ]
 actualPrice: 7.65 EUR
 currency: EUR

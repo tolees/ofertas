@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFY5LCW-es PUMA INTERFLEX Runner Zapatillas de Running Unisex Adulto...'
+sku: 'B07KFY5LCW-es'
 tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR

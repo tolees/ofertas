@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F94C3JL-es HP Spectre 700 - Ratón Recargable Bluetooth 1600 dpi...'
+sku: 'B07F94C3JL-es'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

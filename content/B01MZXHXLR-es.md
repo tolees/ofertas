@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MZXHXLR-es DURAGADGET Bandolera para Videocámara Sony Handycam FDR-...'
+sku: 'B01MZXHXLR-es'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

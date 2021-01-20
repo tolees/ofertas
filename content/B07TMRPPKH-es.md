@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TMRPPKH-es Clarks Step Isle Base Zapatillas para Hombre Beige Sand...'
+sku: 'B07TMRPPKH-es'
 tags: [  ]
 actualPrice: 28.66 EUR
 currency: EUR

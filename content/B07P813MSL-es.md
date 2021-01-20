@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P813MSL-es Leathario Portafolio A4 Piel Portadocumentos Cremalleras...'
+sku: 'B07P813MSL-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

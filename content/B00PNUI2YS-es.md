@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PNUI2YS-es adidas Originals Superstar Zapatillas de deporte Unisex...'
+sku: 'B00PNUI2YS-es'
 tags: [  ]
 actualPrice: 64.83 EUR
 currency: EUR

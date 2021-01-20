@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P491LPF-es Skechers Metco-Parken Zapatillas para Hombre Gris Gray...'
+sku: 'B07P491LPF-es'
 tags: [  ]
 actualPrice: 45.8 EUR
 currency: EUR

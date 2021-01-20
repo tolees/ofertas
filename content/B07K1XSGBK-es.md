@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K1XSGBK-es CÚRCUMA + MATCHA Té Verde En Polvo - MEJORES MEZCLAS DE...'
+sku: 'B07K1XSGBK-es'
 tags: [  ]
 actualPrice: 12.59 EUR
 currency: EUR

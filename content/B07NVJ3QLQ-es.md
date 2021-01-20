@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NVJ3QLQ-es Kaisi Kit Herramienta movil Destornillador Apertura de...'
+sku: 'B07NVJ3QLQ-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

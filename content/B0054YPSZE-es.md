@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0054YPSZE-es VITALmaxx Trainer a vibrazione con 99 livelli di...'
+sku: 'B0054YPSZE-es'
 tags: [  ]
 actualPrice: 169.99 EUR
 currency: EUR

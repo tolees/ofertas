@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MFMC4H3-es Funko- VYNL 4" 2-Pack: Kingdom Hearts 3: Sora & Heartless...'
+sku: 'B07MFMC4H3-es'
 tags: [  ]
 actualPrice: 17.0 EUR
 currency: EUR

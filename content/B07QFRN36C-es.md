@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QFRN36C-es Bosch CityMower 18 - Cortacésped sin batería sistema de 18...'
+sku: 'B07QFRN36C-es'
 tags: [  ]
 actualPrice: 164.99 EUR
 currency: EUR

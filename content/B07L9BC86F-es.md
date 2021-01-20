@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9BC86F-es Under Armour Speedpocket Linerless 7 Pantalones Cortos...'
+sku: 'B07L9BC86F-es'
 tags: [  ]
 actualPrice: 26.95 EUR
 currency: EUR

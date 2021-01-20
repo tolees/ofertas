@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X476DDN-es Smint Tin Frutos Rojos Caramelo Comprimido Sin Azúcar - 2...'
+sku: 'B07X476DDN-es'
 tags: [  ]
 actualPrice: 2.0 EUR
 currency: EUR

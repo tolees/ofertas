@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000TCV7TW-es Reflex Nutrition Creapure Creatine Monohydrate Standard -...'
+sku: 'B000TCV7TW-es'
 tags: [  ]
 actualPrice: 17.44 EUR
 currency: EUR

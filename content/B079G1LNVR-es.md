@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079G1LNVR-es Samsung Hyperknit - Funda para Galaxy S9+ color gris'
+sku: 'B079G1LNVR-es'
 tags: [  ]
 actualPrice: 7.8 EUR
 currency: EUR

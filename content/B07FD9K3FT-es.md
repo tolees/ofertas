@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FD9K3FT-es Cortapelos para Hombres Juego de Recortador Eléctrico sin...'
+sku: 'B07FD9K3FT-es'
 tags: [  ]
 actualPrice: 41.99 EUR
 currency: EUR

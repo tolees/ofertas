@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JY3BYPX-es Adidas Powerlift 4 Zapatillas de Deporte para Hombre Negro...'
+sku: 'B07JY3BYPX-es'
 tags: [  ]
 actualPrice: 69.97 EUR
 currency: EUR

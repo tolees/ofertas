@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LZSPLP0-es Braun Satin Hair 3 HD350 Style & Go - Secador de pelo...'
+sku: 'B00LZSPLP0-es'
 tags: [  ]
 actualPrice: 21.5 EUR
 currency: EUR

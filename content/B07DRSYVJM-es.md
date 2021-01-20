@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DRSYVJM-es Adidas Duramo 9 K Zapatillas de Deporte Unisex Adulto Azul...'
+sku: 'B07DRSYVJM-es'
 tags: [  ]
 actualPrice: 28.01 EUR
 currency: EUR

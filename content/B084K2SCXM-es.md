@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084K2SCXM-es GARNIER Fructis Hair Food Champú de Papaya Reparadora para...'
+sku: 'B084K2SCXM-es'
 tags: [  ]
 actualPrice: 3.45 EUR
 currency: EUR

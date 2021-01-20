@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZ5ZQ8S-es Tefal First Cook - Set de sartenes de Aluminio para Gas y...'
+sku: 'B07RZ5ZQ8S-es'
 tags: [  ]
 actualPrice: 24.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083DLFN67-es Cubierta Webcam JEANGO 9pcs Ultradelgado Webcam Cover...'
+sku: 'B083DLFN67-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

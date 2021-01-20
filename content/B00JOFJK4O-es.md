@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JOFJK4O-es Festina Reloj Analógico para Hombre de Cuarzo con Correa...'
+sku: 'B00JOFJK4O-es'
 tags: [  ]
 actualPrice: 116.48 EUR
 currency: EUR

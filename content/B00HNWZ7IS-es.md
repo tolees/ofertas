@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HNWZ7IS-es Hozelock - Carrete portamangueras Pico Reel con 10 m de...'
+sku: 'B00HNWZ7IS-es'
 tags: [  ]
 actualPrice: 23.69 EUR
 currency: EUR

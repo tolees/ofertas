@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N4ATC05-es Kit Original de Tatuajes con Brillantina: Tatuajes...'
+sku: 'B01N4ATC05-es'
 tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR

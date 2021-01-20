@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074ZKNBNJ-es Fossil Reloj Analogico para Mujer de Cuarzo con Correa en...'
+sku: 'B074ZKNBNJ-es'
 tags: [  ]
 actualPrice: 69.95 EUR
 currency: EUR

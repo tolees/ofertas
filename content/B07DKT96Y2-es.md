@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DKT96Y2-es Rollo de 5 metros de Tira de Luz LED Directa a 220v. Color...'
+sku: 'B07DKT96Y2-es'
 tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079PBWNQV-es Nike W Nk Dry Acdmy18 Top SS T-Shirt Mujer Tour...'
+sku: 'B079PBWNQV-es'
 tags: [  ]
 actualPrice: 12.55 EUR
 currency: EUR

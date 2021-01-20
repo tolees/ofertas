@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SNV42XL-es adidas Forest Grove W Zapatillas de Gimnasia para Mujer...'
+sku: 'B07SNV42XL-es'
 tags: [  ]
 actualPrice: 47.18 EUR
 currency: EUR

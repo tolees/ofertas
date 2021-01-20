@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08D3TS1RX-es Panamar Almohadilla de Juguete Inflable de Agua de PVC de...'
+sku: 'B08D3TS1RX-es'
 tags: [  ]
 actualPrice: 13.42 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S93NL4H-es Encendedor USB TECCPO Encendedor Electrico sin Llama...'
+sku: 'B07S93NL4H-es'
 tags: [  ]
 actualPrice: 9.97 EUR
 currency: EUR

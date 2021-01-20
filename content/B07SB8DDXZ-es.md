@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SB8DDXZ-es Purina DentaLife Snack Dental para Gato con Sabor a Salmón...'
+sku: 'B07SB8DDXZ-es'
 tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR

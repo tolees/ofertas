@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JMXWKFY-es Brother LT320CL - Bandeja Adicional de 500 Hojas'
+sku: 'B00JMXWKFY-es'
 tags: [  ]
 actualPrice: 171.01 EUR
 currency: EUR

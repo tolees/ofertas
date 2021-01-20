@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M62BUMR-es vidaXL Barandilla de Seguridad Cama de Niños Azul Barrera...'
+sku: 'B01M62BUMR-es'
 tags: [  ]
 actualPrice: 8.32 EUR
 currency: EUR

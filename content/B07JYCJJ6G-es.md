@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JYCJJ6G-es Tommy Hilfiger TJM Tommy Classics Stretch Polo Blau Black...'
+sku: 'B07JYCJJ6G-es'
 tags: [  ]
 actualPrice: 38.49 EUR
 currency: EUR

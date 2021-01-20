@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0888K4SGK-es Awroutdoor Push up Board 14 en 1 Equipo Multifuncional...'
+sku: 'B0888K4SGK-es'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

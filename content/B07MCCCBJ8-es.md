@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MCCCBJ8-es Adidas Advantage K Zapatillas de Tenis Unisex niño Blanc...'
+sku: 'B07MCCCBJ8-es'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

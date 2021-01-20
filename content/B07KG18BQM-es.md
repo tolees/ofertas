@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG18BQM-es PUMA Nova 2 Wn s Zapatillas Deportivas para Mujer Blanco...'
+sku: 'B07KG18BQM-es'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

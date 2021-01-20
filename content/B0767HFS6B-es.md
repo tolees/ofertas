@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0767HFS6B-es Biwond Thundersound Altavoces Autoamplificados 470W TS15”...'
+sku: 'B0767HFS6B-es'
 tags: [  ]
 actualPrice: 139.95 EUR
 currency: EUR

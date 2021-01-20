@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GB1V7H1-es VSADEY Crema Antiarrugas Facial para Día y Noche 2.5%...'
+sku: 'B07GB1V7H1-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

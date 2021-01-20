@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BKT9H8N-es KYG Robot de Cocina al Vapor Procesador de Alimentos para...'
+sku: 'B07BKT9H8N-es'
 tags: [  ]
 actualPrice: 46.17 EUR
 currency: EUR

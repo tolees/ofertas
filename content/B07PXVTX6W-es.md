@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PXVTX6W-es rismart Mujer Cuña Plataforma Botín Elegante Deportivos...'
+sku: 'B07PXVTX6W-es'
 tags: [  ]
 actualPrice: 28.88 EUR
 currency: EUR

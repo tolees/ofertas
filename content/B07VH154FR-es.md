@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VH154FR-es Cafés Baqué - 10 Capsulas Compatibles Nespresso Ristretto...'
+sku: 'B07VH154FR-es'
 tags: [  ]
 actualPrice: 1.99 EUR
 currency: EUR

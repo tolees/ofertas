@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WRM2H57-es The Yakuza Remastered Collection'
+sku: 'B07WRM2H57-es'
 tags: [  ]
 actualPrice: 44.64 EUR
 currency: EUR

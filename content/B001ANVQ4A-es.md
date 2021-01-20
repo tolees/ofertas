@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001ANVQ4A-es Maped M244304 - Juego de regla escuadra cartabón y...'
+sku: 'B001ANVQ4A-es'
 tags: [  ]
 actualPrice: 2.9 EUR
 currency: EUR

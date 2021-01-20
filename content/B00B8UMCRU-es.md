@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00B8UMCRU-es MEZCAL SAN COSME 700 ml'
+sku: 'B00B8UMCRU-es'
 tags: [  ]
 actualPrice: 20.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N6LTH5Z-es JACK & JONES Jjirick Jjicon Shorts GE 854 I.k. STS...'
+sku: 'B07N6LTH5Z-es'
 tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR

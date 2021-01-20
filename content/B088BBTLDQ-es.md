@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088BBTLDQ-es Hagibis Soporte refrigerador enfriador de portátil...'
+sku: 'B088BBTLDQ-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

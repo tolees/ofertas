@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CFH3V4S-es Jack & Jones Jjipaul Jjflake AKM 542 Noos Pantalones Negro...'
+sku: 'B07CFH3V4S-es'
 tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR

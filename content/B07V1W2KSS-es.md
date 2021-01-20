@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V1W2KSS-es Swatch Reloj Analógico para Hombre de Cuarzo con Correa en...'
+sku: 'B07V1W2KSS-es'
 tags: [  ]
 actualPrice: 53.6 EUR
 currency: EUR

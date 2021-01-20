@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DSYSNVH-es L Oréal París - Infallible 24H Fresh Wear Base de...'
+sku: 'B07DSYSNVH-es'
 tags: [  ]
 actualPrice: 8.45 EUR
 currency: EUR

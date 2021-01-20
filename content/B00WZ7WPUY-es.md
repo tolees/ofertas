@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WZ7WPUY-es MIAO Soporte portátil Plegable para computadora portátil...'
+sku: 'B00WZ7WPUY-es'
 tags: [  ]
 actualPrice: 56.78 EUR
 currency: EUR

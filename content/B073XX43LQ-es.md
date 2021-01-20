@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073XX43LQ-es Scuderia Ferrari Reloj Cronógrafo para Hombre de Cuarzo...'
+sku: 'B073XX43LQ-es'
 tags: [  ]
 actualPrice: 206.22 EUR
 currency: EUR

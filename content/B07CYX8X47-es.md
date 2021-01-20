@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CYX8X47-es Skechers Women s Flex Appeal 3.0-INSIDERS Trainers Blue...'
+sku: 'B07CYX8X47-es'
 tags: [  ]
 actualPrice: 42.45 EUR
 currency: EUR

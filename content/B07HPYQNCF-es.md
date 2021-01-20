@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HPYQNCF-es DlandHome Mueble de Consola 120 * 23 * 75cm Mesa Auxiliar...'
+sku: 'B07HPYQNCF-es'
 tags: [  ]
 actualPrice: 80.14 EUR
 currency: EUR

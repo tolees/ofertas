@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H6NXZI2-es Crocs Swiftwater Deck Clog Men Hombre Zueco Azul...'
+sku: 'B01H6NXZI2-es'
 tags: [  ]
 actualPrice: 28.0 EUR
 currency: EUR

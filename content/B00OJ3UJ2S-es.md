@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OJ3UJ2S-es Sabrent Caja de Disco Duro Externo sin Herramientas SATA a...'
+sku: 'B00OJ3UJ2S-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

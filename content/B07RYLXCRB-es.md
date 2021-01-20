@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RYLXCRB-es Johnson s Baby Loción Calma la piel seca de tu bebé - 3 x...'
+sku: 'B07RYLXCRB-es'
 tags: [  ]
 actualPrice: 8.97 EUR
 currency: EUR

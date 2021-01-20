@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072KWF11D-es ONTA® Deporte Ligero Plegable Auriculares Cascos con...'
+sku: 'B072KWF11D-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

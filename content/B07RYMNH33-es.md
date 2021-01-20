@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RYMNH33-es HUGO Trunk Brother Pack Bóxer Blanco Open White 122 Small...'
+sku: 'B07RYMNH33-es'
 tags: [  ]
 actualPrice: 17.72 EUR
 currency: EUR

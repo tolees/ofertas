@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KMP1BXS-es Mr. Wonderful 8436557692085 - Batería Externa de 10.000...'
+sku: 'B07KMP1BXS-es'
 tags: [  ]
 actualPrice: 23.08 EUR
 currency: EUR

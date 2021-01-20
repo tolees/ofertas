@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FKL57KH-es Nike Renew Arena Zapatillas de Atletismo para Hombre...'
+sku: 'B07FKL57KH-es'
 tags: [  ]
 actualPrice: 45.0 EUR
 currency: EUR

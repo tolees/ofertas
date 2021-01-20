@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PSHX3NP-es HAVIT Auriculares Bluetooth Inalámbricos 5.0 Auricular...'
+sku: 'B07PSHX3NP-es'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

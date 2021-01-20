@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N0LXNPL-es New Fashion Notebook Gift Box Creative Resin Decoration...'
+sku: 'B01N0LXNPL-es'
 tags: [  ]
 actualPrice: 21.3 EUR
 currency: EUR

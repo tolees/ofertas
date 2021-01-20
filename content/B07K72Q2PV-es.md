@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K72Q2PV-es Levi s 501 High Rise Short Pantalones Cortos Azul Flat...'
+sku: 'B07K72Q2PV-es'
 tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR

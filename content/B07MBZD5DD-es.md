@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MBZD5DD-es TODOHOME Escoba y recogedor con Tapa—121 cm de Altura...'
+sku: 'B07MBZD5DD-es'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

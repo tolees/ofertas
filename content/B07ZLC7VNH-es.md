@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZLC7VNH-es Crucial CT32G4SFD832A Memoria RAM de 32 GB DDR4 3200 MT/s...'
+sku: 'B07ZLC7VNH-es'
 tags: [  ]
 actualPrice: 125.83 EUR
 currency: EUR

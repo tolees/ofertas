@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZPT6NT9-es ranninao Gofrera Europea de 350W | Máquina de Hacer gofres...'
+sku: 'B07ZPT6NT9-es'
 tags: [  ]
 actualPrice: 14.9 EUR
 currency: EUR

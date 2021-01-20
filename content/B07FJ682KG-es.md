@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FJ682KG-es Clip Cadena de Luces LED otumixx 40 Fotoclips 4 2M Foto...'
+sku: 'B07FJ682KG-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

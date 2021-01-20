@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071FJ6LVY-es Piratas Del Caribe: La Venganza De Salazar - Edición...'
+sku: 'B071FJ6LVY-es'
 tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR

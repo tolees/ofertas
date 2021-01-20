@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NLKBFP2-es Versace Jeans CouturePortafoglioMujerCarterasMorado...'
+sku: 'B07NLKBFP2-es'
 tags: [  ]
 actualPrice: 57.07 EUR
 currency: EUR

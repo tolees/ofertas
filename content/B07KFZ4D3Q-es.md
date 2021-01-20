@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFZ4D3Q-es PUMA Ralph Sampson Lo Zapatillas Unisex Adulto Rosa Pastel...'
+sku: 'B07KFZ4D3Q-es'
 tags: [  ]
 actualPrice: 54.9 EUR
 currency: EUR

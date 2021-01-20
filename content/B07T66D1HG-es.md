@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T66D1HG-es UMIPUBO Invisible Sujetador Adhesivo Deportivo para Mujer...'
+sku: 'B07T66D1HG-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

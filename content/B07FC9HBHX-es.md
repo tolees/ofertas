@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FC9HBHX-es Juego de cuchillos Homever juego moderno de bloques de...'
+sku: 'B07FC9HBHX-es'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

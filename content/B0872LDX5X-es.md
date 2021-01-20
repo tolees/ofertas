@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0872LDX5X-es NMBC Fundas de Asiento Protector de cojín de Asiento de...'
+sku: 'B0872LDX5X-es'
 tags: [  ]
 actualPrice: 143.99 EUR
 currency: EUR

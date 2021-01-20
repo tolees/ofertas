@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08D66GCNZ-es Shayson Teclado Electrónico Piano 37 Teclas Teclado de...'
+sku: 'B08D66GCNZ-es'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

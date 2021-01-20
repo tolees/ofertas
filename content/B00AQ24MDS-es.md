@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00AQ24MDS-es Taurus Hipnos Power - Barbero con cuatro cabezales...'
+sku: 'B00AQ24MDS-es'
 tags: [  ]
 actualPrice: 12.8 EUR
 currency: EUR

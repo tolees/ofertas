@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AJV5R6G-es Zooloretto junior'
+sku: 'B01AJV5R6G-es'
 tags: [  ]
 actualPrice: 12.62 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJ6HTWV-es Casio Reloj Analógico para Mujer de Cuarzo con Correa en...'
+sku: 'B07NJ6HTWV-es'
 tags: [  ]
 actualPrice: 55.08 EUR
 currency: EUR

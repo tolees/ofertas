@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B1WJNFP-es Tottenham Hotspur FC - Pack de dos chupetes oficiales...'
+sku: 'B07B1WJNFP-es'
 tags: [  ]
 actualPrice: 3.2 EUR
 currency: EUR

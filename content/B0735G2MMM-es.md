@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0735G2MMM-es Silicone Plug Negro - Juego de 4'
+sku: 'B0735G2MMM-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

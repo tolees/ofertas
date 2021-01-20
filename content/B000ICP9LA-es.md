@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000ICP9LA-es Emsa Superline Jarra medidora Transparente 0 5 L'
+sku: 'B000ICP9LA-es'
 tags: [  ]
 actualPrice: 6.25 EUR
 currency: EUR

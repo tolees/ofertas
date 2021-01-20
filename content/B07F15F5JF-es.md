@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F15F5JF-es Neceser Pepe Jeans Cranford Marrón'
+sku: 'B07F15F5JF-es'
 tags: [  ]
 actualPrice: 22 EUR
 currency: EUR

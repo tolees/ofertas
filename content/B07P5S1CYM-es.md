@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P5S1CYM-es 3 Unids Perro Ropa de Cama Suave de Poliéster Edredón...'
+sku: 'B07P5S1CYM-es'
 tags: [  ]
 actualPrice: 14.29 EUR
 currency: EUR

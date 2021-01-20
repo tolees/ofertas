@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HFQCTNY-es Shock Absorber Ultimate Run Bra Sujetador Deportivo Rosa...'
+sku: 'B07HFQCTNY-es'
 tags: [  ]
 actualPrice: 12.0 EUR
 currency: EUR

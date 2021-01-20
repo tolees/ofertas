@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07773DCSP-es Black+Decker 9045853BND Accesorios para Compresor de Aire...'
+sku: 'B07773DCSP-es'
 tags: [  ]
 actualPrice: 28.73 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NHS2ZJH-es Tamaris 1-1-23720-33 Zapatillas para Mujer Negro...'
+sku: 'B07NHS2ZJH-es'
 tags: [  ]
 actualPrice: 16.27 EUR
 currency: EUR

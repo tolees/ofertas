@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01L22XMZY-es EVOWHEY PROTEIN 2.0 Chocolate 2Kg'
+sku: 'B01L22XMZY-es'
 tags: [  ]
 actualPrice: 19.75 EUR
 currency: EUR

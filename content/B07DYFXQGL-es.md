@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DYFXQGL-es Merrell Siren Edge Q2 Zapatillas de Senderismo para Mujer...'
+sku: 'B07DYFXQGL-es'
 tags: [  ]
 actualPrice: 24.69 EUR
 currency: EUR

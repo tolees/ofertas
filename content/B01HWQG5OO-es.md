@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HWQG5OO-es ITALY MORN Hombre Jogging Pantalones Stretch Skinny Largo...'
+sku: 'B01HWQG5OO-es'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

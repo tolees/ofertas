@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFDYSPX-es Funko Pop Doctor Who Figura de Vinilo Missy Multicolor 32830'
+sku: 'B07DFDYSPX-es'
 tags: [  ]
 actualPrice: 5.5 EUR
 currency: EUR

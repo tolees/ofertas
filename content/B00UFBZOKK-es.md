@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UFBZOKK-es Crucial Ballistix Sport LT BLS4G4D240FSB 2400 MHz DDR4...'
+sku: 'B00UFBZOKK-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

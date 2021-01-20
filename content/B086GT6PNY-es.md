@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086GT6PNY-es Oihxse Transparente Funda para Samsung Galaxy A20S...'
+sku: 'B086GT6PNY-es'
 tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR

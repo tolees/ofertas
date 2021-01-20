@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XBQ9XMV-es Opret Tienda para Niños Pop Up Carpa Plegable para Niñas...'
+sku: 'B07XBQ9XMV-es'
 tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR

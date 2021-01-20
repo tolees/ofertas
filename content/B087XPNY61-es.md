@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087XPNY61-es San Ignacio 3 Sartenes 18/26/28 + Set Cuchillos Daimiel...'
+sku: 'B087XPNY61-es'
 tags: [  ]
 actualPrice: 73.99 EUR
 currency: EUR

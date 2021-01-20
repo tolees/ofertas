@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000TUNMW4-es Bioderma Sebium Gel Moussant Nettoyant Purifiant 200 ml'
+sku: 'B000TUNMW4-es'
 tags: [  ]
 actualPrice: 8.32 EUR
 currency: EUR

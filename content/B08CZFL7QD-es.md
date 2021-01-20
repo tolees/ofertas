@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CZFL7QD-es San Ignacio Batería 8 piezas Porto y Set 3 sartenes...'
+sku: 'B08CZFL7QD-es'
 tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR

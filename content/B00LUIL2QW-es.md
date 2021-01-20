@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LUIL2QW-es adidas Originals Stan Smith Zapatillas de Deporte Unisex...'
+sku: 'B00LUIL2QW-es'
 tags: [  ]
 actualPrice: 67.81 EUR
 currency: EUR

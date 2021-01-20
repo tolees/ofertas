@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XCHBC1F-es Tommy Hilfiger Corte Regular Tanga de Malla Transparente...'
+sku: 'B06XCHBC1F-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

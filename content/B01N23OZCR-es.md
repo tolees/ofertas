@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N23OZCR-es Radio de Transistor portátil pequeña L-218 Radio Am/FM...'
+sku: 'B01N23OZCR-es'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

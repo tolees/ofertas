@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K6JXJ4K-es Columbia Snuggly Bunny Mono de esquí Infantil Bebé-Niños...'
+sku: 'B07K6JXJ4K-es'
 tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR

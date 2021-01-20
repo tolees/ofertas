@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00M756XRU-es Resalim Plus 10 Cápsulas - Suplemento Natural | Anti-...'
+sku: 'B00M756XRU-es'
 tags: [  ]
 actualPrice: 5.8 EUR
 currency: EUR

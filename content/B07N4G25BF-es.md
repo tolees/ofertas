@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N4G25BF-es Levi s Tijuana Zapatillas para Mujer Blanco Sneakers 51 39 EU'
+sku: 'B07N4G25BF-es'
 tags: [  ]
 actualPrice: 35.5 EUR
 currency: EUR

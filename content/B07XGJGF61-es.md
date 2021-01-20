@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XGJGF61-es Bolsa Isotermica Porta Alimentos Luxuvee Bolsa Termica...'
+sku: 'B07XGJGF61-es'
 tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR

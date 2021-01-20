@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KP5JRNK-es Espejo de Maquillaje de Doble Cara con Luces LED Espejo...'
+sku: 'B07KP5JRNK-es'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

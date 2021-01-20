@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EVGY84C-es Diesel 00ST1N0CAND Pantalones Deportivos Negro Black...'
+sku: 'B01EVGY84C-es'
 tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086ZHTM4M-es B Blesiya Película De La Cámara del Teléfono De Cristal...'
+sku: 'B086ZHTM4M-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L3YH6V3-es IPOTCH Calcomanías de Soplador Protector Pegatinas...'
+sku: 'B07L3YH6V3-es'
 tags: [  ]
 actualPrice: 5.48 EUR
 currency: EUR

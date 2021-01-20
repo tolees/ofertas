@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZRK2RWZ-es Gel de sílice Galactorrhea Colección Tapa Colector de...'
+sku: 'B07ZRK2RWZ-es'
 tags: [  ]
 actualPrice: 3.95 EUR
 currency: EUR

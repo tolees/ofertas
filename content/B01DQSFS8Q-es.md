@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DQSFS8Q-es Reloj MASERATI - Hombre R8823124001'
+sku: 'B01DQSFS8Q-es'
 tags: [  ]
 actualPrice: 157.83 EUR
 currency: EUR

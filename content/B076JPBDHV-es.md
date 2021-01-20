@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076JPBDHV-es adidas Trefoil T-Shirt T-Shirt Hombre White XL'
+sku: 'B076JPBDHV-es'
 tags: [  ]
 actualPrice: 19.96 EUR
 currency: EUR

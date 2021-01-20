@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZ47GDE-es PlayStation VR Worlds'
+sku: 'B01LZ47GDE-es'
 tags: [  ]
 actualPrice: 13.3 EUR
 currency: EUR

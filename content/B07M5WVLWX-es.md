@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M5WVLWX-es VQYSKO Brazalete Pulsera Pareja Novios DIY Personalizado...'
+sku: 'B07M5WVLWX-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

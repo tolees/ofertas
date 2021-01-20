@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZBSAW7-es hummel Stadil RMX High Sneaker Hombres Zapatillas Casual -...'
+sku: 'B01LZBSAW7-es'
 tags: [  ]
 actualPrice: 79.79 EUR
 currency: EUR

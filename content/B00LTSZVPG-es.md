@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LTSZVPG-es Kit de suspensión colgante Ranex 6000.518 – Cromado –...'
+sku: 'B00LTSZVPG-es'
 tags: [  ]
 actualPrice: 14.9 EUR
 currency: EUR

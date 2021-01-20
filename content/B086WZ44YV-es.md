@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086WZ44YV-es HAZUN Cámara Web Full HD de 1080p USB2.0 con micrófono...'
+sku: 'B086WZ44YV-es'
 tags: [  ]
 actualPrice: 13.71 EUR
 currency: EUR

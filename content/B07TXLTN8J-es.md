@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXLTN8J-es Superga 2750-cot3strapu Zapatillas de Gimnasia Unisex...'
+sku: 'B07TXLTN8J-es'
 tags: [  ]
 actualPrice: 9.52 EUR
 currency: EUR

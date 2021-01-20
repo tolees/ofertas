@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SWL2GSP-es Pack de 56 Dentastix de uso diario para la limpieza dental...'
+sku: 'B07SWL2GSP-es'
 tags: [  ]
 actualPrice: 15.59 EUR
 currency: EUR

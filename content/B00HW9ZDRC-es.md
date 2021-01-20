@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HW9ZDRC-es Funda con tapa para LG Optimus L1 II piel sintética...'
+sku: 'B00HW9ZDRC-es'
 tags: [  ]
 actualPrice: 4.0 EUR
 currency: EUR

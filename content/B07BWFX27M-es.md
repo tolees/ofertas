@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BWFX27M-es HGHMLIFE - Portarrollos de papel higiénico autoadhesivo de...'
+sku: 'B07BWFX27M-es'
 tags: [  ]
 actualPrice: 11.8 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FYC756F-es EC67-R11 Módulo CMOS Red de Internet Cámara de Video HD...'
+sku: 'B08FYC756F-es'
 tags: [  ]
 actualPrice: 21.7 EUR
 currency: EUR

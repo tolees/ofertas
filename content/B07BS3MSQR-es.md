@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BS3MSQR-es Naipo Cojín de Masaje Respaldo Masajeador Espalda Shiatsu...'
+sku: 'B07BS3MSQR-es'
 tags: [  ]
 actualPrice: 99.98 EUR
 currency: EUR

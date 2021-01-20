@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0716YMYY4-es adidas Cloudfoam Ultimate Zapatillas para Hombre Negro...'
+sku: 'B0716YMYY4-es'
 tags: [  ]
 actualPrice: 44.21 EUR
 currency: EUR

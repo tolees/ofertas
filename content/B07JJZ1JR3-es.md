@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JJZ1JR3-es Rhodesy Protector de Pantalla para GoPro HERO7...'
+sku: 'B07JJZ1JR3-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

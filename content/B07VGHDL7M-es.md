@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VGHDL7M-es Xiaomi Mi Windows and Doors Sensor'
+sku: 'B07VGHDL7M-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

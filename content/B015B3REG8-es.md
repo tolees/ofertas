@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015B3REG8-es Trust ATMT-502 Mando a Distancia con Temporizador para el...'
+sku: 'B015B3REG8-es'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

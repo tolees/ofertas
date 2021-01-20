@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HMGYGVX-es AmazonBasics - Toallas de uso diario 2 de baño y 4 de mano...'
+sku: 'B07HMGYGVX-es'
 tags: [  ]
 actualPrice: 16.44 EUR
 currency: EUR

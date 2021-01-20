@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JKB18LB-es Columbia Caldorado III Outdry Zapatillas de Running para...'
+sku: 'B07JKB18LB-es'
 tags: [  ]
 actualPrice: 25.94 EUR
 currency: EUR

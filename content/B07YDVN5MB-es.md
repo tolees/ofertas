@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YDVN5MB-es Pikolin Leah colchón viscoelástico y espuma HR gama alta...'
+sku: 'B07YDVN5MB-es'
 tags: [  ]
 actualPrice: 369.0 EUR
 currency: EUR

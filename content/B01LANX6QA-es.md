@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LANX6QA-es Castellanisimos Mocasines de Piel Marron Hombre Antifaz...'
+sku: 'B01LANX6QA-es'
 tags: [  ]
 actualPrice: 67.0 EUR
 currency: EUR

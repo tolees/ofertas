@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJ642SL-es ROMIX Esterilla para Pilates Antideslizante Extra Gruesa...'
+sku: 'B07TJ642SL-es'
 tags: [  ]
 actualPrice: 19.29 EUR
 currency: EUR

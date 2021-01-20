@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9TZPQD-es Lacoste Court Slam 319 2 SMA Zapatillas para Hombre Blanco...'
+sku: 'B07L9TZPQD-es'
 tags: [  ]
 actualPrice: 65.99 EUR
 currency: EUR

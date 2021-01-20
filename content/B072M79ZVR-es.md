@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072M79ZVR-es Weider Testo Xtreme. Incrementa los niveles de energía...'
+sku: 'B072M79ZVR-es'
 tags: [  ]
 actualPrice: 23.4 EUR
 currency: EUR

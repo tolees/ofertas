@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NPN115X-es Tommy Hilfiger Corporate Flatform Sneaker Zapatillas para...'
+sku: 'B07NPN115X-es'
 tags: [  ]
 actualPrice: 49.54 EUR
 currency: EUR

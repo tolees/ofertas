@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W45LYY8-es OtterBox Commuter - Funda de Protección para Apple iPhone...'
+sku: 'B07W45LYY8-es'
 tags: [  ]
 actualPrice: 22.04 EUR
 currency: EUR

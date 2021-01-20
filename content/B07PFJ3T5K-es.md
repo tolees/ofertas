@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PFJ3T5K-es EACLL Bombillas LED GU10 2700K Blanco Cálido 5W 450...'
+sku: 'B07PFJ3T5K-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R1ZR65V-es Under Armour Coldgear Rush S Legging Hombre Negro SM'
+sku: 'B07R1ZR65V-es'
 tags: [  ]
 actualPrice: 20.91 EUR
 currency: EUR

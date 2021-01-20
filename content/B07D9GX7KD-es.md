@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D9GX7KD-es Tommy Hilfiger Trunk Bóxer Gris Dark Grey Htr 091 Large...'
+sku: 'B07D9GX7KD-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

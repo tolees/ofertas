@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P2HZT6W-es Reebok Royal Glide LX Zapatillas de Trail Running para...'
+sku: 'B07P2HZT6W-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

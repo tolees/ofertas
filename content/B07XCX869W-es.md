@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XCX869W-es LIGE Relojes Hombres Deportivos Impermeable Fecha Cuarzo...'
+sku: 'B07XCX869W-es'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

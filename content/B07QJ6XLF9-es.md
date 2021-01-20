@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QJ6XLF9-es Hackett Aston Martin Racing T544 Polo Blanco White/Multi...'
+sku: 'B07QJ6XLF9-es'
 tags: [  ]
 actualPrice: 53.28 EUR
 currency: EUR

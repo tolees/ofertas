@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078T76CCG-es Homelody 38ºC Termostatica 3 Funciones Columna de Ducha...'
+sku: 'B078T76CCG-es'
 tags: [  ]
 actualPrice: 192.99 EUR
 currency: EUR

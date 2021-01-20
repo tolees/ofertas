@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZLCC6J8-es Crucial CT2K32G4SFD8266 Kit de Memoria RAM de 64 GB 32 GB...'
+sku: 'B07ZLCC6J8-es'
 tags: [  ]
 actualPrice: 237.15 EUR
 currency: EUR

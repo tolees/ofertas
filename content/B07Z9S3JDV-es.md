@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z9S3JDV-es LIGE Reloj para Hombre Cronógrafo Impermeable Moonphase...'
+sku: 'B07Z9S3JDV-es'
 tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR

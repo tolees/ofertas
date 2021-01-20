@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JCVTQK9-es CATWALK COLLECTION - Pequeña Mensajero/Bolso...'
+sku: 'B07JCVTQK9-es'
 tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR

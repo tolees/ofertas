@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087G6W9YQ-es Fifet Papel Mano de Scrapbooking Herramienta de Papel...'
+sku: 'B087G6W9YQ-es'
 tags: [  ]
 actualPrice: 3.39 EUR
 currency: EUR

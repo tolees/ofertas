@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RH23P7K-es G-STAR RAW Premium Basic Type C Sweat Pant Pantalones de...'
+sku: 'B07RH23P7K-es'
 tags: [  ]
 actualPrice: 40.04 EUR
 currency: EUR

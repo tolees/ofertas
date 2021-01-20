@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083ZKJPL1-es ghd curve classic wave - Rizador de pelo profesional para...'
+sku: 'B083ZKJPL1-es'
 tags: [  ]
 actualPrice: 119.0 EUR
 currency: EUR

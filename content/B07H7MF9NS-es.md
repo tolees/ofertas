@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H7MF9NS-es K9 Powerharness Tamaño: Mini Colore: Mocca Tela de Saco'
+sku: 'B07H7MF9NS-es'
 tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR

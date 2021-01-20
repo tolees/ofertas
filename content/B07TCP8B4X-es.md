@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TCP8B4X-es Finocam - Recambio Anual 2020 semana vista vertical Open...'
+sku: 'B07TCP8B4X-es'
 tags: [  ]
 actualPrice: 5.85 EUR
 currency: EUR

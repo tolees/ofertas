@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PYLMPDD-es Apple MVFU2ZM/A Funda para teléfono móvil Folio - Fundas...'
+sku: 'B07PYLMPDD-es'
 tags: [  ]
 actualPrice: 89.16 EUR
 currency: EUR

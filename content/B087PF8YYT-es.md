@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087PF8YYT-es 19 Anillo de luz LED con trípode Aro de luz...'
+sku: 'B087PF8YYT-es'
 tags: [  ]
 actualPrice: 139.99 EUR
 currency: EUR

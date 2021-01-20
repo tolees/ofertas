@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W3VWX8Y-es Juguete Tostador De Madera Juguete Educativo temprano...'
+sku: 'B07W3VWX8Y-es'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

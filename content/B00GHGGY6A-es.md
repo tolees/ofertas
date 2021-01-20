@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GHGGY6A-es Gardena THS Li-18/42 Tijeras Cortasetos Incluye batería y...'
+sku: 'B00GHGGY6A-es'
 tags: [  ]
 actualPrice: 138.82 EUR
 currency: EUR

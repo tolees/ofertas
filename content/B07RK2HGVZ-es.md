@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RK2HGVZ-es Licuadora Prensado en Frio Jocuu Licuadora Frutas Verduras...'
+sku: 'B07RK2HGVZ-es'
 tags: [  ]
 actualPrice: 58.37 EUR
 currency: EUR

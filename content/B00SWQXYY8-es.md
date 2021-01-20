@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SWQXYY8-es Campingaz Nevera Portatil Icetime Plus Caja Térmica Nevera...'
+sku: 'B00SWQXYY8-es'
 tags: [  ]
 actualPrice: 23.05 EUR
 currency: EUR

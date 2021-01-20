@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YDBMLC4-es Luchild Almohada para lactancia Almohada multifuncional...'
+sku: 'B07YDBMLC4-es'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

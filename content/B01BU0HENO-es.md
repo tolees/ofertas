@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BU0HENO-es DEWALT DWE4056-QS - Mini Amoladora 115mm 800W 11.800 rpm'
+sku: 'B01BU0HENO-es'
 tags: [  ]
 actualPrice: 58.0 EUR
 currency: EUR

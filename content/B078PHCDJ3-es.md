@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078PHCDJ3-es Vans Ward - Zapatillas para Mujer Negro...'
+sku: 'B078PHCDJ3-es'
 tags: [  ]
 actualPrice: 42.2 EUR
 currency: EUR

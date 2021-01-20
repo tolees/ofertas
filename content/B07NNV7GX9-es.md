@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NNV7GX9-es Under Armour UA Charged Impulse Zapatillas de Running para...'
+sku: 'B07NNV7GX9-es'
 tags: [  ]
 actualPrice: 41.79 EUR
 currency: EUR

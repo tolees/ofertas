@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BEXG6VS-es POP! Vinilo - Flash Gordon: General Klytus'
+sku: 'B01BEXG6VS-es'
 tags: [  ]
 actualPrice: 10.79 EUR
 currency: EUR

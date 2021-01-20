@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087X5VPTJ-es Suhctup Funda Transparent Compatible para Huawei P20...'
+sku: 'B087X5VPTJ-es'
 tags: [  ]
 actualPrice: 8.98 EUR
 currency: EUR

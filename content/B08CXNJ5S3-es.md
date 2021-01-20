@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CXNJ5S3-es Cargador Coche USB Tipo C PD3.0+QC3.0 para Samsung S10 S20...'
+sku: 'B08CXNJ5S3-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WRGQLBB-es Black Shark 2 8GB+128GB Negro con Pro Kit Black Shark...'
+sku: 'B07WRGQLBB-es'
 tags: [  ]
 actualPrice: 459.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00B1RG19A-es Fellowes 99106 - Kit limpiador para Smartphone'
+sku: 'B00B1RG19A-es'
 tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VP1ZVPD-es Skechers GO Walk Lite Zapatillas para Mujer Azul Marino...'
+sku: 'B07VP1ZVPD-es'
 tags: [  ]
 actualPrice: 32.79 EUR
 currency: EUR

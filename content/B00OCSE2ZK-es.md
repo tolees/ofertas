@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OCSE2ZK-es Columbia Silver Ridge Short AM4283 Shorts Hombre Gris...'
+sku: 'B00OCSE2ZK-es'
 tags: [  ]
 actualPrice: 14.64 EUR
 currency: EUR

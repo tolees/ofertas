@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VL5S63N-es YAMAMAY® Traje de baño Push up - Mirage'
+sku: 'B07VL5S63N-es'
 tags: [  ]
 actualPrice: 14.98 EUR
 currency: EUR

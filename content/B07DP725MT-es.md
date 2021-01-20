@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DP725MT-es Adidas Falcon W Zapatillas de Gimnasia para Mujer...'
+sku: 'B07DP725MT-es'
 tags: [  ]
 actualPrice: 62.91 EUR
 currency: EUR

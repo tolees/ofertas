@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FYL9DS4-es Ladrón con interruptor múltiple Maclean MCE217 adaptador...'
+sku: 'B07FYL9DS4-es'
 tags: [  ]
 actualPrice: 8.66 EUR
 currency: EUR

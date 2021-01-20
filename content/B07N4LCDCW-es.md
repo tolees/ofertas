@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N4LCDCW-es Superga 2750 COTU Classic Zapatillas Unisex Rosa Dusty...'
+sku: 'B07N4LCDCW-es'
 tags: [  ]
 actualPrice: 21.8 EUR
 currency: EUR

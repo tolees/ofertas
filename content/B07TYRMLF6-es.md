@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TYRMLF6-es Relojes Hombre Cuero Marrón Impermeable Cuarzo Analógico...'
+sku: 'B07TYRMLF6-es'
 tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR

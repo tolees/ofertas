@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BSB8GMT-es Power extra Set de soldadura Soldadura 220 V 60 W...'
+sku: 'B07BSB8GMT-es'
 tags: [  ]
 actualPrice: 19.0 EUR
 currency: EUR

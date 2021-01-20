@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W1XCF2K-es Cocoarm Secador de Pelo Caja de Piel sintética con Suave...'
+sku: 'B07W1XCF2K-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

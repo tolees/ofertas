@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DCYBMZM-es Mellerware Aspirador Vertical Inalámbrico Rider Pro 400 W...'
+sku: 'B08DCYBMZM-es'
 tags: [  ]
 actualPrice: 139.99 EUR
 currency: EUR

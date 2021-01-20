@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BNBELGI-es Hugo Boss Orange 1513351 - Reloj analógico de pulsera para...'
+sku: 'B01BNBELGI-es'
 tags: [  ]
 actualPrice: 61.0 EUR
 currency: EUR

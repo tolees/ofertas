@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0852Y9MYS-es TPU Soft Cover Gel Skin Case Accesorios para teléfono...'
+sku: 'B0852Y9MYS-es'
 tags: [  ]
 actualPrice: 1.05 EUR
 currency: EUR

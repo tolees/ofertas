@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00QH332PY-es Casio Reloj Analógico para Hombre de Cuarzo con Correa en...'
+sku: 'B00QH332PY-es'
 tags: [  ]
 actualPrice: 73.01 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K148XNH-es Adidas Altasport K Zapatillas de Entrenamiento Unisex...'
+sku: 'B07K148XNH-es'
 tags: [  ]
 actualPrice: 16.25 EUR
 currency: EUR

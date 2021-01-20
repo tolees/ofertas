@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C7YZSRR-es Ariete 4615 - Mini freidora saludable Airy sin aceite...'
+sku: 'B07C7YZSRR-es'
 tags: [  ]
 actualPrice: 39.1 EUR
 currency: EUR

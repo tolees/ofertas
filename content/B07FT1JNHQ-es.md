@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FT1JNHQ-es Buff Approach Spider-Man Junior Gorro Polar Unisex Adulto...'
+sku: 'B07FT1JNHQ-es'
 tags: [  ]
 actualPrice: 6.48 EUR
 currency: EUR

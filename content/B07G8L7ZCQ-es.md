@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G8L7ZCQ-es adidas Real 3 Y Kit Conjunto Unisex niños Multicolor...'
+sku: 'B07G8L7ZCQ-es'
 tags: [  ]
 actualPrice: 44.85 EUR
 currency: EUR

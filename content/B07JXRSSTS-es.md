@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JXRSSTS-es Nike Star Runner 2 GS Zapatillas de Running para Asfalto...'
+sku: 'B07JXRSSTS-es'
 tags: [  ]
 actualPrice: 27.6 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C7HWXJT-es oodji Ultra Mujer Calcetines con Elástico Doble Pack de 6...'
+sku: 'B07C7HWXJT-es'
 tags: [  ]
 actualPrice: 4.6 EUR
 currency: EUR

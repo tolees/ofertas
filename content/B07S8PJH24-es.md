@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S8PJH24-es PUMA JARO Zapatillas para Correr de Carretera para Hombre...'
+sku: 'B07S8PJH24-es'
 tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR

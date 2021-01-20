@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079TQLP61-es Montichelvo 55785 Bolsa Deporte Infantil Multicolour 50 cm'
+sku: 'B079TQLP61-es'
 tags: [  ]
 actualPrice: 16.9 EUR
 currency: EUR

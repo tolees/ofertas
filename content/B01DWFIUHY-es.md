@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DWFIUHY-es Colgate Fun Smile Cepillo de Dientes Surtido: Modelos...'
+sku: 'B01DWFIUHY-es'
 tags: [  ]
 actualPrice: 10.6 EUR
 currency: EUR

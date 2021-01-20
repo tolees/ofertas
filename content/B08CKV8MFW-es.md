@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CKV8MFW-es NINGNETI Adultos Reutilizables Pañuelos con banda Elástico...'
+sku: 'B08CKV8MFW-es'
 tags: [  ]
 actualPrice: 1.79 EUR
 currency: EUR

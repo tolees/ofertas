@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M7LM75W-es Paladone Reloj Digital para Adultos Unisex de Automático...'
+sku: 'B07M7LM75W-es'
 tags: [  ]
 actualPrice: 11.95 EUR
 currency: EUR

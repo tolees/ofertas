@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DG82YNS-es Botones Costura de Colores Mezclados Botones de Resina con...'
+sku: 'B07DG82YNS-es'
 tags: [  ]
 actualPrice: 5.45 EUR
 currency: EUR

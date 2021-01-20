@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M69GPTN-es Ventilador Silencioso Aire acondicionado con 25db...'
+sku: 'B07M69GPTN-es'
 tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR

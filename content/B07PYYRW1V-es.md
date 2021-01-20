@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PYYRW1V-es Under Armour UA HOVR Sonic 3 Zapatillas Ligeras para...'
+sku: 'B07PYYRW1V-es'
 tags: [  ]
 actualPrice: 85.25 EUR
 currency: EUR

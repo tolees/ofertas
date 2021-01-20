@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFZ819G-es PUMA Jaab XT Wn s Zapatillas Deportivas para Interior para...'
+sku: 'B07KFZ819G-es'
 tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR

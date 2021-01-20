@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DMZX0QG-es 4 x Herramienta Coche Car Puerta Palanca Reparación...'
+sku: 'B00DMZX0QG-es'
 tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR

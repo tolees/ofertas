@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088D31BXN-es Suhctup Funda Compatible para Xiaomi Redmi Note 6 Carcasa...'
+sku: 'B088D31BXN-es'
 tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR

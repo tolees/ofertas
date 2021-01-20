@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P882MXP-es deAO Conjunto Aéreo de Juguete a Fricción 12 Figuras...'
+sku: 'B07P882MXP-es'
 tags: [  ]
 actualPrice: 6.79 EUR
 currency: EUR

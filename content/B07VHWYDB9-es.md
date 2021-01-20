@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VHWYDB9-es Vans Atwood Canvas Zapatillas para Hombre Azul Enzyme Wash...'
+sku: 'B07VHWYDB9-es'
 tags: [  ]
 actualPrice: 37.95 EUR
 currency: EUR

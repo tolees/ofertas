@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0713THH4T-es Polti Moppy Limpiador de suelos con vapor sin cables para...'
+sku: 'B0713THH4T-es'
 tags: [  ]
 actualPrice: 89.21 EUR
 currency: EUR

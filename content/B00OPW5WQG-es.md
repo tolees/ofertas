@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OPW5WQG-es San Ignacio Profesional Chef - Sartén 24 x 5 cm'
+sku: 'B00OPW5WQG-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

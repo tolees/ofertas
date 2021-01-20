@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NW52KRM-es Skechers Women s Skech-AIR Stratus-Sparkling W Trainers...'
+sku: 'B07NW52KRM-es'
 tags: [  ]
 actualPrice: 52.69 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BLVM9CQ-es 4 Unidades de Pinzas de Cama para Tablas de Planchar...'
+sku: 'B07BLVM9CQ-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

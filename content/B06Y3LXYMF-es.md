@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y3LXYMF-es L Oréal Professionnel - Champú experto Silver Series para...'
+sku: 'B06Y3LXYMF-es'
 tags: [  ]
 actualPrice: 8.0 EUR
 currency: EUR

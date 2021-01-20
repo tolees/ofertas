@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QYNPWV5-es Speedo Minnie Placement con Espalda en U Bañador Mujer...'
+sku: 'B07QYNPWV5-es'
 tags: [  ]
 actualPrice: 12.6 EUR
 currency: EUR

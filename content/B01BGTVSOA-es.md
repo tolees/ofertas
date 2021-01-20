@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BGTVSOA-es G-STAR RAW Rovic Zip 3D Tapered Pantalones para Hombre...'
+sku: 'B01BGTVSOA-es'
 tags: [  ]
 actualPrice: 64.99 EUR
 currency: EUR

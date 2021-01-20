@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079RJTHLQ-es Philips BT3226/14 Barbero Recortadora de Barba y Pelo...'
+sku: 'B079RJTHLQ-es'
 tags: [  ]
 actualPrice: 29.9 EUR
 currency: EUR

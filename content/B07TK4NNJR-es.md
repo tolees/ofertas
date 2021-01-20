@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TK4NNJR-es find. Alto HS01 Mocasines Azul Navy Navy 46.5'
+sku: 'B07TK4NNJR-es'
 tags: [  ]
 actualPrice: 24.21 EUR
 currency: EUR

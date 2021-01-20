@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000BGZMTC-es Hoya Pro1 Digital - Filtro de protección UV para Objetivo...'
+sku: 'B000BGZMTC-es'
 tags: [  ]
 actualPrice: 22.88 EUR
 currency: EUR

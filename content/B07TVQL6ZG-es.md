@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVQL6ZG-es Wrangler High Rise Skinny Jeans Negro Black Sea 45a 29W /...'
+sku: 'B07TVQL6ZG-es'
 tags: [  ]
 actualPrice: 47.23 EUR
 currency: EUR

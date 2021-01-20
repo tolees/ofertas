@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VDCTTCB-es Netspower Calcetines de yoga pilates antideslizantes...'
+sku: 'B07VDCTTCB-es'
 tags: [  ]
 actualPrice: 8.02 EUR
 currency: EUR

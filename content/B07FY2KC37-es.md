@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FY2KC37-es Vans Ward Canvas Zapatillas Unisex Niños Rosa Canvas Sepia...'
+sku: 'B07FY2KC37-es'
 tags: [  ]
 actualPrice: 22.67 EUR
 currency: EUR

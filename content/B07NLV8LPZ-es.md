@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NLV8LPZ-es Nike Revolution 5 Zapatillas de Running para Hombre...'
+sku: 'B07NLV8LPZ-es'
 tags: [  ]
 actualPrice: 32.9 EUR
 currency: EUR

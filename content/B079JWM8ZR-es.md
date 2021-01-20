@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079JWM8ZR-es Napapijri Rainforest Winter Chaqueta para Hombre Rojo Red...'
+sku: 'B079JWM8ZR-es'
 tags: [  ]
 actualPrice: 91.5 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DBXNRVR-es PUMA Vikky v2 Ribbon Core Zapatillas para Mujer Black...'
+sku: 'B07DBXNRVR-es'
 tags: [  ]
 actualPrice: 34.9 EUR
 currency: EUR

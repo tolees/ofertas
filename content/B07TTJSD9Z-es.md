@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TTJSD9Z-es Wrangler Texas Contrast Jeans Azul Game On 087 35W / 32L...'
+sku: 'B07TTJSD9Z-es'
 tags: [  ]
 actualPrice: 50.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CBL4R5J-es Bella Aurora Crema Facial Protector Solar Pre-Base...'
+sku: 'B07CBL4R5J-es'
 tags: [  ]
 actualPrice: 15.95 EUR
 currency: EUR

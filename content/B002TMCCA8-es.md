@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002TMCCA8-es Rowenta Accesorio PAE Limpieza WB406120 Bolsa...'
+sku: 'B002TMCCA8-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

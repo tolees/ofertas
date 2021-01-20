@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081B3HXYW-es PIKOLIN canapé abatible Gran Capacidad de almacenaje Color...'
+sku: 'B081B3HXYW-es'
 tags: [  ]
 actualPrice: 373.99 EUR
 currency: EUR

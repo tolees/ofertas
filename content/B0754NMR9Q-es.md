@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0754NMR9Q-es Salomon Mallas para running AGILE LONG TIGHT tejido de...'
+sku: 'B0754NMR9Q-es'
 tags: [  ]
 actualPrice: 35.95 EUR
 currency: EUR

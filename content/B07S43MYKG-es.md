@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S43MYKG-es New Balance 373v2 Zapatillas para Hombre Gris Grey/White...'
+sku: 'B07S43MYKG-es'
 tags: [  ]
 actualPrice: 54.99 EUR
 currency: EUR

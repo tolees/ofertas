@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078J8FCXC-es MOISO Plantillas ortopédicas con soporte de arco cojín de...'
+sku: 'B078J8FCXC-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

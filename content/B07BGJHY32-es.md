@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BGJHY32-es Maleta grande Pepe Jeans Cambridge Celeste rígida 70cm'
+sku: 'B07BGJHY32-es'
 tags: [  ]
 actualPrice: 79 EUR
 currency: EUR

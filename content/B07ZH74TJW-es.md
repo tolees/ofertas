@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZH74TJW-es Navaja Plegable Morpilot Cuchillo de Acero Inoxidable con...'
+sku: 'B07ZH74TJW-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

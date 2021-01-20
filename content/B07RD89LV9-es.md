@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RD89LV9-es Tommy Hilfiger Graphic F/b Polo S/s Blanco White Yaf...'
+sku: 'B07RD89LV9-es'
 tags: [  ]
 actualPrice: 24.95 EUR
 currency: EUR

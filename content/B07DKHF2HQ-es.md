@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DKHF2HQ-es Kipling - Inami S Monederos Mujer Multicolor Dynamic Dots'
+sku: 'B07DKHF2HQ-es'
 tags: [  ]
 actualPrice: 16.1 EUR
 currency: EUR

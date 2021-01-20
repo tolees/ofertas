@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BGTUZXK-es G-STAR RAW Midge Saddle Mid Waist Straight Jeans Azul Dk...'
+sku: 'B01BGTUZXK-es'
 tags: [  ]
 actualPrice: 19.79 EUR
 currency: EUR

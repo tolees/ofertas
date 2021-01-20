@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RXJCWZW-es New Balance 574v2 Zapatillas para Hombre Azul Navy SPZ...'
+sku: 'B07RXJCWZW-es'
 tags: [  ]
 actualPrice: 59.14 EUR
 currency: EUR

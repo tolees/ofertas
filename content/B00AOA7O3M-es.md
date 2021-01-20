@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00AOA7O3M-es Nike M NP Short Pantalones Cortos de Deporte Hombre...'
+sku: 'B00AOA7O3M-es'
 tags: [  ]
 actualPrice: 18.47 EUR
 currency: EUR

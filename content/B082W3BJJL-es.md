@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082W3BJJL-es Pistola de Masaje Electrónica Masajeador de Tejido...'
+sku: 'B082W3BJJL-es'
 tags: [  ]
 actualPrice: 56.99 EUR
 currency: EUR

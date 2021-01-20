@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071NZK56K-es Vileda Quick & Clean - Escoba eléctrica inalámbrica y...'
+sku: 'B071NZK56K-es'
 tags: [  ]
 actualPrice: 29.0 EUR
 currency: EUR

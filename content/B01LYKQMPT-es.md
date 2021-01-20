@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LYKQMPT-es HERMA 7188 Surtido cartón diseño carpeta estrellas DIN A4...'
+sku: 'B01LYKQMPT-es'
 tags: [  ]
 actualPrice: 6.35 EUR
 currency: EUR

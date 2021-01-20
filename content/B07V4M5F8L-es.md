@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V4M5F8L-es Love Moschino Jc4270pp0a Bolsa de mensajero para Mujer...'
+sku: 'B07V4M5F8L-es'
 tags: [  ]
 actualPrice: 78.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y1LLTTF-es Cámara Bebé 1080P Cámara IP JUMPER Cámara de Seguridad...'
+sku: 'B07Y1LLTTF-es'
 tags: [  ]
 actualPrice: 29.69 EUR
 currency: EUR

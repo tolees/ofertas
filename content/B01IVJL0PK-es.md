@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IVJL0PK-es Pack Quitamanchas Sinmanchas 750Ml + Sinmanchas Coloreadas...'
+sku: 'B01IVJL0PK-es'
 tags: [  ]
 actualPrice: 9.14 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0847PKGLR-es FactorLED ¡NOVEDAD! Downlight Panel Superficie LED...'
+sku: 'B0847PKGLR-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

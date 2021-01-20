@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N12DH2Q-es Ozone Strike X30 - OZSTRIKEX30SPRD - Teclado Gaming...'
+sku: 'B01N12DH2Q-es'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BPCFYZR-es Cabello fuerte uñas y piel con BIOTIN + ZINC ortiga...'
+sku: 'B07BPCFYZR-es'
 tags: [  ]
 actualPrice: 24.77 EUR
 currency: EUR

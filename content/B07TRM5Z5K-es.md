@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TRM5Z5K-es Levi s 502 Taper Shorts 10" Pantalones Cortos Azul...'
+sku: 'B07TRM5Z5K-es'
 tags: [  ]
 actualPrice: 37.27 EUR
 currency: EUR

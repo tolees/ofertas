@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X3BXYYH-es Humidificador USB para coche 230 ml difusor de coche...'
+sku: 'B07X3BXYYH-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

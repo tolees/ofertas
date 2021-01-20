@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S5R1NFH-es Joyeee Niños Bricolaje Conjunto de Cuentas Set de...'
+sku: 'B07S5R1NFH-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QHKBC4N-es PUMA Campus Grip Bag Retro Bolsa Deporte Adultos Unisex...'
+sku: 'B07QHKBC4N-es'
 tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR

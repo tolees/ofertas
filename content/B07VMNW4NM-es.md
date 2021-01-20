@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VMNW4NM-es Calvin Klein Medium Drawstring Bañador Verde Dark Green...'
+sku: 'B07VMNW4NM-es'
 tags: [  ]
 actualPrice: 27.5 EUR
 currency: EUR

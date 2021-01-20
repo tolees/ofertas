@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MZ68OFL-es LA ROCHE POSAY Agua Micelar Ultra Pieles Reactivas 200 ml'
+sku: 'B01MZ68OFL-es'
 tags: [  ]
 actualPrice: 7.45 EUR
 currency: EUR

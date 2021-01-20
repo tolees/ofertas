@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NBWFWVF-es BOSS Trunk 3p One Design Bóxer Open Miscellaneous 960...'
+sku: 'B07NBWFWVF-es'
 tags: [  ]
 actualPrice: 16.17 EUR
 currency: EUR

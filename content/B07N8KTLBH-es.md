@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N8KTLBH-es BOSS Tylir-Stripe_sz35 Cinturón Azul Navy 410 120 para Hombre'
+sku: 'B07N8KTLBH-es'
 tags: [  ]
 actualPrice: 23.47 EUR
 currency: EUR

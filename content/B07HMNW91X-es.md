@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HMNW91X-es Skechers Men s Verrado- Brogen Hi-Top Trainers Brown Brown...'
+sku: 'B07HMNW91X-es'
 tags: [  ]
 actualPrice: 20.6 EUR
 currency: EUR

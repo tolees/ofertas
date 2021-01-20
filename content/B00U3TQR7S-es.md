@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00U3TQR7S-es Lowepro Adventura TLZ 30 II - Bolsa para cámara réflex Negro'
+sku: 'B00U3TQR7S-es'
 tags: [  ]
 actualPrice: 21.39 EUR
 currency: EUR

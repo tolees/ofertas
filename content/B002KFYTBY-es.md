@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002KFYTBY-es Lacor - 69082 - Licuadora De fruta + Batidor Inox 1.8 Litros'
+sku: 'B002KFYTBY-es'
 tags: [  ]
 actualPrice: 90.39 EUR
 currency: EUR

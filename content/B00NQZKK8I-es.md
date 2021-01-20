@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NQZKK8I-es Control Touch And Feel Preservativos - 12 Unidades'
+sku: 'B00NQZKK8I-es'
 tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR

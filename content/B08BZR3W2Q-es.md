@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BZR3W2Q-es KERUN Funda para Samsung Galaxy A21S Carcasa [Ranuras para...'
+sku: 'B08BZR3W2Q-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

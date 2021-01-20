@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007NZI3KO-es Suavinex – Crema antiestrías para embarazadas. Previene La...'
+sku: 'B007NZI3KO-es'
 tags: [  ]
 actualPrice: 17.95 EUR
 currency: EUR

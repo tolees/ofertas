@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00RTG01FM-es Grohe Eurosmart - Grifo de lavabo con vaciador automático...'
+sku: 'B00RTG01FM-es'
 tags: [  ]
 actualPrice: 65.42 EUR
 currency: EUR

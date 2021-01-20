@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CI2WUVK-es NANOCABLE 10.20.0103-BL - Cable de Red Ethernet RJ45...'
+sku: 'B00CI2WUVK-es'
 tags: [  ]
 actualPrice: 1.27 EUR
 currency: EUR

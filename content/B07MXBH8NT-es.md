@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MXBH8NT-es JACK & JONES Jjebomb Puffer Hood Noos Hombre Azul Navy...'
+sku: 'B07MXBH8NT-es'
 tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR

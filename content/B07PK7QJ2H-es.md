@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PK7QJ2H-es Swatch Reloj Analógico para Unisex Adultos de Cuarzo con...'
+sku: 'B07PK7QJ2H-es'
 tags: [  ]
 actualPrice: 60.09 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009DG5DWW-es Esi Crema diurna facial - 50 ml.'
+sku: 'B009DG5DWW-es'
 tags: [  ]
 actualPrice: 7.68 EUR
 currency: EUR

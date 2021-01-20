@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B16RDMS-es Multímetro De Mano Multímetro Luminoso Pantalla LCD...'
+sku: 'B08B16RDMS-es'
 tags: [  ]
 actualPrice: 5.56 EUR
 currency: EUR

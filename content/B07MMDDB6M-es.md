@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MMDDB6M-es upHere Alto Rendemento LED Blanco Ventilador de PC 120mm -...'
+sku: 'B07MMDDB6M-es'
 tags: [  ]
 actualPrice: 9.16 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DCPBBCQ-es Avaner Reloj para Hombre Caballero Esfera Cuadrada Reloj...'
+sku: 'B07DCPBBCQ-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XMNDSHK-es TEEHON Cartera Hombre Cartera RFID Cartera Cuero Hombre...'
+sku: 'B07XMNDSHK-es'
 tags: [  ]
 actualPrice: 13.08 EUR
 currency: EUR

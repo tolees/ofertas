@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ARRTHPO-es HP 364XL N9J74AE Pack de 4 Negro Cian Magenta y Amarillo...'
+sku: 'B01ARRTHPO-es'
 tags: [  ]
 actualPrice: 76.37 EUR
 currency: EUR

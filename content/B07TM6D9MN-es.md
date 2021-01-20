@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TM6D9MN-es find. Arthur HS01 Botas Clasicas Marrón Napa Tan Napa Tan 47'
+sku: 'B07TM6D9MN-es'
 tags: [  ]
 actualPrice: 18.82 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004UBDX54-es Lico Bernie V Zapatillas Deportivas para Interior Unisex...'
+sku: 'B004UBDX54-es'
 tags: [  ]
 actualPrice: 12.8 EUR
 currency: EUR

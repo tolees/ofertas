@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072HWHR3T-es Cafetera de Vacío de Acero Inoxidable de Doble Vaso de...'
+sku: 'B072HWHR3T-es'
 tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR

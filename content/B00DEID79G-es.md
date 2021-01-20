@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DEID79G-es CTEK MXS 5.0 Cargador de Batería Totalmente Automático...'
+sku: 'B00DEID79G-es'
 tags: [  ]
 actualPrice: 64.99 EUR
 currency: EUR

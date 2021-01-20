@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J3QVWC8-es Dim Soutien-Gorge Sans Armature Invisififree Sujetador sin...'
+sku: 'B07J3QVWC8-es'
 tags: [  ]
 actualPrice: 12 EUR
 currency: EUR

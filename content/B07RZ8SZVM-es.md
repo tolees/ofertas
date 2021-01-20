@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZ8SZVM-es Sebago Schooner Náuticos Hombre Marrón Brown-Gum 925 39 EU'
+sku: 'B07RZ8SZVM-es'
 tags: [  ]
 actualPrice: 16.63 EUR
 currency: EUR

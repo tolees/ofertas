@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076JSCNBB-es Varlion Hexagon Azul - Paletero de pádel Unisex Adulto...'
+sku: 'B076JSCNBB-es'
 tags: [  ]
 actualPrice: 29.9 EUR
 currency: EUR

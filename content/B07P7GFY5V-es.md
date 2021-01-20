@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P7GFY5V-es SONARIN Rayas Premium Cubiertas de lactancia 4 en 1...'
+sku: 'B07P7GFY5V-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

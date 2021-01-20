@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GKV8STQ-es Auriculares Bluetooth 5.0 Auricular Inalámbrico Control...'
+sku: 'B08GKV8STQ-es'
 tags: [  ]
 actualPrice: 15.58 EUR
 currency: EUR

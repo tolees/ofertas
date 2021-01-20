@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZCK8XXR-es Aigital [Versión Español] Bluetooth Manos Libres Coche Kit...'
+sku: 'B07ZCK8XXR-es'
 tags: [  ]
 actualPrice: 19.89 EUR
 currency: EUR

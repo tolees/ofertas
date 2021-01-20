@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XNCLSK2-es [Versión Nuevo]Dilatador Nasal Anti Ronquidos Dyroe Nose...'
+sku: 'B07XNCLSK2-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WGGZ5TH-es Manta Dragón Bebe Personalizada con Nombre. Regalo Bebé...'
+sku: 'B07WGGZ5TH-es'
 tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR

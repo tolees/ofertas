@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089R77PCT-es LJP Funda Motorola Moto E7 Antigolpes Doble Capa Duro PC +...'
+sku: 'B089R77PCT-es'
 tags: [  ]
 actualPrice: 7.49 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004U8I3HK-es Lindy 70421 - Conector acodado Toslink'
+sku: 'B004U8I3HK-es'
 tags: [  ]
 actualPrice: 3.9 EUR
 currency: EUR

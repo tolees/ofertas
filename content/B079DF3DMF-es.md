@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079DF3DMF-es Campingaz 2 Series Classic LX Vario Barbacoa a Gas BBQ con...'
+sku: 'B079DF3DMF-es'
 tags: [  ]
 actualPrice: 185.25 EUR
 currency: EUR

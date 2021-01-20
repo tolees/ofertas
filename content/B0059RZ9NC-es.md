@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0059RZ9NC-es Columbia Altitude Aspect Forro Polar Hombre Negro Black...'
+sku: 'B0059RZ9NC-es'
 tags: [  ]
 actualPrice: 43.24 EUR
 currency: EUR

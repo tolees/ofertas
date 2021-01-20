@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081TC24TY-es Entil 5400mAH Calentador de Manos Recargable de...'
+sku: 'B081TC24TY-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

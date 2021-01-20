@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01I4QYPIY-es SELECT – Rodillera para Balonmano Vendaje Hombre Color...'
+sku: 'B01I4QYPIY-es'
 tags: [  ]
 actualPrice: 24.49 EUR
 currency: EUR

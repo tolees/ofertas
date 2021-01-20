@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LF8WP3W-es Levi s 502 Regular Taper Jeans Azul Cedar Light Mid Overt...'
+sku: 'B07LF8WP3W-es'
 tags: [  ]
 actualPrice: 41.59 EUR
 currency: EUR

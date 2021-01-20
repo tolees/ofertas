@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XG61NM9-es Lovecraft s Untold Stories'
+sku: 'B07XG61NM9-es'
 tags: [  ]
 actualPrice: 21.48 EUR
 currency: EUR

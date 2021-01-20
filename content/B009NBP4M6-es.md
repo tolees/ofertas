@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009NBP4M6-es BIC Marking marcadores permanentes punta media Cónica –...'
+sku: 'B009NBP4M6-es'
 tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR

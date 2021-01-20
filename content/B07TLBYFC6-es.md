@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TLBYFC6-es ROMIX Esterilla de Gimnasia Antideslizante Extra Gruesa...'
+sku: 'B07TLBYFC6-es'
 tags: [  ]
 actualPrice: 19.49 EUR
 currency: EUR

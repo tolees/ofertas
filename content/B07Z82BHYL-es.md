@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z82BHYL-es Oihxse Compatible con iPhone 7 Plus/iPhone 8 Plus Funda...'
+sku: 'B07Z82BHYL-es'
 tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR

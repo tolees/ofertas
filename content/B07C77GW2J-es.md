@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C77GW2J-es Aissimio Placas Insonorizantes para Automóviles...'
+sku: 'B07C77GW2J-es'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

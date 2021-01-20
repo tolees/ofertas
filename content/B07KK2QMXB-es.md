@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KK2QMXB-es Super Neptunia RPG'
+sku: 'B07KK2QMXB-es'
 tags: [  ]
 actualPrice: 33.05 EUR
 currency: EUR

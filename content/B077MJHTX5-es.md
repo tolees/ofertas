@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077MJHTX5-es PUMA Smash v2 L V Inf Zapatillas Unisex Niños Black White...'
+sku: 'B077MJHTX5-es'
 tags: [  ]
 actualPrice: 9.01 EUR
 currency: EUR

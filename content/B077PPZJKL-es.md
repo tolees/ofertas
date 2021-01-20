@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077PPZJKL-es Sharkoon SKILLER SGS2 – Silla Gaming Profesional Tela...'
+sku: 'B077PPZJKL-es'
 tags: [  ]
 actualPrice: 159.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1GTC47-es Clarks Un Maui Lace Zapatillas para Mujer Gris Grey...'
+sku: 'B07N1GTC47-es'
 tags: [  ]
 actualPrice: 50.5 EUR
 currency: EUR

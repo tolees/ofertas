@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0872NPTJF-es Funda Transparente Compatible para Xiaomi Redmi Note 6...'
+sku: 'B0872NPTJF-es'
 tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR

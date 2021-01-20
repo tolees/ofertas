@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VGTBF81-es Lee Extreme Motion Short Pantalones Cortos Verde Khaki 08...'
+sku: 'B07VGTBF81-es'
 tags: [  ]
 actualPrice: 20.49 EUR
 currency: EUR

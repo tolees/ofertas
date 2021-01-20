@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BJ7X37Y-es SPIRIT OF GAMER - MY-JOY PLUS - Controlador Bluetooth...'
+sku: 'B08BJ7X37Y-es'
 tags: [  ]
 actualPrice: 47.27 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C5D3FM7-es Kelme - Zapatillas Triton'
+sku: 'B07C5D3FM7-es'
 tags: [  ]
 actualPrice: 41.93 EUR
 currency: EUR

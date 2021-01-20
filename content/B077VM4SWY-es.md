@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077VM4SWY-es Kit de LED Iluminación Yeeteem 160 Regulable Ultra High...'
+sku: 'B077VM4SWY-es'
 tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR

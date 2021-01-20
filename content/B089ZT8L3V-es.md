@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089ZT8L3V-es Auriculares Bluetooth 5.0 Auricular Inalámbrico Control...'
+sku: 'B089ZT8L3V-es'
 tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR

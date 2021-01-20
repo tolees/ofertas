@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GKP6QSF-es Philips Serie 7000 BG7020/15 - Afeitadora corporal con...'
+sku: 'B07GKP6QSF-es'
 tags: [  ]
 actualPrice: 38.39 EUR
 currency: EUR

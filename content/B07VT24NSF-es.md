@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VT24NSF-es Minutus Manta Fina de Punto para Verano Algodón 80 Cm...'
+sku: 'B07VT24NSF-es'
 tags: [  ]
 actualPrice: 2.9 EUR
 currency: EUR

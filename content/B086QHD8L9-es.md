@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086QHD8L9-es Suhctup Funda Compatible con Samsung Galaxy A6S Carcasa...'
+sku: 'B086QHD8L9-es'
 tags: [  ]
 actualPrice: 8.98 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085CDF3SJ-es FMPC Carcasa con Cuerda Samsung Galaxy S20 Ultra Cristal...'
+sku: 'B085CDF3SJ-es'
 tags: [  ]
 actualPrice: 8.9 EUR
 currency: EUR

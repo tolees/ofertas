@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V7JH8TM-es Otterbox Symmetry Clear - Funda Anti-Caídas Fina y...'
+sku: 'B07V7JH8TM-es'
 tags: [  ]
 actualPrice: 22.93 EUR
 currency: EUR

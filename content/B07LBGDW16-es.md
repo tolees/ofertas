@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBGDW16-es Kappa Memni Zapatillas para Mujer Black/White 1110 39 EU'
+sku: 'B07LBGDW16-es'
 tags: [  ]
 actualPrice: 16.08 EUR
 currency: EUR

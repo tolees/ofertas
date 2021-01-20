@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UTC9T7E-es SONGMICS Silla ergonómica de oficina estudio con ruedas...'
+sku: 'B00UTC9T7E-es'
 tags: [  ]
 actualPrice: 104.21 EUR
 currency: EUR

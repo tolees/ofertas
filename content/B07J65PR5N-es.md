@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J65PR5N-es PROTEAR Protectores Auditivos Con Bluetooth y radio AM FM...'
+sku: 'B07J65PR5N-es'
 tags: [  ]
 actualPrice: 80.39 EUR
 currency: EUR

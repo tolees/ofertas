@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZQLZTD-es LATEC Pulsera Actividad [Última Versión] Pulsera de...'
+sku: 'B07MZQLZTD-es'
 tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR

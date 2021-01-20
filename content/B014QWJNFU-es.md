@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014QWJNFU-es Monster Adidas Supernova - Auriculares in-ear color negro...'
+sku: 'B014QWJNFU-es'
 tags: [  ]
 actualPrice: 41.88 EUR
 currency: EUR

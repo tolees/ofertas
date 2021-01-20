@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TNS4KB2-es Superdry Orange Label Cotton Crew suéter Verde Fresh Mint...'
+sku: 'B07TNS4KB2-es'
 tags: [  ]
 actualPrice: 13.63 EUR
 currency: EUR

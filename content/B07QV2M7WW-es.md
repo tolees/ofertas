@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QV2M7WW-es LightHUB Lámpara de pared de yeso inferior interior...'
+sku: 'B07QV2M7WW-es'
 tags: [  ]
 actualPrice: 16.9 EUR
 currency: EUR

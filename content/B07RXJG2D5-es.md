@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RXJG2D5-es New Balance 373v2 Zapatillas para Mujer Azul Blue Cb2 35 EU'
+sku: 'B07RXJG2D5-es'
 tags: [  ]
 actualPrice: 33.79 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G1CDKHF-es ghd curve classic curl - Tenacilla profesional con barril...'
+sku: 'B07G1CDKHF-es'
 tags: [  ]
 actualPrice: 130.99 EUR
 currency: EUR

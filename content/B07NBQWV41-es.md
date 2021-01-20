@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NBQWV41-es adidas Team Glider Balón Fútbol Hombre Naranja...'
+sku: 'B07NBQWV41-es'
 tags: [  ]
 actualPrice: 10.47 EUR
 currency: EUR

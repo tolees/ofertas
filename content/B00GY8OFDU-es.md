@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GY8OFDU-es Puma Suede Classic + Zapatillas Unisex Adulto Negro...'
+sku: 'B00GY8OFDU-es'
 tags: [  ]
 actualPrice: 56 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BWKRGYV-es Mocasines Planos cómodos para Mujer - Los Negros Mocasines...'
+sku: 'B07BWKRGYV-es'
 tags: [  ]
 actualPrice: 17.89 EUR
 currency: EUR

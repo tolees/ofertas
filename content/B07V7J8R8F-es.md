@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V7J8R8F-es Salomon SFLASK 250/8 STD 28 Botella Flexible LC1312400...'
+sku: 'B07V7J8R8F-es'
 tags: [  ]
 actualPrice: 9.65 EUR
 currency: EUR

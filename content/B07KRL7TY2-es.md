@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRL7TY2-es New Balance Cm997hv1 Zapatillas para Hombre Blanco White...'
+sku: 'B07KRL7TY2-es'
 tags: [  ]
 actualPrice: 34.21 EUR
 currency: EUR

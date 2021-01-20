@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SJ4GHW7-es RATEL Tira de Sellado Junta de 30 m 4 x 7.5 m Goma burlete...'
+sku: 'B07SJ4GHW7-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

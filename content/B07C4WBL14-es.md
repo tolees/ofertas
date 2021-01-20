@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C4WBL14-es LuckyGirls Bañadores de Natación Hombre Calzoncillos...'
+sku: 'B07C4WBL14-es'
 tags: [  ]
 actualPrice: 2.28 EUR
 currency: EUR

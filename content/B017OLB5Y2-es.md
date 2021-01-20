@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017OLB5Y2-es Schwarzkopf Professional BC Excellium Beautifying Shampoo...'
+sku: 'B017OLB5Y2-es'
 tags: [  ]
 actualPrice: 6.7 EUR
 currency: EUR

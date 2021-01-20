@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZCHBC18-es NEEGO Juego de Pingüinos Trampa de Pingüinos - Peligro de...'
+sku: 'B07ZCHBC18-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

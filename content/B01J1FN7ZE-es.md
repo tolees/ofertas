@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01J1FN7ZE-es Bosch Truvo - Detector digital 3 pilas AAA profundidad de...'
+sku: 'B01J1FN7ZE-es'
 tags: [  ]
 actualPrice: 37.15 EUR
 currency: EUR

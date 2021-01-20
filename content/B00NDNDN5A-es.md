@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NDNDN5A-es Beurer FC95 - Cepillo facial sónico 2 intensidades de...'
+sku: 'B00NDNDN5A-es'
 tags: [  ]
 actualPrice: 52.24 EUR
 currency: EUR

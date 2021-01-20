@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004NG9SZU-es Metronic 477201 - Radio portátil AM FM pantalla LCD roja'
+sku: 'B004NG9SZU-es'
 tags: [  ]
 actualPrice: 19.72 EUR
 currency: EUR

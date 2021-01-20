@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W5PHMFC-es JACK & JONES Jcomilla Sweat Hood Capucha Multicolor Sky...'
+sku: 'B07W5PHMFC-es'
 tags: [  ]
 actualPrice: 19.49 EUR
 currency: EUR

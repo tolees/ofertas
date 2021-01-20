@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089WFJ3P8-es Guitarra Abstracta Cesto para la Colada Cestos Lavado de...'
+sku: 'B089WFJ3P8-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

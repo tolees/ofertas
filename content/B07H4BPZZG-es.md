@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H4BPZZG-es SanDisk Extreme - Tarjeta de Memoria SD UHS-I 256 GB hasta...'
+sku: 'B07H4BPZZG-es'
 tags: [  ]
 actualPrice: 56.16 EUR
 currency: EUR

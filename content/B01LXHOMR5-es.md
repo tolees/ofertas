@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LXHOMR5-es Bosch Professional GSS 18V-10 Orbital Plato lijador 113 x...'
+sku: 'B01LXHOMR5-es'
 tags: [  ]
 actualPrice: 119.99 EUR
 currency: EUR

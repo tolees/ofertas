@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZXNYCC-es Roxy You Gotta Be-Top De Manga Larga con Cuello En Pico...'
+sku: 'B07TZXNYCC-es'
 tags: [  ]
 actualPrice: 22.78 EUR
 currency: EUR

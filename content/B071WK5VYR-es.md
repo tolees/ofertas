@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071WK5VYR-es Carterón Pepe Jeans Treval'
+sku: 'B071WK5VYR-es'
 tags: [  ]
 actualPrice: 34.95 EUR
 currency: EUR

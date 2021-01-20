@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DC1YXT3-es PUMA Leader VT SL Zapatillas para Correr de Carretera...'
+sku: 'B07DC1YXT3-es'
 tags: [  ]
 actualPrice: 29.83 EUR
 currency: EUR

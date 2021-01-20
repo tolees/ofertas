@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071HGNV4N-es Reebok Royal Ultra Zapatillas para Hombre Azul Collegiate...'
+sku: 'B071HGNV4N-es'
 tags: [  ]
 actualPrice: 42.98 EUR
 currency: EUR

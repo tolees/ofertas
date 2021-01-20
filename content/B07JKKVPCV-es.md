@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JKKVPCV-es IK Multimedia iKlip 3 - Soporte de micrófono Universal...'
+sku: 'B07JKKVPCV-es'
 tags: [  ]
 actualPrice: 42.97 EUR
 currency: EUR

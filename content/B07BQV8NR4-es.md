@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BQV8NR4-es New Balance Fuel Core NERGIZE Zapatillas Deportivas para...'
+sku: 'B07BQV8NR4-es'
 tags: [  ]
 actualPrice: 31.62 EUR
 currency: EUR

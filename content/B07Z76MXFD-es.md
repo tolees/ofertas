@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z76MXFD-es Pantalla de Proyector de 100 Pulgadas Portátil para...'
+sku: 'B07Z76MXFD-es'
 tags: [  ]
 actualPrice: 16.88 EUR
 currency: EUR

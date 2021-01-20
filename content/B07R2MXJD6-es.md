@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R2MXJD6-es Amazon Essentials Plus Size Sherpa-Lined Full-Zip Hoodie...'
+sku: 'B07R2MXJD6-es'
 tags: [  ]
 actualPrice: 12.95 EUR
 currency: EUR

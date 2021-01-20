@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KQSBBW8-es Salomon ALPHACROSS W Zapatillas de trail running Mujer...'
+sku: 'B07KQSBBW8-es'
 tags: [  ]
 actualPrice: 31.48 EUR
 currency: EUR

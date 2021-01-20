@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SNRHTCW-es Igrome Utensilios Cocina Camping 13PCS Camping Kit de...'
+sku: 'B07SNRHTCW-es'
 tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR

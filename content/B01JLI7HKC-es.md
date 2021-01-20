@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JLI7HKC-es Reloj para hombre Tommy Hilfiger 1791308.'
+sku: 'B01JLI7HKC-es'
 tags: [  ]
 actualPrice: 134.95 EUR
 currency: EUR

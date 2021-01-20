@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082D1RGN2-es Kit de Rosas ASANMU Bella y la Bestia Rosa de Seda Roja y...'
+sku: 'B082D1RGN2-es'
 tags: [  ]
 actualPrice: 19.98 EUR
 currency: EUR

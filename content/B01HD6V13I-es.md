@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HD6V13I-es Salomon Evasion 2 Aero Zapatillas de Senderismo para...'
+sku: 'B01HD6V13I-es'
 tags: [  ]
 actualPrice: 63.99 EUR
 currency: EUR

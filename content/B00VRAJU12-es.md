@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VRAJU12-es Revlon Super Lustrous Brillo Labial #243 Sizzling Coral'
+sku: 'B00VRAJU12-es'
 tags: [  ]
 actualPrice: 1.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZBJKQM-es Cooler Master MasterBox MB511 Midi-Tower Negro Azul - Caja...'
+sku: 'B07CZBJKQM-es'
 tags: [  ]
 actualPrice: 54.44 EUR
 currency: EUR

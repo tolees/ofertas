@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009AYVNMQ-es Toshiba MQ01ABD0100 - Disco duro interno 2 5" 1TB'
+sku: 'B009AYVNMQ-es'
 tags: [  ]
 actualPrice: 54.95 EUR
 currency: EUR

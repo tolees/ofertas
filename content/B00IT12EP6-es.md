@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IT12EP6-es Clarins - Crema Alta Exigencia día SPF20 - Todas pieles -...'
+sku: 'B00IT12EP6-es'
 tags: [  ]
 actualPrice: 54.25 EUR
 currency: EUR

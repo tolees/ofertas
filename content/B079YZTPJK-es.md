@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079YZTPJK-es Hugo BOSS Reloj Cronógrafo para Hombre de Cuarzo con...'
+sku: 'B079YZTPJK-es'
 tags: [  ]
 actualPrice: 197.62 EUR
 currency: EUR

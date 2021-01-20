@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P6QF2P4-es Parasol Coche Infantil Lateral UV Parasol Coche Bebe-...'
+sku: 'B07P6QF2P4-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

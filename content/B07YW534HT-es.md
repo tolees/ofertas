@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YW534HT-es SZBHS Adaptador USB C a USB 3.0 [4 unidades] Adaptador USB...'
+sku: 'B07YW534HT-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

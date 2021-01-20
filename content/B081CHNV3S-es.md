@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081CHNV3S-es LNIEGE - Asiento de Seguridad para Coche con Ventosa...'
+sku: 'B081CHNV3S-es'
 tags: [  ]
 actualPrice: 2.43 EUR
 currency: EUR

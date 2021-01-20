@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q42CMJY-es Toyvian Succión Bullet Gun Revolver Kids Divertido Juego...'
+sku: 'B07Q42CMJY-es'
 tags: [  ]
 actualPrice: 7.02 EUR
 currency: EUR

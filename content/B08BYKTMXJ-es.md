@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BYKTMXJ-es LNIEGE Aspirador Motor del Cepillo de carbón...'
+sku: 'B08BYKTMXJ-es'
 tags: [  ]
 actualPrice: 6.54 EUR
 currency: EUR

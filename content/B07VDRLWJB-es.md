@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VDRLWJB-es Calcetines Deportivos Quarter Pro 5 Pares Negro sólido EU...'
+sku: 'B07VDRLWJB-es'
 tags: [  ]
 actualPrice: 16.15 EUR
 currency: EUR

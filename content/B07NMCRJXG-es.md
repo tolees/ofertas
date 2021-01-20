@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NMCRJXG-es Cámara Vigilancia WiFi Interior Apeman 1080P Cámara IP...'
+sku: 'B07NMCRJXG-es'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VKLXQ5Z-es Festnight Mesa para TV Mueble TV Salón Mesa Televisión con...'
+sku: 'B07VKLXQ5Z-es'
 tags: [  ]
 actualPrice: 175.99 EUR
 currency: EUR

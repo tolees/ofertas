@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077ZV3HX4-es Localizador de llaves'
+sku: 'B077ZV3HX4-es'
 tags: [  ]
 actualPrice: 23.49 EUR
 currency: EUR

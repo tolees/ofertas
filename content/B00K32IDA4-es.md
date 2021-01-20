@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K32IDA4-es Nike Wmns Air Zoom Vomero 14 Zapatillas de Running para...'
+sku: 'B00K32IDA4-es'
 tags: [  ]
 actualPrice: 69.95 EUR
 currency: EUR

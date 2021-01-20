@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDMYPPJ-es G-STAR RAW Halite Polo Rojo Dk Baron 4749 XX-Small para...'
+sku: 'B07NDMYPPJ-es'
 tags: [  ]
 actualPrice: 29.97 EUR
 currency: EUR

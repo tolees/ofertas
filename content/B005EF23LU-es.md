@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005EF23LU-es Bolsius – Vela perfumada 103630519700 Velas Cera de...'
+sku: 'B005EF23LU-es'
 tags: [  ]
 actualPrice: 11.25 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KBKCBT4-es Omino Bianco Producto para el Lavado a Mano y de Prendas...'
+sku: 'B07KBKCBT4-es'
 tags: [  ]
 actualPrice: 9.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PGNS4FR-es Ommani Encendedor Electrico USB Encendedor de Doble Arco...'
+sku: 'B07PGNS4FR-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

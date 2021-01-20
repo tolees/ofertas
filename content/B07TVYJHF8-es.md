@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVYJHF8-es 16 Tipos 20pc 75 Mm Lijar Discos De Papel De Lija Gancho Y...'
+sku: 'B07TVYJHF8-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

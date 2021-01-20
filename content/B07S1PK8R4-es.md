@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S1PK8R4-es New Balance 373v2 Zapatillas para Mujer Azul Navy Be2 36.5 EU'
+sku: 'B07S1PK8R4-es'
 tags: [  ]
 actualPrice: 43.94 EUR
 currency: EUR

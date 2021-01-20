@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG52TC8-es PUMA Puma Turin II AC PS Zapatillas Unisex Niños Puma...'
+sku: 'B07KG52TC8-es'
 tags: [  ]
 actualPrice: 11.74 EUR
 currency: EUR

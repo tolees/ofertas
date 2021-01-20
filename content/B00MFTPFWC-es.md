@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MFTPFWC-es Jimmy Choo Man Agua de toilette con vaporizador - 50 ml'
+sku: 'B00MFTPFWC-es'
 tags: [  ]
 actualPrice: 27.16 EUR
 currency: EUR

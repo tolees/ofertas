@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0863SN1CN-es Suhctup Transparente Funda Compatible con Samsung Galaxy...'
+sku: 'B0863SN1CN-es'
 tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR

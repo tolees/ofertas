@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07211YWDM-es Smoby-3032164106172 PJ Masks Pizarra Color Azul Verde Rojo...'
+sku: 'B07211YWDM-es'
 tags: [  ]
 actualPrice: 18.89 EUR
 currency: EUR

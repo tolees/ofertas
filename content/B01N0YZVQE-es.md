@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N0YZVQE-es Sandisk SDCZ800-128G-G46 Memoria Flash Usb Sandisk Extreme...'
+sku: 'B01N0YZVQE-es'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

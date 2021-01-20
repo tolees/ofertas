@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FF8HX5Q-es JACK & JONES Jjimike Jjoriginal Ge 616 Noos Lid Jeans...'
+sku: 'B01FF8HX5Q-es'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081W7FT8C-es QHOHQ Funda para Samsung Galaxy A51 Cases Silicona Slim...'
+sku: 'B081W7FT8C-es'
 tags: [  ]
 actualPrice: 5.95 EUR
 currency: EUR

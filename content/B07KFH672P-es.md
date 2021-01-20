@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFH672P-es AUKEY Quick Charge 2.0 Bateria Externa 20000mAh Cargador...'
+sku: 'B07KFH672P-es'
 tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR

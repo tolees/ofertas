@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L55LFYM-es Hombre Zapatillas de Correr Casual para Deportivas de...'
+sku: 'B07L55LFYM-es'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

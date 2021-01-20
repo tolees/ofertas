@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BGWG27J-es Balay 3CG5172B0 Integrado - Microondas integrable /...'
+sku: 'B07BGWG27J-es'
 tags: [  ]
 actualPrice: 205.0 EUR
 currency: EUR

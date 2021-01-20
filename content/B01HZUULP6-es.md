@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HZUULP6-es G-STAR RAW Bronson Mid Waist Skinny Chino Pantalones Azul...'
+sku: 'B01HZUULP6-es'
 tags: [  ]
 actualPrice: 24.49 EUR
 currency: EUR

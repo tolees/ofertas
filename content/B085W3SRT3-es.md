@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085W3SRT3-es Roits Calcetines Melocotones Rosa - Calcetines Originales...'
+sku: 'B085W3SRT3-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084RBLGTP-es 100pcs / Set Hoja conductora Profesional 2.5x0.5CM Pestaña...'
+sku: 'B084RBLGTP-es'
 tags: [  ]
 actualPrice: 4.24 EUR
 currency: EUR

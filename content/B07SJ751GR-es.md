@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SJ751GR-es Adidas Tensaur I Zapatillas de Estar por casa Bebé Unisex...'
+sku: 'B07SJ751GR-es'
 tags: [  ]
 actualPrice: 7.01 EUR
 currency: EUR

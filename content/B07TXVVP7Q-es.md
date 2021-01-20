@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXVVP7Q-es BRIKSMAX Kit de Iluminación Led para Lego City Tren De...'
+sku: 'B07TXVVP7Q-es'
 tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR

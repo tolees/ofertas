@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BTMQ5NC-es Vinilo decorativo Ropa Categoría Muebles Ventana Armario...'
+sku: 'B08BTMQ5NC-es'
 tags: [  ]
 actualPrice: 16.9 EUR
 currency: EUR

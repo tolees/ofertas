@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFDTK9V-es Funko Pop Pusheen Mermaid Multicolor FK34105'
+sku: 'B07DFDTK9V-es'
 tags: [  ]
 actualPrice: 8.25 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072KLL8P6-es Quiksilver Mission V-Shoes For Men Botas de Nieve para...'
+sku: 'B072KLL8P6-es'
 tags: [  ]
 actualPrice: 29.88 EUR
 currency: EUR

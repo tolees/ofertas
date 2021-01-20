@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YLCM4X1-es S.Oliver Big Size 15.001.35.2335 Polo Verde Pond 6903 5XL...'
+sku: 'B07YLCM4X1-es'
 tags: [  ]
 actualPrice: 3.28 EUR
 currency: EUR

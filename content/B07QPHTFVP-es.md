@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QPHTFVP-es Cressi Rantau Bag Bolsa para Piscina/Deporte Adultos...'
+sku: 'B07QPHTFVP-es'
 tags: [  ]
 actualPrice: 17.89 EUR
 currency: EUR

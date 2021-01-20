@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000G4NFO8-es adidas Copa Mundial Zapatillas de Fútbol para Hombre...'
+sku: 'B000G4NFO8-es'
 tags: [  ]
 actualPrice: 95.78 EUR
 currency: EUR

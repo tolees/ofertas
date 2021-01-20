@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0793G7YVP-es Kit Cuidado de Barba Champú Sérum Bálsamo Peine - Regalo...'
+sku: 'B0793G7YVP-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

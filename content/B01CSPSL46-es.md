@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CSPSL46-es para Hombre de Piel de Botas de Seguridad para Hombre...'
+sku: 'B01CSPSL46-es'
 tags: [  ]
 actualPrice: 41.99 EUR
 currency: EUR

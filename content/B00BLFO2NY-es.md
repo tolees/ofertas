@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BLFO2NY-es American Crew Superglue Gel Fijador Fijación Extrema y...'
+sku: 'B00BLFO2NY-es'
 tags: [  ]
 actualPrice: 6.4 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00U61VYOE-es Blume -Vino blanco verdejo botella 75 cl. paquete de 6...'
+sku: 'B00U61VYOE-es'
 tags: [  ]
 actualPrice: 22.14 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BQXL8BU-es Sigma 30 mm/F 1 4 DC/HSM - Objetivo para Canon Distancia...'
+sku: 'B00BQXL8BU-es'
 tags: [  ]
 actualPrice: 428.09 EUR
 currency: EUR

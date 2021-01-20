@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K21LFN7-es CLUSE Reloj Analógico para Mujer de Cuarzo con Correa en...'
+sku: 'B07K21LFN7-es'
 tags: [  ]
 actualPrice: 59.98 EUR
 currency: EUR

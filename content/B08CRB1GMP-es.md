@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CRB1GMP-es Yoga portátil Pilates Mat Bolsa de Nylon Carrier Mesh...'
+sku: 'B08CRB1GMP-es'
 tags: [  ]
 actualPrice: 1.56 EUR
 currency: EUR

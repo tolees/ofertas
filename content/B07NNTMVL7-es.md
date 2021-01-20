@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NNTMVL7-es Under Armour UA W Charged Bandit 5 Zapatillas de Running...'
+sku: 'B07NNTMVL7-es'
 tags: [  ]
 actualPrice: 43.27 EUR
 currency: EUR

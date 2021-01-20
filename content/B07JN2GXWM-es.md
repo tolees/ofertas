@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JN2GXWM-es Buffalo Corin Zapatillas Altas para Mujer Blanco White 000...'
+sku: 'B07JN2GXWM-es'
 tags: [  ]
 actualPrice: 70.0 EUR
 currency: EUR

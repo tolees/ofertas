@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XSDFTYZ-es find. Utility_DC3086P Pantalones Grau Grey 38 Talla del...'
+sku: 'B06XSDFTYZ-es'
 tags: [  ]
 actualPrice: 6.73 EUR
 currency: EUR

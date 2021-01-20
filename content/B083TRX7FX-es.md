@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083TRX7FX-es Crucial Ballistix BL2K8G36C16U4W 3600 MHz DDR4 DRAM...'
+sku: 'B083TRX7FX-es'
 tags: [  ]
 actualPrice: 76.22 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IUL7APY-es Philips Daily HR1623/00 - Batidora de Mano 650 W Picador...'
+sku: 'B00IUL7APY-es'
 tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR

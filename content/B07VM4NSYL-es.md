@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VM4NSYL-es KATOOM Bandera Welcome Home 1pcs Banner Bienvenido Bunting...'
+sku: 'B07VM4NSYL-es'
 tags: [  ]
 actualPrice: 7.89 EUR
 currency: EUR

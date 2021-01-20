@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MDXBTL1-es SanDisk Cruzer Fit Memoria Flash 50 Negro/Plata'
+sku: 'B07MDXBTL1-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

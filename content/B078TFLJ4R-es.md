@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078TFLJ4R-es VICTSING Altavoz Bluetooth Portátil Altavoz inalámbrico...'
+sku: 'B078TFLJ4R-es'
 tags: [  ]
 actualPrice: 19.79 EUR
 currency: EUR

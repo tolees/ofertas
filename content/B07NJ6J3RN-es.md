@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJ6J3RN-es KLARSTEIN GrowIt Seeds Lote de Semillas - 9 paquetitos...'
+sku: 'B07NJ6J3RN-es'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0015R6ZPQ-es Optimum Nutrition ON Serious Mass Proteína en Polvo Mass...'
+sku: 'B0015R6ZPQ-es'
 tags: [  ]
 actualPrice: 26.0 EUR
 currency: EUR

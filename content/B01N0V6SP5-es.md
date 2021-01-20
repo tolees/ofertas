@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N0V6SP5-es Joseph Joseph Tablas de Cortar Plata Mediano 4 Unidades'
+sku: 'B01N0V6SP5-es'
 tags: [  ]
 actualPrice: 29.67 EUR
 currency: EUR

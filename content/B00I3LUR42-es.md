@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00I3LUR42-es Sony MDR-EX15LP - Auriculares In-Ear Blanco'
+sku: 'B00I3LUR42-es'
 tags: [  ]
 actualPrice: 6.98 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0117DM4MA-es Citizen Reloj Analógico para Mujer de Cuarzo con Correa en...'
+sku: 'B0117DM4MA-es'
 tags: [  ]
 actualPrice: 56.02 EUR
 currency: EUR

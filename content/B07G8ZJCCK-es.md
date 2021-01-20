@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G8ZJCCK-es Himaly USB Planchas de Pelo Inalámbrico Portátil con...'
+sku: 'B07G8ZJCCK-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

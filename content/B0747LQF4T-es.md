@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0747LQF4T-es Antorcha de hormigón con “mecha permanente” Tamaño...'
+sku: 'B0747LQF4T-es'
 tags: [  ]
 actualPrice: 44.9 EUR
 currency: EUR

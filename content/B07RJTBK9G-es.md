@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RJTBK9G-es Columbia Vitesse Zapatillas de Deporte para Mujer Rojo...'
+sku: 'B07RJTBK9G-es'
 tags: [  ]
 actualPrice: 39.22 EUR
 currency: EUR

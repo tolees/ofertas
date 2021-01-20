@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ARQRRS0-es Rimmel London Lasting Finish Matte by Kate Barra De Labios...'
+sku: 'B00ARQRRS0-es'
 tags: [  ]
 actualPrice: 3.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WGL7XV-es PUMA Liga Shorts Core Jr Pantalones Cortos de Fútbol...'
+sku: 'B078WGL7XV-es'
 tags: [  ]
 actualPrice: 9.49 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XABDNUA-es HARIBO - Pasta Basta - Geles dulces con sabor a manzana -...'
+sku: 'B00XABDNUA-es'
 tags: [  ]
 actualPrice: 8.42 EUR
 currency: EUR

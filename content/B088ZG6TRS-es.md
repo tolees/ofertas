@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088ZG6TRS-es YPSNH para Samsung Galaxy Watch Active Correa Silicona...'
+sku: 'B088ZG6TRS-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

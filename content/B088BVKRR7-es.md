@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088BVKRR7-es Zeen Paper Xuan - Papel de arroz 35 x 25 cm 30 hojas color...'
+sku: 'B088BVKRR7-es'
 tags: [  ]
 actualPrice: 5.61 EUR
 currency: EUR

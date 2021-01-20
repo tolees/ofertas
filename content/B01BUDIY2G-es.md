@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BUDIY2G-es Wagner Wood&Metal Sprayer Pulverizador eléctrico de...'
+sku: 'B01BUDIY2G-es'
 tags: [  ]
 actualPrice: 70.79 EUR
 currency: EUR

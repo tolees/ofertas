@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBN2JTM-es Kappa Modus II Zapatillas Unisex Adulto Black 1111 38 EU'
+sku: 'B07LBN2JTM-es'
 tags: [  ]
 actualPrice: 16.71 EUR
 currency: EUR

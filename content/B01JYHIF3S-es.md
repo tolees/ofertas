@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JYHIF3S-es Loverly gatos adhesivo decorativo para pared casa de...'
+sku: 'B01JYHIF3S-es'
 tags: [  ]
 actualPrice: 2.2 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DGK3PYM-es Oral-B Junior - Cepillo Eléctrico Recargable para Niños a...'
+sku: 'B07DGK3PYM-es'
 tags: [  ]
 actualPrice: 29.9 EUR
 currency: EUR

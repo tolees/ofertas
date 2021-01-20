@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G4NKFDL-es Michael Kors Reloj Cronógrafo para Hombre de Cuarzo con...'
+sku: 'B07G4NKFDL-es'
 tags: [  ]
 actualPrice: 188.38 EUR
 currency: EUR

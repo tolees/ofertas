@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S5MSJDY-es BOSS Starfish Bañador para Hombre Azul Blue Small'
+sku: 'B07S5MSJDY-es'
 tags: [  ]
 actualPrice: 36.86 EUR
 currency: EUR

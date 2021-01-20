@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082B6TTYG-es 90ml Original Mujer Quicksand Perfume Fragancia De Flores...'
+sku: 'B082B6TTYG-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

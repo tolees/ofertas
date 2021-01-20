@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CBWX6BZ-es Jack & Jones Jjipaul Jjflake AKM 542 Noos Pantalones Verde...'
+sku: 'B07CBWX6BZ-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

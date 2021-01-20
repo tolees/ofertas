@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082QMX8VW-es Ukuu gsm Teléfonos Móviles para Mayores con Teclas Extra...'
+sku: 'B082QMX8VW-es'
 tags: [  ]
 actualPrice: 32.88 EUR
 currency: EUR

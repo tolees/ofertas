@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S8PWT1T-es PUMA St Runner V2 NL Zapatillas Unisex Adulto Rosa...'
+sku: 'B07S8PWT1T-es'
 tags: [  ]
 actualPrice: 27.41 EUR
 currency: EUR

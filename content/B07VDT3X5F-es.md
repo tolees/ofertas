@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VDT3X5F-es Jack & Jones Noos Hombre Azul Navy Blazer M'
+sku: 'B07VDT3X5F-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

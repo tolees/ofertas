@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QCFHKH4-es Lacoste Lerond 119 Zapatillas para Hombre Azul Navy...'
+sku: 'B07QCFHKH4-es'
 tags: [  ]
 actualPrice: 69.21 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0058YU2DS-es Columbia Bora Bora Booney Sombrero unisex Fibra sintética...'
+sku: 'B0058YU2DS-es'
 tags: [  ]
 actualPrice: 13.49 EUR
 currency: EUR

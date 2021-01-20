@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FZHL3BG-es RIIQIICHY Cachemira Invierno Bufanda Pashmina Chal Mantón...'
+sku: 'B07FZHL3BG-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DJZT3FZ-es MaNMaNing Protección 3 Capas Transpirables con Elástico...'
+sku: 'B08DJZT3FZ-es'
 tags: [  ]
 actualPrice: 5.34 EUR
 currency: EUR

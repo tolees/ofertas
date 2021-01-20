@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X3QOQ1C-es Tefal K2060114 - Cucharón termoresistente plástico negro/rojo'
+sku: 'B00X3QOQ1C-es'
 tags: [  ]
 actualPrice: 5.59 EUR
 currency: EUR

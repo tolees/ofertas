@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00QWH81NS-es JewelryWe Par de Alianzas de Boda Anillos de Compromiso...'
+sku: 'B00QWH81NS-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

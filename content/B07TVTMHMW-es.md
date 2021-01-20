@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVTMHMW-es Women s Secret Bralettes 1 Deep Crop Top Corto Negro Negro...'
+sku: 'B07TVTMHMW-es'
 tags: [  ]
 actualPrice: 10.86 EUR
 currency: EUR

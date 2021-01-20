@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NZ9JL5G-es ORICO Concentrador USB 3.0 4 Puertos USB 3.0 HUB de...'
+sku: 'B07NZ9JL5G-es'
 tags: [  ]
 actualPrice: 8.73 EUR
 currency: EUR

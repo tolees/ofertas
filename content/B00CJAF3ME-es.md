@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CJAF3ME-es Logitech F310 Gamepad con Cable Distribución Tipo Consola...'
+sku: 'B00CJAF3ME-es'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

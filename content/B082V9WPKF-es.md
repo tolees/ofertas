@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082V9WPKF-es LTPAG Luz de Video LED Luz de Panel de Cámara Regulable...'
+sku: 'B082V9WPKF-es'
 tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000VJW36O-es Ferplast 66005017 - Estante para Fondo de Acuario 52 x 28...'
+sku: 'B000VJW36O-es'
 tags: [  ]
 actualPrice: 57.53 EUR
 currency: EUR

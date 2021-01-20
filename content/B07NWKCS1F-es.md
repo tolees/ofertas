@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NWKCS1F-es SAMTIAN Anillo de luz，14" Ajustable 3200-5900K Bi-Color...'
+sku: 'B07NWKCS1F-es'
 tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR

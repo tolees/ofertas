@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082DHZKFN-es DANISH ENDURANCE Sujetador Mujer en Coton organico Pack de...'
+sku: 'B082DHZKFN-es'
 tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR

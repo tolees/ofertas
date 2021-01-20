@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MYXWM2K-es OurLeeme Iluminación para lectura Brillo de 4 niveles...'
+sku: 'B07MYXWM2K-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

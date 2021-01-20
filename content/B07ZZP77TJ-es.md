@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZZP77TJ-es Funko- Pop Potter-Dumbledore w/Baby Harry Figura...'
+sku: 'B07ZZP77TJ-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

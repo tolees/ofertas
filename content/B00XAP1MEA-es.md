@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XAP1MEA-es Haribo - Lampions Rojos - Geles dulces - 2 kg'
+sku: 'B00XAP1MEA-es'
 tags: [  ]
 actualPrice: 9.55 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IBGUF2I-es Tuscany Silver 8.43.6544 - Cadena con colgante de plata de...'
+sku: 'B00IBGUF2I-es'
 tags: [  ]
 actualPrice: 19.5 EUR
 currency: EUR

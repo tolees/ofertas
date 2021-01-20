@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000O7JOT2-es Vichy Deo Desodorante Anti-Transpirante Pieles Sensibles...'
+sku: 'B000O7JOT2-es'
 tags: [  ]
 actualPrice: 8.7 EUR
 currency: EUR

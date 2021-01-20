@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2TX3ZM-es adidas Continental 80 C Zapatillas de Deporte Unisex niño...'
+sku: 'B07K2TX3ZM-es'
 tags: [  ]
 actualPrice: 35.95 EUR
 currency: EUR

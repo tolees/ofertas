@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0009IEYGY-es Anita Active Momentum - Sujetador deportivo para mujer...'
+sku: 'B0009IEYGY-es'
 tags: [  ]
 actualPrice: 31.45 EUR
 currency: EUR

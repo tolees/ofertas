@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01720OTNE-es Taurus Dublin - Báscula de baño'
+sku: 'B01720OTNE-es'
 tags: [  ]
 actualPrice: 12.9 EUR
 currency: EUR

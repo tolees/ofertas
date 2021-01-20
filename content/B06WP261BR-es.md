@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WP261BR-es adidas Stan Smith Zapatillas Unisex Niños Blanco Footwear...'
+sku: 'B06WP261BR-es'
 tags: [  ]
 actualPrice: 11.01 EUR
 currency: EUR

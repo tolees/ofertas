@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BZXRB2Z-es Fleet & Foster - Zapatillas Deportivas Canary Summer para...'
+sku: 'B07BZXRB2Z-es'
 tags: [  ]
 actualPrice: 22.2 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000Y3RUFG-es Wrangler Texas Contrast Jeans Azul Blue Black 001 30W /...'
+sku: 'B000Y3RUFG-es'
 tags: [  ]
 actualPrice: 53.05 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L4JQDVL-es Philips Batidora de mano ProMix HR2657/90 varilla 800 W...'
+sku: 'B07L4JQDVL-es'
 tags: [  ]
 actualPrice: 65.95 EUR
 currency: EUR

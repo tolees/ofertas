@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K8LDTLS-es MOSNOVO [Transparente Funda iPhone XR con Absorción de...'
+sku: 'B07K8LDTLS-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QJC97DY-es Dickie Toys- Toy Story 4 Buzz Volador RC por Cable...'
+sku: 'B07QJC97DY-es'
 tags: [  ]
 actualPrice: 20.66 EUR
 currency: EUR

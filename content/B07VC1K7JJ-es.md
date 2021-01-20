@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VC1K7JJ-es Jack & Jones Jcobase Sweat Hood Capucha Verde Winter Moss...'
+sku: 'B07VC1K7JJ-es'
 tags: [  ]
 actualPrice: 23.22 EUR
 currency: EUR

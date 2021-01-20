@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087TYY2Q2-es JOEAIS Tableta Escritura LCD 8 5 Pulgadas Anti-caída...'
+sku: 'B087TYY2Q2-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

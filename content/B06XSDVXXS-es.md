@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XSDVXXS-es New Balance Wxnrgv1 Zapatillas Deportivas para Interior...'
+sku: 'B06XSDVXXS-es'
 tags: [  ]
 actualPrice: 25.45 EUR
 currency: EUR

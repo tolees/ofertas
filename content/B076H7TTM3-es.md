@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076H7TTM3-es Liebeskind Berlin - Piperf8 Core Mujer Carteras Beige...'
+sku: 'B076H7TTM3-es'
 tags: [  ]
 actualPrice: 72.07 EUR
 currency: EUR

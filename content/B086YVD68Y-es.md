@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086YVD68Y-es Mono de bebé Promini para bebé de una pieza con texto en...'
+sku: 'B086YVD68Y-es'
 tags: [  ]
 actualPrice: 13.66 EUR
 currency: EUR

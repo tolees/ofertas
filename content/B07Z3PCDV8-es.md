@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z3PCDV8-es G9 Halogena Bombilla Lámpara 40W Ketom Blanco Calido 2800K...'
+sku: 'B07Z3PCDV8-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

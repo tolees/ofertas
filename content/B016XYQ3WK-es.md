@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016XYQ3WK-es Ubiquiti UAP-AC-PRO - Punto de acceso color blanco'
+sku: 'B016XYQ3WK-es'
 tags: [  ]
 actualPrice: 139.75 EUR
 currency: EUR
@@ -28,7 +29,7 @@ En este momento está [Ubiquiti UAP-AC-PRO - Punto de acceso  color blanco](http
 
 - Interfaz (2) puertos Ethernet 10/100/1000
 - Ofrece doble banda simultanea 3x3 MIMO
-- Wi-Fi estándares 802.11 a / b / g / n / ac
 - Seguridad inalámbrica WEP, WPA-PSK, WPA-TKIP,
+- Wi-Fi estándares 802.11 a / b / g / n / ac
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B016XYQ3WK/?tag=tolees-21)

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086MLQZDZ-es AUKEH Cargador Surface Pro 36W 12V 2.58A Adaptador de...'
+sku: 'B086MLQZDZ-es'
 tags: [  ]
 actualPrice: 22.39 EUR
 currency: EUR

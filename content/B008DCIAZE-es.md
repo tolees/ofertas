@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008DCIAZE-es Oxford - Pack de 5 cuadernos tapa extradura 80 hojas...'
+sku: 'B008DCIAZE-es'
 tags: [  ]
 actualPrice: 14.17 EUR
 currency: EUR

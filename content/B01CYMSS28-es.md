@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CYMSS28-es Trangoworld Sannat SN Pantalón Largo Mujer Multicolor...'
+sku: 'B01CYMSS28-es'
 tags: [  ]
 actualPrice: 65.49 EUR
 currency: EUR

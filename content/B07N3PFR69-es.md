@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N3PFR69-es IPOTCH 3 Pares de Cordones para Deportistas Bloqueo...'
+sku: 'B07N3PFR69-es'
 tags: [  ]
 actualPrice: 9.52 EUR
 currency: EUR

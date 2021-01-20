@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CN7FD1N-es ibohr Mini Ventilador silencioso Ventilador eléctrico de...'
+sku: 'B07CN7FD1N-es'
 tags: [  ]
 actualPrice: 15.4 EUR
 currency: EUR

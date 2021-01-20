@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XLGL1RV-es Limpiador de Poros Succionador de Puntos Negros y...'
+sku: 'B07XLGL1RV-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082P4KNG3-es Flamingueo Mapa Mundi Corcho Pared - Mapamundi Grande con...'
+sku: 'B082P4KNG3-es'
 tags: [  ]
 actualPrice: 13.79 EUR
 currency: EUR

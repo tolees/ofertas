@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HGN4D34-es KUTOOK Pantalones Senderismo Trekking Hombre Impermeables...'
+sku: 'B08HGN4D34-es'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

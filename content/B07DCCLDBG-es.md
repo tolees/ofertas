@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DCCLDBG-es Puma RS-150 Wn s Zapatillas para Mujer Negro Black 40.5 EU'
+sku: 'B07DCCLDBG-es'
 tags: [  ]
 actualPrice: 19.93 EUR
 currency: EUR

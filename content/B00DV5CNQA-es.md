@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DV5CNQA-es Superga Classic Zapatillas Unisex Adulto Marrón Brown Dk...'
+sku: 'B00DV5CNQA-es'
 tags: [  ]
 actualPrice: 38.8 EUR
 currency: EUR

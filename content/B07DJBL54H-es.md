@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJBL54H-es Altavoz Bluetooth Portatiles IPX6 Impermeable 20W Altavoz...'
+sku: 'B07DJBL54H-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

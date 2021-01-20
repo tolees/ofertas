@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DPBCVTI-es DSstyles Reloj Hombre 5 ATM Resistente al agua Reloj...'
+sku: 'B01DPBCVTI-es'
 tags: [  ]
 actualPrice: 25.19 EUR
 currency: EUR

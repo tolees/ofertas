@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2MMMXW-es adidas Runfalcon Zapatillas de Running para Mujer Negro...'
+sku: 'B07K2MMMXW-es'
 tags: [  ]
 actualPrice: 30.48 EUR
 currency: EUR

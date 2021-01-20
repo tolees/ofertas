@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZV36F4G-es Helly Hansen Driftline Polo Hombre Royal Blue XL'
+sku: 'B07ZV36F4G-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

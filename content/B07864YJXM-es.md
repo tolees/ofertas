@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07864YJXM-es PUMA Liga Sideline Poly Pants Core Pantalón Hombre Azul...'
+sku: 'B07864YJXM-es'
 tags: [  ]
 actualPrice: 18 EUR
 currency: EUR

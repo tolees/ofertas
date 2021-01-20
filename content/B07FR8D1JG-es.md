@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FR8D1JG-es Nobleza - Pañales para Perros Desechables Macho Hembra...'
+sku: 'B07FR8D1JG-es'
 tags: [  ]
 actualPrice: 9.49 EUR
 currency: EUR

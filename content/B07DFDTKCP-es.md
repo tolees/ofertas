@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFDTKCP-es Funko- Pop Vinyl: Kingdom Hearts 3: Riku Figura...'
+sku: 'B07DFDTKCP-es'
 tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR

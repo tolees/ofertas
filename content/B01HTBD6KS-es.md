@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HTBD6KS-es HAMSWAN Termómetro de Frente Sin Contacto Termómetro...'
+sku: 'B01HTBD6KS-es'
 tags: [  ]
 actualPrice: 49.89 EUR
 currency: EUR

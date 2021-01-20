@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XNMQTTS-es Bosch Serie 4 DFT63AC50 - Campana 360 m³/h...'
+sku: 'B06XNMQTTS-es'
 tags: [  ]
 actualPrice: 75.69 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WW8BVOM-es Braun Series 3 ProSkin 3030 S Afeitadora Eléctrica Hombre...'
+sku: 'B00WW8BVOM-es'
 tags: [  ]
 actualPrice: 59.0 EUR
 currency: EUR

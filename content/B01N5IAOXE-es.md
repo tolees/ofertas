@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N5IAOXE-es ICZI Hub USB 3.0 7 Puertos USB 3.0 Alimentacion Externa...'
+sku: 'B01N5IAOXE-es'
 tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR

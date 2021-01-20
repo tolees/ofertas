@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01709DSGG-es Bergner Red Stone Plancha-asador en Aluminio Fundido...'
+sku: 'B01709DSGG-es'
 tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR

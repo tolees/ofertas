@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CDB3BQR-es Corsair HS70 Wireless - Auriculares inalámbricos para...'
+sku: 'B07CDB3BQR-es'
 tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR

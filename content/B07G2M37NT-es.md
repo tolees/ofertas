@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G2M37NT-es FIFA 19 - Steelbook Standard Edition import allemand - Ne...'
+sku: 'B07G2M37NT-es'
 tags: [  ]
 actualPrice: 1.51 EUR
 currency: EUR

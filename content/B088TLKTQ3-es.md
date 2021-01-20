@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088TLKTQ3-es Splash Pad Tapete de Juegos de Agua 170CM Aspersor Niños...'
+sku: 'B088TLKTQ3-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WX2PW7L-es 1 par de manetas de freno de embrague de 7/8 pulgadas...'
+sku: 'B07WX2PW7L-es'
 tags: [  ]
 actualPrice: 8.59 EUR
 currency: EUR

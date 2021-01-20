@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RYL4TW6-es New Balance 997H m Zapatillas para Mujer Negro...'
+sku: 'B07RYL4TW6-es'
 tags: [  ]
 actualPrice: 36.08 EUR
 currency: EUR

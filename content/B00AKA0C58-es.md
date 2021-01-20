@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00AKA0C58-es Eglo RAZONI Interior E27 60W Negro Blanco iluminación de...'
+sku: 'B00AKA0C58-es'
 tags: [  ]
 actualPrice: 43.95 EUR
 currency: EUR

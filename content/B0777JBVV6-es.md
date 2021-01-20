@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0777JBVV6-es Bullpadel Paletero 17004 Green'
+sku: 'B0777JBVV6-es'
 tags: [  ]
 actualPrice: 27.9 EUR
 currency: EUR

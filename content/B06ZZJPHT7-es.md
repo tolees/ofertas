@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06ZZJPHT7-es Bruni Película Protectora para Suunto Ambit3 Run Protector...'
+sku: 'B06ZZJPHT7-es'
 tags: [  ]
 actualPrice: 3.69 EUR
 currency: EUR

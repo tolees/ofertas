@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FSJA56Q-es New Balance 490v4 Zapatillas Deportivas para Interior para...'
+sku: 'B01FSJA56Q-es'
 tags: [  ]
 actualPrice: 23.09 EUR
 currency: EUR

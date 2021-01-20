@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MTIUTG7-es Speedo Girls Boom Allover Bañador para niña Multicolor...'
+sku: 'B01MTIUTG7-es'
 tags: [  ]
 actualPrice: 19.33 EUR
 currency: EUR

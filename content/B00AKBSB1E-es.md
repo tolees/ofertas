@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00AKBSB1E-es NANOCABLE 10.20.0401 - Cable de Red Ethernet RJ45 Cat.6...'
+sku: 'B00AKBSB1E-es'
 tags: [  ]
 actualPrice: 1.75 EUR
 currency: EUR

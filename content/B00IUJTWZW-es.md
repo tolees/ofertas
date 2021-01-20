@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IUJTWZW-es S&R Juego de brocas HSS COBALTO Rectificadas para metal 1...'
+sku: 'B00IUJTWZW-es'
 tags: [  ]
 actualPrice: 15.95 EUR
 currency: EUR

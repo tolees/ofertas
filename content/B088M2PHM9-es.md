@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088M2PHM9-es Suhctup Funda Compatible con Huawei P8 Lite/P9 Lite...'
+sku: 'B088M2PHM9-es'
 tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR

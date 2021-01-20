@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071X9FDK1-es adidas Terrex Choleah Padded CP Botas de Senderismo para...'
+sku: 'B071X9FDK1-es'
 tags: [  ]
 actualPrice: 79.9 EUR
 currency: EUR

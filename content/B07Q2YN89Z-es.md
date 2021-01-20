@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q2YN89Z-es Fossil Reloj Analógico para Hombre de Cuarzo con Correa en...'
+sku: 'B07Q2YN89Z-es'
 tags: [  ]
 actualPrice: 69.35 EUR
 currency: EUR

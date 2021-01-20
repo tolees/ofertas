@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MQX0NO5-es Crocs Freesail Chelsea Boot Women Mujer Bota Verde Dark...'
+sku: 'B01MQX0NO5-es'
 tags: [  ]
 actualPrice: 19.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0774RLTJB-es Pop Booster Gold & Blue Beetle Vinyl Figure 2 Pack'
+sku: 'B0774RLTJB-es'
 tags: [  ]
 actualPrice: 15.48 EUR
 currency: EUR

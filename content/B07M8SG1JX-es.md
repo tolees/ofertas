@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8SG1JX-es Syncwire Cable Lightning Cargador iPhone 1M - [Apple MFi...'
+sku: 'B07M8SG1JX-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

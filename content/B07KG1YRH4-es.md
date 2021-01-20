@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG1YRH4-es Puma Icra Trainer Sd V Inf Zapatillas Unisex Niños Rojo...'
+sku: 'B07KG1YRH4-es'
 tags: [  ]
 actualPrice: 10.78 EUR
 currency: EUR

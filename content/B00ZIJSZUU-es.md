@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ZIJSZUU-es Trust GXT 363 - Auriculares Gaming USB con vibración y...'
+sku: 'B00ZIJSZUU-es'
 tags: [  ]
 actualPrice: 38.07 EUR
 currency: EUR

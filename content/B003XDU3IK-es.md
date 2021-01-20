@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003XDU3IK-es Vans Herren Shirt M Classic White/Black S VGGGYB2'
+sku: 'B003XDU3IK-es'
 tags: [  ]
 actualPrice: 20.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WGWTZYX-es Auriculares Inalámbrico de Diadema AUSDOM M09 Cascos...'
+sku: 'B07WGWTZYX-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

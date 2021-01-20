@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LAZLPBG-es V-SOL Vintage Floral Bolsa Bolsillo Escolar de Lápiz...'
+sku: 'B01LAZLPBG-es'
 tags: [  ]
 actualPrice: 3.35 EUR
 currency: EUR

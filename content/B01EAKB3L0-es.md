@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EAKB3L0-es Toshiba Exceria M302-EA - Tarjeta de memoria MicroSDHC 32...'
+sku: 'B01EAKB3L0-es'
 tags: [  ]
 actualPrice: 10.27 EUR
 currency: EUR

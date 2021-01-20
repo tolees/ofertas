@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MRMFLCS-es L Oreal Paris Colorista Coloración Temporal Colorista...'
+sku: 'B01MRMFLCS-es'
 tags: [  ]
 actualPrice: 5.4 EUR
 currency: EUR

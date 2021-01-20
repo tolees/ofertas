@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IP4E1JI-es adidas Gazelle Zapatillas de deporte Unisex Adulto Gris...'
+sku: 'B01IP4E1JI-es'
 tags: [  ]
 actualPrice: 47.48 EUR
 currency: EUR

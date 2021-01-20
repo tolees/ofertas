@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XND2Z8G-es LUDOS Turbo Auriculares con Micrófono y Graves Cascos...'
+sku: 'B07XND2Z8G-es'
 tags: [  ]
 actualPrice: 14.97 EUR
 currency: EUR

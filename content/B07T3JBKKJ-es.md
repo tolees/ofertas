@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T3JBKKJ-es MANZI - 3 pares de medias de ballet para mujer y niña 40...'
+sku: 'B07T3JBKKJ-es'
 tags: [  ]
 actualPrice: 17.42 EUR
 currency: EUR

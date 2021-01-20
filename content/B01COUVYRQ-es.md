@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01COUVYRQ-es BAMOER Plata de ley 925/1000'
+sku: 'B01COUVYRQ-es'
 tags: [  ]
 actualPrice: 8.9 EUR
 currency: EUR

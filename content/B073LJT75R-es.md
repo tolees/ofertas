@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073LJT75R-es Aliens Boxset Steelbook Blu-Ray [Blu-ray]'
+sku: 'B073LJT75R-es'
 tags: [  ]
 actualPrice: 30.92 EUR
 currency: EUR

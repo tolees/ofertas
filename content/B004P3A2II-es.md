@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004P3A2II-es Dickies Original 874 Work Pant Pantalones Para Hombre...'
+sku: 'B004P3A2II-es'
 tags: [  ]
 actualPrice: 12.0 EUR
 currency: EUR

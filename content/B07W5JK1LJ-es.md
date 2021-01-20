@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W5JK1LJ-es Logitech G512 SE Teclado Gaming Mecánico Retroiluminado...'
+sku: 'B07W5JK1LJ-es'
 tags: [  ]
 actualPrice: 85.62 EUR
 currency: EUR

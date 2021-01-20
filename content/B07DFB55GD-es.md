@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFB55GD-es Cowboy Bebop - Pack 2 Figuras Funko Pop - Edward & Ein'
+sku: 'B07DFB55GD-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

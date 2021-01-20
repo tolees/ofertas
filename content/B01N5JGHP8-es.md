@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N5JGHP8-es Ularma Pata pequeña impresión paño grueso y suave manta...'
+sku: 'B01N5JGHP8-es'
 tags: [  ]
 actualPrice: 3.03 EUR
 currency: EUR

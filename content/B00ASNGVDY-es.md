@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ASNGVDY-es Merc Harrington Abrigos de Manga Larga Para Hombre Negro...'
+sku: 'B00ASNGVDY-es'
 tags: [  ]
 actualPrice: 73.64 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M5F4PGV-es Wrangler LS Refined Polo Camisa Manga Larga Negro Black...'
+sku: 'B07M5F4PGV-es'
 tags: [  ]
 actualPrice: 22.48 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087TXGY34-es VulusValas Mujer Comodo Clip Toe Plano Corcho Sandalias...'
+sku: 'B087TXGY34-es'
 tags: [  ]
 actualPrice: 16.89 EUR
 currency: EUR

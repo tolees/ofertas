@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PYYRW3Q-es Under Armour UA Charged Commit TR 2 Zapatillas Deportivas...'
+sku: 'B07PYYRW3Q-es'
 tags: [  ]
 actualPrice: 38.0 EUR
 currency: EUR

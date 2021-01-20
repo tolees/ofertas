@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXSV2KY-es Té de hierbas chino Flor Fruta Té Rosa Té Conservado Seda...'
+sku: 'B07TXSV2KY-es'
 tags: [  ]
 actualPrice: 8.2 EUR
 currency: EUR

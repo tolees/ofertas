@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T6KVDW6-es Saucony Jazz 21 Zapatillas De Running para Hombre Azul...'
+sku: 'B07T6KVDW6-es'
 tags: [  ]
 actualPrice: 49.95 EUR
 currency: EUR

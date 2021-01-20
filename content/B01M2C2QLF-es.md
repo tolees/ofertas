@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M2C2QLF-es Arlo Accesorio oficial VMA4400 - Batería Recargable para...'
+sku: 'B01M2C2QLF-es'
 tags: [  ]
 actualPrice: 24.46 EUR
 currency: EUR

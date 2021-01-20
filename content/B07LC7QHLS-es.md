@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LC7QHLS-es Campark X20 - Cámara de acción 4K de 20 MP con Pantalla...'
+sku: 'B07LC7QHLS-es'
 tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR

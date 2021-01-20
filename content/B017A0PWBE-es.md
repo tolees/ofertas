@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017A0PWBE-es Norton Security Deluxe 2019 - Antivirus PC/Mac/iOS/Android...'
+sku: 'B017A0PWBE-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015WJR4FW-es Wenger Reloj Analógico para Hombre de Cuarzo con Correa en...'
+sku: 'B015WJR4FW-es'
 tags: [  ]
 actualPrice: 72.46 EUR
 currency: EUR

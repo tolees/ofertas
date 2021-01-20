@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFJ7WCH-es G-Star Raw Dunda Slim Polo S/s grey htr 906 Medium para...'
+sku: 'B07KFJ7WCH-es'
 tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR

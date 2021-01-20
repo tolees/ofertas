@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FMZMVNL-es adidas Galaxy 26 Zapatillas de Running para Hombre Negro...'
+sku: 'B07FMZMVNL-es'
 tags: [  ]
 actualPrice: 32.01 EUR
 currency: EUR

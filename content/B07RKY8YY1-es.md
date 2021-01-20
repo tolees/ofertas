@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RKY8YY1-es Nike Revolution 5 GS Zapatillas de Running para Niñas...'
+sku: 'B07RKY8YY1-es'
 tags: [  ]
 actualPrice: 31.5 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SRCQ8LY-es adidas Deerupt Runner Zapatillas de Gimnasia para Hombre...'
+sku: 'B07SRCQ8LY-es'
 tags: [  ]
 actualPrice: 59.94 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CGA2FUO-es Breville Tostador High Gloss de doble rebanada larga...'
+sku: 'B01CGA2FUO-es'
 tags: [  ]
 actualPrice: 46.99 EUR
 currency: EUR

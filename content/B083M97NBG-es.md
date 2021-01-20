@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083M97NBG-es PAYMA - Zapatillas Botas de Lona para Mujer. Bambas...'
+sku: 'B083M97NBG-es'
 tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR

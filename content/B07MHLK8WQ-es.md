@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MHLK8WQ-es Montse Interiors Saco Nórdico Estrellas y Lunas Moon Gris...'
+sku: 'B07MHLK8WQ-es'
 tags: [  ]
 actualPrice: 33.95 EUR
 currency: EUR

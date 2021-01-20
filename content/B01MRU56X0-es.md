@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MRU56X0-es B+W XS-Pro - Filtro Densidad Neutra ND 1.8 806 Nano 77 mm'
+sku: 'B01MRU56X0-es'
 tags: [  ]
 actualPrice: 68.4 EUR
 currency: EUR

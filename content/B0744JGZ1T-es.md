@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0744JGZ1T-es Altavoz Bluetooth Portatil COMISO Ture Wireless Estereo...'
+sku: 'B0744JGZ1T-es'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

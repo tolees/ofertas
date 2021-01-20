@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N22BYHN-es Sennheiser HD 100 - Auriculares supraurales Ligeros y...'
+sku: 'B07N22BYHN-es'
 tags: [  ]
 actualPrice: 20.08 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFW8J9P-es New Balance 500 Zapatillas para Hombre Negro Black/Grey...'
+sku: 'B07DFW8J9P-es'
 tags: [  ]
 actualPrice: 48.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00W3RMEQQ-es Joma Record Pantalones cortos Hombre Azul Marino M'
+sku: 'B00W3RMEQQ-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

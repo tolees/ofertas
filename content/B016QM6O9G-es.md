@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016QM6O9G-es Tommy Hilfiger CLASSIC BB CAP Gorra Azul Midnight 403...'
+sku: 'B016QM6O9G-es'
 tags: [  ]
 actualPrice: 20.95 EUR
 currency: EUR

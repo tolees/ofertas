@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V7DYJ8D-es JACK & JONES Jcobase Sweat Hood Capucha Gris Light Grey...'
+sku: 'B07V7DYJ8D-es'
 tags: [  ]
 actualPrice: 15.66 EUR
 currency: EUR

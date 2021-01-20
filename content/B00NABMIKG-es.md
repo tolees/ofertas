@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NABMIKG-es Beurer MG147 - Almohada de Masaje Shiatsu con función...'
+sku: 'B00NABMIKG-es'
 tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR

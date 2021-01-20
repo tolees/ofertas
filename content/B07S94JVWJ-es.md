@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S94JVWJ-es Charles Wilson Paquete 5 Camisetas Cuello Redondo Lisas...'
+sku: 'B07S94JVWJ-es'
 tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR

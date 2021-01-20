@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016MFI0LW-es Medisana FS 881 bañera de hidromasaje para pies con...'
+sku: 'B016MFI0LW-es'
 tags: [  ]
 actualPrice: 34.28 EUR
 currency: EUR

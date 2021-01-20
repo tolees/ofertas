@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VAKUKC2-es Infantino 004915-01 - 3 en 1 Proyector Musical Mobile'
+sku: 'B00VAKUKC2-es'
 tags: [  ]
 actualPrice: 36.0 EUR
 currency: EUR

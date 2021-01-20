@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WD5VKVL-es HyperX Fury HX432C16FB3K2/16 DIMM DDR4 16 GB Kit 2 x 8 GB...'
+sku: 'B07WD5VKVL-es'
 tags: [  ]
 actualPrice: 70.0 EUR
 currency: EUR

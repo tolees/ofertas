@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJK3DBP-es Funnyrunstore Herramienta de eliminación de la espinilla...'
+sku: 'B07NJK3DBP-es'
 tags: [  ]
 actualPrice: 0.02 EUR
 currency: EUR

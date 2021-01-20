@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PGVBCXT-es Belkin Boost Up Soporte de carga inalámbrica de 10 W...'
+sku: 'B07PGVBCXT-es'
 tags: [  ]
 actualPrice: 20.31 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BL2CL4V-es New Balance Fresh Foam Zante Zapatillas Deportivas para...'
+sku: 'B07BL2CL4V-es'
 tags: [  ]
 actualPrice: 42.17 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01F4PGHGQ-es XP-Pen G430S Tableta Gráfica 4x3 Pulgadas Tableta de Dibujo'
+sku: 'B01F4PGHGQ-es'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P4CGT71-es TOJEAN Amor Maternal Colgantes Joyeria Mujer Plata de ley...'
+sku: 'B07P4CGT71-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

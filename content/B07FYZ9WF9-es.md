@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FYZ9WF9-es Xiaomi Mi Band 3 Pulsera de Actividad Inteligente...'
+sku: 'B07FYZ9WF9-es'
 tags: [  ]
 actualPrice: 18.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MRLBRAL-es Superga 2750 COTU Classic Zapatillas Unisex Adulto Lt Grey...'
+sku: 'B01MRLBRAL-es'
 tags: [  ]
 actualPrice: 9.56 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R6Q82SK-es Humidificador dodocool Humidificadores Ultrasónicos de...'
+sku: 'B07R6Q82SK-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

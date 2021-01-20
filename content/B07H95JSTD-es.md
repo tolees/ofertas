@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H95JSTD-es TUXWANG 3in1 Kit de Costura Ganchillos Agujas de Ganchillo...'
+sku: 'B07H95JSTD-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

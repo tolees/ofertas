@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NLCRQT2-es Nike Revolution 5 Zapatillas de Atletismo para Hombre...'
+sku: 'B07NLCRQT2-es'
 tags: [  ]
 actualPrice: 37.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L97GVGG-es Under Armour SweaterFleece 1/2 Zip Parte Superior del...'
+sku: 'B07L97GVGG-es'
 tags: [  ]
 actualPrice: 50.16 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079YMLJYY-es Funko Pop!- Val Star Wars: Red Cup Figura de Vinilo...'
+sku: 'B079YMLJYY-es'
 tags: [  ]
 actualPrice: 6.53 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J53HRXH-es Asics Gel-Odyssey Zapatillas de Cross para Hombre Negro...'
+sku: 'B07J53HRXH-es'
 tags: [  ]
 actualPrice: 55.96 EUR
 currency: EUR

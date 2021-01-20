@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076WWKK9V-es SEKONDA Reloj de Pulsera 1521E.05'
+sku: 'B076WWKK9V-es'
 tags: [  ]
 actualPrice: 23.42 EUR
 currency: EUR

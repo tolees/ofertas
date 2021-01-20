@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073DWVVGY-es Detector de Pared Tacklife DMS03 Detector de Metal Madera...'
+sku: 'B073DWVVGY-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

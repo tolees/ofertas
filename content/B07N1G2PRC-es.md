@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1G2PRC-es Kipling HONEST PACK - Bolsa de viaje 1 liters Morado DARK...'
+sku: 'B07N1G2PRC-es'
 tags: [  ]
 actualPrice: 26.07 EUR
 currency: EUR

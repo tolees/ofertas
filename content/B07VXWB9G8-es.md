@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VXWB9G8-es Dek - Deportivas de Cordones Erica Super Ligeras para...'
+sku: 'B07VXWB9G8-es'
 tags: [  ]
 actualPrice: 18.45 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019ETCPHI-es Under Armour 1268951-001 Zapatillas de Senderismo Negro...'
+sku: 'B019ETCPHI-es'
 tags: [  ]
 actualPrice: 67.4 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DNG16CQ-es Calcetines de Tenis Performance Crew 3 Pares Blanco EU 35-38'
+sku: 'B07DNG16CQ-es'
 tags: [  ]
 actualPrice: 12.95 EUR
 currency: EUR

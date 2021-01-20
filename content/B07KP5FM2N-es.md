@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KP5FM2N-es adidas Pro Suit 3S Traje de baño FR : 4XL Taille Fabricant...'
+sku: 'B07KP5FM2N-es'
 tags: [  ]
 actualPrice: 28.44 EUR
 currency: EUR

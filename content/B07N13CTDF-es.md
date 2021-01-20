@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N13CTDF-es Skechers Go Run Mojo 2.0-Escape Zapatillas para Mujer...'
+sku: 'B07N13CTDF-es'
 tags: [  ]
 actualPrice: 27.73 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DFJPQ6M-es Homgrace Termómetro Infrarrojos Ain Contacto- Pistola...'
+sku: 'B08DFJPQ6M-es'
 tags: [  ]
 actualPrice: 9.57 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0738FHB9Q-es Amazon Essentials Fleece-Outerwear-Jackets Jaspeado Gris...'
+sku: 'B0738FHB9Q-es'
 tags: [  ]
 actualPrice: 8.91 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NTWNZWB-es Under Armour Rush Heatgear Compression SL Tanque Hombre...'
+sku: 'B07NTWNZWB-es'
 tags: [  ]
 actualPrice: 18.15 EUR
 currency: EUR

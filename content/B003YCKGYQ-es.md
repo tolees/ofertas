@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003YCKGYQ-es Braun Satin Hair 7 AS720 - Cepillo de pelo moldeador con...'
+sku: 'B003YCKGYQ-es'
 tags: [  ]
 actualPrice: 39.9 EUR
 currency: EUR

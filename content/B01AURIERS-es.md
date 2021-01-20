@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AURIERS-es Olympus Pen-F Kit Cámara de Sistema Micro Cuatro Tercios...'
+sku: 'B01AURIERS-es'
 tags: [  ]
 actualPrice: 470.0 EUR
 currency: EUR

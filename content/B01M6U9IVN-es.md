@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M6U9IVN-es Umbro Loyal Pantalones Hombre Negro L'
+sku: 'B01M6U9IVN-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

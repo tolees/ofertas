@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008S1HNPS-es GELID SOLUTIONS Silent 6 de 3 Pines de 60mm para la...'
+sku: 'B008S1HNPS-es'
 tags: [  ]
 actualPrice: 5.56 EUR
 currency: EUR

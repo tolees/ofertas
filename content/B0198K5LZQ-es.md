@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0198K5LZQ-es Dickies Pensacola Short Pantalones Cortos Deportivos para...'
+sku: 'B0198K5LZQ-es'
 tags: [  ]
 actualPrice: 11.4 EUR
 currency: EUR

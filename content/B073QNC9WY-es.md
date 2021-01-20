@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073QNC9WY-es Levi s Batwing Hoodie Capucha Mujer Marfil Sportswear...'
+sku: 'B073QNC9WY-es'
 tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR

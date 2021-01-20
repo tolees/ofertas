@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PN7WHF9-es TOUCHBeauty Masajeador facial con vibración Masajeador...'
+sku: 'B07PN7WHF9-es'
 tags: [  ]
 actualPrice: 19.98 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01D0VFBEK-es Princess 102210 Mini Table Chef Plancha Pequeña y Cuadrada...'
+sku: 'B01D0VFBEK-es'
 tags: [  ]
 actualPrice: 34.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085PVR97F-es Bombilla H4 LED para Moto con Ojos de Angel 6400LM Moto...'
+sku: 'B085PVR97F-es'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

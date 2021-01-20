@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J5TXTV7-es Triumph Lace Spotlight W Sujetador con Aros Negro Black...'
+sku: 'B07J5TXTV7-es'
 tags: [  ]
 actualPrice: 18.0 EUR
 currency: EUR

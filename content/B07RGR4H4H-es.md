@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RGR4H4H-es Columbia Rainy Creek Gabardina Impermeable con Capucha...'
+sku: 'B07RGR4H4H-es'
 tags: [  ]
 actualPrice: 74.7 EUR
 currency: EUR

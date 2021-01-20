@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNXH8BL-es Pack de 2 x Bloc de Dibujo Profesional A4 9”x12” con...'
+sku: 'B07FNXH8BL-es'
 tags: [  ]
 actualPrice: 18.97 EUR
 currency: EUR

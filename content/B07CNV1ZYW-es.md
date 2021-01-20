@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CNV1ZYW-es Meloive El Mejor Set de 72 lápices de Colores Mejores...'
+sku: 'B07CNV1ZYW-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

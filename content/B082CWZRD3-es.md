@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082CWZRD3-es Masajeador Masajeador Eléctrico de Masaje Corporal...'
+sku: 'B082CWZRD3-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

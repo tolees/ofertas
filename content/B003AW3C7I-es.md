@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003AW3C7I-es SONAX 02212410-544 Xtreme Limpia Tapices 500 ml'
+sku: 'B003AW3C7I-es'
 tags: [  ]
 actualPrice: 6.9 EUR
 currency: EUR

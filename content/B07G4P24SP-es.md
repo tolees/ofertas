@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G4P24SP-es De Longhi Dolce Gusto Infinissima EDG260.R - Cafetera de...'
+sku: 'B07G4P24SP-es'
 tags: [  ]
 actualPrice: 54.0 EUR
 currency: EUR

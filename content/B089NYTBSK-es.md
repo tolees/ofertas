@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089NYTBSK-es USE Family Bamboo. Escurreplatos de plástico Fregadero con...'
+sku: 'B089NYTBSK-es'
 tags: [  ]
 actualPrice: 11.95 EUR
 currency: EUR

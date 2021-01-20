@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LNQ5VLC-es L Oréal Paris Elvive Total Repair 5 Champú Reconstituyente...'
+sku: 'B01LNQ5VLC-es'
 tags: [  ]
 actualPrice: 2.7 EUR
 currency: EUR

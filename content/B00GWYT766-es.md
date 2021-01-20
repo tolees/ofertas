@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GWYT766-es Eshow Bolsos Bandolera a Hombro Tela de Lona para Hombres...'
+sku: 'B00GWYT766-es'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NY799LD-es Adaptador Universal de Viaje Universal Todo en uno Enchufe...'
+sku: 'B07NY799LD-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

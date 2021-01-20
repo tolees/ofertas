@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FP3B4H3-es Belkin ScreenForce InvisiGlass Ultra - Protector de...'
+sku: 'B07FP3B4H3-es'
 tags: [  ]
 actualPrice: 9.09 EUR
 currency: EUR

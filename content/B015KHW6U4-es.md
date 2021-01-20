@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015KHW6U4-es Nike Air Max Command Leather - Zapatillas de running...'
+sku: 'B015KHW6U4-es'
 tags: [  ]
 actualPrice: 89.18 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M7V8GJY-es Underground Toys- Moldes para Galletas Star Wars Color...'
+sku: 'B01M7V8GJY-es'
 tags: [  ]
 actualPrice: 8.65 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018E4IM9Y-es DIM LG push up Leggings Mujer Marrón Tamaño del fabricante:3'
+sku: 'B018E4IM9Y-es'
 tags: [  ]
 actualPrice: 6.0 EUR
 currency: EUR

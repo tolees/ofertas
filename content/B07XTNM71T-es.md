@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XTNM71T-es Dragon Ball Z: Kakarot - Edición Coleccionista'
+sku: 'B07XTNM71T-es'
 tags: [  ]
 actualPrice: 179.99 EUR
 currency: EUR

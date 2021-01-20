@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J41MDH5-es Emporio Armani Reloj Analogico para Mujer de Cuarzo con...'
+sku: 'B07J41MDH5-es'
 tags: [  ]
 actualPrice: 133.88 EUR
 currency: EUR

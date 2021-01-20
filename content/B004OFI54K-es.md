@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004OFI54K-es Estee Lauder 31405 - Loción anti-imperfecciones'
+sku: 'B004OFI54K-es'
 tags: [  ]
 actualPrice: 31.95 EUR
 currency: EUR

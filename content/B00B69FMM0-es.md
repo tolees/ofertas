@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00B69FMM0-es Result Esco Army - Gorra de invierno unisex Negro Talla única'
+sku: 'B00B69FMM0-es'
 tags: [  ]
 actualPrice: 4.2 EUR
 currency: EUR

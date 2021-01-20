@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VL93PS4-es ORICO 40W con 5 Cables USB Estación de Carga Inteligente...'
+sku: 'B07VL93PS4-es'
 tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR

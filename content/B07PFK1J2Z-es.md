@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PFK1J2Z-es Arkmiido Máscara de Buceo máscara de Snorkel Full Face 180...'
+sku: 'B07PFK1J2Z-es'
 tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR

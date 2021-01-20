@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083R7J1TP-es EKKONG Juguete Hierba Gatera Juguete Interactivo...'
+sku: 'B083R7J1TP-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

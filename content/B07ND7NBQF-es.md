@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ND7NBQF-es Lacoste - COMPLEMENTO Piel Premium Hombre - NH2828CE'
+sku: 'B07ND7NBQF-es'
 tags: [  ]
 actualPrice: 85.16 EUR
 currency: EUR

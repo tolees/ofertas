@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BSSH57S-es Samsung Flip Wallet - Funda Oficial Galaxy S7 Color Negro-...'
+sku: 'B01BSSH57S-es'
 tags: [  ]
 actualPrice: 6.54 EUR
 currency: EUR

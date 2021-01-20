@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UN5NUS6-es Biotherm Homme Aquapower 72H Hidratante Glacial Concentré...'
+sku: 'B00UN5NUS6-es'
 tags: [  ]
 actualPrice: 27.5 EUR
 currency: EUR

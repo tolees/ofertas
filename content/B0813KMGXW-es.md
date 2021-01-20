@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0813KMGXW-es SHUIBIAN Kits de pintura diamante 5D cuadro diamantes 5d...'
+sku: 'B0813KMGXW-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

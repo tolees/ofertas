@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B010FR4IQO-es New Balance Wx624Wb4 - entrenamiento/correr de cuero mujer...'
+sku: 'B010FR4IQO-es'
 tags: [  ]
 actualPrice: 28.64 EUR
 currency: EUR

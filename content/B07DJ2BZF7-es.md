@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJ2BZF7-es New Balance 997H Core Zapatillas para Hombre Gris Team...'
+sku: 'B07DJ2BZF7-es'
 tags: [  ]
 actualPrice: 37.56 EUR
 currency: EUR

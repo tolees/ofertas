@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009OXW88Q-es Taurus Toast & Go - Sandwichera 700 W superficie...'
+sku: 'B009OXW88Q-es'
 tags: [  ]
 actualPrice: 24.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MTSE2SA-es New Balance ML373 Zapatillas para Hombre Gris Light Grey...'
+sku: 'B01MTSE2SA-es'
 tags: [  ]
 actualPrice: 43.95 EUR
 currency: EUR

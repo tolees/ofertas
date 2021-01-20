@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XHR24YJ-es Shock Absorber Ultimate Run Bra Sujetador Deportivo para...'
+sku: 'B06XHR24YJ-es'
 tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR

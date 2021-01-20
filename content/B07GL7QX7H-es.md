@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GL7QX7H-es Fossil Reloj de Bolsillo Digital FTW6018'
+sku: 'B07GL7QX7H-es'
 tags: [  ]
 actualPrice: 206.51 EUR
 currency: EUR

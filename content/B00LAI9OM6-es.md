@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LAI9OM6-es Earth Rated - Pack de bolsas para recoger excrementos de...'
+sku: 'B00LAI9OM6-es'
 tags: [  ]
 actualPrice: 11.32 EUR
 currency: EUR

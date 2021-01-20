@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q2F9JS1-es Candelabros de Tubos Retro Vintage Personalidad Hierro...'
+sku: 'B07Q2F9JS1-es'
 tags: [  ]
 actualPrice: 20.69 EUR
 currency: EUR

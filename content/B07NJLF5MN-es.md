@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJLF5MN-es Nike Air MAX Axis PS Zapatillas de Running para Niños...'
+sku: 'B07NJLF5MN-es'
 tags: [  ]
 actualPrice: 34.1 EUR
 currency: EUR

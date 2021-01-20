@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018UAOPHK-es Cometa espantapájaros de calidad profesional'
+sku: 'B018UAOPHK-es'
 tags: [  ]
 actualPrice: 52.0 EUR
 currency: EUR

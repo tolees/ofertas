@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QCSGRYH-es L Oréal Men Expert - Hydra Energetic 2 en 1 aftershave y...'
+sku: 'B07QCSGRYH-es'
 tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR

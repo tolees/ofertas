@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2R95TW-es adidas VL Court 2.0 CMF I Zapatillas de Deporte Unisex...'
+sku: 'B07K2R95TW-es'
 tags: [  ]
 actualPrice: 10.01 EUR
 currency: EUR

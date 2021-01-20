@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00N9QGPO2-es Helly Hansen HH Duffel Bag 2 90L Bolsa de Viaje Unisex...'
+sku: 'B00N9QGPO2-es'
 tags: [  ]
 actualPrice: 74.91 EUR
 currency: EUR

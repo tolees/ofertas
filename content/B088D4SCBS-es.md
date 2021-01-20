@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088D4SCBS-es Suhctup Funda Compatible para iPhone 6+/6S+ Plus Carcasa...'
+sku: 'B088D4SCBS-es'
 tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR

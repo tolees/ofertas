@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RV7ZLNS-es Lifewit Alfombrilla de Interior Alfombrillas de Perfil...'
+sku: 'B07RV7ZLNS-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

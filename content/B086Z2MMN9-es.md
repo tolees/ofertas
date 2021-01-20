@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086Z2MMN9-es 1pcs electrodomésticos de Cocina de Acero Inoxidable...'
+sku: 'B086Z2MMN9-es'
 tags: [  ]
 actualPrice: 4.15 EUR
 currency: EUR

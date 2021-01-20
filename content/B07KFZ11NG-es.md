@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFZ11NG-es PUMA Vikky v2 Mid WTR Zapatillas Altas para Mujer...'
+sku: 'B07KFZ11NG-es'
 tags: [  ]
 actualPrice: 21.4 EUR
 currency: EUR

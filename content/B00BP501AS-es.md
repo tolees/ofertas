@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BP501AS-es Crucial CT2KIT51264BF160BJ Kit de memoria RAM de 8 GB 4 GB...'
+sku: 'B00BP501AS-es'
 tags: [  ]
 actualPrice: 44.73 EUR
 currency: EUR

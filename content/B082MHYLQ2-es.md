@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082MHYLQ2-es RATEL Ventilador de Escritorio silencioso de 8 Pulgadas...'
+sku: 'B082MHYLQ2-es'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HCYBG52-es D DOLITY Altavoz de Graves Rango Completo Altavoz...'
+sku: 'B07HCYBG52-es'
 tags: [  ]
 actualPrice: 10.85 EUR
 currency: EUR

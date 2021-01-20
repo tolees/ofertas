@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DQOLK3I-es Sloggi Sloggi Basic Long - Braguita para mujer color skin...'
+sku: 'B00DQOLK3I-es'
 tags: [  ]
 actualPrice: 9.81 EUR
 currency: EUR

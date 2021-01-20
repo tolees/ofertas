@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002M3X7JY-es Crazy Color Sky Blue Nº 59 Crema Colorante del Cabello...'
+sku: 'B002M3X7JY-es'
 tags: [  ]
 actualPrice: 4.58 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GL7WYNW-es Fossil Smartwatch FTW4018'
+sku: 'B07GL7WYNW-es'
 tags: [  ]
 actualPrice: 167.4 EUR
 currency: EUR

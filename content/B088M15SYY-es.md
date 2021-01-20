@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088M15SYY-es Suhctup Funda Compatible con Xiaomi Redmi Note 6...'
+sku: 'B088M15SYY-es'
 tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR

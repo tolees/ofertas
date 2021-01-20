@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0792QKHHD-es HOMCOM Coberizo de Madera de Jardín Caseta para...'
+sku: 'B0792QKHHD-es'
 tags: [  ]
 actualPrice: 144.49 EUR
 currency: EUR

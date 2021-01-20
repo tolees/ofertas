@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08926SLRC-es JOEAIS Tableta de Escritura LCD 12 Pulgadas Vistoso Anti-...'
+sku: 'B08926SLRC-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

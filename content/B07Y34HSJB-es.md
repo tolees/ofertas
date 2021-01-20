@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y34HSJB-es Powerextra Pantalla LCD Flash Speedlite 2.4G Kit de...'
+sku: 'B07Y34HSJB-es'
 tags: [  ]
 actualPrice: 40.99 EUR
 currency: EUR

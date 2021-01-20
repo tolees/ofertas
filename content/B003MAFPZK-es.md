@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003MAFPZK-es Cubo de basura color negro de 85 L de Robert Scott'
+sku: 'B003MAFPZK-es'
 tags: [  ]
 actualPrice: 13.9 EUR
 currency: EUR

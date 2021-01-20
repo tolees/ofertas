@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073S6WSJ8-es HOWADE Ajedrez 12 "x12 pulgadas juego de tablero de madera...'
+sku: 'B073S6WSJ8-es'
 tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR

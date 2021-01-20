@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TWHH2NT-es Funko- Pop Marvel: Fantastic Four-Super-Skrull Collectible...'
+sku: 'B07TWHH2NT-es'
 tags: [  ]
 actualPrice: 8.25 EUR
 currency: EUR

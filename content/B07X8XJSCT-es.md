@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X8XJSCT-es ERIK Star Wars Classic Calendario De Escritorio 17x20 cm...'
+sku: 'B07X8XJSCT-es'
 tags: [  ]
 actualPrice: 5.45 EUR
 currency: EUR

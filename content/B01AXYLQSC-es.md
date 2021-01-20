@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AXYLQSC-es Reloj para Hombre Colección Epoca Movimiento de Cuarzo...'
+sku: 'B01AXYLQSC-es'
 tags: [  ]
 actualPrice: 109.0 EUR
 currency: EUR

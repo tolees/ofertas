@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NED5VHC-es Olympus Objetivo M.Zuiko Digital ED 40-150 mm F2.8 Pro...'
+sku: 'B00NED5VHC-es'
 tags: [  ]
 actualPrice: 520.0 EUR
 currency: EUR

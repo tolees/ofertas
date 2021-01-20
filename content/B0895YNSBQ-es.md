@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0895YNSBQ-es GREAT ART set de 2 posters XXL – Galaxia - Vía Láctea y...'
+sku: 'B0895YNSBQ-es'
 tags: [  ]
 actualPrice: 29.9 EUR
 currency: EUR

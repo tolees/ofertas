@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NR3Y5D9-es Skechers MAX Cushioning Elite Zapatillas para Hombre Azul...'
+sku: 'B07NR3Y5D9-es'
 tags: [  ]
 actualPrice: 47.73 EUR
 currency: EUR

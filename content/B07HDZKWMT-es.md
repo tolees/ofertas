@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HDZKWMT-es Tira LED 2.2 m Tiray Ledy Tiras LED Impermeable Tira de...'
+sku: 'B07HDZKWMT-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

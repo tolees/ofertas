@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D5V1MYQ-es NNJXD Pajarita infantil mameluco para el primer cumpleaños...'
+sku: 'B07D5V1MYQ-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

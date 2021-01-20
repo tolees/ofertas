@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001B0XG6I-es Merrell Intercept Zapatillas para Hombre Marrón Moth Brown...'
+sku: 'B001B0XG6I-es'
 tags: [  ]
 actualPrice: 63.4 EUR
 currency: EUR

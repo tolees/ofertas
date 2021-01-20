@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GYOHEMI-es Weider Barrita de Proteína sabor Avellana. Óptima mezcla...'
+sku: 'B00GYOHEMI-es'
 tags: [  ]
 actualPrice: 15.58 EUR
 currency: EUR

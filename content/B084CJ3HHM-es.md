@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084CJ3HHM-es REAL TECHNIQUES Light Layer Blush - Brocha de maquillaje...'
+sku: 'B084CJ3HHM-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

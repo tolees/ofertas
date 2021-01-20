@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006USGEOC-es Listerine Enjuague Bucal - 500 ml'
+sku: 'B006USGEOC-es'
 tags: [  ]
 actualPrice: 3.7 EUR
 currency: EUR

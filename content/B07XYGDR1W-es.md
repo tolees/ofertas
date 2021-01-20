@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XYGDR1W-es S&R Pistola de silicona profesional para cartuchos de...'
+sku: 'B07XYGDR1W-es'
 tags: [  ]
 actualPrice: 14.9 EUR
 currency: EUR

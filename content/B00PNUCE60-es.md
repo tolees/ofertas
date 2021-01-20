@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PNUCE60-es Gardena 18291-20 Kit Negro Gris Naranja Plata'
+sku: 'B00PNUCE60-es'
 tags: [  ]
 actualPrice: 12.54 EUR
 currency: EUR

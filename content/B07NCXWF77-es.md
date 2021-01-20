@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NCXWF77-es Controlslim -Aquisana | Quema Grasas Potente Para...'
+sku: 'B07NCXWF77-es'
 tags: [  ]
 actualPrice: 67.99 EUR
 currency: EUR

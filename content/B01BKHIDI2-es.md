@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BKHIDI2-es Versa 19500757 Silla acolchada tapizada Bl/Gr Patchwork...'
+sku: 'B01BKHIDI2-es'
 tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR

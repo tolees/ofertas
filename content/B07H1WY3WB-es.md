@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H1WY3WB-es Rizador Pelo Profesional 6 en 1 Plancha Pelo Curling Iron...'
+sku: 'B07H1WY3WB-es'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

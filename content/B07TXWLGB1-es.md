@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXWLGB1-es Kipling Creativity S Cartera para Mujer Multicolor...'
+sku: 'B07TXWLGB1-es'
 tags: [  ]
 actualPrice: 12.0 EUR
 currency: EUR

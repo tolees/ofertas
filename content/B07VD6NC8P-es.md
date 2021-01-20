@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VD6NC8P-es Geekworm Carcasa para disipador térmico Raspberry Pi 4...'
+sku: 'B07VD6NC8P-es'
 tags: [  ]
 actualPrice: 18.89 EUR
 currency: EUR

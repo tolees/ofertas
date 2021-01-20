@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FBPVM3B-es Skechers Flex Appeal 3.0-First Insight Zapatillas para...'
+sku: 'B07FBPVM3B-es'
 tags: [  ]
 actualPrice: 44.85 EUR
 currency: EUR

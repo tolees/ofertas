@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PNGS7SC-es BLAVOR Cargador Solar Móvil 10000mAh Batería Externa...'
+sku: 'B07PNGS7SC-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PQTRR6Q-es New Balance 373 Zapatillas para Hombre Negro Black/Magnet...'
+sku: 'B07PQTRR6Q-es'
 tags: [  ]
 actualPrice: 40.0 EUR
 currency: EUR

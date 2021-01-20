@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01APX1TKQ-es NYX Professional Makeup Pintalabios Lip Lingerie Liquid...'
+sku: 'B01APX1TKQ-es'
 tags: [  ]
 actualPrice: 5.53 EUR
 currency: EUR

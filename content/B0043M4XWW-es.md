@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0043M4XWW-es Oral-B Pulsonic - Pack de 3 cabezales de recambio para...'
+sku: 'B0043M4XWW-es'
 tags: [  ]
 actualPrice: 9.83 EUR
 currency: EUR

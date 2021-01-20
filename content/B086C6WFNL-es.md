@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086C6WFNL-es Caja de almacenamiento universal para asiento de coche...'
+sku: 'B086C6WFNL-es'
 tags: [  ]
 actualPrice: 21.0 EUR
 currency: EUR

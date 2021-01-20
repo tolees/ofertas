@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NLPNVV4-es Panasonic RP-HTX90NE-W Auriculares Inalámbricos Noise...'
+sku: 'B07NLPNVV4-es'
 tags: [  ]
 actualPrice: 80.63 EUR
 currency: EUR

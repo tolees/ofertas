@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D7QJ1NR-es Ecco Crepetray Hybrid M Botas Militar para Hombre Negro...'
+sku: 'B07D7QJ1NR-es'
 tags: [  ]
 actualPrice: 65.12 EUR
 currency: EUR

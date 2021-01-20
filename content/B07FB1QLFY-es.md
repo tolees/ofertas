@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FB1QLFY-es Joma Winner Camisetas Caballero Hombre Royal/Marino L'
+sku: 'B07FB1QLFY-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

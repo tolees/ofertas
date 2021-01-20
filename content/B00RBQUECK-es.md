@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00RBQUECK-es Biotherm Sun Crème Solaire Fondante Anti Age Visage SPF50...'
+sku: 'B00RBQUECK-es'
 tags: [  ]
 actualPrice: 15.5 EUR
 currency: EUR

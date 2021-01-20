@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NBU6QSQ-es Hidrolimpiadora Nilfisk C 120 Bares Incluye Limpiador para...'
+sku: 'B01NBU6QSQ-es'
 tags: [  ]
 actualPrice: 90.53 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0048BOUNA-es Superga 2750 COTU Classic Zapatillas Unisex Adulto Black...'
+sku: 'B0048BOUNA-es'
 tags: [  ]
 actualPrice: 35.95 EUR
 currency: EUR

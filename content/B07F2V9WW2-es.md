@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F2V9WW2-es Newseego Ajustador de Cinturón de Seguridad para el Coche...'
+sku: 'B07F2V9WW2-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JAHX55G-es Assassin s Creed: Unity'
+sku: 'B00JAHX55G-es'
 tags: [  ]
 actualPrice: 14.9 EUR
 currency: EUR

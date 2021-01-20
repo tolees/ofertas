@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072LD6BYS-es 3DS Miitopía'
+sku: 'B072LD6BYS-es'
 tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR

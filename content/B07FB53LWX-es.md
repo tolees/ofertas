@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FB53LWX-es Superdry Label Jogger Pantalones de deporte Hombre Azul...'
+sku: 'B07FB53LWX-es'
 tags: [  ]
 actualPrice: 47.99 EUR
 currency: EUR

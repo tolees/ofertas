@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0833WRHBN-es 61w USB-C Power Adapter Mac Charger Compatible con Macbook...'
+sku: 'B0833WRHBN-es'
 tags: [  ]
 actualPrice: 34.68 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007QBIWG0-es Grohe Eurocube- Grifo de Bide de Una Planca acabado...'
+sku: 'B007QBIWG0-es'
 tags: [  ]
 actualPrice: 119.97 EUR
 currency: EUR

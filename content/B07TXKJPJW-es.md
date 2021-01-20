@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXKJPJW-es Kit de cuidado de la barba para hombres kit de cuidado de...'
+sku: 'B07TXKJPJW-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

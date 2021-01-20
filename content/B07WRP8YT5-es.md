@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WRP8YT5-es Abody 5-en-1 Rizador de Pelo Profesional Rizador y...'
+sku: 'B07WRP8YT5-es'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

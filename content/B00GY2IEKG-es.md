@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GY2IEKG-es ISDIN Spray Anti Mosquitos - Repelente de Mosquitos para...'
+sku: 'B00GY2IEKG-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

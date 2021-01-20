@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BZF3X36-es Reloj de Cuarzo con cronógrafo de Acero Inoxidable y Metal...'
+sku: 'B08BZF3X36-es'
 tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR

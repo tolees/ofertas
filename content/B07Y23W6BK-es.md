@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y23W6BK-es TECHGEAR Funda Impermeable para iPad 7 10.2" [Poseidon...'
+sku: 'B07Y23W6BK-es'
 tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR

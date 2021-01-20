@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J31B9SQ-es HP Omen Obelisk 875-0007ns - Ordenador de sobremesa gaming...'
+sku: 'B07J31B9SQ-es'
 tags: [  ]
 actualPrice: 599.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EOEEADG-es Belkin F8J121BT04-BLK - Cable Color Negro'
+sku: 'B00EOEEADG-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

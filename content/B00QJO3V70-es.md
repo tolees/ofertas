@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00QJO3V70-es Smeg TSBW02 Accesorio De De Tostadora De plástico Acero...'
+sku: 'B00QJO3V70-es'
 tags: [  ]
 actualPrice: 15.89 EUR
 currency: EUR

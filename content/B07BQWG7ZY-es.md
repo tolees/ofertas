@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BQWG7ZY-es L Oreal Paris Colorista Hair Make Up Mauve'
+sku: 'B07BQWG7ZY-es'
 tags: [  ]
 actualPrice: 1.5 EUR
 currency: EUR

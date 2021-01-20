@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088TJGKKN-es HAPPY - 25 productos el efecto alcanza el 95% CE'
+sku: 'B088TJGKKN-es'
 tags: [  ]
 actualPrice: 7.77 EUR
 currency: EUR

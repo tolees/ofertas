@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H2CFJTL-es Joma Combi Camisetas Equip. M/c Hombre Marino Oscuro L'
+sku: 'B07H2CFJTL-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

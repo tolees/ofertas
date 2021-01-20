@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MSKD2S1-es Clarks Un Tread UpGTX Botas clásicas. para Hombre Piel...'
+sku: 'B07MSKD2S1-es'
 tags: [  ]
 actualPrice: 28.83 EUR
 currency: EUR

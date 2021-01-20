@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IVU0PSC-es Colgante J.Rosée Collares Mujer Plata de Ley 925 Brillante...'
+sku: 'B01IVU0PSC-es'
 tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR

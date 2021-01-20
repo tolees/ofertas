@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0728FJ3VX-es RED WAGON Zapatillas Altas para Niñas Rosa Pink 30.5 EU'
+sku: 'B0728FJ3VX-es'
 tags: [  ]
 actualPrice: 6.6 EUR
 currency: EUR

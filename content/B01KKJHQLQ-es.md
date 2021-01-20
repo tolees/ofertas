@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KKJHQLQ-es HP 24o - Monitor Full HD de 24 1920x1080 panel TN 16:9...'
+sku: 'B01KKJHQLQ-es'
 tags: [  ]
 actualPrice: 109.57 EUR
 currency: EUR

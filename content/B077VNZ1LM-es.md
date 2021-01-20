@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077VNZ1LM-es Dickies Gilmer Cinturón Negro No Aplica Talla del...'
+sku: 'B077VNZ1LM-es'
 tags: [  ]
 actualPrice: 15.67 EUR
 currency: EUR

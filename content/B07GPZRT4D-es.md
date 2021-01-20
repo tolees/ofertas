@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GPZRT4D-es Subnautica'
+sku: 'B07GPZRT4D-es'
 tags: [  ]
 actualPrice: 16.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079VNDZRJ-es Thomas Sabo Colgante para Mujer "Flor de LisCharm Club"...'
+sku: 'B079VNDZRJ-es'
 tags: [  ]
 actualPrice: 25.0 EUR
 currency: EUR

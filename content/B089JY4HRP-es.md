@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089JY4HRP-es EasySMX 2.4G Teclado inalámbrico / cable teclado gamer...'
+sku: 'B089JY4HRP-es'
 tags: [  ]
 actualPrice: 59.56 EUR
 currency: EUR

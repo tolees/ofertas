@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000L5KCW0-es Pelikan 520866 - Cinta para Canon/Facit/Sharp Grupo 51 S+U...'
+sku: 'B000L5KCW0-es'
 tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR

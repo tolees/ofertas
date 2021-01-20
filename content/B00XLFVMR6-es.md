@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XLFVMR6-es Assassin s Creed: Syndicate'
+sku: 'B00XLFVMR6-es'
 tags: [  ]
 actualPrice: 14.9 EUR
 currency: EUR

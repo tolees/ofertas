@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M8LCYZ6-es Correa de reloj de repuesto para Samsung Gear S3 color...'
+sku: 'B01M8LCYZ6-es'
 tags: [  ]
 actualPrice: 15.6 EUR
 currency: EUR

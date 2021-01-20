@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0839JQTRW-es Mardozon Correa para Xiaomi Mi Band 3/4 Pulseras Reloj...'
+sku: 'B0839JQTRW-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

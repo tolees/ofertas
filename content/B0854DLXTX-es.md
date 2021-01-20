@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0854DLXTX-es Máscaras desechables de 3 capas de 10 piezas cómoda...'
+sku: 'B0854DLXTX-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

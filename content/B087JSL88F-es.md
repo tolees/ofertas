@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087JSL88F-es Uarter Paño desechable de protección contra el Polvo de la...'
+sku: 'B087JSL88F-es'
 tags: [  ]
 actualPrice: 14.9 EUR
 currency: EUR

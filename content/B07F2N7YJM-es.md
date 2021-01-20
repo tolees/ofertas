@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F2N7YJM-es Amazon Essentials - Pantalones deportivos ajustados para...'
+sku: 'B07F2N7YJM-es'
 tags: [  ]
 actualPrice: 12.27 EUR
 currency: EUR

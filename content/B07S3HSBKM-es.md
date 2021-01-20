@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S3HSBKM-es edc by Esprit 079cc1i006 suéter Marrón Taupe 5 244 Small...'
+sku: 'B07S3HSBKM-es'
 tags: [  ]
 actualPrice: 15.89 EUR
 currency: EUR

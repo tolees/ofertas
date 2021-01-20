@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000JTIX3S-es MASTER LOCK Caja fuerte para llaves [Mediana] [Montaje...'
+sku: 'B000JTIX3S-es'
 tags: [  ]
 actualPrice: 25.95 EUR
 currency: EUR

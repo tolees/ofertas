@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N3SZ2N6-es Desigual Blouse Lucia Blusas Orange Cobre 7006 XL para Mujer'
+sku: 'B07N3SZ2N6-es'
 tags: [  ]
 actualPrice: 25.75 EUR
 currency: EUR

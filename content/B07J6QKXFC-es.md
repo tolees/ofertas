@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J6QKXFC-es PROACC Tapete para Piano Juguete para niños con Teclado y...'
+sku: 'B07J6QKXFC-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XRDJXNX-es HOMECHO Mesa Auxiliar con 3 Estantes Mesa para Lámpara...'
+sku: 'B07XRDJXNX-es'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

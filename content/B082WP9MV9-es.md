@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082WP9MV9-es RioRiva En calcetines para hombre de envoltura de regalos...'
+sku: 'B082WP9MV9-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

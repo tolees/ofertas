@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LQKE93Q-es SD toys Juego de Tronos Jarra de Cerveza 3D Rotating...'
+sku: 'B01LQKE93Q-es'
 tags: [  ]
 actualPrice: 10.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XQKXLSY-es Sensilis - Sun Secret - Complemento Alimenticio de...'
+sku: 'B06XQKXLSY-es'
 tags: [  ]
 actualPrice: 8.21 EUR
 currency: EUR

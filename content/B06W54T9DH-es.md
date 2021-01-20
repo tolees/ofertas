@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06W54T9DH-es Braun FaceSpa 851 - Sistema 3 en 1 de depiladora facial...'
+sku: 'B06W54T9DH-es'
 tags: [  ]
 actualPrice: 51.99 EUR
 currency: EUR

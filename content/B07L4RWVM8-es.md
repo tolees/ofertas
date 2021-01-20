@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L4RWVM8-es Sockers FCB - Figura de Gerard Piqué 2018/19 Azulgrana 30 cm'
+sku: 'B07L4RWVM8-es'
 tags: [  ]
 actualPrice: 12.95 EUR
 currency: EUR

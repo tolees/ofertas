@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089LM1XHH-es Firoya 50pcs Lila Triple Capa Transpirable Cómodo para la...'
+sku: 'B089LM1XHH-es'
 tags: [  ]
 actualPrice: 2.98 EUR
 currency: EUR

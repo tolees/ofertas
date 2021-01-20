@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KC6C58Q-es Mini Camara Espia Oculta DEXILIO 1080P Vigilancia...'
+sku: 'B07KC6C58Q-es'
 tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072VJ5DST-es Buff Fizz Tricot Calentador Polar Mujer Rosa Honeysuckle...'
+sku: 'B072VJ5DST-es'
 tags: [  ]
 actualPrice: 11.73 EUR
 currency: EUR

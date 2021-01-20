@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B010PIT2GE-es Casio SGW-1000-1AER - Reloj con correa de resina para...'
+sku: 'B010PIT2GE-es'
 tags: [  ]
 actualPrice: 98.39 EUR
 currency: EUR

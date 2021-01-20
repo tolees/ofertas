@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01C7JN54Y-es Sustratos - Sustrato Vermiculita 5L - Batlle'
+sku: 'B01C7JN54Y-es'
 tags: [  ]
 actualPrice: 3.17 EUR
 currency: EUR

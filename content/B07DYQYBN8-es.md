@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DYQYBN8-es Txyk Cabañas de Madera de Bricolaje Casa de muñecas en...'
+sku: 'B07DYQYBN8-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

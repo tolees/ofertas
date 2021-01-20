@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X6GD1YS-es Vbiger Mochilas Escolares Niña Impermeable para Estudiante...'
+sku: 'B07X6GD1YS-es'
 tags: [  ]
 actualPrice: 24.98 EUR
 currency: EUR

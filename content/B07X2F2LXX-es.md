@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X2F2LXX-es ZHANGSHUQI - Bolsa de Moto Retro Estilo Steampunk para...'
+sku: 'B07X2F2LXX-es'
 tags: [  ]
 actualPrice: 55.13 EUR
 currency: EUR

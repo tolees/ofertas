@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NXZYPXR-es Ferilinso Cristal Templado para Samsung Galaxy M20 A10S...'
+sku: 'B07NXZYPXR-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

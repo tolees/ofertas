@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00AVZMXV8-es Vans Atwood Zapatillas para Hombre Negro Black/White...'
+sku: 'B00AVZMXV8-es'
 tags: [  ]
 actualPrice: 43.99 EUR
 currency: EUR

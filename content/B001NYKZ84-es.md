@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001NYKZ84-es Reebok Classic Leather Zapatillas Mujer Negro Int / Black...'
+sku: 'B001NYKZ84-es'
 tags: [  ]
 actualPrice: 43.49 EUR
 currency: EUR

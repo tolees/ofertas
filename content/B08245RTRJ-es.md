@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08245RTRJ-es CARRERA Sneakers Hombre Lona Blanco 44 EU'
+sku: 'B08245RTRJ-es'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

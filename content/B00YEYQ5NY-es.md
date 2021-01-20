@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00YEYQ5NY-es Columbia Midweight Stretch Pantalón Mujer Negro Black S'
+sku: 'B00YEYQ5NY-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

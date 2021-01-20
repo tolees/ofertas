@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075GY3ZD1-es Polaroid Originals - 4671 - Película Negro y Blanco para...'
+sku: 'B075GY3ZD1-es'
 tags: [  ]
 actualPrice: 14.19 EUR
 currency: EUR

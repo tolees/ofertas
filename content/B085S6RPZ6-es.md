@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085S6RPZ6-es MOSOTECH Bandejas Hielo de 3 Packs Fácil Liberación...'
+sku: 'B085S6RPZ6-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

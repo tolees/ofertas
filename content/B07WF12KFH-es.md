@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WF12KFH-es Tiras LED 3M Hually Impermeable Tira LED USB con Control...'
+sku: 'B07WF12KFH-es'
 tags: [  ]
 actualPrice: 10.39 EUR
 currency: EUR

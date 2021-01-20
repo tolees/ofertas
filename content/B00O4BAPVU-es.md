@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00O4BAPVU-es Purina Cat Chow Esterilizado Gato Adulto Pollo 15 Kg'
+sku: 'B00O4BAPVU-es'
 tags: [  ]
 actualPrice: 33.14 EUR
 currency: EUR

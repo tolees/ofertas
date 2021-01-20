@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N5WW8L0-es Philips Avent SCF169/27 - Set de 2 chupetes Gama Safari de...'
+sku: 'B01N5WW8L0-es'
 tags: [  ]
 actualPrice: 5.07 EUR
 currency: EUR

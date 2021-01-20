@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D6F8WGV-es LA Active Tobillera Calcetines Antideslizantes - 6 Pares -...'
+sku: 'B07D6F8WGV-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

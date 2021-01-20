@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008KO2BFK-es Monix Quick - Olla a presión rápida de 4 litros'
+sku: 'B008KO2BFK-es'
 tags: [  ]
 actualPrice: 42.99 EUR
 currency: EUR

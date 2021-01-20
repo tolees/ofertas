@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LMCW576-es Joseph Joseph Nest Cuchara medidora Multicolor Centimeters'
+sku: 'B00LMCW576-es'
 tags: [  ]
 actualPrice: 10.45 EUR
 currency: EUR

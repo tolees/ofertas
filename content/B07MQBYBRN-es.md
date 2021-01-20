@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MQBYBRN-es Paladone 43AB882063 Taza 3D Super Mario Yoshi 330...'
+sku: 'B07MQBYBRN-es'
 tags: [  ]
 actualPrice: 10.68 EUR
 currency: EUR

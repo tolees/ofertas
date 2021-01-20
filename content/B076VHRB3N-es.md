@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076VHRB3N-es Objetivo Tamron 100-400mm F/4.5-6.3 Di VC y Ultrasonic...'
+sku: 'B076VHRB3N-es'
 tags: [  ]
 actualPrice: 643.54 EUR
 currency: EUR

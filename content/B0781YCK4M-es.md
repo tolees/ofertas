@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0781YCK4M-es caseable - Funda para Kindle y Kindle Paperwhite Gold Dots'
+sku: 'B0781YCK4M-es'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XAIR2SM-es Aire De Sevilla Primavera Set de Regalo - 3 Piezas'
+sku: 'B00XAIR2SM-es'
 tags: [  ]
 actualPrice: 11.89 EUR
 currency: EUR

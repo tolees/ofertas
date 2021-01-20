@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z1JV43G-es Bolsas de Transporte Bolsa Viaje para Asiento Bebé Acomon...'
+sku: 'B07Z1JV43G-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

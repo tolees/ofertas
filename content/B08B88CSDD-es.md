@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B88CSDD-es Kikc Rollos al Vacio para Bolsa de vacío Adecuada para...'
+sku: 'B08B88CSDD-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

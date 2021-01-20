@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GDLMCV6-es Rowenta Ultimate Experience SF8220 Plancha profesional con...'
+sku: 'B07GDLMCV6-es'
 tags: [  ]
 actualPrice: 109.0 EUR
 currency: EUR

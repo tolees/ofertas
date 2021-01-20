@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085ZG14LS-es Adaptador de taladro de remachado multifuncional pistola...'
+sku: 'B085ZG14LS-es'
 tags: [  ]
 actualPrice: 15.03 EUR
 currency: EUR

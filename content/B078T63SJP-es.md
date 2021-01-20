@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078T63SJP-es PUMA Liga Casuals Polo Hombre Verde Pepper Green/White M'
+sku: 'B078T63SJP-es'
 tags: [  ]
 actualPrice: 8.71 EUR
 currency: EUR

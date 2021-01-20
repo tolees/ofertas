@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081B6MWVZ-es Columbia Windgates Polar con Cremallera Completa Mujer...'
+sku: 'B081B6MWVZ-es'
 tags: [  ]
 actualPrice: 48.39 EUR
 currency: EUR

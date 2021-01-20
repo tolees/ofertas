@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004YSD2OU-es Epson C13T15934010 - Cartucho de tinta magenta Ya...'
+sku: 'B004YSD2OU-es'
 tags: [  ]
 actualPrice: 5.09 EUR
 currency: EUR

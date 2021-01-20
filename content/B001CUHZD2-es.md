@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001CUHZD2-es MANN-FILTER W 719/30 Filtro de Aceite para automóviles y...'
+sku: 'B001CUHZD2-es'
 tags: [  ]
 actualPrice: 6.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GCF7AT6-es Fournier- Nº 1-40 Cartas Set de baraja Española y tapete...'
+sku: 'B00GCF7AT6-es'
 tags: [  ]
 actualPrice: 5.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075FZLHNF-es Alpinestar Eternal Polo de Manga Corta con Logo de Goma en...'
+sku: 'B075FZLHNF-es'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

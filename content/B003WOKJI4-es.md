@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003WOKJI4-es Remington Conique Pearl CI95 - Rizador de pelo Cerámica...'
+sku: 'B003WOKJI4-es'
 tags: [  ]
 actualPrice: 25.89 EUR
 currency: EUR

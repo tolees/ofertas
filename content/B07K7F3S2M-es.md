@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K7F3S2M-es TACKLIFE Pistola de Riego Pistola de Agua de Jardín...'
+sku: 'B07K7F3S2M-es'
 tags: [  ]
 actualPrice: 8.79 EUR
 currency: EUR

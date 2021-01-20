@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WP5GF22-es TensCare Perfect Tens+ 12 electrodos – Electroestimulador...'
+sku: 'B06WP5GF22-es'
 tags: [  ]
 actualPrice: 41.36 EUR
 currency: EUR

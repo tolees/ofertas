@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NXVHQL6-es Helly Hansen Active Duffel Bag 33l Bolsa De Deporte Unisex...'
+sku: 'B07NXVHQL6-es'
 tags: [  ]
 actualPrice: 34.25 EUR
 currency: EUR

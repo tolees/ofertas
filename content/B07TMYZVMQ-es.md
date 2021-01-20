@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TMYZVMQ-es Cortapelos Nariz y Oreja Recargable 5 en 1 Recortador de...'
+sku: 'B07TMYZVMQ-es'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

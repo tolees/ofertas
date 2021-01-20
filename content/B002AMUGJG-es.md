@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002AMUGJG-es Sisley Phyto Corps Confort Extrême 150 ml'
+sku: 'B002AMUGJG-es'
 tags: [  ]
 actualPrice: 65.83 EUR
 currency: EUR

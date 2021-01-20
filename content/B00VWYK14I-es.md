@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VWYK14I-es Joma Record Malla Larga Hombre Rojo L'
+sku: 'B00VWYK14I-es'
 tags: [  ]
 actualPrice: 14.68 EUR
 currency: EUR

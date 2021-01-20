@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NRW5DJ9-es Corsair MM350 Champion - Alfombrilla para Juegos de Tela...'
+sku: 'B07NRW5DJ9-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

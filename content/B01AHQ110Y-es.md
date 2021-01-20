@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AHQ110Y-es TP-Link T1600G-28PS TL-SG2424P Switch Smart Gigabit PoE+...'
+sku: 'B01AHQ110Y-es'
 tags: [  ]
 actualPrice: 217.33 EUR
 currency: EUR

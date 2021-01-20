@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZRKF8VN-es Nuevo Cable de Cable de liberación de Obturador de...'
+sku: 'B07ZRKF8VN-es'
 tags: [  ]
 actualPrice: 1.79 EUR
 currency: EUR

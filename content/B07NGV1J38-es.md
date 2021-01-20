@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NGV1J38-es Cable guy Black Panther soporte de sujeción y carga para...'
+sku: 'B07NGV1J38-es'
 tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR

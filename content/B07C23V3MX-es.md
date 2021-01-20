@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C23V3MX-es WILBEST Exprimidor Limón Manual Exprimidor Manual de...'
+sku: 'B07C23V3MX-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

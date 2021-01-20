@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0035PVUAG-es Bosch Professional GST 150 CE - Sierra de calar 780 W 500...'
+sku: 'B0035PVUAG-es'
 tags: [  ]
 actualPrice: 165.61 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RHY7TK3-es New Balance Fresh Foam Roav Trail m Zapatillas de Running...'
+sku: 'B07RHY7TK3-es'
 tags: [  ]
 actualPrice: 48.24 EUR
 currency: EUR

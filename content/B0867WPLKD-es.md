@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0867WPLKD-es Hatteker Barbero Electrico Cortapelos Profesional Hombre...'
+sku: 'B0867WPLKD-es'
 tags: [  ]
 actualPrice: 25.49 EUR
 currency: EUR

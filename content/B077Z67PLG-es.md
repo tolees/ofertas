@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077Z67PLG-es ONTA® Auriculares para Niños Plegable Cómodos Auriculares...'
+sku: 'B077Z67PLG-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

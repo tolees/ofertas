@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086DB9WFY-es Wangxyan Mosquitera Redondo Colcha de cúpula para niños...'
+sku: 'B086DB9WFY-es'
 tags: [  ]
 actualPrice: 55.99 EUR
 currency: EUR

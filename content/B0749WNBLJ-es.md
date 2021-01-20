@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0749WNBLJ-es SanDisk Ultra Imaging - Tarjeta de Memoria Micro SDHC de...'
+sku: 'B0749WNBLJ-es'
 tags: [  ]
 actualPrice: 7.9 EUR
 currency: EUR

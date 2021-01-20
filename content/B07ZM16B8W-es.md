@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZM16B8W-es NMDD Ornament Modernen Minimalistischen Keramik...'
+sku: 'B07ZM16B8W-es'
 tags: [  ]
 actualPrice: 80.99 EUR
 currency: EUR

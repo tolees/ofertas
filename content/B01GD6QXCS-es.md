@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GD6QXCS-es E-concept Stormtrooper Edition.'
+sku: 'B01GD6QXCS-es'
 tags: [  ]
 actualPrice: 38.83 EUR
 currency: EUR

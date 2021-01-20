@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M93JNL8-es NIVEA MEN Gel Hidratante Rostro y Barba Corta 1 x 50 ml...'
+sku: 'B07M93JNL8-es'
 tags: [  ]
 actualPrice: 5.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082HBG3J6-es ART VVIES Mit Haken Wandbild 20x20 Zoll Neugeborenen...'
+sku: 'B082HBG3J6-es'
 tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR

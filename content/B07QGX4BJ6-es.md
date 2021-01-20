@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QGX4BJ6-es DREAMWIN 38 Piezas Máscaras de Superhéroe Máscaras de...'
+sku: 'B07QGX4BJ6-es'
 tags: [  ]
 actualPrice: 10.34 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HRYF2F1-es Akuoly Juego de Tornillos M.2 SSD para M.2 SSD NVMe...'
+sku: 'B08HRYF2F1-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

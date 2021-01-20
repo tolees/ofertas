@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XGP9SDS-es Stranger Things Llavero de Vinilo Demogorgon Open Face...'
+sku: 'B06XGP9SDS-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

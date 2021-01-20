@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XWLG4XR-es Evilandat - Placa metálica de matrícula de la ruta 66 de...'
+sku: 'B06XWLG4XR-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

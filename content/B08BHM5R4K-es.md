@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BHM5R4K-es Ventilador Personal Portáti Ventilador de Cuello Colgante...'
+sku: 'B08BHM5R4K-es'
 tags: [  ]
 actualPrice: 21.9 EUR
 currency: EUR

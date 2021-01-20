@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075B6PRV8-es URCERI Telémetro Láser 40m Medidor Láser de...'
+sku: 'B075B6PRV8-es'
 tags: [  ]
 actualPrice: 13.59 EUR
 currency: EUR

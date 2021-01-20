@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KQQWC69-es Salomon Alphacross Zapatillas de Trail Running para Hombre...'
+sku: 'B07KQQWC69-es'
 tags: [  ]
 actualPrice: 62.95 EUR
 currency: EUR

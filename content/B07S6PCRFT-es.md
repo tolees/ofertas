@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S6PCRFT-es PUMA Electron Street Zapatillas Unisex Adulto Blanco...'
+sku: 'B07S6PCRFT-es'
 tags: [  ]
 actualPrice: 34.08 EUR
 currency: EUR

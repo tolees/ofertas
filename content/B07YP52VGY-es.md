@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YP52VGY-es Funda para teléfono móvil Huawei P Smart 2019 ultrafina...'
+sku: 'B07YP52VGY-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

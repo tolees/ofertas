@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072LNTRGN-es Under Armour Challenger II Knit Warm-Up Ropa de Deporte de...'
+sku: 'B072LNTRGN-es'
 tags: [  ]
 actualPrice: 38.49 EUR
 currency: EUR

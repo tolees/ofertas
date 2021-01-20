@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SDG6MVV-es Levi s Malibu Beach S Zapatillas para Mujer Blanco B White...'
+sku: 'B07SDG6MVV-es'
 tags: [  ]
 actualPrice: 24.5 EUR
 currency: EUR

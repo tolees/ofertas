@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B012JI11YY-es Acrílico Cosmético Lentes De Contacto Lápiz Labial Mak Up...'
+sku: 'B012JI11YY-es'
 tags: [  ]
 actualPrice: 18.34 EUR
 currency: EUR

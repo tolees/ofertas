@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CK5RV59-es Calvin Klein Strapless Lift Multiway Sujetador de...'
+sku: 'B07CK5RV59-es'
 tags: [  ]
 actualPrice: 15.01 EUR
 currency: EUR

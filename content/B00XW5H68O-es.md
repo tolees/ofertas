@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XW5H68O-es Bosch Professional de carga inalámbrica clásico juego de...'
+sku: 'B00XW5H68O-es'
 tags: [  ]
 actualPrice: 55.99 EUR
 currency: EUR

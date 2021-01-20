@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XGM6NFH-es Inventor EVA II PRO 20 litros/día con R290...'
+sku: 'B07XGM6NFH-es'
 tags: [  ]
 actualPrice: 129.99 EUR
 currency: EUR

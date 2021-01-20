@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HLBN8XK-es READ Reloj para Hombre Reloj de Cuarzo Marca de fábrica...'
+sku: 'B07HLBN8XK-es'
 tags: [  ]
 actualPrice: 11.88 EUR
 currency: EUR

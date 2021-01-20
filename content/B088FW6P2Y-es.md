@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088FW6P2Y-es Otium - Auriculares inalámbricos Bluetooth 5.0 IPX7...'
+sku: 'B088FW6P2Y-es'
 tags: [  ]
 actualPrice: 38.1 EUR
 currency: EUR

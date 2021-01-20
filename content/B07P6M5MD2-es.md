@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P6M5MD2-es SUNLU filamento PLA de 1.75 mm filamento de impresión 3D...'
+sku: 'B07P6M5MD2-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

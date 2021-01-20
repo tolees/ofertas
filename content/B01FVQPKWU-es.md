@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FVQPKWU-es Vaessen Creative Plástico Mágico Blanco 4 Hojas Tamaño 21...'
+sku: 'B01FVQPKWU-es'
 tags: [  ]
 actualPrice: 2.83 EUR
 currency: EUR

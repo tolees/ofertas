@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009IKYNA6-es Wikango 97-W600 Avisador de Radares Europa'
+sku: 'B009IKYNA6-es'
 tags: [  ]
 actualPrice: 57.0 EUR
 currency: EUR

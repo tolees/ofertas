@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009RHOFQW-es Ghostbusters Silicone Tray'
+sku: 'B009RHOFQW-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

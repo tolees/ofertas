@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00STL8GK8-es Furreal Friends - Peluche interactivo JJ Mi Perrito...'
+sku: 'B00STL8GK8-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

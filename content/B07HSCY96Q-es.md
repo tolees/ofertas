@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HSCY96Q-es Tatay Baobab Cesta para la Colada Plástico polipropileno...'
+sku: 'B07HSCY96Q-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

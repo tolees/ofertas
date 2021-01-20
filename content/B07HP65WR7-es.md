@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HP65WR7-es Slimming Essence Crema anticelulítica 60ml Adelgazante...'
+sku: 'B07HP65WR7-es'
 tags: [  ]
 actualPrice: 5.69 EUR
 currency: EUR

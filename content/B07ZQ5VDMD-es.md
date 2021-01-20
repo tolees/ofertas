@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZQ5VDMD-es relaxdays Especiero con 16 botes para especias 4 estantes...'
+sku: 'B07ZQ5VDMD-es'
 tags: [  ]
 actualPrice: 34.9 EUR
 currency: EUR

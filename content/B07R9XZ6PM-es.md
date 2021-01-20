@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R9XZ6PM-es laamei Mosquitera Bebé Antiinsectos Universal Mosquitera...'
+sku: 'B07R9XZ6PM-es'
 tags: [  ]
 actualPrice: 2.09 EUR
 currency: EUR

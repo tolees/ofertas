@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WVSHSQQ-es Deporte Rodilleras Lepfun PR555/PR900 1 Unid Rodillera de...'
+sku: 'B07WVSHSQQ-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F298HVY-es Homever Vaporizador vertical para prendas de vestir con...'
+sku: 'B07F298HVY-es'
 tags: [  ]
 actualPrice: 75.99 EUR
 currency: EUR

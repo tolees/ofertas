@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VC9FWSM-es Pepe Jeans Daphne Mochilla Doble Marrón'
+sku: 'B07VC9FWSM-es'
 tags: [  ]
 actualPrice: 39.2 EUR
 currency: EUR

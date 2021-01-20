@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NBHSK1P-es Tristar VE-5999 Ventilador de torre 75 centímetros 45 W...'
+sku: 'B01NBHSK1P-es'
 tags: [  ]
 actualPrice: 34.9 EUR
 currency: EUR

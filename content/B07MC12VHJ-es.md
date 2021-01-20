@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MC12VHJ-es Clarks Un Tread UpGTX Botas clásicas. para Hombre Negro...'
+sku: 'B07MC12VHJ-es'
 tags: [  ]
 actualPrice: 43.94 EUR
 currency: EUR

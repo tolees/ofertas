@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00O4BC6D0-es Beaphar pipetas repelentes Perro pequeño 3 Unidades'
+sku: 'B00O4BC6D0-es'
 tags: [  ]
 actualPrice: 7.79 EUR
 currency: EUR

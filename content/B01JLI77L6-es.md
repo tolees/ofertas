@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JLI77L6-es Tommy Hilfiger - Reloj para mujer - 1781742'
+sku: 'B01JLI77L6-es'
 tags: [  ]
 actualPrice: 134.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KQ6RDBD-es B Blesiya 2 Pcs Disquetes USB Tornillos con Jumpers...'
+sku: 'B07KQ6RDBD-es'
 tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B1YVL5W-es LA Lakers - Bandera oficial Talla Única Azul/Naranja'
+sku: 'B07B1YVL5W-es'
 tags: [  ]
 actualPrice: 7.7 EUR
 currency: EUR

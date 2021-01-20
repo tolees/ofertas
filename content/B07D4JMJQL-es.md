@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D4JMJQL-es Máquina Eléctrica de Pulir Pulido Herramienta de Artesanía...'
+sku: 'B07D4JMJQL-es'
 tags: [  ]
 actualPrice: 15.68 EUR
 currency: EUR

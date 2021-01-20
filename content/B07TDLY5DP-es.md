@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TDLY5DP-es Haofy Bombillas LED 30W Bombillas de Luz Cuadradas...'
+sku: 'B07TDLY5DP-es'
 tags: [  ]
 actualPrice: 9.98 EUR
 currency: EUR

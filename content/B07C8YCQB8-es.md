@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C8YCQB8-es Vans Ward Platform Canvas Zapatillas Mujer Negro Canvas...'
+sku: 'B07C8YCQB8-es'
 tags: [  ]
 actualPrice: 51.71 EUR
 currency: EUR

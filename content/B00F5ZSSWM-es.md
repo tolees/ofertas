@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00F5ZSSWM-es Ferplast Transportín para Perros para automóvil Atlas Car...'
+sku: 'B00F5ZSSWM-es'
 tags: [  ]
 actualPrice: 64.39 EUR
 currency: EUR

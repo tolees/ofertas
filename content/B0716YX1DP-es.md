@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0716YX1DP-es Under Armour Woven Graphic Wordmark Shorts Pantalón Corto...'
+sku: 'B0716YX1DP-es'
 tags: [  ]
 actualPrice: 12.08 EUR
 currency: EUR

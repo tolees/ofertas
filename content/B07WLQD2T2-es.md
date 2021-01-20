@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WLQD2T2-es GLOBE Tilt Zapatillas de Skateboard para Hombre Negro...'
+sku: 'B07WLQD2T2-es'
 tags: [  ]
 actualPrice: 52.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08J74LJYD-es DEtasyXworld Bolsa para portátil de 13 Pulgadas Bolsa...'
+sku: 'B08J74LJYD-es'
 tags: [  ]
 actualPrice: 3.28 EUR
 currency: EUR

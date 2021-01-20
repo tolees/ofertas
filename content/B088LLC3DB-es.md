@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088LLC3DB-es Altavoz Bluetooth Portátil Altavoces Bluetooth Portatiles...'
+sku: 'B088LLC3DB-es'
 tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR

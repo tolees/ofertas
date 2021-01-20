@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JMTF44F-es Cloudnola Botanical Palm - Reloj de Pared Talla única...'
+sku: 'B07JMTF44F-es'
 tags: [  ]
 actualPrice: 25.0 EUR
 currency: EUR

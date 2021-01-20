@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFC39DJ-es Pop! Smallfoot - Figura de Vinilo Percy'
+sku: 'B07DFC39DJ-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

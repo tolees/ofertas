@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08317VLTJ-es 40G Tamaño pequeño Hogar Hotel Baño Baño Bola de sal Bomba...'
+sku: 'B08317VLTJ-es'
 tags: [  ]
 actualPrice: 1.16 EUR
 currency: EUR

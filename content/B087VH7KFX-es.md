@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087VH7KFX-es Columbia Lake 22 Chaquetas Hombre Bright Indigo M'
+sku: 'B087VH7KFX-es'
 tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001MZYHRE-es Hill`s Science Plan Alimento con Sabor a Pollo para Perros...'
+sku: 'B001MZYHRE-es'
 tags: [  ]
 actualPrice: 3.0 EUR
 currency: EUR

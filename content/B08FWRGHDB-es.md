@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FWRGHDB-es Auriculares Bluetooth 5.0 Auriculares Inalámbricos 156H...'
+sku: 'B08FWRGHDB-es'
 tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR

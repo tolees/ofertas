@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJ6J34T-es New Balance Fresh Faom Cruz v2 Hygge Pack Zapatillas para...'
+sku: 'B07DJ6J34T-es'
 tags: [  ]
 actualPrice: 29.16 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ND9SLPW-es Lacoste Reloj Analógico para Hombre de Cuarzo con Correa...'
+sku: 'B07ND9SLPW-es'
 tags: [  ]
 actualPrice: 96.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJKBZ52-es Trilogía Edgar Wright BD [Blu-ray]'
+sku: 'B07TJKBZ52-es'
 tags: [  ]
 actualPrice: 15.69 EUR
 currency: EUR

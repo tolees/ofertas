@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0754LZJMD-es Easton Marlowe 6 PR Calcetines de Vestir Homber - 6pk #38...'
+sku: 'B0754LZJMD-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

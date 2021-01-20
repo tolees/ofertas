@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072MSMQ66-es Nike SB Delta Force Vulc Zapatillas de Skateboard para...'
+sku: 'B072MSMQ66-es'
 tags: [  ]
 actualPrice: 32.97 EUR
 currency: EUR

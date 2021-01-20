@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078XC5XNF-es Relojes Hombre Acero Inoxidable Impermeable Deportes...'
+sku: 'B078XC5XNF-es'
 tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR

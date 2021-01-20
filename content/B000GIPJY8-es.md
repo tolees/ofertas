@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000GIPJY8-es Optimum Nutrition ON Gold Standard 100% Whey Proteína en...'
+sku: 'B000GIPJY8-es'
 tags: [  ]
 actualPrice: 53.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZR47SK-es Pepe Jeans London Klein Archive Washed Zapatillas para...'
+sku: 'B07MZR47SK-es'
 tags: [  ]
 actualPrice: 27.98 EUR
 currency: EUR

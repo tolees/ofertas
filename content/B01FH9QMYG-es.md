@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FH9QMYG-es Casals VDSLI36AC - Atornillador plegable con batería de...'
+sku: 'B01FH9QMYG-es'
 tags: [  ]
 actualPrice: 17.37 EUR
 currency: EUR

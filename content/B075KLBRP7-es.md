@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075KLBRP7-es Protector de Colchón Impermeable para Cuna Cuna 70 x 140...'
+sku: 'B075KLBRP7-es'
 tags: [  ]
 actualPrice: 12.72 EUR
 currency: EUR

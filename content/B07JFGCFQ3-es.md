@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JFGCFQ3-es Lacoste HH9553 Pantalones Beige Viennois W30 Talla del...'
+sku: 'B07JFGCFQ3-es'
 tags: [  ]
 actualPrice: 27.04 EUR
 currency: EUR

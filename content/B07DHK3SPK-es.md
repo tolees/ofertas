@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DHK3SPK-es Desconocido Nike Swoosh Headband Cinta para la Cabeza...'
+sku: 'B07DHK3SPK-es'
 tags: [  ]
 actualPrice: 5.61 EUR
 currency: EUR

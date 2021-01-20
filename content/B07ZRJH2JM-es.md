@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZRJH2JM-es Tirol Nuevo Espejo ajustable para el asiento trasero del...'
+sku: 'B07ZRJH2JM-es'
 tags: [  ]
 actualPrice: 3.31 EUR
 currency: EUR

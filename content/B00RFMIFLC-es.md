@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00RFMIFLC-es 111D12-27 - Escuadra Angulo Bicr 40Mm 4 Uds E'
+sku: 'B00RFMIFLC-es'
 tags: [  ]
 actualPrice: 1.56 EUR
 currency: EUR

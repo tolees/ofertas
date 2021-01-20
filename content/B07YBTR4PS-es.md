@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YBTR4PS-es Máscara para pelo Crecimiento del cabell Tratamiento para...'
+sku: 'B07YBTR4PS-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

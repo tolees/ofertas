@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S5R5ZFZ-es Banpresto Dragon Ball Match Makers Super Saiyan Broly...'
+sku: 'B07S5R5ZFZ-es'
 tags: [  ]
 actualPrice: 27.07 EUR
 currency: EUR

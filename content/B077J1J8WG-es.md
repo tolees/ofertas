@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077J1J8WG-es Casio Reloj Digital para Mujer de Cuarzo con Correa en...'
+sku: 'B077J1J8WG-es'
 tags: [  ]
 actualPrice: 79.6 EUR
 currency: EUR

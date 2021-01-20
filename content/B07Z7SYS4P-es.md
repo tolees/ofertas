@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z7SYS4P-es Charminer Pelota de Juguete al Aire Libre para Perros...'
+sku: 'B07Z7SYS4P-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

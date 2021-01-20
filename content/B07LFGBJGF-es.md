@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFGBJGF-es Levi s Modern Hm Hoodie Capucha Marrón Warm Cabernet 0020...'
+sku: 'B07LFGBJGF-es'
 tags: [  ]
 actualPrice: 47.5 EUR
 currency: EUR

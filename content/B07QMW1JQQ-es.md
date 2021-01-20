@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QMW1JQQ-es Primux Ioxbook - Portatil 1402MC 14.1" N3350 4G 120GB SSD...'
+sku: 'B07QMW1JQQ-es'
 tags: [  ]
 actualPrice: 164.46 EUR
 currency: EUR

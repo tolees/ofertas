@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ERUI816-es Joma - Malla Corta Elite v Royal para Hombre'
+sku: 'B01ERUI816-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

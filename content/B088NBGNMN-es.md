@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088NBGNMN-es WEWAK Actualizado Dispensador Automático de Jabón Espuma...'
+sku: 'B088NBGNMN-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

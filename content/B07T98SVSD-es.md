@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T98SVSD-es Helly Hansen Ahiga V4 Hydropower Náuticos para Hombre Gris...'
+sku: 'B07T98SVSD-es'
 tags: [  ]
 actualPrice: 70.0 EUR
 currency: EUR

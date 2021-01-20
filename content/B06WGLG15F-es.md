@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WGLG15F-es Festina Reloj Análogo clásico para Mujer de Cuarzo con...'
+sku: 'B06WGLG15F-es'
 tags: [  ]
 actualPrice: 81.66 EUR
 currency: EUR

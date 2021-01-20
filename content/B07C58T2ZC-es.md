@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C58T2ZC-es IntimaTe WM Heart 2 x Taburetes de Bar Cuadrado y Moderno...'
+sku: 'B07C58T2ZC-es'
 tags: [  ]
 actualPrice: 70.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RGVFMZ4-es Hawiton Camisón Mujer Verano Camisones de Algodon Ropa de...'
+sku: 'B07RGVFMZ4-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

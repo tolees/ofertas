@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HF59CN4-es Dulceida Mucho Amor Velvet - Funda para portátil de 15"...'
+sku: 'B07HF59CN4-es'
 tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR

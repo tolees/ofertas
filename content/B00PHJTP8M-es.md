@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PHJTP8M-es Epson Stylus - Kit cartucho de tinta Ya disponible en...'
+sku: 'B00PHJTP8M-es'
 tags: [  ]
 actualPrice: 64.85 EUR
 currency: EUR

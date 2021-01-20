@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XBQ4K58-es PetHot® 10 piezas macetas colgantes macetas con gancho de...'
+sku: 'B07XBQ4K58-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

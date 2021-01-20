@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XDHDPKL-es Greenworks Optimow 15 Robot cortacésped para 1.500m2'
+sku: 'B07XDHDPKL-es'
 tags: [  ]
 actualPrice: 515.0 EUR
 currency: EUR

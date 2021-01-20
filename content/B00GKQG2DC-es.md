@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GKQG2DC-es Wilson Pro Feel Antivibrador Raqueta-Unisex...'
+sku: 'B00GKQG2DC-es'
 tags: [  ]
 actualPrice: 4.49 EUR
 currency: EUR

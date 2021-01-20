@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y2B3X1M-es APEX LIFELINE'
+sku: 'B07Y2B3X1M-es'
 tags: [  ]
 actualPrice: 10.65 EUR
 currency: EUR

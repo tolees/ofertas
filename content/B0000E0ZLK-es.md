@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0000E0ZLK-es Zwilling Twin Pollux - Cuchillo cebollero con Hoja...'
+sku: 'B0000E0ZLK-es'
 tags: [  ]
 actualPrice: 39.15 EUR
 currency: EUR

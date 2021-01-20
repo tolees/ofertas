@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CXPPP3H-es Botella de Agua Acero Inoxidable 350/500/750ml Cantimplora...'
+sku: 'B08CXPPP3H-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

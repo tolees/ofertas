@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ELKSOKW-es Mondial BB05 Plancha 7 litros Negro'
+sku: 'B01ELKSOKW-es'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

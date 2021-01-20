@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QBPWLTN-es ZunBo Electroestimulador Muscular Abdominales Cinturón...'
+sku: 'B07QBPWLTN-es'
 tags: [  ]
 actualPrice: 33.9 EUR
 currency: EUR

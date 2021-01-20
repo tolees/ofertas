@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H7NHQ8G-es Cuadro Fotográfico Composicion Frutas Tamaño total: 97 x...'
+sku: 'B01H7NHQ8G-es'
 tags: [  ]
 actualPrice: 28.9 EUR
 currency: EUR

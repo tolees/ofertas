@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NVVHGVD-es Neceser dos compartimentos adaptable a trolley Movom Enjoy'
+sku: 'B07NVVHGVD-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

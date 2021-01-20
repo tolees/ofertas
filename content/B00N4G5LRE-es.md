@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00N4G5LRE-es BANDAI Tamashii Nations Movie Realization Samurai General...'
+sku: 'B00N4G5LRE-es'
 tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR

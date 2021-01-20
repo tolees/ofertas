@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MZ31GMC-es Gant Elastic Braid Belt Cinturón Negro Black 5 105 Talla...'
+sku: 'B01MZ31GMC-es'
 tags: [  ]
 actualPrice: 25.01 EUR
 currency: EUR

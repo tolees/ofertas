@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015HW7QHA-es Hollywood Star Fashion - Camisas - para mujer Gris Heather...'
+sku: 'B015HW7QHA-es'
 tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR

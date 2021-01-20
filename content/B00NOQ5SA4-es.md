@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NOQ5SA4-es Mousehouse Gifts Juguete de Madera con Figuras de Animales...'
+sku: 'B00NOQ5SA4-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

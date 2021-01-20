@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BFH787E-es Tribe Warner Bros DC Comics Wonder Woman - Memoria USB 2.0...'
+sku: 'B01BFH787E-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

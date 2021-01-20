@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TPLRB16-es Sabrent Funda rígida a prueba de golpes EVA para disco...'
+sku: 'B00TPLRB16-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

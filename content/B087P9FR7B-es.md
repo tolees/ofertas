@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087P9FR7B-es Anpro 220 PCS Kit de Costura Kit Coser Costurero Estuche...'
+sku: 'B087P9FR7B-es'
 tags: [  ]
 actualPrice: 6.5 EUR
 currency: EUR

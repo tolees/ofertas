@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08285HCVM-es Quiksilver Dye Check 15" Bañador Niños Azul Caribbean Sea...'
+sku: 'B08285HCVM-es'
 tags: [  ]
 actualPrice: 19.44 EUR
 currency: EUR

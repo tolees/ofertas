@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JVX2M3N-es Superdry Orange Label Jogger Pantalones de deporte Gris...'
+sku: 'B07JVX2M3N-es'
 tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR

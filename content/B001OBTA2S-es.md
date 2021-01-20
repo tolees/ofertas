@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001OBTA2S-es HP 940 - Cabezal de impresión Original HP 940 Magenta y...'
+sku: 'B001OBTA2S-es'
 tags: [  ]
 actualPrice: 64.99 EUR
 currency: EUR

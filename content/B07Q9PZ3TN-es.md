@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q9PZ3TN-es Befekt Gears Riñonera Deportiva Riñonera Running Mujer...'
+sku: 'B07Q9PZ3TN-es'
 tags: [  ]
 actualPrice: 8.59 EUR
 currency: EUR

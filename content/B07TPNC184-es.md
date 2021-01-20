@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TPNC184-es Legami - Agenda semanal de 12 meses - Tema Take It Easy -...'
+sku: 'B07TPNC184-es'
 tags: [  ]
 actualPrice: 5.55 EUR
 currency: EUR

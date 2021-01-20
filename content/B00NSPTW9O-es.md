@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NSPTW9O-es Cartera de piel para documentos del coche de la marca...'
+sku: 'B00NSPTW9O-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

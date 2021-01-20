@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082J5XFBC-es HOMYBABY Reductor WC Niños | Adaptador WC Niños para...'
+sku: 'B082J5XFBC-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

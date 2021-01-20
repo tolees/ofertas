@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SJFTXV8-es LED Reloj Despertador de Dormitorio Vibrante Atenuador de...'
+sku: 'B07SJFTXV8-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

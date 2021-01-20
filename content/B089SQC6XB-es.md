@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089SQC6XB-es Kloius Niños de la Manera LED del Reloj Digital del Reloj...'
+sku: 'B089SQC6XB-es'
 tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR

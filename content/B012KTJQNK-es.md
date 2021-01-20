@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B012KTJQNK-es Technaxx BT-X15 - Auriculares Gris TXX4545 Circumaural...'
+sku: 'B012KTJQNK-es'
 tags: [  ]
 actualPrice: 34.92 EUR
 currency: EUR

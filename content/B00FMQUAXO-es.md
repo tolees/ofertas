@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FMQUAXO-es Dickies - Pantalones cortos para hombre Gris Charcoal Grey...'
+sku: 'B00FMQUAXO-es'
 tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00Y4XUJKU-es Lacoste Ph4014 Polo para Hombre Azul Navy Blue X-Large...'
+sku: 'B00Y4XUJKU-es'
 tags: [  ]
 actualPrice: 55.95 EUR
 currency: EUR

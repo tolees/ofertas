@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LGYC72V-es Bolsas de Cuero con Clip de Cinturón Hombre - 5.2"/6.3" In...'
+sku: 'B07LGYC72V-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

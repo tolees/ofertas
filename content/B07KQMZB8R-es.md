@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KQMZB8R-es Salomon Alphacross GTX Zapatillas de Trail Running para...'
+sku: 'B07KQMZB8R-es'
 tags: [  ]
 actualPrice: 54.95 EUR
 currency: EUR

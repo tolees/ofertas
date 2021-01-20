@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L8F63DT-es Monix Copper - Sartén 28 cm de aluminio forjado con...'
+sku: 'B07L8F63DT-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

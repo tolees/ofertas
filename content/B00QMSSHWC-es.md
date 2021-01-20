@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00QMSSHWC-es Optimum Nutrition Gold Standard 100% Caseina Cookies &...'
+sku: 'B00QMSSHWC-es'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

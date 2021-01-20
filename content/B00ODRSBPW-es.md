@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ODRSBPW-es Jabra Evolve 20 UC - Auriculares Estéreo de Comunicaciones...'
+sku: 'B00ODRSBPW-es'
 tags: [  ]
 actualPrice: 39.1 EUR
 currency: EUR

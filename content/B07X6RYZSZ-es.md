@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X6RYZSZ-es VEOMED® Dispositivo Anti Ronquidos eficaz | Stop Ronquidos...'
+sku: 'B07X6RYZSZ-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TKZ8WLX-es Medallero Colgador de Medallas – Porta Medallas con Marco...'
+sku: 'B07TKZ8WLX-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

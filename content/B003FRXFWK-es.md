@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003FRXFWK-es Logitech® Speakers Z130 - Black - Analog - PLUGC - EMEA - EU'
+sku: 'B003FRXFWK-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

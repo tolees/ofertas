@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0778LWNVF-es Team Kalorik Extractor de zumo con recipientes de 500 ml...'
+sku: 'B0778LWNVF-es'
 tags: [  ]
 actualPrice: 58.72 EUR
 currency: EUR

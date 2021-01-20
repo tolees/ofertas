@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06W55BPS4-es Procos - Vaso de plástico 200 ml Avengers Mighty...'
+sku: 'B06W55BPS4-es'
 tags: [  ]
 actualPrice: 2.49 EUR
 currency: EUR

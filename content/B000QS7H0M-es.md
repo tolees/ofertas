@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000QS7H0M-es SOLARAY® Zinc Citrate 50 60 VegCaps. Contribuye al normal...'
+sku: 'B000QS7H0M-es'
 tags: [  ]
 actualPrice: 9.21 EUR
 currency: EUR

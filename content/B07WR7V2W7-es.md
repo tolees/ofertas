@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WR7V2W7-es EKKONG Objetivo de Tiro Eléctrico Arma de Juguete de...'
+sku: 'B07WR7V2W7-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

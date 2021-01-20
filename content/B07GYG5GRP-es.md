@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GYG5GRP-es Smart ZigBee Outlet Plug para Echo Plus y ZigBee Bridge...'
+sku: 'B07GYG5GRP-es'
 tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR

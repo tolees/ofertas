@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0765B8YMB-es Honeywell Home Wi-Fi C2 Cámara Seguridad angular 145° en...'
+sku: 'B0765B8YMB-es'
 tags: [  ]
 actualPrice: 74.23 EUR
 currency: EUR

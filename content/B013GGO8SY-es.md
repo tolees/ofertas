@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013GGO8SY-es De Longhi Dolce Gusto Stelia EDG636.S - Cafetera de...'
+sku: 'B013GGO8SY-es'
 tags: [  ]
 actualPrice: 89.0 EUR
 currency: EUR

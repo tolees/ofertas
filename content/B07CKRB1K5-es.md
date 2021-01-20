@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CKRB1K5-es GearGo Purificador de Aire con Filtro Hepa Purificador de...'
+sku: 'B07CKRB1K5-es'
 tags: [  ]
 actualPrice: 28.77 EUR
 currency: EUR

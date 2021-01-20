@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071HV6MZ4-es Trilogía X-Men Original Blu-Ray [Blu-ray]'
+sku: 'B071HV6MZ4-es'
 tags: [  ]
 actualPrice: 15.21 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000MX59JC-es Casio Collection AQ-230A-7BMQYES Reloj Analógico-Digital...'
+sku: 'B000MX59JC-es'
 tags: [  ]
 actualPrice: 24.95 EUR
 currency: EUR

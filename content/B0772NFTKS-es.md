@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0772NFTKS-es Gazechimp 4 Piezas RC Tren de Rodaje de Drone para Hubsan...'
+sku: 'B0772NFTKS-es'
 tags: [  ]
 actualPrice: 5.97 EUR
 currency: EUR

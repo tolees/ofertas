@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P3JSX2R-es Superdry Storm Hybrid Ziphood Capucha Gris Silver Heather...'
+sku: 'B07P3JSX2R-es'
 tags: [  ]
 actualPrice: 61.99 EUR
 currency: EUR

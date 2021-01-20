@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S8GR1G6-es VITN Auricular Bluetooth 4.2 Invisible Mini Auricular In...'
+sku: 'B07S8GR1G6-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

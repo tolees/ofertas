@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BCN36FW-es Interruptor de reinicio del botón Interruptor de circuito...'
+sku: 'B08BCN36FW-es'
 tags: [  ]
 actualPrice: 78.0 EUR
 currency: EUR

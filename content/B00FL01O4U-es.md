@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FL01O4U-es Elli Collares Solitär Basic Swarovski® Kristalle 925 Silber'
+sku: 'B00FL01O4U-es'
 tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR

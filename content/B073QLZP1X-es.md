@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073QLZP1X-es Onnea 30 Pares Set Stud Pendientes Cristales Perla Bola...'
+sku: 'B073QLZP1X-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

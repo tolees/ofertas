@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XAH5HA8-es Albal Papel de aluminio extra-resistente fácil de cortar 10 m'
+sku: 'B00XAH5HA8-es'
 tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR

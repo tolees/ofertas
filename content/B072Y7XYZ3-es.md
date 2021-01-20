@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072Y7XYZ3-es New Balance Mrl420 Zapatillas de Running para Hombre Negro...'
+sku: 'B072Y7XYZ3-es'
 tags: [  ]
 actualPrice: 31.21 EUR
 currency: EUR

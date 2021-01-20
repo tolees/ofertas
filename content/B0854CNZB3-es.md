@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0854CNZB3-es CE-Link para Funda Xiaomi Redmi Note 8T Carcasa Fundas 360...'
+sku: 'B0854CNZB3-es'
 tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR

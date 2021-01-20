@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JMQWDMQ-es Biotherm Sun Brume Solaire Dry Touch SPF50 Protector Solar...'
+sku: 'B00JMQWDMQ-es'
 tags: [  ]
 actualPrice: 15.29 EUR
 currency: EUR

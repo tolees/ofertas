@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00YCF7D86-es Max Factor Skin Luminizer Foundation 47 Nude Podkład do...'
+sku: 'B00YCF7D86-es'
 tags: [  ]
 actualPrice: 3.94 EUR
 currency: EUR

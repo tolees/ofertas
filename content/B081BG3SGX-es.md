@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081BG3SGX-es Asics Gel Quantum 180 5 Sr Zapatillas de Running para...'
+sku: 'B081BG3SGX-es'
 tags: [  ]
 actualPrice: 71.16 EUR
 currency: EUR

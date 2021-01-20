@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FC4EW80-es Contour XT Glucómetro'
+sku: 'B00FC4EW80-es'
 tags: [  ]
 actualPrice: 16.0 EUR
 currency: EUR

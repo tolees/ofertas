@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C8XW8X2-es Valkyria Chronicles 4 - Switch'
+sku: 'B07C8XW8X2-es'
 tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR

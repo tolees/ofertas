@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005OYBRCW-es Roncato Maleta Pequeña XS Rigida Light - Cabina cm. 55 x...'
+sku: 'B005OYBRCW-es'
 tags: [  ]
 actualPrice: 90.3 EUR
 currency: EUR

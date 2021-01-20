@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084Y1NH6F-es Rettos - Zapatillas Bajas Hombre Afelpado/NAPA GRABADA...'
+sku: 'B084Y1NH6F-es'
 tags: [  ]
 actualPrice: 54.6 EUR
 currency: EUR

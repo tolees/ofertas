@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BIO5Z2U-es Daniel Wellington Reloj con Correa de Acero para Hombre...'
+sku: 'B00BIO5Z2U-es'
 tags: [  ]
 actualPrice: 73.57 EUR
 currency: EUR

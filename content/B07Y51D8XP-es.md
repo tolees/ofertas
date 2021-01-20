@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y51D8XP-es Carcasa compatible con Samsung Galaxy S10E funda de...'
+sku: 'B07Y51D8XP-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M7DNWMQ-es Hackett Amr Long Contrast Paraguas Navy/Red 5dc Talla...'
+sku: 'B07M7DNWMQ-es'
 tags: [  ]
 actualPrice: 13.65 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UYJF0BQ-es Rimmel London Oh My Gloss! Brillo de Labios Tono 150...'
+sku: 'B00UYJF0BQ-es'
 tags: [  ]
 actualPrice: 3.8 EUR
 currency: EUR

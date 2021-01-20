@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0789FRLZH-es Reebok Dmxride Comfort 4.0 Zapatillas de Deporte para...'
+sku: 'B0789FRLZH-es'
 tags: [  ]
 actualPrice: 29 EUR
 currency: EUR

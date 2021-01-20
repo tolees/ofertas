@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CJLMVMH-es Only Onlelcos 4/5 Top Jrs Noos suéter Gris Night Sky AOP:...'
+sku: 'B07CJLMVMH-es'
 tags: [  ]
 actualPrice: 13.95 EUR
 currency: EUR

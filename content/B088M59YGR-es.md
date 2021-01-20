@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088M59YGR-es Suhctup Funda Compatible con Samsung Galaxy S10+ Plus...'
+sku: 'B088M59YGR-es'
 tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR

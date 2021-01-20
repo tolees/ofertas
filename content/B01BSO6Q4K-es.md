@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BSO6Q4K-es Philips Pro HPS930/40 - Plancha de Pelo Profesional Placas...'
+sku: 'B01BSO6Q4K-es'
 tags: [  ]
 actualPrice: 55.25 EUR
 currency: EUR

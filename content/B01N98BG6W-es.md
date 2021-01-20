@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N98BG6W-es PawHut Inodoro de Bandeja para Perros Césped Artificial 3...'
+sku: 'B01N98BG6W-es'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

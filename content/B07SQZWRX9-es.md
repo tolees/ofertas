@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SQZWRX9-es Lacoste Carnaby EVO 120 6 Us SFA Zapatillas para Mujer...'
+sku: 'B07SQZWRX9-es'
 tags: [  ]
 actualPrice: 54.76 EUR
 currency: EUR

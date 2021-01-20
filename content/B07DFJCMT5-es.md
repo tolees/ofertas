@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFJCMT5-es Funko-Pop Heroes: Aquaman-Arthur Curry as Gladiator DC...'
+sku: 'B07DFJCMT5-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVKYZXC-es Napapijri Eisberg SS Polo Blanco Bright White 002 Small...'
+sku: 'B07MVKYZXC-es'
 tags: [  ]
 actualPrice: 23.21 EUR
 currency: EUR

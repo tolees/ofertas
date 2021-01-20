@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XV4PLBH-es 3 Piezas Baberos Bebés Impermeables Manga Larga De Dibujos...'
+sku: 'B06XV4PLBH-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P7VKTGH-es Axe Dark Temptation Pack Duplo Ahorro - 2 Paquetes de 2 x...'
+sku: 'B07P7VKTGH-es'
 tags: [  ]
 actualPrice: 8.48 EUR
 currency: EUR

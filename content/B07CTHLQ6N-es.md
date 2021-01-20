@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CTHLQ6N-es E·Durable 51pcs Mini Taladro Manual Kit Taladro Mano...'
+sku: 'B07CTHLQ6N-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

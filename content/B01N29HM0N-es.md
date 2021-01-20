@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N29HM0N-es Epson Workforce DS-770 - Escáner 215 9 x 215 9 mm 600 x...'
+sku: 'B01N29HM0N-es'
 tags: [  ]
 actualPrice: 514.26 EUR
 currency: EUR

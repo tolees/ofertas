@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TYQN5TV-es Gant Preptown Zapatillas para Mujer Rosa Blossom Pink G583...'
+sku: 'B07TYQN5TV-es'
 tags: [  ]
 actualPrice: 32.29 EUR
 currency: EUR

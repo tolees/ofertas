@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W131QZN-es Call of Duty: Modern Warfare - Steelbook [enthält kein...'
+sku: 'B07W131QZN-es'
 tags: [  ]
 actualPrice: 9.06 EUR
 currency: EUR

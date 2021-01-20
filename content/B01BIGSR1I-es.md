@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BIGSR1I-es WD 12TB My Cloud EX2 Ultra Almacenamiento en red'
+sku: 'B01BIGSR1I-es'
 tags: [  ]
 actualPrice: 456.63 EUR
 currency: EUR
@@ -26,9 +27,9 @@ Está [WD 12TB My Cloud EX2 Ultra Almacenamiento en red](https://www.amazon.es/d
 
 ℹ️:
 
+- 1 GB de memoria DDR3 para poder realizar varias tareas con facilidad
 - Sincronización automática de archivos en todos sus ordenadores
 - Almacenamiento en red centralizado y acceso desde cualquier lugar
-- 1 GB de memoria DDR3 para poder realizar varias tareas con facilidad
 - Procesador de dos núcleos de alto rendimiento a 1,3 GHz para una transmisión sin interrupciones
 - Equipado con My Cloud OS 3
 

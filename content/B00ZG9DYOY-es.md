@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ZG9DYOY-es BERING Reloj Analógico para Mujer de Cuarzo con Correa en...'
+sku: 'B00ZG9DYOY-es'
 tags: [  ]
 actualPrice: 89.95 EUR
 currency: EUR

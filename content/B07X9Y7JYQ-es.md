@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X9Y7JYQ-es WILDKEN Pantalones Cortos de Protección para Niños...'
+sku: 'B07X9Y7JYQ-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

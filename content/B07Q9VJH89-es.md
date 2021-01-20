@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q9VJH89-es Ufesa FF1450 - Ventilador de Pie 45cm diámetro Potente...'
+sku: 'B07Q9VJH89-es'
 tags: [  ]
 actualPrice: 67.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000G4NKBQ-es adidas Samba Classic Schwarz-weiÃ Zapatillas de Fútbol...'
+sku: 'B000G4NKBQ-es'
 tags: [  ]
 actualPrice: 25.95 EUR
 currency: EUR

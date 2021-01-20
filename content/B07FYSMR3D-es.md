@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FYSMR3D-es Wrangler Boyfriend Short Pantalones cortos Gris Icy Grey...'
+sku: 'B07FYSMR3D-es'
 tags: [  ]
 actualPrice: 13.6 EUR
 currency: EUR

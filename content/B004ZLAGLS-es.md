@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004ZLAGLS-es OXO Good Grips 1312480V1MLNYK Cepillo Eléctrico para...'
+sku: 'B004ZLAGLS-es'
 tags: [  ]
 actualPrice: 12.85 EUR
 currency: EUR

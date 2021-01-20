@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X5G14WY-es Case Logic HDC11B - Funda rígida para Disco Duro de 2.5"...'
+sku: 'B00X5G14WY-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

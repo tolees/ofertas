@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074S8LZ7B-es Victorem Set de Bandas elásticas – Entrenamiento de...'
+sku: 'B074S8LZ7B-es'
 tags: [  ]
 actualPrice: 17.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TSQ9C59-es Skechers Delson 2.0 Kemper Zapatillas para Hombre Azul...'
+sku: 'B07TSQ9C59-es'
 tags: [  ]
 actualPrice: 37.44 EUR
 currency: EUR

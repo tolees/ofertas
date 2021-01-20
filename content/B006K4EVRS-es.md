@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006K4EVRS-es Darphin Crema corporal - 50 ml.'
+sku: 'B006K4EVRS-es'
 tags: [  ]
 actualPrice: 34.25 EUR
 currency: EUR

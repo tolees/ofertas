@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BKW1ZVG-es Reloj para hombre brújula altímetro barómetro termómetro...'
+sku: 'B07BKW1ZVG-es'
 tags: [  ]
 actualPrice: 55.16 EUR
 currency: EUR

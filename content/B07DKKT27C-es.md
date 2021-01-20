@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DKKT27C-es Kipling - Silen Bolsos bandolera Mujer Gris Active Grey Bl'
+sku: 'B07DKKT27C-es'
 tags: [  ]
 actualPrice: 51.0 EUR
 currency: EUR

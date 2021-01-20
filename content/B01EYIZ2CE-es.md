@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EYIZ2CE-es Yazilind oro 18K plateado cuelga los pendientes de aro...'
+sku: 'B01EYIZ2CE-es'
 tags: [  ]
 actualPrice: 3.29 EUR
 currency: EUR

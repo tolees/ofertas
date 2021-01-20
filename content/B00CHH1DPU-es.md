@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CHH1DPU-es Habitdesign - Mesa de Centro elevable Salon Comedor...'
+sku: 'B00CHH1DPU-es'
 tags: [  ]
 actualPrice: 64.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BR5B62Q-es L Oreal Paris Colorista Hair Make Up Chocolate Rose'
+sku: 'B07BR5B62Q-es'
 tags: [  ]
 actualPrice: 1.99 EUR
 currency: EUR

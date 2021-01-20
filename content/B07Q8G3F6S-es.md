@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q8G3F6S-es Tensiómetro de Brazo Digital Recargable USB Monitor...'
+sku: 'B07Q8G3F6S-es'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

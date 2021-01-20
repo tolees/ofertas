@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0034B5JAS-es Beurer Bs49 - Espejo Maquillaje con Luz Led Brillante 12...'
+sku: 'B0034B5JAS-es'
 tags: [  ]
 actualPrice: 18.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PFN6RR8-es Columbia Street Elite Bolsa De Viaje Convertible Unisex...'
+sku: 'B07PFN6RR8-es'
 tags: [  ]
 actualPrice: 53.56 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081WPY6DB-es El Ministerio del Tiempo - Temporadas 1 a 3 [Blu-ray]'
+sku: 'B081WPY6DB-es'
 tags: [  ]
 actualPrice: 37.32 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007RYU6W4-es Food Saver FoodSaver FSFSMA0050-050 1 W Plástico white'
+sku: 'B007RYU6W4-es'
 tags: [  ]
 actualPrice: 11.0 EUR
 currency: EUR

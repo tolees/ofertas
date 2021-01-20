@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072N8CZ7J-es Funko Pop! - Figura de Vinilo Liz Sherman 22718'
+sku: 'B072N8CZ7J-es'
 tags: [  ]
 actualPrice: 2.79 EUR
 currency: EUR

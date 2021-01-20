@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0129ZKAEO-es Bulova Marine Star 98B258 - Reloj de pulsera de diseño...'
+sku: 'B0129ZKAEO-es'
 tags: [  ]
 actualPrice: 253.61 EUR
 currency: EUR

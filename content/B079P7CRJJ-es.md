@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079P7CRJJ-es Nike W Nk Dry Acdmy18 Top SS T-Shirt Mujer lt Green...'
+sku: 'B079P7CRJJ-es'
 tags: [  ]
 actualPrice: 12.55 EUR
 currency: EUR

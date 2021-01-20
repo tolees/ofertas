@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0143RAOF6-es Matrix Total Results High Amplify Wonder Boost - Cuidado...'
+sku: 'B0143RAOF6-es'
 tags: [  ]
 actualPrice: 7.28 EUR
 currency: EUR

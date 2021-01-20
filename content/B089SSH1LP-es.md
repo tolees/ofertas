@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089SSH1LP-es Auriculares inalámbricos Bluetooth Auriculares...'
+sku: 'B089SSH1LP-es'
 tags: [  ]
 actualPrice: 14.98 EUR
 currency: EUR

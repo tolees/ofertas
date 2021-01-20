@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NY5NGBK-es JASHKE Disfraz Dinosaurio Inflable Adulto Traje Dinosaurio...'
+sku: 'B07NY5NGBK-es'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG17T3N-es PUMA NRGY Comet Zapatillas de Running Unisex Adulto...'
+sku: 'B07KG17T3N-es'
 tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR

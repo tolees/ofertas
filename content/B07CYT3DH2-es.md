@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CYT3DH2-es Surenhap Espejo retrovisor LED de Bebé Acrílico con...'
+sku: 'B07CYT3DH2-es'
 tags: [  ]
 actualPrice: 23.75 EUR
 currency: EUR

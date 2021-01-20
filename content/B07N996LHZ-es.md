@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N996LHZ-es ASUS ROG Strix GL704GM-EV009 - Portátil Gaming 17.3" FHD...'
+sku: 'B07N996LHZ-es'
 tags: [  ]
 actualPrice: 999.99 EUR
 currency: EUR

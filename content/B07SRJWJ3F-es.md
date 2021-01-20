@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SRJWJ3F-es Reebok Flexagon Energy MT Zapatillas de Gimnasia para...'
+sku: 'B07SRJWJ3F-es'
 tags: [  ]
 actualPrice: 20.44 EUR
 currency: EUR

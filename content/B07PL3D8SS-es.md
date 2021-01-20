@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PL3D8SS-es Nike Todos Zapatillas de Entrenamiento para Hombre Blanco...'
+sku: 'B07PL3D8SS-es'
 tags: [  ]
 actualPrice: 32.82 EUR
 currency: EUR

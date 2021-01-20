@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q15PFYF-es L Oreal Paris Color Queen Mono Sombra de Ojos Alta...'
+sku: 'B07Q15PFYF-es'
 tags: [  ]
 actualPrice: 3.5 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ZRDAMXK-es Purina Pro Plan Small & Mini Puppy Salmón para cachorros...'
+sku: 'B00ZRDAMXK-es'
 tags: [  ]
 actualPrice: 29.16 EUR
 currency: EUR

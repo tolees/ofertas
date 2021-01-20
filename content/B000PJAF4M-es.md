@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000PJAF4M-es Draper 90086 - Lote de rollos de cinta aislante 10 m x 19...'
+sku: 'B000PJAF4M-es'
 tags: [  ]
 actualPrice: 6.72 EUR
 currency: EUR

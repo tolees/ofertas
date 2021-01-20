@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JWXSNND-es G-STAR RAW 3301 Mid Waist Boyfriend Colored Vaqueros Azul...'
+sku: 'B07JWXSNND-es'
 tags: [  ]
 actualPrice: 15.55 EUR
 currency: EUR

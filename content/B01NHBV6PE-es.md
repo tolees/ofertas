@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NHBV6PE-es SanDisk Cruzer Blade- Memoria USB 2.0 Pack 3 Unidades de...'
+sku: 'B01NHBV6PE-es'
 tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR

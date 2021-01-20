@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XWTRJYX-es perfk Conector Macho 10pcs 4mm Banana Plug para Audio De...'
+sku: 'B07XWTRJYX-es'
 tags: [  ]
 actualPrice: 11.01 EUR
 currency: EUR

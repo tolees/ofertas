@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ZWF0NKU-es Muvit MUCHL0052 Coche - Soporte Teléfono móvil/Smartphone...'
+sku: 'B00ZWF0NKU-es'
 tags: [  ]
 actualPrice: 8.56 EUR
 currency: EUR

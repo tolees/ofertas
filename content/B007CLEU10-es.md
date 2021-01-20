@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007CLEU10-es Reebok Workout Plus Zapatillas de Deporte para Hombre...'
+sku: 'B007CLEU10-es'
 tags: [  ]
 actualPrice: 60.9 EUR
 currency: EUR

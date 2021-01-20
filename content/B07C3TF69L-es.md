@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C3TF69L-es Cocina SolThermic F9LT50G2-I INOX PORTABOMBONA de color...'
+sku: 'B07C3TF69L-es'
 tags: [  ]
 actualPrice: 144.99 EUR
 currency: EUR

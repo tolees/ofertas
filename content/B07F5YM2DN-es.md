@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F5YM2DN-es Cinturón de la cámara Uonner Hebilla del cinturón de...'
+sku: 'B07F5YM2DN-es'
 tags: [  ]
 actualPrice: 22.79 EUR
 currency: EUR

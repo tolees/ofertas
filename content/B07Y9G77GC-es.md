@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y9G77GC-es CRZ YOGA Mujer Mallas Deportivo Pantalón Elastico para...'
+sku: 'B07Y9G77GC-es'
 tags: [  ]
 actualPrice: 18.0 EUR
 currency: EUR

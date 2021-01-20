@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G9NS1NP-es Seiko Reloj analogico para Hombre de Automático con Correa...'
+sku: 'B07G9NS1NP-es'
 tags: [  ]
 actualPrice: 189.15 EUR
 currency: EUR

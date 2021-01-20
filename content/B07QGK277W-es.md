@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QGK277W-es Adidas Tensaur C Unisex Niño Multicolor...'
+sku: 'B07QGK277W-es'
 tags: [  ]
 actualPrice: 11.01 EUR
 currency: EUR

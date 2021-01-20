@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073GD51JJ-es Cafetera Expreso de Acero Emilia 1140 W 15 Bares 1 5 L con...'
+sku: 'B073GD51JJ-es'
 tags: [  ]
 actualPrice: 79 EUR
 currency: EUR

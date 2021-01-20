@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083KLMKCZ-es Scholl Plantillas Gelactiv Uso Diario Hombre + Crema de...'
+sku: 'B083KLMKCZ-es'
 tags: [  ]
 actualPrice: 16.95 EUR
 currency: EUR

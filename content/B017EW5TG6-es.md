@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017EW5TG6-es ORICO USB Adaptador Bluetooth 4.0 Adaptador Bluetooth USB...'
+sku: 'B017EW5TG6-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

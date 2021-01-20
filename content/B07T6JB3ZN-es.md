@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T6JB3ZN-es Orbegozo ADR 126 – Aire Acondicionado portátil con Bomba...'
+sku: 'B07T6JB3ZN-es'
 tags: [  ]
 actualPrice: 429.25 EUR
 currency: EUR

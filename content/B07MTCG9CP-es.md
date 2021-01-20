@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MTCG9CP-es Napapijri Mana WINT Pantalones Gris DARK GREY SOLID 198...'
+sku: 'B07MTCG9CP-es'
 tags: [  ]
 actualPrice: 49.5 EUR
 currency: EUR

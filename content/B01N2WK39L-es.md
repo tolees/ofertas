@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N2WK39L-es adidas 6Pcap Ltwgt Emb Gorra de Tenis Hombre Negro...'
+sku: 'B01N2WK39L-es'
 tags: [  ]
 actualPrice: 7.48 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KR1KYDD-es NIKE Brasilia Bolsa de Gimnasio Unisex Adulto Rosa Rush...'
+sku: 'B07KR1KYDD-es'
 tags: [  ]
 actualPrice: 14.36 EUR
 currency: EUR

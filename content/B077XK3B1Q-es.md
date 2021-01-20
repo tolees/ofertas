@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077XK3B1Q-es Under Armour HG Armour 2.0 Comp Short Pantalónes Cortos...'
+sku: 'B077XK3B1Q-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

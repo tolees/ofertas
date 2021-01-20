@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DKFJCDP-es Relaxdays Silla Oficina Ergonómica Regulable Azul 102 x 55...'
+sku: 'B07DKFJCDP-es'
 tags: [  ]
 actualPrice: 49.9 EUR
 currency: EUR

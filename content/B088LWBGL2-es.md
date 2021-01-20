@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088LWBGL2-es sumgott - Soporte para monitor de madera para monitor...'
+sku: 'B088LWBGL2-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

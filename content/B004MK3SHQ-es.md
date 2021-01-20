@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004MK3SHQ-es Joseph & Joseph Vinilo Tomate - Tabla de cristal'
+sku: 'B004MK3SHQ-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

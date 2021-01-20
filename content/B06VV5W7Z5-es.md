@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06VV5W7Z5-es Procos mantel plástico 120 x 180 cm Avengers Mighty...'
+sku: 'B06VV5W7Z5-es'
 tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR

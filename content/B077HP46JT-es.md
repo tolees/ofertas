@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077HP46JT-es find. PHRM3300 Suéter Morado Lilac 42 Talla del...'
+sku: 'B077HP46JT-es'
 tags: [  ]
 actualPrice: 8.7 EUR
 currency: EUR

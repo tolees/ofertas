@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DG35KZ7-es Gioseppo Zapatillas para Hombre Verde Kaki 45574-P 43 EU'
+sku: 'B07DG35KZ7-es'
 tags: [  ]
 actualPrice: 24.95 EUR
 currency: EUR

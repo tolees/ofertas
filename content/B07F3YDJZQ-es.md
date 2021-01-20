@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F3YDJZQ-es Casio Reloj de Pulsera LA670WEGD-1EF'
+sku: 'B07F3YDJZQ-es'
 tags: [  ]
 actualPrice: 36.9 EUR
 currency: EUR

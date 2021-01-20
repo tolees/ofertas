@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074P2DYNX-es MAX-T RMS6101 Afeitadora Eléctrica para Hombres IPX7 100%...'
+sku: 'B074P2DYNX-es'
 tags: [  ]
 actualPrice: 18.47 EUR
 currency: EUR

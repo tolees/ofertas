@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074L4KBXJ-es Skechers Women 12615 Low-Top Trainers Blue Navy Mesh/Hot...'
+sku: 'B074L4KBXJ-es'
 tags: [  ]
 actualPrice: 34.95 EUR
 currency: EUR

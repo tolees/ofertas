@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H54SATQ-es Philips Optimal Temp GC9410/60 - Centro de Planchado de...'
+sku: 'B01H54SATQ-es'
 tags: [  ]
 actualPrice: 199.0 EUR
 currency: EUR

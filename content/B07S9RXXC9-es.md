@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S9RXXC9-es PUMA LQDCELL Shatter TR FM WN S Zapatillas Deportivas para...'
+sku: 'B07S9RXXC9-es'
 tags: [  ]
 actualPrice: 45.46 EUR
 currency: EUR

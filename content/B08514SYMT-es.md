@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08514SYMT-es Mascarillas mascarillas desechables antivirus corta saliva...'
+sku: 'B08514SYMT-es'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFBSH1H-es Key chain Pop Tomb Raider Llavero Funko Lara Croft Color...'
+sku: 'B07DFBSH1H-es'
 tags: [  ]
 actualPrice: 3.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003BU90CK-es Wolfcraft 4135000 4135000-1 cúter de Seguridad de plástico...'
+sku: 'B003BU90CK-es'
 tags: [  ]
 actualPrice: 1.2 EUR
 currency: EUR

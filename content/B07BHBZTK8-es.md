@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BHBZTK8-es Arteza Cuadernos de dibujo de tapa dura | Pack de 2 | 100...'
+sku: 'B07BHBZTK8-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

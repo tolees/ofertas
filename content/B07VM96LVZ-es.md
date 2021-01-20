@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VM96LVZ-es Discos de Lija 120 Piezas 125 mm 5" a 8 agujeros 24* grano...'
+sku: 'B07VM96LVZ-es'
 tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00M2WITNY-es Helly Hansen THE FORESTER Botas de nieve para Hombre Negro...'
+sku: 'B00M2WITNY-es'
 tags: [  ]
 actualPrice: 57.27 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076ZLRF4W-es Lictin 3 Pack baberos suave de silicona impermeables para...'
+sku: 'B076ZLRF4W-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

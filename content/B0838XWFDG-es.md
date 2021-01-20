@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0838XWFDG-es Grifo de Cocina Dalmo DBKF09KY Grifo Cocina Giratorio a...'
+sku: 'B0838XWFDG-es'
 tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR

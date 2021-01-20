@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081DV2TCV-es KingYH 10M Cable Eléctrico Transparente 2 Núcleos 0 75 mm²...'
+sku: 'B081DV2TCV-es'
 tags: [  ]
 actualPrice: 15.29 EUR
 currency: EUR

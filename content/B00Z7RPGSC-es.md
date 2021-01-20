@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00Z7RPGSC-es LifeProof Fre - Funda estanca y Anti caídas para Apple...'
+sku: 'B00Z7RPGSC-es'
 tags: [  ]
 actualPrice: 23.98 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W45KX6X-es Funko- Huckleberry-Pop 10 Collectible Toy Multicolor 45542'
+sku: 'B07W45KX6X-es'
 tags: [  ]
 actualPrice: 8.92 EUR
 currency: EUR

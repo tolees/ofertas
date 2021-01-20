@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PVQNL3C-es Under Armour UA W Charged Aurora Zapatillas Deportivas...'
+sku: 'B07PVQNL3C-es'
 tags: [  ]
 actualPrice: 36.32 EUR
 currency: EUR

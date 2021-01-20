@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TTWZ4KQ-es Piz Buin Allergy Protector Solar Facial SPF 50+ Protección...'
+sku: 'B00TTWZ4KQ-es'
 tags: [  ]
 actualPrice: 8.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00N76LDBE-es NILFISK GM80 Aspirador icónico de Trineo con o sin Bolsa...'
+sku: 'B00N76LDBE-es'
 tags: [  ]
 actualPrice: 372.92 EUR
 currency: EUR

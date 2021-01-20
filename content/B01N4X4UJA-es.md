@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N4X4UJA-es Ymea Menopausia Vientre Plano - Ayuda a aliviar los...'
+sku: 'B01N4X4UJA-es'
 tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR

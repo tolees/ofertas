@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WHWDYTY-es MYMISS San Valentín Regalos pendientes mujer plata...'
+sku: 'B07WHWDYTY-es'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

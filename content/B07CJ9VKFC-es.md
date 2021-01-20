@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CJ9VKFC-es TianMai Caliente Nueva DIY 5D Kit de Pintura Taladro...'
+sku: 'B07CJ9VKFC-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

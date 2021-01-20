@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QD4GMMF-es La Toja Selection - Gel de ducha Exfoliante con Sales...'
+sku: 'B07QD4GMMF-es'
 tags: [  ]
 actualPrice: 2.39 EUR
 currency: EUR

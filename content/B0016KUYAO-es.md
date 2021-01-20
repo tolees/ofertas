@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0016KUYAO-es Westinghouse Lighting Turbo Swirl Ventilador de Techo E14...'
+sku: 'B0016KUYAO-es'
 tags: [  ]
 actualPrice: 64.0 EUR
 currency: EUR

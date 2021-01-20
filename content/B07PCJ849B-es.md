@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PCJ849B-es Memoria USB 2GB 2.0 KOOTION Flash Drive USB Pendrives Pack...'
+sku: 'B07PCJ849B-es'
 tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR

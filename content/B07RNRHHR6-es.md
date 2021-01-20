@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RNRHHR6-es Belkin Boost Up - Soporte de Carga Inalámbrica para Coche...'
+sku: 'B07RNRHHR6-es'
 tags: [  ]
 actualPrice: 44.32 EUR
 currency: EUR

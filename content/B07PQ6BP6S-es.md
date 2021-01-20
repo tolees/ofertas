@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PQ6BP6S-es NETVIP Receptor Bluetooth Adaptador Audio Inalámbrico Kit...'
+sku: 'B07PQ6BP6S-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

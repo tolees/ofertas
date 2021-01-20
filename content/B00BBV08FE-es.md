@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BBV08FE-es Conceptronic CNBCOMLOCK18 - Candado de Seguridad para...'
+sku: 'B00BBV08FE-es'
 tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR

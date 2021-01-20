@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000VE41OG-es Casio WAVE CEPTOR Reloj Radiocontrolado Negro para Hombre...'
+sku: 'B000VE41OG-es'
 tags: [  ]
 actualPrice: 44.0 EUR
 currency: EUR

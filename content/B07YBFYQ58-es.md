@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YBFYQ58-es Calentador de Mano Recargable Calentador de Mano portátil...'
+sku: 'B07YBFYQ58-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZXCYJS-es Skechers Men s Status 2.0-Mosent Moccasins Blue Blue Blu...'
+sku: 'B07MZXCYJS-es'
 tags: [  ]
 actualPrice: 45.47 EUR
 currency: EUR

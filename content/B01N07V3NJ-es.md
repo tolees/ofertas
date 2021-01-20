@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N07V3NJ-es BabyVip - Body para niña Estilo Abotonado 100% algodón...'
+sku: 'B01N07V3NJ-es'
 tags: [  ]
 actualPrice: 26.2 EUR
 currency: EUR

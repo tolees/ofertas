@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078YG7HW4-es Lorus Reloj Digital para Unisex de Cuarzo con Correa en...'
+sku: 'B078YG7HW4-es'
 tags: [  ]
 actualPrice: 17.85 EUR
 currency: EUR

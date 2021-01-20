@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075MFW44D-es Marca Amazon - MERAKI Vaqueros Ceñidos de Tiro Alto Mujer...'
+sku: 'B075MFW44D-es'
 tags: [  ]
 actualPrice: 17.5 EUR
 currency: EUR

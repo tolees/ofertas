@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X9W70YU-es L Oréal Paris Sublime Mousse Coloración Permanente Tono:...'
+sku: 'B00X9W70YU-es'
 tags: [  ]
 actualPrice: 6.09 EUR
 currency: EUR

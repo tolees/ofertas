@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V5QPNBC-es Tommy Hilfiger Suede Hilfiger Boatshoe Mocasines para...'
+sku: 'B07V5QPNBC-es'
 tags: [  ]
 actualPrice: 39.07 EUR
 currency: EUR

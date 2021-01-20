@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KBJFGJH-es Funko- 5 Star: Aladdin: Jasmine 5 Estrellas Multicolor...'
+sku: 'B07KBJFGJH-es'
 tags: [  ]
 actualPrice: 8.25 EUR
 currency: EUR

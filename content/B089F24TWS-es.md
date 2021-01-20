@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089F24TWS-es SUAVINEX 306811 - Pack 2 Chupetes Nocturnos para bebés...'
+sku: 'B089F24TWS-es'
 tags: [  ]
 actualPrice: 6.85 EUR
 currency: EUR

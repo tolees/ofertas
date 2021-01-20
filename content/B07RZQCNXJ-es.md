@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZQCNXJ-es Viedouce 2 Paquetes Delantales Cintura Corta Delantal...'
+sku: 'B07RZQCNXJ-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

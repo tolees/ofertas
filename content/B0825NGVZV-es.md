@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0825NGVZV-es Quiksilver All Time - Licra De Manga Corta con Protección...'
+sku: 'B0825NGVZV-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

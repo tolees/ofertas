@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XBS1HDM-es KOPEKS Piscina Extra Grande Infantil Ideal para...'
+sku: 'B06XBS1HDM-es'
 tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR

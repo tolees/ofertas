@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LGKHBL1-es Mycartridge Tóner Compatible para HP 203x 203A...'
+sku: 'B07LGKHBL1-es'
 tags: [  ]
 actualPrice: 94.9 EUR
 currency: EUR

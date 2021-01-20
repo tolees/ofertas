@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01C45XNK2-es DIM Generous Sujetador Beige New Skin 90C para Mujer'
+sku: 'B01C45XNK2-es'
 tags: [  ]
 actualPrice: 23.95 EUR
 currency: EUR

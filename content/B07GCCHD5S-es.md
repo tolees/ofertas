@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GCCHD5S-es Tommee Tippee Juguete transpirable Eddy el Elefante'
+sku: 'B07GCCHD5S-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

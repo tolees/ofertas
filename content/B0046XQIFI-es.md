@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0046XQIFI-es GLOBE Sabre Zapatillas de Skateboarding para Hombre Negro...'
+sku: 'B0046XQIFI-es'
 tags: [  ]
 actualPrice: 79.34 EUR
 currency: EUR

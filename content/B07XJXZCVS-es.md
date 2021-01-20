@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XJXZCVS-es Konesky Fabricante de Fideos de Acero Inoxidable Máquina...'
+sku: 'B07XJXZCVS-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

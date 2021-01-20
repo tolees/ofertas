@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CP1QDN4-es Sierra de Mano Plegable TIBURÓN GRÜNTEK. Serrucho de poda...'
+sku: 'B01CP1QDN4-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

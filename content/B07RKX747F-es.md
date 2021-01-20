@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RKX747F-es Denon AVR-S650H 5.2 - Receptor AV de Red 4 K Wi-Fi...'
+sku: 'B07RKX747F-es'
 tags: [  ]
 actualPrice: 355.99 EUR
 currency: EUR

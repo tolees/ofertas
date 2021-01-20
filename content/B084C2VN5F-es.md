@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084C2VN5F-es DYNASONIC - Dynapro8 TWS - Altavoz Inalámbrico Sistema...'
+sku: 'B084C2VN5F-es'
 tags: [  ]
 actualPrice: 89.0 EUR
 currency: EUR

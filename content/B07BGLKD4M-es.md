@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BGLKD4M-es HyperX Impact DDR4 HX432S20IBK2/32 Memoria RAM 3200MHz...'
+sku: 'B07BGLKD4M-es'
 tags: [  ]
 actualPrice: 139.0 EUR
 currency: EUR

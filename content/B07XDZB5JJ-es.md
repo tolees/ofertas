@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XDZB5JJ-es Trust Yvi Ratón inalámbrico - Multicolor'
+sku: 'B07XDZB5JJ-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

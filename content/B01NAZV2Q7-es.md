@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NAZV2Q7-es Nixon Reloj Analogico para Unisex de Cuarzo con Correa en...'
+sku: 'B01NAZV2Q7-es'
 tags: [  ]
 actualPrice: 102.0 EUR
 currency: EUR

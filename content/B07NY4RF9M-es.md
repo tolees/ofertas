@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NY4RF9M-es PONY DANCE Cortinas Termicas Exterior - Cortinas Blancas...'
+sku: 'B07NY4RF9M-es'
 tags: [  ]
 actualPrice: 48.95 EUR
 currency: EUR

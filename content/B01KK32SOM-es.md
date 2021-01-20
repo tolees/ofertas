@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KK32SOM-es K nex Noria Revolution 344 Piezas 41212'
+sku: 'B01KK32SOM-es'
 tags: [  ]
 actualPrice: 21.0 EUR
 currency: EUR

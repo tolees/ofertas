@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077QLCWLV-es Lotus Watches Reloj Análogo clásico para Hombre de Cuarzo...'
+sku: 'B077QLCWLV-es'
 tags: [  ]
 actualPrice: 35.63 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077G5VPMK-es Brother HLL2370DN - Impresora láser monocromo con red y...'
+sku: 'B077G5VPMK-es'
 tags: [  ]
 actualPrice: 95.99 EUR
 currency: EUR

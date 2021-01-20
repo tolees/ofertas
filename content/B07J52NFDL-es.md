@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J52NFDL-es Cincobebé Sistema Antiescape Evita que el Niño Saque los...'
+sku: 'B07J52NFDL-es'
 tags: [  ]
 actualPrice: 12.59 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P9QVXPK-es Abreventanas de Invernadero automático Sensible al Calor...'
+sku: 'B07P9QVXPK-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JB1SW7B-es MEDION ERAZER P6705 - Portátil gaming 15.6" FullHD Intel...'
+sku: 'B07JB1SW7B-es'
 tags: [  ]
 actualPrice: 589.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DWS5HC4-es SIMMAX Memorias USB 5 Piezas 16GB USB 2.0 Stick Giratoria...'
+sku: 'B07DWS5HC4-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

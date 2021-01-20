@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q3Y5J5T-es DataOcean 2 Piezas USB 2.0 64GB Memorias USB PenDrives...'
+sku: 'B07Q3Y5J5T-es'
 tags: [  ]
 actualPrice: 11.19 EUR
 currency: EUR

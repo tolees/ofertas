@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MCYDDQI-es Blood Rage Bogowie Asgardu'
+sku: 'B01MCYDDQI-es'
 tags: [  ]
 actualPrice: 13.38 EUR
 currency: EUR

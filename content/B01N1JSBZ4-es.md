@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N1JSBZ4-es PRO PRBT0018 - Bote Porta Herramientas Negro'
+sku: 'B01N1JSBZ4-es'
 tags: [  ]
 actualPrice: 2.85 EUR
 currency: EUR

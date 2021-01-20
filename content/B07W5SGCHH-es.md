@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W5SGCHH-es Bonamana Estuche para lápices diseño de Anime doble capa...'
+sku: 'B07W5SGCHH-es'
 tags: [  ]
 actualPrice: 14.88 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YF7ZL86-es Bigherdez 1 unid Tatuaje Falso Manga elástica del Brazo...'
+sku: 'B07YF7ZL86-es'
 tags: [  ]
 actualPrice: 2.06 EUR
 currency: EUR

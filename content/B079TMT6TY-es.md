@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079TMT6TY-es Funko- Black Panther T Challa Figura de Vinilo -...'
+sku: 'B079TMT6TY-es'
 tags: [  ]
 actualPrice: 8.49 EUR
 currency: EUR

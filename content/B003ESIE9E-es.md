@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003ESIE9E-es Zeller 13143 - Cajón multiusos de madera blanda conífera...'
+sku: 'B003ESIE9E-es'
 tags: [  ]
 actualPrice: 8.95 EUR
 currency: EUR

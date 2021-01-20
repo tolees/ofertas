@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084RK39PX-es Adoric Báscula Diagnóstico Digital Inalámbrico para iOS y...'
+sku: 'B084RK39PX-es'
 tags: [  ]
 actualPrice: 20.84 EUR
 currency: EUR

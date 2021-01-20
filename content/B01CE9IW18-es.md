@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CE9IW18-es Italian Bed Linen Più Bello Funda Cubre Sofá Poliéster...'
+sku: 'B01CE9IW18-es'
 tags: [  ]
 actualPrice: 27.56 EUR
 currency: EUR

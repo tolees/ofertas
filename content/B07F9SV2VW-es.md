@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F9SV2VW-es Unidad Flash Lexar JumpDrive S75 USB 3.0 64 GB [Embalaje...'
+sku: 'B07F9SV2VW-es'
 tags: [  ]
 actualPrice: 11.9 EUR
 currency: EUR

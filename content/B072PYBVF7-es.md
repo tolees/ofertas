@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072PYBVF7-es Sortija Tommy Hilfiger 3 piezas acero inoxidable talla 13...'
+sku: 'B072PYBVF7-es'
 tags: [  ]
 actualPrice: 46.9 EUR
 currency: EUR

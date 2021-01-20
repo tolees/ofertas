@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00V0HI4PK-es Cargador rápido modular Samsung – 2 amperios con cable de...'
+sku: 'B00V0HI4PK-es'
 tags: [  ]
 actualPrice: 11.0 EUR
 currency: EUR

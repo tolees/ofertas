@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072KKDKVK-es Vibram Fivefingers KSO EVO Zapatillas de Deporte para...'
+sku: 'B072KKDKVK-es'
 tags: [  ]
 actualPrice: 67.99 EUR
 currency: EUR

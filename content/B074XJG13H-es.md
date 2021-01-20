@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074XJG13H-es Sharplace 2 Pares CW CCW Piezas de Recambio Portátiles...'
+sku: 'B074XJG13H-es'
 tags: [  ]
 actualPrice: 7.77 EUR
 currency: EUR

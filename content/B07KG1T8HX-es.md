@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG1T8HX-es 4 UNIDS/SET Universal Car SUV Asiento Trasero...'
+sku: 'B07KG1T8HX-es'
 tags: [  ]
 actualPrice: 4.56 EUR
 currency: EUR

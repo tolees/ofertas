@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H6LRY9Y-es TiooDre Cargador USB 60W 10 Puertos USB rápido Cargador de...'
+sku: 'B07H6LRY9Y-es'
 tags: [  ]
 actualPrice: 11.29 EUR
 currency: EUR

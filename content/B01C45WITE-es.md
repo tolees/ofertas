@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01C45WITE-es Bourjois Radiance Reveal Corrector Tono 03 Dark beige - 29...'
+sku: 'B01C45WITE-es'
 tags: [  ]
 actualPrice: 3.47 EUR
 currency: EUR

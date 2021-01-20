@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PVQKRWM-es Under Armour UA W Charged Escape 3 Zapatillas de Running...'
+sku: 'B07PVQKRWM-es'
 tags: [  ]
 actualPrice: 38.24 EUR
 currency: EUR

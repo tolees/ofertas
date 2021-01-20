@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076Q8SYJ4-es Esprit Rachel Padded Bra Sujetador Negro Black 001 100C...'
+sku: 'B076Q8SYJ4-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

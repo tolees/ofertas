@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H0OH4HA-es LEDKIA LIGHTING Pack Placas LED Circular SuperSlim 18W 2...'
+sku: 'B01H0OH4HA-es'
 tags: [  ]
 actualPrice: 12.45 EUR
 currency: EUR

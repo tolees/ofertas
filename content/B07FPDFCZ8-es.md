@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FPDFCZ8-es LEMCASE Tijeras de Cocina Scissors Multiuso - Cuchilla de...'
+sku: 'B07FPDFCZ8-es'
 tags: [  ]
 actualPrice: 11.0 EUR
 currency: EUR

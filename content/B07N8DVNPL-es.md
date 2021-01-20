@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N8DVNPL-es Orient Reloj Analógico para Hombre de Automático con...'
+sku: 'B07N8DVNPL-es'
 tags: [  ]
 actualPrice: 91.51 EUR
 currency: EUR

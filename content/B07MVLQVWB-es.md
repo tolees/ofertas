@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVLQVWB-es Napapijri Eils SS Polo Azul Clematis Blue VB1 Large para...'
+sku: 'B07MVLQVWB-es'
 tags: [  ]
 actualPrice: 29.5 EUR
 currency: EUR

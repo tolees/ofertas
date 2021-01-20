@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000KJPC2M-es Wedo 212200 Taburete con Ruedas Blanco'
+sku: 'B000KJPC2M-es'
 tags: [  ]
 actualPrice: 26.87 EUR
 currency: EUR

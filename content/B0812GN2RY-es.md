@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0812GN2RY-es Asics Gel-Cumulus 21 Running Shoe Mens - Black/Black - 46 EU'
+sku: 'B0812GN2RY-es'
 tags: [  ]
 actualPrice: 91.82 EUR
 currency: EUR

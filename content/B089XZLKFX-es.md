@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089XZLKFX-es Dispensador de jabón automático dispensadores de jabón de...'
+sku: 'B089XZLKFX-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

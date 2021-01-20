@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LXFEKKV-es Braun HC5030 Limited Edition Recargable Negro Azul -...'
+sku: 'B01LXFEKKV-es'
 tags: [  ]
 actualPrice: 33.0 EUR
 currency: EUR

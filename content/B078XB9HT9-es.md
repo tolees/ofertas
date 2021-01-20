@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078XB9HT9-es JORLAI 33/45/78 Tocadiscos con Pantalla LCD Radio FM Am...'
+sku: 'B078XB9HT9-es'
 tags: [  ]
 actualPrice: 75.99 EUR
 currency: EUR

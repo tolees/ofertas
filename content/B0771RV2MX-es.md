@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0771RV2MX-es Funko Pop!- Games: Marvel Contest of Champions Venompool...'
+sku: 'B0771RV2MX-es'
 tags: [  ]
 actualPrice: 8.0 EUR
 currency: EUR

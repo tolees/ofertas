@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JB9FXG5-es Vsadey Suero facial de vitamina C con ácido hialurónico...'
+sku: 'B07JB9FXG5-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

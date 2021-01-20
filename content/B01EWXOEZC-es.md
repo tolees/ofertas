@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EWXOEZC-es Kosma Acero Inoxidable colador profundo manejado Twin...'
+sku: 'B01EWXOEZC-es'
 tags: [  ]
 actualPrice: 9.89 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AXYBPG0-es SELECT Handball Pantalones Cortos Mexico 62102 Todo el año...'
+sku: 'B01AXYBPG0-es'
 tags: [  ]
 actualPrice: 8.29 EUR
 currency: EUR

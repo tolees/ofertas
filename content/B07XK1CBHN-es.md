@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XK1CBHN-es Ganchos para silla de ruedas Silla de ruedas Cochecito...'
+sku: 'B07XK1CBHN-es'
 tags: [  ]
 actualPrice: 3.01 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VNNQK5V-es Calvin Klein Medium Drawstring Bañador Azul Black Iris CBK...'
+sku: 'B07VNNQK5V-es'
 tags: [  ]
 actualPrice: 32.95 EUR
 currency: EUR

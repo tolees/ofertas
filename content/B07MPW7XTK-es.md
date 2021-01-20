@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MPW7XTK-es HP OMEN Gaming 875-0013ns - Ordenador de sobremesa Intel...'
+sku: 'B07MPW7XTK-es'
 tags: [  ]
 actualPrice: 1049.99 EUR
 currency: EUR

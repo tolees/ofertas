@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZPGNBR-es BRIKSMAX Kit de Iluminación Led para Lego Star Wars Kylo...'
+sku: 'B07TZPGNBR-es'
 tags: [  ]
 actualPrice: 38.99 EUR
 currency: EUR

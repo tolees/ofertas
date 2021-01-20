@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MC4LMXP-es Suhu Redondo Puff Baúl Taburete de Terciopelo Asiento...'
+sku: 'B07MC4LMXP-es'
 tags: [  ]
 actualPrice: 42.99 EUR
 currency: EUR

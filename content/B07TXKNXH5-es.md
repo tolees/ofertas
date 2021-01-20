@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXKNXH5-es 4 en 1 4 x 1 DiSEqc Interruptor de Banda Ancha de 4 vías...'
+sku: 'B07TXKNXH5-es'
 tags: [  ]
 actualPrice: 0.33 EUR
 currency: EUR

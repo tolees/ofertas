@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CTRGHYP-es Skechers Flex Advantage 3.0-Jection Zapatillas Deportivas...'
+sku: 'B07CTRGHYP-es'
 tags: [  ]
 actualPrice: 41.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QWNDXXF-es Under Armour UNDKU Heatgear Crew Calcetines Unisex adulto...'
+sku: 'B07QWNDXXF-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

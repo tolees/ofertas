@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VSVNLCP-es Calvin Klein Short Runner Bañador Azul Snorkel Blue CJR...'
+sku: 'B07VSVNLCP-es'
 tags: [  ]
 actualPrice: 32.36 EUR
 currency: EUR

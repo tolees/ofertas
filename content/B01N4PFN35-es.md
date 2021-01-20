@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N4PFN35-es PUMA Cross The Line Pantalones Mujer Negro M'
+sku: 'B01N4PFN35-es'
 tags: [  ]
 actualPrice: 11.14 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SQG3K1M-es Winning Moves-Juego de Mesa de una Pieza Color 036948'
+sku: 'B07SQG3K1M-es'
 tags: [  ]
 actualPrice: 33.64 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MD5B8YL-es L Oreal Paris Infalible More than Concealer Corrector...'
+sku: 'B07MD5B8YL-es'
 tags: [  ]
 actualPrice: 9.4 EUR
 currency: EUR

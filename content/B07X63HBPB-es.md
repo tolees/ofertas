@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X63HBPB-es Asterix & Obelix XXL3: The Crystal Menhir - Limited Edition'
+sku: 'B07X63HBPB-es'
 tags: [  ]
 actualPrice: 31.94 EUR
 currency: EUR

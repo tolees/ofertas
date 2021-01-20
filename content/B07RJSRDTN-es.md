@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RJSRDTN-es FIND - Brocha para polvos - n.º 10'
+sku: 'B07RJSRDTN-es'
 tags: [  ]
 actualPrice: 5.34 EUR
 currency: EUR

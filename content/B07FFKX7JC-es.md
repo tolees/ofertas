@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FFKX7JC-es Armani Exchange Reloj Hombre de Digital con Correa en...'
+sku: 'B07FFKX7JC-es'
 tags: [  ]
 actualPrice: 179.4 EUR
 currency: EUR

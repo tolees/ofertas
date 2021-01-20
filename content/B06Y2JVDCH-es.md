@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y2JVDCH-es Case Logic LAPS111BRK - Funda para Ordenador portátil de...'
+sku: 'B06Y2JVDCH-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

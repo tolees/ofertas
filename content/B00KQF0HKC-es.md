@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KQF0HKC-es Baby Dan Slim fit - Barrera de seguridad'
+sku: 'B00KQF0HKC-es'
 tags: [  ]
 actualPrice: 45.08 EUR
 currency: EUR

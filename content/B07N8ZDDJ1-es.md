@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N8ZDDJ1-es Tommy Hilfiger Damen Heritage Crew Neck Graphic Tee...'
+sku: 'B07N8ZDDJ1-es'
 tags: [  ]
 actualPrice: 21.56 EUR
 currency: EUR

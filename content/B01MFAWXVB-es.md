@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MFAWXVB-es Blink Sistema de cámaras de seguridad para interiores con...'
+sku: 'B01MFAWXVB-es'
 tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR

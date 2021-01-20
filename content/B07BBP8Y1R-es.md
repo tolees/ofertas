@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BBP8Y1R-es Homyl 1 Pieza de Reproductores de MP3 MP4 de 32GB Radio...'
+sku: 'B07BBP8Y1R-es'
 tags: [  ]
 actualPrice: 16.07 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076CF9BCK-es Shock Absorber Ultimate Fly Bra Sujetador Deportivo Negro...'
+sku: 'B076CF9BCK-es'
 tags: [  ]
 actualPrice: 18.98 EUR
 currency: EUR

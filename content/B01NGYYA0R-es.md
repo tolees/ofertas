@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NGYYA0R-es Dragon Quest Heroes II Explorer s Edition'
+sku: 'B01NGYYA0R-es'
 tags: [  ]
 actualPrice: 36.5 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071WCJWZQ-es Need for Speed Payback - Edición estándar'
+sku: 'B071WCJWZQ-es'
 tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR

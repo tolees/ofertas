@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MYWGI5L-es B+W XS-Pro - Filtro densidad neutra ND 0.9 803 NANO 72 mm'
+sku: 'B01MYWGI5L-es'
 tags: [  ]
 actualPrice: 101.28 EUR
 currency: EUR

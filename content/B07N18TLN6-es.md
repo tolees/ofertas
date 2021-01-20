@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N18TLN6-es TATAY Urban Food Casual - Bolsa térmica porta alimentos...'
+sku: 'B07N18TLN6-es'
 tags: [  ]
 actualPrice: 14.4 EUR
 currency: EUR

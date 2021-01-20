@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077MFP9NV-es AEG LX7-2-EB-P Aspiradora de Trineo Sin Bolsa Gran...'
+sku: 'B077MFP9NV-es'
 tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR

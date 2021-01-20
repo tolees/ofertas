@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J24YJJ8-es Michael Kors Reloj Cronógrafo para Unisex Adultos de...'
+sku: 'B07J24YJJ8-es'
 tags: [  ]
 actualPrice: 229.12 EUR
 currency: EUR

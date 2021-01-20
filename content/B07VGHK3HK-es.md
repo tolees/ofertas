@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VGHK3HK-es Teslagrad'
+sku: 'B07VGHK3HK-es'
 tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR

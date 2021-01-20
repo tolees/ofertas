@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ZZ73O2Y-es Crocs Jaunt Shorty Boot Botas de Agua para Mujer Amarillo...'
+sku: 'B00ZZ73O2Y-es'
 tags: [  ]
 actualPrice: 26.0 EUR
 currency: EUR

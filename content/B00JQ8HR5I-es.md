@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JQ8HR5I-es Lotus Reloj Analógico para Hombre de Cuarzo con Correa en...'
+sku: 'B00JQ8HR5I-es'
 tags: [  ]
 actualPrice: 62.66 EUR
 currency: EUR

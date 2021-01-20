@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XVZ6S7G-es Harissa mezcla de especias 250g de polvo picante de...'
+sku: 'B06XVZ6S7G-es'
 tags: [  ]
 actualPrice: 10.9 EUR
 currency: EUR

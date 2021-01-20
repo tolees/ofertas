@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000AMEZFO-es Narciso Rodriguez 140435 - Agua de tocador vaporizador...'
+sku: 'B000AMEZFO-es'
 tags: [  ]
 actualPrice: 39.9 EUR
 currency: EUR

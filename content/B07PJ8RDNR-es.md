@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PJ8RDNR-es SDBAUX 3 in 1 Cable de Carga 2Pack Múltiples USB Cargador...'
+sku: 'B07PJ8RDNR-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

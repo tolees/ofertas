@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MY1KVFG-es Clementoni- Impossible Puzzle-Dragon Ball-1000 pièces...'
+sku: 'B07MY1KVFG-es'
 tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR

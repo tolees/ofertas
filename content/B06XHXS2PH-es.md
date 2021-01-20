@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XHXS2PH-es Cascos Bluetooth inalámbricos Hisonic Auriculares...'
+sku: 'B06XHXS2PH-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

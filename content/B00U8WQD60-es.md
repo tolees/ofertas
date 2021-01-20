@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00U8WQD60-es Sesderma Factor G Renew Antiedad 30 ml'
+sku: 'B00U8WQD60-es'
 tags: [  ]
 actualPrice: 32.3 EUR
 currency: EUR

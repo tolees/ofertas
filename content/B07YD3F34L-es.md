@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YD3F34L-es Alfombrilla de ratón EVA con reposamuñecas para...'
+sku: 'B07YD3F34L-es'
 tags: [  ]
 actualPrice: 1.19 EUR
 currency: EUR

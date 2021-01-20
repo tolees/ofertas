@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XDO14F0-es Albal Papel vegetal para horno antiadherente impermeable...'
+sku: 'B00XDO14F0-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

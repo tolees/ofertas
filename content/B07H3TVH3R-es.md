@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H3TVH3R-es Zapatillas de Estar por casa Hombre Mujer Espuma de...'
+sku: 'B07H3TVH3R-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

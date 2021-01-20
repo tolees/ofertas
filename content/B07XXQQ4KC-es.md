@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XXQQ4KC-es Cooljoy Agua Dibujo Pintura Esteras de Agua Doodle...'
+sku: 'B07XXQQ4KC-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

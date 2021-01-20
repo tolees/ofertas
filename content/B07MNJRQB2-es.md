@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MNJRQB2-es Crucial Ballistix Sport LT BLS8G4D32AESCK 3200 MHz DDR4...'
+sku: 'B07MNJRQB2-es'
 tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR

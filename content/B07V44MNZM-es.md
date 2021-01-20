@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V44MNZM-es Pantalones de Verano de Mujer con Cintura Elástica con...'
+sku: 'B07V44MNZM-es'
 tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR

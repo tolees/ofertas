@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZC3IRJ-es Gillette Espuma para Piel sensible 200 ml'
+sku: 'B01LZC3IRJ-es'
 tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR

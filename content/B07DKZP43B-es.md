@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DKZP43B-es Bolas de poliestireno Pllieay para manualidades 20...'
+sku: 'B07DKZP43B-es'
 tags: [  ]
 actualPrice: 13.07 EUR
 currency: EUR

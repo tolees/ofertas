@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXWN4H2-es KiplingBaroeMujerMonederosPlateado Metallic Glow...'
+sku: 'B07TXWN4H2-es'
 tags: [  ]
 actualPrice: 14.1 EUR
 currency: EUR

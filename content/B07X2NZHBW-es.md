@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X2NZHBW-es laamei Sacacorchos para Botellas con Tapones Reutilizables...'
+sku: 'B07X2NZHBW-es'
 tags: [  ]
 actualPrice: 2.99 EUR
 currency: EUR

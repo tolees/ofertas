@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PZYVJ7K-es 2 Pares Calcetines/Medias de Compresión para Hombres y...'
+sku: 'B07PZYVJ7K-es'
 tags: [  ]
 actualPrice: 7.42 EUR
 currency: EUR

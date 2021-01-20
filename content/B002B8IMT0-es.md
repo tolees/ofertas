@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002B8IMT0-es Tommee Tippee Biberones Closer to Nature 150 ml 1 Unidad...'
+sku: 'B002B8IMT0-es'
 tags: [  ]
 actualPrice: 5.95 EUR
 currency: EUR

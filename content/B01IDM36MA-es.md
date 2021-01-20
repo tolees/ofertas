@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IDM36MA-es 3 Claveles Tijera Alto Rendimiento de 8" Acero Carbono...'
+sku: 'B01IDM36MA-es'
 tags: [  ]
 actualPrice: 34.25 EUR
 currency: EUR

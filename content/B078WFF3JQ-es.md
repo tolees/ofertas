@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WFF3JQ-es Muvit I/O MIOSMW009 Reloj de Actividad y Sueño Negro y Rojo M'
+sku: 'B078WFF3JQ-es'
 tags: [  ]
 actualPrice: 23.22 EUR
 currency: EUR

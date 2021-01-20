@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZMP6L5-es Kickers Kick Col Botas Slouch Unisex Niños Marrón Camel...'
+sku: 'B07MZMP6L5-es'
 tags: [  ]
 actualPrice: 16.8 EUR
 currency: EUR

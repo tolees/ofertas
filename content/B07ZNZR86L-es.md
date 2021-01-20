@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZNZR86L-es Valsole Plantillas Ortopédicas soportes de arco y talones...'
+sku: 'B07ZNZR86L-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

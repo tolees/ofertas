@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N6VCNZ6-es Tommy Hilfiger Mono Color Longboot Botas Altas para Mujer...'
+sku: 'B07N6VCNZ6-es'
 tags: [  ]
 actualPrice: 54.48 EUR
 currency: EUR

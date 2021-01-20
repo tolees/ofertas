@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DJ0J39G-es EMPO El Apoyo de Abrazadera de Rodilla Carreras -...'
+sku: 'B01DJ0J39G-es'
 tags: [  ]
 actualPrice: 11.6 EUR
 currency: EUR

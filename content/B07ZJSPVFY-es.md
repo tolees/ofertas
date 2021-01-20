@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZJSPVFY-es Toscaf 70232 Cápsulas Compostables Intenso Compatibles...'
+sku: 'B07ZJSPVFY-es'
 tags: [  ]
 actualPrice: 2.8 EUR
 currency: EUR

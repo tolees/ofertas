@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081D5T4DH-es Candy CS 1292D3/P-S - Lavadora carga frontal 9Kgs 16...'
+sku: 'B081D5T4DH-es'
 tags: [  ]
 actualPrice: 198.0 EUR
 currency: EUR

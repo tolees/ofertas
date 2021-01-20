@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XWX8CZJ-es WESCO Llaves de Impacto 18V 110N.m Atornillador Impacto...'
+sku: 'B07XWX8CZJ-es'
 tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR

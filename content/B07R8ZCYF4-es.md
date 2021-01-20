@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R8ZCYF4-es Hisense H32BE5000 - TV LED 32 HD 2 HDMI 1 USB Salida...'
+sku: 'B07R8ZCYF4-es'
 tags: [  ]
 actualPrice: 129.99 EUR
 currency: EUR

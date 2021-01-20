@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HCQNORK-es Reebok Royal Cl Jog 2l Zapatillas para Hombre Blanco...'
+sku: 'B01HCQNORK-es'
 tags: [  ]
 actualPrice: 33.46 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071KNK7RR-es Targus Click-in - Funda para el iPad Pro de 10.5" Color Gris'
+sku: 'B071KNK7RR-es'
 tags: [  ]
 actualPrice: 11.9 EUR
 currency: EUR

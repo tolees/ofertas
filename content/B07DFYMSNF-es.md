@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFYMSNF-es New Balance 247v2 Zapatillas para Mujer Verde Faded...'
+sku: 'B07DFYMSNF-es'
 tags: [  ]
 actualPrice: 36 EUR
 currency: EUR

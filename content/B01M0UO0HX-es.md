@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M0UO0HX-es Sigma F1.4 DG AF HSM Art - Objetivo para cámara para...'
+sku: 'B01M0UO0HX-es'
 tags: [  ]
 actualPrice: 932.0 EUR
 currency: EUR

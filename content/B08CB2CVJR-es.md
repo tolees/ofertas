@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CB2CVJR-es TOPERSUN Cargador de Baterías Coche 12V/24V 8A Automática...'
+sku: 'B08CB2CVJR-es'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

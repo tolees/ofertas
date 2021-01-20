@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BWMCNDQ-es Llave USB 16 GB Kylo Ren - Memoria Flash Drive 2.0...'
+sku: 'B01BWMCNDQ-es'
 tags: [  ]
 actualPrice: 15.23 EUR
 currency: EUR

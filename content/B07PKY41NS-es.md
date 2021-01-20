@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PKY41NS-es New Balance 574v2 Zapatillas para Hombre Black Velocity...'
+sku: 'B07PKY41NS-es'
 tags: [  ]
 actualPrice: 58.95 EUR
 currency: EUR

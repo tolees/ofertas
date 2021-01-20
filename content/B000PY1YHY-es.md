@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000PY1YHY-es Guerlain - Desodorante Spray Habit Rouge'
+sku: 'B000PY1YHY-es'
 tags: [  ]
 actualPrice: 21.78 EUR
 currency: EUR

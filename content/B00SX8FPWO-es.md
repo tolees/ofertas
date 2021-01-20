@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SX8FPWO-es adidas Solid Crew Calcetines Unisex Adulto blanco / negro...'
+sku: 'B00SX8FPWO-es'
 tags: [  ]
 actualPrice: 8.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FCMLTQ9-es ETNAB|#Etnies Marana Vulc Zapatillas de Skateboard para...'
+sku: 'B07FCMLTQ9-es'
 tags: [  ]
 actualPrice: 35.11 EUR
 currency: EUR

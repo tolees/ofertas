@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XKZT5JR-es URCERI Pinpointer Detector de Metales IP68 Detección de...'
+sku: 'B07XKZT5JR-es'
 tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR

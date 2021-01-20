@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079FXP2KV-es Samsung Clear View Standing Cover - Funda para Galaxy S9...'
+sku: 'B079FXP2KV-es'
 tags: [  ]
 actualPrice: 9.97 EUR
 currency: EUR

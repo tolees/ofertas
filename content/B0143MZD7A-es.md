@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0143MZD7A-es Flexible LED Brillante Luz USB Alimentado Multi Propósito...'
+sku: 'B0143MZD7A-es'
 tags: [  ]
 actualPrice: 1.94 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SNJWBLN-es Reebok Nano 9 Zapatillas de Deporte para Hombre Negro...'
+sku: 'B07SNJWBLN-es'
 tags: [  ]
 actualPrice: 96.62 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WGQW5X-es PUMA Liga Sideline Polo T-Shirt Hombre Negro Black/White L'
+sku: 'B078WGQW5X-es'
 tags: [  ]
 actualPrice: 19.71 EUR
 currency: EUR

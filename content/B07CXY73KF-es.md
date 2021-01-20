@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CXY73KF-es Samsung EVO Select - Tarjeta de Memoria microSDXC de 64 GB...'
+sku: 'B07CXY73KF-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

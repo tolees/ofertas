@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PVQ8TJ5-es Kelme - Zapatillas Precision Elite 2.0'
+sku: 'B07PVQ8TJ5-es'
 tags: [  ]
 actualPrice: 24.46 EUR
 currency: EUR

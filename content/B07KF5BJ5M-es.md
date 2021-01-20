@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KF5BJ5M-es Levi s unbasic Hoodie Capucha Blanco White + 0006 X-Small...'
+sku: 'B07KF5BJ5M-es'
 tags: [  ]
 actualPrice: 41.4 EUR
 currency: EUR

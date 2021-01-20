@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFW3YVJ-es PUMA Weave XT Wn s Zapatillas Deportivas para Interior...'
+sku: 'B07KFW3YVJ-es'
 tags: [  ]
 actualPrice: 23.44 EUR
 currency: EUR

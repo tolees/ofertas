@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00U1IL8NO-es Reebok Classic Leather - Zapatillas de cuero para hombre...'
+sku: 'B00U1IL8NO-es'
 tags: [  ]
 actualPrice: 62.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NLKVTCJ-es Versace Jeans CoutureMarsupioMujerBolso de manoAzul Blu...'
+sku: 'B07NLKVTCJ-es'
 tags: [  ]
 actualPrice: 72.61 EUR
 currency: EUR

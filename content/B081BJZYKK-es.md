@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081BJZYKK-es Jvchengxi Funda Protectora para Huawei Watch GT 2 46mm...'
+sku: 'B081BJZYKK-es'
 tags: [  ]
 actualPrice: 8.98 EUR
 currency: EUR

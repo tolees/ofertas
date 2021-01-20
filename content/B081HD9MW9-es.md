@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081HD9MW9-es XJ03 Cámaras portátiles portátiles para el hogar compactas...'
+sku: 'B081HD9MW9-es'
 tags: [  ]
 actualPrice: 12.34 EUR
 currency: EUR

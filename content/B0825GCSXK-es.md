@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0825GCSXK-es Baoblaze 5 Unids Almohadillas Adhesivas Antidesgaste...'
+sku: 'B0825GCSXK-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

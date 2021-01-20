@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XF2NC5B-es Cama Gato Cama Perro Pequeño Cama para Mascotas con Suave...'
+sku: 'B07XF2NC5B-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

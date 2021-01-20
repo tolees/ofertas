@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LUIKK3I-es Adidas Stan Smith Zapatillas de Deporte Unisex Adulto...'
+sku: 'B00LUIKK3I-es'
 tags: [  ]
 actualPrice: 66.49 EUR
 currency: EUR

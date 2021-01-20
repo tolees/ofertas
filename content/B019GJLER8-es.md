@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019GJLER8-es Anker PowerCore 10000 mAh - Batería externa Power Bank...'
+sku: 'B019GJLER8-es'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

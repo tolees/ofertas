@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YJRSMD7-es Oihxse Funda Compatible para Samsung Galaxy A7 2018/A750...'
+sku: 'B07YJRSMD7-es'
 tags: [  ]
 actualPrice: 8.98 EUR
 currency: EUR

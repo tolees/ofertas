@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0816R8MQF-es CERDÁ LIFE S LITTLE MOMENTS 2200005545 Conjunto Polaina y...'
+sku: 'B0816R8MQF-es'
 tags: [  ]
 actualPrice: 11.72 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087WKQDY5-es Bst4UDirect Herramientas de Equilibrado Herramienta De...'
+sku: 'B087WKQDY5-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

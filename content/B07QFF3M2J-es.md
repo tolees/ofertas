@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QFF3M2J-es adidas Advantage C Zapatillas de Tenis Unisex niños...'
+sku: 'B07QFF3M2J-es'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

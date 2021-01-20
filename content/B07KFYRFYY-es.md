@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFYRFYY-es PUMA Ralph Sampson LO Zapatillas Deportivas Unisex-Adulto...'
+sku: 'B07KFYRFYY-es'
 tags: [  ]
 actualPrice: 30.51 EUR
 currency: EUR

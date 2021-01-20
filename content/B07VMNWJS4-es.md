@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VMNWJS4-es Calvin Klein Medium Double WB Bañador Negro PVH Black BEH...'
+sku: 'B07VMNWJS4-es'
 tags: [  ]
 actualPrice: 42.0 EUR
 currency: EUR

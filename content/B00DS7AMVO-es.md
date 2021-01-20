@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DS7AMVO-es Lékué - Estuche de vapor Con bandeja y kit principiantes...'
+sku: 'B00DS7AMVO-es'
 tags: [  ]
 actualPrice: 15.47 EUR
 currency: EUR

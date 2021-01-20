@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJHQ393-es Shovel Knight: Treasure Trove'
+sku: 'B07NJHQ393-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

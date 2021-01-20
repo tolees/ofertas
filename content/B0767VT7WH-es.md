@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0767VT7WH-es Jamo - Altavoces Estéreo S-801 60 W 85 Db Negro'
+sku: 'B0767VT7WH-es'
 tags: [  ]
 actualPrice: 102.85 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0792ZJ4QT-es Exprimidor Eléctrico Aicok Exprimidor Zumo de naranjas 100...'
+sku: 'B0792ZJ4QT-es'
 tags: [  ]
 actualPrice: 34.98 EUR
 currency: EUR

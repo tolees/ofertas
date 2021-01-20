@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00O9YY2C0-es SYROKAN - Sujetador Deportivo con Aros Espalda Deportiva...'
+sku: 'B00O9YY2C0-es'
 tags: [  ]
 actualPrice: 26.0 EUR
 currency: EUR

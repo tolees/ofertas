@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000R4LZ3A-es MediaRange MR222 CD de reescritura - CD-RW vírgenes CD-R...'
+sku: 'B000R4LZ3A-es'
 tags: [  ]
 actualPrice: 13.91 EUR
 currency: EUR

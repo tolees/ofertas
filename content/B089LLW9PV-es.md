@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089LLW9PV-es Tencoz Spray Mop Mopa con Pulverizador Fregona con...'
+sku: 'B089LLW9PV-es'
 tags: [  ]
 actualPrice: 16.11 EUR
 currency: EUR

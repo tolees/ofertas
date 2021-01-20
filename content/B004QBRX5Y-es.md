@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004QBRX5Y-es OROFLUIDO Mask Mascarilla - 250 ml'
+sku: 'B004QBRX5Y-es'
 tags: [  ]
 actualPrice: 6.95 EUR
 currency: EUR

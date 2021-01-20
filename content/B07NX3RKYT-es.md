@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NX3RKYT-es Igi&Co Uomo Gore-Tex-41173 Zapatillas Altas para Hombre...'
+sku: 'B07NX3RKYT-es'
 tags: [  ]
 actualPrice: 34.86 EUR
 currency: EUR

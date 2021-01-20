@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BCFT2XD-es BOZHZO Piscina Luz LED Sumergible Luces Sumergibles...'
+sku: 'B08BCFT2XD-es'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

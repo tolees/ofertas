@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078KFC6ZT-es 3D Ilusión óptica Lámpara LED Luz de noche Deco LED...'
+sku: 'B078KFC6ZT-es'
 tags: [  ]
 actualPrice: 11.44 EUR
 currency: EUR

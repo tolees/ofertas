@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005ZUD9AI-es Tayg 601354 Bidón 5L'
+sku: 'B005ZUD9AI-es'
 tags: [  ]
 actualPrice: 4.49 EUR
 currency: EUR

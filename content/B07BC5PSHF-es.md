@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BC5PSHF-es Bourjois Satin Edition Sombra de Ojos Líquida Tono 1 Beige...'
+sku: 'B07BC5PSHF-es'
 tags: [  ]
 actualPrice: 2.7 EUR
 currency: EUR

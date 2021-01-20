@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZYHMM6S-es Luchild Saco de Invierno Universal para Cochecito y Silla...'
+sku: 'B07ZYHMM6S-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

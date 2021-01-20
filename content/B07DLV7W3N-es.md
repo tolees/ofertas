@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DLV7W3N-es SAMSONITE Pro-DLX 5 - Bailhandle for 14.1 Laptop 1 KG...'
+sku: 'B07DLV7W3N-es'
 tags: [  ]
 actualPrice: 140.34 EUR
 currency: EUR

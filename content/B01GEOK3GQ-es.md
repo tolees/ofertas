@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GEOK3GQ-es SILVERHT 111933340199 - Teclado Plegable Doble para Tablet'
+sku: 'B01GEOK3GQ-es'
 tags: [  ]
 actualPrice: 36.24 EUR
 currency: EUR

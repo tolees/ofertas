@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJ7HXV5-es New Balance 373 Zapatillas Unisex Niños Blanco...'
+sku: 'B07DJ7HXV5-es'
 tags: [  ]
 actualPrice: 21.7 EUR
 currency: EUR

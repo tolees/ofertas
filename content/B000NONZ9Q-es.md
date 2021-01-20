@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000NONZ9Q-es Shimano SMMAF203PPA - Adaptador Pinza Delant. Post...'
+sku: 'B000NONZ9Q-es'
 tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR

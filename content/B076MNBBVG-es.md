@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076MNBBVG-es Toalla de Microfibra Sternitz- Compacta - Absorbente -...'
+sku: 'B076MNBBVG-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

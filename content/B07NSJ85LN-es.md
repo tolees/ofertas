@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NSJ85LN-es Lorus Reloj Analógico para Mujer de Cuarzo con Correa en...'
+sku: 'B07NSJ85LN-es'
 tags: [  ]
 actualPrice: 22.33 EUR
 currency: EUR

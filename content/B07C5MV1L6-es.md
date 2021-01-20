@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C5MV1L6-es Andven USB Transmisor Bluetooth Portátil Inalámbrico...'
+sku: 'B07C5MV1L6-es'
 tags: [  ]
 actualPrice: 8.98 EUR
 currency: EUR

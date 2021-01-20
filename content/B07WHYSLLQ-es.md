@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WHYSLLQ-es Samsung Galaxy A30s - Smartphone de 6.4" Super AMOLED 4 GB...'
+sku: 'B07WHYSLLQ-es'
 tags: [  ]
 actualPrice: 189.0 EUR
 currency: EUR

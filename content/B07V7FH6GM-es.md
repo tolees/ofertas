@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V7FH6GM-es WMF Profi Set de 3 sartenes de Acero Inoxidable de 20 24 y...'
+sku: 'B07V7FH6GM-es'
 tags: [  ]
 actualPrice: 129.99 EUR
 currency: EUR

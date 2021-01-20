@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KTNZ7Y3-es Helly Hansen 3 Pares De Calcentines Invisibiles para...'
+sku: 'B07KTNZ7Y3-es'
 tags: [  ]
 actualPrice: 7.0 EUR
 currency: EUR

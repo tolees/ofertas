@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N360VKW-es Mesa de Camping Plegable Ultra-Ligera aleación de Aluminio...'
+sku: 'B01N360VKW-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

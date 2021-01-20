@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082Q4KZF8-es HUAWEI FreeBuds 3 - Auriculares inalámbricos con...'
+sku: 'B082Q4KZF8-es'
 tags: [  ]
 actualPrice: 103.2 EUR
 currency: EUR

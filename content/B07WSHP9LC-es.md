@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WSHP9LC-es Griffin Technology Funda Survivor Endurance para iPhone 11...'
+sku: 'B07WSHP9LC-es'
 tags: [  ]
 actualPrice: 7.89 EUR
 currency: EUR

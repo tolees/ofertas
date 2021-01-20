@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HB65WLS-es Levi s Hodges Botas Militares para Hombre Amarillo Boots...'
+sku: 'B07HB65WLS-es'
 tags: [  ]
 actualPrice: 35.38 EUR
 currency: EUR

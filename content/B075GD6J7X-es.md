@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075GD6J7X-es Triumph Amourette Charm WHP Sujetador Blanco White 03 90A...'
+sku: 'B075GD6J7X-es'
 tags: [  ]
 actualPrice: 34.95 EUR
 currency: EUR

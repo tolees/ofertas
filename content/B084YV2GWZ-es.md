@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084YV2GWZ-es Anself 12Pcs Pinceles de Maquillaje Multifuncionales Juego...'
+sku: 'B084YV2GWZ-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

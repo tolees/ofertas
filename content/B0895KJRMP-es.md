@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0895KJRMP-es Car Styling Platinum Power Handle Volante Volante asistido...'
+sku: 'B0895KJRMP-es'
 tags: [  ]
 actualPrice: 6.56 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074HRN82Z-es Skagen Reloj Analógico para Hombre de Cuarzo con Correa en...'
+sku: 'B074HRN82Z-es'
 tags: [  ]
 actualPrice: 122 EUR
 currency: EUR

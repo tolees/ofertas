@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NWITLAW-es STANLEY FATMAX FMST1-72383 - Maleta para herramientas con...'
+sku: 'B00NWITLAW-es'
 tags: [  ]
 actualPrice: 99.95 EUR
 currency: EUR

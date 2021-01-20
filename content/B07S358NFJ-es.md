@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S358NFJ-es Love MoschinoJc4001pp1aMujerBolsos totesMarfil Avorio...'
+sku: 'B07S358NFJ-es'
 tags: [  ]
 actualPrice: 132.25 EUR
 currency: EUR

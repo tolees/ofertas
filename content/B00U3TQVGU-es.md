@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00U3TQVGU-es Lowepro Torba ADVENTURA SH 140 II Black'
+sku: 'B00U3TQVGU-es'
 tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR

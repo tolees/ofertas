@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y9VYV46-es Esprit 129ee2i010 suéter Gris Light Grey 5 044 Medium para...'
+sku: 'B07Y9VYV46-es'
 tags: [  ]
 actualPrice: 11.6 EUR
 currency: EUR

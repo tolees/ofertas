@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVQ3FKP-es PJ Masks - Megarover Bandai 95380'
+sku: 'B07MVQ3FKP-es'
 tags: [  ]
 actualPrice: 25.9 EUR
 currency: EUR

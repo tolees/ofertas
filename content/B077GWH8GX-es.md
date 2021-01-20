@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077GWH8GX-es Under Armour Challenger II Training Pant Pantalones Hombre...'
+sku: 'B077GWH8GX-es'
 tags: [  ]
 actualPrice: 23.48 EUR
 currency: EUR

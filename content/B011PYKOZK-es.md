@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B011PYKOZK-es EXZACT Smart - Escala Analizadora Inteligente/Analizador...'
+sku: 'B011PYKOZK-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082NLDJZT-es LUDOS Ultra Auriculares con Micrófono y Cable Máxima...'
+sku: 'B082NLDJZT-es'
 tags: [  ]
 actualPrice: 15.97 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q6Y5SC7-es Scottonelle - Papel higiénico de 14 paquetes 6 rollos por...'
+sku: 'B07Q6Y5SC7-es'
 tags: [  ]
 actualPrice: 32.2 EUR
 currency: EUR

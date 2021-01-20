@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QJ9VY9K-es Tatuer Pegatinas Album Fotos Bricolaje Esquinas Adhesivas...'
+sku: 'B07QJ9VY9K-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PWTVCBR-es Crema para los ojos reduce las arrugas y las arrugas...'
+sku: 'B07PWTVCBR-es'
 tags: [  ]
 actualPrice: 5.39 EUR
 currency: EUR

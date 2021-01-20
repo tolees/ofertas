@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z9WX15J-es Funda compatible con iPhone XR mármol flexible de silicona...'
+sku: 'B07Z9WX15J-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

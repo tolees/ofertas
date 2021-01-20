@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G1CJC3T-es ghd curve creative curl - Rizador con barril cónico para...'
+sku: 'B07G1CJC3T-es'
 tags: [  ]
 actualPrice: 130.99 EUR
 currency: EUR

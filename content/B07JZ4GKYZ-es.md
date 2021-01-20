@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JZ4GKYZ-es Tommy Hilfiger Simon Skinny Glfbst Jeans Azul Glen Fresh...'
+sku: 'B07JZ4GKYZ-es'
 tags: [  ]
 actualPrice: 32.97 EUR
 currency: EUR

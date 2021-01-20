@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2YC7CH-es Ergocar Creativo Lindo Dibujos Animados Organizador del...'
+sku: 'B07K2YC7CH-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XCDX8ZM-es STANLEY FATMAX FMST1-80149 - Bolsa para ordenador y...'
+sku: 'B06XCDX8ZM-es'
 tags: [  ]
 actualPrice: 32.44 EUR
 currency: EUR

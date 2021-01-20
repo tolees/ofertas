@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TSK57NG-es Qkiss Cepillo de Pelo de Lana Suave y Cómodo Cepillo de...'
+sku: 'B07TSK57NG-es'
 tags: [  ]
 actualPrice: 5.69 EUR
 currency: EUR

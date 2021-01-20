@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DSBBCX8-es 1 Unidad de Etiqueta Protectora de Raqueta de Tenis para...'
+sku: 'B07DSBBCX8-es'
 tags: [  ]
 actualPrice: 8.17 EUR
 currency: EUR

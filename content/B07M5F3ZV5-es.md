@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M5F3ZV5-es Wrangler Logo Hoodie Capucha Gris Dark Grey Mel X06 Large...'
+sku: 'B07M5F3ZV5-es'
 tags: [  ]
 actualPrice: 36 EUR
 currency: EUR

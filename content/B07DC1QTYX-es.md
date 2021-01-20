@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DC1QTYX-es Puma Cali Nubuck Zapatillas Deportivas para Mujer Rosa...'
+sku: 'B07DC1QTYX-es'
 tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR

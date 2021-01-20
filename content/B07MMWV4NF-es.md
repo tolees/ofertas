@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MMWV4NF-es KangaROOS Kanga X 5000 Zapatillas Unisex Niños Jet...'
+sku: 'B07MMWV4NF-es'
 tags: [  ]
 actualPrice: 16.52 EUR
 currency: EUR

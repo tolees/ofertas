@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VVLJGSP-es Jack & Jones JORPANNEL Crew Neck. Suéter Azul Light Grey...'
+sku: 'B07VVLJGSP-es'
 tags: [  ]
 actualPrice: 10.66 EUR
 currency: EUR

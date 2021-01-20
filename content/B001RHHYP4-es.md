@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001RHHYP4-es AIM - Alfombrilla Gaming Profesional Superficie de Tela...'
+sku: 'B001RHHYP4-es'
 tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR

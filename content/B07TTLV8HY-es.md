@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TTLV8HY-es Merrell Choprock Leather Shandal Zapatillas Impermeables...'
+sku: 'B07TTLV8HY-es'
 tags: [  ]
 actualPrice: 41.27 EUR
 currency: EUR

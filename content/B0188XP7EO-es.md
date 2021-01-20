@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0188XP7EO-es Medisana NM 870 Masajeador de cuello con masaje vibratorio...'
+sku: 'B0188XP7EO-es'
 tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR

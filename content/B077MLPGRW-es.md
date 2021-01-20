@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077MLPGRW-es PUMA NRGY Comet Zapatillas de Running Unisex-Adulto Negro...'
+sku: 'B077MLPGRW-es'
 tags: [  ]
 actualPrice: 30.5 EUR
 currency: EUR

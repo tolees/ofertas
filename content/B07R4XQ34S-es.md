@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R4XQ34S-es Blacksad: Under The Skin - Limited Edition'
+sku: 'B07R4XQ34S-es'
 tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR

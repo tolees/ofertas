@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D16BCL2-es Under Armour Men s Driver Cap 3.0 Gorras de béisbol con...'
+sku: 'B07D16BCL2-es'
 tags: [  ]
 actualPrice: 14.49 EUR
 currency: EUR

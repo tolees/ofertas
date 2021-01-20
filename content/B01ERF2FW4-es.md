@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ERF2FW4-es The Body Source Pulseras Repelentes de Mosquitos 10 Piezas...'
+sku: 'B01ERF2FW4-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

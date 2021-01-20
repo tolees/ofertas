@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LYP69HZ-es Parker IM - Bolígrafo Roller Punto fino color Acero...'
+sku: 'B01LYP69HZ-es'
 tags: [  ]
 actualPrice: 21.98 EUR
 currency: EUR

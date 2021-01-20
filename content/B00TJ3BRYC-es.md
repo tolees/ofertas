@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TJ3BRYC-es GBC 4400556 - Encuadernadora'
+sku: 'B00TJ3BRYC-es'
 tags: [  ]
 actualPrice: 117.26 EUR
 currency: EUR

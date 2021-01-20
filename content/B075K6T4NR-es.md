@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075K6T4NR-es Barras de pegamento caliente de Beeway®'
+sku: 'B075K6T4NR-es'
 tags: [  ]
 actualPrice: 8.0 EUR
 currency: EUR

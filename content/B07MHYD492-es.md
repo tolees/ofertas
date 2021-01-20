@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MHYD492-es Adidas Terrex Eastrail Zapatillas de Deporte para Hombre...'
+sku: 'B07MHYD492-es'
 tags: [  ]
 actualPrice: 55.99 EUR
 currency: EUR

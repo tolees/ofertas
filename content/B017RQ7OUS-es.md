@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017RQ7OUS-es Babolat Custom Damp X2 Amortiguador de vibración de Tenis...'
+sku: 'B017RQ7OUS-es'
 tags: [  ]
 actualPrice: 5.49 EUR
 currency: EUR

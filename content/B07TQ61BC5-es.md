@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TQ61BC5-es Grifo de filtro de agua potable de acero inoxidable para...'
+sku: 'B07TQ61BC5-es'
 tags: [  ]
 actualPrice: 38.56 EUR
 currency: EUR

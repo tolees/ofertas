@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CM6N54H-es Dermacol DC Base Makeup Cover Total | Maquillaje Corrector...'
+sku: 'B07CM6N54H-es'
 tags: [  ]
 actualPrice: 8.95 EUR
 currency: EUR

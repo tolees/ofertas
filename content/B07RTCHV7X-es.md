@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RTCHV7X-es s.Oliver 03.899.61.5232 suéter Negro Black 9999 Medium...'
+sku: 'B07RTCHV7X-es'
 tags: [  ]
 actualPrice: 10.77 EUR
 currency: EUR

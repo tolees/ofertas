@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075C9LWXZ-es Seiko Reloj Cronógrafo para Hombre de Cuarzo con Correa en...'
+sku: 'B075C9LWXZ-es'
 tags: [  ]
 actualPrice: 177.95 EUR
 currency: EUR

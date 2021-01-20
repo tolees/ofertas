@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K9V38HZ-es Vibrador Parejas Juegos Eroticos Silicona Masajeador...'
+sku: 'B07K9V38HZ-es'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

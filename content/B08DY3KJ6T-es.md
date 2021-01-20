@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DY3KJ6T-es NNAYD1996 Pintura al óleo Flor de Cactus Impresión Digital...'
+sku: 'B08DY3KJ6T-es'
 tags: [  ]
 actualPrice: 15.88 EUR
 currency: EUR

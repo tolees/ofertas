@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0813RZKJT-es adidas Adilette Comfort Slide Sandal Womens Core...'
+sku: 'B0813RZKJT-es'
 tags: [  ]
 actualPrice: 19.22 EUR
 currency: EUR

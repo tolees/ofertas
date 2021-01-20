@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TNHHVHM-es WIN.MAX Diana Electrónica Diana Dardos Las diana se...'
+sku: 'B07TNHHVHM-es'
 tags: [  ]
 actualPrice: 64.99 EUR
 currency: EUR

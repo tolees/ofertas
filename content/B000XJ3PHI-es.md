@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000XJ3PHI-es Bosch 2 608 640 444 - Hoja de sierra circular Optiline...'
+sku: 'B000XJ3PHI-es'
 tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR

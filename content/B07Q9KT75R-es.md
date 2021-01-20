@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q9KT75R-es casa pura Alfombras de Goma Escaleras - Peldaños de Goma |...'
+sku: 'B07Q9KT75R-es'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

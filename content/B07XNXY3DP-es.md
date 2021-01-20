@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XNXY3DP-es ngzhongtuhengtongjianzhugongchen- Clip de cinturón de...'
+sku: 'B07XNXY3DP-es'
 tags: [  ]
 actualPrice: 1.32 EUR
 currency: EUR

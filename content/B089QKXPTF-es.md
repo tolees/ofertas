@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089QKXPTF-es Kinberry - Cámara para exteriores versión nocturna'
+sku: 'B089QKXPTF-es'
 tags: [  ]
 actualPrice: 15.87 EUR
 currency: EUR

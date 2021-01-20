@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MQYWK27-es Prodigiosa: Las aventuras de Ladybug - Playset con acción...'
+sku: 'B01MQYWK27-es'
 tags: [  ]
 actualPrice: 13.75 EUR
 currency: EUR

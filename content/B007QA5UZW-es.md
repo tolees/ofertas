@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007QA5UZW-es Soother Cadena Rosa'
+sku: 'B007QA5UZW-es'
 tags: [  ]
 actualPrice: 3.45 EUR
 currency: EUR

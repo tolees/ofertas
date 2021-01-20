@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075R7QGMT-es New Balance 420 Zapatillas para Hombre Rojo Classic...'
+sku: 'B075R7QGMT-es'
 tags: [  ]
 actualPrice: 29.06 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VLDBBSY-es FITTOO Leggings Mallas Mujer Pantalones Deportivos Yoga...'
+sku: 'B07VLDBBSY-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

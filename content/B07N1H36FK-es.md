@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1H36FK-es Superga 2730-cotu Zapatillas de Gimnasia para Mujer Azul...'
+sku: 'B07N1H36FK-es'
 tags: [  ]
 actualPrice: 15.76 EUR
 currency: EUR

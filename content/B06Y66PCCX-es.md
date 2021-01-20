@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y66PCCX-es Nivea Men - Crema - Cara cuerpo manos - 150 ml - [paquete...'
+sku: 'B06Y66PCCX-es'
 tags: [  ]
 actualPrice: 3.0 EUR
 currency: EUR

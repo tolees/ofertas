@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00062YOHC-es K & N rc-1820 Universal cromado filtro Coche y Moto'
+sku: 'B00062YOHC-es'
 tags: [  ]
 actualPrice: 32.62 EUR
 currency: EUR

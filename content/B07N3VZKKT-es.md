@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N3VZKKT-es Desigual Belts Indian Pasley Cinturón Negro NEGRO 2000 90...'
+sku: 'B07N3VZKKT-es'
 tags: [  ]
 actualPrice: 15.94 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KK4JKWD-es Columbia Ventrailia 3 Low Outdry Zapatillas de Senderismo...'
+sku: 'B07KK4JKWD-es'
 tags: [  ]
 actualPrice: 33.72 EUR
 currency: EUR

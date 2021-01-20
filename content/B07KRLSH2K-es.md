@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRLSH2K-es New Balance - 574v2 Zapatillas Mujer Rojo Red/Black...'
+sku: 'B07KRLSH2K-es'
 tags: [  ]
 actualPrice: 64.61 EUR
 currency: EUR

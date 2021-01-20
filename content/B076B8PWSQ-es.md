@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076B8PWSQ-es Fossil Reloj Analogico para Mujer de Cuarzo con Correa en...'
+sku: 'B076B8PWSQ-es'
 tags: [  ]
 actualPrice: 115.22 EUR
 currency: EUR

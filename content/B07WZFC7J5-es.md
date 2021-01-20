@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WZFC7J5-es Medidor de Contornos para Suelo 120MM Herramienta de...'
+sku: 'B07WZFC7J5-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M92Q9KD-es adidas Galaxy 4 Zapatillas de Entrenamiento para Hombre...'
+sku: 'B07M92Q9KD-es'
 tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR

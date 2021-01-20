@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRBQD48-es GANT Footwear Portland Zapatillas para Hombre Multi Green...'
+sku: 'B07KRBQD48-es'
 tags: [  ]
 actualPrice: 71.95 EUR
 currency: EUR

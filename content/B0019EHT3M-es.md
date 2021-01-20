@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0019EHT3M-es BRITA On Tap Recambio de Filtro Carbón Activo Blanco 2...'
+sku: 'B0019EHT3M-es'
 tags: [  ]
 actualPrice: 32.6 EUR
 currency: EUR

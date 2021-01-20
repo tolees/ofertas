@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M8HGAVU-es New Balance ML373 Zapatillas para Hombre Negro Black Grey...'
+sku: 'B01M8HGAVU-es'
 tags: [  ]
 actualPrice: 58.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GH6JO1Q-es Jata Ex296 Exprimidor Eléctrico Exprimidor Sencillo De...'
+sku: 'B01GH6JO1Q-es'
 tags: [  ]
 actualPrice: 10.98 EUR
 currency: EUR

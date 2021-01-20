@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08617LDGQ-es Qomolo Esterillas Inflables Camping Ultraligera Esterilla...'
+sku: 'B08617LDGQ-es'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

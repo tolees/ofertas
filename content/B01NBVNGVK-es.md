@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NBVNGVK-es Campingaz 2000031416 Barbacoa Universal Negro 105 x 61 x...'
+sku: 'B01NBVNGVK-es'
 tags: [  ]
 actualPrice: 27.94 EUR
 currency: EUR

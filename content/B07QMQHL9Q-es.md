@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QMQHL9Q-es HoneyHolly Botella de Agua Deportes...'
+sku: 'B07QMQHL9Q-es'
 tags: [  ]
 actualPrice: 10.97 EUR
 currency: EUR

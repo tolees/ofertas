@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016KOGWNS-es Mate Top Coat Gel Sensationail 7 39 ml'
+sku: 'B016KOGWNS-es'
 tags: [  ]
 actualPrice: 6.3 EUR
 currency: EUR

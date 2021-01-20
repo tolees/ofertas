@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KMBB1R5-es Merrell Bare Access XTR Zapatillas Deportivas para...'
+sku: 'B07KMBB1R5-es'
 tags: [  ]
 actualPrice: 71.99 EUR
 currency: EUR

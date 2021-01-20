@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007IUDKE8-es Stendhal Recette Merveilleuse Crema Revitalisante Jour...'
+sku: 'B007IUDKE8-es'
 tags: [  ]
 actualPrice: 37.0 EUR
 currency: EUR

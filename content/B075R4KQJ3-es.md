@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075R4KQJ3-es Firbon cortadora de papel titanio 12 inch A4 cortador con...'
+sku: 'B075R4KQJ3-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

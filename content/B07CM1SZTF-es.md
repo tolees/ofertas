@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CM1SZTF-es GLEADING Ventilador portátil Control táctil Inteligente...'
+sku: 'B07CM1SZTF-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

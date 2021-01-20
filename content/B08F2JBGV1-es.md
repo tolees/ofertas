@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08F2JBGV1-es RECUR Mosasaurus Dinosaur Figurines Jurassic Toys -...'
+sku: 'B08F2JBGV1-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

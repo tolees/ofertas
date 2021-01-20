@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GVSY3NZ-es edc by Esprit 118cc1b003 Pantalones Azul Navy 400 W34/L30...'
+sku: 'B07GVSY3NZ-es'
 tags: [  ]
 actualPrice: 23.06 EUR
 currency: EUR

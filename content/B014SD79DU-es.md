@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014SD79DU-es Nike MD Runner 2 TDV Zapatillas de Deporte Unisex niño...'
+sku: 'B014SD79DU-es'
 tags: [  ]
 actualPrice: 25.19 EUR
 currency: EUR

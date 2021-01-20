@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MNGYKKD-es Le Coq Sportif COURTSTAR Sport Zapatillas para Hombre...'
+sku: 'B07MNGYKKD-es'
 tags: [  ]
 actualPrice: 31.21 EUR
 currency: EUR

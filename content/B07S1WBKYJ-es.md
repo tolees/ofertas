@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S1WBKYJ-es Liberex Barbero Electrico Hombres - Máquina de Cortar Pelo...'
+sku: 'B07S1WBKYJ-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

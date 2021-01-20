@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T1B8WY1-es FORMIZON 600 Piezas Plumas de Colores Plumas de la...'
+sku: 'B07T1B8WY1-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

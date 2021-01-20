@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PLKCRP6-es Pegatinas de pared de imitación de ladrillo tridimensional...'
+sku: 'B07PLKCRP6-es'
 tags: [  ]
 actualPrice: 1.02 EUR
 currency: EUR

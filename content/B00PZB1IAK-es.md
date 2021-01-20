@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PZB1IAK-es Nike Court Royale Zapatillas para Mujer Negro Black/White...'
+sku: 'B00PZB1IAK-es'
 tags: [  ]
 actualPrice: 38.99 EUR
 currency: EUR

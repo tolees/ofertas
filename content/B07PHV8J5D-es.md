@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PHV8J5D-es XTI 49506 Zapatillas para Mujer Azul Navy Navy 38 EU'
+sku: 'B07PHV8J5D-es'
 tags: [  ]
 actualPrice: 21.18 EUR
 currency: EUR

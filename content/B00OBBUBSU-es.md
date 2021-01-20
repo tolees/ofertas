@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OBBUBSU-es Bosch Professional BT 150 - Trípode de construcción 55 –...'
+sku: 'B00OBBUBSU-es'
 tags: [  ]
 actualPrice: 36.33 EUR
 currency: EUR

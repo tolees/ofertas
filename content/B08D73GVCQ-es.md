@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08D73GVCQ-es 10A Control remoto inalámbrico inteligente para el hogar...'
+sku: 'B08D73GVCQ-es'
 tags: [  ]
 actualPrice: 22.77 EUR
 currency: EUR

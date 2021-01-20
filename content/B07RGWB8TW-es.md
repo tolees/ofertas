@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RGWB8TW-es DURAGADGET Cable De Audio Portátil Medion MD61338 HP...'
+sku: 'B07RGWB8TW-es'
 tags: [  ]
 actualPrice: 9.89 EUR
 currency: EUR

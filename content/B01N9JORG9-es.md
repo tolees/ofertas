@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N9JORG9-es Olay Anti-Edad Firmeza & Efecto Lifting Crema Reafirmante...'
+sku: 'B01N9JORG9-es'
 tags: [  ]
 actualPrice: 4.98 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H91CGG9-es Bourjois Rouge Fabuleux Barra De Labios Tono 010 Scarlet...'
+sku: 'B07H91CGG9-es'
 tags: [  ]
 actualPrice: 6.75 EUR
 currency: EUR

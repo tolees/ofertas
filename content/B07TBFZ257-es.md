@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TBFZ257-es Quiksilver Stapilton-Chaqueta De Lona con Cremallera para...'
+sku: 'B07TBFZ257-es'
 tags: [  ]
 actualPrice: 20.39 EUR
 currency: EUR

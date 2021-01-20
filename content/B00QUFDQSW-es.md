@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00QUFDQSW-es Scitec Nutrition Hot Blood 3.0 Complejo estimulante de...'
+sku: 'B00QUFDQSW-es'
 tags: [  ]
 actualPrice: 10.27 EUR
 currency: EUR

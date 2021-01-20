@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LWMECSJ-es San Ignacio Cazo Aluminio Forjado Gris 16 cm'
+sku: 'B01LWMECSJ-es'
 tags: [  ]
 actualPrice: 12.9 EUR
 currency: EUR

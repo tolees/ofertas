@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078TM3CPC-es Pepe Jeans Vincent Polo Azul Navy 595 Medium para Hombre'
+sku: 'B078TM3CPC-es'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

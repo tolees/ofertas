@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0754RNWXW-es Salomon Agile Mid Tight W Mallas 3/4 para Running Mezcla...'
+sku: 'B0754RNWXW-es'
 tags: [  ]
 actualPrice: 33.49 EUR
 currency: EUR

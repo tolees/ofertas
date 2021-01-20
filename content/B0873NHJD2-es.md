@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0873NHJD2-es Giraffe and Annika - Limited Edition'
+sku: 'B0873NHJD2-es'
 tags: [  ]
 actualPrice: 37.18 EUR
 currency: EUR

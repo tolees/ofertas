@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HFZTVP8-es New Balance 420 Zapatillas para Mujer Rosa Pink Pink 43 EU'
+sku: 'B07HFZTVP8-es'
 tags: [  ]
 actualPrice: 19.51 EUR
 currency: EUR

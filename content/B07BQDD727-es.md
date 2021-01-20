@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BQDD727-es Dove Desodorante Original Ahorro - Paquetes de 2 x 200 ml...'
+sku: 'B07BQDD727-es'
 tags: [  ]
 actualPrice: 3.75 EUR
 currency: EUR

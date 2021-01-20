@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M12PKNI-es Guess Reloj Análogo clásico para Mujer de Cuarzo con...'
+sku: 'B01M12PKNI-es'
 tags: [  ]
 actualPrice: 110.85 EUR
 currency: EUR

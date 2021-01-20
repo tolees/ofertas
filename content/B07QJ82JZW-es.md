@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QJ82JZW-es Armani Exchange Reloj Analógico para Hombre de Cuarzo con...'
+sku: 'B07QJ82JZW-es'
 tags: [  ]
 actualPrice: 71.6 EUR
 currency: EUR

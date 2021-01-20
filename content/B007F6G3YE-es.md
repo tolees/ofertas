@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007F6G3YE-es Lékué Decorador pastelería Silicona Rojo'
+sku: 'B007F6G3YE-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

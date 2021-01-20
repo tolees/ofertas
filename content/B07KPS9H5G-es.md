@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPS9H5G-es Funko Vinyl: Disney: Dumbo: Pop 1 Fireman Figura de Vinilo...'
+sku: 'B07KPS9H5G-es'
 tags: [  ]
 actualPrice: 5.95 EUR
 currency: EUR

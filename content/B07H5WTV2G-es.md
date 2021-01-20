@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H5WTV2G-es Riot: Civil Unrest'
+sku: 'B07H5WTV2G-es'
 tags: [  ]
 actualPrice: 19.86 EUR
 currency: EUR

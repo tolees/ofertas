@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BYSY65V-es L Oreal Paris Dermo Expertise Revitalift Filler Mascarilla...'
+sku: 'B07BYSY65V-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

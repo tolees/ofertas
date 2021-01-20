@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MR9NRMT-es Té verde menta Té verde marroquí con menta nana Mezcla de...'
+sku: 'B01MR9NRMT-es'
 tags: [  ]
 actualPrice: 25.9 EUR
 currency: EUR

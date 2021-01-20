@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T3GZK6L-es Timberland Bradstreet Plain Toe Sensorflex Zapatos de...'
+sku: 'B07T3GZK6L-es'
 tags: [  ]
 actualPrice: 65.0 EUR
 currency: EUR

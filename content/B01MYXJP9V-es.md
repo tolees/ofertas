@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MYXJP9V-es deAO RC Coche TodoTerreno Rock Crawler 4x4 a Control...'
+sku: 'B01MYXJP9V-es'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

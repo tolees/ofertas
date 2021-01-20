@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CNQCFMM-es Leabags - Cuaderno de notas 68 páginas 9 x 14 cm'
+sku: 'B07CNQCFMM-es'
 tags: [  ]
 actualPrice: 8.98 EUR
 currency: EUR

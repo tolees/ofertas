@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M9QR4SB-es Lee Daren Button Fly Jeans Azul Intense Blue Gi 36W / 34L...'
+sku: 'B07M9QR4SB-es'
 tags: [  ]
 actualPrice: 41.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GL786MT-es Isdin Isdinceutics Tratamiento Antimanchas Pigment Expert...'
+sku: 'B07GL786MT-es'
 tags: [  ]
 actualPrice: 24.9 EUR
 currency: EUR

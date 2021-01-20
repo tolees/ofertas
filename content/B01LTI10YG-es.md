@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LTI10YG-es Exclusivo Nescafé Dolce Gusto Café con Leche Pack de 3 x...'
+sku: 'B01LTI10YG-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

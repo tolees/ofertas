@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083ZX76HJ-es Collares Mujer Colgante Corazón Plata 925 Rosa Colgante...'
+sku: 'B083ZX76HJ-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

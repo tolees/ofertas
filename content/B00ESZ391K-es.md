@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ESZ391K-es Rayen 6151.01 Funda para Tabla de Planchar Tejido de...'
+sku: 'B00ESZ391K-es'
 tags: [  ]
 actualPrice: 6.58 EUR
 currency: EUR

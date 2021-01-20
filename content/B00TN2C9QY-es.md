@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TN2C9QY-es Velvet 2ª temporada [Blu-ray]'
+sku: 'B00TN2C9QY-es'
 tags: [  ]
 actualPrice: 23.25 EUR
 currency: EUR

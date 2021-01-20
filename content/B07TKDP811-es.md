@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TKDP811-es Levi s XX Chino Std II Pantalones Rosa Rose Tan Shady GD...'
+sku: 'B07TKDP811-es'
 tags: [  ]
 actualPrice: 26.36 EUR
 currency: EUR

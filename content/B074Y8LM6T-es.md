@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074Y8LM6T-es NYX Professional Makeup Delineador de ojos Epic Ink Liner...'
+sku: 'B074Y8LM6T-es'
 tags: [  ]
 actualPrice: 6.95 EUR
 currency: EUR

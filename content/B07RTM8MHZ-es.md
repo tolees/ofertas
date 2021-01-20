@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RTM8MHZ-es Tiny Love Rocker Napper Balancin para bebès hamaca con...'
+sku: 'B07RTM8MHZ-es'
 tags: [  ]
 actualPrice: 89.4 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0746HXM5X-es Vbiger Trineos de Snowboard Moto Ciclismo Guantes de...'
+sku: 'B0746HXM5X-es'
 tags: [  ]
 actualPrice: 16.95 EUR
 currency: EUR

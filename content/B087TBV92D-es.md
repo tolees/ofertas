@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087TBV92D-es qingqingR Mujeres Niñas Viaje Mármol de Viaje Cosmético...'
+sku: 'B087TBV92D-es'
 tags: [  ]
 actualPrice: 6.85 EUR
 currency: EUR

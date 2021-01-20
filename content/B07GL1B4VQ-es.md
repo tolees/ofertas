@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GL1B4VQ-es Isdin Isdinceutics Pigment Expert Serum corrector...'
+sku: 'B07GL1B4VQ-es'
 tags: [  ]
 actualPrice: 33.53 EUR
 currency: EUR

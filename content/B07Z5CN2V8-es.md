@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z5CN2V8-es Eva Lopez Botas Cowboy Piel Napa Mujer Negro'
+sku: 'B07Z5CN2V8-es'
 tags: [  ]
 actualPrice: 82.99 EUR
 currency: EUR

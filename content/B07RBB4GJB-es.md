@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RBB4GJB-es deAO Tienda de Campaña Tipi Castillo con Luces LED Casita...'
+sku: 'B07RBB4GJB-es'
 tags: [  ]
 actualPrice: 28.79 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0182W7IAC-es Batman Gotham City 4D Cityscape'
+sku: 'B0182W7IAC-es'
 tags: [  ]
 actualPrice: 49.68 EUR
 currency: EUR

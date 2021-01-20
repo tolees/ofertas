@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083NP4VZV-es Brace Master Colchón de Aire tamaño Doble y Almohada:...'
+sku: 'B083NP4VZV-es'
 tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR

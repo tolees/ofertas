@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0849CT7TF-es Captain Tsubasa: Rise Of New Champions'
+sku: 'B0849CT7TF-es'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NF67YCK-es Lotus Reloj Analógico para Hombre de Cuarzo con Correa en...'
+sku: 'B07NF67YCK-es'
 tags: [  ]
 actualPrice: 60.94 EUR
 currency: EUR

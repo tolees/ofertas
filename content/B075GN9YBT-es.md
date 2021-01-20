@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075GN9YBT-es Citizen Reloj Analogico para Hombre de Energía Solar con...'
+sku: 'B075GN9YBT-es'
 tags: [  ]
 actualPrice: 195.41 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D6ZZLQ1-es Levi s 502 Regular Taper Jeans Azul Prewash 95977 0181 32W...'
+sku: 'B07D6ZZLQ1-es'
 tags: [  ]
 actualPrice: 44.37 EUR
 currency: EUR

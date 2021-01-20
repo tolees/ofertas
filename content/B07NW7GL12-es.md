@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NW7GL12-es Skechers Uno- Roundabout Zapatillas para Mujer White...'
+sku: 'B07NW7GL12-es'
 tags: [  ]
 actualPrice: 48.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01K9WLB88-es VIPMOON 44 teclas de control remoto inalámbrico por...'
+sku: 'B01K9WLB88-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

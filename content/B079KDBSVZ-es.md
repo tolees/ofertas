@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079KDBSVZ-es 12W LED Apliques de Pared Interior/exterior Lamparas de...'
+sku: 'B079KDBSVZ-es'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

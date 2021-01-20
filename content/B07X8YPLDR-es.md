@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X8YPLDR-es ISDIN BodySenses Loción Corporal Gama Refrescante con Flor...'
+sku: 'B07X8YPLDR-es'
 tags: [  ]
 actualPrice: 14.11 EUR
 currency: EUR

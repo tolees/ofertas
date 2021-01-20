@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0776XH2PF-es Tommy Jeans Mujer Mid Rise Sandy Jeans Azul New Rinse...'
+sku: 'B0776XH2PF-es'
 tags: [  ]
 actualPrice: 29.65 EUR
 currency: EUR

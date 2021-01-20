@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YPRJZHM-es Safety 1st Looky Trona para bebé evolutiva y reclinable en...'
+sku: 'B07YPRJZHM-es'
 tags: [  ]
 actualPrice: 69.67 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L3CKPTV-es Tommy Hilfiger Lightweight Leather Sneaker Zapatillas para...'
+sku: 'B07L3CKPTV-es'
 tags: [  ]
 actualPrice: 59.49 EUR
 currency: EUR

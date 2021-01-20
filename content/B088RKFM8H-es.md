@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088RKFM8H-es Dispensador Automático de Jabón o hidroalcoholico Sensor...'
+sku: 'B088RKFM8H-es'
 tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZNQZ4VD-es BRIKSMAX Kit de Iluminación Led para Lego Star Wars Caza...'
+sku: 'B07ZNQZ4VD-es'
 tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR

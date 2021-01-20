@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T4NBVLC-es REYLEO Maleta de Cabina Rígida Ligera Equipaje de Mano de...'
+sku: 'B07T4NBVLC-es'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HG4TBBY-es New Balance 373 Zapatillas Hombre Negro Black Black 41.5...'
+sku: 'B07HG4TBBY-es'
 tags: [  ]
 actualPrice: 52.47 EUR
 currency: EUR

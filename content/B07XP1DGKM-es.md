@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XP1DGKM-es Cartucho de Fono Giratorio con lápiz de Repuesto Negro y...'
+sku: 'B07XP1DGKM-es'
 tags: [  ]
 actualPrice: 0.01 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UCC2O7I-es Finish Powerball All in 1 Max - Pastillas para el...'
+sku: 'B00UCC2O7I-es'
 tags: [  ]
 actualPrice: 6.71 EUR
 currency: EUR

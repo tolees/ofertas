@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EU9MYMY-es Wrangler Texas Contrast Hombre Jeans Negro Raven 33W / 32L'
+sku: 'B00EU9MYMY-es'
 tags: [  ]
 actualPrice: 36.43 EUR
 currency: EUR

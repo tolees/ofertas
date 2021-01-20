@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082NLNSRN-es BACKTURE Lámpara Antimosquitos Electrico 18W UV Lámpara...'
+sku: 'B082NLNSRN-es'
 tags: [  ]
 actualPrice: 26.32 EUR
 currency: EUR

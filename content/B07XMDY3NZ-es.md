@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XMDY3NZ-es Skechers Flex Advantage 3.0 Landess Zapatillas para Hombre...'
+sku: 'B07XMDY3NZ-es'
 tags: [  ]
 actualPrice: 26.5 EUR
 currency: EUR

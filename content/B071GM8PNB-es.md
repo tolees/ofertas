@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071GM8PNB-es Saucony Jazz Original Vintage Zapatillas de Cross para...'
+sku: 'B071GM8PNB-es'
 tags: [  ]
 actualPrice: 58.58 EUR
 currency: EUR

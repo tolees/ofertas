@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RR5DNTG-es American Tourister Flylife Equipaje de Mano 67 Centimeters...'
+sku: 'B07RR5DNTG-es'
 tags: [  ]
 actualPrice: 77.5 EUR
 currency: EUR

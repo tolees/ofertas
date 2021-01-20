@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MTGBSLA-es PEKITAS Bebe Capa De Baño Con Capucha y Manopla 75x75 cm...'
+sku: 'B01MTGBSLA-es'
 tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SW3D2CN-es Aerku Protector de Pantalla para Echó Show 5 9H Dureza...'
+sku: 'B07SW3D2CN-es'
 tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HLSY3MC-es APRITECH® Carbón Activado Para kit Blanqueamiento Dental...'
+sku: 'B07HLSY3MC-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

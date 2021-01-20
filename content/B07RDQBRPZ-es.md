@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RDQBRPZ-es adidas Altarun CF K Zapatillas de Running Unisex Niños...'
+sku: 'B07RDQBRPZ-es'
 tags: [  ]
 actualPrice: 11.91 EUR
 currency: EUR

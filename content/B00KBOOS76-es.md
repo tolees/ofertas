@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KBOOS76-es BRA Efficient - Asas de Silicona 2 Unidades Medida...'
+sku: 'B00KBOOS76-es'
 tags: [  ]
 actualPrice: 3.46 EUR
 currency: EUR

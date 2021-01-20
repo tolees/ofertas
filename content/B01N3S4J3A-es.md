@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N3S4J3A-es Only onlGEENA XO L/S PULLOVER KNT NOOS Suéter para Mujer...'
+sku: 'B01N3S4J3A-es'
 tags: [  ]
 actualPrice: 13.19 EUR
 currency: EUR

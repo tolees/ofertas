@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ULUETJW-es NIDO DE PAJAROS - INTERHOME©'
+sku: 'B00ULUETJW-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

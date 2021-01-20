@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JQ8P8ZX-es Tommy Hilfiger BB Cap Gorra de béisbol Azul Talla única...'
+sku: 'B07JQ8P8ZX-es'
 tags: [  ]
 actualPrice: 15.19 EUR
 currency: EUR

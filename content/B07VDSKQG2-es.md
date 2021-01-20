@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VDSKQG2-es Fila Calcetines de deporte para Hombre Negro 39/42 pack de 6'
+sku: 'B07VDSKQG2-es'
 tags: [  ]
 actualPrice: 8.22 EUR
 currency: EUR

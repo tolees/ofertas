@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X6GYPJZ-es Spalding NBA Rookie Gear out 83-419Z Balón de Baloncesto...'
+sku: 'B06X6GYPJZ-es'
 tags: [  ]
 actualPrice: 16.49 EUR
 currency: EUR

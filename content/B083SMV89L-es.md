@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083SMV89L-es Pulsera de Actividad Inteligente IP67 Impermeable Reloj...'
+sku: 'B083SMV89L-es'
 tags: [  ]
 actualPrice: 38.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L14GYV8-es Under Armour Rival Parte Superior del Calentamiento Mujer...'
+sku: 'B07L14GYV8-es'
 tags: [  ]
 actualPrice: 34.97 EUR
 currency: EUR

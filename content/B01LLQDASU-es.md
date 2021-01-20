@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LLQDASU-es Quid Set 5 Gadgets INOX con Soporte Brassia Acero...'
+sku: 'B01LLQDASU-es'
 tags: [  ]
 actualPrice: 21.9 EUR
 currency: EUR

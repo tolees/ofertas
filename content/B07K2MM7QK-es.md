@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2MM7QK-es Adidas Vl Court 2.0 K Zapatillas de deporte Unisex niños...'
+sku: 'B07K2MM7QK-es'
 tags: [  ]
 actualPrice: 27.49 EUR
 currency: EUR

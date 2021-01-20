@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XSC4H28-es Daniel Wellington Reloj Digital para Mujer de Cuarzo con...'
+sku: 'B06XSC4H28-es'
 tags: [  ]
 actualPrice: 80.52 EUR
 currency: EUR

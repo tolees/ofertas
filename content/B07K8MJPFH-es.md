@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K8MJPFH-es iSwim Pulsera Actividad Pulsera Inteligente con Pulsómetro...'
+sku: 'B07K8MJPFH-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

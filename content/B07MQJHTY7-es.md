@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MQJHTY7-es Rowenta - Aspirador escoba inalámbrica RH8773WU autonomía...'
+sku: 'B07MQJHTY7-es'
 tags: [  ]
 actualPrice: 69.0 EUR
 currency: EUR

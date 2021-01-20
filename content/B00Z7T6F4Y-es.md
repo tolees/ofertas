@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00Z7T6F4Y-es OtterBox Defender - Funda de protección triple capa para...'
+sku: 'B00Z7T6F4Y-es'
 tags: [  ]
 actualPrice: 67.49 EUR
 currency: EUR

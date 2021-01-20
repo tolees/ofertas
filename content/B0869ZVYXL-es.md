@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0869ZVYXL-es Durex Preservativos Mutual Clímax con Puntos y Estrías...'
+sku: 'B0869ZVYXL-es'
 tags: [  ]
 actualPrice: 7.12 EUR
 currency: EUR

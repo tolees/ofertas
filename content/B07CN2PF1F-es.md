@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CN2PF1F-es Auriculares Bluetooth Syllable D900P Auriculares...'
+sku: 'B07CN2PF1F-es'
 tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR

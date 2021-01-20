@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y3CKG5Z-es Festina Reloj Cronógrafo para Hombre de Cuarzo con Correa...'
+sku: 'B06Y3CKG5Z-es'
 tags: [  ]
 actualPrice: 110.01 EUR
 currency: EUR

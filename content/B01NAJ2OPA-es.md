@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NAJ2OPA-es Jata QP398N Quitapelusas Cuchillas de acero inoxidable...'
+sku: 'B01NAJ2OPA-es'
 tags: [  ]
 actualPrice: 6.61 EUR
 currency: EUR

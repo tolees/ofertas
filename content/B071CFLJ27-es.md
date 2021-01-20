@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071CFLJ27-es Nurana Cosmetics Crema diurna facial con factor de...'
+sku: 'B071CFLJ27-es'
 tags: [  ]
 actualPrice: 4.71 EUR
 currency: EUR

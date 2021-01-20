@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WHR617T-es 100Pcs CD DVD Funda de Almacenamiento de Doble Cara Funda...'
+sku: 'B07WHR617T-es'
 tags: [  ]
 actualPrice: 2.51 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GEYGSJW-es Brooks Defyance 9 Zapatillas de Gimnasia para Hombre Gris...'
+sku: 'B01GEYGSJW-es'
 tags: [  ]
 actualPrice: 36.91 EUR
 currency: EUR

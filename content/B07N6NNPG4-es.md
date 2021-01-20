@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N6NNPG4-es Tommy Hilfiger TH Pompom Beanie Gorro de Punto Blue Cjm...'
+sku: 'B07N6NNPG4-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

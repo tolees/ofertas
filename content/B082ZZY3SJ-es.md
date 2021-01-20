@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082ZZY3SJ-es Telescópico Magnético CHIFOOM 2pcs Pick Up...'
+sku: 'B082ZZY3SJ-es'
 tags: [  ]
 actualPrice: 8.97 EUR
 currency: EUR

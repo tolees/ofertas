@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086BXBW1G-es Oihxse Funda Compatible con Samsung Galaxy S20 Plus 5G...'
+sku: 'B086BXBW1G-es'
 tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR

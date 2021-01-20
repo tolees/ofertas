@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0861Y3CNS-es AGAKY Mini Ventilador de Mano Ventiladores USB Recargable...'
+sku: 'B0861Y3CNS-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

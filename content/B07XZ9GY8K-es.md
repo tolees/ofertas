@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XZ9GY8K-es Masajeadores eléctricos para pies Pulsos de Baja...'
+sku: 'B07XZ9GY8K-es'
 tags: [  ]
 actualPrice: 25.9 EUR
 currency: EUR

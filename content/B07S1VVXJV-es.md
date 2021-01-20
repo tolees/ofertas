@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S1VVXJV-es Diesel UFSB-BRAS Sujetador Deportivo para Mujer Multicolor...'
+sku: 'B07S1VVXJV-es'
 tags: [  ]
 actualPrice: 19.6 EUR
 currency: EUR

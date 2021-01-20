@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00QTJ1FR8-es Venus ComfortGlide Breeze Recambio De Maquinilla 2-en-1 4...'
+sku: 'B00QTJ1FR8-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

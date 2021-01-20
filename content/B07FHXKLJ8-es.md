@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FHXKLJ8-es Fuumuui DIY preimpreso Lienzo Regalo de Pintura al óleo...'
+sku: 'B07FHXKLJ8-es'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

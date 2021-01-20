@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06VYJLF6Q-es INTEY Plastificador A4 / A5 / A6 : Función ABS / 3 minutos...'
+sku: 'B06VYJLF6Q-es'
 tags: [  ]
 actualPrice: 26.63 EUR
 currency: EUR

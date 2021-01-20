@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01INE5XT2-es Sparco SPC1111KAZ Almohadillas y Funda de Volante Negro/Azul'
+sku: 'B01INE5XT2-es'
 tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR

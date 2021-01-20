@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SGJ49YG-es Jeffergarden Mosquitero electrónico Potencia de batería...'
+sku: 'B07SGJ49YG-es'
 tags: [  ]
 actualPrice: 6.59 EUR
 currency: EUR

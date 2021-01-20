@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071GL59RX-es Great Cum x3-30 caps Sex Tabletten für den Mann'
+sku: 'B071GL59RX-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

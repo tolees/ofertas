@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018VIQ85S-es QIYUN.Z Mujeres del Lazo De La Cintura De Algodon...'
+sku: 'B018VIQ85S-es'
 tags: [  ]
 actualPrice: 1.99 EUR
 currency: EUR

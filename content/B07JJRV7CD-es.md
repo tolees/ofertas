@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JJRV7CD-es G-STAR RAW Rovic Mid Waist Skinny Pantalones Negro dk...'
+sku: 'B07JJRV7CD-es'
 tags: [  ]
 actualPrice: 27.17 EUR
 currency: EUR

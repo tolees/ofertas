@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083Q5ZMPP-es Gillette SkinGuard Sensitive Maquinillas Para Hombre 8...'
+sku: 'B083Q5ZMPP-es'
 tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR

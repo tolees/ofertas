@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LWPILNG-es Gourmet Extra Lenteja - 1 Kg'
+sku: 'B01LWPILNG-es'
 tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR

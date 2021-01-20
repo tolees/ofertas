@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZZ7HNR-es Puma St Runner V2 Nl Zapatillas de Cross Unisex adulto...'
+sku: 'B07CZZ7HNR-es'
 tags: [  ]
 actualPrice: 39.19 EUR
 currency: EUR

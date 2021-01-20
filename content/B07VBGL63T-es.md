@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VBGL63T-es Lee Extreme Motion Short Pantalones Cortos Azul Navy 09 58...'
+sku: 'B07VBGL63T-es'
 tags: [  ]
 actualPrice: 20.49 EUR
 currency: EUR

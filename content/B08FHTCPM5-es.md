@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FHTCPM5-es InnooCare 12 unidades lavable y reutilizable'
+sku: 'B08FHTCPM5-es'
 tags: [  ]
 actualPrice: 6.6 EUR
 currency: EUR

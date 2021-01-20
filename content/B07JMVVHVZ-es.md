@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JMVVHVZ-es Biotina 10.000 mcg Vitamina B7 | 365 comprimidos...'
+sku: 'B07JMVVHVZ-es'
 tags: [  ]
 actualPrice: 13.02 EUR
 currency: EUR

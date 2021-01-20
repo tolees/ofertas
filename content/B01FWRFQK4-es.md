@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FWRFQK4-es Sternitz Botella de Agua Hydra Acero Inoxidable con...'
+sku: 'B01FWRFQK4-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

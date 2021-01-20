@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00N0E1KDE-es Olympus M.Zuiko - Objetivo Digital ED 12 mm F2.0 longitud...'
+sku: 'B00N0E1KDE-es'
 tags: [  ]
 actualPrice: 425.46 EUR
 currency: EUR

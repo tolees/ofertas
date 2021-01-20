@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C9MRXQM-es Bullet - Barra de cacao Deale para labios 7 x 1.8 cm Azul...'
+sku: 'B07C9MRXQM-es'
 tags: [  ]
 actualPrice: 2.45 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q2ZR7HC-es WOSTOO Faja Reductora Adelgazante Hombre Mujer Neopreno...'
+sku: 'B07Q2ZR7HC-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

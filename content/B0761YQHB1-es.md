@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0761YQHB1-es Iridium Labs Cerberus Suplemento - 60 Cápsulas'
+sku: 'B0761YQHB1-es'
 tags: [  ]
 actualPrice: 17.75 EUR
 currency: EUR

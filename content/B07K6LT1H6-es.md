@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K6LT1H6-es NICREW Temporizador Digital Programable Enchufe...'
+sku: 'B07K6LT1H6-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

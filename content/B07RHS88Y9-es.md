@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RHS88Y9-es Depiladora Eléctrica Afeitadora Electrica Eléctrica...'
+sku: 'B07RHS88Y9-es'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

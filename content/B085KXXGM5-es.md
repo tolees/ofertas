@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085KXXGM5-es Aire Acondicionado Portatil Aire Acondicionado Móvil con...'
+sku: 'B085KXXGM5-es'
 tags: [  ]
 actualPrice: 219.89 EUR
 currency: EUR

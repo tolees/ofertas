@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001DRNNKI-es MANN-FILTER CUK 2939 Habitáculo Filtro antipolen con...'
+sku: 'B001DRNNKI-es'
 tags: [  ]
 actualPrice: 11.12 EUR
 currency: EUR

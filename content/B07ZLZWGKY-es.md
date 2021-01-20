@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZLZWGKY-es NMDD Ornament Modernen Minimalistischen Mode Mädchen Band...'
+sku: 'B07ZLZWGKY-es'
 tags: [  ]
 actualPrice: 77.99 EUR
 currency: EUR

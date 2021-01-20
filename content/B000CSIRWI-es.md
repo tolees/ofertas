@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000CSIRWI-es NGK CR9E - Bujía'
+sku: 'B000CSIRWI-es'
 tags: [  ]
 actualPrice: 7.48 EUR
 currency: EUR

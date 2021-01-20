@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HRQ64HH-es Kitchen Emperor Cuchillo de frutas cuchillo de cocina...'
+sku: 'B07HRQ64HH-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

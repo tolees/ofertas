@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MN4KZJ9-es adidas Ultraboost 19 M Zapatillas de Running para Hombre...'
+sku: 'B07MN4KZJ9-es'
 tags: [  ]
 actualPrice: 116.99 EUR
 currency: EUR

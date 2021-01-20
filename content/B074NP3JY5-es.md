@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074NP3JY5-es 1 Unid UV Gel Nail Art Pincel de Pintura Con Mango de...'
+sku: 'B074NP3JY5-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

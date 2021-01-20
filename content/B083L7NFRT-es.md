@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083L7NFRT-es Queta Ei-Separator Eiweiß-Eigelb-Filter-Separator Küchen-...'
+sku: 'B083L7NFRT-es'
 tags: [  ]
 actualPrice: 7.85 EUR
 currency: EUR

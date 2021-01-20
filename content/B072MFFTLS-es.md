@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072MFFTLS-es RED WAGON Zapatillas Back To School para Niños Negro Black...'
+sku: 'B072MFFTLS-es'
 tags: [  ]
 actualPrice: 8.7 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079FKCKHT-es Casio EDIFICE Reloj en caja sólida de acero inoxidable 10...'
+sku: 'B079FKCKHT-es'
 tags: [  ]
 actualPrice: 52.98 EUR
 currency: EUR

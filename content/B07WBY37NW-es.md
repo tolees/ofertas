@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WBY37NW-es Tommy Hilfiger Hilfiger Slim Polo Rosa Classic Pink Medium...'
+sku: 'B07WBY37NW-es'
 tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR

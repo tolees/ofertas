@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078MXRQ7H-es TOPELEK Luz Lectura Libros LED con 3 Modos de Luz Lampara...'
+sku: 'B078MXRQ7H-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PGNMG3T-es Mini Ventilador NASUM USB Ventilador Portatil Batería...'
+sku: 'B07PGNMG3T-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

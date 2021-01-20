@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J1J9NF1-es Skechers Flex Appeal 3.0-Satellites Zapatillas para Mujer...'
+sku: 'B07J1J9NF1-es'
 tags: [  ]
 actualPrice: 29.96 EUR
 currency: EUR

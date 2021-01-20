@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VHQ4LJ8-es Jack & Jones Jprdax Knit Crew Neck suéter Blanco White...'
+sku: 'B07VHQ4LJ8-es'
 tags: [  ]
 actualPrice: 8.97 EUR
 currency: EUR

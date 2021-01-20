@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0096NDMBQ-es Lampa - 90139 - Adaptador para Espejo Accesorio de Moto'
+sku: 'B0096NDMBQ-es'
 tags: [  ]
 actualPrice: 6.0 EUR
 currency: EUR

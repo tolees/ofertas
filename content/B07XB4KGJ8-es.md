@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XB4KGJ8-es FENICAL Gorro quirúrgico Ajustable Perro Impreso médico...'
+sku: 'B07XB4KGJ8-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

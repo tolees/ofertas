@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01K7RZMEY-es Carbonell Aceite de Oliva Virgen Extra 3L'
+sku: 'B01K7RZMEY-es'
 tags: [  ]
 actualPrice: 8.55 EUR
 currency: EUR

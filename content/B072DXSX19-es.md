@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072DXSX19-es Funko Pop! - Llavero de Vinilo Jon Snow 14690-PDQ'
+sku: 'B072DXSX19-es'
 tags: [  ]
 actualPrice: 5.95 EUR
 currency: EUR

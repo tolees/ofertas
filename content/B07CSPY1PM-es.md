@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CSPY1PM-es ValueHall 18 Piezas Sierra de Corona Perforadora Juego de...'
+sku: 'B07CSPY1PM-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

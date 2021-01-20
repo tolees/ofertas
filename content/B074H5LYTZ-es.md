@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074H5LYTZ-es Russell Hobbs Light & Easy Brights - Plancha de Ropa de...'
+sku: 'B074H5LYTZ-es'
 tags: [  ]
 actualPrice: 22.72 EUR
 currency: EUR

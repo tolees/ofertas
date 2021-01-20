@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W5L7PB9-es Botas De Nieve para Mujer 35-44 EU Botas De Invierno...'
+sku: 'B07W5L7PB9-es'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

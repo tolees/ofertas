@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X9KCJSQ-es IPOTCH El Soporte del Porta Bolsas De Lona Enrolla El...'
+sku: 'B07X9KCJSQ-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0827LNLDL-es LoveOlvido HW-546 ESP8266 Placa de Desarrollo Witty Cloud...'
+sku: 'B0827LNLDL-es'
 tags: [  ]
 actualPrice: 3.22 EUR
 currency: EUR

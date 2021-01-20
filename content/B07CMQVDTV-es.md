@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CMQVDTV-es besrey 7 en 1 Triciclos Bebes reclinable con Asiento...'
+sku: 'B07CMQVDTV-es'
 tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR

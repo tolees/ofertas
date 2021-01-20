@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SPW3C59-es Funko- Pop Books: Where s Waldo Collectible Figure...'
+sku: 'B07SPW3C59-es'
 tags: [  ]
 actualPrice: 8.09 EUR
 currency: EUR

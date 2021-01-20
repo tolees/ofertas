@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0041UWVB6-es Reebok Classic Leather Zapatillas de Trail Running para...'
+sku: 'B0041UWVB6-es'
 tags: [  ]
 actualPrice: 36.91 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PFPR4JF-es Sekey 200X 80cm Cortina Magnética de Puerta a Prueba de...'
+sku: 'B07PFPR4JF-es'
 tags: [  ]
 actualPrice: 11.04 EUR
 currency: EUR

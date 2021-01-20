@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074Z3CNYX-es Nespresso EN500BW De Longhi Lattissima One - Cafetera...'
+sku: 'B074Z3CNYX-es'
 tags: [  ]
 actualPrice: 149.0 EUR
 currency: EUR

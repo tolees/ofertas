@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JD2AR6C-es Bulova 98A167 - Reloj de Pulsera de Diseño para Hombre -...'
+sku: 'B01JD2AR6C-es'
 tags: [  ]
 actualPrice: 102.0 EUR
 currency: EUR

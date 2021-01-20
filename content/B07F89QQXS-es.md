@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F89QQXS-es Seiko Reloj Analogico para Hombre de Automático con Correa...'
+sku: 'B07F89QQXS-es'
 tags: [  ]
 actualPrice: 267.14 EUR
 currency: EUR

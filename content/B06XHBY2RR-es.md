@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XHBY2RR-es Helly Hansen W HH LIFA Merino Basleayer Pant Mujer Black S'
+sku: 'B06XHBY2RR-es'
 tags: [  ]
 actualPrice: 56.06 EUR
 currency: EUR

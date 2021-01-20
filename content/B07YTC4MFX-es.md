@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YTC4MFX-es Cine Quinqui [Blu-ray]'
+sku: 'B07YTC4MFX-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

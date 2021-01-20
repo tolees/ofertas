@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V32KNRX-es American Tourister Disney Legends Spinner L Maleta...'
+sku: 'B07V32KNRX-es'
 tags: [  ]
 actualPrice: 99.11 EUR
 currency: EUR

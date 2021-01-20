@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FW9X2HD-es JOYTAG Carcasa ultrafina para Xiaomi Redmi 5 Plus 360...'
+sku: 'B07FW9X2HD-es'
 tags: [  ]
 actualPrice: 5.98 EUR
 currency: EUR

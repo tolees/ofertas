@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KS26BY6-es 50W Focos LED Exterior Yuanline Floodlight IP65...'
+sku: 'B07KS26BY6-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

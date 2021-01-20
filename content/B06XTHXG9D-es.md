@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XTHXG9D-es Pepe Jeans Eggo Long PM501321 Top de Manga Larga Azul Navy...'
+sku: 'B06XTHXG9D-es'
 tags: [  ]
 actualPrice: 20.9 EUR
 currency: EUR

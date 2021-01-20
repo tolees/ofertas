@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NQLBYVB-es Maleta infantil ruedas multidireccionales Minnie Super...'
+sku: 'B07NQLBYVB-es'
 tags: [  ]
 actualPrice: 39.0 EUR
 currency: EUR

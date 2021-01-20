@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CVCDXG7-es Tryone Flexible Soporte móvil Teléfono – Soporte con...'
+sku: 'B07CVCDXG7-es'
 tags: [  ]
 actualPrice: 9.76 EUR
 currency: EUR

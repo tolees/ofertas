@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N7SKU47-es Limitless equipment Mark 1 kit de supervivencia: Mil-Spec...'
+sku: 'B01N7SKU47-es'
 tags: [  ]
 actualPrice: 25.0 EUR
 currency: EUR

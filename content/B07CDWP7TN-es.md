@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CDWP7TN-es Sotech Herramienta Multifunción de Jardinería 5 en 1...'
+sku: 'B07CDWP7TN-es'
 tags: [  ]
 actualPrice: 194.89 EUR
 currency: EUR

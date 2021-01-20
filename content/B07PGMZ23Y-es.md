@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PGMZ23Y-es Sandalia Tipo Chancla Masaje de Hombre Mujer Unisex Tira...'
+sku: 'B07PGMZ23Y-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

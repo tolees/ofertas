@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YBH7ZNZ-es Fila Sujetador Deportivo Color Azul Turquesa'
+sku: 'B07YBH7ZNZ-es'
 tags: [  ]
 actualPrice: 11.9 EUR
 currency: EUR

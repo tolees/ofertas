@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FL8M9NW-es Superdry Orange Label Jogger Chándal Azul Eclipse Navy 98t...'
+sku: 'B07FL8M9NW-es'
 tags: [  ]
 actualPrice: 40.99 EUR
 currency: EUR

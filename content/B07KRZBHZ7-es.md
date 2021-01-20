@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRZBHZ7-es Etnies Barge LS Zapatillas de Skateboard para Hombre Negro...'
+sku: 'B07KRZBHZ7-es'
 tags: [  ]
 actualPrice: 16.89 EUR
 currency: EUR

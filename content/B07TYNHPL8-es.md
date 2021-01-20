@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TYNHPL8-es AKYGA AK-CA-26 - Rejilla Protectora para Ventilador 120 mm...'
+sku: 'B07TYNHPL8-es'
 tags: [  ]
 actualPrice: 1.48 EUR
 currency: EUR

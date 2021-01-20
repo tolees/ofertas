@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082HJNWPH-es LAQI - Herramienta de Corte de Cristal de carburo de...'
+sku: 'B082HJNWPH-es'
 tags: [  ]
 actualPrice: 3.27 EUR
 currency: EUR

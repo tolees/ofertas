@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GTTCJY0-es Kerbl Dolomit Tofana - Árbol de Pared para Gatos 168 x 75...'
+sku: 'B01GTTCJY0-es'
 tags: [  ]
 actualPrice: 82.25 EUR
 currency: EUR

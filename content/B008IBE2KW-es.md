@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008IBE2KW-es Woxter UPS 800 VA - Sistema SAI de alimentación...'
+sku: 'B008IBE2KW-es'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

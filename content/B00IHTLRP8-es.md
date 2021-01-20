@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IHTLRP8-es Shingeki No Kyojin Attack on Titan Collectible Anime...'
+sku: 'B00IHTLRP8-es'
 tags: [  ]
 actualPrice: 9.83 EUR
 currency: EUR

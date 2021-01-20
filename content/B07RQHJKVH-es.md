@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RQHJKVH-es Hush Puppies - Bailarinas de Cuero Willow para Mujer...'
+sku: 'B07RQHJKVH-es'
 tags: [  ]
 actualPrice: 44.7 EUR
 currency: EUR

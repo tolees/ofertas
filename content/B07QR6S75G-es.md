@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QR6S75G-es Bulova Reloj Analógico para Mujer de Cuarzo con Correa en...'
+sku: 'B07QR6S75G-es'
 tags: [  ]
 actualPrice: 220.44 EUR
 currency: EUR

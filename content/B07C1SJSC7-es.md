@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C1SJSC7-es Parker Jotter - Pluma estilográfica cuerpo de acero...'
+sku: 'B07C1SJSC7-es'
 tags: [  ]
 actualPrice: 18.88 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WS4ZLRB-es EACLL Bombillas LED GU10 4000K Blanco Neutro 5W 535...'
+sku: 'B07WS4ZLRB-es'
 tags: [  ]
 actualPrice: 13.73 EUR
 currency: EUR

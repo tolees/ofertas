@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089NCHLLD-es SDINAZ Mochilas para computadora portátil para con Puerto...'
+sku: 'B089NCHLLD-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

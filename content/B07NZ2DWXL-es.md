@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NZ2DWXL-es Superdry Poolside Pique Polo Rojo Rouge Red Twist Y6p XS...'
+sku: 'B07NZ2DWXL-es'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

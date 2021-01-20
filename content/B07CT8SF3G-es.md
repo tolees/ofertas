@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CT8SF3G-es Orient Reloj Analógico para Hombre de Automático con...'
+sku: 'B07CT8SF3G-es'
 tags: [  ]
 actualPrice: 172.97 EUR
 currency: EUR

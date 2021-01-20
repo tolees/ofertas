@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YVLD827-es Bestlife- Equipaje- Maletas Color negro Safta 641989808'
+sku: 'B07YVLD827-es'
 tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR

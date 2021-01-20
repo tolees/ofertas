@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081YK7BDG-es Yizhet Intermitentes Led Moto Luz Señal de Giro 4Pcs...'
+sku: 'B081YK7BDG-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

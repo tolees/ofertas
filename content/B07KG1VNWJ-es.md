@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG1VNWJ-es 1 Par Súper Suave de Silicona Punta del Pie Ballet Zapato...'
+sku: 'B07KG1VNWJ-es'
 tags: [  ]
 actualPrice: 3.24 EUR
 currency: EUR

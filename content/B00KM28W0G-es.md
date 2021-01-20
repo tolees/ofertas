@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KM28W0G-es Semillas Hortícolas - Berenjena redonda negra Black Beauty...'
+sku: 'B00KM28W0G-es'
 tags: [  ]
 actualPrice: 0.99 EUR
 currency: EUR

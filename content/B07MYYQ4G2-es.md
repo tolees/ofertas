@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MYYQ4G2-es Hieha Electroestimulador Muscular Abdominales Masajeador...'
+sku: 'B07MYYQ4G2-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

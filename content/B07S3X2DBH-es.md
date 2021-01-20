@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S3X2DBH-es New Balance Draft Zapatillas de Running para Mujer Gris...'
+sku: 'B07S3X2DBH-es'
 tags: [  ]
 actualPrice: 26.9 EUR
 currency: EUR

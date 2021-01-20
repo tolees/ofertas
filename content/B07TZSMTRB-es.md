@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZSMTRB-es Opriox Protector Bucal Profesional Deportivo para Boxeo...'
+sku: 'B07TZSMTRB-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

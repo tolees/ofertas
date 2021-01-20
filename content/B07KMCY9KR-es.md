@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KMCY9KR-es MOISO SEBS Plantillas Alivio de Pies Dolorosos Soles de...'
+sku: 'B07KMCY9KR-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

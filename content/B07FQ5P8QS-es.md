@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FQ5P8QS-es Pegatinas de pared de Mariposa CCUCKY 36 Piezas Capas...'
+sku: 'B07FQ5P8QS-es'
 tags: [  ]
 actualPrice: 4.95 EUR
 currency: EUR

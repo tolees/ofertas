@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QNB6KXM-es TedGem Ventilador USB Ventilador PC Mini Ventilador USB...'
+sku: 'B07QNB6KXM-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

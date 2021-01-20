@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N41AC2W-es Ybarra - La clásica Rosa - Salsa Cocktail - 225 ml - Pack...'
+sku: 'B01N41AC2W-es'
 tags: [  ]
 actualPrice: 4.7 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MY9G68L-es Llongueras Advance Tinte de Cabello Permanente Tono #6.1...'
+sku: 'B01MY9G68L-es'
 tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR

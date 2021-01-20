@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JVC92WR-es Under Armour UNDKU Armour Heatgear Sujetador Deportivo...'
+sku: 'B07JVC92WR-es'
 tags: [  ]
 actualPrice: 16.94 EUR
 currency: EUR

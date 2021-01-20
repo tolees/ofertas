@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KTFE57U-es Craft Lightcraft Alphalux Foco 100 W LED bajo Consumo...'
+sku: 'B00KTFE57U-es'
 tags: [  ]
 actualPrice: 57.99 EUR
 currency: EUR

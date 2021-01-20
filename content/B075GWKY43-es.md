@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075GWKY43-es Mannli Mujer Unisex acero inoxidable Sin piedra'
+sku: 'B075GWKY43-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

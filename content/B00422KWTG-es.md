@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00422KWTG-es Medisana FTC Termómetro clínico digital para bebés niños y...'
+sku: 'B00422KWTG-es'
 tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR

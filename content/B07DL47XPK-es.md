@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DL47XPK-es SHENKEY Sofa Hinchable 2019 Upgrade Anti-Air Leaking Air...'
+sku: 'B07DL47XPK-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0722ZFG4X-es Taurus PI400 Placa inducción portátil Cristal'
+sku: 'B0722ZFG4X-es'
 tags: [  ]
 actualPrice: 48.98 EUR
 currency: EUR

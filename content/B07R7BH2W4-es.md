@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R7BH2W4-es CARE OF by PUMA Zapatillas bajas informales en cuero para...'
+sku: 'B07R7BH2W4-es'
 tags: [  ]
 actualPrice: 13.7 EUR
 currency: EUR

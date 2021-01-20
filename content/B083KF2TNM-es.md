@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083KF2TNM-es Voodoo Vixen Nicole Red 40s Style Mujer Abrigos...'
+sku: 'B083KF2TNM-es'
 tags: [  ]
 actualPrice: 94.49 EUR
 currency: EUR

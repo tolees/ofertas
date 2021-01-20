@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WC9NY3M-es Panamami Slime Mermaid Crystal Mud Symphony Pearl...'
+sku: 'B07WC9NY3M-es'
 tags: [  ]
 actualPrice: 2.86 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0183NE8JY-es Jivo Technology GoGear Xtra Kit – Piezas de Repuesto para...'
+sku: 'B0183NE8JY-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

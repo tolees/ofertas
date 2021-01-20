@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08424QZNX-es Triamisu Adaptador de dongle USB 2.0 CSR 4.0 sin Unidad...'
+sku: 'B08424QZNX-es'
 tags: [  ]
 actualPrice: 0.01 EUR
 currency: EUR

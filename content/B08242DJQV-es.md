@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08242DJQV-es Pack de 10 Bolsas de Comida Reutilizables Sweety Fox -...'
+sku: 'B08242DJQV-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

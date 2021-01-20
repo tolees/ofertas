@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075ZZWYHG-es Elite Bags EMS Riñonera botiquín de primeros auxilios...'
+sku: 'B075ZZWYHG-es'
 tags: [  ]
 actualPrice: 12.51 EUR
 currency: EUR

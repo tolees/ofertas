@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M3YZJJT-es Kombat UK niños Kit del ejército DPM Camuflaje Explorer...'
+sku: 'B01M3YZJJT-es'
 tags: [  ]
 actualPrice: 27.96 EUR
 currency: EUR

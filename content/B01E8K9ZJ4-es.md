@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01E8K9ZJ4-es Ayotu Water-Safe Case for Kindle Paperwhite 2018 - PU...'
+sku: 'B01E8K9ZJ4-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

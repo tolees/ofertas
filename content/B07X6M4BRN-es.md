@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X6M4BRN-es LIGE Reloj Hombres Negocio Clásico Impermeable Deportes...'
+sku: 'B07X6M4BRN-es'
 tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR

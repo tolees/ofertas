@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089QGXVFK-es YFish HD Webcam Autofocus PC con Micrófono Incorporado USB...'
+sku: 'B089QGXVFK-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S3KMZ1J-es Levi s unbasic Hoodie Capucha Multicolor Dunsmuir Floral...'
+sku: 'B07S3KMZ1J-es'
 tags: [  ]
 actualPrice: 52.5 EUR
 currency: EUR

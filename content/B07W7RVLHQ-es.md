@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W7RVLHQ-es Tommy Hilfiger Tommy Tipped Slim Polo Negro Black X-Large...'
+sku: 'B07W7RVLHQ-es'
 tags: [  ]
 actualPrice: 30.66 EUR
 currency: EUR

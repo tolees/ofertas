@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00O4BAQE6-es Friskies - Alimento complementario para perros 175 g'
+sku: 'B00O4BAQE6-es'
 tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CV5P18V-es JACK & JONES Jfwolly Nubuck Noos Zapatillas para Hombre...'
+sku: 'B07CV5P18V-es'
 tags: [  ]
 actualPrice: 36.0 EUR
 currency: EUR

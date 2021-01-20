@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079MSCLYZ-es Owlboy'
+sku: 'B079MSCLYZ-es'
 tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR

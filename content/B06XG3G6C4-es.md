@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XG3G6C4-es Babimax Alicate Pelacables Automático Multifuncional Auto-...'
+sku: 'B06XG3G6C4-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

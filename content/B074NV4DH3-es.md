@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074NV4DH3-es Cortapelos Nariz y Oreja - Liberex Recortador Eléctrico...'
+sku: 'B074NV4DH3-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

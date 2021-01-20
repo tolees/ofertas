@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CF17IMA-es STANLEY STST1-70720 - Organizador SortMaster Negro...'
+sku: 'B00CF17IMA-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

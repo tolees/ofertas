@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0813FGJZ3-es Polos Hombre Manga Corta Blanco Algodón Marca Casual...'
+sku: 'B0813FGJZ3-es'
 tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR

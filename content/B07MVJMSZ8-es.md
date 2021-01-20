@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVJMSZ8-es Napapijri Semiury 2 Gorro de Punto Gris Dark Grey Mel 197...'
+sku: 'B07MVJMSZ8-es'
 tags: [  ]
 actualPrice: 29.4 EUR
 currency: EUR

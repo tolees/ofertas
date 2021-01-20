@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GKHD1PD-es LexonElec Teclado mecánico para juegos de una sola mano...'
+sku: 'B07GKHD1PD-es'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

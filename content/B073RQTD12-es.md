@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RQTD12-es Jack & Jones Jcopinn Sweat Hood Noos Capucha Negro Black...'
+sku: 'B073RQTD12-es'
 tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR

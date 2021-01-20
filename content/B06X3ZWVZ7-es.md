@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X3ZWVZ7-es De longhi Dedica - Cafetera de Bomba de Acero Inoxidable...'
+sku: 'B06X3ZWVZ7-es'
 tags: [  ]
 actualPrice: 169.51 EUR
 currency: EUR

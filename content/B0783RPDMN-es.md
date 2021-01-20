@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0783RPDMN-es PUMA Smash v2 L Zapatillas Unisex Adulto Blanco White...'
+sku: 'B0783RPDMN-es'
 tags: [  ]
 actualPrice: 33.55 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RMLFSQ9-es Calvin Klein - Ck Cast Sml Flap Xbody Bolsos totes Mujer...'
+sku: 'B07RMLFSQ9-es'
 tags: [  ]
 actualPrice: 71.92 EUR
 currency: EUR

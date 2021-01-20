@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L4ZT5FT-es Adidas Terrex Eastrail GTX Zapatillas de Deporte para...'
+sku: 'B07L4ZT5FT-es'
 tags: [  ]
 actualPrice: 68.99 EUR
 currency: EUR

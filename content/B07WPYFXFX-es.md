@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WPYFXFX-es Lebze Bebé Muselina Swaddle Manta "Diseño de Oso polar"...'
+sku: 'B07WPYFXFX-es'
 tags: [  ]
 actualPrice: 13.9 EUR
 currency: EUR

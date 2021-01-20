@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2ZZZ6R-es Cabin Max Rio Stowaway – Bolsa de Hombro de 40x25x20cm -...'
+sku: 'B07K2ZZZ6R-es'
 tags: [  ]
 actualPrice: 7.17 EUR
 currency: EUR

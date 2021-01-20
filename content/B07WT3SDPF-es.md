@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WT3SDPF-es AOQUSSQOA Mujer Trajes de baño de una Pieza con Volantes...'
+sku: 'B07WT3SDPF-es'
 tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR

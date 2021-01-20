@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPYZF2P-es AXT SHADE Toldo Vela de Sombra Rectangular 2 x 3 m...'
+sku: 'B07KPYZF2P-es'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

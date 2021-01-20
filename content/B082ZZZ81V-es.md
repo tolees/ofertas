@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082ZZZ81V-es 2PCS Dispensador de pulverizador Oliva Aceite 100ml...'
+sku: 'B082ZZZ81V-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

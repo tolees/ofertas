@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075D3FSQ4-es Trust GXT 310D Radius - Auriculares Gaming Multi-...'
+sku: 'B075D3FSQ4-es'
 tags: [  ]
 actualPrice: 15.59 EUR
 currency: EUR

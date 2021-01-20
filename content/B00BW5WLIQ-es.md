@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BW5WLIQ-es Schwarzkopf Professional Igora Royal 7-00 Tinte - 60 ml'
+sku: 'B00BW5WLIQ-es'
 tags: [  ]
 actualPrice: 3.37 EUR
 currency: EUR

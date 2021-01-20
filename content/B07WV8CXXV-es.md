@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WV8CXXV-es SAMSUNG Galaxy Watch Active 2 SM-R830NSSAPHE - Smartwatch...'
+sku: 'B07WV8CXXV-es'
 tags: [  ]
 actualPrice: 265.0 EUR
 currency: EUR

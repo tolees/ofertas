@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CR5GFB9-es ZZZXX Pintar por Numeros Niños Mujer Sexy Pinceles Y...'
+sku: 'B08CR5GFB9-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

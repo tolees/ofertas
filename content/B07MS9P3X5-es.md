@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MS9P3X5-es Kickers Layton Botas Clasicas para Hombre Marrón Marron...'
+sku: 'B07MS9P3X5-es'
 tags: [  ]
 actualPrice: 29.6 EUR
 currency: EUR

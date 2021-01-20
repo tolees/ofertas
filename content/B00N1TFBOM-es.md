@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00N1TFBOM-es Tescoma VINAGRERA 500ML VITAMINO Colores Variados 500 ml'
+sku: 'B00N1TFBOM-es'
 tags: [  ]
 actualPrice: 19.36 EUR
 currency: EUR

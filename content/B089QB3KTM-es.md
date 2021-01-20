@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089QB3KTM-es Extensor para mascarilla para sujetar la mascarilla sin...'
+sku: 'B089QB3KTM-es'
 tags: [  ]
 actualPrice: 1.98 EUR
 currency: EUR

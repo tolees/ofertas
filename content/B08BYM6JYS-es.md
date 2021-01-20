@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BYM6JYS-es Fantiff Mini cuello portátil masajeador eléctrico aliviar...'
+sku: 'B08BYM6JYS-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

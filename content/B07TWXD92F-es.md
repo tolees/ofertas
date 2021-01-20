@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TWXD92F-es Women s Secret Packs 1 Maternity Braguita Gris Marengo 90...'
+sku: 'B07TWXD92F-es'
 tags: [  ]
 actualPrice: 8.63 EUR
 currency: EUR

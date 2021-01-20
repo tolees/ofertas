@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TYQ231F-es Funko- Pop Marvel: Fantastic Four-Invisible Girl...'
+sku: 'B07TYQ231F-es'
 tags: [  ]
 actualPrice: 6.67 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S6NTN5Z-es PUMA Smash v2 Zapatillas Unisex Adulto Azul Peacoat-...'
+sku: 'B07S6NTN5Z-es'
 tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR

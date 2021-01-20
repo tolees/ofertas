@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MM4V7NR-es Logitech C920s HD Pro Webcam Full HD 1080p/30fps Video-...'
+sku: 'B07MM4V7NR-es'
 tags: [  ]
 actualPrice: 68.99 EUR
 currency: EUR

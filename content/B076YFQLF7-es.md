@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076YFQLF7-es Nilian chapado en plata'
+sku: 'B076YFQLF7-es'
 tags: [  ]
 actualPrice: 14.11 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZYS2CZ-es Love MoschinoJc4033pp1aMujerCarteras de mano con asaNegro...'
+sku: 'B07RZYS2CZ-es'
 tags: [  ]
 actualPrice: 72.98 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SHF6Y5T-es Adidas Tensaur C Zapatillas de Running Unisex niño Noir...'
+sku: 'B07SHF6Y5T-es'
 tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR

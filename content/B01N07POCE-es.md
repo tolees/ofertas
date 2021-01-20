@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N07POCE-es HBF Vigilabebes Con Camara Pantalla LCD A Color 2 Sensor...'
+sku: 'B01N07POCE-es'
 tags: [  ]
 actualPrice: 46.99 EUR
 currency: EUR

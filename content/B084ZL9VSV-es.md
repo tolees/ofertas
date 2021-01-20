@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084ZL9VSV-es Grifo de Cocina TACKLIFE DAKF9F Grifo para Fregadero de...'
+sku: 'B084ZL9VSV-es'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

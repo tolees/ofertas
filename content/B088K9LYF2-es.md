@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088K9LYF2-es Repelente Ultrasónico Mosquitos Repelente Ultrasónico de...'
+sku: 'B088K9LYF2-es'
 tags: [  ]
 actualPrice: 16.91 EUR
 currency: EUR

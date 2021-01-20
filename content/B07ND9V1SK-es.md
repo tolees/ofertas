@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ND9V1SK-es Tommy Hilfiger Reloj Multiesfera para Hombre de Cuarzo con...'
+sku: 'B07ND9V1SK-es'
 tags: [  ]
 actualPrice: 137.39 EUR
 currency: EUR

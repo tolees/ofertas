@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06ZY9DQH6-es ZENBRE Altavoz Bluetooth Z4 Parlante Estéreo Inalámbrico...'
+sku: 'B06ZY9DQH6-es'
 tags: [  ]
 actualPrice: 38.99 EUR
 currency: EUR

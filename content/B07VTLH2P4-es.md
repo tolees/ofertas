@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VTLH2P4-es JUMPER Monitor de Presión Arterial Brazo Superior con 2...'
+sku: 'B07VTLH2P4-es'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

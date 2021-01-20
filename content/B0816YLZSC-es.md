@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0816YLZSC-es Klarstein Beerlager 88 Nevera para bebidas - 88 litros 33...'
+sku: 'B0816YLZSC-es'
 tags: [  ]
 actualPrice: 394.99 EUR
 currency: EUR

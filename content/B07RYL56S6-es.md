@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RYL56S6-es New Balance 411 Zapatillas de Running para Hombre Azul...'
+sku: 'B07RYL56S6-es'
 tags: [  ]
 actualPrice: 25.52 EUR
 currency: EUR

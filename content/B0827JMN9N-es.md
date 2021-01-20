@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0827JMN9N-es HGDGears Botella de Agua de Acero Inoxidable Botella...'
+sku: 'B0827JMN9N-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

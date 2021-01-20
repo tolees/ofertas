@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KXNRJN5-es TOUS Anillo Mujer vermeil rosado baño rosa de oro 18kt...'
+sku: 'B07KXNRJN5-es'
 tags: [  ]
 actualPrice: 55.3 EUR
 currency: EUR

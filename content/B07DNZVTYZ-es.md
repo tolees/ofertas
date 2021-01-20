@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DNZVTYZ-es Eastpak STATION + Bolsa de viaje 62 cm 58 liters Negro Black'
+sku: 'B07DNZVTYZ-es'
 tags: [  ]
 actualPrice: 48.99 EUR
 currency: EUR

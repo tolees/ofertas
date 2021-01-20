@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H35FJ6V-es Caseflex CS000002AP - Carcasa de gel transparente para...'
+sku: 'B07H35FJ6V-es'
 tags: [  ]
 actualPrice: 6.85 EUR
 currency: EUR

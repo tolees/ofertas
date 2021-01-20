@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S6NJFB9-es PUMA NRGY Neko Knit Zapatillas de Running para Hombre Azul...'
+sku: 'B07S6NJFB9-es'
 tags: [  ]
 actualPrice: 42.09 EUR
 currency: EUR

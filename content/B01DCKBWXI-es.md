@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DCKBWXI-es VIASOLAR Panel Solar policristalino 50W 12V'
+sku: 'B01DCKBWXI-es'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

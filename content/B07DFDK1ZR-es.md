@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFDK1ZR-es Pop! The Predator - Figura de Vinilo Predator Hound X6...'
+sku: 'B07DFDK1ZR-es'
 tags: [  ]
 actualPrice: 7.0 EUR
 currency: EUR

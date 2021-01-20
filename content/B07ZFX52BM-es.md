@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZFX52BM-es 24x Gris blanco Lámina impresa 2D 10x10cm PEGATINAS lisas...'
+sku: 'B07ZFX52BM-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

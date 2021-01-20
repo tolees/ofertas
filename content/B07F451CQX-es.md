@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F451CQX-es Mr; Wonderful Woa09072Em Carpeta Archivadora Rockstar In...'
+sku: 'B07F451CQX-es'
 tags: [  ]
 actualPrice: 3.0 EUR
 currency: EUR

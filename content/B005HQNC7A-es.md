@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005HQNC7A-es Jim Beam Kentucky Straight Bourbon Whisky 40% - 1750 ml'
+sku: 'B005HQNC7A-es'
 tags: [  ]
 actualPrice: 21.05 EUR
 currency: EUR

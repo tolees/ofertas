@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0872T6GDW-es Funda Transparente Compatible para Mi Note 10/Note 10 Pro...'
+sku: 'B0872T6GDW-es'
 tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR

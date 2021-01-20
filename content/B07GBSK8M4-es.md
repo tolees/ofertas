@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GBSK8M4-es HpyAlwys - Organizador Universal de Piel para Guardar...'
+sku: 'B07GBSK8M4-es'
 tags: [  ]
 actualPrice: 3.34 EUR
 currency: EUR

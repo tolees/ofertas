@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FHYZGQP-es Luchild Dummy Clips Baby Pacifier Holder Made from Food...'
+sku: 'B07FHYZGQP-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

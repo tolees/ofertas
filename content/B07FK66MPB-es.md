@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FK66MPB-es Seiko Reloj Analogico para Hombre de Cuarzo con Correa en...'
+sku: 'B07FK66MPB-es'
 tags: [  ]
 actualPrice: 97.0 EUR
 currency: EUR

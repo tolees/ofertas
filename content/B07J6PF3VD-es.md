@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J6PF3VD-es Maleta grande Mickey Colored rígida 68cm blanca'
+sku: 'B07J6PF3VD-es'
 tags: [  ]
 actualPrice: 75.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074D9CHTP-es Casio Reloj Analogico-Digital para Mujer de Cuarzo con...'
+sku: 'B074D9CHTP-es'
 tags: [  ]
 actualPrice: 62.97 EUR
 currency: EUR

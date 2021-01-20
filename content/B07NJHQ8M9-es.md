@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJHQ8M9-es Brabantia Tasty+ Sacacorchos Terracotta Pink'
+sku: 'B07NJHQ8M9-es'
 tags: [  ]
 actualPrice: 5.25 EUR
 currency: EUR

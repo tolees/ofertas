@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R99M9QY-es ASUS VivoBook Flip 14 TP412UA-EC175T - Ordenador portátil...'
+sku: 'B07R99M9QY-es'
 tags: [  ]
 actualPrice: 449.0 EUR
 currency: EUR

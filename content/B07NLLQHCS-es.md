@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NLLQHCS-es Altavoz PORTATIL Recargable Karaoke MICROFONO Incluido...'
+sku: 'B07NLLQHCS-es'
 tags: [  ]
 actualPrice: 34.95 EUR
 currency: EUR

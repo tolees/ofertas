@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003JAKNHI-es PowerBar Ride Energy Peanut Caramel 18x55g - Barra de...'
+sku: 'B003JAKNHI-es'
 tags: [  ]
 actualPrice: 18.48 EUR
 currency: EUR

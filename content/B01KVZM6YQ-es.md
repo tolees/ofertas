@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KVZM6YQ-es Zelite Infinity Cuchillo de Chef Santoku 18 cm - Serie...'
+sku: 'B01KVZM6YQ-es'
 tags: [  ]
 actualPrice: 44.08 EUR
 currency: EUR

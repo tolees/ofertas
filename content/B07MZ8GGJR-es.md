@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZ8GGJR-es Head Promotion Cap Gorra Adultos Unisex Navy Talla única'
+sku: 'B07MZ8GGJR-es'
 tags: [  ]
 actualPrice: 11.08 EUR
 currency: EUR

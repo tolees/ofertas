@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KB9XT4Q-es Nyx Professional Makeup Corrector No Comedogénico...'
+sku: 'B07KB9XT4Q-es'
 tags: [  ]
 actualPrice: 6.23 EUR
 currency: EUR

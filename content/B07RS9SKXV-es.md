@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RS9SKXV-es Hoidokly Cargador Inalámbrico Rápido Qi Wireless Charger...'
+sku: 'B07RS9SKXV-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

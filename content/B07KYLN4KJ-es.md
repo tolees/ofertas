@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KYLN4KJ-es Hode Vinilos Decorativos Actualización Grano Madera Vinilo...'
+sku: 'B07KYLN4KJ-es'
 tags: [  ]
 actualPrice: 13.59 EUR
 currency: EUR

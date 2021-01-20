@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083KLYM61-es Scholl Plantillas GelActiv para Zapato Abierto + Crema de...'
+sku: 'B083KLYM61-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

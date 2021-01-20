@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078XRRMXW-es Relojes para Hombres LIGE Hombres Acero Inoxidable...'
+sku: 'B078XRRMXW-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S1MM7LM-es New Balance Ryval Run Zapatillas para Correr de Carretera...'
+sku: 'B07S1MM7LM-es'
 tags: [  ]
 actualPrice: 36.17 EUR
 currency: EUR

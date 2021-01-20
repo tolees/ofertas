@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PYDW3B2-es Nike Md Runner 2 - Zapatillas de correr para Hombre Azul...'
+sku: 'B00PYDW3B2-es'
 tags: [  ]
 actualPrice: 33.49 EUR
 currency: EUR

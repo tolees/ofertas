@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BZ7MR8X-es Nakiri cuchillo de cocinero Cuchillo profesional Cuchillo...'
+sku: 'B08BZ7MR8X-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

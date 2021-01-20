@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DTPBWX2-es HP ProDesk 400 G4 Mini - Ordenador de sobremesa...'
+sku: 'B07DTPBWX2-es'
 tags: [  ]
 actualPrice: 293.0 EUR
 currency: EUR

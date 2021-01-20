@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004TSF8R4-es REAL TECHNIQUES Pincel de maquillaje en polvo el embalaje...'
+sku: 'B004TSF8R4-es'
 tags: [  ]
 actualPrice: 7.97 EUR
 currency: EUR

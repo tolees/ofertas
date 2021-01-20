@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BMXCBT1-es [12-Unidades]Bolsas al Vacío para Ropa Mantas 50x70cm 3 ud...'
+sku: 'B07BMXCBT1-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

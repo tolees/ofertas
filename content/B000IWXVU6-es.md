@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000IWXVU6-es Energizer 626177 - Pilas Recargables NiMh 9 V 175 mAh'
+sku: 'B000IWXVU6-es'
 tags: [  ]
 actualPrice: 8.2 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083J5QQ8X-es LoveOlvido NVME M2 a USB3.1 M2 a USB3.0 Unidad de Disco...'
+sku: 'B083J5QQ8X-es'
 tags: [  ]
 actualPrice: 21.71 EUR
 currency: EUR

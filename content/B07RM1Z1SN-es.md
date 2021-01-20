@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RM1Z1SN-es New Balance 997h Zapatillas para Hombre Azul Navy Hay 37 EU'
+sku: 'B07RM1Z1SN-es'
 tags: [  ]
 actualPrice: 62.49 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000JUF98Y-es SEVERIN Raclette Partygrill con Piedra Natural y Plancha...'
+sku: 'B000JUF98Y-es'
 tags: [  ]
 actualPrice: 48.99 EUR
 currency: EUR

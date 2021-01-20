@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005UXQA0Q-es Ish - Ginebra London Dry Gin'
+sku: 'B005UXQA0Q-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

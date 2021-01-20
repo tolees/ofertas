@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016QM6OPK-es Tommy Hilfiger BB Cap Gorra Blanco Classic White 100 talla...'
+sku: 'B016QM6OPK-es'
 tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0817FMGKX-es Columbia Fast Trek Light Forro Polar con Cremallera Mujer...'
+sku: 'B0817FMGKX-es'
 tags: [  ]
 actualPrice: 17.49 EUR
 currency: EUR

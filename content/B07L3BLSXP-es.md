@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L3BLSXP-es G-STAR RAW 3301 Slim 1/2 Pantalones cortos Mehrfarbig...'
+sku: 'B07L3BLSXP-es'
 tags: [  ]
 actualPrice: 27.01 EUR
 currency: EUR

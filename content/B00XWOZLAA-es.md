@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XWOZLAA-es Nike Air MAX Invigor Zapatillas para Hombre Blanco...'
+sku: 'B00XWOZLAA-es'
 tags: [  ]
 actualPrice: 72.0 EUR
 currency: EUR

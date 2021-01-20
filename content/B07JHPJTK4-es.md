@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JHPJTK4-es JACK & JONES Jfwtrent PU 19 Noos Zapatillas para Hombre...'
+sku: 'B07JHPJTK4-es'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

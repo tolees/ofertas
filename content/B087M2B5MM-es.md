@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087M2B5MM-es Bichiro Dispensador de jabón automático 450 ml...'
+sku: 'B087M2B5MM-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

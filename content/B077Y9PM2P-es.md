@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077Y9PM2P-es Sensilis Sun Secret - Crema Ultraligera Protector Solar...'
+sku: 'B077Y9PM2P-es'
 tags: [  ]
 actualPrice: 14.5 EUR
 currency: EUR

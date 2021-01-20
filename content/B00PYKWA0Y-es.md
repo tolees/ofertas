@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PYKWA0Y-es Nike Court Royale Zapatillas Hombre Negro/Blanco...'
+sku: 'B00PYKWA0Y-es'
 tags: [  ]
 actualPrice: 27.5 EUR
 currency: EUR

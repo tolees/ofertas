@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HV8HDRL-es Gytech Salvamanteles Plegables Ajustables Almohadillas...'
+sku: 'B07HV8HDRL-es'
 tags: [  ]
 actualPrice: 8.88 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TSJZB5V-es BRIKSMAX Kit de Iluminación Led para Lego Star Wars Y-Wing...'
+sku: 'B07TSJZB5V-es'
 tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR

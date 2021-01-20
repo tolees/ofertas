@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0894T4TKW-es Enotepad Gráfico Electrónico Portátil eWriter Digital...'
+sku: 'B0894T4TKW-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

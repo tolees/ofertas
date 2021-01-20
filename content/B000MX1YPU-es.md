@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000MX1YPU-es Casio A178WEA-1AES Reloj Unisex'
+sku: 'B000MX1YPU-es'
 tags: [  ]
 actualPrice: 25.9 EUR
 currency: EUR

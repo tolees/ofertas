@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D5N16JV-es Cipriata Valentina - Deportivas con Cordones y Cremallera...'
+sku: 'B07D5N16JV-es'
 tags: [  ]
 actualPrice: 17.7 EUR
 currency: EUR

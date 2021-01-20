@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000CNKJSI-es Jaguar Blue - Agua de toilette 100 ml'
+sku: 'B000CNKJSI-es'
 tags: [  ]
 actualPrice: 16.1 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N9DWTHB-es Timex Reloj de Pulsera TW2R94100'
+sku: 'B07N9DWTHB-es'
 tags: [  ]
 actualPrice: 77.92 EUR
 currency: EUR

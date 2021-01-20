@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FJWDGSZ-es Beast Kingdom- Marvel Diorama Thanos Multicolor BKDDS-014'
+sku: 'B07FJWDGSZ-es'
 tags: [  ]
 actualPrice: 25.0 EUR
 currency: EUR

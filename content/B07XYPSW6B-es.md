@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XYPSW6B-es TAZEMAT 48 Hojas Papel de Rascar Dinosaurias Manualidades...'
+sku: 'B07XYPSW6B-es'
 tags: [  ]
 actualPrice: 12.59 EUR
 currency: EUR

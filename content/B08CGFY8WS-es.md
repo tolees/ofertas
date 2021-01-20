@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CGFY8WS-es MENNYO Posavasos Originales Juego de 14 Posavasos de...'
+sku: 'B08CGFY8WS-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

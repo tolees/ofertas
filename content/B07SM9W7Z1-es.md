@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SM9W7Z1-es Lacoste Graduate 120 1 SFA Zapatillas para Mujer Blanco...'
+sku: 'B07SM9W7Z1-es'
 tags: [  ]
 actualPrice: 60.11 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SM8YSGQ-es Auriculares inalámbricos Tribit FlyBuds - 5.0 Auriculares...'
+sku: 'B07SM8YSGQ-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

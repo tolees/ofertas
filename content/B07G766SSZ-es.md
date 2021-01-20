@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G766SSZ-es TRAIL WATCHER Cámara de Caza 16MP 1080P HD Trail Cámara...'
+sku: 'B07G766SSZ-es'
 tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR

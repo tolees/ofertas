@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZYXNHPT-es 1 par de vinagre de bambú natural tierno exfoliante...'
+sku: 'B07ZYXNHPT-es'
 tags: [  ]
 actualPrice: 1.25 EUR
 currency: EUR

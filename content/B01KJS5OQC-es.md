@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KJS5OQC-es World Rally Championship WRC 6'
+sku: 'B01KJS5OQC-es'
 tags: [  ]
 actualPrice: 44.4 EUR
 currency: EUR

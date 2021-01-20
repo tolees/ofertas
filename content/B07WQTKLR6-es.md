@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WQTKLR6-es Juguete alternativo de silicona médica para juegos de...'
+sku: 'B07WQTKLR6-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

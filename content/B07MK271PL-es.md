@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MK271PL-es steanum Cargador Inalámbrico Coche Qi 10W Carga Rápida...'
+sku: 'B07MK271PL-es'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

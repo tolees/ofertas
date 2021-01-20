@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MY3I6OP-es Veet Bandas de Cera Fria Depilatoria para Depilación...'
+sku: 'B01MY3I6OP-es'
 tags: [  ]
 actualPrice: 4.28 EUR
 currency: EUR

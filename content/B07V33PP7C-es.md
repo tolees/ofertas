@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V33PP7C-es MEGA CREATIVE JEWELRY Pulseras Árbol de la Vida Oro Rosa...'
+sku: 'B07V33PP7C-es'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

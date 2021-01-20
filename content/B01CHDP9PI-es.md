@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CHDP9PI-es SKYSPER 200 x 200 cm Manta de Picnic Alfombrilla Colchón...'
+sku: 'B01CHDP9PI-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RS6FH3W-es Tommy Hilfiger - Modern Nylon Mini Crossover Shoppers y...'
+sku: 'B07RS6FH3W-es'
 tags: [  ]
 actualPrice: 48.79 EUR
 currency: EUR

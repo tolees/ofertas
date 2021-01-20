@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000V6STJW-es Speedo Endurance Traje de natación para mujer Negro...'
+sku: 'B000V6STJW-es'
 tags: [  ]
 actualPrice: 21.82 EUR
 currency: EUR

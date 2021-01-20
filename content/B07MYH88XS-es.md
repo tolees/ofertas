@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MYH88XS-es ORNARTO Funda Huawei P30 Pro Carcasa Silicona Transparente...'
+sku: 'B07MYH88XS-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

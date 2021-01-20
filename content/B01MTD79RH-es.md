@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MTD79RH-es Control Xtra Sensation Preservativos - 12 Unidades'
+sku: 'B01MTD79RH-es'
 tags: [  ]
 actualPrice: 6.95 EUR
 currency: EUR

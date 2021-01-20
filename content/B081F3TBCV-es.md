@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081F3TBCV-es LoveOlvido Transparente Antiadherente acrílico Fondant...'
+sku: 'B081F3TBCV-es'
 tags: [  ]
 actualPrice: 1.66 EUR
 currency: EUR

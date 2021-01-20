@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B8NX2ZC-es PUMA ST Runner v2 Mesh Zapatillas de Deporte para Hombre...'
+sku: 'B07B8NX2ZC-es'
 tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR

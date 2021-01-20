@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085RZNKDC-es Zapatillas Running Hombre Antideslizantes Ligeras...'
+sku: 'B085RZNKDC-es'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

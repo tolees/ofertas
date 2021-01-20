@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZYS1CT-es Love MoschinoJc4004pp1aMujerBolsos mochilaBeige Naturale...'
+sku: 'B07RZYS1CT-es'
 tags: [  ]
 actualPrice: 138.47 EUR
 currency: EUR

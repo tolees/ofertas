@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MDU9QAO-es Skechers You Zapatillas sin cordones para Mujer Blanco Wbk...'
+sku: 'B01MDU9QAO-es'
 tags: [  ]
 actualPrice: 35.72 EUR
 currency: EUR

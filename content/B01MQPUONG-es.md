@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MQPUONG-es Adidas Vs Pace Zapatillas para Hombre Negro Core...'
+sku: 'B01MQPUONG-es'
 tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005XMW2WY-es DIM Generous Sujetador Negro 100E para Mujer'
+sku: 'B005XMW2WY-es'
 tags: [  ]
 actualPrice: 9.0 EUR
 currency: EUR

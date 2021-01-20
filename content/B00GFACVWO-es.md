@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GFACVWO-es K2 de Alta Temperatura de Silicona Masilla dichtsi LIKON...'
+sku: 'B00GFACVWO-es'
 tags: [  ]
 actualPrice: 5.43 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XZHD2FY-es Bamibi® Almohada Cervical Ergonómica y Ortopédica con...'
+sku: 'B07XZHD2FY-es'
 tags: [  ]
 actualPrice: 21.59 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082JGWPH2-es Persona 5 - Royal Phantom Thieves Edition'
+sku: 'B082JGWPH2-es'
 tags: [  ]
 actualPrice: 59.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N543FWP-es Novex Mis Rizos Capilar - 400g'
+sku: 'B01N543FWP-es'
 tags: [  ]
 actualPrice: 3.34 EUR
 currency: EUR

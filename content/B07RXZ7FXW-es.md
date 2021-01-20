@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RXZ7FXW-es Pepe Jeans Sloane Pantalones Azul Chatham Blue 586 Talla...'
+sku: 'B07RXZ7FXW-es'
 tags: [  ]
 actualPrice: 30.56 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NTGWK1X-es New Journey Profesional Puzzles Cubo 3x3'
+sku: 'B07NTGWK1X-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

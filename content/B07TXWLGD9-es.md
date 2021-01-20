@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXWLGD9-es Kipling KiplingKiryasMujerMochilasGris Dark Carbon Y...'
+sku: 'B07TXWLGD9-es'
 tags: [  ]
 actualPrice: 21.65 EUR
 currency: EUR

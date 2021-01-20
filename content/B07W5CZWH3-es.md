@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W5CZWH3-es Brunoko Vajilla Bebé Set de Plato Ventosa + Cubiertos...'
+sku: 'B07W5CZWH3-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

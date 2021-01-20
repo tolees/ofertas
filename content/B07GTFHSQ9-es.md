@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GTFHSQ9-es Devolo Magic 1 LAN - Starter Kit de Powerline para una Red...'
+sku: 'B07GTFHSQ9-es'
 tags: [  ]
 actualPrice: 59.97 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W7J9MSP-es Qiwode Escurreplatos extensible para escurreplatos cestas...'
+sku: 'B07W7J9MSP-es'
 tags: [  ]
 actualPrice: 13.59 EUR
 currency: EUR

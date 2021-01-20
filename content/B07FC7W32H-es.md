@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FC7W32H-es Integral INMSDX128G-100/90V30 Ultimapro Micro SDXC Class...'
+sku: 'B07FC7W32H-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

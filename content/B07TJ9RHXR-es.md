@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJ9RHXR-es Levi s Original Batwing Azul Hm Patch Polo Dress Blues...'
+sku: 'B07TJ9RHXR-es'
 tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR

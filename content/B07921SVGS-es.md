@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07921SVGS-es Nike Park18 Knit Pantalónes de Entrenamiento Hombre Negro...'
+sku: 'B07921SVGS-es'
 tags: [  ]
 actualPrice: 22.7 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000RE3ORU-es Brabantia 365102 - Espumadera Nylon Color Negro'
+sku: 'B000RE3ORU-es'
 tags: [  ]
 actualPrice: 3.19 EUR
 currency: EUR

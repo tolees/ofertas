@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9GNVG1-es Under Armour Accelerate Off-Pitch Pant Pantalones Hombre...'
+sku: 'B07L9GNVG1-es'
 tags: [  ]
 actualPrice: 13.87 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QLKSJLG-es DlandHome Estantería Cocina Multiuso para Horno Microondas...'
+sku: 'B07QLKSJLG-es'
 tags: [  ]
 actualPrice: 54.99 EUR
 currency: EUR

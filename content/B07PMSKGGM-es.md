@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PMSKGGM-es TACKLIFE Humidímetro Digital Medidor de Humedad Termómetro...'
+sku: 'B07PMSKGGM-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

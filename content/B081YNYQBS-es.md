@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081YNYQBS-es Rodillo Amasar de Madera Rodillo de Cocina con SíMbolos de...'
+sku: 'B081YNYQBS-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

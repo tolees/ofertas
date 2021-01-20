@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06ZZ4C6JL-es UV Luz Lámpara Ahome Ultravioleta 395nm LED Linterna...'
+sku: 'B06ZZ4C6JL-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

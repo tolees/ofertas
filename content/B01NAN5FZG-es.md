@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NAN5FZG-es Máscara exfoliante de lavado contra puntos negros de la...'
+sku: 'B01NAN5FZG-es'
 tags: [  ]
 actualPrice: 4.2 EUR
 currency: EUR

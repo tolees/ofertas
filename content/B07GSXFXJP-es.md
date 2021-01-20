@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GSXFXJP-es Hoverkart Profesional | Hoverkart Metal | Hoverboard...'
+sku: 'B07GSXFXJP-es'
 tags: [  ]
 actualPrice: 66.38 EUR
 currency: EUR

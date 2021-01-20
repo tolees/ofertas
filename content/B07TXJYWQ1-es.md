@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXJYWQ1-es Tabla De Planchar Antideslizante Con Cubierta De Hierro...'
+sku: 'B07TXJYWQ1-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

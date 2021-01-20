@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018XYGVCK-es Eye Candy ECJ-ER0016 - Pendientes de mujer plata de ley...'
+sku: 'B018XYGVCK-es'
 tags: [  ]
 actualPrice: 31.18 EUR
 currency: EUR

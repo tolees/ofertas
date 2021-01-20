@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D5RM25K-es Funko- Pop Games The Dragon-Spyro and Sparx Figura de...'
+sku: 'B07D5RM25K-es'
 tags: [  ]
 actualPrice: 9.38 EUR
 currency: EUR

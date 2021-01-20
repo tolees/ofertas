@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HKP11T9-es Under Armour UA W Ripple 2.0 Zapatillas de Running para...'
+sku: 'B07HKP11T9-es'
 tags: [  ]
 actualPrice: 24.82 EUR
 currency: EUR

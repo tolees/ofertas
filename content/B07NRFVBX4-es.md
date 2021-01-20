@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NRFVBX4-es Barnängen - Loción Hidratante corporal con baya Cloudberry...'
+sku: 'B07NRFVBX4-es'
 tags: [  ]
 actualPrice: 6.31 EUR
 currency: EUR

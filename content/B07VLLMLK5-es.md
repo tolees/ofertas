@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VLLMLK5-es Ebanku 40 Diseños Foil para Uñas Transfer Transferencia...'
+sku: 'B07VLLMLK5-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

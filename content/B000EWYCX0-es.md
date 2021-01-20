@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000EWYCX0-es Faber-Castell 110011 - Estuche de metal con 120 ecolápices...'
+sku: 'B000EWYCX0-es'
 tags: [  ]
 actualPrice: 149.43 EUR
 currency: EUR

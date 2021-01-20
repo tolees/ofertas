@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K6LYGM6-es Asics Gel-Nimbus 21 Zapatillas de Running para Mujer Gris...'
+sku: 'B07K6LYGM6-es'
 tags: [  ]
 actualPrice: 124.98 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RGPJZW-es Pikolin Home - Edredón/Relleno nórdico de fibra DUO cuatro...'
+sku: 'B073RGPJZW-es'
 tags: [  ]
 actualPrice: 67.99 EUR
 currency: EUR

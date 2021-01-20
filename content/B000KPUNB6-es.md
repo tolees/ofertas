@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000KPUNB6-es Braun Clean&Renew Cartuchos de recarga para afeitadora...'
+sku: 'B000KPUNB6-es'
 tags: [  ]
 actualPrice: 11.69 EUR
 currency: EUR

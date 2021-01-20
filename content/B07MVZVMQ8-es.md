@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVZVMQ8-es WD My Passport Go 500 GB disco duro sólido externo -...'
+sku: 'B07MVZVMQ8-es'
 tags: [  ]
 actualPrice: 91.11 EUR
 currency: EUR

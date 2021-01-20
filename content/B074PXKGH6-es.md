@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074PXKGH6-es Hugo BOSS Reloj Análogo clásico para Hombre de Cuarzo con...'
+sku: 'B074PXKGH6-es'
 tags: [  ]
 actualPrice: 174.3 EUR
 currency: EUR

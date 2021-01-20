@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QRC4S37-es Fortnite FNT0039 Durrr Burger Felpa'
+sku: 'B07QRC4S37-es'
 tags: [  ]
 actualPrice: 9.33 EUR
 currency: EUR

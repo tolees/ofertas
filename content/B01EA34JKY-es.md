@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EA34JKY-es American Tourister WaveBreaker Spinner 55/20 - Equipaje de...'
+sku: 'B01EA34JKY-es'
 tags: [  ]
 actualPrice: 66.78 EUR
 currency: EUR

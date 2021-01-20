@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072MB8MZQ-es SELECT Mundo – Balón de Balonmano Color Purple/Orange...'
+sku: 'B072MB8MZQ-es'
 tags: [  ]
 actualPrice: 15.09 EUR
 currency: EUR

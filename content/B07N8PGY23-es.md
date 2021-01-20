@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N8PGY23-es Huawei Y6 2019 - Smartphone de 6.09" RAM de 2GB Memoria de...'
+sku: 'B07N8PGY23-es'
 tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DR9V8TX-es Tarjeta de captura de video USB 2.0 HDMI Video HD 1080P...'
+sku: 'B08DR9V8TX-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

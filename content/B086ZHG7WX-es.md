@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086ZHG7WX-es Mesa de aleación de aluminio de 35 mm Abrazadera de banco...'
+sku: 'B086ZHG7WX-es'
 tags: [  ]
 actualPrice: 3.09 EUR
 currency: EUR

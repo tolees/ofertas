@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07THYCD49-es 1L Botella de Agua con Filtro Infusor de Fruta Swonuk...'
+sku: 'B07THYCD49-es'
 tags: [  ]
 actualPrice: 13.5 EUR
 currency: EUR

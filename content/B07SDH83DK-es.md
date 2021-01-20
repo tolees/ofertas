@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SDH83DK-es adidas W Mh 3s Dk Pant Sport Trousers Mujer Black/White S'
+sku: 'B07SDH83DK-es'
 tags: [  ]
 actualPrice: 31.12 EUR
 currency: EUR

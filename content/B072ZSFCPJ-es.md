@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072ZSFCPJ-es Trueno Sala'
+sku: 'B072ZSFCPJ-es'
 tags: [  ]
 actualPrice: 27.47 EUR
 currency: EUR

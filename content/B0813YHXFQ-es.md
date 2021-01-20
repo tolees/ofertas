@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0813YHXFQ-es adidas Duramo Lite 2.0 Zapatillas para Correr para Mujer...'
+sku: 'B0813YHXFQ-es'
 tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR

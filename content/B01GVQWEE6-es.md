@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GVQWEE6-es Prensa Hamburguesas Rellenas con 60 Papeles Encerados...'
+sku: 'B01GVQWEE6-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

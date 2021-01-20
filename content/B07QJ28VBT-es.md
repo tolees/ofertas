@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QJ28VBT-es Camisetas Mujer SHOBDW Dia de la Mujer Verano Patchwork De...'
+sku: 'B07QJ28VBT-es'
 tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X9ZYV3U-es Bosch Professional GIC 120 Professional - Cámara de...'
+sku: 'B00X9ZYV3U-es'
 tags: [  ]
 actualPrice: 153.99 EUR
 currency: EUR

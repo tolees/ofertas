@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KXVMQ0W-es Dim Generous Invisible Sujetador Beige New Skin 105.B para...'
+sku: 'B01KXVMQ0W-es'
 tags: [  ]
 actualPrice: 18.56 EUR
 currency: EUR

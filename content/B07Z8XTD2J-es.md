@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z8XTD2J-es Reshias Funda LG K30 2019 Modelo Clear Cárcasa Silicona...'
+sku: 'B07Z8XTD2J-es'
 tags: [  ]
 actualPrice: 1.08 EUR
 currency: EUR

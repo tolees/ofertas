@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018TSZ1JE-es Pedigree Dentastix Fresh Snacks para Higiene Oral Perro...'
+sku: 'B018TSZ1JE-es'
 tags: [  ]
 actualPrice: 5.49 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BMBRG6P-es Wrangler Larston Jeans Indigo Wit 36W / 32L para Hombre'
+sku: 'B07BMBRG6P-es'
 tags: [  ]
 actualPrice: 41.59 EUR
 currency: EUR

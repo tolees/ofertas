@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078N6F2GB-es Numan Unison Reference - Radio por Internet Receptor Todo...'
+sku: 'B078N6F2GB-es'
 tags: [  ]
 actualPrice: 279.99 EUR
 currency: EUR

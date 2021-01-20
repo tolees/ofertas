@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085XJ9KBN-es Jack & Jones Jjikenso Jjchino Shorts AKM 432 STS...'
+sku: 'B085XJ9KBN-es'
 tags: [  ]
 actualPrice: 14.84 EUR
 currency: EUR

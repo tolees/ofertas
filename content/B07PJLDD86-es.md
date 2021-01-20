@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PJLDD86-es FREDI Cámara espía HD 1080P WiFi Cámara Videocámara Oculta...'
+sku: 'B07PJLDD86-es'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

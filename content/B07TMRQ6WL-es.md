@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TMRQ6WL-es Clarks Un Costa Lace Zapatillas Marrón British Tan Lea...'
+sku: 'B07TMRQ6WL-es'
 tags: [  ]
 actualPrice: 41.93 EUR
 currency: EUR

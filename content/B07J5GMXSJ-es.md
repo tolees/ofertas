@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J5GMXSJ-es Skechers Flex Advantage 3.0 Zapatillas para Niños Azul...'
+sku: 'B07J5GMXSJ-es'
 tags: [  ]
 actualPrice: 21.85 EUR
 currency: EUR

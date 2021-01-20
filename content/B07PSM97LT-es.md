@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PSM97LT-es Hengbo Sartenes para Raclette 4Pcs'
+sku: 'B07PSM97LT-es'
 tags: [  ]
 actualPrice: 15.95 EUR
 currency: EUR

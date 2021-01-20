@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0087O4CKK-es Targus - AMW060EU - Targus Wireless Optical Laptop Mouse...'
+sku: 'B0087O4CKK-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

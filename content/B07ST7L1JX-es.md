@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ST7L1JX-es HP EliteDisplay E223d - Monitor Docking de 21.5" Ajustable...'
+sku: 'B07ST7L1JX-es'
 tags: [  ]
 actualPrice: 209.3 EUR
 currency: EUR

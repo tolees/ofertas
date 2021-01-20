@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BVRH3VD-es ZARLLE CláSico Mujer Damas Chica Unisex Reloj De Pulsera...'
+sku: 'B07BVRH3VD-es'
 tags: [  ]
 actualPrice: 0.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08H17GPGW-es 50 Piezas En Una Caja Cada Pieza Envuelta Individualmente...'
+sku: 'B08H17GPGW-es'
 tags: [  ]
 actualPrice: 7.29 EUR
 currency: EUR

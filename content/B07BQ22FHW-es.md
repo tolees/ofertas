@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BQ22FHW-es TomTom GO Camper GPS para caravana 6 Pulgadas con...'
+sku: 'B07BQ22FHW-es'
 tags: [  ]
 actualPrice: 279.95 EUR
 currency: EUR

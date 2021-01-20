@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G3GJPZF-es Fanvans Premamá Algodón Briefs Ropa Interior Bragas De...'
+sku: 'B07G3GJPZF-es'
 tags: [  ]
 actualPrice: 1.99 EUR
 currency: EUR

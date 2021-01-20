@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D878WNG-es SELECTED HOMME Slhslim-Arval Med.Blue Mix Pants W...'
+sku: 'B07D878WNG-es'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

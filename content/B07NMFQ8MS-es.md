@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NMFQ8MS-es KLIM™ Comfort + Base de refrigeración para portátil +...'
+sku: 'B07NMFQ8MS-es'
 tags: [  ]
 actualPrice: 29.97 EUR
 currency: EUR

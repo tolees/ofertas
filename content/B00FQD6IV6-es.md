@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FQD6IV6-es Bestway 58277 - Recogehojas de Superficie Cleancast'
+sku: 'B00FQD6IV6-es'
 tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR

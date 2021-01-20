@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01B5NCMRE-es Superga 2750-cotmetu Zapatillas de Gimnasia para Mujer...'
+sku: 'B01B5NCMRE-es'
 tags: [  ]
 actualPrice: 21.54 EUR
 currency: EUR

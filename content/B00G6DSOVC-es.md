@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00G6DSOVC-es Jata GR208 Plancha de Asar de Terracota Superficie: 26 x...'
+sku: 'B00G6DSOVC-es'
 tags: [  ]
 actualPrice: 32.5 EUR
 currency: EUR

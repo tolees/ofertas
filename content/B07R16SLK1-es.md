@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R16SLK1-es Helly Hansen Classic Duffel Bolsa De Viaje Impermeable...'
+sku: 'B07R16SLK1-es'
 tags: [  ]
 actualPrice: 58.87 EUR
 currency: EUR

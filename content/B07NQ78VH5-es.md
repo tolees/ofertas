@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NQ78VH5-es Rimmel London Lasting Radiance Concealer Corrector de...'
+sku: 'B07NQ78VH5-es'
 tags: [  ]
 actualPrice: 6.95 EUR
 currency: EUR

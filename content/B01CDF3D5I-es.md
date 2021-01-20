@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CDF3D5I-es Moskovskaya Vodka - 1000 gr'
+sku: 'B01CDF3D5I-es'
 tags: [  ]
 actualPrice: 11.91 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CIFMXHM-es Tefal Expertise - Sartén de aluminio de 21 cm...'
+sku: 'B01CIFMXHM-es'
 tags: [  ]
 actualPrice: 22.24 EUR
 currency: EUR

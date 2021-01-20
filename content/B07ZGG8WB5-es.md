@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZGG8WB5-es CHOETECH Cargador USB C PD 60W Cargador Rápida Tipo C...'
+sku: 'B07ZGG8WB5-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

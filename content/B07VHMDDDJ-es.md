@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VHMDDDJ-es Napapijri Elbas 3 Polo Azul Ultramarine BLU Bb41 Large...'
+sku: 'B07VHMDDDJ-es'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

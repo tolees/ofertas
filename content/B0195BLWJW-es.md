@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0195BLWJW-es Calypso K5698/6 - Reloj de Pulsera Unisex Plástico Color...'
+sku: 'B0195BLWJW-es'
 tags: [  ]
 actualPrice: 23.87 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008YKRRI6-es Beethoven: Symphonies & Overtures'
+sku: 'B008YKRRI6-es'
 tags: [  ]
 actualPrice: 18.4 EUR
 currency: EUR

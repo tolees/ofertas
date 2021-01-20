@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GB4JMWF-es Pulsera Hombre Classic Series Men Pulsera Coolman...'
+sku: 'B07GB4JMWF-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

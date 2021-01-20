@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RYL56KQ-es New Balance 373v2 Zapatillas para Mujer Gris Grey/White...'
+sku: 'B07RYL56KQ-es'
 tags: [  ]
 actualPrice: 51.18 EUR
 currency: EUR

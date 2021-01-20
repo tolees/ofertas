@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NQK568D-es Relojes Hombre Relojes de Pulsera Marea Cronometro...'
+sku: 'B07NQK568D-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

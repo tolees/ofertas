@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XSSLW4C-es Neutrogena Visibly Renew Loción Corporal Elasticidad...'
+sku: 'B06XSSLW4C-es'
 tags: [  ]
 actualPrice: 14.25 EUR
 currency: EUR

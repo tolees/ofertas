@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D7V49SW-es Sika 528149 Sellador acrílico Blanco 300 ml'
+sku: 'B07D7V49SW-es'
 tags: [  ]
 actualPrice: 5.1 EUR
 currency: EUR

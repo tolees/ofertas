@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0160ROO6M-es STANLEY FATMAX FME720-QS - Ingletadora telescópica 2.000W...'
+sku: 'B0160ROO6M-es'
 tags: [  ]
 actualPrice: 279.3 EUR
 currency: EUR

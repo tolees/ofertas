@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OLPWHTC-es Campingaz CP250 - Cartucho de Gas color Azul 4 x 220 g'
+sku: 'B00OLPWHTC-es'
 tags: [  ]
 actualPrice: 5.96 EUR
 currency: EUR

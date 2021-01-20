@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QLCH8C8-es Reshias Funda BQ Aquaris X/X Pro Cárcasa Silicona...'
+sku: 'B07QLCH8C8-es'
 tags: [  ]
 actualPrice: 1.89 EUR
 currency: EUR

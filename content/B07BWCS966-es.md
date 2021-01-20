@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BWCS966-es Detector de Voltaje sin Contacto Meterk 12V-1000V Detector...'
+sku: 'B07BWCS966-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077BCPSML-es Calvin Klein Cotton Stretch-3er Cierre Negro Black W....'
+sku: 'B077BCPSML-es'
 tags: [  ]
 actualPrice: 27.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDMTJF7-es G-STAR RAW Drego Belt Cinturón Multicolor Natural/Antic...'
+sku: 'B07NDMTJF7-es'
 tags: [  ]
 actualPrice: 20.59 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9G1GJV-es Under Armour Rival Fleece Solid Pantalón Mujer Negro...'
+sku: 'B07L9G1GJV-es'
 tags: [  ]
 actualPrice: 25.57 EUR
 currency: EUR

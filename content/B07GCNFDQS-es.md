@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GCNFDQS-es Tommee Tippee Juguete transpirable Jiggy la Jirafa'
+sku: 'B07GCNFDQS-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

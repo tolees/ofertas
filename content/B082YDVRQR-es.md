@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082YDVRQR-es Vidal y Vidal Pendiente chapados en oro con piedras de...'
+sku: 'B082YDVRQR-es'
 tags: [  ]
 actualPrice: 23.0 EUR
 currency: EUR

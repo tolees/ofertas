@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0055ZGJ6O-es De Longhi Alicia EMKM 9 Cafetera Moka Eléctrica 550 w...'
+sku: 'B0055ZGJ6O-es'
 tags: [  ]
 actualPrice: 49.9 EUR
 currency: EUR

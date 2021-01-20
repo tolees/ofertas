@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P6VSXDC-es Office Ink Toner 14 Piezas Reemplazo para Canon PGI-570XL...'
+sku: 'B07P6VSXDC-es'
 tags: [  ]
 actualPrice: 16.79 EUR
 currency: EUR

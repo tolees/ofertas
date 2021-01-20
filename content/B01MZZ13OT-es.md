@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MZZ13OT-es Tescoma Grandchef Grasera Acero Inoxidable Gris 13 5 x 9...'
+sku: 'B01MZZ13OT-es'
 tags: [  ]
 actualPrice: 13.6 EUR
 currency: EUR

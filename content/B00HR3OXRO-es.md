@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HR3OXRO-es Bayer Sano & Bello Limpiador Dental - 140 gr'
+sku: 'B00HR3OXRO-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

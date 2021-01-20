@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WRAR1XA-es Olay Crema diurna facial - 50 ml.'
+sku: 'B00WRAR1XA-es'
 tags: [  ]
 actualPrice: 23.12 EUR
 currency: EUR

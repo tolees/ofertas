@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083R4SR9P-es Auriculares Bluetooth Auriculares inalámbricos 5.0...'
+sku: 'B083R4SR9P-es'
 tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR

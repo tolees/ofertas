@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00J8ZJRFW-es Set de 8 cabezales de recambio Compatible para cepillo...'
+sku: 'B00J8ZJRFW-es'
 tags: [  ]
 actualPrice: 8.9 EUR
 currency: EUR

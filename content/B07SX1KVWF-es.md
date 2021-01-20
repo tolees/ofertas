@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SX1KVWF-es Auriculares inalámbricos Bluetooth Cascos Bluetooth 5.0...'
+sku: 'B07SX1KVWF-es'
 tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR

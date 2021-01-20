@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2T4WMK-es Agarrador de Lápiz Firesara Nuevo diseño ergonómicas...'
+sku: 'B07K2T4WMK-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

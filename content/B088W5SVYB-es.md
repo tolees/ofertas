@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088W5SVYB-es Oihxse Compatible con Motorola Moto G6 Plus Silicona Funda...'
+sku: 'B088W5SVYB-es'
 tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR

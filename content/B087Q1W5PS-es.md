@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087Q1W5PS-es FSCOVER Funda para iPad Pro 12 9 2020 Purpurina Ultra...'
+sku: 'B087Q1W5PS-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

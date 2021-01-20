@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GXWTGG6-es EMPIRE GAMING Teclado de PC Empire K300 QWERTY– 105 Teclas...'
+sku: 'B07GXWTGG6-es'
 tags: [  ]
 actualPrice: 17.9 EUR
 currency: EUR

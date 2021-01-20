@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IWLOUZ0-es Bosch TDI903239A Sensixx x DI90 - Plancha de inyección...'
+sku: 'B00IWLOUZ0-es'
 tags: [  ]
 actualPrice: 84.99 EUR
 currency: EUR

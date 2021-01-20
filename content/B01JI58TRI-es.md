@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JI58TRI-es Import - 8Bitdo Zero Gamepad FC'
+sku: 'B01JI58TRI-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

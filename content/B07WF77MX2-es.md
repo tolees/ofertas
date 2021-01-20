@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WF77MX2-es CIRAGO Licuadora Prensado en Frio Fruta y verdura...'
+sku: 'B07WF77MX2-es'
 tags: [  ]
 actualPrice: 77.59 EUR
 currency: EUR

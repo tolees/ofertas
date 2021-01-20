@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0841L1QWQ-es Panamami 2018 New Water Guns Pool Toys para niños Squirt...'
+sku: 'B0841L1QWQ-es'
 tags: [  ]
 actualPrice: 3.57 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VMZS5SB-es Electroestimulador Muscular Abdominales Cinturón...'
+sku: 'B07VMZS5SB-es'
 tags: [  ]
 actualPrice: 20.8 EUR
 currency: EUR

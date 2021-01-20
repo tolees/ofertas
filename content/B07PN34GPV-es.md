@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PN34GPV-es VSADEY Aceite de Ricino Orgánico 100% Natural Castor Oil...'
+sku: 'B07PN34GPV-es'
 tags: [  ]
 actualPrice: 14.89 EUR
 currency: EUR

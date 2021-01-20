@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0814CY9LR-es Cochecito de bebé Gancho para colgar Ganchos para...'
+sku: 'B0814CY9LR-es'
 tags: [  ]
 actualPrice: 3.03 EUR
 currency: EUR

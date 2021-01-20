@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JH3S3HW-es crocs Swiftwater Wave K Zuecos Unisex niño Rosa Neon...'
+sku: 'B01JH3S3HW-es'
 tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR

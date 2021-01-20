@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QLR64CC-es DragonSwordlinsu COOSUN - Cortinas opacas para perros...'
+sku: 'B07QLR64CC-es'
 tags: [  ]
 actualPrice: 72.38 EUR
 currency: EUR

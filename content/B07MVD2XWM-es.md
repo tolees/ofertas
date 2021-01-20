@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVD2XWM-es Ferilinso Funda para Samsung Galaxy M20 Elegante Armadura...'
+sku: 'B07MVD2XWM-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

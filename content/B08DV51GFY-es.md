@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DV51GFY-es Monedas oro Juguete ZoneYan Monedas de oro y Gemas 100...'
+sku: 'B08DV51GFY-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

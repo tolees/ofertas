@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077PLZGLN-es Trust Gaming GXT 140 Manx - Ratón Gaming inalámbrico...'
+sku: 'B077PLZGLN-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

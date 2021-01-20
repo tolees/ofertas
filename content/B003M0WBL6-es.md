@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003M0WBL6-es Schwarzkopf Osis + - Laca 300 ml'
+sku: 'B003M0WBL6-es'
 tags: [  ]
 actualPrice: 8.09 EUR
 currency: EUR

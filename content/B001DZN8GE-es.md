@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001DZN8GE-es Epson Durabrite Ultra Ink para Stylus SX600/B40W/BX600FW...'
+sku: 'B001DZN8GE-es'
 tags: [  ]
 actualPrice: 21.15 EUR
 currency: EUR

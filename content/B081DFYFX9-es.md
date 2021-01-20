@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081DFYFX9-es FNBK Funda para iPhone 7 Plus / 8 Plus Case Funda Móvil PU...'
+sku: 'B081DFYFX9-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

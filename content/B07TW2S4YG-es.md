@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TW2S4YG-es ALDO Preilia Zapatillas para Hombre Marrón Rust 221 44 EU'
+sku: 'B07TW2S4YG-es'
 tags: [  ]
 actualPrice: 36.21 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MRCT50P-es Samsung Dream Silicone Cover Funda para smartphone Samsung...'
+sku: 'B01MRCT50P-es'
 tags: [  ]
 actualPrice: 10.34 EUR
 currency: EUR

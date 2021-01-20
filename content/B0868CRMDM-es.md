@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0868CRMDM-es amzdeal Ventilador de Turbo Ventilador de Sobremesa para...'
+sku: 'B0868CRMDM-es'
 tags: [  ]
 actualPrice: 39.89 EUR
 currency: EUR

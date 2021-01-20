@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HMKYTJR-es 28 Palms 6" Inseam Tropical Hawaiian Print Swim Trunk...'
+sku: 'B07HMKYTJR-es'
 tags: [  ]
 actualPrice: 5.5 EUR
 currency: EUR

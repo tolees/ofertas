@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077QFD9JK-es Rimmel London Stay Matte Liquid Lip Colour Urban Romance...'
+sku: 'B077QFD9JK-es'
 tags: [  ]
 actualPrice: 3.46 EUR
 currency: EUR

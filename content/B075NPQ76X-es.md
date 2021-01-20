@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075NPQ76X-es SunRace Csmz90 12s-11-50T Cassete 12 velocidades Deportes...'
+sku: 'B075NPQ76X-es'
 tags: [  ]
 actualPrice: 90.45 EUR
 currency: EUR

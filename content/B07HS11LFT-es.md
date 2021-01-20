@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HS11LFT-es ASUS ROG Maximus XI Hero Wi-Fi - Placa base Gaming ATX...'
+sku: 'B07HS11LFT-es'
 tags: [  ]
 actualPrice: 209.0 EUR
 currency: EUR

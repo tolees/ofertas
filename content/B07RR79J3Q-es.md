@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RR79J3Q-es Aozzy PVC Aislante Ajustable para Ventanas Correderas...'
+sku: 'B07RR79J3Q-es'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

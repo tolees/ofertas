@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q5XV17R-es Manijas de Inclinación para Asiento Delantero Derecho e...'
+sku: 'B07Q5XV17R-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

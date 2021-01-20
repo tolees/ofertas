@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P9W5HJV-es SanDisk UHS-I Tarjeta de Memoria microSDXC con Adaptador...'
+sku: 'B07P9W5HJV-es'
 tags: [  ]
 actualPrice: 315.9 EUR
 currency: EUR

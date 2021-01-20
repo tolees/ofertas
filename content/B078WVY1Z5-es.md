@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WVY1Z5-es Quiksilver Molokai Abyss Zapatos de Playa y Piscina para...'
+sku: 'B078WVY1Z5-es'
 tags: [  ]
 actualPrice: 15.79 EUR
 currency: EUR

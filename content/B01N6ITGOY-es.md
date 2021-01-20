@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N6ITGOY-es REPLAY Am2453.000.a3001e Cinturón Negro Black 98 125 Talla...'
+sku: 'B01N6ITGOY-es'
 tags: [  ]
 actualPrice: 22.49 EUR
 currency: EUR

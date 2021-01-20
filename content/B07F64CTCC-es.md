@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F64CTCC-es Kit de Destornilladores Uktunu 110 en 1 Juego...'
+sku: 'B07F64CTCC-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

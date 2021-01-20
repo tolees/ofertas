@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JAQ3G1Y-es Seiko Reloj Analógico Automático para Hombre con Correa de...'
+sku: 'B01JAQ3G1Y-es'
 tags: [  ]
 actualPrice: 213.46 EUR
 currency: EUR

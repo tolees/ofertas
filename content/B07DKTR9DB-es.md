@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DKTR9DB-es UNO de 50 Ahora o Nunca'
+sku: 'B07DKTR9DB-es'
 tags: [  ]
 actualPrice: 139.3 EUR
 currency: EUR

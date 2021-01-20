@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG5K8GH-es PUMA Vikky v2 Fur Zapatillas para Mujer Marrón Nougat-Puma...'
+sku: 'B07KG5K8GH-es'
 tags: [  ]
 actualPrice: 25.81 EUR
 currency: EUR

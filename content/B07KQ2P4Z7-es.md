@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KQ2P4Z7-es Juguetrónica- Wonder Cube Cubo infinito Multicolor JUG0322...'
+sku: 'B07KQ2P4Z7-es'
 tags: [  ]
 actualPrice: 3.0 EUR
 currency: EUR

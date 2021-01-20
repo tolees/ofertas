@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083GQJW7V-es 2 piezas de Cubierta de Cinturón de Seguridad para Bebé...'
+sku: 'B083GQJW7V-es'
 tags: [  ]
 actualPrice: 7.29 EUR
 currency: EUR

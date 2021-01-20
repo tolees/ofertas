@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MV63BQG-es Occitop - Juego de 85 cuentas para manualidades collares...'
+sku: 'B07MV63BQG-es'
 tags: [  ]
 actualPrice: 16.93 EUR
 currency: EUR

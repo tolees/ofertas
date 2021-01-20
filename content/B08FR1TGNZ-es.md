@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FR1TGNZ-es Sellador de Silicona Bst4U Aplicador de Pegamento y...'
+sku: 'B08FR1TGNZ-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

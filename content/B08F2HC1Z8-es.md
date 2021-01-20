@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08F2HC1Z8-es Auriculares Bluetooth 5.0 Auricular Inalámbrico Control...'
+sku: 'B08F2HC1Z8-es'
 tags: [  ]
 actualPrice: 33.8 EUR
 currency: EUR

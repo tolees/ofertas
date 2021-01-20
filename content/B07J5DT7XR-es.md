@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J5DT7XR-es SUPERMOM Pants Utb Tropical Pantalones premamá Multicolor...'
+sku: 'B07J5DT7XR-es'
 tags: [  ]
 actualPrice: 16.95 EUR
 currency: EUR

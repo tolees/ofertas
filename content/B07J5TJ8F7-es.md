@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J5TJ8F7-es Skechers Men s Bounder Trainers Red Burgundy Burgundy 10...'
+sku: 'B07J5TJ8F7-es'
 tags: [  ]
 actualPrice: 41.95 EUR
 currency: EUR

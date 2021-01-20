@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00I9CXFU8-es Urban Beauty United Diva Duo - Sacapuntas de Doble Entrada...'
+sku: 'B00I9CXFU8-es'
 tags: [  ]
 actualPrice: 1.05 EUR
 currency: EUR

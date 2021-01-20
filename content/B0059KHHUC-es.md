@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0059KHHUC-es NIKE Men s Cortez Basic Leather Shoe Zapatillas para...'
+sku: 'B0059KHHUC-es'
 tags: [  ]
 actualPrice: 59.36 EUR
 currency: EUR

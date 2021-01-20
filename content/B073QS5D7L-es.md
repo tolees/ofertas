@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073QS5D7L-es find. 18105 camisetas Gris Grau 38 Talla del Fabricante:...'
+sku: 'B073QS5D7L-es'
 tags: [  ]
 actualPrice: 1.8 EUR
 currency: EUR

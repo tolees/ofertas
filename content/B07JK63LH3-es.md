@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JK63LH3-es dreamlock Pedales con articulado de construcción 261 pcs...'
+sku: 'B07JK63LH3-es'
 tags: [  ]
 actualPrice: 31.13 EUR
 currency: EUR

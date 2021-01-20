@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TCC65M5-es Helly Hansen Feathering Náuticos para Hombre Azul Navy/Off...'
+sku: 'B07TCC65M5-es'
 tags: [  ]
 actualPrice: 45.24 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RNCW1SJ-es Habitación infantil Lámpara de pared Dormitorio nórdico...'
+sku: 'B07RNCW1SJ-es'
 tags: [  ]
 actualPrice: 28.88 EUR
 currency: EUR

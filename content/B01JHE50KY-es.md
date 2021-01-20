@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JHE50KY-es Kingston DT50/16GB Llave Usb 16 Gb Verde'
+sku: 'B01JHE50KY-es'
 tags: [  ]
 actualPrice: 6.29 EUR
 currency: EUR

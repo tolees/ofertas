@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F1W51GK-es Goda Goda eléctrica Soldador feinlöt pistón 220 V 60 W Eu...'
+sku: 'B07F1W51GK-es'
 tags: [  ]
 actualPrice: 2.99 EUR
 currency: EUR

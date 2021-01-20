@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R49VF6K-es LOL Surprise Pijamas de Manga Corta para niñas Dolls...'
+sku: 'B07R49VF6K-es'
 tags: [  ]
 actualPrice: 7.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S3STD9G-es HellDoler Manualidades para Niños 100 Hojas Manualidades...'
+sku: 'B07S3STD9G-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

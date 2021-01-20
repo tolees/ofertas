@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QLPV7VD-es BRIKSMAX Kit de Iluminación Led para Ford Mustang-...'
+sku: 'B07QLPV7VD-es'
 tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR

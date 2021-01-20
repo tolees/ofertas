@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MXQ731Q-es Lotus Reloj Analógico para Hombre de Cuarzo con Correa en...'
+sku: 'B07MXQ731Q-es'
 tags: [  ]
 actualPrice: 49.12 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RMB1JK-es Silver HT - Funda para eReader Libro electrónico eBook de...'
+sku: 'B073RMB1JK-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

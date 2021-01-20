@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XKBPKJS-es Skechers Go Run Fast Valor Zapatillas para Niños Rojo Red...'
+sku: 'B07XKBPKJS-es'
 tags: [  ]
 actualPrice: 26.22 EUR
 currency: EUR

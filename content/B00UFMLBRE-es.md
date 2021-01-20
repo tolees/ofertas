@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UFMLBRE-es adidas Tango Glider Balón Unisex Adulto Blanco/Negro 4'
+sku: 'B00UFMLBRE-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

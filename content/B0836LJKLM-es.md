@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0836LJKLM-es Lifewit 24can Nevera Portatil Bolsa Térmica Comida Doble...'
+sku: 'B0836LJKLM-es'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

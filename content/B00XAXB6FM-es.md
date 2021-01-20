@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XAXB6FM-es Tommee Tippee Closer to Nature- Kit de Biberónes...'
+sku: 'B00XAXB6FM-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

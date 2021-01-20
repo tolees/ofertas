@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085XVKRWN-es Vitamina C 1000mg. Vitamina C natural. Complemento...'
+sku: 'B085XVKRWN-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

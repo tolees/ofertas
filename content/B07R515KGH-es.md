@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R515KGH-es Máquina de cortar pelo maquina cortar pelo cortador de...'
+sku: 'B07R515KGH-es'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

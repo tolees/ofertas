@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003VFEF8O-es SRAM 89.2711.114.105 Cadena 1071 Hollowpin 114 eslabones...'
+sku: 'B003VFEF8O-es'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

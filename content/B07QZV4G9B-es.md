@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QZV4G9B-es HyAdierTech Almohadilla De Cuna Impermeable para Bebé...'
+sku: 'B07QZV4G9B-es'
 tags: [  ]
 actualPrice: 11.98 EUR
 currency: EUR

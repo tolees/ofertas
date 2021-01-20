@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X91LYD3-es Educa- Identic Gorjuss Juego Educativo de Memoria para...'
+sku: 'B06X91LYD3-es'
 tags: [  ]
 actualPrice: 3.9 EUR
 currency: EUR

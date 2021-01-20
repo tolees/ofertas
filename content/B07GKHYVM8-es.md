@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GKHYVM8-es ZOLO Liberty True-Wireless Auriculares autonomía de hasta...'
+sku: 'B07GKHYVM8-es'
 tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR

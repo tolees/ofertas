@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SBVSWMW-es PUMA LQDCELL Hydra FM Zapatillas Deportivas para Interior...'
+sku: 'B07SBVSWMW-es'
 tags: [  ]
 actualPrice: 27.63 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZMWRY46-es Alambre Manualidades Alambre de Cobre Desnudo 10 piezas...'
+sku: 'B07ZMWRY46-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

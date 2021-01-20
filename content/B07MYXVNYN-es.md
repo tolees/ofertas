@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MYXVNYN-es Vacío Envasado Máquina Envasadora Alimentos Conservación...'
+sku: 'B07MYXVNYN-es'
 tags: [  ]
 actualPrice: 49.98 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UXB4VNI-es Muvit MUSCP0825 - MCA Protector de pantalla para Samsung...'
+sku: 'B00UXB4VNI-es'
 tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR

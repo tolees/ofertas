@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PTN3C1Y-es iDesign Organizador de baño portacepillos de dientes de...'
+sku: 'B07PTN3C1Y-es'
 tags: [  ]
 actualPrice: 20.93 EUR
 currency: EUR

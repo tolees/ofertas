@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QXKXLQH-es Medion Akoya S6445 - Portátil ultrafino 15.6" FullHD Intel...'
+sku: 'B07QXKXLQH-es'
 tags: [  ]
 actualPrice: 512.0 EUR
 currency: EUR

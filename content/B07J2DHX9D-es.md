@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J2DHX9D-es SCSpecial 20 Unids Surtido Conjunto de Herramientas de...'
+sku: 'B07J2DHX9D-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

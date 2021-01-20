@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NF7F7DZ-es Skechers Women s BOBS Squad 2-Grand Jubilee Trainers Black...'
+sku: 'B07NF7F7DZ-es'
 tags: [  ]
 actualPrice: 32.92 EUR
 currency: EUR

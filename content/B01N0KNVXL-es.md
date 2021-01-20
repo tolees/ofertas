@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N0KNVXL-es Easton Marlowe 6 PR Calcetines Estampados Hombre - 6pk #22...'
+sku: 'B01N0KNVXL-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

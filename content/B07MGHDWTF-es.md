@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MGHDWTF-es Gant 3-Pack Trunk Seasonal Solid Calzoncillos Rojo...'
+sku: 'B07MGHDWTF-es'
 tags: [  ]
 actualPrice: 19.23 EUR
 currency: EUR

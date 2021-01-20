@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AXYMEZ6-es MASERATI Reloj Cronógrafo para Hombre de Cuarzo con Correa...'
+sku: 'B01AXYMEZ6-es'
 tags: [  ]
 actualPrice: 122.41 EUR
 currency: EUR

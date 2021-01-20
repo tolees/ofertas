@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075QQLBBT-es GORE WEAR C3 Cubrezapato para ciclismo unisex Partial GORE...'
+sku: 'B075QQLBBT-es'
 tags: [  ]
 actualPrice: 33.95 EUR
 currency: EUR

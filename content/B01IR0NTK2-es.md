@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IR0NTK2-es Philips Airfryer HD9621/90 - Freidora sin Aceite...'
+sku: 'B01IR0NTK2-es'
 tags: [  ]
 actualPrice: 141.99 EUR
 currency: EUR

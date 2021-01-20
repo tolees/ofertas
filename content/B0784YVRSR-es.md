@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0784YVRSR-es Reebok Workout Plus Zapatillas de Deporte para Niños...'
+sku: 'B0784YVRSR-es'
 tags: [  ]
 actualPrice: 44.29 EUR
 currency: EUR

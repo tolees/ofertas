@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W93M1TN-es Jack & Jones Jorpannel Crew Neck. Suéter Azul Navy Blazer...'
+sku: 'B07W93M1TN-es'
 tags: [  ]
 actualPrice: 8.24 EUR
 currency: EUR

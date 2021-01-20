@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RKPNTB5-es Tommy Hilfiger Hilfiger Slim Polo Rojo Primary Red Medium...'
+sku: 'B07RKPNTB5-es'
 tags: [  ]
 actualPrice: 33.0 EUR
 currency: EUR

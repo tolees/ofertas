@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DL64LLN-es J.Rosée Pendientes Mujer aro de Plata de Ley 925...'
+sku: 'B07DL64LLN-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GSYJRLF-es EKKONG 24 Piezas Ganchos Adhesivos Adhesivo Fuerte uñas...'
+sku: 'B07GSYJRLF-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XQZCLC5-es 7 Enanitos - Estuche portatodo Cuadrado Karactermanía...'
+sku: 'B06XQZCLC5-es'
 tags: [  ]
 actualPrice: 4.95 EUR
 currency: EUR

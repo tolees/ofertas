@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RYN57V5-es New Balance 411 Zapatillas de Running para Mujer Rosa Pink...'
+sku: 'B07RYN57V5-es'
 tags: [  ]
 actualPrice: 27.86 EUR
 currency: EUR

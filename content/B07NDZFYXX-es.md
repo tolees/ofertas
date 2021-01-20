@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDZFYXX-es KFD 45W Adaptador de Corriente Cargador portátil para...'
+sku: 'B07NDZFYXX-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

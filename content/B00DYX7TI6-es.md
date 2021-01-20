@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DYX7TI6-es Rayen Superficie de tendido m | Sistema de Bloqueo de alas...'
+sku: 'B00DYX7TI6-es'
 tags: [  ]
 actualPrice: 19.13 EUR
 currency: EUR

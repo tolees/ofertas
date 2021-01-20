@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LGXQBFP-es Salomon out Night 30+5 Mochila Capacidad 35 L Unisex...'
+sku: 'B07LGXQBFP-es'
 tags: [  ]
 actualPrice: 74.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PPPQHLL-es Fortnite Set de juego con 2 Figuras multicolor Jazwares...'
+sku: 'B07PPPQHLL-es'
 tags: [  ]
 actualPrice: 28.95 EUR
 currency: EUR

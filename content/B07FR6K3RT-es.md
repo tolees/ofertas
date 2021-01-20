@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FR6K3RT-es Clarks Triactive Up Zapatillas para Hombre Verde Olive...'
+sku: 'B07FR6K3RT-es'
 tags: [  ]
 actualPrice: 31.02 EUR
 currency: EUR

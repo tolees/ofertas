@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088TRWZYM-es IDEASY Tableta de Escritura LCD de 12 Pulgadas Tableta de...'
+sku: 'B088TRWZYM-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

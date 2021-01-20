@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXGRZCL-es Rizador de Pelo 6 en 1 Profesional con Conos Temperatura...'
+sku: 'B07TXGRZCL-es'
 tags: [  ]
 actualPrice: 26.24 EUR
 currency: EUR

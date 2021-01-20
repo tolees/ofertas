@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RXWGTM4-es Diesel ShoesDiscover-me OderzoHombreCarterasAzul Blue...'
+sku: 'B07RXWGTM4-es'
 tags: [  ]
 actualPrice: 19.39 EUR
 currency: EUR

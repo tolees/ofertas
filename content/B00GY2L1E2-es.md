@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GY2L1E2-es Just For Men Tinte Colorante en champu para el cabello del...'
+sku: 'B00GY2L1E2-es'
 tags: [  ]
 actualPrice: 7.15 EUR
 currency: EUR

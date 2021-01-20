@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D7RS5DS-es MEDION ERAZER P6689 - Portátil gaming 15.6" FullHD Intel...'
+sku: 'B07D7RS5DS-es'
 tags: [  ]
 actualPrice: 599.99 EUR
 currency: EUR

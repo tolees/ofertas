@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079HBZLFG-es Philips Sonicare ProtectiveClean HX6856/17 - Cepillo de...'
+sku: 'B079HBZLFG-es'
 tags: [  ]
 actualPrice: 92.99 EUR
 currency: EUR

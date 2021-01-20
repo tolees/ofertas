@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CFVE5DY-es Soy Luna YLU23000 Patín Niñas Rosa/Amarillo Talla Única'
+sku: 'B01CFVE5DY-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

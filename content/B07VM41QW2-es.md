@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VM41QW2-es Schneespitze Kitchen Sink Estantería Fregadero Soporte...'
+sku: 'B07VM41QW2-es'
 tags: [  ]
 actualPrice: 3.29 EUR
 currency: EUR

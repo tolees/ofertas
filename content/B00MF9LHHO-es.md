@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MF9LHHO-es Calvin Klein Damen String MODERN - THONG Einfarbig Gr. 34...'
+sku: 'B00MF9LHHO-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

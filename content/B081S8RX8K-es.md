@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081S8RX8K-es Duérmete Online Colchón Juvenil Vale Reversible Eliocel...'
+sku: 'B081S8RX8K-es'
 tags: [  ]
 actualPrice: 51.81 EUR
 currency: EUR

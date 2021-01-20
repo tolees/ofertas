@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088HHDR8F-es HAPPY - 10 para nin@s productos el efecto alcanza el 95% CE'
+sku: 'B088HHDR8F-es'
 tags: [  ]
 actualPrice: 7.89 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018SH2WUM-es Reebok Classic Leather Zapatillas de Gimnasia para Hombre...'
+sku: 'B018SH2WUM-es'
 tags: [  ]
 actualPrice: 38.55 EUR
 currency: EUR

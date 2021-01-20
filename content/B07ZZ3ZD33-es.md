@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZZ3ZD33-es Helly Hansen HH Scout Duffel L Bolsa De Deporte Unisex...'
+sku: 'B07ZZ3ZD33-es'
 tags: [  ]
 actualPrice: 46.49 EUR
 currency: EUR

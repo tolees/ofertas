@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081TBL9PD-es Vaporizador Facial Profesional Sauna Facial...'
+sku: 'B081TBL9PD-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

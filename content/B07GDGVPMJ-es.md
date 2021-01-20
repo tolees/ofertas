@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GDGVPMJ-es adidas All Me 3-Stripes Sujetador Deportivo Mujer Negro...'
+sku: 'B07GDGVPMJ-es'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

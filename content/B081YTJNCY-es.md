@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081YTJNCY-es para GoPro Domo Puerto para Gopro Hero Negro Domo GoPro...'
+sku: 'B081YTJNCY-es'
 tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR

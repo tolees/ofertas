@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079VQRJKW-es Meccano Ducati Moto GP - Juegos de construcción Juego de...'
+sku: 'B079VQRJKW-es'
 tags: [  ]
 actualPrice: 24.62 EUR
 currency: EUR

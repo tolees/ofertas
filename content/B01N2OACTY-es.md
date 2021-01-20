@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N2OACTY-es Kids Licensing – pw16268 – Paw Patrol – Reloj Digitale'
+sku: 'B01N2OACTY-es'
 tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR

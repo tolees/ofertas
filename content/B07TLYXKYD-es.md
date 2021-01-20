@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TLYXKYD-es Vans Ward Suede/Canvas Zapatillas para Hombre Negro Otw...'
+sku: 'B07TLYXKYD-es'
 tags: [  ]
 actualPrice: 46.37 EUR
 currency: EUR

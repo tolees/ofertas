@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WDN5T76-es Jovego Calcetines de Lana Mujer Suave Cómodo Gruesa de...'
+sku: 'B07WDN5T76-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

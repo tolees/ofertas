@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088M4DL5W-es Suhctup Funda Compatible con Xiaomi Mi 9 Pro/Mi 9 Pro 5G...'
+sku: 'B088M4DL5W-es'
 tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01F44IOJU-es Taza de viaje - Café Thermos frasco - Aislado en vacío de...'
+sku: 'B01F44IOJU-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

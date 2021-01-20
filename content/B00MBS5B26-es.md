@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MBS5B26-es Clatronic WK 3445 Hervidor de Agua eléctrico con Apagado...'
+sku: 'B00MBS5B26-es'
 tags: [  ]
 actualPrice: 12 EUR
 currency: EUR

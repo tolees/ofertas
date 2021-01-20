@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RWSFGK7-es Piz Buin - Protector Solar Allergy Spray SPF 15 - Loción...'
+sku: 'B07RWSFGK7-es'
 tags: [  ]
 actualPrice: 7.03 EUR
 currency: EUR

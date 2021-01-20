@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VY6G7M7-es Memoria USB 64GB Pendrive 2.0 USB Stick Flash Drive Pen...'
+sku: 'B07VY6G7M7-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

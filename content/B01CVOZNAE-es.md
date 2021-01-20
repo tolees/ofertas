@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CVOZNAE-es SAMSUNG TA20 Cargador Galaxy S7 Carga rápida AFC 2 A con...'
+sku: 'B01CVOZNAE-es'
 tags: [  ]
 actualPrice: 6.53 EUR
 currency: EUR

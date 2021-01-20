@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QTZF7Y9-es Asics Gel-Quantum Infinity Zapatillas de Running para...'
+sku: 'B07QTZF7Y9-es'
 tags: [  ]
 actualPrice: 49.13 EUR
 currency: EUR

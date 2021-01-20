@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FR3JKYL-es Clarks Becken Cap Zapatos de Cordones Derby para Hombre...'
+sku: 'B07FR3JKYL-es'
 tags: [  ]
 actualPrice: 55.97 EUR
 currency: EUR

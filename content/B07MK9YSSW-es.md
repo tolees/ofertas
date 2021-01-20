@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MK9YSSW-es Skechers GO Walk 5 APPRIZE Zapatillas sin Cordones para...'
+sku: 'B07MK9YSSW-es'
 tags: [  ]
 actualPrice: 22.11 EUR
 currency: EUR

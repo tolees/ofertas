@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076RFFKS4-es Terapia plana bandas de resistencia Set látex libre...'
+sku: 'B076RFFKS4-es'
 tags: [  ]
 actualPrice: 7.88 EUR
 currency: EUR

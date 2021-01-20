@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WCWQRF-es Palladium Pampa Hi Mono U Zapatillas Altas para Hombre...'
+sku: 'B078WCWQRF-es'
 tags: [  ]
 actualPrice: 37.43 EUR
 currency: EUR

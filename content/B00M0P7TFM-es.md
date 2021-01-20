@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00M0P7TFM-es Quid Gastro Fun - Sartén doble para tortilla 26 cm...'
+sku: 'B00M0P7TFM-es'
 tags: [  ]
 actualPrice: 28.82 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D42KDJ3-es Rimmel London Stay Satin Liquid Lip Colour Barra De Labios...'
+sku: 'B07D42KDJ3-es'
 tags: [  ]
 actualPrice: 3.78 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01D1LSCH2-es Lékué Cubitera de Caucho Natural Azul 14 cavidades...'
+sku: 'B01D1LSCH2-es'
 tags: [  ]
 actualPrice: 3.36 EUR
 currency: EUR

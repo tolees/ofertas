@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079V5LP6X-es Wrangler Arizona Jeans Azul Green Room 25B 35W / 32L para...'
+sku: 'B079V5LP6X-es'
 tags: [  ]
 actualPrice: 42.48 EUR
 currency: EUR

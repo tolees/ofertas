@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N3LA3PR-es The Prisioner El prisionero [DVD]'
+sku: 'B01N3LA3PR-es'
 tags: [  ]
 actualPrice: 5.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1JGFF3-es Clarks Un.loop2 Walk Mocasines para Mujer Negro Black...'
+sku: 'B07N1JGFF3-es'
 tags: [  ]
 actualPrice: 82.62 EUR
 currency: EUR

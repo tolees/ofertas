@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000NSMIUY-es Vans Classic Slip-On VEYEBWW - Zapatillas clsicas de Tela...'
+sku: 'B000NSMIUY-es'
 tags: [  ]
 actualPrice: 46.99 EUR
 currency: EUR

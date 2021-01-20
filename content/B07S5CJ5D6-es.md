@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S5CJ5D6-es Love MoschinoJc4004pp1aMujerBolsos mochilaMarfil Avorio...'
+sku: 'B07S5CJ5D6-es'
 tags: [  ]
 actualPrice: 123.75 EUR
 currency: EUR

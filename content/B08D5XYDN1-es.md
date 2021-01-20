@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08D5XYDN1-es Haberdashery Online Kit Mascarilla higiénica textil...'
+sku: 'B08D5XYDN1-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

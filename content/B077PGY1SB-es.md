@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077PGY1SB-es NOX Pala ML10 Pro Cup Survivor'
+sku: 'B077PGY1SB-es'
 tags: [  ]
 actualPrice: 147.75 EUR
 currency: EUR

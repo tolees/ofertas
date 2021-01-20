@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079NVR6PT-es ProfiCare HTH 3003 - Secador de casco iónico 2 niveles de...'
+sku: 'B079NVR6PT-es'
 tags: [  ]
 actualPrice: 26.91 EUR
 currency: EUR

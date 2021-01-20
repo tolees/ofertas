@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D5SSZHP-es Under Armour Tech 6in 2 Pack Ropa Interior Hombre Negro...'
+sku: 'B07D5SSZHP-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

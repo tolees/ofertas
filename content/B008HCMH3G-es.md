@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008HCMH3G-es Vans Herren OTW T-Shirt Schwarz BLACK-WHITE Y28 X-Small'
+sku: 'B008HCMH3G-es'
 tags: [  ]
 actualPrice: 20.95 EUR
 currency: EUR

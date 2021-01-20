@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBM7ML1-es Sound BlasterX H6 - Cascos con micrófono para juegos USB...'
+sku: 'B07LBM7ML1-es'
 tags: [  ]
 actualPrice: 46.98 EUR
 currency: EUR

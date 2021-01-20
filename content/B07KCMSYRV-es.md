@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KCMSYRV-es adidas T19 WOV Pnt W Pantalones de Deporte Mujer...'
+sku: 'B07KCMSYRV-es'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

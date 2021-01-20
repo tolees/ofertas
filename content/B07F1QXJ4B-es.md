@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F1QXJ4B-es New Balance 410v6 Trail Zapatillas para Carreras de...'
+sku: 'B07F1QXJ4B-es'
 tags: [  ]
 actualPrice: 34.32 EUR
 currency: EUR

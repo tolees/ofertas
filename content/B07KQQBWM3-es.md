@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KQQBWM3-es Salomon XA Pro 3D GTX W Zapatillas de Trail Running para...'
+sku: 'B07KQQBWM3-es'
 tags: [  ]
 actualPrice: 117.98 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DBWWNKM-es Puma Turin Ii Zapatillas Unisex adulto Azul Peacoat-Puma...'
+sku: 'B07DBWWNKM-es'
 tags: [  ]
 actualPrice: 27.5 EUR
 currency: EUR

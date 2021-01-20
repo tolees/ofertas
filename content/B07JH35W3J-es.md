@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JH35W3J-es Columbia Ivo Trail Zapatillas para Hombre Azul Collegiate...'
+sku: 'B07JH35W3J-es'
 tags: [  ]
 actualPrice: 60 EUR
 currency: EUR

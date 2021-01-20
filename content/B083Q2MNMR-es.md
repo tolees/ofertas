@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083Q2MNMR-es Juego de Salpicaduras y Salpicaduras 170 cm Water Spray de...'
+sku: 'B083Q2MNMR-es'
 tags: [  ]
 actualPrice: 14.49 EUR
 currency: EUR

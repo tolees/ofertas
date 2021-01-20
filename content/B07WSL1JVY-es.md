@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WSL1JVY-es Byroras Electroestimulador Muscular Abdominales EMS...'
+sku: 'B07WSL1JVY-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

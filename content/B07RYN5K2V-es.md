@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RYN5K2V-es New Balance 997H h Zapatillas para Hombre Verde Green/Gold...'
+sku: 'B07RYN5K2V-es'
 tags: [  ]
 actualPrice: 33.6 EUR
 currency: EUR

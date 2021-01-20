@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083DL2QX9-es Ato Bea Pistola Masaje Muscular Pistola de Masaje Massage...'
+sku: 'B083DL2QX9-es'
 tags: [  ]
 actualPrice: 95.99 EUR
 currency: EUR

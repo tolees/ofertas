@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MJG5P5L-es Anthem - Fluoreszierendes Steelbook exkl. bei Amazon.de -...'
+sku: 'B07MJG5P5L-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

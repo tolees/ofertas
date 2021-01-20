@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ID4TYEI-es Semillas Hortícolas - Zanahoria Nantesa 5 sel. Cilindro -...'
+sku: 'B00ID4TYEI-es'
 tags: [  ]
 actualPrice: 0.99 EUR
 currency: EUR

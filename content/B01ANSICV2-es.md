@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ANSICV2-es Trio Lighting Embassy Trio 603800487-Plafón LED Cuadrado...'
+sku: 'B01ANSICV2-es'
 tags: [  ]
 actualPrice: 83.65 EUR
 currency: EUR

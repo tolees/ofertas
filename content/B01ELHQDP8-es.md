@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ELHQDP8-es Orlane Maquillaje corrector - 200 gr.'
+sku: 'B01ELHQDP8-es'
 tags: [  ]
 actualPrice: 17.95 EUR
 currency: EUR

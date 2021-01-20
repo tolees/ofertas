@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006FEW1TI-es Tayg - Estante con clasificador apilable 9 cajones'
+sku: 'B006FEW1TI-es'
 tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR

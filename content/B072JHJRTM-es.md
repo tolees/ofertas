@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072JHJRTM-es L´Oreal Paris Infalible Sombra 306 Nudist - 1 Sombra de ojos'
+sku: 'B072JHJRTM-es'
 tags: [  ]
 actualPrice: 5.08 EUR
 currency: EUR

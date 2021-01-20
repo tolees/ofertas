@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082HBMR1S-es ART VVIES Wandbild für Hauptdekorationen mit Haken Holz...'
+sku: 'B082HBMR1S-es'
 tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR

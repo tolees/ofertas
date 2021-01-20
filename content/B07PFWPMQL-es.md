@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PFWPMQL-es Levi s Reddinger Botas Slouch para Hombre Negro R Black 59...'
+sku: 'B07PFWPMQL-es'
 tags: [  ]
 actualPrice: 37.01 EUR
 currency: EUR

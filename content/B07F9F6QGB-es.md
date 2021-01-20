@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F9F6QGB-es Casio Reloj Digital para Hombre de Cuarzo con Correa en...'
+sku: 'B07F9F6QGB-es'
 tags: [  ]
 actualPrice: 23.78 EUR
 currency: EUR

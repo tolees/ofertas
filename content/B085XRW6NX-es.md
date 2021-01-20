@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085XRW6NX-es Oxímetro de pulso para dispositivo de medición de oxígeno...'
+sku: 'B085XRW6NX-es'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

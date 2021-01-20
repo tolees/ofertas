@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CI30JVC-es NANOCABLE 10.31.0102 - Tenaza Metalica de carraca para...'
+sku: 'B00CI30JVC-es'
 tags: [  ]
 actualPrice: 13.75 EUR
 currency: EUR

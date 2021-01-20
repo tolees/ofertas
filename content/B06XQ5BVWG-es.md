@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XQ5BVWG-es Fissler SensoRed Sartén wok con un diámetro de 28 cm...'
+sku: 'B06XQ5BVWG-es'
 tags: [  ]
 actualPrice: 102.04 EUR
 currency: EUR

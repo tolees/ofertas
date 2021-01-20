@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XHC6Y26-es Helly Hansen HH LIFA T-Shirt SS Baselayer Hombre Negro...'
+sku: 'B06XHC6Y26-es'
 tags: [  ]
 actualPrice: 13.9 EUR
 currency: EUR

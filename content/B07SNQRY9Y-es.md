@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SNQRY9Y-es Asics Gel-Nimbus 22 Running Shoe Mens Tuna Blue/Pure...'
+sku: 'B07SNQRY9Y-es'
 tags: [  ]
 actualPrice: 135.0 EUR
 currency: EUR

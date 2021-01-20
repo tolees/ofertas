@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BGVKNH5-es Crema para el cuidado de los pies para pieles quebradizas...'
+sku: 'B07BGVKNH5-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

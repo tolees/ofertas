@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D78GW4G-es Fesoar Cepillo Barbacoa de Limpieza 360° Cepillos de Acero...'
+sku: 'B07D78GW4G-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

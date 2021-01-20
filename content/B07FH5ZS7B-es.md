@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FH5ZS7B-es Element Dusk II Beanie A Gorro Hombre Rojo Napa Red Talla...'
+sku: 'B07FH5ZS7B-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

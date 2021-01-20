@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076HXM2WX-es HP ENVY Photo 6234 - Impresora multifunción Inyección de...'
+sku: 'B076HXM2WX-es'
 tags: [  ]
 actualPrice: 51.68 EUR
 currency: EUR

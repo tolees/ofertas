@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071KCB2HG-es Magno - Desodorante Marine - 150ml pack de 6 Total: 900ml'
+sku: 'B071KCB2HG-es'
 tags: [  ]
 actualPrice: 9.6 EUR
 currency: EUR

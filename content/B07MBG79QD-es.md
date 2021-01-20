@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MBG79QD-es RECCI - Topper Colchón de Espuma 120x200cm Topper...'
+sku: 'B07MBG79QD-es'
 tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR

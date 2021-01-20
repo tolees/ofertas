@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079FWGHXQ-es Trust Gaming GXT 707R Resto - Silla para Gaming Color Rojo'
+sku: 'B079FWGHXQ-es'
 tags: [  ]
 actualPrice: 157.25 EUR
 currency: EUR

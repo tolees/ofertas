@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG2RWFL-es PUMA Ralph Sampson Lo Zapatillas Deportivas Unisex Adulto...'
+sku: 'B07KG2RWFL-es'
 tags: [  ]
 actualPrice: 30.97 EUR
 currency: EUR

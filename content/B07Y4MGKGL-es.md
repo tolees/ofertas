@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y4MGKGL-es Luchild Protector de Cuna 360cm Parachoques Protector Cuna...'
+sku: 'B07Y4MGKGL-es'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

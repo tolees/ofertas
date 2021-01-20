@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006C0QMHM-es Spidi Z140-016 Warrior EVO Protección de Espalda para Moto...'
+sku: 'B006C0QMHM-es'
 tags: [  ]
 actualPrice: 74.9 EUR
 currency: EUR

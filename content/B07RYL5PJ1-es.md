@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RYL5PJ1-es New Balance Fresh Foam Tempo m Zapatillas de Running para...'
+sku: 'B07RYL5PJ1-es'
 tags: [  ]
 actualPrice: 69.86 EUR
 currency: EUR

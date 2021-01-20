@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NWC3NFM-es New Balance Ml574 D Zapatillas para Hombre Negro Egn Black...'
+sku: 'B07NWC3NFM-es'
 tags: [  ]
 actualPrice: 54.51 EUR
 currency: EUR

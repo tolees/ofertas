@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GSD9N94-es Einhell HEROCCO Martillo perforador inalámbrico no Incluye...'
+sku: 'B07GSD9N94-es'
 tags: [  ]
 actualPrice: 99.9 EUR
 currency: EUR

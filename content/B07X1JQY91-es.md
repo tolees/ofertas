@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X1JQY91-es Lámpara de Nocturna LED Lámpara de Mesita de Noche...'
+sku: 'B07X1JQY91-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNWPMWS-es EXZACT EX17019S3Juego De 3 Maletas Premium De Viaje – 28”...'
+sku: 'B07FNWPMWS-es'
 tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR

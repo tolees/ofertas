@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZKRWG21-es CRZ YOGA Mujer Naked Feeling Deportivos 7/8 Leggings Yoga...'
+sku: 'B07ZKRWG21-es'
 tags: [  ]
 actualPrice: 18.0 EUR
 currency: EUR

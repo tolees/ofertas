@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VJYRBB1-es LED Tira De TV Diyife 2.5M 75 Leds Multicolor...'
+sku: 'B07VJYRBB1-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B4YLQMS-es Circuito ferrocarril Ciudad ajetreada'
+sku: 'B07B4YLQMS-es'
 tags: [  ]
 actualPrice: 48.88 EUR
 currency: EUR

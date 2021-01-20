@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JQG69J0-es VALUELINE Cable EUROCONECTOR con IN'
+sku: 'B00JQG69J0-es'
 tags: [  ]
 actualPrice: 4.87 EUR
 currency: EUR

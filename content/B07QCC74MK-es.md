@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QCC74MK-es Adidas Tensaur C Zapatillas de Running Unisex niño Blanco...'
+sku: 'B07QCC74MK-es'
 tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR

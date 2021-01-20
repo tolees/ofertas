@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SFZL64H-es Kappa Maglia Replica Home 2019/2020 Unisex Adulto Hombre...'
+sku: 'B07SFZL64H-es'
 tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR

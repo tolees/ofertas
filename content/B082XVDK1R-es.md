@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082XVDK1R-es Star Wars Póster Multicolor 61 x 91.5cm'
+sku: 'B082XVDK1R-es'
 tags: [  ]
 actualPrice: 4.73 EUR
 currency: EUR

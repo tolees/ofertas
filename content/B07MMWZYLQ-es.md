@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MMWZYLQ-es Saucony Triumph ISO 5 Zapatillas de Running para Hombre...'
+sku: 'B07MMWZYLQ-es'
 tags: [  ]
 actualPrice: 87.5 EUR
 currency: EUR

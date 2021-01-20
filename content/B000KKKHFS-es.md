@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000KKKHFS-es InLine 33101 Adaptador de Cable USB A DB15 Beige -...'
+sku: 'B000KKKHFS-es'
 tags: [  ]
 actualPrice: 7.22 EUR
 currency: EUR

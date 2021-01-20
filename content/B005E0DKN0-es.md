@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005E0DKN0-es Techair TAN1204V2 - Maletín para portátil de 14.1" Negro'
+sku: 'B005E0DKN0-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

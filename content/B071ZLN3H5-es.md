@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071ZLN3H5-es Motorola Moto E4 - Smartphone Libre de 5" HD 2.800 mAh de...'
+sku: 'B071ZLN3H5-es'
 tags: [  ]
 actualPrice: 95.0 EUR
 currency: EUR

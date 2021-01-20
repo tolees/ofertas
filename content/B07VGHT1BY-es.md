@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VGHT1BY-es Bandolera Grande Pepe Jeans Lambert Burdeos'
+sku: 'B07VGHT1BY-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

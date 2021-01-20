@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00P20CKJC-es VATI Hojas desprendibles Kill Geniales Diseño Sticker...'
+sku: 'B00P20CKJC-es'
 tags: [  ]
 actualPrice: 2.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JH35FVQ-es Columbia Nikiski 503 Botas Bajas para Mujer Negro Black...'
+sku: 'B07JH35FVQ-es'
 tags: [  ]
 actualPrice: 26.79 EUR
 currency: EUR

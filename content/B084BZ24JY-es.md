@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084BZ24JY-es IKOHS Aspirador Vertical CYCLONIC DC-Flux 25 9V -...'
+sku: 'B084BZ24JY-es'
 tags: [  ]
 actualPrice: 149.95 EUR
 currency: EUR

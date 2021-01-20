@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AADHRU2-es Nike Club Logo2 Pantalón Mujer Multicolor Dk Grey...'
+sku: 'B01AADHRU2-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RWV1GZ7-es Jack & Jones Jjimarco Jjconnor AKM 769 Herring Noos...'
+sku: 'B07RWV1GZ7-es'
 tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR

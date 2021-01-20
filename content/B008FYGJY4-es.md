@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008FYGJY4-es Calvin Klein Reloj Analógico de Cuarzo para Hombre con...'
+sku: 'B008FYGJY4-es'
 tags: [  ]
 actualPrice: 101.69 EUR
 currency: EUR

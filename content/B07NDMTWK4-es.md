@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDMTWK4-es Pepe Jeans MC Queen Short para Hombre Naranja Spice 193...'
+sku: 'B07NDMTWK4-es'
 tags: [  ]
 actualPrice: 28.85 EUR
 currency: EUR

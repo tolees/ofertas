@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EQRTNHS-es TOUCHBeauty TB-1653 Afeitadora femenina facial/corporal...'
+sku: 'B01EQRTNHS-es'
 tags: [  ]
 actualPrice: 13.98 EUR
 currency: EUR

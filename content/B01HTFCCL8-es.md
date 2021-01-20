@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HTFCCL8-es Reebok Classic Leather Zapatillas Mujer Negro Int / Black...'
+sku: 'B01HTFCCL8-es'
 tags: [  ]
 actualPrice: 24.51 EUR
 currency: EUR

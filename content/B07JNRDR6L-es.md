@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JNRDR6L-es Pinko 1G13F67080 Pantalone Mujer 44'
+sku: 'B07JNRDR6L-es'
 tags: [  ]
 actualPrice: 97 EUR
 currency: EUR

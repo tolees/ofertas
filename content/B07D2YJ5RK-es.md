@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D2YJ5RK-es Luchild Colchoneta Silla Paseo Universal Verano Colchoneta...'
+sku: 'B07D2YJ5RK-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

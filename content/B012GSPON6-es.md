@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B012GSPON6-es Original Buff - Knitted & Polar Hat Solid Unisex Adulto...'
+sku: 'B012GSPON6-es'
 tags: [  ]
 actualPrice: 17.65 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TWWMRWV-es JUMPER Irrigador Bucal Portátil de 320ml Irrigador Dental...'
+sku: 'B07TWWMRWV-es'
 tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR

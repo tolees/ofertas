@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083J8XGHG-es TOUCHBeauty Masajeador facial con modo sónico vibración...'
+sku: 'B083J8XGHG-es'
 tags: [  ]
 actualPrice: 15.98 EUR
 currency: EUR

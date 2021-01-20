@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BK9FJMC-es Los IncreÍbles-640876-M Disfraz Violet Increible Classic...'
+sku: 'B07BK9FJMC-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

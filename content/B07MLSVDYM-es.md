@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MLSVDYM-es Clarks Ronnie Top Botas Chelsea para Hombre Marrón British...'
+sku: 'B07MLSVDYM-es'
 tags: [  ]
 actualPrice: 39.44 EUR
 currency: EUR

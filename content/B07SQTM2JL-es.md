@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SQTM2JL-es Live At Woodstock'
+sku: 'B07SQTM2JL-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

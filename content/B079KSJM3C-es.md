@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079KSJM3C-es Amerigo Forma de Bala Whisky Piedras Set de Regalo de...'
+sku: 'B079KSJM3C-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

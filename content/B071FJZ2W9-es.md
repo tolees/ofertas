@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071FJZ2W9-es QUEEN ROSE Tendedero Tipo Torre para Interior y Exterior...'
+sku: 'B071FJZ2W9-es'
 tags: [  ]
 actualPrice: 56.99 EUR
 currency: EUR

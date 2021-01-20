@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R7YYFV4-es Always Control Juguetes Eróticos 1 Unidad 250 g'
+sku: 'B07R7YYFV4-es'
 tags: [  ]
 actualPrice: 12.36 EUR
 currency: EUR

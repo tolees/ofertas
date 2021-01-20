@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071GQHX3K-es Johnnie Walker Blue Label Whisky Edición Limitada...'
+sku: 'B071GQHX3K-es'
 tags: [  ]
 actualPrice: 134.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0779GBYSC-es adidas Ask SPRT Lst M Long Sleeved T-Shirt Hombre Dark...'
+sku: 'B0779GBYSC-es'
 tags: [  ]
 actualPrice: 20.49 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N246ZPJ-es Sennheiser CX 300S - Auriculares intraurales con control...'
+sku: 'B07N246ZPJ-es'
 tags: [  ]
 actualPrice: 27.9 EUR
 currency: EUR

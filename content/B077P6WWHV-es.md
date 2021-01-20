@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077P6WWHV-es Puma Suede Heart Bubble Zapatillas para Mujer Marrón...'
+sku: 'B077P6WWHV-es'
 tags: [  ]
 actualPrice: 36.37 EUR
 currency: EUR

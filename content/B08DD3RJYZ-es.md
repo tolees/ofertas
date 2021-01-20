@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DD3RJYZ-es Bochee Juego de Sushi 14 Pcs Kit para Hacer Sushi y Sushi...'
+sku: 'B08DD3RJYZ-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

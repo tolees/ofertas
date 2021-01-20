@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KZP7ZH0-es Wet Brush-pro Pink Floral'
+sku: 'B01KZP7ZH0-es'
 tags: [  ]
 actualPrice: 6.66 EUR
 currency: EUR

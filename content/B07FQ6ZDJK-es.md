@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FQ6ZDJK-es Puma Basket Crush Wn s Zapatillas para Mujer Blanco White-...'
+sku: 'B07FQ6ZDJK-es'
 tags: [  ]
 actualPrice: 20.04 EUR
 currency: EUR

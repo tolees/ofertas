@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085S2NPM5-es Famus Mesa para computadora portátil de Madera...'
+sku: 'B085S2NPM5-es'
 tags: [  ]
 actualPrice: 16.09 EUR
 currency: EUR

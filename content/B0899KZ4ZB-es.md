@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0899KZ4ZB-es Petoske Ventilador Cuello Ventilador Portatil USB...'
+sku: 'B0899KZ4ZB-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

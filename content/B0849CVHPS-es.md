@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0849CVHPS-es Gigantosaurus'
+sku: 'B0849CVHPS-es'
 tags: [  ]
 actualPrice: 25.49 EUR
 currency: EUR

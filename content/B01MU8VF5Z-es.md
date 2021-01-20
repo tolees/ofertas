@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MU8VF5Z-es Vitamaze® Zinc comprimidos veganos de 25 mg para 12 meses...'
+sku: 'B01MU8VF5Z-es'
 tags: [  ]
 actualPrice: 11.18 EUR
 currency: EUR

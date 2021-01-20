@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076P9M4XK-es HomDSim Organizador de Asiento de Coche con diseño de...'
+sku: 'B076P9M4XK-es'
 tags: [  ]
 actualPrice: 17.76 EUR
 currency: EUR

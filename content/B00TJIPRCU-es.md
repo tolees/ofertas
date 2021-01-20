@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TJIPRCU-es Nike Revolution 4 GS Zapatillas de Running para Niños Azul...'
+sku: 'B00TJIPRCU-es'
 tags: [  ]
 actualPrice: 31.0 EUR
 currency: EUR

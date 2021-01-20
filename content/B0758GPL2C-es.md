@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0758GPL2C-es BOSS Prime Polo Negro Black 1 Medium para Hombre'
+sku: 'B0758GPL2C-es'
 tags: [  ]
 actualPrice: 38.45 EUR
 currency: EUR

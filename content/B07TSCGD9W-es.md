@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TSCGD9W-es El Misterioso Viaje de Layton'
+sku: 'B07TSCGD9W-es'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

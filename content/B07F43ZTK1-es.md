@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F43ZTK1-es Planificador de estudio Mr. Wonderful para que no se te...'
+sku: 'B07F43ZTK1-es'
 tags: [  ]
 actualPrice: 8.25 EUR
 currency: EUR

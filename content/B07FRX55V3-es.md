@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FRX55V3-es Shadows Awakening'
+sku: 'B07FRX55V3-es'
 tags: [  ]
 actualPrice: 18.0 EUR
 currency: EUR

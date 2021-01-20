@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XYY6PCD-es SaponinTree Humidificador Aromaterapia Ultrasónico 550ML...'
+sku: 'B07XYY6PCD-es'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

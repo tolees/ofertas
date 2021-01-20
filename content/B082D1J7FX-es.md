@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082D1J7FX-es 50ml Original Perfume Para Hombres Perfume Estilo Líquido...'
+sku: 'B082D1J7FX-es'
 tags: [  ]
 actualPrice: 7.49 EUR
 currency: EUR

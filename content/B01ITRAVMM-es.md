@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ITRAVMM-es bonmedico Kubo Codera Elástica Coderas para Articulaciones...'
+sku: 'B01ITRAVMM-es'
 tags: [  ]
 actualPrice: 12.0 EUR
 currency: EUR

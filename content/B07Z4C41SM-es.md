@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z4C41SM-es Jack & Jones Jjelogo Sweat Hood 2 Col 19/20 Noos Capucha...'
+sku: 'B07Z4C41SM-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

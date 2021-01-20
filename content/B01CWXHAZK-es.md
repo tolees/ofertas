@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CWXHAZK-es Schwarzkopf Professional Osis Mighty Ultra Strong Matte...'
+sku: 'B01CWXHAZK-es'
 tags: [  ]
 actualPrice: 5.87 EUR
 currency: EUR

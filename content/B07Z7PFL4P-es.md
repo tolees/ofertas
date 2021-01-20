@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z7PFL4P-es Muñecas Arias - Elegance 36 cm con Conjunto Joy-60310'
+sku: 'B07Z7PFL4P-es'
 tags: [  ]
 actualPrice: 24.95 EUR
 currency: EUR

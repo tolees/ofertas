@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082HBQX4J-es ART VVIES Leinwandbilder Holzrahmen für Hauptdekorationen...'
+sku: 'B082HBQX4J-es'
 tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR

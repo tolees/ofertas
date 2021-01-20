@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XH9MWDR-es Off - Road Racing'
+sku: 'B07XH9MWDR-es'
 tags: [  ]
 actualPrice: 19.5 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077Y6GMGH-es Sylvie Flirty Swimwear Britta Trikini para Mujer...'
+sku: 'B077Y6GMGH-es'
 tags: [  ]
 actualPrice: 56.02 EUR
 currency: EUR

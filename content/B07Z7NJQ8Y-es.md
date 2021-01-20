@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z7NJQ8Y-es ZHENROG EMS Masajeador de Pie Estimulador de Pie...'
+sku: 'B07Z7NJQ8Y-es'
 tags: [  ]
 actualPrice: 28.9 EUR
 currency: EUR

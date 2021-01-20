@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HW0L2FS-es Vileda Bayetas Microfibra Azul - 5 Unidades'
+sku: 'B00HW0L2FS-es'
 tags: [  ]
 actualPrice: 13.77 EUR
 currency: EUR

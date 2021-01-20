@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P7ND3H8-es Magiin Jarrón de Vidrio Transparente Terrario de Plantas...'
+sku: 'B07P7ND3H8-es'
 tags: [  ]
 actualPrice: 8.8 EUR
 currency: EUR

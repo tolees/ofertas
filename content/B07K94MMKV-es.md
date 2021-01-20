@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K94MMKV-es bugatti 342623626900 Zapatillas sin Cordones para Hombre...'
+sku: 'B07K94MMKV-es'
 tags: [  ]
 actualPrice: 27.95 EUR
 currency: EUR

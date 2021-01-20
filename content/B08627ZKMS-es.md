@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08627ZKMS-es Wimypet Alfombra Refrescante para Perro Alfombrilla para...'
+sku: 'B08627ZKMS-es'
 tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR

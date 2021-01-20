@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STYPTY1-es NWOUIIAY Compresor de Aire Portátil 150PSI 35L/Min Bomba...'
+sku: 'B07STYPTY1-es'
 tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MXQGV1Z-es Desigual 19WGXW01 - Cartera para mujer de Sintético Niñas...'
+sku: 'B07MXQGV1Z-es'
 tags: [  ]
 actualPrice: 21.78 EUR
 currency: EUR

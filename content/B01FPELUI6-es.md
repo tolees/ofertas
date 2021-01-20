@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FPELUI6-es "6 Especialidades de Cerveza Alemana" Colección de la...'
+sku: 'B01FPELUI6-es'
 tags: [  ]
 actualPrice: 24.9 EUR
 currency: EUR

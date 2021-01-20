@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K5RA5GW-es Tommy Hilfiger 3p Trunk Ropa interior Negro Black 990 XX-...'
+sku: 'B00K5RA5GW-es'
 tags: [  ]
 actualPrice: 27.49 EUR
 currency: EUR

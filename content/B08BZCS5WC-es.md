@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BZCS5WC-es Poyet 21XL Remanufacturado Cartucho de tinta Reemplazo...'
+sku: 'B08BZCS5WC-es'
 tags: [  ]
 actualPrice: 23.59 EUR
 currency: EUR

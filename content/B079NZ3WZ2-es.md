@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079NZ3WZ2-es Hapilife Grifo 360° Giratorio Grifo de Cocina Grifo de...'
+sku: 'B079NZ3WZ2-es'
 tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088GPYH29-es BOIFUN Webcam 1080P con Micrófono para PC Full HD Cámara...'
+sku: 'B088GPYH29-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

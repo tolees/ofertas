@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BNMSYLA-es Philips Satinelle Advanced BRE650/00 - Depiladora para uso...'
+sku: 'B01BNMSYLA-es'
 tags: [  ]
 actualPrice: 79.95 EUR
 currency: EUR

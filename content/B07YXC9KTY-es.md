@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YXC9KTY-es Red Dead Redemtion 2 La caja contiene código de descarga'
+sku: 'B07YXC9KTY-es'
 tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0869CPG7N-es Controlador de control remoto universal Regulación de...'
+sku: 'B0869CPG7N-es'
 tags: [  ]
 actualPrice: 3.09 EUR
 currency: EUR

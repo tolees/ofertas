@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08F38VL6D-es Oumakiku Botellas de Spray Botellas de Viaje Spray de...'
+sku: 'B08F38VL6D-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

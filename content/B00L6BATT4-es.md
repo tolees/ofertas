@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00L6BATT4-es Merry Style Shorts Bañadores Deportivos Trajes de Baño...'
+sku: 'B00L6BATT4-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

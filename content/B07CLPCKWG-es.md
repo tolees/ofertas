@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CLPCKWG-es Nobunaga s Ambition : Taishi'
+sku: 'B07CLPCKWG-es'
 tags: [  ]
 actualPrice: 9.1 EUR
 currency: EUR

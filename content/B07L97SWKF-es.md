@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L97SWKF-es Under Armour Armour Mid Crossback Sujetador Deportivo...'
+sku: 'B07L97SWKF-es'
 tags: [  ]
 actualPrice: 26.67 EUR
 currency: EUR

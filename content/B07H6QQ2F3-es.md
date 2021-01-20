@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H6QQ2F3-es HUGO Reloj Multiesfera para Hombre de Cuarzo con Correa en...'
+sku: 'B07H6QQ2F3-es'
 tags: [  ]
 actualPrice: 116.0 EUR
 currency: EUR

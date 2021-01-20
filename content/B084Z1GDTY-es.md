@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084Z1GDTY-es Creative Fruit Design Baby Teether Teeth Nursing Toy BPA...'
+sku: 'B084Z1GDTY-es'
 tags: [  ]
 actualPrice: 1.55 EUR
 currency: EUR

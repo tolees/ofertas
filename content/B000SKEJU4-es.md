@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000SKEJU4-es GORE WEAR M Calcetines unisex Talla: 35-37 Color:...'
+sku: 'B000SKEJU4-es'
 tags: [  ]
 actualPrice: 7.26 EUR
 currency: EUR

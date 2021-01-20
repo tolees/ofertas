@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087ZMJYTH-es TTMOW Bandas Elásticas Musculacion Bandas de Resistencia...'
+sku: 'B087ZMJYTH-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

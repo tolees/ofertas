@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WTLZQH-es Tommy Hilfiger Unlined Bralette Sujetador sin Aros Gris...'
+sku: 'B078WTLZQH-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

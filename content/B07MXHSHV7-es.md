@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MXHSHV7-es Tommy Hilfiger Thong Tanga Gris Grey Heather 004 X-Small...'
+sku: 'B07MXHSHV7-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LGY6MFF-es UMI. Essentials Marco para Fotos y Diplomas De pie o para...'
+sku: 'B07LGY6MFF-es'
 tags: [  ]
 actualPrice: 24.79 EUR
 currency: EUR

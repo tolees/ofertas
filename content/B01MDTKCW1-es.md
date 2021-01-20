@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MDTKCW1-es Festina Reloj Análogo clásico para Hombre de Cuarzo con...'
+sku: 'B01MDTKCW1-es'
 tags: [  ]
 actualPrice: 74.0 EUR
 currency: EUR

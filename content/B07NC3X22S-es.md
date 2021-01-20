@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NC3X22S-es AXE Ice Chill - Desodorante Bodyspray para hombre 48 horas...'
+sku: 'B07NC3X22S-es'
 tags: [  ]
 actualPrice: 9.2 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PWNNZYD-es Under Armour UA W Skylar 2 Zapatillas de Running para...'
+sku: 'B07PWNNZYD-es'
 tags: [  ]
 actualPrice: 32.45 EUR
 currency: EUR

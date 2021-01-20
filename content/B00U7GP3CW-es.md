@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00U7GP3CW-es BLACK+DECKER GW2500-QS - Aspirador soplador y triturador...'
+sku: 'B00U7GP3CW-es'
 tags: [  ]
 actualPrice: 71.82 EUR
 currency: EUR

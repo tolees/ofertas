@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TDCZXRJ-es BEYIMEI Tarjeta de expansión Pci Express 3.0 Tarjeta USB...'
+sku: 'B07TDCZXRJ-es'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

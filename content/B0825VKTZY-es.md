@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0825VKTZY-es Vicloon Mini Paraguas del Sol Paraguas de Viaje Portátil...'
+sku: 'B0825VKTZY-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

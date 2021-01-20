@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00D3HZSUO-es Lutsine Xeramance Emulsión Reestructurante para Piel Muy...'
+sku: 'B00D3HZSUO-es'
 tags: [  ]
 actualPrice: 21.95 EUR
 currency: EUR

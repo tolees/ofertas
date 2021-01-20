@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S27XTHC-es Nike M NSW tee Icon Futura T-Shirt Hombre Obsidian/lt...'
+sku: 'B07S27XTHC-es'
 tags: [  ]
 actualPrice: 8.65 EUR
 currency: EUR

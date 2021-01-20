@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J2Z5DBM-es TOZO T10 TWS audífonos estéreo inalámbricos con Bluetooth...'
+sku: 'B07J2Z5DBM-es'
 tags: [  ]
 actualPrice: 40.99 EUR
 currency: EUR

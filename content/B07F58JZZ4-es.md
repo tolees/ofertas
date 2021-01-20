@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F58JZZ4-es Andoer Rótula Pro Ballhead de Metal 360°Giratoria con...'
+sku: 'B07F58JZZ4-es'
 tags: [  ]
 actualPrice: 24.64 EUR
 currency: EUR

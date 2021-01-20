@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZD1YVWK-es SyCreek Correa para Xiaomi Mi Band 4 Carbono Reemplazo de...'
+sku: 'B07ZD1YVWK-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

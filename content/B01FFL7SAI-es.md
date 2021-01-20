@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FFL7SAI-es Under Armour Heatgear - Pantalones Cortos de compresión...'
+sku: 'B01FFL7SAI-es'
 tags: [  ]
 actualPrice: 30.83 EUR
 currency: EUR

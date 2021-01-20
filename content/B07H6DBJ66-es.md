@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H6DBJ66-es Reloj para Hombre Impermeable Deportivo Reloj cronógrafo...'
+sku: 'B07H6DBJ66-es'
 tags: [  ]
 actualPrice: 24.28 EUR
 currency: EUR

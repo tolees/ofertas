@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081Q3SCPJ-es AOQUSSQOA Mujer Yoga Leggings Mallas Pantalones Deportivos...'
+sku: 'B081Q3SCPJ-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

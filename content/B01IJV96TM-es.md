@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IJV96TM-es Targus THZ64307GL - Funda giratoria Universal SafeFit para...'
+sku: 'B01IJV96TM-es'
 tags: [  ]
 actualPrice: 14.26 EUR
 currency: EUR

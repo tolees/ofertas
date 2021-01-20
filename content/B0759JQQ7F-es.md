@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0759JQQ7F-es Funko Pop!- Rocks Elton John Figura de Vinilo 25320'
+sku: 'B0759JQQ7F-es'
 tags: [  ]
 actualPrice: 6.01 EUR
 currency: EUR

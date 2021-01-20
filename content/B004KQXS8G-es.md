@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004KQXS8G-es adidas Barra de Empuje'
+sku: 'B004KQXS8G-es'
 tags: [  ]
 actualPrice: 11.95 EUR
 currency: EUR

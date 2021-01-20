@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077TQC3H1-es Cybex Gold Pallas S-Fix - Silla de coche 2 en 1 para...'
+sku: 'B077TQC3H1-es'
 tags: [  ]
 actualPrice: 192.9 EUR
 currency: EUR

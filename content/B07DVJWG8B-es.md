@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DVJWG8B-es New Balance 247v2 Entrenadores para Mujer Rosa Birch Birch...'
+sku: 'B07DVJWG8B-es'
 tags: [  ]
 actualPrice: 27.59 EUR
 currency: EUR

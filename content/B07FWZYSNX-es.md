@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FWZYSNX-es Bosch Professional GLI 18V-2200 C Foco de obra 2200...'
+sku: 'B07FWZYSNX-es'
 tags: [  ]
 actualPrice: 103.99 EUR
 currency: EUR

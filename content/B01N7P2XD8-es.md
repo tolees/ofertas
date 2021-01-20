@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N7P2XD8-es Dragon Ball Super - Lanzador de energía Kamehameha Bandai...'
+sku: 'B01N7P2XD8-es'
 tags: [  ]
 actualPrice: 15.13 EUR
 currency: EUR

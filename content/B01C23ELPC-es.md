@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01C23ELPC-es Chicco Physio Air - Pack de 2 chupetes de látex/caucho...'
+sku: 'B01C23ELPC-es'
 tags: [  ]
 actualPrice: 4.58 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0859X9DRM-es Hollylife Utensilios de Cocina de Silicona Libres de BPA...'
+sku: 'B0859X9DRM-es'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

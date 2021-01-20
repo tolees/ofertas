@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F6DRMFG-es JACK & JONES Jjeholmen Sweat Crew Neck Noos Suéter para...'
+sku: 'B07F6DRMFG-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

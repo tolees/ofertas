@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J9R5JX3-es Asics Gt-2000 7 Zapatillas de Running para Hombre Negro...'
+sku: 'B07J9R5JX3-es'
 tags: [  ]
 actualPrice: 72.99 EUR
 currency: EUR

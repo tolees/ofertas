@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJHTX7R-es SimpleLife Los Huevos de Pascua llenan con un Mini Robot...'
+sku: 'B07TJHTX7R-es'
 tags: [  ]
 actualPrice: 3.91 EUR
 currency: EUR

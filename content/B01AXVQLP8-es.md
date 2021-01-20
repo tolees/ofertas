@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AXVQLP8-es Butter London Plush Rush Pintalabios'
+sku: 'B01AXVQLP8-es'
 tags: [  ]
 actualPrice: 1.99 EUR
 currency: EUR

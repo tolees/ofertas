@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P1CBKB7-es Skechers Men s METCO Classic Boots Brown Brown Leather...'
+sku: 'B07P1CBKB7-es'
 tags: [  ]
 actualPrice: 35.46 EUR
 currency: EUR

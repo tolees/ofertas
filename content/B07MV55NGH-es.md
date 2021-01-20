@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MV55NGH-es KZIOACSH [2 Unidades] Protector de Pantalla para Xiaomi...'
+sku: 'B07MV55NGH-es'
 tags: [  ]
 actualPrice: 7.01 EUR
 currency: EUR

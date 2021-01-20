@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SCF1PLR-es adidas Chaussures Advantage'
+sku: 'B07SCF1PLR-es'
 tags: [  ]
 actualPrice: 44.97 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MHMTTNR-es ANLAN Electroestimulador Muscular Abdominales EMS...'
+sku: 'B07MHMTTNR-es'
 tags: [  ]
 actualPrice: 23.79 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MYTFHY1-es Reloj Gusset Pocket Zeiger Steampunk Esqueleto Mecánico...'
+sku: 'B01MYTFHY1-es'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

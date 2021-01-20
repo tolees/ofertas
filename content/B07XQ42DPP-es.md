@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XQ42DPP-es Sloggi Zero Feel Ex Sujetador Estilo Bralette Morado...'
+sku: 'B07XQ42DPP-es'
 tags: [  ]
 actualPrice: 13.19 EUR
 currency: EUR

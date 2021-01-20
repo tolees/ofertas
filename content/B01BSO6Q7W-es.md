@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BSO6Q7W-es Philips HP6548/01 - Set con depiladora perfilador y bolsa...'
+sku: 'B01BSO6Q7W-es'
 tags: [  ]
 actualPrice: 22.5 EUR
 currency: EUR

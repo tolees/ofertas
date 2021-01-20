@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VR3PZRF-es Tommy Hilfiger Short Sleeve Slim Polo de Manga Corta...'
+sku: 'B07VR3PZRF-es'
 tags: [  ]
 actualPrice: 24.08 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F6V4MF5-es Salomon Trailblazer Mochila para Carrera de montaña Cómoda...'
+sku: 'B07F6V4MF5-es'
 tags: [  ]
 actualPrice: 39.04 EUR
 currency: EUR

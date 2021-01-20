@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NLKDGLC-es Versace Jeans CoutureBorsaMujerBolso de manoRojo Rosso 5...'
+sku: 'B07NLKDGLC-es'
 tags: [  ]
 actualPrice: 93.39 EUR
 currency: EUR

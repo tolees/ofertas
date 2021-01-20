@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0779MSCS6-es Bliqniq 5 pares de Pendientes de los Aros de las Mujeres...'
+sku: 'B0779MSCS6-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

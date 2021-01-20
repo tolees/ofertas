@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081B1BXP2-es Fidech Masajeador Portátil 10 Modos de Frecuencia Silicona...'
+sku: 'B081B1BXP2-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

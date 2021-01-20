@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z7T6TF9-es CYHY Empalme Inteligente LED de luz lámpara de Pared...'
+sku: 'B07Z7T6TF9-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

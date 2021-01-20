@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C3VBZK4-es CLUSE Reloj Analógico para Mujer de Cuarzo con Correa en...'
+sku: 'B07C3VBZK4-es'
 tags: [  ]
 actualPrice: 69.95 EUR
 currency: EUR

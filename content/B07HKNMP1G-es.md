@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HKNMP1G-es Under Armour Breathe Lace Zapatillas Mujer Blanco White...'
+sku: 'B07HKNMP1G-es'
 tags: [  ]
 actualPrice: 31.95 EUR
 currency: EUR

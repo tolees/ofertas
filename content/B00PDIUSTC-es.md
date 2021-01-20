@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PDIUSTC-es Compo 1200602005 - Fertilizante bonsái 250 ml Color Verde...'
+sku: 'B00PDIUSTC-es'
 tags: [  ]
 actualPrice: 4.1 EUR
 currency: EUR

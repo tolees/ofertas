@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08D3J1BWL-es 10 Piezas Salvaorejas para Mascarillas Extender Ganchos...'
+sku: 'B08D3J1BWL-es'
 tags: [  ]
 actualPrice: 1.99 EUR
 currency: EUR

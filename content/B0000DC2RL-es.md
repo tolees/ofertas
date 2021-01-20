@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0000DC2RL-es Reebok Classic Nylon - Zapatillas de Entrenamiento Mujer...'
+sku: 'B0000DC2RL-es'
 tags: [  ]
 actualPrice: 29.1 EUR
 currency: EUR

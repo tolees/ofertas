@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H2FKZ8S-es MILLE AMORI ∞ Pendientes Mujer Oro y Diamantes - Oro...'
+sku: 'B07H2FKZ8S-es'
 tags: [  ]
 actualPrice: 531.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q2FHNNT-es Pecute Correa Perro Correa Perro Manos Libres Elástica con...'
+sku: 'B07Q2FHNNT-es'
 tags: [  ]
 actualPrice: 16.6 EUR
 currency: EUR

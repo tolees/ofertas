@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S7NYLG9-es Hamaca portátil para acampar - Hamaca de árbol para...'
+sku: 'B07S7NYLG9-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

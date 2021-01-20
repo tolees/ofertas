@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MCZAQC2-es SALOMON Speed Pro 1 Par de Calcetines Tobilleros Unisex...'
+sku: 'B01MCZAQC2-es'
 tags: [  ]
 actualPrice: 6.08 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KK9FLKD-es Opret Chubasqueros Impermeable Paquete de 2 Ponchos...'
+sku: 'B07KK9FLKD-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

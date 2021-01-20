@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FMD8Q2B-es IPOTCH Cables de Gestión Clips de Almacenamiento de Cables...'
+sku: 'B07FMD8Q2B-es'
 tags: [  ]
 actualPrice: 3.12 EUR
 currency: EUR

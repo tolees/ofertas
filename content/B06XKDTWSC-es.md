@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XKDTWSC-es Lepfun P3000 1 pcs Correa Protector Deportiva Ajustable de...'
+sku: 'B06XKDTWSC-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

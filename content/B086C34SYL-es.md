@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086C34SYL-es Luchild Baberos para Bebés Baberos de Alimentación de...'
+sku: 'B086C34SYL-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

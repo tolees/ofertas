@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VHBP5RC-es HOTLIFE Funda iPad Air 3 10.5 2019/iPad Pro 10.5 2017...'
+sku: 'B07VHBP5RC-es'
 tags: [  ]
 actualPrice: 10.95 EUR
 currency: EUR

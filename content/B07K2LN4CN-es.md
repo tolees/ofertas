@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2LN4CN-es adidas Runfalcon Zapatillas de Running para Hombre Gris...'
+sku: 'B07K2LN4CN-es'
 tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR

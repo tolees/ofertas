@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MQQRXL4-es 2019 más novedoso: Auriculares Bluetooth antimi Bluetooth...'
+sku: 'B07MQQRXL4-es'
 tags: [  ]
 actualPrice: 25.89 EUR
 currency: EUR

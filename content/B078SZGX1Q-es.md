@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078SZGX1Q-es Aurora World 30836 Dahlia Dragón'
+sku: 'B078SZGX1Q-es'
 tags: [  ]
 actualPrice: 11.78 EUR
 currency: EUR

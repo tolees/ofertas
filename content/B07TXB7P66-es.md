@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXB7P66-es Jack & Jones Jjehill Knit Crew Neck Noos suéter Verde...'
+sku: 'B07TXB7P66-es'
 tags: [  ]
 actualPrice: 20.49 EUR
 currency: EUR

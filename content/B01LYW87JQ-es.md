@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LYW87JQ-es Pompadour Supreme Rooibos Caramel Té - 10 Cápsulas'
+sku: 'B01LYW87JQ-es'
 tags: [  ]
 actualPrice: 1.55 EUR
 currency: EUR

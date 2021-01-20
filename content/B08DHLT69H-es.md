@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DHLT69H-es Tesecu luz Nocturna-USB de Carga LED de Inducción del...'
+sku: 'B08DHLT69H-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

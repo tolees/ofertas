@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079ZLHH5N-es Guerlain Orchidée Impériale Crème Yeux 15 ml 100 g'
+sku: 'B079ZLHH5N-es'
 tags: [  ]
 actualPrice: 114.82 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WK52BV8-es Bowers & Wilkins PX5 Auriculares Supraurales Bluetooth con...'
+sku: 'B07WK52BV8-es'
 tags: [  ]
 actualPrice: 199.95 EUR
 currency: EUR

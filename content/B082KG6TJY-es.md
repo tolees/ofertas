@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082KG6TJY-es Rocontrip Funda de Silicona para Teléfono con el Cordón...'
+sku: 'B082KG6TJY-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

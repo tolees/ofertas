@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PDBDYNP-es [3 Piezas] Protector de Pantalla para Huawei Mate 20 Lite...'
+sku: 'B07PDBDYNP-es'
 tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR

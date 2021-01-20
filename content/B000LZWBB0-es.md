@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000LZWBB0-es CLARINS Desodorante roll-on 50 ml'
+sku: 'B000LZWBB0-es'
 tags: [  ]
 actualPrice: 13.95 EUR
 currency: EUR

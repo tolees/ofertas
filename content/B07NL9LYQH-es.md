@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NL9LYQH-es Skechers Girls Bobs Squad Trainers Grey Gray/Hot Pink...'
+sku: 'B07NL9LYQH-es'
 tags: [  ]
 actualPrice: 28.47 EUR
 currency: EUR

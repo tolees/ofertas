@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0074ECRRE-es Walimex 17626 - Lámpara anular con Soporte Flexible...'
+sku: 'B0074ECRRE-es'
 tags: [  ]
 actualPrice: 54.96 EUR
 currency: EUR

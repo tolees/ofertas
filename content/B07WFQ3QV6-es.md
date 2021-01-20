@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WFQ3QV6-es GC Pro Cargador para Portátil Lenovo IdeaPad 100 100-15IBD...'
+sku: 'B07WFQ3QV6-es'
 tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR

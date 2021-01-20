@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z4GMMLR-es LENCENT Cargador USB Pared con 2 Puerto[2 Unidades]...'
+sku: 'B07Z4GMMLR-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

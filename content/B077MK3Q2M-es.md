@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077MK3Q2M-es Karmin T70 - Maquina de cortar pelo/cabello profesional...'
+sku: 'B077MK3Q2M-es'
 tags: [  ]
 actualPrice: 17.78 EUR
 currency: EUR

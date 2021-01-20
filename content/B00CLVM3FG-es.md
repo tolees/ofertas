@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CLVM3FG-es Vans M ASHER - Zapatillas para hombre Negro canvas Black...'
+sku: 'B00CLVM3FG-es'
 tags: [  ]
 actualPrice: 38.01 EUR
 currency: EUR

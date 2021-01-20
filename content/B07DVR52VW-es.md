@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DVR52VW-es New Balance W1400V6 Zapatillas de Running para Mujer...'
+sku: 'B07DVR52VW-es'
 tags: [  ]
 actualPrice: 32.65 EUR
 currency: EUR

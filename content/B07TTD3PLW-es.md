@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TTD3PLW-es Funko- Pop Disney: Onward-Ian w/Staff Collectible Toy...'
+sku: 'B07TTD3PLW-es'
 tags: [  ]
 actualPrice: 10.35 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07956YQJC-es adidas Lite Racer CLN K Zapatillas de Deporte Unisex...'
+sku: 'B07956YQJC-es'
 tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR

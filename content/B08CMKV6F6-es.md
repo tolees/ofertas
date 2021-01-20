@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CMKV6F6-es Reloj Digital Deportivo para Niños Reloj de Pulsera Niña...'
+sku: 'B08CMKV6F6-es'
 tags: [  ]
 actualPrice: 13.29 EUR
 currency: EUR

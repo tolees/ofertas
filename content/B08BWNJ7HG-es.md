@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BWNJ7HG-es Set Pulidor de uñas eléctrico Rowenta MP2016F1 + Rowenta...'
+sku: 'B08BWNJ7HG-es'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

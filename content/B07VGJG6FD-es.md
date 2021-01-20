@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VGJG6FD-es Qkiss Cepillo Redondo Cepillo Redondo Cerámico Profesional...'
+sku: 'B07VGJG6FD-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

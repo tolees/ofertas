@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WRYJ9XZ-es Gricol Estante para Ducha Sin Taladrar de Aluminio...'
+sku: 'B07WRYJ9XZ-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

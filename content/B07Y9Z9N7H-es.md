@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y9Z9N7H-es Guzack Brazalete Deportivo Brazalete Correr Móvil para...'
+sku: 'B07Y9Z9N7H-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

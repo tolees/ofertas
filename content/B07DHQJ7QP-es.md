@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DHQJ7QP-es Lacoste Graduate BL 1 SMA Zapatillas para Hombre Blanco...'
+sku: 'B07DHQJ7QP-es'
 tags: [  ]
 actualPrice: 66.99 EUR
 currency: EUR

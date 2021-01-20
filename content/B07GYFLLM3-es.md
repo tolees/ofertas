@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GYFLLM3-es Babacom Protector Pantalla para iPhone 11 Pro MAX/XS MAX...'
+sku: 'B07GYFLLM3-es'
 tags: [  ]
 actualPrice: 5.0 EUR
 currency: EUR

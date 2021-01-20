@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MGJST2F-es Saucony Kinvara 10 Zapatillas de Running para Hombre...'
+sku: 'B07MGJST2F-es'
 tags: [  ]
 actualPrice: 79.0 EUR
 currency: EUR

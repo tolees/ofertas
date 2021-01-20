@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079DQCT5P-es [Gifts for Women] ROWNYEON PU Leather Makeup Bag...'
+sku: 'B079DQCT5P-es'
 tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S9R3P3J-es WHRZ Huohou - Abrebotellas eléctrico abridor de botellas...'
+sku: 'B07S9R3P3J-es'
 tags: [  ]
 actualPrice: 15.89 EUR
 currency: EUR

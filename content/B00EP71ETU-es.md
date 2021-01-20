@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EP71ETU-es Canon EF-S 55-250 mm f/4-5.6 IS STM - Objetivo para canon...'
+sku: 'B00EP71ETU-es'
 tags: [  ]
 actualPrice: 255.0 EUR
 currency: EUR

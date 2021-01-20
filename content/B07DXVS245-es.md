@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DXVS245-es Under Armour Armour Mid Crossback Sujetador Deportivo...'
+sku: 'B07DXVS245-es'
 tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR

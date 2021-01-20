@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082LNJR1T-es K9CK Juego de Luces para Lego Technic Porsche 911 RSR...'
+sku: 'B082LNJR1T-es'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

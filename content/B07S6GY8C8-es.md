@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S6GY8C8-es Under Armour UA W Charged Assert 8 LTD Zapatillas de...'
+sku: 'B07S6GY8C8-es'
 tags: [  ]
 actualPrice: 30.91 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01L1V41BA-es Nilox - Spray Aria-Gas leggeri-400ml'
+sku: 'B01L1V41BA-es'
 tags: [  ]
 actualPrice: 3.38 EUR
 currency: EUR

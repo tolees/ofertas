@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085N33PSW-es RHSMY 9 Pcs 3D Máscara de Esponja Estéreo Cómodo...'
+sku: 'B085N33PSW-es'
 tags: [  ]
 actualPrice: 6.49 EUR
 currency: EUR

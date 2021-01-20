@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074PLQ21W-es Epson WFDS410 - Escáner de Documentos en Color A4...'
+sku: 'B074PLQ21W-es'
 tags: [  ]
 actualPrice: 288.86 EUR
 currency: EUR

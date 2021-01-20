@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007IUEFRE-es Stendhal Recette Merveilleuse Crema Revitalisante Nuit...'
+sku: 'B007IUEFRE-es'
 tags: [  ]
 actualPrice: 40.56 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JV7V26R-es Funko- Pocket Pop Fortnite Llavero de Vinilo con Anilla...'
+sku: 'B07JV7V26R-es'
 tags: [  ]
 actualPrice: 4.0 EUR
 currency: EUR

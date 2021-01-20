@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TQX16HN-es Clarks Sift Speed Zapatillas para Hombre Marrón British...'
+sku: 'B07TQX16HN-es'
 tags: [  ]
 actualPrice: 60.28 EUR
 currency: EUR

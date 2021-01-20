@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZ1MTLR-es Kipling Gabbie S Bolsos Bandolera para Mujer Rojo Metallic...'
+sku: 'B07TZ1MTLR-es'
 tags: [  ]
 actualPrice: 44.43 EUR
 currency: EUR

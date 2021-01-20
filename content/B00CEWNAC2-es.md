@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CEWNAC2-es Trofolastin Senos - Crema antiestrías para senos previene...'
+sku: 'B00CEWNAC2-es'
 tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR

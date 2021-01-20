@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078GMZKXF-es Asalvo Silla de coche grupo 1/2/3 Isofix rojo'
+sku: 'B078GMZKXF-es'
 tags: [  ]
 actualPrice: 113.62 EUR
 currency: EUR

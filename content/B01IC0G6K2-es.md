@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IC0G6K2-es Original Buff Zelig Mineral Tubular Unisex Adulto...'
+sku: 'B01IC0G6K2-es'
 tags: [  ]
 actualPrice: 8.48 EUR
 currency: EUR

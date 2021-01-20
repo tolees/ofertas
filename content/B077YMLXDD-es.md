@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077YMLXDD-es Maidenform Love The Lift Push-up and In Strapless...'
+sku: 'B077YMLXDD-es'
 tags: [  ]
 actualPrice: 32.65 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N580SHN-es PUMA Basket Heart Patent WN S Zapatillas para Mujer Negro...'
+sku: 'B01N580SHN-es'
 tags: [  ]
 actualPrice: 57.05 EUR
 currency: EUR

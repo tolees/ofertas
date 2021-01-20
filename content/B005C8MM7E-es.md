@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005C8MM7E-es TOOGOO R Cable de Adaptador USB 2.0 a IDE SATA S-ATA/2.5/3.5'
+sku: 'B005C8MM7E-es'
 tags: [  ]
 actualPrice: 3.89 EUR
 currency: EUR

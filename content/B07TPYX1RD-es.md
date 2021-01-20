@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TPYX1RD-es TUBBZ Oficial Borderlands 3 Mercancías Pato psico Carácter...'
+sku: 'B07TPYX1RD-es'
 tags: [  ]
 actualPrice: 5.95 EUR
 currency: EUR

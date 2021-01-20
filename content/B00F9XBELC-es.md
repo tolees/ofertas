@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00F9XBELC-es DeLOCK 65508 Adaptador de Cable HDMI Negro - Adaptador...'
+sku: 'B00F9XBELC-es'
 tags: [  ]
 actualPrice: 4.5 EUR
 currency: EUR

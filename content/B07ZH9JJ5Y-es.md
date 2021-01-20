@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZH9JJ5Y-es FBLWT Smartwatches Reloj Inteligente para Mujer Kw10 Color...'
+sku: 'B07ZH9JJ5Y-es'
 tags: [  ]
 actualPrice: 31.4 EUR
 currency: EUR

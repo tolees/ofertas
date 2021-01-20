@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HH7H2WG-es Funda iphone 7 Plus/iphone 8 Plus Case ultrafino diseño de...'
+sku: 'B07HH7H2WG-es'
 tags: [  ]
 actualPrice: 5.98 EUR
 currency: EUR

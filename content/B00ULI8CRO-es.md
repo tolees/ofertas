@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ULI8CRO-es Samsonite Neopulse - Spinner S Ancho: 20 cm Equipaje de...'
+sku: 'B00ULI8CRO-es'
 tags: [  ]
 actualPrice: 169.55 EUR
 currency: EUR

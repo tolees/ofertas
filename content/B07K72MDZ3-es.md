@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K72MDZ3-es American Tourister Bon Air - Spinner Small Strict Equipaje...'
+sku: 'B07K72MDZ3-es'
 tags: [  ]
 actualPrice: 76.3 EUR
 currency: EUR

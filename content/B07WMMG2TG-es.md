@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WMMG2TG-es Crucial Ballistix Tactical Tracer BLT2K8G4D32AET4K RGB...'
+sku: 'B07WMMG2TG-es'
 tags: [  ]
 actualPrice: 81.99 EUR
 currency: EUR

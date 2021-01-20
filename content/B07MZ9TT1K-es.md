@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZ9TT1K-es Beard Grooming Kit by Benjamin Bernard - Scissors Oil Wash...'
+sku: 'B07MZ9TT1K-es'
 tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR

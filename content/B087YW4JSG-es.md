@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087YW4JSG-es Golden Goose Zapatillas deportivas antideslizantes para...'
+sku: 'B087YW4JSG-es'
 tags: [  ]
 actualPrice: 385.7 EUR
 currency: EUR

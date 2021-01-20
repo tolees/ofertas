@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000A2WO8O-es Wahl HomePro Basic - Cortapelos con forma ergonómica'
+sku: 'B000A2WO8O-es'
 tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR

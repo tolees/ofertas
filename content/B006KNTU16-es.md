@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006KNTU16-es CUMLAUDE Visilaude - Toallitas de Higiene Ocular -...'
+sku: 'B006KNTU16-es'
 tags: [  ]
 actualPrice: 5.98 EUR
 currency: EUR

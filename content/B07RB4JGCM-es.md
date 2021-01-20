@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RB4JGCM-es Bombilla de maíz de cerámica lámpara de ahorro de energía...'
+sku: 'B07RB4JGCM-es'
 tags: [  ]
 actualPrice: 5.79 EUR
 currency: EUR

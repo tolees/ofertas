@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0751VKSRF-es New Balance 574 Core Plus Zapatillas para Hombre Gris...'
+sku: 'B0751VKSRF-es'
 tags: [  ]
 actualPrice: 58.35 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00Q3HPBOY-es Bella Aurora Hydra Rich Solution SPF 15 Crema Facial 24H...'
+sku: 'B00Q3HPBOY-es'
 tags: [  ]
 actualPrice: 14.44 EUR
 currency: EUR

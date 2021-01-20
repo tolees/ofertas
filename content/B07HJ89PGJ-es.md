@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HJ89PGJ-es Funko 26030 Pop Vinyl: Animation: Tokyo Ghoul: Uta Multi'
+sku: 'B07HJ89PGJ-es'
 tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR

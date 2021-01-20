@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPQWP26-es Mr. Wonderful MRPWB038 Batería Externa de 10.000 Mah con...'
+sku: 'B07KPQWP26-es'
 tags: [  ]
 actualPrice: 23.06 EUR
 currency: EUR

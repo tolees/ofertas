@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XS6BN15-es Apple Watch Pulsera de Eslabones Plata 42 mm'
+sku: 'B07XS6BN15-es'
 tags: [  ]
 actualPrice: 228.88 EUR
 currency: EUR

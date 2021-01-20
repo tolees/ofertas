@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0851GJ6PQ-es TACKLIFE Lector de Código de Barras 1D 2.4G USB Escáner de...'
+sku: 'B0851GJ6PQ-es'
 tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR

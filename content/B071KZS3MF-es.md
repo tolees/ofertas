@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071KZS3MF-es Logitech MX Master 2s Ratón inalámbrico Múltiples...'
+sku: 'B071KZS3MF-es'
 tags: [  ]
 actualPrice: 76.27 EUR
 currency: EUR

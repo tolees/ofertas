@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TBQ26Q2-es BY BENYAR Reloj Casual de Cuarzo para Hombre con Correa de...'
+sku: 'B07TBQ26Q2-es'
 tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR

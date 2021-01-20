@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BNHF5DV-es Plainsur Resina De Poliester Kit De 1 Kilogramo Cubo'
+sku: 'B07BNHF5DV-es'
 tags: [  ]
 actualPrice: 14.5 EUR
 currency: EUR

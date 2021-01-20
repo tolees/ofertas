@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086GSNHJW-es Oihxse Compatible con OPPO Reno2 Funda Suave Gel TPU...'
+sku: 'B086GSNHJW-es'
 tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR

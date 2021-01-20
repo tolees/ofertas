@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XXDZ552-es X-Shot -Bunch O Balloons Pack Los Minions Pack de 100 de...'
+sku: 'B06XXDZ552-es'
 tags: [  ]
 actualPrice: 3.5 EUR
 currency: EUR

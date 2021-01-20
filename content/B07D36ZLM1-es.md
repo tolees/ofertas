@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D36ZLM1-es upHere Refrixerador de Memoria RAM - Disipador Térmico De...'
+sku: 'B07D36ZLM1-es'
 tags: [  ]
 actualPrice: 8.28 EUR
 currency: EUR

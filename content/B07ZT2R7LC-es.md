@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZT2R7LC-es Redpawz R13 LED RTF Drone Para Niños RC Quadcopter con...'
+sku: 'B07ZT2R7LC-es'
 tags: [  ]
 actualPrice: 28.79 EUR
 currency: EUR

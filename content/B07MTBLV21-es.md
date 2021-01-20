@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MTBLV21-es FOGAWA 380-400Pcs Cuentas de Madera Redondas Colores Kit...'
+sku: 'B07MTBLV21-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

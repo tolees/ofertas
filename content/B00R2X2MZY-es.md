@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00R2X2MZY-es MAGEFESA Star Olla a presión rápida fácil Uso Acero...'
+sku: 'B00R2X2MZY-es'
 tags: [  ]
 actualPrice: 79.0 EUR
 currency: EUR

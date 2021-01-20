@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MXFAU4T-es BabyVip - Body para niño y niña Estilo Abotonado 100%...'
+sku: 'B01MXFAU4T-es'
 tags: [  ]
 actualPrice: 14.4 EUR
 currency: EUR

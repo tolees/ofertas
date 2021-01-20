@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SB1BDN7-es GREAT ART Foto Mural Infantil Animales de la Selva...'
+sku: 'B07SB1BDN7-es'
 tags: [  ]
 actualPrice: 44.9 EUR
 currency: EUR

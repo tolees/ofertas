@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJ8Q46P-es Legami - Agenda de 12 meses/semanal - Agenda 2020 de...'
+sku: 'B07TJ8Q46P-es'
 tags: [  ]
 actualPrice: 3.95 EUR
 currency: EUR

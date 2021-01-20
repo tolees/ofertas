@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075YTHQWB-es 4UMOR Báscula Digital para Maleta Viaje de Mano de...'
+sku: 'B075YTHQWB-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00V88JUHM-es PARFUMS SAPHIR Agua de Mayo - Eau de Parfum con...'
+sku: 'B00V88JUHM-es'
 tags: [  ]
 actualPrice: 10.6 EUR
 currency: EUR

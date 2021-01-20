@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V8RZBBK-es ZIGJOY Strangers TV Unisex Students School Bookbags para...'
+sku: 'B07V8RZBBK-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

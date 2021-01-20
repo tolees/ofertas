@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C5LJF6T-es Jack & Jones Jjebasic Knit Crew Neck Noos suéter Negro...'
+sku: 'B07C5LJF6T-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

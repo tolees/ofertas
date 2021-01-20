@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BOWHB2M-es Lotus Reloj de Pulsera 18287/2'
+sku: 'B01BOWHB2M-es'
 tags: [  ]
 actualPrice: 86.88 EUR
 currency: EUR

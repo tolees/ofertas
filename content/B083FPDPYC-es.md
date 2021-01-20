@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083FPDPYC-es CAHAYA Atril Musica Plegable 80-145 cm con Bolsa de...'
+sku: 'B083FPDPYC-es'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

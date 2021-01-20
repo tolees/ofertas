@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CG3S8CZ-es JACK & JONES Jjeholmen Sweat Pants Noos Pantalones para...'
+sku: 'B07CG3S8CZ-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

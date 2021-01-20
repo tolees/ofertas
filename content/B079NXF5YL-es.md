@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079NXF5YL-es Hapilife Grifo Cocina Pared 15 CM Plegable Monomando...'
+sku: 'B079NXF5YL-es'
 tags: [  ]
 actualPrice: 52.99 EUR
 currency: EUR

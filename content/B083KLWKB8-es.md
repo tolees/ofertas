@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083KLWKB8-es Scholl Plantillas GelActiv para Zapato Plano + Crema de...'
+sku: 'B083KLWKB8-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

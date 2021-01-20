@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077G7C5BL-es DECKEY Lámpara de Techo Luz Colgante Kit de 2 Unidades...'
+sku: 'B077G7C5BL-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PFHB1B8-es Kit de 48 Tubos de Pintura Acrílica 12mL - Pinturas...'
+sku: 'B07PFHB1B8-es'
 tags: [  ]
 actualPrice: 18.51 EUR
 currency: EUR

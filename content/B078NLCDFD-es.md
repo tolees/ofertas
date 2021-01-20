@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078NLCDFD-es Vicloon 9Pcs Upgrade Princesa Vestir Accesorios -...'
+sku: 'B078NLCDFD-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

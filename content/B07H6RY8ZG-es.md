@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H6RY8ZG-es Auriculares para Dormir Lauva Suaves y Cómodos Auriculares...'
+sku: 'B07H6RY8ZG-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

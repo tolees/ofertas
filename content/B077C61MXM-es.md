@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077C61MXM-es Converse Taylor Chuck 70 Hi Sneaker Unisex-Adult White...'
+sku: 'B077C61MXM-es'
 tags: [  ]
 actualPrice: 61.32 EUR
 currency: EUR

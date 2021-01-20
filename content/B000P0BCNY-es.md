@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000P0BCNY-es Grohe - Cartucho 46mm con discos cerámicos y limitador eco...'
+sku: 'B000P0BCNY-es'
 tags: [  ]
 actualPrice: 24.77 EUR
 currency: EUR

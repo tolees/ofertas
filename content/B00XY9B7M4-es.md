@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XY9B7M4-es CAMPINGAZ Nuevo CP 250 Cartucho de Gas Gris Única'
+sku: 'B00XY9B7M4-es'
 tags: [  ]
 actualPrice: 2.5 EUR
 currency: EUR

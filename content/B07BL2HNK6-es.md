@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BL2HNK6-es New Balance Fresh Foam 1080v9 Zapatillas de Running para...'
+sku: 'B07BL2HNK6-es'
 tags: [  ]
 actualPrice: 44.19 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPKH5WH-es Columbia Meadows Omni Botas Bajas para Mujer Blanco Roto...'
+sku: 'B07KPKH5WH-es'
 tags: [  ]
 actualPrice: 20.39 EUR
 currency: EUR

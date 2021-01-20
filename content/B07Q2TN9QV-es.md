@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q2TN9QV-es Dihope zapatillas de deporte para mujer zapatillas...'
+sku: 'B07Q2TN9QV-es'
 tags: [  ]
 actualPrice: 8.15 EUR
 currency: EUR

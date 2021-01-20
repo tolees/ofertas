@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YSFMG6S-es NEXCURIO Funda Silicona Galaxy Note 10 Carcasa...'
+sku: 'B07YSFMG6S-es'
 tags: [  ]
 actualPrice: 6.98 EUR
 currency: EUR

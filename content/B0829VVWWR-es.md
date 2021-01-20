@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0829VVWWR-es Termómetro médico de Fieberthermometer por infrarrojos de...'
+sku: 'B0829VVWWR-es'
 tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR

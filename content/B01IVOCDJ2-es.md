@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IVOCDJ2-es AUKEY - Lámpara de escritorio tipo LED 6 W Lámpara de...'
+sku: 'B01IVOCDJ2-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

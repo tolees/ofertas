@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JG5F2XM-es JACK & JONES Jfwtrent PU Anthracite 19 Noos Zapatillas...'
+sku: 'B07JG5F2XM-es'
 tags: [  ]
 actualPrice: 37.49 EUR
 currency: EUR

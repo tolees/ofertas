@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079MBKG9V-es Salomon XA Pro 3D CSWP K Zapatillas de Deporte Unisex...'
+sku: 'B079MBKG9V-es'
 tags: [  ]
 actualPrice: 48.99 EUR
 currency: EUR

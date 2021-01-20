@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PJFMTJ5-es Essie Esmalte de Uñas N.630 Take The Lead 13.5 ml'
+sku: 'B07PJFMTJ5-es'
 tags: [  ]
 actualPrice: 6.05 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TPW1YDF-es Superdry Core Logo Stripe Hood Capucha Azul Eclipse Navy...'
+sku: 'B07TPW1YDF-es'
 tags: [  ]
 actualPrice: 41.79 EUR
 currency: EUR

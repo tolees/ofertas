@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M0LSV8D-es Ewent EW1052 - Lector de Tarjetas electrónicas Compatible...'
+sku: 'B01M0LSV8D-es'
 tags: [  ]
 actualPrice: 4.0 EUR
 currency: EUR

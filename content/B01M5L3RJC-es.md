@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M5L3RJC-es Festina Reloj Análogo clásico para Mujer de Cuarzo con...'
+sku: 'B01M5L3RJC-es'
 tags: [  ]
 actualPrice: 69.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GBJ7YNC-es Pulsar Reloj analogico para Hombre de Cuarzo con Correa en...'
+sku: 'B07GBJ7YNC-es'
 tags: [  ]
 actualPrice: 83.42 EUR
 currency: EUR

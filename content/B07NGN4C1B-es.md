@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NGN4C1B-es Nixon Reloj Analógico para Hombre de Cuarzo con Correa en...'
+sku: 'B07NGN4C1B-es'
 tags: [  ]
 actualPrice: 86.2 EUR
 currency: EUR

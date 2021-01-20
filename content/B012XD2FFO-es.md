@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B012XD2FFO-es Superga 2750 UKFGLU Zapatillas Unisex adulto Blanco White...'
+sku: 'B012XD2FFO-es'
 tags: [  ]
 actualPrice: 57.48 EUR
 currency: EUR

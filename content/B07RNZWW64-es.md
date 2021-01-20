@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RNZWW64-es Madden NFL 20 - Standard | PC Download - Origin Code'
+sku: 'B07RNZWW64-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

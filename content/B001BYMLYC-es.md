@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001BYMLYC-es TRIXIE Bebedero Viaje con botella 700 ml Dog on Tour Perro'
+sku: 'B001BYMLYC-es'
 tags: [  ]
 actualPrice: 3.83 EUR
 currency: EUR

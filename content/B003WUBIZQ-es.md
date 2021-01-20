@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003WUBIZQ-es Case Logic QHDC101K - Estuche compacto para disco duro...'
+sku: 'B003WUBIZQ-es'
 tags: [  ]
 actualPrice: 7.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016PR4KD4-es LIFETIME 80471 - Mesa plegable multiusos ultrarresistente...'
+sku: 'B016PR4KD4-es'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NBRBI1K-es Lacoste 2000987 - Reloj analógico de pulsera para mujer'
+sku: 'B01NBRBI1K-es'
 tags: [  ]
 actualPrice: 121.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000S5W1FO-es pjur AQUA - Lubricante Premium acuoso - Excelentes...'
+sku: 'B000S5W1FO-es'
 tags: [  ]
 actualPrice: 1.9 EUR
 currency: EUR

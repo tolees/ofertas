@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B9KM82V-es Broche Pin simulado Azabache Figa Hand Evil Eye Protection...'
+sku: 'B07B9KM82V-es'
 tags: [  ]
 actualPrice: 21.06 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WVW57C-es XSQUO Useful Tech Plancha DE Vapor 2 EN 1 INALAMBRICA O...'
+sku: 'B078WVW57C-es'
 tags: [  ]
 actualPrice: 32.26 EUR
 currency: EUR

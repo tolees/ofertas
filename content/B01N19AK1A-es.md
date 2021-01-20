@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N19AK1A-es HUAWEI BXHU1907 - Funda View Cover P10 Lite Color Gris Claro'
+sku: 'B01N19AK1A-es'
 tags: [  ]
 actualPrice: 3.29 EUR
 currency: EUR

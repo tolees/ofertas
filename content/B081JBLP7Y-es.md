@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081JBLP7Y-es SYROKAN - Sujetador Deportivo Máximo Soporte Sin Relleno...'
+sku: 'B081JBLP7Y-es'
 tags: [  ]
 actualPrice: 24.0 EUR
 currency: EUR

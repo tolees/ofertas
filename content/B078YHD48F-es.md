@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078YHD48F-es Michael Kors Reloj Analogico para Hombre de Cuarzo con...'
+sku: 'B078YHD48F-es'
 tags: [  ]
 actualPrice: 206.25 EUR
 currency: EUR

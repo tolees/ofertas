@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SSTT7FH-es Doom'
+sku: 'B07SSTT7FH-es'
 tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR

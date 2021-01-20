@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00AFSTZSU-es Keter - Caseta de jardín exterior Factor 6x6 con escuadra...'
+sku: 'B00AFSTZSU-es'
 tags: [  ]
 actualPrice: 360.0 EUR
 currency: EUR

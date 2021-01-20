@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FFLD441-es Emporio Armani Smartwatch ART3030'
+sku: 'B07FFLD441-es'
 tags: [  ]
 actualPrice: 231.2 EUR
 currency: EUR

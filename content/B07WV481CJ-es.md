@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WV481CJ-es Aigostar BlueFire 30PKZ- Placa de inducción portátil 2000...'
+sku: 'B07WV481CJ-es'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00B4TMBQM-es Essie Esmalte de Uñas 067 Meet Me At Sunset'
+sku: 'B00B4TMBQM-es'
 tags: [  ]
 actualPrice: 4.79 EUR
 currency: EUR

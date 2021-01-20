@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z3QQ7BB-es HP 14-dk0017ns - Ordenador portátil de 14" FullHD AMD...'
+sku: 'B07Z3QQ7BB-es'
 tags: [  ]
 actualPrice: 508.28 EUR
 currency: EUR

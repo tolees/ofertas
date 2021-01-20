@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08F5FR7R2-es Dengc Cabeza Redonda Hueca Bala Suave eva Espuma Bala Bala...'
+sku: 'B08F5FR7R2-es'
 tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR

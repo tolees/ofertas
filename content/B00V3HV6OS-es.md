@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00V3HV6OS-es Buff Solid Calentador Lana Merino Heavy Unisex Adulto...'
+sku: 'B00V3HV6OS-es'
 tags: [  ]
 actualPrice: 19.19 EUR
 currency: EUR

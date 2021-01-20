@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G7MB62M-es JACK & JONES Jjestructure Knit Crew Neck Noos suéter Gris...'
+sku: 'B07G7MB62M-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

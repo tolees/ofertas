@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V6TKW4W-es Tommy Hilfiger Iconic Long Lace Sneaker Zapatillas para...'
+sku: 'B07V6TKW4W-es'
 tags: [  ]
 actualPrice: 38.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D5HD1K2-es Adidas Duramo 9 Zapatillas de Entrenamiento para Hombre...'
+sku: 'B07D5HD1K2-es'
 tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR

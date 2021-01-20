@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00M779CSK-es Bolero Bebida Instantánea sin Azúcar Sabor Plátano y Fresa...'
+sku: 'B00M779CSK-es'
 tags: [  ]
 actualPrice: 7.59 EUR
 currency: EUR

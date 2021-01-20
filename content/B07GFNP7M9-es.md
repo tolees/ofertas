@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GFNP7M9-es Sombras De Guerra Definitive Edition'
+sku: 'B07GFNP7M9-es'
 tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR

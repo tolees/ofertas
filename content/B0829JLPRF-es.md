@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0829JLPRF-es Guess GUESSTangey Girlfriend CarryallMujerNegroTaglia Unica'
+sku: 'B0829JLPRF-es'
 tags: [  ]
 actualPrice: 39.15 EUR
 currency: EUR

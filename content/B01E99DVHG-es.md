@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01E99DVHG-es Joma - Anorak Andes Marino-Amarillo para Hombre'
+sku: 'B01E99DVHG-es'
 tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR

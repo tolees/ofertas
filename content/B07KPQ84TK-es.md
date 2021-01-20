@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPQ84TK-es GANT The Original Pique SS Rugger Polo Rojo Purpur 542...'
+sku: 'B07KPQ84TK-es'
 tags: [  ]
 actualPrice: 34.95 EUR
 currency: EUR

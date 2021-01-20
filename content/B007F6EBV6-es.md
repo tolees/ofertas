@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007F6EBV6-es Lékué Estuche de Vapor Hondo 500 Ml con Bandeja Silicona...'
+sku: 'B007F6EBV6-es'
 tags: [  ]
 actualPrice: 18.85 EUR
 currency: EUR

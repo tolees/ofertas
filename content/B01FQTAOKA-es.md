@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FQTAOKA-es NETUM Handheld Laser Barcode Scanner 1D Lector de Escáner...'
+sku: 'B01FQTAOKA-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078XTP1HJ-es Kitchen Emperor Cuchillo de Cocina Profesional Cuchillo de...'
+sku: 'B078XTP1HJ-es'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DM8JVFQ-es Close Parent Bambú Pañales De Tela Tamaño Único Pack de 10'
+sku: 'B01DM8JVFQ-es'
 tags: [  ]
 actualPrice: 136.8 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZFK2EI-es Cybex Silver Juno 2-Fix 517000959 Silla de Coche Grupo 1...'
+sku: 'B01LZFK2EI-es'
 tags: [  ]
 actualPrice: 169.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z6CLXNY-es Supore Correa Galaxy Watch Active 40mm Correas de Silicona...'
+sku: 'B07Z6CLXNY-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

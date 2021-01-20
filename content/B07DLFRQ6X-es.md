@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DLFRQ6X-es Nobleza – Alfombrilla refrescante para Mascotas Grandes....'
+sku: 'B07DLFRQ6X-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

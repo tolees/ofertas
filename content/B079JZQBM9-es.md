@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079JZQBM9-es Concord Soul - Silla de paseo plegable y multifuncional...'
+sku: 'B079JZQBM9-es'
 tags: [  ]
 actualPrice: 163.37 EUR
 currency: EUR

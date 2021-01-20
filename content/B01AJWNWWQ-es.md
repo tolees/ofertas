@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AJWNWWQ-es Maxtor STSHX-M401TCBM - Disco Duro Externo de 4 TB 2.5"...'
+sku: 'B01AJWNWWQ-es'
 tags: [  ]
 actualPrice: 85.0 EUR
 currency: EUR

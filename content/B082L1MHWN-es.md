@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082L1MHWN-es Calcetines de Running para Largas Distancias para Hombre y...'
+sku: 'B082L1MHWN-es'
 tags: [  ]
 actualPrice: 18.95 EUR
 currency: EUR

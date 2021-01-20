@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VJH2XJ5-es Camisetas Tirantes para Mujer Deporte Fitness Verano...'
+sku: 'B07VJH2XJ5-es'
 tags: [  ]
 actualPrice: 1.13 EUR
 currency: EUR

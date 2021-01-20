@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H8JZTTQ-es Castellanísimos Mocasines de Mujer con Antifaz en Piel...'
+sku: 'B07H8JZTTQ-es'
 tags: [  ]
 actualPrice: 64.99 EUR
 currency: EUR

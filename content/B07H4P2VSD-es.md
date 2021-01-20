@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H4P2VSD-es Mallalah Blanqueamiento Dental Polvo de Blanqueamiento de...'
+sku: 'B07H4P2VSD-es'
 tags: [  ]
 actualPrice: 6.46 EUR
 currency: EUR

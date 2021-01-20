@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B7TWBGF-es Benkeg Luz Bicicleta Recargable USB Linterna Bicicleta...'
+sku: 'B08B7TWBGF-es'
 tags: [  ]
 actualPrice: 9.49 EUR
 currency: EUR

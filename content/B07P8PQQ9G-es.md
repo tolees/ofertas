@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P8PQQ9G-es Diesel UFST-STARS-THREEPACK Tanga para Mujer Negro...'
+sku: 'B07P8PQQ9G-es'
 tags: [  ]
 actualPrice: 8.36 EUR
 currency: EUR

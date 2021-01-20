@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00O7Q1AIO-es Pelota de Playa Hinchable Bestway Minnie Mouse'
+sku: 'B00O7Q1AIO-es'
 tags: [  ]
 actualPrice: 2.75 EUR
 currency: EUR

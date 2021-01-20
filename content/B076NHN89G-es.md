@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076NHN89G-es Adidas Terrex Swift R2 GTX Zapatillas de Running para...'
+sku: 'B076NHN89G-es'
 tags: [  ]
 actualPrice: 95.45 EUR
 currency: EUR

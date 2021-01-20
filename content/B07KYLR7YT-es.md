@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KYLR7YT-es WOSTOO Calcetines de Hombre Invierno Calcetines de Lana 5...'
+sku: 'B07KYLR7YT-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

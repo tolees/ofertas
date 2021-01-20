@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG5K89V-es PUMA St Runner V2 Mesh Zapatillas Unisex Adulto - Gris...'
+sku: 'B07KG5K89V-es'
 tags: [  ]
 actualPrice: 22.16 EUR
 currency: EUR

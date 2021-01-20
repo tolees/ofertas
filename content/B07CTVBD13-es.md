@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CTVBD13-es JACK & JONES Jfwbyson Mesh Mix STS Zapatillas para Hombre...'
+sku: 'B07CTVBD13-es'
 tags: [  ]
 actualPrice: 19.39 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W6JP8N2-es Logitech G502 HERO Ratón Gaming con Cable Alto Rendimiento...'
+sku: 'B07W6JP8N2-es'
 tags: [  ]
 actualPrice: 51.99 EUR
 currency: EUR

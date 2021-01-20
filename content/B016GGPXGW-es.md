@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016GGPXGW-es Victoria S Secret Hombres 1 Unidad 200 g'
+sku: 'B016GGPXGW-es'
 tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N9DGVL1-es Timex Reloj de Pulsera TW2R70400'
+sku: 'B07N9DGVL1-es'
 tags: [  ]
 actualPrice: 26.7 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NCNJVGS-es Maletín para portátil 15 6" Pepe Jeans Raw'
+sku: 'B07NCNJVGS-es'
 tags: [  ]
 actualPrice: 38.5 EUR
 currency: EUR

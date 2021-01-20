@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082VRXXCB-es Transmisor FM Bluetooth 5.0 Coche Manos Libres Reproductor...'
+sku: 'B082VRXXCB-es'
 tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR

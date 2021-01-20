@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VGC33P4-es Nike Pico 5 TDV Unisex-Baby White White Pure Platinum 25 EU'
+sku: 'B07VGC33P4-es'
 tags: [  ]
 actualPrice: 19.04 EUR
 currency: EUR

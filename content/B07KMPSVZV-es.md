@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KMPSVZV-es adidas Essentials French Terry 3 Bandas Pantalón Corto...'
+sku: 'B07KMPSVZV-es'
 tags: [  ]
 actualPrice: 24.94 EUR
 currency: EUR

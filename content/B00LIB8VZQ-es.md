@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LIB8VZQ-es Fantasy Flight Games- Tie Fantasma Multicolor FFSWX19'
+sku: 'B00LIB8VZQ-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

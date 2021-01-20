@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TWJB81F-es Gant Cocoville Zapatillas para Mujer Multicolor...'
+sku: 'B07TWJB81F-es'
 tags: [  ]
 actualPrice: 49.97 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JBMNYKS-es HD101 2.5"USB 3.0 Disco Duro Externo Extract Box LED...'
+sku: 'B07JBMNYKS-es'
 tags: [  ]
 actualPrice: 7.19 EUR
 currency: EUR

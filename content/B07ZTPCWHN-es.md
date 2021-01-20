@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZTPCWHN-es Frozen Believe-Mochila Dual Pequeña'
+sku: 'B07ZTPCWHN-es'
 tags: [  ]
 actualPrice: 8.45 EUR
 currency: EUR

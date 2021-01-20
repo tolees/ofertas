@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0813BB2SX-es Olycism Compatible para Xiaomi Mi Note 10 Protector de...'
+sku: 'B0813BB2SX-es'
 tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DW8MZDM-es Salewa WS Speed Beat GTX Zapatillas de Running para...'
+sku: 'B07DW8MZDM-es'
 tags: [  ]
 actualPrice: 29.46 EUR
 currency: EUR

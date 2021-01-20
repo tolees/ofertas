@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086HYPP5K-es Braun Hogar Minipimer 5245 - Batidora de mano 1000 W 21...'
+sku: 'B086HYPP5K-es'
 tags: [  ]
 actualPrice: 62.9 EUR
 currency: EUR

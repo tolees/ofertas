@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B46FKNM-es Bourjois Rouge Edition Velvet Barra de Labios Líquida Tono...'
+sku: 'B07B46FKNM-es'
 tags: [  ]
 actualPrice: 3.42 EUR
 currency: EUR

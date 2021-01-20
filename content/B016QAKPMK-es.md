@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016QAKPMK-es adidas Parma 16 SHO Shorts Hombre Black/White XS'
+sku: 'B016QAKPMK-es'
 tags: [  ]
 actualPrice: 8.95 EUR
 currency: EUR

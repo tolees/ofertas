@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014GNJV6K-es Skechers 11936 Zapatillas para Mujer Blanco White/Silver...'
+sku: 'B014GNJV6K-es'
 tags: [  ]
 actualPrice: 48.95 EUR
 currency: EUR

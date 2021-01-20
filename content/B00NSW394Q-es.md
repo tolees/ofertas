@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NSW394Q-es Pro Garden 07972-Baliza de luz solar acero inoxidable 36...'
+sku: 'B00NSW394Q-es'
 tags: [  ]
 actualPrice: 6.95 EUR
 currency: EUR

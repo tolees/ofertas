@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FILJHIW-es Piscina Hinchable Infantil Bestway Deluxe Octagon Family...'
+sku: 'B00FILJHIW-es'
 tags: [  ]
 actualPrice: 36.9 EUR
 currency: EUR

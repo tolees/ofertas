@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085CGNPQK-es Tamaño A4 Niños Dibujo Molde de papel de placa de copia 3D...'
+sku: 'B085CGNPQK-es'
 tags: [  ]
 actualPrice: 3.06 EUR
 currency: EUR

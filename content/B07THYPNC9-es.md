@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07THYPNC9-es ASRock X570 Phantom Gaming X AM4 ATX Mainboard...'
+sku: 'B07THYPNC9-es'
 tags: [  ]
 actualPrice: 199.9 EUR
 currency: EUR

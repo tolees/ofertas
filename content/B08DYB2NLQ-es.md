@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DYB2NLQ-es yideng Fiesta de Halloween Globos Conjunto Grande de...'
+sku: 'B08DYB2NLQ-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

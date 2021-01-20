@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GX4YZZD-es PDP - Funda Slim Travel Case Edición Poke Ball Nintendo...'
+sku: 'B07GX4YZZD-es'
 tags: [  ]
 actualPrice: 12.39 EUR
 currency: EUR

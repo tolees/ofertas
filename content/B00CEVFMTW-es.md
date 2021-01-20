@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CEVFMTW-es STANLEY FATMAX FMHT0-20559 - Serrucho FatMax Plegable para...'
+sku: 'B00CEVFMTW-es'
 tags: [  ]
 actualPrice: 13.57 EUR
 currency: EUR

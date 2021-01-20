@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KGDTVC8-es Tbest 1 Par Compresión de Rodillera Manga para Pierna...'
+sku: 'B07KGDTVC8-es'
 tags: [  ]
 actualPrice: 7.39 EUR
 currency: EUR

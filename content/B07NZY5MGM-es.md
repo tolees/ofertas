@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NZY5MGM-es Skechers Dyna-Air Zapatillas para Hombre Azul Navy...'
+sku: 'B07NZY5MGM-es'
 tags: [  ]
 actualPrice: 41.9 EUR
 currency: EUR

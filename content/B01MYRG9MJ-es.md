@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MYRG9MJ-es Puma Suede Classic+ Zapatillas Unisex Adulto Turquesa...'
+sku: 'B01MYRG9MJ-es'
 tags: [  ]
 actualPrice: 25.43 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D78YH3M-es Glamorise Full Figure MagicLift Moisture Control Bra #1264...'
+sku: 'B07D78YH3M-es'
 tags: [  ]
 actualPrice: 25.46 EUR
 currency: EUR

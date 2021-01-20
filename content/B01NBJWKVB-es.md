@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NBJWKVB-es Devolo 9974 - Puente WiFi 2 Gbit una Banda de 5 GHz'
+sku: 'B01NBJWKVB-es'
 tags: [  ]
 actualPrice: 129.14 EUR
 currency: EUR

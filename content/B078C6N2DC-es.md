@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078C6N2DC-es Michael Kors Reloj Analogico para Mujer de Cuarzo con...'
+sku: 'B078C6N2DC-es'
 tags: [  ]
 actualPrice: 157.0 EUR
 currency: EUR

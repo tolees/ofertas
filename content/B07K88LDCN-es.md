@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K88LDCN-es AYAMAYA Newsboy Gorra Gatsby Baker Boy Gorra Plana de...'
+sku: 'B07K88LDCN-es'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0816DPC6C-es otumixx Bolsas de Almacenaje al Vacío 6 Unidades 3 *...'
+sku: 'B0816DPC6C-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

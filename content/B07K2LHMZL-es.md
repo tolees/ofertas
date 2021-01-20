@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2LHMZL-es Adidas Falcon Zapatillas de Trail Running para Hombre...'
+sku: 'B07K2LHMZL-es'
 tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR

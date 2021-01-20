@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087RPM86V-es F1 2020 Seventy Edition ESP'
+sku: 'B087RPM86V-es'
 tags: [  ]
 actualPrice: 36.0 EUR
 currency: EUR

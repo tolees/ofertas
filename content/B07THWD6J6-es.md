@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07THWD6J6-es Lacoste Mh6270 Pantalones Cortos Verde Vert/Marine 381...'
+sku: 'B07THWD6J6-es'
 tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR

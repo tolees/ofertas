@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BGTOFH2-es G-Star Raw Bronson Pantalones Para Hombre Beige Dune 1794...'
+sku: 'B01BGTOFH2-es'
 tags: [  ]
 actualPrice: 39.52 EUR
 currency: EUR

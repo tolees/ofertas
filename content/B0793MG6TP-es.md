@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0793MG6TP-es Vikenner 6 Pcs Mini Macaron Jewelry Storage Box Pill...'
+sku: 'B0793MG6TP-es'
 tags: [  ]
 actualPrice: 0.57 EUR
 currency: EUR

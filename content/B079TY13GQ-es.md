@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079TY13GQ-es Saco PRIMAVERA/VERANO ENTRETIEMPO para CUCO/CAPAZO...'
+sku: 'B079TY13GQ-es'
 tags: [  ]
 actualPrice: 25.0 EUR
 currency: EUR

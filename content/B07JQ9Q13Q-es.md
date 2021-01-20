@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JQ9Q13Q-es Precision Elite 2.0'
+sku: 'B07JQ9Q13Q-es'
 tags: [  ]
 actualPrice: 35.94 EUR
 currency: EUR

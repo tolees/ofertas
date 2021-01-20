@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TWBFS4M-es Levi s 501 Short Long Pantalones Cortos Blanco Beg Two...'
+sku: 'B07TWBFS4M-es'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

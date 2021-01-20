@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079NBQMHJ-es Béaba 913426 - Cuchara de aprendizaje segunda edad'
+sku: 'B079NBQMHJ-es'
 tags: [  ]
 actualPrice: 3.25 EUR
 currency: EUR

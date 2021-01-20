@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075MCC26Z-es Altavoz Autoamplificado 250W 8" ThunderSound Biwond'
+sku: 'B075MCC26Z-es'
 tags: [  ]
 actualPrice: 79.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MQDBHBW-es BCHE Electroestimulador Muscular Abdominales Masajeador...'
+sku: 'B07MQDBHBW-es'
 tags: [  ]
 actualPrice: 26.9 EUR
 currency: EUR

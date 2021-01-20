@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HO9VPLC-es Asics Unisex Adults Gel-Kayano Trainer Evo Zapatillas de...'
+sku: 'B01HO9VPLC-es'
 tags: [  ]
 actualPrice: 26.82 EUR
 currency: EUR

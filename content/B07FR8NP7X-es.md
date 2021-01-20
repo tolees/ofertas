@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FR8NP7X-es Imperial Confort Copenhague - Colchón doble Acolchado...'
+sku: 'B07FR8NP7X-es'
 tags: [  ]
 actualPrice: 147.21 EUR
 currency: EUR

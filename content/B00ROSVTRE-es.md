@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ROSVTRE-es Philips NT5180/15 - Recortador de vello nariz y orejas...'
+sku: 'B00ROSVTRE-es'
 tags: [  ]
 actualPrice: 16.15 EUR
 currency: EUR

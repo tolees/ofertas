@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0784GHNNX-es Doble llavero de pareja 2 piezas que encajan con figura de...'
+sku: 'B0784GHNNX-es'
 tags: [  ]
 actualPrice: 2.21 EUR
 currency: EUR

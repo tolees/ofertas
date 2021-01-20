@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBMWHX7-es Kappa Marabu Zapatillas Unisex Adulto Black Red 1120 36 EU'
+sku: 'B07LBMWHX7-es'
 tags: [  ]
 actualPrice: 16.96 EUR
 currency: EUR

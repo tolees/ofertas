@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006A34BWY-es VAUDE Farley ZO IV - Pantalones para hombre color beige...'
+sku: 'B006A34BWY-es'
 tags: [  ]
 actualPrice: 24.63 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NW52SJL-es Skechers Women s Stamina Trainers Grey Gray Suede/Orange &...'
+sku: 'B07NW52SJL-es'
 tags: [  ]
 actualPrice: 48.9 EUR
 currency: EUR

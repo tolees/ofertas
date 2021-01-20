@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LB7PQN1-es adidas Terrex Ax3 GTX W Zapatillas de Trail Running para...'
+sku: 'B07LB7PQN1-es'
 tags: [  ]
 actualPrice: 69.95 EUR
 currency: EUR

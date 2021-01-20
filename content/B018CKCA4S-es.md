@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018CKCA4S-es Cambiador Portátil de Pañales para Bebé - Kit Cambiador de...'
+sku: 'B018CKCA4S-es'
 tags: [  ]
 actualPrice: 16.7 EUR
 currency: EUR

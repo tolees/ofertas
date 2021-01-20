@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TTTSZCV-es Skechers Equalizer 4.0 Zapatillas sin Cordones para Hombre...'
+sku: 'B07TTTSZCV-es'
 tags: [  ]
 actualPrice: 34.85 EUR
 currency: EUR

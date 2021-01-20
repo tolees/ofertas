@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WHPB1Q5-es Vicloon Organizador de Equipaje 6 en 1 Set de...'
+sku: 'B07WHPB1Q5-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WT1DNR7-es Onnea 7 Pares de Pendientes con Clip para Ni?as Bebes Flor...'
+sku: 'B07WT1DNR7-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

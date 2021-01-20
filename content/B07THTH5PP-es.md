@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07THTH5PP-es E·Durable 5 pcs Kit de herramientas de reparación en el...'
+sku: 'B07THTH5PP-es'
 tags: [  ]
 actualPrice: 11.77 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081X1Z5WC-es Topmener Almohada Cervical Espuma de Memoria Almohada de...'
+sku: 'B081X1Z5WC-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

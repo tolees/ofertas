@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZQRY4G6-es Arteza Recambios de bolígrafo de gel azul | Paquete de 50...'
+sku: 'B07ZQRY4G6-es'
 tags: [  ]
 actualPrice: 9.51 EUR
 currency: EUR

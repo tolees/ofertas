@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087FTPM8L-es househome Piscina Inflable para Niños Bebé Casa De Adultos...'
+sku: 'B087FTPM8L-es'
 tags: [  ]
 actualPrice: 30.09 EUR
 currency: EUR

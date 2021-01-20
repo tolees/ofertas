@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VZXZBQB-es Antartica - Juego de Maletas 3 Maletas de Equipaje Maletas...'
+sku: 'B07VZXZBQB-es'
 tags: [  ]
 actualPrice: 75.0 EUR
 currency: EUR

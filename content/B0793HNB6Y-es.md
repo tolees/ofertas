@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0793HNB6Y-es Victor Vran: Overkill Edition'
+sku: 'B0793HNB6Y-es'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

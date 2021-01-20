@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0755PDKCN-es GoPro The Handler - Empuñadura flotante Negro'
+sku: 'B0755PDKCN-es'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

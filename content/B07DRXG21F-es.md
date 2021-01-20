@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DRXG21F-es Just Dance 2019'
+sku: 'B07DRXG21F-es'
 tags: [  ]
 actualPrice: 28.91 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018EMSYG2-es Silver HT 111932940199 - Mini Teclado Universal...'
+sku: 'B018EMSYG2-es'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PMLV45J-es New Balance 574v2 Zapatillas para Hombre Azul Blue Blue...'
+sku: 'B07PMLV45J-es'
 tags: [  ]
 actualPrice: 47.08 EUR
 currency: EUR

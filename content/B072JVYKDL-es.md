@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072JVYKDL-es Romanticist 20 Piezas Utensilios para Barbacoa para...'
+sku: 'B072JVYKDL-es'
 tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR

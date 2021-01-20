@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06ZZJX9M4-es Tetra Betta larvasticks comida para acuariofilia'
+sku: 'B06ZZJX9M4-es'
 tags: [  ]
 actualPrice: 6.23 EUR
 currency: EUR

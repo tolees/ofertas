@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZFKCDM7-es Amzdeal Grifo de Cocina Grifo de Fregadero con agua...'
+sku: 'B07ZFKCDM7-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

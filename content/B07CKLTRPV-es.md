@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CKLTRPV-es 6 Pares 7mm Pendientes pour Hombre Mujer Chico Unisex...'
+sku: 'B07CKLTRPV-es'
 tags: [  ]
 actualPrice: 8.09 EUR
 currency: EUR

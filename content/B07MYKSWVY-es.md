@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MYKSWVY-es King size patchwork Quilt Handmade Throws Scrap Quilt Gift...'
+sku: 'B07MYKSWVY-es'
 tags: [  ]
 actualPrice: 266.0 EUR
 currency: EUR

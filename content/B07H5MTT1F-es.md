@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H5MTT1F-es Skechers Flex Appeal 3.0 Zapatillas para Mujer Blanco...'
+sku: 'B07H5MTT1F-es'
 tags: [  ]
 actualPrice: 40.57 EUR
 currency: EUR

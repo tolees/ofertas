@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01I54R1GS-es DIGITNOW! 22MP Escáner de negativos y diapositivas...'
+sku: 'B01I54R1GS-es'
 tags: [  ]
 actualPrice: 84.99 EUR
 currency: EUR

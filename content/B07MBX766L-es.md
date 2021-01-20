@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MBX766L-es GlobaLink Espejo Antivaho Redondo Espejo Ideal para...'
+sku: 'B07MBX766L-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

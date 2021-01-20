@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TSQ8K8M-es Skechers Arch Fit Zapatillas sin Cordones para Hombre Azul...'
+sku: 'B07TSQ8K8M-es'
 tags: [  ]
 actualPrice: 27.31 EUR
 currency: EUR

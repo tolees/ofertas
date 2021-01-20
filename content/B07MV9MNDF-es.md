@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MV9MNDF-es Kipling - Creativity L Monederos Mujer Gris Night Grey...'
+sku: 'B07MV9MNDF-es'
 tags: [  ]
 actualPrice: 20.72 EUR
 currency: EUR

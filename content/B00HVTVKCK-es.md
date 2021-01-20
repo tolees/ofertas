@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HVTVKCK-es Superga 2750 COTU Classic Zapatillas Unisex Adulto Dark...'
+sku: 'B00HVTVKCK-es'
 tags: [  ]
 actualPrice: 39.43 EUR
 currency: EUR

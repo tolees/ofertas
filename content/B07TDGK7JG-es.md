@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TDGK7JG-es Xnuoyo Limpiador de poros Extractor Puntos Negros...'
+sku: 'B07TDGK7JG-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

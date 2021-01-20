@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L8SRZSJ-es Rubie s- Avengers Disfraz Multicolor small 700672 S'
+sku: 'B07L8SRZSJ-es'
 tags: [  ]
 actualPrice: 31.89 EUR
 currency: EUR

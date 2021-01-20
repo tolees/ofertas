@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078TPK9JF-es Toshiba THN-M203K0160EA Tarjeta de memoria 16 GB MicroSDXC...'
+sku: 'B078TPK9JF-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

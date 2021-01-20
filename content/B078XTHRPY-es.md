@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078XTHRPY-es Kitchen Emperor Cuchillo Santoku Damasco Cuchillo Acero...'
+sku: 'B078XTHRPY-es'
 tags: [  ]
 actualPrice: 59.89 EUR
 currency: EUR

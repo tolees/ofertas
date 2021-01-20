@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N399LXX-es AINOYA Funda Carcasa Gel para Huawei P30 Pro Ultra Fina...'
+sku: 'B07N399LXX-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

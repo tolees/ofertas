@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XX8SSMY-es New Balance WL574EB Zapatillas Mujer Negro Black 37 EU'
+sku: 'B06XX8SSMY-es'
 tags: [  ]
 actualPrice: 62.37 EUR
 currency: EUR

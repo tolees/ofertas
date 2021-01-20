@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0857R6YZY-es Cecotec 04230 Recortador de barba multifunción Bamba...'
+sku: 'B0857R6YZY-es'
 tags: [  ]
 actualPrice: 20.72 EUR
 currency: EUR

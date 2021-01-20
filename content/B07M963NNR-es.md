@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M963NNR-es Wrangler HIGH RISE SKINNY Jeans Azul Mid Indigo X8e 26W /...'
+sku: 'B07M963NNR-es'
 tags: [  ]
 actualPrice: 45.99 EUR
 currency: EUR

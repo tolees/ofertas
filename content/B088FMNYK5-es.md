@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088FMNYK5-es Moly Caja de Toalla Multifuncional de plástico Simple Caja...'
+sku: 'B088FMNYK5-es'
 tags: [  ]
 actualPrice: 3.89 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XDMQ4DZ-es Bourjois Rouge Laque Barra de Labios Líquida Tono 06...'
+sku: 'B06XDMQ4DZ-es'
 tags: [  ]
 actualPrice: 4.48 EUR
 currency: EUR

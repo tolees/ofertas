@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HF128KW-es UniqueMe [2 Pack] Protector de Pantalla para Huawei Mate...'
+sku: 'B07HF128KW-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

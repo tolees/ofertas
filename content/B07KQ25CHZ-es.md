@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KQ25CHZ-es VicTsing Lámpara de Mesa 18 LEDs Recargable con 60 Horas...'
+sku: 'B07KQ25CHZ-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

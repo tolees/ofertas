@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016AFQG1K-es Dormio Zafiro - Colchón viscoelástico Blanco 105 x 200 x...'
+sku: 'B016AFQG1K-es'
 tags: [  ]
 actualPrice: 79.59 EUR
 currency: EUR

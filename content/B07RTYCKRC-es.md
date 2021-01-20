@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RTYCKRC-es Emoji Camiseta de Manga Corta para niñas Llama Blanco...'
+sku: 'B07RTYCKRC-es'
 tags: [  ]
 actualPrice: 8.95 EUR
 currency: EUR

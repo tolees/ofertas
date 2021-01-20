@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076D9RGGP-es Philips VisaPure - Mini limpiador facial con tecnología de...'
+sku: 'B076D9RGGP-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

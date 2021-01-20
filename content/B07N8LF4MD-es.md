@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N8LF4MD-es Tommy Hilfiger POPPY BACKPACKMujerBolsos bandoleraNegro...'
+sku: 'B07N8LF4MD-es'
 tags: [  ]
 actualPrice: 59.95 EUR
 currency: EUR

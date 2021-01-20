@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089DYLZGY-es RUNCCI-YUN 8dBi 2 4 GHz 5 GHz Dual Band WiFi RP-SMA Antena...'
+sku: 'B089DYLZGY-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

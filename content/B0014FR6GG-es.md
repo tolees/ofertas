@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0014FR6GG-es Cinereplicas - Harry Potter - Bufanda - Licencia Oficial -...'
+sku: 'B0014FR6GG-es'
 tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR

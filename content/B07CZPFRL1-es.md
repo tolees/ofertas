@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZPFRL1-es Under Armour Sportstyle Wind Parte Superior del...'
+sku: 'B07CZPFRL1-es'
 tags: [  ]
 actualPrice: 41.9 EUR
 currency: EUR

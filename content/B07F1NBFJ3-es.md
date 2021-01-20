@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F1NBFJ3-es Zerone Cable CATV Bloqueo y desbloqueo Terminator Tool-...'
+sku: 'B07F1NBFJ3-es'
 tags: [  ]
 actualPrice: 5.49 EUR
 currency: EUR

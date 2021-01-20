@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VWV79H8-es FORMIZON Loom Bands 4400 Kit Completo 22 Colores Kit de...'
+sku: 'B07VWV79H8-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RBZY9JV-es Edge Entertainment- Narcos el Juego de Mesa Color EECMNA01'
+sku: 'B07RBZY9JV-es'
 tags: [  ]
 actualPrice: 40.99 EUR
 currency: EUR

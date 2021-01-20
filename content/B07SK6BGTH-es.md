@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SK6BGTH-es JXD Nueva Consola de Videojuegos Retro de 5.1 Pulgadas y...'
+sku: 'B07SK6BGTH-es'
 tags: [  ]
 actualPrice: 69.8 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00Z7RZ7JA-es Otterbox Alpha Flex Protector de Pantalla Flexible y...'
+sku: 'B00Z7RZ7JA-es'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

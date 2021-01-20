@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BN3X6WK-es Brazalete de cuero italiano curtido vegetal marrón tamañao...'
+sku: 'B07BN3X6WK-es'
 tags: [  ]
 actualPrice: 3.89 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MJ5SM84-es Sylvialuca MCP4725 I2C DAC Breakout Development Module...'
+sku: 'B07MJ5SM84-es'
 tags: [  ]
 actualPrice: 3.42 EUR
 currency: EUR

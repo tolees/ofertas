@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJGVYBJ-es Brabantia Tasty + Pincel repostería de silicona color fir...'
+sku: 'B07NJGVYBJ-es'
 tags: [  ]
 actualPrice: 4.55 EUR
 currency: EUR

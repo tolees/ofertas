@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JZ77QP1-es DORRISO Lindo Niños Bebe Gorra Cómodo Calentar Pequeña...'
+sku: 'B07JZ77QP1-es'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

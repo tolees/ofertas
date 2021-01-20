@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0895K1RXT-es AnamSafdarButt59 Negro y Plata Aleación de Aluminio USB...'
+sku: 'B0895K1RXT-es'
 tags: [  ]
 actualPrice: 5.21 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074J8X8CW-es Alienwork Navy Blue Reloj Unisex Relojes Hombre Mujer...'
+sku: 'B074J8X8CW-es'
 tags: [  ]
 actualPrice: 24.62 EUR
 currency: EUR

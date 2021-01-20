@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EVPRQGQ-es Calvin Klein Bottoms UP-Hipster Ropa interior Negro 001...'
+sku: 'B00EVPRQGQ-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WLYGV77-es BaByliss MEN T881E Barbero eléctrico recortadora de barba...'
+sku: 'B07WLYGV77-es'
 tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR

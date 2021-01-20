@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H208XHW-es God of War - Edición Estándar'
+sku: 'B01H208XHW-es'
 tags: [  ]
 actualPrice: 25.9 EUR
 currency: EUR

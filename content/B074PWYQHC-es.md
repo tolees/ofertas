@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074PWYQHC-es Skechers Skech Appeal 2.0-Bold Move Zapatillas para Niñas...'
+sku: 'B074PWYQHC-es'
 tags: [  ]
 actualPrice: 27.0 EUR
 currency: EUR

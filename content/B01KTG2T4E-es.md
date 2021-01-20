@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KTG2T4E-es Lacoste Reloj Analógico para Hombre de Cuarzo con Correa...'
+sku: 'B01KTG2T4E-es'
 tags: [  ]
 actualPrice: 85.0 EUR
 currency: EUR

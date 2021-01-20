@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PDNWYQC-es Nike Todos Zapatillas de Entrenamiento para Hombre Blanco...'
+sku: 'B07PDNWYQC-es'
 tags: [  ]
 actualPrice: 30.71 EUR
 currency: EUR

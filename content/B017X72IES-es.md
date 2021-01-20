@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017X72IES-es TP-Link HS110 - Enchufe inteligente inalámbrico con...'
+sku: 'B017X72IES-es'
 tags: [  ]
 actualPrice: 21.9 EUR
 currency: EUR

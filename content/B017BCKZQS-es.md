@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017BCKZQS-es Max Factor Creme Puff Blush Colorete Tono 20 Lavish Mauve...'
+sku: 'B017BCKZQS-es'
 tags: [  ]
 actualPrice: 3.66 EUR
 currency: EUR

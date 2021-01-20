@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F9YZQGV-es LEDMO tira led 12v 600leds 3000K blanco cálido SMD2835 5M...'
+sku: 'B07F9YZQGV-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PNK8PFK-es New Balance 373 Zapatillas para Hombre Verde Green/Black...'
+sku: 'B07PNK8PFK-es'
 tags: [  ]
 actualPrice: 40 EUR
 currency: EUR

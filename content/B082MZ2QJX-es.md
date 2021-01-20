@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082MZ2QJX-es Coleman - Nevera térmica rígida 16 QT Alto Rendimiento 15...'
+sku: 'B082MZ2QJX-es'
 tags: [  ]
 actualPrice: 27.95 EUR
 currency: EUR

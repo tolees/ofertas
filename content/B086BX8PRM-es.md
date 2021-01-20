@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086BX8PRM-es Oihxse Funda Compatible con Huawei Nova 5/Nova 5 Pro...'
+sku: 'B086BX8PRM-es'
 tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR

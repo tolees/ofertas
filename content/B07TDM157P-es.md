@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TDM157P-es Quiksilver Above The Lip-Camiseta con Bolsillo para Hombre...'
+sku: 'B07TDM157P-es'
 tags: [  ]
 actualPrice: 10.01 EUR
 currency: EUR

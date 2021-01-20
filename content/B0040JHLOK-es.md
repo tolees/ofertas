@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0040JHLOK-es Bburago 15631204 - Garaje de Ferrari con dos coches escala...'
+sku: 'B0040JHLOK-es'
 tags: [  ]
 actualPrice: 24.85 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RC8F2L3-es Sabrent Interruptor de Intercambio USB 2.0 de hasta 4...'
+sku: 'B07RC8F2L3-es'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

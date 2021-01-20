@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K14PBDV-es Lee Malone Jeans Blue Drop Em 28W / 30L para Hombre'
+sku: 'B07K14PBDV-es'
 tags: [  ]
 actualPrice: 32.48 EUR
 currency: EUR

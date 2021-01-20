@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075RYX9XX-es VIKI LYNN Pendientes de perlas 7-8mm Pendientes de perlas'
+sku: 'B075RYX9XX-es'
 tags: [  ]
 actualPrice: 10.55 EUR
 currency: EUR

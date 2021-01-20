@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MMSTBRF-es WERNNSAI Conjunto de Suministros para la Fiesta Juego -...'
+sku: 'B07MMSTBRF-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

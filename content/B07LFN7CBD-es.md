@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFN7CBD-es Khanomak de Mujeres de Manga Larga de Punto Abierto Frente...'
+sku: 'B07LFN7CBD-es'
 tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR

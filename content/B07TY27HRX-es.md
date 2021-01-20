@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TY27HRX-es Skechers Bounder Zapatillas para Hombre Gris Gray...'
+sku: 'B07TY27HRX-es'
 tags: [  ]
 actualPrice: 32.52 EUR
 currency: EUR

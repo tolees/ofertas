@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004W6KEDQ-es Navigator Expression - Paquete de 2500 folios de papel...'
+sku: 'B004W6KEDQ-es'
 tags: [  ]
 actualPrice: 28.88 EUR
 currency: EUR

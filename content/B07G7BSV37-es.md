@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G7BSV37-es Manta de muselina para bebé suave muselina de algodón para...'
+sku: 'B07G7BSV37-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

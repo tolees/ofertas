@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NFT5K7Q-es E-Vitta EVUN000298 - Funda con soporte para tablet de...'
+sku: 'B00NFT5K7Q-es'
 tags: [  ]
 actualPrice: 12.72 EUR
 currency: EUR

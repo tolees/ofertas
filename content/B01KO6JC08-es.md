@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KO6JC08-es Vileda VR 101 - Robot aspirador y escoba para suelos duros...'
+sku: 'B01KO6JC08-es'
 tags: [  ]
 actualPrice: 79.95 EUR
 currency: EUR

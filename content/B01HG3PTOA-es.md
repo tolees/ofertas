@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HG3PTOA-es adidas Gazelle Zapatillas de deporte Unisex Adulto Varios...'
+sku: 'B01HG3PTOA-es'
 tags: [  ]
 actualPrice: 38.45 EUR
 currency: EUR

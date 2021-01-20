@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071ZPQDV7-es Marvel VS Capcom Infinite'
+sku: 'B071ZPQDV7-es'
 tags: [  ]
 actualPrice: 33.88 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VWYLBLA-es Joma Master Bermuda Deporte Hombre Negro S'
+sku: 'B00VWYLBLA-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

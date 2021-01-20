@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PZXLH33-es Lenovo Ideapad 530S-14IKB Ordenador Portátil Full HD Intel...'
+sku: 'B07PZXLH33-es'
 tags: [  ]
 actualPrice: 669.99 EUR
 currency: EUR

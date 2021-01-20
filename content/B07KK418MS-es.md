@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KK418MS-es Columbia Redmond V2 Mid Botas de Senderismo de Piel...'
+sku: 'B07KK418MS-es'
 tags: [  ]
 actualPrice: 58.95 EUR
 currency: EUR

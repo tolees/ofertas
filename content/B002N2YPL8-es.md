@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002N2YPL8-es Le Creuset Sartén Baja de Aluminio Antiadherente Libre de...'
+sku: 'B002N2YPL8-es'
 tags: [  ]
 actualPrice: 94.5 EUR
 currency: EUR

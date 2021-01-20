@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S5FBP38-es Stanley 65387 Linterna Led Indestructible De Aluminio...'
+sku: 'B07S5FBP38-es'
 tags: [  ]
 actualPrice: 15.54 EUR
 currency: EUR

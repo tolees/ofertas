@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002LTEYPK-es Superga 2750 Cotu Classic Zapatillas Unisex Adulto Navy S...'
+sku: 'B002LTEYPK-es'
 tags: [  ]
 actualPrice: 26.7 EUR
 currency: EUR

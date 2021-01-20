@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UBOL4HI-es Tommy Hilfiger 3p Lr Trunk Sujetador Negro...'
+sku: 'B00UBOL4HI-es'
 tags: [  ]
 actualPrice: 25.49 EUR
 currency: EUR

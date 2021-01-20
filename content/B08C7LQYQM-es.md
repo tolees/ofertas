@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08C7LQYQM-es COOLAPA LED Strip Lights Impermeable IP65 Color Changing...'
+sku: 'B08C7LQYQM-es'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

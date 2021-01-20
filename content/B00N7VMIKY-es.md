@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00N7VMIKY-es Control Chocolate Addiction Preservativos - 12 Unidades'
+sku: 'B00N7VMIKY-es'
 tags: [  ]
 actualPrice: 5.95 EUR
 currency: EUR

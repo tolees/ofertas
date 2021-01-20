@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089KFDWQ7-es Peine alisador de barba rápido para hombres plancha de...'
+sku: 'B089KFDWQ7-es'
 tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR

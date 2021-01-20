@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TL3W1DX-es BRA Advanced Cacerola 24 cm Aluminio Fundido con...'
+sku: 'B07TL3W1DX-es'
 tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR

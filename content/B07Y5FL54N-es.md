@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y5FL54N-es Aprettysunny Tacón Alto Zapato'
+sku: 'B07Y5FL54N-es'
 tags: [  ]
 actualPrice: 2.88 EUR
 currency: EUR

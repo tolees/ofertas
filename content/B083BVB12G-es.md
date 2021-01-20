@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083BVB12G-es GLEADING Cepillo Quitar Pelos de Mascotas Rodillo...'
+sku: 'B083BVB12G-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q8RGS6V-es deAO Coche de Muñecas Convertible Conjunto 2en1 Vehículo...'
+sku: 'B07Q8RGS6V-es'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

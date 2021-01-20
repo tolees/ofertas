@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZWX2DK-es Mars gaming MAK1 Teclado Gaming Pulsación Optimizada...'
+sku: 'B01LZWX2DK-es'
 tags: [  ]
 actualPrice: 6.9 EUR
 currency: EUR

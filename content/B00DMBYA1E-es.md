@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DMBYA1E-es Cayro - Collection Tabas Juego de Mesa 511'
+sku: 'B00DMBYA1E-es'
 tags: [  ]
 actualPrice: 6.68 EUR
 currency: EUR

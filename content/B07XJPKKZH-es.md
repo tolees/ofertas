@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XJPKKZH-es PUMA SPIN Ball Balón de Fútbol Unisex-Adult Black-Ultra...'
+sku: 'B07XJPKKZH-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

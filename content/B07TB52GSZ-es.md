@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TB52GSZ-es Symiu Juegos de Mesa Niñas Juego de Pesca Música Ajustable...'
+sku: 'B07TB52GSZ-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

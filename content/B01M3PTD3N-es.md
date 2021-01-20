@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M3PTD3N-es Ecus Kids Colchón de minicuna Ecus Care 80x50 es el...'
+sku: 'B01M3PTD3N-es'
 tags: [  ]
 actualPrice: 68.88 EUR
 currency: EUR

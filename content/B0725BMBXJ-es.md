@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0725BMBXJ-es Rise Of The Tomb Rider: 20 Aniversario'
+sku: 'B0725BMBXJ-es'
 tags: [  ]
 actualPrice: 12.31 EUR
 currency: EUR

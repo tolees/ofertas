@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GC8QDGV-es Persona 5: Dancing in Starlight - Edición Estándar'
+sku: 'B07GC8QDGV-es'
 tags: [  ]
 actualPrice: 31.5 EUR
 currency: EUR

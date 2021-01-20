@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KWSN3LS-es iWork VS043P-R - Juego de 43 herramientas en bolsa...'
+sku: 'B00KWSN3LS-es'
 tags: [  ]
 actualPrice: 52.78 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TLFMV47-es Levi s Housemark Multicolor Hm Patch Polo Dress...'
+sku: 'B07TLFMV47-es'
 tags: [  ]
 actualPrice: 18.34 EUR
 currency: EUR

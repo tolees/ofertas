@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XCDXKJK-es SADES SA901 7.1 de Sonido Envolvente estéreo Pro USB PC...'
+sku: 'B00XCDXKJK-es'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

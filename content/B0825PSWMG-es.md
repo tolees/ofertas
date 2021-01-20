@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0825PSWMG-es Roxy Feel Happy 35l - Petate Deportivo Mediano Para Mujer...'
+sku: 'B0825PSWMG-es'
 tags: [  ]
 actualPrice: 19.7 EUR
 currency: EUR

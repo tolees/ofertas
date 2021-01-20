@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJ8PKGW-es Mujer Bañador de Una Pieza Traje de Baño Estampado Vintage...'
+sku: 'B07NJ8PKGW-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

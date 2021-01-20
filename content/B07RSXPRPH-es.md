@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RSXPRPH-es American Tourister Summerfunk Equipaje de Mano 55...'
+sku: 'B07RSXPRPH-es'
 tags: [  ]
 actualPrice: 53.97 EUR
 currency: EUR

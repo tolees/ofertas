@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082MHXNNQ-es Kids Mordedor Bebes Refrigerante by ANGELBLISS Mordedores...'
+sku: 'B082MHXNNQ-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

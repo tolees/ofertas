@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071NSM3C4-es Jack & Jones Jjicody Jjspencer WW Noos Pantalones Azul...'
+sku: 'B071NSM3C4-es'
 tags: [  ]
 actualPrice: 25.0 EUR
 currency: EUR

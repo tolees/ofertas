@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WTWRJK-es Sony SRSXB41R - Altavoz portátil Bluetooth Extra Bass Modo...'
+sku: 'B078WTWRJK-es'
 tags: [  ]
 actualPrice: 103.2 EUR
 currency: EUR

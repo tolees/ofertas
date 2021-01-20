@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N4JM6XX-es Levi s Woods W Zapatillas para Mujer Blanco B White 50 39 EU'
+sku: 'B07N4JM6XX-es'
 tags: [  ]
 actualPrice: 41.99 EUR
 currency: EUR

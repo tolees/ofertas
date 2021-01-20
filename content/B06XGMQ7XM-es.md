@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XGMQ7XM-es Elifexir Baby Care Crema Protectora del Pañal Culito 10...'
+sku: 'B06XGMQ7XM-es'
 tags: [  ]
 actualPrice: 6.59 EUR
 currency: EUR

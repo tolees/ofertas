@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08637MGNL-es Locisne Portátil 14-en-1 Ultra Push Up Board Bracket Board...'
+sku: 'B08637MGNL-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

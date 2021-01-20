@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SFJ7CGM-es Levi s Global Vulca-Low Zapatillas para Hombre Blanco R...'
+sku: 'B07SFJ7CGM-es'
 tags: [  ]
 actualPrice: 20.85 EUR
 currency: EUR

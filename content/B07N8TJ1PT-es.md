@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N8TJ1PT-es Izod Performance Pique Polo Blanco Bright White 116 XL...'
+sku: 'B07N8TJ1PT-es'
 tags: [  ]
 actualPrice: 7.55 EUR
 currency: EUR

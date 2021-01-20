@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089DGWLZ7-es luosh Kraft Paper Roll 10m Rollo de Papel de Dibujo Blanco...'
+sku: 'B089DGWLZ7-es'
 tags: [  ]
 actualPrice: 16.04 EUR
 currency: EUR

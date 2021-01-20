@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DD5D8WD-es Nella The Knight - Disfraz de la Princesa Nella para niña...'
+sku: 'B07DD5D8WD-es'
 tags: [  ]
 actualPrice: 11.85 EUR
 currency: EUR

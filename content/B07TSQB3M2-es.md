@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TSQB3M2-es Skechers Delson 2.0 Larwin Zapatillas sin Cordones para...'
+sku: 'B07TSQB3M2-es'
 tags: [  ]
 actualPrice: 47.95 EUR
 currency: EUR

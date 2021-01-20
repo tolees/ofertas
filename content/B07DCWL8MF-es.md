@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DCWL8MF-es MolCar Parasol Coche para Luna Delantera Universal con 2...'
+sku: 'B07DCWL8MF-es'
 tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR

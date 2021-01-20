@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XABDJL8-es Haribo - Pasta Basta Fresa - Geles dulces - 200 unidades'
+sku: 'B00XABDJL8-es'
 tags: [  ]
 actualPrice: 8.69 EUR
 currency: EUR

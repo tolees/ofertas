@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08532CYKS-es Sweety Fox - Manta Bebe para Niño y Niña 80 x 100 cm -...'
+sku: 'B08532CYKS-es'
 tags: [  ]
 actualPrice: 19.97 EUR
 currency: EUR

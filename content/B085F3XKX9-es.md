@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085F3XKX9-es DOUBLE M Calzoncillos Slip Ropa Interior De Algodon...'
+sku: 'B085F3XKX9-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

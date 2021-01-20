@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V5DPYC1-es longzon 12pcs Pajitas Reutilizables Pajitas de Acero...'
+sku: 'B07V5DPYC1-es'
 tags: [  ]
 actualPrice: 6.79 EUR
 currency: EUR

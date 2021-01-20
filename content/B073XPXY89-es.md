@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073XPXY89-es Cébé CBH256 Cascos de Esquí Unisex Adulto Gris Matt Ciment...'
+sku: 'B073XPXY89-es'
 tags: [  ]
 actualPrice: 35.03 EUR
 currency: EUR

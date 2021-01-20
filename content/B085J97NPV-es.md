@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085J97NPV-es Jack & Jones JJIRICK JJICON Shorts AMA STS Pantalones...'
+sku: 'B085J97NPV-es'
 tags: [  ]
 actualPrice: 11.88 EUR
 currency: EUR

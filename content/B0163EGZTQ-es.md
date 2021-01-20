@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0163EGZTQ-es Dim Invisi Fit Sujetador New Skin 90C para Mujer'
+sku: 'B0163EGZTQ-es'
 tags: [  ]
 actualPrice: 9.0 EUR
 currency: EUR

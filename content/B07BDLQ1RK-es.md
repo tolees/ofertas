@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BDLQ1RK-es American Tourister Sunside Spinner 55/20 Equipaje de Mano...'
+sku: 'B07BDLQ1RK-es'
 tags: [  ]
 actualPrice: 79.0 EUR
 currency: EUR

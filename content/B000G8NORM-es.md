@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000G8NORM-es Alessi Ethno Stefano Giovannoni - Salvamanteles'
+sku: 'B000G8NORM-es'
 tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR

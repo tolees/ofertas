@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B4BC7CK-es Paranix Loción. Tratamiento para Piojos y Liendres -...'
+sku: 'B07B4BC7CK-es'
 tags: [  ]
 actualPrice: 8.73 EUR
 currency: EUR

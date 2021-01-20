@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XDSCPMV-es UMIDIGI Reloj Inteligente Pulsera Actividad con Pulsómetro...'
+sku: 'B07XDSCPMV-es'
 tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR

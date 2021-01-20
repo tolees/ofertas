@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072K4NB9P-es Gillette Venus Swirl Extra Smooth - Afeitadora para Mujer...'
+sku: 'B072K4NB9P-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

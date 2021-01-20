@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DMCHSYM-es Lacoste ESPARRE BL 1 CMA Zapatillas para Hombre Negro...'
+sku: 'B07DMCHSYM-es'
 tags: [  ]
 actualPrice: 30.73 EUR
 currency: EUR

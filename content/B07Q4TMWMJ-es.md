@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q4TMWMJ-es White Patchwork Quilt King Size quilts for sale Patchwork...'
+sku: 'B07Q4TMWMJ-es'
 tags: [  ]
 actualPrice: 237.0 EUR
 currency: EUR

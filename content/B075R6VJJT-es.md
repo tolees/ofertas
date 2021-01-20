@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075R6VJJT-es New Balance Fresh Foam Cruz v2 m Zapatillas para Mujer...'
+sku: 'B075R6VJJT-es'
 tags: [  ]
 actualPrice: 39.89 EUR
 currency: EUR

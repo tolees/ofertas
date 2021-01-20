@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000P4IQN4-es Bosch X-Line Titanio - Maletín de 70 unidades para...'
+sku: 'B000P4IQN4-es'
 tags: [  ]
 actualPrice: 27.59 EUR
 currency: EUR

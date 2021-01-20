@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JVJRKZY-es Bionaire BTF001X-01 Ventilador de torre 40 W 10 litros Gris'
+sku: 'B00JVJRKZY-es'
 tags: [  ]
 actualPrice: 36.66 EUR
 currency: EUR

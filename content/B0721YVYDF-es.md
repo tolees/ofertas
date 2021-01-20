@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0721YVYDF-es TATAY Urban Food Roll & Go Bolsa Porta Alimentos...'
+sku: 'B0721YVYDF-es'
 tags: [  ]
 actualPrice: 6.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PCZZCB9-es Hoover SGE1000 Limpiador seco para tejidos Vapor húmedo...'
+sku: 'B07PCZZCB9-es'
 tags: [  ]
 actualPrice: 34.81 EUR
 currency: EUR

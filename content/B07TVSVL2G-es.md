@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVSVL2G-es Valentino by Mario - Doxy Shoppers y bolsos de hombro...'
+sku: 'B07TVSVL2G-es'
 tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR

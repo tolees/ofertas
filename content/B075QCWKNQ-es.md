@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075QCWKNQ-es Klarstein Winehouse Minibar - Vinoteca Nevera de bebidas y...'
+sku: 'B075QCWKNQ-es'
 tags: [  ]
 actualPrice: 119.99 EUR
 currency: EUR

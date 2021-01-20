@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F86CWFY-es adidas 3Mc Zapatillas de Skateboard Unisex Adulto Blanco...'
+sku: 'B07F86CWFY-es'
 tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CMW8QQC-es Barra de Sonido Bluetooth Estink 20W Altavoz de Inalámbric...'
+sku: 'B07CMW8QQC-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

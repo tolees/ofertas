@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MR16Z1S-es G-STAR Lynn Mid Skinny Wmn - frakto superstretch -...'
+sku: 'B00MR16Z1S-es'
 tags: [  ]
 actualPrice: 38.49 EUR
 currency: EUR

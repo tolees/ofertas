@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SX0TOOW-es Calvin Klein Modern Cotton Ropa Interior Gris Grey Heather...'
+sku: 'B00SX0TOOW-es'
 tags: [  ]
 actualPrice: 15.49 EUR
 currency: EUR

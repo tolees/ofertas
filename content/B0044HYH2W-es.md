@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0044HYH2W-es Elizabeth Arden Prevage Eye Ultra Protection Crema...'
+sku: 'B0044HYH2W-es'
 tags: [  ]
 actualPrice: 63.94 EUR
 currency: EUR

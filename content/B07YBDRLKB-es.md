@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YBDRLKB-es Cartera Pepe Jeans Fair Horizontal con Cierre de Clic Negra'
+sku: 'B07YBDRLKB-es'
 tags: [  ]
 actualPrice: 27.95 EUR
 currency: EUR

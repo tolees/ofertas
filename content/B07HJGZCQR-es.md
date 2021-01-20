@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HJGZCQR-es Pop! Stranger Things S2 - Figura de Vinilo Eleven Snowball...'
+sku: 'B07HJGZCQR-es'
 tags: [  ]
 actualPrice: 8.25 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CWFBD92-es Gifts Treat Sombrero de Gorra de béisbol para niñas...'
+sku: 'B07CWFBD92-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

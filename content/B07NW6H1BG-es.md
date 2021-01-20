@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NW6H1BG-es Skechers Outdoor Ultra Botas Altas para Mujer Marrón...'
+sku: 'B07NW6H1BG-es'
 tags: [  ]
 actualPrice: 38.97 EUR
 currency: EUR

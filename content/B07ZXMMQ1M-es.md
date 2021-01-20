@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZXMMQ1M-es IPOTCH Silicona Superior/Inferior Falsos Carillas...'
+sku: 'B07ZXMMQ1M-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

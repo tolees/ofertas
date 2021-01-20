@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B5TW5SJ-es LCTXDY El diseño ergonómico le Brinda la sensación más...'
+sku: 'B08B5TW5SJ-es'
 tags: [  ]
 actualPrice: 26.43 EUR
 currency: EUR

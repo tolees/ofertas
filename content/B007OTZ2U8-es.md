@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007OTZ2U8-es Sierra Reposado Tequila 70 cl - 700 ml'
+sku: 'B007OTZ2U8-es'
 tags: [  ]
 actualPrice: 10.73 EUR
 currency: EUR

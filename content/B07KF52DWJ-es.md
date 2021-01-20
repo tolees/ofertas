@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KF52DWJ-es Levi s 501 High Rise Short Pantalones Cortos Blanco In The...'
+sku: 'B07KF52DWJ-es'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

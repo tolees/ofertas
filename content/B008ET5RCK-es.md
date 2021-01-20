@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008ET5RCK-es Grohe Recambios - Recambio de Teleducha para grifos de...'
+sku: 'B008ET5RCK-es'
 tags: [  ]
 actualPrice: 64.3 EUR
 currency: EUR

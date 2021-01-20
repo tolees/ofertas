@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0768WL5DV-es Sombrero de invierno sombreros para mujeres y hombres...'
+sku: 'B0768WL5DV-es'
 tags: [  ]
 actualPrice: 2.99 EUR
 currency: EUR

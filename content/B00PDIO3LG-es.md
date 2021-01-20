@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PDIO3LG-es Mousehouse Gifts Caja de música Rosa para bebés Decorada...'
+sku: 'B00PDIO3LG-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

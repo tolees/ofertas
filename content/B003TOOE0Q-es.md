@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003TOOE0Q-es BRA Sartén para Crepes 26 cm aptas para todo tipo de...'
+sku: 'B003TOOE0Q-es'
 tags: [  ]
 actualPrice: 36.93 EUR
 currency: EUR

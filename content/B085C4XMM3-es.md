@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085C4XMM3-es Ai.Moichien Gran Esperanza Borlas Étnica Bohemia Dangle...'
+sku: 'B085C4XMM3-es'
 tags: [  ]
 actualPrice: 1.01 EUR
 currency: EUR

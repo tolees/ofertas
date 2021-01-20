@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QD2ND6F-es MTNG Attitude 84361 Zapatillas para Hombre Verde Pila Kaky...'
+sku: 'B07QD2ND6F-es'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

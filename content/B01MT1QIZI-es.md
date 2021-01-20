@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MT1QIZI-es Reebok Royal Cljog 2 Zapatillas de Trail Running Unisex...'
+sku: 'B01MT1QIZI-es'
 tags: [  ]
 actualPrice: 20.0 EUR
 currency: EUR

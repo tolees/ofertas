@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LGZGZNM-es BRIKSMAX Kit de Iluminación Led para Tren De Pasajeros De...'
+sku: 'B07LGZGZNM-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

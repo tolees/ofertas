@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZ8QBHS-es Skechers Women s Flex Appeal 3.0-INSIDERS Trainers Black...'
+sku: 'B07CZ8QBHS-es'
 tags: [  ]
 actualPrice: 32.35 EUR
 currency: EUR

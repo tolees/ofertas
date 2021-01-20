@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NCMUBBB-es HP 803181-071 - Teclado Estándar Alámbrico USB Interruptor...'
+sku: 'B01NCMUBBB-es'
 tags: [  ]
 actualPrice: 28.23 EUR
 currency: EUR

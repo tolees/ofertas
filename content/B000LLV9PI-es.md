@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000LLV9PI-es Joydivision Bioglide Lubricante Anal - 80 ml'
+sku: 'B000LLV9PI-es'
 tags: [  ]
 actualPrice: 6.56 EUR
 currency: EUR

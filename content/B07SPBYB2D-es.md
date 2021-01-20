@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SPBYB2D-es Teabelle Reloj Inteligente a Prueba de Agua Pantalla a...'
+sku: 'B07SPBYB2D-es'
 tags: [  ]
 actualPrice: 19.12 EUR
 currency: EUR

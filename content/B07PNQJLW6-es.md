@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PNQJLW6-es Victoria 1915 Doble Lona Zapatillas para Mujer Blanco...'
+sku: 'B07PNQJLW6-es'
 tags: [  ]
 actualPrice: 27.3 EUR
 currency: EUR

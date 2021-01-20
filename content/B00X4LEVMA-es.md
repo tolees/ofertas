@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X4LEVMA-es Adidas 3AA2297 Calcetines Unisex Blanco 43 - 46 EU Paquete...'
+sku: 'B00X4LEVMA-es'
 tags: [  ]
 actualPrice: 6.9 EUR
 currency: EUR

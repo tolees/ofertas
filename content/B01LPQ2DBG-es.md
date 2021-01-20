@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LPQ2DBG-es Babaria Vinagre Champú Protección Natural Cabello 600 ml 1...'
+sku: 'B01LPQ2DBG-es'
 tags: [  ]
 actualPrice: 1.99 EUR
 currency: EUR

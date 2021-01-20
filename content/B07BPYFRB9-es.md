@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BPYFRB9-es Colchoneta de Masaje Estera de Masaje de Yoga 4 Programas...'
+sku: 'B07BPYFRB9-es'
 tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR

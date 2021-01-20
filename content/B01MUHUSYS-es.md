@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MUHUSYS-es Tommy Hilfiger 3p Lr Trunk Calcetines Multicolor...'
+sku: 'B01MUHUSYS-es'
 tags: [  ]
 actualPrice: 30.05 EUR
 currency: EUR

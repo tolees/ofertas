@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078K5KPS2-es The North Face Hedgehog Hike II GTX Zapatillas de...'
+sku: 'B078K5KPS2-es'
 tags: [  ]
 actualPrice: 53.4 EUR
 currency: EUR

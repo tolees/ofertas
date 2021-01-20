@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C55TRP2-es LOVETEA Womens Open Mesh patrón de Bordado Entrepierna...'
+sku: 'B07C55TRP2-es'
 tags: [  ]
 actualPrice: 7.89 EUR
 currency: EUR

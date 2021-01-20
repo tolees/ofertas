@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BZBFG7W-es efluky Ventilador Portatil Mini Ventilador USB Ventilador...'
+sku: 'B07BZBFG7W-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

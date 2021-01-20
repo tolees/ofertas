@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MXSKVYC-es Reebok Club C 85 Zapatillas Hombre Negro Int / Black /...'
+sku: 'B01MXSKVYC-es'
 tags: [  ]
 actualPrice: 50.31 EUR
 currency: EUR

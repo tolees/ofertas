@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XJS1MWF-es Hot Mom - barandillas de la cama 150 cm para bebés...'
+sku: 'B06XJS1MWF-es'
 tags: [  ]
 actualPrice: 49.0 EUR
 currency: EUR

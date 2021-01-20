@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SVNZ5TT-es SD GAMES- Claim Color SDGCLAIM001'
+sku: 'B07SVNZ5TT-es'
 tags: [  ]
 actualPrice: 11.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BR8TMTD-es Péptidos Colágeno Marino de Peces Salvajes del Atlántico...'
+sku: 'B07BR8TMTD-es'
 tags: [  ]
 actualPrice: 13.95 EUR
 currency: EUR

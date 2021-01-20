@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FQMJ2GN-es FITTOO Pantalones De Yoga Sueltos Cintura Alta Mujer...'
+sku: 'B07FQMJ2GN-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

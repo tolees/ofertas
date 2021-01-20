@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002ZXWTQS-es Maped - Geometric 200 mm - Regla de plástico transparente'
+sku: 'B002ZXWTQS-es'
 tags: [  ]
 actualPrice: 0.62 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083HTR6YG-es K9CK Luces LED para Ideas Friends Central Perk 21319 Kit...'
+sku: 'B083HTR6YG-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

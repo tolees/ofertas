@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V42V6MS-es Valily Anillo Superman Plata Acero Inoxidable Joyería de...'
+sku: 'B07V42V6MS-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

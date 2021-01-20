@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CGPKNNL-es Reloj Deportivos para Niños Niño Niña Resistente al Agua...'
+sku: 'B07CGPKNNL-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

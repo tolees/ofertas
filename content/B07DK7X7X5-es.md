@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DK7X7X5-es AZDOME Cámara de Visión Trasera para Coche con 120° Ángulo...'
+sku: 'B07DK7X7X5-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JLXS0GW-es Levi s 512 Slim Taper Jeans Negro Nightshade X 0013 32W /...'
+sku: 'B01JLXS0GW-es'
 tags: [  ]
 actualPrice: 43.39 EUR
 currency: EUR

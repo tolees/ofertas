@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074HLXVDD-es Funko Pop!- 21804 NBA: Kevin Durant Multicolor'
+sku: 'B074HLXVDD-es'
 tags: [  ]
 actualPrice: 8.0 EUR
 currency: EUR

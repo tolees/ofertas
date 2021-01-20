@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YFCHJ2N-es incarpo Zapatillas Casa Mujer Lana de Coral Zapatillas de...'
+sku: 'B07YFCHJ2N-es'
 tags: [  ]
 actualPrice: 16.88 EUR
 currency: EUR

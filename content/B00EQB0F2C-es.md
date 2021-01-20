@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EQB0F2C-es Braun TS715 - Plancha ropa vapor 2300 W 140 gr/min golpe...'
+sku: 'B00EQB0F2C-es'
 tags: [  ]
 actualPrice: 44.17 EUR
 currency: EUR

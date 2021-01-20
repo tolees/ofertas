@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JOBCTN2-es Clarins Loción Corporal Hidratante con Aloe Vera 400 ml'
+sku: 'B00JOBCTN2-es'
 tags: [  ]
 actualPrice: 15.95 EUR
 currency: EUR

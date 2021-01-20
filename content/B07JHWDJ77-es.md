@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JHWDJ77-es Columbia Ivo Trail Zapatillas para Hombre Negro Black...'
+sku: 'B07JHWDJ77-es'
 tags: [  ]
 actualPrice: 65.88 EUR
 currency: EUR

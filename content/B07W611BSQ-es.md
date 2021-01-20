@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W611BSQ-es McNory Mini Ventilador USB Mini Fan Portátil 3000mah...'
+sku: 'B07W611BSQ-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

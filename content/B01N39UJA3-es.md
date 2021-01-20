@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N39UJA3-es Jakks Pacific Iconic - Manos -Disfraz'
+sku: 'B01N39UJA3-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089M6DG6M-es QacQoc Ventilador de Mano USB Mini Ventilador Portátil...'
+sku: 'B089M6DG6M-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0797JWTNG-es New Balance Fresh Foam Lazr Sport Zapatillas de Running...'
+sku: 'B0797JWTNG-es'
 tags: [  ]
 actualPrice: 33.46 EUR
 currency: EUR

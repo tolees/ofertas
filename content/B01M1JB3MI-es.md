@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M1JB3MI-es Foonii Pack de 4 Luces LED Sensores de Movimiento Sensor...'
+sku: 'B01M1JB3MI-es'
 tags: [  ]
 actualPrice: 15.26 EUR
 currency: EUR

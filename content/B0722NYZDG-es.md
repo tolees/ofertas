@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0722NYZDG-es Logitech M590 Silent Ratón Inalámbrico Multi-Dispositivos...'
+sku: 'B0722NYZDG-es'
 tags: [  ]
 actualPrice: 35.78 EUR
 currency: EUR

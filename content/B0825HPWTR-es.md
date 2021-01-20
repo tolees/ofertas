@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0825HPWTR-es San Ignacio MasterPro GRAN FORMATO-Grill 28x28 Wok 28 y...'
+sku: 'B0825HPWTR-es'
 tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR

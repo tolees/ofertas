@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07741VXTR-es Adidas Stan Smith Zapatillas de Deporte para Hombre Blanco...'
+sku: 'B07741VXTR-es'
 tags: [  ]
 actualPrice: 59.95 EUR
 currency: EUR

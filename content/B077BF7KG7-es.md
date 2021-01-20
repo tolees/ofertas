@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077BF7KG7-es Kodak Mini Shot - Impresiones Inalámbricas de 5 X 7.6 cm...'
+sku: 'B077BF7KG7-es'
 tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WZYXPY3-es Ballery Libros Blandos para Bebé no tóxicos Educación...'
+sku: 'B07WZYXPY3-es'
 tags: [  ]
 actualPrice: 11.29 EUR
 currency: EUR

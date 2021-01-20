@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W14F1ZN-es Pepe Jeans suéter Azul Pale Blue 506 Medium para Mujer'
+sku: 'B07W14F1ZN-es'
 tags: [  ]
 actualPrice: 21.74 EUR
 currency: EUR

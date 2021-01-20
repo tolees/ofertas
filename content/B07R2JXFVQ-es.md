@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R2JXFVQ-es Lámpara de escritorio inteligente iHaper DL1: lámpara de...'
+sku: 'B07R2JXFVQ-es'
 tags: [  ]
 actualPrice: 56.99 EUR
 currency: EUR

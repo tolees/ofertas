@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QZ5D7NR-es Asics Gel-Sonoma 4 Zapatillas de Running para Mujer Gris...'
+sku: 'B07QZ5D7NR-es'
 tags: [  ]
 actualPrice: 60.48 EUR
 currency: EUR

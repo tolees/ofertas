@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QTHKC4G-es HOMIEE Mochila para Portátil con Puerto de Carga...'
+sku: 'B07QTHKC4G-es'
 tags: [  ]
 actualPrice: 17.89 EUR
 currency: EUR

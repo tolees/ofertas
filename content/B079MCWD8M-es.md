@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079MCWD8M-es NECTARBAR Eco Bolsa para hacer LECHE VEGETAL - Algodón...'
+sku: 'B079MCWD8M-es'
 tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR

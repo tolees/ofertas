@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DJ27HKK-es Smart Sir 4 Pares de Calcetines para Hombre y Mujer...'
+sku: 'B08DJ27HKK-es'
 tags: [  ]
 actualPrice: 14.24 EUR
 currency: EUR

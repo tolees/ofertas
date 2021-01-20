@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088PJXXVC-es Doraemon Story Of Seasons'
+sku: 'B088PJXXVC-es'
 tags: [  ]
 actualPrice: 24.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NADO8R0-es Foto Transfer 75ML La Pajarita'
+sku: 'B00NADO8R0-es'
 tags: [  ]
 actualPrice: 3.05 EUR
 currency: EUR

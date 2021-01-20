@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DHXYB7P-es New Balance 997H Core Zapatillas para Hombre Negro...'
+sku: 'B07DHXYB7P-es'
 tags: [  ]
 actualPrice: 37.45 EUR
 currency: EUR

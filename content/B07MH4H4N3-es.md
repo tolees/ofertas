@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MH4H4N3-es UniqueMe [3 Pack] Protector de Pantalla para Huawei Honor...'
+sku: 'B07MH4H4N3-es'
 tags: [  ]
 actualPrice: 1.99 EUR
 currency: EUR

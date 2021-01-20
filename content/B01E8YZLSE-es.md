@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01E8YZLSE-es COMPRESSPORT R2 V2 Perneras Hombre Negro Tz'
+sku: 'B01E8YZLSE-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

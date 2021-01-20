@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076GWNDS5-es Oxímetro de Pulso Dedo Pulsioxímetro JUMPER para...'
+sku: 'B076GWNDS5-es'
 tags: [  ]
 actualPrice: 11.69 EUR
 currency: EUR

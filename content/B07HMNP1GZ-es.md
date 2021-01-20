@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HMNP1GZ-es Buff Tzom Gorra Pack Trek Unisex Adulto Stone Blue Talla...'
+sku: 'B07HMNP1GZ-es'
 tags: [  ]
 actualPrice: 11.98 EUR
 currency: EUR

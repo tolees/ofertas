@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RYM4PFS-es Mujer Bañador de Una Pieza Traje de Baño de Rayas Vintage...'
+sku: 'B07RYM4PFS-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

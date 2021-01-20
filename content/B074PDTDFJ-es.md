@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074PDTDFJ-es Grohe 27421002 Euphoria 260 - Sistema de ducha con...'
+sku: 'B074PDTDFJ-es'
 tags: [  ]
 actualPrice: 340.9 EUR
 currency: EUR

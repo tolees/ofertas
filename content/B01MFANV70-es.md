@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MFANV70-es Babymoov A012374 Doomoo Nid New Generation - Hamaca diseño...'
+sku: 'B01MFANV70-es'
 tags: [  ]
 actualPrice: 102 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088FHV36V-es LAYJOY Funda Samsung Galaxy A71 Ligera Silicona Carcasa...'
+sku: 'B088FHV36V-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

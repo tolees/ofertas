@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PT99H9H-es Traje de baño de Manga Larga para Mujer Traje de Surf con...'
+sku: 'B07PT99H9H-es'
 tags: [  ]
 actualPrice: 6.49 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XCXNLF8-es Baja: Edge Of Control'
+sku: 'B06XCXNLF8-es'
 tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR

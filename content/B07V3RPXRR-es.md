@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V3RPXRR-es Calvin Klein - Ck Bombe 5cc W/Coin Carteras Hombre Azul...'
+sku: 'B07V3RPXRR-es'
 tags: [  ]
 actualPrice: 29.5 EUR
 currency: EUR

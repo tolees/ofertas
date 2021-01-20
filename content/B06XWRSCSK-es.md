@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XWRSCSK-es Philips Avent SCF798/02 - Vaso con pajita flexible 300 ml...'
+sku: 'B06XWRSCSK-es'
 tags: [  ]
 actualPrice: 7.04 EUR
 currency: EUR

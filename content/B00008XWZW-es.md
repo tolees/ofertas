@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00008XWZW-es WMF Profi Plus Cuchara de Servir Acero Inoxidable Pulido'
+sku: 'B00008XWZW-es'
 tags: [  ]
 actualPrice: 15.35 EUR
 currency: EUR

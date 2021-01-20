@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L6JR67J-es CapitalSports Alatech CS010 Pulsómetro - Sensor de Pulso...'
+sku: 'B07L6JR67J-es'
 tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR

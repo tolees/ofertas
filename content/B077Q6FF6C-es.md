@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077Q6FF6C-es Luxtude Bateria Externa Movil iPhone 5000mAh Powerbank con...'
+sku: 'B077Q6FF6C-es'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

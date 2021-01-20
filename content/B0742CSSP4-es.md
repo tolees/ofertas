@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0742CSSP4-es MBSL-40 Subwoofer 40W BSL con Karaoke'
+sku: 'B0742CSSP4-es'
 tags: [  ]
 actualPrice: 41.28 EUR
 currency: EUR

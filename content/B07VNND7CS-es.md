@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VNND7CS-es Tommy Hilfiger Tjw Tommy Classics tee Ropa Deportiva de...'
+sku: 'B07VNND7CS-es'
 tags: [  ]
 actualPrice: 9.46 EUR
 currency: EUR

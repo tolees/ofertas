@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JHC6ZBX-es JACK & JONES Jfwvision Classic Chambray Anthraci Noos...'
+sku: 'B07JHC6ZBX-es'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

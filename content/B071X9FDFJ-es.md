@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071X9FDFJ-es Palette Intense Cream Coloration Intensive Coloración del...'
+sku: 'B071X9FDFJ-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XP737QP-es Naipo Silla de Masaje Plegable Ligera y Portátil para...'
+sku: 'B06XP737QP-es'
 tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR

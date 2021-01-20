@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075GT3VG3-es Pendrive 4GB 5 Piezas Memorias USB Portátil Rotatorio USB...'
+sku: 'B075GT3VG3-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

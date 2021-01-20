@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OQ84SAA-es Vaseline Essential Moisture Cocoa Radiant Lotion 200ml...'
+sku: 'B00OQ84SAA-es'
 tags: [  ]
 actualPrice: 7.78 EUR
 currency: EUR

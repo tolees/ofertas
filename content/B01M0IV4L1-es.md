@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M0IV4L1-es L Oreal Paris Casting Crème Gloss Tropical Spray Aclarado...'
+sku: 'B01M0IV4L1-es'
 tags: [  ]
 actualPrice: 4.75 EUR
 currency: EUR

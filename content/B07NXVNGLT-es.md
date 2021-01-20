@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NXVNGLT-es Skechers Solar Fuse Zapatillas para Hombre Negro Black...'
+sku: 'B07NXVNGLT-es'
 tags: [  ]
 actualPrice: 35.0 EUR
 currency: EUR

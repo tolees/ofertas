@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PG9KJH8-es One Piece - Figura de colección Nami versión B Bandai 85444'
+sku: 'B07PG9KJH8-es'
 tags: [  ]
 actualPrice: 25.0 EUR
 currency: EUR

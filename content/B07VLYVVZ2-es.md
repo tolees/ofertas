@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VLYVVZ2-es JACK & JONES Jcostanford Crew Neck Noos suéter Marrón...'
+sku: 'B07VLYVVZ2-es'
 tags: [  ]
 actualPrice: 16.06 EUR
 currency: EUR

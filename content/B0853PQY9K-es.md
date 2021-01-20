@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0853PQY9K-es Renberg Papelera con Pedal 3.0l Acero Inoxidable bodø...'
+sku: 'B0853PQY9K-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

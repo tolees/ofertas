@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPKGJVT-es KHOMO iPad Pro 11 Funda Dual Ultra Delgada y Ligera con...'
+sku: 'B07KPKGJVT-es'
 tags: [  ]
 actualPrice: 10.08 EUR
 currency: EUR

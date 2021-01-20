@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YGXXSJR-es Miquelrius - Agenda 2020'
+sku: 'B07YGXXSJR-es'
 tags: [  ]
 actualPrice: 3.55 EUR
 currency: EUR

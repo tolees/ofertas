@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EUZTRRI-es Seiko SRN049P1 Reloj de caballero'
+sku: 'B00EUZTRRI-es'
 tags: [  ]
 actualPrice: 172.29 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WJDRMWK-es Taurus VB 02 Ventilador climatizador nebulizador 90 W 0...'
+sku: 'B00WJDRMWK-es'
 tags: [  ]
 actualPrice: 129.0 EUR
 currency: EUR

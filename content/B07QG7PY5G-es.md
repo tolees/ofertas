@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QG7PY5G-es Sniper Elite 3 - Ultimate Edition'
+sku: 'B07QG7PY5G-es'
 tags: [  ]
 actualPrice: 26.24 EUR
 currency: EUR

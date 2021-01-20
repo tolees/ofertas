@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VS4KLRX-es bugatti 431846015550 Zapatillas para Mujer Amarillo Yellow...'
+sku: 'B07VS4KLRX-es'
 tags: [  ]
 actualPrice: 15.34 EUR
 currency: EUR

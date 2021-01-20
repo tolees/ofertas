@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082KRMVHL-es K9CK Juego de Luces para Lego Technic Land Rover Defender...'
+sku: 'B082KRMVHL-es'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

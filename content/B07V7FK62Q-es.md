@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V7FK62Q-es Diadora Olympia Zapatillas de Deporte para Hombre Blanco...'
+sku: 'B07V7FK62Q-es'
 tags: [  ]
 actualPrice: 32.76 EUR
 currency: EUR

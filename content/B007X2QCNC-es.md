@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007X2QCNC-es Samsonite Aeris Spinner L Maleta 75 cm 87.5 L Azul Vivid Blue'
+sku: 'B007X2QCNC-es'
 tags: [  ]
 actualPrice: 184.32 EUR
 currency: EUR

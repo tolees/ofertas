@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STW6DP5-es Lorjoyx Silicona Cono de Helado Molde en Forma de Cubos de...'
+sku: 'B07STW6DP5-es'
 tags: [  ]
 actualPrice: 2.22 EUR
 currency: EUR

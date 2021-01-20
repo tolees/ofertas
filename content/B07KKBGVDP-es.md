@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KKBGVDP-es SM Bondage kit sujeción piezas conjunto- Juguetes eróticos...'
+sku: 'B07KKBGVDP-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

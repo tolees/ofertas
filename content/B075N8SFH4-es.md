@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075N8SFH4-es ORANSSI Shorts de baño para hombre bañador de malla a rayas'
+sku: 'B075N8SFH4-es'
 tags: [  ]
 actualPrice: 16.42 EUR
 currency: EUR

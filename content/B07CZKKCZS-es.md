@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZKKCZS-es Under Armour Boxerjocks 15 cm Ropa Interior Elástica 3...'
+sku: 'B07CZKKCZS-es'
 tags: [  ]
 actualPrice: 20.49 EUR
 currency: EUR

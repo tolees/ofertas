@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01G77Y0UK-es KabelDirekt 1m Cable Micro USB USB 2.0 Conector USB A al...'
+sku: 'B01G77Y0UK-es'
 tags: [  ]
 actualPrice: 7.27 EUR
 currency: EUR

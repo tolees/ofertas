@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XNMZ9B9-es Garmin VivoSmart 3 - Monitor de actividad inteligente con...'
+sku: 'B06XNMZ9B9-es'
 tags: [  ]
 actualPrice: 31.25 EUR
 currency: EUR

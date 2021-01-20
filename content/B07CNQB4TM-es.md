@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CNQB4TM-es Paquete de 6 Piezas de Ropa Interior de Niña de Algodón de...'
+sku: 'B07CNQB4TM-es'
 tags: [  ]
 actualPrice: 11.98 EUR
 currency: EUR

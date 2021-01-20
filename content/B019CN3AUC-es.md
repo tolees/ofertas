@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019CN3AUC-es Invero anti-vibración Universal para habitaciones...'
+sku: 'B019CN3AUC-es'
 tags: [  ]
 actualPrice: 19.11 EUR
 currency: EUR

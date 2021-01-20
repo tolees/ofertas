@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZRDND9L-es zociko Electroestimulador Muscular Abdominales EMS...'
+sku: 'B07ZRDND9L-es'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

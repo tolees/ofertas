@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003XDU3I0-es Vans Herren Classic T-Shirt Weiß WHITE-BLACK YB2 Large'
+sku: 'B003XDU3I0-es'
 tags: [  ]
 actualPrice: 20.95 EUR
 currency: EUR

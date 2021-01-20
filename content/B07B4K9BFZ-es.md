@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B4K9BFZ-es Nixon Reloj Analógico para Unisex Adultos de Cuarzo con...'
+sku: 'B07B4K9BFZ-es'
 tags: [  ]
 actualPrice: 62.47 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WMS77FD-es SALOMON Side 25 Mochila de montañismo Espaciosa y práctica...'
+sku: 'B07WMS77FD-es'
 tags: [  ]
 actualPrice: 38.17 EUR
 currency: EUR

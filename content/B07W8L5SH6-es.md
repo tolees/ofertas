@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W8L5SH6-es MyHGRC - Mando a distancia para reproductor de DVD...'
+sku: 'B07W8L5SH6-es'
 tags: [  ]
 actualPrice: 11.24 EUR
 currency: EUR

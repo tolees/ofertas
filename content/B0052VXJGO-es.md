@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0052VXJGO-es Fackelmann Espumadera alambre de acero inoxidable. Color...'
+sku: 'B0052VXJGO-es'
 tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR

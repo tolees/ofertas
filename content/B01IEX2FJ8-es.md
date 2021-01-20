@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IEX2FJ8-es Calcetines de Compresión 1 par Rosa EU 35-38'
+sku: 'B01IEX2FJ8-es'
 tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0733LNXH3-es Wonder Woman [DVD]'
+sku: 'B0733LNXH3-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

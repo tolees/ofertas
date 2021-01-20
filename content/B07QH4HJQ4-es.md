@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QH4HJQ4-es LAYJOY Funda Xiaomi Redmi Note 6 Pro Ligera Carcasa...'
+sku: 'B07QH4HJQ4-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

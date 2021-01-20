@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1JX2LZ-es Clarks Tri Abby Zapatillas para Mujer Negro Black Black 42 EU'
+sku: 'B07N1JX2LZ-es'
 tags: [  ]
 actualPrice: 55.08 EUR
 currency: EUR

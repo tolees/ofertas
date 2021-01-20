@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004TZX5G8-es Nike Air Monarch IV Zapatillas de Gimnasia para Hombre...'
+sku: 'B004TZX5G8-es'
 tags: [  ]
 actualPrice: 27.5 EUR
 currency: EUR

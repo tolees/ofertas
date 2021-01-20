@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NSJDCFZ-es Kipling Supertaboo Light - Bolsa de Deporte Infantil 44 cm...'
+sku: 'B07NSJDCFZ-es'
 tags: [  ]
 actualPrice: 12.24 EUR
 currency: EUR

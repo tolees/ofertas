@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BNGS7PP-es Feagar Lima Pies para quitar Dureza y Callo Duro Kit...'
+sku: 'B08BNGS7PP-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083FVC4ZZ-es MUEBLES MARIETA OLD STYLE NOW Sofa Beverly 5 plazas Dark...'
+sku: 'B083FVC4ZZ-es'
 tags: [  ]
 actualPrice: 492.0 EUR
 currency: EUR

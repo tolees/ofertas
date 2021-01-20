@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TF9MJFX-es Skechers Melson Raymon Zapatillas para Hombre Verde Khaki...'
+sku: 'B07TF9MJFX-es'
 tags: [  ]
 actualPrice: 39.1 EUR
 currency: EUR

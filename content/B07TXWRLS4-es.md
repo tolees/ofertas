@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXWRLS4-es Kipling Creativity S Cartera para Mujer Negro Charcoal...'
+sku: 'B07TXWRLS4-es'
 tags: [  ]
 actualPrice: 10.35 EUR
 currency: EUR

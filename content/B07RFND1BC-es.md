@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RFND1BC-es Helly Hansen Copenhagen Slip-on Zapatillas sin Cordones...'
+sku: 'B07RFND1BC-es'
 tags: [  ]
 actualPrice: 37.14 EUR
 currency: EUR

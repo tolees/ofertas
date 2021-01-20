@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018JT5FSU-es Levi s Levis 200SF Brief 2P Calzoncillos para Hombre Negro...'
+sku: 'B018JT5FSU-es'
 tags: [  ]
 actualPrice: 12.6 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FM6SKMG-es Mesa para Niños en la Asiento de Coche lenbest Bandeja de...'
+sku: 'B07FM6SKMG-es'
 tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR

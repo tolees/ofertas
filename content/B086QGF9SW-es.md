@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086QGF9SW-es Suhctup Funda Compatible con Huawei Honor 9i Carcasa...'
+sku: 'B086QGF9SW-es'
 tags: [  ]
 actualPrice: 8.98 EUR
 currency: EUR

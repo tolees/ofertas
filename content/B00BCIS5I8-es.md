@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BCIS5I8-es Belkin MIXIT - Cable de Lightning a USB con certificación...'
+sku: 'B00BCIS5I8-es'
 tags: [  ]
 actualPrice: 12.18 EUR
 currency: EUR

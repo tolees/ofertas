@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z3GR9J7-es Awroutdoor Calentador de Mano Recargable 7800mAH...'
+sku: 'B07Z3GR9J7-es'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

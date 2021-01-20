@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P3K3XJF-es Superdry Core Sport Graphic tee Top de Deporte Negro Black...'
+sku: 'B07P3K3XJF-es'
 tags: [  ]
 actualPrice: 19.53 EUR
 currency: EUR

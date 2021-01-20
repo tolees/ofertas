@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002WGHYX6-es Superga 2750 COTU Classic Zapatillas Unisex Rojo Red 975...'
+sku: 'B002WGHYX6-es'
 tags: [  ]
 actualPrice: 35.4 EUR
 currency: EUR

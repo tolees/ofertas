@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079PQ7TQS-es Funko Pop- Pop Marvel: Avengers: Infinity War-Captain...'
+sku: 'B079PQ7TQS-es'
 tags: [  ]
 actualPrice: 8.0 EUR
 currency: EUR

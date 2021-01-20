@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S2RZMLV-es Rowenta Depiladora WET & DRY ELITE EP8002F0 - Sin cable y...'
+sku: 'B07S2RZMLV-es'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

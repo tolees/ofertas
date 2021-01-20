@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SK24J9F-es NUTRE COLOR NIRVEL MORADO 200 ml.'
+sku: 'B07SK24J9F-es'
 tags: [  ]
 actualPrice: 4.25 EUR
 currency: EUR

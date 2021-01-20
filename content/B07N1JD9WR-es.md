@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1JD9WR-es Clarks Sharon Gracie Mocasines para Mujer Plateado...'
+sku: 'B07N1JD9WR-es'
 tags: [  ]
 actualPrice: 25.26 EUR
 currency: EUR

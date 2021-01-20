@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075D3JNKH-es Naipo Respaldo de Masaje Pro Shiatsu Asiento Masajeador...'
+sku: 'B075D3JNKH-es'
 tags: [  ]
 actualPrice: 101.99 EUR
 currency: EUR

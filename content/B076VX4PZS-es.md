@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076VX4PZS-es Vans Ward Canvas Zapatillas para Hombre Gris Pewter/White...'
+sku: 'B076VX4PZS-es'
 tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR

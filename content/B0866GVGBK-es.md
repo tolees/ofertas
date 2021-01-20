@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0866GVGBK-es GHONLZIN Ventilador Sin Cuchilla USB Portátil 2020 Nuevo...'
+sku: 'B0866GVGBK-es'
 tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR

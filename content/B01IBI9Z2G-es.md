@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IBI9Z2G-es JACK & JONES JJIPAUL JJLEATHER BELT NOOS Cinturón Hombre...'
+sku: 'B01IBI9Z2G-es'
 tags: [  ]
 actualPrice: 14.0 EUR
 currency: EUR

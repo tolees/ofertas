@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071RBYD5K-es Saint Seiya Hade Inferno Eliseos Blu-Ray [Blu-ray]'
+sku: 'B071RBYD5K-es'
 tags: [  ]
 actualPrice: 18.68 EUR
 currency: EUR

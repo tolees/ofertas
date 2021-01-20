@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089ZT7GMF-es Altavoz Bluetooth portátil con Luz de 5 Modos Recargable...'
+sku: 'B089ZT7GMF-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

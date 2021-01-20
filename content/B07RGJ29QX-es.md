@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RGJ29QX-es Monix Siena Set de 75 Piezas de Acero Inoxidable con...'
+sku: 'B07RGJ29QX-es'
 tags: [  ]
 actualPrice: 112.99 EUR
 currency: EUR

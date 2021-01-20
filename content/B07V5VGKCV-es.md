@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V5VGKCV-es Tommy Hilfiger - Poppy Lrg Za Solid Carteras Mujer Rojo...'
+sku: 'B07V5VGKCV-es'
 tags: [  ]
 actualPrice: 34.9 EUR
 currency: EUR

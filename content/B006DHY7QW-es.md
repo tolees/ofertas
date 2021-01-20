@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006DHY7QW-es febi bilstein 31974 Culatas'
+sku: 'B006DHY7QW-es'
 tags: [  ]
 actualPrice: 14.64 EUR
 currency: EUR

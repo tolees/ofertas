@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QWYK966-es Asics Jolt 2 GS Zapatillas de Running Unisex Niños Gris...'
+sku: 'B07QWYK966-es'
 tags: [  ]
 actualPrice: 23.95 EUR
 currency: EUR

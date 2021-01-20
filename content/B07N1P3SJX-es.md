@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1P3SJX-es AH Kalkaire - Blanqueamiento dental - Carbón activo de...'
+sku: 'B07N1P3SJX-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

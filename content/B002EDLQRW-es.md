@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002EDLQRW-es HP CE255A 55A Cartucho de Tóner Original 1 unidad negro'
+sku: 'B002EDLQRW-es'
 tags: [  ]
 actualPrice: 139.99 EUR
 currency: EUR

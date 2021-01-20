@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VFWVBWV-es Pepe Jeans Klein Archive Summer M Zapatillas para Hombre...'
+sku: 'B07VFWVBWV-es'
 tags: [  ]
 actualPrice: 54.05 EUR
 currency: EUR

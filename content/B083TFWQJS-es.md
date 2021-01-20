@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083TFWQJS-es INTEY Ahuyentador de Animales 2 Piezas Ultrasonido...'
+sku: 'B083TFWQJS-es'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

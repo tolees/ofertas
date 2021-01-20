@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9HZXM8-es Under Armour Qualifier Camo Half Zip Parte Superior del...'
+sku: 'B07L9HZXM8-es'
 tags: [  ]
 actualPrice: 41.52 EUR
 currency: EUR

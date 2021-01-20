@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y32JCLZ-es Arvok 15 6 Pulgadas Funda Protectora para...'
+sku: 'B06Y32JCLZ-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

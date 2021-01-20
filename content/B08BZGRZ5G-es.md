@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BZGRZ5G-es FSXMPL Pintar por NúMeros para Adultos NiñOs Bricolaje...'
+sku: 'B08BZGRZ5G-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

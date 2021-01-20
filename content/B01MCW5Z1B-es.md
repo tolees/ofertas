@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MCW5Z1B-es ECO-WORTHY 3.5 G 220 V Generador De Ozono Industriales -...'
+sku: 'B01MCW5Z1B-es'
 tags: [  ]
 actualPrice: 0.11 EUR
 currency: EUR

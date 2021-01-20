@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MUAI9XV-es Diesel UMBX-SHAWNTHREEPACK Calzoncillo para Hombre...'
+sku: 'B01MUAI9XV-es'
 tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR

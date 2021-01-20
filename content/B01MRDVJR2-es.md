@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MRDVJR2-es i-Buy Funda de Cuero Microfibra PU Resistente al Agua para...'
+sku: 'B01MRDVJR2-es'
 tags: [  ]
 actualPrice: 10.24 EUR
 currency: EUR

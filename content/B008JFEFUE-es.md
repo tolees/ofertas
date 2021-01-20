@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008JFEFUE-es Salomon TRAIL GAITERS LOW Polainas'
+sku: 'B008JFEFUE-es'
 tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR

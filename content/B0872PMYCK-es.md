@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0872PMYCK-es Funda Transparente Compatible para Huawei P Smart 2019...'
+sku: 'B0872PMYCK-es'
 tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CJRKGS8-es Asmodee- Raxxon - español Color PHRA0001'
+sku: 'B07CJRKGS8-es'
 tags: [  ]
 actualPrice: 29.8 EUR
 currency: EUR

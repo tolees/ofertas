@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TPVY37C-es Slay the Spire'
+sku: 'B07TPVY37C-es'
 tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR

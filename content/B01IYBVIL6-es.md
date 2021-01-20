@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IYBVIL6-es Carolina Herrera Good Girl Eau de Parfum Spray 80 ml'
+sku: 'B01IYBVIL6-es'
 tags: [  ]
 actualPrice: 75.91 EUR
 currency: EUR

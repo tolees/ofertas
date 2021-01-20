@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VFCZWVG-es YAMAMAY® Bañador de Cintura Media para Mujer – Swift'
+sku: 'B07VFCZWVG-es'
 tags: [  ]
 actualPrice: 8.48 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0757T6WHC-es 226ERS Salts Electrolytes Sales Minerales Electrolitos -...'
+sku: 'B0757T6WHC-es'
 tags: [  ]
 actualPrice: 22.5 EUR
 currency: EUR

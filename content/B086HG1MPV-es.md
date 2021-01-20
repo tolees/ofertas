@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086HG1MPV-es Docooler Pulsera Inteligente Termómetro Medición de la...'
+sku: 'B086HG1MPV-es'
 tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR

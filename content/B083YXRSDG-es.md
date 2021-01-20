@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083YXRSDG-es GTIWUNG 36 Piezas Juego de Herramientas de extracción de...'
+sku: 'B083YXRSDG-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZPVF7S-es Pepe Jeans Linn Pantalones Multi 0aa 36 Talla del...'
+sku: 'B07MZPVF7S-es'
 tags: [  ]
 actualPrice: 37.49 EUR
 currency: EUR

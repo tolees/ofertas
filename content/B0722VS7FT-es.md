@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0722VS7FT-es Cuchillo japonés Cuchillo sushi pro Cuchillo Santoku 17cm...'
+sku: 'B0722VS7FT-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

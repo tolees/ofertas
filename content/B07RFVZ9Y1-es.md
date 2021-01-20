@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RFVZ9Y1-es New Balance 574v2 Zapatillas para Mujer Azul Blue Sos 39 EU'
+sku: 'B07RFVZ9Y1-es'
 tags: [  ]
 actualPrice: 53.07 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00H8PT55G-es Dickies New York Short Pantalones Cortos de Deporte Hombre...'
+sku: 'B00H8PT55G-es'
 tags: [  ]
 actualPrice: 22.43 EUR
 currency: EUR

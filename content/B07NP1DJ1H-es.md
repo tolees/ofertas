@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NP1DJ1H-es Samsung Monitor U32R590C | Monitor Curvo 32 4K sin marcos...'
+sku: 'B07NP1DJ1H-es'
 tags: [  ]
 actualPrice: 336.45 EUR
 currency: EUR

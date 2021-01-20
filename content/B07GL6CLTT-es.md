@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GL6CLTT-es HyperX Predator HX432C16PB3AK2/16 Memoria 3200MHz DDR4...'
+sku: 'B07GL6CLTT-es'
 tags: [  ]
 actualPrice: 97.63 EUR
 currency: EUR

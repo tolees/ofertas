@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1G3FKZ-es Days Gone - Edición Especial'
+sku: 'B07N1G3FKZ-es'
 tags: [  ]
 actualPrice: 25.0 EUR
 currency: EUR

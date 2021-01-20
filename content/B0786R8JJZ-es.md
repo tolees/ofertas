@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0786R8JJZ-es PUMA Liga Training Shorts W Chándal Mujer Negro...'
+sku: 'B0786R8JJZ-es'
 tags: [  ]
 actualPrice: 8.94 EUR
 currency: EUR

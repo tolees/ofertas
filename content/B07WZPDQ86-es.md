@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WZPDQ86-es Eastpak Springer Riñonera 23 cm 2 L Azul Nep Gulf'
+sku: 'B07WZPDQ86-es'
 tags: [  ]
 actualPrice: 16.0 EUR
 currency: EUR

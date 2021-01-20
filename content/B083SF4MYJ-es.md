@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083SF4MYJ-es Funda Universal para Tableta portátil Funda Ultra Suave...'
+sku: 'B083SF4MYJ-es'
 tags: [  ]
 actualPrice: 1.78 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RMDNLH-es Columbia SANTIAM 2 Strap Zapatillas para Hombre Gris Dark...'
+sku: 'B073RMDNLH-es'
 tags: [  ]
 actualPrice: 47.99 EUR
 currency: EUR

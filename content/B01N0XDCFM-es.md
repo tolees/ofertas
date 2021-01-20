@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N0XDCFM-es PDP Pixel Pals Luigi - #4 Figuras coleccionables Adultos -...'
+sku: 'B01N0XDCFM-es'
 tags: [  ]
 actualPrice: 8.5 EUR
 currency: EUR

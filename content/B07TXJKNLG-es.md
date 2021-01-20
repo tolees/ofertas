@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXJKNLG-es GOAMZ Mini Ventilador Micro USB de Cuello Portatil Mano...'
+sku: 'B07TXJKNLG-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

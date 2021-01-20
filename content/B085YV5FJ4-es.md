@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085YV5FJ4-es Death Stranding Código Digital'
+sku: 'B085YV5FJ4-es'
 tags: [  ]
 actualPrice: 45.37 EUR
 currency: EUR

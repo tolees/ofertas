@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NRFGFTY-es Fa - Desodorante Roll-On Sport - Anti Transpirable y...'
+sku: 'B07NRFGFTY-es'
 tags: [  ]
 actualPrice: 3.0 EUR
 currency: EUR

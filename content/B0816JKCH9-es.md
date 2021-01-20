@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0816JKCH9-es QHOHQ Funda para Xiaomi Redmi Note 8T Cases Silicona Slim...'
+sku: 'B0816JKCH9-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

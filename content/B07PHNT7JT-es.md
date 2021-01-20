@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PHNT7JT-es ARCTIC Alpine AM4 Series - Procesador Enfriador Ventilador...'
+sku: 'B07PHNT7JT-es'
 tags: [  ]
 actualPrice: 8.48 EUR
 currency: EUR

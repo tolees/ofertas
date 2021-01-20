@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JH16KPK-es Maca Peruana Extracto Concentrado 4000 mg | 120 cápsulas...'
+sku: 'B07JH16KPK-es'
 tags: [  ]
 actualPrice: 12.62 EUR
 currency: EUR

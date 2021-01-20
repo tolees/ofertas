@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F2P4ZLB-es Amazon Essentials – Pantalones cargo elásticos de corte...'
+sku: 'B07F2P4ZLB-es'
 tags: [  ]
 actualPrice: 10.39 EUR
 currency: EUR

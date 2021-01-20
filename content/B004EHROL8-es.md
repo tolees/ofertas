@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004EHROL8-es Orlane Corps Cuidado de Raffermissant Corps & Buste 250 ml'
+sku: 'B004EHROL8-es'
 tags: [  ]
 actualPrice: 36.7 EUR
 currency: EUR

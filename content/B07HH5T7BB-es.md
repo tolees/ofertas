@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HH5T7BB-es AmazonBasics – Auriculares de botón con micrófono Rosa'
+sku: 'B07HH5T7BB-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

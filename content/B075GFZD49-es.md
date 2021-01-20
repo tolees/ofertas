@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075GFZD49-es Triumph Body Make-up Essent WHU Sujetador Marrón Coffee...'
+sku: 'B075GFZD49-es'
 tags: [  ]
 actualPrice: 23.95 EUR
 currency: EUR

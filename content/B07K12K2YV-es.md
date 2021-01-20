@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K12K2YV-es adidas Deerupt Runner C Zapatillas de Gimnasia Unisex...'
+sku: 'B07K12K2YV-es'
 tags: [  ]
 actualPrice: 16.39 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DG4V8CH-es SUNNSEAN Banda para la Cabeza Diadema con Botones Color...'
+sku: 'B08DG4V8CH-es'
 tags: [  ]
 actualPrice: 7.49 EUR
 currency: EUR

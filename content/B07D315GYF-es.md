@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D315GYF-es B Blesiya Trompetas Cornetas Válvula Deslice El Anillo De...'
+sku: 'B07D315GYF-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

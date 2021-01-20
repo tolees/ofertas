@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WN2DKC6-es Cocoda Linterna Frontal LED USB Recargable Linterna Cabeza...'
+sku: 'B07WN2DKC6-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

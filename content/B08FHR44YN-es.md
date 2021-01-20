@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FHR44YN-es WERNNSAI Azul Mar Sirena Cortina de la Ducha con Ganchos...'
+sku: 'B08FHR44YN-es'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

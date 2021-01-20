@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BHAHBEA-es Educa Borrás Mouse Infantil Baby Minnie 5 Puzzles...'
+sku: 'B00BHAHBEA-es'
 tags: [  ]
 actualPrice: 7.49 EUR
 currency: EUR

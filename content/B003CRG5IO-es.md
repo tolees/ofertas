@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003CRG5IO-es Wolfcraft 4868000 4868000-1 Cascos Anti-Ruido Standard SNR...'
+sku: 'B003CRG5IO-es'
 tags: [  ]
 actualPrice: 6.11 EUR
 currency: EUR

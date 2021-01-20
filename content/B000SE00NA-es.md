@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000SE00NA-es Trixie Cuerda de Juego con Bola ø5.5 cm 30 cm'
+sku: 'B000SE00NA-es'
 tags: [  ]
 actualPrice: 1.62 EUR
 currency: EUR

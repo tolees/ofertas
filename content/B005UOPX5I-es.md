@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005UOPX5I-es Berghoff Set de Pasta 20 Piezas'
+sku: 'B005UOPX5I-es'
 tags: [  ]
 actualPrice: 18.16 EUR
 currency: EUR

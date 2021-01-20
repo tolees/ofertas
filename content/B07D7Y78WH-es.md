@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D7Y78WH-es Topmo-plus 12w lámpara de pared LED impermeable IP65...'
+sku: 'B07D7Y78WH-es'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

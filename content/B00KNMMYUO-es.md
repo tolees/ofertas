@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KNMMYUO-es Onitsuka Tiger Mexico 66 Zapatillas Unisex Blanco...'
+sku: 'B00KNMMYUO-es'
 tags: [  ]
 actualPrice: 57.6 EUR
 currency: EUR

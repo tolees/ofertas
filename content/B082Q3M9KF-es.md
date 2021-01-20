@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082Q3M9KF-es Janhe Sheer Classic Videogames Pattern Headpiece Chiffon...'
+sku: 'B082Q3M9KF-es'
 tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR

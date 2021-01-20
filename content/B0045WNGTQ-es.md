@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0045WNGTQ-es Calvados Boulard Calvados Pays d Auge XO mit...'
+sku: 'B0045WNGTQ-es'
 tags: [  ]
 actualPrice: 25.69 EUR
 currency: EUR

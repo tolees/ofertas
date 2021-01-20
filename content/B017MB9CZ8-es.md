@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017MB9CZ8-es Lonsdale - Pantalones de boxeo para hombre gris XXXL'
+sku: 'B017MB9CZ8-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

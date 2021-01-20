@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075ZQ5PLR-es Mujer Pantalones Largos deportivos SMARTLADY Patrón de...'
+sku: 'B075ZQ5PLR-es'
 tags: [  ]
 actualPrice: 2.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01E995LQA-es Joma Drive Bermuda Deporte Hombre Blanco M'
+sku: 'B01E995LQA-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

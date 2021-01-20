@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0868NVSJF-es Suhctup Transparente Funda Compatible con Samsung Galaxy...'
+sku: 'B0868NVSJF-es'
 tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR

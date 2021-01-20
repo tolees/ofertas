@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009HO1G5S-es Superga Classic Zapatillas para Hombre Gris Mushroom C26...'
+sku: 'B009HO1G5S-es'
 tags: [  ]
 actualPrice: 38.61 EUR
 currency: EUR

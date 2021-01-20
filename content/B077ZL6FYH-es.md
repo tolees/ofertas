@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077ZL6FYH-es Kärcher Aspirador Multiuso Wd 3 Baterías Premium 67 W 17...'
+sku: 'B077ZL6FYH-es'
 tags: [  ]
 actualPrice: 58.7 EUR
 currency: EUR

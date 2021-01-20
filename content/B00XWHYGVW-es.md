@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XWHYGVW-es T-EQUIP PSC-130MSRT - Carro de armario utilitario de...'
+sku: 'B00XWHYGVW-es'
 tags: [  ]
 actualPrice: 94.9 EUR
 currency: EUR

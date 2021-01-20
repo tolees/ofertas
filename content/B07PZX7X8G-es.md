@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PZX7X8G-es MOCOCITO Calcetines Cortos Hombre Mujer Calcetines...'
+sku: 'B07PZX7X8G-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

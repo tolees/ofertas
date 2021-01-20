@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QH1Q6WL-es Hakeeta Mini USB portátil Barra de Sonido con Cable...'
+sku: 'B07QH1Q6WL-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

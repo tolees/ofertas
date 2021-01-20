@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJ5KX23-es Correas para Xiaomi Mi Band 4 Mi Band 3 Correa Pulsera...'
+sku: 'B07TJ5KX23-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

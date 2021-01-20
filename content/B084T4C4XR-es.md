@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084T4C4XR-es Baoblaze Gran Pincel De Escritura Acuarela Pincel De...'
+sku: 'B084T4C4XR-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

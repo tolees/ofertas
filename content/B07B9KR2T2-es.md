@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B9KR2T2-es ORYX Classic Mango Cafetera 9 y 12 Tazas Negro 9x9x3 cm'
+sku: 'B07B9KR2T2-es'
 tags: [  ]
 actualPrice: 1.1 EUR
 currency: EUR

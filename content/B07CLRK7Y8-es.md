@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CLRK7Y8-es OMRON VIVA - Báscula inteligente y monitor de composición...'
+sku: 'B07CLRK7Y8-es'
 tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR

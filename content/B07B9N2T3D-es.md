@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B9N2T3D-es LG XBOOM CK43 - Equipo de Sonido de Alta Potencia Potencia...'
+sku: 'B07B9N2T3D-es'
 tags: [  ]
 actualPrice: 133.0 EUR
 currency: EUR

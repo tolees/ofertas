@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005IZX04A-es Blanton Bourbon Original Whiskey 1 x 0 7 l'
+sku: 'B005IZX04A-es'
 tags: [  ]
 actualPrice: 50.95 EUR
 currency: EUR

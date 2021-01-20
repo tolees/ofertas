@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079M59MSH-es American Tourister - Soundbox Spinner 55/20 Expansible 35...'
+sku: 'B079M59MSH-es'
 tags: [  ]
 actualPrice: 97.3 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XYHJXRM-es Montse Interiors Juego de sábanas Estampado Colores Piezas...'
+sku: 'B06XYHJXRM-es'
 tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BY61ATO-es Panasonic KX-TG7851 - Teléfono fijo inalámbrico LCD de...'
+sku: 'B00BY61ATO-es'
 tags: [  ]
 actualPrice: 29.39 EUR
 currency: EUR

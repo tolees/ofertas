@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L93BFCH-es Sharplace Unidad de Disquete SSD USB Tornillos Externa...'
+sku: 'B07L93BFCH-es'
 tags: [  ]
 actualPrice: 20.93 EUR
 currency: EUR

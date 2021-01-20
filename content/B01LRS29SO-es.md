@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LRS29SO-es Bébé Confort MILOFIX - Silla de auto de 0 a 4 años R44/04...'
+sku: 'B01LRS29SO-es'
 tags: [  ]
 actualPrice: 175.56 EUR
 currency: EUR

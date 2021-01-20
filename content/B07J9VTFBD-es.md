@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J9VTFBD-es Lsnisni aspirador robótico Aspiradora automatica con un...'
+sku: 'B07J9VTFBD-es'
 tags: [  ]
 actualPrice: 98.88 EUR
 currency: EUR

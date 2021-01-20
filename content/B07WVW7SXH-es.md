@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WVW7SXH-es Luchild Dispensador de Leche en Polvo Fórmula Portátil...'
+sku: 'B07WVW7SXH-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

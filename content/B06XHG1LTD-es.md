@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XHG1LTD-es Helly Hansen W HH LIFA Crew LS Baselayer Mujer Negro Black...'
+sku: 'B06XHG1LTD-es'
 tags: [  ]
 actualPrice: 23.95 EUR
 currency: EUR

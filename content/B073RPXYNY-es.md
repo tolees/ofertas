@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RPXYNY-es Helly Hansen Classic Duffel Bag Bolsa Deportiva versátil y...'
+sku: 'B073RPXYNY-es'
 tags: [  ]
 actualPrice: 41.71 EUR
 currency: EUR

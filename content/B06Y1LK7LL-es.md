@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y1LK7LL-es Soporte de aluminio universal Zice para proyector para...'
+sku: 'B06Y1LK7LL-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

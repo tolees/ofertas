@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088FFKT47-es Goodde Convertidor Captura Vídeo USB Video Capture Card...'
+sku: 'B088FFKT47-es'
 tags: [  ]
 actualPrice: 6.44 EUR
 currency: EUR

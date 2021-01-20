@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08832WPMM-es Lector de Tarjetas de Memoria Secure Digital USB Micro USB...'
+sku: 'B08832WPMM-es'
 tags: [  ]
 actualPrice: 11.43 EUR
 currency: EUR

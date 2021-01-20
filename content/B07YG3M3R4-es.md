@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YG3M3R4-es Videocámara Videocamara Full HD 18X Zoom Digital Camara de...'
+sku: 'B07YG3M3R4-es'
 tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005OVT0RY-es BERING Reloj Analógico para Hombre de Cuarzo con Correa en...'
+sku: 'B005OVT0RY-es'
 tags: [  ]
 actualPrice: 127.91 EUR
 currency: EUR

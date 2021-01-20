@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZC7SGYS-es Scholl Plantilla In-Balance para el alivio del dolor de...'
+sku: 'B07ZC7SGYS-es'
 tags: [  ]
 actualPrice: 14.54 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H5X7VHK-es Skechers Flex Appeal 3.0 Zapatillas para Mujer Negro Black...'
+sku: 'B07H5X7VHK-es'
 tags: [  ]
 actualPrice: 48.9 EUR
 currency: EUR

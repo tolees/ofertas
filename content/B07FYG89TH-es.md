@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FYG89TH-es Bandolera para portátil Pepe Jeans Bromley Verde'
+sku: 'B07FYG89TH-es'
 tags: [  ]
 actualPrice: 28.0 EUR
 currency: EUR

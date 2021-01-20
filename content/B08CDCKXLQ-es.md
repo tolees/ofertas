@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CDCKXLQ-es qingqingR Condones más vendidos Condón lubricado de látex...'
+sku: 'B08CDCKXLQ-es'
 tags: [  ]
 actualPrice: 5.34 EUR
 currency: EUR

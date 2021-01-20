@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R1YRQP4-es Under Armour Men s Train Spacer Mesh Gorra Hombre Gris L/XL'
+sku: 'B07R1YRQP4-es'
 tags: [  ]
 actualPrice: 12.97 EUR
 currency: EUR

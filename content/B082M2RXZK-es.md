@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082M2RXZK-es Aigital Transmisor Receptor Bluetooth 5.0 2 en 1 Adaptador...'
+sku: 'B082M2RXZK-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003RX1FBA-es Vans Atwood Canvas Zapatillas para Hombre Negro Black 186...'
+sku: 'B003RX1FBA-es'
 tags: [  ]
 actualPrice: 30.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q49KDXH-es Selighting Bolsa Tactica Grande Funda Móvil MOLLE Táctico...'
+sku: 'B07Q49KDXH-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

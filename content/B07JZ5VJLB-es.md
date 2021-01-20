@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JZ5VJLB-es adidas Altasport CF K Zapatillas de Deporte Unisex Niños...'
+sku: 'B07JZ5VJLB-es'
 tags: [  ]
 actualPrice: 11.91 EUR
 currency: EUR

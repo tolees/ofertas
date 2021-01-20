@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HQ147VJ-es Funko Pop!- Colección Vinilo Fortnite Black Knight...'
+sku: 'B07HQ147VJ-es'
 tags: [  ]
 actualPrice: 9.46 EUR
 currency: EUR

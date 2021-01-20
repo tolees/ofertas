@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TKSMN8H-es Clarks Sift Lace Zapatillas para Mujer Gris Grey Snake...'
+sku: 'B07TKSMN8H-es'
 tags: [  ]
 actualPrice: 35.13 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GVFDPFE-es Optoma HEM2 - Auriculares Alámbrico Dentro de oído...'
+sku: 'B01GVFDPFE-es'
 tags: [  ]
 actualPrice: 129.0 EUR
 currency: EUR

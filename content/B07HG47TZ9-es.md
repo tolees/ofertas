@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HG47TZ9-es New Balance 373 Zapatillas Hombre Gris Grey Grey 45.5 EU'
+sku: 'B07HG47TZ9-es'
 tags: [  ]
 actualPrice: 59.5 EUR
 currency: EUR

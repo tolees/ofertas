@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CPF7MX8-es Cincuenta Sombras De Grey - Películas 1-3 [Blu-ray]'
+sku: 'B07CPF7MX8-es'
 tags: [  ]
 actualPrice: 24.9 EUR
 currency: EUR

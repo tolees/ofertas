@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V5JQQH7-es QUIZ Contrast Midi Dress Vestido Fiesta Mujer Negro Black...'
+sku: 'B07V5JQQH7-es'
 tags: [  ]
 actualPrice: 9.26 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JVF73SD-es Moleskine - Agenda Semanal de 12 Meses 2020 Tapa Dura y...'
+sku: 'B07JVF73SD-es'
 tags: [  ]
 actualPrice: 5.37 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TKSLSG3-es Clarks Triamelia Edge Zapatillas para Mujer Beige Black...'
+sku: 'B07TKSLSG3-es'
 tags: [  ]
 actualPrice: 28.85 EUR
 currency: EUR

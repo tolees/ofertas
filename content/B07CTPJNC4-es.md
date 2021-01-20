@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CTPJNC4-es Under Armour Charged Rogue Zapatillas de Running para...'
+sku: 'B07CTPJNC4-es'
 tags: [  ]
 actualPrice: 33.82 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NVG466V-es 20 piezas de sombreros de spa transparentes desechables...'
+sku: 'B07NVG466V-es'
 tags: [  ]
 actualPrice: 5.09 EUR
 currency: EUR

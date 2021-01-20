@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CBXVTMB-es Calledelregalo Regalo Personalizable para Mujer: Rosa de...'
+sku: 'B07CBXVTMB-es'
 tags: [  ]
 actualPrice: 47.95 EUR
 currency: EUR

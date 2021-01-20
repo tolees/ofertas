@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SRCNTSF-es adidas EQT Gazelle Zapatillas de Gimnasia para Hombre Gris...'
+sku: 'B07SRCNTSF-es'
 tags: [  ]
 actualPrice: 31.29 EUR
 currency: EUR

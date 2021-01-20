@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08C9K8DJK-es Homfa Mesa Ordenador Mesa Escritorio de Estilo Industrial...'
+sku: 'B08C9K8DJK-es'
 tags: [  ]
 actualPrice: 95.99 EUR
 currency: EUR

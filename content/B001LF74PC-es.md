@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001LF74PC-es Grohe SilverFlex - Flexo con pieza de unión giratoria para...'
+sku: 'B001LF74PC-es'
 tags: [  ]
 actualPrice: 13.82 EUR
 currency: EUR

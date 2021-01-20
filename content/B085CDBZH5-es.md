@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085CDBZH5-es FMPC Carcasa con Cuerda Samsung Galaxy J6 Plus Cristal TPU...'
+sku: 'B085CDBZH5-es'
 tags: [  ]
 actualPrice: 8.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082BFF65R-es Tom Ford FT0766 03A Black FT0766 Butterfly Sunglasses Lens...'
+sku: 'B082BFF65R-es'
 tags: [  ]
 actualPrice: 229.0 EUR
 currency: EUR

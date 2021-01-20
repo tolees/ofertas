@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HZ4VKPN-es Petusco - Eddie Beige Lona tipo Canvas combinada con Vaqueta'
+sku: 'B07HZ4VKPN-es'
 tags: [  ]
 actualPrice: 100.0 EUR
 currency: EUR

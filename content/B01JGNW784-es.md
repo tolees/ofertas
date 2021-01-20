@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JGNW784-es MutecPower 1m Sat Cable coaxial de la Antena Conector...'
+sku: 'B01JGNW784-es'
 tags: [  ]
 actualPrice: 8.49 EUR
 currency: EUR

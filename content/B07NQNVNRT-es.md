@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NQNVNRT-es Adidas Terrex Eastrail Zapatillas de Deporte para Hombre...'
+sku: 'B07NQNVNRT-es'
 tags: [  ]
 actualPrice: 54.99 EUR
 currency: EUR

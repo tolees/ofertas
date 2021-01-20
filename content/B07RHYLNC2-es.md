@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RHYLNC2-es Festina Reloj Multiesfera para Hombre de Cuarzo con Correa...'
+sku: 'B07RHYLNC2-es'
 tags: [  ]
 actualPrice: 66.84 EUR
 currency: EUR

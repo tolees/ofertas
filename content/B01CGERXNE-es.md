@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CGERXNE-es Esteve CORTAGRIP Spray Bucal Antivirus 7 ml'
+sku: 'B01CGERXNE-es'
 tags: [  ]
 actualPrice: 6.2 EUR
 currency: EUR

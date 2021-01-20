@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0196KDZL0-es New Balance 577 Training h Zapatillas Deportivas para...'
+sku: 'B0196KDZL0-es'
 tags: [  ]
 actualPrice: 31.34 EUR
 currency: EUR

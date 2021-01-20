@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W5QZDXJ-es POP THE OFFICE DWIGHT AS ELF V'
+sku: 'B07W5QZDXJ-es'
 tags: [  ]
 actualPrice: 5.27 EUR
 currency: EUR

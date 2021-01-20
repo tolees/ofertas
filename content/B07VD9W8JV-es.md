@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VD9W8JV-es YAMAMAY® Bañador brasileño – Essentials'
+sku: 'B07VD9W8JV-es'
 tags: [  ]
 actualPrice: 6.48 EUR
 currency: EUR

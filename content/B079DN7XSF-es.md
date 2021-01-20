@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079DN7XSF-es Ever-Pretty A-línea Vestito de Gala Gasa Cuello en V sin...'
+sku: 'B079DN7XSF-es'
 tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR

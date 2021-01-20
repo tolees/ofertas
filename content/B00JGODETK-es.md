@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JGODETK-es Emporio Armani Reloj para Hombre de Cuarzo con Correa en...'
+sku: 'B00JGODETK-es'
 tags: [  ]
 actualPrice: 87.11 EUR
 currency: EUR

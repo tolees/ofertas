@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R7BGKGT-es CARE OF by PUMA Zapatillas para mujer Blanco White 42 EU'
+sku: 'B07R7BGKGT-es'
 tags: [  ]
 actualPrice: 26.49 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RD1MPYD-es Tommy Hilfiger Kids Plaque Belt 3.0 Cinturón Rosa Pink Tf4...'
+sku: 'B07RD1MPYD-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

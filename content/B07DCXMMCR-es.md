@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DCXMMCR-es Ringke Funda Motorola Moto G6 2018 [Fusion] Claro PC TPU...'
+sku: 'B07DCXMMCR-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

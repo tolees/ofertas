@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DDZ8GN9-es Adidas Fortagym Cf K Zapatillas de Gimnasia Unisex Niños...'
+sku: 'B07DDZ8GN9-es'
 tags: [  ]
 actualPrice: 19.98 EUR
 currency: EUR

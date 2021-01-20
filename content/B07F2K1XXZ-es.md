@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F2K1XXZ-es PUMA Axis Zapatillas Unisex Adulto Blanco White/Peacoat 45 EU'
+sku: 'B07F2K1XXZ-es'
 tags: [  ]
 actualPrice: 32.45 EUR
 currency: EUR

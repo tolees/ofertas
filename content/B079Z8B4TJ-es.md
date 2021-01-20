@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079Z8B4TJ-es Samsonite Happy Sammies Upright Maleta Infantil 45 cm 24 L...'
+sku: 'B079Z8B4TJ-es'
 tags: [  ]
 actualPrice: 66.5 EUR
 currency: EUR

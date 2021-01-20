@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GSBVJ24-es NIVEA Bajo la Ducha Body Milk Nutritivo en pack de 6 6 x...'
+sku: 'B07GSBVJ24-es'
 tags: [  ]
 actualPrice: 20.63 EUR
 currency: EUR

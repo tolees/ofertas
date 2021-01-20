@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P61CRPT-es Wond3rland Póster para Rascar Prémium con Lista de 100...'
+sku: 'B07P61CRPT-es'
 tags: [  ]
 actualPrice: 17.95 EUR
 currency: EUR

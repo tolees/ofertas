@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0716WK7RF-es Asics Kanmei Zapatillas de Running para Hombre Azul...'
+sku: 'B0716WK7RF-es'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

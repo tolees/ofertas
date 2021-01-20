@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZQMIYN-es Babyline Caramelo - Saco para silla de paseo color rosa'
+sku: 'B01LZQMIYN-es'
 tags: [  ]
 actualPrice: 48.3 EUR
 currency: EUR

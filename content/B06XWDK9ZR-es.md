@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XWDK9ZR-es Zodiac TornaX OT 3200 – Robot limpiafondos de piscina'
+sku: 'B06XWDK9ZR-es'
 tags: [  ]
 actualPrice: 440.0 EUR
 currency: EUR

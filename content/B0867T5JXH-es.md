@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0867T5JXH-es lámpara de mesa juego de 2 lámparas de noche Lámpara de...'
+sku: 'B0867T5JXH-es'
 tags: [  ]
 actualPrice: 2.19 EUR
 currency: EUR

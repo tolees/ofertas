@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074ZPBYWN-es 3x Pegatina Cubierta Adhesiva Creativo Protección Jeugo...'
+sku: 'B074ZPBYWN-es'
 tags: [  ]
 actualPrice: 6.47 EUR
 currency: EUR

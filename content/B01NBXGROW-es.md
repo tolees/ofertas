@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NBXGROW-es Garmin DriveSmart 51 Western EU LMT-D - Navegador GPS con...'
+sku: 'B01NBXGROW-es'
 tags: [  ]
 actualPrice: 114.68 EUR
 currency: EUR

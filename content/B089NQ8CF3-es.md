@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089NQ8CF3-es Juguete Sorpresas De Joyería Azul Seguros Y Cómodos De 3...'
+sku: 'B089NQ8CF3-es'
 tags: [  ]
 actualPrice: 26.4 EUR
 currency: EUR

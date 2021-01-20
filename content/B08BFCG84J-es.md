@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BFCG84J-es Elyco Botones analógico Amortiguador Premium Aim Assist...'
+sku: 'B08BFCG84J-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

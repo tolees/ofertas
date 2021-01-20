@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CTN532Y-es Under Armour UA HOVR Sonic 2 Zapatillas de Running para...'
+sku: 'B07CTN532Y-es'
 tags: [  ]
 actualPrice: 76.16 EUR
 currency: EUR

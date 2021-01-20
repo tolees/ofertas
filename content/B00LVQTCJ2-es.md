@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LVQTCJ2-es Roccat Tyon - Ratón Gaming Sensor Láser 8200 dpi 14 Teclas...'
+sku: 'B00LVQTCJ2-es'
 tags: [  ]
 actualPrice: 74.34 EUR
 currency: EUR

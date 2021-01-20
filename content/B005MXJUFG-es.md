@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005MXJUFG-es Hauck Sit N Relax - Hamaquita balancin y trona para recién...'
+sku: 'B005MXJUFG-es'
 tags: [  ]
 actualPrice: 118.99 EUR
 currency: EUR

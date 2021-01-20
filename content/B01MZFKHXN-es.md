@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MZFKHXN-es L Oreal Paris Colorista Fader - Champú Borrador del color...'
+sku: 'B01MZFKHXN-es'
 tags: [  ]
 actualPrice: 0.25 EUR
 currency: EUR

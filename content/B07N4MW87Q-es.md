@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N4MW87Q-es Tommy Hilfiger Bleecker TH Flex Satin Chino Gmd Pantalones...'
+sku: 'B07N4MW87Q-es'
 tags: [  ]
 actualPrice: 54.0 EUR
 currency: EUR

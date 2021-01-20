@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H8K7VKL-es Castellanísimos Mocasines de Mujer en Piel Florentic...'
+sku: 'B07H8K7VKL-es'
 tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR

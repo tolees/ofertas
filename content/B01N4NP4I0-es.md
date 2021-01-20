@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N4NP4I0-es POP! Vinilo - Twin Peaks: Bob'
+sku: 'B01N4NP4I0-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07856VSNC-es L Oréal Paris Make-up designer Infaillible Stick de...'
+sku: 'B07856VSNC-es'
 tags: [  ]
 actualPrice: 4.47 EUR
 currency: EUR

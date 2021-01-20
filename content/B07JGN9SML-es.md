@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JGN9SML-es PUTUO Calcetines de Dedos Mujer Calcetines Cinco Dedos de...'
+sku: 'B07JGN9SML-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

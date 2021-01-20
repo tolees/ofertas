@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P15RRGV-es Carol-JA Gris 39 EU'
+sku: 'B07P15RRGV-es'
 tags: [  ]
 actualPrice: 45.5 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z7FH2TK-es TAZEMAT 42 Hojas Plantillas para Pintar Letras y Números...'
+sku: 'B07Z7FH2TK-es'
 tags: [  ]
 actualPrice: 11.97 EUR
 currency: EUR

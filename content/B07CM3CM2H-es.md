@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CM3CM2H-es Termometro Infrarrojos laser - AUELEK Profesional Medidor...'
+sku: 'B07CM3CM2H-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BK177ZR-es Young & Ming universal bolsa de viaje cable organizador...'
+sku: 'B07BK177ZR-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

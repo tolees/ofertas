@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UVKTWE4-es Desconocido Magefesa Praga Sartén para Tortilla 24 cm...'
+sku: 'B00UVKTWE4-es'
 tags: [  ]
 actualPrice: 17.0 EUR
 currency: EUR

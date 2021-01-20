@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVCCTJQ-es Ácido Hialurónico puro 400 mg | 120 cápsulas veganas...'
+sku: 'B07TVCCTJQ-es'
 tags: [  ]
 actualPrice: 17.02 EUR
 currency: EUR

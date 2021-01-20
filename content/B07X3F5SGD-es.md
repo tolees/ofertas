@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X3F5SGD-es Hiboy Silla Self Balancing Compatible con Todos los...'
+sku: 'B07X3F5SGD-es'
 tags: [  ]
 actualPrice: 41.99 EUR
 currency: EUR

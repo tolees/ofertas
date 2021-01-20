@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YCMJQNX-es TACKLIFE Cortabordes Eléctrico 350W Cortabordes Ancho de...'
+sku: 'B07YCMJQNX-es'
 tags: [  ]
 actualPrice: 42.17 EUR
 currency: EUR

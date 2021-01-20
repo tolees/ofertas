@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071ZZXVWJ-es Tasty Bites Cheesy carne y queso de 140g para educar |...'
+sku: 'B071ZZXVWJ-es'
 tags: [  ]
 actualPrice: 6 EUR
 currency: EUR

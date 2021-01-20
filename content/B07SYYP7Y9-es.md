@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SYYP7Y9-es TedGem Raton Inalámbrico Portatil 2.4G Raton Inalambrico...'
+sku: 'B07SYYP7Y9-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

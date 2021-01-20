@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0006FMASE-es Converse Youths Chuck Taylor All Star Hi Zapatillas de...'
+sku: 'B0006FMASE-es'
 tags: [  ]
 actualPrice: 34.63 EUR
 currency: EUR

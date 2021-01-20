@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077Y7T7XZ-es HP ENVY 500 - Ratón inalámbrico recargable 1600 ppp sensor...'
+sku: 'B077Y7T7XZ-es'
 tags: [  ]
 actualPrice: 23.09 EUR
 currency: EUR

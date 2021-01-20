@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PHEAC2U-es caseable - Funda para Kindle y Kindle Paperwhite diseño...'
+sku: 'B00PHEAC2U-es'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

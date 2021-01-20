@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DD2CF69-es GUANTE DE NITRILO AQL 1.5 5gr SIN POLVO COLOR NEGRO...'
+sku: 'B07DD2CF69-es'
 tags: [  ]
 actualPrice: 14.88 EUR
 currency: EUR

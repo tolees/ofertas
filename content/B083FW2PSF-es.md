@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083FW2PSF-es Durex Naturals Hidratante Lubricante Ácido Hialurónico...'
+sku: 'B083FW2PSF-es'
 tags: [  ]
 actualPrice: 9.34 EUR
 currency: EUR

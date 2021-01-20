@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082VYH4BG-es SYROKAN Sujetador Deportivo para Mujer Alto Impacto...'
+sku: 'B082VYH4BG-es'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

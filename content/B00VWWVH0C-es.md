@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VWWVH0C-es Versa 18790381 Perchero de pie con paragüero Metal Lacado...'
+sku: 'B00VWWVH0C-es'
 tags: [  ]
 actualPrice: 43.59 EUR
 currency: EUR

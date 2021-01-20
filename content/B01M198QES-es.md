@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M198QES-es LEDMO tiras led 12V Blanco 6000K 300led 5m tira led...'
+sku: 'B01M198QES-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

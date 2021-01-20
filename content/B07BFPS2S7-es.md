@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BFPS2S7-es The Bellies - Bobby-Boo muñeco Interactivo para niños y...'
+sku: 'B07BFPS2S7-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

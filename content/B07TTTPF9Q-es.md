@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TTTPF9Q-es Skechers Bounder Zapatillas para Hombre Gris Gray...'
+sku: 'B07TTTPF9Q-es'
 tags: [  ]
 actualPrice: 40.13 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V9N4YJS-es Estación meteorológica inalámbrica Reloj digital colorido...'
+sku: 'B07V9N4YJS-es'
 tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR

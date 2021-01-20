@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DV4T92D-es Columbia Backpedal Outdry Zapatillas de Cross para Mujer...'
+sku: 'B07DV4T92D-es'
 tags: [  ]
 actualPrice: 37.33 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BIJ0NAO-es Vans Atwood Zapatillas Unisex Niños Negro Canvas...'
+sku: 'B00BIJ0NAO-es'
 tags: [  ]
 actualPrice: 19.79 EUR
 currency: EUR

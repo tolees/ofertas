@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XXT7TZR-es FOGAWA Banda de Cuero Plana Banda de Piel Correa 20mmx2mm...'
+sku: 'B07XXT7TZR-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

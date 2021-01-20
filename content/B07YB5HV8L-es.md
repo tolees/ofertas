@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YB5HV8L-es Taurus Vac600 Envasadora al vacío Acero Inoxidable'
+sku: 'B07YB5HV8L-es'
 tags: [  ]
 actualPrice: 68.99 EUR
 currency: EUR

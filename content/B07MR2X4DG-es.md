@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MR2X4DG-es Fashion·LIFE Plancha De Vapor de Mano para Ropa Plancha...'
+sku: 'B07MR2X4DG-es'
 tags: [  ]
 actualPrice: 38.99 EUR
 currency: EUR

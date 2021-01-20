@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JH35J5F-es Columbia Fire Venture S II Mid WP Botas de Senderismo...'
+sku: 'B07JH35J5F-es'
 tags: [  ]
 actualPrice: 65.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0053C7ZNU-es Paycheck [Blu-ray]'
+sku: 'B0053C7ZNU-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

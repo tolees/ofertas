@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YZDZZT2-es Femometer Pastillero Semanal 3 Tomas 7 Dias 21...'
+sku: 'B07YZDZZT2-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

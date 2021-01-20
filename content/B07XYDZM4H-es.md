@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XYDZM4H-es Proze Sport Auriculares Inalámbricos Bluetooth con...'
+sku: 'B07XYDZM4H-es'
 tags: [  ]
 actualPrice: 18.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HGRF6DV-es Pantalones de Yoga Sueltos Mujer Harem Boho del Lazo del...'
+sku: 'B07HGRF6DV-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

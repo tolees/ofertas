@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QLJLVJJ-es Game Of Thrones Póster Multicolor 61 x 91.5cm'
+sku: 'B07QLJLVJJ-es'
 tags: [  ]
 actualPrice: 4.66 EUR
 currency: EUR

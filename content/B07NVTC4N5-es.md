@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NVTC4N5-es non-brand Caja de 300 Pcs Hisopos de Algodón Moderna...'
+sku: 'B07NVTC4N5-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

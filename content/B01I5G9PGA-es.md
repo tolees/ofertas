@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01I5G9PGA-es adidas Real Wallet Cartera Unisex Adulto Negro/Blanco...'
+sku: 'B01I5G9PGA-es'
 tags: [  ]
 actualPrice: 1.01 EUR
 currency: EUR

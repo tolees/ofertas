@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DVLP1Y6-es New Balance Summit Unknown Zapatillas de Running para...'
+sku: 'B07DVLP1Y6-es'
 tags: [  ]
 actualPrice: 72 EUR
 currency: EUR

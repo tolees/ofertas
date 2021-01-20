@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GS5HNCE-es adidas Terrex Swift Solo Zapatillas de Deporte Exterior...'
+sku: 'B00GS5HNCE-es'
 tags: [  ]
 actualPrice: 73.72 EUR
 currency: EUR

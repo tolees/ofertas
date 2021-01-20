@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072C5R8CJ-es CREA Grifo Osmosis Grifo de Cocina 3 Vías Ósmosis 360°...'
+sku: 'B072C5R8CJ-es'
 tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR

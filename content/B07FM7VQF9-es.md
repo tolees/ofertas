@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FM7VQF9-es Joseph Joseph Delta Pasapuré plegable - Gris / Verde'
+sku: 'B07FM7VQF9-es'
 tags: [  ]
 actualPrice: 10.16 EUR
 currency: EUR

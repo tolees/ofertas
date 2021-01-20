@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N7OPDPU-es MOROFAST pastillas para adelgazar I quemagrasas natural...'
+sku: 'B01N7OPDPU-es'
 tags: [  ]
 actualPrice: 29.9 EUR
 currency: EUR

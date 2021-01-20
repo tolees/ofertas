@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZXDJX8W-es ViVidLife Bolsa de Pañales 2 PCS Bolsa Pañales Impermeable...'
+sku: 'B07ZXDJX8W-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

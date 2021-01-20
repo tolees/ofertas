@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082WF7NT4-es 40g Bola de baño Tamaño pequeño Hogar Hotel Baño SPA...'
+sku: 'B082WF7NT4-es'
 tags: [  ]
 actualPrice: 1.17 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002WRIC54-es Bosch 2 609 255 127 - Juego de 5 brocas para metal HSS-G...'
+sku: 'B002WRIC54-es'
 tags: [  ]
 actualPrice: 7.64 EUR
 currency: EUR

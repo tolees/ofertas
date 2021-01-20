@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074CFQ8FG-es NOVECASA Pantalones Cortos de Compresión para Hombre con...'
+sku: 'B074CFQ8FG-es'
 tags: [  ]
 actualPrice: 18.96 EUR
 currency: EUR

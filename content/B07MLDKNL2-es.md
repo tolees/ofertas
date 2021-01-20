@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MLDKNL2-es Cabezal de Ducha con 5 Modos de Spray con Manguera de...'
+sku: 'B07MLDKNL2-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

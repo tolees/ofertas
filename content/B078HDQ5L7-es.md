@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078HDQ5L7-es NAME IT Nkmhonk UNB Swe Long Shorts Noos Pantalones Cortos...'
+sku: 'B078HDQ5L7-es'
 tags: [  ]
 actualPrice: 11.05 EUR
 currency: EUR

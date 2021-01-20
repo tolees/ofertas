@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0797MZNTP-es Nike W Nk Dry Acdmy18 Top SS T-Shirt Mujer Obsidian/Royal...'
+sku: 'B0797MZNTP-es'
 tags: [  ]
 actualPrice: 12.55 EUR
 currency: EUR

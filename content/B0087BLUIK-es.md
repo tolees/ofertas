@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0087BLUIK-es Zeno Watch Basel 3554-a1 - Reloj analógico automático para...'
+sku: 'B0087BLUIK-es'
 tags: [  ]
 actualPrice: 360.83 EUR
 currency: EUR

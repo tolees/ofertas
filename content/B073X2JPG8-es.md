@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073X2JPG8-es OcioDual Termómetro Corporal Flexible Fiebre Clinico...'
+sku: 'B073X2JPG8-es'
 tags: [  ]
 actualPrice: 2.99 EUR
 currency: EUR

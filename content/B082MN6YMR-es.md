@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082MN6YMR-es Bewater™ Corrector de Postura Espalda - Nueva versión 3.0...'
+sku: 'B082MN6YMR-es'
 tags: [  ]
 actualPrice: 15.94 EUR
 currency: EUR

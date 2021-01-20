@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1HXWBD-es Clarks Step Explorhi Botines para Mujer Negro Black Black...'
+sku: 'B07N1HXWBD-es'
 tags: [  ]
 actualPrice: 44.28 EUR
 currency: EUR

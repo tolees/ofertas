@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CRJSSKP-es 10A Control remoto inalámbrico inteligente para el hogar...'
+sku: 'B08CRJSSKP-es'
 tags: [  ]
 actualPrice: 21.08 EUR
 currency: EUR

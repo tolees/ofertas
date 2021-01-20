@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJ8RZ3F-es Kickers Atryo Zapatillas para Hombre Azul Bleu Denim 5 42 EU'
+sku: 'B07TJ8RZ3F-es'
 tags: [  ]
 actualPrice: 20.59 EUR
 currency: EUR

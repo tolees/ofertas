@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TMGVKKD-es Charles Wilson Pantalón de Deportes con Puño Pantalón...'
+sku: 'B07TMGVKKD-es'
 tags: [  ]
 actualPrice: 11.95 EUR
 currency: EUR

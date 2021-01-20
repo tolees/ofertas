@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H7KHW1W-es Fundas para iPhone Dolce&Gabbana iPhone 6g Hombre - Piel...'
+sku: 'B07H7KHW1W-es'
 tags: [  ]
 actualPrice: 177.5 EUR
 currency: EUR

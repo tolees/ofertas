@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TO83QEG-es Tommy Hifiger 1781526 Alex - Reloj para Hombre Cuarzo...'
+sku: 'B00TO83QEG-es'
 tags: [  ]
 actualPrice: 132.0 EUR
 currency: EUR

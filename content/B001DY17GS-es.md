@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001DY17GS-es Nike Force 1 Mid PS Zapatillas de Baloncesto para Niños...'
+sku: 'B001DY17GS-es'
 tags: [  ]
 actualPrice: 35.0 EUR
 currency: EUR

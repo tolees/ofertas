@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SFJ7KRL-es Nike Court Royale Zapatillas de Tenis para Hombre...'
+sku: 'B07SFJ7KRL-es'
 tags: [  ]
 actualPrice: 31.96 EUR
 currency: EUR

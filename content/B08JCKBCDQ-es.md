@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08JCKBCDQ-es Tarjeta Micro SD 1024GB de alta velocidad Clase 10 Micro...'
+sku: 'B08JCKBCDQ-es'
 tags: [  ]
 actualPrice: 14.0 EUR
 currency: EUR

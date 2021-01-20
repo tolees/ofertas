@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X1TDWV1-es Bergner PK1528 Set 16pcs: 3 sartenes 20/22/26 + 3...'
+sku: 'B07X1TDWV1-es'
 tags: [  ]
 actualPrice: 74.99 EUR
 currency: EUR

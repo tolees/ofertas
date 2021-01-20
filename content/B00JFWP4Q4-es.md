@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JFWP4Q4-es Brabantia 298288 - Tarro de Cristal 0.6 L Tapa Gris Oscuro'
+sku: 'B00JFWP4Q4-es'
 tags: [  ]
 actualPrice: 5.37 EUR
 currency: EUR

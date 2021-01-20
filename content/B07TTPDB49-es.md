@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TTPDB49-es KiplingAbanu MultiMujerBolsos bandoleraNegro Black Noir...'
+sku: 'B07TTPDB49-es'
 tags: [  ]
 actualPrice: 33.7 EUR
 currency: EUR

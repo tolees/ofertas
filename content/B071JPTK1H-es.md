@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071JPTK1H-es Adidas Active Star Gel de ducha para Hombre 400 ml Pack de 4'
+sku: 'B071JPTK1H-es'
 tags: [  ]
 actualPrice: 7.8 EUR
 currency: EUR

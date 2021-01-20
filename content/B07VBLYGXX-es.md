@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VBLYGXX-es DANISH ENDURANCE Calcetines de Senderismo de Lana Merino 3...'
+sku: 'B07VBLYGXX-es'
 tags: [  ]
 actualPrice: 24.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FXGDGJL-es 12W Lámpara de baño LED Lámpara de espejo Aplique de Baño...'
+sku: 'B07FXGDGJL-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

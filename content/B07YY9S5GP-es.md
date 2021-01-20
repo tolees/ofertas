@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YY9S5GP-es HYMY Funda para Xiaomi Redmi 8A Smartphone + 2 x Cristal...'
+sku: 'B07YY9S5GP-es'
 tags: [  ]
 actualPrice: 3.88 EUR
 currency: EUR

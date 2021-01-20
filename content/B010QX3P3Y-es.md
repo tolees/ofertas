@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B010QX3P3Y-es Tyrannosaurus Rex T-Rex Idea de Vinilo temática para...'
+sku: 'B010QX3P3Y-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

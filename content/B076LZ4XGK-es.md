@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076LZ4XGK-es Diyife Clicker para Adiestramiento Perro 4 Piezas...'
+sku: 'B076LZ4XGK-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RDLRH9J-es Salomon RX Slide 4.0 W Zapatillas de Trail Running para...'
+sku: 'B07RDLRH9J-es'
 tags: [  ]
 actualPrice: 47.99 EUR
 currency: EUR

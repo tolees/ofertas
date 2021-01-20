@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G1HD4Q8-es find. Chunky Leather Botas Chelsea Negro Black 36 EU'
+sku: 'B07G1HD4Q8-es'
 tags: [  ]
 actualPrice: 24.49 EUR
 currency: EUR

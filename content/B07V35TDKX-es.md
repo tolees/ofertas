@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V35TDKX-es PHONECT Hervidor de Agua Eléctrico 2200W Hervidor de...'
+sku: 'B07V35TDKX-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

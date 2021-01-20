@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V8ZGCQW-es L Oreal Paris Men Expert Hydra Sensitive Gel de Ducha...'
+sku: 'B07V8ZGCQW-es'
 tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR

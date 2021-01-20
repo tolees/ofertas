@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LYJN3FG-es On Paws ‘Sleep Well Lounger’ Marron tamaño M 65 x 50 cm'
+sku: 'B01LYJN3FG-es'
 tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR

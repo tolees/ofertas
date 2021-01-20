@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YHMQFJS-es Radio de Emergencia NOAA Radio de Manivela Radio Solar...'
+sku: 'B07YHMQFJS-es'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

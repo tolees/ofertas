@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083KM5SYH-es Scholl Plantillas Gelactiv Profesional Mujer + Crema de...'
+sku: 'B083KM5SYH-es'
 tags: [  ]
 actualPrice: 16.61 EUR
 currency: EUR

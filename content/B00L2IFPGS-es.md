@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00L2IFPGS-es Garhe - Mesa Auxiliar Plegable 10Kg 6Alturas 3 Pos.Bandeja...'
+sku: 'B00L2IFPGS-es'
 tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR

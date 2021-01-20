@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VYLX34J-es REYLEO Maleta Cabina Rígida 100% Polipropileno Equipaje de...'
+sku: 'B07VYLX34J-es'
 tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR

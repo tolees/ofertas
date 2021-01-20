@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076D9MRB8-es Finether Grifo para Fregadero de Cocina 360° Caño...'
+sku: 'B076D9MRB8-es'
 tags: [  ]
 actualPrice: 68.99 EUR
 currency: EUR

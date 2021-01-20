@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079HCLQJV-es Indeca - Auriculares casco PS4 PC Xbox Multiplataforma...'
+sku: 'B079HCLQJV-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

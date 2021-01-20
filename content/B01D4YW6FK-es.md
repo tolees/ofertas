@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01D4YW6FK-es Orbegozo TF 0144 Ventilador de sobremesa 50 W Color negro'
+sku: 'B01D4YW6FK-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

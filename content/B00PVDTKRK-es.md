@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PVDTKRK-es D-Link DIR-809 - Router WiFi AC 750 Mbps 4 Puertos de Red...'
+sku: 'B00PVDTKRK-es'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

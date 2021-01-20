@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084VNH9S8-es Triamisu Nueva Marca y bolígrafo Pad Phone 4G Conveniente...'
+sku: 'B084VNH9S8-es'
 tags: [  ]
 actualPrice: 0.01 EUR
 currency: EUR

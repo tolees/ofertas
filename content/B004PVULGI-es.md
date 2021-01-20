@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004PVULGI-es Clatronic HT 3393 - Secador de pelo de viaje colores surtidos'
+sku: 'B004PVULGI-es'
 tags: [  ]
 actualPrice: 6.9 EUR
 currency: EUR

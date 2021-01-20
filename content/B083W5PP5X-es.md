@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083W5PP5X-es Smooce Piedras Luminosas Jardín Piedras Decorativas...'
+sku: 'B083W5PP5X-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

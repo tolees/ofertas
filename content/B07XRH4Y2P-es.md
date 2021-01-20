@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XRH4Y2P-es IKOHS SWEETMIX - Batidora de Varillas Eléctrica con Base...'
+sku: 'B07XRH4Y2P-es'
 tags: [  ]
 actualPrice: 22.91 EUR
 currency: EUR

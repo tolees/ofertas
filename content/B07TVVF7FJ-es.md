@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVVF7FJ-es Skechers Arch Fit Zapatillas para Hombre Azul Navy...'
+sku: 'B07TVVF7FJ-es'
 tags: [  ]
 actualPrice: 55.46 EUR
 currency: EUR

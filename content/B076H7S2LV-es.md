@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076H7S2LV-es BRA Efficient Iron Parrilla Rectangular Lisa 35 cm'
+sku: 'B076H7S2LV-es'
 tags: [  ]
 actualPrice: 45.52 EUR
 currency: EUR

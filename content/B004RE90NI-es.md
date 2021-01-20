@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004RE90NI-es Philips EXP2546/12 - Reproductor CD portátil Negro'
+sku: 'B004RE90NI-es'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

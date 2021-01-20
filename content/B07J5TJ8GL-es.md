@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J5TJ8GL-es Skechers Equalizer 3.0 Zapatillas sin Cordones para Hombre...'
+sku: 'B07J5TJ8GL-es'
 tags: [  ]
 actualPrice: 44.0 EUR
 currency: EUR

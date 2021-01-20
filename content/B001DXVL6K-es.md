@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001DXVL6K-es AnySharp Afilador De Cuchillos Azul'
+sku: 'B001DXVL6K-es'
 tags: [  ]
 actualPrice: 8.98 EUR
 currency: EUR

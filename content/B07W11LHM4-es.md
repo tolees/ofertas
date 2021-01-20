@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W11LHM4-es Skechers MAX Cushioning Elite Zapatillas para Hombre Negro...'
+sku: 'B07W11LHM4-es'
 tags: [  ]
 actualPrice: 45.88 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9JJDDC-es Altavoz Bluetooth - Hey You! Turn me on Eng'
+sku: 'B07L9JJDDC-es'
 tags: [  ]
 actualPrice: 14.98 EUR
 currency: EUR

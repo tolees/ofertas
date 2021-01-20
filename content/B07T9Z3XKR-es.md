@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T9Z3XKR-es Reloj Digital para Niños Niñas Reloj Infantil Deportivo 7...'
+sku: 'B07T9Z3XKR-es'
 tags: [  ]
 actualPrice: 9.78 EUR
 currency: EUR

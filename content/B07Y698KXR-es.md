@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y698KXR-es HOMRanger Keine Bohrer Zugvorhangstange dusche Einstellbar...'
+sku: 'B07Y698KXR-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y5CSH9N-es GRIDINLUX. Batería de Titanio y Fondo de Piedra. 25...'
+sku: 'B07Y5CSH9N-es'
 tags: [  ]
 actualPrice: 150.38 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00D91YNJG-es Borcam 1690037 Juego de 2 bandejas de Horno Care Cristal...'
+sku: 'B00D91YNJG-es'
 tags: [  ]
 actualPrice: 12.9 EUR
 currency: EUR

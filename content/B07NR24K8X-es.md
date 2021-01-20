@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NR24K8X-es Versa 15810415 Carro verdulero de Cocina y botellero Rojo...'
+sku: 'B07NR24K8X-es'
 tags: [  ]
 actualPrice: 53.04 EUR
 currency: EUR

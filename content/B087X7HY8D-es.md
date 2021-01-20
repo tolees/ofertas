@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087X7HY8D-es Suhctup Funda Transparent Compatible para Galaxy A6 Plus...'
+sku: 'B087X7HY8D-es'
 tags: [  ]
 actualPrice: 8.98 EUR
 currency: EUR

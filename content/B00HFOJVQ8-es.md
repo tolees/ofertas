@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HFOJVQ8-es TATAY 7738001 Carrito auxiliar de cocina con 3 cestas y...'
+sku: 'B00HFOJVQ8-es'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

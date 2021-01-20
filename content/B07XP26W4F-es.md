@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XP26W4F-es coskefy 6 Pares Calcetines Deportivos para Hombre y Mujer...'
+sku: 'B07XP26W4F-es'
 tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XH3F2J2-es Ninja CF060EU Cafetera Auto-IQ Brewer con Jarra de Vidrio...'
+sku: 'B06XH3F2J2-es'
 tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR

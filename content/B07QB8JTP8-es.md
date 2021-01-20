@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QB8JTP8-es Pablosky 477226 Botas Slouch para Niñas Azul Azul Azul 33 EU'
+sku: 'B07QB8JTP8-es'
 tags: [  ]
 actualPrice: 39.87 EUR
 currency: EUR

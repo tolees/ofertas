@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XZ1KJNR-es Di4 Aspirojet Duo Limpiacristales 2 en 1 Exclusivo Cabezal...'
+sku: 'B06XZ1KJNR-es'
 tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR

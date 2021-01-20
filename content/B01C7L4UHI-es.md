@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01C7L4UHI-es Capucha negra tela'
+sku: 'B01C7L4UHI-es'
 tags: [  ]
 actualPrice: 2.6 EUR
 currency: EUR

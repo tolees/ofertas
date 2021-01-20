@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077PQ7JCY-es HORIZON ZERO DAWN - ORIGINAL SOUNDTRACK'
+sku: 'B077PQ7JCY-es'
 tags: [  ]
 actualPrice: 11.76 EUR
 currency: EUR

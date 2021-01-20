@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07589QZMC-es Spintires: MudRunner'
+sku: 'B07589QZMC-es'
 tags: [  ]
 actualPrice: 24.33 EUR
 currency: EUR

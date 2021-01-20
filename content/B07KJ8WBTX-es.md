@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KJ8WBTX-es Trueno Sala'
+sku: 'B07KJ8WBTX-es'
 tags: [  ]
 actualPrice: 32.44 EUR
 currency: EUR

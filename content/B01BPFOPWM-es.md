@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BPFOPWM-es Drift DR300BG - Silla Gaming Profesional Polipiel Alta...'
+sku: 'B01BPFOPWM-es'
 tags: [  ]
 actualPrice: 169.9 EUR
 currency: EUR

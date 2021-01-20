@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B010DH3E4S-es Zwilling Motion - Cuchillo jamonero 26 cm de hoja acero...'
+sku: 'B010DH3E4S-es'
 tags: [  ]
 actualPrice: 24.95 EUR
 currency: EUR

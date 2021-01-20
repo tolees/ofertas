@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W36DPPD-es Pepe Jeans Levyce Polo Gris Grey Marl 933 Medium para Hombre'
+sku: 'B07W36DPPD-es'
 tags: [  ]
 actualPrice: 25.3 EUR
 currency: EUR

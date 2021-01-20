@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0793HNV7R-es adidas VL Court 2.0 CMF C Zapatillas de Tenis para Unisex...'
+sku: 'B0793HNV7R-es'
 tags: [  ]
 actualPrice: 11.91 EUR
 currency: EUR

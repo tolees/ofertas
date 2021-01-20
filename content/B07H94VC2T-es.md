@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H94VC2T-es YAZILIND Encaje Flor Halloween Masquerade Disfraces Fiesta...'
+sku: 'B07H94VC2T-es'
 tags: [  ]
 actualPrice: 2.49 EUR
 currency: EUR

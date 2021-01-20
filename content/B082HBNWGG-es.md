@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082HBNWGG-es ART VVIES 30x20 Zoll mit Haken Leinwanddrucke Holz...'
+sku: 'B082HBNWGG-es'
 tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR

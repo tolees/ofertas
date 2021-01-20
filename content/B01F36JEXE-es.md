@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01F36JEXE-es BEAKEY Esponja Maquillaje Set de Makeup Blender Beauty...'
+sku: 'B01F36JEXE-es'
 tags: [  ]
 actualPrice: 6.49 EUR
 currency: EUR

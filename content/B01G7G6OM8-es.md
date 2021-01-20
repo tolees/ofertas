@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01G7G6OM8-es Freedog FD6000018 - Zapatos/Deportivas para Perro Color...'
+sku: 'B01G7G6OM8-es'
 tags: [  ]
 actualPrice: 10.0 EUR
 currency: EUR

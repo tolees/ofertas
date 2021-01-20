@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082HBYMRG-es ART VVIES Wandbild 24x24 Zoll Kunst Malerei mit Haken...'
+sku: 'B082HBYMRG-es'
 tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR

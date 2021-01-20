@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C2CKB57-es JACK & JONES Jjeunion Knit Crew Neck Noos suéter Verde...'
+sku: 'B07C2CKB57-es'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

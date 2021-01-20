@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XWBY3YP-es SEGA Genesis - Consola Retro Sega Mega Drive 81 Juegos'
+sku: 'B06XWBY3YP-es'
 tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR

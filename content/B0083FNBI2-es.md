@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0083FNBI2-es Calypso Energy Peeling - Esponja de baño vegetal...'
+sku: 'B0083FNBI2-es'
 tags: [  ]
 actualPrice: 2.15 EUR
 currency: EUR

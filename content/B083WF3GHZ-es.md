@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083WF3GHZ-es KYEYGWO Runas de Piedras Set con Gravur Golden Elder...'
+sku: 'B083WF3GHZ-es'
 tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR

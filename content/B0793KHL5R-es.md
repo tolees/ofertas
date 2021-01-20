@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0793KHL5R-es Educa Borrás- Mickey and The Roadster Racers 2 Puzzles...'
+sku: 'B0793KHL5R-es'
 tags: [  ]
 actualPrice: 7.49 EUR
 currency: EUR

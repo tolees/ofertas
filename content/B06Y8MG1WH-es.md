@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y8MG1WH-es HICKIES Cordones Tie-free 2.0 Nuevos - Gris'
+sku: 'B06Y8MG1WH-es'
 tags: [  ]
 actualPrice: 11.2 EUR
 currency: EUR

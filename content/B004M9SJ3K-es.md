@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004M9SJ3K-es Rimmel Stay Matte Polvos compacto - 003 Peach Glow x1'
+sku: 'B004M9SJ3K-es'
 tags: [  ]
 actualPrice: 1.79 EUR
 currency: EUR

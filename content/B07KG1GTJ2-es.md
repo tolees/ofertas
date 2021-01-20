@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG1GTJ2-es PUMA Ralph Sampson Mid Zapatillas Unisex Adulto Blanco...'
+sku: 'B07KG1GTJ2-es'
 tags: [  ]
 actualPrice: 49.04 EUR
 currency: EUR

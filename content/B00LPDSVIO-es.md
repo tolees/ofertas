@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LPDSVIO-es AUNA MG-TT-82B - estéreo Tocadiscos accionamiento por...'
+sku: 'B00LPDSVIO-es'
 tags: [  ]
 actualPrice: 54.99 EUR
 currency: EUR

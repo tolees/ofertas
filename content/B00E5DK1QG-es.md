@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00E5DK1QG-es Beaphar Pipetas Calming Spot On para Perros 3 Unidades'
+sku: 'B00E5DK1QG-es'
 tags: [  ]
 actualPrice: 5.21 EUR
 currency: EUR

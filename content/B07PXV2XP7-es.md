@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PXV2XP7-es Under Armour Men s Tribase Thrive Hallenschuhe Zapatillas...'
+sku: 'B07PXV2XP7-es'
 tags: [  ]
 actualPrice: 37.56 EUR
 currency: EUR

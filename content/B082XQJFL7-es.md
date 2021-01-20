@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082XQJFL7-es Zapatillas de Baloncesto para Hombres Damas Deportes al...'
+sku: 'B082XQJFL7-es'
 tags: [  ]
 actualPrice: 32.88 EUR
 currency: EUR

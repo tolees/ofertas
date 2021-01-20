@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L3CKFLK-es Pendientes Metálicos Cuelgan Azul Dama Joyas Regalo'
+sku: 'B07L3CKFLK-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

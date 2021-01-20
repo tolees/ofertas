@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X37HMVB-es Monitor Táctil 7 pulgadas para Raspberry Pi 4B Pantalla...'
+sku: 'B07X37HMVB-es'
 tags: [  ]
 actualPrice: 65.99 EUR
 currency: EUR

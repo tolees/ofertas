@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JM4K8G1-es 78mm Interruptor de botón a prueba de agua ON/OFF- 380V...'
+sku: 'B07JM4K8G1-es'
 tags: [  ]
 actualPrice: 8.68 EUR
 currency: EUR

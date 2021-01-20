@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0043VTBI4-es Creative Live!CAM Chat HD - Webcam HD micrófono...'
+sku: 'B0043VTBI4-es'
 tags: [  ]
 actualPrice: 18.95 EUR
 currency: EUR

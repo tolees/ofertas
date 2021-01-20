@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CPLQ7GI-es Objetivo Olympus M.Zuiko Digital 45 mm F1.8 longitud focal...'
+sku: 'B00CPLQ7GI-es'
 tags: [  ]
 actualPrice: 197.99 EUR
 currency: EUR

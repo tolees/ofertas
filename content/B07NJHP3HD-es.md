@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJHP3HD-es Tamaris 1-1-25242-23 Botas Militar para Mujer Marrón...'
+sku: 'B07NJHP3HD-es'
 tags: [  ]
 actualPrice: 20.19 EUR
 currency: EUR

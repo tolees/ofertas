@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RR7V99C-es viewstar Almohadas Antiácaros Pack de 2 Almohadas 100%...'
+sku: 'B07RR7V99C-es'
 tags: [  ]
 actualPrice: 22.93 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BTY57J9-es ZNE - Carcasa para iPhone SE 2020 diseño de flores de...'
+sku: 'B08BTY57J9-es'
 tags: [  ]
 actualPrice: 9.93 EUR
 currency: EUR

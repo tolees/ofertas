@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SRK5VVI-es Rimmel London Scandaleyes XXtreme Máscara de Pestañas Tono...'
+sku: 'B00SRK5VVI-es'
 tags: [  ]
 actualPrice: 3.71 EUR
 currency: EUR

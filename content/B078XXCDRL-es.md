@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078XXCDRL-es Emporio Armani Reloj Cronógrafo para Hombre de Cuarzo con...'
+sku: 'B078XXCDRL-es'
 tags: [  ]
 actualPrice: 147.4 EUR
 currency: EUR

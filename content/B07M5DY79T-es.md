@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M5DY79T-es Wrangler Skinny Jeans Azul Water Blue 78X 31W / 34L para...'
+sku: 'B07M5DY79T-es'
 tags: [  ]
 actualPrice: 38.96 EUR
 currency: EUR

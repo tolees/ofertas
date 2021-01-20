@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PYAJCCS-es Control Senso Preservativos - Pack de 24 preservativos'
+sku: 'B00PYAJCCS-es'
 tags: [  ]
 actualPrice: 8.0 EUR
 currency: EUR

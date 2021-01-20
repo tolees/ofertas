@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001KESHBY-es Reloj Seiko - Hombre SNKE49K1'
+sku: 'B001KESHBY-es'
 tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR

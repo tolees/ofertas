@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NCN7YZ6-es Naturalia Somier Fortuna Tubo de Acero y Láminas de Chopo...'
+sku: 'B07NCN7YZ6-es'
 tags: [  ]
 actualPrice: 57.51 EUR
 currency: EUR

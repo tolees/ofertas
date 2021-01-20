@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2SLYF5-es Armani Exchange - Embossed Logo Crossbody Bag Bolsos...'
+sku: 'B07K2SLYF5-es'
 tags: [  ]
 actualPrice: 58.31 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TTTPF8R-es Skechers Go Run Fast Steadfast Zapatillas sin Cordones...'
+sku: 'B07TTTPF8R-es'
 tags: [  ]
 actualPrice: 33.3 EUR
 currency: EUR

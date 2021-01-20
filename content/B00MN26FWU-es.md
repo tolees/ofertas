@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MN26FWU-es Samsung SAEPTA12EW - Transformador cable micro USB color...'
+sku: 'B00MN26FWU-es'
 tags: [  ]
 actualPrice: 5.79 EUR
 currency: EUR

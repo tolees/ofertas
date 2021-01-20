@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MK5P7P3-es Lotus Reloj Analógico para Hombre de Cuarzo con Correa en...'
+sku: 'B07MK5P7P3-es'
 tags: [  ]
 actualPrice: 46.49 EUR
 currency: EUR

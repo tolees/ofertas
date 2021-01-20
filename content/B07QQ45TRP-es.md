@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QQ45TRP-es Ferilinso Funda para Xiaomi Mi A3 Elegante Armadura...'
+sku: 'B07QQ45TRP-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

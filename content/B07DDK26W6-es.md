@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DDK26W6-es TOUS Shopping Sherton de Piel en color negro'
+sku: 'B07DDK26W6-es'
 tags: [  ]
 actualPrice: 139.3 EUR
 currency: EUR

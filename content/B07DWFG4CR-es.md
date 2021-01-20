@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DWFG4CR-es AmazonBasics - Cable USB A con conector Lightning...'
+sku: 'B07DWFG4CR-es'
 tags: [  ]
 actualPrice: 4 EUR
 currency: EUR

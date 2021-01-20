@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G4FTVL3-es Hugo BOSS Reloj Multiesfera para Mujer de Cuarzo con...'
+sku: 'B07G4FTVL3-es'
 tags: [  ]
 actualPrice: 183.95 EUR
 currency: EUR

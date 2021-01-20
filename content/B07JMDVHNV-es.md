@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JMDVHNV-es GARDENA 750 B 12007-20 Cortarramas EnergyCut la podadera...'
+sku: 'B07JMDVHNV-es'
 tags: [  ]
 actualPrice: 44.36 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K4BMRNL-es Formulaone Thunderbolt 3 Hub USB Dock USB Tipo C a HDMI...'
+sku: 'B07K4BMRNL-es'
 tags: [  ]
 actualPrice: 14.85 EUR
 currency: EUR

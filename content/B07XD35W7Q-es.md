@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XD35W7Q-es HOMCOM Chimenea Eléctrica de Pie Movible y Decorativo...'
+sku: 'B07XD35W7Q-es'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

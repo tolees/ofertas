@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MSKHS9D-es Clarks Tri Solar Zapatillas para Hombre Negro Black...'
+sku: 'B07MSKHS9D-es'
 tags: [  ]
 actualPrice: 41.8 EUR
 currency: EUR

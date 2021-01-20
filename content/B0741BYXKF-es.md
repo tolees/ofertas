@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0741BYXKF-es Haribo Ladrillo Helado - 1750 gr'
+sku: 'B0741BYXKF-es'
 tags: [  ]
 actualPrice: 8.21 EUR
 currency: EUR

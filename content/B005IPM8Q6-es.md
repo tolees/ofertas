@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005IPM8Q6-es Philips Sonicare DiamondClean HX9332/04 - Cepillo de...'
+sku: 'B005IPM8Q6-es'
 tags: [  ]
 actualPrice: 143.5 EUR
 currency: EUR

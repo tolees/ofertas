@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08J6VPKCZ-es DEtasyXworld Funda para portátil de 15 Pulgadas Funda...'
+sku: 'B08J6VPKCZ-es'
 tags: [  ]
 actualPrice: 4.01 EUR
 currency: EUR

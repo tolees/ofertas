@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003AWBE8W-es Festina Reloj Analógico para Hombre de Cuarzo con Correa...'
+sku: 'B003AWBE8W-es'
 tags: [  ]
 actualPrice: 52.48 EUR
 currency: EUR

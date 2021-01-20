@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXTLBFF-es Kalolary 2 en 1 Diseños UV PolyGel Poly Gel Nail Brush...'
+sku: 'B07TXTLBFF-es'
 tags: [  ]
 actualPrice: 8.98 EUR
 currency: EUR

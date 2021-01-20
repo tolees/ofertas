@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R7XP1NS-es Columbia Buga Conjunto para la Nieve Niños Mezclar rosa /...'
+sku: 'B07R7XP1NS-es'
 tags: [  ]
 actualPrice: 56.66 EUR
 currency: EUR

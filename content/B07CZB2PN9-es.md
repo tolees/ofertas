@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZB2PN9-es Asics Gel-Lyte PS Zapatillas Unisex Niños Negro...'
+sku: 'B07CZB2PN9-es'
 tags: [  ]
 actualPrice: 20.52 EUR
 currency: EUR

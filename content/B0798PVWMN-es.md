@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0798PVWMN-es 2018 Wedding Planner Book for Wedding Schedule Organize...'
+sku: 'B0798PVWMN-es'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

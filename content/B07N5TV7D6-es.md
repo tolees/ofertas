@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N5TV7D6-es Funko- Pop Vinilo: SLOP 2: Snowball in Superhero Suit...'
+sku: 'B07N5TV7D6-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

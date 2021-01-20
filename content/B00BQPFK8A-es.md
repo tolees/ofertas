@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BQPFK8A-es Rimmel London Lasting Finish by Kate Barra De Labios Tono...'
+sku: 'B00BQPFK8A-es'
 tags: [  ]
 actualPrice: 2.97 EUR
 currency: EUR

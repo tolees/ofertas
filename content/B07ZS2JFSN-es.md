@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZS2JFSN-es HOMYBABY Muselinas Bebe Algodon 120x120 [1pc] | Muselina...'
+sku: 'B07ZS2JFSN-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

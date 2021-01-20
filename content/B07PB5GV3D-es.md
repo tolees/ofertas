@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PB5GV3D-es MADE4U [20"] [enmarcado de madera] Kit de pintura por...'
+sku: 'B07PB5GV3D-es'
 tags: [  ]
 actualPrice: 29.98 EUR
 currency: EUR

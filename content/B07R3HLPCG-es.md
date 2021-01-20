@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R3HLPCG-es GeeRic Ventilador USB Mini Ventilador Deportivo Cuello...'
+sku: 'B07R3HLPCG-es'
 tags: [  ]
 actualPrice: 7.15 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFRCWQW-es New Balance Gw500v1 Zapatillas de Deporte para Mujer...'
+sku: 'B07DFRCWQW-es'
 tags: [  ]
 actualPrice: 49.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YVL9MXV-es Cartera Pepe Jeans Arrow con tarjetero Marrón'
+sku: 'B07YVL9MXV-es'
 tags: [  ]
 actualPrice: 27.95 EUR
 currency: EUR

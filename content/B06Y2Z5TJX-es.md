@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y2Z5TJX-es Joma 100801.109 Sudadera Hombre Negro/Amarillo S'
+sku: 'B06Y2Z5TJX-es'
 tags: [  ]
 actualPrice: 12.8 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M0BQ3JL-es Parker Urban 1931583 - Bolígrafo roller negro tenue de...'
+sku: 'B01M0BQ3JL-es'
 tags: [  ]
 actualPrice: 29.0 EUR
 currency: EUR

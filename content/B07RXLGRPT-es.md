@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RXLGRPT-es New Balance 500 h Zapatillas para Hombre Azul Blue TSB...'
+sku: 'B07RXLGRPT-es'
 tags: [  ]
 actualPrice: 51.73 EUR
 currency: EUR

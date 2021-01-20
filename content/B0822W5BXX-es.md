@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0822W5BXX-es GRÜNTEK Tijera de podar de 1 Mano Bussard 20 cm. Podadora...'
+sku: 'B0822W5BXX-es'
 tags: [  ]
 actualPrice: 13.75 EUR
 currency: EUR

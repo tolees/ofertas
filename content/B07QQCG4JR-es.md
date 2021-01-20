@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QQCG4JR-es Lámpara de Techo Vintage Tomshine 2 pack 3.94ft/1.2m...'
+sku: 'B07QQCG4JR-es'
 tags: [  ]
 actualPrice: 28.04 EUR
 currency: EUR

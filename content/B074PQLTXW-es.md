@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074PQLTXW-es Ball Rescuer: Bote Presurizador de Pelotas de Pádel y...'
+sku: 'B074PQLTXW-es'
 tags: [  ]
 actualPrice: 29.9 EUR
 currency: EUR

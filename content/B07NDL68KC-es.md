@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDL68KC-es G-STAR RAW Whistler Slim Down Hooded Long Abrigo Negro Dk...'
+sku: 'B07NDL68KC-es'
 tags: [  ]
 actualPrice: 109.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N7JVSNH-es Jack & Jones Jjimarco Jjenzo WW 420 Noos Pantalones Azul...'
+sku: 'B01N7JVSNH-es'
 tags: [  ]
 actualPrice: 20.49 EUR
 currency: EUR

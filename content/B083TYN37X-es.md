@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083TYN37X-es MarinoBIRD H6 Patrón Agrietado Auriculares Luminosos para...'
+sku: 'B083TYN37X-es'
 tags: [  ]
 actualPrice: 6.77 EUR
 currency: EUR

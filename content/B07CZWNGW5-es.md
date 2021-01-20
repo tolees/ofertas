@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZWNGW5-es Salomon X Radiant Zapatillas de Senderismo para Hombre...'
+sku: 'B07CZWNGW5-es'
 tags: [  ]
 actualPrice: 64.98 EUR
 currency: EUR

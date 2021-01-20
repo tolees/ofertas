@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HN4JPDE-es Anillo Rimous clásico ajustable con bonita flor tibetana...'
+sku: 'B00HN4JPDE-es'
 tags: [  ]
 actualPrice: 0.48 EUR
 currency: EUR

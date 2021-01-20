@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SNB7PR9-es Hpybest - Cadena para chupete cadena antipérdida diseño de...'
+sku: 'B07SNB7PR9-es'
 tags: [  ]
 actualPrice: 3.08 EUR
 currency: EUR

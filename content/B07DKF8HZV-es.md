@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DKF8HZV-es Kipling - Inami M Monederos Mujer Azul Active Blue Bl'
+sku: 'B07DKF8HZV-es'
 tags: [  ]
 actualPrice: 20.3 EUR
 currency: EUR

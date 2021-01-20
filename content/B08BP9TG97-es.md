@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BP9TG97-es Fesjoy Mini ventilador portátil de aire acondicionado...'
+sku: 'B08BP9TG97-es'
 tags: [  ]
 actualPrice: 17.98 EUR
 currency: EUR

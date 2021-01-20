@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PK6QXBM-es MRACSIY Diadema deportiva Sweatband para yoga Correr...'
+sku: 'B07PK6QXBM-es'
 tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR

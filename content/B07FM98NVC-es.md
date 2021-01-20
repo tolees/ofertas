@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FM98NVC-es Real Betis - Temporada 2019/2020 - Kappa - ZOSHI 3 Polo...'
+sku: 'B07FM98NVC-es'
 tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR

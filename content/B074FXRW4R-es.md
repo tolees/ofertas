@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074FXRW4R-es Lúdilo Guinness World Records Challenges 80351'
+sku: 'B074FXRW4R-es'
 tags: [  ]
 actualPrice: 10.5 EUR
 currency: EUR

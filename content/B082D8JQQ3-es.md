@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082D8JQQ3-es Mr. Tronic 5m Cable de Red Ethernet Latiguillo | CAT6...'
+sku: 'B082D8JQQ3-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

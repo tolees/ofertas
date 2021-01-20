@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TWRW7VP-es BRIKSMAX Kit de Iluminación Led para Lego Star Wars...'
+sku: 'B07TWRW7VP-es'
 tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR

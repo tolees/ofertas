@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00N1PK92U-es LEE DAREN - Pantalones para hombre Azul Rinse 29W x 34L'
+sku: 'B00N1PK92U-es'
 tags: [  ]
 actualPrice: 24.93 EUR
 currency: EUR

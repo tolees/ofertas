@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RXLCR3P-es Asics Gel-Bondi Zapatillas de Running para Hombre Negro...'
+sku: 'B07RXLCR3P-es'
 tags: [  ]
 actualPrice: 51 EUR
 currency: EUR

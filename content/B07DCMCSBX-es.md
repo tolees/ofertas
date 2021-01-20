@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DCMCSBX-es LITTHING Plancha de Pelo Profesional de Cerámica con...'
+sku: 'B07DCMCSBX-es'
 tags: [  ]
 actualPrice: 17.49 EUR
 currency: EUR

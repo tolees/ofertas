@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KXP1F46-es Mini vaporizador facial de la niebla del aerosol nano del...'
+sku: 'B07KXP1F46-es'
 tags: [  ]
 actualPrice: 6.57 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NZ1XPRH-es Skechers Men s Heston Classic Boots Brown Dark Brown...'
+sku: 'B07NZ1XPRH-es'
 tags: [  ]
 actualPrice: 44.95 EUR
 currency: EUR

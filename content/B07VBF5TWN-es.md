@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VBF5TWN-es Hugo Boss Reloj Analógico para Hombre de Cuarzo con Correa...'
+sku: 'B07VBF5TWN-es'
 tags: [  ]
 actualPrice: 195.3 EUR
 currency: EUR

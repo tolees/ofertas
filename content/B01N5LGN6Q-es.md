@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N5LGN6Q-es Tommy Hilfiger E3578A1208 Cinturón Para Hombre Marrón DARK...'
+sku: 'B01N5LGN6Q-es'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

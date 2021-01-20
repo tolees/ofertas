@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088FJMHD4-es StillCool Aire Acondicionado Portátil 3 en 1 Ventilador...'
+sku: 'B088FJMHD4-es'
 tags: [  ]
 actualPrice: 21.65 EUR
 currency: EUR

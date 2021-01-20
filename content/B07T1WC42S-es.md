@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T1WC42S-es COFIT Cubierta de Volante de Cuero de Microfibra Negro y...'
+sku: 'B07T1WC42S-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

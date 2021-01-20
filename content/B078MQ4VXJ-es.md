@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078MQ4VXJ-es Adidas Nizza Zapatillas para Hombre Negro Core...'
+sku: 'B078MQ4VXJ-es'
 tags: [  ]
 actualPrice: 40.48 EUR
 currency: EUR

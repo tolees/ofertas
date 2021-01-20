@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017A5XM5C-es PEDEA 66063013 15.6" Bandolera Gris maletines para...'
+sku: 'B017A5XM5C-es'
 tags: [  ]
 actualPrice: 27.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X1QLW14-es Orimade Adhesivo Estantes Cesta para Ducha Estanteria con...'
+sku: 'B07X1QLW14-es'
 tags: [  ]
 actualPrice: 23.75 EUR
 currency: EUR

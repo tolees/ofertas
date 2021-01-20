@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0819FKX3H-es PUTORSEN® Soporte TV de Pared para la Mayoría de los...'
+sku: 'B0819FKX3H-es'
 tags: [  ]
 actualPrice: 8.48 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LLQEN8G-es Quid Intense - Tartera de aluminio fundido 32cm 5L asas de...'
+sku: 'B01LLQEN8G-es'
 tags: [  ]
 actualPrice: 39.91 EUR
 currency: EUR

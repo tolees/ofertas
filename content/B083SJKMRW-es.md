@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083SJKMRW-es Home Fleek - Envases de Vidrio para Alimentos | 4...'
+sku: 'B083SJKMRW-es'
 tags: [  ]
 actualPrice: 17.59 EUR
 currency: EUR

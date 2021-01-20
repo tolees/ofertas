@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FKKF87L-es Nike W NP Shrt 3in Pantalones Cortos Mujer Negro...'
+sku: 'B07FKKF87L-es'
 tags: [  ]
 actualPrice: 19.49 EUR
 currency: EUR

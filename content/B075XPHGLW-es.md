@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075XPHGLW-es Think Gizmos Equipo de construcción para niños – Ingenious...'
+sku: 'B075XPHGLW-es'
 tags: [  ]
 actualPrice: 27.95 EUR
 currency: EUR

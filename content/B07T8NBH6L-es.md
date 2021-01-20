@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T8NBH6L-es 【136 LED/3 modos】Luz Solar Exterior Luz de Seguridad...'
+sku: 'B07T8NBH6L-es'
 tags: [  ]
 actualPrice: 17.95 EUR
 currency: EUR

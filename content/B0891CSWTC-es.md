@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0891CSWTC-es Xiaomi Redmi Note 9 - Smartphone con Pantalla FHD+ de...'
+sku: 'B0891CSWTC-es'
 tags: [  ]
 actualPrice: 179.99 EUR
 currency: EUR

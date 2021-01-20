@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VF67M7Z-es Goliath- Juego de Mesa No Panic Multicolor 70366'
+sku: 'B07VF67M7Z-es'
 tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR

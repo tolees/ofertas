@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VRJTZMN-es ZHENROG Electroestimulador Muscular Abdominales Cinturón...'
+sku: 'B07VRJTZMN-es'
 tags: [  ]
 actualPrice: 23.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015NCNEFW-es DCCN Carcasa para portátiles Alfombrilla de ratón de...'
+sku: 'B015NCNEFW-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

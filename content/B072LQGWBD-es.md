@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072LQGWBD-es REARAND Relaja la Almohada ， Es una Increíble solución...'
+sku: 'B072LQGWBD-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

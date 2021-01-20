@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081SN2YM8-es adidas Trefoil tee T-Shirt Mujer Lush Red/White 40'
+sku: 'B081SN2YM8-es'
 tags: [  ]
 actualPrice: 17.93 EUR
 currency: EUR

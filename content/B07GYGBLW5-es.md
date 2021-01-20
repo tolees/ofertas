@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GYGBLW5-es AOQUSSQOA Mujer Shapewear Faja Reductora Abdomen con...'
+sku: 'B07GYGBLW5-es'
 tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR

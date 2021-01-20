@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VIXRB6O-es PetSafe PFD19-15521 Comedero para Mascotas con Programador...'
+sku: 'B00VIXRB6O-es'
 tags: [  ]
 actualPrice: 122.95 EUR
 currency: EUR

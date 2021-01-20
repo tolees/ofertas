@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T6FCZN6-es Auriculares inalámbricos auténticos resistentes al sudor...'
+sku: 'B07T6FCZN6-es'
 tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR

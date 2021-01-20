@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D13ZYN7-es Adaptador Cargador Nuevo Compatible para Portátil ASUS...'
+sku: 'B07D13ZYN7-es'
 tags: [  ]
 actualPrice: 11.5 EUR
 currency: EUR

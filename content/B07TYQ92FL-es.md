@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TYQ92FL-es Superga 2750 COTU Classic Zapatillas Unisex Adulto Azul...'
+sku: 'B07TYQ92FL-es'
 tags: [  ]
 actualPrice: 28.75 EUR
 currency: EUR

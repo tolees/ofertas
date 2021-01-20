@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CY6MFKG-es Drift DR150BG - Silla Gaming Profesional Poilipiel Alta...'
+sku: 'B07CY6MFKG-es'
 tags: [  ]
 actualPrice: 148.76 EUR
 currency: EUR

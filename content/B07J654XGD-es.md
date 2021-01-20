@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J654XGD-es Amercian Tourister Aero Racer Spinner'
+sku: 'B07J654XGD-es'
 tags: [  ]
 actualPrice: 52.38 EUR
 currency: EUR

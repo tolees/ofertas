@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0079FCBBK-es Natural History Museum The Linterna con proyector de...'
+sku: 'B0079FCBBK-es'
 tags: [  ]
 actualPrice: 10.67 EUR
 currency: EUR

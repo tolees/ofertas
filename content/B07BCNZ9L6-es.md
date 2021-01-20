@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BCNZ9L6-es Moulinex Wizzo Robot De Repostería Con Kit Para Masas 700...'
+sku: 'B07BCNZ9L6-es'
 tags: [  ]
 actualPrice: 179.0 EUR
 currency: EUR

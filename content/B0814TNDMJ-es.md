@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0814TNDMJ-es GRDE Power Bank 24000mAh Cargador Portátil con Doble 2.1A...'
+sku: 'B0814TNDMJ-es'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01I1N7G8Q-es Adidas Sneakers Zapatillas para Hombre Negro Core...'
+sku: 'B01I1N7G8Q-es'
 tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR

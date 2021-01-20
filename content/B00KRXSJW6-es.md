@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KRXSJW6-es HP C2P24AE 935XL Cartucho de Tinta Original de alto...'
+sku: 'B00KRXSJW6-es'
 tags: [  ]
 actualPrice: 16.74 EUR
 currency: EUR

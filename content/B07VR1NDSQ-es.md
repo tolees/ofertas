@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VR1NDSQ-es Olaplex No.7 Bond Smoother New 30 ml 90 g'
+sku: 'B07VR1NDSQ-es'
 tags: [  ]
 actualPrice: 17.95 EUR
 currency: EUR

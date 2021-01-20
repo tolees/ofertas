@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OG5SBOW-es Komono Reloj Analógico de Cuarzo para Hombre con Correa de...'
+sku: 'B00OG5SBOW-es'
 tags: [  ]
 actualPrice: 62.7 EUR
 currency: EUR

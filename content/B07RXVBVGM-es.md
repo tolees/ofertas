@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RXVBVGM-es Star Wars - Figura de The Mandalorian 15 cm Jawa de Black...'
+sku: 'B07RXVBVGM-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

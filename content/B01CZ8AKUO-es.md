@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CZ8AKUO-es atFoliX Protector Película Compatible con Nikon Coolpix...'
+sku: 'B01CZ8AKUO-es'
 tags: [  ]
 actualPrice: 6.49 EUR
 currency: EUR

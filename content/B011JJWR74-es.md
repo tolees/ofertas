@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B011JJWR74-es Supra Zapatillas abotinadas Negro 45 EU'
+sku: 'B011JJWR74-es'
 tags: [  ]
 actualPrice: 53.15 EUR
 currency: EUR

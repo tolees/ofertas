@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FFLRYXC-es Saucony Xodus ISO 3 Zapatillas de Trail Running para...'
+sku: 'B07FFLRYXC-es'
 tags: [  ]
 actualPrice: 81.04 EUR
 currency: EUR

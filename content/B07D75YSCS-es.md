@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D75YSCS-es Brewsly Botella de Agua - 1000ML de Doble Pared con...'
+sku: 'B07D75YSCS-es'
 tags: [  ]
 actualPrice: 12.98 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XYNL1ZH-es FMPC Funda Compatible con Xiaomi Mi MAX 2 Caso Carcasa...'
+sku: 'B07XYNL1ZH-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

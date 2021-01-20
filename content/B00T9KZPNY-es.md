@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00T9KZPNY-es NUK Botella de 360 ml de silicona Chupete Tamaño 2 M Drilling'
+sku: 'B00T9KZPNY-es'
 tags: [  ]
 actualPrice: 10.72 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CTRGJ7T-es Skechers Flex Advantage 3.0-Stally Zapatillas Deportivas...'
+sku: 'B07CTRGJ7T-es'
 tags: [  ]
 actualPrice: 49.63 EUR
 currency: EUR

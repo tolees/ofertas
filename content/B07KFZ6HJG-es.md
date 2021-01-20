@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFZ6HJG-es PUMA Vista Mid WTR Zapatillas Altas Unisex Adulto Taffy-...'
+sku: 'B07KFZ6HJG-es'
 tags: [  ]
 actualPrice: 25.54 EUR
 currency: EUR

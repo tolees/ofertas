@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PT24SMV-es New Balance 574v2 Zapatillas para Hombre Verde...'
+sku: 'B07PT24SMV-es'
 tags: [  ]
 actualPrice: 43.81 EUR
 currency: EUR

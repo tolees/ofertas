@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JNQ92F6-es Acer Nitro xv273kpbmiipphzx - Monitor Gaming de 27 " 144Hz...'
+sku: 'B07JNQ92F6-es'
 tags: [  ]
 actualPrice: 490.0 EUR
 currency: EUR

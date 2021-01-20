@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0863SSC4B-es Suhctup Transparente Funda Compatible con Huawei Nova 3E...'
+sku: 'B0863SSC4B-es'
 tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q7FZYLJ-es Widamin 2Pack Compatible con Redmi 7 Cristal Templado...'
+sku: 'B07Q7FZYLJ-es'
 tags: [  ]
 actualPrice: 6.89 EUR
 currency: EUR

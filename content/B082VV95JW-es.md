@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082VV95JW-es Bionsan Harina de Trigo Sarraceno - 500 gr'
+sku: 'B082VV95JW-es'
 tags: [  ]
 actualPrice: 1.2 EUR
 currency: EUR

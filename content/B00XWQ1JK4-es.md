@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XWQ1JK4-es Nike Tanjun Zapatillas Hombre Negro Black/Black-Anthracite...'
+sku: 'B00XWQ1JK4-es'
 tags: [  ]
 actualPrice: 36.5 EUR
 currency: EUR

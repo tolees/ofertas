@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CJWWXJC-es Elinchrom EL20847.2 - Equipo Completo Flash Estudio D-Lite...'
+sku: 'B01CJWWXJC-es'
 tags: [  ]
 actualPrice: 466.87 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SFBQM1S-es Helly Hansen HH Duffel Bag 2 30L Bolsa de Viaje Unisex...'
+sku: 'B07SFBQM1S-es'
 tags: [  ]
 actualPrice: 47.42 EUR
 currency: EUR

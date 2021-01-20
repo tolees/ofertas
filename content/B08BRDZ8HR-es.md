@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BRDZ8HR-es 8 Piezas Latas Pequeñas Rectangulares de Metal con Latas...'
+sku: 'B08BRDZ8HR-es'
 tags: [  ]
 actualPrice: 12.39 EUR
 currency: EUR

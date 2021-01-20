@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H0X2XXG-es State Of Decay 2'
+sku: 'B01H0X2XXG-es'
 tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR

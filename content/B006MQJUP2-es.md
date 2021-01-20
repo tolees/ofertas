@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006MQJUP2-es Carissima Gold Pendientes de mujer con oro bicolor de 9...'
+sku: 'B006MQJUP2-es'
 tags: [  ]
 actualPrice: 39.0 EUR
 currency: EUR

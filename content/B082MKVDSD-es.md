@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082MKVDSD-es DREAMWIN Capa de Superhéroe para Niños - 5 Capa y 5...'
+sku: 'B082MKVDSD-es'
 tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR

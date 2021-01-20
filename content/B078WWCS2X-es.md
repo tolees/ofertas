@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WWCS2X-es Maclaren Triumph Silla de paseo - ligera de los 6 meses...'
+sku: 'B078WWCS2X-es'
 tags: [  ]
 actualPrice: 122.26 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J66YXZY-es Adidas Terrex EASTRAIL Mid GTX Zapatillas de Deporte para...'
+sku: 'B07J66YXZY-es'
 tags: [  ]
 actualPrice: 85.9 EUR
 currency: EUR

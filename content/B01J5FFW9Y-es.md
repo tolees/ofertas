@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01J5FFW9Y-es Philips Daily HD2637/90 - Tostador 950 W Doble Ranura...'
+sku: 'B01J5FFW9Y-es'
 tags: [  ]
 actualPrice: 26.9 EUR
 currency: EUR

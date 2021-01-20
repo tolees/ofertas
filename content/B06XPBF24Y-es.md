@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XPBF24Y-es Naipo Mesa de Masaje Plegable de 2 Secciones Camilla...'
+sku: 'B06XPBF24Y-es'
 tags: [  ]
 actualPrice: 129.99 EUR
 currency: EUR

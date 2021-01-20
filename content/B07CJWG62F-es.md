@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CJWG62F-es Triumph Amourette 300 W X Sujetador con Aros Negro Black...'
+sku: 'B07CJWG62F-es'
 tags: [  ]
 actualPrice: 22.25 EUR
 currency: EUR

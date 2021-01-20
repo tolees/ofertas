@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004F1PFW8-es Nixon Reloj Analógico para Hombre de Cuarzo con Correa en...'
+sku: 'B004F1PFW8-es'
 tags: [  ]
 actualPrice: 108.0 EUR
 currency: EUR

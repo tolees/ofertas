@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D7P69WR-es HBselect 6 Piezas Multicolor Cepillo Dientes Bebe Silicona...'
+sku: 'B07D7P69WR-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077MK3XSH-es Build a Bot dec164494 Zorro'
+sku: 'B077MK3XSH-es'
 tags: [  ]
 actualPrice: 15.2 EUR
 currency: EUR

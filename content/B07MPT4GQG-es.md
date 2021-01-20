@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MPT4GQG-es Mardozon Correas para Xiaomi Mi Band 3 14 Piezas Pulsera...'
+sku: 'B07MPT4GQG-es'
 tags: [  ]
 actualPrice: 11.55 EUR
 currency: EUR

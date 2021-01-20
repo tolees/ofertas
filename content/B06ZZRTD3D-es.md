@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06ZZRTD3D-es Tommy Hilfiger M2285Axwell 11C1 Zapatillas para Hombre...'
+sku: 'B06ZZRTD3D-es'
 tags: [  ]
 actualPrice: 64.49 EUR
 currency: EUR

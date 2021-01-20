@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XGVCBZQ-es Funko Vinyl: Bojack Horseman: Princess Carolyn 13993'
+sku: 'B06XGVCBZQ-es'
 tags: [  ]
 actualPrice: 10.49 EUR
 currency: EUR

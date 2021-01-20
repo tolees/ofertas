@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0761XPN7Z-es Adidas Gazelle J Zapatillas de Gimnasia Unisex Adulto Rosa...'
+sku: 'B0761XPN7Z-es'
 tags: [  ]
 actualPrice: 35.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000T7URXY-es Bosch Mixxo MSM6B150 - Batidora de mano 300 W velocidad...'
+sku: 'B000T7URXY-es'
 tags: [  ]
 actualPrice: 25.71 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D5PXGD4-es Merrell Bare Access Flex Zapatillas Deportivas para...'
+sku: 'B07D5PXGD4-es'
 tags: [  ]
 actualPrice: 34.79 EUR
 currency: EUR

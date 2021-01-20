@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084S6WW9H-es Spiderman Dark-Carpeta Anillas'
+sku: 'B084S6WW9H-es'
 tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR

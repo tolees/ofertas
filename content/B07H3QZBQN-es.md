@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H3QZBQN-es RESPIRFIX DILATADOR Nasal Deportivo ANTIRONQUIDO 2...'
+sku: 'B07H3QZBQN-es'
 tags: [  ]
 actualPrice: 19.97 EUR
 currency: EUR

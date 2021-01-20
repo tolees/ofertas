@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XQ1W2C8-es VTech-80-196622 Suave muñeca interactiva para abrazar al...'
+sku: 'B06XQ1W2C8-es'
 tags: [  ]
 actualPrice: 15.5 EUR
 currency: EUR

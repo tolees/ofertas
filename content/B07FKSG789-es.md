@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FKSG789-es Joma Academy Chandal Caballero Hombre Amarillo/Negro L'
+sku: 'B07FKSG789-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

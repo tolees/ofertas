@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004G6NZGK-es BIC Grip Pro 4 Colours - Pack de 12 bolígrafos con zona de...'
+sku: 'B004G6NZGK-es'
 tags: [  ]
 actualPrice: 16.62 EUR
 currency: EUR

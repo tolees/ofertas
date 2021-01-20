@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VBC9HB6-es Optimum Nutrition 1094185 Optimum Protein Shakes...'
+sku: 'B07VBC9HB6-es'
 tags: [  ]
 actualPrice: 23.2 EUR
 currency: EUR

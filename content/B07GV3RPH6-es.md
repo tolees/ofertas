@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GV3RPH6-es Berg Outdoor FREITA Commuter Denim Pants Hombre Black Iris S'
+sku: 'B07GV3RPH6-es'
 tags: [  ]
 actualPrice: 14.75 EUR
 currency: EUR

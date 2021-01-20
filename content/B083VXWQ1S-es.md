@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083VXWQ1S-es Panamami NVME M2 a USB3.1 M2 a USB3.0 Unidad de Disco Duro...'
+sku: 'B083VXWQ1S-es'
 tags: [  ]
 actualPrice: 15.65 EUR
 currency: EUR

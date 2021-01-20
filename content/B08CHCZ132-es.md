@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CHCZ132-es EGV [2 Pack Protector de Pantalla para Xiaomi Redmi Note...'
+sku: 'B08CHCZ132-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

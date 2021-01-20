@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NSX38K5-es Funko- Pop Vinilo: Ghostbusters: Dr. Peter Venkman Figura...'
+sku: 'B07NSX38K5-es'
 tags: [  ]
 actualPrice: 7.96 EUR
 currency: EUR

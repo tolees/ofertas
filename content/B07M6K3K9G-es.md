@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M6K3K9G-es DOWE 127cm x 45cm Resistencia al Calor Cubierta metálica...'
+sku: 'B07M6K3K9G-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

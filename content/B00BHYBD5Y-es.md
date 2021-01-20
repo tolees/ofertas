@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BHYBD5Y-es BaByliss I Pro Curler C525E - Rizador de pelo cerámico 25...'
+sku: 'B00BHYBD5Y-es'
 tags: [  ]
 actualPrice: 32.88 EUR
 currency: EUR

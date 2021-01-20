@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N6E5UZQ-es Avaner Rosa Reloj para Mujer La Torre Eiffel con Diamantes...'
+sku: 'B01N6E5UZQ-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MWCCZ6X-es Funko Pickle Rick Bottle Opener Polypropelene Multicolor...'
+sku: 'B07MWCCZ6X-es'
 tags: [  ]
 actualPrice: 6.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00140TTTS-es Trixie Divisorio para el Coche Metálico Ajustable 85-140/...'
+sku: 'B00140TTTS-es'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PNUGV4Q-es Adidas Zx Flux - Zapatillas para Bebés Color Negro...'
+sku: 'B00PNUGV4Q-es'
 tags: [  ]
 actualPrice: 44.54 EUR
 currency: EUR

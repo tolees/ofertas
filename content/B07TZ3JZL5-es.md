@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZ3JZL5-es Iams refrigerios para gatos liofilizados sin granos...'
+sku: 'B07TZ3JZL5-es'
 tags: [  ]
 actualPrice: 7.77 EUR
 currency: EUR

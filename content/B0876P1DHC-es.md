@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0876P1DHC-es ANWEN para Samsung Galaxy A70E Protector de Pantalla HD 9H...'
+sku: 'B0876P1DHC-es'
 tags: [  ]
 actualPrice: 5.13 EUR
 currency: EUR

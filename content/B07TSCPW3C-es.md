@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TSCPW3C-es Batidora Portátil de Frutas Recargable Con USB Mini...'
+sku: 'B07TSCPW3C-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

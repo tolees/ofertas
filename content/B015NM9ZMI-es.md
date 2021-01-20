@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015NM9ZMI-es Clarins 72176 - Desmaquillante'
+sku: 'B015NM9ZMI-es'
 tags: [  ]
 actualPrice: 15.9 EUR
 currency: EUR

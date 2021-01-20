@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HCSY9HL-es Dell Precision 3530 - Ordenador portátil 15.6" FullHD...'
+sku: 'B07HCSY9HL-es'
 tags: [  ]
 actualPrice: 846.43 EUR
 currency: EUR

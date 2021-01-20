@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MGH27ZS-es Transportín Perro Gato Bolsa de Transporte Transpirable...'
+sku: 'B07MGH27ZS-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CSWJ4DB-es Cecotec Ventilador de Pie ForceSilence 500. 5 Aspas...'
+sku: 'B07CSWJ4DB-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

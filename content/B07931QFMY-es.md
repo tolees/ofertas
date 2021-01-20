@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07931QFMY-es Mr; Wonderful Woa08921Es Vela Con Mensaje "Eres La...'
+sku: 'B07931QFMY-es'
 tags: [  ]
 actualPrice: 8.48 EUR
 currency: EUR

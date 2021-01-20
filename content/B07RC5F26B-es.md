@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RC5F26B-es PUMA Challenger Duffel Bag M Bolsa Deporte Adultos Unisex...'
+sku: 'B07RC5F26B-es'
 tags: [  ]
 actualPrice: 19.49 EUR
 currency: EUR

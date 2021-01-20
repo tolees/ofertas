@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YHQLXFX-es Character World Disney Frozen Juego de Ropa de Cama...'
+sku: 'B07YHQLXFX-es'
 tags: [  ]
 actualPrice: 24.26 EUR
 currency: EUR

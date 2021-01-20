@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FFBN7LK-es Wrangler Greensboro Regular Jeans Azul Darkstone 090 30W /...'
+sku: 'B07FFBN7LK-es'
 tags: [  ]
 actualPrice: 55.99 EUR
 currency: EUR

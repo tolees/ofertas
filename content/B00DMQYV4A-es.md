@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DMQYV4A-es Yosoo C Forma Decoración Levitación Magnética Flotante...'
+sku: 'B00DMQYV4A-es'
 tags: [  ]
 actualPrice: 20.69 EUR
 currency: EUR

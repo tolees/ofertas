@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0895SR4YL-es JCKSimpleLife Pintar por NúMeros para Adultos NiñOs...'
+sku: 'B0895SR4YL-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

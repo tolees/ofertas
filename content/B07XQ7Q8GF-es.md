@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XQ7Q8GF-es inphic Auriculares Bluetooth reproducción las 24 horas...'
+sku: 'B07XQ7Q8GF-es'
 tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR

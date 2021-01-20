@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00QTG4YZG-es Algon AB126 Barbacoa desecheable Gris 24x31x4.5 cm'
+sku: 'B00QTG4YZG-es'
 tags: [  ]
 actualPrice: 4.18 EUR
 currency: EUR

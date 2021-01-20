@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071NZ9YVT-es PUMA Iconic Racer Back Bra 1P Ropa Interior Mujer Gris...'
+sku: 'B071NZ9YVT-es'
 tags: [  ]
 actualPrice: 14.98 EUR
 currency: EUR

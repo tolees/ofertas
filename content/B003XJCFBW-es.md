@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003XJCFBW-es Texet - Plastificadora tamaño A4'
+sku: 'B003XJCFBW-es'
 tags: [  ]
 actualPrice: 10.04 EUR
 currency: EUR

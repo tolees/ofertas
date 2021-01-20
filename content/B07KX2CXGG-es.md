@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KX2CXGG-es ZARRS Pegatina de Espuma Brillo 100 Pack Pegatina de...'
+sku: 'B07KX2CXGG-es'
 tags: [  ]
 actualPrice: 8.39 EUR
 currency: EUR

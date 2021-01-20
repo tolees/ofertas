@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017VSV2VO-es JUGUETE DE PINTURA POR NUMEROS - Flores - INTERHOME©'
+sku: 'B017VSV2VO-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

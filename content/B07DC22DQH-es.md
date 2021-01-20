@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DC22DQH-es Puma Turin II Zapatillas Unisex Adulto Azul Peacoat White...'
+sku: 'B07DC22DQH-es'
 tags: [  ]
 actualPrice: 27.5 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N0F8UM7-es MONTEMAGGI - Mueble de planchado con tabla y 3 cestas de...'
+sku: 'B01N0F8UM7-es'
 tags: [  ]
 actualPrice: 115.0 EUR
 currency: EUR

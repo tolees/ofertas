@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y25JDKF-es SPC Epic - Teléfono móvil Números y letras grandes Agenda...'
+sku: 'B07Y25JDKF-es'
 tags: [  ]
 actualPrice: 43.99 EUR
 currency: EUR

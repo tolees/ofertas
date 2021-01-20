@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079NDGBP7-es Huawei P20 Lite - Funda flip negra'
+sku: 'B079NDGBP7-es'
 tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR

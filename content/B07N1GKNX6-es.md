@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1GKNX6-es Clarks Sillian2.0pace Zapatillas para Mujer Negro Black...'
+sku: 'B07N1GKNX6-es'
 tags: [  ]
 actualPrice: 51.07 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08F5G6NMS-es yaoyan Adaptador USB 3.1 Tipo C USB-C a Dual 2 Hub Hub...'
+sku: 'B08F5G6NMS-es'
 tags: [  ]
 actualPrice: 2.62 EUR
 currency: EUR

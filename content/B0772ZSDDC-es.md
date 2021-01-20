@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0772ZSDDC-es Columbia Canyon Point Waterproof Zapatillas de Senderismo...'
+sku: 'B0772ZSDDC-es'
 tags: [  ]
 actualPrice: 65.63 EUR
 currency: EUR

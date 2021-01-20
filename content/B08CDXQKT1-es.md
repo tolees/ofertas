@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CDXQKT1-es Bolsas Reutilizables 40Pack bolsas congelación...'
+sku: 'B08CDXQKT1-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

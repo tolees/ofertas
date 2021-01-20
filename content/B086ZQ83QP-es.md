@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086ZQ83QP-es Hombre Zapatillas de Correr Casual para Deportivas de...'
+sku: 'B086ZQ83QP-es'
 tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR

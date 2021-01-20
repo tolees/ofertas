@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078MDLB77-es adidas VL Court 2.0 CMF C Zapatillas de Tenis Unisex Niños...'
+sku: 'B078MDLB77-es'
 tags: [  ]
 actualPrice: 11.91 EUR
 currency: EUR

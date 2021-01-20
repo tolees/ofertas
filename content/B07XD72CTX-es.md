@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XD72CTX-es Bedsure Bombilla Inteligente WiFi 2-Pack - Bombilla RGB...'
+sku: 'B07XD72CTX-es'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

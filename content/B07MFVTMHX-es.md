@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MFVTMHX-es Superdry Reloj Analógico para Hombre de Cuarzo con Correa...'
+sku: 'B07MFVTMHX-es'
 tags: [  ]
 actualPrice: 21.75 EUR
 currency: EUR

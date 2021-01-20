@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T1XNB85-es Marco digital'
+sku: 'B07T1XNB85-es'
 tags: [  ]
 actualPrice: 42.41 EUR
 currency: EUR

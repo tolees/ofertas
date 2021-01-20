@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MT8SDQB-es Funko Vinyl: Rick & Morty: Squanchy 12444'
+sku: 'B01MT8SDQB-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

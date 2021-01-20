@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XDVQ2SM-es NIVEA SUN Protege & Refresca Spray Bruma Solar FP50 1 x...'
+sku: 'B00XDVQ2SM-es'
 tags: [  ]
 actualPrice: 11.69 EUR
 currency: EUR

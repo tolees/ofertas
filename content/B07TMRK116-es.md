@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TMRK116-es Clarks Step Allena Go Zapatillas para Mujer Beige Mauve...'
+sku: 'B07TMRK116-es'
 tags: [  ]
 actualPrice: 27.95 EUR
 currency: EUR

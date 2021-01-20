@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JQCVY6B-es 50ml Ocean Perfume para Hombres Fragancias frescas Maduro...'
+sku: 'B07JQCVY6B-es'
 tags: [  ]
 actualPrice: 7.79 EUR
 currency: EUR

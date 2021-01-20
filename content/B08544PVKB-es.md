@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08544PVKB-es Fuentes de Alimentación Regulables HANMATEK HM305 Fuentes...'
+sku: 'B08544PVKB-es'
 tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR

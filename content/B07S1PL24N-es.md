@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S1PL24N-es New Balance 997H h Zapatillas para Hombre Gris Grey/Navy...'
+sku: 'B07S1PL24N-es'
 tags: [  ]
 actualPrice: 54.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LBBP5ZQ-es Ribeira Proteina Natural - Pechuga de Pavo al natural - 1...'
+sku: 'B01LBBP5ZQ-es'
 tags: [  ]
 actualPrice: 2.5 EUR
 currency: EUR

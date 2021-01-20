@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1JNQGN-es Clarks Sheer Flora Botas Chelsea para Mujer Negro Black...'
+sku: 'B07N1JNQGN-es'
 tags: [  ]
 actualPrice: 30.02 EUR
 currency: EUR

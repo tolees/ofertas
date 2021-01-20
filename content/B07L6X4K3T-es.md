@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L6X4K3T-es BLACK+DECKER NVC115JL-QW - Aspirador de mano sin cable...'
+sku: 'B07L6X4K3T-es'
 tags: [  ]
 actualPrice: 21.55 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BFRJSJ5-es Trust Ventu - Ventilador de refrigeración Color Violeta'
+sku: 'B07BFRJSJ5-es'
 tags: [  ]
 actualPrice: 4.97 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WWTZZVH-es oodji Ultra Mujer Mallas de Punto con Inscripción Rojo ES...'
+sku: 'B07WWTZZVH-es'
 tags: [  ]
 actualPrice: 7.0 EUR
 currency: EUR

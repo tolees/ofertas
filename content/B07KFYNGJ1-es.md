@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFYNGJ1-es PUMA Cali Wn s Zapatillas para Mujer Black-Teal Green 36 EU'
+sku: 'B07KFYNGJ1-es'
 tags: [  ]
 actualPrice: 64.8 EUR
 currency: EUR

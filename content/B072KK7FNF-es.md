@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072KK7FNF-es Adidas Adilette Shower Chanclas Hombre Rojo...'
+sku: 'B072KK7FNF-es'
 tags: [  ]
 actualPrice: 13.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00D2YOK5W-es Creative A250 - Equipo de altavoces 2.1'
+sku: 'B00D2YOK5W-es'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

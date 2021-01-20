@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RM5B4HB-es SUPRBIRD Guantes Ciclismo MTB Dedo Medio Guantes Hombre y...'
+sku: 'B07RM5B4HB-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

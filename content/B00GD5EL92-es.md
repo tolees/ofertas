@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GD5EL92-es Versa 20361010 Mesa entrada madera color blanco Dallas...'
+sku: 'B00GD5EL92-es'
 tags: [  ]
 actualPrice: 71.24 EUR
 currency: EUR

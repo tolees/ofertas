@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P5MWW77-es American Tourister Soundbox - Spinner Large Expandable...'
+sku: 'B07P5MWW77-es'
 tags: [  ]
 actualPrice: 121.92 EUR
 currency: EUR

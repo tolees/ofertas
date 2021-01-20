@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0758GTLSW-es Horquillas para el pelo de Miaoo 40 piezas de cristal con...'
+sku: 'B0758GTLSW-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

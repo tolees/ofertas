@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IHM6FEC-es Severin MY 7101 S POWER Fire 800 W - Aspiradora 800 W...'
+sku: 'B01IHM6FEC-es'
 tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR

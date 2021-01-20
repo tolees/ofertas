@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GT2MLYZ-es Desigual - Bag Clio Yakarta Mini Women Shoppers y bolsos...'
+sku: 'B07GT2MLYZ-es'
 tags: [  ]
 actualPrice: 47.49 EUR
 currency: EUR

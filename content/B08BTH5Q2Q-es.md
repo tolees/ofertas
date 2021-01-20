@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BTH5Q2Q-es Molyflower HD Head Desktop Laptop Computadora Cámara 8MP...'
+sku: 'B08BTH5Q2Q-es'
 tags: [  ]
 actualPrice: 6.89 EUR
 currency: EUR

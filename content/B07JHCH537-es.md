@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JHCH537-es Columbia Redmond V2 Zapatillas de Senderismo para Hombre...'
+sku: 'B07JHCH537-es'
 tags: [  ]
 actualPrice: 51.49 EUR
 currency: EUR

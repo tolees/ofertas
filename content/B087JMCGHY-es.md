@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087JMCGHY-es Sanlebi Light Up Tracing Board Dibujos para Niños Pintura...'
+sku: 'B087JMCGHY-es'
 tags: [  ]
 actualPrice: 23.86 EUR
 currency: EUR

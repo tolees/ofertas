@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BNKTBP6-es Reutilizables y Lavables Antipolvo CALIDAD MEJORADA - 1...'
+sku: 'B08BNKTBP6-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

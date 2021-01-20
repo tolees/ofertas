@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DY5F5RH-es Rollo de papel de regalo navideño Multipack 6 hojas de...'
+sku: 'B08DY5F5RH-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

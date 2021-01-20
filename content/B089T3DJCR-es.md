@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089T3DJCR-es Klarstein Beersafe Onyx - Nevera de bebidas con puerta...'
+sku: 'B089T3DJCR-es'
 tags: [  ]
 actualPrice: 249.99 EUR
 currency: EUR

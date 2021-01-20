@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJGJ944-es Superdry Classic Superstate S/s Polo Gris Flint Grey Grit...'
+sku: 'B07TJGJ944-es'
 tags: [  ]
 actualPrice: 28.66 EUR
 currency: EUR

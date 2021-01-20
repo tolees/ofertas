@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SJLGXV9-es La crema blanqueadora para las axilas nutre repara y...'
+sku: 'B07SJLGXV9-es'
 tags: [  ]
 actualPrice: 5.59 EUR
 currency: EUR

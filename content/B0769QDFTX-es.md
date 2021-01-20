@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0769QDFTX-es Kalokelvin Picadora Manual de Verdura Cortador de Verduras...'
+sku: 'B0769QDFTX-es'
 tags: [  ]
 actualPrice: 10.11 EUR
 currency: EUR

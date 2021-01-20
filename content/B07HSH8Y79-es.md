@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HSH8Y79-es Baby Art MY LITTLE STEPS - Recuerdo de bebé Grey Huella de...'
+sku: 'B07HSH8Y79-es'
 tags: [  ]
 actualPrice: 18.95 EUR
 currency: EUR

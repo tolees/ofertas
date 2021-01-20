@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XJDRS26-es AiSi - Cartera de mano para mujer rojo rosso Talla única'
+sku: 'B06XJDRS26-es'
 tags: [  ]
 actualPrice: 23.87 EUR
 currency: EUR

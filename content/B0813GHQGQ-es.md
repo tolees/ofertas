@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0813GHQGQ-es Reloj - BY BENYAR - para - BY-5164'
+sku: 'B0813GHQGQ-es'
 tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR

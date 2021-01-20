@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016D31EWA-es De Longhi DEX16F - Deshumidificador silencioso función...'
+sku: 'B016D31EWA-es'
 tags: [  ]
 actualPrice: 244.99 EUR
 currency: EUR

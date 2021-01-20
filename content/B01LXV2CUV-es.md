@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LXV2CUV-es Vernel Aromaterapia Secretos de Bienestar Suavizante...'
+sku: 'B01LXV2CUV-es'
 tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR

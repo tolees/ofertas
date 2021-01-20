@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NAACDFC-es DKN Colchoneta Tri-Fold Negro'
+sku: 'B00NAACDFC-es'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

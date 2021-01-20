@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BXM14FN-es Arthome Papel Pintado Adhesivo 53cm x 565cm Autoadhesivo...'
+sku: 'B07BXM14FN-es'
 tags: [  ]
 actualPrice: 24.98 EUR
 currency: EUR

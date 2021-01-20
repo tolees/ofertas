@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DRRIVOE-es Quantum Abacus Juego de Mesa magnético tamaño Compacto de...'
+sku: 'B01DRRIVOE-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

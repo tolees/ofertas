@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZ1LF44-es Kipling Creativity S Cartera para Mujer Verde Light Aloe...'
+sku: 'B07TZ1LF44-es'
 tags: [  ]
 actualPrice: 14.4 EUR
 currency: EUR

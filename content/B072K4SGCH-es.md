@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072K4SGCH-es SportPlus SP-ALB-011 Entrenador Abdominal Plegable para...'
+sku: 'B072K4SGCH-es'
 tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR

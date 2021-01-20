@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W98NC5H-es New Look Damen Pullover Op Fashioned Grün Verde Menta 37...'
+sku: 'B07W98NC5H-es'
 tags: [  ]
 actualPrice: 12.49 EUR
 currency: EUR

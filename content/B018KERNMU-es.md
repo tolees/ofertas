@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018KERNMU-es Oral-B Stages Power Kids Cepillo de Dientes Eléctrico con...'
+sku: 'B018KERNMU-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

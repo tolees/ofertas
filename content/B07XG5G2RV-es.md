@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XG5G2RV-es Mesa Coche para Niños lenbest Mesa de Viaje para Niños...'
+sku: 'B07XG5G2RV-es'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009EZXX6U-es neon nights 8 x Pintura Luz Negra Pintura UV Neón...'
+sku: 'B009EZXX6U-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

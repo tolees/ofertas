@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ERC8DTG-es L Oréal Paris - False Lash Mariposa Máscara de Pestañas...'
+sku: 'B01ERC8DTG-es'
 tags: [  ]
 actualPrice: 5.45 EUR
 currency: EUR

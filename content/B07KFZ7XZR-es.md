@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFZ7XZR-es Puma Icra Trainer Sd V Inf Zapatillas Unisex Niños Azul...'
+sku: 'B07KFZ7XZR-es'
 tags: [  ]
 actualPrice: 12.57 EUR
 currency: EUR

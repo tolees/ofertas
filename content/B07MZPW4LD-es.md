@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZPW4LD-es Pepe Jeans Dom suéter Dulwich 594 Medium para Hombre'
+sku: 'B07MZPW4LD-es'
 tags: [  ]
 actualPrice: 20.61 EUR
 currency: EUR

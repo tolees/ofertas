@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVJQ4BM-es Kipling - Arto Bolsos bandolera Mujer Morado Dark Plum...'
+sku: 'B07MVJQ4BM-es'
 tags: [  ]
 actualPrice: 34.5 EUR
 currency: EUR

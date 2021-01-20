@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C1XLLXN-es Accesorios de Herramientas Rotativas Meterk 349pcs 1/8"...'
+sku: 'B07C1XLLXN-es'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

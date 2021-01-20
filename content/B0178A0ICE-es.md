@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0178A0ICE-es Microsoft – Wireless Comfort Desktop 5050 Ratón y teclado...'
+sku: 'B0178A0ICE-es'
 tags: [  ]
 actualPrice: 43.33 EUR
 currency: EUR

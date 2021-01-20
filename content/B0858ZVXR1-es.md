@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0858ZVXR1-es Oihxse Funda Huawei P Smart 2019/Honor 10 Lite Ultra...'
+sku: 'B0858ZVXR1-es'
 tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR

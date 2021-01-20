@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000B9RKC6-es Brüder Mannesmann M12588 SDS-Plus - Juego de cinceles y...'
+sku: 'B000B9RKC6-es'
 tags: [  ]
 actualPrice: 25.33 EUR
 currency: EUR

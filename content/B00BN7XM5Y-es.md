@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BN7XM5Y-es Ureadin Lotion 10 - 1000ml'
+sku: 'B00BN7XM5Y-es'
 tags: [  ]
 actualPrice: 15.55 EUR
 currency: EUR

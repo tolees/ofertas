@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00T2XXJCW-es Remington Dual Curl CI63E1 - Rizador de pelo Pinza de 19 a...'
+sku: 'B00T2XXJCW-es'
 tags: [  ]
 actualPrice: 27.42 EUR
 currency: EUR

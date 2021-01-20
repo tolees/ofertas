@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01C4QL66Y-es SanDisk Extreme Pro - Tarjeta de Memoria microSDXC de 128...'
+sku: 'B01C4QL66Y-es'
 tags: [  ]
 actualPrice: 130.46 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VYN141M-es Skechers Ultra Groove Pure Vision Zapatillas para Mujer...'
+sku: 'B07VYN141M-es'
 tags: [  ]
 actualPrice: 43.3 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PHF35SZ-es FCSDETAIL Alfombrilla de Baño Antideslizantes de 50X80 cm...'
+sku: 'B07PHF35SZ-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

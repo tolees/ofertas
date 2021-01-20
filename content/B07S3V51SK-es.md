@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S3V51SK-es New Balance 574v2 Zapatillas para Hombre Negro Black/Grey...'
+sku: 'B07S3V51SK-es'
 tags: [  ]
 actualPrice: 53.21 EUR
 currency: EUR

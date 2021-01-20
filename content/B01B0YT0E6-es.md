@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01B0YT0E6-es Russell Hobbs Textures - Hervidor de Agua Eléctrico 2400 W...'
+sku: 'B01B0YT0E6-es'
 tags: [  ]
 actualPrice: 23.86 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086PBGSC2-es GAOAG Extensor WiFi 2020 Negro'
+sku: 'B086PBGSC2-es'
 tags: [  ]
 actualPrice: 24.9 EUR
 currency: EUR

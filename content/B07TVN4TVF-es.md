@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVN4TVF-es SHAN ZU Cuchillo de Cocina Nakiri 16.5cm Cuchillo Japones...'
+sku: 'B07TVN4TVF-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

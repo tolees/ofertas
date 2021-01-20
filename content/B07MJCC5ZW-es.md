@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MJCC5ZW-es Puckator Taza/mug Mando Videojuego Cerámica Multicolor...'
+sku: 'B07MJCC5ZW-es'
 tags: [  ]
 actualPrice: 5.45 EUR
 currency: EUR

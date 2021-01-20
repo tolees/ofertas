@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z7NX8FX-es HoneyHolly Botella de Agua Acero Inoxidable 750ml...'
+sku: 'B07Z7NX8FX-es'
 tags: [  ]
 actualPrice: 15.8 EUR
 currency: EUR

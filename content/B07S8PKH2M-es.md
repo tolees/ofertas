@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S8PKH2M-es PUMA Zone XT WNS Zapatillas Deportivas para Interior para...'
+sku: 'B07S8PKH2M-es'
 tags: [  ]
 actualPrice: 44.95 EUR
 currency: EUR

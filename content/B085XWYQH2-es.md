@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085XWYQH2-es Luz Lámpara de pared Pájaro pastoral fresco Nordic Little...'
+sku: 'B085XWYQH2-es'
 tags: [  ]
 actualPrice: 137.99 EUR
 currency: EUR

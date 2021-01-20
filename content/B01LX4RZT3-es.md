@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LX4RZT3-es PLAYMOBIL-Escaladores con Refugio Multicolor Sin...'
+sku: 'B01LX4RZT3-es'
 tags: [  ]
 actualPrice: 37.51 EUR
 currency: EUR

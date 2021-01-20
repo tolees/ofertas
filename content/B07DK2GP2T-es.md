@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DK2GP2T-es Festina Reloj Analógico para Mujer de Cuarzo con Correa en...'
+sku: 'B07DK2GP2T-es'
 tags: [  ]
 actualPrice: 71.66 EUR
 currency: EUR

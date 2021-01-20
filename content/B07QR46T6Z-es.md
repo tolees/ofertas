@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QR46T6Z-es Pantalones Cortos Deportivos 2 de 2 GARVIT Pantalones...'
+sku: 'B07QR46T6Z-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

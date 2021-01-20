@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NW7WWGV-es Skechers Street Cleats 2-Fashion Trail Zapatillas para...'
+sku: 'B07NW7WWGV-es'
 tags: [  ]
 actualPrice: 13.43 EUR
 currency: EUR

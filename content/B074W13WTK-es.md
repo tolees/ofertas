@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074W13WTK-es Diesel Reloj Cronógrafo para Hombre de Cuarzo con Correa...'
+sku: 'B074W13WTK-es'
 tags: [  ]
 actualPrice: 219.6 EUR
 currency: EUR

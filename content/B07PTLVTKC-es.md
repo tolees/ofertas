@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PTLVTKC-es Kipling - City Pack Mini Mochilas Mujer Multicolor Camo...'
+sku: 'B07PTLVTKC-es'
 tags: [  ]
 actualPrice: 26.98 EUR
 currency: EUR

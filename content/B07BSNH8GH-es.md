@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BSNH8GH-es Webcam Cubierta Webcam Cover Slider Laptop Camera Cover...'
+sku: 'B07BSNH8GH-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MIUZAZA-es Bosch Professional GLI 12V-330 - Linterna a batería 12V...'
+sku: 'B00MIUZAZA-es'
 tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR

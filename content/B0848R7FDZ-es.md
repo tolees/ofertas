@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0848R7FDZ-es Hurley M Printed Square Trucker Gorra Hombre Obsidian 1SIZE'
+sku: 'B0848R7FDZ-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

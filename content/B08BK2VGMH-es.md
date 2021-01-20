@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BK2VGMH-es Riñonera Running Riñonera Deportiva Mujer Hombre...'
+sku: 'B08BK2VGMH-es'
 tags: [  ]
 actualPrice: 9.98 EUR
 currency: EUR

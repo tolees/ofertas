@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K3X2G2S-es E·Durable 86in1 Herramientas pc Kit Destornilladores...'
+sku: 'B07K3X2G2S-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

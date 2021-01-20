@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NC1TKYV-es Samsung Silicone Cover funda oficial para Samsung Galaxy...'
+sku: 'B07NC1TKYV-es'
 tags: [  ]
 actualPrice: 12.29 EUR
 currency: EUR

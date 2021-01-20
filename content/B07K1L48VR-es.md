@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K1L48VR-es adidas Tiro19 3/4 Pnt Pantalones de Deporte Hombre...'
+sku: 'B07K1L48VR-es'
 tags: [  ]
 actualPrice: 23.49 EUR
 currency: EUR

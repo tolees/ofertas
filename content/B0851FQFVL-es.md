@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0851FQFVL-es Auriculares Bluetooth 5.0 Auriculares Inalambricos Cascos...'
+sku: 'B0851FQFVL-es'
 tags: [  ]
 actualPrice: 11.93 EUR
 currency: EUR

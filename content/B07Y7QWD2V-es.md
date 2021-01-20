@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y7QWD2V-es Compatible con iPhone XS Max Carcasa transparente de...'
+sku: 'B07Y7QWD2V-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

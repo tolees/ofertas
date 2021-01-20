@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PKPKLNK-es Fiambrera de silicona Juego de 4 PCS de Recipientes de...'
+sku: 'B07PKPKLNK-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

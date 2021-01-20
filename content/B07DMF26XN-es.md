@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DMF26XN-es Lacoste ESPARRE BL 1 CMA Zapatillas para Hombre Azul...'
+sku: 'B07DMF26XN-es'
 tags: [  ]
 actualPrice: 37.07 EUR
 currency: EUR

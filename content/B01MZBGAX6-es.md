@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MZBGAX6-es Apolyne Portable Juego de Mesa Portátil Ping Pongtable...'
+sku: 'B01MZBGAX6-es'
 tags: [  ]
 actualPrice: 11.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00RGKK9FI-es Bosch Professional - Bolsa para herramrientas talla Medium...'
+sku: 'B00RGKK9FI-es'
 tags: [  ]
 actualPrice: 35.3 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBLLVCF-es Tommy Hilfiger Thong Tanga Azul Navy Blazer 416 40 Talla...'
+sku: 'B07LBLLVCF-es'
 tags: [  ]
 actualPrice: 10.2 EUR
 currency: EUR

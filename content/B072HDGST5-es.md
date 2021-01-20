@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072HDGST5-es Mujer Pendientes Azul Joyería Circonita Lágrima con blanco...'
+sku: 'B072HDGST5-es'
 tags: [  ]
 actualPrice: 9.87 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MYRRLVT-es Soehnle Style Sense Safe 300 - Bascula de bano color gris'
+sku: 'B01MYRRLVT-es'
 tags: [  ]
 actualPrice: 20.86 EUR
 currency: EUR

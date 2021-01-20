@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SDNJYGM-es Riuty Dardos de Espuma Recargue Dardos de Espuma para...'
+sku: 'B07SDNJYGM-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

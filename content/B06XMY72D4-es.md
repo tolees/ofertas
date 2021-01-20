@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XMY72D4-es BSN Suplemento Dietético en Polvo "Syntha 6" Sabor de...'
+sku: 'B06XMY72D4-es'
 tags: [  ]
 actualPrice: 40.07 EUR
 currency: EUR

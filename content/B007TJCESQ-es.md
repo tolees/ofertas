@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007TJCESQ-es Alessi | GAG02 Sbriciola Tabla de Cortar de Bambú con...'
+sku: 'B007TJCESQ-es'
 tags: [  ]
 actualPrice: 63.47 EUR
 currency: EUR

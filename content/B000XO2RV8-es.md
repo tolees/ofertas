@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000XO2RV8-es Intex 28273NP Small Frame - Piscina desmontable tubular...'
+sku: 'B000XO2RV8-es'
 tags: [  ]
 actualPrice: 124.6 EUR
 currency: EUR

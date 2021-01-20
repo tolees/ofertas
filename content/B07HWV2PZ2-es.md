@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HWV2PZ2-es Real Madrid FC Body Niños - Producto Oficial Primera...'
+sku: 'B07HWV2PZ2-es'
 tags: [  ]
 actualPrice: 10.89 EUR
 currency: EUR

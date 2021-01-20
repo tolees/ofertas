@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086RKB3RS-es Equipaje Maletas y Bolsas de Viaje - Premium Designer...'
+sku: 'B086RKB3RS-es'
 tags: [  ]
 actualPrice: 463.91 EUR
 currency: EUR

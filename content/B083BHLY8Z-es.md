@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083BHLY8Z-es Camicia Dottore/Dottoressa Accessori Valigetta Dottore...'
+sku: 'B083BHLY8Z-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

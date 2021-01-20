@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FQVQVB7-es GANT FOOTWEAR New Haven Zapatillas para Mujer Bright White...'
+sku: 'B07FQVQVB7-es'
 tags: [  ]
 actualPrice: 22.92 EUR
 currency: EUR

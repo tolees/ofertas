@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MDKVU51-es SSLR Pantalones para Hombre Slim Fit Largos Casuales...'
+sku: 'B01MDKVU51-es'
 tags: [  ]
 actualPrice: 21.9 EUR
 currency: EUR

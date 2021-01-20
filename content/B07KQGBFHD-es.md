@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KQGBFHD-es Salomon ALPHACROSS GTX W Zapatillas de Trail Running para...'
+sku: 'B07KQGBFHD-es'
 tags: [  ]
 actualPrice: 40.0 EUR
 currency: EUR

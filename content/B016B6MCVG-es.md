@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016B6MCVG-es Gant Cotton Pique Crew suéter Azul Evening Blue 433 Medium...'
+sku: 'B016B6MCVG-es'
 tags: [  ]
 actualPrice: 65.95 EUR
 currency: EUR

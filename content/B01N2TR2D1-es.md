@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N2TR2D1-es WITHLIN Paquete de fotografía profesional - deporte...'
+sku: 'B01N2TR2D1-es'
 tags: [  ]
 actualPrice: 9.0 EUR
 currency: EUR

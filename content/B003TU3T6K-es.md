@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003TU3T6K-es pjur med REPAIR glide - Lubricante sanitario acuoso - El...'
+sku: 'B003TU3T6K-es'
 tags: [  ]
 actualPrice: 10.49 EUR
 currency: EUR

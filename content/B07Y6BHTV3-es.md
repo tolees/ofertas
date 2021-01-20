@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y6BHTV3-es Manicura Eléctrico Pulidor de Uñas Aparatos Eléctricos y...'
+sku: 'B07Y6BHTV3-es'
 tags: [  ]
 actualPrice: 21.74 EUR
 currency: EUR

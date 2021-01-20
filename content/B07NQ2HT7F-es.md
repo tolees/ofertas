@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NQ2HT7F-es Brabantia Bo Touch Bin Cubo de basura 11 + 23 l color...'
+sku: 'B07NQ2HT7F-es'
 tags: [  ]
 actualPrice: 111.3 EUR
 currency: EUR

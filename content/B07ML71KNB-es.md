@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ML71KNB-es RECCI - Topper Colchón de Espuma 140x200cm Topper...'
+sku: 'B07ML71KNB-es'
 tags: [  ]
 actualPrice: 109.99 EUR
 currency: EUR

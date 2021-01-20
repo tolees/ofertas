@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPKJXWX-es Pioneer PHA-M70-H - Amplificador de Sonido Personal Color...'
+sku: 'B07KPKJXWX-es'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

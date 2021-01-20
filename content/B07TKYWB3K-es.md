@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TKYWB3K-es Sabrent 1TB Rocket Nvme PCIe 4.0 M.2 2280 Unidad de estado...'
+sku: 'B07TKYWB3K-es'
 tags: [  ]
 actualPrice: 219.99 EUR
 currency: EUR

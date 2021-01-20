@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CNHCLYJ-es Aspiradora de Mano Sin Cable Potente 9000PA/120W con Luz...'
+sku: 'B08CNHCLYJ-es'
 tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR

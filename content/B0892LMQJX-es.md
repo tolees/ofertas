@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0892LMQJX-es luosh 10 Hojas de Papel de calco de vitela translúcido A4...'
+sku: 'B0892LMQJX-es'
 tags: [  ]
 actualPrice: 6.51 EUR
 currency: EUR

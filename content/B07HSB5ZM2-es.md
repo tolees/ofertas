@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HSB5ZM2-es SHARP PS-940 Altavoces Bluetooth Karaoke Party con...'
+sku: 'B07HSB5ZM2-es'
 tags: [  ]
 actualPrice: 119.99 EUR
 currency: EUR

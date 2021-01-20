@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GONJGIS-es Imation I18646 - Pack de CD-R vírgenes 25 unidades 80 minutos'
+sku: 'B01GONJGIS-es'
 tags: [  ]
 actualPrice: 5.4 EUR
 currency: EUR

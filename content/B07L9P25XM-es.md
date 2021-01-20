@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9P25XM-es Lacoste Carnaby EVO 319 1 SMA Zapatillas para Hombre...'
+sku: 'B07L9P25XM-es'
 tags: [  ]
 actualPrice: 69.0 EUR
 currency: EUR

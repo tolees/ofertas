@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NW6CRCN-es Skechers Women s Stamina-Classy Trail Trainers Black Black...'
+sku: 'B07NW6CRCN-es'
 tags: [  ]
 actualPrice: 47.6 EUR
 currency: EUR

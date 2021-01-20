@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C7GTCJP-es JACK & JONES Jfwstoke Nubuck Java Botas Clasicas para...'
+sku: 'B07C7GTCJP-es'
 tags: [  ]
 actualPrice: 43.99 EUR
 currency: EUR

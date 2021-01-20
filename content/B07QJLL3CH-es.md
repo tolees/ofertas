@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QJLL3CH-es WMF 545304021 Permadur Element Paellera Aluminio...'
+sku: 'B07QJLL3CH-es'
 tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L6CCH73-es DELIMIRA Mujer Sujetador Deportivo Talla Grande de Alto...'
+sku: 'B07L6CCH73-es'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

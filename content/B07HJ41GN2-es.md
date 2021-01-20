@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HJ41GN2-es FONDBERYL Conjuntos de lencería Mujer Sexy Lencería...'
+sku: 'B07HJ41GN2-es'
 tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR

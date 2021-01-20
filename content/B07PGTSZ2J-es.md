@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PGTSZ2J-es Lenovo D24f - Monitor de 23.6" Pantalla Full HD 1920 x...'
+sku: 'B07PGTSZ2J-es'
 tags: [  ]
 actualPrice: 119.99 EUR
 currency: EUR

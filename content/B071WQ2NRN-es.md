@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071WQ2NRN-es Pokémon Ultrasol'
+sku: 'B071WQ2NRN-es'
 tags: [  ]
 actualPrice: 21.0 EUR
 currency: EUR

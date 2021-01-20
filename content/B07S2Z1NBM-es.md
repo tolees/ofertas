@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S2Z1NBM-es New Balance 373v2 Zapatillas para Hombre Negro Black/White...'
+sku: 'B07S2Z1NBM-es'
 tags: [  ]
 actualPrice: 38.85 EUR
 currency: EUR

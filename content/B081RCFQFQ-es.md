@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081RCFQFQ-es BRIKSMAX Kit de Iluminación Led para Lego Hidden Side...'
+sku: 'B081RCFQFQ-es'
 tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR

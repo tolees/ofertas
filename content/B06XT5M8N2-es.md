@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XT5M8N2-es Braga impermeable en PVC Ayuda a la incontinencia flexible...'
+sku: 'B06XT5M8N2-es'
 tags: [  ]
 actualPrice: 9.85 EUR
 currency: EUR

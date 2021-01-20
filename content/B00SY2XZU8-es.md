@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SY2XZU8-es Lotus Reloj Analógico para Niños de Cuarzo con Correa en...'
+sku: 'B00SY2XZU8-es'
 tags: [  ]
 actualPrice: 47.81 EUR
 currency: EUR

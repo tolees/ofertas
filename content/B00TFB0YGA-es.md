@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TFB0YGA-es Optimum Nutrition ON Gold Standard Pre Workout en Polvo...'
+sku: 'B00TFB0YGA-es'
 tags: [  ]
 actualPrice: 17.3 EUR
 currency: EUR

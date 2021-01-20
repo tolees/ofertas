@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DBCDGZ3-es TELLW Verano Hombre Dama casa par Interior Lino Zapatillas...'
+sku: 'B07DBCDGZ3-es'
 tags: [  ]
 actualPrice: 10.97 EUR
 currency: EUR

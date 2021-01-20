@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FDRBWPJ-es Gentai 256GB/512GB/1024GB Tarjeta Micro SD Tabletas...'
+sku: 'B08FDRBWPJ-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

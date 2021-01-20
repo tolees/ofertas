@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082VNCDLZ-es Rexona Maximum Protection Crema Antitranspirante Stress...'
+sku: 'B082VNCDLZ-es'
 tags: [  ]
 actualPrice: 2.99 EUR
 currency: EUR

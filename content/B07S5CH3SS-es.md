@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S5CH3SS-es Love MoschinoJc4054pp1aMujerBolsos bandoleraMarfil Avorio...'
+sku: 'B07S5CH3SS-es'
 tags: [  ]
 actualPrice: 69.51 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GB97Z4M-es GLOGLOW 2pcs Tactical Helmet Headset Support Plastic +...'
+sku: 'B07GB97Z4M-es'
 tags: [  ]
 actualPrice: 17.79 EUR
 currency: EUR

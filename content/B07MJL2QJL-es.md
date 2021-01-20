@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MJL2QJL-es Ferilinso Funda para Xiaomi Redmi Note 7/ Note 7S/ Note 7...'
+sku: 'B07MJL2QJL-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

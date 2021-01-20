@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZQ2DTV-es Vans Filmore Decon Zapatillas para Mujer Rosa Suede Lilac...'
+sku: 'B07MZQ2DTV-es'
 tags: [  ]
 actualPrice: 26.84 EUR
 currency: EUR

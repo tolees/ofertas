@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QFRGDHR-es Grafoplás Bits & Bobs Estuches 3 Compartimentos con Solapa...'
+sku: 'B07QFRGDHR-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

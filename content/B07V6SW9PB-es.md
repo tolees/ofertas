@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V6SW9PB-es Kipling Travel Doc Wrist Cartera para Pasaporte 23 cm 1...'
+sku: 'B07V6SW9PB-es'
 tags: [  ]
 actualPrice: 27.3 EUR
 currency: EUR

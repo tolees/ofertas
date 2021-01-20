@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07775QGJS-es Tommy Jeans Mujer Mid Rise Nora Jeans Azul Boogie Blue...'
+sku: 'B07775QGJS-es'
 tags: [  ]
 actualPrice: 77.99 EUR
 currency: EUR

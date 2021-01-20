@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDQ2MML-es G-STAR RAW Lynn High Waist Skinny Mono Azul Deep Blue...'
+sku: 'B07NDQ2MML-es'
 tags: [  ]
 actualPrice: 36.11 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K4ZGXR1-es adidas Handball Spezial Sneaker Mens Collegiate Navy/Clear...'
+sku: 'B07K4ZGXR1-es'
 tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00Z83ZEVY-es Under Armour UA 7.5cm Performance Wristband Pack de 2...'
+sku: 'B00Z83ZEVY-es'
 tags: [  ]
 actualPrice: 7.14 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y2H3DM7-es Craft Lightcraft Shineball S-XL Set lámparas Esfera...'
+sku: 'B06Y2H3DM7-es'
 tags: [  ]
 actualPrice: 189.99 EUR
 currency: EUR

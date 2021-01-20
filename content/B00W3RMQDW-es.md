@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00W3RMQDW-es Joma Record Pantalones cortos Hombre Rojo M'
+sku: 'B00W3RMQDW-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081QHNBJF-es Neutrogena Cellular Boost Anti-Edad Crema De Día Spf 20...'
+sku: 'B081QHNBJF-es'
 tags: [  ]
 actualPrice: 17.4 EUR
 currency: EUR

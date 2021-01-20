@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BZQZ5YD-es Kipling Creativity L Monederos para Mujer Azul True Dazz...'
+sku: 'B07BZQZ5YD-es'
 tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR

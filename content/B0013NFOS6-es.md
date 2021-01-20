@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0013NFOS6-es NUK First Choice+ - Pack de 2 tetinas de látex talla M 0-6...'
+sku: 'B0013NFOS6-es'
 tags: [  ]
 actualPrice: 3.25 EUR
 currency: EUR

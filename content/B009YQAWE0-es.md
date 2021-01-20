@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009YQAWE0-es Belkin F5U404CW - Hub USB 2.0 de 4 Puertos con Fuente de...'
+sku: 'B009YQAWE0-es'
 tags: [  ]
 actualPrice: 9.97 EUR
 currency: EUR

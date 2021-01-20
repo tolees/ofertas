@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S7CJ5V4-es adidas Cushioned Crew Calcetines Largo Clásico Unisex...'
+sku: 'B07S7CJ5V4-es'
 tags: [  ]
 actualPrice: 7.95 EUR
 currency: EUR

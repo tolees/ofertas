@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086BTLBKD-es Oihxse Funda Compatible con Samsung Galaxy C9 Pro Carcasa...'
+sku: 'B086BTLBKD-es'
 tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR

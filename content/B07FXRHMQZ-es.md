@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FXRHMQZ-es NaturGreen Panela Jugo de caña de azúcar cristalizado-...'
+sku: 'B07FXRHMQZ-es'
 tags: [  ]
 actualPrice: 10.07 EUR
 currency: EUR

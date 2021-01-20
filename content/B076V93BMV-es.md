@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076V93BMV-es Telémetro Láser 60m Profesional Digital Multifuncional...'
+sku: 'B076V93BMV-es'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

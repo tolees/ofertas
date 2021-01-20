@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DWHQG4W-es Neo Geo Mini - Gamepad Mini Negro Neo Geo'
+sku: 'B07DWHQG4W-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

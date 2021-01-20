@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBMQ7MY-es Kappa Overton Zapatillas Unisex Adulto White Red 1020 40 EU'
+sku: 'B07LBMQ7MY-es'
 tags: [  ]
 actualPrice: 27.25 EUR
 currency: EUR

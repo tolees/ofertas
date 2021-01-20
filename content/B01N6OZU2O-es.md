@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N6OZU2O-es Naipo Almohada de Masaje para Cuello y Espalda Shiatsu...'
+sku: 'B01N6OZU2O-es'
 tags: [  ]
 actualPrice: 42.99 EUR
 currency: EUR

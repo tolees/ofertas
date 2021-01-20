@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085NV4VM8-es DoGeek Zapato Seguridad Calzado Seguridad Hombre con Punta...'
+sku: 'B085NV4VM8-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

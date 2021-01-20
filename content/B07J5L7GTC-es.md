@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J5L7GTC-es Optimum Nutrition Gold Standard 100% Plant Proteína Vegana...'
+sku: 'B07J5L7GTC-es'
 tags: [  ]
 actualPrice: 19.65 EUR
 currency: EUR

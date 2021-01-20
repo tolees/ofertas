@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R9J5RTQ-es ORICO Tiras para Organizar Cables y Sujetacables...'
+sku: 'B07R9J5RTQ-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

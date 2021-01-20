@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFJCMVH-es Pop! Austin Powers - Figura de Vinilo Dr. Evil'
+sku: 'B07DFJCMVH-es'
 tags: [  ]
 actualPrice: 9.89 EUR
 currency: EUR

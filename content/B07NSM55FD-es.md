@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NSM55FD-es Lorus Reloj Cronógrafo para Hombre de Cuarzo con Correa en...'
+sku: 'B07NSM55FD-es'
 tags: [  ]
 actualPrice: 50.0 EUR
 currency: EUR

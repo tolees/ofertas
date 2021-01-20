@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008A4MNFS-es HELLA 1F8 006 800-321 Faro de carretera - Rallye 3000 -...'
+sku: 'B008A4MNFS-es'
 tags: [  ]
 actualPrice: 36.37 EUR
 currency: EUR

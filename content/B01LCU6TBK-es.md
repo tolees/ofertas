@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LCU6TBK-es Kinder Bueno Mini Barritas con Relleno de Leche y...'
+sku: 'B01LCU6TBK-es'
 tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR

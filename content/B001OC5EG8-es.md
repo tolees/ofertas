@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001OC5EG8-es Ecco Helsinki Mocasines para Hombre Negro BLACK101 39 EU'
+sku: 'B001OC5EG8-es'
 tags: [  ]
 actualPrice: 87.95 EUR
 currency: EUR

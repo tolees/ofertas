@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N8S2RTG-es BOSS Paule 4 Polo Hombre Blanco Natural XX-Large'
+sku: 'B07N8S2RTG-es'
 tags: [  ]
 actualPrice: 36.02 EUR
 currency: EUR

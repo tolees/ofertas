@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001PTDGAG-es HUNTER Comida Acero Inoxidable'
+sku: 'B001PTDGAG-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

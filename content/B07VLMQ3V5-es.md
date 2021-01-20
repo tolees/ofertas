@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VLMQ3V5-es OrgaWise Joyero Viaje Voyage Plegable Multifuncional para...'
+sku: 'B07VLMQ3V5-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

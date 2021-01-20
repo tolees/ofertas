@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0052SUBX6-es Calvin Klein 3p Low Rise Trunk Calcetines Multicolor...'
+sku: 'B0052SUBX6-es'
 tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR

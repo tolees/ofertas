@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087DW3BK2-es Aidodo Difusor de Aroma 400ml Humidificador Ultrasónico...'
+sku: 'B087DW3BK2-es'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

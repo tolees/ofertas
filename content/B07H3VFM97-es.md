@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H3VFM97-es Emma & Giovanni - Pullover- Mujer Beige M/L'
+sku: 'B07H3VFM97-es'
 tags: [  ]
 actualPrice: 12.9 EUR
 currency: EUR

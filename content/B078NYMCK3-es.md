@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078NYMCK3-es HongYH 2-Pack Ropa para Perros Perros Gatos Onesie Pijamas...'
+sku: 'B078NYMCK3-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01C2RGRNM-es Habitdesign 007833BO - Comoda Estilo nórdico sinfonier...'
+sku: 'B01C2RGRNM-es'
 tags: [  ]
 actualPrice: 76.0 EUR
 currency: EUR

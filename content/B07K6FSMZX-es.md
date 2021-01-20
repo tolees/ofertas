@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K6FSMZX-es Ortho Care S Fitness - Entrenamiento en...'
+sku: 'B07K6FSMZX-es'
 tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR

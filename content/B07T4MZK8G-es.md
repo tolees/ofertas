@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T4MZK8G-es Lapens Zapatillas de correr para mujer color talla 35.5 EU'
+sku: 'B07T4MZK8G-es'
 tags: [  ]
 actualPrice: 29.67 EUR
 currency: EUR

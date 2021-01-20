@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NVB1YDC-es modamoda de - cuero italiano de embrague T151 Pequeño...'
+sku: 'B07NVB1YDC-es'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

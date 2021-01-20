@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BJHF4Z4-es Postquam - Pur O2 | Gel Purificante con Ácido Salicílico...'
+sku: 'B00BJHF4Z4-es'
 tags: [  ]
 actualPrice: 11.03 EUR
 currency: EUR

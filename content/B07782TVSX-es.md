@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07782TVSX-es Kit de espátula de glaseado premium de 4 piezas WisFox...'
+sku: 'B07782TVSX-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

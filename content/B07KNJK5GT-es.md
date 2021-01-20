@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KNJK5GT-es MILAGRITO DESENGRASANTE MULTIUSOS LOTE AHORRO'
+sku: 'B07KNJK5GT-es'
 tags: [  ]
 actualPrice: 9.48 EUR
 currency: EUR

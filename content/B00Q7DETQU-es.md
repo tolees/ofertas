@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00Q7DETQU-es Michael Kors Reloj Analogico para Mujer de Cuarzo con...'
+sku: 'B00Q7DETQU-es'
 tags: [  ]
 actualPrice: 115.01 EUR
 currency: EUR

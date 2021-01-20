@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N9JNRPQ-es Timex Reloj de Pulsera TW2R96400'
+sku: 'B07N9JNRPQ-es'
 tags: [  ]
 actualPrice: 77.4 EUR
 currency: EUR

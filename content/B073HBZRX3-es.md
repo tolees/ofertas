@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073HBZRX3-es Maybelline New York Super Stay Barra de Labios Matte Ink...'
+sku: 'B073HBZRX3-es'
 tags: [  ]
 actualPrice: 3.91 EUR
 currency: EUR

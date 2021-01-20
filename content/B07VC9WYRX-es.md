@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VC9WYRX-es Jack & Jones Jorclan Parka Verde Forest Night Forest Night...'
+sku: 'B07VC9WYRX-es'
 tags: [  ]
 actualPrice: 20.54 EUR
 currency: EUR

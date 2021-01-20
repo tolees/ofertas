@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDMP28B-es G-STAR RAW Xpo Raincoat Impermeable Azul Mazarine Blue...'
+sku: 'B07NDMP28B-es'
 tags: [  ]
 actualPrice: 62.95 EUR
 currency: EUR

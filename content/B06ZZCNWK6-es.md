@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06ZZCNWK6-es PAAD06015SL Laptop CPU Cooling Fan For GE60 16GA 16GC...'
+sku: 'B06ZZCNWK6-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

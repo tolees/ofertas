@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QBPG1TJ-es G-STAR RAW Vetar Slim Chino Pantalones Azul Mazarine Blue...'
+sku: 'B07QBPG1TJ-es'
 tags: [  ]
 actualPrice: 17.78 EUR
 currency: EUR

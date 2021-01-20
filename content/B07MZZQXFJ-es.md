@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZZQXFJ-es Adidas Predator 19.3 AG J - Botas de fútbol Unisex Niños...'
+sku: 'B07MZZQXFJ-es'
 tags: [  ]
 actualPrice: 33.05 EUR
 currency: EUR

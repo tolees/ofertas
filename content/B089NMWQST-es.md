@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089NMWQST-es NDANH9896 Teléfono Fijo líneas Simples Estilo Retro La...'
+sku: 'B089NMWQST-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

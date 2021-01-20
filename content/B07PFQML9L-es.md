@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PFQML9L-es American Tourister Disney Legends Spinner L Maleta...'
+sku: 'B07PFQML9L-es'
 tags: [  ]
 actualPrice: 87.77 EUR
 currency: EUR

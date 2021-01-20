@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XSQ644G-es L.O.L Surprise Giochi Preziosi Hairvibes - Juguete para...'
+sku: 'B07XSQ644G-es'
 tags: [  ]
 actualPrice: 20.55 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CCDSWSR-es Rimmel London Brow This Way Fill & Sculpt Lápiz de Cejas...'
+sku: 'B07CCDSWSR-es'
 tags: [  ]
 actualPrice: 2.58 EUR
 currency: EUR

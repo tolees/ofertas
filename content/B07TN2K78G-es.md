@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TN2K78G-es Vans Atwood Textile Suede Zapatillas para Hombre Negro...'
+sku: 'B07TN2K78G-es'
 tags: [  ]
 actualPrice: 26.67 EUR
 currency: EUR

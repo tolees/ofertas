@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M4N16YM-es MyKronoz MKZESPORT - Reloj de Actividad y sueño...'
+sku: 'B01M4N16YM-es'
 tags: [  ]
 actualPrice: 89.27 EUR
 currency: EUR

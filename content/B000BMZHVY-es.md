@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000BMZHVY-es HP Q6471A - Cartucho de tóner'
+sku: 'B000BMZHVY-es'
 tags: [  ]
 actualPrice: 50 EUR
 currency: EUR

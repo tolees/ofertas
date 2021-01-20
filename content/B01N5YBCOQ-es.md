@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N5YBCOQ-es Astor Lash Beautifier Volume&Tint Máscara de Pestañas Tono...'
+sku: 'B01N5YBCOQ-es'
 tags: [  ]
 actualPrice: 5.48 EUR
 currency: EUR

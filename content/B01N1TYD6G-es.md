@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N1TYD6G-es VS Venta-stock Aparador Java 3 cajones y 2 Puertas...'
+sku: 'B01N1TYD6G-es'
 tags: [  ]
 actualPrice: 169.99 EUR
 currency: EUR

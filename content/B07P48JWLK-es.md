@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P48JWLK-es Skechers Go Run 600 Zapatillas para Hombre Negro Black...'
+sku: 'B07P48JWLK-es'
 tags: [  ]
 actualPrice: 33.83 EUR
 currency: EUR

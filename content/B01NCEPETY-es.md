@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NCEPETY-es Funko Pop! - Vinyl The Dark Tower: The Man in Black 12704'
+sku: 'B01NCEPETY-es'
 tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR

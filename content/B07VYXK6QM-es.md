@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VYXK6QM-es Intex 57294EU - Isla Hinchable Llama'
+sku: 'B07VYXK6QM-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

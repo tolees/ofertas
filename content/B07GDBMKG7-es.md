@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GDBMKG7-es Emporio Armani Smartwatch ART5009'
+sku: 'B07GDBMKG7-es'
 tags: [  ]
 actualPrice: 229.0 EUR
 currency: EUR

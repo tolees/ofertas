@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R88YMLX-es Grupo Erik Carpeta 4 anillas troquelada premium Glitter...'
+sku: 'B07R88YMLX-es'
 tags: [  ]
 actualPrice: 5.5 EUR
 currency: EUR

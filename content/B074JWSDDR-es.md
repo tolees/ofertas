@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074JWSDDR-es Bulova Reloj de Pulsera 98A197'
+sku: 'B074JWSDDR-es'
 tags: [  ]
 actualPrice: 128.21 EUR
 currency: EUR

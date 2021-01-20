@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0842P9DPN-es Panamami 6 Tamaño diferente Forma redonda Práctico Punto...'
+sku: 'B0842P9DPN-es'
 tags: [  ]
 actualPrice: 4.01 EUR
 currency: EUR

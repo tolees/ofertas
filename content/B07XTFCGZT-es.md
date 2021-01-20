@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XTFCGZT-es LARPOTE con Funda Huawei P20 Pro Funda Piel PU Soporte...'
+sku: 'B07XTFCGZT-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

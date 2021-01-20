@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2LQYJ3-es Adidas Falcon Zapatillas de Running Hombre Negro Core...'
+sku: 'B07K2LQYJ3-es'
 tags: [  ]
 actualPrice: 29.9 EUR
 currency: EUR

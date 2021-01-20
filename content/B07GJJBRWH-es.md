@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GJJBRWH-es LKXHarleya Baby Anniversary Monthly Milestone Blanket Age...'
+sku: 'B07GJJBRWH-es'
 tags: [  ]
 actualPrice: 17.54 EUR
 currency: EUR

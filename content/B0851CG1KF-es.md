@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0851CG1KF-es Calcetines de barco Calcetines de marea de estudiante...'
+sku: 'B0851CG1KF-es'
 tags: [  ]
 actualPrice: 1.28 EUR
 currency: EUR

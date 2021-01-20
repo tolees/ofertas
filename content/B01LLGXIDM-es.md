@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LLGXIDM-es 1 par Pendientes pequeños de plata de las mujeres...'
+sku: 'B01LLGXIDM-es'
 tags: [  ]
 actualPrice: 0.77 EUR
 currency: EUR

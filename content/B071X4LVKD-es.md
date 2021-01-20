@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071X4LVKD-es Waldbeck Clearflow 55UV Filtro Exterior Acuario con...'
+sku: 'B071X4LVKD-es'
 tags: [  ]
 actualPrice: 94.99 EUR
 currency: EUR

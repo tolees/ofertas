@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GHCDG78-es Mengshen Mini DLP Proyector Portátil Recargable...'
+sku: 'B01GHCDG78-es'
 tags: [  ]
 actualPrice: 189.99 EUR
 currency: EUR

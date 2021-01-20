@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087TFH1TM-es LIFEBEE Smartwatch Reloj Inteligente Impermeable 5ATM...'
+sku: 'B087TFH1TM-es'
 tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR

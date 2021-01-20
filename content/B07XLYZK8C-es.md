@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XLYZK8C-es Axe Necesser Ice Chill Bodyspray 150 ml + Eau de Toillete...'
+sku: 'B07XLYZK8C-es'
 tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NXV8SSL-es San Ignacio Navy Black Set de 3 sartenes + 4 recipientes...'
+sku: 'B07NXV8SSL-es'
 tags: [  ]
 actualPrice: 42.61 EUR
 currency: EUR

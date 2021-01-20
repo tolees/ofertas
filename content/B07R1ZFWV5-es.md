@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R1ZFWV5-es Under Armour Rush Leggings Legging Mujer Negro...'
+sku: 'B07R1ZFWV5-es'
 tags: [  ]
 actualPrice: 25.37 EUR
 currency: EUR

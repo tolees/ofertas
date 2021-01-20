@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MOIX3SC-es Beurer IPL-10000 + - Depiladora de luz pulsada con base...'
+sku: 'B00MOIX3SC-es'
 tags: [  ]
 actualPrice: 234.99 EUR
 currency: EUR

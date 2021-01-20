@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018LNR2PS-es Brazalete Deportivo para Correr Prueba de Sudor Apoyo...'
+sku: 'B018LNR2PS-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

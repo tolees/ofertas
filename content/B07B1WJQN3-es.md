@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B1WJQN3-es POC Essential Road Bib Shorts Hombre Uranium Black XSM'
+sku: 'B07B1WJQN3-es'
 tags: [  ]
 actualPrice: 60.78 EUR
 currency: EUR

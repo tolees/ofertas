@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JQLQ9YX-es Under Armour Cinch Printed Tote Bolsa Deportiva Mujer...'
+sku: 'B07JQLQ9YX-es'
 tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HFN3SYC-es Rubies 300194-TW Fortnite - Disfraz Skull Trooper para...'
+sku: 'B07HFN3SYC-es'
 tags: [  ]
 actualPrice: 27.41 EUR
 currency: EUR

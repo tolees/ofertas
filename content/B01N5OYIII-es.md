@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N5OYIII-es keeeper Caja de Almacenaje con Tapa Cars 39 x 29 x 27 cm...'
+sku: 'B01N5OYIII-es'
 tags: [  ]
 actualPrice: 15.25 EUR
 currency: EUR

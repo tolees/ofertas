@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072K2G5XQ-es Philips SHQ1255TBK Auriculares para Deporte con Cable...'
+sku: 'B072K2G5XQ-es'
 tags: [  ]
 actualPrice: 13.43 EUR
 currency: EUR

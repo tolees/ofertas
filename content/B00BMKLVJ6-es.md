@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BMKLVJ6-es LEGO Mindstorms - EV3 Set de Robots de Juguete 5 en 1...'
+sku: 'B00BMKLVJ6-es'
 tags: [  ]
 actualPrice: 295.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089VRVQKN-es Viaje al Aire Libre Camping Hombre Bolsa de escombros...'
+sku: 'B089VRVQKN-es'
 tags: [  ]
 actualPrice: 4.32 EUR
 currency: EUR

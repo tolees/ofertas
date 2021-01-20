@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LWPI8G1-es Brabantia NewIcon Cubo de Basura con Pedal Acero...'
+sku: 'B01LWPI8G1-es'
 tags: [  ]
 actualPrice: 28.57 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08D3QB29H-es CORNERIA Exprimidor de tubo con ruedas de 2 piezas-...'
+sku: 'B08D3QB29H-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

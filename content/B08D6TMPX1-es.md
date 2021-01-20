@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08D6TMPX1-es Cama Perro Cama de Perros Grandes Cama para Perros Cama...'
+sku: 'B08D6TMPX1-es'
 tags: [  ]
 actualPrice: 16.52 EUR
 currency: EUR

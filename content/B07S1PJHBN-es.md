@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S1PJHBN-es New Balance 500 Zapatillas para Hombre Gris Grey TRS 40.5 EU'
+sku: 'B07S1PJHBN-es'
 tags: [  ]
 actualPrice: 43.33 EUR
 currency: EUR

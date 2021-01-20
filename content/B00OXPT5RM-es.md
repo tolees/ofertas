@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OXPT5RM-es Reality Luster Apliques y plafones E14 4 W Transparente...'
+sku: 'B00OXPT5RM-es'
 tags: [  ]
 actualPrice: 32.4 EUR
 currency: EUR

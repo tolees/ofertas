@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007LNJ94W-es L Oréal Tratamiento para pestañas - 9 gr.'
+sku: 'B007LNJ94W-es'
 tags: [  ]
 actualPrice: 6.49 EUR
 currency: EUR

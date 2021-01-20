@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B5X2PWN-es Mango de metal profesional Cristal de acero Diamante de...'
+sku: 'B08B5X2PWN-es'
 tags: [  ]
 actualPrice: 1.46 EUR
 currency: EUR

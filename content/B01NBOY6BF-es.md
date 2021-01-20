@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NBOY6BF-es Nike Classic Cortez Leather Zapatillas para Mujer Blanco...'
+sku: 'B01NBOY6BF-es'
 tags: [  ]
 actualPrice: 59.5 EUR
 currency: EUR

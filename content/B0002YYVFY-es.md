@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0002YYVFY-es Wolfcraft 2425000 2425000-1 portabroca con depósito y Tope...'
+sku: 'B0002YYVFY-es'
 tags: [  ]
 actualPrice: 3.47 EUR
 currency: EUR

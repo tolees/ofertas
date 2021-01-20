@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0791JWMQK-es Nella Muñeca Canta y Habla Multicolor Bandai 11288'
+sku: 'B0791JWMQK-es'
 tags: [  ]
 actualPrice: 10.0 EUR
 currency: EUR

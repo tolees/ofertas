@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WVBFGWN-es BRIKSMAX Kit de Iluminación Led para Lego Apollo 11 Lunar...'
+sku: 'B07WVBFGWN-es'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

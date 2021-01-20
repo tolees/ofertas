@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M12KJQ3-es Philips Speedtouch HR2642/00 - Batidora de Mano 700 W...'
+sku: 'B01M12KJQ3-es'
 tags: [  ]
 actualPrice: 48.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z5P64RC-es LIGE Relojes Hombre Acero Inoxidable Impermeable Deportes...'
+sku: 'B07Z5P64RC-es'
 tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR

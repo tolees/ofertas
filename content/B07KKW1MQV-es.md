@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KKW1MQV-es adidas D2m tee 3s T-Shirt Hombre Black XL'
+sku: 'B07KKW1MQV-es'
 tags: [  ]
 actualPrice: 17.46 EUR
 currency: EUR

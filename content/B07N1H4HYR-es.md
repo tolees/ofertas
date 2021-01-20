@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1H4HYR-es Tidyard 2xArco de Jardin para Plantas en Forma de Torre...'
+sku: 'B07N1H4HYR-es'
 tags: [  ]
 actualPrice: 51.55 EUR
 currency: EUR

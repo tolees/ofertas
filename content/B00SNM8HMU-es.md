@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SNM8HMU-es Samsung BT-EPLN915UB - Cargador de coche con Micro USB 2A...'
+sku: 'B00SNM8HMU-es'
 tags: [  ]
 actualPrice: 7.9 EUR
 currency: EUR

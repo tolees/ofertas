@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0030JBKSO-es Kirkland Jelly Belly Bean Bulk Jar 1.8kg 44 flavours Sweets'
+sku: 'B0030JBKSO-es'
 tags: [  ]
 actualPrice: 28.5 EUR
 currency: EUR

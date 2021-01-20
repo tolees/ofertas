@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082F14PWG-es ODLICNO Mini cámara de Seguridad WiFi Inalámbrica Cámara...'
+sku: 'B082F14PWG-es'
 tags: [  ]
 actualPrice: 42.99 EUR
 currency: EUR

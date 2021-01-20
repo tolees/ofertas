@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000H8IKUM-es GORE WEAR C5 Maillot de manga corta para hombre L...'
+sku: 'B000H8IKUM-es'
 tags: [  ]
 actualPrice: 60.26 EUR
 currency: EUR

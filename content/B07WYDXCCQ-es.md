@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WYDXCCQ-es COOLMAN Pulsera de Cuero Trenzado con Acero Inoxidable...'
+sku: 'B07WYDXCCQ-es'
 tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR

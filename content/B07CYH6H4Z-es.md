@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CYH6H4Z-es Amazfit Stratos Reloj Inteligente Multideporte con VO2max...'
+sku: 'B07CYH6H4Z-es'
 tags: [  ]
 actualPrice: 125.84 EUR
 currency: EUR

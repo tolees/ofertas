@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DNSCNWK-es Mars Gaming MH318 - Auriculares gaming surround 7.1...'
+sku: 'B07DNSCNWK-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

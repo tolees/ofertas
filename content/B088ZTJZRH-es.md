@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088ZTJZRH-es iMiMi - Tabla de planchar de pared para puerta o pared...'
+sku: 'B088ZTJZRH-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

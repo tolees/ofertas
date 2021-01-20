@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F71DBGG-es Chanclas/ADIDAS:Adilette Aqua 42 Negro'
+sku: 'B07F71DBGG-es'
 tags: [  ]
 actualPrice: 7.01 EUR
 currency: EUR

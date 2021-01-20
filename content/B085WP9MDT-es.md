@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085WP9MDT-es FlowerDas Termometro Infrarrojo Termómetro De Frente...'
+sku: 'B085WP9MDT-es'
 tags: [  ]
 actualPrice: 46.29 EUR
 currency: EUR

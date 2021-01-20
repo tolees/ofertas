@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00Y4XUTGE-es Lacoste Ph4014 Polo para Hombre Blanco White Large Talla...'
+sku: 'B00Y4XUTGE-es'
 tags: [  ]
 actualPrice: 34.95 EUR
 currency: EUR

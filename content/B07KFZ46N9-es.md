@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFZ46N9-es PUMA RS 9.8 Cosmic Zapatillas Unisex Adulto White-Peacoat...'
+sku: 'B07KFZ46N9-es'
 tags: [  ]
 actualPrice: 39.59 EUR
 currency: EUR

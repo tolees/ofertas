@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BP4H4J1-es HengBO Freidora 3L Airfryer Freidora Sin Aceite Freidora...'
+sku: 'B08BP4H4J1-es'
 tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR

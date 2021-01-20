@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TSJHJBM-es Filtro de admisión de aire Kit de filtro de admisión de...'
+sku: 'B07TSJHJBM-es'
 tags: [  ]
 actualPrice: 9.59 EUR
 currency: EUR

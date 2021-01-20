@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PSSFRXH-es Rieker Herbst/Winter Botas Chelsea para Mujer Verde...'
+sku: 'B07PSSFRXH-es'
 tags: [  ]
 actualPrice: 13.38 EUR
 currency: EUR

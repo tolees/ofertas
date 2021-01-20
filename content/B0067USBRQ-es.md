@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0067USBRQ-es Piz Buin - Spray Allergy SPF 50 - Protección Muy Alta -...'
+sku: 'B0067USBRQ-es'
 tags: [  ]
 actualPrice: 14.47 EUR
 currency: EUR

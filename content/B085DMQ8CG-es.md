@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085DMQ8CG-es Crema anticelulítica crema anticelulítica crema de masaje...'
+sku: 'B085DMQ8CG-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

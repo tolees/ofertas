@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084JJY2S2-es Moliies Esponja Almacenamiento de desagüe Cesta para...'
+sku: 'B084JJY2S2-es'
 tags: [  ]
 actualPrice: 1.1 EUR
 currency: EUR

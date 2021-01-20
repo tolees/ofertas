@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B6Q8MPG-es Control Sensual Mousse Bora Bora - Mousse de masaje...'
+sku: 'B08B6Q8MPG-es'
 tags: [  ]
 actualPrice: 9.71 EUR
 currency: EUR

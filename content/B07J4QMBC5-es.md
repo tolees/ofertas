@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J4QMBC5-es Pop! Stranger Things - Figura de Vinilo Movie Moment...'
+sku: 'B07J4QMBC5-es'
 tags: [  ]
 actualPrice: 21.33 EUR
 currency: EUR

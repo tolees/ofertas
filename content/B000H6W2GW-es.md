@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000H6W2GW-es Snazaroo - Pintura facial y corporal 18 ml color blanco'
+sku: 'B000H6W2GW-es'
 tags: [  ]
 actualPrice: 4.75 EUR
 currency: EUR

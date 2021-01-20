@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y6G49MW-es FitBeast Esterilla de Yoga Esterilla de Yoga...'
+sku: 'B07Y6G49MW-es'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

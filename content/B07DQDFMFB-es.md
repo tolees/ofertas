@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DQDFMFB-es Botones de Resina Botones Costura 285 Piezas Colores y...'
+sku: 'B07DQDFMFB-es'
 tags: [  ]
 actualPrice: 10.59 EUR
 currency: EUR

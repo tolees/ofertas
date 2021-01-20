@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088HV1HQL-es Edge Entertainment- Caja de Inicio: La Llamada de Cthulhu...'
+sku: 'B088HV1HQL-es'
 tags: [  ]
 actualPrice: 38.03 EUR
 currency: EUR

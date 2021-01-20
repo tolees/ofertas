@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LPLKLDY-es Bella Aurora L+ Crema Facial Mujer Anti-Manchas para...'
+sku: 'B00LPLKLDY-es'
 tags: [  ]
 actualPrice: 11.94 EUR
 currency: EUR

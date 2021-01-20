@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BBQXWJ9-es RioRiva En caja de regalo los calcetines para hombre con...'
+sku: 'B07BBQXWJ9-es'
 tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR

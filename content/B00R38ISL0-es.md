@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00R38ISL0-es Philips Lighting Iron Man Linterna LED 0.3 W Azul'
+sku: 'B00R38ISL0-es'
 tags: [  ]
 actualPrice: 7.3 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CFHH1QK-es JACK & JONES Jjebasic Knit Crew Neck Noos suéter Gris Dark...'
+sku: 'B07CFHH1QK-es'
 tags: [  ]
 actualPrice: 17.49 EUR
 currency: EUR

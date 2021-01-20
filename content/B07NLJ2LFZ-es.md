@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NLJ2LFZ-es Versace Jeans CoutureBorsaMujerBolso de manoMorado...'
+sku: 'B07NLJ2LFZ-es'
 tags: [  ]
 actualPrice: 106.31 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFTPNBG-es Calvin Klein Thong Tanga Negro Black 001 36 Talla del...'
+sku: 'B07DFTPNBG-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071LB2DHW-es Mesa auxiliar de cama plegable reclinable y con ruedas y...'
+sku: 'B071LB2DHW-es'
 tags: [  ]
 actualPrice: 73.92 EUR
 currency: EUR

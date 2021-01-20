@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SNG699K-es Lacoste Lerond TRI1 CMA Zapatillas para Hombre Blanco...'
+sku: 'B07SNG699K-es'
 tags: [  ]
 actualPrice: 65.99 EUR
 currency: EUR

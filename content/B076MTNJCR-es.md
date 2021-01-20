@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076MTNJCR-es Bella Aurora Splendor 10 Crema Facial Hidratante Anti-Edad...'
+sku: 'B076MTNJCR-es'
 tags: [  ]
 actualPrice: 23.95 EUR
 currency: EUR

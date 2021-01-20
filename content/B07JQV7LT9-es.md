@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JQV7LT9-es Tommy Hilfiger TJM Tommy Classics Solid Polo Gris Lt Grey...'
+sku: 'B07JQV7LT9-es'
 tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S6PCVS3-es PUMA NRGY Comet JR Zapatillas Unisex niños Rosa...'
+sku: 'B07S6PCVS3-es'
 tags: [  ]
 actualPrice: 31.47 EUR
 currency: EUR

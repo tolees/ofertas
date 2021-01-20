@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078T5JSQ6-es Puma Final 5 HS Trainer Balón de Fútbol White Red Black'
+sku: 'B078T5JSQ6-es'
 tags: [  ]
 actualPrice: 13.49 EUR
 currency: EUR

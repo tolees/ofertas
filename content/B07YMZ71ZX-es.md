@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YMZ71ZX-es Leabags Pocket Notes Plain Edition - Cuaderno 68 páginas 9...'
+sku: 'B07YMZ71ZX-es'
 tags: [  ]
 actualPrice: 8.98 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08C7GJ1YS-es Estuche rígido para Sony Wh-CH510 / Sony WH-CH500...'
+sku: 'B08C7GJ1YS-es'
 tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR

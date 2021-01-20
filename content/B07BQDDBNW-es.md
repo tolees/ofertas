@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BQDDBNW-es Rexona Desodorante Active Pro+ Frescor Hombre - 200 ml'
+sku: 'B07BQDDBNW-es'
 tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NH5F2JN-es CAMPER Hoops Damen Low-top Weiß White Natural 100 40 EU'
+sku: 'B01NH5F2JN-es'
 tags: [  ]
 actualPrice: 39.0 EUR
 currency: EUR

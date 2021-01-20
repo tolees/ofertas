@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S6NJ73Z-es PUMA Flyer Runner Zapatillas de Running para Hombre Azul...'
+sku: 'B07S6NJ73Z-es'
 tags: [  ]
 actualPrice: 33.49 EUR
 currency: EUR

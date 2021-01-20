@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KHHC7NS-es Yamaha MusicCast WX-010 - Altavoz Amplificado en Red...'
+sku: 'B01KHHC7NS-es'
 tags: [  ]
 actualPrice: 73.66 EUR
 currency: EUR

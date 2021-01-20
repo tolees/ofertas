@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0895PG2TF-es KUPVALON Repelente Ultrasónico Control Ultrasónico de...'
+sku: 'B0895PG2TF-es'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

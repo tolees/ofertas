@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HBJ7WIU-es Reloj para hombre Tommy Hilfiger 1791292 mecanismo de...'
+sku: 'B01HBJ7WIU-es'
 tags: [  ]
 actualPrice: 135.51 EUR
 currency: EUR

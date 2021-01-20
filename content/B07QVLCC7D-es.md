@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QVLCC7D-es DYNASONIC - Dynapro 10 - Altavoz Inalámbrico Sistema Audio...'
+sku: 'B07QVLCC7D-es'
 tags: [  ]
 actualPrice: 104.0 EUR
 currency: EUR

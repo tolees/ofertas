@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0797QRNKW-es Guess Reloj Analógico para Mujer de Cuarzo con Correa en...'
+sku: 'B0797QRNKW-es'
 tags: [  ]
 actualPrice: 68.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TBFV6D3-es IXROAD 4K 30fps Cámara Deportiva Acción 16MP WiFi Action...'
+sku: 'B07TBFV6D3-es'
 tags: [  ]
 actualPrice: 65.99 EUR
 currency: EUR

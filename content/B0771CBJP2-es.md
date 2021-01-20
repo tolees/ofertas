@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0771CBJP2-es WORKPRO Tijera para Eléctricista con Pelacables 6 Pulgadas...'
+sku: 'B0771CBJP2-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

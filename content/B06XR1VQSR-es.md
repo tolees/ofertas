@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XR1VQSR-es Kelme - Zapatillas Precision'
+sku: 'B06XR1VQSR-es'
 tags: [  ]
 actualPrice: 27.47 EUR
 currency: EUR

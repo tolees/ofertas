@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PHM16CK-es Columbia Rainy Creek Gabardina impermeable Mujer Negro S'
+sku: 'B07PHM16CK-es'
 tags: [  ]
 actualPrice: 85.89 EUR
 currency: EUR

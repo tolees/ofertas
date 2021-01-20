@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RNJ74WM-es PUMA Ralph Sampson LO Zapatillas Unisex-Adulto White White...'
+sku: 'B07RNJ74WM-es'
 tags: [  ]
 actualPrice: 43.0 EUR
 currency: EUR

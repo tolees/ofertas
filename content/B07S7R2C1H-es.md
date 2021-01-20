@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S7R2C1H-es PUMA Future 5.3 Netfit OSG FG/AG Botas de fútbol para...'
+sku: 'B07S7R2C1H-es'
 tags: [  ]
 actualPrice: 39.63 EUR
 currency: EUR

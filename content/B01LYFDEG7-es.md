@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LYFDEG7-es Relaxdays Organizador para Escritorio Hecho de Bambú...'
+sku: 'B01LYFDEG7-es'
 tags: [  ]
 actualPrice: 16.34 EUR
 currency: EUR

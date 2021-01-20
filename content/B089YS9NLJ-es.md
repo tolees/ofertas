@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089YS9NLJ-es 3Ciker Case compatible con Samsung Galaxy A50 funda...'
+sku: 'B089YS9NLJ-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

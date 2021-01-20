@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RW2PXJ5-es Kit Cuidado Barba Hombre ATMOKO 9PCS Barba Peine Barba...'
+sku: 'B07RW2PXJ5-es'
 tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR

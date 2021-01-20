@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFZCDPY-es PUMA Lqdcell Tension Zapatillas Deportivas para Interior...'
+sku: 'B07KFZCDPY-es'
 tags: [  ]
 actualPrice: 31.12 EUR
 currency: EUR

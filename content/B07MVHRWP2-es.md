@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVHRWP2-es Kipling Gabbie S Bolsos Bandolera para Mujer Rosa Metallic...'
+sku: 'B07MVHRWP2-es'
 tags: [  ]
 actualPrice: 53.4 EUR
 currency: EUR

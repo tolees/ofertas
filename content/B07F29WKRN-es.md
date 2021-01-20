@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F29WKRN-es NEWHEY Bolsa Deporte Bolsa Gimnasio de Viaje Impermeable...'
+sku: 'B07F29WKRN-es'
 tags: [  ]
 actualPrice: 29.86 EUR
 currency: EUR

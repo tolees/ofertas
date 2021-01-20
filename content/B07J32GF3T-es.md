@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J32GF3T-es Ginger: Beyond The Crystal'
+sku: 'B07J32GF3T-es'
 tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CIJEQC8-es BEPER Cafetera Espresso Plateado 32 x 23.2 x 36.5 cm'
+sku: 'B01CIJEQC8-es'
 tags: [  ]
 actualPrice: 66.51 EUR
 currency: EUR

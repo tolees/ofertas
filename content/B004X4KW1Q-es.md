@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004X4KW1Q-es Braun BN0032BKBKG - Reloj análogico de cuarzo con correa...'
+sku: 'B004X4KW1Q-es'
 tags: [  ]
 actualPrice: 95.83 EUR
 currency: EUR

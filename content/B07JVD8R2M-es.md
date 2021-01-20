@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JVD8R2M-es Arealer Masajeador de Hombros Eléctrico para el Cuello...'
+sku: 'B07JVD8R2M-es'
 tags: [  ]
 actualPrice: 37.59 EUR
 currency: EUR

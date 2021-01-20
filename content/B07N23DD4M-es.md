@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N23DD4M-es Quiksilver Shorebreak Mid Sherpa-Shoes for Men Botas...'
+sku: 'B07N23DD4M-es'
 tags: [  ]
 actualPrice: 21.51 EUR
 currency: EUR

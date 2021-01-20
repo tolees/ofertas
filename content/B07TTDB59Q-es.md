@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TTDB59Q-es Superga 2750-cotcontrastu Zapatillas de Gimnasia para...'
+sku: 'B07TTDB59Q-es'
 tags: [  ]
 actualPrice: 12.41 EUR
 currency: EUR

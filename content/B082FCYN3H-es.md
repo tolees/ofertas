@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082FCYN3H-es Tableta de Escritura LCD Almohadilla 8 5 Pulgadas Tablero...'
+sku: 'B082FCYN3H-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

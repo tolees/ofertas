@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0728NY2VB-es New Balance 574v2 Core Velcro Entrenadores Unisex Niños...'
+sku: 'B0728NY2VB-es'
 tags: [  ]
 actualPrice: 33 EUR
 currency: EUR

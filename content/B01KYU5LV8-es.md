@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KYU5LV8-es EasySMX Auriculares Niños [Regalos Originales] Cascos de...'
+sku: 'B01KYU5LV8-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

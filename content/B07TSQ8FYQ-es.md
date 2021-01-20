@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TSQ8FYQ-es Skechers Moreno Zapatillas para Hombre Negro Black Natural...'
+sku: 'B07TSQ8FYQ-es'
 tags: [  ]
 actualPrice: 32.11 EUR
 currency: EUR

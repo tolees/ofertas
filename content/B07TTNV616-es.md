@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TTNV616-es Skechers Go Walk Joy Zapatillas para Mujer Negro Black...'
+sku: 'B07TTNV616-es'
 tags: [  ]
 actualPrice: 45.47 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SPVN75K-es Funko- Pop TV: La Casa de Papel-Helsinki Collectible...'
+sku: 'B07SPVN75K-es'
 tags: [  ]
 actualPrice: 7.78 EUR
 currency: EUR

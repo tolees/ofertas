@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089WLQ6JG-es Auriculares Inalámbricos Auriculares Bluetooth 5.0...'
+sku: 'B089WLQ6JG-es'
 tags: [  ]
 actualPrice: 14.5 EUR
 currency: EUR

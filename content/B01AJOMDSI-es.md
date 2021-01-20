@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AJOMDSI-es Linksys EA7500-EU - Router WiFi Gigabit MU-MIMO AC1900...'
+sku: 'B01AJOMDSI-es'
 tags: [  ]
 actualPrice: 114.9 EUR
 currency: EUR

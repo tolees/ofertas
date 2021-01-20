@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DNLXCZ9-es Pantalones Cortos Deportivos para Mujer Entrenamiento Yoga...'
+sku: 'B08DNLXCZ9-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

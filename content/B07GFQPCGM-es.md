@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GFQPCGM-es HOMEYU 925 Sterling Silver Sin Perforaciones Ear Cuffs...'
+sku: 'B07GFQPCGM-es'
 tags: [  ]
 actualPrice: 4.89 EUR
 currency: EUR

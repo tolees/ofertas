@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000WZAL5M-es Clinique 18441 - Loción anti-imperfecciones'
+sku: 'B000WZAL5M-es'
 tags: [  ]
 actualPrice: 18.25 EUR
 currency: EUR

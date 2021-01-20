@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BYG3OSE-es Nike T-Lite Xi Zapatillas Hombre Negro Black 38.5'
+sku: 'B00BYG3OSE-es'
 tags: [  ]
 actualPrice: 24.95 EUR
 currency: EUR

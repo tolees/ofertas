@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LLSDVFG-es adidas Superstar Zapatillas de deporte Unisex Adulto...'
+sku: 'B00LLSDVFG-es'
 tags: [  ]
 actualPrice: 47.25 EUR
 currency: EUR

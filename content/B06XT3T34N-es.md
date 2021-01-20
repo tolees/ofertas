@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XT3T34N-es Pepe Jeans Original Basic L/S Top de Manga Larga Para...'
+sku: 'B06XT3T34N-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

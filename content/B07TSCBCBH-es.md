@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TSCBCBH-es Telémetro láser 50m USB 30mins Carga rápida TECCPO Medidor...'
+sku: 'B07TSCBCBH-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

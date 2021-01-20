@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H9WRDWM-es The Glenrothes 12 Años Single Malt Whisky Escoces 40% -...'
+sku: 'B07H9WRDWM-es'
 tags: [  ]
 actualPrice: 29.91 EUR
 currency: EUR

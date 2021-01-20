@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D5SQTFJ-es AEG CX7-2-35WR Aspiradora Escoba Sin Cable y de Mano Sin...'
+sku: 'B07D5SQTFJ-es'
 tags: [  ]
 actualPrice: 119.0 EUR
 currency: EUR

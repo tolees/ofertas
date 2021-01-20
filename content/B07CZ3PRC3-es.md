@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZ3PRC3-es Puma Basket Heart Patent Wn s Zapatillas para Mujer...'
+sku: 'B07CZ3PRC3-es'
 tags: [  ]
 actualPrice: 45.99 EUR
 currency: EUR

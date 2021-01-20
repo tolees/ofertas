@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079YYW8KD-es Flipping Death - Edición Estándar'
+sku: 'B079YYW8KD-es'
 tags: [  ]
 actualPrice: 17.79 EUR
 currency: EUR

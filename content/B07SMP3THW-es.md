@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SMP3THW-es HOUSE DAY Taburete Plegable de Ligero 22cm Negro plástico...'
+sku: 'B07SMP3THW-es'
 tags: [  ]
 actualPrice: 6.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZQ2DQZ-es Vans Filmore Decon Zapatillas para Mujer Verde Suede Grape...'
+sku: 'B07MZQ2DQZ-es'
 tags: [  ]
 actualPrice: 15.94 EUR
 currency: EUR

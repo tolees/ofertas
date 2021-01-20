@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014FBQ00I-es Belkin F2CU037btBLK - Adaptador de USB-C a VGA Color Negro...'
+sku: 'B014FBQ00I-es'
 tags: [  ]
 actualPrice: 27.67 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HK3EZ82-es Superga 2750-efglu Zapatillas de Gimnasia para Mujer...'
+sku: 'B01HK3EZ82-es'
 tags: [  ]
 actualPrice: 13.21 EUR
 currency: EUR

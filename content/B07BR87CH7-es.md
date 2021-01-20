@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BR87CH7-es Levi s Slanted Logo Scarf Bufanda Negro Noir Regular Black...'
+sku: 'B07BR87CH7-es'
 tags: [  ]
 actualPrice: 22.83 EUR
 currency: EUR

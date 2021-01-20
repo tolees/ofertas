@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XSD2Q91-es LARPOTE Funda con Huawei Nova 3 Funda Piel PU Soporte...'
+sku: 'B07XSD2Q91-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

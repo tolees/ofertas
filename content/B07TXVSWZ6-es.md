@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXVSWZ6-es BRIKSMAX Kit de Iluminación Led para Lego Star Wars Halcón...'
+sku: 'B07TXVSWZ6-es'
 tags: [  ]
 actualPrice: 47.99 EUR
 currency: EUR

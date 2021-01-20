@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078VJTCBL-es ASUS Lyra Mini - Kit de 2 Sistemas Wi-Fi Mesh Doble Banda...'
+sku: 'B078VJTCBL-es'
 tags: [  ]
 actualPrice: 129.99 EUR
 currency: EUR

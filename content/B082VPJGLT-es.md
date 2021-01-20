@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082VPJGLT-es Nivea Men Deep Control - Exfoliante antiespinillas y gel...'
+sku: 'B082VPJGLT-es'
 tags: [  ]
 actualPrice: 6.05 EUR
 currency: EUR

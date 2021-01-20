@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BZGCNMF-es Molyflower 18L Nordic Garbage Bag Storage Box Baño Estante...'
+sku: 'B08BZGCNMF-es'
 tags: [  ]
 actualPrice: 4.23 EUR
 currency: EUR

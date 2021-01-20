@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MAZHS8Q-es NanoCable 10.99.0002 - Adaptador metálico de 3.5" para...'
+sku: 'B01MAZHS8Q-es'
 tags: [  ]
 actualPrice: 3.88 EUR
 currency: EUR

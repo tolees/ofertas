@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D6YZYBG-es Adidas Gazelle Zapatillas para Hombre Rojo Collegiate...'
+sku: 'B07D6YZYBG-es'
 tags: [  ]
 actualPrice: 67.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SB13SK3-es Energy Sistem Headphones BT Urban 2 Radio Black...'
+sku: 'B07SB13SK3-es'
 tags: [  ]
 actualPrice: 16.91 EUR
 currency: EUR

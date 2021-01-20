@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073SZDXBX-es bollé 31497 Juliet Cascos de Esquí Mujer Negro Black Rose...'
+sku: 'B073SZDXBX-es'
 tags: [  ]
 actualPrice: 59.96 EUR
 currency: EUR

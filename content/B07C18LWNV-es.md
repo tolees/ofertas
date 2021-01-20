@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C18LWNV-es GOOD FOR YOU Recipientes de Vidrio para la preparación de...'
+sku: 'B07C18LWNV-es'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

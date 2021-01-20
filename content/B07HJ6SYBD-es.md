@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HJ6SYBD-es Funko- Pop Vinyl: Disney: Aladdin: Jasmine in Disguise...'
+sku: 'B07HJ6SYBD-es'
 tags: [  ]
 actualPrice: 10.0 EUR
 currency: EUR

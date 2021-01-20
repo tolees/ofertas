@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000OWGBIO-es adidas Copa Mundial Zapatillas de Fútbol para Hombre...'
+sku: 'B000OWGBIO-es'
 tags: [  ]
 actualPrice: 95.99 EUR
 currency: EUR

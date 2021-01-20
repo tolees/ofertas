@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RYVZZYY-es Otterbox Slim bundle. Pack Funda anti caídas fina +...'
+sku: 'B07RYVZZYY-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

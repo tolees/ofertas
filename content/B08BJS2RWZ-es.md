@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BJS2RWZ-es RuiDaXiang Casa de muñecas Dormitorio con Muebles...'
+sku: 'B08BJS2RWZ-es'
 tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR

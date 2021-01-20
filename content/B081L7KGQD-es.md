@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081L7KGQD-es Camara Espia -Mini Camara -de Llave de Coche Cámara...'
+sku: 'B081L7KGQD-es'
 tags: [  ]
 actualPrice: 56.78 EUR
 currency: EUR

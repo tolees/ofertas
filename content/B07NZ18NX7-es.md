@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NZ18NX7-es Parasol Profesional de Repuesto para Lente de Objetivo...'
+sku: 'B07NZ18NX7-es'
 tags: [  ]
 actualPrice: 2.32 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QN5P25T-es Bourjois Máscara - 1 Unidad'
+sku: 'B07QN5P25T-es'
 tags: [  ]
 actualPrice: 8.02 EUR
 currency: EUR

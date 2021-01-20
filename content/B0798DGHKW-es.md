@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0798DGHKW-es Precision'
+sku: 'B0798DGHKW-es'
 tags: [  ]
 actualPrice: 27.47 EUR
 currency: EUR

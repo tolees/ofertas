@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F32KYX7-es Palladium Plphoenix F C U Zapatillas Unisex Adulto Blanco...'
+sku: 'B07F32KYX7-es'
 tags: [  ]
 actualPrice: 54.46 EUR
 currency: EUR

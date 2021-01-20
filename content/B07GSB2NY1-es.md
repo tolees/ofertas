@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GSB2NY1-es Vibram Fivefingers V 2.0 Zapatillas de Trail Running para...'
+sku: 'B07GSB2NY1-es'
 tags: [  ]
 actualPrice: 47.59 EUR
 currency: EUR

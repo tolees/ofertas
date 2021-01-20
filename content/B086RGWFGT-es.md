@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086RGWFGT-es GHONLZIN Ajedrez para Niños Ice Ball Battle Game Juego de...'
+sku: 'B086RGWFGT-es'
 tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR

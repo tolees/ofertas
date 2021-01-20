@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FN5WQMQ-es adidas Galaxy 4 Zapatillas de Running para Hombre Negro...'
+sku: 'B07FN5WQMQ-es'
 tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR

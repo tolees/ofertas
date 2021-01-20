@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0858YQQPX-es Oihxse Animal Serie Case Compatible con Xiaomi Redmi S2...'
+sku: 'B0858YQQPX-es'
 tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR

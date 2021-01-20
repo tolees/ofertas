@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZQL83C-es Facial Massager Moon Gua Sha PRETTY SEE masajeador facial...'
+sku: 'B07RZQL83C-es'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

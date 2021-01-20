@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HR6T8WD-es Radio de Coche Rixow Autoradio FM Estéreo Bluetooth 60W*4...'
+sku: 'B07HR6T8WD-es'
 tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR

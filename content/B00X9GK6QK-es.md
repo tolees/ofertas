@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X9GK6QK-es Toshiba TransMemory U301 - Memoria USB de 64 GB color blanco'
+sku: 'B00X9GK6QK-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

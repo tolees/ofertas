@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CXM5OJ0-es Saica Piscina Hinchable para niños Multicolor 17118'
+sku: 'B00CXM5OJ0-es'
 tags: [  ]
 actualPrice: 16.3 EUR
 currency: EUR

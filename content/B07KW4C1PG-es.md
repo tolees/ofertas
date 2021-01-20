@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KW4C1PG-es INTEY 3 N1 Detector de Pared Metal Stud Pinpoint Madera y...'
+sku: 'B07KW4C1PG-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078HTLKKS-es reer 83221 protector para plantas Negro Nylon -...'
+sku: 'B078HTLKKS-es'
 tags: [  ]
 actualPrice: 9.68 EUR
 currency: EUR

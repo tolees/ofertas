@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XQBQQZ5-es Montse Interiors S.L. Cuadrante o Cojín Decoración Rústico...'
+sku: 'B07XQBQQZ5-es'
 tags: [  ]
 actualPrice: 8.95 EUR
 currency: EUR

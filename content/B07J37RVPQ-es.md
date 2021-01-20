@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J37RVPQ-es Under Armour Playoff 2.0 Polo Hombre Morado Optic...'
+sku: 'B07J37RVPQ-es'
 tags: [  ]
 actualPrice: 18.59 EUR
 currency: EUR

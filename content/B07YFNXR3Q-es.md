@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YFNXR3Q-es ENJOHOS Arnés de Escalada arnés Arnés de Escalada arnés...'
+sku: 'B07YFNXR3Q-es'
 tags: [  ]
 actualPrice: 65.99 EUR
 currency: EUR

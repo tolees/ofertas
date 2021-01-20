@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CQY8EG4-es Gilde Handwerk Fieltro Juego de manteles trébol Gris...'
+sku: 'B01CQY8EG4-es'
 tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR

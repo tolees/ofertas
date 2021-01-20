@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JAIQETE-es GreenBlue GB104 - Programador eléctrico digital diario...'
+sku: 'B00JAIQETE-es'
 tags: [  ]
 actualPrice: 13.76 EUR
 currency: EUR

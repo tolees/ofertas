@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N03X0AP-es Beschoi - 77mm Filtro de Camára Lente Packs de Filtros...'
+sku: 'B01N03X0AP-es'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

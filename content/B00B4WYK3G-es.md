@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00B4WYK3G-es Viñas Tratamiento para pestañas'
+sku: 'B00B4WYK3G-es'
 tags: [  ]
 actualPrice: 6.2 EUR
 currency: EUR

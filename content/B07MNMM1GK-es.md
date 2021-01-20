@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MNMM1GK-es Lámpara de Plantas Yokunat 60 LED Luz de la Planta...'
+sku: 'B07MNMM1GK-es'
 tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR

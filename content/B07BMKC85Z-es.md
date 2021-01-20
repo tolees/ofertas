@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BMKC85Z-es Fantasy Flight Games- AT-RT FFSWL04'
+sku: 'B07BMKC85Z-es'
 tags: [  ]
 actualPrice: 13.41 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075GCHD4Q-es Triumph Sexy Angel Spotlight WHP Sujetador Azul Deep Water...'
+sku: 'B075GCHD4Q-es'
 tags: [  ]
 actualPrice: 22.39 EUR
 currency: EUR

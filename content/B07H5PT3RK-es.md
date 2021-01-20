@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H5PT3RK-es Kempa Attack Three Contender Zapatillas de Balonmano...'
+sku: 'B07H5PT3RK-es'
 tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR

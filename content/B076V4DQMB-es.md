@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076V4DQMB-es Kayond Forest Series Funda para portátil de 11" a 17"...'
+sku: 'B076V4DQMB-es'
 tags: [  ]
 actualPrice: 18.08 EUR
 currency: EUR

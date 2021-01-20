@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X3ZWCHT-es Coche Teledirigido ETEPON 1:16 2.4GHz RC Coche Conducir a...'
+sku: 'B07X3ZWCHT-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

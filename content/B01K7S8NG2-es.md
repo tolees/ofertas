@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01K7S8NG2-es Gran Cremant Cava Codorníu Semiseco - 0.75 l'
+sku: 'B01K7S8NG2-es'
 tags: [  ]
 actualPrice: 2.26 EUR
 currency: EUR

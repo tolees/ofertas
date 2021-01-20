@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081RDKS3F-es BRIKSMAX Kit de Iluminación Led para Lego Technic Camión...'
+sku: 'B081RDKS3F-es'
 tags: [  ]
 actualPrice: 76.99 EUR
 currency: EUR

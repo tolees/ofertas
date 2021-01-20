@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071W79LMZ-es L Óreal Paris Máscara de Pestañas Mega Volumen Miss Baby...'
+sku: 'B071W79LMZ-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

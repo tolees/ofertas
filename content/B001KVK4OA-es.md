@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001KVK4OA-es Bolsas de esterilización reutilizables Quick Clean Medela'
+sku: 'B001KVK4OA-es'
 tags: [  ]
 actualPrice: 9.5 EUR
 currency: EUR

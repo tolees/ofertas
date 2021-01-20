@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007PBGWMC-es Converse Chuck Taylor Core Lea Ox Zapatillas De Cuero...'
+sku: 'B007PBGWMC-es'
 tags: [  ]
 actualPrice: 58.62 EUR
 currency: EUR

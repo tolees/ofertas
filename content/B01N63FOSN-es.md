@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N63FOSN-es Enna Cycle Copa Menstrual con Aplicador Talla S'
+sku: 'B01N63FOSN-es'
 tags: [  ]
 actualPrice: 15.97 EUR
 currency: EUR

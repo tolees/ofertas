@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KBTTCNG-es LIGHTAILING Conjunto de Luces Star Wars Estrella De La...'
+sku: 'B07KBTTCNG-es'
 tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR

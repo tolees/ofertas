@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GGTGZHS-es We Happy Few'
+sku: 'B07GGTGZHS-es'
 tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0058ZC5DM-es The North Face Resolve Pantalones para Hombre TNF Negro XL'
+sku: 'B0058ZC5DM-es'
 tags: [  ]
 actualPrice: 54.49 EUR
 currency: EUR

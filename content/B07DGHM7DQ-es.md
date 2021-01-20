@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DGHM7DQ-es Oral-B Smart 4 4000N CrossAction - Cepillo Eléctrico 1...'
+sku: 'B07DGHM7DQ-es'
 tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR

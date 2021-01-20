@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ID4UWBW-es Limes'
+sku: 'B00ID4UWBW-es'
 tags: [  ]
 actualPrice: 11.26 EUR
 currency: EUR

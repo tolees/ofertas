@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072C4X2BJ-es Di4 Jet Pressing Centro de Planchado Doble Sistema de...'
+sku: 'B072C4X2BJ-es'
 tags: [  ]
 actualPrice: 63.43 EUR
 currency: EUR

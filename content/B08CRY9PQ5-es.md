@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CRY9PQ5-es feihao Juguetes para Gatos Interactivos Bola de Gato...'
+sku: 'B08CRY9PQ5-es'
 tags: [  ]
 actualPrice: 10.89 EUR
 currency: EUR

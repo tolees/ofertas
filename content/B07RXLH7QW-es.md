@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RXLH7QW-es New Balance 997H m Zapatillas para Mujer Gris Grey/Blue...'
+sku: 'B07RXLH7QW-es'
 tags: [  ]
 actualPrice: 40.61 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0895QFFS2-es Luces para Espejo de Maquillaje 12 Luces de Espejo de...'
+sku: 'B0895QFFS2-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

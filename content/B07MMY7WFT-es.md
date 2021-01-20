@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MMY7WFT-es Lepfun A7000 1 par Rodillera con Soporte De Baloncesto...'
+sku: 'B07MMY7WFT-es'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

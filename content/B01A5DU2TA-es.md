@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01A5DU2TA-es Crocs Handle It Rain Boot K Botas de Agua Unisex Niños...'
+sku: 'B01A5DU2TA-es'
 tags: [  ]
 actualPrice: 22.1 EUR
 currency: EUR

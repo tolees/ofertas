@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00F5WJ1G2-es Salomon Soft Flask Botella de Agua Flexible Unisex Adulto...'
+sku: 'B00F5WJ1G2-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

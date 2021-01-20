@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XLTMBBG-es Cybex - Silla de coche grupo 0+/1 Sirona M2 i-size desde...'
+sku: 'B07XLTMBBG-es'
 tags: [  ]
 actualPrice: 263.78 EUR
 currency: EUR

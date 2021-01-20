@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YMXQ4YX-es [en.casa] Pedestal para Lavadora con Cajón de...'
+sku: 'B07YMXQ4YX-es'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

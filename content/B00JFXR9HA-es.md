@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JFXR9HA-es Pendrive 512MB 10 Piezas Unidad Flash USB - Giratorio...'
+sku: 'B00JFXR9HA-es'
 tags: [  ]
 actualPrice: 24.56 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZNS328-es Pop! Figura de Vinilo: Disney: Little Mermaid - Ariel...'
+sku: 'B07MZNS328-es'
 tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR

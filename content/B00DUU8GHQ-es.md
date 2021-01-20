@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DUU8GHQ-es Elizabeth Arden Eight Hour Bálsamo Nutritivo Lip SPF20 15ml'
+sku: 'B00DUU8GHQ-es'
 tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR

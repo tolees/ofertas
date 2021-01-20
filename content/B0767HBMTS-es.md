@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0767HBMTS-es Festina Reloj Cronógrafo para Hombre de Cuarzo con Correa...'
+sku: 'B0767HBMTS-es'
 tags: [  ]
 actualPrice: 84.15 EUR
 currency: EUR

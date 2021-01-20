@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FG49YXE-es BC Lithium Batteries BCTZ14S-FP-S Batería Litio para Moto...'
+sku: 'B00FG49YXE-es'
 tags: [  ]
 actualPrice: 126.86 EUR
 currency: EUR

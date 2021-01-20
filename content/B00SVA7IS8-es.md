@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SVA7IS8-es Singer Aspirador SVCT4020ECO'
+sku: 'B00SVA7IS8-es'
 tags: [  ]
 actualPrice: 95.99 EUR
 currency: EUR

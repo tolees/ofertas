@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZQ123KK-es KOKO Zhu Espejo de lechón Asiento de Seguridad para el...'
+sku: 'B07ZQ123KK-es'
 tags: [  ]
 actualPrice: 2.25 EUR
 currency: EUR

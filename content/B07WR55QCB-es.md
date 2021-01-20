@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WR55QCB-es LEWOTE Airpods Carcasa de Silicona Compatible con Airpods...'
+sku: 'B07WR55QCB-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

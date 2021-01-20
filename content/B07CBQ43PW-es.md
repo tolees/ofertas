@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CBQ43PW-es Nike Internationalist Zapatillas para Mujer Blanco...'
+sku: 'B07CBQ43PW-es'
 tags: [  ]
 actualPrice: 50.36 EUR
 currency: EUR

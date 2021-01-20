@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078ZYZVNK-es TRESemmé Acondicionador Color Keratina - Paquete de 3 x...'
+sku: 'B078ZYZVNK-es'
 tags: [  ]
 actualPrice: 12.36 EUR
 currency: EUR

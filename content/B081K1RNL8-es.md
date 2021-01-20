@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081K1RNL8-es HoneyHolly Botella de Agua de Acero Inoxidable sin bpa...'
+sku: 'B081K1RNL8-es'
 tags: [  ]
 actualPrice: 19.98 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0049RQUQI-es Tremblay - Bombe de Froid 400 ml Taille - Unique'
+sku: 'B0049RQUQI-es'
 tags: [  ]
 actualPrice: 4.79 EUR
 currency: EUR

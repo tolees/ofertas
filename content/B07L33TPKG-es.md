@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L33TPKG-es Asics Gel-Fujitrabuco 7 Zapatillas de Entrenamiento para...'
+sku: 'B07L33TPKG-es'
 tags: [  ]
 actualPrice: 63.99 EUR
 currency: EUR

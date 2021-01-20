@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z6VGYQQ-es Flores Mediterráneas A.G F. Mediterráneas Lilas y Mimosas...'
+sku: 'B07Z6VGYQQ-es'
 tags: [  ]
 actualPrice: 11.5 EUR
 currency: EUR

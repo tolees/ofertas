@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EPPY3EU-es Samsung SF-765P - Impresora multifunción láser con fax...'
+sku: 'B00EPPY3EU-es'
 tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR

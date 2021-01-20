@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QB1DZMQ-es VGBEY Pelota de Futbol Fútbol clásico Talla 4 para...'
+sku: 'B07QB1DZMQ-es'
 tags: [  ]
 actualPrice: 17.79 EUR
 currency: EUR

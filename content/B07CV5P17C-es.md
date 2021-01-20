@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CV5P17C-es JACK & JONES Jfwstoke Nubuck Boot Mono Noos Botas Clasicas...'
+sku: 'B07CV5P17C-es'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P37M3QW-es Moon and Back de Hanna Andersson - Pack de 5 camisetas de...'
+sku: 'B07P37M3QW-es'
 tags: [  ]
 actualPrice: 25.89 EUR
 currency: EUR

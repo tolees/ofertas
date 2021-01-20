@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJ5GS2R-es Casio Reloj Analógico para Mujer de Cuarzo con Correa en...'
+sku: 'B07NJ5GS2R-es'
 tags: [  ]
 actualPrice: 35.95 EUR
 currency: EUR

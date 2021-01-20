@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X7TJ2P2-es BRIKSMAX Kit de Iluminación Led para Lego Technic Mack...'
+sku: 'B07X7TJ2P2-es'
 tags: [  ]
 actualPrice: 57.99 EUR
 currency: EUR

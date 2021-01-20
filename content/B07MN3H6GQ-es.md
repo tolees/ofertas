@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MN3H6GQ-es Lee Whiz IT Coverall Petos Azul Frost Blue MJ Medium para...'
+sku: 'B07MN3H6GQ-es'
 tags: [  ]
 actualPrice: 17.41 EUR
 currency: EUR

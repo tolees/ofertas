@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GWNH8XP-es SUPORE Vivosmart HR Activity Tracker Correa de Reloj de...'
+sku: 'B07GWNH8XP-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

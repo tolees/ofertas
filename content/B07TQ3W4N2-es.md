@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TQ3W4N2-es Clarks Maritsa Mule Sandalias Punta Cerrada para Mujer...'
+sku: 'B07TQ3W4N2-es'
 tags: [  ]
 actualPrice: 50.25 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00D3J4Q4G-es Bosch TDA5024010 Sensixx x DA50 Plancha de vapor 2400 W...'
+sku: 'B00D3J4Q4G-es'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

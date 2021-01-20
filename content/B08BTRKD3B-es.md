@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BTRKD3B-es Bandas de Silicona Antideslizantes Soporte para Montaje en...'
+sku: 'B08BTRKD3B-es'
 tags: [  ]
 actualPrice: 17.29 EUR
 currency: EUR

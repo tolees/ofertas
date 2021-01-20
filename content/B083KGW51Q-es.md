@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083KGW51Q-es Silla de Cocina/Comedor de diseño nórdico-Scandi...'
+sku: 'B083KGW51Q-es'
 tags: [  ]
 actualPrice: 19.0 EUR
 currency: EUR

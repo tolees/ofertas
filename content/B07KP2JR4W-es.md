@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KP2JR4W-es SALOMON Evasion 2-Pack 2 Pares de Calcetines Tobilleros...'
+sku: 'B07KP2JR4W-es'
 tags: [  ]
 actualPrice: 6.0 EUR
 currency: EUR

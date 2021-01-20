@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084YRC9PL-es AR-Gun Brazalete Deportivo Pack 2 uds valido para...'
+sku: 'B084YRC9PL-es'
 tags: [  ]
 actualPrice: 11.9 EUR
 currency: EUR

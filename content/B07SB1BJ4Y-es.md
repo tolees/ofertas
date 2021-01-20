@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SB1BJ4Y-es GREAT ART Foto Mural de Mundo Submarino Oceano Poster...'
+sku: 'B07SB1BJ4Y-es'
 tags: [  ]
 actualPrice: 44.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y9X5Y5Z-es Irrigador Dental Hieha Irrigador Bucal Portatil con Base...'
+sku: 'B07Y9X5Y5Z-es'
 tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR

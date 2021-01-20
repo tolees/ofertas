@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W12RPGL-es Reparación de Relojes 149 Piezas Herramientas para...'
+sku: 'B07W12RPGL-es'
 tags: [  ]
 actualPrice: 16.69 EUR
 currency: EUR

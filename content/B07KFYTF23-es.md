@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFYTF23-es PUMA Caracal Zapatillas Unisex Adulto Black White 38 EU'
+sku: 'B07KFYTF23-es'
 tags: [  ]
 actualPrice: 21.49 EUR
 currency: EUR

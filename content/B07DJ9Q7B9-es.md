@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJ9Q7B9-es Revlon Super Lustrous Pintalabios Mate Power Move'
+sku: 'B07DJ9Q7B9-es'
 tags: [  ]
 actualPrice: 1.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PQ837DC-es Kipling Cindy Cartera para Mujer Plateado Steel Grey...'
+sku: 'B07PQ837DC-es'
 tags: [  ]
 actualPrice: 9.91 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X5J6SSQ-es IGLOO Nevera Portátil Transformer 56 litros con Ruedas y...'
+sku: 'B00X5J6SSQ-es'
 tags: [  ]
 actualPrice: 61.18 EUR
 currency: EUR

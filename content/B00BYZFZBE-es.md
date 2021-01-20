@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BYZFZBE-es Superga 2790Cotw Linea Up And Down Zapatillas Unisex...'
+sku: 'B00BYZFZBE-es'
 tags: [  ]
 actualPrice: 46.87 EUR
 currency: EUR

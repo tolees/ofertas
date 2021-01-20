@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00F63SBTI-es Chloe 22812 - Desodorante 100 ml'
+sku: 'B00F63SBTI-es'
 tags: [  ]
 actualPrice: 15.95 EUR
 currency: EUR

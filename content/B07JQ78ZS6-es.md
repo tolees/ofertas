@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JQ78ZS6-es HUTACT Militares Prismáticos Profesionales Compacto de...'
+sku: 'B07JQ78ZS6-es'
 tags: [  ]
 actualPrice: 112.99 EUR
 currency: EUR

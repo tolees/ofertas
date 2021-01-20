@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08299DJMJ-es IKOHS Limpiador facial HADA - Cepillo Facial de Silicona...'
+sku: 'B08299DJMJ-es'
 tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR

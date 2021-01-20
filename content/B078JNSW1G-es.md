@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078JNSW1G-es AIRENA USB Bluetooth Nano Adaptador Stick Dongle para PC...'
+sku: 'B078JNSW1G-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

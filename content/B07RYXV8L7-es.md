@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RYXV8L7-es Only Frsfalcon Sweat Pants-Unit Pantalones de Deporte Azul...'
+sku: 'B07RYXV8L7-es'
 tags: [  ]
 actualPrice: 16.59 EUR
 currency: EUR

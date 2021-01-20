@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077RTPRBV-es Nike Air MAX 270 Zapatillas de Gimnasia para Hombre Negro...'
+sku: 'B077RTPRBV-es'
 tags: [  ]
 actualPrice: 89.95 EUR
 currency: EUR

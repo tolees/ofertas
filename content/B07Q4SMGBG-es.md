@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q4SMGBG-es Aceite Esencial Puros，Ato Bea 6 * 10ml 100% Aceites...'
+sku: 'B07Q4SMGBG-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

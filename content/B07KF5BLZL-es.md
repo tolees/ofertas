@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KF5BLZL-es Levi s 502 Regular Taper Jeans Azul Baltic Adapt 0472 36W...'
+sku: 'B07KF5BLZL-es'
 tags: [  ]
 actualPrice: 71.99 EUR
 currency: EUR

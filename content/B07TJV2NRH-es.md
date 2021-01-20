@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJV2NRH-es Vans Ward Suede/Canvas Zapatillas para Hombre Azul Outdoor...'
+sku: 'B07TJV2NRH-es'
 tags: [  ]
 actualPrice: 29.23 EUR
 currency: EUR

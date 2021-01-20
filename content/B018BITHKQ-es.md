@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018BITHKQ-es COMPRESSPORT Ultraligh Visera Unisex Negro S'
+sku: 'B018BITHKQ-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

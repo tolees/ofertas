@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YTCDZKB-es The Big Bang Theory Temporada 12 [DVD]'
+sku: 'B07YTCDZKB-es'
 tags: [  ]
 actualPrice: 24.95 EUR
 currency: EUR

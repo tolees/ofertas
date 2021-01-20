@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G9X9BK2-es Adoric Termometro Digital Termometro Bebe Niños y Adultos...'
+sku: 'B07G9X9BK2-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

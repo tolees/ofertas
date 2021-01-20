@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CNP1R35-es Yamaha MusicCast RX-V485 - Receptor AV Color Negro'
+sku: 'B07CNP1R35-es'
 tags: [  ]
 actualPrice: 340.0 EUR
 currency: EUR

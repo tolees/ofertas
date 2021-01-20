@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075Y3Y1KF-es Skechers On-The-go 600-Foxy Sandalia con Pulsera para...'
+sku: 'B075Y3Y1KF-es'
 tags: [  ]
 actualPrice: 33.0 EUR
 currency: EUR

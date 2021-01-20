@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0833CLWP9-es Pendientes de tuerca de bola de oro amarillo de 14...'
+sku: 'B0833CLWP9-es'
 tags: [  ]
 actualPrice: 46.12 EUR
 currency: EUR

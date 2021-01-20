@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000Y9NRMA-es Kitchen Craft - Termómetro de Acero Inoxidable para...'
+sku: 'B000Y9NRMA-es'
 tags: [  ]
 actualPrice: 5.63 EUR
 currency: EUR

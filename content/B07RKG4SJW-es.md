@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RKG4SJW-es MILAN Portatodo Mini Net&Lit Rosa Estuches 20 cm Rosa'
+sku: 'B07RKG4SJW-es'
 tags: [  ]
 actualPrice: 3.4 EUR
 currency: EUR

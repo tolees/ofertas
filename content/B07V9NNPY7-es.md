@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V9NNPY7-es Hackett London Parachute Belt Cinturón Azul 513sky 513 115...'
+sku: 'B07V9NNPY7-es'
 tags: [  ]
 actualPrice: 40.5 EUR
 currency: EUR

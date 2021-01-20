@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LYOMBC0-es Gaming ratón Zelotes 12 botones Ratón Gaming Programable...'
+sku: 'B01LYOMBC0-es'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

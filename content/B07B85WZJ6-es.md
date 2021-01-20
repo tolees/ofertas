@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B85WZJ6-es Qoosea Ventilador de Mesa con Dos Hojas Turbo Muy...'
+sku: 'B07B85WZJ6-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

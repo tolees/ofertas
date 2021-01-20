@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P23DCGL-es Skechers Elite Flex Zapatillas para Hombre Azul Navy...'
+sku: 'B07P23DCGL-es'
 tags: [  ]
 actualPrice: 38.1 EUR
 currency: EUR

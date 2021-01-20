@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00U2ILPOU-es Rowenta Essential VU4110F0 Ventilador de pie con 3...'
+sku: 'B00U2ILPOU-es'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

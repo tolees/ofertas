@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GGSSPVJ-es 9H Nano Ceramic Coating Tracffy Mr Fix Revestimiento...'
+sku: 'B07GGSSPVJ-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

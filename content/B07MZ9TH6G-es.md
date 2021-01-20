@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZ9TH6G-es Levi s ® L Series Small Twill Tape Bolsa'
+sku: 'B07MZ9TH6G-es'
 tags: [  ]
 actualPrice: 14.49 EUR
 currency: EUR

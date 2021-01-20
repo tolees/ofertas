@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVBY9XF-es Napapijri Eils SS Polo Blanco Bright White 002 Medium para...'
+sku: 'B07MVBY9XF-es'
 tags: [  ]
 actualPrice: 23.6 EUR
 currency: EUR

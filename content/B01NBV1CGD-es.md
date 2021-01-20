@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NBV1CGD-es PowerLocus P1 – Auriculares Bluetooth inalambricos de...'
+sku: 'B01NBV1CGD-es'
 tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR

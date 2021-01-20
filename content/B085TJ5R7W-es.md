@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085TJ5R7W-es ELEHOT Bascula Baño Digital Escala de Peso Multifunción...'
+sku: 'B085TJ5R7W-es'
 tags: [  ]
 actualPrice: 18.69 EUR
 currency: EUR

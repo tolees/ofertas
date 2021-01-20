@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y5X87QQ-es Pantene Rizos Definidos Mascarilla Hidrata para Conseguir...'
+sku: 'B06Y5X87QQ-es'
 tags: [  ]
 actualPrice: 7.42 EUR
 currency: EUR

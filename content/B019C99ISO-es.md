@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019C99ISO-es Opticum 9184 QA Antena de satélite con 80 monobloque de...'
+sku: 'B019C99ISO-es'
 tags: [  ]
 actualPrice: 24.24 EUR
 currency: EUR

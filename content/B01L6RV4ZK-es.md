@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01L6RV4ZK-es Lee Rider Contrast Jeans Rinse 29W / 34L para Hombre'
+sku: 'B01L6RV4ZK-es'
 tags: [  ]
 actualPrice: 17.03 EUR
 currency: EUR

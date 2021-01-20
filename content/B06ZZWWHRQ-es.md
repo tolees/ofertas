@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06ZZWWHRQ-es YAZILIND 18 k chapado en oro mujer joyer¨ªa exquisita...'
+sku: 'B06ZZWWHRQ-es'
 tags: [  ]
 actualPrice: 1.08 EUR
 currency: EUR

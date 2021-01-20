@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0168QG1TI-es Belle Azul - Cool Legs - Gel de Alivio Instantáneo para...'
+sku: 'B0168QG1TI-es'
 tags: [  ]
 actualPrice: 14.9 EUR
 currency: EUR

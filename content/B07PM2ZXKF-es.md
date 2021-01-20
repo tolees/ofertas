@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PM2ZXKF-es Rieker Herbst/Winter Mocasines para Mujer Negro Schwarz 00...'
+sku: 'B07PM2ZXKF-es'
 tags: [  ]
 actualPrice: 15.31 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L2RH59N-es Gigabyte GeForce GV-N208-TAORUSX W-11GC - Tarjeta gráfica...'
+sku: 'B07L2RH59N-es'
 tags: [  ]
 actualPrice: 600.0 EUR
 currency: EUR

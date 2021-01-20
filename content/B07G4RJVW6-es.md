@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G4RJVW6-es Tommy Hilfiger Reloj Analógico para Mujer de Cuarzo con...'
+sku: 'B07G4RJVW6-es'
 tags: [  ]
 actualPrice: 97.0 EUR
 currency: EUR

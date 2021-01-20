@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077CQ8F8P-es Adidas Power III Zapatillas de Deporte para Hombre Negro...'
+sku: 'B077CQ8F8P-es'
 tags: [  ]
 actualPrice: 83.95 EUR
 currency: EUR

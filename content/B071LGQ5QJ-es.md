@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071LGQ5QJ-es WOLTU Toldo Vela de Sombra Rectangular Prevención Rayos UV...'
+sku: 'B071LGQ5QJ-es'
 tags: [  ]
 actualPrice: 26.23 EUR
 currency: EUR

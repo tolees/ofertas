@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00D3HWMPS-es VICHY IDEAL SOLEIL Leche Protectora Niños spf 50 300 ml'
+sku: 'B00D3HWMPS-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

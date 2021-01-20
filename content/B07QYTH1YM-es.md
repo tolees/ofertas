@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QYTH1YM-es Pancarta de Carnaval Decoración de Fiesta de Carnaval 2019...'
+sku: 'B07QYTH1YM-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

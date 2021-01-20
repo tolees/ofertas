@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CC8ZXTQ-es Bestway 65046 - Barca Hinchable Neumática Bestway Hydro-...'
+sku: 'B00CC8ZXTQ-es'
 tags: [  ]
 actualPrice: 215.48 EUR
 currency: EUR

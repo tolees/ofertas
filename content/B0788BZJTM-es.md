@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0788BZJTM-es Tommy Hilfiger Sujetador Estilo Bralette Blanco White 100...'
+sku: 'B0788BZJTM-es'
 tags: [  ]
 actualPrice: 25.85 EUR
 currency: EUR

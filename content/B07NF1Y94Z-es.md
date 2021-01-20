@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NF1Y94Z-es Lotus Reloj Analógico para Mujer de Cuarzo con Correa en...'
+sku: 'B07NF1Y94Z-es'
 tags: [  ]
 actualPrice: 56.97 EUR
 currency: EUR

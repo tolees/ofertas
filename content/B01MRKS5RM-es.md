@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MRKS5RM-es Hellmann s Salsa Patatas Deluxe Bocabajo - Pack de 8 x 250...'
+sku: 'B01MRKS5RM-es'
 tags: [  ]
 actualPrice: 8 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XGHHNDH-es find. Mocasines Borlas Texturizado en Piel para Hombre...'
+sku: 'B06XGHHNDH-es'
 tags: [  ]
 actualPrice: 23.75 EUR
 currency: EUR

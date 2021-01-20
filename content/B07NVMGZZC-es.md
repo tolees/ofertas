@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NVMGZZC-es Relaxdays Set de cubertería de bambú 10x Cuchillo Tenedor...'
+sku: 'B07NVMGZZC-es'
 tags: [  ]
 actualPrice: 30.75 EUR
 currency: EUR

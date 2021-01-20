@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZHP2H7J-es BaByliss 668E Cepillo de aire de viaje 2 temperaturas...'
+sku: 'B07ZHP2H7J-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

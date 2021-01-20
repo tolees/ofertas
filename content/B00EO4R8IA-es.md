@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EO4R8IA-es Philips myBathroom Pool - Plafón casquillo E27 luz blanca...'
+sku: 'B00EO4R8IA-es'
 tags: [  ]
 actualPrice: 36.87 EUR
 currency: EUR

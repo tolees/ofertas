@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TF63GYD-es [Nueva versión 2020] Antena TV Interior- Bqeel Antena TV...'
+sku: 'B07TF63GYD-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

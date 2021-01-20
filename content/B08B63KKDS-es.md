@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B63KKDS-es Tamaño portátil 2M Cable USB Tipo C Duradero Cable de...'
+sku: 'B08B63KKDS-es'
 tags: [  ]
 actualPrice: 1.91 EUR
 currency: EUR

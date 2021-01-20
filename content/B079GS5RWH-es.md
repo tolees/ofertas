@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079GS5RWH-es 1home Soporte portátil ergónomico Adjustable Curvo para...'
+sku: 'B079GS5RWH-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

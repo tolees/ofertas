@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XGGVV91-es find. Zapato de Cordones Piel Grabada para Hombre Negro...'
+sku: 'B06XGGVV91-es'
 tags: [  ]
 actualPrice: 28.27 EUR
 currency: EUR

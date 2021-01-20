@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F1MY1BG-es TELMU 10X42 Telescopio Monocular para Movil BAK4 Prisma...'
+sku: 'B07F1MY1BG-es'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

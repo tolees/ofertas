@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086VYPFTJ-es Flauno Sacacorchos Eléctrico Inalámbrico Profesional...'
+sku: 'B086VYPFTJ-es'
 tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR

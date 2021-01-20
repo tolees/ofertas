@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F9J8MZY-es 6 Inch Llaves ajustables Llaves inglesas con micrómetro 36...'
+sku: 'B07F9J8MZY-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

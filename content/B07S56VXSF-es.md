@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S56VXSF-es Asics Gel-Bondi Zapatillas de Running para Mujer...'
+sku: 'B07S56VXSF-es'
 tags: [  ]
 actualPrice: 37.28 EUR
 currency: EUR

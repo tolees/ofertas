@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DKH6ZXP-es Kipling - New Hiphurray Bolsos totes Mujer Multicolor...'
+sku: 'B07DKH6ZXP-es'
 tags: [  ]
 actualPrice: 21.75 EUR
 currency: EUR

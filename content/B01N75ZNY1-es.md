@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N75ZNY1-es Yimidear Al Aire Libre Respirable Plegable Bolsa para...'
+sku: 'B01N75ZNY1-es'
 tags: [  ]
 actualPrice: 17.89 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083QYX7R9-es 1 conector coaxial SMA macho RF para cable RG402.141"...'
+sku: 'B083QYX7R9-es'
 tags: [  ]
 actualPrice: 1.02 EUR
 currency: EUR

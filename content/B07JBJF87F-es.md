@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JBJF87F-es Maleta de cabina Mickey Colored rígida 55cm blanca'
+sku: 'B07JBJF87F-es'
 tags: [  ]
 actualPrice: 64.0 EUR
 currency: EUR

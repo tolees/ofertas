@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V5HMVZS-es HUGO 2p Stripe Cc Calcetines Azul Dark Blue 401 35/38...'
+sku: 'B07V5HMVZS-es'
 tags: [  ]
 actualPrice: 7.63 EUR
 currency: EUR

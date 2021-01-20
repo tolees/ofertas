@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CVK5QD6-es Klas Remo - Dispensador de jabón automático 400 ml...'
+sku: 'B08CVK5QD6-es'
 tags: [  ]
 actualPrice: 9.37 EUR
 currency: EUR

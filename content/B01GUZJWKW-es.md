@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GUZJWKW-es Adidas Stan Smith Zapatillas para Niñas Blanco Footwear...'
+sku: 'B01GUZJWKW-es'
 tags: [  ]
 actualPrice: 40.06 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004T1R4YQ-es Tacens Aura II - Ventilador para ordenador 9 cm +60.000 h...'
+sku: 'B004T1R4YQ-es'
 tags: [  ]
 actualPrice: 6.9 EUR
 currency: EUR

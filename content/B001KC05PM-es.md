@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001KC05PM-es Lindam Barrera blanca de seguridad con puerta y ajuste a...'
+sku: 'B001KC05PM-es'
 tags: [  ]
 actualPrice: 25.19 EUR
 currency: EUR

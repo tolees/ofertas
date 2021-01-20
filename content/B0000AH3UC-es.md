@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0000AH3UC-es KONG de Mantequilla de Cacahuete fácil Treat'
+sku: 'B0000AH3UC-es'
 tags: [  ]
 actualPrice: 7.5 EUR
 currency: EUR

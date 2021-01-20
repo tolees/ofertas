@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BKQT9HS-es Daniel Wellington - Reloj analógico para mujer de nailon...'
+sku: 'B00BKQT9HS-es'
 tags: [  ]
 actualPrice: 71.33 EUR
 currency: EUR

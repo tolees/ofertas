@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01D1O3X7I-es Sherlock Holmes: The Devil s Daughter'
+sku: 'B01D1O3X7I-es'
 tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR

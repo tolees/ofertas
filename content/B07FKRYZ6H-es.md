@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FKRYZ6H-es Bestway 65303 - Tabla Paddle Surf Hinchable Hydro-Force...'
+sku: 'B07FKRYZ6H-es'
 tags: [  ]
 actualPrice: 349.0 EUR
 currency: EUR

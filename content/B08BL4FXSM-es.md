@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BL4FXSM-es VeoHome - Cafetera Italiana de Acero Inoxidable 10 tazas...'
+sku: 'B08BL4FXSM-es'
 tags: [  ]
 actualPrice: 44.97 EUR
 currency: EUR

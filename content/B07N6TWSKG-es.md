@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N6TWSKG-es Tommy Hilfiger Fashion Mix Sneaker Zapatillas para Hombre...'
+sku: 'B07N6TWSKG-es'
 tags: [  ]
 actualPrice: 29.22 EUR
 currency: EUR

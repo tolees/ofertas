@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FLY7VQR-es Operación Triunfo 2017'
+sku: 'B07FLY7VQR-es'
 tags: [  ]
 actualPrice: 8.9 EUR
 currency: EUR

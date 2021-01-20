@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01G8JA7EU-es Bañador para hombre de Gwell con rayas de secado rápido...'
+sku: 'B01G8JA7EU-es'
 tags: [  ]
 actualPrice: 7.62 EUR
 currency: EUR

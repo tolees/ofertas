@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08J45GWTC-es 50 Piezas En Una Caja Cada Pieza Envuelta Individualmente...'
+sku: 'B08J45GWTC-es'
 tags: [  ]
 actualPrice: 4.4 EUR
 currency: EUR

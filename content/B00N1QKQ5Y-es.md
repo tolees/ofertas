@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00N1QKQ5Y-es L-Triptófano Vegavero® | EL ÚNICO 99.5% PURO | SIN...'
+sku: 'B00N1QKQ5Y-es'
 tags: [  ]
 actualPrice: 17.9 EUR
 currency: EUR

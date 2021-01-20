@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MRV9KYF-es Adidas Speedex 16.1 Boxeo Zapatillas - 39.3'
+sku: 'B01MRV9KYF-es'
 tags: [  ]
 actualPrice: 57.94 EUR
 currency: EUR

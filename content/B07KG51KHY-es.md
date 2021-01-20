@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG51KHY-es PUMA Monarch TT Jr Botas de fútbol Unisex Niños Black...'
+sku: 'B07KG51KHY-es'
 tags: [  ]
 actualPrice: 24.71 EUR
 currency: EUR

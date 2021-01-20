@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PYYT6PH-es Under Armour UA Charged Rogue 2 Zapatillas para Correr...'
+sku: 'B07PYYT6PH-es'
 tags: [  ]
 actualPrice: 34.78 EUR
 currency: EUR

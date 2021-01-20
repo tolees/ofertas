@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DYCXZL2-es Merrell Vapor Glove 4 Zapatillas Deportivas para Interior...'
+sku: 'B07DYCXZL2-es'
 tags: [  ]
 actualPrice: 62.99 EUR
 currency: EUR

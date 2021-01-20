@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085CDJ6XT-es FMPC Carcasa con Cuerda Samsung Galaxy A50 Cristal TPU...'
+sku: 'B085CDJ6XT-es'
 tags: [  ]
 actualPrice: 8.9 EUR
 currency: EUR

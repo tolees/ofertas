@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WGXJY74-es Bosch TAT7203 Tostador Compacto de Acero Inoxidable 2...'
+sku: 'B06WGXJY74-es'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TF7PNFM-es LIGHTAILING Conjunto de Luces Technic Chevrolet Corvette...'
+sku: 'B07TF7PNFM-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

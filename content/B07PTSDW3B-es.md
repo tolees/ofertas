@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PTSDW3B-es Autan Family Care Aerosol Repelente de Mosquitos e...'
+sku: 'B07PTSDW3B-es'
 tags: [  ]
 actualPrice: 4.9 EUR
 currency: EUR

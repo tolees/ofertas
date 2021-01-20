@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V9GGBVZ-es Pulsar Reloj de Vestir Inspirado en Diver con Pulsera de...'
+sku: 'B07V9GGBVZ-es'
 tags: [  ]
 actualPrice: 62.22 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001KS67KS-es Vans Authentic Zapatillas de Tela Unisex Rojo Red 35 EU'
+sku: 'B001KS67KS-es'
 tags: [  ]
 actualPrice: 30.05 EUR
 currency: EUR

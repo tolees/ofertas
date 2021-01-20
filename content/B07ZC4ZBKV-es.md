@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZC4ZBKV-es Proze Funda de Silicona para Samsung Galaxy S10e - Movil...'
+sku: 'B07ZC4ZBKV-es'
 tags: [  ]
 actualPrice: 8.95 EUR
 currency: EUR

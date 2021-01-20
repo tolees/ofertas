@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZ42JPF-es PUMA Basket Heart Patent WN S Zapatillas para Mujer Gris...'
+sku: 'B07CZ42JPF-es'
 tags: [  ]
 actualPrice: 46.54 EUR
 currency: EUR

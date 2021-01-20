@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079HTHFFR-es 5W Gu10 Rgbw Led Colores Cambiantes Bombilla 6000K Blanco...'
+sku: 'B079HTHFFR-es'
 tags: [  ]
 actualPrice: 25.13 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y3TZP84-es ELEGOO Mega 2560 R3 Tarjeta Placa Compatible con Arduino...'
+sku: 'B06Y3TZP84-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

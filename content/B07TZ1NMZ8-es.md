@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZ1NMZ8-es KiplingBaroeMujerMonederosNegro Carbon Metallic...'
+sku: 'B07TZ1NMZ8-es'
 tags: [  ]
 actualPrice: 8.35 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004W7GYCK-es Duracell - Plus C Pilas Alcalinas paquete de 2 1.5 Voltios...'
+sku: 'B004W7GYCK-es'
 tags: [  ]
 actualPrice: 2.72 EUR
 currency: EUR

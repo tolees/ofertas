@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ZIW34T4-es Watch Dogs 2 - Standard Edition'
+sku: 'B00ZIW34T4-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

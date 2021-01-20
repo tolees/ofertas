@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QDS5SK3-es FGASAD - Trampa de Pesca Plegable portátil para Cangrejo...'
+sku: 'B07QDS5SK3-es'
 tags: [  ]
 actualPrice: 10.4 EUR
 currency: EUR

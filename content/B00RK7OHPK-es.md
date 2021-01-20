@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00RK7OHPK-es Sony Action CAM FDR-X1000VR - Videocámara Deportiva Video...'
+sku: 'B00RK7OHPK-es'
 tags: [  ]
 actualPrice: 333.3 EUR
 currency: EUR

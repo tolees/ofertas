@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016MXSYUG-es Nike MD Runner 2 PSV Zapatillas de Deporte Unisex niño...'
+sku: 'B016MXSYUG-es'
 tags: [  ]
 actualPrice: 29.49 EUR
 currency: EUR

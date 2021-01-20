@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XVX4KCQ-es Pantene 3 Minute Miracle Suave y Liso Pelo Apagado y...'
+sku: 'B07XVX4KCQ-es'
 tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T2DHLPJ-es Charles Wilson Lote 12 Pares Calcetines Deportivos Básicos...'
+sku: 'B07T2DHLPJ-es'
 tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR

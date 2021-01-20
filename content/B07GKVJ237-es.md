@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GKVJ237-es China Yunnan Puer té Lotus Puerh Tuocha Pequeña hoja de...'
+sku: 'B07GKVJ237-es'
 tags: [  ]
 actualPrice: 6.35 EUR
 currency: EUR

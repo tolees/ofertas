@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TSNVHDP-es Olycism Compatible para Garmin Edge 530 / Edge 830...'
+sku: 'B07TSNVHDP-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

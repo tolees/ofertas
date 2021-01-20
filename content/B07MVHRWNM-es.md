@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVHRWNM-es Kipling - Creativity Xl Monederos Mujer Morado Dark Plum...'
+sku: 'B07MVHRWNM-es'
 tags: [  ]
 actualPrice: 18.5 EUR
 currency: EUR

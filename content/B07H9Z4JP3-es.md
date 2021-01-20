@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H9Z4JP3-es Funko pop Nacho Libre multicolor talla única 36347...'
+sku: 'B07H9Z4JP3-es'
 tags: [  ]
 actualPrice: 7.29 EUR
 currency: EUR

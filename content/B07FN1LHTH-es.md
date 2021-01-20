@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FN1LHTH-es adidas Galaxy 28 Zapatillas de Running para Hombre Negro...'
+sku: 'B07FN1LHTH-es'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

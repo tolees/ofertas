@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG16VMF-es PUMA LQDCELL Shatter XT Shift Wn s Zapatillas Deportivas...'
+sku: 'B07KG16VMF-es'
 tags: [  ]
 actualPrice: 27.72 EUR
 currency: EUR

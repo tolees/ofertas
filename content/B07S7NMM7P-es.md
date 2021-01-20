@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S7NMM7P-es DONPEREGRINO 55cm Maleta Cabina Avión con Candado TSA y...'
+sku: 'B07S7NMM7P-es'
 tags: [  ]
 actualPrice: 41.99 EUR
 currency: EUR

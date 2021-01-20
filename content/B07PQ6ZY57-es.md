@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PQ6ZY57-es Wooden-Life - Mesa de cama para ordenador portátil bandeja...'
+sku: 'B07PQ6ZY57-es'
 tags: [  ]
 actualPrice: 18.55 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002WFM68K-es Reebok Classic Leather - Zapatillas de cuero para hombre...'
+sku: 'B002WFM68K-es'
 tags: [  ]
 actualPrice: 46.81 EUR
 currency: EUR

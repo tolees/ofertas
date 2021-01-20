@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088BKWZDW-es OfficeWorld 603XL Cartucho Tinta para Epson 603 Compatible...'
+sku: 'B088BKWZDW-es'
 tags: [  ]
 actualPrice: 18.88 EUR
 currency: EUR

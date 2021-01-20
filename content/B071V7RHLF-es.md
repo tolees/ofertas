@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071V7RHLF-es ELFINA Spaire Espejo Maquillaje/Afeitado Aumento con Luz...'
+sku: 'B071V7RHLF-es'
 tags: [  ]
 actualPrice: 20.24 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QQSXRTM-es Nike Classic Cortez Leather Zapatillas de Running para...'
+sku: 'B07QQSXRTM-es'
 tags: [  ]
 actualPrice: 41.77 EUR
 currency: EUR

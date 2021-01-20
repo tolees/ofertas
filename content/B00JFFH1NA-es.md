@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JFFH1NA-es NK Tostadora Darth Vader 2 rebanadas'
+sku: 'B00JFFH1NA-es'
 tags: [  ]
 actualPrice: 42.0 EUR
 currency: EUR

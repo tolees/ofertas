@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QZ32MGB-es Aceites Esenciales 100% Puros y Naturales Aromaterapia...'
+sku: 'B07QZ32MGB-es'
 tags: [  ]
 actualPrice: 8.49 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TSQ8RCQ-es Skechers Skech-Air Dynamight Zapatillas para Hombre Azul...'
+sku: 'B07TSQ8RCQ-es'
 tags: [  ]
 actualPrice: 43.95 EUR
 currency: EUR

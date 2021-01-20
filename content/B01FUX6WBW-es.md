@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FUX6WBW-es Kenwood Triblade System Pro HDM804SI Batidora de mano...'
+sku: 'B01FUX6WBW-es'
 tags: [  ]
 actualPrice: 91.74 EUR
 currency: EUR

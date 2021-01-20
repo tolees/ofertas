@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TMH8F4F-es Hummel Actus Trainer 2.0 Zapatillas Unisex Adulto Gris...'
+sku: 'B07TMH8F4F-es'
 tags: [  ]
 actualPrice: 31.4 EUR
 currency: EUR

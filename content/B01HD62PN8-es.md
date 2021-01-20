@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HD62PN8-es Salomon Speedcross 4 Zapatillas de Trail Running para...'
+sku: 'B01HD62PN8-es'
 tags: [  ]
 actualPrice: 73.99 EUR
 currency: EUR

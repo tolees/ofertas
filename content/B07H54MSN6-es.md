@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H54MSN6-es WOWLIVE - Cesta para la Ropa Sucia tamaño Grande con...'
+sku: 'B07H54MSN6-es'
 tags: [  ]
 actualPrice: 36.98 EUR
 currency: EUR

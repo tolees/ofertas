@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IADT54K-es DIGITNOW! Escáner de película para 35mm negativos y...'
+sku: 'B01IADT54K-es'
 tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR

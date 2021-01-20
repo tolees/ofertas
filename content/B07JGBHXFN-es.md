@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JGBHXFN-es Puma Phase Gym Sack Bolsa De Cuerdas Unisex Adulto...'
+sku: 'B07JGBHXFN-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076VJFR59-es G-STAR RAW ARC Mid Waist Ripped Pantalones Cortos Azul...'
+sku: 'B076VJFR59-es'
 tags: [  ]
 actualPrice: 29.31 EUR
 currency: EUR

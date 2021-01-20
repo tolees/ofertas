@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PMN134L-es Calentador de Cera Eléctrico Profesional 500 ML Kit de...'
+sku: 'B07PMN134L-es'
 tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR

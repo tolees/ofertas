@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01E02TDO2-es POP! Vinilo - UFC: Chris Weidman'
+sku: 'B01E02TDO2-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

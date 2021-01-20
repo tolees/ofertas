@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y7VJHFS-es Ballery Almohadillas de Lactancia 12 Piezas Discos de...'
+sku: 'B07Y7VJHFS-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

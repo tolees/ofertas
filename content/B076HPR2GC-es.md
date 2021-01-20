@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076HPR2GC-es Hula Hoop desmontable para niños 25.6 "ejercicio niños...'
+sku: 'B076HPR2GC-es'
 tags: [  ]
 actualPrice: 2.99 EUR
 currency: EUR

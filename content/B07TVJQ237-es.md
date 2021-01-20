@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVJQ237-es Cepillo de pelo natural para bebés Pelo de cabra Cuidado...'
+sku: 'B07TVJQ237-es'
 tags: [  ]
 actualPrice: 3.31 EUR
 currency: EUR

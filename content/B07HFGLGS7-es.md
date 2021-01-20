@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HFGLGS7-es Beats Auriculares Negro'
+sku: 'B07HFGLGS7-es'
 tags: [  ]
 actualPrice: 86.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FB3R1MG-es Viaman Plus - Fórmula Natural Para El Rendimiento...'
+sku: 'B07FB3R1MG-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

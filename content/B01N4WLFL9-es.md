@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N4WLFL9-es Friggi Friggi - Freidora Mágica Playset de Cocina con Luz...'
+sku: 'B01N4WLFL9-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

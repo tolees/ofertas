@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DJVJ37S-es Bosch TCZ6004 Pastillas de Limpieza y Descalcificación...'
+sku: 'B00DJVJ37S-es'
 tags: [  ]
 actualPrice: 8.95 EUR
 currency: EUR

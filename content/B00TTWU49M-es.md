@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TTWU49M-es Farmatint Gel 4N Castaño | Color natural y duradero |...'
+sku: 'B00TTWU49M-es'
 tags: [  ]
 actualPrice: 4.48 EUR
 currency: EUR

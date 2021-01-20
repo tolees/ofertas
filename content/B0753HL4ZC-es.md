@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0753HL4ZC-es Nike Benassi JDI Slide Sandal Mens Black/Metallic Gold...'
+sku: 'B0753HL4ZC-es'
 tags: [  ]
 actualPrice: 11.01 EUR
 currency: EUR

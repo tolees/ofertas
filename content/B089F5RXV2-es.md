@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089F5RXV2-es Wudi 50pcs Funda Protectora Gancho para la Oreja...'
+sku: 'B089F5RXV2-es'
 tags: [  ]
 actualPrice: 11.07 EUR
 currency: EUR

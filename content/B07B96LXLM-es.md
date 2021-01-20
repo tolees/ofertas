@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B96LXLM-es Tommy Hilfiger Core Hilfiger Regular Polo Gris Cloud Htr...'
+sku: 'B07B96LXLM-es'
 tags: [  ]
 actualPrice: 57.15 EUR
 currency: EUR

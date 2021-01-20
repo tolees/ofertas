@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BN7QPOY-es Carissima Gold Pendientes de mujer con oro amarillo de 9 K...'
+sku: 'B00BN7QPOY-es'
 tags: [  ]
 actualPrice: 107.0 EUR
 currency: EUR

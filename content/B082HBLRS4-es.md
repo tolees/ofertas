@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082HBLRS4-es ART VVIES Für Hauptdekorationen Schlafzimmer Leinwand...'
+sku: 'B082HBLRS4-es'
 tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR

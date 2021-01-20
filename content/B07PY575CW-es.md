@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PY575CW-es Swoote Bobina de 100m x 3mm de Cordel de Yute Natural de 3...'
+sku: 'B07PY575CW-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

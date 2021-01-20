@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K31WPF7-es Bolsas de plástico resellables bolsa sellada bolsa de...'
+sku: 'B07K31WPF7-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

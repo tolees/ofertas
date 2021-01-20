@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075R7JNMN-es New Balance Wl697trb Zapatillas de Running para Mujer Azul...'
+sku: 'B075R7JNMN-es'
 tags: [  ]
 actualPrice: 30.75 EUR
 currency: EUR

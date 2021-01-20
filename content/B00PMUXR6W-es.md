@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PMUXR6W-es RHA 201044 MA750i Intra-auriculares con aislamiento de...'
+sku: 'B00PMUXR6W-es'
 tags: [  ]
 actualPrice: 39.14 EUR
 currency: EUR

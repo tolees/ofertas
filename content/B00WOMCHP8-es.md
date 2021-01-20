@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WOMCHP8-es Crema Repelente Mosquitos - Repelente de Insectos para...'
+sku: 'B00WOMCHP8-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S48XJQ6-es Love MoschinoJc4080pp1aMujerShoppers y bolsos de...'
+sku: 'B07S48XJQ6-es'
 tags: [  ]
 actualPrice: 73.68 EUR
 currency: EUR

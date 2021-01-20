@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079YMNPD7-es Funko Pop!- Pop Marvel: Spider-Man Miles Morales Figura de...'
+sku: 'B079YMNPD7-es'
 tags: [  ]
 actualPrice: 10.28 EUR
 currency: EUR

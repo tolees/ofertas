@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089R2NLSM-es Ranura para Tarjeta de Rayas Funda de Cuero sintético con...'
+sku: 'B089R2NLSM-es'
 tags: [  ]
 actualPrice: 3.17 EUR
 currency: EUR

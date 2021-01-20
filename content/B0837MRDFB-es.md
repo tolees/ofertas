@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0837MRDFB-es TANBURO Grifo de cocina Mezclador de cocina giratorio de...'
+sku: 'B0837MRDFB-es'
 tags: [  ]
 actualPrice: 17.84 EUR
 currency: EUR

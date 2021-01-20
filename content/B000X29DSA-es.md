@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000X29DSA-es STANLEY 4-18-298 - Juego de 3 cinceles de albanil'
+sku: 'B000X29DSA-es'
 tags: [  ]
 actualPrice: 7.9 EUR
 currency: EUR

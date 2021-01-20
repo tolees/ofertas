@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QF726RF-es Cajas Bonitas Para Regalo Caja de Regalo Juego de 100...'
+sku: 'B07QF726RF-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

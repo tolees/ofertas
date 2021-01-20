@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VQKVT8L-es HJ Dispensador de Jabón Automático de Acero Inoxidable...'
+sku: 'B07VQKVT8L-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

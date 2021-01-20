@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000J6HYKO-es HP 51A - Cartucho de tóner original LaserJet para HP...'
+sku: 'B000J6HYKO-es'
 tags: [  ]
 actualPrice: 19.39 EUR
 currency: EUR

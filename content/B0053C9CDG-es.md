@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0053C9CDG-es The Hulk [Blu-ray]'
+sku: 'B0053C9CDG-es'
 tags: [  ]
 actualPrice: 7.41 EUR
 currency: EUR

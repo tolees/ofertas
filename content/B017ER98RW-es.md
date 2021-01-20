@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017ER98RW-es Vizaro - Relleno Nórdico - Edredón 300g de MaxiCuna y...'
+sku: 'B017ER98RW-es'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

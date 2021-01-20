@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006FXBUM8-es BRA RÁPIDA Vitesse Olla de 6 litros apta para todo tipo de...'
+sku: 'B006FXBUM8-es'
 tags: [  ]
 actualPrice: 57.85 EUR
 currency: EUR

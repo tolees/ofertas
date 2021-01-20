@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZN2Z82-es Pepe Jeans LondonRen BackpackNiñosCarterasNegro Black...'
+sku: 'B07MZN2Z82-es'
 tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR

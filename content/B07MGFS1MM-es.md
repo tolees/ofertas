@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MGFS1MM-es Napapijri Moto Wint Pantalones Negro Black 041 42 Talla...'
+sku: 'B07MGFS1MM-es'
 tags: [  ]
 actualPrice: 53.63 EUR
 currency: EUR

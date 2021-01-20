@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N8RQSX2-es Wonderbra Ultimate Backless Soutien-Gorge Avec Armatures...'
+sku: 'B07N8RQSX2-es'
 tags: [  ]
 actualPrice: 20.05 EUR
 currency: EUR

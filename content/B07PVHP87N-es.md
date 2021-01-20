@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PVHP87N-es Skechers BULKLIN LYNDALE Men Low-Top Trainers Black Black...'
+sku: 'B07PVHP87N-es'
 tags: [  ]
 actualPrice: 27.54 EUR
 currency: EUR

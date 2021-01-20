@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CWF93TF-es Gifts Treat Chica Gorra De Béisbol Primavera Verano...'
+sku: 'B07CWF93TF-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

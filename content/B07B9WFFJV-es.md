@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B9WFFJV-es Fitbit Versa Smartwatch Deportivo Melocotón'
+sku: 'B07B9WFFJV-es'
 tags: [  ]
 actualPrice: 129.95 EUR
 currency: EUR

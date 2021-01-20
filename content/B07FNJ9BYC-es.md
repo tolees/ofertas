@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNJ9BYC-es Tapa de Depósito Freno Delantero con Reloj para Honda...'
+sku: 'B07FNJ9BYC-es'
 tags: [  ]
 actualPrice: 20.72 EUR
 currency: EUR

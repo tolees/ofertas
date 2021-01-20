@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XHKJRYQ-es Vans Old Skool Platform Zapatillas para Mujer Negro...'
+sku: 'B06XHKJRYQ-es'
 tags: [  ]
 actualPrice: 62.42 EUR
 currency: EUR

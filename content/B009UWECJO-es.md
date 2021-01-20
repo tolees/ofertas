@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009UWECJO-es Glenfarclas - Single Highland Malt Miniature Gift Set'
+sku: 'B009UWECJO-es'
 tags: [  ]
 actualPrice: 9.54 EUR
 currency: EUR

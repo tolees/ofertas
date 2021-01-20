@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RDZ9LD7-es ASUS ROG Zephyrus M GU502GV-ES004T - Ordenador portátil...'
+sku: 'B07RDZ9LD7-es'
 tags: [  ]
 actualPrice: 1399.99 EUR
 currency: EUR

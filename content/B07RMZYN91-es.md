@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RMZYN91-es adidas Predator 19.3 TF Zapatillas de Fútbol para Hombre...'
+sku: 'B07RMZYN91-es'
 tags: [  ]
 actualPrice: 44.98 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D6WT3GZ-es Wavemaster Cube Neo - Sistema de altavoces - 50 V...'
+sku: 'B07D6WT3GZ-es'
 tags: [  ]
 actualPrice: 160.46 EUR
 currency: EUR

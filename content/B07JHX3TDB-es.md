@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JHX3TDB-es Columbia WHEATLEIGH Botas de Nieve de caña Baja para Mujer...'
+sku: 'B07JHX3TDB-es'
 tags: [  ]
 actualPrice: 22.02 EUR
 currency: EUR

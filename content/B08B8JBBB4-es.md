@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B8JBBB4-es Portátil Creativo Único Cobre Clave Forma USB2.0 Interfaz...'
+sku: 'B08B8JBBB4-es'
 tags: [  ]
 actualPrice: 9.36 EUR
 currency: EUR

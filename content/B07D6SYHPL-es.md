@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D6SYHPL-es MODAUTO Estructura para Videojuego Estructura Simulador de...'
+sku: 'B07D6SYHPL-es'
 tags: [  ]
 actualPrice: 270.0 EUR
 currency: EUR

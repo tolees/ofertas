@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R1ZM66V-es Under Armour UNDKU Heatgear Calcetines Unisex adulto Negro MD'
+sku: 'B07R1ZM66V-es'
 tags: [  ]
 actualPrice: 7.14 EUR
 currency: EUR

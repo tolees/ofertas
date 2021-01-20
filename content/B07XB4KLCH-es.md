@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XB4KLCH-es Hawiton Pantalones de Pijama Hombre Algodón Largo...'
+sku: 'B07XB4KLCH-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

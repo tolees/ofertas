@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014KVO67M-es Nostalgic-Art 48016 - Llavero Redondo Forma de tacómetro...'
+sku: 'B014KVO67M-es'
 tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR

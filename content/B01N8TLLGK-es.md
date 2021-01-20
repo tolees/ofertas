@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N8TLLGK-es Lacoste Lerond BL 1 CAM Zapatillas para Hombre Azul Nvy...'
+sku: 'B01N8TLLGK-es'
 tags: [  ]
 actualPrice: 50.63 EUR
 currency: EUR

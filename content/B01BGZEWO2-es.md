@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BGZEWO2-es Corsair Dominator Platinum - Módulo de Memoria XMP 2.0 de...'
+sku: 'B01BGZEWO2-es'
 tags: [  ]
 actualPrice: 199.0 EUR
 currency: EUR

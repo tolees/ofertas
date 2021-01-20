@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0160YHQDS-es CMP Rigel - Zapatillas de senderismo Mujer Gris Grey-...'
+sku: 'B0160YHQDS-es'
 tags: [  ]
 actualPrice: 55.98 EUR
 currency: EUR

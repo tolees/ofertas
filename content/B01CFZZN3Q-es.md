@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CFZZN3Q-es Keter - Mesa nevera para jardín Cool Stool Capacidad 39...'
+sku: 'B01CFZZN3Q-es'
 tags: [  ]
 actualPrice: 29.0 EUR
 currency: EUR

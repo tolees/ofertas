@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M9Q6RBW-es laamei Visillos Bordado para Ventanas Voile Cortina...'
+sku: 'B07M9Q6RBW-es'
 tags: [  ]
 actualPrice: 12.49 EUR
 currency: EUR

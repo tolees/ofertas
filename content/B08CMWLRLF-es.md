@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CMWLRLF-es atFoliX Lámina Protectora de Pantalla Compatible con TCL...'
+sku: 'B08CMWLRLF-es'
 tags: [  ]
 actualPrice: 6.19 EUR
 currency: EUR

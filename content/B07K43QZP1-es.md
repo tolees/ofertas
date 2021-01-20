@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K43QZP1-es JUMTOP 12V DC Bomba de inflado de neumáticos digital Bomba...'
+sku: 'B07K43QZP1-es'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

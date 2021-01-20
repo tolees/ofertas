@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015WJRWFO-es Wenger Reloj Analogico para Mujer de Cuarzo con Correa en...'
+sku: 'B015WJRWFO-es'
 tags: [  ]
 actualPrice: 99.07 EUR
 currency: EUR

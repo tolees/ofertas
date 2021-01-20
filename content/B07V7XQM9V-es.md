@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V7XQM9V-es Tommy Hilfiger Essential Nautical Sneaker Zapatillas para...'
+sku: 'B07V7XQM9V-es'
 tags: [  ]
 actualPrice: 48.0 EUR
 currency: EUR

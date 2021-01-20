@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RTVMRX2-es LTDNB Cargador Inalámbrico Rápido Qi Wireless Charger por...'
+sku: 'B07RTVMRX2-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

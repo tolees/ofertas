@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082CWV6TR-es 20 Ml Perfume De Mujer Elegante Original Fragancia De...'
+sku: 'B082CWV6TR-es'
 tags: [  ]
 actualPrice: 7.19 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BXF9EH6-es Piz Buin Piz Buin Wet Skin Transparent Sun Spray Spf15 150 ml'
+sku: 'B00BXF9EH6-es'
 tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR

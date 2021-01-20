@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SFJBNRG-es Levi s Global Vulca-Low s Zapatillas para Mujer Negro R...'
+sku: 'B07SFJBNRG-es'
 tags: [  ]
 actualPrice: 14.91 EUR
 currency: EUR

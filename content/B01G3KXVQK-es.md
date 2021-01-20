@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01G3KXVQK-es Philips Lumea Essential BRI862/00 - Depiladora IPL por luz...'
+sku: 'B01G3KXVQK-es'
 tags: [  ]
 actualPrice: 150.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VDWKV4R-es Trswyop Batería Externa para Móvil 25800mAh【Colorido...'
+sku: 'B07VDWKV4R-es'
 tags: [  ]
 actualPrice: 21.95 EUR
 currency: EUR

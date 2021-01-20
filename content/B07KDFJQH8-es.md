@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KDFJQH8-es adidas T19 TRK Pnt Y Pantalones de Deporte Unisex niños...'
+sku: 'B07KDFJQH8-es'
 tags: [  ]
 actualPrice: 26.16 EUR
 currency: EUR

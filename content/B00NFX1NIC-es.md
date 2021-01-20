@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NFX1NIC-es Beurer AS 80 - Sensor de actividad Bluetooth compatible...'
+sku: 'B00NFX1NIC-es'
 tags: [  ]
 actualPrice: 30.82 EUR
 currency: EUR

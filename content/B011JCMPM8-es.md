@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B011JCMPM8-es Giotto Flamastry Turbo Giant Fluo 6 sztuk'
+sku: 'B011JCMPM8-es'
 tags: [  ]
 actualPrice: 2.31 EUR
 currency: EUR

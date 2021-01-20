@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YW8QWXK-es SUNLU 3D Printer Power Supply'
+sku: 'B07YW8QWXK-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TLHWLFG-es Deyard Sistema de Riego Micro Flow para Refrigeración por...'
+sku: 'B07TLHWLFG-es'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

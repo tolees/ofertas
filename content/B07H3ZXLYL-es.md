@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H3ZXLYL-es Edge Entertainment- Bomb Squad - Español Color EETMBS01'
+sku: 'B07H3ZXLYL-es'
 tags: [  ]
 actualPrice: 19.34 EUR
 currency: EUR

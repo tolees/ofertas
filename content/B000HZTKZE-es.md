@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000HZTKZE-es Timex Classic T2H371 - Reloj de Cuarzo para Mujeres Correa...'
+sku: 'B000HZTKZE-es'
 tags: [  ]
 actualPrice: 38.73 EUR
 currency: EUR

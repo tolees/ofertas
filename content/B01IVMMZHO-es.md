@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IVMMZHO-es Skechers Synergy-Case Closed Zapatillas de Entrenamiento...'
+sku: 'B01IVMMZHO-es'
 tags: [  ]
 actualPrice: 42.28 EUR
 currency: EUR

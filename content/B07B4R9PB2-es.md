@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B4R9PB2-es L Oreal Paris - Dermo Expertise Exfoliante Facial...'
+sku: 'B07B4R9PB2-es'
 tags: [  ]
 actualPrice: 6.7 EUR
 currency: EUR

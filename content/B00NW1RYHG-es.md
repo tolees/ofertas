@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NW1RYHG-es Kenwood KAH647PL Accesorio procesador de alimentos...'
+sku: 'B00NW1RYHG-es'
 tags: [  ]
 actualPrice: 107.06 EUR
 currency: EUR

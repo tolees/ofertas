@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XWWG533-es Activision - Figura Sim Sensei Tidepool'
+sku: 'B06XWWG533-es'
 tags: [  ]
 actualPrice: 8.82 EUR
 currency: EUR

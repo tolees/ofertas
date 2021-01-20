@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079VM8PBS-es Relaxdays Estantería y Toallero Escalera para Baño Bambú...'
+sku: 'B079VM8PBS-es'
 tags: [  ]
 actualPrice: 59.9 EUR
 currency: EUR

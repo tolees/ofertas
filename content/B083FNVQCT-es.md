@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083FNVQCT-es Qomolo Barbacoa Cepillo 3 En 1 BBQ Grill Cepillo con El...'
+sku: 'B083FNVQCT-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

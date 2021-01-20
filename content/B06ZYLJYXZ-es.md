@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06ZYLJYXZ-es Rampow Adaptador Micro USB a Tipo C Aluminio Duradero...'
+sku: 'B06ZYLJYXZ-es'
 tags: [  ]
 actualPrice: 6.49 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRCD8JM-es GANT FOOTWEAR Portland Zapatillas para Hombre Multicolor...'
+sku: 'B07KRCD8JM-es'
 tags: [  ]
 actualPrice: 71.95 EUR
 currency: EUR

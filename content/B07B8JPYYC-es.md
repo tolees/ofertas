@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B8JPYYC-es FOREO UFO - Tratamiento de Mascarilla Inteligente Color...'
+sku: 'B07B8JPYYC-es'
 tags: [  ]
 actualPrice: 199.03 EUR
 currency: EUR

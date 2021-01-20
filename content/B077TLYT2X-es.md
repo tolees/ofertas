@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077TLYT2X-es Match Mujer Sujetador Deportivo Racerback de Doble Capa...'
+sku: 'B077TLYT2X-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

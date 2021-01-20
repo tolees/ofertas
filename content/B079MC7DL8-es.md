@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079MC7DL8-es 24pcs Purpurina Etiquetas Engomadas de Papel Flameco para...'
+sku: 'B079MC7DL8-es'
 tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR

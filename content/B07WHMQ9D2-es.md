@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WHMQ9D2-es Tubbz - Destiny Sweeperbot'
+sku: 'B07WHMQ9D2-es'
 tags: [  ]
 actualPrice: 5.95 EUR
 currency: EUR

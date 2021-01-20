@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086VJKJ7N-es POLPqeD Cámara Web HD Mini Computadora USB Cámara...'
+sku: 'B086VJKJ7N-es'
 tags: [  ]
 actualPrice: 10.49 EUR
 currency: EUR

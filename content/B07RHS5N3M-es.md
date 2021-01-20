@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RHS5N3M-es Raid - Recambio para Difusor Eléctrico Anti Mosquitos...'
+sku: 'B07RHS5N3M-es'
 tags: [  ]
 actualPrice: 5.71 EUR
 currency: EUR

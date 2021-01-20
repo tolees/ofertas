@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0126ML6UM-es Senston Anti Slip Sobregrip Racket Overgrip Antideslizante...'
+sku: 'B0126ML6UM-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

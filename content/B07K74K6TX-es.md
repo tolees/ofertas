@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K74K6TX-es Asics Gel-Fujitrabuco 7 M G-TX 1011a209 Zapatillas de...'
+sku: 'B07K74K6TX-es'
 tags: [  ]
 actualPrice: 98.91 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S5CGC6Z-es Keten Alfombra Inflable con Agua Tapete de PVC a Prueba de...'
+sku: 'B07S5CGC6Z-es'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

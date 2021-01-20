@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZ3NBLQ-es PETKIT Correa de Perro Retráctil No es Fácil de Romper...'
+sku: 'B07TZ3NBLQ-es'
 tags: [  ]
 actualPrice: 41.0 EUR
 currency: EUR

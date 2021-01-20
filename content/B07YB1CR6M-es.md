@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YB1CR6M-es FORMIZON 3 Pack Bombas de Globo Manual Bombas de Globos...'
+sku: 'B07YB1CR6M-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

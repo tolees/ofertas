@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HNZQ6N7-es Micrófono de cámara Emiral Micrófono de entrevista estéreo...'
+sku: 'B07HNZQ6N7-es'
 tags: [  ]
 actualPrice: 36.98 EUR
 currency: EUR

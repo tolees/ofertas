@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076X2DP1R-es H.Koenig Sopera Eléctrica y Licuadora Máquina para hacer...'
+sku: 'B076X2DP1R-es'
 tags: [  ]
 actualPrice: 89.9 EUR
 currency: EUR

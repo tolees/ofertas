@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LN5UBGI-es TOUCHBeauty TB-1333 LED Set de Manicura y Pedicura...'
+sku: 'B01LN5UBGI-es'
 tags: [  ]
 actualPrice: 10.81 EUR
 currency: EUR

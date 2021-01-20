@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PT9ZMDZ-es Sekey 220x100cm Cortina magnética ideal para puerta de...'
+sku: 'B07PT9ZMDZ-es'
 tags: [  ]
 actualPrice: 11.04 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDL5RR5-es G-STAR RAW Siva Round Neck suéter Beige Milk 111 XX-Small...'
+sku: 'B07NDL5RR5-es'
 tags: [  ]
 actualPrice: 15.1 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BG5W74A-es Bosch ErgoMixx MSM66150 - Batidora de mano 600 W con vaso...'
+sku: 'B00BG5W74A-es'
 tags: [  ]
 actualPrice: 38.3 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TTPF8XL-es KiplingCity Pack SMujerMochilasMulticolor Speckled...'
+sku: 'B07TTPF8XL-es'
 tags: [  ]
 actualPrice: 27.41 EUR
 currency: EUR

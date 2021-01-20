@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078YL7DZ4-es 3 en 1 Lámpara LED de Mesa YZCX Lámpara Táctil con Altavoz...'
+sku: 'B078YL7DZ4-es'
 tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR

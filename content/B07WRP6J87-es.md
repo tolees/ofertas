@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WRP6J87-es TOOBUR Pulsera de Actividad Inteligente IP68 Impermeable...'
+sku: 'B07WRP6J87-es'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

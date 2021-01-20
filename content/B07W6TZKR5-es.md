@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W6TZKR5-es Scratch Art LANMOK Rascar Creativas Papel Manualidades con...'
+sku: 'B07W6TZKR5-es'
 tags: [  ]
 actualPrice: 12.97 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PH3X8RV-es Betacaroteno [25.000 ui] 180 Cápsulas con Patentado Lyc-O-...'
+sku: 'B07PH3X8RV-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

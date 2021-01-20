@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000OLXCWS-es Converse Chuck Taylor All Star Hi Top Zapatillas Unisex...'
+sku: 'B000OLXCWS-es'
 tags: [  ]
 actualPrice: 55.95 EUR
 currency: EUR

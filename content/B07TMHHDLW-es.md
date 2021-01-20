@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TMHHDLW-es Levi s Original Batwing Polo Multicolor Vine Stripe...'
+sku: 'B07TMHHDLW-es'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

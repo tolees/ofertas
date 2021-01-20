@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H32CGBQ-es Newday1 Botella de Agua de Mantiene Bebidas frías por 24h...'
+sku: 'B07H32CGBQ-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

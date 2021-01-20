@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085BLSJLR-es YIMINYUER Colchonetas de Espuma para Yoga Gimnasio -...'
+sku: 'B085BLSJLR-es'
 tags: [  ]
 actualPrice: 34.43 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G6YTG2H-es FOGAWA 2 Pares Taloneras Gel Médica Plantillas Gel...'
+sku: 'B07G6YTG2H-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

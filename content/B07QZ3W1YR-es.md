@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QZ3W1YR-es Jané Protect Silla de auto - Nurse'
+sku: 'B07QZ3W1YR-es'
 tags: [  ]
 actualPrice: 88.9 EUR
 currency: EUR

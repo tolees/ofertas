@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085S25XNT-es ORSIFOW Herramienta Multiuso 18 in 1 Inoxidable Hacha...'
+sku: 'B085S25XNT-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MNN5X5M-es Atletico de Madrid PT-243-ATL Portatodo Triple'
+sku: 'B07MNN5X5M-es'
 tags: [  ]
 actualPrice: 5.48 EUR
 currency: EUR

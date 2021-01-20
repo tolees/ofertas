@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RP5JJR-es Helly Hansen Crew Gorra Unisex Adulto Negro Única'
+sku: 'B073RP5JJR-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

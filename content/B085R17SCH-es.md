@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085R17SCH-es Finocam - Agenda Curso 2020-2021 Cuarto-155x212 1 Día...'
+sku: 'B085R17SCH-es'
 tags: [  ]
 actualPrice: 8.75 EUR
 currency: EUR

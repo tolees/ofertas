@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q29FMGB-es Cepillo de Dientes Eléctrico Homever Cepillo de Dientes...'
+sku: 'B07Q29FMGB-es'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

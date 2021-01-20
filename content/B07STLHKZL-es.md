@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STLHKZL-es adidas Countryxkamanda Zapatillas de Gimnasia para Hombre...'
+sku: 'B07STLHKZL-es'
 tags: [  ]
 actualPrice: 63.46 EUR
 currency: EUR

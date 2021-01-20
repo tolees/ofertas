@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075RGTRYV-es Helly Hansen Blume Chaqueta De Fumador Repelente Al Agua...'
+sku: 'B075RGTRYV-es'
 tags: [  ]
 actualPrice: 55.2 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00473ZNMG-es Amefa Modelo Actual Cubertería 24 Piezas Acero Inoxidable...'
+sku: 'B00473ZNMG-es'
 tags: [  ]
 actualPrice: 31.46 EUR
 currency: EUR

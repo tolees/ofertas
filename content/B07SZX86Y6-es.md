@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SZX86Y6-es adidas W C90 Tight Tights Mujer Black/White M/S'
+sku: 'B07SZX86Y6-es'
 tags: [  ]
 actualPrice: 17.97 EUR
 currency: EUR

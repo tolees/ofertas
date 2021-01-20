@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079ZHXHZC-es Oral-B 3D White Luxe Brillo Seductor Pasta Dentífrica 75...'
+sku: 'B079ZHXHZC-es'
 tags: [  ]
 actualPrice: 8.8 EUR
 currency: EUR

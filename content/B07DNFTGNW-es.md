@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DNFTGNW-es Limpiador de Cepillo de Acero Inoxidable con Mango Usar...'
+sku: 'B07DNFTGNW-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

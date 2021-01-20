@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K8QGSPZ-es Disney Pijamas de Manga Larga para niños The Incredibles...'
+sku: 'B07K8QGSPZ-es'
 tags: [  ]
 actualPrice: 12.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00RVIVZVC-es Colocado Directamente Bajo el Agua Roleadro 54W Luz de...'
+sku: 'B00RVIVZVC-es'
 tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR

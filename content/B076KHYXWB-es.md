@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076KHYXWB-es ORICO - Soporte para Monitor de computadora portátil...'
+sku: 'B076KHYXWB-es'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

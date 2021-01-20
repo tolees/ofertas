@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RHHX9D-es Adidas Terrex Swift R2 Mid GTX Zapatillas de Marcha...'
+sku: 'B073RHHX9D-es'
 tags: [  ]
 actualPrice: 118.48 EUR
 currency: EUR

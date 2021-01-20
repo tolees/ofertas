@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083P1DLVP-es HERSITY Mini Camiones de Construccion Metal 5 Vehículos de...'
+sku: 'B083P1DLVP-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

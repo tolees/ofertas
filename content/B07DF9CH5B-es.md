@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DF9CH5B-es Funko Marvel Comics Figura Pop de Prowler Color Mulitcolor...'
+sku: 'B07DF9CH5B-es'
 tags: [  ]
 actualPrice: 9.65 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016QM6F2M-es Tommy Hilfiger New ALY Belt Cinturón Braun DARK TAN 257...'
+sku: 'B016QM6F2M-es'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

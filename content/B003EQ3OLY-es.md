@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003EQ3OLY-es chung shi Dux Beach Alpargata para Mujer Morado...'
+sku: 'B003EQ3OLY-es'
 tags: [  ]
 actualPrice: 7.65 EUR
 currency: EUR

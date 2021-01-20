@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WJTZXFW-es Libertroy USB Splitter 3usb Multifunción 3a Conversor...'
+sku: 'B07WJTZXFW-es'
 tags: [  ]
 actualPrice: 1.7 EUR
 currency: EUR

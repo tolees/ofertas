@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XJYVJ0Y-es Reebok Cl Lthr Zapatillas de Deporte para Hombre Blanco...'
+sku: 'B00XJYVJ0Y-es'
 tags: [  ]
 actualPrice: 53.26 EUR
 currency: EUR

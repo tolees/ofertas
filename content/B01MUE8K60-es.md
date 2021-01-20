@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MUE8K60-es Mical Profesional Bolsas de Basura Gran tamaño 85 x 110 cm...'
+sku: 'B01MUE8K60-es'
 tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR

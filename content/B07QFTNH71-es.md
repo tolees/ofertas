@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QFTNH71-es NUBILY Cinturon Hombre Cuero Negro Marrón Jeans Reversible...'
+sku: 'B07QFTNH71-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V8T5DT1-es Tommy Hilfiger Core Corporate High Textile SNK Zapatillas...'
+sku: 'B07V8T5DT1-es'
 tags: [  ]
 actualPrice: 47.45 EUR
 currency: EUR

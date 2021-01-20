@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GEOLY2S-es ThunderX3 TK25- Teclado gaming de membrana-...'
+sku: 'B01GEOLY2S-es'
 tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR

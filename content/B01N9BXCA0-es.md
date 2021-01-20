@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N9BXCA0-es Dermacol - Barra de Labios Pretty Matte No. 05-1 unidad'
+sku: 'B01N9BXCA0-es'
 tags: [  ]
 actualPrice: 4.73 EUR
 currency: EUR

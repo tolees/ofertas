@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077BW8BCY-es Montse Interiors Juego de sábanas Estampado Rayas Flash...'
+sku: 'B077BW8BCY-es'
 tags: [  ]
 actualPrice: 35.95 EUR
 currency: EUR

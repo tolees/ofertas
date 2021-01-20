@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D7Y1LH8-es Dailydream colchón Topper viscoelástico Espuma con Efecto...'
+sku: 'B07D7Y1LH8-es'
 tags: [  ]
 actualPrice: 64.9 EUR
 currency: EUR

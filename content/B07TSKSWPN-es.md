@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TSKSWPN-es StarTech.com Docking Station Thunderbolt 3 con Vídeo Doble...'
+sku: 'B07TSKSWPN-es'
 tags: [  ]
 actualPrice: 226.99 EUR
 currency: EUR

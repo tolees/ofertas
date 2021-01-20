@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P9XXC1M-es ENEGON Batería de Repuesto Paquete de 2 y Kit de Cargador...'
+sku: 'B07P9XXC1M-es'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

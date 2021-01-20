@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C2DBPCC-es MaGeek® [Pack de 5] 0 3m Cables Micro USB Sincroniza y...'
+sku: 'B07C2DBPCC-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

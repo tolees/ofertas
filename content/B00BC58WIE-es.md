@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BC58WIE-es Philips GC160/02 - Plancha en seco con suela DynaGlide...'
+sku: 'B00BC58WIE-es'
 tags: [  ]
 actualPrice: 14.44 EUR
 currency: EUR

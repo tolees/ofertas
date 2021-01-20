@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MSV5MP5-es Cat Footwear Quadrate Botas Clasicas para Hombre Naranja...'
+sku: 'B07MSV5MP5-es'
 tags: [  ]
 actualPrice: 30.32 EUR
 currency: EUR

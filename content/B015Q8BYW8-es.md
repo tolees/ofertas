@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015Q8BYW8-es Lotus 18208/2 - Reloj para Hombre Cuarzo analógico Correa...'
+sku: 'B015Q8BYW8-es'
 tags: [  ]
 actualPrice: 101.85 EUR
 currency: EUR

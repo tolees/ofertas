@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXLTNFN-es Superga 2750 Cotu Classic Zapatillas Unisex Adulto Blanco...'
+sku: 'B07TXLTNFN-es'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000WFD4WO-es Trixie Bozal plástico Cintas Ajuste Nylon L 26 cm Ng'
+sku: 'B000WFD4WO-es'
 tags: [  ]
 actualPrice: 6.04 EUR
 currency: EUR

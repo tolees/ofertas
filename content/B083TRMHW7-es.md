@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083TRMHW7-es Kasfam Máscara Facial máscara de carbón Activado Anti...'
+sku: 'B083TRMHW7-es'
 tags: [  ]
 actualPrice: 1.98 EUR
 currency: EUR

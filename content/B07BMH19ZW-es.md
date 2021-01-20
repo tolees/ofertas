@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BMH19ZW-es South Park: Retaguardia en Peligro'
+sku: 'B07BMH19ZW-es'
 tags: [  ]
 actualPrice: 26.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J6NP6H5-es Pop! Rugrats - Figura de Vinilo Spike'
+sku: 'B07J6NP6H5-es'
 tags: [  ]
 actualPrice: 7.05 EUR
 currency: EUR

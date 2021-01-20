@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PP9WNYY-es BenQ W1720 - Proyector DLP con auténtica resolucion 4K UHD...'
+sku: 'B07PP9WNYY-es'
 tags: [  ]
 actualPrice: 715.0 EUR
 currency: EUR

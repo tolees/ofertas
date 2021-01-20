@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0041UQJGO-es Reebok Classic Leather Zapatillas de Trail Running para...'
+sku: 'B0041UQJGO-es'
 tags: [  ]
 actualPrice: 34.6 EUR
 currency: EUR

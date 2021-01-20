@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GXKDTI6-es FLOWER - Insecticida Hormigas Jeringa Flower 10 gr'
+sku: 'B00GXKDTI6-es'
 tags: [  ]
 actualPrice: 5.95 EUR
 currency: EUR

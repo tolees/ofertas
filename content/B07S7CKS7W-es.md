@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S7CKS7W-es adidas Light ANK 3pp Calcetines Unisex Adulto Medium Grey...'
+sku: 'B07S7CKS7W-es'
 tags: [  ]
 actualPrice: 7.49 EUR
 currency: EUR

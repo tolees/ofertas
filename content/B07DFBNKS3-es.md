@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFBNKS3-es Funko- Pop Movies: The Lost Boys-Sam Emerson Multicolor...'
+sku: 'B07DFBNKS3-es'
 tags: [  ]
 actualPrice: 5.0 EUR
 currency: EUR

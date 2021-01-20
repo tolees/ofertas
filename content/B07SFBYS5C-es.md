@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SFBYS5C-es Homvik Mosquitera Universal Antimosquitos para Bebé Red...'
+sku: 'B07SFBYS5C-es'
 tags: [  ]
 actualPrice: 11.59 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QD29NH7-es MTNG Attitude 69643 Zapatillas para Mujer Multicolor Soft...'
+sku: 'B07QD29NH7-es'
 tags: [  ]
 actualPrice: 14.92 EUR
 currency: EUR

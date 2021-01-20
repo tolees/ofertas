@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078N5GM6R-es Protector Trasero para iPhone X + Lente Protector de...'
+sku: 'B078N5GM6R-es'
 tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR

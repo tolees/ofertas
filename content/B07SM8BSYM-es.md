@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SM8BSYM-es Funko Pop Heroes: Birds of Prey - Black Canary Boobytrap...'
+sku: 'B07SM8BSYM-es'
 tags: [  ]
 actualPrice: 8.76 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QG19FDY-es Advance Veterinary Diets Weight Balance - Pienso para...'
+sku: 'B07QG19FDY-es'
 tags: [  ]
 actualPrice: 11.97 EUR
 currency: EUR

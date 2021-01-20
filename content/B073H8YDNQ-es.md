@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073H8YDNQ-es Air Wick Ambientador Freshmatic Completo Life Scents...'
+sku: 'B073H8YDNQ-es'
 tags: [  ]
 actualPrice: 2.98 EUR
 currency: EUR

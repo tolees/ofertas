@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073VL5TCR-es Avaspot Difusor de Aceites Esenciales 250ml humidificador...'
+sku: 'B073VL5TCR-es'
 tags: [  ]
 actualPrice: 15.19 EUR
 currency: EUR

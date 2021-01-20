@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004TQD7YW-es Beurer LB12 Mini humidificador ultrasónico óptimo para...'
+sku: 'B004TQD7YW-es'
 tags: [  ]
 actualPrice: 27.89 EUR
 currency: EUR

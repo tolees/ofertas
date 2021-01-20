@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00QNE05AW-es Bresser Trípode de mesa de 24cm'
+sku: 'B00QNE05AW-es'
 tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR

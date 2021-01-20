@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J5NG3Y3-es GARRAPATIN Antiparasitario pulgas casetas y Camas de Perro...'
+sku: 'B07J5NG3Y3-es'
 tags: [  ]
 actualPrice: 9.75 EUR
 currency: EUR

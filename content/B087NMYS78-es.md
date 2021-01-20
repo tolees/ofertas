@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087NMYS78-es Respirador desechable de Tres Capas Transpirable Antipolvo...'
+sku: 'B087NMYS78-es'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

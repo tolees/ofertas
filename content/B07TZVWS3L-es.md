@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZVWS3L-es Skechers Summits Zapatillas para Mujer Blanco White...'
+sku: 'B07TZVWS3L-es'
 tags: [  ]
 actualPrice: 38.47 EUR
 currency: EUR

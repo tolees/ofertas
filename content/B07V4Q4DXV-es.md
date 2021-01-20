@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V4Q4DXV-es J.Endéar Pulsera Forma de Inicial R Plata de Ley 925...'
+sku: 'B07V4Q4DXV-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000HTVVVQ-es Saucony Jazz Original-W Zapatillas para Mujer Azul...'
+sku: 'B000HTVVVQ-es'
 tags: [  ]
 actualPrice: 43.9 EUR
 currency: EUR

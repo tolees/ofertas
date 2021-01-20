@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089DB26QZ-es Ponacat Cámara Web Usb Cámara Web con Micrófono Monitoreo...'
+sku: 'B089DB26QZ-es'
 tags: [  ]
 actualPrice: 14.38 EUR
 currency: EUR

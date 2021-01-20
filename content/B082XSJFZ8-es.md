@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082XSJFZ8-es Foto láser digital Tacómetro Sin contacto RPM Tacómetro...'
+sku: 'B082XSJFZ8-es'
 tags: [  ]
 actualPrice: 11.4 EUR
 currency: EUR

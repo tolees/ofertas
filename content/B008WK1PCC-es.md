@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008WK1PCC-es Bosch TWK3A011 Hervidor de Agua 1.7 litros 2400 W Color...'
+sku: 'B008WK1PCC-es'
 tags: [  ]
 actualPrice: 28.5 EUR
 currency: EUR

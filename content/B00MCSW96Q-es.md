@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MCSW96Q-es Remington Your Style D5219 - Secador de Pelo Secador...'
+sku: 'B00MCSW96Q-es'
 tags: [  ]
 actualPrice: 30.14 EUR
 currency: EUR

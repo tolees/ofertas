@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C1VH81S-es Plameca - Plan 21 Garcinia Activ 60 Cápsulas'
+sku: 'B07C1VH81S-es'
 tags: [  ]
 actualPrice: 10.27 EUR
 currency: EUR

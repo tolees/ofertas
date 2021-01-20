@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000WCB51Y-es STANLEY 1-93-329 - Cinturón portaherramientas de Nylon'
+sku: 'B000WCB51Y-es'
 tags: [  ]
 actualPrice: 7.64 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JZ8HC4E-es Saquito Star Wars Surt 2 Capacidad 35 X 0 5 X 27 cms'
+sku: 'B01JZ8HC4E-es'
 tags: [  ]
 actualPrice: 4.7 EUR
 currency: EUR

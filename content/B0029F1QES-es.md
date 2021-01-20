@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0029F1QES-es Leifheit Limpiacristales Professional limpiaventanas con...'
+sku: 'B0029F1QES-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BSB9JYG-es BelleStyle Doodle Agua 4 Colores Agua Dibujo Pintura Mat...'
+sku: 'B07BSB9JYG-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075FBVJP8-es PUSHIDE 2PCS Alta Calidad Almohadillas para cinturón de...'
+sku: 'B075FBVJP8-es'
 tags: [  ]
 actualPrice: 10.98 EUR
 currency: EUR

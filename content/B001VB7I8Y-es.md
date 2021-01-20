@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001VB7I8Y-es Schmetz - Aguja para máquina de Coser'
+sku: 'B001VB7I8Y-es'
 tags: [  ]
 actualPrice: 4.35 EUR
 currency: EUR

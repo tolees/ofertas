@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004IJ89WK-es Nike Cortez Basic SL GS Zapatillas de Deporte Unisex...'
+sku: 'B004IJ89WK-es'
 tags: [  ]
 actualPrice: 39.7 EUR
 currency: EUR

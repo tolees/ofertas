@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QZTHMD5-es Under Armour Fly by Exposed Pantalón Corto Mujer Negro...'
+sku: 'B07QZTHMD5-es'
 tags: [  ]
 actualPrice: 17.97 EUR
 currency: EUR

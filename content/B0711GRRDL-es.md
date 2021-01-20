@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0711GRRDL-es Philips SHB3075RD - Auriculares Inalambricos Bluetooth con...'
+sku: 'B0711GRRDL-es'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089QSJ9G7-es Haioo Mini Ventilador USB Portátil y Silencioso Rotación...'
+sku: 'B089QSJ9G7-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

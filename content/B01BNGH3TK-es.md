@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BNGH3TK-es Wera 05057431001 Puntas Set de 30 Piezas'
+sku: 'B01BNGH3TK-es'
 tags: [  ]
 actualPrice: 52.02 EUR
 currency: EUR

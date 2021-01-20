@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VX5XJDB-es Bonio Silla de coche grupo 1/2/3 9-36 kg ISOFIX Reclinable...'
+sku: 'B07VX5XJDB-es'
 tags: [  ]
 actualPrice: 137.99 EUR
 currency: EUR

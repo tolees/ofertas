@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0748QZ2ZP-es Oreillette gaming MCFC Manchester city pour PS4 - Xbox One...'
+sku: 'B0748QZ2ZP-es'
 tags: [  ]
 actualPrice: 15.66 EUR
 currency: EUR

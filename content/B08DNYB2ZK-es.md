@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DNYB2ZK-es Panamar Esponja Almacenamiento de desagüe Cesta para...'
+sku: 'B08DNYB2ZK-es'
 tags: [  ]
 actualPrice: 1.35 EUR
 currency: EUR

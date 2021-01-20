@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087MBMC9N-es XILOSIN Asiento Trasero del Coche 4PCS Mats Barro Cubierta...'
+sku: 'B087MBMC9N-es'
 tags: [  ]
 actualPrice: 6.84 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081ML9HVL-es Almohadilla de protección para la cabeza del bebé Almohada...'
+sku: 'B081ML9HVL-es'
 tags: [  ]
 actualPrice: 6.41 EUR
 currency: EUR

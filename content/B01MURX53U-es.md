@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MURX53U-es Virklyee Colador de cocina plegable 2 piezas de filtro de...'
+sku: 'B01MURX53U-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

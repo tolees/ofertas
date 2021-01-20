@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PVQKWCN-es Under Armour UA Charged Bandit 5 Zapatillas para Correr...'
+sku: 'B07PVQKWCN-es'
 tags: [  ]
 actualPrice: 58.34 EUR
 currency: EUR

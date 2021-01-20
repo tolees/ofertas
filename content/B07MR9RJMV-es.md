@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MR9RJMV-es Lee Luke Jeans Moto Black HL 31W / 32L para Hombre'
+sku: 'B07MR9RJMV-es'
 tags: [  ]
 actualPrice: 53.99 EUR
 currency: EUR

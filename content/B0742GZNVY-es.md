@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0742GZNVY-es Pack Galería Nocturna - 86 Historias Macabras Night...'
+sku: 'B0742GZNVY-es'
 tags: [  ]
 actualPrice: 21.0 EUR
 currency: EUR

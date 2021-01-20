@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T98KN5K-es Blusea Piscina Perros y Gatos Piscina Bañera Plegable PVC...'
+sku: 'B07T98KN5K-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

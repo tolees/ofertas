@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B7KDL8L-es touchbeauty Cejas automática retráctil Pinzas con luz LED...'
+sku: 'B07B7KDL8L-es'
 tags: [  ]
 actualPrice: 9.98 EUR
 currency: EUR

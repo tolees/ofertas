@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0848LVCXC-es Mascarilla de protección respiratoria N95 – Máscara...'
+sku: 'B0848LVCXC-es'
 tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR

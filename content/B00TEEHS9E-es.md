@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TEEHS9E-es PREXTEX - Coche de Policía Teledirigido Monster Truck...'
+sku: 'B00TEEHS9E-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

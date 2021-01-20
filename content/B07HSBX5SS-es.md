@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HSBX5SS-es Sharp DR-P355 Radio despertador Digital Estéreo Dab/Dab+ y...'
+sku: 'B07HSBX5SS-es'
 tags: [  ]
 actualPrice: 70.99 EUR
 currency: EUR

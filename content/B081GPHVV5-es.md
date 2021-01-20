@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081GPHVV5-es FLYLINKTECH 3500mAh Batería de Repuesto para Dyson V8...'
+sku: 'B081GPHVV5-es'
 tags: [  ]
 actualPrice: 52.99 EUR
 currency: EUR

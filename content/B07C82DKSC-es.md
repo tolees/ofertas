@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C82DKSC-es Easton Marlowe 6 PR Calcetines Lisos Negros Hombre Mujer...'
+sku: 'B07C82DKSC-es'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

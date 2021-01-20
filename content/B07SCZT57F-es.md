@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SCZT57F-es PUMA Cali Wn s Zapatillas para Mujer Negro Black White 18...'
+sku: 'B07SCZT57F-es'
 tags: [  ]
 actualPrice: 42.45 EUR
 currency: EUR

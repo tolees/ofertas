@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H3R17CT-es RAOYI 32GB Memoria Flash USB 3.0 Tipo C Dual OTG Flash...'
+sku: 'B07H3R17CT-es'
 tags: [  ]
 actualPrice: 11.98 EUR
 currency: EUR

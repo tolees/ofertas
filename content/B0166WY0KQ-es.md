@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0166WY0KQ-es LEVIS FOOTWEAR AND ACCESSORIES Alturas - Cinturón Hombre...'
+sku: 'B0166WY0KQ-es'
 tags: [  ]
 actualPrice: 27.95 EUR
 currency: EUR

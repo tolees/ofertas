@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MCCBD3D-es Arsenal FC - Bufanda modelo Gunners 132 x 19cm Azul marino'
+sku: 'B07MCCBD3D-es'
 tags: [  ]
 actualPrice: 13.7 EUR
 currency: EUR

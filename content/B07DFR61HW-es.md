@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFR61HW-es New Balance X-90 h Zapatillas para Hombre Azul...'
+sku: 'B07DFR61HW-es'
 tags: [  ]
 actualPrice: 71.05 EUR
 currency: EUR

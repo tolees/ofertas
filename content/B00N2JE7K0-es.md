@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00N2JE7K0-es Philips HU4706/11 – Humidificador con Tecnología NanoCloud...'
+sku: 'B00N2JE7K0-es'
 tags: [  ]
 actualPrice: 43.91 EUR
 currency: EUR

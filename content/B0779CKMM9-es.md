@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0779CKMM9-es Cosstars Unisex 3D Digital Estampado Gimnasia del Deporte...'
+sku: 'B0779CKMM9-es'
 tags: [  ]
 actualPrice: 19.98 EUR
 currency: EUR

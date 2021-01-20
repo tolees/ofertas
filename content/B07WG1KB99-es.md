@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WG1KB99-es COOLJOY Juguete de Excavadora Excavadora Camión Camión del...'
+sku: 'B07WG1KB99-es'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0000AQOBQ-es Fellowes Soporte elevador de monitor giratorio - Ajustable...'
+sku: 'B0000AQOBQ-es'
 tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR

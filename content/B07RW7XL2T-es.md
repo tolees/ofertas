@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RW7XL2T-es AMX Cesta organizadora de Almacenamiento Plegable con Tapa...'
+sku: 'B07RW7XL2T-es'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

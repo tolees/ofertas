@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F7YFHHR-es Ferilinso Funda para Xiaomi Redmi Note 6 Pro Híbrido...'
+sku: 'B07F7YFHHR-es'
 tags: [  ]
 actualPrice: 7.01 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XHHRX3C-es Naipo Respaldo de Masaje Shiatsu Asiento Masajeador para...'
+sku: 'B06XHHRX3C-es'
 tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR

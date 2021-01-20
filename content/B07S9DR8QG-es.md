@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S9DR8QG-es Logitech G703 Lightspeed Ratón Gaming Inalámbrico Captor...'
+sku: 'B07S9DR8QG-es'
 tags: [  ]
 actualPrice: 63.99 EUR
 currency: EUR

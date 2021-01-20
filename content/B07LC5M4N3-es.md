@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LC5M4N3-es Adidas VS Set Zapatillas de Tenis para Hombre Multicolor...'
+sku: 'B07LC5M4N3-es'
 tags: [  ]
 actualPrice: 25.38 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075FXYSV5-es Qubo Ares BL - Smartphone de 2.4" Memoria de 32 MB cámara...'
+sku: 'B075FXYSV5-es'
 tags: [  ]
 actualPrice: 13.0 EUR
 currency: EUR

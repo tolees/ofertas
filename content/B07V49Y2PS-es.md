@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V49Y2PS-es Apple MacBook Air de 13 pulgadas Modelo Anterior 8GB RAM...'
+sku: 'B07V49Y2PS-es'
 tags: [  ]
 actualPrice: 1089.0 EUR
 currency: EUR

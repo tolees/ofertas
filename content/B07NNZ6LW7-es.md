@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NNZ6LW7-es adidas Stan Smith Zapatillas de Gimnasia para Hombre...'
+sku: 'B07NNZ6LW7-es'
 tags: [  ]
 actualPrice: 68.49 EUR
 currency: EUR

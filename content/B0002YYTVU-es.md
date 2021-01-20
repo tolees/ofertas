@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0002YYTVU-es Wolfcraft 1573000 1573000-1 Atornillador Manual con diseño...'
+sku: 'B0002YYTVU-es'
 tags: [  ]
 actualPrice: 4.95 EUR
 currency: EUR

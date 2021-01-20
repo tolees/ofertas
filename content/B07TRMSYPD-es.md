@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TRMSYPD-es Levi s Plus Size Pl 501 Original Pantalones Cortos Azul...'
+sku: 'B07TRMSYPD-es'
 tags: [  ]
 actualPrice: 21.84 EUR
 currency: EUR

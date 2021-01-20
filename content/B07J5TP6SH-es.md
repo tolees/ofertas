@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J5TP6SH-es Asics Gel-Kayano 25 Zapatillas de Running para Hombre...'
+sku: 'B07J5TP6SH-es'
 tags: [  ]
 actualPrice: 124.98 EUR
 currency: EUR

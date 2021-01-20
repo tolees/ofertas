@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087M4B5RS-es ikeepi 100 unidades desechables Mund-Nasen-Schutz 3-lagig...'
+sku: 'B087M4B5RS-es'
 tags: [  ]
 actualPrice: 7.9 EUR
 currency: EUR

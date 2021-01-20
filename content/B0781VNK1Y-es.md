@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0781VNK1Y-es BIC Kids Evolution ECOlutions Lápices para Colorear -...'
+sku: 'B0781VNK1Y-es'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

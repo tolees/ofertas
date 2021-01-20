@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000FGD03S-es K&N KN-185 Filro the Aceite Moto'
+sku: 'B000FGD03S-es'
 tags: [  ]
 actualPrice: 5.91 EUR
 currency: EUR

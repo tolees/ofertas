@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0058E9ANQ-es Farmacell 302 Negro M/L Mini Pantalon Corto masajeador...'
+sku: 'B0058E9ANQ-es'
 tags: [  ]
 actualPrice: 15.15 EUR
 currency: EUR

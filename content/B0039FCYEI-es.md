@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0039FCYEI-es IBILI 716010 - Aro INOX 10X4 50 Cms.'
+sku: 'B0039FCYEI-es'
 tags: [  ]
 actualPrice: 2.75 EUR
 currency: EUR

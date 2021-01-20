@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0788BNRNS-es Tommy Hilfiger X Sujetador Estilo Bralette Azul Navy...'
+sku: 'B0788BNRNS-es'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

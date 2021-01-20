@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VGS33YL-es TEEHON Funda de Protección para Sombrilla Funda Parasol...'
+sku: 'B07VGS33YL-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

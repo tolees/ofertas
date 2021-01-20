@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088D4HP2P-es Suhctup Funda Compatible para Xiaomi Mi 8 Lite Carcasa...'
+sku: 'B088D4HP2P-es'
 tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR

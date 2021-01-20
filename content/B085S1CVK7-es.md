@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085S1CVK7-es Oriware Adhesivo Negro Estantes Cesta para Ducha...'
+sku: 'B085S1CVK7-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

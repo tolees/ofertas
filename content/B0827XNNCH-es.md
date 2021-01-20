@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0827XNNCH-es Montse Interiors S.L. Juego de sábanas Estampado Rayas de...'
+sku: 'B0827XNNCH-es'
 tags: [  ]
 actualPrice: 17.95 EUR
 currency: EUR

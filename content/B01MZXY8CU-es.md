@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MZXY8CU-es Puma Basket Heart Patent Zapatillas para Mujer Negro Black...'
+sku: 'B01MZXY8CU-es'
 tags: [  ]
 actualPrice: 47.3 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005NFXQ76-es MANN-FILTER HU 718/1 N Original Filtro de Aceite para...'
+sku: 'B005NFXQ76-es'
 tags: [  ]
 actualPrice: 4.2 EUR
 currency: EUR

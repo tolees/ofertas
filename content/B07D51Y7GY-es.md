@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D51Y7GY-es Veet Bandas de Cera Depilatoria -Easy Gelwax Pieles...'
+sku: 'B07D51Y7GY-es'
 tags: [  ]
 actualPrice: 7.16 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CERBVE0-es American Tourister Air Force 1 - Maleta Turquesa Aero...'
+sku: 'B01CERBVE0-es'
 tags: [  ]
 actualPrice: 83.4 EUR
 currency: EUR

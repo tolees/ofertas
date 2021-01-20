@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082WTZZ6C-es Aigostar - Bolsas para envasar al vacío. Reutilizables...'
+sku: 'B082WTZZ6C-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01J2VTSIC-es Ever-Pretty A-línea Vestito de Gala Cuello en V Manga...'
+sku: 'B01J2VTSIC-es'
 tags: [  ]
 actualPrice: 54.99 EUR
 currency: EUR

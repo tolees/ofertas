@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BYMZVQV-es Anillo de Tope ZoneYan Topes de Profundidad para Brocas...'
+sku: 'B08BYMZVQV-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W85QZRH-es Vicloon Funda de Maleta 20-Pulgadas Cubierta de Maleta...'
+sku: 'B07W85QZRH-es'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

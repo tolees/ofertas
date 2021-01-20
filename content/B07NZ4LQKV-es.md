@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NZ4LQKV-es Parasol de Coche otumixx 2 Unidades Visera para Ventana...'
+sku: 'B07NZ4LQKV-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

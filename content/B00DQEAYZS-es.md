@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DQEAYZS-es MANN-FILTER HU 7008 Z Original Filtro de Aceite Set de...'
+sku: 'B00DQEAYZS-es'
 tags: [  ]
 actualPrice: 5.86 EUR
 currency: EUR

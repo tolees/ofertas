@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K04WRV6-es Bella + Lienzo - Body de manga corta acanalada unisex para...'
+sku: 'B00K04WRV6-es'
 tags: [  ]
 actualPrice: 3.7 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z3NNL3G-es VARLION Avant TI 8.8 Naranja 2020'
+sku: 'B07Z3NNL3G-es'
 tags: [  ]
 actualPrice: 69.95 EUR
 currency: EUR

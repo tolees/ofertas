@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JG7TFTP-es Pepe Jeans Fidall Pm541220 Polo Optic White 802 Medium...'
+sku: 'B07JG7TFTP-es'
 tags: [  ]
 actualPrice: 22.79 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0011LQGBE-es Wolfcraft 2178000 2178000-1 Juego Hobby Metales plástico...'
+sku: 'B0011LQGBE-es'
 tags: [  ]
 actualPrice: 8.3 EUR
 currency: EUR

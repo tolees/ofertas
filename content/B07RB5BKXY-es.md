@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RB5BKXY-es DINOKA Saco De Dormir para Acampar - Bolsa de Dormir 3...'
+sku: 'B07RB5BKXY-es'
 tags: [  ]
 actualPrice: 18.29 EUR
 currency: EUR

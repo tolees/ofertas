@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KSQPGNM-es BaByliss IPro Slim ST387E – Plancha de pelo iónica placas...'
+sku: 'B00KSQPGNM-es'
 tags: [  ]
 actualPrice: 38.99 EUR
 currency: EUR

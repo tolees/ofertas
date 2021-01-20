@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KJJZA2K-es Vans Y Atwood - Zapatillas para niños Color Army/Negro...'
+sku: 'B00KJJZA2K-es'
 tags: [  ]
 actualPrice: 20.0 EUR
 currency: EUR

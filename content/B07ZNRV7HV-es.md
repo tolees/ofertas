@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZNRV7HV-es AOQUSSQOA Mujer Yoga Leggings Mallas Pantalones Deportivos...'
+sku: 'B07ZNRV7HV-es'
 tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR

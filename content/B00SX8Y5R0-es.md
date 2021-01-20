@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SX8Y5R0-es ASICS Cuffed Knit Pant - XXL'
+sku: 'B00SX8Y5R0-es'
 tags: [  ]
 actualPrice: 16.79 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00G02E4FE-es Superga 2750 COTU Classic Zapatillas Unisex Adulto Rojo...'
+sku: 'B00G02E4FE-es'
 tags: [  ]
 actualPrice: 38.93 EUR
 currency: EUR

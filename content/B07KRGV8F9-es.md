@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRGV8F9-es New Balance Fresh Foam Roav Zapatillas de Running para...'
+sku: 'B07KRGV8F9-es'
 tags: [  ]
 actualPrice: 54.0 EUR
 currency: EUR

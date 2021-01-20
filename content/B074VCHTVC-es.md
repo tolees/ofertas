@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074VCHTVC-es Diesel Reloj Analogico para Hombre de Cuarzo con Correa en...'
+sku: 'B074VCHTVC-es'
 tags: [  ]
 actualPrice: 106.61 EUR
 currency: EUR

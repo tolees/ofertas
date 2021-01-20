@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HPZVBR8-es Pack Conan 1+2¿ Black Metal Edition Blu-Ray [Blu-ray]'
+sku: 'B07HPZVBR8-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFRKNLP-es PUMA Essential TR Cl Pantalones de Chándal Mujer Gris...'
+sku: 'B07DFRKNLP-es'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

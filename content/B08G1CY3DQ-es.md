@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08G1CY3DQ-es Vangonee - Lápices de dibujo 95 unidades color gris'
+sku: 'B08G1CY3DQ-es'
 tags: [  ]
 actualPrice: 22.04 EUR
 currency: EUR

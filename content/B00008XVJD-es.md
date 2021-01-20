@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00008XVJD-es WMF Profi Plus Tenedor para Carne Acero Inoxidable Pulido'
+sku: 'B00008XVJD-es'
 tags: [  ]
 actualPrice: 16.75 EUR
 currency: EUR

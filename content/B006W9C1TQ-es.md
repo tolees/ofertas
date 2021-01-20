@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006W9C1TQ-es Rayen - Funda para tabla de planchar Universal funda de...'
+sku: 'B006W9C1TQ-es'
 tags: [  ]
 actualPrice: 6.58 EUR
 currency: EUR

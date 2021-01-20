@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FVZUQAC-es Ice-Watch - ICE duo White sage - Reloj blu para Mujer con...'
+sku: 'B01FVZUQAC-es'
 tags: [  ]
 actualPrice: 60.96 EUR
 currency: EUR

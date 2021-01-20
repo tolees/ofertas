@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MY0SXOP-es LANGRIA 2xTaburetes de Bar Manhattan Tapizados en Cuero de...'
+sku: 'B01MY0SXOP-es'
 tags: [  ]
 actualPrice: 65.88 EUR
 currency: EUR

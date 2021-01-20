@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AT564MI-es CrossBoule Heroes Batman vs. Superman'
+sku: 'B01AT564MI-es'
 tags: [  ]
 actualPrice: 8.52 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VJSF4G3-es Desigual Mone maui Maria - Cartera para Mujer Color Blanco...'
+sku: 'B07VJSF4G3-es'
 tags: [  ]
 actualPrice: 20.11 EUR
 currency: EUR

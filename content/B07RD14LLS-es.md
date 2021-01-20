@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RD14LLS-es Rimmel London Lasting Finish Extreme Barra de Labios Tono 720'
+sku: 'B07RD14LLS-es'
 tags: [  ]
 actualPrice: 4.43 EUR
 currency: EUR

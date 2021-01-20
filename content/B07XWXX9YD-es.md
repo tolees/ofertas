@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XWXX9YD-es WESCO Sierra Circular 18V 4000RPM Sierra Recargable 2.0Ah...'
+sku: 'B07XWXX9YD-es'
 tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR

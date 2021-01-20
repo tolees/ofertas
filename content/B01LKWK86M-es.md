@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LKWK86M-es Epson WFDS530 - Escáner de Documentos en Color A4...'
+sku: 'B01LKWK86M-es'
 tags: [  ]
 actualPrice: 361.9 EUR
 currency: EUR

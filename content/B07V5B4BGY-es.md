@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V5B4BGY-es Grohe Blue Pure Mono -Grifo de cocina con filtro de agua...'
+sku: 'B07V5B4BGY-es'
 tags: [  ]
 actualPrice: 212.01 EUR
 currency: EUR

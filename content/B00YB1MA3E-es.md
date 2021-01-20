@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00YB1MA3E-es Tommy Hilfiger Brief 3 Pack Premium Essentials Sujetador...'
+sku: 'B00YB1MA3E-es'
 tags: [  ]
 actualPrice: 18.0 EUR
 currency: EUR

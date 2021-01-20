@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088CZ8MPT-es LIDIWEE Web Cámara de Video de HD con Micrófono...'
+sku: 'B088CZ8MPT-es'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017W3IQ7Q-es Trust Atlanta - Maletín para portátiles de hasta 17.3" negro'
+sku: 'B017W3IQ7Q-es'
 tags: [  ]
 actualPrice: 13.0 EUR
 currency: EUR

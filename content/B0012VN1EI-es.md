@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0012VN1EI-es Hawaiian Tropic After Sun Gel Cooling Aloe - Gel After Sun...'
+sku: 'B0012VN1EI-es'
 tags: [  ]
 actualPrice: 4.95 EUR
 currency: EUR

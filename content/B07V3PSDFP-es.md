@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V3PSDFP-es homgeek Batidora de Vaso Licuadora Smoothies de Alta...'
+sku: 'B07V3PSDFP-es'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

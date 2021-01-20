@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S3V98ZX-es Muñequera Tunel Carpiano Férula Muñequera con Correa...'
+sku: 'B07S3V98ZX-es'
 tags: [  ]
 actualPrice: 14.59 EUR
 currency: EUR

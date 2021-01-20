@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EONXTV6-es Calvin Klein Carousel-Bikini Sujetador Negro BLACK 001...'
+sku: 'B00EONXTV6-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

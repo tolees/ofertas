@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z4VPDD5-es SONARIN Saco Silla de Paseo universal Protección...'
+sku: 'B07Z4VPDD5-es'
 tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XVQHMD7-es Esprit 119ee1i004 suéter Blanco Off White 2 111 Small para...'
+sku: 'B07XVQHMD7-es'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

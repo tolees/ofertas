@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZNQCYNJ-es BRIKSMAX Kit de Iluminación Led para Lego Technic Equipo...'
+sku: 'B07ZNQCYNJ-es'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

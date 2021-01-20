@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XBO3O2S-es Mars Gaming MKHA1 - Teclado gaming para PC respuesta...'
+sku: 'B00XBO3O2S-es'
 tags: [  ]
 actualPrice: 8.49 EUR
 currency: EUR

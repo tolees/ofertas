@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075DC3LR4-es Pasito a Pasito Canastilla Acolchada Ines - Bolsa unisex...'
+sku: 'B075DC3LR4-es'
 tags: [  ]
 actualPrice: 49.9 EUR
 currency: EUR

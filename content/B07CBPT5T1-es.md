@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CBPT5T1-es Maybelline New York - The Lemonade Craze Paleta de Sombras...'
+sku: 'B07CBPT5T1-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

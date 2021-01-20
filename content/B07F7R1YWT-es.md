@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F7R1YWT-es Dermacol - Magnetic Metal 16H Delineador de ojos Tono 4...'
+sku: 'B07F7R1YWT-es'
 tags: [  ]
 actualPrice: 6.4 EUR
 currency: EUR

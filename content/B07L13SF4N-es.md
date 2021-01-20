@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L13SF4N-es Under Armour UNDKU Rival Parte Superior del Calentamiento...'
+sku: 'B07L13SF4N-es'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

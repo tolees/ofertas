@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00T2XXJG8-es Remington AS800 Dry & Style - Moldeador de Aire Caliente...'
+sku: 'B00T2XXJG8-es'
 tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR

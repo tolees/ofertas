@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NCNJVGK-es Bandolera grande porta tablet Pepe Jeans Raw'
+sku: 'B07NCNJVGK-es'
 tags: [  ]
 actualPrice: 24.91 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DN7CCFF-es EKKONG Avion Planeador Planos de Espuma Aviones de Juguete...'
+sku: 'B08DN7CCFF-es'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

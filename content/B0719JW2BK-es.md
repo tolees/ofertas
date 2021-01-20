@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0719JW2BK-es Under Armour Men s Heathered Blitzing 3.0 Gorra Hombre...'
+sku: 'B0719JW2BK-es'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

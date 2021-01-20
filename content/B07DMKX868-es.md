@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DMKX868-es Festina Reloj de Pulsera F20397/2'
+sku: 'B07DMKX868-es'
 tags: [  ]
 actualPrice: 101.17 EUR
 currency: EUR

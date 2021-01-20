@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F8HJGFJ-es Superdry Sweat Shirt Shop Duo Hood suéter Gris Ice Marl...'
+sku: 'B07F8HJGFJ-es'
 tags: [  ]
 actualPrice: 47.99 EUR
 currency: EUR

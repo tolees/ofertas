@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XCY4Q9X-es Caja Lata del Almacenaje Caramelo Organizador de Galletas...'
+sku: 'B06XCY4Q9X-es'
 tags: [  ]
 actualPrice: 2.81 EUR
 currency: EUR

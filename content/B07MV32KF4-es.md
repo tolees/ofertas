@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MV32KF4-es Atlético de Madrid "In Blue" Oficial Zapatillero Mediano...'
+sku: 'B07MV32KF4-es'
 tags: [  ]
 actualPrice: 8.91 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XYNDZLD-es Trust GXT 188 Laban - Ratón Gaming ergonómico y...'
+sku: 'B06XYNDZLD-es'
 tags: [  ]
 actualPrice: 30.52 EUR
 currency: EUR

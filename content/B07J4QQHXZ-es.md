@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J4QQHXZ-es Funko 31621 VYNL 10 16 cm 2-Pack: Star Wars: Darth Maul &...'
+sku: 'B07J4QQHXZ-es'
 tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR

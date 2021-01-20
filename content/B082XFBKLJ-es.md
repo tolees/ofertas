@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082XFBKLJ-es Doble verde esmeralda rodillo elíptico masajeador ojo...'
+sku: 'B082XFBKLJ-es'
 tags: [  ]
 actualPrice: 4.31 EUR
 currency: EUR

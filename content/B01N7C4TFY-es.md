@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N7C4TFY-es Intex 64446 - Colchón hinchable fibertech doble capa...'
+sku: 'B01N7C4TFY-es'
 tags: [  ]
 actualPrice: 66.9 EUR
 currency: EUR

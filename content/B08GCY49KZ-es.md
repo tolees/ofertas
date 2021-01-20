@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GCY49KZ-es JARNING Fundas para Xiaomi Redmi 9C Cuero Flip Leather...'
+sku: 'B08GCY49KZ-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

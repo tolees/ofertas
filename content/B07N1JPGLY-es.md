@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1JPGLY-es Clarks Pure Mist Zapatos de Cordones Derby para Mujer...'
+sku: 'B07N1JPGLY-es'
 tags: [  ]
 actualPrice: 17.33 EUR
 currency: EUR

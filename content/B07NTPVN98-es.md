@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NTPVN98-es Sally Hansen Airbrush Legs Maquillaje para piernas Loción...'
+sku: 'B07NTPVN98-es'
 tags: [  ]
 actualPrice: 9.0 EUR
 currency: EUR

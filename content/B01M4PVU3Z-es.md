@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M4PVU3Z-es Justfwater Deporte Botella de Agua de Cristal con Funda de...'
+sku: 'B01M4PVU3Z-es'
 tags: [  ]
 actualPrice: 15.89 EUR
 currency: EUR

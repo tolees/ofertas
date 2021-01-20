@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072M3GJBG-es Silver HT 17119 - Adaptador tipo-C GN30H a Ethernet y HUB...'
+sku: 'B072M3GJBG-es'
 tags: [  ]
 actualPrice: 9.98 EUR
 currency: EUR

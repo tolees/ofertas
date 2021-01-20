@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WGNQTG4-es JACK & JONES JORFRANKIE Crew Neck Suéter Multicolor Sea...'
+sku: 'B07WGNQTG4-es'
 tags: [  ]
 actualPrice: 7.3 EUR
 currency: EUR

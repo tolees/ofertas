@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TV7RM2G-es Cat Footwear Quadrate Botas Clasicas para Hombre Gris...'
+sku: 'B07TV7RM2G-es'
 tags: [  ]
 actualPrice: 46.95 EUR
 currency: EUR

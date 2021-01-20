@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004LXHMMQ-es Rimmel London 1000 Kisses Lipliner Perfilador de Labios...'
+sku: 'B004LXHMMQ-es'
 tags: [  ]
 actualPrice: 2.7 EUR
 currency: EUR

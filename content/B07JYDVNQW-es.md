@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JYDVNQW-es Tommy Jeans Mujer LOW RISE SKINNY SOPHIE FRSBK Straight...'
+sku: 'B07JYDVNQW-es'
 tags: [  ]
 actualPrice: 54.16 EUR
 currency: EUR

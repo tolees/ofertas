@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R564WWP-es DlandHome Cama Elastica Ø 152 cm Trampolín Infantil de...'
+sku: 'B07R564WWP-es'
 tags: [  ]
 actualPrice: 89.04 EUR
 currency: EUR

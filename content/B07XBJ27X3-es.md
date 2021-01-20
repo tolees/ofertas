@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XBJ27X3-es LIGE Relojes Hombre Militare Deportivos Impermeable Acero...'
+sku: 'B07XBJ27X3-es'
 tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR

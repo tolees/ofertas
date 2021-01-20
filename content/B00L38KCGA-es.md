@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00L38KCGA-es Rimmel London Exaggerate Automatic Eyeliner Waterproof -...'
+sku: 'B00L38KCGA-es'
 tags: [  ]
 actualPrice: 3.5 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078LX3DNK-es BEAUTURAL Plancha de Vapor Vertical y Profesional de Alta...'
+sku: 'B078LX3DNK-es'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

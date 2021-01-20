@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087P7H2VB-es Pendientes de perro para mujer 925 plata esterlina Shiba...'
+sku: 'B087P7H2VB-es'
 tags: [  ]
 actualPrice: 22.31 EUR
 currency: EUR

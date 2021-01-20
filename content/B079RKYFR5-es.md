@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079RKYFR5-es Sorel Explorer Joan Botas para Mujer Negro Black/Dark...'
+sku: 'B079RKYFR5-es'
 tags: [  ]
 actualPrice: 106.72 EUR
 currency: EUR

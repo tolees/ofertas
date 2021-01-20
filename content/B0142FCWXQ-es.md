@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0142FCWXQ-es Fantasy Flight Games- Star Wars X-Wing: ala-k Edge...'
+sku: 'B0142FCWXQ-es'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

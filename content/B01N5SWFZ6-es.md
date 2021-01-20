@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N5SWFZ6-es Philips Sonicare DiamondClean HX9394/92 - Pack 2 Cepillos...'
+sku: 'B01N5SWFZ6-es'
 tags: [  ]
 actualPrice: 218.21 EUR
 currency: EUR

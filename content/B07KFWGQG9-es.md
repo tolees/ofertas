@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFWGQG9-es PUMA Speed SUTAMINA Zapatillas de Running Unisex Adulto...'
+sku: 'B07KFWGQG9-es'
 tags: [  ]
 actualPrice: 74.95 EUR
 currency: EUR

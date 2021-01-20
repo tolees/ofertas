@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000G4O6FA-es Adidas Kaiser 5 Team Botas de fútbol hombre Multicolor...'
+sku: 'B000G4O6FA-es'
 tags: [  ]
 actualPrice: 63.99 EUR
 currency: EUR

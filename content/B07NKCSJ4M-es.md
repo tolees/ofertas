@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NKCSJ4M-es Calienta Biberones Eccomum 6 en 1 Calentamiento...'
+sku: 'B07NKCSJ4M-es'
 tags: [  ]
 actualPrice: 24.58 EUR
 currency: EUR

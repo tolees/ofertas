@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HF5WGV4-es Dulceida Mucho Amor Velvet - Funda para portátil de 13"...'
+sku: 'B07HF5WGV4-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

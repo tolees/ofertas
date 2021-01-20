@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08C24LKKJ-es Panamar Bolsas de Compras de Lona de Gran Capacidad Bolsas...'
+sku: 'B08C24LKKJ-es'
 tags: [  ]
 actualPrice: 6.77 EUR
 currency: EUR

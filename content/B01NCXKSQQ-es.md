@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NCXKSQQ-es Manteca de Karité Bio Hidratante Ecológica con Aceite de...'
+sku: 'B01NCXKSQQ-es'
 tags: [  ]
 actualPrice: 17.33 EUR
 currency: EUR

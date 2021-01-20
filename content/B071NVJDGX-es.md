@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071NVJDGX-es TACKLIFE Alicates Multiusos Plegables Profesionales 13 en...'
+sku: 'B071NVJDGX-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

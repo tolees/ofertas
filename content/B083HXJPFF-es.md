@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083HXJPFF-es Ligas para Hombres 1 par de Liguero Individual Liguero...'
+sku: 'B083HXJPFF-es'
 tags: [  ]
 actualPrice: 2.95 EUR
 currency: EUR

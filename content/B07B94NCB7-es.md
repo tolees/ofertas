@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B94NCB7-es Clarks Ashcombemidgtx Botas Chelsea para Hombre Marrón...'
+sku: 'B07B94NCB7-es'
 tags: [  ]
 actualPrice: 74.63 EUR
 currency: EUR

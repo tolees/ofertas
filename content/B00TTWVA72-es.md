@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TTWVA72-es SANOFI - VASELINA CUSI 30 G'
+sku: 'B00TTWVA72-es'
 tags: [  ]
 actualPrice: 3.25 EUR
 currency: EUR

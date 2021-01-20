@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076F27YWP-es HDML-Cloner Box Turbo 1080p Dispositivo de Captura de HDMI...'
+sku: 'B076F27YWP-es'
 tags: [  ]
 actualPrice: 141.29 EUR
 currency: EUR

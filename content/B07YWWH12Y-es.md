@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YWWH12Y-es ISOPHO Alfombra de Playa Esterilla Playa Manta Picnic...'
+sku: 'B07YWWH12Y-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

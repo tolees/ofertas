@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N6VPVB6-es Tommy Hilfiger J Basic Women Knitted Scarf Bufanda Black...'
+sku: 'B07N6VPVB6-es'
 tags: [  ]
 actualPrice: 24.5 EUR
 currency: EUR

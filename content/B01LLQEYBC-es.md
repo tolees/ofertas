@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LLQEYBC-es Quid 7691001 - Tabla para cortar 31 x 21 x 1 cm color blanco'
+sku: 'B01LLQEYBC-es'
 tags: [  ]
 actualPrice: 3.75 EUR
 currency: EUR

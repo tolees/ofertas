@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P8TRHHM-es Charles Wilson Vaquero Corto Elástico Cómodo para Hombre...'
+sku: 'B07P8TRHHM-es'
 tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR

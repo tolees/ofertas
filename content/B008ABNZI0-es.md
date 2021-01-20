@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008ABNZI0-es StarTech.com USB110EXT2 - Extensor de 1 Puerto USB por...'
+sku: 'B008ABNZI0-es'
 tags: [  ]
 actualPrice: 80.04 EUR
 currency: EUR

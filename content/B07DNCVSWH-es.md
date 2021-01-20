@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DNCVSWH-es Calcetines de Lana Merino 3 Pares Gris EU 43-47'
+sku: 'B07DNCVSWH-es'
 tags: [  ]
 actualPrice: 16.95 EUR
 currency: EUR

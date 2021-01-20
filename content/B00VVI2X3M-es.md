@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VVI2X3M-es ANGOPE Gas de 227Gr Pack Multicolor 4 x Cartucho'
+sku: 'B00VVI2X3M-es'
 tags: [  ]
 actualPrice: 6.66 EUR
 currency: EUR

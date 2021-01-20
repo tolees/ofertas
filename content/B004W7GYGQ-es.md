@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004W7GYGQ-es Duracell Plus Power 6LR61/MN1604 Batería alcalina...'
+sku: 'B004W7GYGQ-es'
 tags: [  ]
 actualPrice: 3.75 EUR
 currency: EUR

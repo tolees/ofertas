@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HQ2IXZ8-es TensCare Flexistim - Electroestimulador Completo con 4...'
+sku: 'B01HQ2IXZ8-es'
 tags: [  ]
 actualPrice: 95.45 EUR
 currency: EUR

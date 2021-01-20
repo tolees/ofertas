@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V36YG9Q-es Tommy Hilfiger Reloj Analógico para Hombre de Cuarzo con...'
+sku: 'B07V36YG9Q-es'
 tags: [  ]
 actualPrice: 111.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PYAD51C-es SOTYA - SOTYA Carbonato de Magnesio Bote 180 gr'
+sku: 'B00PYAD51C-es'
 tags: [  ]
 actualPrice: 3.07 EUR
 currency: EUR

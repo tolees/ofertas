@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RFN1FKX-es Salomon Quest Prime GTX W Botas de Senderismo para Mujer...'
+sku: 'B07RFN1FKX-es'
 tags: [  ]
 actualPrice: 60.68 EUR
 currency: EUR

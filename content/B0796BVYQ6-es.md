@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0796BVYQ6-es Maybelline Super Stay Barra de Labios Matte Ink 40...'
+sku: 'B0796BVYQ6-es'
 tags: [  ]
 actualPrice: 2.75 EUR
 currency: EUR

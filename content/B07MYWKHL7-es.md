@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MYWKHL7-es GOZAR Carcasa De Aluminio Duro De Metal Multicolor Carcasa...'
+sku: 'B07MYWKHL7-es'
 tags: [  ]
 actualPrice: 7.69 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004EPYEMC-es Scitec Nutrition Whey Protein Proteína Chocolate Blanco -...'
+sku: 'B004EPYEMC-es'
 tags: [  ]
 actualPrice: 17.19 EUR
 currency: EUR

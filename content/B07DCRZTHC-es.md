@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DCRZTHC-es LIGHTAILING Conjunto de Luces Creator Series Volkswagen T1...'
+sku: 'B07DCRZTHC-es'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

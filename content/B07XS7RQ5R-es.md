@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XS7RQ5R-es Apple Watch Series 5 GPS + Cellular 40 mm Aluminio en Gris...'
+sku: 'B07XS7RQ5R-es'
 tags: [  ]
 actualPrice: 364.59 EUR
 currency: EUR

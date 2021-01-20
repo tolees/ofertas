@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019JIAB1G-es Funko-6560 Triwizard Tournament Figura de Vinilo colección...'
+sku: 'B019JIAB1G-es'
 tags: [  ]
 actualPrice: 9.39 EUR
 currency: EUR

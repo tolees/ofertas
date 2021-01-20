@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MZFNQN9-es Calvin Klein Reloj Analogico para Hombre de Cuarzo con...'
+sku: 'B01MZFNQN9-es'
 tags: [  ]
 actualPrice: 131.88 EUR
 currency: EUR

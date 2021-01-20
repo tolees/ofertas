@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G9F3W4S-es Cepillo Alisador de Pelo 3 en 1 3 cabezales Cepillo...'
+sku: 'B07G9F3W4S-es'
 tags: [  ]
 actualPrice: 8.69 EUR
 currency: EUR

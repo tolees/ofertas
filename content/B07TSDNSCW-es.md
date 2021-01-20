@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TSDNSCW-es Rivenbert Flotadores para Nadar Manguitos inflables para...'
+sku: 'B07TSDNSCW-es'
 tags: [  ]
 actualPrice: 7.3 EUR
 currency: EUR

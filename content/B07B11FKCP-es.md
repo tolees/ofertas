@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B11FKCP-es Ladrón de Manzanas Cider Frutos Rojos - 4 Packs de 6...'
+sku: 'B07B11FKCP-es'
 tags: [  ]
 actualPrice: 15.28 EUR
 currency: EUR

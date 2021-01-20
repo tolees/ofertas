@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XNTRYRM-es GORWRICH - Soporte para teléfono móvil soporte de...'
+sku: 'B07XNTRYRM-es'
 tags: [  ]
 actualPrice: 3.15 EUR
 currency: EUR

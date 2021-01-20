@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YFDXDB6-es Dremel Versa Limpiador de Alta Velocidad - Kit de Limpieza...'
+sku: 'B07YFDXDB6-es'
 tags: [  ]
 actualPrice: 46.14 EUR
 currency: EUR

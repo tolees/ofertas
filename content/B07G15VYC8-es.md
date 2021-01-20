@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G15VYC8-es New Balance Zapatillas KJ373PDY Azul/Rojo Deporte Unisex...'
+sku: 'B07G15VYC8-es'
 tags: [  ]
 actualPrice: 34.95 EUR
 currency: EUR

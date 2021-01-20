@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YCYSY3P-es Chaquetas de Mujer Cortas Otoño Reflectante Casual PAOLIAN...'
+sku: 'B07YCYSY3P-es'
 tags: [  ]
 actualPrice: 10.96 EUR
 currency: EUR

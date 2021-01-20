@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0723CJHBC-es Di4 Stiro Plancha de vapor con suela acero inoxidable y...'
+sku: 'B0723CJHBC-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

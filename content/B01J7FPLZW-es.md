@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01J7FPLZW-es Chibis Star Trek 50th Anniversary Complete Mini...'
+sku: 'B01J7FPLZW-es'
 tags: [  ]
 actualPrice: 13.62 EUR
 currency: EUR

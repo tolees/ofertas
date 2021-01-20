@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BGSQ8WQ-es PETCUTE Gateras Puerta Magnética Puerta para Mascotas...'
+sku: 'B07BGSQ8WQ-es'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

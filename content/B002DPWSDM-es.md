@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002DPWSDM-es Reebok CL LTHR 3912 - Zapatillas de cuero nobuck unisex...'
+sku: 'B002DPWSDM-es'
 tags: [  ]
 actualPrice: 32.0 EUR
 currency: EUR

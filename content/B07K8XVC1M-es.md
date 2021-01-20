@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K8XVC1M-es Crocs Classic Slipper Zapatillas Bajas Unisex Adulto Azul...'
+sku: 'B07K8XVC1M-es'
 tags: [  ]
 actualPrice: 15.37 EUR
 currency: EUR

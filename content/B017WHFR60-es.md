@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017WHFR60-es Columbia Zero Rules Polo con Protección Solar 30 Hombre...'
+sku: 'B017WHFR60-es'
 tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR

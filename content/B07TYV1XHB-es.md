@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TYV1XHB-es Asics Japan S Running Shoe Mens White/Midnight 48 EU'
+sku: 'B07TYV1XHB-es'
 tags: [  ]
 actualPrice: 28.32 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000RE8NTO-es Brabantia 385520 - Lengua raspadora grande acero y nylon...'
+sku: 'B000RE8NTO-es'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06ZZPDVKQ-es HAISSKY Multifuncional Deportes al Aire Libre Corriendo...'
+sku: 'B06ZZPDVKQ-es'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

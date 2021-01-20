@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CTLDY4W-es Imetec Bellissima PC5 2500 Secador de pelo profesional...'
+sku: 'B00CTLDY4W-es'
 tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR

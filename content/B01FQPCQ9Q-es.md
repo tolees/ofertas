@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FQPCQ9Q-es WORKPRO Alicates Extensible Alicate de Cremallera Pico de...'
+sku: 'B01FQPCQ9Q-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

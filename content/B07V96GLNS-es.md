@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V96GLNS-es Gaoyong Bolsas Vacio Ropa Aspiradora Bolsas Almacenaje...'
+sku: 'B07V96GLNS-es'
 tags: [  ]
 actualPrice: 14.12 EUR
 currency: EUR

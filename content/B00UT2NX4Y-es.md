@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UT2NX4Y-es Tommy Hilfiger Bralette Corsetto Negro BLACK 990 34 talla...'
+sku: 'B00UT2NX4Y-es'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NAHHJZ2-es find. 17AMZ025 camisetas mujer fiesta Rosa Old Rose 42...'
+sku: 'B01NAHHJZ2-es'
 tags: [  ]
 actualPrice: 6.6 EUR
 currency: EUR

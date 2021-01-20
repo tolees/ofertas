@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BP23HR2-es TACKLIFE Pistola de riego Pistola de Jardín con Boquilla...'
+sku: 'B07BP23HR2-es'
 tags: [  ]
 actualPrice: 4.97 EUR
 currency: EUR

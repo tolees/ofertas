@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VN8NRR1-es LÄSSIG Maleta para niños a partir de 3 años/Trolley About...'
+sku: 'B07VN8NRR1-es'
 tags: [  ]
 actualPrice: 48.7 EUR
 currency: EUR
