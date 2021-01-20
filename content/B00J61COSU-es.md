@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Columbia Woodburn II  Zapatillas Hombre  al 36.64 % de descuento'
-date: 2021-01-17 09:33:44
+date: 2021-01-20 09:21:48
 image: 'https://m.media-amazon.com/images/I/410OeqcvOPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00J61COSU-es'
+slug: 'B00J61COSU-es Columbia Woodburn II Zapatillas Hombre Black Black...'
+tags: [  ]
 actualPrice: 56.99 EUR
 currency: EUR
 price: 56.99
@@ -25,10 +26,10 @@ Está [Columbia Woodburn II  Zapatillas Hombre  Black  Black Goldenrod   40.5 EU
 
 ℹ️:
 
-- Material exterior: Cuero
-- Cierre: Cordones
-- Revestimiento: Sintético
 - Material de la suela: Goma
 - Tipo de tacón: Plano
+- Cierre: Cordones
+- Revestimiento: Sintético
+- Material exterior: Cuero
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00J61COSU/?tag=tolees-21)

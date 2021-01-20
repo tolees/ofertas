@@ -1,30 +1,35 @@
 ---
 layout: post
-title: 'WD Black  P50 Game Drive NVMe SSD de 2TB al 36.84 % de descuento'
-date: 2020-06-04 18:50:20
-image: 'https://m.media-amazon.com/images/I/41tHjjo6L7L._SL200_.jpg'
+title: 'WD BLACK P50 Game Drive de 2 TB - Veloci al 28.35 % de descuento'
+date: 2021-01-20 09:57:04
+image: 'https://m.media-amazon.com/images/I/41cjghSL8tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YFG9PG2-es WD Black P50 Game Drive NVMe SSD de 2TB Velocidad de hasta...'
+slug: 'B07YFG9PG2-es WD BLACK P50 Game Drive de 2 TB - Velocidades SSD NVMe...'
 tags: [  ]
-actualPrice: 384.0 EUR
+actualPrice: 360.0 EUR
 currency: EUR
-price: 384.0
-comparePrice: 607.99 EUR
-prodname: 'WD Black  P50 Game Drive NVMe SSD de 2TB  Velocidad de hasta 2000MB/s y Compatible con PC  Xbox One y PS4'
+price: 360.0
+comparePrice: 502.47 EUR
+prodname: 'WD BLACK P50 Game Drive de 2 TB - Velocidades SSD NVMe hasta 2000MB/s - Funciona con PC y consola'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07YFG9PG2/?tag=tolees-21'
-descuento: '36.84'
-average: '438.67199999999997'
+descuento: '28.35'
+average: '416.1942857142857'
 ---
 
-Ahora mismo tienes [WD Black  P50 Game Drive NVMe SSD de 2TB  Velocidad de hasta 2000MB/s y Compatible con PC  Xbox One y PS4](https://www.amazon.es/dp/B07YFG9PG2/?tag=tolees-21) a 384.0 EUR (original: 607.99 EUR) (36.84 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [WD BLACK P50 Game Drive de 2 TB - Velocidades SSD NVMe hasta 2000MB/s - Funciona con PC y consola](https://www.amazon.es/dp/B07YFG9PG2/?tag=tolees-21) a 360.0 EUR (original: 502.47 EUR) (28.35 %  de descuento) en el siguiente enlace!
 
-[![WD Black  P50 Game Drive NVMe SSD de 2TB](https://m.media-amazon.com/images/I/41tHjjo6L7L._SL200_.jpg)](https://www.amazon.es/dp/B07YFG9PG2/?tag=tolees-21)
+[![WD BLACK P50 Game Drive de 2 TB - Veloci](https://m.media-amazon.com/images/I/41cjghSL8tL._SL200_.jpg)](https://www.amazon.es/dp/B07YFG9PG2/?tag=tolees-21)
 
 🔎:
 
+- Basada en el rendimiento con velocidades ssd de hasta 2000.mb/s para reducir los tiempos de carga de la pantalla y ponerte a jugar más rápido
+- Formato resistente a golpes y portátil que te brinda acceso rápido a tu biblioteca de juegos, dondequiera que vayas
+- Hasta 2.tb de almacenamiento adicional para que puedas conservar tus juegos favoritos y guardar los nuevos
+- Diseñada específicamente para jugadores basándonos en la calidad y fiabilidad de wd_black
+- Ssd de alto rendimiento con interfaz usb superspeed (20.gb/s) para tu pc o consola
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YFG9PG2/?tag=tolees-21)

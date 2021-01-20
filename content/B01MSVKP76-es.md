@@ -26,12 +26,12 @@ Está [Olympus OM-D E-M1 Mark II Kit  Cámara de Sistema Micro Cuatro Tercios  2
 
 ℹ️:
 
-- Sistema de eliminación de polvo a través de un silencioso filtro de ondas sónicas
 - Rendimiento de alta velocidad con un sistema de autoenfoque y un algoritmo de alta precisión para una mayor velocidad y precisión
-- Poderosas funciones de vídeo y procesamiento de imágenes con una resolución superior sin desenfoque; vídeo 4K y 4K cine
-- Óptimo procesamiento y carcasa metálica de alta calidad
-- Construcción resistente al frío, a las salpicaduras y al polvo con un rendimiento óptimo
 - Óptima movilidad gracias a su peso ligero y diseño compacto, así como a una amplia gama de objetivos de alta calidad
+- Poderosas funciones de vídeo y procesamiento de imágenes con una resolución superior sin desenfoque; vídeo 4K y 4K cine
+- Construcción resistente al frío, a las salpicaduras y al polvo con un rendimiento óptimo
+- Sistema de eliminación de polvo a través de un silencioso filtro de ondas sónicas
+- Óptimo procesamiento y carcasa metálica de alta calidad
 - Óptima calidad de imagen gracias a la estabilización de imagen de cinco ejes en la cámara; hasta 5.5 pasos de EV para la corrección y un sensor de alta resolución con las innovaciones ópticas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MSVKP76/?tag=tolees-21)

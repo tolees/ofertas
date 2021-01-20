@@ -1,34 +1,36 @@
 ---
 layout: post
-title: 'TCL 10L – Smartphone 6.53” NXTVISION  4G al 35.56 % de descuento'
-date: 2021-01-11 11:37:08
+title: 'TCL 10L - Smartphone de 6.53" FHD+ con N al 35.21 % de descuento'
+date: 2021-01-20 09:19:54
 image: 'https://m.media-amazon.com/images/I/41fV4ln0dFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086Q7MKMX-es'
-actualPrice: 148.2 EUR
+slug: 'B086Q7MKMX-es TCL 10L - Smartphone de 6.53" FHD+ con NXTVISION Qualcomm...'
+tags: [  ]
+actualPrice: 149.0 EUR
 currency: EUR
-price: 148.2
+price: 149.0
 comparePrice: 229.99 EUR
-prodname: 'TCL 10L – Smartphone 6.53” NXTVISION  4G  NFC  6GB RAM  64GB ROM  Cuádruple Cámara Trasera 48MP + 8MP + 2MP + 2MP  Cámara Frontal 16MP  color blanco'
+prodname: 'TCL 10L - Smartphone de 6.53" FHD+ con NXTVISION  Qualcomm 665 4G  6GB/64GB Ampliable MicroSD  Cámaras de 48MP+8MP+2MP+2MP  Batería 4000mAh  Android 10 actualizable  Color Blanco'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B086Q7MKMX/?tag=tolees-21'
-descuento: '35.56'
-average: '162.09230769230768'
+descuento: '35.21'
+average: '161.15714285714284'
 ---
 
-Ahora mismo tienes [TCL 10L – Smartphone 6.53” NXTVISION  4G  NFC  6GB RAM  64GB ROM  Cuádruple Cámara Trasera 48MP + 8MP + 2MP + 2MP  Cámara Frontal 16MP  color blanco](https://www.amazon.es/dp/B086Q7MKMX/?tag=tolees-21) a 148.2 EUR (original: 229.99 EUR) (35.56 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [TCL 10L - Smartphone de 6.53" FHD+ con NXTVISION  Qualcomm 665 4G  6GB/64GB Ampliable MicroSD  Cámaras de 48MP+8MP+2MP+2MP  Batería 4000mAh  Android 10 actualizable  Color Blanco](https://www.amazon.es/dp/B086Q7MKMX/?tag=tolees-21) a 149.0 EUR (original: 229.99 EUR) (35.21 %  de descuento) en el siguiente enlace!
 
-[![TCL 10L – Smartphone 6.53” NXTVISION  4G](https://m.media-amazon.com/images/I/41fV4ln0dFL._SL200_.jpg)](https://www.amazon.es/dp/B086Q7MKMX/?tag=tolees-21)
+[![TCL 10L - Smartphone de 6.53" FHD+ con N](https://m.media-amazon.com/images/I/41fV4ln0dFL._SL200_.jpg)](https://www.amazon.es/dp/B086Q7MKMX/?tag=tolees-21)
 
 🔎:
 
-- Sácale el óptimo rendimiento con su procesador de 8 núcleos Qualcomm Snapdragon 665, 6 GB de RAM de memoria, 64 GB de alamacenamiento ampliables por MicroSD y 4000 mAh de batería
-- Disfruta de tu contenido multimedia con su pantalla 6.53” FHD+ con tecnología NXTVISION con procesador de imágenes y vídeo dedicado, y conecta hasta 4 dispositivos con Super Bluetooth a la vez
 - Cuádruple cámara NXTVISION: 48MP+ 8MP+ 2MP+ 2MP; cámara selfie: 16MP
-- Transfroma tus videos a formato HDR gracias a su remasterizador en tiempo real y saca el óptimo partido a todo tu contenido multimedia; protege tus ojos con su Modo Lectura y Modo Confort Ocular
+- Disfruta de tu contenido multimedia con su pantalla 6.53” FHD+ con tecnología NXTVISION con procesador de imágenes y vídeo dedicado, y conecta hasta 4 dispositivos con Super Bluetooth a la vez
 - Diseño premium con acabado holográfico y trasera 3D para un agarre ergonómico y suave sujeción, disponible en color blanco y azul
+- Sistema operativo: Android 10 actualizable a Android 11 via OTA
+- Sácale el óptimo rendimiento con su procesador de 8 núcleos Qualcomm Snapdragon 665, 6 GB de RAM de memoria, 64 GB de alamacenamiento ampliables por MicroSD y 4000 mAh de batería
+- Transfroma tus videos a formato HDR gracias a su remasterizador en tiempo real y saca el óptimo partido a todo tu contenido multimedia; protege tus ojos con su Modo Lectura y Modo Confort Ocular
 
-[Visítala!!!](https://www.amazon.es/dp/B086Q7MKMX/?tag=tolees-21)
+[🛒 Visítala!!!](https://www.amazon.es/dp/B086Q7MKMX/?tag=tolees-21)
