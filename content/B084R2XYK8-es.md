@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'PUMA Kids  Bwt Quarter Socks  3 Pack  ca con un 28.61 % de descuento'
-date: 2021-01-19 05:58:24
+date: 2021-01-20 12:10:34
 image: 'https://m.media-amazon.com/images/I/31OjEnPg9TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084R2XYK8-es'
+slug: 'B084R2XYK8-es PUMA Kids Bwt Quarter Socks 3 Pack calcetines Gris/Negro...'
+tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

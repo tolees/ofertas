@@ -26,8 +26,8 @@ Está [L Oreal Paris Active Antirrugas Colágeno - Crema hidratante de día  50 
 
 ℹ️:
 
+- Ingredientes de alta calidad
 - Contiene colágeno
 - Fácil aplicación
-- Ingredientes de alta calidad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01DUXKANK/?tag=tolees-21)

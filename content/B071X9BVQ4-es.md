@@ -26,9 +26,9 @@ Tienes [Auriculares con micrófono para iPhone y Android con mando a distancia n
 
 🔎:
 
+- Auriculares de gran calidad diseñados por iQualTech.
+- Con aislamiento de ruido y tecnología de control remoto.
 - Bonitos, minimalistas y elegantes. Con tres tamaños de almohadillas extraíbles incluidas.
 - Optimizados para dispositivos Apple y Android.
-- Con aislamiento de ruido y tecnología de control remoto.
-- Auriculares de gran calidad diseñados por iQualTech.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B071X9BVQ4/?tag=tolees-21)
