@@ -1,13 +1,13 @@
 ---
 layout: post
 title: 'Calvin Klein  Agua de colonia para hombr al 41.02 % de descuento'
-date: 2021-01-19 12:51:48
+date: 2021-01-20 15:10:24
 image: 'https://m.media-amazon.com/images/I/31EalEQ0n1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B00FFEG7PI-es Calvin Klein Agua de colonia para hombres - 150 ml.'
-tags: tole.es
+tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

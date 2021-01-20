@@ -27,9 +27,9 @@ Tienes [MSI Creator 17 A10SE-627ES - Ordenador portátil de 17.3" UHD  Intel Cor
 🔎:
 
 - Tarjeta grafica GeForce RTX 2060, GDDR6 6 GB
-- Disco de 1 TB NVMe PCIe Gen3x4 SSD
-- Procesador Comet lake i7-10875H+HM470 (8 núcleos, 16 MB Cache, 2.3 GHz hasta 5.1 GHz)
 - Sistema operativo Windows10 Pro
 - Memoria RAM de 16 GB x 2 (2666 MHz)
+- Procesador Comet lake i7-10875H+HM470 (8 núcleos, 16 MB Cache, 2.3 GHz hasta 5.1 GHz)
+- Disco de 1 TB NVMe PCIe Gen3x4 SSD
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08BPF9WTW/?tag=tolees-21)

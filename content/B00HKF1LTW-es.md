@@ -26,9 +26,9 @@ Está [Tacens Anima AF8  ventilador para PC  8cm  12v  12dB  7 aspas  1800 RPM  
 
 ℹ️:
 
-- 7 aspas diseñadas para ofrecer un potente flujo de aire
 - Su sistema de rodamientos Fluxus asegura una larga vida de este ventilador con hasta 50000 horas 24/7
-- Extremadamente balanceadas para reducir las vibraciones y conseguir un nivel de ruido mínimo
+- 7 aspas diseñadas para ofrecer un potente flujo de aire
 - Consumo de energía es muy reducido: tan solo 1.44 W a máxima velocidad
+- Extremadamente balanceadas para reducir las vibraciones y conseguir un nivel de ruido mínimo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00HKF1LTW/?tag=tolees-21)

@@ -1,13 +1,13 @@
 ---
 layout: post
 title: 'Angel Schlesser Eau Fraiche Citrus Marin al 40.75 % de descuento'
-date: 2021-01-19 12:52:06
+date: 2021-01-20 15:28:55
 image: 'https://m.media-amazon.com/images/I/31rHLgBGqmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07T1DXYCC-es Angel Schlesser Eau Fraiche Citrus Marino Edt Vapo 150 Ml...'
-tags: tole.es
+tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95
@@ -26,8 +26,8 @@ Está [Angel Schlesser Eau Fraiche Citrus Marino Edt Vapo 150 Ml - 150 ml](https
 
 ℹ️:
 
+- De alta calidad
 - Eau Fraiche Citrus Marino Edt Vapo, 150 ml
 - Producto de la marca Angel Schlesser
-- De alta calidad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07T1DXYCC/?tag=tolees-21)
