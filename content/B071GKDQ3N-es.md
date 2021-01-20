@@ -29,7 +29,7 @@ En este momento está [Disney Vive Tu Sueño-Rapunzel-El Entrelazamiento de La T
 - Material: resina
 - Diseñado por Jim Shore
 - Producto adecuado para regalar, decorar o coleccionar
-- Arte popular inspirado con colores vivos
 - Colores resistentes al agua
+- Arte popular inspirado con colores vivos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B071GKDQ3N/?tag=tolees-21)

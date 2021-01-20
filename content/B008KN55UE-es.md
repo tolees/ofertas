@@ -26,8 +26,8 @@ Tienes [Souvenirs de France-Taza  diseño de Notre Dame de París](https://www.a
 
 ℹ️:
 
-- Material: Porcelana.
 - Diámetro: 7,8 cm.
+- Material: Porcelana.
 - Altura: 9 cm.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B008KN55UE/?tag=tolees-21)

@@ -26,9 +26,9 @@ Ahora mismo tienes [Pack: Another World + Flashback](https://www.amazon.es/dp/B0
 
 🔎:
 
-- Tutorials for those who need a boost!
-- Post-FX graphic filters
-- A brand new "Rewind" function, variable according to the level of difficulty
 - Completely remastered sound and music
+- Tutorials for those who need a boost!
+- A brand new "Rewind" function, variable according to the level of difficulty
+- Post-FX graphic filters
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07T4H7LKV/?tag=tolees-21)

@@ -26,13 +26,13 @@ En este momento está [Lacor - Campana para Ahumador de alimentos Magic  con Tap
 
 🔎:
 
-- Cuenta con una válvula de inyección con auto cierre de silicona (max. 200º C)
-- Medidas: Ø16 x 12 cm de alto
 - Apta para microondas, horno y congelador
-- Garantía de 2 años
-- Permite la entrada de humo, vapor y aromas para ahumar o aromatizar alimentos sin tener que levantar la tapa
 - Medidas (con pomo): Ø16 x 15 cm de alto
+- Medidas: Ø16 x 12 cm de alto
 - Complemento ideal para el ahumador de alimentos Magic de Lacor (ref. 69221)
+- Cuenta con una válvula de inyección con auto cierre de silicona (max. 200º C)
 - Fabricada en cristal borosilicato de gran calidad, es resistente a golpes, altas y bajas temperaturas
+- Permite la entrada de humo, vapor y aromas para ahumar o aromatizar alimentos sin tener que levantar la tapa
+- Garantía de 2 años
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07NF4Y8QX/?tag=tolees-21)
