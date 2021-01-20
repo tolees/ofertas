@@ -27,7 +27,7 @@ Ahora mismo tienes [Funko Pop! Marvel The First Ten Years - Ant-Man  Chrome  #38
 🔎:
 
 - Las reproducciones miden aproximadamente 9.cm, pero también existen versiones extragrandes
-- Los Funko POP SON reproducciones estilizadas de personajes icónicos de películas, Series De televisión, Serie animadas, cómic, videojuegos y mucho más
 - El producto SE vende en la caja Original con ventana frontal
+- Los Funko POP SON reproducciones estilizadas de personajes icónicos de películas, Series De televisión, Serie animadas, cómic, videojuegos y mucho más
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FNH942D/?tag=tolees-21)

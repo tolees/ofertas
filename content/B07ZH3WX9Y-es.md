@@ -27,9 +27,9 @@ Tienes [Brilliant Signature brillo duradero](https://www.amazon.es/dp/B07ZH3WX9Y
 🔎:
 
 - Pintalabios líquido de acabado brillo duradero
-- Textura ultra ligera para una sensación de labios desnudos, como no si llevases labial puesto
 - Disponible en 9 tonos brillantes
 - Tan ligero que no notarás que lo llevas puesto
 - Pigmentos vibrantes de acabado mate para unos labios de impacto durante todo el día
+- Textura ultra ligera para una sensación de labios desnudos, como no si llevases labial puesto
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07ZH3WX9Y/?tag=tolees-21)

@@ -26,9 +26,9 @@ Está [safta 612050571 Mochila Adaptable a Carro Benetton  Multicolor](https://w
 
 ℹ️:
 
-- Producto con licencia oficial
-- Asa de mano acolchada en la parte superior
 - Hombreras y espalda ergonómicas y acolchadas
+- Asa de mano acolchada en la parte superior
+- Producto con licencia oficial
 - Mochila escolar adaptable a carro
 - Medidas: 32 cm x 13,5 cm x 44 cm
 - Cuenta con un bolsillo frontal

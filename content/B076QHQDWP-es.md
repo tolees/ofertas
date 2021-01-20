@@ -26,8 +26,8 @@ Está [Figura Pop DC Comics Justice League Aquaman Silhouette Exclusive](https:/
 
 ℹ️:
 
-- Alta calidad
 - Licencia oficial
 - Muy resistente
+- Alta calidad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076QHQDWP/?tag=tolees-21)

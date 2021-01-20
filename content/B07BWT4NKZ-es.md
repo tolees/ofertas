@@ -26,8 +26,8 @@ Tienes [Carmencita Sazonador Mezcla de Especias para Paella - Lata de 5 Sobres S
 
 🔎:
 
+- No contiene alérgenos
 - País de origen: España
 - Ingredientes: Ajo, sal (25%), pimentón, harina de maíz, colorante (E-102), pimienta, clavo y azafrán (2,5%)
-- No contiene alérgenos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07BWT4NKZ/?tag=tolees-21)

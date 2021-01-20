@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Muñequera/NIKE:WRISTBAND MISC MARINO al 43.72 % de descuento'
-date: 2021-01-18 20:16:26
+date: 2021-01-20 10:27:55
 image: 'https://m.media-amazon.com/images/I/51710mlR+NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008C27STE-es'
+slug: 'B008C27STE-es Muñequera/NIKE:WRISTBAND MISC MARINO'
+tags: [  ]
 actualPrice: 5.06 EUR
 currency: EUR
 price: 5.06
@@ -25,10 +26,10 @@ Ahora mismo tienes [Muñequera/NIKE:WRISTBAND MISC MARINO](https://www.amazon.es
 
 🔎:
 
-- Lleva sudor en y son fáciles de lavar
-- Se puede lavar en la lavadora.
 - Discreto pero funcional. Alta resistencia y durabilidad. Longitud: 7,62 cm
 - Set de 2 muñequeras Nike Wristband
+- Se puede lavar en la lavadora.
 - Material: 72% algodón, 12% nailon, 11% poliéster, 4% goma, 1% elastano.
+- Lleva sudor en y son fáciles de lavar
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B008C27STE/?tag=tolees-21)
