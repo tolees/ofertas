@@ -26,11 +26,11 @@ Ahora mismo tienes [MANN-FILTER C 3087/2 Compartimentos de Motor  Amarillo  36](
 
 🔎:
 
-- Ancho [mm]: 140
-- Número de pieza equivalente OEM: CITROËN:1444 VZ
-- Longitud [mm]: 382
 - Altura [mm]: 49
-- Estilo: Ajuste específico del vehículo
+- Número de pieza equivalente OEM: CITROËN:1444 VZ
 - De la marca MANN-FILTER
+- Estilo: Ajuste específico del vehículo
+- Ancho [mm]: 140
+- Longitud [mm]: 382
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00AK03OQ2/?tag=tolees-21)

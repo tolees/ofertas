@@ -28,8 +28,8 @@ Tienes [MSI RTX 2080 Super Gaming X Trio - VGA 8GB  GDDR6  HDMI  3*DP  USB-C 2S]
 
 - RGB MYSTIC LIGHT - Personaliza colores y efectos LED con el software de MSI y sincroniza el aspecto y sensación con otros componentes
 - MASTERY OF AERODYNAMICS - Utilizando técnicas aerodinámicas, el disipador está optimizado para una disipación eficiente del calor
-- TORX FAN 3.0 - galardonado diseño de ventilador combinando dos tipos de aspa para refrigeración y silencio
 - ZERO FROZR - Elimina el ruido de los ventiladores deteniéndolos en situaciones de baja carga para que te enfoques en tu juego
 - TRI-FROZR THERMAL DESIGN - Utilizando tres de los galardonados ventiladores TORX FAN 3.0, Tri-Frozr es el pináculo de la refrigeración por aire
+- TORX FAN 3.0 - galardonado diseño de ventilador combinando dos tipos de aspa para refrigeración y silencio
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07VGM29BZ/?tag=tolees-21)

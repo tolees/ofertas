@@ -26,9 +26,9 @@ Está [Taurus Mycook Legend - Robot de Cocina por Inducción de 40 a 120º C  ap
 
 ℹ️:
 
-- Vaporera, cestillo y embellecedor frontal en inox; pantalla digital retro iluminada con suave luz azulada para una mejor visualización
-- Mycook muele, pulveriza, ralla, pica, tritura, trocea, emulsiona, monta, amasa, sofríe, cuece, cuece al vapor, elabora caldos, pesa y tiene función turbo
 - Incluye un recetario impreso con 250 recetas riquísimas
 - Mycook funciona con tecnología por inducción y, por tanto, transmite el calor a través del aire y no por contacto como las resistencias tradicionales
+- Mycook muele, pulveriza, ralla, pica, tritura, trocea, emulsiona, monta, amasa, sofríe, cuece, cuece al vapor, elabora caldos, pesa y tiene función turbo
+- Vaporera, cestillo y embellecedor frontal en inox; pantalla digital retro iluminada con suave luz azulada para una mejor visualización
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B018W7LI6W/?tag=tolees-21)
