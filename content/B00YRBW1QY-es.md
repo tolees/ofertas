@@ -27,7 +27,7 @@ Está [TRIXIE Manta Mimi 70 × 50 cm  Gris  Perro](https://www.amazon.es/dp/B00Y
 ℹ️:
 
 - felpa suave (poliéster)
-- extra blanda y muy suave
 - protege los muebles de la suciedad y del pelo
+- extra blanda y muy suave
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00YRBW1QY/?tag=tolees-21)

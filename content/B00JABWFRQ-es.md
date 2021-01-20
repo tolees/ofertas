@@ -26,13 +26,13 @@ Tienes [Havaianas Flash Urban  Sandalias para Mujer  Dorado  Rose Gold   33/34 E
 
 ℹ️:
 
+- Tipo de tacón: Plano
+- Anchura del zapato: Normal
 - Material de la suela: Goma
 - Tipo de talla: Talla estándar
+- Material exterior: Goma
 - Revestimiento: Sin forro
 - Altura del tacón: 1 centímetros
-- Anchura del zapato: Normal
-- Material exterior: Goma
-- Tipo de tacón: Plano
 - Cierre: Sin cordones
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00JABWFRQ/?tag=tolees-21)

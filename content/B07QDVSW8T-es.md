@@ -26,9 +26,9 @@ En este momento está [Skagen Reloj Analógico para Mujer de Cuarzo con Correa e
 
 🔎:
 
-- Resistente al agua: 3 ATM
-- Grosor de la caja: 4 mm; Tamaño de la caja: 25 mm
 - Material de la correa: Piel
+- Grosor de la caja: 4 mm; Tamaño de la caja: 25 mm
+- Resistente al agua: 3 ATM
 - Ancho de la correa: 12 mm; Circunferencia de la correa: 175+/- 5 mm
 - Se presenta en caja de regalo Skagen
 

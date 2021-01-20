@@ -26,12 +26,12 @@ En este momento está [Olay Regenerist Whip Light As Air Hidratante  Crema facia
 
 🔎:
 
-- Regenera y renueva visiblemente la piel
-- Fórmula Complex II de Olay con aminopéptidos y vitamina B3
-- No graso; no obstruye los poros
-- Muy ligero al tacto con un acabado liso y mate
-- Diseñado para que sus ingredientes actúen en profundidad en la piel
-- Hidrata, reafirma y renueva la piel al instante
 - Prueba Olay a diario durante 28 días. Experimenta una transformación real de la piel
+- Regenera y renueva visiblemente la piel
+- Diseñado para que sus ingredientes actúen en profundidad en la piel
+- No graso; no obstruye los poros
+- Hidrata, reafirma y renueva la piel al instante
+- Muy ligero al tacto con un acabado liso y mate
+- Fórmula Complex II de Olay con aminopéptidos y vitamina B3
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07KXKT8KZ/?tag=tolees-21)

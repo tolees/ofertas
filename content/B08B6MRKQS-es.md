@@ -26,9 +26,9 @@ Está [Nestlé Naturnes Bio Puré Zanahoria  Tomate Y Pavo Tarrito Para Bebés�
 
 ℹ️:
 
+- Puré de frutas para bebés
 - Para bebés a partir de los seis meses
 - Sin colorantes, ni conservantes, ni aromas artificiales
 - Elaborado con ingredientes 100% naturales
-- Puré de frutas para bebés
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08B6MRKQS/?tag=tolees-21)
