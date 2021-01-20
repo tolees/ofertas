@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Titanic -2012 [DVD] al 32.58 % de rebaja'
-date: 2021-01-19 02:03:42
+date: 2021-01-20 02:52:45
 image: 'https://m.media-amazon.com/images/I/51WfU5UDoML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008TLPT94-es'
+slug: 'B008TLPT94-es Titanic -2012 [DVD]'
+tags: [  ]
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49
@@ -16,7 +17,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B008TLPT94/?tag=tolees-21'
 descuento: '32.58'
-average: '9.834444444444447'
+average: '9.734680851063834'
 ---
 
 Tienes [Titanic -2012 [DVD]](https://www.amazon.es/dp/B008TLPT94/?tag=tolees-21) con precio final de  7.49 EUR (original: 11.11 EUR) (32.58 %  de rebaja) aqui!
