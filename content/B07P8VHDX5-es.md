@@ -26,10 +26,10 @@ Tienes [World End Syndrome - Day One Edition](https://www.amazon.es/dp/B07P8VHDX
 
 ℹ️:
 
-- El diseño artístico de yuki kato - el artista principal de la famosa franquicia blazblue diseñó los personajes de este nuevo juego
-- Una excelente producción – con un arte muy cuidado tanto en personajes como en fondos, llenos de detalle
-- Siéntete protagonista - juega como un joven con un pasado oscuro que llega a una nueva escuela donde las cosas toman un giro inesperado
 - Explora libremente el mapa - visita cada lugar durante mañana, tarde o noche para conocer a diferentes personajes
+- El diseño artístico de yuki kato - el artista principal de la famosa franquicia blazblue diseñó los personajes de este nuevo juego
+- Siéntete protagonista - juega como un joven con un pasado oscuro que llega a una nueva escuela donde las cosas toman un giro inesperado
+- Una excelente producción – con un arte muy cuidado tanto en personajes como en fondos, llenos de detalle
 - Una nueva novela visual llegada desde japón - descubre una nueva historia de misterio que mezcla el romance con el thriller y los muertos vivientes
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07P8VHDX5/?tag=tolees-21)
