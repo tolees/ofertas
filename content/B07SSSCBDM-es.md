@@ -26,10 +26,10 @@ Ahora mismo tienes [Cecotec Aspirador de Mano Conga Immortal ExtremeSuction 22 2
 
 🔎:
 
-- Accesorios especial para mascotas. Autonomía de 25 minutos y tiempo de carga reducido. Gran depósito de 500 ml de capacidad con vaciado fácil e higiénico. Fácil de usar y transportar.
 - Sistema ExtremeSuction Technology que proporciona un máximo poder de succión gracias a su batería de 22,2 V. Incluye filtro HEPA de alta eficiencia para retener partículas de polvo y ácaros entr otros y una segunda unidad de recambio.
-- Aspirador de mano de sólidos y líquidos ligero, práctico y potente. Batería extraíble de Li-Ion que alarga la vida del aspirador x 2. Diseñado sin cables podrás aspirar tu hogar o vehículo con total libertad.
+- Accesorios especial para mascotas. Autonomía de 25 minutos y tiempo de carga reducido. Gran depósito de 500 ml de capacidad con vaciado fácil e higiénico. Fácil de usar y transportar.
 - Diseñado con el sistema Wet&Dry, tecnología que lo convierte en el aliado perfecto para la limpieza de sólidos y líquidos. Incluye accesorios para hogar y coche.
 - Tecnología ciclónica sin bolsas que mantiene la potencia de succión como el primer día. Aspirar cualquier suciedad en todo tipo de superficies. Base de carga: ten tu aspirador siempre a mano.
+- Aspirador de mano de sólidos y líquidos ligero, práctico y potente. Batería extraíble de Li-Ion que alarga la vida del aspirador x 2. Diseñado sin cables podrás aspirar tu hogar o vehículo con total libertad.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SSSCBDM/?tag=tolees-21)

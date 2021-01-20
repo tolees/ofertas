@@ -26,9 +26,9 @@ Está [Knorr - Caldo Pastilla Pescado  120 g](https://www.amazon.es/dp/B001IX1MK
 
 ℹ️:
 
-- Tipo de producto: Caldo de pescado
 - Es formulado con aceite de oliva
-- Tiene un contenido de 120 g
+- Tipo de producto: Caldo de pescado
 - Contiene 12 pastillas
+- Tiene un contenido de 120 g
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B001IX1MKK/?tag=tolees-21)
