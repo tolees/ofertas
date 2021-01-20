@@ -26,10 +26,10 @@ Tienes [AOC Agon AG352QCX - Monitor 35" Curvo QHD 2K  resolución 2560 x 1080 Pi
 
 ℹ️:
 
-- Freesync - Delivers smooth gameplay eliminating input lag, screen tear and stuttering
-- Height Adjustable stand - Raise and lower the screen to suit your height and seating preferences
 - Vesa wall mount - 100x100
 - 200Hz Refresh rate - Unleash the full potential of your graphics card: with screen tearing and motion blur and stuttering all eradicated, your game will finally flow like it was meant to.
 - WFHD - Wide Full HD offers superior picture quality and crisp imagery that reveals every detail. The widescreen 21:9 aspect ratio is perfect for watching movies in an expansive format or immersing yourself in the latest game
+- Freesync - Delivers smooth gameplay eliminating input lag, screen tear and stuttering
+- Height Adjustable stand - Raise and lower the screen to suit your height and seating preferences
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01MQT2O5G/?tag=tolees-21)
