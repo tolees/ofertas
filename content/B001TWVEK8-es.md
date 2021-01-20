@@ -26,8 +26,8 @@ En este momento está [MAKITA 9565CR Amoladora  1.4 W  240 V  125mm](https://www
 
 🔎:
 
+- Cabezal hermético para evitar pérdidas de aceite
 - Posibilidad de variar la posición del cabezal cada 90º
 - Cuerpo delgado, más cómodo e ideal para manejar con una sola mano
-- Cabezal hermético para evitar pérdidas de aceite
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B001TWVEK8/?tag=tolees-21)

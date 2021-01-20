@@ -26,9 +26,9 @@ En este momento está [Orbegozo BV 9600 - Batidora de vaso profesional  capacida
 
 🔎:
 
-- Batidora de vaso profesional con 950 w de potencia
 - Base con pies de goma antideslizantes
 - Deal para preparar batidos, smoothies o cocteles
+- Batidora de vaso profesional con 950 w de potencia
 - Vaso de tritan de gran resistencia y alta capacidad, 2.2 l
 - Sistema de seguridad que impide su funcionamiento sin jarra
 

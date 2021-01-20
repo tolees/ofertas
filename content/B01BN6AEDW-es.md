@@ -26,11 +26,11 @@ Está [Solac PC1500 Niagara - Plancha Vertical  1200W  incluye 2 accesorios  sup
 
 ℹ️:
 
-- Plancha en la percha; plancha cortinas cómodamente; elimina arrugas rápidamente;supervapor de 25g/min, no necesitas más
 - Destruye con nuestra tecnología de vapor sin dañar tu ropa. Tu ropa segura.
-- Ergonómica; plancha cómoda y ergonómica que se adapta a la mano del usuario; con 2 metros de cable y depósito de 200 cc de capacidad
 - Auto-off i antigoteo; sistema de seguridad que desconecta la plancha automáticamente cuando lleva un tiempo sin uso; antigoteo que garantiza los mejores resultados
 - 2 accesorios; cuenta con 2 accesorios para cepillado y tapicerías; consigue los mejores resultados incluso en las prendas más delicadas
 - 1200w de potencía; alta potencía que garantiza una rápida puesta en marcha; en poco segundos la plancha se calienta y empieza a generar vapor; un indicador luminoso indica cuando está a punto
+- Ergonómica; plancha cómoda y ergonómica que se adapta a la mano del usuario; con 2 metros de cable y depósito de 200 cc de capacidad
+- Plancha en la percha; plancha cortinas cómodamente; elimina arrugas rápidamente;supervapor de 25g/min, no necesitas más
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01BN6AEDW/?tag=tolees-21)
