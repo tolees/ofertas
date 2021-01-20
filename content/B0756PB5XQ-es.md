@@ -26,11 +26,11 @@ Tienes [Olympus OM-D E-M10 Mark III Kit  Cámara de Sistema Micro Cuatro Tercios
 
 ℹ️:
 
-- Estabilización de imagen de cinco ejes integrada con desplazamiento del sensor para obtener vídeos y fotos nítidas y claras sin vibración
 - Óptimo procesamiento y carcasa compacta
+- Sistema de eliminación de polvo a través de un silencioso filtro de ondas sónicas
+- Una calidad de imagen óptima con imágenes muy nítidas hasta los bordes de la imagen
 - Fácil conectividad con WLAN incorporada: comparta momentos preciosos con amigos y familiares al instante
 - Óptima movilidad gracias a su peso ligero y su diseño compacto, así como a una amplia gama de objetivos de alta calidad
-- Una calidad de imagen óptima con imágenes muy nítidas hasta los bordes de la imagen
-- Sistema de eliminación de polvo a través de un silencioso filtro de ondas sónicas
+- Estabilización de imagen de cinco ejes integrada con desplazamiento del sensor para obtener vídeos y fotos nítidas y claras sin vibración
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0756PB5XQ/?tag=tolees-21)

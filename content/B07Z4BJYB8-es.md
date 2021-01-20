@@ -28,8 +28,8 @@ En este momento está [G-STAR RAW 3301 Straight Tapered Jeans  Vintage Azure C05
 
 - Diseño de 5 bolsillos
 - Cintura media
-- Corte recto en el muslo, dobladillo estrecho
 - Logotipo impreso sobre el bolsillo trasero
 - Cierre de botones
+- Corte recto en el muslo, dobladillo estrecho
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07Z4BJYB8/?tag=tolees-21)

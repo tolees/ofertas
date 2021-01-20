@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lixone Jabón de Aloe Vera - 3 Unidades al 28.57 % de rebaja'
-date: 2021-01-19 18:35:56
+date: 2021-01-20 19:20:15
 image: 'https://m.media-amazon.com/images/I/414uE0hW9bL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -17,7 +17,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071F9HWHW/?tag=tolees-21'
 descuento: '28.57'
-average: '2.5761165048543693'
+average: '2.576571428571429'
 ---
 
 Tienes [Lixone Jabón de Aloe Vera - 3 Unidades](https://www.amazon.es/dp/B071F9HWHW/?tag=tolees-21) con precio final de  2.6 EUR (original: 3.64 EUR) (28.57 %  de rebaja) aqui!
