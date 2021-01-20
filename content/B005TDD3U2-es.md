@@ -27,8 +27,8 @@ Ahora mismo tienes [Gullón - Galleta Fibra sin azúcar Diet Nature 170g](https:
 🔎:
 
 - Fabricado por Galletas Gullón.
-- El tentempié perfecto para darte un capricho delicioso.
 - Sin aceite de palma. Producto elaborado con aceite de girasol alto oleico.
 - Las galletas Diet Nature fibra son integrales con un alto contenido en fibra y sin azúcares.
+- El tentempié perfecto para darte un capricho delicioso.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B005TDD3U2/?tag=tolees-21)

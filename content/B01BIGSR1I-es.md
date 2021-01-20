@@ -26,10 +26,10 @@ Está [WD 12TB My Cloud EX2 Ultra Almacenamiento en red](https://www.amazon.es/d
 
 ℹ️:
 
-- Almacenamiento en red centralizado y acceso desde cualquier lugar
 - Sincronización automática de archivos en todos sus ordenadores
-- Equipado con My Cloud OS 3
+- Almacenamiento en red centralizado y acceso desde cualquier lugar
 - 1 GB de memoria DDR3 para poder realizar varias tareas con facilidad
 - Procesador de dos núcleos de alto rendimiento a 1,3 GHz para una transmisión sin interrupciones
+- Equipado con My Cloud OS 3
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01BIGSR1I/?tag=tolees-21)

@@ -26,8 +26,8 @@ Ahora mismo tienes [Palson - Cortapelo+Barbero 30062  Revolution  Para Cabello  
 
 🔎:
 
+- Uso sin cables o con conexión directa a la corriente
 - Batería de larga duración: más de 45 minutos
 - Indicador de nivel de carga de la batería
-- Uso sin cables o con conexión directa a la corriente
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0055ZMH7E/?tag=tolees-21)

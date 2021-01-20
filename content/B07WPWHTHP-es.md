@@ -27,7 +27,7 @@ Ahora mismo tienes [Pepe Jeans Piccadilly 7/8 Short  Azul  Denim 000   30W / 30L
 🔎:
 
 - Tienen un diseño simple
-- Pueden usarse con un cinturón
 - Los vaqueros se pueden usar en un estilo casual
+- Pueden usarse con un cinturón
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WPWHTHP/?tag=tolees-21)
