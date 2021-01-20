@@ -27,9 +27,9 @@ En este momento está [Bosch 2 608 640 445 - Hoja de sierra circular Multi Mater
 🔎:
 
 - Anchura de corte (b1) mm / Grosor del disco (b2) mm: 2,5/1,8
-- Diámetro exterior mm: 210
-- Anchura de corte (b1) mm: 2,5
-- Grosor del disco (b2) mm: 1,8
 - Resultado de corte: 3
+- Diámetro exterior mm: 210
+- Grosor del disco (b2) mm: 1,8
+- Anchura de corte (b1) mm: 2,5
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B000R5K8KA/?tag=tolees-21)

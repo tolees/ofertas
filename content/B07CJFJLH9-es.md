@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Only Onltahoe Hood Jacket Otw Noos Chaqu al 60.01 % de rebaja'
-date: 2021-01-18 23:49:31
+date: 2021-01-20 00:20:43
 image: 'https://m.media-amazon.com/images/I/41DcMEtMvbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CJFJLH9-es'
+slug: 'B07CJFJLH9-es Only Onltahoe Hood Jacket Otw Noos Chaqueta Negro Black...'
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

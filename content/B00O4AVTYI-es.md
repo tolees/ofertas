@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'DIVASA Tabernil Muda Complemento Vitamín al 30.37 % de rebaja'
-date: 2021-01-18 23:37:11
+date: 2021-01-20 00:11:09
 image: 'https://m.media-amazon.com/images/I/311I1-3zrzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00O4AVTYI-es'
+slug: 'B00O4AVTYI-es DIVASA Tabernil Muda Complemento Vitamínico - 20 ml'
+tags: [  ]
 actualPrice: 4.54 EUR
 currency: EUR
 price: 4.54
@@ -16,7 +17,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00O4AVTYI/?tag=tolees-21'
 descuento: '30.37'
-average: '4.879565217391302'
+average: '4.865416666666664'
 ---
 
 Tienes [DIVASA Tabernil Muda Complemento Vitamínico - 20 ml](https://www.amazon.es/dp/B00O4AVTYI/?tag=tolees-21) con precio final de  4.54 EUR (original: 6.52 EUR) (30.37 %  de rebaja) aqui!
