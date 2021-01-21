@@ -27,9 +27,9 @@ Ahora mismo tienes [Ealicere 25pcs Accesorios de Peinado  Herramientas Accesorio
 
 🔎:
 
+- 3.Conveniente para el peluquero profesional, también conveniente para los principiantes.
 - 5.Una herramienta práctica el estilo, puede ayudar a todo tipo de trenza vendimia.
 - 2.Es una herramienta necesaria para las mujeres. Disfrute de su nuevo estilo de pelo con este kit de estilo de pelo.
-- 3.Conveniente para el peluquero profesional, también conveniente para los principiantes.
 - 1.Fácil hacer el estilo de pelo, usted puede hacer estilos de pelo múltiples con este kit de labrar el pelo, especialmente apto para el pelo largo.
 - 4.Con este conjunto de peinado, usted puede hacer un diseño de pelo mágico.
 
