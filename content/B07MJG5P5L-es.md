@@ -1,31 +1,32 @@
 ---
 layout: post
-title: 'Descuento del 28.38 % en Anthem - Fluoreszierendes Steelbook  exk'
-date: 2020-02-20 10:56:41
-image: 'https://m.media-amazon.com/images/I/41KBx1T54jL._AC_._SL200_.jpg'
+title: 'Descuento del 32.49 % en Anthem - Fluoreszierendes Steelbook  exk'
+date: 2021-01-21 11:13:35
+image: 'https://m.media-amazon.com/images/I/41KBx1T54jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07MJG5P5L-es Anthem - Fluoreszierendes Steelbook exkl. bei Amazon.de -...'
 sku: 'B07MJG5P5L-es'
 tags: [  ]
-actualPrice: 6.99 EUR
+actualPrice: 9.62 EUR
 currency: EUR
-price: 6.99
-comparePrice: 9.76 EUR
+price: 9.62
+comparePrice: 14.25 EUR
 prodname: 'Anthem - Fluoreszierendes Steelbook  exkl. bei Amazon.de  - [Enthält kein Spiel] [Importación alemana]'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MJG5P5L/?tag=tolees-21'
-descuento: '28.38'
-average: '11.323333333333332'
+descuento: '32.49'
+average: '10.642'
 ---
 
-Tienes [Anthem - Fluoreszierendes Steelbook  exkl. bei Amazon.de  - [Enthält kein Spiel] [Importación alemana]](https://www.amazon.es/dp/B07MJG5P5L/?tag=tolees-21) con un 28.38 % de descuento con precio de oferta de 6.99 EUR (original: 9.76 EUR) en el siguiente enlace!
+Tienes [Anthem - Fluoreszierendes Steelbook  exkl. bei Amazon.de  - [Enthält kein Spiel] [Importación alemana]](https://www.amazon.es/dp/B07MJG5P5L/?tag=tolees-21) con un 32.49 % de descuento con precio de oferta de 9.62 EUR (original: 14.25 EUR) en el siguiente enlace!
 
-[![Anthem - Fluoreszierendes Steelbook  exk](https://m.media-amazon.com/images/I/41KBx1T54jL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07MJG5P5L/?tag=tolees-21)
+[![Anthem - Fluoreszierendes Steelbook  exk](https://m.media-amazon.com/images/I/41KBx1T54jL._SL200_.jpg)](https://www.amazon.es/dp/B07MJG5P5L/?tag=tolees-21)
 
 ℹ️:
 
+- Steelbook Fluorescente
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07MJG5P5L/?tag=tolees-21)

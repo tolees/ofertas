@@ -27,9 +27,9 @@ Tienes [JACK & JONES JJIPAUL JJLEATHER BELT NOOS  Cinturón Hombre  Marrón  Bla
 
 🔎:
 
-- Color: CAFÉ NEGRO
 - Designer: JACK&JONES
-- Estación: SIEMPRE DISPONIBLE
 - Artículo: 12111286 PAUL
+- Estación: SIEMPRE DISPONIBLE
+- Color: CAFÉ NEGRO
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01IBI9YQS/?tag=tolees-21)

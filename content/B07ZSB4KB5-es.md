@@ -28,8 +28,8 @@ Tienes [Banpresto Sword Art Online Espresto - Figura Decorativa  PVC  23 cm   di
 ℹ️:
 
 - Con esta figura.
-- Peso: 165 g.
-- Tamaño: 23 cm.
 - Figura decorativa
+- Tamaño: 23 cm.
+- Peso: 165 g.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07ZSB4KB5/?tag=tolees-21)

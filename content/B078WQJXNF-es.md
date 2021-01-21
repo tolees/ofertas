@@ -27,8 +27,8 @@ En este momento está [Samsung 860 EVO MZ-76E250B/EU - Disco duro sólido intern
 
 🔎:
 
-- Compatible con cualquier versión de Windows y todas las PC con interfaz Sata 2.5 "
 - Escritura secuencial: 520MB/s
+- Compatible con cualquier versión de Windows y todas las PC con interfaz Sata 2.5 "
 - Es diseñado para ordenadores de alta gama, estaciones de trabajo y NAS
 - Dispone de interfaz SATA
 - La tecnología V-NAND ofrece fiabilidad con 2.400 TBW

@@ -27,10 +27,10 @@ Está [Max Factor Crème Puff Polvos Compactos Tono 013 Nouveau Beige - 21 gr](h
 
 ℹ️:
 
-- Consejo de aplicación: aplicar Crème Puff sobre la crema hidratante para un acabado ligero: sobre la base de maquillaje para un cabado perfecto
-- Alta Cobertura
-- Maquillaje en polvo de acabado mate y aterciopelado
 - Se puede utilizar como base ligera de maquillaje o sobre una base como polvos faciales
+- Alta Cobertura
+- Consejo de aplicación: aplicar Crème Puff sobre la crema hidratante para un acabado ligero: sobre la base de maquillaje para un cabado perfecto
 - Acabado mate aterciopelado y un sutil brillo gracias a sus partículas potenciadores de la luz
+- Maquillaje en polvo de acabado mate y aterciopelado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B001GNBVPS/?tag=tolees-21)

@@ -28,8 +28,8 @@ Tienes [XLC 2501810002 Pedal para BTT PD-M01](https://www.amazon.es/dp/B000NUBEW
 ℹ️:
 
 - Cuerpo de plástico
-- Con dos reflectores, en cumplimiento de las normas de tráfico
 - Los dientes de los bordes del pedal garantizan un mejor punto de apoyo
+- Con dos reflectores, en cumplimiento de las normas de tráfico
 - Eje de boro y rodamiento de bolas
 - Carcasa de aluminio
 

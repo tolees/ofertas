@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'Luminarc 9207679 Pure Box Active - Recip al 64.16 % de descuento'
-date: 2021-01-15 00:30:07
+date: 2021-01-21 11:27:21
 image: 'https://m.media-amazon.com/images/I/41TMElppkXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KHTESQ6-es'
+slug: 'B00KHTESQ6-es Luminarc 9207679 Pure Box Active - Recipiente Hermetico...'
+sku: 'B00KHTESQ6-es'
+tags: [  ]
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0
@@ -16,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00KHTESQ6/?tag=tolees-21'
 descuento: '64.16'
-average: '4.587142857142857'
+average: '4.38875'
 ---
 
 Está [Luminarc 9207679 Pure Box Active - Recipiente Hermetico Rectangular  Vidrio  0.38 L](https://www.amazon.es/dp/B00KHTESQ6/?tag=tolees-21) con 64.16 de descuento por 3.0 EUR (original: 8.37 EUR) en el siguiente enlace!
@@ -25,10 +27,10 @@ Está [Luminarc 9207679 Pure Box Active - Recipiente Hermetico Rectangular  Vidr
 
 ℹ️:
 
+- Con válvula de vapor
+- Resistente choque térmico
 - Recipiente apilable
 - Recipiente hermético
 - 1 Pieza
-- Resistente choque térmico
-- Con válvula de vapor
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00KHTESQ6/?tag=tolees-21)

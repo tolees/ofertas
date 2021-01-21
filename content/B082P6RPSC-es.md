@@ -27,8 +27,8 @@ Está [Canadian Peak BONETEAK rol Unisex Marino  M ](https://www.amazon.es/dp/B0
 
 ℹ️:
 
-- Otoño - Invierno Temporada 2019
 - Temperatura máxima 30º. Lavado y aclarado con acción mecánica y centrifugado corto.
+- Otoño - Invierno Temporada 2019
 - 100% Poliamida
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B082P6RPSC/?tag=tolees-21)

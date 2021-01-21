@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'Drone con Luz LED  Drone 2.4G 4CH para P al 38.58 % de rebaja'
-date: 2021-01-13 14:23:56
+date: 2021-01-21 11:10:55
 image: 'https://m.media-amazon.com/images/I/31pMrzN4I4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TS8HW4L-es'
+slug: 'B07TS8HW4L-es Drone con Luz LED Drone 2.4G 4CH para Principiantes y...'
+sku: 'B07TS8HW4L-es'
+tags: [  ]
 actualPrice: 47.29 EUR
 currency: EUR
 price: 47.29
@@ -25,10 +27,10 @@ Tienes [Drone con Luz LED  Drone 2.4G 4CH para Principiantes y Niños  Sin Cáma
 
 🔎:
 
-- 【Tipo opcional】 Este drone tiene tres opciones, una sin cámara, con una cámara de 30W, y la última con una cámara de 500W.
+- 【Avión plegable】 Este avión no tripulado presenta un diseño plegable.
+- 【Transmisión Wi-Fi en tiempo real】 Este drone tiene transmisión Wi-Fi en tiempo real, que puede conectar el drone al dispositivo APP o al sistema APK, y la vista se puede mostrar directamente en el teléfono.
 - 【Grupo de edad】 Este dron es adecuado para niños mayores de 14 años.
 - 【Distancia del control remoto】 La distancia del control remoto de este avión no tripulado es de unos 80-100 metros.
-- 【Transmisión Wi-Fi en tiempo real】 Este drone tiene transmisión Wi-Fi en tiempo real, que puede conectar el drone al dispositivo APP o al sistema APK, y la vista se puede mostrar directamente en el teléfono.
-- 【Avión plegable】 Este avión no tripulado presenta un diseño plegable.
+- 【Tipo opcional】 Este drone tiene tres opciones, una sin cámara, con una cámara de 30W, y la última con una cámara de 500W.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07TS8HW4L/?tag=tolees-21)

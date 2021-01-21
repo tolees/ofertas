@@ -1,25 +1,27 @@
 ---
 layout: post
-title: 'Maclaren Techno XT - Silla de paseo lige con un 51.81 % de descuento'
-date: 2021-01-18 14:38:58
+title: 'Maclaren Techno XT - Silla de paseo lige con un 43.46 % de descuento'
+date: 2021-01-21 11:12:40
 image: 'https://m.media-amazon.com/images/I/41GQALhkYXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078WW18HQ-es'
-actualPrice: 180.73 EUR
+slug: 'B078WW18HQ-es Maclaren Techno XT - Silla de paseo ligero para recién...'
+sku: 'B078WW18HQ-es'
+tags: [  ]
+actualPrice: 212.03 EUR
 currency: EUR
-price: 180.73
+price: 212.03
 comparePrice: 375.0 EUR
 prodname: 'Maclaren Techno XT - Silla de paseo ligero para recién nacidos hasta los 25kg  Asiento multiposición  suspensión en las 4 ruedas  Capota extensible con UPF 50+'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078WW18HQ/?tag=tolees-21'
-descuento: '51.81'
-average: '223.35444444444445'
+descuento: '43.46'
+average: '222.222'
 ---
 
-En este momento está [Maclaren Techno XT - Silla de paseo ligero para recién nacidos hasta los 25kg  Asiento multiposición  suspensión en las 4 ruedas  Capota extensible con UPF 50+](https://www.amazon.es/dp/B078WW18HQ/?tag=tolees-21) a 180.73 EUR (original: 375.0 EUR) (51.81 %  de descuento) en el siguiente enlace!
+En este momento está [Maclaren Techno XT - Silla de paseo ligero para recién nacidos hasta los 25kg  Asiento multiposición  suspensión en las 4 ruedas  Capota extensible con UPF 50+](https://www.amazon.es/dp/B078WW18HQ/?tag=tolees-21) a 212.03 EUR (original: 375.0 EUR) (43.46 %  de descuento) en el siguiente enlace!
 
 [![Maclaren Techno XT - Silla de paseo lige](https://m.media-amazon.com/images/I/41GQALhkYXL._SL200_.jpg)](https://www.amazon.es/dp/B078WW18HQ/?tag=tolees-21)
 

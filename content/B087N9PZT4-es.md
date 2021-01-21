@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Funko- Pop Keychain: South Park-Cartman  al 46.59 % de rebaja'
-date: 2021-01-19 15:14:41
+date: 2021-01-21 11:19:35
 image: 'https://m.media-amazon.com/images/I/31AfRCZbwGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B087N9PZT4-es Funko- Pop Keychain: South Park-Cartman w/Clyde Figura...'
-tags: [ 'tole.es', ]
+sku: 'B087N9PZT4-es'
+tags: [  ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95
@@ -26,9 +27,9 @@ Tienes [Funko- Pop Keychain: South Park-Cartman w/Clyde Figura Coleccionable  Mu
 
 🔎:
 
+- De la colección South Park, Cartman w/Clyde como llavero POP de Funko
 - La figura mide 5 cm y se envía en una caja ilustrada con ventana
 - Funko POP! El juguete del año 2018
 - ¡Descúbre otras figuras de la colección South Park y colecciónalas todas!
-- De la colección South Park, Cartman w/Clyde como llavero POP de Funko
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B087N9PZT4/?tag=tolees-21)

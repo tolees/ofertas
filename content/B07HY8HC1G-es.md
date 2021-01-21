@@ -27,10 +27,10 @@ Está [Canadian Peak Sudadera DE Hombre Galapagos Negro M](https://www.amazon.es
 
 ℹ️:
 
-- Bolsillo canguro
+- Bordados de la marca
 - Puños ajustables
 - Capucha
-- Bordados de la marca
 - Cuello con cremallera
+- Bolsillo canguro
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07HY8HC1G/?tag=tolees-21)
