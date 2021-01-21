@@ -28,9 +28,9 @@ Está [Aquabeads Character Set Juego de 2 Personajes de Frozen  Epoch AB31370 ](
 ℹ️:
 
 - Plantillas de personajes de la película
-- Contiene todo lo necesario para empezar a crear
 - Crea personajes de Disney con Aquabeads
-- Juego de 2 caracteres congelados
+- Contiene todo lo necesario para empezar a crear
 - El juego contiene 800 cuentas en 17 colores más una bandeja, plantillas de personajes y pulverizador.
+- Juego de 2 caracteres congelados
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07Q97NX1F/?tag=tolees-21)
