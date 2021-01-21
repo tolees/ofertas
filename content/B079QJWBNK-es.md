@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Levi s 502 Taper Jeans  Stonewash 95978  al 28.44 % de rebaja'
-date: 2021-01-20 03:24:56
+date: 2021-01-21 09:09:31
 image: 'https://m.media-amazon.com/images/I/41y1FoYAsBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B079QJWBNK-es Levi s 502 Taper Jeans Stonewash 95978 32W / 30L para Hombre'
+sku: 'B079QJWBNK-es'
 tags: [  ]
 actualPrice: 64.4 EUR
 currency: EUR
@@ -17,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079QJWBNK/?tag=tolees-21'
 descuento: '28.44'
-average: '64.89611111111111'
+average: '64.8465'
 ---
 
 Tienes [Levi s 502 Taper Jeans  Stonewash 95978  32W / 30L para Hombre](https://www.amazon.es/dp/B079QJWBNK/?tag=tolees-21) con precio final de  64.4 EUR (original: 90.0 EUR) (28.44 %  de rebaja) aqui!
@@ -26,8 +27,8 @@ Tienes [Levi s 502 Taper Jeans  Stonewash 95978  32W / 30L para Hombre](https://
 
 🔎:
 
-- Se asientan debajo de la cintura
 - Diseño de cinco bolsillos
+- Se asientan debajo de la cintura
 - Con ajuste estándar en el muslo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079QJWBNK/?tag=tolees-21)
