@@ -27,7 +27,7 @@ Ahora mismo tienes [ELEX](https://www.amazon.es/dp/B0721KJS2V/?tag=tolees-21) a 
 
 🔎:
 
-- Azione dalla grafica disegnata a mano sviluppato dai creatori della pluripremiata serie gothic
 - Sistema di missioni altamente collegate che supporta le scelte del giocatore
+- Azione dalla grafica disegnata a mano sviluppato dai creatori della pluripremiata serie gothic
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0721KJS2V/?tag=tolees-21)

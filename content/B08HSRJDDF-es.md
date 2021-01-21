@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Eldrador Creatures con un 42.87 % de descuento'
-date: 2021-01-19 21:15:44
+date: 2021-01-20 23:27:14
 image: 'https://m.media-amazon.com/images/I/51p2HsxPT+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B08HSRJDDF-es Eldrador Creatures'
+sku: 'B08HSRJDDF-es'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

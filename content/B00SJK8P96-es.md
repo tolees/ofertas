@@ -28,7 +28,7 @@ Está [Braga de Cuello con diseño de calavera de Ghost SoftAir moto](https://ww
 ℹ️:
 
 - Talla única.
-- Saldiamo Shop
 - 100 % transpirable, de microfibra de poliéster.
+- Saldiamo Shop
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00SJK8P96/?tag=tolees-21)

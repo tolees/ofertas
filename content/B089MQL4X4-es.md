@@ -27,10 +27,10 @@ Tienes [Juego para Niños mayores de 5 años Misión Especial de Play Fun - IMC 
 
 🔎:
 
-- Localiza y desactiva el robot correcto
-- 36 robots diferentes i más de 100 misiones, emocionante y divertido
-- Special Mission es un juego familiar basado en el mundo de los Súper Agentes
 - Sigue las pistas del agente especial para localizar el robot correcto
+- Special Mission es un juego familiar basado en el mundo de los Súper Agentes
 - Una vez localizado, gira la carta y resuelve las misiones
+- 36 robots diferentes i más de 100 misiones, emocionante y divertido
+- Localiza y desactiva el robot correcto
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B089MQL4X4/?tag=tolees-21)
