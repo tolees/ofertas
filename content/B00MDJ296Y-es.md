@@ -27,8 +27,8 @@ Está [WOLFPACK LINEA PROFESIONAL 4110220 Tapa Bote Sifónico T-89 100 110](http
 
 ℹ️:
 
+- Tapa extensible standar.
 - Medida: Para T-85 100/110 mm.
 - Tapadera de bote sinfónico.
-- Tapa extensible standar.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00MDJ296Y/?tag=tolees-21)

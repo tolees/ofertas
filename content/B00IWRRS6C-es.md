@@ -27,10 +27,10 @@ Está [A&D Medical UA-651  Tensiómetro de brazo digital  detección del pulso a
 
 ℹ️:
 
-- Detección de latidos irregulares: indica si se ha detectado un latido irregular
 - Un manguito de 22-32 cm + Viajar bolso
-- Garantía de 5 años
 - Validado clínicamente (ESH)
+- Detección de latidos irregulares: indica si se ha detectado un latido irregular
+- Garantía de 5 años
 - Pantalla grande y fácil de leer
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00IWRRS6C/?tag=tolees-21)
