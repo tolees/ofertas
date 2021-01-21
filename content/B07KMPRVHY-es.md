@@ -27,8 +27,8 @@ Ahora mismo tienes [adidas Club Short 9 Pantalones Cortos de Deporte  Hombre  Bl
 
 🔎:
 
-- Climalite anti-humidity fabric
 - Elastic waistband with lanyard
 - Regular fit
+- Climalite anti-humidity fabric
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KMPRVHY/?tag=tolees-21)

@@ -27,9 +27,9 @@ Ahora mismo tienes [SHIMANO B01s Pastillas de Freno  Unisex Adulto  Negro  Par](
 
 🔎:
 
+- Repuesto de y8c998050
 - Par de almohadillas de repuesto originales shimano
 - Placa trasera de acero con compuesto de frenado de resina
 - Compatible con: br-m575, br-m525, br-m495, br-m486, br-m485, br-m475, br-m465, br-m445, br-m416-a, br-m416, br-m415, br-m375, br-t615
-- Repuesto de y8c998050
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07F7KNX2Q/?tag=tolees-21)
