@@ -27,8 +27,8 @@ Ahora mismo tienes [JACK & JONES JJIPAUL JJLEATHER BELT NOOS  Cinturón Hombre  
 
 🔎:
 
-- Cinturón de piel de color marrón. Cierre con hebilla metálica. Detalle grabado.
-- Marca: Jack&Jones
 - Modelo: 12111286 JACPAUL LEATHER BELT NOOS MOCHA BISQUE
+- Marca: Jack&Jones
+- Cinturón de piel de color marrón. Cierre con hebilla metálica. Detalle grabado.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01IBIA7SW/?tag=tolees-21)

@@ -27,10 +27,10 @@ Tienes [MOLBRA Gamuza Premium Microfibra Anti-Vaho - 12 Horas de Efecto y 300 Us
 
 ℹ️:
 
-- Para un efecto óptimo, limpiar con agua y jabón previamente la lente y secar completamente antes de aplicar la gamuza. No lavar la gamuza, pierde el tratamiento anti vaho.
-- Embalada en cartón certificado PEFC, fabricado con materias primas de bosques gestionados de forma sostenible y de fuentes controladas.
 - Libre de P.F.O.A. Sustancia química prohibida en la UE empleada generalmente como adherente
 - Sin líquidos adicionales
+- Para un efecto óptimo, limpiar con agua y jabón previamente la lente y secar completamente antes de aplicar la gamuza. No lavar la gamuza, pierde el tratamiento anti vaho.
+- Embalada en cartón certificado PEFC, fabricado con materias primas de bosques gestionados de forma sostenible y de fuentes controladas.
 - 12 Horas de efecto y 300 Usos - !!Válida para gafas con lentes hidrofóbicas!!
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08H8LGK35/?tag=tolees-21)
