@@ -27,10 +27,10 @@ Está [Gebildet 4pcs DC3V-6V DC Motorreductor para Coche de Juguete con Tracció
 
 ℹ️:
 
-- Este motor de engranaje de DC es un motor de uso general, excelente reemplazo para el motor de engranaje de DC oxidado o dañado en la máquina, o para el auto RC u otra producción electrónica.
+- 100 nuevo y de alta calidad.
 - Corriente de carga: ≤150mA (200mA MAX).
 - Voltaje de funcionamiento: 3V~6VDC. Número de lote: Eje doble 1:48.
-- 100 nuevo y de alta calidad.
+- Este motor de engranaje de DC es un motor de uso general, excelente reemplazo para el motor de engranaje de DC oxidado o dañado en la máquina, o para el auto RC u otra producción electrónica.
 - Embalaje que incluye: 4pcs TT Motorreductor con 4pcs plástico rueda neumático.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08D39MFN1/?tag=tolees-21)

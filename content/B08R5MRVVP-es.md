@@ -27,10 +27,10 @@ Tienes [Tronsmart Force 2 Altavoz Bluetooth Portátil 30W  Batería de 24 horas 
 
 ℹ️:
 
-- Llamada Manos Libres & Asistente de Voz: El micrófono incorporado le permite realizar llamadas en manos libres mientras que la toma AUX incorporada de 3,5 mm proporciona una alternativa para dispositivos de audio que no son compatibles con Bluetooth. Y haga doble clic en el botón de encender, activará el asistente de voz, como Siri o el Asistente de Google. También es compatible con Amazon Echo Dot.
-- Más Altavoz, más Potente: Más avanzado que TWS, puede emparejar más de 100 altavoces( Más de 3000W) para obtener un sonido más envolvente.
-- 30W DSP Audio Drivers: Equipado con el chip Qualcomm QCC3021 avanzado, le permiten llenar incluso las habitaciones más grandes con un sonido nítido y claro. Es un compañero perfecto en fiestas o para practicar actividades al aire libre.
 - Extended Playtime & IPX7 Impermeable: Batería de litio recargable de 2500mAh incorporada con un tiempo de reproducción de hasta 15 horas (al 50% del nivel de volumen). Y puede protegerse contra la lluvia, el polvo, la nieve y estar parcial o o incluso la inmersión en el agua como IPX7. Es ideal para llevarlo a la playa o la piscina.
 - Sonido Surround 360° Superior & Diseño Robusto: Este Bluetooth Speaker transmite un sonido envolvente de 360 grados. El radiador pasivo externo acentúa la respuesta de graves incluso en los rangos de graves más bajos. El exterior está cubierto por una malla tejida suave que aporta elegancia, robustez y durabilidad. Podrá llevar el Force 2 donde quiera que vaya para disfrutar de un sonido inmersivo en cualquier lugar.
+- 30W DSP Audio Drivers: Equipado con el chip Qualcomm QCC3021 avanzado, le permiten llenar incluso las habitaciones más grandes con un sonido nítido y claro. Es un compañero perfecto en fiestas o para practicar actividades al aire libre.
+- Llamada Manos Libres & Asistente de Voz: El micrófono incorporado le permite realizar llamadas en manos libres mientras que la toma AUX incorporada de 3,5 mm proporciona una alternativa para dispositivos de audio que no son compatibles con Bluetooth. Y haga doble clic en el botón de encender, activará el asistente de voz, como Siri o el Asistente de Google. También es compatible con Amazon Echo Dot.
+- Más Altavoz, más Potente: Más avanzado que TWS, puede emparejar más de 100 altavoces( Más de 3000W) para obtener un sonido más envolvente.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08R5MRVVP/?tag=tolees-21)
