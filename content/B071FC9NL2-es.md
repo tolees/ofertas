@@ -27,9 +27,9 @@ Ahora mismo tienes [Fellowes 8C - Destructora trituradora de papel  corte en par
 
 🔎:
 
-- Ciclo de trabajo: 3 min
-- También destruye grapas, tarjetas de crédito y clips
-- Cabezal extraíble y capacidad de la papelera 14 litros
 - Bloqueo de seguridad que desactiva la destructora para evitar que se ponga en marcha de forma accidental
+- Ciclo de trabajo: 3 min
+- Cabezal extraíble y capacidad de la papelera 14 litros
+- También destruye grapas, tarjetas de crédito y clips
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B071FC9NL2/?tag=tolees-21)

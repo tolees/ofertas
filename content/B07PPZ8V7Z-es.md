@@ -27,14 +27,14 @@ Ahora mismo tienes [Solac CPB6100 Optima Center 3000 - Centro de planchado  3000
 
 🔎:
 
-- Supervapor electrónico: 400 g/min
-- 7 Bar de presión
-- Auto-apagado a los 7 minutos
-- Suela cerámica
-- Avisador acústico
-- Sistema de transporte y bloqueo
 - Electronic antical Calc & Clean: sistema electrónico de autolimpieza que prolonga la vida del centro de planchado
-- Capacidad de 1.5L
 - Dos caudales de vapor continuo: Eco y Máx
+- Auto-apagado a los 7 minutos
+- Capacidad de 1.5L
+- Supervapor electrónico: 400 g/min
+- Sistema de transporte y bloqueo
+- 7 Bar de presión
+- Avisador acústico
+- Suela cerámica
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PPZ8V7Z/?tag=tolees-21)

@@ -28,9 +28,9 @@ Ahora mismo tienes [TETI S DUCKS - Bandana Cuello Multifunción Pack DE 4 Bragas
 🔎:
 
 - CALIDAD VISUXX SUPERIOR A+++: Tejido de 140grs. FABRICADO EN ARGENTINA.
-- AMIGABLE CON EL MEDIO AMBIENTE: Impreso con tinta ANTIALERGICA, SIN SOLVENTES. Respetando y cumpliendo todas las meiddas medioambientales en el proceso de Producción.
-- MULTIFUNCIONAL: Más de 12 posiciones diferentes para conseguir un estilo personal. Versátil,se ve como un pañuelo tubular, pero puede tomar diferentes usos como máscara,pasamontañas, balaclava,cole, cintillo,muñequera,entre otros.
 - SUAVE AL TACTO CON LA PIEL: Transpirable,de secado rápido,muy suave,cómodo de usar,elástico,de ajuste perfecto. Fresco en verano,cálido en invierno.Tejido de microfibra que regula la humedad y la respirabilidad,protege del viento. Protección contra rayos UV. Tratamiento antibacteriano.
 - PARA USAR EN TODO MOMENTO: Ideal para la vida diaria y como protección para actividades físicas y deportes al aire libre, como motociclismo,pesca, kayak, montañismo, esquí, snowboard, running, ciclismo, trekking, equitacion.Atuendo llamativo para el fitness y el yoga. El mejor regalo para los amantes de los deportes al aire libre.
+- AMIGABLE CON EL MEDIO AMBIENTE: Impreso con tinta ANTIALERGICA, SIN SOLVENTES. Respetando y cumpliendo todas las meiddas medioambientales en el proceso de Producción.
+- MULTIFUNCIONAL: Más de 12 posiciones diferentes para conseguir un estilo personal. Versátil,se ve como un pañuelo tubular, pero puede tomar diferentes usos como máscara,pasamontañas, balaclava,cole, cintillo,muñequera,entre otros.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08HK7PQNX/?tag=tolees-21)

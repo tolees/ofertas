@@ -27,10 +27,10 @@ Ahora mismo tienes [TACKLIFE Juego de Llaves de Vaso de Impacto Profundo de 1/2 
 
 🔎:
 
-- ▲【Diseño Hexagonal】: Ha sido diseñado especialmente con 6 puntos para lograr un torque óptimo, fortaleciendo la fuerza de bloqueo y reduciendo el desgaste del perno, evitando así daños.
-- ▲【Estuche De Almacenamiento Personalizado】: Cuenta con un estuche personalizado de transporte, proporcionándole una gran comodidad y una organización sin igual.
-- ▲【Tamaños y Extensiones】: Este set cuenta con 15 llaves de vaso hexagonales de las medidas: 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24 mm. Cuenta con extensores de 1/2 ( 76, 127, 254mm)
 - ▲【Práctico y Profesional】: Las marcas de tamaño de alto contraste realizadas con láser son fáciles de leer, incluso con poca luz .
 - ▲【Material Usado】: Han sido construidos en acero al cromo vanadio forjado y tratado térmicamente con un acabado de fosfato negro resistente a la corrosión para hacerlo resistente a la oxidación.
+- ▲【Estuche De Almacenamiento Personalizado】: Cuenta con un estuche personalizado de transporte, proporcionándole una gran comodidad y una organización sin igual.
+- ▲【Tamaños y Extensiones】: Este set cuenta con 15 llaves de vaso hexagonales de las medidas: 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24 mm. Cuenta con extensores de 1/2 ( 76, 127, 254mm)
+- ▲【Diseño Hexagonal】: Ha sido diseñado especialmente con 6 puntos para lograr un torque óptimo, fortaleciendo la fuerza de bloqueo y reduciendo el desgaste del perno, evitando así daños.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DN4YVB2/?tag=tolees-21)

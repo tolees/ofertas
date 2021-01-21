@@ -28,9 +28,9 @@ En este momento está [Hell Warders](https://www.amazon.es/dp/B07TXC3YGN/?tag=to
 🔎:
 
 - Build Your Defences- Set up archers, knights, mages and catapults - choose their position, upgrade their abilities and create the strongest resistance possible.
-- Epic Encounters- Battle demonic monsters: from the small and numerous to the epic and towering. Every agent of Hell is out to stop you!
+- Class-Based Heroes- Select your class of hero strategically and take advantage of their unique weapons, skills & abilities.
 - 4 Player CO-OP- Combine forces with up to four players and battle the legions of evil! Hell Warders supports co-operative play with friends and online matchmaking.
 - Action RPG Meets Tower Defence- Control powerful heroes, unleash devastating abilities and deploy strategic defensive units in this brand new sub-genre title
-- Class-Based Heroes- Select your class of hero strategically and take advantage of their unique weapons, skills & abilities.
+- Epic Encounters- Battle demonic monsters: from the small and numerous to the epic and towering. Every agent of Hell is out to stop you!
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07TXC3YGN/?tag=tolees-21)

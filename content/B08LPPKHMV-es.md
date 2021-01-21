@@ -27,8 +27,8 @@ En este momento está [KARACTERMANIA Harry Potter Sword-Bolsa Portameriendas 3D 
 
 🔎:
 
-- Porta alimentos con cremallera.
 - Dimensiones: 20,5 x 26 x 10 cm.
+- Porta alimentos con cremallera.
 - Correa al hombro regulable de 120cm.
 - Diseño con relieve frontal.
 
