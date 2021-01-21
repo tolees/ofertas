@@ -27,9 +27,9 @@ Ahora mismo tienes [MÜHLE 31K256 - Brocha de afeitar  tamaño mediano  fibra pl
 
 🔎:
 
+- Brocha de afeitado mediana.
+- Talla M: 21 mm.
 - Fabricado en Alemania.
 - Cepillo de afeitado de fibra plateada (vegano) de Mühle.
-- Talla M: 21 mm.
-- Brocha de afeitado mediana.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B005AU2DGY/?tag=tolees-21)

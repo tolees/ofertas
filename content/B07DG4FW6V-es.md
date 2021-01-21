@@ -27,8 +27,8 @@ Está [Bufanda De Color Liso Unisex Para Hombre Y Mujer De Primavera Verano Y Ot
 
 ℹ️:
 
-- Varios colores a elegir.
 - Bufanda de color liso unisex.
 - Tamaño de 90*190cm.
+- Varios colores a elegir.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07DG4FW6V/?tag=tolees-21)

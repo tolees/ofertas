@@ -27,10 +27,10 @@ Tienes [Eichhorn-Gym-100017034 Gimnasio para bebé  diseño: Conejo  con funció
 
 ℹ️:
 
+- Juguete de ardilla – en el centro del desarrollo los niños se encuentran con sus necesidades. Favorece la sensación táctil y la sensorial. El juguete con su encantador diseño anima a agarrar
 - Fabricado en Alemania. El arco se fabrica en Alemania. Para la fabricación de la ardilla de madera de juguete, se utiliza exclusivamente madera procedente de silvicultura sostenible
-- Bonito conejo: la alegre cabeza de conejo anima a agarrar e invita a jugar y fomenta la coordinación ojo-mano. Como centro de este gimnasio para bebé destaca por sus grandes y coloridas orejas de peluche
 - Bueno para el sentido táctil: con las 3 superficies diferentes del anillo de silicona suave, el juguete de aprendizaje aporta variedad al teclas. El colorido material de silicona es agradable al tacto
 - 100% madera certificada FSC. Para la fabricación del trapecio de juego y los elementos de madera incluidos, como la cabeza de conejo, se utiliza exclusivamente madera de haya certificada. Número de licencia: FSC-C005308
-- Juguete de ardilla – en el centro del desarrollo los niños se encuentran con sus necesidades. Favorece la sensación táctil y la sensorial. El juguete con su encantador diseño anima a agarrar
+- Bonito conejo: la alegre cabeza de conejo anima a agarrar e invita a jugar y fomenta la coordinación ojo-mano. Como centro de este gimnasio para bebé destaca por sus grandes y coloridas orejas de peluche
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07ZJXZ5FF/?tag=tolees-21)

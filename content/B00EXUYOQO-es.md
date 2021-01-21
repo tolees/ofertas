@@ -27,9 +27,9 @@ Tienes [SUPER EGO SEH004700 - Compresor de 250 psi](https://www.amazon.es/dp/B00
 
 ℹ️:
 
+- Se carga el mechero del coche
 - Incluye varias reducciones
 - Pequeño y portátil
-- Se carga el mechero del coche
 - Permite inflar rápidamente neumáticos de coche, balones, otros artículos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00EXUYOQO/?tag=tolees-21)

@@ -29,7 +29,7 @@ Tienes [Simba 109309863 Masha y Michka Playset Ambulance - Juego de 2 Figuras de
 
 - Perfecta réplica de la ambulancia de la serie animada, podrás sumergirte fácilmente en el universo del oso y de la niña.
 - El juego contiene una ambulancia de 20 cm, 3 figuras articuladas (Masha y los lobos), 1 silla de ruedas, 1 racard, y otros accesorios: yeso mano, yeso de pierna, jeringa, termómetro, estetoscopio, caja de primeros auxilios, botellas de medicamentos, oxígeno, extintor y vejiga de hielo. Para cuidar de tus personajes favoritos
-- Encuentre la ambulancia del famoso dibujo animado Masha y Michka en este playset
 - A partir de 3 años.
+- Encuentre la ambulancia del famoso dibujo animado Masha y Michka en este playset
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07H43W9JW/?tag=tolees-21)

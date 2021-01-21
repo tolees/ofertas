@@ -27,9 +27,9 @@ En este momento está [Mars Gaming  Pack RGB de Teclado  Ratón  Auriculares y A
 
 🔎:
 
-- Alfombrilla: Esta alfombrilla cuenta con una superficie de matriz de tela avanzada especialmente diseñada para ratones ópticos y láser. Con una base de caucho natural de alta seguridad de agarre se garantiza el máximo confort.
 - Ratón: Su peso y sus 4 botones han sido específicamente pensados para gaming profesional, y su sensor óptico ofrece 2800DPI con cambio de alta velocidad on-the-fly.
-- Auriculares: Equipado con drivers de 40mm de neodimio y rendimiento Premium de graves, estos auriculares buscan ofrecer un sonido de alta calidad.
 - Teclado: Con tecnología gaming profesional y sistema anti ghosting, el teclado de membrana de este set está especialmente diseñado para jugar. Incluye teclas rojas pro-gaming y 10 teclas de función.
+- Alfombrilla: Esta alfombrilla cuenta con una superficie de matriz de tela avanzada especialmente diseñada para ratones ópticos y láser. Con una base de caucho natural de alta seguridad de agarre se garantiza el máximo confort.
+- Auriculares: Equipado con drivers de 40mm de neodimio y rendimiento Premium de graves, estos auriculares buscan ofrecer un sonido de alta calidad.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B076CXLX8X/?tag=tolees-21)

@@ -28,7 +28,7 @@ Ahora mismo tienes [Rubie s I-620640 - Disfraz de Cenicienta  talla L](https://w
 🔎:
 
 - Disfraz
-- Fairy diseño de princesas Disney
 - Diseño de La Cenicienta.
+- Fairy diseño de princesas Disney
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01CYG5ZA2/?tag=tolees-21)

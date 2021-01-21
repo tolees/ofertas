@@ -28,9 +28,9 @@ Ahora mismo tienes [Calendari de paret - 2021 somnis per complir i 365 dies per 
 🔎:
 
 - Papel offset 300 gr
-- Un calendario diferente con colgador de madera
-- Incluye 6 hojas con pegatinas Mr. Wonderful
 - Con hojas troqueladas en forma de punta y con punteado para poder arrancar cada mes.
+- Incluye 6 hojas con pegatinas Mr. Wonderful
 - Cordón para colgar tipo PU
+- Un calendario diferente con colgador de madera
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08H2DRGXF/?tag=tolees-21)

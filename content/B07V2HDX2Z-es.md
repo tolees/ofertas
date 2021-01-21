@@ -27,9 +27,9 @@ Ahora mismo tienes [Kipling NEW TSA LOCK Candado para equipaje  1 cm  Multicolor
 
 🔎:
 
+- Material: plástico y aleación
 - Se puede configurar con miles de combinaciones posibles
 - Ayuda a prevenir que las maletas se abran accidentalmente
 - Los responsables de seguridad pueden abrirlo sin necesidad de romper el candado
-- Material: plástico y aleación
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07V2HDX2Z/?tag=tolees-21)

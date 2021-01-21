@@ -27,8 +27,8 @@ En este momento está [PUMA ESS Logo tee T-Shirt  Mujer  Puma White  L](https://
 
 🔎:
 
-- Para uso diario o entrenamiento
 - Corte recto
+- Para uso diario o entrenamiento
 - Logotipo del felino de PUMA estampado
 - Cuello redondo acanalado
 

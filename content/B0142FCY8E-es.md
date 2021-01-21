@@ -28,7 +28,7 @@ En este momento está [Fantasy Flight Games- Star Wars X-Wing: Castigador Tie  E
 🔎:
 
 - Expansión
-- Expande y mejora tu copia de x-wing
 - Juego de cartas
+- Expande y mejora tu copia de x-wing
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0142FCY8E/?tag=tolees-21)
