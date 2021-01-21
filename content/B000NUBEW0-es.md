@@ -1,31 +1,36 @@
 ---
 layout: post
-title: 'Descuento del 30.15 % en XLC 2501810002 Pedal para BTT PD-M01'
-date: 2020-05-04 11:46:06
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51XzogaqHTL._SL200_.jpg'
+title: 'Descuento del 28.63 % en XLC 2501810002 Pedal para BTT PD-M01'
+date: 2021-01-21 10:24:20
+image: 'https://m.media-amazon.com/images/I/51XzogaqHTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B000NUBEW0-es XLC 2501810002 Pedal para BTT PD-M01'
 sku: 'B000NUBEW0-es'
 tags: [  ]
-actualPrice: 6.95 EUR
+actualPrice: 9.5 EUR
 currency: EUR
-price: 6.95
-comparePrice: 9.95 EUR
+price: 9.5
+comparePrice: 13.31 EUR
 prodname: 'XLC 2501810002 Pedal para BTT PD-M01'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000NUBEW0/?tag=tolees-21'
-descuento: '30.15'
-average: '6.95'
+descuento: '28.63'
+average: '8.65'
 ---
 
-Tienes [XLC 2501810002 Pedal para BTT PD-M01](https://www.amazon.es/dp/B000NUBEW0/?tag=tolees-21) con un 30.15 % de descuento con precio de oferta de 6.95 EUR (original: 9.95 EUR) en el siguiente enlace!
+Tienes [XLC 2501810002 Pedal para BTT PD-M01](https://www.amazon.es/dp/B000NUBEW0/?tag=tolees-21) con un 28.63 % de descuento con precio de oferta de 9.5 EUR (original: 13.31 EUR) en el siguiente enlace!
 
-[![XLC 2501810002 Pedal para BTT PD-M01](https://images-eu.ssl-images-amazon.com/images/I/51XzogaqHTL._SL200_.jpg)](https://www.amazon.es/dp/B000NUBEW0/?tag=tolees-21)
+[![XLC 2501810002 Pedal para BTT PD-M01](https://m.media-amazon.com/images/I/51XzogaqHTL._SL200_.jpg)](https://www.amazon.es/dp/B000NUBEW0/?tag=tolees-21)
 
 ℹ️:
 
+- Cuerpo de plástico
+- Con dos reflectores, en cumplimiento de las normas de tráfico
+- Los dientes de los bordes del pedal garantizan un mejor punto de apoyo
+- Eje de boro y rodamiento de bolas
+- Carcasa de aluminio
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000NUBEW0/?tag=tolees-21)

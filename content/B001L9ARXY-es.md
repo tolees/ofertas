@@ -28,8 +28,8 @@ Tienes [Babaria Aloe Vera - Gel exfoliante facial  150 ml](https://www.amazon.es
 🔎:
 
 - Babaria - Gel exfoliante facial con Aloe Vera , 150 ml
-- Para todo tipo de piel Formato: 150ml
 - Diseñado para tener la piel tersa y suave
 - Ingredientes respetuosos y de calidad Piel hidratada gracias a su alto contenido en Aloe Vera
+- Para todo tipo de piel Formato: 150ml
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B001L9ARXY/?tag=tolees-21)

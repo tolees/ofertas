@@ -27,10 +27,10 @@ Ahora mismo tienes [New Balance 373 Core  Zapatillas Hombre  Gris  Grey   36 EU]
 
 🔎:
 
-- Material exterior: material sintético
-- Estilo: zapatillas de running
-- Material de la suela: goma
 - Material interior: tela
+- Material de la suela: goma
+- Estilo: zapatillas de running
 - Cierre: cordones
+- Material exterior: material sintético
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07BWK7JZH/?tag=tolees-21)

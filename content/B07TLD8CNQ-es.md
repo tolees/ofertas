@@ -28,9 +28,9 @@ En este momento está [1mii Bluetooth USB PC](https://www.amazon.es/dp/B07TLD8CN
 🔎:
 
 - Enchufar y usar: Plug and Play para Windows 10 / 8.1 / 8.★★ No instalar controlador Bluetooth para Win 10
-- Mayor alcance: adaptador Bluetooth mejorado 1Mii B04 con alcance máximo de hasta 20 m de línea de visión sin ninguna interferencia ni obstrucción.
-- 【Soporte de por vida】Todos los productos 1Mii con 30 días sin complicaciones de reembolso o reemplazo, garantía de 24 meses después de la venta, soporte al cliente de por vida.
 - Múltiples usos: el dongle Bluetooth 1Mii B04 se conecta con teclados y mouse Bluetooth (no dispositivos de 2,4 G), impresoras, proyectores, controlador PS4/Xbox y otros dispositivos BLE (Bluetooth de baja energía). Para los controladores, puede que necesites instalar controladores específicos para diferentes juegos / software para configurar los ajustes de los botones. No es compatible con consolas Nintendo, Mac, TV, coche.
+- Mayor alcance: adaptador Bluetooth mejorado 1Mii B04 con alcance máximo de hasta 20 m de línea de visión sin ninguna interferencia ni obstrucción.
 - 【Conductor gratuito】Este adaptador USB Bluetooth también es compatible con Win7/XP / Vista (controlador necesario para Win7/XP/Vista y se puede descargar desde el enlace de abajo de forma gratuita).
+- 【Soporte de por vida】Todos los productos 1Mii con 30 días sin complicaciones de reembolso o reemplazo, garantía de 24 meses después de la venta, soporte al cliente de por vida.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07TLD8CNQ/?tag=tolees-21)

@@ -1,26 +1,27 @@
 ---
 layout: post
-title: 'Krups KP100B Cafetera Dolce Gusto cápsul con un 34.44 % de descuento'
-date: 2021-01-20 08:56:35
+title: 'Krups KP100B Cafetera Dolce Gusto cápsul con un 34.55 % de descuento'
+date: 2021-01-21 10:06:45
 image: 'https://m.media-amazon.com/images/I/41+IGeJAVJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B00J99F8KU-es Krups KP100B Cafetera Dolce Gusto cápsulas monodosis 15...'
+sku: 'B00J99F8KU-es'
 tags: [  ]
-actualPrice: 59.0 EUR
+actualPrice: 58.9 EUR
 currency: EUR
-price: 59.0
+price: 58.9
 comparePrice: 89.99 EUR
 prodname: 'Krups KP100B Cafetera Dolce Gusto cápsulas  monodosis  15 bares presión  cafés  cappuccino  multibebida  1500 W  0.6 litros  antracita'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00J99F8KU/?tag=tolees-21'
-descuento: '34.44'
-average: '45.7991935483871'
+descuento: '34.55'
+average: '46.208593750000006'
 ---
 
-En este momento está [Krups KP100B Cafetera Dolce Gusto cápsulas  monodosis  15 bares presión  cafés  cappuccino  multibebida  1500 W  0.6 litros  antracita](https://www.amazon.es/dp/B00J99F8KU/?tag=tolees-21) a 59.0 EUR (original: 89.99 EUR) (34.44 %  de descuento) en el siguiente enlace!
+En este momento está [Krups KP100B Cafetera Dolce Gusto cápsulas  monodosis  15 bares presión  cafés  cappuccino  multibebida  1500 W  0.6 litros  antracita](https://www.amazon.es/dp/B00J99F8KU/?tag=tolees-21) a 58.9 EUR (original: 89.99 EUR) (34.55 %  de descuento) en el siguiente enlace!
 
 [![Krups KP100B Cafetera Dolce Gusto cápsul](https://m.media-amazon.com/images/I/41+IGeJAVJL._SL200_.jpg)](https://www.amazon.es/dp/B00J99F8KU/?tag=tolees-21)
 
