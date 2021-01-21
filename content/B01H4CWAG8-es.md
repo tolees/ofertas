@@ -27,8 +27,8 @@ En este momento está [PUMA Tazon 6 FM  Zapatillas de Cross Hombre  Blanco  Whit
 
 🔎:
 
-- adulto
 - Textile, Synthetic
+- adulto
 - White
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01H4CWAG8/?tag=tolees-21)

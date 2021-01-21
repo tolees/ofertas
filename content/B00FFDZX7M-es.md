@@ -27,10 +27,10 @@ Ahora mismo tienes [InterDesign Linea Estantería de baño para colgar  estante 
 
 🔎:
 
-- Esta repisa para baño es perfecta para botes de diferentes tamaños de gel, champú, etc., ya que las cestas de almacenaje se pueden mover en horizontal.
 - El gel de ducha y el champú estarán accesibles en las dos amplias cestas de alambre. La cesta de rejilla inferior es ideal para utilizarla como jabonera.
 - Esta estantería para ducha se instala sin taladro. Simplemente, se cuelga de la mampara de ducha o del perfil de la puerta mediante los dos ganchos.
-- El estante para colgar mide 53,8 cm x 26,4 cm x 16,5 cm. Se adapta a cualquier puerta o ducha y ofrece espacio para muchos accesorios de baño.
 - Realizada en metal con un revestimiento inoxidable Thermobond, esta estantería de ducha ha sido pensada para poder utilizarse durante mucho tiempo.
+- Esta repisa para baño es perfecta para botes de diferentes tamaños de gel, champú, etc., ya que las cestas de almacenaje se pueden mover en horizontal.
+- El estante para colgar mide 53,8 cm x 26,4 cm x 16,5 cm. Se adapta a cualquier puerta o ducha y ofrece espacio para muchos accesorios de baño.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00FFDZX7M/?tag=tolees-21)

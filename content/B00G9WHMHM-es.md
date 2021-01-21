@@ -27,10 +27,10 @@ Tienes [Kingston DataTraveler G4 DTIG4/128 GB - Memoria USB  128 GB  Verde/Blanc
 
 🔎:
 
-- Disponible en colores múltiples según capacidad
 - Personalizable con su logotipo y, o archivos digitales
 - Práctico capuchón para proteger conector USB y sus datos
-- Enganche grande y colorido para unirla fácilmente al llavero
 - Dispositivos compatibles: 4-pin USB 3.0 Flash Drive
+- Enganche grande y colorido para unirla fácilmente al llavero
+- Disponible en colores múltiples según capacidad
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00G9WHMHM/?tag=tolees-21)
