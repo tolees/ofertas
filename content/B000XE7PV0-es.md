@@ -28,8 +28,8 @@ Tienes [Dolce & Gabana Light Blue Eau de Toilette para mujeres - 100 ml](https:/
 ℹ️:
 
 - Botella de 100 ml
-- Un perfume irresistible
-- Dolce & Gabbana Light Blue Eau De Toilette 100ml Vaporizador
 - Eau de Toilette
+- Dolce & Gabbana Light Blue Eau De Toilette 100ml Vaporizador
+- Un perfume irresistible
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000XE7PV0/?tag=tolees-21)

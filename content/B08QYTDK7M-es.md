@@ -29,8 +29,8 @@ Ahora mismo tienes [Disco Duro Externo 2 TB USB 3.0 Disco Duro Externo 2.5" Ultr
 
 - El paquete incluye: 1 x disco duro portátil, 1 x cable USB3.0, 1 x manual del usuario, 2 años de garantía del fabricante.
 - Robusta con exterior de aluminio y marco interno que puede proteger perfectamente el disco duro y mantiene el disco funcionando fresco y silencioso.
-- Plug and Play - Es alimentado por USB, Sin software para instalar, solo conéctelo y listo.
-- Transferencia de datos ultrarrápida - Funciona con USB 3.0 y USB 2.0 para ofrecer velocidades de transferencia ultrarrápidas.
 - 2020 Nueva Versión Disco Duro Externo Compatibilidad del sistema - Windows / Linux / Android OS.
+- Transferencia de datos ultrarrápida - Funciona con USB 3.0 y USB 2.0 para ofrecer velocidades de transferencia ultrarrápidas.
+- Plug and Play - Es alimentado por USB, Sin software para instalar, solo conéctelo y listo.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08QYTDK7M/?tag=tolees-21)

@@ -27,10 +27,10 @@ Tienes [Goal Zero 32012 Luz USB  Unisex-Adult  Transparente  125 x 125 x 15 mm](
 
 🔎:
 
-- Batería lithium polymer 1,85wh (3.7v, 500mah)
-- Luz fácilmente plegable, compacta y ligera; luz modulable de 60 lumen
-- Linterna plegable con panel solar integrado; carga mediante puerto USB
 - 125 x 125 x 100 mm (abierta) 125 x 125 x 15 mm (plegada); peso 91 g
+- Luz fácilmente plegable, compacta y ligera; luz modulable de 60 lumen
+- Batería lithium polymer 1,85wh (3.7v, 500mah)
+- Linterna plegable con panel solar integrado; carga mediante puerto USB
 - Duracion: 35 horas (Baja potencia), 3 horas (Alta potencia). 60 Lumens
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07HW4H59N/?tag=tolees-21)

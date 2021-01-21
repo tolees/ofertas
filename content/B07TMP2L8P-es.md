@@ -27,8 +27,8 @@ En este momento está [Killer Queen Black](https://www.amazon.es/dp/B07TMP2L8P/?
 
 🔎:
 
-- Esta edición viene equipada con los exclusivos skins temáticos de Killer Queen black para los mandos de switch
 - Killer Queen Black, es la nueva versión del fenómeno de los eSports de arcade Killer Queen; el juego se ha reconstruido desde cero y ha sido optimizado para consolas; la jugabilidad es inmediatamente reconocible y familiar, sin embargo, presenta nuevos emocionantes giros y el juego en línea para el público en casa; el juego contará con "juego cruzado" en las tres plataformas anunciadas (Switch, Steam y Xbox)
+- Esta edición viene equipada con los exclusivos skins temáticos de Killer Queen black para los mandos de switch
 - Killer Queen Black, es la nueva versión del fenómeno de los eSports de arcade Killer Queen; el juego se ha reconstruido desde cero y ha sido optimizado para consolas; la jugabilidad es inmediatamente reconocible y familiar, sin embargo, presenta nuevos emocionantes giros y el juego en línea para el público en casa; el juego contará con "juego cruzado" en las tres plataformas anunciadas (Switch, Steam y Xbox)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07TMP2L8P/?tag=tolees-21)
