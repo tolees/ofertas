@@ -27,8 +27,8 @@ Tienes [Rimmel London 60 Seconds Super Shine #708-Kiss in The Nude - 1 unidad](h
 
 🔎:
 
+- Esmalte de uñas Manicura y pedicura
 - Diseños para uñas RIMMEL
 - Rimmel u@as laca 60 seconds cb 708 (3614228081184)
-- Esmalte de uñas Manicura y pedicura
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07P3N69TW/?tag=tolees-21)

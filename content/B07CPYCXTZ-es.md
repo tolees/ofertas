@@ -27,8 +27,8 @@ Ahora mismo tienes [Joma Academy Chandal Caballero  Hombres  Verde/Negro  M](htt
 
 🔎:
 
-- Chándales
 - Resto textil
+- Chándales
 - Academy verde-negro
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07CPYCXTZ/?tag=tolees-21)

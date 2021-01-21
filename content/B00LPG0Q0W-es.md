@@ -27,9 +27,9 @@ Tienes [Braun Minipimer 5 MQ 5000 Soup - Batidora de mano  750 w potencia  21 ve
 
 ℹ️:
 
-- Vaso medidor 600 ml de capacidad
-- Fácil desmontaje
 - 21 velocidades variables
+- Fácil desmontaje
+- Vaso medidor 600 ml de capacidad
 - 750 W de potencia
 - Campana anti-salpicaduras acero inoxidable
 
