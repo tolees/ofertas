@@ -28,8 +28,8 @@ Está [Remington IPL6780 i-Light - Depiladora de Luz Pulsada  Depiladora IPL con
 ℹ️:
 
 - Resultados permanentes en sólo 3 tratamientos
-- Totalmente seguro: clínicamente probado, aprobado por la FDA y recomendado por dermatólogos
 - Modo de disparo manual para zonas pequeñas y automático para zonas más amplias; posee un sensor de piel integrado y sensores de contacto cutáneo integrados
+- Totalmente seguro: clínicamente probado, aprobado por la FDA y recomendado por dermatólogos
 - Accesorio corporal tanto para mujeres, como hombres; accesorio facial sólo apto para mujeres
 - Incluye dos lámparas de cuarzo de 300.000 disparos en total y 5 ajustes de energía: 7-8 J/cm²; tamaño de la pantalla corporal es de 3 cm², y pantalla facial de 2 cm²
 

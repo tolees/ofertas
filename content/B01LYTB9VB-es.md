@@ -27,8 +27,8 @@ Tienes [Grupo Erik Editores  S.L. - Póster mapa europa-e grupo erik](https://ww
 
 🔎:
 
-- Diseño con licencia 100% oficial 
-- Se envía enrollado
 - Impreso en papel cauché de 150 gr 
+- Se envía enrollado
+- Diseño con licencia 100% oficial 
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01LYTB9VB/?tag=tolees-21)

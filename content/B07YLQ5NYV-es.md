@@ -27,9 +27,9 @@ Tienes [Nike Court Borough Low 2  Sneaker Baby-Boys  White White White  25 EU](h
 
 ℹ️:
 
-- Suave de Llevar
-- Cordones de Zapatos
-- Importado
 - De la marca Nike
+- Suave de Llevar
+- Importado
+- Cordones de Zapatos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07YLQ5NYV/?tag=tolees-21)

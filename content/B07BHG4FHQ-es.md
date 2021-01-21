@@ -27,10 +27,10 @@ Tienes [Vermouth Padró & Co Rojo Amargo - 75 cl](https://www.amazon.es/dp/B07BH
 
 🔎:
 
-- En nariz se aprecia una entrada cítrica de piel de naranja madura, sutilmente mezclada con especia de canela.
-- Presentación premium en un estuche cilíndrico con estampaciones en cobre.
-- Boca aterciopelada y con volumen.
 - Aparecen notas balsámicas de clavo y también de frutos secos como la pasa de albaricoque.
+- Boca aterciopelada y con volumen.
 - Aparece de nuevo la naranja con una sensación muy fresca, seguida de un agradable amargo que recuerda a tabaco, a quina y a caramelo de miel.
+- Presentación premium en un estuche cilíndrico con estampaciones en cobre.
+- En nariz se aprecia una entrada cítrica de piel de naranja madura, sutilmente mezclada con especia de canela.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07BHG4FHQ/?tag=tolees-21)
