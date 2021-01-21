@@ -29,8 +29,8 @@ Ahora mismo tienes [D DOLITY 1 Unidad de Interfaz de Adaptador HDMI de Videojueg
 
 - Tipo: Conector de interfaz de socket de puerto HDMI.
 - Nuevo y de alta calidad.
-- El paquete incluye: Conector de interfaz de enchufe de puerto HDMI 1pcs.
 - Se necesita habilidad profesional para instalar, por favor, considere si puede hacerlo.
+- El paquete incluye: Conector de interfaz de enchufe de puerto HDMI 1pcs.
 - Compatible con Sony Playstation 3 PS3 CECH 2000 2500.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07H14L2HN/?tag=tolees-21)
