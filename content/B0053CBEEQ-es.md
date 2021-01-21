@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'Friends - Colección Completa [DVD] con un 40.55 % de descuento'
-date: 2021-01-13 05:01:23
+date: 2021-01-21 22:43:25
 image: 'https://m.media-amazon.com/images/I/51N994txTQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0053CBEEQ-es'
+slug: 'B0053CBEEQ-es Friends - Colección Completa [DVD]'
+sku: 'B0053CBEEQ-es'
+tags: [  ]
 actualPrice: 58.49 EUR
 currency: EUR
 price: 58.49
@@ -16,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0053CBEEQ/?tag=tolees-21'
 descuento: '40.55'
-average: '65.22470588235295'
+average: '64.51578947368421'
 ---
 
 En este momento está [Friends - Colección Completa [DVD]](https://www.amazon.es/dp/B0053CBEEQ/?tag=tolees-21) a 58.49 EUR (original: 98.39 EUR) (40.55 %  de descuento) en el siguiente enlace!
@@ -27,4 +29,4 @@ En este momento está [Friends - Colección Completa [DVD]](https://www.amazon.e
 
 - Precio mínimo ofrecido por este vendedor en los 30 días anteriores a la oferta: 62.99€
 
-[Aquí!!!](https://www.amazon.es/dp/B0053CBEEQ/?tag=tolees-21)
+[🛒 Aquí!!!](https://www.amazon.es/dp/B0053CBEEQ/?tag=tolees-21)

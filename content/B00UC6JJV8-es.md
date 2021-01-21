@@ -27,10 +27,10 @@ En este momento está [HOMCOM Cinta de Correr Plegable y Eléctrica de 500W para
 
 🔎:
 
-- ✅EJERCICIO EN CASA: Es una máquina excelente para tener en casa, ideal para fitness, para ejercitar todo el cuerpo y mantenerte en forma. Con velocidad ajustable de 1-10 km/h. Hecha de acero y superficie antideslizante
 - ✅PANTALLA LCD CON 3 PROGRAMAS: Esta cinta de correr cuenta con un monitor LCD para que puedas controlar parámetros cómo el tiempo, la velocidad, la distancia y las calorías quemadas. Cuenta con 3 programas de entrenamiento prestablecidos, para que tu ejercicio sea mucho más divertido y desafiante
 - ✅PARO DE EMERGENCIA: Gracias al sistema de emergencia, podrá realizar un ejercicio seguro sin pensar en caídas accidentales, pues en caso de que esto sucediera la máquina se pararía de inmediato
-- ✅MEDIDAS TOTALES: 122x62,5x119 cm (LxANxAL); Medidas plegadas: 62x62,5x119 cm (LxANxAL). Capacidad máxima de carga: 110 kg
 - ✅PORTÁTIL: Esta cinta de correr se puede plegar, ahorrando espacio cuando no esté en uso y facilitando su transporte, ideal para tener en casa o en la oficina
+- ✅MEDIDAS TOTALES: 122x62,5x119 cm (LxANxAL); Medidas plegadas: 62x62,5x119 cm (LxANxAL). Capacidad máxima de carga: 110 kg
+- ✅EJERCICIO EN CASA: Es una máquina excelente para tener en casa, ideal para fitness, para ejercitar todo el cuerpo y mantenerte en forma. Con velocidad ajustable de 1-10 km/h. Hecha de acero y superficie antideslizante
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00UC6JJV8/?tag=tolees-21)
