@@ -27,10 +27,10 @@ Tienes [BRIO Herramientas  Color Azul  3 a&ntildeos  34586 ](https://www.amazon.
 
 ℹ️:
 
-- Ejercita la motricidad fine
-- Apoya y estimula la motricidad global, como aprender a caminar y el control de equilibrio
 - Materiales de alta calidad
-- Producto probado y seguro para su bebé
+- Apoya y estimula la motricidad global, como aprender a caminar y el control de equilibrio
 - Desarrolla la capacidad narrativa y las habilidades sociales
+- Ejercita la motricidad fine
+- Producto probado y seguro para su bebé
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00IKBSAHG/?tag=tolees-21)

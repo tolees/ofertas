@@ -29,8 +29,8 @@ Tienes [MISS MOLY Blusas para Mujer Elegantes T Shirt Botones Laterales Blusa de
 
 - Ocasiones: perfecto para la primavera, el otoño o el invierno, fácil de combinar con jeans, pantalones cortos, leggings flacos para una apariencia decente.
 - Características: Botón, Cuello capucha, Color sólido, Manga larga， Manga de siete cuartos.
-- Por favor, consulte con cuidado nuestra tabla de tallas detalladas en la imagen de la izquierda antes de comprar.
 - El material es muy suave y cómodo.
+- Por favor, consulte con cuidado nuestra tabla de tallas detalladas en la imagen de la izquierda antes de comprar.
 - Estilo: casual, elegante,moda
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07HHR4MTH/?tag=tolees-21)
