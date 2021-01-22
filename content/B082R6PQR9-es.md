@@ -27,9 +27,9 @@ Tienes [NIKE Renew Lucent II  Sneaker Hombre  Black White  42 EU](https://www.am
 
 🔎:
 
-- Cordones de zapatos
 - Importado
-- Suave de llevar
 - Nombre de departamento: hombre
+- Cordones de zapatos
+- Suave de llevar
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B082R6PQR9/?tag=tolees-21)

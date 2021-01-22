@@ -28,7 +28,7 @@ Tienes [Salomon XA Pro 3D V8 W  Zapatillas De Trail Running Y Sanderismo Imperme
 🔎:
 
 - Salomon
-- Xa PRO 3D V8 GTX W
 - Color: Black/Black/Phantom
+- Xa PRO 3D V8 GTX W
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B081KGWR4H/?tag=tolees-21)

@@ -27,10 +27,10 @@ En este momento está [Briloner Leuchten - Lámpara de cama LED  lámpara de cam
 
 🔎:
 
+- Con 4 vatios (ahorro de energía), una salida de luz de 400 lúmenes y una temperatura de color de 3000
 - El brazo flexible (50 cm) le permite controlar la luz individualmente
 - Dimensiones del producto: 450x205 mm, base: 80 mm (diámetro), cabeza: 58 mm (diámetro)
 - La luz de cama led se puede encender fácilmente con el interruptor de encendido/ apagado e impresiona con una vida útil promedio de hasta 20 000 horas y un cable de 1800 mm
-- Con 4 vatios (ahorro de energía), una salida de luz de 400 lúmenes y una temperatura de color de 3000
 - Moderna lámpara de lectura led en negro, hecha de metal
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07WT38DS3/?tag=tolees-21)

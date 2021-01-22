@@ -27,9 +27,9 @@ Ahora mismo tienes [New Balance 411  Zapatillas de Running Hombre  Black  Black/
 
 🔎:
 
-- Material de la suela: Sintético
-- Cierre: Cordones
 - Revestimiento: Tela
 - Material exterior: Cuero sintético
+- Cierre: Cordones
+- Material de la suela: Sintético
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B079MJ7XZK/?tag=tolees-21)
