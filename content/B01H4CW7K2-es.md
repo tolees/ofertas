@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Tazon 6 FM  Zapatillas de Cross Hom al 26.36 % de descuento'
-date: 2021-01-21 00:34:07
+date: 2021-01-22 04:50:50
 image: 'https://m.media-amazon.com/images/I/4190TDvrE4L._SL200_.jpg'
 comments: true
 category: ofertas

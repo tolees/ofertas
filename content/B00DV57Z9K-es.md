@@ -27,9 +27,9 @@ Tienes [Superga 2750 COTU Classic  Zapatillas  Azul  Blue Shadow C57   35.5 EU](
 
 🔎:
 
+- Textil.
 - Cordones
 - lona.
-- Textil.
 - Caucho
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00DV57Z9K/?tag=tolees-21)
