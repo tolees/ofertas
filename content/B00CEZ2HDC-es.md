@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Dalwhinnie Whisky Escocés - 700 ml al 32.14 % de descuento'
-date: 2020-09-05 18:14:04
+title: 'Dalwhinnie Whisky Escocés - 700 ml al 38.74 % de descuento'
+date: 2021-01-22 20:46:39
 image: 'https://m.media-amazon.com/images/I/41tt19t2KuL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,23 +9,28 @@ author: ring
 slug: 'B00CEZ2HDC-es Dalwhinnie Whisky Escocés - 700 ml'
 sku: 'B00CEZ2HDC-es'
 tags: [  ]
-actualPrice: 42.5 EUR
+actualPrice: 38.37 EUR
 currency: EUR
-price: 42.5
+price: 38.37
 comparePrice: 62.63 EUR
 prodname: 'Dalwhinnie Whisky Escocés - 700 ml'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00CEZ2HDC/?tag=tolees-21'
-descuento: '32.14'
-average: '39.187999999999995'
+descuento: '38.74'
+average: '39.1274074074074'
 ---
 
-Ahora mismo tienes [Dalwhinnie Whisky Escocés - 700 ml](https://www.amazon.es/dp/B00CEZ2HDC/?tag=tolees-21) a 42.5 EUR (original: 62.63 EUR) (32.14 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Dalwhinnie Whisky Escocés - 700 ml](https://www.amazon.es/dp/B00CEZ2HDC/?tag=tolees-21) a 38.37 EUR (original: 62.63 EUR) (38.74 %  de descuento) en el siguiente enlace!
 
 [![Dalwhinnie Whisky Escocés - 700 ml](https://m.media-amazon.com/images/I/41tt19t2KuL._SL200_.jpg)](https://www.amazon.es/dp/B00CEZ2HDC/?tag=tolees-21)
 
 🔎:
 
+- El sabor limpio del brezo es adecuado para disfrutarlo solo o con un poco de agua sin gas
+- Ganador de la medalla de oro en la San Francisco World Spirits Competition de 2016
+- Dalwhinnie 15 Year Old es un whisky puro de malta de las Tierras Altas que procede de la destilería escocesa más fría y situada a más altitud
+- El regalo ideal para iniciarse en el mundo de Dalwhinnie y los whiskies puros de malta
+- Envejecido en la destilería escocesa más fría y situada a más altitud para liberar su carácter meloso y sus suaves notas de brezo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00CEZ2HDC/?tag=tolees-21)
