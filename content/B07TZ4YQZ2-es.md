@@ -27,10 +27,10 @@ Ahora mismo tienes [Potensic Mini Drone RC Helicopter Quadcopter para Niños y P
 
 🔎:
 
+- [Fácil de llevar]: tiene el ancho como iPhone 5, diseño único, pequeño y ligero, fácil de llevar, adecuado para llevar siempre en la palma de la mano. Y cubre 12 meses de garantía.
+- [Un botón de despegue / aterrizaje]: operación inteligente para los principiantes, puede usar estos botones directamente, el dron ascenderá automáticamente y mantendrá una cierta altitud / o descendirá aterrizar suavemente.
 - [Divirtiéndose por más tiempo]: 2 baterías desmontables y 3 niveles de velocidad ajustables brindan una experiencia de vuelo emocionante para aficionados y pilotos avanzados por igual, su tiempo de vuelo se prolonga hasta 12 minutos.
 - [Modo Sin cabeza]: no más confusión sobre la dirección, sobre todo para niños que son particularmente insensibles con respecto a las direcciones. Al activar el modo sin cabeza al inicio del vuelo, no es necesita distinguir la dirección de inicio del drone, y puede pilotar más fácilmente el dron.
-- [Fácil de llevar]: tiene el ancho como iPhone 5, diseño único, pequeño y ligero, fácil de llevar, adecuado para llevar siempre en la palma de la mano. Y cubre 12 meses de garantía.
 - [Mini drone]: a diferencia de otros mini drones solo para niños o principiantes, este drone también está diseñado para personas con experiencia de vuelo quien quieren divertirse con un pequeño dron.
-- [Un botón de despegue / aterrizaje]: operación inteligente para los principiantes, puede usar estos botones directamente, el dron ascenderá automáticamente y mantendrá una cierta altitud / o descendirá aterrizar suavemente.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TZ4YQZ2/?tag=tolees-21)
