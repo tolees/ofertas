@@ -27,8 +27,8 @@ Ahora mismo tienes [adidas Persistar Cmf Swimming Goggles  Unisex adulto  colleg
 
 🔎:
 
-- Adjustable closure
 - Wide Visibility
 - Uv protección
+- Adjustable closure
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DC3RQ57/?tag=tolees-21)

@@ -27,9 +27,9 @@ Tienes [Colágeno + Ácido Hialurónico + Coenzima Q10 + Vitaminas A  C  D y B12
 
 🔎:
 
-- COLÁGENO HIDROLIZADO: Combinado con ácido hialurónico, vitaminas A, C, D y B12, zinc y coenzima Q10, nuestro Colágeno Complex es un producto muy completo que ha sido producido bajo los más estrictos protocolos de calidad para disfrutar al máximo de sus beneficios.
-- PARA ARTICULACIONES, PIEL Y HUESOS: El colágeno contribuye al mantenimiento de la piel en condiciones normales, al funcionamiento normal del sistema inmunitario y al mantenimiento de los músculos y huesos en condiciones normales, así como a disminuir el cansancio y la fatiga.
-- CALIDAD NUTRALIE: Presentado en 60 cápsulas, nuestro Colágeno ha sido elaborado bajo un proceso controlado y certificado bajo los más estrictos protocolos de calidad, desde el origen hasta el producto final.
 - MÁXIMA ABSORCIÓN: Creado para que nuestro cuerpo pueda aprovechar al máximo este componente. El colágeno hidrolizado garantiza la máxima absorción en el organismo, y al combinarse con la vitamina C, contribuye a la formación normal de colágeno en nuestro cuerpo.
+- PARA ARTICULACIONES, PIEL Y HUESOS: El colágeno contribuye al mantenimiento de la piel en condiciones normales, al funcionamiento normal del sistema inmunitario y al mantenimiento de los músculos y huesos en condiciones normales, así como a disminuir el cansancio y la fatiga.
+- COLÁGENO HIDROLIZADO: Combinado con ácido hialurónico, vitaminas A, C, D y B12, zinc y coenzima Q10, nuestro Colágeno Complex es un producto muy completo que ha sido producido bajo los más estrictos protocolos de calidad para disfrutar al máximo de sus beneficios.
+- CALIDAD NUTRALIE: Presentado en 60 cápsulas, nuestro Colágeno ha sido elaborado bajo un proceso controlado y certificado bajo los más estrictos protocolos de calidad, desde el origen hasta el producto final.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07NNV9ZNP/?tag=tolees-21)

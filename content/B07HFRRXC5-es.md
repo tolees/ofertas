@@ -27,9 +27,9 @@ Tienes [Calvin Klein Reloj Analógico para Hombre de Automático con Correa en C
 
 ℹ️:
 
-- Diámetro de la caja: 42 mm
-- Material de la correa: piel marrón, con aspecto de cocodrilo
 - Color de la esfera: plateado con manecillas luminiscentes. Tipo de esfera: mineral
+- Material de la correa: piel marrón, con aspecto de cocodrilo
+- Diámetro de la caja: 42 mm
 - Material de la caja: acero inoxidable y oro
 - Sumergible: 5 bares
 

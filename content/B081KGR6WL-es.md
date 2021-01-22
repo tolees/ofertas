@@ -27,8 +27,8 @@ Está [Salomon XA Pro 3D V8 W  Zapatillas De Trail Running Y Sanderismo Impermea
 
 ℹ️:
 
-- Color: Black/Phantom/Ebony
-- Xa PRO 3D V8 W
 - Salomon
+- Xa PRO 3D V8 W
+- Color: Black/Phantom/Ebony
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B081KGR6WL/?tag=tolees-21)
