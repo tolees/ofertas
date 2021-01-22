@@ -27,9 +27,9 @@ En este momento está [Garza Power 420034 - Base múltiple Top de 6 tomas Schuko
 
 🔎:
 
-- Con cable 1.5mm x 1.5m de largo
+- Base múltiple top de 6 tomas schuko con interruptores independientes
 - Con protección de sobretensiones y protección infantil
 - Color blanco
-- Base múltiple top de 6 tomas schuko con interruptores independientes
+- Con cable 1.5mm x 1.5m de largo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078KSJZNJ/?tag=tolees-21)

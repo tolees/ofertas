@@ -27,8 +27,8 @@ Está [Lacoste  Agua de tocador para hombres - 100 ml  99240002413 ](https://www
 
 ℹ️:
 
+- Beauty products
 - Mens - Perfumes - Eau de Toilette
 - Products by Lacoste
-- Beauty products
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01NBIDU61/?tag=tolees-21)

@@ -27,10 +27,10 @@ Ahora mismo tienes [Uncharted The Lost Legacy Hits](https://www.amazon.es/dp/B07
 
 🔎:
 
-- Presenta el regreso de Chloe Frazer
+- Plataforma: PlayStation 4
 - Uncharted El legado perdido
+- Presenta el regreso de Chloe Frazer
 - Juego de aventura repleta de acción y peligro
 - Personajes con conocimientos sobre arqueología y una capacidad de improvisación
-- Plataforma: PlayStation 4
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YY2JZFF/?tag=tolees-21)

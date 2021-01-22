@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Eldrador Creatures con un 42.87 % de descuento'
-date: 2021-01-20 23:27:14
+date: 2021-01-22 15:54:43
 image: 'https://m.media-amazon.com/images/I/51p2HsxPT+L._SL200_.jpg'
 comments: true
 category: ofertas

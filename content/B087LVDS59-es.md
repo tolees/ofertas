@@ -28,9 +28,9 @@ Tienes [Oihxse Cristal Compatible con Xiaomi Mi 8 Funda Transparente TPU Silicon
 🔎:
 
 - 💐 Protección total todos los botones y esquinas están elevados, y los bordes levantados levantan la pantalla y la lente de la cámara de la superficie, lo que protege su ☆Xiaomi Mi 8☆ contra arañazos, daños, polvo y suciedad.
-- 💐 Nos comprometemos a llevar el estuche ★Xiaomi Mi 8★ de la mejor calidad a nuestro cliente, si no está satisfecho con nuestros productos, puede obtener devoluciones y devolución de dinero en un plazo de 1 meses.
 - 💐 Sugerencia de compra : Diseñado para ☆Xiaomi Mi 8☆. Por favor compruebe el modelo de su teléfono antes de la compra.
-- 💐 De diseño super elegante que hará de tu nuevo ☆Xiaomi Mi 8☆ un compañero inseparable y ademas le dará un toque de glamour.
 - 💐 La carcasa de TPU es especialmente elástica, suave y ligera resistente a los Golpes. Esquinas tienen bolsas de aire, pueden reforzar la protección del ☆Xiaomi Mi 8☆ cuando cae en el suelo, puede mitigar con eficacia caídas y otros daños.
+- 💐 Nos comprometemos a llevar el estuche ★Xiaomi Mi 8★ de la mejor calidad a nuestro cliente, si no está satisfecho con nuestros productos, puede obtener devoluciones y devolución de dinero en un plazo de 1 meses.
+- 💐 De diseño super elegante que hará de tu nuevo ☆Xiaomi Mi 8☆ un compañero inseparable y ademas le dará un toque de glamour.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B087LVDS59/?tag=tolees-21)

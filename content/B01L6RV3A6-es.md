@@ -28,7 +28,7 @@ Está [Lee Rider Contrast Jeans  Rinse  28W / 34L para Hombre](https://www.amazo
 ℹ️:
 
 - Estilo 5 bolsillos
-- Tienen un parche de piel en la parte trasera con la marca Lee
 - Vaqueros para hombre
+- Tienen un parche de piel en la parte trasera con la marca Lee
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01L6RV3A6/?tag=tolees-21)

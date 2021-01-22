@@ -27,11 +27,11 @@ Ahora mismo tienes [Art Mykonos  Sandalias con Punta Abierta Mujer  Marrón  Bro
 
 🔎:
 
-- Revestimiento: Sin forro
-- Cierre: Velcro
-- Tipo de tacón: Plano
 - Altura del tacón: 4 centímetros
-- Material de la suela: Goma
+- Tipo de tacón: Plano
+- Cierre: Velcro
+- Revestimiento: Sin forro
 - Material exterior: Cuero
+- Material de la suela: Goma
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07B6L7MBZ/?tag=tolees-21)

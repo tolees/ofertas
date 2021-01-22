@@ -27,8 +27,8 @@ En este momento está [American Gigolo  Blu-Ray+Dvd  [Italia] [Blu-ray]](https:/
 
 🔎:
 
-- DVD + Blu-Ray
 - Booklet
 - Magnete
+- DVD + Blu-Ray
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0833WYRYM/?tag=tolees-21)

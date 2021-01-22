@@ -27,10 +27,10 @@ Tienes [AUKEY Knight Ratón Gaming  Ratón Gaming con Cable  10000 dpi  RGB Pers
 
 🔎:
 
+- Efectos de Iluminación RGB: Retroiluminación personalizable en 3 zonas con RGB de 16,8 millones de colores y múltiples efectos de iluminación preestablecidos para adaptarse a su estilo
 - Sensor Óptico de 10000 DPI: El sensor óptico PMW3325 le brinda una alta sensibilidad para un control rápido y preciso. Configure y seleccione entre 4 perfiles DPI ajustables usando los botones DPI o el software del mouse
 - Contenido del Paquete: AUKEY GM-F4 Knight Ratón Gaming, Manual de usuario
-- Botón de Disparo: El botón de disparo esta colocado ergonómicamente y le dara la ventaja en el fragor de la batalla
-- Efectos de Iluminación RGB: Retroiluminación personalizable en 3 zonas con RGB de 16,8 millones de colores y múltiples efectos de iluminación preestablecidos para adaptarse a su estilo
 - 8 Botones Programables: El software de juegos te permitirá reasignar botones, crear y personalizar macros y más. Si necesita el software de juegos, comuníquese con nuestro servicio al cliente
+- Botón de Disparo: El botón de disparo esta colocado ergonómicamente y le dara la ventaja en el fragor de la batalla
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B086GVJ4FH/?tag=tolees-21)

@@ -27,9 +27,9 @@ Está [Nella Muñeca Canta y Habla  Multicolor  Bandai 11288 ](https://www.amazo
 
 ℹ️:
 
-- Su pelo es suave para que puedas divertirte haciendo miles de peinados
 - Traje de cabellero brillante
 - Cuerpo suave y blandito, cabeza de plástico
+- Su pelo es suave para que puedas divertirte haciendo miles de peinados
 - Muñeca de Nella de 30 cm
 - Incluye 10 frases y canción
 
