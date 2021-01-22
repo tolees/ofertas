@@ -28,8 +28,8 @@ Tienes [Suavipiel - Esponjas jabonosas desechables  Jabón dermo Aloe Vera y Cam
 ℹ️:
 
 - Producto específico para su uso en viajes, gimnasios, para su utilización en asistencia a enfermos en hogares, clínicas, geriátricos o para personas con movilidad reducida
-- Tamaño de cada esponja jabonosa de 12x20 cms y 1 cm de grosor extra.
 - Para usar las esponjas jabonosas sólo hay que humedecer ligeramente con agua con precaución de no sumergir en agua por completo la esponja.
+- Tamaño de cada esponja jabonosa de 12x20 cms y 1 cm de grosor extra.
 - Contenido 10 unidades
 - Caja con esponjas impregnadas en jabón dermatológico con Aloe vera y Camomila. Desechables y de un solo uso.
 

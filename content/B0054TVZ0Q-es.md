@@ -28,7 +28,7 @@ Tienes [Nike M TM Club19 SS - Polo  Hombre  Obsidian/White  M](https://www.amazo
 ℹ️:
 
 - Cierre de tres botones
-- Tela Nike Dry
 - Regular fit
+- Tela Nike Dry
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0054TVZ0Q/?tag=tolees-21)
