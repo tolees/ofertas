@@ -29,7 +29,7 @@ Ahora mismo tienes [adidas Stan Smith  Zapatillas de Gimnasia para Hombre  Blanc
 
 - Cordones.
 - Suela de goma antideslizante para un buen agarre.
-- Material exterior de piel.
 - Zapatillas clásicas de color blanco.
+- Material exterior de piel.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MWCQVV2/?tag=tolees-21)

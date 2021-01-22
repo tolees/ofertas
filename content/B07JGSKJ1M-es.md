@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JACK & JONES Jfwvision Classic Chambray  al 45.79 % de descuento'
-date: 2021-01-20 22:53:18
+date: 2021-01-22 10:22:14
 image: 'https://m.media-amazon.com/images/I/21z7p3zfmHL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JGSKJ1M/?tag=tolees-21'
 descuento: '45.79'
-average: '25.689999999999998'
+average: '25.256666666666668'
 ---
 
 Está [JACK & JONES Jfwvision Classic Chambray Anthraci Noos  Zapatillas para Hombre  Gris  Anthracite Anthracite   43 EU](https://www.amazon.es/dp/B07JGSKJ1M/?tag=tolees-21) con 45.79 de descuento por 24.39 EUR (original: 44.99 EUR) en el siguiente enlace!

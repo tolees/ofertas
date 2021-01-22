@@ -29,8 +29,8 @@ Ahora mismo tienes [L Oréal Paris Revitalift Láser Sérum Anti-Edad Triple Acc
 
 - Resultados: Calidad de la piel transformada, piel significativamente más lisa, arrugas reducidas y poros progresivamente afinados
 - Contenido: 1x LOréal Paris Revitalift Laser Sérum Anti-edad para una piel como nueva, 30 ml
-- Sérum facial anti-edad de triple acción: corrige las arrugas, restablece la textura de la piel y la alisa
 - Aplicación: Aplica unas gotas con las yemas de los dedos en toda la cara, Para ser usado por la mañana y por la noche solo o antes de su tratamiento con la crema de día Revitalift Laser
 - Fórmula enriquecida con ácido hialurónico y pro-xylane concentrado (3%) para reconstruir la epidermis y reestructurar la arquitectura de la piel
+- Sérum facial anti-edad de triple acción: corrige las arrugas, restablece la textura de la piel y la alisa
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00X9WDMT2/?tag=tolees-21)

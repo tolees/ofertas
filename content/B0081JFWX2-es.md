@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'Panama Jack Panama 03  Botas para Hombre al 40.00 % de descuento'
-date: 2021-01-04 09:07:13
+date: 2021-01-22 10:26:59
 image: 'https://m.media-amazon.com/images/I/41l3cYNHEkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0081JFWX2-es'
+slug: 'B0081JFWX2-es Panama Jack Panama 03 Botas para Hombre Marrón Bark 42 EU'
+sku: 'B0081JFWX2-es'
+tags: [  ]
 actualPrice: 101.4 EUR
 currency: EUR
 price: 101.4
@@ -25,6 +27,6 @@ Ahora mismo tienes [Panama Jack Panama 03  Botas para Hombre  Marrón  Bark   42
 
 🔎:
 
-- Fabricado en España
+- Zapatos
 
-[Visítala!!!](https://www.amazon.es/dp/B0081JFWX2/?tag=tolees-21)
+[🛒 Visítala!!!](https://www.amazon.es/dp/B0081JFWX2/?tag=tolees-21)

@@ -28,7 +28,7 @@ Ahora mismo tienes [Kipling Creativity S  Cartera para Mujer  Azul  Wave Blue   
 🔎:
 
 - Ligero, duradero y siempre práctico.
-- Repelente al agua.
 - Logotipo de Kipling.
+- Repelente al agua.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TTPDMBJ/?tag=tolees-21)
