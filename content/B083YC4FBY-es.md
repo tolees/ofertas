@@ -27,8 +27,8 @@ Tienes [Kipling Money Love  Wallets para Mujer  Dynamic Silver  2.5x9.5x12.5 cm 
 
 🔎:
 
+- Wallets.
 - femenino.
 - Classics.
-- Wallets.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B083YC4FBY/?tag=tolees-21)

@@ -27,10 +27,10 @@ Ahora mismo tienes [Mustang - Juego de 4 camisetas para hombre con estampado fro
 
 🔎:
 
-- Muy cómodo.
-- Camiseta para hombre con cuello redondo y estampado frontal de algodón. Excelente calidad y ajuste perfecto en la habitual calidad Mustang. Aquí como diferentes paquetes de 4 con diferentes diseños.
 - 100 % algodón.
-- Dimensiones: S - XXXL
 - Pack de 4 unidades con diferentes impresiones y colores.
+- Camiseta para hombre con cuello redondo y estampado frontal de algodón. Excelente calidad y ajuste perfecto en la habitual calidad Mustang. Aquí como diferentes paquetes de 4 con diferentes diseños.
+- Muy cómodo.
+- Dimensiones: S - XXXL
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SVBSMW2/?tag=tolees-21)

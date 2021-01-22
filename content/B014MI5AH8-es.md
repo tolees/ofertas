@@ -27,10 +27,10 @@ En este momento está [S R Sunrise - Manguera de ducha flexible  1 52 m  acero i
 
 🔎:
 
+- Conexiones: 1/2" DN15 (se puede utilizar con todos los accesorios estándar y cabezales de ducha). Incluye anillos de sellado.
+- Tubo interior de EPDM no tóxico, inodoro, alta resistencia a la presión.
+- 1,5 m de longitud.
 - Extremadamente fácil de limpiar gracias al acero inoxidable de alta calidad. El aspecto metálico le da a la manguera de ducha un aspecto elegante.
 - -
-- Tubo interior de EPDM no tóxico, inodoro, alta resistencia a la presión.
-- Conexiones: 1/2" DN15 (se puede utilizar con todos los accesorios estándar y cabezales de ducha). Incluye anillos de sellado.
-- 1,5 m de longitud.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B014MI5AH8/?tag=tolees-21)

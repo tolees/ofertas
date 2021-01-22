@@ -27,11 +27,11 @@ Ahora mismo tienes [K&N KN-132 Filro the Aceite Moto](https://www.amazon.es/dp/B
 
 🔎:
 
-- Resistente tapa inferior con doble rodillo sellado, donde corresponda
 - Tuerca solida de 17mm para un fácil desmontaje. Perforados por seguridad por un dispositivo de alambre, donde corresponda
-- En la sección "Detalles del producto" puede encontrar información sobre la compatibilidad del producto
-- Carcasa resistente a la explosión disponible en negro o cromada, donde corresponda
-- Específicamente diseñado para usarse con los actuales aceites sintéticos y semi-sintéticos. El plisado uniforme sintético proporciona una excelente filtración y altos ratios de flujo
 - Base sellada pre-lubricada, donde corresponda
+- Resistente tapa inferior con doble rodillo sellado, donde corresponda
+- Carcasa resistente a la explosión disponible en negro o cromada, donde corresponda
+- En la sección "Detalles del producto" puede encontrar información sobre la compatibilidad del producto
+- Específicamente diseñado para usarse con los actuales aceites sintéticos y semi-sintéticos. El plisado uniforme sintético proporciona una excelente filtración y altos ratios de flujo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B000E2ARHK/?tag=tolees-21)
