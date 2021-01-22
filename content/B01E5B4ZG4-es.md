@@ -28,9 +28,9 @@ Tienes [Laboratorios Babé - Pasta al Agua Pediátrica 100 ml  Protectora  Previ
 🔎:
 
 - Pasta al agua de textura no oclusiva , fácil de aplicar y retirar.
-- Especialmente indicada en caso de dermatitis del pañal.
 - Aplicar en cada cambio de pañal.
-- Ayuda a proteger la piel de sustancias irritantes.
 - Favorece la prevención de posibles irritaciones.
+- Especialmente indicada en caso de dermatitis del pañal.
+- Ayuda a proteger la piel de sustancias irritantes.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01E5B4ZG4/?tag=tolees-21)

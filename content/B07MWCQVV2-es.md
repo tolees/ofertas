@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'adidas Stan Smith  Zapatillas de Gimnasi al 62.04 % de descuento'
-date: 2021-01-18 15:58:48
+date: 2021-01-22 08:34:16
 image: 'https://m.media-amazon.com/images/I/31wf0FteVXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MWCQVV2-es'
+slug: 'B07MWCQVV2-es adidas Stan Smith Zapatillas de Gimnasia para Hombre...'
+sku: 'B07MWCQVV2-es'
+tags: [  ]
 actualPrice: 37.96 EUR
 currency: EUR
 price: 37.96
@@ -25,9 +27,9 @@ Ahora mismo tienes [adidas Stan Smith  Zapatillas de Gimnasia para Hombre  Blanc
 
 🔎:
 
-- Material exterior de piel.
-- Zapatillas clásicas de color blanco.
 - Suela de goma antideslizante para un buen agarre.
+- Zapatillas clásicas de color blanco.
 - Cordones.
+- Material exterior de piel.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MWCQVV2/?tag=tolees-21)

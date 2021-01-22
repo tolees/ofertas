@@ -28,8 +28,8 @@ Ahora mismo tienes [Tacens Anima AHD1 - Carcasa Disco Duro  SATA de 2.5"  USB 3.
 🔎:
 
 - Compatible con todos los discos duros SATA de 2.5″ (9.5 mm de altura). Dispone de soporte Hot-Swap
-- Esta carcasa USB 3.0 está fabricada con un elegante diseño de aluminio de alta calidad
 - Su instalación es muy sencilla y es compatible con Windows y Mac
+- Esta carcasa USB 3.0 está fabricada con un elegante diseño de aluminio de alta calidad
 - Transferencia de datos ultra rápida de 5 Gbps y tiene una capacidad de hasta 1 TB
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01JG2HM12/?tag=tolees-21)
