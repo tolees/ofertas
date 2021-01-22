@@ -27,10 +27,10 @@ En este momento está [RLSOCO Funda para SEGA Mega Drive Mini](https://www.amazo
 
 🔎:
 
-- 【Materiales verdes】: utilizando los materiales superiores para evitar que su dispositivo Mega Drive Mini genere un olor horrible, la cubierta exterior es la cubierta de EVA dura y duradera y el forro está lleno de terciopelo suave, que mantiene su consola de juegos bien protegida y organizada
 - 【Garantía de calidad total】: todos nuestros productos están utilizando materiales calificados, que roban la carcasa de EVA duradera de Shell certificada y duradera y resistente al agua. Garantía de un año con 100% de devolución de dinero o reemplazo completo ofrecido.
-- 【Buena compatibilidad】: este estuche se adapta bien a los mini juegos electrónicos SEGA Mega Drive Mini (solo el estuche, los juegos electrónicos y sus accesorios no están incluidos)
 - 【Viajes y almacenamiento en el hogar】: cuando salga, puede llevarlo fácilmente para encontrar a sus amigos en una competencia de juegos; cuando no lo usa, está disponible para el almacenamiento en el hogar y para detener el polvo y los daños.
+- 【Materiales verdes】: utilizando los materiales superiores para evitar que su dispositivo Mega Drive Mini genere un olor horrible, la cubierta exterior es la cubierta de EVA dura y duradera y el forro está lleno de terciopelo suave, que mantiene su consola de juegos bien protegida y organizada
+- 【Buena compatibilidad】: este estuche se adapta bien a los mini juegos electrónicos SEGA Mega Drive Mini (solo el estuche, los juegos electrónicos y sus accesorios no están incluidos)
 - 【Funda espaciosa y flexible】: viene con dos almohadillas adhesivas, le permite hacer bricolaje en los cuartos de almacenamiento y guardar los artículos que desea colocar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0811QRRM3/?tag=tolees-21)

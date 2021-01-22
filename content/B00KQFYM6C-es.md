@@ -27,9 +27,9 @@ Está [Control Nature XL Preservativos - Pack de 12 preservativos](https://www.a
 
 ℹ️:
 
-- Anchura nominal 57 mm
 - Latex de caucho natural
-- Mayor anchura y longitud
 - Lubricado
+- Mayor anchura y longitud
+- Anchura nominal 57 mm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00KQFYM6C/?tag=tolees-21)

@@ -28,9 +28,9 @@ Tienes [NANOCABLE 10.01.2302 - Cable 3A USB-C a USB-C  Uso Principal para movile
 🔎:
 
 - El cable ofrece hasta 3 amperios de carga, con lo cual se puede usar para cargar su dispositivo móvil, tablet, portátil etc.
-- Tipo de cable: C/M-C/M
-- Longitud: 2 m
 - El conector USB Type-C es más fácil de usar que los conectores USB de generación anterior. Su diseño reversible le permite conectar dispositivos con cualquiera de sus caras hacia arriba.
 - Velocidad de transferencia de datos de hasta 480 Mbps
+- Tipo de cable: C/M-C/M
+- Longitud: 2 m
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07374WRXN/?tag=tolees-21)

@@ -28,9 +28,9 @@ En este momento está [DC Shoes Pocket - T-Shirt for Men - T-Shirt - Männer - M
 🔎:
 
 - __Passform:__ komfortabler Regular Fit
-- __Stoff:__ leichter Jersey-Stoff aus Baumwolle und Polyester
-- Fischgrätenband am Nacken
 - __Hals:__ Rundhalsausschnitt
 - Brusttasche in passendem Stoff
+- __Stoff:__ leichter Jersey-Stoff aus Baumwolle und Polyester
+- Fischgrätenband am Nacken
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0895M3PXM/?tag=tolees-21)

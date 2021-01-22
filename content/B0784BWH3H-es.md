@@ -27,11 +27,11 @@ En este momento está [Trust Gaming GXT 1160 Vero - Webcam Full HD  1080 p  de 8
 
 🔎:
 
-- Práctico pedestal dotado de pinza integrada, ideal para pantallas de ordenadores portátiles y superficies planas
-- Conveniente micrófono incorporado, ideal para chats de vídeo
 - Webcam de alta definición con resolución de hasta 8 megapíxeles (3840 x 2160)
 - Perfecta para Skype, YouTube y streaming en línea
+- Conveniente micrófono incorporado, ideal para chats de vídeo
 - Balance de blancos automático: vídeo nítido en cualquier condición de luz. Enfoque fijo para una imagen clara y nítida
+- Práctico pedestal dotado de pinza integrada, ideal para pantallas de ordenadores portátiles y superficies planas
 - Tipo de conectividad: USB
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0784BWH3H/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Canadian Peak Sudadera DE Hombre Galapag al 30.00 % de descuento'
-date: 2021-01-21 10:10:45
+date: 2021-01-22 16:00:58
 image: 'https://m.media-amazon.com/images/I/41QHQNh5huL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -27,10 +27,10 @@ Está [Canadian Peak Sudadera DE Hombre Galapagos Negro M](https://www.amazon.es
 
 ℹ️:
 
+- Bolsillo canguro
+- Cuello con cremallera
+- Capucha
 - Bordados de la marca
 - Puños ajustables
-- Capucha
-- Cuello con cremallera
-- Bolsillo canguro
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07HY8HC1G/?tag=tolees-21)
