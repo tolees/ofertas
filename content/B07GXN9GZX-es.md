@@ -27,8 +27,8 @@ Tienes [adidas Falcon  Zapatillas de Running para Mujer  Cloud White/Cloud White
 
 🔎:
 
-- Cordones de zapatos
 - malla y parte superior de cuero sintético
+- Cordones de zapatos
 - Corte regular
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07GXN9GZX/?tag=tolees-21)

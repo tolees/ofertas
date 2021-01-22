@@ -27,10 +27,10 @@ Tienes [Lámpara Joker 3D coleccionable  DC Comics](https://www.amazon.es/dp/B07
 
 🔎:
 
-- Producto con licencia oficial de dc comics.
-- Perfecto para decorar y dar luz a su habitación, sala de juegos o de estudio
-- Un regalo ideal para los amantes de este peligroso y psicótico villano, como regalo de navidad, de cumpleaños
 - Alimentado por 2 pilas aaa, no incluidas
+- Un regalo ideal para los amantes de este peligroso y psicótico villano, como regalo de navidad, de cumpleaños
+- Perfecto para decorar y dar luz a su habitación, sala de juegos o de estudio
 - Dale vida a tus libros y películas con esta luz de mesa con la figura del joker
+- Producto con licencia oficial de dc comics.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07QYWFMG4/?tag=tolees-21)

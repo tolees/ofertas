@@ -27,9 +27,9 @@ Tienes [Superga 2750 COTU Classic Sneakers  Zapatillas Unisex Adulto  Green Aqua
 
 🔎:
 
+- Superga Tab en el lado y el talón.
 - Ojales grabados Superga
 - Algodón transpirable.
-- Superga Tab en el lado y el talón.
 - Suela de goma vulcanizada.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01MSMZ9AC/?tag=tolees-21)
