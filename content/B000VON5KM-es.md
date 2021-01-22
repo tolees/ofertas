@@ -27,8 +27,8 @@ Tienes [Tous EDT 90ml](https://www.amazon.es/dp/B000VON5KM/?tag=tolees-21) con u
 
 ℹ️:
 
-- Salida: hojas de casis, violeta, bergamota y coriandro.
 - Corazón: Jazmon blanco,, peonia amarilla, rosa y gardenia
 - Fondo: Musc blanco, cedro de marruecos e iris
+- Salida: hojas de casis, violeta, bergamota y coriandro.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000VON5KM/?tag=tolees-21)

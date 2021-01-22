@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'Columbia Powder Lite  Chaqueta  Hombre   al 51.05 % de descuento'
-date: 2021-01-18 05:25:29
+date: 2021-01-22 05:35:29
 image: 'https://m.media-amazon.com/images/I/419H-wlpmML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JCGZFJ1-es'
+slug: 'B07JCGZFJ1-es Columbia Powder Lite Chaqueta Hombre Rojo Red Lily Talla XL'
+sku: 'B07JCGZFJ1-es'
+tags: [  ]
 actualPrice: 48.95 EUR
 currency: EUR
 price: 48.95
@@ -16,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JCGZFJ1/?tag=tolees-21'
 descuento: '51.05'
-average: '48.39078947368423'
+average: '48.41875000000002'
 ---
 
 Está [Columbia Powder Lite  Chaqueta  Hombre  Rojo  Red Lily   Talla XL](https://www.amazon.es/dp/B07JCGZFJ1/?tag=tolees-21) con 51.05 de descuento por 48.95 EUR (original: 99.99 EUR) en el siguiente enlace!
