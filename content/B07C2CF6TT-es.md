@@ -27,7 +27,7 @@ Está [Jack & Jones Jjebasic Knit Crew Neck Noos suéter  Azul  Navy Blazer Deta
 
 ℹ️:
 
-- Jersey de Jack & Jones.
 - De algodón.
+- Jersey de Jack & Jones.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07C2CF6TT/?tag=tolees-21)

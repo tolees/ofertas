@@ -27,7 +27,7 @@ Está [Skechers Graceful-Get Connected  Zapatillas Mujer  Negro  BBK Black Mesh/
 
 ℹ️:
 
-- Peso ligero
 - Suela flexible
+- Peso ligero
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01M1CCVSO/?tag=tolees-21)

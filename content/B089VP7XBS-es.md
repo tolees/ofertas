@@ -29,8 +29,8 @@ Ahora mismo tienes [Taylor Swoden Sunny - Radiador de aceite de 11 elementos  25
 
 - 【Graduable】Dispone de 3 ajustes de potencia: 1000, 1500 o 2500 watios, que pueden activarse independientemente o simultáneamente. Graduar la temperatura mediante el termostato permite mantener la temperatura deseada.
 - 【Práctico】Solo un perno en forma de U, Traslade el radiador fácilmente gracias a sus 4 ruedas con giro de 360 grados . Cuando no esté en uso el cable se recoge en el hueco diseñado para ello.
-- 【Limpio & silencioso】El aceite de su interior se calienta a una temperatura constante de forma rápida y silenciosa con un bajo consumo, además no necesita ningún tipo de limpieza ni mantenimientos.
-- 【Wavy Design】Su diseño ondulado en los elementos permite una producción y dispersión más eficaz del calor, mejorando la circulación del mismo y permitiendo el calor en estancias de 9-15 m².
 - 【Seguro】Diseño de conmutación de seguridad, el radiador se apagará automáticamente si sufre una inclinación mayor de 45 grados, evitando preocupaciones por posibles caídas, también dispone de apagado automático por sobrecalentamiento.
+- 【Wavy Design】Su diseño ondulado en los elementos permite una producción y dispersión más eficaz del calor, mejorando la circulación del mismo y permitiendo el calor en estancias de 9-15 m².
+- 【Limpio & silencioso】El aceite de su interior se calienta a una temperatura constante de forma rápida y silenciosa con un bajo consumo, además no necesita ningún tipo de limpieza ni mantenimientos.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B089VP7XBS/?tag=tolees-21)

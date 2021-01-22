@@ -28,9 +28,9 @@ En este momento está [G-STAR RAW 3301 Straight Tapered Jeans  Lt Indigo Aged C0
 🔎:
 
 - Logotipo impreso sobre el bolsillo trasero
-- Cintura media
-- Corte recto en el muslo, dobladillo estrecho
 - Cierre de botones
+- Cintura media
 - Diseño de 5 bolsillos
+- Corte recto en el muslo, dobladillo estrecho
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07Z4B8MDN/?tag=tolees-21)

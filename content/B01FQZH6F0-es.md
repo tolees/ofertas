@@ -28,9 +28,9 @@ Tienes [Air Rebound 2.0  BIZAK 63103435    color/modelo surtido](https://www.ama
 ℹ️:
 
 - Bota, rebota, gira e increíbles acrobacias
-- Infla el neumático, tendrás acción y saltos increíbles para todos los lados
 - Tecnología 2.4 GHz
-- Funciona con 2 pilas AA
+- Infla el neumático, tendrás acción y saltos increíbles para todos los lados
 - Edad recomendada + 8 años
+- Funciona con 2 pilas AA
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01FQZH6F0/?tag=tolees-21)

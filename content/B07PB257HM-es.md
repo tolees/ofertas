@@ -27,13 +27,13 @@ Ahora mismo tienes [Fitbit Versa Lite - Reloj Deportivo inteligente Smartwatch  
 
 🔎:
 
-- GPS conectado a través de tu móvil para ver ritmo y distancia en tus entrenamientos
 - Aplicaciones, esferas de reloj y accesorios para personalizarlo a tu estilo
 - Batería que dura +4 días y +4 noches
-- Monitorización continua del ritmo cardiaco que te permite llevar un mayor control de las calorías quemadas
-- Notificaciones de llamadas, mensajes de texto, eventos del calendario y apps cuando el móvil está cerca
 - Pantalla táctil de alta resolución a todo color
-- Alcanza tus objetivos de forma física: monitoriza tus pasos, distancia, minutos de actividad
+- Notificaciones de llamadas, mensajes de texto, eventos del calendario y apps cuando el móvil está cerca
+- Monitorización continua del ritmo cardiaco que te permite llevar un mayor control de las calorías quemadas
 - Análisis de las fases del sueño ligero, profundo & REM y consejos útiles para descansar mejor
+- Alcanza tus objetivos de forma física: monitoriza tus pasos, distancia, minutos de actividad
+- GPS conectado a través de tu móvil para ver ritmo y distancia en tus entrenamientos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PB257HM/?tag=tolees-21)
