@@ -28,11 +28,11 @@ Tienes [New Balance Mujer 574v2 Core  Zapatillas Gris  Grey   41.5 EU](https://w
 🔎:
 
 - Anchura del zapato: Normal
-- Revestimiento: Tela
-- Material exterior: Cuero
-- Tipo de tacón: Plano
 - Material de la suela: Sintético
+- Material exterior: Cuero
 - Composición: Empeine de malla y ante
 - Cierre: Cordones
+- Tipo de tacón: Plano
+- Revestimiento: Tela
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B06XWSR284/?tag=tolees-21)

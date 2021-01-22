@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Just Dance 2021 SWITCH con un 36.43 % de descuento'
-date: 2021-01-20 19:13:27
+date: 2021-01-21 23:52:32
 image: 'https://m.media-amazon.com/images/I/51sUPVgtMDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B08H9JM8DK-es Just Dance 2021 SWITCH'
+sku: 'B08H9JM8DK-es'
 tags: [  ]
 actualPrice: 34.9 EUR
 currency: EUR
