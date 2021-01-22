@@ -28,9 +28,9 @@ Está [Canadian Peak Sudadera DE Mujer GYRELLE Negro 05](https://www.amazon.es/d
 ℹ️:
 
 - Bordados de la marca
-- Puños ajustables
-- Capucha
-- Bolsillo canguro
 - Cuello con cremallera
+- Bolsillo canguro
+- Capucha
+- Puños ajustables
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0831QLSKN/?tag=tolees-21)

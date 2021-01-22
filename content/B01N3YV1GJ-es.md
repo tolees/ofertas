@@ -27,10 +27,10 @@ Está [Playmobil-9100 Maletín Grande Cuidado de Caballos  Multicolor  única  9
 
 ℹ️:
 
-- Edad mínima recomendada: 4 años y más
 - Tiene un diseño multicolor
-- Adecuada para llevártelo y jugar donde quieras
-- Incluye 2 figuras, caballo y accesorios para su cuidado
 - Maletín para cuidado de caballos
+- Edad mínima recomendada: 4 años y más
+- Incluye 2 figuras, caballo y accesorios para su cuidado
+- Adecuada para llevártelo y jugar donde quieras
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01N3YV1GJ/?tag=tolees-21)

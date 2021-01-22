@@ -27,8 +27,8 @@ Ahora mismo tienes [adidas Galaxy 5  Running Shoe Mujer  Tactile Blue/Sky Tint/L
 
 🔎:
 
-- Cordones de zapatos
-- malla superior
 - Corte regular
+- malla superior
+- Cordones de zapatos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082SYLKNJ/?tag=tolees-21)

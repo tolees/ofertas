@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjebasic Knit Crew Neck Noo al 40.02 % de descuento'
-date: 2021-01-21 11:32:01
+date: 2021-01-22 17:27:33
 image: 'https://m.media-amazon.com/images/I/51FsS3uRfWL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C2CF6TT/?tag=tolees-21'
 descuento: '40.02'
-average: '14.9075'
+average: '14.9192857142858'
 ---
 
 Está [Jack & Jones Jjebasic Knit Crew Neck Noos suéter  Azul  Navy Blazer Detail: Twisted with Jet Stream   Large para Hombre](https://www.amazon.es/dp/B07C2CF6TT/?tag=tolees-21) con 40.02 de descuento por 14.99 EUR (original: 24.99 EUR) en el siguiente enlace!
