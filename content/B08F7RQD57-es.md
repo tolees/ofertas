@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'Cámara instantánea Fujifilm Instax mini  al 26.14 % de descuento'
-date: 2021-01-18 14:16:07
+date: 2021-01-22 14:22:21
 image: 'https://m.media-amazon.com/images/I/31YI-al+m0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08F7RQD57-es'
+slug: 'B08F7RQD57-es Cámara instantánea Fujifilm Instax mini 9 Rosa Claro +...'
+sku: 'B08F7RQD57-es'
+tags: [  ]
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99
@@ -16,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08F7RQD57/?tag=tolees-21'
 descuento: '26.14'
-average: '67.49'
+average: '66.65666666666667'
 ---
 
 Ahora mismo tienes [Cámara instantánea Fujifilm Instax mini 9 Rosa Claro + carga 10 fotos.](https://www.amazon.es/dp/B08F7RQD57/?tag=tolees-21) a 64.99 EUR (original: 87.99 EUR) (26.14 %  de descuento) en el siguiente enlace!
@@ -25,11 +27,11 @@ Ahora mismo tienes [Cámara instantánea Fujifilm Instax mini 9 Rosa Claro + car
 
 🔎:
 
-- Dispone de espejo para selfiis
-- Incluye correa de mano a juego y pegatina de regalo
 - Dial para ajuste de brillo
 - Calidad instax. Máxima calidad en fotografía instantánea
-- Con la lente macro podrás hacer fotos de cerca o selfis (35 cms)
+- Incluye correa de mano a juego y pegatina de regalo
 - Kit que contiene cámara instax mini 9 Rosa Claro + carga 10 fotos
+- Con la lente macro podrás hacer fotos de cerca o selfis (35 cms)
+- Dispone de espejo para selfiis
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08F7RQD57/?tag=tolees-21)

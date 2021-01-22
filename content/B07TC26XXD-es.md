@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'God of War 3 HITS al 60.38 % de descuento'
-date: 2021-01-06 20:22:12
+date: 2021-01-22 14:22:30
 image: 'https://m.media-amazon.com/images/I/514bK7MqIzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TC26XXD-es'
+slug: 'B07TC26XXD-es God of War 3 HITS'
+sku: 'B07TC26XXD-es'
+tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9
@@ -26,4 +28,4 @@ Está [God of War 3 HITS](https://www.amazon.es/dp/B07TC26XXD/?tag=tolees-21) co
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07TC26XXD/?tag=tolees-21)
+[🛒 Ver la oferta!!](https://www.amazon.es/dp/B07TC26XXD/?tag=tolees-21)

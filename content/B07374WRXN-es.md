@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'NANOCABLE 10.01.2302 - Cable 3A USB-C a  al 47.72 % de rebaja'
-date: 2021-01-11 04:00:59
+date: 2021-01-22 14:32:38
 image: 'https://m.media-amazon.com/images/I/41itkuZaUjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07374WRXN-es'
+slug: 'B07374WRXN-es NANOCABLE 10.01.2302 - Cable 3A USB-C a USB-C Uso...'
+sku: 'B07374WRXN-es'
+tags: [  ]
 actualPrice: 4.13 EUR
 currency: EUR
 price: 4.13
@@ -25,10 +27,10 @@ Tienes [NANOCABLE 10.01.2302 - Cable 3A USB-C a USB-C  Uso Principal para movile
 
 🔎:
 
+- El conector USB Type-C es más fácil de usar que los conectores USB de generación anterior. Su diseño reversible le permite conectar dispositivos con cualquiera de sus caras hacia arriba.
 - El cable ofrece hasta 3 amperios de carga, con lo cual se puede usar para cargar su dispositivo móvil, tablet, portátil etc.
 - Longitud: 2 m
 - Tipo de cable: C/M-C/M
 - Velocidad de transferencia de datos de hasta 480 Mbps
-- El conector USB Type-C es más fácil de usar que los conectores USB de generación anterior. Su diseño reversible le permite conectar dispositivos con cualquiera de sus caras hacia arriba.
 
-[Comprar!!!](https://www.amazon.es/dp/B07374WRXN/?tag=tolees-21)
+[🛒 Comprar!!!](https://www.amazon.es/dp/B07374WRXN/?tag=tolees-21)

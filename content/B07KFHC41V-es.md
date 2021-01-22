@@ -27,8 +27,8 @@ Está [G-STAR RAW Dunda Slim Polo S/s  grey htr 906  Small para Hombre](https://
 
 ℹ️:
 
-- Piqué con cuerpo
-- Bordado de G-Star RAW en el pecho
 - Cuello de polo y puños acanalados
+- Bordado de G-Star RAW en el pecho
+- Piqué con cuerpo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07KFHC41V/?tag=tolees-21)
