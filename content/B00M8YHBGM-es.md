@@ -29,8 +29,8 @@ En este momento está [Russell Hobbs Colours Plus 21391-56 - Tostadora  Ranura L
 
 - Dispone de regulador ajustable del nivel de tueste
 - Calientapanecillos
-- Tostador con capacidad para dos rebanadas y panes de mayor tamaño
 - Bandeja recogemigas extraíble
+- Tostador con capacidad para dos rebanadas y panes de mayor tamaño
 - Funciones de extra-elevación, descongelado y cancelación
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00M8YHBGM/?tag=tolees-21)

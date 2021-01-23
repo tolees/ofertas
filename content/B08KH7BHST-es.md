@@ -27,10 +27,10 @@ Ahora mismo tienes [Agenda pequeña clásica 2021 Semana vista - Sueños  logros
 
 🔎:
 
-- Medidas del producto: 12 x 17 x 1,9 cm​. Peso: 251 gr​ / Gramaje: 90 gr
-- 160 páginas con frases diarias motivacionales y 8 hojas de pegatinas. Cierre con goma elástica.
 - Planificador mensual, tablas de ahorro, horarios, calendarios y juegos y extras divertidísimos
+- 160 páginas con frases diarias motivacionales y 8 hojas de pegatinas. Cierre con goma elástica.
 - Agenda Clásica Pequeña Semana Vista 2021 encuadernación en espiral.
+- Medidas del producto: 12 x 17 x 1,9 cm​. Peso: 251 gr​ / Gramaje: 90 gr
 - Con páginas para anotar contactos y frases mensuales super divertidas.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08KH7BHST/?tag=tolees-21)

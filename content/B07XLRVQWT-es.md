@@ -27,9 +27,9 @@ Ahora mismo tienes [Suunto 5 Reloj Deportivo GPS Ligero y Compacto  Seguimiento 
 
 🔎:
 
-- Duración de la batería hasta 40 h, modo inteligente con aviso de carga, pantalla a color con 5 pulsadores de acción, monitor de sueño integrado, 2 aros de ajuste de distinto color
-- Muy ligero y resistente: reloj GPS multideporte para entrenamiento individual, modos de deporte integrados para natación (sumergible hasta 50 m), running y ciclismo, etc.
 - Utiliza la App Suunto para sincronizar con otras aplicaciones y comparar tus mejores marcas con tus amigos
+- Muy ligero y resistente: reloj GPS multideporte para entrenamiento individual, modos de deporte integrados para natación (sumergible hasta 50 m), running y ciclismo, etc.
+- Duración de la batería hasta 40 h, modo inteligente con aviso de carga, pantalla a color con 5 pulsadores de acción, monitor de sueño integrado, 2 aros de ajuste de distinto color
 - Gráfico en tiempo real del ritmo cardíaco desde la muñeca (incluso en reposo), gasto de calorías y podómetro, seguimiento y navegación GPS, monitor de actividad 24/7
 - Contenido: 1 x Suunto 5 reloj multideporte, incluye cable USB, peso: 35,8 g, Largo de correa: 23,5 cm, color: negro/acero, recambios de colores, SS050445000
 

@@ -27,10 +27,10 @@ Tienes [SanDisk Ultra Tarjeta de memoria microSDHC con adaptador SD  hasta 98 MB
 
 🔎:
 
+- Compatible con microSDHC y microSDXC que admiten dispositivos host
+- Incluye la nueva categoría A1: para un rendimiento más rápido de las aplicaciones
 - Recomendado para smartphones y tabletas con sistema operativo Android y cámaras MIL
 - Clase 10 para la grabación y reproducción de vídeos en calidad Full HD
-- Incluye la nueva categoría A1: para un rendimiento más rápido de las aplicaciones
-- Compatible con microSDHC y microSDXC que admiten dispositivos host
 - Velocidades de transferencia de hasta 98 MB/s
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B073K14CVB/?tag=tolees-21)

@@ -27,10 +27,10 @@ Ahora mismo tienes [JOBY GorillaPod 500 Action - Trípode Mini Flexible con Junt
 
 🔎:
 
-- Portátil: pesa menos de 3 onzas. Cuenta con patas plegables que hacen que sea superportátil y fácil de llevar en un bolsillo, bolso, bolso, mochila o punto y bolsa para cámara de disparo.
+- Flexible: agarre Envuelve el artículo. Ponte de pie. Se envuelve en un dispositivo seguro para objetos y coloca la cámara en cualquier ángulo para la mejor perspectiva.
 - Joby JB01516-BWW GorillaPod 500 Action - Negro / Carbón
+- Portátil: pesa menos de 3 onzas. Cuenta con patas plegables que hacen que sea superportátil y fácil de llevar en un bolsillo, bolso, bolso, mochila o punto y bolsa para cámara de disparo.
 - Duradero: más de 100 compuestos de plástico probados para identificar el mejor material para una sensación y fiabilidad óptimas.
 - Orientado a la acción: cuenta con un soporte integrado con junta de pin-clip y un tornillo de pulgar largo estilo GoPro para montar cámaras de acción como la GoPro Session, GoPro Hero 5 y cámaras de formato pequeño 360
-- Flexible: agarre Envuelve el artículo. Ponte de pie. Se envuelve en un dispositivo seguro para objetos y coloca la cámara en cualquier ángulo para la mejor perspectiva.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B075M92HDK/?tag=tolees-21)
