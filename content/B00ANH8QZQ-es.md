@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'Pinocho [DVD] con un 36.61 % de descuento'
-date: 2021-01-18 01:56:37
+date: 2021-01-23 03:57:42
 image: 'https://m.media-amazon.com/images/I/51lh1HuWReL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ANH8QZQ-es'
+slug: 'B00ANH8QZQ-es Pinocho [DVD]'
+sku: 'B00ANH8QZQ-es'
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99
@@ -16,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00ANH8QZQ/?tag=tolees-21'
 descuento: '36.61'
-average: '8.918026315789476'
+average: '8.94551282051282'
 ---
 
 En este momento está [Pinocho [DVD]](https://www.amazon.es/dp/B00ANH8QZQ/?tag=tolees-21) a 9.99 EUR (original: 15.76 EUR) (36.61 %  de descuento) en el siguiente enlace!

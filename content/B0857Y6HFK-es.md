@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pack Star Wars: The Skywalker Saga DVD   al 34.97 % de descuento'
-date: 2021-01-21 09:17:34
+date: 2021-01-23 03:52:33
 image: 'https://m.media-amazon.com/images/I/41Ue4nDTzgL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0857Y6HFK/?tag=tolees-21'
 descuento: '34.97'
-average: '58.478'
+average: '58.48'
 ---
 
 Está [Pack Star Wars: The Skywalker Saga DVD  9 películas ](https://www.amazon.es/dp/B0857Y6HFK/?tag=tolees-21) con 34.97 de descuento por 58.49 EUR (original: 89.95 EUR) en el siguiente enlace!

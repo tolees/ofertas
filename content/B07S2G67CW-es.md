@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Juego De Tronos Temporada 1-8 Colección  al 36.59 % de descuento'
-date: 2021-01-21 09:12:54
+date: 2021-01-23 03:52:36
 image: 'https://m.media-amazon.com/images/I/51ohU-frO5L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07S2G67CW/?tag=tolees-21'
 descuento: '36.59'
-average: '87.22955223880597'
+average: '87.1501449275363'
 ---
 
 Ahora mismo tienes [Juego De Tronos Temporada 1-8 Colección Completa [DVD]](https://www.amazon.es/dp/B07S2G67CW/?tag=tolees-21) a 84.49 EUR (original: 133.25 EUR) (36.59 %  de descuento) en el siguiente enlace!
