@@ -27,9 +27,9 @@ Tienes [Detroit Become Human - Collector S Edition](https://www.amazon.es/dp/B08
 
 ℹ️:
 
-- Figura Android Kara
-- Caja de exhibición CyberLife
 - Tarjeta de PVC Holografica
 - Set de pines
+- Caja de exhibición CyberLife
+- Figura Android Kara
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0895KSDGT/?tag=tolees-21)

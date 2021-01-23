@@ -27,8 +27,8 @@ Tienes [adidas Core18 Hoody Sudadera  Hombre  Bold Green  L](https://www.amazon.
 
 ℹ️:
 
-- Hood with lanyard
-- Regular fit
 - Kangaroo pocket
+- Regular fit
+- Hood with lanyard
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07XCQK795/?tag=tolees-21)

@@ -27,10 +27,10 @@ Tienes [adidas Entrada 18 JSY T-Shirt  Hombre  Yellow/White  910Y](https://www.a
 
 🔎:
 
-- Cuenta con mangas cortas
-- Camiseta de futbol para hombres
-- Con el cuello redondeado
-- Tiene un pequeño logotipo de Adidas impreso en el pecho
 - Esta hecha de 100% poliéster
+- Camiseta de futbol para hombres
+- Tiene un pequeño logotipo de Adidas impreso en el pecho
+- Cuenta con mangas cortas
+- Con el cuello redondeado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0779BYRXC/?tag=tolees-21)
