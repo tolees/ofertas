@@ -27,10 +27,10 @@ Ahora mismo tienes [Chicco Miinimo 3 - Silla de paseo ultra compacta y ligera  s
 
 🔎:
 
-- Respaldo reclinable en 4 posiciones
+- Silla ultra compacta y ligera
 - Capota parasol extensible
 - Plegado de libro con una sola mano
 - Fácil de transportar: Bandolera + bolsa/mochila incluida
-- Silla ultra compacta y ligera
+- Respaldo reclinable en 4 posiciones
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YLVCWZD/?tag=tolees-21)

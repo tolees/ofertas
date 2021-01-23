@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'Madal Bal Sal - 500 gr al 27.41 % de descuento'
-date: 2021-01-17 13:47:26
+date: 2021-01-23 15:53:48
 image: 'https://m.media-amazon.com/images/I/51-wGqSx0UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00V6AXPSC-es'
+slug: 'B00V6AXPSC-es Madal Bal Sal - 500 gr'
+sku: 'B00V6AXPSC-es'
+tags: [  ]
 actualPrice: 1.96 EUR
 currency: EUR
 price: 1.96
@@ -25,9 +27,9 @@ Está [Madal Bal Sal - 500 gr](https://www.amazon.es/dp/B00V6AXPSC/?tag=tolees-2
 
 ℹ️:
 
-- Seleccionada y elaborada a mano
-- No contiene antiapelmazantes. Ni contaminantes medioambientales
 - fácil de usar
 - Es una sal no refinada, sin blanquear
+- Seleccionada y elaborada a mano
+- No contiene antiapelmazantes. Ni contaminantes medioambientales
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00V6AXPSC/?tag=tolees-21)

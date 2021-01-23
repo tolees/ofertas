@@ -28,10 +28,10 @@ Tienes [Logitech G502 LIGHTSPEED Ratón Gaming Inalámbrico  Sensor HERO 16K  16
 🔎:
 
 - Once Botones y Botón Rueda Superrápido: Los botones principales ofrecen un sistema de tensión con resorte metálico para una actuación rápida y precisa y personalización de macros para cada juego
+- Peso Personalizable Ergonómico y Sistema de Colores: Personaliza el peso del ratón con las seis pesas incluidas, para optimizar la precisión de disparo y elija entre 16,8 millones de colores
 - Actualice a 25K DPI: aumente el DPI máximo a 25,600 para desbloquear el primer nivel de rendimiento submicrónico del mundo (disponible para todos los ratones con el sensor HERO 16K a través de una actualización de software de G HUB)
 - Tecnología Inalámbrica LIGHTSPEED: Los profesionales de eSports confían en el ecosistema de tecnologías inalámbricas USB LIGHTSPEED del ratón para gaming Logitech para un juego profesional
-- Diseño de Alto Rendimiento: La emblemática forma que rebasó los límites del ratón óptico para PC gaming ha evolucionado con una carcasa liviana y una estructura interna de endoesqueleto
 - Sensor HERO 16K: El sensor HERO ofrece un óptimo seguimiento de hasta 16.000 dpi y rendimiento con precisión de píxel sin suavizado, aceleración ni filtros
-- Peso Personalizable Ergonómico y Sistema de Colores: Personaliza el peso del ratón con las seis pesas incluidas, para optimizar la precisión de disparo y elija entre 16,8 millones de colores
+- Diseño de Alto Rendimiento: La emblemática forma que rebasó los límites del ratón óptico para PC gaming ha evolucionado con una carcasa liviana y una estructura interna de endoesqueleto
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07QKC4WWD/?tag=tolees-21)

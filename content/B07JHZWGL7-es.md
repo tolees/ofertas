@@ -27,9 +27,9 @@ Ahora mismo tienes [Habitdesign 016663L - Mueble de salón Moderno  modulos Come
 
 🔎:
 
-- Consta de material aglomerado de alta densidad recubierto por una melamina de larga durabilidad. Producto Certificado por la PEFC (Asociación Española para la Sostenibilidad Forestal), acabado en color Blanco Artik y Gris Cemento.
-- Este tipo de material tiene una superficie no porosa y muy resistente. Por lo tanto, es un mueble fácil y rápido de limpiar con un paño húmedo. Requiere montaje (incluye instrucciones y herrajes).
-- Las medidas generales del mueble de salón Alida son: 200 cm (ancho) x 43 cm (alto) 41 cm (fondo). Perfecto para cualquier estilo de tu morada, dando accesibilidad a objetos y libros de uso diario y/o decoración.
 - El comedor Alida se compone de tres piezas, formado por un módulo bajo TV de dos metros con almacenaje, un módulo colgante y una estantería exterior. Ideal para almacenar libros, accesorios y vajilla.
+- Este tipo de material tiene una superficie no porosa y muy resistente. Por lo tanto, es un mueble fácil y rápido de limpiar con un paño húmedo. Requiere montaje (incluye instrucciones y herrajes).
+- Consta de material aglomerado de alta densidad recubierto por una melamina de larga durabilidad. Producto Certificado por la PEFC (Asociación Española para la Sostenibilidad Forestal), acabado en color Blanco Artik y Gris Cemento.
+- Las medidas generales del mueble de salón Alida son: 200 cm (ancho) x 43 cm (alto) 41 cm (fondo). Perfecto para cualquier estilo de tu morada, dando accesibilidad a objetos y libros de uso diario y/o decoración.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JHZWGL7/?tag=tolees-21)
