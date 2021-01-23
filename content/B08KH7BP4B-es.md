@@ -27,10 +27,10 @@ Tienes [Mr. Wonderful Agenda clásica 2021 Semana vista - 2021 va a ir superbié
 
 🔎:
 
-- Medidas del producto: 17 x 22,1 x 2,6 cm​. Peso: 485 gr​ / Gramaje: 100 gr
-- 160 páginas con frases diarias motivacionales, blocs de notas adhesivas con formas y 8 hojas de pegatinas. Cierre con goma elástica.
-- Planificador mensual, tablas de ahorro, horarios, calendarios y juegos y extras divertidísimos
-- Agenda Clásica Grande Semana Vista 2021 con encuadernación en Espiral.
 - Separadores con pestaña para cada mes, bolsillo interior transparente y regla de plástico interior
+- Medidas del producto: 17 x 22,1 x 2,6 cm​. Peso: 485 gr​ / Gramaje: 100 gr
+- Agenda Clásica Grande Semana Vista 2021 con encuadernación en Espiral.
+- Planificador mensual, tablas de ahorro, horarios, calendarios y juegos y extras divertidísimos
+- 160 páginas con frases diarias motivacionales, blocs de notas adhesivas con formas y 8 hojas de pegatinas. Cierre con goma elástica.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08KH7BP4B/?tag=tolees-21)

@@ -27,7 +27,7 @@ En este momento está [Skechers Graceful-Get Connected  Zapatillas Mujer  Multic
 
 🔎:
 
-- Peso ligero.
 - Suela flexible.
+- Peso ligero.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B076Q13FTZ/?tag=tolees-21)

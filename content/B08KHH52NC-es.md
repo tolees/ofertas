@@ -27,10 +27,10 @@ Ahora mismo tienes [Mr. Wonderful Agenda clásica pequeña 2021 Día visto - Est
 
 🔎:
 
-- 368 páginas de 90 gr con 8 hojas de pegatinas y cierre con goma elástica.
-- Medidas del producto: 12 x 17 x 2,5 cm​. Peso: 440 gr​ / Gramaje: 90 gr
-- Agenda Clásica Pequeña Día Visto 2021 encuadernación cosida con apertura 180 grados.
 - Planificador mensual, tablas de ahorro, horarios, calendarios y juegos y extras divertidísimos
+- Medidas del producto: 12 x 17 x 2,5 cm​. Peso: 440 gr​ / Gramaje: 90 gr
+- 368 páginas de 90 gr con 8 hojas de pegatinas y cierre con goma elástica.
+- Agenda Clásica Pequeña Día Visto 2021 encuadernación cosida con apertura 180 grados.
 - Con páginas para anotar contactos y frases mensuales super divertidas.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08KHH52NC/?tag=tolees-21)
