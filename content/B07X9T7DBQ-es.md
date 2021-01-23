@@ -27,8 +27,8 @@ Ahora mismo tienes [PUMA Pwrshape Pant Chándal  Mujer  Bright White  XL](https:
 
 🔎:
 
-- 90% Polyester, 10% Elastane
 - Pwrshape Pant
+- 90% Polyester, 10% Elastane
 - Bright White
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07X9T7DBQ/?tag=tolees-21)

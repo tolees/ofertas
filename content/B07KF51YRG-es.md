@@ -28,7 +28,7 @@ Está [Levi s The Jacket Chaqueta vaquera  Liquorice Trucker  S para Hombre](htt
 ℹ️:
 
 - Bolsillos de parche en el pecho con solapa y cierre de botón automático
-- Bajo ajustable en el lateral
 - Manga larga con cierre de botón en los puños
+- Bajo ajustable en el lateral
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07KF51YRG/?tag=tolees-21)

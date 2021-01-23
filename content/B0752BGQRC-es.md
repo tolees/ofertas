@@ -27,10 +27,10 @@ Ahora mismo tienes [G-STAR RAW Midge Zip Mid Waist Skinny Vaqueros  Dark Aged D0
 
 🔎:
 
-- Back pockets with zips
-- Medium-high waistband
-- Zip and button
-- 5-pocket design, coin pocket with piping
 - Tight fitting from waistband to hem
+- Zip and button
+- Medium-high waistband
+- 5-pocket design, coin pocket with piping
+- Back pockets with zips
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0752BGQRC/?tag=tolees-21)

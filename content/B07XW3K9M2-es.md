@@ -27,9 +27,9 @@ Ahora mismo tienes [Beast Kingdom Toys Nightmare Before Christmas D-Stage PVC Di
 
 🔎:
 
+- Mide unos 15 cm de alto
 - Producto con licencia oficial
 - Inspirada en la película de fantasía Pesadilla antes de Navidad
 - Fabricada en PVC, con todo lujo de detalles
-- Mide unos 15 cm de alto
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07XW3K9M2/?tag=tolees-21)

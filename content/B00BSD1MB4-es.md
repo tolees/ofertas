@@ -27,9 +27,9 @@ Tienes [JOCCA Stepper Lateral Con Barra De Sujección/Contador con 4 funciones: 
 
 🔎:
 
+- Ocupa poco espacio
+- Manillar muy estable
 - Pies y marchas pies antideslizantes.
 - 4 funciones: Scan, Tiempo, Número de pasos, calorías consumidas
-- Manillar muy estable
-- Ocupa poco espacio
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00BSD1MB4/?tag=tolees-21)

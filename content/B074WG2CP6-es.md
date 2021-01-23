@@ -27,10 +27,10 @@ Está [DP Grifería Bahamas - Columna de hidromasaje en aluminio  Blanco](https:
 
 ℹ️:
 
-- Incluye dos conjuntos de jets de hidromasaje y rociador fijo de 5 x 10 cm
-- Incluye mango de ducha acabado en cromo, flexo de 1,5 m y sistema de instalación y fijación
-- Columna de hidromasaje en acero inoxidable 304 antihuellas
 - Medidas: 140 cm de altura x 22 cm de ancho
+- Incluye mango de ducha acabado en cromo, flexo de 1,5 m y sistema de instalación y fijación
 - Incluye indicador de temperatura del ambiente
+- Columna de hidromasaje en acero inoxidable 304 antihuellas
+- Incluye dos conjuntos de jets de hidromasaje y rociador fijo de 5 x 10 cm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B074WG2CP6/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'X-Men Trilogía Precuela Colección Vintag con un 46.58 % de descuento'
-date: 2021-01-23 16:59:28
+date: 2021-01-23 16:59:56
 image: 'https://m.media-amazon.com/images/I/61Rio6GywoL._SL200_.jpg'
 comments: true
 category: ofertas
