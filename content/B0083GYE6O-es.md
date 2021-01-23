@@ -27,8 +27,8 @@ Está [Unger HH240 Palo Sencillo  de 1 Elemento  60 cm Tamaño](https://www.amaz
 
 ℹ️:
 
-- El cono de unger contribuye a la seguridad de todos los trabajos puesto que los útiles quedan retenidos, no siendo posible que se caigan
 - con los tubos telescópicos de unger es posible trabajar a alturas de hasta 10 m desde el suelo ocupando una posición estable
+- El cono de unger contribuye a la seguridad de todos los trabajos puesto que los útiles quedan retenidos, no siendo posible que se caigan
 - la gran mayoría de los accidentes relacionados con escaleras resultan del mal uso de ellas, y no porque hubiesen estado defectuosas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0083GYE6O/?tag=tolees-21)

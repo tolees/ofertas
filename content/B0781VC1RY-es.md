@@ -27,8 +27,8 @@ Está [PUMA Liga Sideline Poly Core Pantalón  Hombre  Negro  Negro/Blanco   M](
 
 ℹ️:
 
-- Logotipo de PUMA en el pecho
 - Cuello erguido y protector para la barbilla
+- Logotipo de PUMA en el pecho
 - dryCELL: propiedades de absorción de la humedad que te ayudan a estar seco y cómodo
 - Puños y dobladillos elásticos
 

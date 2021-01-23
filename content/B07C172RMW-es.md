@@ -28,9 +28,9 @@ Ahora mismo tienes [UMIPUBO Mujer Blusa 3/4 Manga Camisas Elegante Camisetas Pri
 🔎:
 
 - Adecuado para Outwear o ropa interior. Fácil de combinar diferentes estilos de ropa. Nuevo para la temporada próxima.
-- Cuidado de la ropa: Se recomienda lavar a mano o lavar a máquina suavemente.
 - Ocasión: Ideal para el ocio, los viajes, la vida cotidiana.
 - Con cuello en V, acanalado, encaje, botón, corte slim, manga 3/4
 - Longitud: regular.
+- Cuidado de la ropa: Se recomienda lavar a mano o lavar a máquina suavemente.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07C172RMW/?tag=tolees-21)

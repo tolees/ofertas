@@ -28,9 +28,9 @@ Ahora mismo tienes [Columbia Park Run Chaqueta De Esquí con Capucha  Hombre  Ne
 🔎:
 
 - Lift-to-lodge features including drop tail, zippered hand and chest pockets, goggle pocket, ski pass pocket, interior security pocket and internal key clip
-- Thermal reflective ski jacket with double ripstop fabric and convenient stowaway hood with peripheral adjustment, Active Fit with Reflex Stretch twill
 - Omni-Heat thermal-reflective lining for warmth and dryness, Adjustable snap-back powder skirt for reinforced protection, Internal stretch panels
-- Accommodation of movement thanks to attached and adjustable hood, adjustable sleeve cuffs and drawcord adjustable hem, For all winter activities
+- Thermal reflective ski jacket with double ripstop fabric and convenient stowaway hood with peripheral adjustment, Active Fit with Reflex Stretch twill
 - Contents: 1x Columbia Mens Park Run Jacket, Shells: polyester Reflex Stretch twill and O-T Double Ripstop 2L nylon; Lining: O-H Reflective polyester; Polyester Insulation: 100g Microtemp XF II and 80g Microtemp XF II, Black/Delta/Plum, L
+- Accommodation of movement thanks to attached and adjustable hood, adjustable sleeve cuffs and drawcord adjustable hem, For all winter activities
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B087VJFP7S/?tag=tolees-21)

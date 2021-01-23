@@ -27,10 +27,10 @@ Ahora mismo tienes [Wera 05073419001 Juegos de Puntas de Destornilladores  7 pie
 
 🔎:
 
-- Con sistema de búsqueda de herramienta "Take it easy": marcas de color según el perfil y sellos con el tamaño
-- Recubrimiento de diamante para un alojamiento seguro en el tornillo
 - Las cajas Bit-Check también se pueden depositar levantadas, y convencen por su gran funcionalidad a pesar del mínimo espacio que ocupan
-- Porta-puntas Rapidaptor para un cambio de puntas ultrarrápido
+- Con sistema de búsqueda de herramienta "Take it easy": marcas de color según el perfil y sellos con el tamaño
 - Puntas BiTorsion para una larga vida de servicio
+- Porta-puntas Rapidaptor para un cambio de puntas ultrarrápido
+- Recubrimiento de diamante para un alojamiento seguro en el tornillo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01BNGHC7S/?tag=tolees-21)
