@@ -27,11 +27,11 @@ Está [Bionsan - Trigo Sarraceno  500 g](https://www.amazon.es/dp/B00HZTDO1G/?ta
 
 ℹ️:
 
-- Apto para vegetarianos y veganos.
-- Formato: bolsa de 500gr
 - Puede contener trazas de gluten, soja, frutos secos, sésamo, leche, apio y mostaza.
 - Alimento ecológico. No GMO. No irradiado.
+- Apto para vegetarianos y veganos.
 - Orígen: no UE
 - INFORMACIÓN NUTRICIONAL (100gr): Energia: 1651KJ/391Kcal, Proteína: 13g., Grasa: 3.4g. De las cuales saturadas: 0.7g. Hidratos de carbono: 72g. De los cuales azúcares: 0g., Fibra: 10g., Sal: 0g.
+- Formato: bolsa de 500gr
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00HZTDO1G/?tag=tolees-21)

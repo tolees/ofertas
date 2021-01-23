@@ -27,10 +27,10 @@ Está [HG 221100130 Limpiador Abrillantador Uso Diario  Producto 37   1000 ml](h
 
 ℹ️:
 
-- Es un friegasuelos concentrado, de aroma fresco y agradable, especialmente formulado para la limpieza periódica de mármol
 - Formulado especialmente para la limpieza periódica de mármol y otros tipos de piedra natural calcárea; es ideal para suelos sin tratar y para suelos tratados con HG Abrillantador Protector
+- Es un friegasuelos concentrado, de aroma fresco y agradable, especialmente formulado para la limpieza periódica de mármol
 - Para fregar periódicamente mármol y piedra natural con recuperación de brillo
-- 1 litro es suficiente para fregar el suelo 20 veces
 - No enjuague ni vuelva a fregar y deje que el suelo se seque. 1 litro es suficiente para fregar el suelo 20 veces
+- 1 litro es suficiente para fregar el suelo 20 veces
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00K7Y61TI/?tag=tolees-21)

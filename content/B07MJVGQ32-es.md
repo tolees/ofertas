@@ -27,10 +27,10 @@ Ahora mismo tienes [TOUS - Bandolera mediana Kaos Capitone en color negro  69590
 
 🔎:
 
-- Medidas: 18x24x7 cm
-- Color negro
-- Bolso bandolera mediana TOUS Kaos Capitone de vinilo hidrófugo con acabado acolchado Kaos
 - Certificado autenticidad TOUS
+- Bolso bandolera mediana TOUS Kaos Capitone de vinilo hidrófugo con acabado acolchado Kaos
+- Color negro
 - El poder del negro llevado a sus últimas consecuencias en una bandolera única. El total black sigue siendo una de las apuestas más recurrentes del street style pero, siempre, jugando con diferentes texturas y formas.
+- Medidas: 18x24x7 cm
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MJVGQ32/?tag=tolees-21)
