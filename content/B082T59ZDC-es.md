@@ -27,10 +27,10 @@ Tienes [adidas FLUIDSTREET  Zapatillas para Hombre  NEGBÁS/FTWBLA/NEGBÁS  40 E
 
 🔎:
 
-- Horma clásica
 - Diseño transpirable
-- Zapatilla de running ligera
-- Parte superior de malla
 - Cierre de cordones
+- Horma clásica
+- Parte superior de malla
+- Zapatilla de running ligera
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B082T59ZDC/?tag=tolees-21)
