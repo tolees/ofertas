@@ -27,11 +27,11 @@ Ahora mismo tienes [Cámara instantánea Fujifilm Instax mini 9 Rosa Claro + car
 
 🔎:
 
-- Con la lente macro podrás hacer fotos de cerca o selfis (35 cms)
-- Dial para ajuste de brillo
-- Dispone de espejo para selfiis
 - Incluye correa de mano a juego y pegatina de regalo
+- Dial para ajuste de brillo
 - Calidad instax. Máxima calidad en fotografía instantánea
+- Dispone de espejo para selfiis
 - Kit que contiene cámara instax mini 9 Rosa Claro + carga 10 fotos
+- Con la lente macro podrás hacer fotos de cerca o selfis (35 cms)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08F7RQD57/?tag=tolees-21)

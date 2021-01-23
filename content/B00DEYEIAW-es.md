@@ -27,10 +27,10 @@ Tienes [Patron Silver Tequila - 700 ml](https://www.amazon.es/dp/B00DEYEIAW/?tag
 
 ℹ️:
 
-- Mezclar con ingredientes (mixers) de alta calidad o saborear solo
 - Aroma a agave fresca con frutas y cítricos
-- Color muy transparente
-- Sabor suave y dulce, a agave fresca con toques cítricos
 - La bebida blanca elaborada con agave azul Tequilana Weber
+- Mezclar con ingredientes (mixers) de alta calidad o saborear solo
+- Sabor suave y dulce, a agave fresca con toques cítricos
+- Color muy transparente
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00DEYEIAW/?tag=tolees-21)

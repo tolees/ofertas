@@ -27,10 +27,10 @@ Está [L Oreal Paris Make-up Designer - L Oréal Paris Rouge Signature 205 I Fas
 
 ℹ️:
 
-- Labios mate durante todo el día pero con la sensación de no llevar nada puesto
+- Colores metálico de impacto
 - Disponible en 4 tonos metálicos de larga duración
+- Labios mate durante todo el día pero con la sensación de no llevar nada puesto
 - Tan ligero que no notarás que lo llevas puesto 
 - Pintalabios líquido metálico permanente
-- Colores metálico de impacto
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07TW21GJZ/?tag=tolees-21)

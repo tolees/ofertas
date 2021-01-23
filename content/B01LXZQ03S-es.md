@@ -27,8 +27,8 @@ En este momento está [X-Men Trilogía Precuela Colección Vintage  Funda Vinilo
 
 🔎:
 
+- Xmen trilogía de precuelas 3DISC Conjunto de época
 - Xmen trilogía de precuelas 3DISC Conjunto de la vendimia (XPrimera Clase / XmenDías del Futuro Pasado / XmenAP
 - X: Primera Clase / Xmen: Días del Futuro Pasado / Xmen: Apocalypse
-- Xmen trilogía de precuelas 3DISC Conjunto de época
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01LXZQ03S/?tag=tolees-21)

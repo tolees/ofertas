@@ -28,8 +28,8 @@ Tienes [Eukanuba Alimento seco para perros adultos de razas grandes con pollo 15
 ℹ️:
 
 - Alimento seco para las grandes razas de adultos / Dientes: clínicamente probado para reducir la formación de sarro en 28 días Reduce la placa y mantiene una dentadura fuerte
-- Defensa: ayuda a las defensas naturales con antioxidantes clínicamente probados
 - El pollo constituye la principal fuente de proteínas para desarrollar y mantener una musculatura compacta y un estado físico óptimo
+- Defensa: ayuda a las defensas naturales con antioxidantes clínicamente probados
 - Fuentes naturales de Omega 6 y 3 para una piel y un pelo sanos
 - Potencia: está clínicamente probado que favorece una musculatura compacta gracias a su contenido de proteínas animales
 
