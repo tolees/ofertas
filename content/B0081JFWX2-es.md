@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Panama Jack Panama 03  Botas para Hombre al 40.00 % de descuento'
-date: 2021-01-22 10:26:59
+date: 2021-01-23 14:57:21
 image: 'https://m.media-amazon.com/images/I/41l3cYNHEkL._SL200_.jpg'
 comments: true
 category: ofertas
