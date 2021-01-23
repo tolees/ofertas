@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Animal Crossing: New Horizons  Nintendo  al 25.04 % de descuento'
-date: 2021-01-21 23:22:17
+date: 2021-01-23 06:11:57
 image: 'https://m.media-amazon.com/images/I/51A2ITCX3QL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HCVN3D1/?tag=tolees-21'
 descuento: '25.04'
-average: '51.65101265822787'
+average: '51.566625'
 ---
 
 Está [Animal Crossing: New Horizons  Nintendo Switch ](https://www.amazon.es/dp/B07HCVN3D1/?tag=tolees-21) con 25.04 de descuento por 44.9 EUR (original: 59.9 EUR) en el siguiente enlace!

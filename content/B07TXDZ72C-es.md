@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clarks Un Trail Form  Derbys Derby  Brau al 28.45 % de descuento'
-date: 2021-01-21 23:22:01
+date: 2021-01-23 06:28:00
 image: 'https://m.media-amazon.com/images/I/41GuLSXLg1L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07TXDZ72C/?tag=tolees-21'
 descuento: '28.45'
-average: '57.441878172588844'
+average: '57.5832663316583'
 ---
 
 Ahora mismo tienes [Clarks Un Trail Form  Derbys Derby  Braun  Mahogany Leather Mahogany Leather   42.5 EU](https://www.amazon.es/dp/B07TXDZ72C/?tag=tolees-21) a 71.51 EUR (original: 99.95 EUR) (28.45 %  de descuento) en el siguiente enlace!
