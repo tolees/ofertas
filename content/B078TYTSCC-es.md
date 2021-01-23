@@ -27,9 +27,9 @@ En este momento está [THULE Lithos Mochila Tipo Casual 50 Centimeters Azul  Car
 
 🔎:
 
+- Espacio para portátil y tablet
+- Materiales de calidad
 - Alta resistencia al paso del tiempo
 - Cremalleras duraderas
-- Materiales de calidad
-- Espacio para portátil y tablet
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078TYTSCC/?tag=tolees-21)

@@ -27,9 +27,9 @@ Tienes [Reebok CL F Vector Crew Sudadera  Hombre  whtmel  S](https://www.amazon.
 
 🔎:
 
+- Felpa 100 % algodón
+- Cuello redondo con canalé
 - Corte holgado
 - Puños y dobladillo con canalé
-- Cuello redondo con canalé
-- Felpa 100 % algodón
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CBV489N/?tag=tolees-21)
