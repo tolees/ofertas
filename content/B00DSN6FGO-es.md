@@ -27,9 +27,9 @@ Está [Columbia Pantalón de esquí Ice Slope II  para Niños  Negro  L](https:/
 
 ℹ️:
 
-- Ajustables extensiones OUTGROWN en los puños para acomodar el crecimiento a lo largo de varias temporadas, Bolsillo Cargo para guardar objetos de valor
-- Resistencia a la absorción de líquidos gracias a la tecnología patentada Omni-Shield
 - Contenido: 1 x Columbia Ice Slope II Pantalones para niño, Negro, L, Art. 1523671
+- Resistencia a la absorción de líquidos gracias a la tecnología patentada Omni-Shield
+- Ajustables extensiones OUTGROWN en los puños para acomodar el crecimiento a lo largo de varias temporadas, Bolsillo Cargo para guardar objetos de valor
 - Pantalón aislado para la nieve para niño, Tejido impermeable con cintura ajustable, Para largas horas de deporte al aire libre en invierno
 - Polainas internas en las piernas y tecnología Hammerhead de refuerzo de los dobladillos para más protección y durabilidad
 

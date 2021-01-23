@@ -27,10 +27,10 @@ Ahora mismo tienes [Cébé Artic M Gafas de Ski Matt Adultos Unisex Medium  Matt
 
 🔎:
 
-- Lente esférica
-- Recubrimiento anti-rasguños
 - Revestimiento antivaho
+- Lente esférica
 - Lente: brown flash blue
+- Recubrimiento anti-rasguños
 - Categoría de lente 3
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SNSBJBZ/?tag=tolees-21)

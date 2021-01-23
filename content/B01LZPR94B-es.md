@@ -27,7 +27,7 @@ Tienes [Skechers Graceful-Get Connected  Zapatillas Mujer  Negro  BKW Black Mesh
 
 🔎:
 
-- Peso ligero
 - Suela flexible
+- Peso ligero
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01LZPR94B/?tag=tolees-21)
