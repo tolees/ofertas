@@ -27,8 +27,8 @@ Ahora mismo tienes [LEVIS FOOTWEAR AND ACCESSORIESBanana SlingHombreShoppers y b
 
 🔎:
 
-- Levis rojo Banana Sling Bag
 - A estrenar y genuina. Somos un vendedor autorizado de Levis.
+- Levis rojo Banana Sling Bag
 - Ver descripción del producto para obtener más información.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07BRX8JC2/?tag=tolees-21)
