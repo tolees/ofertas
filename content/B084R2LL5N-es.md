@@ -27,7 +27,7 @@ Tienes [G-STAR RAW Raw Graphic Slim Camiseta  Rojo seco 336-5298  Small para Hom
 
 ℹ️:
 
-- Dobladillo recto
 - Cuello redondo
+- Dobladillo recto
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B084R2LL5N/?tag=tolees-21)

@@ -27,10 +27,10 @@ Está [adidas Parma 16 SHO Shorts  Hombre   Azul Claro/Blanco   M](https://www.a
 
 ℹ️:
 
+- 100% poliéster piqué
 - La tela climalite barre el sudor de la piel
 - -.-
-- Construidos para mantenerlo seco y cómodo para que pueda concentrarse en perfeccionar sus habilidades
-- 100% poliéster piqué
 - Cordón en la cintura elástica
+- Construidos para mantenerlo seco y cómodo para que pueda concentrarse en perfeccionar sus habilidades
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B016QALHKY/?tag=tolees-21)

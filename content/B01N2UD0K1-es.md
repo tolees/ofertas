@@ -28,8 +28,8 @@ Está [Ricatech RTT21 Tocadiscos  reproductor de discos portátil liviano con al
 ℹ️:
 
 - Tocador de discos retro: con configuración de tres veolocidades - 33 / 45 / 78 rpm, incluye adaptador de 45 rpm, cable de entrada de 3,5 mm, adaptador de energía de 5v y manual del usuario
+- Salida de línea RCA: escucha los discos de vinilo con tus auriculares, amplificadores o cualquier altavoz externo que desees
 - Conexión bluetooth y USB: se lo puede utilizar como un reproductor de música moderno reproduce música desde otros dispositivos como tu reproductor de mp3, dispositivo móvil, iPod, etc.; simplemente conecta este reproductor de discos de vinilo con otros dispositivos vía USB o bluetooth
 - Altavoces en estéreo incorporados: este reproductor de discos clásico viene con altavoces estéreo frontales incorporados para escuchar música durante los viajes sin ningún tipo de complicación
-- Salida de línea RCA: escucha los discos de vinilo con tus auriculares, amplificadores o cualquier altavoz externo que desees
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01N2UD0K1/?tag=tolees-21)

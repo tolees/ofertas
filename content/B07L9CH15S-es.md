@@ -27,10 +27,10 @@ Tienes [ROYAL SLEEP Colchón viscoelástico Carbono 150x190 firmeza Alta  Gama A
 
 ℹ️:
 
-- La espuma de Royal Sleep permite libertad de movimientos sin afectar el descanso de la otra persona. Sin molestas vibraciones. Todos los productos de Royal Sleep cuentan con tratamientos higiénicos para garantizar la no proliferación de ácaros.
-- Su otra cara ofrece una transpirabilidad superior por la porosidad de sus materiales, que permiten que el aire circule por dentro del colchón y aportan frescura adicional cuando se requiere (volteando el colchón)
+- Tratamiento Ceramic de efecto regerativo que favorece el flujo sanguíneo. Colchón con visco carbono  efecto anti-stress. +/- 23 cms de altura. Núcleo de espuma HR Premium de alta duración y estabilidad
 - Los laterales están fabricados con una tela stretch, que además de ser muy resistente, permite que el aire fluya y el colchón se ventile eficazmente.
 - Producto fabricado al 100% en España
-- Tratamiento Ceramic de efecto regerativo que favorece el flujo sanguíneo. Colchón con visco carbono  efecto anti-stress. +/- 23 cms de altura. Núcleo de espuma HR Premium de alta duración y estabilidad
+- La espuma de Royal Sleep permite libertad de movimientos sin afectar el descanso de la otra persona. Sin molestas vibraciones. Todos los productos de Royal Sleep cuentan con tratamientos higiénicos para garantizar la no proliferación de ácaros.
+- Su otra cara ofrece una transpirabilidad superior por la porosidad de sus materiales, que permiten que el aire circule por dentro del colchón y aportan frescura adicional cuando se requiere (volteando el colchón)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07L9CH15S/?tag=tolees-21)
