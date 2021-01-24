@@ -28,8 +28,8 @@ Tienes [Smartbox - Caja Regalo para Adolescentes - Ideas Regalos Originales - Ex
 ℹ️:
 
 - 99 hoteles de hasta 4 estrellas, palacios, casas rurales y patios en Andalucía
+- Experiencias gastronómicas para dos personas
 - Esta caja de regalo contiene una guía que detalla los servicios incluidos
 - Cajas de regalo Smartbox: idea de regalo para hombres y mujeres y para todas las ocasiones
-- Experiencias gastronómicas para dos personas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07FGG5RSM/?tag=tolees-21)

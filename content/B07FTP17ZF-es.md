@@ -27,8 +27,8 @@ Ahora mismo tienes [Lee Scarlett Cropped Jeans  Azul  High Blue Yon   24W / 31L 
 
 🔎:
 
-- Vaqueros para mujer
 - Estilo 5 bolsillos
 - Tienen un parche de piel en la parte trasera con la marca Lee
+- Vaqueros para mujer
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FTP17ZF/?tag=tolees-21)
