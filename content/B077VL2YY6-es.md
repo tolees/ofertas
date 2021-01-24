@@ -1,29 +1,29 @@
 ---
 layout: post
-title: 'Coco [DVD] al 57.31 % de descuento'
-date: 2021-01-22 04:08:04
+title: 'Disney / Pixar - Coco [DVD] al 57.31 % de descuento'
+date: 2021-01-24 03:59:39
 image: 'https://m.media-amazon.com/images/I/61DXC22DHuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077VL2YY6-es Coco [DVD]'
+slug: 'B077VL2YY6-es Disney / Pixar - Coco [DVD]'
 sku: 'B077VL2YY6-es'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99
 comparePrice: 21.06 EUR
-prodname: 'Coco [DVD]'
+prodname: 'Disney / Pixar - Coco [DVD]'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077VL2YY6/?tag=tolees-21'
 descuento: '57.31'
-average: '9.925517241379309'
+average: '9.90966101694915'
 ---
 
-Está [Coco [DVD]](https://www.amazon.es/dp/B077VL2YY6/?tag=tolees-21) con 57.31 de descuento por 8.99 EUR (original: 21.06 EUR) en el siguiente enlace!
+Está [Disney / Pixar - Coco [DVD]](https://www.amazon.es/dp/B077VL2YY6/?tag=tolees-21) con 57.31 de descuento por 8.99 EUR (original: 21.06 EUR) en el siguiente enlace!
 
-[![Coco [DVD]](https://m.media-amazon.com/images/I/61DXC22DHuL._SL200_.jpg)](https://www.amazon.es/dp/B077VL2YY6/?tag=tolees-21)
+[![Disney / Pixar - Coco [DVD]](https://m.media-amazon.com/images/I/61DXC22DHuL._SL200_.jpg)](https://www.amazon.es/dp/B077VL2YY6/?tag=tolees-21)
 
 ℹ️:
 
