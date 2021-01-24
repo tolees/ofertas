@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony MDR-EX110LP - Auriculares in-ear  c con un 55.05 % de descuento'
-date: 2021-01-22 04:52:49
+date: 2021-01-24 05:17:12
 image: 'https://m.media-amazon.com/images/I/312BaSO+JaL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00I3LUU3A/?tag=tolees-21'
 descuento: '55.05'
-average: '9.2056'
+average: '9.17586206896552'
 ---
 
 En este momento está [Sony MDR-EX110LP - Auriculares in-ear  color rojo](https://www.amazon.es/dp/B00I3LUU3A/?tag=tolees-21) a 8.99 EUR (original: 20.0 EUR) (55.05 %  de descuento) en el siguiente enlace!
@@ -27,10 +27,10 @@ En este momento está [Sony MDR-EX110LP - Auriculares in-ear  color rojo](https:
 
 🔎:
 
-- Auriculares internos con diafragmas de neodimio de 9 mm
 - Sensibilidades: 103 dB/mW
-- Tipo de cable: en forma de Y
 - Rango de frecuencia: 5-24.000 Hz
+- Tipo de cable: en forma de Y
+- Auriculares internos con diafragmas de neodimio de 9 mm
 - Impedancia: 16 ohmios (1 kHz)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00I3LUU3A/?tag=tolees-21)
