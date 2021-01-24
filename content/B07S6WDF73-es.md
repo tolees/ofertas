@@ -1,29 +1,29 @@
 ---
 layout: post
-title: 'Aladdín [DVD] con un 52.51 % de descuento'
-date: 2021-01-23 04:02:27
+title: 'Disney - Aladdín [DVD] con un 52.51 % de descuento'
+date: 2021-01-24 04:06:59
 image: 'https://m.media-amazon.com/images/I/51s3+7Y8HGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S6WDF73-es Aladdín [DVD]'
+slug: 'B07S6WDF73-es Disney - Aladdín [DVD]'
 sku: 'B07S6WDF73-es'
 tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95
 comparePrice: 20.95 EUR
-prodname: 'Aladdín [DVD]'
+prodname: 'Disney - Aladdín [DVD]'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07S6WDF73/?tag=tolees-21'
 descuento: '52.51'
-average: '9.50701298701298'
+average: '9.51822784810126'
 ---
 
-En este momento está [Aladdín [DVD]](https://www.amazon.es/dp/B07S6WDF73/?tag=tolees-21) a 9.95 EUR (original: 20.95 EUR) (52.51 %  de descuento) en el siguiente enlace!
+En este momento está [Disney - Aladdín [DVD]](https://www.amazon.es/dp/B07S6WDF73/?tag=tolees-21) a 9.95 EUR (original: 20.95 EUR) (52.51 %  de descuento) en el siguiente enlace!
 
-[![Aladdín [DVD]](https://m.media-amazon.com/images/I/51s3+7Y8HGL._SL200_.jpg)](https://www.amazon.es/dp/B07S6WDF73/?tag=tolees-21)
+[![Disney - Aladdín [DVD]](https://m.media-amazon.com/images/I/51s3+7Y8HGL._SL200_.jpg)](https://www.amazon.es/dp/B07S6WDF73/?tag=tolees-21)
 
 🔎:
 
