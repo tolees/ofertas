@@ -29,7 +29,7 @@ Tienes [Intel NUC 7I5BNK - Kit ordenador Mini PC  Intel Core i5-7260U  Espacio p
 
 - WiFi AC + Bluetooth 4.2, ranura para tarjeta microSD
 - Conexión de disco duro M.2 (PCIe x4)
-- 2 slots para memoria RAM DDR4-2133 hasta 32 GB
 - Procesador Intel Core i5-7260U (Hasta 3.40 GHz, 4 MB cache)
+- 2 slots para memoria RAM DDR4-2133 hasta 32 GB
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01N6SRT4H/?tag=tolees-21)

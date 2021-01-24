@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech G305 Lightspeed Ratón Gaming In con un 35.49 % de descuento'
-date: 2021-01-21 20:55:53
+date: 2021-01-24 07:39:49
 image: 'https://m.media-amazon.com/images/I/31+saSWhrFL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CGPZ3ZQ/?tag=tolees-21'
 descuento: '35.49'
-average: '45.653786407767'
+average: '45.5459047619047'
 ---
 
 En este momento está [Logitech G305 Lightspeed Ratón Gaming Inalámbrico  Captor HERO 12 000 DPI  Ultra-ligero  Batería de 250h  Memoría Integrada  Compatible con PC/Mac   Negro](https://www.amazon.es/dp/B07CGPZ3ZQ/?tag=tolees-21) a 39.99 EUR (original: 61.99 EUR) (35.49 %  de descuento) en el siguiente enlace!
@@ -27,11 +27,11 @@ En este momento está [Logitech G305 Lightspeed Ratón Gaming Inalámbrico  Capt
 
 🔎:
 
-- Ultra-Ligero : en Logitech G, un ratón inalámbrico para gaming no tiene que ser pesado, G305 es muy ligero, apenas pesa 99 gramos con su diseño mecánico ligero y al uso eficiente de la pila
-- Requisitos del sistema: Windows 7 o posteriores; macOS 10.13 o posteriores; Chrome OSTM; Puerto USB; Conexión a Internet para Logitech Gaming Software (opcional)
-- Tecnología Inalámbrica Lightspeed : la latencia hace la diferencia, LIGHTSPEED es una solución inalámbrica de calidad profesional que ofrece un rendimiento similar al de la tecnología con cable
-- Sensor HERO 16K : el ratón para gaming óptico ofrece excepcional respuesta precisa y constante a cualquier velocidad en toda la gama de dpi 200-12.000 dpi
 - Juega en Cualquier Lugar : el diseño ligero, compacto y duradero, y el almacenamiento integrado para el nano receptor USB hacen de G305 un buen compañero de viaje
+- Ultra-Ligero : en Logitech G, un ratón inalámbrico para gaming no tiene que ser pesado, G305 es muy ligero, apenas pesa 99 gramos con su diseño mecánico ligero y al uso eficiente de la pila
 - Duración de Pilas Extralarga : el sensor HERO y la tecnología inalámbrica LIGHTSPEED ofrecen una eficiencia optima, permite hasta 250 horas de uso con una sola pila AA
+- Tecnología Inalámbrica Lightspeed : la latencia hace la diferencia, LIGHTSPEED es una solución inalámbrica de calidad profesional que ofrece un rendimiento similar al de la tecnología con cable
+- Requisitos del sistema: Windows 7 o posteriores; macOS 10.13 o posteriores; Chrome OSTM; Puerto USB; Conexión a Internet para Logitech Gaming Software (opcional)
+- Sensor HERO 16K : el ratón para gaming óptico ofrece excepcional respuesta precisa y constante a cualquier velocidad en toda la gama de dpi 200-12.000 dpi
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07CGPZ3ZQ/?tag=tolees-21)

@@ -27,10 +27,10 @@ Tienes [L Oreal Paris Elvive - L Oréal Paris - Elvive Aceite Extraordinario  Us
 
 🔎:
 
-- El Aceite Extraordinario Universal para cabellos secos de LOreál Paris es el nuevo gesto de belleza que transforma inmediatamente tu cabello
+- Para un cabello sublime puedes utilizarlo antes del lavado, del secado, como un toque final, previamente a la exposición solar, en el mar o en la piscina, y mucho más; Cada gota es oro
 - Para el cabello: Normal
 - Su fórmula rica en 6 aceites de flores preciosas aporta nutrición y vitalidad sin engrasar el pelo
-- Para un cabello sublime puedes utilizarlo antes del lavado, del secado, como un toque final, previamente a la exposición solar, en el mar o en la piscina, y mucho más; Cada gota es oro
+- El Aceite Extraordinario Universal para cabellos secos de LOreál Paris es el nuevo gesto de belleza que transforma inmediatamente tu cabello
 - 1 Envase con aplicador de 100 ml
 - En pocos minutos notarás una transformación inmediata para un pelo sublime; el cabello está mucho más nutrido, más hidratado, más definido y con un brillo infinito
 
