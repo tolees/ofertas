@@ -27,10 +27,10 @@ Tienes [Corsair Harpoon RGB Wireless  Ratón Para Juegos Recargable  Tecnología
 
 🔎:
 
-- Hasta 60 horas de juego inalámbrico continuado con alimentación de batería, o con conexión mediante cable para seguir jugando mientras se carga
-- El sencillo proceso de configuración permite empezar a jugar más rápidamente: basta con conectar el adaptador inalámbrico a un puerto usb y activar el ratón
 - Juegue con tecnología ultrarrápida, slipstream corsair wireless inferior a 1 ms, o conéctese con bluetooth de baja latencia o cableado usb
-- Diseño ultraligero de tan solo 99 g, para jugar más tiempo sin cansarse
 - La forma elegante y los laterales de goma brindan comodidad y fiabilidad a largo plazo en su agarre
+- El sencillo proceso de configuración permite empezar a jugar más rápidamente: basta con conectar el adaptador inalámbrico a un puerto usb y activar el ratón
+- Diseño ultraligero de tan solo 99 g, para jugar más tiempo sin cansarse
+- Hasta 60 horas de juego inalámbrico continuado con alimentación de batería, o con conexión mediante cable para seguir jugando mientras se carga
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07L2X4ZBX/?tag=tolees-21)

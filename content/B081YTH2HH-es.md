@@ -28,7 +28,7 @@ Ahora mismo tienes [Hurley M Halfer Stripe S/S Camiseta  Hombre  Cedar  S](https
 🔎:
 
 - 150 g
-- Serigrafiado suave al tacto
 - Tejido de algodón suave al tacto para un ajuste cómodo.
+- Serigrafiado suave al tacto
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B081YTH2HH/?tag=tolees-21)

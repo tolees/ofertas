@@ -28,8 +28,8 @@ Ahora mismo tienes [Beurer BM27 Tensiómetro de Brazo  Blanco  Indicador OMS  De
 🔎:
 
 - Manguito universal para circunferencias de hasta 42 cm
-- Promedio de todos los valores de mediciones
 - Indicador patentado para un resultado exacto con la función OK que le indica la posición favorable para una medición correcta
+- Promedio de todos los valores de mediciones
 - Detección de arritmia
 - Puede memorar 4 x 30 mediciones
 
