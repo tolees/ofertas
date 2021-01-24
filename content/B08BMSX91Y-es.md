@@ -27,10 +27,10 @@ Está [adidas ZNE AERORDY FZ Sudadera  Hombre  Tinley/ Bayint  M](https://www.am
 
 ℹ️:
 
-- Cierre de cremallera
 - Chaqueta con capucha
-- Punto doble 58% poliéster / 42% poliéster reciclado
 - Tejido transpirable AEROREADY
 - Corte holgado
+- Punto doble 58% poliéster / 42% poliéster reciclado
+- Cierre de cremallera
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08BMSX91Y/?tag=tolees-21)

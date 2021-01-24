@@ -27,9 +27,9 @@ En este momento está [Under Armour Rush Low Sujetador Deportivo  Mujer  Negro  
 
 🔎:
 
-- Ideal para copas A a C
 - Copas suaves y transpirables para proporcionar una mayor sujeción y protección
 - A medida que tu cuerpo desprende energía, el tejido con minerales incorporados la absorbe y mejora la resistencia
+- Ideal para copas A a C
 - Diseñado para actividades de bajo impacto y para ofrecer comodidad durante todo el día
 - Forro de malla que añade transpirabilidad
 

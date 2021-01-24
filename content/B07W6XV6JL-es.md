@@ -27,10 +27,10 @@ Está [non-brand - Adaptador de tornillo para soporte de micrófono de 5/8 pulga
 
 ℹ️:
 
-- Conector de rosca para soporte de micrófono.
 - 1 tornillo hembra de 5/8 pulgadas a 27 mm.
-- Conector de rosca de tornillo de micrófono
-- 1 adaptador de soporte para micrófono.
 - Soporte de micrófono para micrófono con adaptador de montaje
+- 1 adaptador de soporte para micrófono.
+- Conector de rosca de tornillo de micrófono
+- Conector de rosca para soporte de micrófono.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07W6XV6JL/?tag=tolees-21)

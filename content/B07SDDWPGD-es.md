@@ -28,9 +28,9 @@ Ahora mismo tienes [Tommee Tippee - Esterilizador eléctrico de vapor](https://w
 🔎:
 
 - Esteriliza hasta 6 biberones en solo 5 minutos
-- Sin BPA.
-- Acaba con el 99, 9 % de los gérmenes nocivos
 - Apto para la mayoría de biberones, chupetes y accesorios de extractores de leche
 - Vapor 100 % natural que envuelve todas las superficies
+- Sin BPA.
+- Acaba con el 99, 9 % de los gérmenes nocivos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SDDWPGD/?tag=tolees-21)

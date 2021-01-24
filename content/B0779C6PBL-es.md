@@ -28,9 +28,9 @@ Está [Adidas TABELA 18 JSY T-shirt  Hombre  Semi Solar Green/ Black  L](https:/
 ℹ️:
 
 - Logotipo de adidas termotransferido a la derecha del pecho.
-- Panel de tejido técnico con finas rayas.
 - Cuello de pico de canalé.
 - Corte clásico más ancho.
+- Panel de tejido técnico con finas rayas.
 - Cuenta con mangas cortas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0779C6PBL/?tag=tolees-21)
