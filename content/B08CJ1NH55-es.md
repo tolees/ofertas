@@ -27,9 +27,9 @@ Tienes [Element Blazin Chest - Sudadera para Hombre Sudadera  Hombre  Eclipse Na
 
 ℹ️:
 
-- Tejido: Tejido suave cepillado de algodón y poliéster
-- Corte: corte normal
 - Cuello redondo
 - Pequeño estampado en el pecho
+- Tejido: Tejido suave cepillado de algodón y poliéster
+- Corte: corte normal
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08CJ1NH55/?tag=tolees-21)
