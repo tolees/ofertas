@@ -27,8 +27,8 @@ Tienes [Pepe Jeans MONIA Falda  Azul  Denim 000   4 para Niñas](https://www.ama
 
 🔎:
 
-- Falda para niñas
 - Fabricada en tejido denim elástico y flexible
+- Falda para niñas
 - Cierre con cremallera
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07ZPKVJ79/?tag=tolees-21)

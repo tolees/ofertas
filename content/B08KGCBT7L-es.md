@@ -28,7 +28,7 @@ Ahora mismo tienes [Nintendo - Pokémon Espada + Pase de Expansión](https://www
 🔎:
 
 - 100 PokéBalls
-- Uniforme Pikachu
 - Uniforme Eevee
+- Uniforme Pikachu
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08KGCBT7L/?tag=tolees-21)

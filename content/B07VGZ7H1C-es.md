@@ -28,8 +28,8 @@ Está [Hurley W Tuxedo Beach Jogger Pantalón De Chandal  Mujer  Black  XS](http
 ℹ️:
 
 - Bolsillos en las costuras laterales
+- Ajuste estándar
 - Tejido de rayón que proporciona una comodidad ligera.
 - Entrepierna de 67 cm
-- Ajuste estándar
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07VGZ7H1C/?tag=tolees-21)

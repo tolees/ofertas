@@ -27,10 +27,10 @@ Ahora mismo tienes [Nike Quest 3  Running Shoe Hombre  Black/University Red-Whit
 
 🔎:
 
-- Lining: synthetic
-- Outer material: sintético
 - Closure: cordones
 - Sole material: caucho
 - Tipo de cierre: Cordones
+- Lining: synthetic
+- Outer material: sintético
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B083FRJ3L7/?tag=tolees-21)
