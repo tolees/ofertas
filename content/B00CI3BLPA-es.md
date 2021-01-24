@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'Western Digital 1TB Elements USB 3.0 - D con un 28.82 % de descuento'
-date: 2021-01-19 10:15:57
+date: 2021-01-24 21:54:31
 image: 'https://m.media-amazon.com/images/I/31tDbgfegyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CI3BLPA-es'
+slug: 'B00CI3BLPA-es Western Digital 1TB Elements USB 3.0 - Disco Duro Externo...'
+sku: 'B00CI3BLPA-es'
+tags: [  ]
 actualPrice: 57.32 EUR
 currency: EUR
 price: 57.32

@@ -1,25 +1,27 @@
 ---
 layout: post
-title: 'Linksys WRT3200ACM-EU - Router Wi-Fi Gig al 34.40 % de rebaja'
-date: 2021-01-18 14:48:35
+title: 'Linksys WRT3200ACM-EU - Router Wi-Fi Gig al 41.24 % de rebaja'
+date: 2021-01-24 21:41:17
 image: 'https://m.media-amazon.com/images/I/31op8k0FoYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LY0PTO9-es'
-actualPrice: 164.0 EUR
+slug: 'B01LY0PTO9-es Linksys WRT3200ACM-EU - Router Wi-Fi Gigabit con Código...'
+sku: 'B01LY0PTO9-es'
+tags: [  ]
+actualPrice: 146.9 EUR
 currency: EUR
-price: 164.0
+price: 146.9
 comparePrice: 249.99 EUR
 prodname: 'Linksys WRT3200ACM-EU - Router Wi-Fi Gigabit con Código Abierto.'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LY0PTO9/?tag=tolees-21'
-descuento: '34.40'
-average: '175.77500000000003'
+descuento: '41.24'
+average: '170.9625'
 ---
 
-Tienes [Linksys WRT3200ACM-EU - Router Wi-Fi Gigabit con Código Abierto.](https://www.amazon.es/dp/B01LY0PTO9/?tag=tolees-21) con precio final de  164.0 EUR (original: 249.99 EUR) (34.40 %  de rebaja) aqui!
+Tienes [Linksys WRT3200ACM-EU - Router Wi-Fi Gigabit con Código Abierto.](https://www.amazon.es/dp/B01LY0PTO9/?tag=tolees-21) con precio final de  146.9 EUR (original: 249.99 EUR) (41.24 %  de rebaja) aqui!
 
 [![Linksys WRT3200ACM-EU - Router Wi-Fi Gig](https://m.media-amazon.com/images/I/31op8k0FoYL._SL200_.jpg)](https://www.amazon.es/dp/B01LY0PTO9/?tag=tolees-21)
 
