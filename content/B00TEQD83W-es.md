@@ -27,10 +27,10 @@ En este momento está [Nike Team Fall Jacket - Chaqueta unisex  color negro / gr
 
 🔎:
 
+- Dispone de acabados elásticos en la base y las puños
+- Tiene el logotipo de Nike en el pecho
 - Chaqueta impermeable para hombre hecha de poliéster
 - Cuenta con capucha y dos bolsillos con cremallera en los laterales
-- Tiene el logotipo de Nike en el pecho
 - Proporciona libertad de movimiento
-- Dispone de acabados elásticos en la base y las puños
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00TEQD83W/?tag=tolees-21)

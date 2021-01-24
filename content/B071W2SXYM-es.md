@@ -27,7 +27,7 @@ Ahora mismo tienes [Only onlSEDONA Light Coat OTW Noos Abrigo  Marrón  Mocha Mo
 
 🔎:
 
-- Abrigo largo de entretiempo.
 - Abrigo de lana con capucha.
+- Abrigo largo de entretiempo.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B071W2SXYM/?tag=tolees-21)

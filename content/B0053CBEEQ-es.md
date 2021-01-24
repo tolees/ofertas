@@ -1,29 +1,29 @@
 ---
 layout: post
-title: 'Friends - Colección Completa [DVD] con un 40.55 % de descuento'
-date: 2021-01-23 04:02:27
+title: 'Warner Bros. Entertainment España S.L. - con un 40.55 % de descuento'
+date: 2021-01-24 10:11:12
 image: 'https://m.media-amazon.com/images/I/51N994txTQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0053CBEEQ-es Friends - Colección Completa [DVD]'
+slug: 'B0053CBEEQ-es Warner Bros. Entertainment España S.L. - Friends -...'
 sku: 'B0053CBEEQ-es'
 tags: [  ]
 actualPrice: 58.49 EUR
 currency: EUR
 price: 58.49
 comparePrice: 98.39 EUR
-prodname: 'Friends - Colección Completa [DVD]'
+prodname: 'Warner Bros. Entertainment España S.L. - Friends - Colección Completa [DVD]'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0053CBEEQ/?tag=tolees-21'
 descuento: '40.55'
-average: '63.9419047619048'
+average: '63.6940909090909'
 ---
 
-En este momento está [Friends - Colección Completa [DVD]](https://www.amazon.es/dp/B0053CBEEQ/?tag=tolees-21) a 58.49 EUR (original: 98.39 EUR) (40.55 %  de descuento) en el siguiente enlace!
+En este momento está [Warner Bros. Entertainment España S.L. - Friends - Colección Completa [DVD]](https://www.amazon.es/dp/B0053CBEEQ/?tag=tolees-21) a 58.49 EUR (original: 98.39 EUR) (40.55 %  de descuento) en el siguiente enlace!
 
-[![Friends - Colección Completa [DVD]](https://m.media-amazon.com/images/I/51N994txTQL._SL200_.jpg)](https://www.amazon.es/dp/B0053CBEEQ/?tag=tolees-21)
+[![Warner Bros. Entertainment España S.L. -](https://m.media-amazon.com/images/I/51N994txTQL._SL200_.jpg)](https://www.amazon.es/dp/B0053CBEEQ/?tag=tolees-21)
 
 🔎:
 

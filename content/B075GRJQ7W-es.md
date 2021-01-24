@@ -28,11 +28,11 @@ Ahora mismo tienes [Sunstech IBIZABT4GBBL - Reproductor MP4  Color Azul](https:/
 🔎:
 
 - Dispositivos compatibles: Smartphones, tablets, ordenadores, etc.
-- Pantalla de 1.8" (4,57cm) con resolución 128 x 160 px e incluye auriculares y cable USB
 - Soporta audio (mp3, ) vídeo (amv, ) e imagen (jpg, )
-- Reproductor mp4 bluetooth con radio FM y 4 GB (ampliable vía MicroSD)
 - Batería recargable (8h de autonomía) vía micro USB
 - Podómetro, lyrics display, ecualizador (7 modos) y grabadora de radio y de voz
+- Pantalla de 1.8" (4,57cm) con resolución 128 x 160 px e incluye auriculares y cable USB
+- Reproductor mp4 bluetooth con radio FM y 4 GB (ampliable vía MicroSD)
 - Tamaño de pantalla: 1.8 inches
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B075GRJQ7W/?tag=tolees-21)
