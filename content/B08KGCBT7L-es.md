@@ -1,32 +1,34 @@
 ---
 layout: post
-title: 'Pokémon Espada + Pase de Expansión al 25.05 % de descuento'
-date: 2021-01-05 20:27:53
+title: 'Nintendo - Pokémon Espada + Pase de Expa al 27.50 % de descuento'
+date: 2021-01-24 12:44:45
 image: 'https://m.media-amazon.com/images/I/515R+H4aLyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08KGCBT7L-es'
-actualPrice: 59.95 EUR
+slug: 'B08KGCBT7L-es Nintendo - Pokémon Espada + Pase de Expansión'
+sku: 'B08KGCBT7L-es'
+tags: [  ]
+actualPrice: 57.99 EUR
 currency: EUR
-price: 59.95
+price: 57.99
 comparePrice: 79.99 EUR
-prodname: 'Pokémon Espada + Pase de Expansión'
+prodname: 'Nintendo - Pokémon Espada + Pase de Expansión'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08KGCBT7L/?tag=tolees-21'
-descuento: '25.05'
-average: '67.24333333333334'
+descuento: '27.50'
+average: '64.93'
 ---
 
-Ahora mismo tienes [Pokémon Espada + Pase de Expansión](https://www.amazon.es/dp/B08KGCBT7L/?tag=tolees-21) a 59.95 EUR (original: 79.99 EUR) (25.05 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Nintendo - Pokémon Espada + Pase de Expansión](https://www.amazon.es/dp/B08KGCBT7L/?tag=tolees-21) a 57.99 EUR (original: 79.99 EUR) (27.50 %  de descuento) en el siguiente enlace!
 
-[![Pokémon Espada + Pase de Expansión](https://m.media-amazon.com/images/I/515R+H4aLyL._SL200_.jpg)](https://www.amazon.es/dp/B08KGCBT7L/?tag=tolees-21)
+[![Nintendo - Pokémon Espada + Pase de Expa](https://m.media-amazon.com/images/I/515R+H4aLyL._SL200_.jpg)](https://www.amazon.es/dp/B08KGCBT7L/?tag=tolees-21)
 
 🔎:
 
 - 100 PokéBalls
-- Uniforme Eevee
 - Uniforme Pikachu
+- Uniforme Eevee
 
-[Visítala!!!](https://www.amazon.es/dp/B08KGCBT7L/?tag=tolees-21)
+[🛒 Visítala!!!](https://www.amazon.es/dp/B08KGCBT7L/?tag=tolees-21)
