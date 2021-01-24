@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'Descuento del 48.93 % en Marca Amazon - find. Blazer para Hombre '
-date: 2021-01-16 01:32:44
+date: 2021-01-24 19:49:12
 image: 'https://m.media-amazon.com/images/I/31ytDzQAwyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M7D3F5X-es'
+slug: 'B07M7D3F5X-es Marca Amazon - find. Blazer para Hombre Azul marineblau 52...'
+sku: 'B07M7D3F5X-es'
+tags: [  ]
 actualPrice: 14.28 EUR
 currency: EUR
 price: 14.28
@@ -25,7 +27,7 @@ Tienes [Marca Amazon - find. Blazer para Hombre  Azul  marineblau   52  Label: 4
 
 ℹ️:
 
-- Jersey suave
 - Botonadura individual
+- Jersey suave
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07M7D3F5X/?tag=tolees-21)

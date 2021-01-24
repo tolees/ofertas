@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'G-STAR RAW Classic Trunk Clr 3 Pack Pant al 37.45 % de rebaja'
-date: 2021-01-23 16:10:14
+date: 2021-01-24 19:49:41
 image: 'https://m.media-amazon.com/images/I/41bfSbLaHCL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XCJFM4T/?tag=tolees-21'
 descuento: '37.45'
-average: '25.9833333333333'
+average: '25.586'
 ---
 
 Tienes [G-STAR RAW Classic Trunk Clr 3 Pack Pantalones Cortos  Multicolor  Lt Nassau Blue/Imperial B 8528   Medium para Hombre](https://www.amazon.es/dp/B06XCJFM4T/?tag=tolees-21) con precio final de  24.99 EUR (original: 39.95 EUR) (37.45 %  de rebaja) aqui!
