@@ -27,8 +27,8 @@ En este momento está [Tous Efim Brunock Chain  Bolso de Mano para Mujer   Negro
 
 🔎:
 
-- Efim brunock chain negro (bolso)
 - Certificado autenticidad tous
 - Asa y correa ajustable + desmontable
+- Efim brunock chain negro (bolso)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01MSIW3XU/?tag=tolees-21)

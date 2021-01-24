@@ -27,10 +27,10 @@ En este momento está [Aceele Hub USB C de 7 en 1  Adaptador USB tipo C con HDMI
 
 🔎:
 
-- ✅【Fuente de alimentación de tipo C】 Este puerto tipo c soporte la carga de computadora portátil con el cargador de PD portátil original. Tenga en cuenta que la transmisión de datos no es compatible.
-- ✅【Adaptador HDMI 4K Port】 El puerto HDMI admite una resolución máxima de 4K @ 30HZ Ultra HD, compatible con 1080P a 60HZ, 720P. La pantalla que extienda espejo o dispositivo con el puerto HDMI ofrece videos y audio de alta calidad y nítidos.
-- ✅【Transferencia de datos de alta velocidad】 El concentrador tiene tres dispositivos USB 3.0, todos soporten transmisión de datos de ultra alta velocidad a 5 Gbps y no interferirán con las señales WiFi. Puede conectar el disco duro, la impresora y el mouse a su computadora portátil USB-C.
-- ✅【Clienti Los clientes deben leer】 Cualquier problema relacionado con el uso de las instrucciones o la calidad, no dude en ponerse en contacto con nuestro servicio al cliente, le responderemos dentro de las 24 horas y lo resolveremos por usted.
 - ✅【Interfaz SD / TF conveniente】 La interfaz SD / TF se puede usar simultáneamente, lo que le ahorrará tiempo; Soporta velocidad USB 2.0 para leer datos;
+- ✅【Adaptador HDMI 4K Port】 El puerto HDMI admite una resolución máxima de 4K @ 30HZ Ultra HD, compatible con 1080P a 60HZ, 720P. La pantalla que extienda espejo o dispositivo con el puerto HDMI ofrece videos y audio de alta calidad y nítidos.
+- ✅【Clienti Los clientes deben leer】 Cualquier problema relacionado con el uso de las instrucciones o la calidad, no dude en ponerse en contacto con nuestro servicio al cliente, le responderemos dentro de las 24 horas y lo resolveremos por usted.
+- ✅【Transferencia de datos de alta velocidad】 El concentrador tiene tres dispositivos USB 3.0, todos soporten transmisión de datos de ultra alta velocidad a 5 Gbps y no interferirán con las señales WiFi. Puede conectar el disco duro, la impresora y el mouse a su computadora portátil USB-C.
+- ✅【Fuente de alimentación de tipo C】 Este puerto tipo c soporte la carga de computadora portátil con el cargador de PD portátil original. Tenga en cuenta que la transmisión de datos no es compatible.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07TZ45TF3/?tag=tolees-21)
