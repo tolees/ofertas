@@ -27,12 +27,12 @@ Está [Candy MIC201EX - Microondas integrable con grill y marco  Potencia 800W-1
 
 ℹ️:
 
-- Potencia Grill: 1000 W, Potencia Microondas: 800 W
-- Dimensiones: 59,5 x 34,3 x 38,2 cm; Diámetro del plato giratorio: 24,5 cm
-- Display Digital, Interior de la cavidad de acero inoxidable antihuellas y, mandos y pulsador en silver
-- 8 programas automáticos: Pizza, Patatas, Carne, Vegetales, Pescado, Pasta, Sopa, Gachas
-- Plato giratorio de grandes dimensiones: 24,5 cm
-- Monitor digital, Bloqueo de seguridad, Descongelación por Tiempo / Peso
 - Microondas de integración con marco, 20 L
+- Display Digital, Interior de la cavidad de acero inoxidable antihuellas y, mandos y pulsador en silver
+- Dimensiones: 59,5 x 34,3 x 38,2 cm; Diámetro del plato giratorio: 24,5 cm
+- Potencia Grill: 1000 W, Potencia Microondas: 800 W
+- 8 programas automáticos: Pizza, Patatas, Carne, Vegetales, Pescado, Pasta, Sopa, Gachas
+- Monitor digital, Bloqueo de seguridad, Descongelación por Tiempo / Peso
+- Plato giratorio de grandes dimensiones: 24,5 cm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0029MB1UK/?tag=tolees-21)

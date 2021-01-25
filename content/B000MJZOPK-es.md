@@ -28,7 +28,7 @@ Tienes [Issey Miyake - L Eau D Issey - Agua De Tocador Vaporizador  100 ml](http
 ℹ️:
 
 - Tipo de producto - Agua de colonia
-- Marca - Issey Miyake
 - Producto pensado para mujeres
+- Marca - Issey Miyake
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000MJZOPK/?tag=tolees-21)

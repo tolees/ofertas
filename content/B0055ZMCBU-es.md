@@ -28,8 +28,8 @@ Tienes [Orbegozo TO3010 Tostador  750 W  Plástico  2 Ranuras  Blanco](https://w
 ℹ️:
 
 - Tostador para 2 rebanadas de pan
+- Desconexión automática
 - La marca del producto es Orbegozo
 - Potencia: 750 W
-- Desconexión automática
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0055ZMCBU/?tag=tolees-21)

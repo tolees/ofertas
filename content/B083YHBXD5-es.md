@@ -27,7 +27,7 @@ Tienes [Desigual Accessories Fabric Across Body Bag  Bolsa para Cuerpo Mujer  Ne
 
 ℹ️:
 
-- negro
 - Diseño: accesorios, parte trasera, bolsa Across, color negro
+- negro
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B083YHBXD5/?tag=tolees-21)

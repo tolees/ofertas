@@ -27,7 +27,7 @@ Tienes [Reebok Classic Leather Zapatillas  Mujer  Blanco  Int-White / Gum   42 E
 
 ℹ️:
 
-- Rubber outsole and a moulded pu sockliner
 - The shoe has a die-cut eva midsole and a Reebok logo in grey
+- Rubber outsole and a moulded pu sockliner
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XJYRYDK/?tag=tolees-21)

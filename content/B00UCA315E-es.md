@@ -27,8 +27,8 @@ Tienes [Spontex - Bayeta Multifácil 2+1](https://www.amazon.es/dp/B00UCA315E/?t
 
 ℹ️:
 
-- Gran poder de absorción
 - Multiusos: ideal para todas las superficies del hogar
+- Gran poder de absorción
 - Suaves, flexibles y manejables
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00UCA315E/?tag=tolees-21)
