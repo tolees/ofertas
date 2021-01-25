@@ -27,10 +27,10 @@ En este momento está [Revlon ColorStay Maquillaje en Polvo  #880 Translucent ](
 
 🔎:
 
-- 16 hrs de acabado libre de brillos con fórmula ultrasuave, no comedogénica
-- Aplicar el producto con la esponja incluida en el producto o con brocha para polvos compactos
-- Minimiza brillos e imperfecciones
 - Acabado liso y perfecto durante todo el día
 - Tiene Colorstay y SoftFlex Confort para Ultrasuave, ligera y no comedogénica
+- Minimiza brillos e imperfecciones
+- 16 hrs de acabado libre de brillos con fórmula ultrasuave, no comedogénica
+- Aplicar el producto con la esponja incluida en el producto o con brocha para polvos compactos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01M1GFWU8/?tag=tolees-21)

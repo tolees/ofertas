@@ -29,8 +29,8 @@ Tienes [DigHealth 34 Piezas Alimentos de Juguete  Corte de Frutas y Alimentos Fa
 
 - Contiene 34 piezas: limón, pera, uva, fresa, plátano, sandía, tabla de cortar, cuchillo, pescado, Pequeña Estufa, Cuchillo, tabla de cortar, zanahoria, maíz, brócoli, chile y así.
 - Aumenta la imaginación y creatividad fomentando la creatividad a través de juegos de imitación y/o rol. Haciendo además dejar volar la imaginación del niño.
+- Hecho de alta calidad, no tóxico, seguro para los niños, fácil de lavar y resistente a las caídas.
 - Ayuda a desarrollar habilidades Sociales como es la comunicación, cooperación y colaboración. Además fomenta la confianza, la amistad y el desarrollo del lenguaje.
 - Cada fruta y verdura se puede cortar a la mitad, ya que están conectados con velcro. No habría ningún borde afilado que lastimen a los niños si los artículos se rompen.
-- Hecho de alta calidad, no tóxico, seguro para los niños, fácil de lavar y resistente a las caídas.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07MFXY4KT/?tag=tolees-21)

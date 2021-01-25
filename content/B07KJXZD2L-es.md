@@ -28,9 +28,9 @@ Ahora mismo tienes [Intel NUC 8I5BEKPA2 - Ordenador Mini PC  Intel Core i5-8259U
 🔎:
 
 - Sistema Operativo Windows 10 64-bit
+- 8 GB RAM DDR4-2400 (ampliables)
 - WiFi AC + Bluetooth 4.2, ranura para tarjeta microSD
 - Disco duro 256 GB NVMe SSD
-- 8 GB RAM DDR4-2400 (ampliables)
 - Procesador Intel Core i5-8259U (Hasta 3.80 GHz, 6 MB cache)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KJXZD2L/?tag=tolees-21)

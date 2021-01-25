@@ -27,10 +27,10 @@ Tienes [Goodthreads Seersucker Long-Sleeve Side-Button Shirt Shirts  Rayas Rosa/
 
 ℹ️:
 
-- La modelo mide 510" y lleva una talla S
 - Goodthreads tiene la misión de crear ropa increíble a precios asequibles. Nuestra ropa de mujer ofrece el equilibrio perfecto entre estilo femenino y chico, arraigado en denim y todo lo que llevas con él: camisas lavadas, suéteres acogedores, y camisetas perfectamente rotas.
-- Esta camisa cuenta con un bolsillo delantero y un canesú trasero con botones laterales, proporcionando un toque elegante en tu uso diario.
-- Nuestro seersucker se lava para crear un tejido texturizado suave y transpirable que es perfecto para todas tus aventuras en climas cálidos.
 - Esta camisa casual de manga larga proporciona un aspecto fácil perfecto para cualquier ocasión.
+- Esta camisa cuenta con un bolsillo delantero y un canesú trasero con botones laterales, proporcionando un toque elegante en tu uso diario.
+- La modelo mide 510" y lleva una talla S
+- Nuestro seersucker se lava para crear un tejido texturizado suave y transpirable que es perfecto para todas tus aventuras en climas cálidos.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07YDK75DF/?tag=tolees-21)
