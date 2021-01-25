@@ -27,11 +27,11 @@ En este momento está [Brother QL700 - Impresora de etiquetas profesional con te
 
 🔎:
 
-- Corte de cinta automático
-- Ancho máximo de etiqueta de 62 mm
-- Conexión a base de datos
 - Velocidad de impresión de hasta 93 etiquetas por minuto
-- Impresión de logotipos e imágenes
 - Impresión de códigos de barras
+- Corte de cinta automático
+- Impresión de logotipos e imágenes
+- Conexión a base de datos
+- Ancho máximo de etiqueta de 62 mm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0083WHWGM/?tag=tolees-21)

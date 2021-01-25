@@ -27,8 +27,8 @@ Está [adidas Condivo18 SHO Pantalones Cortos de Deporte  Hombre  Clear Grey/Bla
 
 ℹ️:
 
-- Regular fit
-- Zip pockets
 - Climacool technology
+- Zip pockets
+- Regular fit
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07K69GP6R/?tag=tolees-21)

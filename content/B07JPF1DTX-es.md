@@ -28,7 +28,7 @@ Está [adidas Terrex Eastrail GTX  Track and Field Shoe Hombre  Carbon/Core Blac
 ℹ️:
 
 - Tejido de forro interior
-- Suela sintética
 - textil, material superior sintético
+- Suela sintética
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07JPF1DTX/?tag=tolees-21)
