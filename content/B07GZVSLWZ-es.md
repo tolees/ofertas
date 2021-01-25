@@ -27,9 +27,9 @@ Ahora mismo tienes [Ice-Watch - ICE cosmos White Rose-gold - Reloj bianco para M
 
 🔎:
 
-- HERMETICIDAD : 10 ATM
-- TAMAÑO: Small (34mm)
 - CONTIENE: Reloj, caja de presentación, instrucciones
 - COLECCION : ICE cosmos
+- TAMAÑO: Small (34mm)
+- HERMETICIDAD : 10 ATM
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07GZVSLWZ/?tag=tolees-21)

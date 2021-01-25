@@ -27,10 +27,10 @@ En este momento está [WAVLINK Adaptador de concentrador USB C de 4 Puertos  Pue
 
 🔎:
 
-- Plug and Play: no se requiere controlador ni software. Admite la función de intercambio en caliente
-- Elegante y duradero: diseño de aluminio cepillado fácil de usar y llevar a cualquier parte, gris y plateado complementan perfectamente los accesorios de Apple
-- Protección múltiple: los protectores contra sobretensiones incorporados en cada puerto brindan la seguridad de la computadora
-- Puerto tipo C: admite la carga de hasta 5 V / 3 A, no dude en transferir archivos o datos con otros 3 puertos USB 3.0 a una velocidad de hasta 5 Gbps
 - Conector USB C: el conector USB C reversible conecta el dispositivo USB-C en cualquier dirección que desee
+- Protección múltiple: los protectores contra sobretensiones incorporados en cada puerto brindan la seguridad de la computadora
+- Elegante y duradero: diseño de aluminio cepillado fácil de usar y llevar a cualquier parte, gris y plateado complementan perfectamente los accesorios de Apple
+- Plug and Play: no se requiere controlador ni software. Admite la función de intercambio en caliente
+- Puerto tipo C: admite la carga de hasta 5 V / 3 A, no dude en transferir archivos o datos con otros 3 puertos USB 3.0 a una velocidad de hasta 5 Gbps
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B081WTGD8C/?tag=tolees-21)

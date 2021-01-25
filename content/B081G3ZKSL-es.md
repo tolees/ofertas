@@ -27,9 +27,9 @@ En este momento está [Lee Daren Zip Fly Jeans  Imán Dk Worn  32W x 32L para Ho
 
 🔎:
 
-- Tejido vaquero
-- Cuerda regular
-- Denim Stretch
 - Regular Straight
+- Denim Stretch
+- Cuerda regular
+- Tejido vaquero
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B081G3ZKSL/?tag=tolees-21)

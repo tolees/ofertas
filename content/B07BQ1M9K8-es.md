@@ -27,9 +27,9 @@ En este momento está [VicTsing Teclado Gaming Español USB  LED Rainbow Retroil
 
 🔎:
 
-- 【Fuerte Compatibilidad】Este Teclado Gaming con cable es compatible con Windows 95/98 / XP / 2000 / ME / VISTA / 7/8/10 y Mac OS. Mientras que tenga en cuenta que las teclas de acceso directo multimedia no están disponibles en el sistema MAC.
 - 【Descanso para la Muñeca Integrado Ergonómico】La altura adecuada del reposamuñecas permite que la muñeca se coloque cómodamente en el teclado. Maximice la comodidad de su mano para satisfacer las necesidades de un juego o trabajo de larga duración.
 - 【Alta Calidad y Calidad-Precio】El panel adopta todos los materiales de metal. Suficientemente pesado como para que no se mueva. Diseño de tapa de tecla flotante ultrafino para una alta eficiencia de pulsación de teclas y toque cómodo. Caracteres de talla de láser únicos, no fáciles de desvanecer.
+- 【Fuerte Compatibilidad】Este Teclado Gaming con cable es compatible con Windows 95/98 / XP / 2000 / ME / VISTA / 7/8/10 y Mac OS. Mientras que tenga en cuenta que las teclas de acceso directo multimedia no están disponibles en el sistema MAC.
 - 【Retroiluminación LED Cómodo】La iluminación está muy bien conseguida para crear una atmósfera confortable. 2 modos de luzes de fondo para sus opciones: permanente y respiración automática. El brillo y la velocidad de respiración de la luz de fondo se pueden ajustar.
 - 【19 Teclas sin Conflicto y 12 Teclas Multimedia】La tecnología anti-fantasmas permite que varias teclas funcionen simultáneamente para proporcionar una respuesta rápida al juego. 12 combinaciones de teclas multimedia facilitan el funcionamiento de tu trabajo o juego y mejoran la eficiencia.
 

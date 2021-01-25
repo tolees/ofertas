@@ -28,9 +28,9 @@ Está [Koch Media - Iron Harvest](https://www.amazon.es/dp/B086VQF26P/?tag=tolee
 ℹ️:
 
 - Construye y fortifica tu base, conquista puntos de recursos, construye tu base y levanta fortificaciones para proteger tu producción de unidades e investigación
-- Estrategia en tiempo real clásica refinada; dirige a decenas de tipos de unidades diferentes a la batalla, aprovecha el entorno para evitar daños y reduce edificios enteros a escombros; tómate tu tiempo para trazar un plan que te permita usar un amplio abanico de tácticas e incluso estrategias sigilosas; mecas; tenemos mecas; muchos mecas
-- Combate cooperativo y multijugador competitivo intenso; modo multijugador competitivo con clasificación, partidas clasificatorias y ligas; elige entre una amplia selección de mapas de escaramuzas y de desafíos que podrás jugar en solitario o en modo cooperativo
-- Elaboradas campañas para un solo jugador y una historia cautivadora; vive una historia épica con más de 20 misiones en tres campañas. Únete a nueve carismáticos héroes y a sus bestiales compañeros en sus aventuras por toda Europa; juega con un amigo para vencer en todas las campañas codo con codo en el modo cooperativo
 - Contrólalo todo, dirige tres facciones diferentes con más de 40 tipos de unidades y 9 héroes con habilidades únicas; crea escaramuzas y partidas en modo multijugador a tu gusto
+- Estrategia en tiempo real clásica refinada; dirige a decenas de tipos de unidades diferentes a la batalla, aprovecha el entorno para evitar daños y reduce edificios enteros a escombros; tómate tu tiempo para trazar un plan que te permita usar un amplio abanico de tácticas e incluso estrategias sigilosas; mecas; tenemos mecas; muchos mecas
+- Elaboradas campañas para un solo jugador y una historia cautivadora; vive una historia épica con más de 20 misiones en tres campañas. Únete a nueve carismáticos héroes y a sus bestiales compañeros en sus aventuras por toda Europa; juega con un amigo para vencer en todas las campañas codo con codo en el modo cooperativo
+- Combate cooperativo y multijugador competitivo intenso; modo multijugador competitivo con clasificación, partidas clasificatorias y ligas; elige entre una amplia selección de mapas de escaramuzas y de desafíos que podrás jugar en solitario o en modo cooperativo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086VQF26P/?tag=tolees-21)

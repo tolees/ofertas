@@ -27,8 +27,8 @@ En este momento está [adidas Lite Racer CLN  Zapatillas Hombre  GRIPAL/Gricin/N
 
 🔎:
 
-- Forro textil; suela y mediasuela Cloudfoam
 - Parte superior de malla
+- Forro textil; suela y mediasuela Cloudfoam
 - Plantilla OrthoLite que expulsa el sudor y la humedad y mantiene los pies secos
 - Horma clásica
 - Cierre de cordones

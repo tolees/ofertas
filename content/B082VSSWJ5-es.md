@@ -27,11 +27,11 @@ Tienes [Marca Amazon - Happy Belly Papaya deshidratada no azucarada  6 x 125g](h
 
 ℹ️:
 
-- Papaya deshidratada sin azúcares añadidos que puedes disfrutar como snack o usar para cocinar
-- Paquete de 6
-- Contiene azúcares naturalmente presentes
 - No apto para alérgicos a los frutos de cáscara y los cacahuetes, debido al método de producción
-- Producto de Tailandia
+- Contiene azúcares naturalmente presentes
+- Paquete de 6
 - Apto para dietas vegetarianas y veganas
+- Producto de Tailandia
+- Papaya deshidratada sin azúcares añadidos que puedes disfrutar como snack o usar para cocinar
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B082VSSWJ5/?tag=tolees-21)
