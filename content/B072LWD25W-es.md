@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 52.00 % en Brother DCP-L8410CDW -Impresora multifun'
-date: 2021-01-24 11:07:44
+date: 2021-01-25 11:50:59
 image: 'https://m.media-amazon.com/images/I/31Nk3-S3EaL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072LWD25W/?tag=tolees-21'
 descuento: '52.00'
-average: '263.936666666667'
+average: '258.91'
 ---
 
 Tienes [Brother DCP-L8410CDW -Impresora multifunción láser Color Profesional 3 en 1  impresión  Copia y escaneado  Alta Velocidad  WiFi  impresión a Doble Cara  LCD   Blanco](https://www.amazon.es/dp/B072LWD25W/?tag=tolees-21) con un 52.00 % de descuento con precio de oferta de 243.83 EUR (original: 507.99 EUR) en el siguiente enlace!
@@ -27,10 +27,10 @@ Tienes [Brother DCP-L8410CDW -Impresora multifunción láser Color Profesional 3
 
 ℹ️:
 
-- Velocidad de impresión y copia 31 ppm
 - Alimentador automático 50 hojas (ADF)
-- Impresión a doble cara
 - Pantalla LCD color táctil 9.3 cm
+- Impresión a doble cara
+- Velocidad de impresión y copia 31 ppm
 - Velocidad de digitalización 28 ipm
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B072LWD25W/?tag=tolees-21)
