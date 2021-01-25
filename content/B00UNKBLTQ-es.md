@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'Descuento del 25.27 % en Lotus Reloj Analógico para Hombre de Cua'
-date: 2021-01-17 20:33:08
+date: 2021-01-25 21:25:45
 image: 'https://m.media-amazon.com/images/I/41XyXuuoDiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UNKBLTQ-es'
+slug: 'B00UNKBLTQ-es Lotus Reloj Analógico para Hombre de Cuarzo con Correa en...'
+sku: 'B00UNKBLTQ-es'
+tags: [  ]
 actualPrice: 96.4 EUR
 currency: EUR
 price: 96.4
@@ -25,9 +27,9 @@ Tienes [Lotus Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxida
 
 ℹ️:
 
-- Cristal mineral endurecido.
-- Pulsera de acero inoxidable con cierre de botón.
-- Resistencia al agua hasta 50 metros.
-- Caja redonda de acero inoxidable chapada en azul.
+- Stainless steel bracelet with push button clasp
+- Hardend mineral glass
+- Water resistance to 50 meters
+- Blue plated stainless steel round case
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00UNKBLTQ/?tag=tolees-21)

@@ -1,31 +1,36 @@
 ---
 layout: post
-title: 'Kärcher Window Vac WV 2 Premium 10 years con un 26.05 % de descuento'
-date: 2020-06-02 17:01:19
+title: 'Kärcher 1.633-430.0 Window Vac WV 2 Prem con un 31.03 % de descuento'
+date: 2021-01-25 21:22:54
 image: 'https://m.media-amazon.com/images/I/41EE5BKLVaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075F78KDV-es Kärcher Window Vac WV 2 Premium 10 years - Limpiadora de...'
+slug: 'B075F78KDV-es Kärcher 1.633-430.0 Window Vac WV 2 Premium 10 years -...'
 sku: 'B075F78KDV-es'
 tags: [  ]
-actualPrice: 51.76 EUR
+actualPrice: 48.27 EUR
 currency: EUR
-price: 51.76
+price: 48.27
 comparePrice: 69.99 EUR
-prodname: 'Kärcher Window Vac WV 2 Premium 10 years - Limpiadora de ventanas a batería  aspirador limpiacristales   1.633-426.0 '
+prodname: 'Kärcher 1.633-430.0 Window Vac WV 2 Premium 10 years - Limpiadora de ventanas a batería  aspirador limpiacristales '
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075F78KDV/?tag=tolees-21'
-descuento: '26.05'
-average: '51.76'
+descuento: '31.03'
+average: '50.5966666666667'
 ---
 
-En este momento está [Kärcher Window Vac WV 2 Premium 10 years - Limpiadora de ventanas a batería  aspirador limpiacristales   1.633-426.0 ](https://www.amazon.es/dp/B075F78KDV/?tag=tolees-21) a 51.76 EUR (original: 69.99 EUR) (26.05 %  de descuento) en el siguiente enlace!
+En este momento está [Kärcher 1.633-430.0 Window Vac WV 2 Premium 10 years - Limpiadora de ventanas a batería  aspirador limpiacristales ](https://www.amazon.es/dp/B075F78KDV/?tag=tolees-21) a 48.27 EUR (original: 69.99 EUR) (31.03 %  de descuento) en el siguiente enlace!
 
-[![Kärcher Window Vac WV 2 Premium 10 years](https://m.media-amazon.com/images/I/41EE5BKLVaL._SL200_.jpg)](https://www.amazon.es/dp/B075F78KDV/?tag=tolees-21)
+[![Kärcher 1.633-430.0 Window Vac WV 2 Prem](https://m.media-amazon.com/images/I/41EE5BKLVaL._SL200_.jpg)](https://www.amazon.es/dp/B075F78KDV/?tag=tolees-21)
 
 🔎:
 
+- Ligero (600g) Depósito de agua sucia extraíble vaciado rápido raclette para cuadros pequeños.
+- Autonomía de 35 min sea 105 m² (aproximadamente 35 ventanas), depósito de agua sucia de 100 ml.
+- Anchura de la raclette de 280 mm y raclette pequeños azulejos de 170 mm. Peso de 600 g.
+- Diseño moderno Duración de 35 minutos Ultra silencioso (50 dB (a)) Pantalla LED con estado de carga de la batería
+- 185 min tiempo de carga.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B075F78KDV/?tag=tolees-21)
