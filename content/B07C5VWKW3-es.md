@@ -27,9 +27,9 @@ En este momento está [Lacoste Sport XH9507 Pantalones Deportivos  Gris  Argent 
 
 🔎:
 
-- Cinturilla elástica con cordones ajustables
-- Tobillos acanalados
 - Cocodrilo verde bordado
 - Pantalones deportivos para hombres, marca Lacoste
+- Tobillos acanalados
+- Cinturilla elástica con cordones ajustables
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07C5VWKW3/?tag=tolees-21)
