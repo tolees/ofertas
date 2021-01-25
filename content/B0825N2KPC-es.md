@@ -27,10 +27,10 @@ Ahora mismo tienes [Quiksilver Highline Hold Down 18" - Boardshorts para Hombre 
 
 🔎:
 
-- Longitud 45.7cm corto
 - Tratamiento hidrofóbico DryFlight que repele el agua
 - Elástico en 4 direcciones, fabricado a base de botellas de plástico
-- Bragueta Performance, bolsillos: bolsillos con solapa
 - Prenda diseñada para la acción
+- Longitud 45.7cm corto
+- Bragueta Performance, bolsillos: bolsillos con solapa
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0825N2KPC/?tag=tolees-21)

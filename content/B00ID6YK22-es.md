@@ -28,9 +28,9 @@ Ahora mismo tienes [Beissier M105481 - Aguaplast fibra tarro 750 ml](https://www
 🔎:
 
 - Aplicable en exterior e interior sobre hormigón cemento yeso pinturas plásticas madera ...
-- Sustituto de cintas elásticas.
 - Enlucido de fachadas fisuradas.
 - Sellado y armado de fisuras y grietas dinámicas.
 - Campos de aplicación
+- Sustituto de cintas elásticas.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00ID6YK22/?tag=tolees-21)

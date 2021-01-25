@@ -27,8 +27,8 @@ Está [Globber - Patinete go up Comfort 5 en 1 Lime Green  458-106 ](https://www
 
 ℹ️:
 
+- Desarrollar el equilibrio
 - Patinete 5 en 1
 - Reposapiés para la primera edad
-- Desarrollar el equilibrio
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B077JK6FF6/?tag=tolees-21)

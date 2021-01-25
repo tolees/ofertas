@@ -29,7 +29,7 @@ Tienes [Longspeed - Cute Tea Infuser Loose Leaf Colador Herbal Spice Silicona Fi
 
 - Amazing Tea Set Infuser Perfecto como regalo.
 - La operación es muy simple: simplemente cargue hojas de té sueltas, sumérjalas en tazas de agua caliente y observe cómo el sabor llena sus tazas.
-- Los coladores de té de silicona / infusores de té se adaptan a todas las tazas, en cualquier tamaño o forma.
 - ¡100 nuevo y de alta calidad!
+- Los coladores de té de silicona / infusores de té se adaptan a todas las tazas, en cualquier tamaño o forma.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B089SXGGFV/?tag=tolees-21)

@@ -27,13 +27,13 @@ Está [Burton Oak Sudadera  Hombre  Gray Heather/True Black  XS](https://www.ama
 
 ℹ️:
 
-- Tejido de secado rápido y muy transpirable
 - Tipo de deporte: outdoor sports apparel
 - Material: 100% poliéster
+- Bolsillos de canguro para calentar las manos; port media en los bolsillos
 - El ajuste regular es perfecto: no demasiado apretado ni demasiado holgado
 - Tejido de felpa de poliéster francés cepillado
-- Oak
-- Bolsillos de canguro para calentar las manos; port media en los bolsillos
+- Tejido de secado rápido y muy transpirable
 - Capucha ajustable con cordón; Los puños con orificio para el pulgar mantienen las mangas en su lugar
+- Oak
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08CLH8TN1/?tag=tolees-21)

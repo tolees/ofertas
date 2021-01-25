@@ -27,10 +27,10 @@ Tienes [BaByliss 9450E Espejo de Maquillaje Luminoso con Aumento x10 Imantado  I
 
 ℹ️:
 
+- Espejo amplificador de 10x desmontable
+- Iluminación LED de larga duración
+- Espejo de una sola cara de 1x
 - Tres luces de ambiente: low, médium, high
 - Dos luces nocturnas
-- Espejo de una sola cara de 1x
-- Iluminación LED de larga duración
-- Espejo amplificador de 10x desmontable
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07ZHPY45C/?tag=tolees-21)
