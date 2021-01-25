@@ -29,8 +29,8 @@ Ahora mismo tienes [Ufesa CC2000P - Calefactor de Pared 2000W  Protección IP22 
 
 - Control remoto y display led
 - 2000w de potencía
-- Adecuado para espacios bien aislados o para uso ocasional
-- Temporizador de 12 horas
 - Función ventilador con resisténcia cerámica
+- Temporizador de 12 horas
+- Adecuado para espacios bien aislados o para uso ocasional
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07XSCCNQH/?tag=tolees-21)

@@ -27,10 +27,10 @@ Tienes [Geomag Classic Panels Juego de Construcción Educativo  50 piezas  461  
 
 🔎:
 
-- Sistema de construcción magnético
-- Esferas metálicas (no magnéticas)
-- Infinitas posibilidades de construcción
 - Color de las barras: amarillo
 - Color de los paneles: naranja, rojo
+- Infinitas posibilidades de construcción
+- Sistema de construcción magnético
+- Esferas metálicas (no magnéticas)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01MR0NQ59/?tag=tolees-21)

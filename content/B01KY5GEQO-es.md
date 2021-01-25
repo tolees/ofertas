@@ -27,10 +27,10 @@ Tienes [Fantasy Flight Games- Star Wars Imperial Assault  Regreso a Hoth  Edge E
 
 ℹ️:
 
-- Este producto es una expansión requiere de Star Wars: Imperial Assault
-- El peligro acecha en todas partes: las fuerzas imperiales patrullan constantemente y los espías del Imperio inspeccionan el sistema en busca de rebeldes
 - Tres nuevos Héroes mas la Princesa Leia a enfrentarse a las fuerzas del Imperio, nuevas piezas de mapa, objetos, clases y recompensas te ayudarán a adentrarte más en la aventura de Star Wars
-- ¡Regresa a las gélidas llanuras de Hoth en una nueva expansión
+- Este producto es una expansión requiere de Star Wars: Imperial Assault
 - ¡La Armada Imperial ha localizado el hogar temporal de la Rebelión en la base eco y ha lanzado un ataque devastador! Los rebeldes se dispersan para escapar de la superficie de Hoth
+- El peligro acecha en todas partes: las fuerzas imperiales patrullan constantemente y los espías del Imperio inspeccionan el sistema en busca de rebeldes
+- ¡Regresa a las gélidas llanuras de Hoth en una nueva expansión
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01KY5GEQO/?tag=tolees-21)

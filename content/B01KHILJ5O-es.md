@@ -27,11 +27,11 @@ Tienes [Philips Lighting - Philips GU10 LED - Bombillas Cristal  4.6 W Equivalen
 
 ℹ️:
 
-- Luz instantánea al encenderse
 - No regulable
 - Bombillas LED de bajo consumo, ahorra hasta un 80%
-- Recomendado para uso en salones, habitaciones y pasillos creando un espacio acogedor
-- Iluminación de acento para resaltar zonas o realzar espacios concretos
 - Larga duración: hasta 15 años (15.000 horas)
+- Iluminación de acento para resaltar zonas o realzar espacios concretos
+- Recomendado para uso en salones, habitaciones y pasillos creando un espacio acogedor
+- Luz instantánea al encenderse
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01KHILJ5O/?tag=tolees-21)

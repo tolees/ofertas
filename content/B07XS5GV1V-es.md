@@ -27,10 +27,10 @@ Está [Polti Forzaspira SLIM SR90B - Escoba eléctrica sin cables  recargable  c
 
 ℹ️:
 
-- Almacenamiento rápido y fácil: parking vertical, se queda de pie solo
 - Escoba eléctrica con aspirador de mano integrado: 2 productos en 1; para limpiar todo tipo de suelos y pequeñas superficies
 - Los accesorios se pueden colocar en el aspirador portátil o directamente en el tubo de metal
 - Kit 2 accesorios para la limpieza de pequeñas superficies: lanza aspiración y boquilla con cerdas de nylon
 - Sin bolsa, depósito de recogida extraíble para fácilitar el vaciado
+- Almacenamiento rápido y fácil: parking vertical, se queda de pie solo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07XS5GV1V/?tag=tolees-21)
