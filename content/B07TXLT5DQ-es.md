@@ -27,10 +27,10 @@ Tienes [Superga 2750-cot3strapu  Zapatillas de Gimnasia Niños  Blanco  White 90
 
 ℹ️:
 
-- Le Superga
+- Sneaker.
 - Fotwear.
 - Around The World.
-- Sneaker.
 - Unisex.
+- Le Superga
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07TXLT5DQ/?tag=tolees-21)

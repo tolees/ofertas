@@ -27,12 +27,12 @@ Ahora mismo tienes [Lacor - 60405 - Tabla de Corte Cocina  Polietileno  Con Taco
 
 🔎:
 
-- Diseñada para el contacto con los alimentos
-- Contiene tacos antideslizantes para una fijación segura
-- Garantía de 2 años
-- Higiénica y fácil de limpiar. Aptas para el lavavajillas
-- No absorbe olores ni sabores
 - Medidas: GN 1/2 ( 32,5 x 26,5 cm). Grosor de 3cm
 - Tabla de corte fabricada en polietileno de alta calidad indeformable
+- Diseñada para el contacto con los alimentos
+- Garantía de 2 años
+- Contiene tacos antideslizantes para una fijación segura
+- Higiénica y fácil de limpiar. Aptas para el lavavajillas
+- No absorbe olores ni sabores
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B002KFYXJW/?tag=tolees-21)

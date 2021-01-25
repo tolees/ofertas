@@ -27,10 +27,10 @@ Ahora mismo tienes [Nero Giardini - NeroGiardini A807062D Botines Mujer De Piel 
 
 🔎:
 
-- Ajuste: Cómodo
-- Tacón: 7.5 cm
 - Material Interno: piel
-- Material Externo: Piel
 - Calidad: Made in Italy
+- Ajuste: Cómodo
+- Material Externo: Piel
+- Tacón: 7.5 cm
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JP4JF2X/?tag=tolees-21)

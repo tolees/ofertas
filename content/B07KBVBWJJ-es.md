@@ -28,7 +28,7 @@ Ahora mismo tienes [Dulceida DLPWB001 - Batería Externa  4000 mAh  diseño Bati
 🔎:
 
 - Dulceida
-- Diseño batido
 - 4.000 mAh
+- Diseño batido
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KBVBWJJ/?tag=tolees-21)

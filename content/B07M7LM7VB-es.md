@@ -27,10 +27,10 @@ Ahora mismo tienes [Paladone Products - Mini lámpara  multicolor](https://www.a
 
 🔎:
 
-- Alimentación por usb o tres pilas aaa (no incluidas en el producto)
-- Una gran idea de regalo para los verdaderos amantes de pacman
 - Diseño único e inconfundible
-- Producto con licencia oficial
 - Altura: 10 cm
+- Alimentación por usb o tres pilas aaa (no incluidas en el producto)
+- Producto con licencia oficial
+- Una gran idea de regalo para los verdaderos amantes de pacman
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07M7LM7VB/?tag=tolees-21)

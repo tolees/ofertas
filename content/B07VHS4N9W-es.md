@@ -27,16 +27,16 @@ Tienes [Calvin Klein Slim Short  Azul  Da032 Mid Blue 1a4   W28  Talla del Fabri
 
 🔎:
 
-- azul
-- mezclilla
-- multicolor/fantasía
 - Mangas cortas
-- Cintura de tiro medio
+- mezclilla
+- Estilo ajustado
+- Cuello redondo
+- Estilo de cinco bolsillos
 - Jersey de algodón orgánico
 - Bolsillo trasero omega bordado
-- Estilo ajustado
+- azul
 - Ajuste delgado
-- Estilo de cinco bolsillos
-- Cuello redondo
+- multicolor/fantasía
+- Cintura de tiro medio
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07VHS4N9W/?tag=tolees-21)
