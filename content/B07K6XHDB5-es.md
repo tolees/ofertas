@@ -27,10 +27,10 @@ Tienes [Babaria - Sérum Antioxidante 30 m](https://www.amazon.es/dp/B07K6XHDB5/
 
 ℹ️:
 
-- Rápida absorción, estimula la síntesis de acido hialuronico y del colágeno natural de la piel, mejorando su flexibilidad y tiene un efecto antiedad.
-- Aumenta el brillo de la piel y reduce las manchas por la edad consiguiendo una piel más luminosa
-- Protección urbana óptima y antipolución. Disminución de radicales libres
-- Serum ligero con un activo innovador derivado de la vitamina C en combinación con vitamina E
 - Recomendado para todas las edades y para todo tipo de pieles
+- Serum ligero con un activo innovador derivado de la vitamina C en combinación con vitamina E
+- Aumenta el brillo de la piel y reduce las manchas por la edad consiguiendo una piel más luminosa
+- Rápida absorción, estimula la síntesis de acido hialuronico y del colágeno natural de la piel, mejorando su flexibilidad y tiene un efecto antiedad.
+- Protección urbana óptima y antipolución. Disminución de radicales libres
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07K6XHDB5/?tag=tolees-21)

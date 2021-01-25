@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'adidas Lite Racer CLN  Zapatillas Hombre con un 46.62 % de descuento'
-date: 2021-01-23 10:22:03
+title: 'adidas Lite Racer CLN  Zapatillas Hombre con un 46.64 % de descuento'
+date: 2021-01-25 09:22:43
 image: 'https://m.media-amazon.com/images/I/41bUWyf1zjL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,28 +9,28 @@ author: ring
 slug: 'B089QQ8RCF-es adidas Lite Racer CLN Zapatillas Hombre...'
 sku: 'B089QQ8RCF-es'
 tags: [  ]
-actualPrice: 32.0 EUR
+actualPrice: 31.99 EUR
 currency: EUR
-price: 32.0
+price: 31.99
 comparePrice: 59.95 EUR
 prodname: 'adidas Lite Racer CLN  Zapatillas Hombre  GRIPAL/Gricin/NEGBÁS  44 EU'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B089QQ8RCF/?tag=tolees-21'
-descuento: '46.62'
-average: '32.0'
+descuento: '46.64'
+average: '31.995'
 ---
 
-En este momento está [adidas Lite Racer CLN  Zapatillas Hombre  GRIPAL/Gricin/NEGBÁS  44 EU](https://www.amazon.es/dp/B089QQ8RCF/?tag=tolees-21) a 32.0 EUR (original: 59.95 EUR) (46.62 %  de descuento) en el siguiente enlace!
+En este momento está [adidas Lite Racer CLN  Zapatillas Hombre  GRIPAL/Gricin/NEGBÁS  44 EU](https://www.amazon.es/dp/B089QQ8RCF/?tag=tolees-21) a 31.99 EUR (original: 59.95 EUR) (46.64 %  de descuento) en el siguiente enlace!
 
 [![adidas Lite Racer CLN  Zapatillas Hombre](https://m.media-amazon.com/images/I/41bUWyf1zjL._SL200_.jpg)](https://www.amazon.es/dp/B089QQ8RCF/?tag=tolees-21)
 
 🔎:
 
-- Plantilla OrthoLite que expulsa el sudor y la humedad y mantiene los pies secos
-- Cierre de cordones
-- Horma clásica
 - Forro textil; suela y mediasuela Cloudfoam
 - Parte superior de malla
+- Plantilla OrthoLite que expulsa el sudor y la humedad y mantiene los pies secos
+- Horma clásica
+- Cierre de cordones
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B089QQ8RCF/?tag=tolees-21)

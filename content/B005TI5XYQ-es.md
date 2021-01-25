@@ -27,8 +27,8 @@ Tienes [Francis Francis illycaffè X7.1 Iperpresso - Máquina de café en cápsu
 
 ℹ️:
 
-- Máquina de café en cápsulas X7 "Iperespresso", Negro - Illy
 - Ref. 949790
 - Marca - Illy
+- Máquina de café en cápsulas X7 "Iperespresso", Negro - Illy
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B005TI5XYQ/?tag=tolees-21)

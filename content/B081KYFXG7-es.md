@@ -27,10 +27,10 @@ Ahora mismo tienes [NOFFA Almohada Baja Altura Adultos  Almohada Viscoelastica 6
 
 🔎:
 
-- ( 3 ) PEQUEÑAS NOTAS 2: ES FINA, recomendamos esta almohada como una almohada adicional sobre su almohada. Ideal como almohada delgada cervicales dormir, cojines para personas que duermen de forma plana y abdominal.
-- ( 1 ) Información del producto: Tamaño: 60 * 40 * 6 cm. Peso: 1 kg. Almohada baja niños tardará entre 4 y 48 horas en recuperar su forma original. El núcleo del cojín está hecho de espuma viscoelástica.
 - ( 4 ) Zero Pressure Sleep: utilizamos un 100% de espuma de memoria premium, almohada baja altura adultos que puede reducir la presión en la cabeza y el cuello de la y no causar ruido en los sobres
-- ( 5 ) Garantía de reembolso: Si no está satisfecho con nuestro NOFFA almohada viscoelastica 60 cm, lle podemos ofrecer un reembolso completo.
 - ( 2）PEQUEÑAS NOTAS 1: Almohada Plana Niño Adulto ES FÁCIL, DISEÑO PARA ADOLESCENTES Y PERSONAS QUE DUERMEN COJINES BAJOS.
+- ( 1 ) Información del producto: Tamaño: 60 * 40 * 6 cm. Peso: 1 kg. Almohada baja niños tardará entre 4 y 48 horas en recuperar su forma original. El núcleo del cojín está hecho de espuma viscoelástica.
+- ( 5 ) Garantía de reembolso: Si no está satisfecho con nuestro NOFFA almohada viscoelastica 60 cm, lle podemos ofrecer un reembolso completo.
+- ( 3 ) PEQUEÑAS NOTAS 2: ES FINA, recomendamos esta almohada como una almohada adicional sobre su almohada. Ideal como almohada delgada cervicales dormir, cojines para personas que duermen de forma plana y abdominal.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B081KYFXG7/?tag=tolees-21)
