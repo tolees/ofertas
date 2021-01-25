@@ -27,10 +27,10 @@ Tienes [Bosch Professional GBH 2-23 REA - Martillo perforador con aspiración   
 
 ℹ️:
 
-- Juego de adaptadores de aspiración para trabajar con coronas perforadoras huecas (hasta 68 mm, compatibles también con aspiradores externos
-- Las válvulas de retención impiden el escape de polvo
 - Sistema de aspiración integrado y desmontable para un trabajo limpio y sin polvo
+- Las válvulas de retención impiden el escape de polvo
 - Trabajo cómodo, incluso por encima de la cabeza, gracias a un diseño especialmente compacto
+- Juego de adaptadores de aspiración para trabajar con coronas perforadoras huecas (hasta 68 mm, compatibles también con aspiradores externos
 - Se puede trabajar cómodamente incluso sin el módulo de aspiración gracias a que el sistema de aspiración puede extraerse de forma sencilla y sin necesidad de herramientas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000Y3XDR0/?tag=tolees-21)

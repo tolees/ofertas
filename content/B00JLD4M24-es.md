@@ -27,11 +27,11 @@ Tienes [Einhell TH-OS 1016 - Lijadora MULTI  100 W  superficie de pulido de 104 
 
 🔎:
 
-- Trabajos limpios y libres de polvo gracias a la bolsa de polvo incluida, esta bolsa puede ser sustituida por un aspirador que se puede conectar al dispositivo
-- Incluye un papel de lija P120
 - El dispositivo es manejable con una sola mano
-- Diseño ergonómico con agarre suave
-- Herramienta para el lijado de madera, plástico y metal, especialmente en lugares de difícil acceso y zonas más pequeñas
+- Incluye un papel de lija P120
 - El TH-OS 1016 está equipado con un sistema de velcro con el que los papeles de lija se pueden cambiar en cuestión de segundos
+- Herramienta para el lijado de madera, plástico y metal, especialmente en lugares de difícil acceso y zonas más pequeñas
+- Diseño ergonómico con agarre suave
+- Trabajos limpios y libres de polvo gracias a la bolsa de polvo incluida, esta bolsa puede ser sustituida por un aspirador que se puede conectar al dispositivo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00JLD4M24/?tag=tolees-21)

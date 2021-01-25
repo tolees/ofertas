@@ -27,10 +27,10 @@ Tienes [Bosch Professional 18V System Taladro percutor a batería GSB 18V-110 C 
 
 🔎:
 
-- Robusto: Adecuado también para tareas difíciles gracias al robusto portabrocas totalmente metálico
-- Incluye: GSB 18V-110 C, 2 baterías de 4,0 Ah ProCORE, cargador GAL 18V-40, maletín L-BOXX 136
 - Professional 18V System. Máximo rendimiento. Máxima libertad. Todas nuestras baterías son compatibles con las herramientas nuevas o existentes Bosch Professional del mismo voltaje
 - Potente: Gracias al par máximo (duro/blando) de 110 Nm/47 Nm y al motor Brushless sin escobillas, que garantizan un trabajo rápido
+- Robusto: Adecuado también para tareas difíciles gracias al robusto portabrocas totalmente metálico
 - Mayor seguridad: Gracias al sistema KickBack Control, el motor se apaga al instante en caso de bloqueo inesperado de la herramienta
+- Incluye: GSB 18V-110 C, 2 baterías de 4,0 Ah ProCORE, cargador GAL 18V-40, maletín L-BOXX 136
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B083MZCT9X/?tag=tolees-21)

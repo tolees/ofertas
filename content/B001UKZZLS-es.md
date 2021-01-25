@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'Vans U Old Skool - Zapatillas  Unisex Ad al 25.44 % de descuento'
-date: 2021-01-15 14:37:48
+date: 2021-01-25 15:45:42
 image: 'https://m.media-amazon.com/images/I/31DHgDxMiVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001UKZZLS-es'
+slug: 'B001UKZZLS-es Vans U Old Skool - Zapatillas Unisex Adulto Negro Nero...'
+sku: 'B001UKZZLS-es'
+tags: [  ]
 actualPrice: 55.92 EUR
 currency: EUR
 price: 55.92
@@ -25,10 +27,10 @@ Está [Vans U Old Skool - Zapatillas  Unisex Adulto  Negro  Nero  Schwarz/Black/
 
 ℹ️:
 
-- Material Composición: Canvas/cuero
-- Material exterior: cuero
-- Suela: Goma
 - Material interior: textil
+- Suela: Goma
+- Material exterior: cuero
+- Material Composición: Canvas/cuero
 - Cierre: schnürband
 - Ancho de caña: normal
 

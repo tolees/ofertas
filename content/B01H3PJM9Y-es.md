@@ -27,10 +27,10 @@ Tienes [Lotus Trendy 18248/3 - Reloj Mujer Acero Multifunción Azul](https://www
 
 🔎:
 
+- - Color de la caja: Azul
 - - Material de la Carcasa: Acero Inoxidable (bruñido)
 - - Luneta de: Acero Inoxidable (bruñido)
 - Carcasa
 - - Forma de la Carcasa: Redondo
-- - Color de la caja: Azul
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01H3PJM9Y/?tag=tolees-21)
