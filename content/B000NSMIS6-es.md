@@ -27,7 +27,7 @@ Está [Vans Slip-on - Zapatillas bajas clásicas Canvas para adultos  suela blan
 
 ℹ️:
 
-- Negro
 - adulto
+- Negro
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B000NSMIS6/?tag=tolees-21)

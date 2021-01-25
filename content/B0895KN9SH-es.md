@@ -27,10 +27,10 @@ Tienes [DC Shoes Earl Padded - Chaqueta acolchonada con Capucha - Hombre - XS](h
 
 🔎:
 
-- __Bolsillos:__ Bolsillo canguro amplio
-- __Corte: __Corte ceñido
 - __Tejido interior:__ forro de popelina de poliéster con un relleno de poliéster de 120g
-- __Capucha:__ Capucha fija de 3 paneles con cordón
+- __Corte: __Corte ceñido
 - __Tejido:__ tejido mezcla de poliéster y algodón tejido de sarga [270 g/m2]
+- __Capucha:__ Capucha fija de 3 paneles con cordón
+- __Bolsillos:__ Bolsillo canguro amplio
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0895KN9SH/?tag=tolees-21)

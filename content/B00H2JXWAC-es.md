@@ -27,11 +27,11 @@ Ahora mismo tienes [Arregui BC/0 Caja fuerte de empotrar a pared  5 mm de espeso
 
 🔎:
 
-- MEDIDAS: 18 cm de alto, 26 cm de ancho, 15 cm de fondo. 4 litros de capacidad
+- PARA EMPOTRAR EN PARED: requiere de obra para su instalación en el interior de la pared
+- FÁCIL DE USAR: caja fuerte de apertura y cierre mediante llave, muy fácil de usar. Cerradura de seguridad de gorjas de llave de doble paletón
+- CON ESTANTE en su interior, que se puede extraer si no se quiere utilizar
 - FRENTE ROBUSTO DE 5 mm: fabricada en acero reforzado con frente robusto y seguro de 5 mm de espesor
 - BULONES ANTISIERRA: cierre mediante 2 bulones de 18 mm de diámetro. Los bulones son giratorios, con lo que se impide cualquier intento de corte con sierra desde el exterior
-- CON ESTANTE en su interior, que se puede extraer si no se quiere utilizar
-- FÁCIL DE USAR: caja fuerte de apertura y cierre mediante llave, muy fácil de usar. Cerradura de seguridad de gorjas de llave de doble paletón
-- PARA EMPOTRAR EN PARED: requiere de obra para su instalación en el interior de la pared
+- MEDIDAS: 18 cm de alto, 26 cm de ancho, 15 cm de fondo. 4 litros de capacidad
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00H2JXWAC/?tag=tolees-21)
