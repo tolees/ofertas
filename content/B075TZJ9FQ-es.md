@@ -27,7 +27,7 @@ Tienes [Only Onlsedona Light Coat Otw Noos Abrigo  Etherea/Detail:Melange  40  T
 
 🔎:
 
-- Abrigo de lana con capucha.
 - Abrigo largo de entretiempo.
+- Abrigo de lana con capucha.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B075TZJ9FQ/?tag=tolees-21)

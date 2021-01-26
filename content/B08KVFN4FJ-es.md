@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Electronic Arts - NEED FOR SPEED HOT PUR al 39.25 % de rebaja'
-date: 2021-01-25 07:36:40
+date: 2021-01-26 09:03:24
 image: 'https://m.media-amazon.com/images/I/51oBXuyf8SL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08KVFN4FJ/?tag=tolees-21'
 descuento: '39.25'
-average: '25.636'
+average: '25.5133333333333'
 ---
 
 Tienes [Electronic Arts - NEED FOR SPEED HOT PURSUIT REMASTERED](https://www.amazon.es/dp/B08KVFN4FJ/?tag=tolees-21) con precio final de  24.9 EUR (original: 40.99 EUR) (39.25 %  de rebaja) aqui!

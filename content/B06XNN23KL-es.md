@@ -27,9 +27,9 @@ En este momento está [Acer Predator Z35 - Monitor LED 35"  UW-QHD 3440 x 1440  
 
 🔎:
 
-- Resolución de la pantalla: 3440 x 1440 Pixeles
-- Tiempo de respuesta: 4 ms
 - Tecnología de visualización: LED
 - Diagonal de la pantalla: 88,9 cm
+- Tiempo de respuesta: 4 ms
+- Resolución de la pantalla: 3440 x 1440 Pixeles
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B06XNN23KL/?tag=tolees-21)

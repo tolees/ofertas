@@ -27,9 +27,9 @@ Está [Widmann 02647 - Disfraz para niños con diseño Ninja  Negro  140 cm](htt
 
 ℹ️:
 
-- Adecuado para niños y niñas de 8 a 10 años
-- Hecho en poliéster
 - Ideal para carnaval, carnaval, fiestas o Halloween
+- Adecuado para niños y niñas de 8 a 10 años
 - El set incluye un abrigo con capucha, pantalones, cinturón y la máscara
+- Hecho en poliéster
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B003Y7HB6W/?tag=tolees-21)

@@ -27,9 +27,9 @@ En este momento está [Zeon 10645 - Reloj despertador  replica R2D2 de Star Wars
 
 🔎:
 
-- Material: PVC
 - Luz y Sonido
-- Sobremesa
 - Presentación: blíster
+- Sobremesa
+- Material: PVC
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B007IQR8EA/?tag=tolees-21)

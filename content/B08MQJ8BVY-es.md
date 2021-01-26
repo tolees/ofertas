@@ -27,8 +27,8 @@ En este momento está [Geographical Norway Chaqueta de hombre BOKER MARRÓN tall
 
 🔎:
 
-- pelo destomtable
 - Chaqueta de hombre
+- pelo destomtable
 - Capucha
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08MQJ8BVY/?tag=tolees-21)
