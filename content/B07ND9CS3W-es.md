@@ -28,9 +28,9 @@ En este momento está [Tommy Hilfiger Reloj Multiesfera para Mujer de Cuarzo con
 🔎:
 
 - Pulsera de acero inoxidable
-- 3 ATM de resistencia al agua
-- Esfera blanca con efecto de rayo de sol
-- Movimiento multifunción
 - Grosor de la caja de 8,3mm
+- Movimiento multifunción
+- Esfera blanca con efecto de rayo de sol
+- 3 ATM de resistencia al agua
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07ND9CS3W/?tag=tolees-21)

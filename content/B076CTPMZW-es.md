@@ -28,7 +28,7 @@ Está [SKS GERMANY - Bidón sks grande plástico 750ml](https://www.amazon.es/dp
 ℹ️:
 
 - Botella de agua
-- Bicicleta de montaña Shiva
 - Capacidad: 750 ml
+- Bicicleta de montaña Shiva
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076CTPMZW/?tag=tolees-21)
