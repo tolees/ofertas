@@ -1,28 +1,29 @@
 ---
 layout: post
-title: 'Bloodstained: Ritual of the night al 39.28 % de descuento'
-date: 2021-01-19 14:07:22
+title: '505 Games - Bloodstained: Ritual of the  al 39.28 % de descuento'
+date: 2021-01-26 20:43:38
 image: 'https://m.media-amazon.com/images/I/51efBSC2OtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RHVKRML-es Bloodstained: Ritual of the night'
-tags: [ 'tole.es', ]
+slug: 'B07RHVKRML-es 505 Games - Bloodstained: Ritual of the night'
+sku: 'B07RHVKRML-es'
+tags: [  ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9
 comparePrice: 41.01 EUR
-prodname: 'Bloodstained: Ritual of the night'
+prodname: '505 Games - Bloodstained: Ritual of the night'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07RHVKRML/?tag=tolees-21'
 descuento: '39.28'
-average: '24.3696'
+average: '24.4088888888889'
 ---
 
-Ahora mismo tienes [Bloodstained: Ritual of the night](https://www.amazon.es/dp/B07RHVKRML/?tag=tolees-21) a 24.9 EUR (original: 41.01 EUR) (39.28 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [505 Games - Bloodstained: Ritual of the night](https://www.amazon.es/dp/B07RHVKRML/?tag=tolees-21) a 24.9 EUR (original: 41.01 EUR) (39.28 %  de descuento) en el siguiente enlace!
 
-[![Bloodstained: Ritual of the night](https://m.media-amazon.com/images/I/51efBSC2OtL._SL200_.jpg)](https://www.amazon.es/dp/B07RHVKRML/?tag=tolees-21)
+[![505 Games - Bloodstained: Ritual of the ](https://m.media-amazon.com/images/I/51efBSC2OtL._SL200_.jpg)](https://www.amazon.es/dp/B07RHVKRML/?tag=tolees-21)
 
 🔎:
 

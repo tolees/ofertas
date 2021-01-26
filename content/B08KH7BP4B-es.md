@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mr. Wonderful Agenda clásica 2021 Semana al 47.52 % de rebaja'
-date: 2021-01-24 18:13:35
+date: 2021-01-26 19:36:56
 image: 'https://m.media-amazon.com/images/I/41Lm1FbEKRL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08KH7BP4B/?tag=tolees-21'
 descuento: '47.52'
-average: '16.1580821917809'
+average: '16.0028859060403'
 ---
 
 Tienes [Mr. Wonderful Agenda clásica 2021 Semana vista - 2021 va a ir superbién](https://www.amazon.es/dp/B08KH7BP4B/?tag=tolees-21) con precio final de  8.45 EUR (original: 16.1 EUR) (47.52 %  de rebaja) aqui!
