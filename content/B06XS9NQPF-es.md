@@ -28,8 +28,8 @@ Tienes [Daniel Wellington Petite Sterling  Reloj Plateado  32mm  Metálico  para
 🔎:
 
 - Correa de Acero inoxidable
+- Reloj De vestir
 - Esfera de Mineral
 - Marca - DANIEL WELLINGTON
-- Reloj De vestir
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B06XS9NQPF/?tag=tolees-21)
