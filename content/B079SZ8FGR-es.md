@@ -27,9 +27,9 @@ En este momento está [Kappa SALCITO TKS Chándal  Hombre  Negro/Blanco  L](http
 
 🔎:
 
-- Ajuste óptimo
-- Proporciona libertad de movimiento
-- Omini Kappa bordado el pecho y Kappa impreso en la pierna izquierda
 - Elástico en la cintura y puños acanalados en las mangas
+- Ajuste óptimo
+- Omini Kappa bordado el pecho y Kappa impreso en la pierna izquierda
+- Proporciona libertad de movimiento
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B079SZ8FGR/?tag=tolees-21)

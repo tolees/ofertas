@@ -27,12 +27,12 @@ Tienes [D-Link DHP-P601AV/E  Kit Powerline Av2 PLC 1000 Extensor de Red  2  Blan
 
 ℹ️:
 
-- El enchufe incorporado en el propio dispositivo, permite seguir disponiendo de la toma de corriente
-- Plug & Play: enchufar, emparejar y listo
 - Ideal para transmisiones de video en alta velocidad
-- Compatible con estándar HomePlug AV2, que lo hace compatible con dispositivos de otros fabricantes
-- Kit de dos PLCs con enchufe, a Gigabit (1000 Mbps PHY)
 - 1 puerto Gigabit LAN (10/100/1000 Mbps) en cada adaptador del kit
+- Kit de dos PLCs con enchufe, a Gigabit (1000 Mbps PHY)
+- Plug & Play: enchufar, emparejar y listo
+- El enchufe incorporado en el propio dispositivo, permite seguir disponiendo de la toma de corriente
+- Compatible con estándar HomePlug AV2, que lo hace compatible con dispositivos de otros fabricantes
 - Conecta este dispositivo a la toma de corriente de la pared y, a éste, tu regleta, de este modo evitarás las interferencias de la línea eléctrica
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00PVE2DP0/?tag=tolees-21)

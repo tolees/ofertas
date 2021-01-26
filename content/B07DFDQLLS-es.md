@@ -27,8 +27,8 @@ Ahora mismo tienes [Funko - Alita Idea Regalo  estatuas  coleccionables  Comics 
 
 🔎:
 
-- El producto se vende en la caja original con ventana frontal.
-- Los Funko Pop son reproducciones estilizadas de personajes icónicos de películas, series de televisión, series animadas, cómics, videojuegos y mucho más.
 - Las reproducciones miden aproximadamente 9 cm, pero también existen versiones extragrandes.
+- Los Funko Pop son reproducciones estilizadas de personajes icónicos de películas, series de televisión, series animadas, cómics, videojuegos y mucho más.
+- El producto se vende en la caja original con ventana frontal.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DFDQLLS/?tag=tolees-21)

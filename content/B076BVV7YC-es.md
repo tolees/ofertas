@@ -27,9 +27,9 @@ Ahora mismo tienes [Capcom - Resident Evil VII: Biohazard - Gold Edition](https:
 
 🔎:
 
-- BANNED FOOTAGE VOL. 1: Pesadilla: Atrapado en un sótano repleto de horrores, debes luchar por tu vida… Dormitorio: Atado a una cama, debes luchar por escapar mientras evitas la mirada vigilante de la Madre… incluye el Bonus Extra: Ethan Must Die
-- RESIDENT EVIL VII BIOHAZARD
 - END OF ZOE: Un misterioso hombre llamado Joe vive a orillas del pantano y tiene la oportunidad de encontrarse con Zoe. Juntos se enfrentarán a su destino
+- RESIDENT EVIL VII BIOHAZARD
+- BANNED FOOTAGE VOL. 1: Pesadilla: Atrapado en un sótano repleto de horrores, debes luchar por tu vida… Dormitorio: Atado a una cama, debes luchar por escapar mientras evitas la mirada vigilante de la Madre… incluye el Bonus Extra: Ethan Must Die
 - BANNED FOOTAGE VOL. 2: 21: Participa en un juego de cartas retorcido donde la apuesta es tu vida… Hijas: Vive los eventos que ocurrieron la noche que empezó todo, cuando la perdición de los Bakers se puso en marcha… incluye el bonus extra Jacks 55th Birthday
 - INCLUYE EL JUEGO ORIGINAL MÁS TODOS LOS DLC´s DEL SEASON PASS
 
