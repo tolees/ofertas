@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'Geographical Norway Parka BOOMERANG homb con un 49.60 % de descuento'
-date: 2021-01-12 17:56:10
+date: 2021-01-26 17:41:51
 image: 'https://m.media-amazon.com/images/I/415sS1PxQhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08QCZWFMV-es'
+slug: 'B08QCZWFMV-es Geographical Norway Parka BOOMERANG hombre GRIS OSCURO...'
+sku: 'B08QCZWFMV-es'
+tags: [  ]
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9
@@ -25,8 +27,8 @@ En este momento está [Geographical Norway Parka BOOMERANG hombre GRIS OSCURO ta
 
 🔎:
 
-- Chaqueta de hombre
-- pelo destomtable
 - Capucha
+- pelo destomtable
+- Chaqueta de hombre
 
-[Aquí!!!](https://www.amazon.es/dp/B08QCZWFMV/?tag=tolees-21)
+[🛒 Aquí!!!](https://www.amazon.es/dp/B08QCZWFMV/?tag=tolees-21)

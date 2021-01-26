@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GREAT ART XXL Póster – Manhattan Bridge  al 27.75 % de descuento'
-date: 2021-01-23 16:28:07
+date: 2021-01-26 16:34:55
 image: 'https://m.media-amazon.com/images/I/51ZkYy8xN5L._SL200_.jpg'
 comments: true
 category: ofertas
