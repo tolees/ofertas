@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Paladone PP4140PS  Lámpara "PlayStation" al 27.60 % de rebaja'
-date: 2021-01-24 23:30:05
+date: 2021-01-26 00:59:42
 image: 'https://m.media-amazon.com/images/I/31eUAfuyDSL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079CBP6P9/?tag=tolees-21'
 descuento: '27.60'
-average: '24.253'
+average: '24.2752747252747'
 ---
 
 Tienes [Paladone PP4140PS  Lámpara "PlayStation"  Multicolor](https://www.amazon.es/dp/B079CBP6P9/?tag=tolees-21) con precio final de  26.28 EUR (original: 36.3 EUR) (27.60 %  de rebaja) aqui!
@@ -27,10 +27,10 @@ Tienes [Paladone PP4140PS  Lámpara "PlayStation"  Multicolor](https://www.amazo
 
 🔎:
 
-- Cuenta con 3 modos; iluminación estándar, fase de color y música reactiva
-- Mercancía 100% con licencia oficial
-- El embalaje puede variar de cualquier imagen mostrada
-- Medidas aprox. 30cm (w) x 5.6cm (d) x 9.5cm (h)
 - Requiere 3 x pilas aaa (no incluidas)
+- Mercancía 100% con licencia oficial
+- Medidas aprox. 30cm (w) x 5.6cm (d) x 9.5cm (h)
+- El embalaje puede variar de cualquier imagen mostrada
+- Cuenta con 3 modos; iluminación estándar, fase de color y música reactiva
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079CBP6P9/?tag=tolees-21)

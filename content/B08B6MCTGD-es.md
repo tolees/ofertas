@@ -27,9 +27,9 @@ Está [Nestlé Papillas - Nestlé Selección De La Naturaleza Papilla Sin Gluten
 
 ℹ️:
 
-- Enriquecido con Hierro y vitaminas A, B1 y C
-- Con 0% de azúcares añadidos ni producidos
-- Tiene una textura casera y un sabor suave y natural
 - Para bebés a partir de los cuatro meses
+- Enriquecido con Hierro y vitaminas A, B1 y C
+- Tiene una textura casera y un sabor suave y natural
+- Con 0% de azúcares añadidos ni producidos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08B6MCTGD/?tag=tolees-21)

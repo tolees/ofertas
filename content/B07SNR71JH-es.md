@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko - POP Rides: Game of Thrones - Dae al 29.94 % de descuento'
-date: 2021-01-24 18:53:19
+date: 2021-01-26 00:18:02
 image: 'https://m.media-amazon.com/images/I/41+j+UNLhfL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07SNR71JH/?tag=tolees-21'
 descuento: '29.94'
-average: '27.7640384615385'
+average: '27.7683018867925'
 ---
 
 Está [Funko - POP Rides: Game of Thrones - Daenerys on Fiery Drogon](https://www.amazon.es/dp/B07SNR71JH/?tag=tolees-21) con 29.94 de descuento por 27.99 EUR (original: 39.95 EUR) en el siguiente enlace!
@@ -27,9 +27,9 @@ Está [Funko - POP Rides: Game of Thrones - Daenerys on Fiery Drogon](https://ww
 
 ℹ️:
 
-- Funko pop is the 2018 toy of the year and peoples choice award winner
-- Check out the other game of thrones figures from funko collect them all
 - Figure stands 16cm and comes in a window display box
+- Check out the other game of thrones figures from funko collect them all
 - From game of thrones, daenerys on fiery drogon, as a stylized pop rides vinyl from funko
+- Funko pop is the 2018 toy of the year and peoples choice award winner
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SNR71JH/?tag=tolees-21)
