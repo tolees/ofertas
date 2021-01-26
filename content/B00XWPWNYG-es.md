@@ -27,8 +27,8 @@ Tienes [Nike Tanjun  Zapatillas de Running para Hombre  Negro  Black/White 011  
 
 ℹ️:
 
-- 1
 - Shoe Width : medium
+- 1
 - Textíl, Textíl, canvas, sintética, Cordones, Zapatillas bajas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XWPWNYG/?tag=tolees-21)

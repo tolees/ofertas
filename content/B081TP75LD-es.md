@@ -27,8 +27,8 @@ Tienes [adidas Solid Clx SH SL Traje de Baño  Hombre  Legend Ink  4](https://ww
 
 ℹ️:
 
+- Chlorine-resistant fabric
 - Swimsuit
 - Elastic Waistband with lanyard
-- Chlorine-resistant fabric
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B081TP75LD/?tag=tolees-21)

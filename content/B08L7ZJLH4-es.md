@@ -27,9 +27,9 @@ Tienes [Bota Mujer Hispanitas Alpes Negra 38](https://www.amazon.es/dp/B08L7ZJLH
 
 🔎:
 
-- Shoe Width : medium
-- Piel , cuero, Piel , cuero, Piel , cuero, Piel , cuero, 40.0, 4.0, 32.0, Cremallera, Botas urbanas
-- País de fabricación : Ceuta y Melilla
 - Dimensiones : Altura del tacón : 4.0 cm, Altura del corte : 40.0 cm, Contorno de la pantorrilla (talla 37) : 32.0 cm
+- País de fabricación : Ceuta y Melilla
+- Piel , cuero, Piel , cuero, Piel , cuero, Piel , cuero, 40.0, 4.0, 32.0, Cremallera, Botas urbanas
+- Shoe Width : medium
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08L7ZJLH4/?tag=tolees-21)

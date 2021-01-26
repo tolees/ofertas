@@ -27,8 +27,8 @@ Tienes [adidas E 3S TT TRIC Caqueta con Cremallera  Hombre  Negro  Black/White  
 
 🔎:
 
-- Regular fit
-- Full zip; ribbed hem
 - High neck
+- Full zip; ribbed hem
+- Regular fit
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07KN5W5H4/?tag=tolees-21)

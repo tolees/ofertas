@@ -27,10 +27,10 @@ Está [tado° Kit de Inicio de Termostato Inteligente tadoº V3+ con 2 Cabezales
 
 ℹ️:
 
-- Auto-Assist: Para una mayor comodidad puedes automatizar la Geolocalización y la Detección de Ventanas Abiertas - también tendrás acceso a Cuidado y Protección (en la app, 2,99€/mes; 24,99€/año)
-- Controla tu calefacción desde donde estés con la app de tadoº en tu teléfono, con acceso a tu historial climático y ahorros
-- Sustituye un termostato cableado; compatible con el 95% de sistemas de calefacción con control centralizado; incluye 2 Cabezales Termostáticos Inteligentes para control de habitaciones múltiples
 - Integración de Smart Home y control de voz para tu calefacción con Amazon Alexa, Apple HomeKit y Asistente de Google
+- Auto-Assist: Para una mayor comodidad puedes automatizar la Geolocalización y la Detección de Ventanas Abiertas - también tendrás acceso a Cuidado y Protección (en la app, 2,99€/mes; 24,99€/año)
 - Reduce tu consumo de energía, ahorra dinero y disfruta de la temperatura óptima en cualquier momento con la ayuda de nuestras skills inteligentes: Geolocalización, Detección de Ventanas Abiertas y Adaptación Meteorológica
+- Sustituye un termostato cableado; compatible con el 95% de sistemas de calefacción con control centralizado; incluye 2 Cabezales Termostáticos Inteligentes para control de habitaciones múltiples
+- Controla tu calefacción desde donde estés con la app de tadoº en tu teléfono, con acceso a tu historial climático y ahorros
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07YCWFW6T/?tag=tolees-21)

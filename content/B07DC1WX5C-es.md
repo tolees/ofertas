@@ -1,31 +1,36 @@
 ---
 layout: post
-title: 'Descuento del 34.13 % en Puma Leader Vt SL  Zapatillas de Running'
-date: 2020-04-03 17:28:37
+title: 'Descuento del 50.04 % en PUMA Leader VT SL  Zapatillas Unisex Adu'
+date: 2021-01-26 11:46:49
 image: 'https://m.media-amazon.com/images/I/41zwH5Nvt+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DC1WX5C-es Puma Leader Vt SL Zapatillas de Running Unisex Adulto...'
+slug: 'B07DC1WX5C-es PUMA Leader VT SL Zapatillas Unisex Adulto Negro...'
 sku: 'B07DC1WX5C-es'
 tags: [  ]
-actualPrice: 39.49 EUR
+actualPrice: 29.95 EUR
 currency: EUR
-price: 39.49
+price: 29.95
 comparePrice: 59.95 EUR
-prodname: 'Puma Leader Vt SL  Zapatillas de Running Unisex Adulto  Negro  Puma Black- Puma White - Indigo Bunting   44 EU'
+prodname: 'PUMA Leader VT SL  Zapatillas Unisex Adulto  Negro  Black/White/Indigo Bunting   44 EU'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DC1WX5C/?tag=tolees-21'
-descuento: '34.13'
-average: '41.22'
+descuento: '50.04'
+average: '35.585'
 ---
 
-Tienes [Puma Leader Vt SL  Zapatillas de Running Unisex Adulto  Negro  Puma Black- Puma White - Indigo Bunting   44 EU](https://www.amazon.es/dp/B07DC1WX5C/?tag=tolees-21) con un 34.13 % de descuento con precio de oferta de 39.49 EUR (original: 59.95 EUR) en el siguiente enlace!
+Tienes [PUMA Leader VT SL  Zapatillas Unisex Adulto  Negro  Black/White/Indigo Bunting   44 EU](https://www.amazon.es/dp/B07DC1WX5C/?tag=tolees-21) con un 50.04 % de descuento con precio de oferta de 29.95 EUR (original: 59.95 EUR) en el siguiente enlace!
 
-[![Puma Leader Vt SL  Zapatillas de Running](https://m.media-amazon.com/images/I/41zwH5Nvt+L._SL200_.jpg)](https://www.amazon.es/dp/B07DC1WX5C/?tag=tolees-21)
+[![PUMA Leader VT SL  Zapatillas Unisex Adu](https://m.media-amazon.com/images/I/41zwH5Nvt+L._SL200_.jpg)](https://www.amazon.es/dp/B07DC1WX5C/?tag=tolees-21)
 
 ℹ️:
 
+- Composición: Sintético
+- Revestimiento: Sintético
+- Cierre: Cordones
+- Material exterior: Sintético
+- Material de la suela: Goma
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07DC1WX5C/?tag=tolees-21)

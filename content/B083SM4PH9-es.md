@@ -27,10 +27,10 @@ Tienes [EBL LCD Cargador de Pilas con 4 x AA y 4 x AAA  Cargador de batería par
 
 🔎:
 
-- 【Control Inteligente】 Cuando la carga se termina, cambia automáticamente a carga lenta para garantizar la capaciada máxima de la pila.
 - 【Pantalla LCD】 Smart pantalla LCD indica el proceso de carga de las pilas recargables AA/AAA/C/D.
 - 【Protección Múltiple】 Advanced MCU control y -∆V función, más de calor y protección de sobreintensidad de corriente, protección de corto circuito, no recargables y detección de pila defectuosa.
-- 【2 Modos Puertos】 Con 2 puertos de entrada de 5V/2A (Micro USB y Tipo C), tendrá más opciones para realizar la carga, ahorre tiempo de espera para cargar. Satisface las necesidades de mayor carga, ya sea en la oficina, casa, coche o en vacaciones.
 - 【8 Ranuras Universales y Independientes】 EBL Cargador de pilas universal con ranuras de carga independientes. 8 ranuras para 1/2/3...7/8 pcs AA/AAA pilas recargables NI-MH o 4 ranuras para pila recargables 1/2/3/4 pcs C/D NI-MH. Paquete incluye: 1* cargador de pilas, 4 * AA pilas recargables 2800mAh, 4 * AAA pilas recargables 1100mAh.
+- 【2 Modos Puertos】 Con 2 puertos de entrada de 5V/2A (Micro USB y Tipo C), tendrá más opciones para realizar la carga, ahorre tiempo de espera para cargar. Satisface las necesidades de mayor carga, ya sea en la oficina, casa, coche o en vacaciones.
+- 【Control Inteligente】 Cuando la carga se termina, cambia automáticamente a carga lenta para garantizar la capaciada máxima de la pila.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B083SM4PH9/?tag=tolees-21)

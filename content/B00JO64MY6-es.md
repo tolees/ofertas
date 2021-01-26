@@ -28,9 +28,9 @@ Está [Neewer RF550D  48 Macro LED Anillo Flash Bundle con Pantalla LCD Control 
 ℹ️:
 
 - Este RF550D LED Flash anular Macro es especialmente diseñado para el campo de disparo macro, la investigación científica, médica y fotografía personal en una distancia de disparo muy cerca.
-- Incluye 8 Anillos de montaje (49-77mm)
-- Puede proporcionar continua y semi estable luz o luz completa para cumplir las mayores necesidades de fotografía.
 - Consistir en 48 piezas de LED, más alta luminosidad y menor consumo de energía estática.
+- Incluye 8 Anillos de montaje (49-77mm)
 - Dispositivo ajuste: para cualquier modelo de Nikon o Canon DSLR.
+- Puede proporcionar continua y semi estable luz o luz completa para cumplir las mayores necesidades de fotografía.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00JO64MY6/?tag=tolees-21)
