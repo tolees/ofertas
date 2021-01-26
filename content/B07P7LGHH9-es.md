@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SuperZings - Serie 4 - Display Mini Vehi al 36.88 % de rebaja'
-date: 2021-01-25 11:59:58
+date: 2021-01-26 12:54:48
 image: 'https://m.media-amazon.com/images/I/51ykrkShLkL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07P7LGHH9/?tag=tolees-21'
 descuento: '36.88'
-average: '36.1101923076924'
+average: '36.0366455696204'
 ---
 
 Tienes [SuperZings - Serie 4 - Display Mini Vehicle de 24 Vehículos Blasterjet  PSZ4D824IN01  con Figuras  Colección Completa](https://www.amazon.es/dp/B07P7LGHH9/?tag=tolees-21) con precio final de  30.3 EUR (original: 48.0 EUR) (36.88 %  de rebaja) aqui!

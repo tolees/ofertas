@@ -29,8 +29,8 @@ Tienes [PUMA Leader VT SL  Zapatillas Unisex Adulto  Negro  Black/White/Indigo B
 
 - Composición: Sintético
 - Revestimiento: Sintético
-- Cierre: Cordones
 - Material exterior: Sintético
+- Cierre: Cordones
 - Material de la suela: Goma
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07DC1WX5C/?tag=tolees-21)

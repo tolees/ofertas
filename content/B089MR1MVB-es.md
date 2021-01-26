@@ -27,10 +27,10 @@ Está [Durex Naturals H2O Lubricante Base Agua  100% Natural Sin Fragancia  Colo
 
 ℹ️:
 
-- APTO PARA EL SEXO VAGINAL, ANAL Y ORAL: adecuado para el uso con preservativos de látex y preservativos de poliisopreno
-- LUBRICANTE ÍNTIMO 100% NATURAL
-- ENTREGA DE FORMA DISCRETA: caja exterior de entrega con un diseño discreto sin ninguna indicación del contenido del interior
-- DE BASE ACUOSA, LIBRE DE FRAGANCIAS Y COLORANTES: abre el tapón, extrae unas gotas y aplícalas donde tú quieras; luego disfruta
 - DISEÑADO CON pH EQUILIBRADO Y PREBIÓTICOS: ayuda a mantener el balance de la flora vaginal
+- DE BASE ACUOSA, LIBRE DE FRAGANCIAS Y COLORANTES: abre el tapón, extrae unas gotas y aplícalas donde tú quieras; luego disfruta
+- LUBRICANTE ÍNTIMO 100% NATURAL
+- APTO PARA EL SEXO VAGINAL, ANAL Y ORAL: adecuado para el uso con preservativos de látex y preservativos de poliisopreno
+- ENTREGA DE FORMA DISCRETA: caja exterior de entrega con un diseño discreto sin ninguna indicación del contenido del interior
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B089MR1MVB/?tag=tolees-21)

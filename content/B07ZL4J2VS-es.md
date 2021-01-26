@@ -28,11 +28,11 @@ Ahora mismo tienes [Maxi-Cosi Axissfix Silla de coche giratoria 360° isofix  si
 🔎:
 
 - Silla de auto Isofix para bebés desde 4 meses hasta 4 años (61 - 105 cm), homologada bajo la normativa i-Size (R129)
-- Silla de coche contramarcha desde los 61 - 87cm (± 4 meses to ± 2 años) y de cara a la marcha desde los 76 - 105 cm (> 15 meses a ± 4 años)
-- Silla de coche giratoria 360° para colocar al niño en el auto de forma cómoda y segura
-- Funda lavable a máquina (30º) y extraíble sin necesidad de desmontaje del arnés
-- Crece con tu hijo: ajuste simultaneo del cabezal y el respaldo para ofrecer una posición cómoda hasta que el niño cumple 4 años
-- Cojin reductor per bebés
 - Silla coche reclinable en 4 posiciones, en ambas direcciones de desplazamiento
+- Funda lavable a máquina (30º) y extraíble sin necesidad de desmontaje del arnés
+- Silla de coche contramarcha desde los 61 - 87cm (± 4 meses to ± 2 años) y de cara a la marcha desde los 76 - 105 cm (> 15 meses a ± 4 años)
+- Cojin reductor per bebés
+- Crece con tu hijo: ajuste simultaneo del cabezal y el respaldo para ofrecer una posición cómoda hasta que el niño cumple 4 años
+- Silla de coche giratoria 360° para colocar al niño en el auto de forma cómoda y segura
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ZL4J2VS/?tag=tolees-21)

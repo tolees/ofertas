@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.91 % en Tommy Hilfiger TJM Classics Solid Stretc'
-date: 2021-01-25 08:09:15
+date: 2021-01-26 12:46:19
 image: 'https://m.media-amazon.com/images/I/31RJxweeUAL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -27,9 +27,9 @@ Tienes [Tommy Hilfiger TJM Classics Solid Stretch Polo  Negro  Black   Small par
 
 ℹ️:
 
-- Piqué de algodón orgánico elástico
-- Tapeta de dos botones
 - Detalles distintivos de Tommy Jeans
 - Parche con el logo de Tommy Jeans en el pecho
+- Tapeta de dos botones
+- Piqué de algodón orgánico elástico
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07W1VLYC5/?tag=tolees-21)

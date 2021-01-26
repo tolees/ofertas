@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko - POP! Vinilo: Disney: Toy Story 4 al 32.70 % de descuento'
-date: 2021-01-25 12:20:38
+date: 2021-01-26 13:17:36
 image: 'https://m.media-amazon.com/images/I/41EJ9eYWWwL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KPK1MPQ/?tag=tolees-21'
 descuento: '32.70'
-average: '12.5756834532375'
+average: '12.5642553191491'
 ---
 
 Está [Funko - POP! Vinilo: Disney: Toy Story 4: Buzz Lightyear](https://www.amazon.es/dp/B07KPK1MPQ/?tag=tolees-21) con 32.70 de descuento por 11.77 EUR (original: 17.49 EUR) en el siguiente enlace!
@@ -27,10 +27,10 @@ Está [Funko - POP! Vinilo: Disney: Toy Story 4: Buzz Lightyear](https://www.ama
 
 ℹ️:
 
-- Descúbre otras figuras de la colección disney y colecciónalas todas
 - Juguete del año 2018
-- Disney toy story 4
 - De la colección toy story 4, buzz lightyear como figura de vinilo pop de funko
+- Descúbre otras figuras de la colección disney y colecciónalas todas
 - Funko pop vinyl
+- Disney toy story 4
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07KPK1MPQ/?tag=tolees-21)
