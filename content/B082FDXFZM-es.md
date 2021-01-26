@@ -27,10 +27,10 @@ Ahora mismo tienes [Meridiem Games - Hell Warders](https://www.amazon.es/dp/B082
 
 🔎:
 
-- build your defences - Set up archers, Knights, mages and catapults - Choose their position, upgrade their abilities and create the strongest resistance possible.
 - epic encounters - Battle demonic monsters: from the small and numerous to the epic and towering. Every Agent of Hell is out to stop you!
-- 4 player online co-op - combine forces with up to four players and battle the legions of evil! Hell warders supports co-operative play with friends and online matchmaking.
-- Action RPG meets Tower defence - Control powerful heroes, unleash devastating abilities and deploy strategic defensive units in this brand new sub-genre title
 - class-based heroes - select your class of hero strategically and take advantage of their unique weapons, skills & abilities..an upgradeable armoury - completing stages rewards you with skill upgrades and unlocks powerful artifacts - allowing you to stand toe to toe with even the toughest of demons!
+- 4 player online co-op - combine forces with up to four players and battle the legions of evil! Hell warders supports co-operative play with friends and online matchmaking.
+- build your defences - Set up archers, Knights, mages and catapults - Choose their position, upgrade their abilities and create the strongest resistance possible.
+- Action RPG meets Tower defence - Control powerful heroes, unleash devastating abilities and deploy strategic defensive units in this brand new sub-genre title
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082FDXFZM/?tag=tolees-21)

@@ -27,10 +27,10 @@ En este momento está [THQ NORDIC - Destroy All Humans - PC](https://www.amazon.
 
 🔎:
 
-- Reconstruido desde cero en todo su galáctico esplendor
-- Disfruta de armas como la pistola de sondas anales
-- Hazte pasar por humano e infíltrate en su frágil democracia
 - Vive el lado oscuro de una invasión alienígena estilo años 50
+- Hazte pasar por humano e infíltrate en su frágil democracia
+- Disfruta de armas como la pistola de sondas anales
+- Reconstruido desde cero en todo su galáctico esplendor
 - (Re)descubre por qué este juego es uno de los más divertidos de la historia
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SRJJ3YH/?tag=tolees-21)

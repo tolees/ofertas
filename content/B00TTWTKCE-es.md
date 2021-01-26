@@ -27,10 +27,10 @@ Tienes [AMUKINA Solución Líquida Frutas y Verduras - 500ml - Lava y desinfecta
 
 ℹ️:
 
-- Amukina actúa contra un amplio espectro de microorganismos en corto tiempo de contacto
-- En algunos casos, lavar sólo con agua no es suficiente para eliminar los contaminantes
 - Por eso amukina, puede ayudar a evitar contagios, infecciones y gastroenteritis
 - Amukina es una solución que prepara el agua para desinfectar frutas y verduras, y permite consumirlas sin alterar su sabor ni olor natural
 - Por eso amukina, puede ayudar a evitar contagios, infecciones y gastroenteritis
+- En algunos casos, lavar sólo con agua no es suficiente para eliminar los contaminantes
+- Amukina actúa contra un amplio espectro de microorganismos en corto tiempo de contacto
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00TTWTKCE/?tag=tolees-21)

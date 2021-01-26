@@ -29,8 +29,8 @@ Tienes [Control Strawberry - Caja con 144 Condones](https://www.amazon.es/dp/B07
 
 - Caja profesional de 144 condones con sabores y colores
 - Con aroma de fresa y de color rojo
-- Material: látex de caucho natural
-- Preservativo de máxima calidad, anatómico, con depósito y lubricado
 - Anchura nominal 54 mm
+- Preservativo de máxima calidad, anatómico, con depósito y lubricado
+- Material: látex de caucho natural
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07P1D8LB4/?tag=tolees-21)

@@ -27,14 +27,14 @@ Está [BaByliss Liss Brush HSB101E Cepillo alisador de pelo iónico  de cerámic
 
 ℹ️:
 
-- Cepillo alisador con 3 tipos de púas: resultado impecable
 - 3 temperaturas (160/ 180/ 200°c)
+- Cepillo alisador con 3 tipos de púas: resultado impecable
 - Fuente de alimentación: eléctrico con cable
 - Estilo más adecuado para: female
+- Unidades: 1.0
+- Cepillo eléctrico con revestimiento cerámico: protección del cabello, deslizamiento perfecto
+- Cepillo alisador con diseño rectangular (60cm²): gran superficie de alisado
 - Unidad de medida: unidad
 - Alisador de pelo con función iónica: elimina la electricidad estática
-- Cepillo eléctrico con revestimiento cerámico: protección del cabello, deslizamiento perfecto
-- Unidades: 1.0
-- Cepillo alisador con diseño rectangular (60cm²): gran superficie de alisado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01M0IYR46/?tag=tolees-21)

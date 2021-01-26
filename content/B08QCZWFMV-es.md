@@ -27,8 +27,8 @@ En este momento está [Geographical Norway Parka BOOMERANG hombre GRIS OSCURO ta
 
 🔎:
 
-- Capucha
 - pelo destomtable
+- Capucha
 - Chaqueta de hombre
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08QCZWFMV/?tag=tolees-21)

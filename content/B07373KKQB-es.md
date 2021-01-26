@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NANOCABLE 10.01.2100 - Cable 3A USB 2.0  con un 35.11 % de descuento'
-date: 2021-01-24 14:05:51
+date: 2021-01-26 18:43:19
 image: 'https://m.media-amazon.com/images/I/41cgB2D4lUL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07373KKQB/?tag=tolees-21'
 descuento: '35.11'
-average: '3.125'
+average: '3.10222222222222'
 ---
 
 En este momento está [NANOCABLE 10.01.2100 - Cable 3A USB 2.0 a USB-C  Uso Principal moviles  Tablets  portatiles  etc. hasta 3 Amperios de Carga  Tipo C/M-A/M  Macho-Macho Negro  0.5 MTS](https://www.amazon.es/dp/B07373KKQB/?tag=tolees-21) a 2.92 EUR (original: 4.5 EUR) (35.11 %  de descuento) en el siguiente enlace!
@@ -27,10 +27,10 @@ En este momento está [NANOCABLE 10.01.2100 - Cable 3A USB 2.0 a USB-C  Uso Prin
 
 🔎:
 
-- Velocidad de transferencia de datos de hasta 480 Mbps
-- El cable ofrece hasta 3 amperios de carga, con lo cual se puede usar para cargar su dispositivo móvil, tablet, portátil etc.
-- El conector USB Type-C es más fácil de usar que los conectores USB de generación anterior. Su diseño reversible le permite conectar dispositivos con cualquiera de sus caras hacia arriba.
-- Longitud: 0,5 m
 - Tipo de cable: C/M-A/M
+- Longitud: 0,5 m
+- Velocidad de transferencia de datos de hasta 480 Mbps
+- El conector USB Type-C es más fácil de usar que los conectores USB de generación anterior. Su diseño reversible le permite conectar dispositivos con cualquiera de sus caras hacia arriba.
+- El cable ofrece hasta 3 amperios de carga, con lo cual se puede usar para cargar su dispositivo móvil, tablet, portátil etc.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07373KKQB/?tag=tolees-21)
