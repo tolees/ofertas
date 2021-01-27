@@ -27,8 +27,8 @@ Tienes [L Oréal Paris - L Oreal Paris Dermo Expertise Tratamiento Anti- Arrugas
 
 ℹ️:
 
-- Para pieles +45
 - Crema de día
 - Combate las arrugas
+- Para pieles +45
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01H5VOAOI/?tag=tolees-21)

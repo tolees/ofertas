@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'Desigual Accessories PU Long Wallet  Muj al 29.99 % de descuento'
-date: 2021-01-07 11:00:33
+date: 2021-01-27 19:59:44
 image: 'https://m.media-amazon.com/images/I/41wNzKbJvkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083YH6XRG-es'
+slug: 'B083YH6XRG-es Desigual Accessories PU Long Wallet Mujer marrón U'
+sku: 'B083YH6XRG-es'
+tags: [  ]
 actualPrice: 34.97 EUR
 currency: EUR
 price: 34.97
@@ -25,7 +27,7 @@ Está [Desigual Accessories PU Long Wallet  Mujer  marrón  U](https://www.amazo
 
 ℹ️:
 
-- marrón
 - Diseño, accesorios, carteras, bolso largo, marrón
+- marrón
 
-[Ver la oferta!!](https://www.amazon.es/dp/B083YH6XRG/?tag=tolees-21)
+[🛒 Ver la oferta!!](https://www.amazon.es/dp/B083YH6XRG/?tag=tolees-21)

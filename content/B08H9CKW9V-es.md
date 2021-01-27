@@ -1,29 +1,31 @@
 ---
 layout: post
-title: 'Fortnite Lote: La Última Risa - Xbox al 16.86 % de rebaja'
-date: 2021-01-06 01:13:00
+title: 'Warner Bros Interactive Spain - Fortnite al 25.84 % de rebaja'
+date: 2021-01-27 18:48:19
 image: 'https://m.media-amazon.com/images/I/51Y0+hSon3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08H9CKW9V-es'
-actualPrice: 24.9 EUR
+slug: 'B08H9CKW9V-es Warner Bros Interactive Spain - Fortnite Lote: La Última...'
+sku: 'B08H9CKW9V-es'
+tags: [  ]
+actualPrice: 22.21 EUR
 currency: EUR
-price: 24.9
+price: 22.21
 comparePrice: 29.95 EUR
-prodname: 'Fortnite Lote: La Última Risa - Xbox'
+prodname: 'Warner Bros Interactive Spain - Fortnite Lote: La Última Risa - Xbox'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08H9CKW9V/?tag=tolees-21'
-descuento: '16.86'
-average: '26.783999999999992'
+descuento: '25.84'
+average: '26.5256321839081'
 ---
 
-Tienes [Fortnite Lote: La Última Risa - Xbox](https://www.amazon.es/dp/B08H9CKW9V/?tag=tolees-21) con precio final de  24.9 EUR (original: 29.95 EUR) (16.86 %  de rebaja) aqui!
+Tienes [Warner Bros Interactive Spain - Fortnite Lote: La Última Risa - Xbox](https://www.amazon.es/dp/B08H9CKW9V/?tag=tolees-21) con precio final de  22.21 EUR (original: 29.95 EUR) (25.84 %  de rebaja) aqui!
 
-[![Fortnite Lote: La Última Risa - Xbox](https://m.media-amazon.com/images/I/51Y0+hSon3L._SL200_.jpg)](https://www.amazon.es/dp/B08H9CKW9V/?tag=tolees-21)
+[![Warner Bros Interactive Spain - Fortnite](https://m.media-amazon.com/images/I/51Y0+hSon3L._SL200_.jpg)](https://www.amazon.es/dp/B08H9CKW9V/?tag=tolees-21)
 
 🔎:
 
 
-[Comprar!!!](https://www.amazon.es/dp/B08H9CKW9V/?tag=tolees-21)
+[🛒 Comprar!!!](https://www.amazon.es/dp/B08H9CKW9V/?tag=tolees-21)

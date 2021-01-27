@@ -27,12 +27,12 @@ Tienes [Trust 20058 Urban - Funda Universal con Función Soporte  para Tabletas 
 
 ℹ️:
 
-- Puede utilizarse con tabletas de 10" con tamaños de hasta 266x190 mm
-- Tabletas 10" compatibles: Acer Iconia One 10 series, Apple iPad (2nd, 3rd, 4th, 5th and 6th 2018 generation), Apple iPad Air (1st, 2nd generation), Apple iPad Pro (9.7", 10.5"), Asus ZenPad series, Huawei MediaPad (M2, M5, T1, T2), Lenovo (Ta/ Ab 3, Tab 4 10" Plus), Samsung Galaxy Tab (2/ 3/ 4/ Pro/ S2/ S3/ A/ E), Samsung Galaxy Note series, or any tablet with size up to 266 x 190 mm
-- Protege la tableta de posibles arañazos
 - Dimensiones interiores: 266 x 190 x 15 mm
-- Suave revestimiento interior
+- Puede utilizarse con tabletas de 10" con tamaños de hasta 266x190 mm
 - Correa de cierre elástica
 - Soporte de visualización
+- Tabletas 10" compatibles: Acer Iconia One 10 series, Apple iPad (2nd, 3rd, 4th, 5th and 6th 2018 generation), Apple iPad Air (1st, 2nd generation), Apple iPad Pro (9.7", 10.5"), Asus ZenPad series, Huawei MediaPad (M2, M5, T1, T2), Lenovo (Ta/ Ab 3, Tab 4 10" Plus), Samsung Galaxy Tab (2/ 3/ 4/ Pro/ S2/ S3/ A/ E), Samsung Galaxy Note series, or any tablet with size up to 266 x 190 mm
+- Protege la tableta de posibles arañazos
+- Suave revestimiento interior
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00LHLBM5I/?tag=tolees-21)

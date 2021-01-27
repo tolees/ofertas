@@ -27,8 +27,8 @@ Tienes [Funko - POP! Vinilo - Games: Street Fighter: Ken](https://www.amazon.es/
 
 🔎:
 
-- Material 100% vinilo
 - Viene embalado en una caja con ventanas ilustrada
+- Material 100% vinilo
 - Cada personaje mide alrededor de 9 cm de altura
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01LEJD4LC/?tag=tolees-21)

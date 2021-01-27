@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Trilogía El Señor De Los Anillos Extendi con un 34.46 % de descuento'
-date: 2021-01-26 18:13:13
+date: 2021-01-27 19:02:50
 image: 'https://m.media-amazon.com/images/I/51bEuij7aYL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JJPV918/?tag=tolees-21'
 descuento: '34.46'
-average: '52.2441666666667'
+average: '51.9210810810811'
 ---
 
 En este momento está [Trilogía El Señor De Los Anillos Extendida Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B07JJPV918/?tag=tolees-21) a 40.29 EUR (original: 61.47 EUR) (34.46 %  de descuento) en el siguiente enlace!
