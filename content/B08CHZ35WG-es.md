@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 51.44 % en Meridiem Games - Supermarket Shriek'
-date: 2021-01-24 21:53:36
+date: 2021-01-26 23:31:46
 image: 'https://m.media-amazon.com/images/I/51Rr4Qh0J7L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08CHZ35WG/?tag=tolees-21'
 descuento: '51.44'
-average: '18.99'
+average: '18.49'
 ---
 
 Tienes [Meridiem Games - Supermarket Shriek](https://www.amazon.es/dp/B08CHZ35WG/?tag=tolees-21) con un 51.44 % de descuento con precio de oferta de 16.99 EUR (original: 34.99 EUR) en el siguiente enlace!
