@@ -1,29 +1,29 @@
 ---
 layout: post
-title: 'Pack: Frozen + Frozen 2  BD  [Blu-ray] al 37.20 % de descuento'
-date: 2020-08-31 12:02:23
+title: 'Disney - Pack: Frozen + Frozen 2  BD  [B al 30.01 % de descuento'
+date: 2021-01-27 22:21:43
 image: 'https://m.media-amazon.com/images/I/519XvzqwX5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081FSHHWZ-es Pack: Frozen + Frozen 2 BD [Blu-ray]'
+slug: 'B081FSHHWZ-es Disney - Pack: Frozen + Frozen 2 BD [Blu-ray]'
 sku: 'B081FSHHWZ-es'
 tags: [  ]
-actualPrice: 21.95 EUR
+actualPrice: 24.46 EUR
 currency: EUR
-price: 21.95
+price: 24.46
 comparePrice: 34.95 EUR
-prodname: 'Pack: Frozen + Frozen 2  BD  [Blu-ray]'
+prodname: 'Disney - Pack: Frozen + Frozen 2  BD  [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B081FSHHWZ/?tag=tolees-21'
-descuento: '37.20'
-average: '22.033200000000004'
+descuento: '30.01'
+average: '22.212962962963'
 ---
 
-Está [Pack: Frozen + Frozen 2  BD  [Blu-ray]](https://www.amazon.es/dp/B081FSHHWZ/?tag=tolees-21) con 37.20 de descuento por 21.95 EUR (original: 34.95 EUR) en el siguiente enlace!
+Está [Disney - Pack: Frozen + Frozen 2  BD  [Blu-ray]](https://www.amazon.es/dp/B081FSHHWZ/?tag=tolees-21) con 30.01 de descuento por 24.46 EUR (original: 34.95 EUR) en el siguiente enlace!
 
-[![Pack: Frozen + Frozen 2  BD  [Blu-ray]](https://m.media-amazon.com/images/I/519XvzqwX5L._SL200_.jpg)](https://www.amazon.es/dp/B081FSHHWZ/?tag=tolees-21)
+[![Disney - Pack: Frozen + Frozen 2  BD  [B](https://m.media-amazon.com/images/I/519XvzqwX5L._SL200_.jpg)](https://www.amazon.es/dp/B081FSHHWZ/?tag=tolees-21)
 
 ℹ️:
 

@@ -27,9 +27,9 @@ Tienes [Sandisk Cruzer Blade - Memoria USB de 2.0 de 64 GB](https://www.amazon.e
 
 ℹ️:
 
-- Dimensiones del producto: 7.4 x 17.6 x 41.5 mm
-- Copia de seguridad de archivos simple, con el modo arrastrar y colocar
 - Temperatura de funcionamiento: 0° C a 45° C
+- Copia de seguridad de archivos simple, con el modo arrastrar y colocar
+- Dimensiones del producto: 7.4 x 17.6 x 41.5 mm
 - SanDisk SecureAccess para proteger los archivos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00BX5FOCK/?tag=tolees-21)

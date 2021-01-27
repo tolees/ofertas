@@ -29,8 +29,8 @@ En este momento está [APEMAN Cámara de acción A77  4 K  WiFi  16 MP  Digital 
 
 - Impresionantes vídeos 4K y fotos de 16MP en modo bucle, disparo continuo, lapso de tiempo.
 - Ver fotos y vídeos por vista previa y reproducción, cambiar los ajustes – todo directamente en el teléfono a través de la aplicación iSmart DV.
+- Manos libres del APEMAN A77 con mando a distancia de 2,4 G.
 - Salida de vídeo HDMI y USB para conectar a ordenadores, televisores y proyectores.
 - Batería dual de iones de litio de 1050 mAh, todos los soportes y accesorios son compatibles con Go-Pro/Apeman.
-- Manos libres del APEMAN A77 con mando a distancia de 2,4 G.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07FMWG8HD/?tag=tolees-21)

@@ -29,8 +29,8 @@ En este momento está [Shark HV390EUT Aspiradora de Escoba con Cable  para Pelo 
 
 - Las luces led iluminan el polvo oculto; cable extralargo de 10 m
 - Filtros lavables
-- Tecnología flexology su tubo flexible se dobla para limpiar debajo de los muebles y almacenarse sin ocupar demasiado
 - Limpieza de alfombras y suelos duros su sistema duoclean pasa de alfombras a suelos duros sin necesidad de parar
+- Tecnología flexology su tubo flexible se dobla para limpiar debajo de los muebles y almacenarse sin ocupar demasiado
 - Aspiradora para pelo de mascota el cepillo pet power incluido elimina fácilmente el pelo de mascota de alfombras, escaleras y sofás; aspira los techos fácilmente
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00HC108FW/?tag=tolees-21)
