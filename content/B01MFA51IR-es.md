@@ -27,10 +27,10 @@ Está [Garnier Skin Active Agua Micelar Clásica para Todo Tipo de Pieles  Limpi
 
 ℹ️:
 
-- Fórmula suave y sin perfume, adecuada para todo tipo de pieles, incluso las más sensibles
-- Limpia cara, ojos y los labios con la ayuda de un algodón y sin aclarar
-- Limpiador suave que extrae la suciedad y las impurezas sin secar la piel
 - Elimina sin esfuerzo el maquillaje y extrae la suciedad de rostro, labios y ojos en un solo gesto y sin aclarado
+- Fórmula suave y sin perfume, adecuada para todo tipo de pieles, incluso las más sensibles
+- Limpiador suave que extrae la suciedad y las impurezas sin secar la piel
 - Agua micelar clásica todo en uno, formato maxi
+- Limpia cara, ojos y los labios con la ayuda de un algodón y sin aclarar
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MFA51IR/?tag=tolees-21)

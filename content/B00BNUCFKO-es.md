@@ -27,12 +27,12 @@ Tienes [Beurer TS26 Calientacamas doble  2 personas  reversible  transpirable  l
 
 ℹ️:
 
-- Óptimo para 2 personas: 2 zonas con 3 niveles de temperatura para cada zona
-- Calientacamas hecho de tela no tejida en la cara superior e inferior
-- Oeko-tex 100 certificada que los textiles utilizados para este dispositivo cumplen los requisitos ecológicos humanos según los estándares de oeko-tex standard 100
-- Vataje (W): 65.0 watts
 - Transpirable: permite utilizar la manta con la máxima comodidad e higiene
-- Lavable a máquina: la superficie se puede lavar en la lavadora a 30 grados, solo tiene que desmontar y desconectar el cable de la alimentación
+- Oeko-tex 100 certificada que los textiles utilizados para este dispositivo cumplen los requisitos ecológicos humanos según los estándares de oeko-tex standard 100
+- Calientacamas hecho de tela no tejida en la cara superior e inferior
 - Verificado por el instituto de investigación hohenstein
+- Lavable a máquina: la superficie se puede lavar en la lavadora a 30 grados, solo tiene que desmontar y desconectar el cable de la alimentación
+- Vataje (W): 65.0 watts
+- Óptimo para 2 personas: 2 zonas con 3 niveles de temperatura para cada zona
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00BNUCFKO/?tag=tolees-21)

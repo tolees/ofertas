@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s SS Original Hm tee Camiseta  Colo con un 51.16 % de descuento'
-date: 2021-01-25 22:30:42
+date: 2021-01-27 16:21:55
 image: 'https://m.media-amazon.com/images/I/31Up2Wyoa3L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0823BRWNH/?tag=tolees-21'
 descuento: '51.16'
-average: '14.2480821917808'
+average: '14.1937333333333'
 ---
 
 En este momento está [Levi s SS Original Hm tee Camiseta  Colony Blue  X-Small para Hombre](https://www.amazon.es/dp/B0823BRWNH/?tag=tolees-21) a 12.21 EUR (original: 25.0 EUR) (51.16 %  de descuento) en el siguiente enlace!
@@ -27,8 +27,8 @@ En este momento está [Levi s SS Original Hm tee Camiseta  Colony Blue  X-Small 
 
 🔎:
 
-- Modelo casual
 - Adecuada para el día a día
+- Modelo casual
 - Logotipo pequeño de Levis en el pecho
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0823BRWNH/?tag=tolees-21)

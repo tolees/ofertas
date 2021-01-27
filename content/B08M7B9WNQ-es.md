@@ -27,9 +27,9 @@ Tienes [Bella Aurora - Pack Bella Noche 50ml + Solucion Micelar 200ml | Caja de 
 
 🔎:
 
-- Crema Bella Noche: Tratamiento de acción nocturna reparador, y anti-manchas. Su textura es un bálsamo fresco y fundente, no graso, que forma una película ultraligera sobre la piel, para que los activos penetren y actúen a lo largo de toda la noche
+- Solución Micelar: Solución micelar facial con aceite encapsulado para una limpieza profunda de la piel. Contiene bolitas encapsuladas de aceite para retirar las impurezas de la piel con mayor eficacia. 95% ingredientes de origen natural.
 - Set de belleza de la gamma Bella con crema facial Bella Noche 50ml y Solucion Micelar 200ml
 - Tipo de piel: Normal
-- Solución Micelar: Solución micelar facial con aceite encapsulado para una limpieza profunda de la piel. Contiene bolitas encapsuladas de aceite para retirar las impurezas de la piel con mayor eficacia. 95% ingredientes de origen natural.
+- Crema Bella Noche: Tratamiento de acción nocturna reparador, y anti-manchas. Su textura es un bálsamo fresco y fundente, no graso, que forma una película ultraligera sobre la piel, para que los activos penetren y actúen a lo largo de toda la noche
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08M7B9WNQ/?tag=tolees-21)
