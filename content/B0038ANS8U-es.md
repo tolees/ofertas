@@ -29,8 +29,8 @@ En este momento está [KidKraft 53179 - Cocina de juguete de madera vintage rosa
 
 - Fácil de limpiar
 - Oportunidad óptima para que su niño aprenda a ser responsable con la limpieza
-- Incluye placas pintadas y diales que giran, simulando un horno y un fregadero real
-- La cocina es del tamaño de los niños
 - Estructura de madera resistente está pensada para largas horas de juego
+- La cocina es del tamaño de los niños
+- Incluye placas pintadas y diales que giran, simulando un horno y un fregadero real
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0038ANS8U/?tag=tolees-21)

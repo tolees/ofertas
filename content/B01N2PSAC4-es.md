@@ -27,8 +27,8 @@ Tienes [Edge Entertainment- Zombicide: Toxic City Mall  Multicolor  EDG0EDGZC02 
 
 🔎:
 
-- Juego de mesa
-- Juego de tablero
 - Expansión
+- Juego de tablero
+- Juego de mesa
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01N2PSAC4/?tag=tolees-21)
