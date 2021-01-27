@@ -27,8 +27,8 @@ Tienes [Deflect-o 19200 - Tarjetero de escritorio  hasta 50 tarjetas   color tra
 
 ℹ️:
 
-- Mantiene un espesor de 17 mm de tarjetas de visita (típicamente 50)
 - Gran base de soporte estable
+- Mantiene un espesor de 17 mm de tarjetas de visita (típicamente 50)
 - No requiere soporte de montaje y solo estará listo para su uso inmediato
 - Tarjetas de visita perfectamente mantenidos en su sitio
 

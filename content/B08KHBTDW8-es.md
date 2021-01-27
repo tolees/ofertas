@@ -27,10 +27,10 @@ En este momento está [Mr. Wonderful Agenda rotu 2021 Día por página - Esto va
 
 🔎:
 
-- Planificador mensual, tablas de ahorro, horarios, calendarios y juegos y extras divertidísimos
-- Medidas del producto: 15 x 19,5 x 3,4 cm​. Peso: 600 gr​ / Gramaje: 90 gr
+- Separadores con pestaña para cada mes, bolsillo interior transparente y regla de plástico interior
 - 368 páginas con frases diarias motivacionales, blocs de notas adhesivas con formas y 8 hojas de pegatinas. Cierre con goma elástica.
 - Agenda Rotu Semana Vista 2021 con encuadernación en espiral.
-- Separadores con pestaña para cada mes, bolsillo interior transparente y regla de plástico interior
+- Medidas del producto: 15 x 19,5 x 3,4 cm​. Peso: 600 gr​ / Gramaje: 90 gr
+- Planificador mensual, tablas de ahorro, horarios, calendarios y juegos y extras divertidísimos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08KHBTDW8/?tag=tolees-21)
