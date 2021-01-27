@@ -1,0 +1,36 @@
+---
+layout: post
+title: 'Polly Pocket Cofre Castillo de Arena  mu al 34.72 % de rebaja'
+date: 2021-01-27 11:09:55
+image: 'https://m.media-amazon.com/images/I/51U80cOWuuL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B079KDSTSF-es Polly Pocket Cofre Castillo de Arena muñeca con accesorios...'
+sku: 'B079KDSTSF-es'
+tags: [  ]
+actualPrice: 8.48 EUR
+currency: EUR
+price: 8.48
+comparePrice: 12.99 EUR
+prodname: 'Polly Pocket Cofre Castillo de Arena  muñeca con accesorios  Mattel GCJ87    color/modelo surtido'
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B079KDSTSF/?tag=tolees-21'
+descuento: '34.72'
+average: '9.98846153846157'
+---
+
+Tienes [Polly Pocket Cofre Castillo de Arena  muñeca con accesorios  Mattel GCJ87    color/modelo surtido](https://www.amazon.es/dp/B079KDSTSF/?tag=tolees-21) con precio final de  8.48 EUR (original: 12.99 EUR) (34.72 %  de rebaja) aqui!
+
+[![Polly Pocket Cofre Castillo de Arena  mu](https://m.media-amazon.com/images/I/51U80cOWuuL._SL200_.jpg)](https://www.amazon.es/dp/B079KDSTSF/?tag=tolees-21)
+
+🔎:
+
+- «Tan pequeña y tan grande» cobra un nuevo significado con los Mundos de bolsillo de Polly Pocket ​
+- Una nueva forma de jugar con Polly y descubrir nuevos lugares y aventuras
+- Cada cofre Mundo de bolsillo tiene un tamaño reducido ideal para llevarse las aventuras de Polly Pocket a todas partes
+- Estos mundos temáticos de bolsillo se abren para descubrir secretos, muñecas en miniatura y accesorios ​
+- Se puede elegir entre el cofre Cupcake sorpresa con detalles inesperados y micromuñecas de Polly y Shani con accesorios, el cofre Flamenco flotante con detalles inesperados y micromuñecas de Polly y Lila con accesorios y el cofre Refugio de nieve con detalles sorpresa y micromuñecas de Polly y Shani con accesorios
+
+[🛒 Comprar!!!](https://www.amazon.es/dp/B079KDSTSF/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Salomon XA Pro 3D CSWP J  Zapatillas de  al 28.00 % de descuento'
-date: 2021-01-25 22:45:45
+date: 2021-01-27 10:50:25
 image: 'https://m.media-amazon.com/images/I/41IrCx58-eL._SL200_.jpg'
 comments: true
 category: ofertas

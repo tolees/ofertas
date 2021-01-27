@@ -27,8 +27,8 @@ Ahora mismo tienes [Kipling Creativity S  Cartera para Mujer  Gris  Steel Gr Met
 
 🔎:
 
-- Ligero, duradero y siempre práctico.
-- Repelente al agua.
 - Logotipo de Kipling.
+- Repelente al agua.
+- Ligero, duradero y siempre práctico.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MVJ7YXP/?tag=tolees-21)

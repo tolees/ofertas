@@ -27,10 +27,10 @@ En este momento está [Martinelia Martinelia Cof Mermaid Glitt 30516 300 gr](htt
 
 🔎:
 
-- Productos de gran calidad 
-- Proporciona una increíble duración 
-- Para el cuidado de la piel ideales para tu momento relax
 - Siguiendo las últimas tendencias y novedades
+- Proporciona una increíble duración 
+- Productos de gran calidad 
 - Se adaptan a tus necesidades
+- Para el cuidado de la piel ideales para tu momento relax
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08KXBM7R3/?tag=tolees-21)

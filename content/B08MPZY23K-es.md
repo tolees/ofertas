@@ -28,7 +28,7 @@ En este momento está [Geographical Norway Chaqueta de hombre BOKER NEGRO talla 
 🔎:
 
 - Chaqueta de hombre
-- Capucha
 - pelo destomtable
+- Capucha
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08MPZY23K/?tag=tolees-21)

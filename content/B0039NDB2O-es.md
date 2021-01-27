@@ -27,10 +27,10 @@ Ahora mismo tienes [Casio G-SHOCK Reloj Analógico-Digital  20 BAR  Negro  para 
 
 🔎:
 
-- Resistente al agua hasta 20 bar / 200 metros
-- Incluye indicador de velocidad y calendario automático
 - Incluye luz LED automática, cronómetro y temporizadores
+- Incluye indicador de velocidad y calendario automático
 - Carcasa resistente a golpes que protege contra los impactos y vibraciones
 - Función de hora universal, de despertador y 5 alarmas diarias
+- Resistente al agua hasta 20 bar / 200 metros
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0039NDB2O/?tag=tolees-21)

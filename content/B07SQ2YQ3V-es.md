@@ -27,8 +27,8 @@ En este momento está [Crocs Literide Stretch Sandal Women  Sandalias de Punta D
 
 🔎:
 
-- Calzado crocs
 - Sandalias tiempo libre y sportwear mujer
 - Literide stretch sandal w (206081)
+- Calzado crocs
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SQ2YQ3V/?tag=tolees-21)
