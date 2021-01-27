@@ -27,8 +27,8 @@ Tienes [Salomon Sense Feel GTX W  Zapatillas de Running para Asfalto Mujer  Azul
 
 🔎:
 
-- Zapatillas de running running mujer
-- Calzado salomon
 - Shoes sense feel gtx (l41041000)
+- Calzado salomon
+- Zapatillas de running running mujer
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07RJT1WK4/?tag=tolees-21)
