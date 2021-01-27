@@ -28,12 +28,12 @@ Está [Microsoft QHG-00024- Paquete de Teclado en español y ratón  Bluetooth  
 ℹ️:
 
 - El teclado cuenta con accesos directos integrados, incluidas teclas dedicadas para Office, búsqueda y emojis, acceso sencillo a controles multimedia, aplicaciones, recorte de la pantalla, calculadora, volumen
+- Se conecta de forma inalámbrica mediante Bluetooth
+- Una forma de capturar la pantalla
 - Navegación óptima
 - Sensor de seguimiento rápido
-- Se conecta de forma inalámbrica mediante Bluetooth
 - Paquete de teclado en español y ratón
-- Diseño estilizado y contemporáneo con una relación calidad-precio adecuado
 - Color negro
-- Una forma de capturar la pantalla
+- Diseño estilizado y contemporáneo con una relación calidad-precio adecuado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B088MS2YD6/?tag=tolees-21)

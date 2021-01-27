@@ -28,7 +28,7 @@ Está [adidas Club 3STR Polo Shirt  Short Sleeve   Hombre  Conavy/White  S](http
 ℹ️:
 
 - Adidas
-- Training
 - Sportware
+- Training
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07PGVD5J6/?tag=tolees-21)
