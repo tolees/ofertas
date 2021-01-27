@@ -27,10 +27,10 @@ Tienes [BLACK+DECKER BCD003BAST-QW - Taladro percutor 18V  21.000 ipm  con 2 bat
 
 ℹ️:
 
+- Taladro percutor a batería 18V BLACK+DECKER con porta brocas metálico de 10 mm.
 - Acción percutora de 21.000 ipm (impactos por minuto) adecuada para aplicaciones en mampostería y hormigón.
 - Incluye: 2 baterías litio 18V de 1.5Ah y organizador.
-- Taladro percutor a batería 18V BLACK+DECKER con porta brocas metálico de 10 mm.
-- Diámetro máximo de perforación en madera de 25 mm, en metal 10 mm y en mampostería 10 mm.
 - Motor con 2 velocidades variables 0 – 400 / 1.400 rpm.
+- Diámetro máximo de perforación en madera de 25 mm, en metal 10 mm y en mampostería 10 mm.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07NFKBXT5/?tag=tolees-21)

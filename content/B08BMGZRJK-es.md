@@ -27,10 +27,10 @@ En este momento está [Maxi-Cosi Iris Cuna Viaje Plegable Y Portátil  Ideal Par
 
 🔎:
 
-- Pesa menos de seis kilos y se pliega de forma compacta y sencilla
-- Cuna de viaje bebé con una bolsa de transporte para llevarla fácilmente, ideal para una noche fuera o unas vacaciones
 - Tejidos de malla en todos los laterales de la cuna de viaje para mayor visibilidad y ventilación
+- Pesa menos de seis kilos y se pliega de forma compacta y sencilla
 - Cuna de viaje plegable con colchon: incluye un práctico colchón de espuma que garantiza siestas y noches llenas de comodidad
+- Cuna de viaje bebé con una bolsa de transporte para llevarla fácilmente, ideal para una noche fuera o unas vacaciones
 - Cuna de viaje con dos cómodos niveles fácilmente ajustables: arriba para recién nacidos y abajo para niños pequeños
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BMGZRJK/?tag=tolees-21)

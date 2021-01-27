@@ -28,9 +28,9 @@ Tienes [INTIMINA Lily Cup Compact Tamaño B](https://www.amazon.es/dp/B00STLACTQ
 ℹ️:
 
 - PROTECCIÓN COMPACTA - Esta copa menstrual plegable se guarda en su estuche compacto para llevarla a cualquier lugar, asegurando que tu período nunca te pille desprevenida. Cómoda y reutilizable, ofrece hasta 12 horas de protección para un período sin problemas, día y noche
+- CUIDADO ÍNTIMO EQUILIBRADO - La copa menstrual Lily Cup Compact no altera el equilibrio natural de tu área íntima, ya que recoge el flujo menstrual en lugar de absorberlo. La fina silicona de grado médico no causa sequedad, irritación o incomodidad.
 - UNIDO A LA NATURALEZA - La alternativa ecológica para el período está hecha de silicona segura para el cuerpo, contiene cero toxinas y es respetuosa con el medio ambiente. El diseño reutilizable y duradero lo convierte en una inversión única y asequible que dura años.
 - ENCUENTRA TU TALLA - El tamaño A se recomienda para mujeres que no han dado a luz o para las que han dado a luz por cesárea. El tamaño B se recomienda para mujeres que han dado a luz por parto vaginal o para aquellas a las que se les ha diagnosticado un suelo pélvico más débil.
 - EN SINTONÍA CON EL CUERPO - La longitud más corta y el tallo de fácil agarre la hacen ideal para mujeres con un cérvix más bajo. Esta suave copa mestrual con solapa anti-desbordamiento proporciona capacidad para un flujo ligero a medio, y es flexible para una fácil inserción y más comodidad durante su uso.
-- CUIDADO ÍNTIMO EQUILIBRADO - La copa menstrual Lily Cup Compact no altera el equilibrio natural de tu área íntima, ya que recoge el flujo menstrual en lugar de absorberlo. La fina silicona de grado médico no causa sequedad, irritación o incomodidad.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00STLACTQ/?tag=tolees-21)

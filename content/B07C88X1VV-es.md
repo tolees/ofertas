@@ -27,8 +27,8 @@ Está [Lian-Li - Lian Li PC-O11DX - Carcasa para Ordenador  Color Negro](https:/
 
 ℹ️:
 
-- Inmersión excepcional
 - Calidad de fabricación impecable.
+- Inmersión excepcional
 - Producto para jugadores exigentes.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07C88X1VV/?tag=tolees-21)

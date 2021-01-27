@@ -27,8 +27,8 @@ Ahora mismo tienes [Adidas Tensaur C  Unisex Niño  Multicolor  Azuosc/Ftwbla/Ro
 
 🔎:
 
-- Zapatillas deportivas
 - Ideal para todas las superficies
 - Excelente agarre
+- Zapatillas deportivas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QGK277W/?tag=tolees-21)

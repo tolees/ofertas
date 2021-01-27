@@ -27,8 +27,8 @@ Ahora mismo tienes [CYP BRANDS - Gorjuss CK-11M-G Set Regalo Muñeca y Joyero co
 
 🔎:
 
+- Producto Oficial Gorjuss
 - Set de regalo muñeca y joyero con candado
 - Joyero con candado en forma de corazón
-- Producto Oficial Gorjuss
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07HM427PP/?tag=tolees-21)

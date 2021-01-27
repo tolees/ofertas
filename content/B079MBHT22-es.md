@@ -27,8 +27,8 @@ Ahora mismo tienes [Milan Kit de trazado  4 reglas flexible](https://www.amazon.
 
 🔎:
 
-- Marca: Milan
-- Producto de alta calidad
 - Diseño y funcionalidad
+- Producto de alta calidad
+- Marca: Milan
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B079MBHT22/?tag=tolees-21)

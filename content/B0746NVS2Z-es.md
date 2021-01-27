@@ -27,11 +27,11 @@ Ahora mismo tienes [Logitech G603 LIGHTSPEED Ratón Gaming Inalámbrico  Bluetoo
 
 🔎:
 
-- Tecnología inalámbrica lightspeed: la latencia hace la diferencia, lightspeed es una solución inalámbrica de calidad profesional que ofrece un rendimiento similar al de la tecnología con cable
-- Comodidad/eficiencia energética: personaliza el ratón inalámbrico y ergonómicopara gaming g603 para tener el peso, el equilibrio y la comodidad que quieras
-- Peso del producto con pilas: 260 g; Peso del producto sin pilas: 200 g
-- Conexión a Varios Dispositivos Multi-host: la conectividad doble con Lightspeed y bluetooth te permite conectarte sin cablea varios dispositivos y controlarlos
 - Gestión del rendimiento: el modo hi ofrece rendimiento con velocidad de respuesta de 1 ms y hasta 500 horas de gaming ininterrumpido
+- Comodidad/eficiencia energética: personaliza el ratón inalámbrico y ergonómicopara gaming g603 para tener el peso, el equilibrio y la comodidad que quieras
+- Tecnología inalámbrica lightspeed: la latencia hace la diferencia, lightspeed es una solución inalámbrica de calidad profesional que ofrece un rendimiento similar al de la tecnología con cable
 - Sensor hero para gaming de próxima generación: el sensor óptico de próxima generación hero ofrece un rendimiento muy bueno y una eficiencia energética con sensibilidad de hasta 12.000 dpi
+- Conexión a Varios Dispositivos Multi-host: la conectividad doble con Lightspeed y bluetooth te permite conectarte sin cablea varios dispositivos y controlarlos
+- Peso del producto con pilas: 260 g; Peso del producto sin pilas: 200 g
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0746NVS2Z/?tag=tolees-21)

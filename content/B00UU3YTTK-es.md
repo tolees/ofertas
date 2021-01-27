@@ -28,9 +28,9 @@ En este momento está [Citizen Reloj Analógico para Hombre de Cuarzo con Correa
 🔎:
 
 - Diseñado para adaptarse a su estilo de vida tanto de día como de noche, desde el trabajo hasta el ocio y demás.
-- Resistente al agua del reloj: 5 bars
 - Movimiento de cuarzo de calidad y precisión (a pilas).
 - Alta capacidad de trabajo y durabilidad.
 - Perfecto para el uso diario con estilo clásico y natural.
+- Resistente al agua del reloj: 5 bars
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00UU3YTTK/?tag=tolees-21)
