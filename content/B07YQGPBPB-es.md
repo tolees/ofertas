@@ -27,12 +27,12 @@ Ahora mismo tienes [MSI Modern 14 A10RB-663XES - Ordenador portátil de 14" Full
 
 🔎:
 
-- Sin sistema operativo
 - Almacenamiento 512GB SSD NVMe PCIe
-- Memoria RAM 16GB DDR IV (2666MHz)
-- Procesador Intel Core Comet lake i7-10510u
 - Pantalla de 14" FHD (1920*1080), IPS-Level 60Hz 72%NTSC Thin Bezel, close to 100%sRGB
-- Tarjeta gráfica Nvidia Geforce MX250-2GB GDDR5
+- Procesador Intel Core Comet lake i7-10510u
+- Sin sistema operativo
 - Una batería de polímero de litio de 50 Wh proporciona hasta 10 horas de uso en movimiento.
+- Tarjeta gráfica Nvidia Geforce MX250-2GB GDDR5
+- Memoria RAM 16GB DDR IV (2666MHz)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YQGPBPB/?tag=tolees-21)

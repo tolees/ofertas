@@ -27,11 +27,11 @@ Tienes [Seventh Generation Fresh Orange & Blossom - Detergente para Ropa  0% col
 
 ℹ️:
 
-- Es un producto con el certificado Leaping Bunny que no contiene ingredientes de origen animal y nunca ha sido testado en animales
-- Producto de limpieza sin colorantes, sin fragancias sintéticas, sin blanqueadores ópticos que es respetuoso con el medio ambiente
 - Detergente envasado en una botella hecha con plástico 100% reciclado y que es posteriormente reciclable
+- Producto de limpieza sin colorantes, sin fragancias sintéticas, sin blanqueadores ópticos que es respetuoso con el medio ambiente
 - En Seventh Generation tenemos un compromiso: que en cada una de las decisiones que tomemos, tengamos siempre en cuenta el efecto de ellas en las próximas Siete Generaciones
 - El detergente para la ropa Seventh Generation Fresh Orange & Blossom es un detergente líquido para lavandería hecho con 97% de ingredientes de origen vegetal
+- Es un producto con el certificado Leaping Bunny que no contiene ingredientes de origen animal y nunca ha sido testado en animales
 - Detergente para la ropa, certificado con la etiqueta ecológica de la UE, con la fragancia de naranja fresca y flores
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07RWKHL75/?tag=tolees-21)

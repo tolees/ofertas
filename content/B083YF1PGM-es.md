@@ -1,25 +1,27 @@
 ---
 layout: post
-title: 'Kipling SUPERWORKER S  Luggage Messenger al 38.09 % de descuento'
-date: 2021-01-18 08:45:55
+title: 'Kipling SUPERWORKER S  Luggage Messenger al 29.64 % de descuento'
+date: 2021-01-27 08:15:05
 image: 'https://m.media-amazon.com/images/I/41qdHnxxlIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083YF1PGM-es'
-actualPrice: 79.86 EUR
+slug: 'B083YF1PGM-es Kipling SUPERWORKER S Luggage Messenger-Bolso Bandolera...'
+sku: 'B083YF1PGM-es'
+tags: [  ]
+actualPrice: 90.77 EUR
 currency: EUR
-price: 79.86
+price: 90.77
 comparePrice: 129.0 EUR
 prodname: 'Kipling SUPERWORKER S  Luggage Messenger-Bolso Bandolera para Mujer  Dynamic Silver  13x38x25 cm  LxWxH '
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B083YF1PGM/?tag=tolees-21'
-descuento: '38.09'
-average: '87.065'
+descuento: '29.64'
+average: '88.3'
 ---
 
-Está [Kipling SUPERWORKER S  Luggage Messenger-Bolso Bandolera para Mujer  Dynamic Silver  13x38x25 cm  LxWxH ](https://www.amazon.es/dp/B083YF1PGM/?tag=tolees-21) con 38.09 de descuento por 79.86 EUR (original: 129.0 EUR) en el siguiente enlace!
+Está [Kipling SUPERWORKER S  Luggage Messenger-Bolso Bandolera para Mujer  Dynamic Silver  13x38x25 cm  LxWxH ](https://www.amazon.es/dp/B083YF1PGM/?tag=tolees-21) con 29.64 de descuento por 90.77 EUR (original: 129.0 EUR) en el siguiente enlace!
 
 [![Kipling SUPERWORKER S  Luggage Messenger](https://m.media-amazon.com/images/I/41qdHnxxlIL._SL200_.jpg)](https://www.amazon.es/dp/B083YF1PGM/?tag=tolees-21)
 

@@ -27,8 +27,8 @@ Tienes [Levi s 2Pk Crewneck 1 Camiseta  2 Pack Slim Crew Dress Blues/White  XXS 
 
 ℹ️:
 
+- Elaboradas en punto suave
 - Con un logo Levis en el bajo
 - Modelos casual
-- Elaboradas en punto suave
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07LFGTY15/?tag=tolees-21)

@@ -29,7 +29,7 @@ En este momento está [Gigaset DA210 - Teléfono Fijo con Cable  Color Negro](ht
 
 - Montaje en pared
 - Función mute y rellamada
-- 10 marcaciones directas
 - No requiere enchufe
+- 10 marcaciones directas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B006NX3GYA/?tag=tolees-21)
