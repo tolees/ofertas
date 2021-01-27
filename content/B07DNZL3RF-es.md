@@ -27,9 +27,9 @@ En este momento está [Huayu - Mando a Distancia para televisión LG.](https://w
 
 🔎:
 
-- Sin configuraciones, funciona directamente.
-- Funciona con dos pilas AAA (no incluidas).
 - Compatible con televisores LG: LED, LCD, HDTV y Smart TV.
+- Funciona con dos pilas AAA (no incluidas).
+- Sin configuraciones, funciona directamente.
 - Compatible si tu mando a distancia es similar. Revisa los modelos de mando compatibles (en la descripción).
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07DNZL3RF/?tag=tolees-21)
