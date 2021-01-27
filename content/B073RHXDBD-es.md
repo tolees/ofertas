@@ -27,10 +27,10 @@ En este momento está [Adidas Terrex Swift R2 Mid  Zapatillas de Marcha Nórdica
 
 🔎:
 
-- Tecnología ADIPRENE -Absorbe los impactos dando protección y estabilidad al talón.
-- Sistema de lazada rápida -Con cordones elásticos que se recogen para evitar tropiezos y ofrecer un ajuste seguro.
-- Tecnología GORE-TEX -Que las hace impermeables y transpirantes.
-- Parte superior de malla ripstop -Para una mayor ligereza y ventilación
 - Refuerzos de TPU -Para una mayor resistencia y sujeción.
+- Sistema de lazada rápida -Con cordones elásticos que se recogen para evitar tropiezos y ofrecer un ajuste seguro.
+- Tecnología ADIPRENE -Absorbe los impactos dando protección y estabilidad al talón.
+- Parte superior de malla ripstop -Para una mayor ligereza y ventilación
+- Tecnología GORE-TEX -Que las hace impermeables y transpirantes.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B073RHXDBD/?tag=tolees-21)

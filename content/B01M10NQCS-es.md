@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.95 % en Skechers Graceful-Get Connected  Zapatil'
-date: 2021-01-26 04:36:49
+date: 2021-01-27 04:40:52
 image: 'https://m.media-amazon.com/images/I/41m5NfDZTIL._SL200_.jpg'
 comments: true
 category: ofertas

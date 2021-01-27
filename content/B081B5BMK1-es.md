@@ -28,7 +28,7 @@ Está [Columbia South Canyon Chaqueta Impermeable  Mujer  Azul Oscuro  Nocturnal
 ℹ️:
 
 - Chaqueta impermeable para la lluvia, óptima para deportes al aire libre o para recorrer la ciudad
-- Contenido: 1x Columbia South Canyon, Chaqueta impermeable, Mujer, Poliéster, Azul oscuro (Nocturnal), XS, Art. 1886724
 - Impermeable y transpirable gracias a la tecnología Omni-Tech con costuras termoselladas
+- Contenido: 1x Columbia South Canyon, Chaqueta impermeable, Mujer, Poliéster, Azul oscuro (Nocturnal), XS, Art. 1886724
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B081B5BMK1/?tag=tolees-21)
