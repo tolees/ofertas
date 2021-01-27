@@ -28,9 +28,9 @@ Está [eXtremeRate Carcasa Trasera para Xbox Series S Xbox Series X Control Fund
 ℹ️:
 
 - Fácil de instalar: Simplemente desmontar la placa posterior original del mando, luego reemplazar con nuestra carcasa. Busca"eXtremeRate bottom Shell for Xbox Series X/S" o "9lYrEjlbeNY" en Youtube para obtener el vídeo de instalación.
+- Paquete incluye: 1*Carcasa trasera, 1*Tapa de batería, 1*destornillador, 1*Herramienta para abrir, 5*Tornillos.(Importante: el control, las piezas de metal y otras partes no están incluidas.)
+- Se adapta perfectamente: Es lo más adecuado, fabricado con exactitud, con un acabado perfecto.
 - Modelo compatible: Perfecto para Xbox Series X & Xbox Series S Controller. No es compatible otros mandos de Xbox One. Verifique la segunda foto antes de la compra.
 - Característica personalizada: El aspecto de la carcasa se ve muy atractivo. Sería genial si lo combina con nuestros botones de reemplazo.
-- Se adapta perfectamente: Es lo más adecuado, fabricado con exactitud, con un acabado perfecto.
-- Paquete incluye: 1*Carcasa trasera, 1*Tapa de batería, 1*destornillador, 1*Herramienta para abrir, 5*Tornillos.(Importante: el control, las piezas de metal y otras partes no están incluidas.)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08T5P1BLK/?tag=tolees-21)

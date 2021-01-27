@@ -27,9 +27,9 @@ Está [Funko - Pop! Deluxe: Edward Scissorhands - Edward & DinoHedge Figura Cole
 
 ℹ️:
 
-- ¡Descúbre otras figuras de la colección Edward Scissorhands y colecciónalas todas!
-- Funko POP! El juguete del año 2018
-- La figura mide 15 cm y se envía en una caja ilustrada con ventana
 - De la colección Edward Scissorhands, Edward & DinoHedge como figura exclusiva de vinilo POP DELUXE de Funko
+- La figura mide 15 cm y se envía en una caja ilustrada con ventana
+- Funko POP! El juguete del año 2018
+- ¡Descúbre otras figuras de la colección Edward Scissorhands y colecciónalas todas!
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08631VNNM/?tag=tolees-21)

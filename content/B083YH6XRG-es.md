@@ -27,7 +27,7 @@ Está [Desigual Accessories PU Long Wallet  Mujer  marrón  U](https://www.amazo
 
 ℹ️:
 
-- Diseño, accesorios, carteras, bolso largo, marrón
 - marrón
+- Diseño, accesorios, carteras, bolso largo, marrón
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B083YH6XRG/?tag=tolees-21)
