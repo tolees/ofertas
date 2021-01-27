@@ -27,9 +27,9 @@ Ahora mismo tienes [Geles Inibsa - Gel de ducha para el cuidado de la piel y el 
 
 🔎:
 
-- Piel más suave y lisa
-- Cuidado de la piel y el cabello
-- Mejora la hidratación de la piel
 - Dermatológicamete testado
+- Piel más suave y lisa
+- Mejora la hidratación de la piel
+- Cuidado de la piel y el cabello
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01HZN1O2M/?tag=tolees-21)

@@ -27,10 +27,10 @@ Está [L Oreal Paris Make-up Designer - L Oreal Paris Infalible Gel Crayon 24H L
 
 ℹ️:
 
-- Textura ligera para conseguir un trazo fluido y una duración de 24 horas (Test consumidor 96 sujetos)
 - Dota a tu mirada de colores con los eyeliners Infalible Gel Crayon
-- Mirada de color que resiste todo el día
-- El lápiz de ojos Infalible Gel Crayon de LOréal París está formulado con pigmentos saturados para obtener un color intenso
+- Textura ligera para conseguir un trazo fluido y una duración de 24 horas (Test consumidor 96 sujetos)
 - Aplicar en la parpado superior móvil o en el interior del ojo; es resistente al agua y de fácil aplicación
+- El lápiz de ojos Infalible Gel Crayon de LOréal París está formulado con pigmentos saturados para obtener un color intenso
+- Mirada de color que resiste todo el día
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01GE06VHA/?tag=tolees-21)

@@ -28,9 +28,9 @@ En este momento está [TOYMYTOY Binoculares Compactos a Prueba de Golpes Prismá
 🔎:
 
 - Este es un juguetes muy atractivo. Puede permitir a sus hijos ver una gran cantidad de escenas maravillosas e inspirarlos a amar la naturaleza.
-- Telescopio 6 x 42. Puede magnificar todas las cosas que ha visto 6 veces. Ideal para que los niños jueguen y desarrollen su interés en las cosas que les rodean.
-- El radiante entre dos espejos de bronce es ajustable. Regalo creativo para tus hijos.
 - Los niños pueden ver cosas muy lejanas a través de este lindo binocular.
 - Equipado con una cuerda larga para que los niños se cuelguen del cuello cuando están realizando actividades al aire libre.
+- El radiante entre dos espejos de bronce es ajustable. Regalo creativo para tus hijos.
+- Telescopio 6 x 42. Puede magnificar todas las cosas que ha visto 6 veces. Ideal para que los niños jueguen y desarrollen su interés en las cosas que les rodean.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07B3P8V3S/?tag=tolees-21)

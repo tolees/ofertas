@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Western Digital 1TB Elements USB 3.0 - D con un 28.82 % de descuento'
-date: 2021-01-24 21:54:31
+date: 2021-01-27 17:45:33
 image: 'https://m.media-amazon.com/images/I/31tDbgfegyL._SL200_.jpg'
 comments: true
 category: ofertas

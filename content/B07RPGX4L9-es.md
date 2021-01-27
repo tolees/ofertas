@@ -27,8 +27,8 @@ Tienes [Sanicentro Aditivo Higienizante Textil  1 Litro](https://www.amazon.es/d
 
 🔎:
 
+- ADITIVO COLADA
 - AÑADIR COMPARTIMENTO SUAVIZANTE
 - TODOS LOS COLORES
-- ADITIVO COLADA
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07RPGX4L9/?tag=tolees-21)
