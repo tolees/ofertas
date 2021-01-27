@@ -28,9 +28,9 @@ Está [ELEFULL - Memoria USB OTG 2 en 1  USB-C   con funda protectora 64 gb](htt
 ℹ️:
 
 - La memoria USB no solo es adecuada para la interfaz USB, sino también para la interfaz de tipo C. Compre este USB para satisfacer las necesidades de almacenamiento de varios dispositivos. Ahorre dinero.
-- Apto para smartphones y tablets con interfaz de tipo C. Alta potencia en algunos tipos de sistemas: Android, Windows, Mac.
+- Si tiene alguna pregunta, póngase en contacto con nosotros por correo electrónico. Tenemos un equipo de postventa bien establecido, que desde la fecha de compra también una garantía
 - No es necesario ningún software adicional para bucear. Puede colgar el dispositivo de memoria USB en su bolsa y utilizarlo cómodamente en cualquier lugar.
 - El material de aleación de aluminio tiene una mejor disipación del calor que el material de plástico, la rápida disipación del calor puede proteger bien la memoria USB.
-- Si tiene alguna pregunta, póngase en contacto con nosotros por correo electrónico. Tenemos un equipo de postventa bien establecido, que desde la fecha de compra también una garantía
+- Apto para smartphones y tablets con interfaz de tipo C. Alta potencia en algunos tipos de sistemas: Android, Windows, Mac.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B085TFYJ1J/?tag=tolees-21)

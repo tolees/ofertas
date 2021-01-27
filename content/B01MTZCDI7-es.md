@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lacoste Carnaby EVO BL 1 SPM  Zapatillas al 53.57 % de descuento'
-date: 2021-01-26 16:39:03
+date: 2021-01-27 21:45:40
 image: 'https://m.media-amazon.com/images/I/31gcmHe5bQL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -27,10 +27,10 @@ Ahora mismo tienes [Lacoste Carnaby EVO BL 1 SPM  Zapatillas para Hombre  Blanco
 
 🔎:
 
-- Cocodrilo verde clásico
-- Suela de goma
-- Empeine de piel y material sintético
 - Forro de material textil
+- Cocodrilo verde clásico
 - Forro de malla y diseño de suela de inspiración deportiva
+- Empeine de piel y material sintético
+- Suela de goma
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01MTZCDI7/?tag=tolees-21)

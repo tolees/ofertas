@@ -27,8 +27,8 @@ Tienes [adidas Runfalcon  Running Shoe Hombre  Core Black Core Black Core Black 
 
 🔎:
 
-- Cordones de zapatos
 - Corte regular
 - malla y parte superior de cuero sintético
+- Cordones de zapatos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07K2YWG99/?tag=tolees-21)

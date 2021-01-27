@@ -27,10 +27,10 @@ En este momento está [Karactermania Mickey Mouse Paisgrey Bolso Bandolera  33 c
 
 🔎:
 
-- Forro interior con bolsillo cerrado
 - Bolso con asas cortas para llevar a mano
-- Dimensiones: 16 x 24 x 6cm
+- Forro interior con bolsillo cerrado
 - Correa al hombro extraible y ajustable de 120cm
 - Compartimento único cerrado con cremallera
+- Dimensiones: 16 x 24 x 6cm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07JG458LS/?tag=tolees-21)

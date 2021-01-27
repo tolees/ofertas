@@ -28,7 +28,7 @@ Tienes [UBI Soft - Ghost Recon - Figura Nomad Breakpoint](https://www.amazon.es/
 🔎:
 
 - Detailed holster, handgun, bag pack & rifle
-- Material: PVC
 - Height: 23 cm
+- Material: PVC
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07RP1BNG9/?tag=tolees-21)
