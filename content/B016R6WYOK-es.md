@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'adidas Milano 16 Sock - Medias para homb al 25.12 % de descuento'
-date: 2021-01-17 09:30:53
+date: 2021-01-27 09:47:22
 image: 'https://m.media-amazon.com/images/I/41wC6BQ3q5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016R6WYOK-es'
+slug: 'B016R6WYOK-es adidas Milano 16 Sock - Medias para hombre multicolor AZUL...'
+sku: 'B016R6WYOK-es'
+tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99
@@ -26,7 +28,7 @@ Está [adidas Milano 16 Sock - Medias para hombre  multicolor   AZUL / BLANCO   
 ℹ️:
 
 - Insertos de malla para mejor ventilación
-- Puños, rango de tobillo y bajos acanalados.
 - Paneles acolchados que aportan una mayor amortiguación
+- Puños, rango de tobillo y bajos acanalados.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B016R6WYOK/?tag=tolees-21)

@@ -27,10 +27,10 @@ Está [Festina Reloj de Pulsera F20361/3](https://www.amazon.es/dp/B07DTM6M86/?t
 
 ℹ️:
 
-- - Cristal: Cristal Mineral
-- - Color de la caja: Plata
 - - Material de la Carcasa: Acero inoxidable
+- - Cristal: Cristal Mineral
 - Carcasa
+- - Color de la caja: Plata
 - - Forma de la Carcasa: Redondo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07DTM6M86/?tag=tolees-21)
