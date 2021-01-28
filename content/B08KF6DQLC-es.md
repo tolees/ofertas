@@ -1,29 +1,31 @@
 ---
 layout: post
-title: 'V de Vendetta - Steelbook 4k UHD [Blu-ra al 47.64 % de descuento'
-date: 2021-01-07 07:03:38
+title: 'Warner Bros. Entertainment - V de Vendet al 43.71 % de descuento'
+date: 2021-01-28 07:08:36
 image: 'https://m.media-amazon.com/images/I/51J7pTvPF-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08KF6DQLC-es'
-actualPrice: 19.49 EUR
+slug: 'B08KF6DQLC-es Warner Bros. Entertainment - V de Vendetta - Steelbook 4k...'
+sku: 'B08KF6DQLC-es'
+tags: [  ]
+actualPrice: 20.95 EUR
 currency: EUR
-price: 19.49
+price: 20.95
 comparePrice: 37.22 EUR
-prodname: 'V de Vendetta - Steelbook 4k UHD [Blu-ray]'
+prodname: 'Warner Bros. Entertainment - V de Vendetta - Steelbook 4k UHD [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08KF6DQLC/?tag=tolees-21'
-descuento: '47.64'
-average: '29.171818181818182'
+descuento: '43.71'
+average: '29.3155813953488'
 ---
 
-Está [V de Vendetta - Steelbook 4k UHD [Blu-ray]](https://www.amazon.es/dp/B08KF6DQLC/?tag=tolees-21) con 47.64 de descuento por 19.49 EUR (original: 37.22 EUR) en el siguiente enlace!
+Está [Warner Bros. Entertainment - V de Vendetta - Steelbook 4k UHD [Blu-ray]](https://www.amazon.es/dp/B08KF6DQLC/?tag=tolees-21) con 43.71 de descuento por 20.95 EUR (original: 37.22 EUR) en el siguiente enlace!
 
-[![V de Vendetta - Steelbook 4k UHD [Blu-ra](https://m.media-amazon.com/images/I/51J7pTvPF-L._SL200_.jpg)](https://www.amazon.es/dp/B08KF6DQLC/?tag=tolees-21)
+[![Warner Bros. Entertainment - V de Vendet](https://m.media-amazon.com/images/I/51J7pTvPF-L._SL200_.jpg)](https://www.amazon.es/dp/B08KF6DQLC/?tag=tolees-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B08KF6DQLC/?tag=tolees-21)
+[🛒 Ver la oferta!!](https://www.amazon.es/dp/B08KF6DQLC/?tag=tolees-21)
