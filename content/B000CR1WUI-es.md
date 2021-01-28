@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Aramis 2567 - Agua de colonia  110 ml al 59.28 % de descuento'
-date: 2021-01-24 15:37:29
+date: 2021-01-28 08:54:40
 image: 'https://m.media-amazon.com/images/I/417-NQtzl4L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [Aramis 2567 - Agua de colonia  110 ml](https://www.amazon.es/dp/B000CR1WU
 ℹ️:
 
 - Este producto está indicado para hombres.
-- De la marca Aramis.
-- La nota olfativa principal de este producto es especiado.
 - Contiene 110 ml.
+- La nota olfativa principal de este producto es especiado.
+- De la marca Aramis.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B000CR1WUI/?tag=tolees-21)

@@ -27,10 +27,10 @@ En este momento está [Estrella Limpiahogar con Lejía y Detergente Limón - 1.3
 
 🔎:
 
-- Combate los malos olores dejando una fragancia fresca para tu hogar
-- Garantiza la higiene óptima de todo el hogar
-- Producto 2 en 1: Contiene tanto lejía como detergente ofreciendo resultados óptimos
 - Desinfección y limpieza sin huella: Producto contra virus, hongos y bacterias
 - Garantiza la máxima desinfección y limpia en profundidad dejando tu hogar impecable
+- Combate los malos olores dejando una fragancia fresca para tu hogar
+- Producto 2 en 1: Contiene tanto lejía como detergente ofreciendo resultados óptimos
+- Garantiza la higiene óptima de todo el hogar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B082PGN3C3/?tag=tolees-21)
