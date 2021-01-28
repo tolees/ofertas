@@ -27,11 +27,11 @@ Ahora mismo tienes [Philips Lighting - Philips Bombilla LED esférica casquillo 
 
 🔎:
 
-- Luz instantánea al encenderse
-- Su acabado mate es adecuado para iluminación general sin crear sombras
-- Bombillas LED de bajo consumo, ahorra hasta un 80%
 - No regulable
-- Recomendado para uso en salones, habitaciones y pasillos creando un espacio acogedor
+- Bombillas LED de bajo consumo, ahorra hasta un 80%
+- Luz instantánea al encenderse
 - Larga duración: hasta 15 años (15.000 horas)
+- Recomendado para uso en salones, habitaciones y pasillos creando un espacio acogedor
+- Su acabado mate es adecuado para iluminación general sin crear sombras
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01KHIM7OG/?tag=tolees-21)

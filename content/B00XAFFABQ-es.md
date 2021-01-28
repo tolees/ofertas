@@ -27,10 +27,10 @@ Tienes [NIVEA MEN Sensitive Bálsamo After Shave  1 x 100 ml   para el cuidado d
 
 ℹ️:
 
-- Contenido del envío – NIVEA MEN Sensitive Bálsamo After Shave, 0% alcohol para el cuidado de la piel sensible, 1 x 100 ml, bote.
 - 0% alcohol – Para garantizar un cuidado facial sin irritaciones, este after shave para hombre contiene 0% alcohol, por lo que es ideal para pieles sensibles.
 - Alivio instantáneo – Este after shave bálsamo alivia la irritación al instante y evita el ardor, el enrojecimiento y la sequedad tras el afeitado.
-- Fórmula suave – La fórmula extraligera y suave de este bálsamo para después del afeitado se absorbe rápidamente y no deja residuos grasos en la piel.
 - Sensación de confort – Gracias a la combinación de camomila, hamamelis y vitamina E, este bálsamo facial deja una sensación de confort y suavidad en la piel.
+- Fórmula suave – La fórmula extraligera y suave de este bálsamo para después del afeitado se absorbe rápidamente y no deja residuos grasos en la piel.
+- Contenido del envío – NIVEA MEN Sensitive Bálsamo After Shave, 0% alcohol para el cuidado de la piel sensible, 1 x 100 ml, bote.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XAFFABQ/?tag=tolees-21)

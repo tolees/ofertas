@@ -27,10 +27,10 @@ Está [Energy Sistem Urban 4 Auriculares inalámbricos con Bluetooth y Tecnolog�
 
 ℹ️:
 
-- - TRUE WIRELESS STEREO: Sácalos del charging case y se conectaran solos a tu Smartphone. Sin cables, podrás escuchar tu música, cuando acabes, vuelve a guardarlos.
 - - TOUCH CONTROL: Olvídate de los botones, gracias al touch control, sube el volumen, reproduce o cambia de canción con un simple toque.
 - - 36 MESES DE GARANTÍA: Disfruta del producto con una garantía especial de 36 meses y realiza cualquier tipo de consulta de forma gratuita e ilimitada a lo largo de este tiempo.
-- - IPX5: Resistente al agua, para que la lluvia o el sudor, no sea un límite para escuchar toda tu música.
 - - CHARGING CASE: La mejor manera de transportar tus auriculares, una pequeña caja, que además de transportarlos, los carga para que nunca te quedes sin batería
+- - TRUE WIRELESS STEREO: Sácalos del charging case y se conectaran solos a tu Smartphone. Sin cables, podrás escuchar tu música, cuando acabes, vuelve a guardarlos.
+- - IPX5: Resistente al agua, para que la lluvia o el sudor, no sea un límite para escuchar toda tu música.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07NGSF1ZW/?tag=tolees-21)
