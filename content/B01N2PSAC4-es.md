@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Edge Entertainment- Zombicide: Toxic Cit al 29.96 % de rebaja'
-date: 2021-01-26 23:27:10
+date: 2021-01-28 13:43:34
 image: 'https://m.media-amazon.com/images/I/61O+I1xAS6L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N2PSAC4/?tag=tolees-21'
 descuento: '29.96'
-average: '44.21'
+average: '43.65'
 ---
 
 Tienes [Edge Entertainment- Zombicide: Toxic City Mall  Multicolor  EDG0EDGZC02 ](https://www.amazon.es/dp/B01N2PSAC4/?tag=tolees-21) con precio final de  41.97 EUR (original: 59.92 EUR) (29.96 %  de rebaja) aqui!
@@ -27,8 +27,8 @@ Tienes [Edge Entertainment- Zombicide: Toxic City Mall  Multicolor  EDG0EDGZC02 
 
 🔎:
 
+- Juego de mesa
 - Expansión
 - Juego de tablero
-- Juego de mesa
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01N2PSAC4/?tag=tolees-21)

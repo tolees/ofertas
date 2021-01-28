@@ -27,10 +27,10 @@ Tienes [Pedicura Eléctrico Bedee Pies Cuidado Quita Callos Electronico  Quitar 
 
 🔎:
 
-- 👣【 recargableasí que 】 no tenemos que cambiar las pilas o bateria cada vez y algo aún mejor y podemos usarlo debajo del agua porque es resistente al agua y es muy cómodo Este producto puede cargarse durante 8 horas, y el tiempo de uso es de aproximadamente 30 ~ 40 minutos..
-- 🎁【 5 cabezas intercambiables】 el grano del rodillo giratorio es fino pero muy eficiente. Después del uso, los pies aparecerán lisos y aterciopelados.
-- 👣【 Potente pero no agresivo en la piel, hara un ligero masaje】 Es muy fácil de limpiar porque es suficiente para pasar la cabeza bajo el chorro de agua. Tiene un diseño simple e innovador, tiene un buen agarre y es perfecto para el uso a largo plazo.
-- 👣【 cargador con certificado CE】otros productos similares en el mercado, los cargadores no tienen certificación CE La cabeza realiza una rotación completa de 360 ° por aproximadamente 10,000 rpm, una velocidad que le permitirá eliminar fácil y suavemente todas las impurezas de nuestros pies.
 - 👣【Su funcionamiento es bastante simple】 una vez que se enciende simplemente pasándolo suavemente bajo el pie del pie, la cabeza eliminará automáticamente toda la piel seca dejando nuestros pies suaves y aterciopelados.
+- 👣【 recargableasí que 】 no tenemos que cambiar las pilas o bateria cada vez y algo aún mejor y podemos usarlo debajo del agua porque es resistente al agua y es muy cómodo Este producto puede cargarse durante 8 horas, y el tiempo de uso es de aproximadamente 30 ~ 40 minutos..
+- 👣【 Potente pero no agresivo en la piel, hara un ligero masaje】 Es muy fácil de limpiar porque es suficiente para pasar la cabeza bajo el chorro de agua. Tiene un diseño simple e innovador, tiene un buen agarre y es perfecto para el uso a largo plazo.
+- 🎁【 5 cabezas intercambiables】 el grano del rodillo giratorio es fino pero muy eficiente. Después del uso, los pies aparecerán lisos y aterciopelados.
+- 👣【 cargador con certificado CE】otros productos similares en el mercado, los cargadores no tienen certificación CE La cabeza realiza una rotación completa de 360 ° por aproximadamente 10,000 rpm, una velocidad que le permitirá eliminar fácil y suavemente todas las impurezas de nuestros pies.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B075N7V9QK/?tag=tolees-21)

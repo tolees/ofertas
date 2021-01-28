@@ -27,12 +27,12 @@ Está [Bidon zefal sense m80 negro/blanco/verde 800 ml](https://www.amazon.es/dp
 
 ℹ️:
 
-- Capacidad: 800 ml.
-- Peso: 83 g.
-- Libre de BPA: Sin bisfenol-A, ftalatos u otras toxinas utilizadas
-- Tapa: tapa suave.
 - Altura: 229 mm.
+- Libre de BPA: Sin bisfenol-A, ftalatos u otras toxinas utilizadas
+- Peso: 83 g.
+- Capacidad: 800 ml.
 - Válvula de empuje suave: para una sensación agradable mientras bebe.
+- Tapa: tapa suave.
 - Material inodoro: el material de polipropileno mantiene el agua limpia.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07JPK8QY6/?tag=tolees-21)
