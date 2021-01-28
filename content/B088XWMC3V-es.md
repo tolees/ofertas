@@ -27,8 +27,8 @@ En este momento está [ASICS Patriot 12  Zapatillas para Correr Mujer  Sun Coral
 
 🔎:
 
-- Entresuela de EVA para amortiguar y absorber los golpes.
 - Empeine flexible de malla transpirable.
+- Entresuela de EVA para amortiguar y absorber los golpes.
 - Zapatillas de running
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B088XWMC3V/?tag=tolees-21)

@@ -27,9 +27,9 @@ Está [USpicy Brochas Maquillaje Profesional 32pcs  Set Cepillos de Maquillaje C
 
 ℹ️:
 
-- ★ SUAVE Y SEDOSO ★ : Cepillos diseñado para los artistas de maquillaje y uso cosmético profesional, sino también para los aficionados
-- ★ CUMPLE TODAS SUS NECESIDADES ★ : Completas 32 piezas de brochas maquillaje con bolsa de viaje de prima calidad satisfacen todas sus necesidades cosméticas
 - ★ 12 MESES DE GARANTÍA ★ : Con el servicio al cliente atento y amable, no se preocupe nada de cualquier situación posible
+- ★ CUMPLE TODAS SUS NECESIDADES ★ : Completas 32 piezas de brochas maquillaje con bolsa de viaje de prima calidad satisfacen todas sus necesidades cosméticas
+- ★ SUAVE Y SEDOSO ★ : Cepillos diseñado para los artistas de maquillaje y uso cosmético profesional, sino también para los aficionados
 - ★ IDEAL PARA TODOS LOS TIPOS DE MAQUILLAJE ★ : Base, rubor, mezcla, contorno, sombra, destacar, sombra de ojos, cejas, corrector y mucho más
 - ★ ALTA CALIDAD BOLSA DE VIAJE ★ : Diseñada para proteger, guardar y clasificar todos los cepillos
 

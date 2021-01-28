@@ -27,10 +27,10 @@ En este momento está [A Little Help Nutrition - A Little Help para quemar grasa
 
 🔎:
 
-- Recuerda que el esfuerzo y compromiso es la base, ¡y nuestros complementos alimenticios te echan una mano!
-- La vitamina B6 es muy práctica para reducir el cansancio y la fatiga y regular la actividad de tus hormonas.
-- Tu hígado funcionará de forma correcta gracias a la colina, que también es una mano amiga para regular la absorción de grasa.
-- Maximiza los resultados de tu dieta y un estilo de vida saludable. Practica deporte y come de manera equilibrada y… voilà!
 - El zinc es una pequeña ayuda para regular tu metabolismo y optimizar la síntesis de proteínas.
+- Maximiza los resultados de tu dieta y un estilo de vida saludable. Practica deporte y come de manera equilibrada y… voilà!
+- La vitamina B6 es muy práctica para reducir el cansancio y la fatiga y regular la actividad de tus hormonas.
+- Recuerda que el esfuerzo y compromiso es la base, ¡y nuestros complementos alimenticios te echan una mano!
+- Tu hígado funcionará de forma correcta gracias a la colina, que también es una mano amiga para regular la absorción de grasa.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08SBWFZTD/?tag=tolees-21)
