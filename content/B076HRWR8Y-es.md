@@ -27,9 +27,9 @@ En este momento está [adidas CORE18 RN JKT Jacket  Hombre  Dark Blue/White  M](
 
 🔎:
 
-- Tiene dos bolsillos laterales para las manos
 - Tiene cierre completo con cremallera
-- Chubasquero con capucha para hombre
 - Tiene el logotipo de Adidas en el pecho
+- Chubasquero con capucha para hombre
+- Tiene dos bolsillos laterales para las manos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B076HRWR8Y/?tag=tolees-21)

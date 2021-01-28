@@ -1,34 +1,36 @@
 ---
 layout: post
-title: 'Seiko Reloj Analógico Energía Solar para al 40.04 % de descuento'
-date: 2021-01-18 09:01:24
+title: 'Seiko Reloj Analógico Energía Solar para al 39.70 % de descuento'
+date: 2021-01-28 10:45:27
 image: 'https://m.media-amazon.com/images/I/51jQvw9ypEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01671IYZI-es'
-actualPrice: 167.28 EUR
+slug: 'B01671IYZI-es Seiko Reloj Analógico Energía Solar para Hombre con Correa...'
+sku: 'B01671IYZI-es'
+tags: [  ]
+actualPrice: 168.24 EUR
 currency: EUR
-price: 167.28
+price: 168.24
 comparePrice: 279.0 EUR
 prodname: 'Seiko Reloj Analógico Energía Solar para Hombre con Correa de Acero Inoxidable – SNE393P1'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01671IYZI/?tag=tolees-21'
-descuento: '40.04'
-average: '141.28157894736842'
+descuento: '39.70'
+average: '142.6295'
 ---
 
-Está [Seiko Reloj Analógico Energía Solar para Hombre con Correa de Acero Inoxidable – SNE393P1](https://www.amazon.es/dp/B01671IYZI/?tag=tolees-21) con 40.04 de descuento por 167.28 EUR (original: 279.0 EUR) en el siguiente enlace!
+Está [Seiko Reloj Analógico Energía Solar para Hombre con Correa de Acero Inoxidable – SNE393P1](https://www.amazon.es/dp/B01671IYZI/?tag=tolees-21) con 39.70 de descuento por 168.24 EUR (original: 279.0 EUR) en el siguiente enlace!
 
 [![Seiko Reloj Analógico Energía Solar para](https://m.media-amazon.com/images/I/51jQvw9ypEL._SL200_.jpg)](https://www.amazon.es/dp/B01671IYZI/?tag=tolees-21)
 
 ℹ️:
 
 - WR 100mt
-- Analógico en Acero inoxidable para Hombre
-- Casual
-- Solar
 - Negro y Metálico
+- Casual
+- Analógico en Acero inoxidable para Hombre
+- Solar
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01671IYZI/?tag=tolees-21)

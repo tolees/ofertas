@@ -27,10 +27,10 @@ Ahora mismo tienes [Columbia Newton Ridge Plus II  Botas Impermeables Hombre  Ma
 
 🔎:
 
-- Herrajes de metal.
 - Construcción impermeable y con costuras selladas.
 - Suela exterior de goma resistente a la abrasión.
-- Entresuela ligera Techlite para una comodidad duradera, excelente amortiguación y alta recuperación de energía.
 - Material exterior de piel recubierta de poliuretano, ante y malla.
+- Entresuela ligera Techlite para una comodidad duradera, excelente amortiguación y alta recuperación de energía.
+- Herrajes de metal.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00KWK82NK/?tag=tolees-21)

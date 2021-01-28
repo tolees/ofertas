@@ -27,10 +27,10 @@ Ahora mismo tienes [Rimmel London  Lasting Finish Extreme Barra de Labios  Tono 
 
 🔎:
 
-- Color y comodidad
+- Se desliza suavemente y su aplicación es precisa
 - Dura hasta 10 horas
+- Color y comodidad
 - Textura cremosa y ligera
 - Brinda un color de alto impacto
-- Se desliza suavemente y su aplicación es precisa
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RFZHYQW/?tag=tolees-21)

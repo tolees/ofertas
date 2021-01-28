@@ -27,10 +27,10 @@ Tienes [CAMPER  Peu Cami  Damen Sneakers  Grau  Lt. Pastel Grey   39 EU](https:/
 
 🔎:
 
-- Empeine: Nobuck (Piel vacuna)
 - Tiras elásticas para un fácil ajuste
-- Suela/Características: TPU con tecnología Contact Earth para mayor resistencia a la abrasión
-- Costura a lo largo de todo el borde para mayor durabilidad
 - Color: Gris
+- Suela/Características: TPU con tecnología Contact Earth para mayor resistencia a la abrasión
+- Empeine: Nobuck (Piel vacuna)
+- Costura a lo largo de todo el borde para mayor durabilidad
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00HZSIP4I/?tag=tolees-21)
