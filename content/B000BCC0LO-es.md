@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.40 % en D-Link DGS-108 - Switch de red  8 puerto'
-date: 2021-01-27 06:15:38
+date: 2021-01-28 06:35:42
 image: 'https://m.media-amazon.com/images/I/41xLR-AuR9L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000BCC0LO/?tag=tolees-21'
 descuento: '40.40'
-average: '26.1295744680851'
+average: '26.1067346938776'
 ---
 
 Tienes [D-Link DGS-108 - Switch de red  8 puertos Gigabit RJ-45  10/100/1000 Mbps  chasis metálico  IGMP snooping  autosensing  priorización de tráfico QoS 802.1p  color negro](https://www.amazon.es/dp/B000BCC0LO/?tag=tolees-21) con un 40.40 % de descuento con precio de oferta de 25.57 EUR (original: 42.9 EUR) en el siguiente enlace!
@@ -27,10 +27,10 @@ Tienes [D-Link DGS-108 - Switch de red  8 puertos Gigabit RJ-45  10/100/1000 Mbp
 
 ℹ️:
 
+- IGMP Snooping: si tienes servicio de TV por Internet, el tráfico de datos por tu red estará bajo control, sin bajadas de rendimiento para el resto de dispositivos
+- Chasis metálico para una mayor resistencia y una mejor disipación del calor, lo que se traduce en una mayor durabilidad del producto
 - Incorpora la tecnología D-Link Green, hasta un 80% menos de consumo de energía
 - Enchufar y listo, no necesita configuración alguna
-- Chasis metálico para una mayor resistencia y una mejor disipación del calor, lo que se traduce en una mayor durabilidad del producto
 - Jumbo frames: Soporta tramas de datos de 9000 bytes
-- IGMP Snooping: si tienes servicio de TV por Internet, el tráfico de datos por tu red estará bajo control, sin bajadas de rendimiento para el resto de dispositivos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000BCC0LO/?tag=tolees-21)
