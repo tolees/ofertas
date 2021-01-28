@@ -27,8 +27,8 @@ Está [Markwins - The Color Workshop TCW - Estuche de viaje para maquillaje  43 
 
 ℹ️:
 
-- Productos cosméticos para labios, ojos y cara.
 - Perfecto para viajar y regalar.
+- Productos cosméticos para labios, ojos y cara.
 - Múltiples tonos – Crea un perfecto día o noche para adaptarse a cualquier gusto.
 - Aplicadores incluidos.
 - Carcasa de aluminio reutilizable.
