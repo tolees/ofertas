@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gullón - Galleta Fibra sin azúcar Diet N al 35.71 % de descuento'
-date: 2021-01-26 20:57:56
+date: 2021-01-28 22:55:49
 image: 'https://m.media-amazon.com/images/I/41BjZ06Ta1L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B005TDD3U2/?tag=tolees-21'
 descuento: '35.71'
-average: '1.17222222222222'
+average: '1.154'
 ---
 
 Ahora mismo tienes [Gullón - Galleta Fibra sin azúcar Diet Nature 170g](https://www.amazon.es/dp/B005TDD3U2/?tag=tolees-21) a 0.99 EUR (original: 1.54 EUR) (35.71 %  de descuento) en el siguiente enlace!
@@ -27,9 +27,9 @@ Ahora mismo tienes [Gullón - Galleta Fibra sin azúcar Diet Nature 170g](https:
 
 🔎:
 
-- Fabricado por Galletas Gullón.
-- Las galletas Diet Nature fibra son integrales con un alto contenido en fibra y sin azúcares.
-- Sin aceite de palma. Producto elaborado con aceite de girasol alto oleico.
-- El tentempié perfecto para darte un capricho delicioso.
+- Diet Nature
+- Biscuit
+- sugarfree
+- Diabetic Friendly
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B005TDD3U2/?tag=tolees-21)

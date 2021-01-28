@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TOP BRIGHT Cubo de Actividades 5 en 1 -  al 28.60 % de descuento'
-date: 2021-01-27 04:28:15
+date: 2021-01-28 22:46:51
 image: 'https://m.media-amazon.com/images/I/5112vi1gEGL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B086DPJHNH/?tag=tolees-21'
 descuento: '28.60'
-average: '24.6251351351352'
+average: '24.6300000000001'
 ---
 
 Está [TOP BRIGHT Cubo de Actividades 5 en 1 - Centro de Actividad de Madera para Bebés y Niños de 1  2 años de Edad - Centro Educativo - Laberinto  Engranajes y Bloques - Juguete Divertido para Niños Niñas](https://www.amazon.es/dp/B086DPJHNH/?tag=tolees-21) con 28.60 de descuento por 24.99 EUR (original: 35.0 EUR) en el siguiente enlace!

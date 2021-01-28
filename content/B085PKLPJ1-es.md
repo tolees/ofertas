@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'realme X50 Pro – Smartphone 5G de 6.44”  al 33.39 % de descuento'
-date: 2021-01-25 08:38:27
+date: 2021-01-28 22:25:34
 image: 'https://m.media-amazon.com/images/I/41hlJap+zoL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B085PKLPJ1/?tag=tolees-21'
 descuento: '33.39'
-average: '493.080689655172'
+average: '489.944666666666'
 ---
 
 Está [realme X50 Pro – Smartphone 5G de 6.44”  8 GB RAM + 128 GB ROM  procesador OctaCore Qualcomm Snapdragon 865  cuádruple cámara AI 64MP  MicroSD  Moss Green](https://www.amazon.es/dp/B085PKLPJ1/?tag=tolees-21) con 33.39 de descuento por 399.0 EUR (original: 599.0 EUR) en el siguiente enlace!
@@ -27,11 +27,11 @@ Está [realme X50 Pro – Smartphone 5G de 6.44”  8 GB RAM + 128 GB ROM  proce
 
 ℹ️:
 
+- Batería de 4200mAh con carga SuperDart de 65W
 - Procesador Qualcomm Snapdragon 865, 5G
+- Cuádruple Cámara AI de 64MP, zoom 20X
+- Altavoces estéreo duales Dolby Atmos
 - Pantalla de 6.44” Super AMOLED de 90Hz
 - Sistema de enfriamiento de vapor
-- Cuádruple Cámara AI de 64MP, zoom 20X
-- Batería de 4200mAh con carga SuperDart de 65W
-- Altavoces estéreo duales Dolby Atmos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B085PKLPJ1/?tag=tolees-21)

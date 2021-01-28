@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Disney - Pack: Frozen + Frozen 2  BD  [B al 30.01 % de descuento'
-date: 2021-01-27 22:21:43
+date: 2021-01-28 22:50:24
 image: 'https://m.media-amazon.com/images/I/519XvzqwX5L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B081FSHHWZ/?tag=tolees-21'
 descuento: '30.01'
-average: '22.212962962963'
+average: '22.3679310344828'
 ---
 
 Está [Disney - Pack: Frozen + Frozen 2  BD  [Blu-ray]](https://www.amazon.es/dp/B081FSHHWZ/?tag=tolees-21) con 30.01 de descuento por 24.46 EUR (original: 34.95 EUR) en el siguiente enlace!
