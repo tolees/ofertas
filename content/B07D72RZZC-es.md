@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Adidas Samba OG  Zapatillas de Gimnasia  al 29.97 % de descuento'
-date: 2020-10-02 13:08:34
+title: 'Adidas Samba OG  Zapatillas de Gimnasia  al 50.03 % de descuento'
+date: 2021-01-28 18:17:27
 image: 'https://m.media-amazon.com/images/I/41SGWLq8p8L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,23 +9,28 @@ author: ring
 slug: 'B07D72RZZC-es Adidas Samba OG Zapatillas de Gimnasia para Hombre Blanco...'
 sku: 'B07D72RZZC-es'
 tags: [  ]
-actualPrice: 62.99 EUR
+actualPrice: 44.95 EUR
 currency: EUR
-price: 62.99
+price: 44.95
 comparePrice: 89.95 EUR
 prodname: 'Adidas Samba OG  Zapatillas de Gimnasia para Hombre  Blanco  Footwear White/Core Black/Clear Granite 0   38 EU'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D72RZZC/?tag=tolees-21'
-descuento: '29.97'
-average: '62.97666666666667'
+descuento: '50.03'
+average: '58.47'
 ---
 
-Ahora mismo tienes [Adidas Samba OG  Zapatillas de Gimnasia para Hombre  Blanco  Footwear White/Core Black/Clear Granite 0   38 EU](https://www.amazon.es/dp/B07D72RZZC/?tag=tolees-21) a 62.99 EUR (original: 89.95 EUR) (29.97 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Adidas Samba OG  Zapatillas de Gimnasia para Hombre  Blanco  Footwear White/Core Black/Clear Granite 0   38 EU](https://www.amazon.es/dp/B07D72RZZC/?tag=tolees-21) a 44.95 EUR (original: 89.95 EUR) (50.03 %  de descuento) en el siguiente enlace!
 
 [![Adidas Samba OG  Zapatillas de Gimnasia ](https://m.media-amazon.com/images/I/41SGWLq8p8L._SL200_.jpg)](https://www.amazon.es/dp/B07D72RZZC/?tag=tolees-21)
 
 🔎:
 
+- Forro de piel sintética; suela de goma color caramelo
+- Diseño auténtico: El auténtico estilo Samba
+- Suela vintage: El dibujo de la suela con punto de pivote se inspira en el calzado de fútbol vintage
+- Parte superior de piel granulada con refuerzos de ante y detalles dorados
+- Horma clásica
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07D72RZZC/?tag=tolees-21)
