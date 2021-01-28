@@ -27,8 +27,8 @@ Está [Funko - Pop Vinyl Dota 2 Spirit Breaker](https://www.amazon.es/dp/B07CRVL
 
 ℹ️:
 
-- Las reproducciones miden unos 9 cm, pero también hay versiones grandes
 - El producto se vende en la window Box original
 - Los Funko Pops es una reproducción estilizada de personajes icónicos de películas, series de televisión, series de televisión, cómics, juegos y más.
+- Las reproducciones miden unos 9 cm, pero también hay versiones grandes
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07CRVLS6S/?tag=tolees-21)

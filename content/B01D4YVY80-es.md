@@ -27,10 +27,10 @@ Tienes [Orbegozo SF 0147 Ventilador de pie oscilante  3 niveles de ventilación 
 
 ℹ️:
 
-- Asa para transporte
-- Diámetro de la hélice 40 cm
-- Tensión 230 V - 50 Hz
-- Tres velocidades de ventilación
 - Potencia de 50 W
+- Tres velocidades de ventilación
+- Diámetro de la hélice 40 cm
+- Asa para transporte
+- Tensión 230 V - 50 Hz
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01D4YVY80/?tag=tolees-21)

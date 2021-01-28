@@ -27,10 +27,10 @@ Tienes [Skechers Skech-Air Dynamight-Fast Brak  Zapatillas Mujer  Azul  Navy Mes
 
 🔎:
 
-- Forro: tela.
+- Cierre: cordón.
 - Material de la suela: sintético.
 - Tipo de tacón: -
-- Cierre: cordón.
+- Forro: tela.
 - Material exterior: sintético.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07TWJ1L24/?tag=tolees-21)

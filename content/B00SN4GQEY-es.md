@@ -27,10 +27,10 @@ Tienes [Chicco Steril Natural 3en1 00007391000000 - Esterilizador eléctrico de 
 
 🔎:
 
-- 3 en 1: Total, compacto y microondas
 - Rápido: 5 minutos
+- 3 en 1: Total, compacto y microondas
+- Capacidad de hasta 6 biberones
 - Protección 24 horas
 - Elimina hasta un 99,9% de gérmenes
-- Capacidad de hasta 6 biberones
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00SN4GQEY/?tag=tolees-21)

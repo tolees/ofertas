@@ -28,9 +28,9 @@ Ahora mismo tienes [Liehuzhekeji - Oiliehu Radio de Coche Bluetooth de 1 DIN  Re
 🔎:
 
 - Radio del coche: pantalla táctil Single Din 4.1 ", el tamaño del elemento es 188 * 58 * 85 mm. Se pueden configurar siete colores de iluminación de botones y varios logotipos del automóvil para la página de inicio. Admite sintonización AM / FM / RDS, se puede conectar con subwoofer , con puerto de tarjeta dual USB / AUX-in / TF
-- Bluetooth incorporado: admite llamadas manos libres / reproducción de música / descarga de guías telefónicas. Conecte el teléfono para mantener sus manos libres, brindarle un entorno de conducción seguro y cómodo
 - Función FM AM RDS: radio FM con estéreo de alta calidad, que puede buscar canales cuidadosamente de manera totalmente automática, configuración semiautomática y precisa
-- Función de marcha atrás: admite la entrada de vídeo de la cámara de visión trasera, puede ver el vídeo en la pantalla MP5 a través de la cámara de marcha atrás cuando retrocede su coche
+- Bluetooth incorporado: admite llamadas manos libres / reproducción de música / descarga de guías telefónicas. Conecte el teléfono para mantener sus manos libres, brindarle un entorno de conducción seguro y cómodo
 - Producto incluido: 1 x reproductor MP5 para automóvil, 1 x cable de alimentación, 1 x control remoto (batería no incluida), 1 x manual de usuario, 1 x control en el volante.
+- Función de marcha atrás: admite la entrada de vídeo de la cámara de visión trasera, puede ver el vídeo en la pantalla MP5 a través de la cámara de marcha atrás cuando retrocede su coche
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07XRBLJFY/?tag=tolees-21)

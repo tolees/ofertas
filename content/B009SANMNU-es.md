@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Halloween Man 125 ml al 70.87 % de rebaja'
-date: 2021-01-27 12:37:26
+date: 2021-01-28 12:53:08
 image: 'https://m.media-amazon.com/images/I/41IBwV-rJUL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B009SANMNU/?tag=tolees-21'
 descuento: '70.87'
-average: '26.74'
+average: '25.092'
 ---
 
 Tienes [Halloween Man 125 ml](https://www.amazon.es/dp/B009SANMNU/?tag=tolees-21) con precio final de  18.5 EUR (original: 63.5 EUR) (70.87 %  de rebaja) aqui!
