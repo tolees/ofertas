@@ -27,9 +27,9 @@ Ahora mismo tienes [Lacoste L1212  Polo Para Hombre  Verde  Vert 132   X-Small  
 
 🔎:
 
-- Botones de nácar
-- Cuello y bordes de las mangas acanalados
 - Bajo recto con aberturas laterales
 - Cocodrilo bordado en el pecho
+- Botones de nácar
+- Cuello y bordes de las mangas acanalados
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B002RJFG42/?tag=tolees-21)

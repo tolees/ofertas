@@ -27,9 +27,9 @@ En este momento está [Ubiquiti Spain - Ubiquiti UAP-AC-PRO - Punto de acceso  c
 
 🔎:
 
-- Interfaz (2) puertos Ethernet 10/100/1000
-- Ofrece doble banda simultanea 3x3 MIMO
 - Wi-Fi estándares 802.11 a / b / g / n / ac
+- Interfaz (2) puertos Ethernet 10/100/1000
 - Seguridad inalámbrica WEP, WPA-PSK, WPA-TKIP,
+- Ofrece doble banda simultanea 3x3 MIMO
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B016XYQ3WK/?tag=tolees-21)

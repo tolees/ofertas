@@ -28,8 +28,8 @@ Tienes [Pediatopic Cuidado Facial 50ml  crema emoliente e hidratante específica
 ℹ️:
 
 - Es adecuado para pieles atópicas y secas
-- El producto es una crema emoliente e hidratante
 - Hidratante de larga duración
 - La textura es fluida para una absorción óptima
+- El producto es una crema emoliente e hidratante
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01MSHC5BI/?tag=tolees-21)
