@@ -27,9 +27,9 @@ Tienes [Tesura Games - Monstrum](https://www.amazon.es/dp/B07GF6WT54/?tag=tolees
 
 🔎:
 
-- Sobrevive a un ambiente y monstruo diferente en cada visita
 - Cualquier cosa que encuentres puede ser útil para engañar a los monstruos y escapar del barco
-- Oculta, distrae y huye, pero ten cuidado de no caer en una de las muchas trampas
 - Mantente vivo o tendrás que empezar de nuevo desde el principio: buena suerte
+- Oculta, distrae y huye, pero ten cuidado de no caer en una de las muchas trampas
+- Sobrevive a un ambiente y monstruo diferente en cada visita
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07GF6WT54/?tag=tolees-21)

@@ -28,7 +28,7 @@ Está [Koch Media - Warhammer 40.000: Mechanicus](https://www.amazon.es/dp/B087X
 ℹ️:
 
 - Participa en un combate inmersivo estratégico que pondrá a prueba tu temple bajo la extrema presión de la emboscada xe s; accede a tus armas y habilidades más poderosas usando puntos de cognición y avanza hacia tu enemigo sin pausa; temas, el Omnissiah favorece a los valientes
-- Una historia magnífica escrita por el autor de Black Library, Ben Counter, específicamente diseñada para adaptarse a la personalidad única de la facción Adeptus Mechanicus, con cada personaje con sus propias personalidades y agendas
 - Toma decisiones difíciles que forjarán el futuro de su Ark Mechanicus, the Caestus Metalican, que te enviarán a finales alternativos; ten en cuenta que cuanto más explores cada tumba, mayores serán las recompensas pero también la amenaza
+- Una historia magnífica escrita por el autor de Black Library, Ben Counter, específicamente diseñada para adaptarse a la personalidad única de la facción Adeptus Mechanicus, con cada personaje con sus propias personalidades y agendas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B087XLL2X1/?tag=tolees-21)
