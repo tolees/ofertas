@@ -27,9 +27,9 @@ En este momento está [Harry Potter Juegos de Juegos - Quidditch Arena](https://
 
 🔎:
 
-- Colecciona los mini juegos Hogwarts Great Hall y Ollivanders Wand Shop para ampliar tu mundo (se vende por separado)
-- Gira la rueda para que las figuras persigan el Snitch dorado
 - El juego incluye 2 minifiguras montando sus escobas
 - Abre la caja para ver el Quaffle y Bludgers
+- Gira la rueda para que las figuras persigan el Snitch dorado
+- Colecciona los mini juegos Hogwarts Great Hall y Ollivanders Wand Shop para ampliar tu mundo (se vende por separado)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07H83BZBT/?tag=tolees-21)

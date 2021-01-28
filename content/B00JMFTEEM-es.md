@@ -27,9 +27,9 @@ Tienes [MILAN BWM10278 - Sacapuntas Power Sharp  Blanco  7 x 6.5 cm](https://www
 
 ℹ️:
 
-- Afilalápices eléctrico
-- Cuchilla de acero al carbono, afilada y resistente. Colores surtidos. Dimensiones: 7 x 6,5 cm
 - Tacto de goma
+- Cuchilla de acero al carbono, afilada y resistente. Colores surtidos. Dimensiones: 7 x 6,5 cm
+- Afilalápices eléctrico
 - Se presenta en blister con pilas incluidas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00JMFTEEM/?tag=tolees-21)

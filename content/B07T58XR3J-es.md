@@ -27,10 +27,10 @@ En este momento está [CEPA 21 - Horcajo  Vino Tinto  Tempranillo  Ribera del Du
 
 🔎:
 
-- En la boca es potente, estructurado y con un tanino goloso y envolvente, el postgusto es cálido y muy largo
-- Crianza en barrica de roble francés, con denominación de origen Ribera del Duero y elaborado en un viñedo localizado en Castrillo de Duero (Valladolid)
-- Color rojo cereza intenso con ribetes rubís
 - Vino tinto Ribera del Duero de variedad tempranillo
+- Color rojo cereza intenso con ribetes rubís
+- Crianza en barrica de roble francés, con denominación de origen Ribera del Duero y elaborado en un viñedo localizado en Castrillo de Duero (Valladolid)
+- En la boca es potente, estructurado y con un tanino goloso y envolvente, el postgusto es cálido y muy largo
 - En la nariz es muy expresivo, con una compleja combinación de frutos rojos y negros maduros y aromas propios de la crianza, balsámicos, especiados y una marcada mineralidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07T58XR3J/?tag=tolees-21)

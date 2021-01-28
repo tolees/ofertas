@@ -27,10 +27,10 @@ En este momento está [Xiaomi - Redmi Note 8 Pro – Smartphone con Pantalla 6 5
 
 🔎:
 
-- Pantalla fhd+ de 6,53" y notch de gota, corning gorilla glass 5 delante y detrás.
-- cámara de ultra alta resolución de 64 mp, 4 cámara s con ultra gran angular y lente macro
-- Nfc, duo 4g nano sim / micro-sd hasta 256 gb
-- Alto rendimiento con el procesador helio g90t, sistema de refrigeración líquida.
 - Gran batería de 4500 mah (típ), carga rápida de 18 w
+- Alto rendimiento con el procesador helio g90t, sistema de refrigeración líquida.
+- Nfc, duo 4g nano sim / micro-sd hasta 256 gb
+- cámara de ultra alta resolución de 64 mp, 4 cámara s con ultra gran angular y lente macro
+- Pantalla fhd+ de 6,53" y notch de gota, corning gorilla glass 5 delante y detrás.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07YT3HKHZ/?tag=tolees-21)

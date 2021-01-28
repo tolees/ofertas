@@ -27,7 +27,7 @@ En este momento está [Rochas - Eau de toilette femme 100 ml](https://www.amazon
 
 🔎:
 
-- Para el cabello: normal
 - Tipo de piel: normal
+- Para el cabello: normal
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00BVO9L8G/?tag=tolees-21)
