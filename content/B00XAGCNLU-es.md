@@ -27,8 +27,8 @@ Tienes [PANTENE SUAVE Y LISO mascarilla 200 ml](https://www.amazon.es/dp/B00XAGC
 
 ℹ️:
 
+- Género: Mujer
 - Tipo de Cabello: Cabello Seco /, Cabello Rizado
 - Marca: Pantene
-- Género: Mujer
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XAGCNLU/?tag=tolees-21)
