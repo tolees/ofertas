@@ -28,7 +28,7 @@ Tienes [Halloween Man 125 ml](https://www.amazon.es/dp/B009SANMNU/?tag=tolees-21
 🔎:
 
 - Corazón: Jengibre Afrodisiaco, Canela CO2 LMR, Lavanda LMR, Flor de Azahar de Túnez LMR.
-- Salida: Martini de Manzana, Hojas de violeta LMR,Albahaca Grand Vert LMR, Mandarina.
 - Fondo: Cuero Sexy, Almizcles “Segunda Piel”, Ámbar Gris y Vainilla CO2 LMR.
+- Salida: Martini de Manzana, Hojas de violeta LMR,Albahaca Grand Vert LMR, Mandarina.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B009SANMNU/?tag=tolees-21)

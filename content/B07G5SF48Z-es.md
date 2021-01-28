@@ -27,12 +27,12 @@ En este momento está [Logitech G PRO Ratón Gaming Inalámbrico  Sensor HERO 16
 
 🔎:
 
-- Sistema Mecánico de Tensión de Botones: El sistema de tensión de botones de este ratón ergonómico con resortes metálicos optimiza la coherencia de los botones izquierdo y derecho
-- Sensor HERO 16K: El ratón para gaming óptico ofrece óptima respuesta precisa y constante a cualquier velocidad en toda la gama de dpi (200-12.000 dpi)
-- Actualice a 25K DPI: aumente el DPI máximo a 25,600 para desbloquear el primer nivel de rendimiento submicrónico del mundo (disponible para todos los ratones con el sensor HERO 16K a través de una actualización de software de G HUB)
-- Retroiluminación RGB LIGHTSYNC: Personalizable con hasta 16,8 millones de colores, este ratón para gaming es óptimo para llevar las luces de colores de tu equipo
 - Diseño Ambidiestro: los botones laterales extraíbles hacen que PRO Wireless sea realmente ambidiestro y permite que los profesionales decidan cuántos botones laterales desean, de cero a cuatro
-- Ratón Ajustable con G Hub: El Software adicional disponible para descarga desde Internet hace del G PRO inalámbrico el ratón óptimo para su ordenador
 - Ligerísimo: Este ratón inalámbrico para gaming, G PRO, está hecho con materiales ligeros y duraderos para poder jugar a toda velocidad
+- Ratón Ajustable con G Hub: El Software adicional disponible para descarga desde Internet hace del G PRO inalámbrico el ratón óptimo para su ordenador
+- Actualice a 25K DPI: aumente el DPI máximo a 25,600 para desbloquear el primer nivel de rendimiento submicrónico del mundo (disponible para todos los ratones con el sensor HERO 16K a través de una actualización de software de G HUB)
+- Sensor HERO 16K: El ratón para gaming óptico ofrece óptima respuesta precisa y constante a cualquier velocidad en toda la gama de dpi (200-12.000 dpi)
+- Retroiluminación RGB LIGHTSYNC: Personalizable con hasta 16,8 millones de colores, este ratón para gaming es óptimo para llevar las luces de colores de tu equipo
+- Sistema Mecánico de Tensión de Botones: El sistema de tensión de botones de este ratón ergonómico con resortes metálicos optimiza la coherencia de los botones izquierdo y derecho
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07G5SF48Z/?tag=tolees-21)
