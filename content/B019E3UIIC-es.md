@@ -27,10 +27,10 @@ En este momento está [Smartwares 10.029.29 Detector Combinado de Gas CO  Sensor
 
 🔎:
 
-- Equ ipad a con un sensor de una vida de 5 años
 - Fácil de instalar con tan solo algunos tornillos y el adaptador
 - Sistema de indicador led claro que aclara el motivo por el que salta la alarma
-- Asegúrese de que recibe una alerta a tiempo gracias al detector combinado adecuado para detectar monóxido de carbono, glp y gn
 - Alarma alta y clara de 85.db
+- Equ ipad a con un sensor de una vida de 5 años
+- Asegúrese de que recibe una alerta a tiempo gracias al detector combinado adecuado para detectar monóxido de carbono, glp y gn
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B019E3UIIC/?tag=tolees-21)

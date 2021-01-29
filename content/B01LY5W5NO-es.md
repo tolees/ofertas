@@ -28,7 +28,7 @@ Tienes [Grupo Erik Editores Lamina Educativa Mapa Del Mundo](https://www.amazon.
 ℹ️:
 
 - Tienen un grosor de 0.6 mm
-- Ideal para cualquier rincón de estudio
 - Medida 40 x 59.5 
+- Ideal para cualquier rincón de estudio
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01LY5W5NO/?tag=tolees-21)

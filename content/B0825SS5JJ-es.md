@@ -27,14 +27,14 @@ Tienes [Geox U PRJ 26 B  Barco Chukka Hombre  Black  40 EU](https://www.amazon.e
 
 ℹ️:
 
-- Tipo de tela: Smo.Lea
-- No resistente al agua
-- Tipo de tacón: plano
-- Ancho del zapato: estrecho
-- Forro: sintético
-- Material exterior: piel lisa
 - Cierre: cordones
+- Tipo de tela: Smo.Lea
+- Ancho del zapato: estrecho
+- Tipo de tacón: plano
+- Material exterior: piel lisa
+- No resistente al agua
 - Tipo de ajuste: ten en cuenta que los zapatos geox tienen un ajuste cómodo, por lo que te recomendamos que elijas media talla
 - Material de la suela: sintético
+- Forro: sintético
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0825SS5JJ/?tag=tolees-21)
