@@ -27,10 +27,10 @@ Ahora mismo tienes [Sony SRS-XB43 - Altavoz Bluetooth Potente  con Luces  Extra 
 
 🔎:
 
-- Experiencia de sonido potente, profundidad e intensidad en graves y claridad vocal
+- Ilumínalo todo y mueve tu esqueleto con el altavoz customizable y multicolor
 - Carga tu smartphone directamente desde tu altavoz SRS-XB43
 - Altavoz portátil resistente al agua, al polvo, al óxido (IP67) y al agua salada con hasta 24h de batería
+- Experiencia de sonido potente, profundidad e intensidad en graves y claridad vocal
 - Haz tu fiesta aún más grande, conecta hasta 100 altavoces inalámbricos compatibles o haz stereo pair
-- Ilumínalo todo y mueve tu esqueleto con el altavoz customizable y multicolor
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08B442SVD/?tag=tolees-21)

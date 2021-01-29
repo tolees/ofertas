@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Western Digital - WD My Passport Go 500  al 33.75 % de descuento'
-date: 2021-01-25 08:12:12
+date: 2021-01-29 03:30:35
 image: 'https://m.media-amazon.com/images/I/31ibt7PYItL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MVWJZVS/?tag=tolees-21'
 descuento: '33.75'
-average: '79.2067441860465'
+average: '78.9957777777777'
 ---
 
 Ahora mismo tienes [Western Digital - WD My Passport Go 500 GB  disco duro sólido externo - acabado cobalto](https://www.amazon.es/dp/B07MVWJZVS/?tag=tolees-21) a 74.46 EUR (original: 112.39 EUR) (33.75 %  de descuento) en el siguiente enlace!
