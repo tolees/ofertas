@@ -27,10 +27,10 @@ Tienes [Skechers     EU](https://www.amazon.es/dp/B07FF77G4S/?tag=tolees-21) con
 
 🔎:
 
-- Zapato Punta: redonda
-- Ajuste: normal.
-- Patrón: Uni
-- Altura del tacón: 0 – 3 cm
 - Suela interior: textil, suave acolchado
+- Altura del tacón: 0 – 3 cm
+- Zapato Punta: redonda
+- Patrón: Uni
+- Ajuste: normal.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07FF77G4S/?tag=tolees-21)

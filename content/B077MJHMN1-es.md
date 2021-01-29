@@ -27,12 +27,12 @@ Está [PUMA NRGY Comet  Zapatillas de Running Unisex Adulto  Negro Black White  
 
 ℹ️:
 
+- Anchura del zapato: Normal
 - Material exterior: Tela
 - Altura del tacón: 2 centímetros
-- Anchura del zapato: Normal
-- Cierre: Cordones
 - Composición: Textil
-- Revestimiento: Tela
+- Cierre: Cordones
 - Material de la suela: Goma
+- Revestimiento: Tela
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B077MJHMN1/?tag=tolees-21)

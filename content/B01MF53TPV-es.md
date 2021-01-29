@@ -27,10 +27,10 @@ En este momento está [New Balance 373 Core  Zapatillas Hombre  Verde  Olive   3
 
 🔎:
 
-- Material interior: tela
 - Material de la suela: goma
-- Cierre: cordones
 - Estilo: zapatillas de running
 - Material exterior: material sintético
+- Cierre: cordones
+- Material interior: tela
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01MF53TPV/?tag=tolees-21)
