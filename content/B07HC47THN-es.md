@@ -27,9 +27,9 @@ Ahora mismo tienes [Meridiem Games - Fimbul](https://www.amazon.es/dp/B07HC47THN
 
 🔎:
 
-- Use items from the distant past to grow and battle the mighty Jutons, a race of giants olders than the gods themselves
 - Fight the Vikings using a complex but easy-to-learn weapon-based combat system and gather fellow Vikings to help you defeat trolls the size of trees.
-- Use the time-line-tree at any point to explore the decisions that changed your fate.
 - Navigate your choices, go to any intersection, and follow a different path through your story.
+- Use the time-line-tree at any point to explore the decisions that changed your fate.
+- Use items from the distant past to grow and battle the mighty Jutons, a race of giants olders than the gods themselves
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07HC47THN/?tag=tolees-21)

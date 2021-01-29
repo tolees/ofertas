@@ -27,8 +27,8 @@ Tienes [EMUCA - Escurridor de Platos y Vasos de Acero Inoxidable para Muebles de
 
 🔎:
 
-- Universal: para montaje en mueble de cocina estándar de ancho 70cm (anchura interior del módulo entre 635 y 670mm).
 - El suministro incluye: 1 bandeja para platos, 1 bandeja para vasos, 1 bandeja recogegotas e instrucciones de montaje.
+- Universal: para montaje en mueble de cocina estándar de ancho 70cm (anchura interior del módulo entre 635 y 670mm).
 - Instalación muy sencilla y fijación muy robusta: montaje mediante 8 tensores laterales que ajustan las bandejas al mueble.
 - Rejillas para platos y vasos fabricadas en acero inoxidable AISI 430 y la bandeja recogegotas en acero inoxidable AISI 304.
 

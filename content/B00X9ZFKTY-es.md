@@ -30,7 +30,7 @@ Tienes [NIVEA Bajo la Ducha Smooth Milk  1 x 400 ml   leche corporal para la duc
 - Bajo la Ducha Moisturizing body lotion - 1017-07971
 - Container 400 ml
 - Moisturizing body lotion - Women
-- Bajo la Ducha Moisturizing body lotion - Nivea
 - Nivea - Bajo la Ducha Moisturizing body lotion - 1017-07971
+- Bajo la Ducha Moisturizing body lotion - Nivea
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00X9ZFKTY/?tag=tolees-21)

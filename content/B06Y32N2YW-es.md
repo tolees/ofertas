@@ -27,7 +27,7 @@ Ahora mismo tienes [New Balance Hombre 574v2-core Trainers Zapatillas  Gris  Gre
 
 🔎:
 
-- Revestimiento: Tela
 - Material exterior: Cuero
+- Revestimiento: Tela
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B06Y32N2YW/?tag=tolees-21)

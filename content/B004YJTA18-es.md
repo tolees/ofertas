@@ -28,9 +28,9 @@ En este momento está [Ferplast Jaula para Conejos CASITA 100 Conejillos de Indi
 🔎:
 
 - Dimensiones totales: 96 x 57 x h 56 cm
-- Marco superior de plástico con clips de bloqueo
 - Techo redondeado que asegura más espacio al animal; además, es completamente abatible para poder acceder fácilmente al interior de la jaula
-- Amplia y confortable jaula para conejos y conejillos de Indias, realizada con alambre pintado con productos atóxicos y cubeta de resina termoplástica
+- Marco superior de plástico con clips de bloqueo
 - Puerta corredera con cierre de seguridad; accesorios incluidos: pesebre para heno, bebedero y comedero de plástico, casita para el conejillo
+- Amplia y confortable jaula para conejos y conejillos de Indias, realizada con alambre pintado con productos atóxicos y cubeta de resina termoplástica
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B004YJTA18/?tag=tolees-21)

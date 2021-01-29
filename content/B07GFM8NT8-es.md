@@ -28,9 +28,9 @@ En este momento está [Agoky Pantalones Cortos para Niñas de Yoga Ballet Shorts
 🔎:
 
 - Estilo elástico de talle alto. Color sólido.
+- Adecuado para casual, entrenamiento, gimnasio, fitness, baile, viajar, etc.
 - Pantalones cortos está hecho de poliéster.
 - Diseño Estilo simple ,fácil de vestir . Es muy cómodo para el verano.Para que los niños estén cómodos todo el día.
-- Adecuado para casual, entrenamiento, gimnasio, fitness, baile, viajar, etc.
 - Tabla de tallas significa rangos de edad para niñas. Por favor, consulte el tamaño antes de comprar.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07GFM8NT8/?tag=tolees-21)
