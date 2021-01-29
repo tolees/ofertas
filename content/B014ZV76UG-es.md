@@ -27,10 +27,10 @@ Está [Nike MD Runner 2  GS   Zapatillas de Running Unisex Adulto  Negro  Black/
 
 ℹ️:
 
+- Ancho de las zapatillas: normal.
 - Material exterior: piel/sintético.
 - Material interior: sintético.
-- Cierre: cordones.
-- Ancho de las zapatillas: normal.
 - Suela: goma.
+- Cierre: cordones.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B014ZV76UG/?tag=tolees-21)

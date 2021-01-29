@@ -27,11 +27,11 @@ Tienes [Geox B Sandal AGASIM Girl  Sandalias de Punta Descubierta Niñas  Azul  
 
 🔎:
 
-- Tipo de tacón: Plano
-- Revestimiento: Malla
-- Tipo de talla: Los zapatos Geox son holgados
-- Material exterior: Sintético
-- Cierre: Velcro
 - Material de la suela: Sintético
+- Tipo de talla: Los zapatos Geox son holgados
+- Revestimiento: Malla
+- Material exterior: Sintético
+- Tipo de tacón: Plano
+- Cierre: Velcro
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07STKZPT4/?tag=tolees-21)
