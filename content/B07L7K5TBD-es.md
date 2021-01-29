@@ -27,8 +27,8 @@ Tienes [MakeUp Revolution London Paleta de Maquillaje 68 g](https://www.amazon.e
 
 ℹ️:
 
-- Paletas de maquillaje makeup revolution london
 - I heart revolution chocolate (99037)
+- Paletas de maquillaje makeup revolution london
 - Paleta de maquillaje maquillaje mujer
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07L7K5TBD/?tag=tolees-21)

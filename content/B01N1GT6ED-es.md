@@ -27,8 +27,8 @@ Está [Columbia Horizons Pine Chaqueta Interchange  Hombre  Azul  Collegiate Nav
 
 ℹ️:
 
-- Libertad de movimiento en las actividades gracias a la capucha contra tormentas extraíble, puños ajustables y dobladillo regulable con cordón
 - Versátil chaqueta impermeable 3en1 con tejido exterior duradero, forro aislado en la capa inferior utilizable como chaqueta autónoma y ajuste activo
+- Libertad de movimiento en las actividades gracias a la capucha contra tormentas extraíble, puños ajustables y dobladillo regulable con cordón
 - Bolsillo en el pecho con cremallera, bolsillo de seguridad interior, bolsillo para gafas y multimedia y sistema Interchange para 3 estilos de chaqueta
 - Tecnología impermeable y transpirable Omni-Tech para más comodidad y la sequedad, Repelencia avanzada a las manchas con la tecnología Omni-Shield
 

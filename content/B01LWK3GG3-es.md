@@ -27,9 +27,9 @@ En este momento está [Hellmann s Mostaza Bocabajo - 6 Paquetes de 250 ml - Tota
 
 🔎:
 
-- Su válvula limpia ha sido diseñada para conservar la textura y el sabor
-- Una ves abierto se recomienda conservarse en el frigorífico
 - Ingredientes: agua, mostaza, vinagre de alcohol, aceite de soja, azúcar, almidón, yema de huevo, sal, aroma, colorantes
+- Una ves abierto se recomienda conservarse en el frigorífico
 - El paquete incluye 6 unidades
+- Su válvula limpia ha sido diseñada para conservar la textura y el sabor
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01LWK3GG3/?tag=tolees-21)

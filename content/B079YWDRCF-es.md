@@ -27,10 +27,10 @@ Tienes [Adidas Samba OG  Zapatillas de Gimnasia para Hombre  Blanco  Footwear Wh
 
 🔎:
 
-- Diseño auténtico: El auténtico estilo Samba
-- Forro de piel sintética; suela de goma color caramelo
-- Suela vintage: El dibujo de la suela con punto de pivote se inspira en el calzado de fútbol vintage
 - Parte superior de piel granulada con refuerzos de ante y detalles dorados
+- Forro de piel sintética; suela de goma color caramelo
+- Diseño auténtico: El auténtico estilo Samba
 - Horma clásica
+- Suela vintage: El dibujo de la suela con punto de pivote se inspira en el calzado de fútbol vintage
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079YWDRCF/?tag=tolees-21)
