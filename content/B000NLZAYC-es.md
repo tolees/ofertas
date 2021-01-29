@@ -27,10 +27,10 @@ Tienes [Rapesco Documentos - Carpeta portafolios A4+ horizontal  en varios color
 
 ℹ️:
 
-- Carpeta sobre broche de polipropileno de colores brillantes y translúcidas
-- Colores surtidos
-- Soporte para bolígrafo bajo solapa
 - Solapa con broche de color para mantener el contenido seguro
 - Pack: 5 unidades con tamaño A4+
+- Soporte para bolígrafo bajo solapa
+- Carpeta sobre broche de polipropileno de colores brillantes y translúcidas
+- Colores surtidos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000NLZAYC/?tag=tolees-21)

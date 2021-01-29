@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Xiaomi Redmi Note 9S - Smartphone de 6.6 al 25.77 % de rebaja'
-date: 2021-01-27 13:33:06
+title: 'Xiaomi Redmi Note 9S - Smartphone de 6.6 al 26.20 % de rebaja'
+date: 2021-01-29 01:05:29
 image: 'https://m.media-amazon.com/images/I/41mIQf3eKdL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,29 +9,29 @@ author: ring
 slug: 'B085S4DSZH-es Xiaomi Redmi Note 9S - Smartphone de 6.67" FHD+ DotDisplay...'
 sku: 'B085S4DSZH-es'
 tags: [  ]
-actualPrice: 169.99 EUR
+actualPrice: 169.0 EUR
 currency: EUR
-price: 169.99
+price: 169.0
 comparePrice: 229.0 EUR
 prodname: 'Xiaomi Redmi Note 9S - Smartphone de 6.67" FHD+  DotDisplay  Snapdragon 720G  4 GB RAM  64 GB ROM  cámara cuádruple de 48 MP  bateria de 5020mAh   Interstellar Grey [International Version]'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B085S4DSZH/?tag=tolees-21'
-descuento: '25.77'
-average: '182.935645161289'
+descuento: '26.20'
+average: '182.714444444443'
 ---
 
-Tienes [Xiaomi Redmi Note 9S - Smartphone de 6.67" FHD+  DotDisplay  Snapdragon 720G  4 GB RAM  64 GB ROM  cámara cuádruple de 48 MP  bateria de 5020mAh   Interstellar Grey [International Version]](https://www.amazon.es/dp/B085S4DSZH/?tag=tolees-21) con precio final de  169.99 EUR (original: 229.0 EUR) (25.77 %  de rebaja) aqui!
+Tienes [Xiaomi Redmi Note 9S - Smartphone de 6.67" FHD+  DotDisplay  Snapdragon 720G  4 GB RAM  64 GB ROM  cámara cuádruple de 48 MP  bateria de 5020mAh   Interstellar Grey [International Version]](https://www.amazon.es/dp/B085S4DSZH/?tag=tolees-21) con precio final de  169.0 EUR (original: 229.0 EUR) (26.20 %  de rebaja) aqui!
 
 [![Xiaomi Redmi Note 9S - Smartphone de 6.6](https://m.media-amazon.com/images/I/41mIQf3eKdL._SL200_.jpg)](https://www.amazon.es/dp/B085S4DSZH/?tag=tolees-21)
 
 🔎:
 
-- Qualcomm Snapdragon 720G, Procesador de 8 nm con hasta 2,3 GHz
 - Conector de auriculares de 3,5 mm, nano revestimiento resistente a salpicaduras
-- Batería de gran capacidad de 5020 mAh (típ), compatible con carga rápida de 18 W
-- Cámara cuádruple de 48 + 8 + 5 + 2 MP con IA
 - La integración de Alexa en nuestros teléfonos te permiten hacer llamadas telefónicas, abrir aplicaciones, controlar dispositivos domésticos inteligentes, acceder a la biblioteca de habilidades de Alexa y más usando solo tu voz mientras estás en movimiento. Descarga la aplicación Alexa y completa la configuración de manos libres para comenzar. Solo pregunta, y Alexa responderá al instante.
 - Pantalla DotDisplay FHD+ de 6,67", sensor de huellas lateral
+- Batería de gran capacidad de 5020 mAh (típ), compatible con carga rápida de 18 W
+- Qualcomm Snapdragon 720G, Procesador de 8 nm con hasta 2,3 GHz
+- Cámara cuádruple de 48 + 8 + 5 + 2 MP con IA
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B085S4DSZH/?tag=tolees-21)
