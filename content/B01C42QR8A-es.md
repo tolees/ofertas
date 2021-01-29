@@ -27,9 +27,9 @@ En este momento está [Smoby 710109 Farmer Max Tractor a pedales con remolque y 
 
 🔎:
 
-- Este tractor de juguete de smoby es adecuado para niños a partir de 3 años, ya que desarrolla su movilidad, su coordinación y su orientación espacial
-- Con la pala excavadora se puede jugar a coger arena o piedras; en el remolque trasero se pueden portar objetos
 - Medidas: 182 x 44 x 62
+- Este tractor de juguete de smoby es adecuado para niños a partir de 3 años, ya que desarrolla su movilidad, su coordinación y su orientación espacial
 - El Tractor Farmer Max con pala y remolque de Smoby tiene asiento ajustable y pedales
+- Con la pala excavadora se puede jugar a coger arena o piedras; en el remolque trasero se pueden portar objetos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01C42QR8A/?tag=tolees-21)

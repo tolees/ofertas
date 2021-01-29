@@ -27,8 +27,8 @@ Tienes [Remington Stylist HC363C - Máquina de Cortar Pelo Profesional  Kit 8 Ac
 
 ℹ️:
 
-- Funciona tanto con cable como inalámbrico
 - Dispone de 8 peines para distintas longitudes de 3 a 25 milímetros
+- Funciona tanto con cable como inalámbrico
 - Incluye maletín, 3 pinzas separadoras, capa de peluquero, peine, tijeras y cepillo para el cuello
 - Cortapelos con cuchillas autoafilables
 

@@ -27,10 +27,10 @@ En este momento está [Seiko Reloj Analógico para Hombre de Energía Solar con 
 
 🔎:
 
-- Solar
 - Analógico en Piel para Hombre
-- Casual
-- WR 100mt
 - Azul y Negro
+- WR 100mt
+- Solar
+- Casual
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07NQ1CZK8/?tag=tolees-21)

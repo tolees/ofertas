@@ -27,9 +27,9 @@ Ahora mismo tienes [Geox Pumps D New Annya M. A - Nappa schwarz 36](https://www.
 
 🔎:
 
-- Transpirable.
-- Género: femenino.
-- Material de la suela: sintético.
 - Tipo de tejido: napa.
+- Material de la suela: sintético.
+- Género: femenino.
+- Transpirable.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07LFRMVSG/?tag=tolees-21)

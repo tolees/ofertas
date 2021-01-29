@@ -27,9 +27,9 @@ Tienes [Funko - POP! Vinilo: Disney: Toy Story 4: Woody](https://www.amazon.es/d
 
 ℹ️:
 
-- Juguete del año 2018
 - Descúbre otras figuras de la colección disney y colecciónalas todas
 - Funko pop vinyl
+- Juguete del año 2018
 - Disney toy story 4
 - De la colección toy story 4, woody como figura de vinilo pop de funko
 

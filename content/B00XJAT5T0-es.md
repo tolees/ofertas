@@ -27,10 +27,10 @@ Tienes [Fellowes Trito 2S - Destructora trituradora de papel  corte en tiras  5 
 
 ℹ️:
 
-- Papelera de 11 litros, con capacidad de destrucción diaria para 100 hojas
 - Diseñada para un uso ocasional. Hogar y oficina en casa. 1 usuario
-- Destructora de diseño compacto y cabezal extraíble para un fácil vaciado de la papelera
-- Destruye hasta 5 hojas de 70 gr. en tiras de 7mm (nivel de seguridad básico, P-1)
 - Ciclo de Trabajo 2 min. Dimensiones: 28,6 x 15,3 x 29,9 cm.
+- Papelera de 11 litros, con capacidad de destrucción diaria para 100 hojas
+- Destruye hasta 5 hojas de 70 gr. en tiras de 7mm (nivel de seguridad básico, P-1)
+- Destructora de diseño compacto y cabezal extraíble para un fácil vaciado de la papelera
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XJAT5T0/?tag=tolees-21)
