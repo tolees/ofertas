@@ -27,10 +27,10 @@ En este momento está [Maybelline New York - Hyper Precise All Day Matte Eyeline
 
 🔎:
 
-- Oftalmológicamente probado y adecuado para ojos sensibles y usuarios de lentes de contacto
 - Punta precisa de 0.4mm de grosor, permite una buena precisión para conseguir un trazo definido
+- Oftalmológicamente probado y adecuado para ojos sensibles y usuarios de lentes de contacto
 - Delinea un trazo a ras de las pestañas superiores terminando con el rabillo del ojo
-- Formato rotulador. No se corre, no mancha y es Waterproof
 - Eyeliner rotulador mate con punta precisa y duración 24h
+- Formato rotulador. No se corre, no mancha y es Waterproof
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07CGYK8FV/?tag=tolees-21)
