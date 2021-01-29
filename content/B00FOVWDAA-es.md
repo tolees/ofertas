@@ -28,10 +28,10 @@ Tienes [HG Limpiador Abrillantador uso diario 1L - Un fregasuelos concentrado  d
 ℹ️:
 
 - Diluya 50 ml en medio cubo de agua templada. A continuación, pase la mopa o friegue con una mopa o fregona escurrida y aclárela bien con frecuencia en la disolución preparada. Deje que el suelo se seque solo.
-- 1 litro de HG Limpiador abrillantador es suficiente para 20 lavados
-- HG Limpiador Abrillantador es un limpiador brillante para pisos de parquet con un maravilloso aroma fresco
 - Para suelos de parquet barnizados y suelos de parquet tratados con HG Abrillantador Protector
-- Para el laminado usa HG Limpiador Abrillantador Laminado uso diario
+- HG Limpiador Abrillantador es un limpiador brillante para pisos de parquet con un maravilloso aroma fresco
 - Para uso frecuente y con restaurador del brillo
+- 1 litro de HG Limpiador abrillantador es suficiente para 20 lavados
+- Para el laminado usa HG Limpiador Abrillantador Laminado uso diario
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00FOVWDAA/?tag=tolees-21)

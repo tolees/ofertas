@@ -28,9 +28,9 @@ En este momento está [Xiaomi SDJQR02RR - Aspirador Robótico  Autocargado  Súp
 🔎:
 
 - Inteligente ruta planificación, superar obstáculos de hasta 1.5.cm alto, caída de sensores
-- Funciones: aspira, barre
-- Hasta 2.5 tiempo de funcionamiento (aproximadamente 250.m²), 5200.mah batería, incluso resoluci adend
 - 1800; pa succión, wifi, control mediante home mi app
+- Hasta 2.5 tiempo de funcionamiento (aproximadamente 250.m²), 5200.mah batería, incluso resoluci adend
 - Contenido del envío: xiaomi mi robot succión robot, base de carga, cable de red, peine para la limpieza cepillo, instrucciones
+- Funciones: aspira, barre
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07718TKPR/?tag=tolees-21)
