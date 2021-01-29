@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Trust Gaming GXT 160 Ture - Ratón Gaming al 31.44 % de rebaja'
-date: 2021-01-28 10:12:47
+date: 2021-01-29 14:36:01
 image: 'https://m.media-amazon.com/images/I/41j7ecuoVcL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079FSPRZM/?tag=tolees-21'
 descuento: '31.44'
-average: '27.8466666666667'
+average: '26.8825'
 ---
 
 Tienes [Trust Gaming GXT 160 Ture - Ratón Gaming RGB con 6 Botones programables  Negro](https://www.amazon.es/dp/B079FSPRZM/?tag=tolees-21) con precio final de  23.99 EUR (original: 34.99 EUR) (31.44 %  de rebaja) aqui!
@@ -27,10 +27,10 @@ Tienes [Trust Gaming GXT 160 Ture - Ratón Gaming RGB con 6 Botones programables
 
 🔎:
 
-- Factor de forma ergonómica
-- Almohadillas de deslizamiento metálicas suaves con baja fricción
-- Software avanzado para programar botones, macros y luces
-- Iluminación RGB personalizable
 - Sensor óptico de alta precisión de 4000 PPP. 6 botones programables.
+- Software avanzado para programar botones, macros y luces
+- Almohadillas de deslizamiento metálicas suaves con baja fricción
+- Iluminación RGB personalizable
+- Factor de forma ergonómica
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079FSPRZM/?tag=tolees-21)

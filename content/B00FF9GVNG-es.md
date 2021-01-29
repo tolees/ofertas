@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros Interactive Spain - Pack Fri al 39.23 % de rebaja'
-date: 2021-01-28 12:36:56
+date: 2021-01-29 13:38:34
 image: 'https://m.media-amazon.com/images/I/51khmO1B4UL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00FF9GVNG/?tag=tolees-21'
 descuento: '39.23'
-average: '68.1855'
+average: '67.9807317073171'
 ---
 
 Tienes [Warner Bros Interactive Spain - Pack Friends Temporada 1-10 Colección Completa Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B00FF9GVNG/?tag=tolees-21) con precio final de  59.79 EUR (original: 98.39 EUR) (39.23 %  de rebaja) aqui!

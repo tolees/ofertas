@@ -1,34 +1,36 @@
 ---
 layout: post
-title: 'Six Collection - Figura Twitch al 80.45 % de descuento'
-date: 2021-01-12 22:07:26
+title: 'Ubisoft Spain - Six Collection - Figura  al 75.19 % de descuento'
+date: 2021-01-29 12:47:49
 image: 'https://m.media-amazon.com/images/I/51n2bAwUOvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PNJJ72H-es'
-actualPrice: 3.9 EUR
+slug: 'B07PNJJ72H-es Ubisoft Spain - Six Collection - Figura Twitch'
+sku: 'B07PNJJ72H-es'
+tags: [  ]
+actualPrice: 4.95 EUR
 currency: EUR
-price: 3.9
+price: 4.95
 comparePrice: 19.95 EUR
-prodname: 'Six Collection - Figura Twitch'
+prodname: 'Ubisoft Spain - Six Collection - Figura Twitch'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07PNJJ72H/?tag=tolees-21'
-descuento: '80.45'
-average: '6.266666666666667'
+descuento: '75.19'
+average: '5.9375'
 ---
 
-Ahora mismo tienes [Six Collection - Figura Twitch](https://www.amazon.es/dp/B07PNJJ72H/?tag=tolees-21) a 3.9 EUR (original: 19.95 EUR) (80.45 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Ubisoft Spain - Six Collection - Figura Twitch](https://www.amazon.es/dp/B07PNJJ72H/?tag=tolees-21) a 4.95 EUR (original: 19.95 EUR) (75.19 %  de descuento) en el siguiente enlace!
 
-[![Six Collection - Figura Twitch](https://m.media-amazon.com/images/I/51n2bAwUOvL._SL200_.jpg)](https://www.amazon.es/dp/B07PNJJ72H/?tag=tolees-21)
+[![Ubisoft Spain - Six Collection - Figura ](https://m.media-amazon.com/images/I/51n2bAwUOvL._SL200_.jpg)](https://www.amazon.es/dp/B07PNJJ72H/?tag=tolees-21)
 
 🔎:
 
-- Material: vinilo
-- Incluye un código único que desbloquea un amuleto de arma dentro del juego
 - Han vuelto; añade a vigil y a otros agentes a tu six collection; ubicollectibles presenta con orgullo la tercera serie de agentes de la six collection oficial; ya están disponibles cinco figuras nuevas, todas basadas en los agentes y los amuletos de armas que aparecen en el juego; cada figura viene con un código único para desbloquear contenido exclusivo en rainbow six siege
 - Altura: 10 cm
+- Material: vinilo
+- Incluye un código único que desbloquea un amuleto de arma dentro del juego
 - Figuras de gran detalle, inspiradas en los agentes de rainbow six siege
 
-[Visítala!!!](https://www.amazon.es/dp/B07PNJJ72H/?tag=tolees-21)
+[🛒 Visítala!!!](https://www.amazon.es/dp/B07PNJJ72H/?tag=tolees-21)
