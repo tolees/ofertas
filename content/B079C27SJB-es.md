@@ -27,7 +27,7 @@ Ahora mismo tienes [Only onlGEENA XO L/S Pullover KNT Noos Suter Pulver  Negro  
 
 🔎:
 
-- special knit made of tape-yarn
 - basic pullover with o-neck
+- special knit made of tape-yarn
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B079C27SJB/?tag=tolees-21)
