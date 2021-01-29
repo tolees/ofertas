@@ -27,8 +27,8 @@ Tienes [adidas Grand Court C  Zapatillas de Tenis  Multicolor  Ftwwht/Copper/Glo
 
 ℹ️:
 
-- Cierre: con cordones.
-- Material: 100% piel sintética.
 - Marca: Adidas.
+- Material: 100% piel sintética.
+- Cierre: con cordones.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07MFYR3N5/?tag=tolees-21)
