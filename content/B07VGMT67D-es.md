@@ -28,9 +28,9 @@ Ahora mismo tienes [Fila Strada  Zapatillas  Blanco  White   33 EU](https://www.
 🔎:
 
 - Sole material: sintético
-- Shoe width: normale
-- Outer material: sintético
-- Closure: encaje
 - Lining: sintético
+- Outer material: sintético
+- Shoe width: normale
+- Closure: encaje
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VGMT67D/?tag=tolees-21)
