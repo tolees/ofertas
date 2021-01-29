@@ -28,9 +28,9 @@ Tienes [Tesura Games - Bounty Battle - Signature Edition](https://www.amazon.es/
 🔎:
 
 - ¡Héroes independientes de éxito de Guacamelee; y Darkest Dungeon, Dead Cells, Owlboy y muchos más se enfrentarán en este frenético campo de batalla; hay más de 20 personajes, cada uno con sus propios ayudantes y habilidades únicas
-- Bounty Battle es el juego de lucha indie definitivo: un nuevo juego de lucha multijugador en 2D, donde puedes enfrentar a tus héroes indie favoritos unos contra otros
-- Signature Edition incluye: Juego, Caja Especial de Coleccionista, Libro guía de los Personajes, Carta Artística firmada y 4 Pins de personajes
 - Una gran cantidad de modos de juego que incluyen un modo historia, multijugador en sofá, práctica y tutorial para descubrir tu estilo
 - Lucha en niveles inspirados en los mundos de cada juego solo o con hasta 3 jugadores más
+- Bounty Battle es el juego de lucha indie definitivo: un nuevo juego de lucha multijugador en 2D, donde puedes enfrentar a tus héroes indie favoritos unos contra otros
+- Signature Edition incluye: Juego, Caja Especial de Coleccionista, Libro guía de los Personajes, Carta Artística firmada y 4 Pins de personajes
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0864KJTSR/?tag=tolees-21)

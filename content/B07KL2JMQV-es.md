@@ -27,8 +27,8 @@ Ahora mismo tienes [adidas Design 2 Move W TS Camiseta  Negro  Black/White   S p
 
 🔎:
 
-- Crew-neck design
 - Regular fit
+- Crew-neck design
 - Breathable fabric
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KL2JMQV/?tag=tolees-21)

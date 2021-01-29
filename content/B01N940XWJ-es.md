@@ -27,10 +27,10 @@ Tienes [Nestlé Leche y Cereales - Nestlé - Leche y Cereales Pijama - Paquete d
 
 ℹ️:
 
-- Práctico formato para disfrutar en cualquier parte ya que se puede beber a temperatura ambiente
-- Con un 82% de leche de continuación
-- Un brick contiene el 75% de los valores de referencia para el calcio y hierro
 - Para bebés a partir de 6 meses
+- Un brick contiene el 75% de los valores de referencia para el calcio y hierro
+- Con un 82% de leche de continuación
+- Práctico formato para disfrutar en cualquier parte ya que se puede beber a temperatura ambiente
 - Ideal para cenar o como biberón antes de ir a dormir
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01N940XWJ/?tag=tolees-21)

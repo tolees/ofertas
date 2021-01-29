@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros. Entertainment España S.L. - con un 40.55 % de descuento'
-date: 2021-01-27 10:52:38
+date: 2021-01-29 10:36:07
 image: 'https://m.media-amazon.com/images/I/51N994txTQL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0053CBEEQ/?tag=tolees-21'
 descuento: '40.55'
-average: '62.8934615384614'
+average: '62.5789285714284'
 ---
 
 En este momento está [Warner Bros. Entertainment España S.L. - Friends - Colección Completa [DVD]](https://www.amazon.es/dp/B0053CBEEQ/?tag=tolees-21) a 58.49 EUR (original: 98.39 EUR) (40.55 %  de descuento) en el siguiente enlace!

@@ -27,8 +27,8 @@ Está [Tommy Hilfiger TJM Essential Split Box Crew Suter  Azul Marino Crepúscul
 
 ℹ️:
 
-- Tommy Jeans - Sudaderas para hombre
 - Producto original y auténtico de Tommy Hilfiger/Tommy Jeans
+- Tommy Jeans - Sudaderas para hombre
 - Más información sobre Tommy Hilfiger / Tommy Jeans se puede encontrar en la descripción del producto
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0841CRWNW/?tag=tolees-21)
