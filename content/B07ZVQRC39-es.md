@@ -28,8 +28,8 @@ Tienes [Levi s tee Camiseta  Moonstone Toasted Almond  X-Small para Mujer](https
 
 🔎:
 
-- Modelo casual
 - Con un discreto logo en el pecho
+- Modelo casual
 - Elaborada en punto suave
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07ZVQRC39/?tag=tolees-21)
