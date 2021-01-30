@@ -27,10 +27,10 @@ Tienes [Skechers Status 2.0 Lorano  Náuticos Hombre  Azul  Navy Canvas Nvy   41
 
 🔎:
 
-- Cierre: con cordones
 - Material de la suela: Sintético
-- Tipo de tacón: Plataforma
+- Cierre: con cordones
 - Material exterior: Cuero sintético
 - Revestimiento: Tela
+- Tipo de tacón: Plataforma
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07H4QBZQ9/?tag=tolees-21)
