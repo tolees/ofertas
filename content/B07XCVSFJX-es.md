@@ -28,10 +28,10 @@ Ahora mismo tienes [Bosch Professional GBH 18V-20 - Martillo perforador combinad
 
 🔎:
 
-- Professional 18V System, óptimo rendimiento, óptimo libertad, todas nuestras baterías son compatibles con las herramientas o ya existentes de Bosch Professional de la misma categoría de potencia
 - El martillo perforador sin cable GBH 18V-20 de Bosch Professional - con 18 voltios y 20 mm de diámetro de perforación en el hormigón
-- Incluye: Taladro percutor GBH 18V-20, 1x4, batería recargable de 0Ah, cargador rápido, juego de cinceles de 6 piezas, mango adicional, paño de limpieza, tope de profundidad, maletín
-- Posibilidades de aplicación versátiles mediante la perforación, la perforación con martillo y la función de cincelado
 - Trabajo eficiente con 1,7 julios de energía de impacto incluso en lugares de trabajo oscuros gracias al LED incorporado
+- Professional 18V System, óptimo rendimiento, óptimo libertad, todas nuestras baterías son compatibles con las herramientas o ya existentes de Bosch Professional de la misma categoría de potencia
+- Posibilidades de aplicación versátiles mediante la perforación, la perforación con martillo y la función de cincelado
+- Incluye: Taladro percutor GBH 18V-20, 1x4, batería recargable de 0Ah, cargador rápido, juego de cinceles de 6 piezas, mango adicional, paño de limpieza, tope de profundidad, maletín
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07XCVSFJX/?tag=tolees-21)

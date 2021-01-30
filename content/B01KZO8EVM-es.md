@@ -28,9 +28,9 @@ En este momento está [MSC Bikes MS3 Cassette para Bicicleta  Negro  10V/11-40T]
 
 🔎:
 
-- Color negro
+- 10 Velocidades 11-13-15-18-21-24-28-32-36-40
 - 448 gr
 - Sun Race de Msc Bikes
-- 10 Velocidades 11-13-15-18-21-24-28-32-36-40
+- Color negro
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01KZO8EVM/?tag=tolees-21)

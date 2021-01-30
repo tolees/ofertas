@@ -29,9 +29,9 @@ En este momento está [Crosstour - Trípode  Soporte Portátil para Mini Proyect
 🔎:
 
 - ★ [Cabeza esférica de 360 °] Con la cabeza giratoria, puede proyectar desde cualquier ángulo ajustando el tornillo. El mini trípode Crosstour tiene un ajuste de altura de grado AB y un diseño antideslizante, que puede proteger su dispositivo contra caídas.
+- ★ [Adaptación a varias ocasiones] Adecuado para diversos usos, como salir, viajar y uso doméstico. Con un diseño de bolsillo, puede doblarse en su bolso o llevarse a donde quiera.
 - ★ [Ajuste libre] El ángulo de apertura y cierre se puede ajustar libremente. La longitud de las patas se puede cambiar en 5 pasos, y hay dos formas de cambiar y la altura es de 24 cm a 30 cm.
 - ★ [Compañero ideal para proyector] Carga máxima: 3 kg, peso: 310 g. Es el compañero ideal para su proyector Crosstour o proyectores de cualquier otra marca.
-- ★ [Adaptación a varias ocasiones] Adecuado para diversos usos, como salir, viajar y uso doméstico. Con un diseño de bolsillo, puede doblarse en su bolso o llevarse a donde quiera.
 - ★ [Amplia compatibilidad] Compatible con proyector / Gopro / SLR / cámara digital / videocámara. Y debido a su carga máxima más pesada, puede soportar modelos de dispositivos más pesados que Crosstour PS10 u otros trípodes normales.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B087JLXD58/?tag=tolees-21)

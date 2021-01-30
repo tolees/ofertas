@@ -28,9 +28,9 @@ Tienes [numskull Oficial Borderlands 3 Mercancías Lillith Figurita Carácter de
 
 ℹ️:
 
-- Hecho de alta calidad ABS y plástico de PVC con acabado de pintura intrincada.
-- Esta sirena se yergue a 22 cm (8,6” )!
 - Diseñado y desarrollado por diseños Numskull.
 - Oficial Gearbox/Borderlands 3 Mercancías.
+- Hecho de alta calidad ABS y plástico de PVC con acabado de pintura intrincada.
+- Esta sirena se yergue a 22 cm (8,6” )!
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07TLPB85R/?tag=tolees-21)

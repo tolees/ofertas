@@ -28,10 +28,10 @@ En este momento está [GALAX PRO Linterna LED Recargable Spotlight Linterna 280L
 
 🔎:
 
-- Batería de alta capacidad: Con una batería recargable incorporada de 1800 mAh, la vida útil de la batería puede alcanzar un máximo de 7 a 8 horas, una vez cargada por completo;Esta linterna súper potente está equipada con un puerto USB
-- Lista de paquetes: 1 * Linterna, 1 * cable USB, 1 * cargador de automóvil, 1 * cargador, 1 * brazalete de linterna, 1 * manual
+- 3 Modo de luz: Esta linterna de mano ofrece tres niveles de brillo con gran potencia (280 lúmenes): 1.Modo alto / 2.Modo bajo / 3.Modo de flash-SOS. Simplemente presione los disparadores cuando esté listo en lugar de navegar, lo cual es útil
 - De alta intensidad y multiusos: La linterna LED de alta potencia puede ajustar la iluminación entre 3 modos; Modo alto, modo bajo y modo de flash SOS;El máximo de 280 lúmenes permite una irradiación de larga distancia ideal para la iluminación de senderismo o camping
 - Duradero y portátil: Hecho de plástico ABS duradero y poliestireno para proteger el sistema de caídas y golpes durante el uso. Ideal para senderismo, camping, vela o caza; Incluye un soporte resistente en la parte superior para iluminación manos libres
-- 3 Modo de luz: Esta linterna de mano ofrece tres niveles de brillo con gran potencia (280 lúmenes): 1.Modo alto / 2.Modo bajo / 3.Modo de flash-SOS. Simplemente presione los disparadores cuando esté listo en lugar de navegar, lo cual es útil
+- Lista de paquetes: 1 * Linterna, 1 * cable USB, 1 * cargador de automóvil, 1 * cargador, 1 * brazalete de linterna, 1 * manual
+- Batería de alta capacidad: Con una batería recargable incorporada de 1800 mAh, la vida útil de la batería puede alcanzar un máximo de 7 a 8 horas, una vez cargada por completo;Esta linterna súper potente está equipada con un puerto USB
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07Z7QT28Q/?tag=tolees-21)
