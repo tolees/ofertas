@@ -28,8 +28,8 @@ En este momento está [Funko Thestral Figurina de Vinillo Colección Animales Fa
 
 🔎:
 
+- Las reproducciones miden aproximadamente 9 cm, pero también existen versiones extragrandes.
 - El producto se vende en la caja original con ventana frontal.
 - Los Funko Pop son reproducciones estilizadas de personajes icónicos de películas, series de televisión, series animadas, cómics, videojuegos y mucho más.
-- Las reproducciones miden aproximadamente 9 cm, pero también existen versiones extragrandes.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07D55J8ZB/?tag=tolees-21)

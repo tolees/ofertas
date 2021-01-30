@@ -28,8 +28,8 @@ En este momento está [SAMSUNG EP-TA20EWEUGWW - Adaptador para cargador  2A  Mic
 
 🔎:
 
+- Color blanco
 - Accesorio oficial de Samsung
 - Compatible con la carga rápida de Samsung
-- Color blanco
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00SLP58SU/?tag=tolees-21)

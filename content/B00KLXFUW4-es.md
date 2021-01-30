@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Maybelline New York  Corrector de Ojeras al 29.92 % de rebaja'
-date: 2021-01-28 12:33:36
+date: 2021-01-30 19:13:26
 image: 'https://m.media-amazon.com/images/I/31Drkm-q91L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,9 +16,10 @@ comparePrice: 8.99 EUR
 prodname: 'Maybelline New York  Corrector de Ojeras  Bolsas e Imperfecciones  Borrador Ojos  01 Light  6.8 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Maybelline New York'
 buyurl: 'https://www.amazon.es/dp/B00KLXFUW4/?tag=tolees-21'
 descuento: '29.92'
-average: '6.32664495114007'
+average: '6.3491961414791'
 ---
 
 Tienes [Maybelline New York  Corrector de Ojeras  Bolsas e Imperfecciones  Borrador Ojos  01 Light  6.8 ml](https://www.amazon.es/dp/B00KLXFUW4/?tag=tolees-21) con precio final de  6.3 EUR (original: 8.99 EUR) (29.92 %  de rebaja) aqui!

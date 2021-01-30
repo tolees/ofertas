@@ -28,10 +28,10 @@ Está [San Ignacio - Cacerola con tapa 28x15 cm aluminio forjado inducción  col
 
 ℹ️:
 
-- La capa de cobre provee una mejor conductividad del calor; la de diamante, le proporciona una resiliencia extra; la capa sapphire proporiciona antiadherencia extra, y la capa de titanio proporciona durabilidad.
-- La tapa es de vidrio templado, resistente, con asa, y válvula de escape para el vapor, que te permite vigilar la cocción sin necesidad de destapar, y que evita la excesiva concentración de calor en el interior.
-- Superficie antiadherente de 4 capas: copper, diamond, sapphire y refuerzo de titanio: cuatro partículas combinadas que generan una de las superficies antiadherentes más resistentes del mercado.
-- Cacerola de Ø28x15 cm, de aluminio forjado en color cobrizo interior y exterior con finalización martilleado, que le atribuye un aspecto asimétrico y contribuye a su personalidad, de la colección Origen de San Ignacio. 6,9 Litros de capacidad.
 - Dispone de asas y pomos ergonómicos en acero inoxidable, remachados para mayor seguridad.
+- Superficie antiadherente de 4 capas: copper, diamond, sapphire y refuerzo de titanio: cuatro partículas combinadas que generan una de las superficies antiadherentes más resistentes del mercado.
+- La tapa es de vidrio templado, resistente, con asa, y válvula de escape para el vapor, que te permite vigilar la cocción sin necesidad de destapar, y que evita la excesiva concentración de calor en el interior.
+- Cacerola de Ø28x15 cm, de aluminio forjado en color cobrizo interior y exterior con finalización martilleado, que le atribuye un aspecto asimétrico y contribuye a su personalidad, de la colección Origen de San Ignacio. 6,9 Litros de capacidad.
+- La capa de cobre provee una mejor conductividad del calor; la de diamante, le proporciona una resiliencia extra; la capa sapphire proporiciona antiadherencia extra, y la capa de titanio proporciona durabilidad.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08LL96SMM/?tag=tolees-21)
