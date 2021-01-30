@@ -28,10 +28,10 @@ En este momento está [GothicBride - 50 filtros de carbón activado Pm2.5 reempl
 
 🔎:
 
+- Nota: (1) El elemento de filtro no se puede limpiar y debe reemplazarse una vez cada 1-2 días. (2) Cuando surjan manchas de película o sedimentos pegajosos, reemplaza el filtro.
 - Embalaje: una bolsa de 12 piezas, con bolsa de sellado OP, mejor grado de sellado.
-- Entrega rápida: los productos son enviados por almacén de Amazon en los Estados Unidos, rápido y cómodo.
 - Tamaño razonable: el tamaño de los filtros de carbono mide aproximadamente 4.7 x 3.1 pulgadas, compatible con la mayoría de polvo, fácil de insertar o reemplazar el original.
 - Tecnología de filtración: hecho de carbón activado y paño de filtro fundido no tejido, sistema de filtro de 5 capas que mantiene eficazmente alejado de PM2.5 y una gama de contaminantes transportados por el aire.
-- Nota: (1) El elemento de filtro no se puede limpiar y debe reemplazarse una vez cada 1-2 días. (2) Cuando surjan manchas de película o sedimentos pegajosos, reemplaza el filtro.
+- Entrega rápida: los productos son enviados por almacén de Amazon en los Estados Unidos, rápido y cómodo.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BG468XC/?tag=tolees-21)

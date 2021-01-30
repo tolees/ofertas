@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'UGG W Classic Mini II  Botas para Mujer  al 26.15 % de descuento'
-date: 2020-01-14 18:33:58
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41wCxHC3RrL._SL200_.jpg'
+title: 'UGG Female Classic Mini II Classic Boot  al 50.28 % de descuento'
+date: 2021-01-30 12:00:43
+image: 'https://m.media-amazon.com/images/I/41r-qlWC6LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AY6CYIU-es UGG W Classic Mini II Botas para Mujer Gris Grey Grey 38 EU'
+slug: 'B01AY6CYIU-es UGG Female Classic Mini II Classic Boot Grey 5 UK'
 sku: 'B01AY6CYIU-es'
 tags: [  ]
-actualPrice: 122.66 EUR
+actualPrice: 84.5 EUR
 currency: EUR
-price: 122.66
-comparePrice: 166.1 EUR
-prodname: 'UGG W Classic Mini II  Botas para Mujer  Gris  Grey Grey   38 EU'
+price: 84.5
+comparePrice: 169.95 EUR
+prodname: 'UGG Female Classic Mini II Classic Boot  Grey  5  UK '
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'UGG'
 buyurl: 'https://www.amazon.es/dp/B01AY6CYIU/?tag=tolees-21'
-descuento: '26.15'
-average: '122.66'
+descuento: '50.28'
+average: '97.22'
 ---
 
-Está [UGG W Classic Mini II  Botas para Mujer  Gris  Grey Grey   38 EU](https://www.amazon.es/dp/B01AY6CYIU/?tag=tolees-21) con 26.15 de descuento por 122.66 EUR (original: 166.1 EUR) en el siguiente enlace!
+Está [UGG Female Classic Mini II Classic Boot  Grey  5  UK ](https://www.amazon.es/dp/B01AY6CYIU/?tag=tolees-21) con 50.28 de descuento por 84.5 EUR (original: 169.95 EUR) en el siguiente enlace!
 
-[![UGG W Classic Mini II  Botas para Mujer ](https://images-eu.ssl-images-amazon.com/images/I/41wCxHC3RrL._SL200_.jpg)](https://www.amazon.es/dp/B01AY6CYIU/?tag=tolees-21)
+[![UGG Female Classic Mini II Classic Boot ](https://m.media-amazon.com/images/I/41r-qlWC6LL._SL200_.jpg)](https://www.amazon.es/dp/B01AY6CYIU/?tag=tolees-21)
 
 ℹ️:
 
+- Offenkantige Nähte im typischen UGG-Stil
+- Nicht wasserdicht - bitte vor dem ersten Tragen imprägnieren
+- Wasser-und fleckenabweisende Eigenschaften
+- Der UGG Classic Mini II Boots Women ist ein bequemer Damenstiefel mit kurzem Schaft.
+- Treadlite-Außensohle für Polsterung, Strapazierfähigkeit und Griffigkeit
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01AY6CYIU/?tag=tolees-21)

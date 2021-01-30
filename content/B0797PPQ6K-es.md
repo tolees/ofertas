@@ -28,10 +28,10 @@ Está [Wet n Wild - Color Icon 10 Pan Palette - Paleta de Sombras de Ojos Vegan 
 
 ℹ️:
 
-- GRAN VARIEDAD - ¡Descubre la calidad y la variedad de los cosméticos Wet n Wild! ¡Seas como seas, tu carácter salvaje se expresará con nuestros lápices labiales, sombras de ojos y mucho más!
-- SEGURO Y NO TESTADO EN ANIMALES - Wet n Wild siempre ha cuidado la seguridad de nuestros productos, los cuales son probados dermatológicamente y fabricados sin pruebas con animales
 - EXPERIENCIA - Desde 1979, Wet n Wild ha creado productos de alta calidad al alcance de todos los amantes de la belleza sin importar la edad, etnia, estatus social y tipo de piel
-- CONSEJOS DE USO Y BENEFICIOS - Una mezcla de tonos brillantes esenciales y colores de transición mates para mezclarse con los pliegues de los párpados. Las sombras se extienden y mezclan fácilmente
+- GRAN VARIEDAD - ¡Descubre la calidad y la variedad de los cosméticos Wet n Wild! ¡Seas como seas, tu carácter salvaje se expresará con nuestros lápices labiales, sombras de ojos y mucho más!
 - NUEVA FÓRMULA - La paleta perfecta para cada mirada, con tonos brillantes para el día y mezclas seductoras para la noche. Sombras de ojos con pigmentación intensa, textura sedosa e increíble suavidad
+- SEGURO Y NO TESTADO EN ANIMALES - Wet n Wild siempre ha cuidado la seguridad de nuestros productos, los cuales son probados dermatológicamente y fabricados sin pruebas con animales
+- CONSEJOS DE USO Y BENEFICIOS - Una mezcla de tonos brillantes esenciales y colores de transición mates para mezclarse con los pliegues de los párpados. Las sombras se extienden y mezclan fácilmente
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0797PPQ6K/?tag=tolees-21)

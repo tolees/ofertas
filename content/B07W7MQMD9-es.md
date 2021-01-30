@@ -1,38 +1,39 @@
 ---
 layout: post
-title: 'Logitech G502 SE Hero  Ratón High Perfor al 44.55 % de rebaja'
-date: 2021-01-24 14:14:02
+title: 'Logitech G502 HERO High Performance Gami al 25.00 % de rebaja'
+date: 2021-01-30 12:54:14
 image: 'https://m.media-amazon.com/images/I/31nqwo1fmBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W7MQMD9-es Logitech G502 SE Hero Ratón High Performance RGB Gaming...'
+slug: 'B07W7MQMD9-es Logitech G502 HERO High Performance Gaming Mouse Special...'
 sku: 'B07W7MQMD9-es'
 tags: [  ]
-actualPrice: 49.9 EUR
+actualPrice: 67.49 EUR
 currency: EUR
-price: 49.9
+price: 67.49
 comparePrice: 89.99 EUR
-prodname: 'Logitech G502 SE Hero  Ratón High Performance RGB Gaming Con 11 Botones Programables Y Ajuste Personalizado De Peso Y Equilibrio  LED Óptico  Cable  Tamaño Único  Blanco/Negro'
+prodname: 'Logitech G502 HERO High Performance Gaming Mouse Special Edition  HERO 25K Sensor  25 600 DPI  RGB  Adjustable Weights  11 Programmable Buttons  On-Board Memory  PC/Mac  Black/White'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Logitech G'
 buyurl: 'https://www.amazon.es/dp/B07W7MQMD9/?tag=tolees-21'
-descuento: '44.55'
-average: '48.2672413793104'
+descuento: '25.00'
+average: '48.9080000000001'
 ---
 
-Tienes [Logitech G502 SE Hero  Ratón High Performance RGB Gaming Con 11 Botones Programables Y Ajuste Personalizado De Peso Y Equilibrio  LED Óptico  Cable  Tamaño Único  Blanco/Negro](https://www.amazon.es/dp/B07W7MQMD9/?tag=tolees-21) con precio final de  49.9 EUR (original: 89.99 EUR) (44.55 %  de rebaja) aqui!
+Tienes [Logitech G502 HERO High Performance Gaming Mouse Special Edition  HERO 25K Sensor  25 600 DPI  RGB  Adjustable Weights  11 Programmable Buttons  On-Board Memory  PC/Mac  Black/White](https://www.amazon.es/dp/B07W7MQMD9/?tag=tolees-21) con precio final de  67.49 EUR (original: 89.99 EUR) (25.00 %  de rebaja) aqui!
 
-[![Logitech G502 SE Hero  Ratón High Perfor](https://m.media-amazon.com/images/I/31nqwo1fmBL._SL200_.jpg)](https://www.amazon.es/dp/B07W7MQMD9/?tag=tolees-21)
+[![Logitech G502 HERO High Performance Gami](https://m.media-amazon.com/images/I/31nqwo1fmBL._SL200_.jpg)](https://www.amazon.es/dp/B07W7MQMD9/?tag=tolees-21)
 
 🔎:
 
-- RGB LIGHTSYNC : la tecnología LIGHTSYNC ofrece una iluminación RGB totalmente personalizable, ysincroniza efectos y animaciones de iluminación con otros dispositivos Logitech G
-- Actualice a 25K DPI: aumente el DPI máximo a 25,600 para desbloquear el primer nivel de rendimiento submicrónico del mundo (disponible para todos los ratones con el sensor HERO 16K a través de una actualización de software de G HUB)
-- Sensor Hero 16K : la próxima generación de sensor óptico HERO para ratón ofrece precisión al más alto nivel hasta 16 000 dpi sin suavizado, filtrado ni aceleración
-- Peso Personalizable : ajusta el tacto y el deslizamiento del ratón. G502 HERO incluye cinco pesas de 3,6 g para optimizar el rendimiento de tu gaming
-- Sistema mecánico de Tensión de Botones : el sistema mecánico de tensión de botones del ratón con cable para gaming aumenta la coherencia de respuesta de los botones para una gran rapidez
-- Requisitos : Windows 7 o posteriores, macOS 10.11 o posterior, Chrome OS, Puerto USB, conexión Internet para Logitech G HUB (opcional)
-- 11 Botones Programables y Botón Rueda rápido con Dos Modos : el ratón con cable para gaming Logitech G permite personalizar tu configuración para controlar totalmente el juego
+- HERO Gaming Sensor: Next generation HERO mouse sensor delivers precision tracking up to 25600 DPI with zero smoothing, filtering or acceleration
+- Adjustable weights: Match your playing style. Arrange up to five 3.6 g weights for a personalised weight and balance configuration
+- 11 programmable buttons and dual mode hyper-fast scroll wheel: The Logitech wired gaming mouse gives you fully customisable control over your gameplay
+- Mechanical Switch Button Tensioning: A metal spring tensioning system and metal pivot hinges are built into left and right computer gaming mouse buttons for a crisp, clean click feel with rapid click feedback
+- World’s NO.1 Best Selling Gaming Gear Brand - Based on independent aggregated sales data (FEB ‘19 - FEB’20) of Gaming Keyboard, Mice, & PC Headset in units
+- Next gen sensor: Capable of detecting movements at the sub-micron level, can track movement less than one millionth of a meter with pinpoint accuracy
+- LIGHTSYNC technology: Logitech G LIGHTSYNC technology provides fully customisable RGB lighting that can also synchronise with your gaming
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07W7MQMD9/?tag=tolees-21)
