@@ -27,10 +27,10 @@ Tienes [Learning Resources- Code & Go Conjunto de Actividades del ratón Robot  
 
 🔎:
 
-- Funciona con pilas aaa (no incluidas)
-- Una introduccioacute;n temprana a stem
-- Incluye 10 tarjetas de actividad y 30 tarjetas de codificacioacute;n
 - Introduce habilidades de codificacioacute;n praacute;cticas
 - Incluye guiacute;a de actividades multilinguuml;e
+- Una introduccioacute;n temprana a stem
+- Incluye 10 tarjetas de actividad y 30 tarjetas de codificacioacute;n
+- Funciona con pilas aaa (no incluidas)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01A5YMCH4/?tag=tolees-21)

@@ -27,11 +27,11 @@ Tienes [LANCASTER SUN BEAUTY - Satin Dry Oil SPF50 150ml](https://www.amazon.es/
 
 ℹ️:
 
+- Ofrece una protección solar intensivo
 - Este producto está indicado para todo tipo de pieles
 - Este producto está indicado tanto para mujeres como para hombres
+- Tipo de piel: normal
 - De la marca Lancaster
 - Contiene 150 ml
-- Ofrece una protección solar intensivo
-- Tipo de piel: normal
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00TYQAW5Y/?tag=tolees-21)
