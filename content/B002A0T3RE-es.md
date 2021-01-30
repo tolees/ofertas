@@ -27,9 +27,9 @@ En este momento está [Superga 2750 COTU Classic Sneakers  Zapatillas Unisex Adu
 
 🔎:
 
-- Algodón transpirable.
-- Superga Tab en el lateral y el talón
 - Ojales en relieve Superga
+- Superga Tab en el lateral y el talón
 - Suela de goma vulcanizada.
+- Algodón transpirable.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B002A0T3RE/?tag=tolees-21)
