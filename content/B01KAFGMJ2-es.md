@@ -28,11 +28,11 @@ Ahora mismo tienes [Trust 21056 - Regleta de Tres Tomas con protección de sobre
 
 🔎:
 
-- Práctico interruptor general para apagar simultáneamente todos los dispositivos conectados
 - Interruptor iluminado con indicación de modo activado o desactivado
-- Enchufes dotados con protección infantil para evitar que los niños accedan a los contactos de los enchufes
 - 3 enchufes protegidos contra sobretensiones para conectar y alimentar dispositivos de forma segura
 - Enchufes situados en ángulo de 45 grados para un mejor acceso
+- Enchufes dotados con protección infantil para evitar que los niños accedan a los contactos de los enchufes
 - Orificios de sujeción para montaje fácil en pared
+- Práctico interruptor general para apagar simultáneamente todos los dispositivos conectados
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01KAFGMJ2/?tag=tolees-21)

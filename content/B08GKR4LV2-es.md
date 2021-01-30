@@ -28,10 +28,10 @@ Ahora mismo tienes [GISELE DENIS - Gisèle Denis - Concentrado de Ácido Hialur�
 
 🔎:
 
-- Sobre una base hidratante da tersura a la piel y corrige los signos visbiles del envejecimiento
-- Ayuda a mantener el nivel óptimo de hidratación, mejorando la elasticidad y suavidad de la piel, siendo a su vez un poderodo reconstituyente de las fibras de los tejidos cutáneos
-- El ácido hialurónico tiene la capacidad de retener agua y se caracteriza por formar una película hidratante que aporta elasticidad y reduce las irritaciones
-- Gisèle Denis lleva más de cuatro décadas en el mercado para ofrecerte los mejores cuidados de belleza, cuidado solar e higiene personal
 - Concentrado de ácido hialurónico con gran poder hidratante para mantener la suave y lisa, llena de elasticidad
+- Ayuda a mantener el nivel óptimo de hidratación, mejorando la elasticidad y suavidad de la piel, siendo a su vez un poderodo reconstituyente de las fibras de los tejidos cutáneos
+- Gisèle Denis lleva más de cuatro décadas en el mercado para ofrecerte los mejores cuidados de belleza, cuidado solar e higiene personal
+- Sobre una base hidratante da tersura a la piel y corrige los signos visbiles del envejecimiento
+- El ácido hialurónico tiene la capacidad de retener agua y se caracteriza por formar una película hidratante que aporta elasticidad y reduce las irritaciones
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08GKR4LV2/?tag=tolees-21)
