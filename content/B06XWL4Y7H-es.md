@@ -29,8 +29,8 @@ Ahora mismo tienes [XSQUO Useful Tech - ASPIRADORA SÓLIDOS Y LÍQUIDOS WED &Dry
 🔎:
 
 - ASPIRADOR DE SÓLIDOS Y LÍQUIDOS DE GRAN POTENCIA
-- Limpiador por vapor de alta eficiencia con 1500W y 8 funciones de limpieza.
 - Gatillo de seguridad.
+- Limpiador por vapor de alta eficiencia con 1500W y 8 funciones de limpieza.
 - Limpiador por vapor de alta eficiencia con 1500W y 8 funciones de limpieza. Capacidad de depósito de 1200 ml (30 minutos de trabajo continuo).
 - Diseño trineo, fácil giro 360° y asa de transporte.. Cable de alimentación de 3,20 m.
 

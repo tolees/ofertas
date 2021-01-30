@@ -28,8 +28,8 @@ Tienes [Verbatim 44082 - Tarjeta de Memoria Micro SDHC de 16 GB con Adaptado  Cl
 
 ℹ️:
 
-- Incluye adaptador de tarjetas microSD a SD
-- Capacidad de almacenaje: 16 GB
 - Clase 10
+- Capacidad de almacenaje: 16 GB
+- Incluye adaptador de tarjetas microSD a SD
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00CBAUIEU/?tag=tolees-21)

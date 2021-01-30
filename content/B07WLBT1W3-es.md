@@ -29,8 +29,8 @@ En este momento está [Schwarzkopf Gliss - Gliss - Champú Ultimate Oil elixir -
 🔎:
 
 - Cabello castigado o quebradizo
-- Hasta un 90% menos de rotura del cabello
-- Aporta nutrición gracias al aceite de argán
 - Masajear sobre el cabello húmedo; aclarar con abundante agua; usar regularmente
+- Aporta nutrición gracias al aceite de argán
+- Hasta un 90% menos de rotura del cabello
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07WLBT1W3/?tag=tolees-21)
