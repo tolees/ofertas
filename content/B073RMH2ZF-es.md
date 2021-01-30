@@ -28,10 +28,10 @@ Ahora mismo tienes [DYC 8 Años Whisky Nacional  40% - 1000 ml](https://www.amaz
 
 🔎:
 
-- Es ideal para disfrutar en buena compañía, solo o con ginger ale y una rodaja de naranja. Si lo bebes solo, siempre en vaso bajo y mucho hielo
 - En nariz percibimos intensos aromas florales, notas de especias, ahumados, hierba fresca, toques de miel y brezo
 - La calidad de las materias primas y su envejecimiento durante 8 años en barricas de roble americano, le confieren un sabor suave y redondo que lo convierte en un producto 100 % español creado para los amantes del buen whisky
 - Whisky nacional envejecido durante ocho años, de color ámbar dorado y aspecto ligero
+- Es ideal para disfrutar en buena compañía, solo o con ginger ale y una rodaja de naranja. Si lo bebes solo, siempre en vaso bajo y mucho hielo
 - En paladar es suave y cremoso, se percibe la turba con vainilla, mazapán, manzana y cítricos; tiene un final agridulce, largo y suave
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B073RMH2ZF/?tag=tolees-21)

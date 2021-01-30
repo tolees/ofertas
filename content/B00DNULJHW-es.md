@@ -28,8 +28,8 @@ Tienes [StarTech.com - StarTech USB3SDOCKHDV - Base de conexión para Laptop  US
 
 ℹ️:
 
-- Conecte dos pantallas mediante la combinación de HDMI + DVI-D o HDMI + VGA
 - Conforme con las normas TAA para compras del Programa GSA
+- Conecte dos pantallas mediante la combinación de HDMI + DVI-D o HDMI + VGA
 - Conecte dispositivos con 3 puertos USB 3.0
 - Conecte con redes por cable, gracias al puerto integrado Ethernet RJ45 compatible con 10/100/1000 Mbps
 

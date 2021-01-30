@@ -28,13 +28,13 @@ Ahora mismo tienes [Lacor - 61816 - Campana para Ahumador de alimentos Magic  co
 
 🔎:
 
+- Medidas (con pomo): Ø20 x 15 cm de alto
+- Permite la entrada de humo, vapor y aromas para ahumar o aromatizar alimentos sin tener que levantar la tapa
+- Fabricada en cristal borosilicato de gran calidad, es resistente a golpes, altas y bajas temperaturas
+- Medidas: Ø20 x 12 cm de alto
+- Complemento ideal para el ahumador de alimentos Magic de Lacor (ref. 69221)
 - Garantía de 2 años
 - Cuenta con una válvula de inyección con auto cierre de silicona (max. 200º C)
-- Permite la entrada de humo, vapor y aromas para ahumar o aromatizar alimentos sin tener que levantar la tapa
-- Medidas (con pomo): Ø20 x 15 cm de alto
-- Fabricada en cristal borosilicato de gran calidad, es resistente a golpes, altas y bajas temperaturas
-- Complemento ideal para el ahumador de alimentos Magic de Lacor (ref. 69221)
 - Apta para microondas, horno y congelador
-- Medidas: Ø20 x 12 cm de alto
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B084HB7PYH/?tag=tolees-21)

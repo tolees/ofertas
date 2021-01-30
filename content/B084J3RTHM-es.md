@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Petit Bateau - Plumífero para bebé niña  con un 60.00 % de descuento'
-date: 2021-01-22 19:18:45
+date: 2021-01-30 14:02:43
 image: 'https://m.media-amazon.com/images/I/416HwU1woSL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Petit Bateau - Plumífero para bebé niña Marshmallow/Multicolor 18 Meses'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Petit Bateau'
 buyurl: 'https://www.amazon.es/dp/B084J3RTHM/?tag=tolees-21'
 descuento: '60.00'
 average: '38.0'

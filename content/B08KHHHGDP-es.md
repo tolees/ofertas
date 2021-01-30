@@ -28,10 +28,10 @@ En este momento está [Mr. Wonderful - Agenda clásica 2021 Día por página - V
 
 🔎:
 
-- Planificador mensual, tablas de ahorro, horarios, calendarios y juegos y extras divertidísimos
-- Agenda Clásica Grande Día Vista 2021 con encuadernación en espiral
 - 368 páginas con frases diarias motivacionales, blocs de notas adhesivas con formas y 8 hojas de pegatinas. Cierre con goma elástica.
 - Separadores con pestaña para cada mes, bolsillo interior transparente y regla de plástico interior
+- Agenda Clásica Grande Día Vista 2021 con encuadernación en espiral
+- Planificador mensual, tablas de ahorro, horarios, calendarios y juegos y extras divertidísimos
 - Medidas del producto: 12 x 22,1 x 2,8 cm​. Peso: 740 gr​ / Gramaje: 80 gr
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08KHHHGDP/?tag=tolees-21)
