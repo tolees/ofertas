@@ -28,9 +28,9 @@ Tienes [Beurer PO 30 - Pulsioxímetro de dedo para la medición de la saturació
 
 ℹ️:
 
-- Display con luz LED en 4 modos de visualización
 - El pulsioxímetro es pequeño, ligero y es óptimo para hacer deporte
-- Medición de la frecuencia del pulso
+- Display con luz LED en 4 modos de visualización
 - Medición de la saturación de oxígeno arterial
+- Medición de la frecuencia del pulso
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00B80JEGC/?tag=tolees-21)

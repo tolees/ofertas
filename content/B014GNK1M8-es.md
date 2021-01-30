@@ -28,10 +28,10 @@ En este momento está [Skechers D Lites-Fresh Start  Zapatillas Mujer  Multicolo
 
 🔎:
 
+- Skechers DLites Me Time
 - Suave tapón de piel para camión.
-- Suela de goma flexible.
 - Forro de tela suave.
 - Cama de espuma viscoelástica refrigerada por aire.
-- Skechers DLites Me Time
+- Suela de goma flexible.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B014GNK1M8/?tag=tolees-21)

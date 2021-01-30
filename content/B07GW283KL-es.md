@@ -28,9 +28,9 @@ En este momento está [HyperX HX-HSCEB-RD Earbuds - Auriculares con micrófono I
 
 🔎:
 
-- Micrófono integrado para el chat del juego
-- Mejorados para el modo portátil
-- Comodidad característica de HyperX
 - Audio de juego envolvente
+- Mejorados para el modo portátil
+- Micrófono integrado para el chat del juego
+- Comodidad característica de HyperX
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07GW283KL/?tag=tolees-21)

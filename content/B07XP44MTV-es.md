@@ -28,10 +28,10 @@ Tienes [GoPro Kit HERO8 Black - incluye Shorty  correa para la cabeza  batería 
 
 🔎:
 
-- Vloggers, cineastas profesionales y creadores de contenido en ciernes podrán hacer más de lo que nunca habían imaginado con accesorios de rápida instalación, como focos, micrófonos o pantallas lcd, entre otros
-- Graba 1,5 segundos antes y después de la toma y elige el mejor encuadre para la foto perfecta; o consigue un vídeo increíble para compartir
 - Su forma rediseñada es más compacta y te permite cambiar de soporte en segundos sin necesidad de carcasa. La nueva puerta lateral simplifica aún más el cambio de batería y la lente es ahora el doble de resistente a los impactos
-- Si antes te parecía fluido, espera a ver esto; ahora, la hero8 black incluye tres niveles de estabilización (activado, alto y boost); elige el que más te convenga en cada situación
+- Graba 1,5 segundos antes y después de la toma y elige el mejor encuadre para la foto perfecta; o consigue un vídeo increíble para compartir
+- Vloggers, cineastas profesionales y creadores de contenido en ciernes podrán hacer más de lo que nunca habían imaginado con accesorios de rápida instalación, como focos, micrófonos o pantallas lcd, entre otros
 - Captura vídeos secuenciales totalmente estabilizados sin dejar de moverte. Ahora, timewarp ajusta automáticamente la velocidad en función del movimiento, la detección de escena y la iluminación.
+- Si antes te parecía fluido, espera a ver esto; ahora, la hero8 black incluye tres niveles de estabilización (activado, alto y boost); elige el que más te convenga en cada situación
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07XP44MTV/?tag=tolees-21)
