@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjebasic Knit V-Neck Noos s al 38.02 % de descuento'
-date: 2021-01-29 10:26:28
+date: 2021-01-30 10:27:47
 image: 'https://m.media-amazon.com/images/I/312YFbB81eL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,9 +16,10 @@ comparePrice: 24.99 EUR
 prodname: 'Jack & Jones Jjebasic Knit V-Neck Noos suéter  Negro  Black Black   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B07C29G7FR/?tag=tolees-21'
 descuento: '38.02'
-average: '17.6319161676646'
+average: '17.6065680473372'
 ---
 
 Ahora mismo tienes [Jack & Jones Jjebasic Knit V-Neck Noos suéter  Negro  Black Black   X-Small para Hombre](https://www.amazon.es/dp/B07C29G7FR/?tag=tolees-21) a 15.49 EUR (original: 24.99 EUR) (38.02 %  de descuento) en el siguiente enlace!

@@ -28,10 +28,10 @@ En este momento está [adidas Duramo SL  Zapatillas Hombre  Escarl/FTWBLA/NEGBÁ
 
 🔎:
 
-- Zapatilla de running versátil
 - Horma clásica
-- Parte superior de malla
-- Cierre de cordones
 - Diseño ligero
+- Zapatilla de running versátil
+- Cierre de cordones
+- Parte superior de malla
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B089QQMCM8/?tag=tolees-21)

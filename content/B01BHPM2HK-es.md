@@ -28,10 +28,10 @@ Ahora mismo tienes [Solupharm Solución Única para Lentes de Contacto Blandas -
 
 🔎:
 
-- Fórmula original suave. Limpia, enjuaga, desinfecta y conserva sus lentes de contacto eficazmente y las mantiene blandas
 - Limpieza sin frotar: sumerja durante 6 horas (mínimo) las lentes en solución única
 - Limpieza rápida: frote y sumerja durante 4 horas las lentes en la solución única
 - La solución única Solupharm rejuvenece las lentes de contacto y aporta la sensación de llevar lentes nuevas todos los días
 - Proporciona una sensación agradable en el ojo. Usada diariamente, elimina los depósitos de proteínas
+- Fórmula original suave. Limpia, enjuaga, desinfecta y conserva sus lentes de contacto eficazmente y las mantiene blandas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01BHPM2HK/?tag=tolees-21)

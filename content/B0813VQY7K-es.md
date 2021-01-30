@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Adidas Originals Superstar  Zapatillas D al 45.00 % de descuento'
-date: 2021-01-29 10:39:02
+date: 2021-01-30 10:43:36
 image: 'https://m.media-amazon.com/images/I/415Fb2V3c7L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Adidas Originals Superstar  Zapatillas Deportivas Hombre  Footwear White/Core Black/Footwear White  46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B0813VQY7K/?tag=tolees-21'
 descuento: '45.00'
 average: '55.0'
@@ -27,8 +28,8 @@ Ahora mismo tienes [Adidas Originals Superstar  Zapatillas Deportivas Hombre  Fo
 
 🔎:
 
-- Zapatilla clásica de cuero
 - Cordones de zapatos
 - Parte superior de cuero
+- Zapatilla clásica de cuero
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0813VQY7K/?tag=tolees-21)
