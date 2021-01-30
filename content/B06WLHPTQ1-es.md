@@ -28,10 +28,10 @@ Está [Kärcher K2 Premium Full Control - Hidrolimpiadora de alta presión para 
 
 ℹ️:
 
-- La presión se puede regular en la lanza pulverizadora en función de la superficie y el nivel de presión se puede comprobar en los símbolos de la lanza pulverizadora
-- Lanza pulverizadora Full Control Click Vario Power y boquilla turbo con tres niveles de presión y un nivel de detergente que permiten el ajuste óptimo para cada superficie girando la lanza
-- Depósito de detergente integrado que facilita su aplicación
-- Las sujeciones para la pistola de alta presión y el cable hace que siempre esté lista para ser utilizada, y su asa telescópica y las ruedas ayudan en su almacenamiento y transporte
 - Hidrolimpiadora refrigerada por agua, 20-115 bares de presión, 2-11 Mpa, 360 l/H de caudal de agua
+- Lanza pulverizadora Full Control Click Vario Power y boquilla turbo con tres niveles de presión y un nivel de detergente que permiten el ajuste óptimo para cada superficie girando la lanza
+- La presión se puede regular en la lanza pulverizadora en función de la superficie y el nivel de presión se puede comprobar en los símbolos de la lanza pulverizadora
+- Las sujeciones para la pistola de alta presión y el cable hace que siempre esté lista para ser utilizada, y su asa telescópica y las ruedas ayudan en su almacenamiento y transporte
+- Depósito de detergente integrado que facilita su aplicación
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06WLHPTQ1/?tag=tolees-21)

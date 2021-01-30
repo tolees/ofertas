@@ -28,12 +28,12 @@ Está [LEGO La LEGO Película 2 - Ultrakatty y Lucy Guerrera  juguete divertido 
 
 ℹ️:
 
-- Incluye minifiguras de lucy y emmet (novedades en enero de 2019), así como un invasor extraterrestre para construir con boca que muerde y ojo de cíclope giratorio.
-- Combina a ultrakatty con el set buggy de huida de emmet y lucy (70829) para crear el ultrabuggy de huida
-- Accesorios incluidos: carcaj y escudo de señal de stop de lucy.
-- Recrea las escenas más divertidas de la lego película 2
-- Ultrakatty mide más de 8 cm de altura, 21 cm de longitud y 8 cm de ancho
 - Ultrakatty cuenta con cabina para una minifigura equ ipad a con riendas, cabeza articulada con 3 expresiones faciales diferentes, y cola y patas articuladas
+- Recrea las escenas más divertidas de la lego película 2
+- Combina a ultrakatty con el set buggy de huida de emmet y lucy (70829) para crear el ultrabuggy de huida
 - Incluye la ballesta de lucy
+- Incluye minifiguras de lucy y emmet (novedades en enero de 2019), así como un invasor extraterrestre para construir con boca que muerde y ojo de cíclope giratorio.
+- Accesorios incluidos: carcaj y escudo de señal de stop de lucy.
+- Ultrakatty mide más de 8 cm de altura, 21 cm de longitud y 8 cm de ancho
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07FNW8PF6/?tag=tolees-21)

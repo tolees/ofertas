@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Balance 373 Core  Zapatillas Hombre  al 30.06 % de descuento'
-date: 2021-01-29 16:33:09
+date: 2021-01-30 16:36:38
 image: 'https://m.media-amazon.com/images/I/31cKbVuOCKL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,9 +16,10 @@ comparePrice: 80.0 EUR
 prodname: 'New Balance 373 Core  Zapatillas Hombre  Negro  Black   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: 'New Balance'
 buyurl: 'https://www.amazon.es/dp/B01M2WBMCK/?tag=tolees-21'
 descuento: '30.06'
-average: '61.8242603550296'
+average: '61.7555555555556'
 ---
 
 Ahora mismo tienes [New Balance 373 Core  Zapatillas Hombre  Negro  Black   41.5 EU](https://www.amazon.es/dp/B01M2WBMCK/?tag=tolees-21) a 55.95 EUR (original: 80.0 EUR) (30.06 %  de descuento) en el siguiente enlace!
@@ -27,10 +28,10 @@ Ahora mismo tienes [New Balance 373 Core  Zapatillas Hombre  Negro  Black   41.5
 
 🔎:
 
-- Material interior: tela
-- Estilo: zapatillas de running
 - Cierre: cordones
 - Material de la suela: goma
+- Material interior: tela
+- Estilo: zapatillas de running
 - Material exterior: material sintético
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01M2WBMCK/?tag=tolees-21)
