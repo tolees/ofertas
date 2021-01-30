@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Walt Disney Pictures - El Rey León - Ste con un 54.51 % de descuento'
-date: 2021-01-29 00:54:38
+date: 2021-01-30 01:59:50
 image: 'https://m.media-amazon.com/images/I/51ruVzmtoJL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07VG8CTH8/?tag=tolees-21'
 descuento: '54.51'
-average: '17.2073333333334'
+average: '17.0687500000001'
 ---
 
 En este momento está [Walt Disney Pictures - El Rey León - Steelbook  3D + 2D  [Blu-ray]](https://www.amazon.es/dp/B07VG8CTH8/?tag=tolees-21) a 14.99 EUR (original: 32.95 EUR) (54.51 %  de descuento) en el siguiente enlace!
