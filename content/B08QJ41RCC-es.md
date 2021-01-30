@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'N/W Humidificador de aromaterapia Doasaw al 46.60 % de descuento'
-date: 2021-01-28 18:30:28
+date: 2021-01-30 20:41:06
 image: 'https://m.media-amazon.com/images/I/31pN0Y4ZtqL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice: 37.68 EUR
 prodname: 'N/W Humidificador de aromaterapia Doasawn Control Remoto Protección Ambiental Creativa Lámpara de aromaterapia Difusor de Aroma silencioso ultrasónico'
 country: 'es'
 flag: '🇪🇸'
+brand: 'N/W'
 buyurl: 'https://www.amazon.es/dp/B08QJ41RCC/?tag=tolees-21'
 descuento: '46.60'
 average: '20.12'
@@ -27,10 +28,10 @@ Está [N/W Humidificador de aromaterapia Doasawn Control Remoto Protección Ambi
 
 ℹ️:
 
-- Tranquilo y ecológico.
-- Propósito: aumentar la humedad en la habitación.
-- Puede dejar caer aceite esencial, fragancia natural.
-- Luz de noche pequeña con atmósfera LED El diseño biónico agrega diversión a la vida.
 - Diseño impermeable, sin fugas de agua en el vertido.
+- Luz de noche pequeña con atmósfera LED El diseño biónico agrega diversión a la vida.
+- Propósito: aumentar la humedad en la habitación.
+- Tranquilo y ecológico.
+- Puede dejar caer aceite esencial, fragancia natural.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08QJ41RCC/?tag=tolees-21)

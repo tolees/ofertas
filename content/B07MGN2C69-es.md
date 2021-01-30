@@ -28,8 +28,8 @@ Tienes [Saucony Jazz Original Vintage  Zapatillas Mujer  Morado  Orchid 69   37.
 
 🔎:
 
-- Saucony Jazz Original Vintage Zapatillas
 - Cordones delanteros con cuello acolchado
+- Saucony Jazz Original Vintage Zapatillas
 - Nailon y gamuza/parte superior de malla para un uso prolongado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07MGN2C69/?tag=tolees-21)

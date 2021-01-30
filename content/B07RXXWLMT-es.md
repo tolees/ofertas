@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas Cushioned Crew Calcetines Largo Clásico  Multicolor 
 
 🔎:
 
-- Targeted cushioning
 - Soft fabric
 - Pack of three pairs
+- Targeted cushioning
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RXXWLMT/?tag=tolees-21)

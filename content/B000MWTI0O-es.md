@@ -28,10 +28,10 @@ Tienes [Rosti Mepal - Mepal M104182 - Fiambrera Triple 550ml](https://www.amazon
 
 ℹ️:
 
-- Apilable. Perfecto para fiambres
-- Apto para lavavajillas
 - Cierre hermético. Tapa Transparente
 - Perfecto para fiambres, con tres compartimentos separados.
 - Contenido: 1650 ml
+- Apto para lavavajillas
+- Apilable. Perfecto para fiambres
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000MWTI0O/?tag=tolees-21)

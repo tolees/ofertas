@@ -28,9 +28,9 @@ Está [Gamelink - Childhood 1.8m Audio Video Cable de cable AV 9Pin a RCA Cable 
 
 ℹ️:
 
+- Brand new replacement AV (Audio Video) cable to connect Genesis Mega Drive 2 3 Console to your TV set.
+- Provides the video and audio signal to your television sets yellow, white & red ports which is an RCA style connection.
 - Compatible with the original Genesis Mega Drive 2 3 console, Play your games with good Audio and Video.
 - Cable Plug: 3RCA to 9 pin Nickel plated
-- Provides the video and audio signal to your television sets yellow, white & red ports which is an RCA style connection.
-- Brand new replacement AV (Audio Video) cable to connect Genesis Mega Drive 2 3 Console to your TV set.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XKNWDML/?tag=tolees-21)

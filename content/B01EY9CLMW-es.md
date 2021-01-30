@@ -28,10 +28,10 @@ Tienes [Superga 2750 UKFGLU  Zapatillas Unisex adulto  Blanco  White 900   42.5 
 
 🔎:
 
+- Cordones
 - Tenis estilo zapatillas
 - Suela de goma
-- Altura de la suelas medidas a 3 cm
 - Material superior de piel blanca
-- Cordones
+- Altura de la suelas medidas a 3 cm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01EY9CLMW/?tag=tolees-21)

@@ -29,8 +29,8 @@ Ahora mismo tienes [Intel NUC NUC7i5DNHE BGA 1356 2 60 GHz i5-7300U UCFF Negro -
 🔎:
 
 - Blk nuc7i5dnh 2e
+- Connectivity technology: DC-in jack
 - System ram type: ddr4_sdram
 - Paqueteage Weight: 1.04 kilograms
-- Connectivity technology: DC-in jack
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B079J3DLR2/?tag=tolees-21)
