@@ -27,12 +27,12 @@ Está [Skechers Ultra Flex  Zapatillas sin Cordones Mujer  Morado  LAV Black Kni
 
 ℹ️:
 
-- Altura del tacón: 1.0 centímetro
 - Composición: Sintético
+- Tipo de tacón: Plano
+- Revestimiento: Tela
+- Altura del tacón: 1.0 centímetro
+- Cierre: Sin cordones
 - Material exterior: Tela
 - Material de la suela: Sintético
-- Tipo de tacón: Plano
-- Cierre: Sin cordones
-- Revestimiento: Tela
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0796WQXBF/?tag=tolees-21)

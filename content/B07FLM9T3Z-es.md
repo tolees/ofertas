@@ -27,8 +27,8 @@ En este momento está [Buff Embers Tubular Original  Unisex Adulto  Negro  Talla
 
 🔎:
 
-- Diseñado para mejorar la sostenibilidad, usando microfibras de poliéster obtenidas de botellas de plástico recicladas.
-- Productos creados usando tela estirable en todas las direcciones para una mejor comodidad y ajuste.
 - Protección contra la radiación UV del Sol. Los resultados de las muestras probadas en los laboratorios otorgan un 98% de protección.
+- Productos creados usando tela estirable en todas las direcciones para una mejor comodidad y ajuste.
+- Diseñado para mejorar la sostenibilidad, usando microfibras de poliéster obtenidas de botellas de plástico recicladas.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07FLM9T3Z/?tag=tolees-21)

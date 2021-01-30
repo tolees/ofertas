@@ -28,8 +28,8 @@ Ahora mismo tienes [Tesura Games - Five Nights at Freddy s: Core Collection](htt
 🔎:
 
 - CELEBRA con NUEVOS AMIGOS: Conoce al elenco de acompañantes robóticos listos para darte una calurosa bienvenida a la familia Fazbear, incluyendo a Bonnie, Chica, Foxy y el mismísimo Freddy Fazbear.
-- CARACTERÍSTICAS EXCLUSIVAS PARA CONSOLA: Encuentra un nuevo sistema de logros y trofeos, así como trucos opcionales que añaden razones para volver a visitar Fazbear Entertainment.
 - JUEGA al ESCONDITE: Sobrevive durante la noche monitorizando las actividades de animatrónicos encantados que cobran vida. Saben correr, pero puedes esconderte.
+- CARACTERÍSTICAS EXCLUSIVAS PARA CONSOLA: Encuentra un nuevo sistema de logros y trofeos, así como trucos opcionales que añaden razones para volver a visitar Fazbear Entertainment.
 - DOS AÑOS DE FREDDY: la Core Colección incluye los primeros cinco títulos del universo FNAF que lo empezaron todo: Five Nights at Freddys, Five Nights at Freddys 2, Five Nights at Freddys 3, Five Nights at Freddys 4, y Five Nights at Freddys: Sister Location.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08LLN1B47/?tag=tolees-21)

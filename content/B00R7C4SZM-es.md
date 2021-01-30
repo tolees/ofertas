@@ -29,7 +29,7 @@ Tienes [Baron de Ley Gran Reserva Tinto Rioja - 1 botella 75 cl](https://www.ama
 
 - Atractivo color rubí de capa media y ligeras tonalidades teja.
 - Graduación: 13,5º
-- Capacidad: 75CL
 - La elegancia de un gran clásico
+- Capacidad: 75CL
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00R7C4SZM/?tag=tolees-21)

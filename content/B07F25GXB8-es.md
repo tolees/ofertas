@@ -27,12 +27,12 @@ En este momento está [Element Cornell Classic Ho-Sudadera para Hombre Capucha  
 
 🔎:
 
-- Logo del árbol en contraste en el pecho
-- Material: 60% poliéster, 40% algodón
-- Corte: corte normal
-- Cepillado para mayor suavidad
 - Tipo de deporte: fitness y ejercicio
+- Logo del árbol en contraste en el pecho
+- Cepillado para mayor suavidad
+- Corte: corte normal
 - Tela: tejido de mezcla de poliéster y algodón [260 g/m2]
 - Regular Fit
+- Material: 60% poliéster, 40% algodón
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07F25GXB8/?tag=tolees-21)
