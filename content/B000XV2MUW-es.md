@@ -29,7 +29,7 @@ Ahora mismo tienes [Eichhorn 100004505 juego de habilidad - juegos de habilidad 
 🔎:
 
 - Reproductor de CD con 2 micrófonos
-- Público objetivo : Kindergarten
 - Advertencia : ¡Precaución! No apto para niños menores de 36 meses
+- Público objetivo : Kindergarten
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B000XV2MUW/?tag=tolees-21)

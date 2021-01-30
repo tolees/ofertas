@@ -28,8 +28,8 @@ Ahora mismo tienes [Adidas Galaxy 5  Zapatillas de Correr Mujer  Negro  Core Bla
 
 🔎:
 
-- Cordones de zapatos
 - Corte regular
 - malla superior
+- Cordones de zapatos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082SYKY7W/?tag=tolees-21)
