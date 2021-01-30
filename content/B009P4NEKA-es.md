@@ -28,10 +28,10 @@ Tienes [OWC Mount Pro - Adaptador para agregar disco duro de 2.5 " a Apple Mac P
 
 🔎:
 
-- Material del producto:Aluminio.
-- Color del recubrimiento: azul.
-- Compatible con modelos Apple Mac Pro de entre 2009-2012 (Nehalem y Westmere). No se puede utilizar con modelos Mac Pro publicados en 2006, 2007 o 2008.
-- Tipo de dispositivo:Adaptador de compartimento para almacenamiento
 - Ideal para agregar a tu Mac un disco duro HDD o SSD de 2.5".
+- Tipo de dispositivo:Adaptador de compartimento para almacenamiento
+- Material del producto:Aluminio.
+- Compatible con modelos Apple Mac Pro de entre 2009-2012 (Nehalem y Westmere). No se puede utilizar con modelos Mac Pro publicados en 2006, 2007 o 2008.
+- Color del recubrimiento: azul.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B009P4NEKA/?tag=tolees-21)

@@ -30,8 +30,8 @@ Ahora mismo tienes [Nike Court Vision Mid  Zapatilla de Baloncesto Hombre  Blanc
 
 - Material: cuero y cuero sintético
 - Estación: Otoño/Invierno
-- Color: Blanco
 - Designer: NIKE
+- Color: Blanco
 - Artículo: CD5466
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RHQC2NY/?tag=tolees-21)

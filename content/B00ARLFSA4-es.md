@@ -28,9 +28,9 @@ Tienes [Polaroid P8339 LA KIH Gafas de sol  Negro  Black/Brown Shaded Polarized 
 
 🔎:
 
-- Lentes no Polarizados
-- Montura completa
-- Gafas de sol Rectangular
 - Almohadillas moldeadas para la nariz
+- Gafas de sol Rectangular
+- Montura completa
+- Lentes no Polarizados
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00ARLFSA4/?tag=tolees-21)

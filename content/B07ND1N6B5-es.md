@@ -16,7 +16,7 @@ comparePrice: 2.28 EUR
 prodname: 'LAY S GOURMET TRUFA'
 country: 'es'
 flag: '🇪🇸'
-brand: 'Lay'S Gourmet'
+brand: 'LayS Gourmet'
 buyurl: 'https://www.amazon.es/dp/B07ND1N6B5/?tag=tolees-21'
 descuento: '32.02'
 average: '1.71333333333333'
@@ -28,8 +28,8 @@ Tienes [LAY S GOURMET TRUFA](https://www.amazon.es/dp/B07ND1N6B5/?tag=tolees-21)
 
 ℹ️:
 
+- Conservar en un lugar fresco y seco
 - Sabor trufa
 - Lays gourmet
-- Conservar en un lugar fresco y seco
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07ND1N6B5/?tag=tolees-21)

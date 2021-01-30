@@ -16,7 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Levi s Graphic Diana Crew Sudadera  White  90 s Serif White+ 0000   XXS para Mujer'
 country: 'es'
 flag: '🇪🇸'
-brand: 'Levi's'
+brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07SP4YWD6/?tag=tolees-21'
 descuento: '46.43'
 average: '36.83625'
@@ -28,8 +28,8 @@ Está [Levi s Graphic Diana Crew Sudadera  White  90 s Serif White+ 0000   XXS p
 
 ℹ️:
 
-- Ofrece comodidad todo el día
 - Modelo de corte vintage
+- Ofrece comodidad todo el día
 - Con un diseño retro inspirado en los 90
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SP4YWD6/?tag=tolees-21)

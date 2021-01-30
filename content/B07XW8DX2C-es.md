@@ -16,7 +16,7 @@ comparePrice: 35.84 EUR
 prodname: 'Harry Potter Colección Completa Ed19 [DVD]'
 country: 'es'
 flag: '🇪🇸'
-brand: 'None'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XW8DX2C/?tag=tolees-21'
 descuento: '29.99'
 average: '26.0286956521738'

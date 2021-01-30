@@ -28,9 +28,9 @@ Ahora mismo tienes [Relaxdays Mantel Antimanchas Redondo  Poliéster  Rojo  140 
 
 🔎:
 
+- Para fiestas: Mantel de mesa perfecto para cumpleaños, fiestas y celebraciones
 - Mantel rojo: Mantel de tela redondo de color vivo. Diámetro: 140 cm
 - Repele el agua: Mantel impermeable hecho de tela monocolor con diseño elegante que repele el agua
-- Para fiestas: Mantel de mesa perfecto para cumpleaños, fiestas y celebraciones
 - Para exterior: Mantel de exterior hecho de tela resistente apta también para su uso en el exterior
 - Fácil de limpiar: Mantel cocina hecho 100% de poliéster. Se puede lavar a 40ºC y planchar a baja temperatura
 
