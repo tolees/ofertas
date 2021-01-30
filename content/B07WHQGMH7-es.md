@@ -29,9 +29,9 @@ Ahora mismo tienes [Reloj Seiko para Hombre  Turquesa  Sense  7K1](https://www.a
 🔎:
 
 - Color de la esfera: Verde
-- Material de la esfera: Hardlex
 - Pulsera: Plástico Verde
 - Cierre: Hebilla
+- Material de la esfera: Hardlex
 - Material de la caja: Acero inoxidable
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WHQGMH7/?tag=tolees-21)
