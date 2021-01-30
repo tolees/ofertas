@@ -16,6 +16,7 @@ comparePrice: 78.0 EUR
 prodname: 'Abercrombie & Fitch First Instinct Colonia  100 ml  El Empaque Puede Variar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FUSFQUU/?tag=tolees-21'
 descuento: '59.62'
 average: '35.705714285714286'

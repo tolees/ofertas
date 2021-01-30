@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'IDEASY Actualice la Tableta de Escritura LCD de Borrado Parcial y Completo de 12 Pulgadas  Almohadilla de Escritura LCD para Niños para la Escuela  el Hogar y la Oficina  Rosa '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085WR4KJB/?tag=tolees-21'
 descuento: '30.78'
 average: '17.99'

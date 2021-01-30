@@ -16,6 +16,7 @@ comparePrice: 209.95 EUR
 prodname: 'Cybex Silla de coche grupo 2/3  Solution M-Fix SL  Para coches con y sin Isofix  Grupo 2/3  15-36 kg   Desde los 3 hasta los 12 años  Negro  Pure Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073HDCTYY/?tag=tolees-21'
 descuento: '33.32'
 average: '137.99'

@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Superga 2750 COTU Classic  Zapatillas de Gimnasia Unisexo  Azul  Intense Blue G88   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006J59SLW/?tag=tolees-21'
 descuento: '55.00'
 average: '21.475'

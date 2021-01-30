@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Under Armour UA W Charged Bandit 5  Zapatillas de Running para Mujer  Negro  Black/White/White  001  001   44.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HKK2DDL/?tag=tolees-21'
 descuento: '55.82'
 average: '37.55'

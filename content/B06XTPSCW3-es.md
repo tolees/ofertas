@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Fintie Funda para iPad 2018/2017 - Trasera Transparente Carcasa Ligera con Función de Soporte y Auto-Reposo/Activación para iPad 5.ª / 6.ª Generación 9 7 Pulgadas  Oro Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XTPSCW3/?tag=tolees-21'
 descuento: '28.59'
 average: '14.99'

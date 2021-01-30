@@ -16,6 +16,7 @@ comparePrice: 4.9 EUR
 prodname: 'Lékué Cubitera de Caucho  Natural  Azul  14 cavidades  Rectangular'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01D1LSCH2/?tag=tolees-21'
 descuento: '31.43'
 average: '3.36'

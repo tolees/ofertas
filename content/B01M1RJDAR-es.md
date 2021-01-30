@@ -16,6 +16,7 @@ comparePrice: 24.28 EUR
 prodname: 'PowerPlus POWC4010 - Lijadora Orbital 135W'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M1RJDAR/?tag=tolees-21'
 descuento: '30.19'
 average: '16.95'

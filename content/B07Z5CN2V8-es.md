@@ -16,6 +16,7 @@ comparePrice: 182.0 EUR
 prodname: 'Eva Lopez Botas Cowboy Piel Napa Mujer Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z5CN2V8/?tag=tolees-21'
 descuento: '54.40'
 average: '82.99'

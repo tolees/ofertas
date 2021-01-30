@@ -16,6 +16,7 @@ comparePrice: 8.75 EUR
 prodname: 'Soria Natural Bolsas de Planta - 1 unidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00V6AS4DI/?tag=tolees-21'
 descuento: '78.29'
 average: '1.9'

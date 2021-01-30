@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'L Oreal Paris Colorista Fader - Champú Borrador del color Washout'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MZFKHXN/?tag=tolees-21'
 descuento: '96.86'
 average: '0.5'

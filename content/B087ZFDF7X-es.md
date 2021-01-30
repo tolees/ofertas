@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Pintar por números para adultos  la chica en el bosque'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087ZFDF7X/?tag=tolees-21'
 descuento: '50.03'
 average: '9.99'

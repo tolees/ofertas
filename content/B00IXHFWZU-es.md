@@ -16,6 +16,7 @@ comparePrice: 139.9 EUR
 prodname: 'Cep 9709 - Armario bajo de 2 puertas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IXHFWZU/?tag=tolees-21'
 descuento: '29.71'
 average: '98.33'

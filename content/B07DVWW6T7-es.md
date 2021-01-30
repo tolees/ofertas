@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'Columbia Trans Alps F.k.t. II  Zapatillas de Running para Asfalto para Hombre  Azul  Zinc  Red Quartz 492   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DVWW6T7/?tag=tolees-21'
 descuento: '50.03'
 average: '69.95'

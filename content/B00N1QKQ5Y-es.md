@@ -16,6 +16,7 @@ comparePrice: 24.9 EUR
 prodname: 'L-Triptófano Vegavero® | EL ÚNICO 99.5% PURO | SIN ADITIVOS | Ansiedad + Estrés + Insomnio + Nerviosismo | Estado de Ánimo | 500mg | 120 Cápsulas | Precursor de Serotonina y Melatonina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00N1QKQ5Y/?tag=tolees-21'
 descuento: '28.11'
 average: '17.9'

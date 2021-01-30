@@ -16,6 +16,7 @@ comparePrice: 35.11 EUR
 prodname: 'Reproductor MP3 con Bluetooth  Reproductor de MP3 wiwoo con Clip para Deportes  Reproductor de música Digital de 8 GB con Radio FM  grabación de Voz  hasta 128 GB expandible'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y9LZ8HD/?tag=tolees-21'
 descuento: '39.96'
 average: '21.08'

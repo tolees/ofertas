@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Off - Road Racing'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XH9MWDR/?tag=tolees-21'
 descuento: '44.27'
 average: '25.2925'

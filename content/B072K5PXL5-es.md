@@ -16,6 +16,7 @@ comparePrice: 1805.59 EUR
 prodname: 'Apple MacBook  de 12 pulgadas  Intel Core i5 de doble núcleo a 1 3 GHz  512GB  - Plata  Ultimo Modelo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072K5PXL5/?tag=tolees-21'
 descuento: '33.60'
 average: '1275.6666666666667'

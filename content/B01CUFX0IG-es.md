@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'SIK KIS Moby Xl - Armario  color antracita'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CUFX0IG/?tag=tolees-21'
 descuento: '30.00'
 average: '69.93'

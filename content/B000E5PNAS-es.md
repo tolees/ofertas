@@ -16,6 +16,7 @@ comparePrice: 5.82 EUR
 prodname: 'Almacenamiento de Datos Externo Multicolor VERBATIM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000E5PNAS/?tag=tolees-21'
 descuento: '56.53'
 average: '2.53'

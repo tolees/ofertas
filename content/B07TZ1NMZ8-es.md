@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'KiplingBaroeMujerMonederosNegro  Carbon Metallic  20.5x10x7.5 Centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZ1NMZ8/?tag=tolees-21'
 descuento: '71.21'
 average: '8.35'

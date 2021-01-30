@@ -16,6 +16,7 @@ comparePrice: 159.3 EUR
 prodname: 'Love MoschinoJc4080pp1aMujerShoppers y bolsos de hombroNegro  Negro 6x14x23 centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S48XJQ6/?tag=tolees-21'
 descuento: '53.75'
 average: '77.78'

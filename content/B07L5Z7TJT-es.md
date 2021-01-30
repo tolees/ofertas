@@ -16,6 +16,7 @@ comparePrice: 200.0 EUR
 prodname: 'Kit de monopie para Video Profesional  Cayer AF34DVH4 Monopie telescópico abatible de Aluminio de 71 Pulgadas con Cabezal de Fluido H4 y Base de trípode extraíble para cámaras DSLR y videocámaras'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L5Z7TJT/?tag=tolees-21'
 descuento: '36.50'
 average: '126.99'

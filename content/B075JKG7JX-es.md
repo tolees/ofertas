@@ -16,6 +16,7 @@ comparePrice: 259.9 EUR
 prodname: 'Red Castle Citylink III - Silla de paseo plegable  color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075JKG7JX/?tag=tolees-21'
 descuento: '29.97'
 average: '182'

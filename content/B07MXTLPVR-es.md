@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'SALOMON Explore Graphic SS tee T-Shirt  Hombre  Azul  Poseidon   XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MXTLPVR/?tag=tolees-21'
 descuento: '40.00'
 average: '21.0'

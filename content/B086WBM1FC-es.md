@@ -16,6 +16,7 @@ comparePrice: 53.39 EUR
 prodname: 'ZXL Protector de Borde  Protector de Esquina de Mesa  Gel de sílice para bebés Evita contusiones Protecciones de Esquina de Borde de Seguridad  4 Piezas   Color: Verde '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086WBM1FC/?tag=tolees-21'
 descuento: '41.96'
 average: '30.99'

@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Intex 57104NP - Piscina hinchable 3 aros transparente 86 x 86 x 25 cm  63 litros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GHM2QTW/?tag=tolees-21'
 descuento: '42.71'
 average: '5.7'

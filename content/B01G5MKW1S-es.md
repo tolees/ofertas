@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'NANOSTAD Estadio Camp NOU LED Edition  FC Barcelona  Puzzle 3D  Producto Oficial Licenciado '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01G5MKW1S/?tag=tolees-21'
 descuento: '25.11'
 average: '29.95'

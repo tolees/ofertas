@@ -16,6 +16,7 @@ comparePrice: 4.5 EUR
 prodname: '3 5 mm Estéreo Conector Jack Divisor Adaptador Cable Cable Oro 20 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003ORHLZ8/?tag=tolees-21'
 descuento: '46.89'
 average: '2.306'

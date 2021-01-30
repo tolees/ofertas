@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Armani Exchange Reloj Hombre de Digital con Correa en Acero Inoxidable AXT2000'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FFKX7JC/?tag=tolees-21'
 descuento: '40.00'
 average: '179.4'

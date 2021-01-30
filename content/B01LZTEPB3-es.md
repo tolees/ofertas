@@ -16,6 +16,7 @@ comparePrice: 2.8 EUR
 prodname: 'Garnier Original Remedies Champú Arcilla y Limón -25 cl'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZTEPB3/?tag=tolees-21'
 descuento: '64.29'
 average: '1.0'

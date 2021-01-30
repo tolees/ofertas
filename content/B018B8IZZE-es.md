@@ -16,6 +16,7 @@ comparePrice: 6.61 EUR
 prodname: 'AXE Colonia Adrenaline - 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018B8IZZE/?tag=tolees-21'
 descuento: '37.97'
 average: '4.05'

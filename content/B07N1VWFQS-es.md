@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'adidas Lite Racer  Zapatillas de Running para Hombre  Negro  Core Black/Core Black/Grey Four F17 Core Black/Core Black/Grey Four F17   43 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1VWFQS/?tag=tolees-21'
 descuento: '34.18'
 average: '36.17'

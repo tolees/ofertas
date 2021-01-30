@@ -16,6 +16,7 @@ comparePrice: 19.98 EUR
 prodname: '750ml A5 Botella de Agua Portable Transparente Reutilizable para Deporte  Viaje  Actividades interiores y Exteriores Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DWXJDTP/?tag=tolees-21'
 descuento: '29.98'
 average: '17.257272727272724'

@@ -16,6 +16,7 @@ comparePrice: 13.56 EUR
 prodname: 'Biosilk  Mascarilla de pelo - 118 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JO57YZQ/?tag=tolees-21'
 descuento: '57.96'
 average: '5.7'

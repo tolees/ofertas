@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Columbia Tech Shade Hat Gorra  Unisex Adulto  Azul  Carbon   One Size  Adjustable '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08178RGHM/?tag=tolees-21'
 descuento: '37.52'
 average: '12.49'

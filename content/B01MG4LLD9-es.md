@@ -16,6 +16,7 @@ comparePrice: 20.8 EUR
 prodname: 'Alpha Animation & Toys 4Pk Super Wings Transform-A-Bots  Jett/Mira Aul/Grand Albert  Plane  Multicolor  Talla Única  Alpha Animation Toys YW710610 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MG4LLD9/?tag=tolees-21'
 descuento: '37.55'
 average: '12.99'

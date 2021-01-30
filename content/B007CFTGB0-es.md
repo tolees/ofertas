@@ -16,6 +16,7 @@ comparePrice: 38.9 EUR
 prodname: 'Orbegozo HO 810 A Mini horno- tostador multifunción  800 W  8 litros  Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007CFTGB0/?tag=tolees-21'
 descuento: '35.73'
 average: '25.0'

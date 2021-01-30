@@ -16,6 +16,7 @@ comparePrice: 3.6 EUR
 prodname: 'Old Spice Bearglove Desodorante En Barra Para Hombres 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZL1V1GY/?tag=tolees-21'
 descuento: '72.22'
 average: '1.0'

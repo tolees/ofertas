@@ -16,6 +16,7 @@ comparePrice: 31.46 EUR
 prodname: 'Ferilinso Funda para Xiaomi Redmi 7A Elegante Armadura híbrida Robusta Funda de Doble Capa de Alta Resistencia para PC Duro Caso para Funda Xiaomi Redmi 7A  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZFDP4F/?tag=tolees-21'
 descuento: '74.60'
 average: '7.99'

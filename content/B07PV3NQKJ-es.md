@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Tommy Hilfiger Padded Triangle Bra Sujetador de triángulo  Azul  Navy Blazer 416   K  Talla del Fabricante: MD  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PV3NQKJ/?tag=tolees-21'
 descuento: '34.86'
 average: '25.99'

@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Adidas Tensaur I  Zapatillas de Estar por casa Bebé Unisex  Blanco  Ftwbla/Azul/Ftwbla 000   24 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SJ751GR/?tag=tolees-21'
 descuento: '71.90'
 average: '7.51'

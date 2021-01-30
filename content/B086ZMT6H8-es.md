@@ -16,6 +16,7 @@ comparePrice: 19.78 EUR
 prodname: 'B Blesiya Caja De Almacenamiento De Batería Caja De Plástico Duro Recargable para 100 X AA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086ZMT6H8/?tag=tolees-21'
 descuento: '44.44'
 average: '10.99'

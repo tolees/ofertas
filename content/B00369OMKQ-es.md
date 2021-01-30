@@ -16,6 +16,7 @@ comparePrice: 165.5 EUR
 prodname: 'Mannesmann M53255 - Juego de herramientas para roscar de 110 piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00369OMKQ/?tag=tolees-21'
 descuento: '26.19'
 average: '122.55'

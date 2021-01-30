@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Termómetro Infrarrojo HANMATEK Termómetro Láser Pistola de Temperatura de Lectura Instantánea Digital sin Contacto para Termostato Industrial con Retroiluminación de LCD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NYQMMS9/?tag=tolees-21'
 descuento: '45.01'
 average: '25.162'

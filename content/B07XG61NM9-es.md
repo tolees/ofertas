@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Lovecraft s Untold Stories'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XG61NM9/?tag=tolees-21'
 descuento: '40.32'
 average: '21.48'

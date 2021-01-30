@@ -16,6 +16,7 @@ comparePrice: 180.9 EUR
 prodname: 'Love MoschinoJc4239pp0aMujerCarteras de manoNegro  Black 10x15x24 Centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V7WTCDQ/?tag=tolees-21'
 descuento: '43.18'
 average: '102.79'

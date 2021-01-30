@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Alcachofa de Ducha con 5 Modos de Spray  Cabezal de Ducha Alta Presiòn Ahorro de Agua  Alcachofa Ducha Universal  Fácil de Limpiar e Instalar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M6K8VL2/?tag=tolees-21'
 descuento: '65.41'
 average: '8.99'

@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'New Balance 373  Zapatillas para Hombre  Negro  Black/Magnet Black/Magnet   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PSXMTB5/?tag=tolees-21'
 descuento: '70.12'
 average: '36.067142857142855'

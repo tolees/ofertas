@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'NONZERS Protector de Pantalla para Samsung Galaxy S10 Plus [2 Piezas] Cristal Templado Alta Definición y Sensibilidad Sin Burbujas 9H Dureza  Resistente a Arañazos para Galaxy S10 Plus'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YBRFZ8D/?tag=tolees-21'
 descuento: '37.94'
 average: '6.2'

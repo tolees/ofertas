@@ -16,6 +16,7 @@ comparePrice: 74.95 EUR
 prodname: 'Reebok Royal Glide LX  Zapatillas de Gimnasia para Hombre  Negro  Black/Shark/Gum Black/Shark/Gum   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071RTBVDJ/?tag=tolees-21'
 descuento: '63.39'
 average: '27.44'

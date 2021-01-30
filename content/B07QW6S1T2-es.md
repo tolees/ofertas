@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Wrangler Larston Jeans  Dark Rinse  29W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QW6S1T2/?tag=tolees-21'
 descuento: '71.69'
 average: '19.8'

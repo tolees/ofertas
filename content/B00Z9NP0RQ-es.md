@@ -16,6 +16,7 @@ comparePrice: 8.27 EUR
 prodname: '3M Mono de seguridad en polipropileno'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00Z9NP0RQ/?tag=tolees-21'
 descuento: '58.65'
 average: '3.42'

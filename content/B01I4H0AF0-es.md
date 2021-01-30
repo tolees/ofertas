@@ -16,6 +16,7 @@ comparePrice: 48.24 EUR
 prodname: 'Urban Classics Hibi Mid Shoe  Zapatillas para Hombre  Braun  Toffee/White   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01I4H0AF0/?tag=tolees-21'
 descuento: '72.08'
 average: '13.47'

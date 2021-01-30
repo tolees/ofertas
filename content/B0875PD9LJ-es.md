@@ -16,6 +16,7 @@ comparePrice: 45.41 EUR
 prodname: 'AIKELA V5.0 - Auriculares Bluetooth inalámbricos con tecnología Clear Voice Capture  tecnología Bluetooth  para negocios  oficinas y conducción '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0875PD9LJ/?tag=tolees-21'
 descuento: '31.62'
 average: '31.05'

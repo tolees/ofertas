@@ -16,6 +16,7 @@ comparePrice: 11.95 EUR
 prodname: 'Papstar 17981 Set de diámetro 50 x 100 mm  8 pcs  crema'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007NYSLJI/?tag=tolees-21'
 descuento: '34.14'
 average: '7.743333333333333'

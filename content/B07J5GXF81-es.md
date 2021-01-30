@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Skechers Boys  Flex Advantage 3.0 Trainers  Blue  Navy & Charcoal Textile/Navy & Red Trim Nvcc   12.5 UK  31 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J5GXF81/?tag=tolees-21'
 descuento: '39.94'
 average: '25.115000000000002'

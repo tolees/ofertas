@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'Relec Roll On Post-Picaduras de Insectos y Plantas | Alivia el picor  refresca y calma la piel | Para niños y adultos | Con efecto refrescante | 15ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B44J8HQ/?tag=tolees-21'
 descuento: '31.82'
 average: '5.5725'

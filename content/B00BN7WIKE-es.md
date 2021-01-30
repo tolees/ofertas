@@ -16,6 +16,7 @@ comparePrice: 4.32 EUR
 prodname: 'Giorgi - Gel Fijador No. 3 - Perfect Fix 24h - 150 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BN7WIKE/?tag=tolees-21'
 descuento: '45.60'
 average: '2.1950000000000003'

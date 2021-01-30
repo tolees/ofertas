@@ -16,6 +16,7 @@ comparePrice: 47.78 EUR
 prodname: 'Hollister Wave 2 for her eau de perfume spray 100ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0727SRCY6/?tag=tolees-21'
 descuento: '62.39'
 average: '21.938333333333336'

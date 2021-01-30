@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'L.O.L Surprise Squishy Pocket Plush - Modelo surtido  sorpresa  Giochi Preziosi LLD15000 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MDZ9ZYN/?tag=tolees-21'
 descuento: '52.71'
 average: '10.971499999999997'

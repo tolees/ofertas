@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'KiplingBaroeMujerMonederosRojo  Metallic Rust  20.5x10x7.5 Centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TVPYVW6/?tag=tolees-21'
 descuento: '54.07'
 average: '12.073333333333334'

@@ -16,6 +16,7 @@ comparePrice: 1499.0 EUR
 prodname: 'Tamron T81140 - Objetivo SP 15-30mm F/2.8 Di VC USD G2 para Canon'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GZ4Y2SG/?tag=tolees-21'
 descuento: '32.06'
 average: '1018.36'

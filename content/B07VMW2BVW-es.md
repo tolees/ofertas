@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Organizadores para Coche  2 Pack Organizadores para Asientos de Coches  Asiento Trasero a Prueba de Agua Cubiertas para Coches con Sostenedor de Tablet-bolsillo de Pantalla Táctil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VMW2BVW/?tag=tolees-21'
 descuento: '41.85'
 average: '13.95'

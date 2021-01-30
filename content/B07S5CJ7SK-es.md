@@ -16,6 +16,7 @@ comparePrice: 137.7 EUR
 prodname: 'Love MoschinoJc4043pp1aMujerBolso de manoBeige  Naturale 8x16x20 centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S5CJ7SK/?tag=tolees-21'
 descuento: '38.63'
 average: '84.5'

@@ -16,6 +16,7 @@ comparePrice: 415.0 EUR
 prodname: 'King size patchwork Quilt  Handmade Throws  Scrap Quilt  Gift for Mum and Dad  FREE SHIPPING'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MYKSWVY/?tag=tolees-21'
 descuento: '35.90'
 average: '266.0'

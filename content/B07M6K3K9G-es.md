@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'DOWE 127cm x 45cm Resistencia al Calor Cubierta metálica de la Tabla de Planchar Material de Fieltro Duradero Tamaño estándar Opciones y Tablas de Planchar Cuerda elástica Estilo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M6K3K9G/?tag=tolees-21'
 descuento: '36.86'
 average: '11.99'

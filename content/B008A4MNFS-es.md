@@ -16,6 +16,7 @@ comparePrice: 52.36 EUR
 prodname: 'HELLA 1F8 006 800-321 Faro de carretera - Rallye 3000 - FF/Halógena - H1/W5W - 12V/24V - redondo - Ref. 37 5 - azul - montaje exterior - Lado mont.: izquierda/derecha'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008A4MNFS/?tag=tolees-21'
 descuento: '30.54'
 average: '36.37'

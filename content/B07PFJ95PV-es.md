@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'New Balance Trail Nitrel m  Zapatillas de Running para Asfalto para Mujer  Azul  Vintage Indigo Vintage Indigo   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PFJ95PV/?tag=tolees-21'
 descuento: '51.67'
 average: '36.25'

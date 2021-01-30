@@ -16,6 +16,7 @@ comparePrice: 40.55 EUR
 prodname: 'muveacoustics A-Star Resistente al Agua portátil inalámbrico Bluetooth Altavoz  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MXPTTUS/?tag=tolees-21'
 descuento: '44.44'
 average: '22.53'

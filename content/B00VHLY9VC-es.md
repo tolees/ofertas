@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Belkin - Soporte de smartphone universal para coche  para iPhone 11/11 Pro/11 Pro Max  XS/XS Max  XR/X  SE  8/8+  Samsung Galaxy Note9  S10/S10+/S10e y dispositivos de LG Sony y Google entre otros '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VHLY9VC/?tag=tolees-21'
 descuento: '30.61'
 average: '20.242'

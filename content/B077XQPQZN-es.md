@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'Adidas Nemeziz Messi Tango 17.4 TF J  Botas de fútbol Unisex niño  Multicolor  Tinuni/Vealre/Negbas 000   31.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077XQPQZN/?tag=tolees-21'
 descuento: '75.97'
 average: '10.8'

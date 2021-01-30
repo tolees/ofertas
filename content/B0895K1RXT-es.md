@@ -16,6 +16,7 @@ comparePrice: 8.68 EUR
 prodname: 'AnamSafdarButt59 Negro y Plata Aleación de Aluminio USB Externo 2.0 7.1 CH Virtual Audio Tarjeta de Sonido Adaptador Convertidor Portátil Promoción'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0895K1RXT/?tag=tolees-21'
 descuento: '39.98'
 average: '5.21'

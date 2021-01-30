@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'BLCPRO Repelente Ultrasónico de Plagas 2020 Repelente Ultrasónico Mosquitos con Conversión Automática de Frecuencia para Ratas y Ratones  Cucarachas  Insectos  Hormigas  Pulgas  Moscas [No Tóxico]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083JX2BKH/?tag=tolees-21'
 descuento: '44.46'
 average: '19.99'

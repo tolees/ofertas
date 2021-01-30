@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'Philips Daily HR1623/00 - Batidora de Mano  650 W  Picador  Jarra de 0.5 L  Varilla Metálica  Color Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IUL7APY/?tag=tolees-21'
 descuento: '34.88'
 average: '31.93'

@@ -16,6 +16,7 @@ comparePrice: 23.79 EUR
 prodname: 'OTraki Cortina Ducha Translúcido Antimoho 200cm x 200 cm  EVA Impermeable Cortina Baño Pesado 200 Ancho 200 Altura Cortina Bañera con 13 Ganchos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DHWPL8W/?tag=tolees-21'
 descuento: '28.58'
 average: '17.49'

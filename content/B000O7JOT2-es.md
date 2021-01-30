@@ -16,6 +16,7 @@ comparePrice: 11.8 EUR
 prodname: 'Vichy Deo Desodorante Anti-Transpirante Pieles Sensibles Roll-On 48 H - 450 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000O7JOT2/?tag=tolees-21'
 descuento: '26.27'
 average: '8.076666666666666'

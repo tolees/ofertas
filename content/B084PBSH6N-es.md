@@ -16,6 +16,7 @@ comparePrice: 2.05 EUR
 prodname: '4 Unids/set Mesa de seguridad para niños Cubierta de protección de escritorio Baby Safe Crash Corner Guards Pads Table Corner Cover - Color café'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084PBSH6N/?tag=tolees-21'
 descuento: '33.66'
 average: '1.36'

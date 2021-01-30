@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Vieta Pro Power Pro - Altavoz inalámbrico portátil  Bluetooth  Reproductor USB  Radio FM  Manos Libres  Cargador USB  aux-in  Micro SD  8 Horas de autonomía   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CTPD675/?tag=tolees-21'
 descuento: '50.35'
 average: '73.334'

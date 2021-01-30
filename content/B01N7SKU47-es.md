@@ -16,6 +16,7 @@ comparePrice: 36.0 EUR
 prodname: 'Limitless equipment Mark 1 kit de supervivencia: Mil-Spec  fabricado en Reino Unido  portátil y de bolsillo  kit y caja de supervivencia profesional'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N7SKU47/?tag=tolees-21'
 descuento: '30.56'
 average: '24.0'

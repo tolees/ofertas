@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Bonmedico Almohada Comfort  Almohada Ergonómica para la Cabeza y Cuello de Espuma de Gel  Almohada de Espuma de Memoria para Dormir y para Cada Posición de Descanso.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079JVFQ38/?tag=tolees-21'
 descuento: '50.13'
 average: '19.9'

@@ -16,6 +16,7 @@ comparePrice: 10.19 EUR
 prodname: 'Mumusuki conservante Cobre Puro PU Er Aguja de té PU Erh Puer Cuchillo de té Accesorios 1 unid'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z5P9TYQ/?tag=tolees-21'
 descuento: '36.31'
 average: '6.49'

@@ -16,6 +16,7 @@ comparePrice: 17.49 EUR
 prodname: 'Shepa Banador Shorts De Deporte Liso Clásico - Hecho En La UE  Azul Marino L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LAVE1SO/?tag=tolees-21'
 descuento: '55.12'
 average: '7.61'

@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Casio  LA670WEGA-9EF  Reloj de Pulsera para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004KPKUBU/?tag=tolees-21'
 descuento: '34.06'
 average: '32.303333333333335'

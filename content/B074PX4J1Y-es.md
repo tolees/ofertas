@@ -16,6 +16,7 @@ comparePrice: 189.0 EUR
 prodname: 'Lacoste Reloj Análogo clásico para Mujer de Cuarzo con Correa en Acero Inoxidable 2001002'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074PX4J1Y/?tag=tolees-21'
 descuento: '42.21'
 average: '109.22'

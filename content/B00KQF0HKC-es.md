@@ -16,6 +16,7 @@ comparePrice: 60.64 EUR
 prodname: 'Baby Dan Slim fit - Barrera de seguridad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KQF0HKC/?tag=tolees-21'
 descuento: '25.66'
 average: '48.104'

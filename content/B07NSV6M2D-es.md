@@ -16,6 +16,7 @@ comparePrice: 64.87 EUR
 prodname: 'Duokon Luz LED de ojo de ángel para automóvil  150W 7 pulgadas universal Independientemente del modelo y año Redondas de haz alto/bajo Luces diurnas DRL Lámpara de luz de señal de giro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NSV6M2D/?tag=tolees-21'
 descuento: '41.84'
 average: '37.73'

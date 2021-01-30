@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'HOUSE DAY Taburete Plegable de Ligero 22cm Negro plástico Antideslizantes para niños la Cocina Taburete de baño'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SMP3THW/?tag=tolees-21'
 descuento: '50.68'
 average: '6.9'

@@ -16,6 +16,7 @@ comparePrice: 24.2 EUR
 prodname: 'Dell 470-13630 - Cable DisplayPort a VGA  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GK5Z1E4/?tag=tolees-21'
 descuento: '54.96'
 average: '10.9'

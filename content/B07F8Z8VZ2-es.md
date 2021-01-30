@@ -16,6 +16,7 @@ comparePrice: 12.58 EUR
 prodname: 'Homyl Comprimido móvil Esile del ordenador del accesorio del ratón óptico metálico USB para el rosa de MacBook'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F8Z8VZ2/?tag=tolees-21'
 descuento: '44.44'
 average: '6.99'

@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Cuéntame Cómo Pasó - Temporadas 6 - 8 [DVD]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003Z7RUI0/?tag=tolees-21'
 descuento: '40.01'
 average: '35.99'

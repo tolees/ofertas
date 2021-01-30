@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Barbecook 2235925000 Barbacoa PORTATIL Carlo  Amarillo  43 5 x 33 5 x 20 5 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N7DCKPA/?tag=tolees-21'
 descuento: '25.14'
 average: '115.0'

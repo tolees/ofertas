@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Shayson Teclado Electrónico Piano 37 Teclas Teclado de Piano Portátil para niños con Fuente de Alimentación  Música Digital  Educativa Regalo para Niños/Principiante Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08D66GCNZ/?tag=tolees-21'
 descuento: '27.28'
 average: '23.99'

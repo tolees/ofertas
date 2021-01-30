@@ -16,6 +16,7 @@ comparePrice: 5.52 EUR
 prodname: 'Beter Lima Uñas Pedicura Cerámica 19.8 cm - 1 Unidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00U8QXJDQ/?tag=tolees-21'
 descuento: '63.77'
 average: '2.0'

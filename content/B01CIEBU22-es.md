@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Sandisk iXpand - Memoria flash USB de 32 GB para iPhone y iPad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CIEBU22/?tag=tolees-21'
 descuento: '44.19'
 average: '27.9'

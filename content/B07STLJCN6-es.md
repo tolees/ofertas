@@ -16,6 +16,7 @@ comparePrice: 149.95 EUR
 prodname: 'adidas Terrex Agravic Flow GTX W  Zapatillas de Cross para Mujer  Azul  Tech Ink/Glow Blue/Hi/Res Coral Tech Ink/Glow Blue/Hi/Res Coral   37 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07STLJCN6/?tag=tolees-21'
 descuento: '63.79'
 average: '56.21'

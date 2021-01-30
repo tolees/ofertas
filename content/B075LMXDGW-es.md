@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'adidas CE8097 Balón  Hombre  Negro  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075LMXDGW/?tag=tolees-21'
 descuento: '28.52'
 average: '14.26'

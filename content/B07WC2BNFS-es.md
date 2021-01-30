@@ -16,6 +16,7 @@ comparePrice: 249.95 EUR
 prodname: 'Powerbeats Pro Auriculares Totalmente Inalámbricos- Almizcle'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WC2BNFS/?tag=tolees-21'
 descuento: '34.20'
 average: '189.52375'

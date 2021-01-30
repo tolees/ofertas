@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'XINYUNEW Funda Huawei Mate 20 Lite  360 Grados Protective+Pantalla de Vidrio Templado Caso Carcasa Case Cover Skin móviles telefonía Carcasas Fundas para Huawei Mate 20 Lite-Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JKXMMKJ/?tag=tolees-21'
 descuento: '67.76'
 average: '9.99'

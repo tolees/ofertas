@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'ERIK - Calendario de pared 2020 La Casa de Papel  30 x 30 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XB7B3HS/?tag=tolees-21'
 descuento: '49.95'
 average: '5.0'

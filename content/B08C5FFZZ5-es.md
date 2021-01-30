@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Sandalia Plataforma para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08C5FFZZ5/?tag=tolees-21'
 descuento: '40.00'
 average: '41.4'

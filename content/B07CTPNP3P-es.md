@@ -16,6 +16,7 @@ comparePrice: 6.11 EUR
 prodname: 'FIND - Camouflaged Pink  Perfilador de labios n.7 + Líquido de labios brillante n.7 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CTPNP3P/?tag=tolees-21'
 descuento: '53.36'
 average: '2.85'

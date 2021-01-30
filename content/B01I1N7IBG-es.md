@@ -16,6 +16,7 @@ comparePrice: 57.49 EUR
 prodname: 'Adidas Sneakers  Zapatillas para Hombre  Negro  Core Black/Blue/Footwear White 0   44 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01I1N7IBG/?tag=tolees-21'
 descuento: '33.92'
 average: '37.99'

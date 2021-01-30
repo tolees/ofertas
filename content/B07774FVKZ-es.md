@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Tommy Jeans Hombre Original Slim Fit Chino Pantalones  Azul  Navy Blazer 416   W27/L32'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07774FVKZ/?tag=tolees-21'
 descuento: '32.12'
 average: '64.49'

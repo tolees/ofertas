@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'SaponinTree Humidificador Aromaterapia Ultrasónico  550ML Portátil Difusor de Aceites Esenciales  7 Color Luz Cambiado  Auto-Apagado  para Hogar  Oficina  Bebé  Dormitorio  Bebé etc'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XYY6PCD/?tag=tolees-21'
 descuento: '68.37'
 average: '24.99'

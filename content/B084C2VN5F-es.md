@@ -16,6 +16,7 @@ comparePrice: 121.0 EUR
 prodname: 'DYNASONIC - Dynapro8 TWS - Altavoz Inalámbrico Sistema Audio Profesional Megafonia Portátil | Tecnología TWS Lector USB Bluetooth Radio FM y Micrófonos  Color Negro 8 Pulgadas …'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084C2VN5F/?tag=tolees-21'
 descuento: '26.45'
 average: '89.0'

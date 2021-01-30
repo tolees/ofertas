@@ -16,6 +16,7 @@ comparePrice: 37.49 EUR
 prodname: 'ROC Pro Correct - Fluido Anti Arrugas  Rejuvenecedor  40 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CUEH2MW/?tag=tolees-21'
 descuento: '44.44'
 average: '16.064999999999998'

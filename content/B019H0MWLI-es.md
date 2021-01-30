@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Calzoncillo de carreras para hombre  traje de baño HEAD  azul  Claro  LB   7 DE  tamaño del fabricante: 52 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B019H0MWLI/?tag=tolees-21'
 descuento: '58.54'
 average: '14.74'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Tarjeta Micro SD 1024GB de alta velocidad Clase 10 Micro SD SDXC tarjeta con adaptador  1024gb '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08JCKBCDQ/?tag=tolees-21'
 descuento: '53.32'
 average: '14.0'

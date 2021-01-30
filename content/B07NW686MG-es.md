@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Skechers Summits-Lovely Sky  Zapatillas para Mujer  Negro  Black Knit/Pink Trim BKHP   38.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NW686MG/?tag=tolees-21'
 descuento: '30.12'
 average: '38.4'

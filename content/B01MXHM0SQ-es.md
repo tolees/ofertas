@@ -16,6 +16,7 @@ comparePrice: 220.0 EUR
 prodname: 'Oral-B Genius 8900 – Cepillo de dientes eléctrico con 2ª mango'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MXHM0SQ/?tag=tolees-21'
 descuento: '34.63'
 average: '138.88'

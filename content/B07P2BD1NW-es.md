@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Superdry OL Elite Joggers Pantalones de Deporte  Negro  Black 02a   XS  Talla del Fabricante:8  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P2BD1NW/?tag=tolees-21'
 descuento: '48.58'
 average: '35.99'

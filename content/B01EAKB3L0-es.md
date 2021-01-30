@@ -16,6 +16,7 @@ comparePrice: 14.9 EUR
 prodname: 'Toshiba Exceria M302-EA - Tarjeta de memoria  MicroSDHC  32 GB  UHS-I  Class 10   color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EAKB3L0/?tag=tolees-21'
 descuento: '31.07'
 average: '9.533333333333333'

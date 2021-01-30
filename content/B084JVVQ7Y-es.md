@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'GRÜNTEK Tijera Recoletora de podar Yunque con Trinquete. Cortarramas Profesional CÓNDOR 20cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084JVVQ7Y/?tag=tolees-21'
 descuento: '30.84'
 average: '15.9'

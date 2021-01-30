@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'XSQUO Useful Tech Plancha DE Vapor 2 EN 1 INALAMBRICA O con Cable 2.200W Suela CERÁMICA. Vapor Vertical Y Horizontal. AIRVAPORE Plus'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078WVW57C/?tag=tolees-21'
 descuento: '35.47'
 average: '31.834999999999997'

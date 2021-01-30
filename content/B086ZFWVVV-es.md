@@ -16,6 +16,7 @@ comparePrice: 7.89 EUR
 prodname: 'Artibetter 10 Piezas Máscara Extensión Gancho Boca Máscara Oreja Bucles Ajuste Hebilla Oreja Agarres Espalda Máscara Cable de La Oreja Alivio Dolor de Oído para La Cubierta de La Cara  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086ZFWVVV/?tag=tolees-21'
 descuento: '54.63'
 average: '3.58'

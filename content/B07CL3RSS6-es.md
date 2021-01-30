@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Auriculares Bluetooth  Arbily Auriculares Inalámbricos Auriculares Manos Libres con Microfono y Cancelación de Ruido IPX5 Auriculares estéreo inalámbricos a Prueba de Agua con Caja de Carga'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CL3RSS6/?tag=tolees-21'
 descuento: '56.68'
 average: '34.79'

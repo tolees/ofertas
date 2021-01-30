@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: '3 en 1 Lámpara LED de Mesa  YZCX Lámpara Táctil con Altavoz Bluetooth  Multicolor Lámparas de Escritorio con Reloj Despertador  Lámparas Mesita de Noche para Habitaciones'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078YL7DZ4/?tag=tolees-21'
 descuento: '55.72'
 average: '30.99'

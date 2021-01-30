@@ -16,6 +16,7 @@ comparePrice: 9.68 EUR
 prodname: 'Artémio-Perforadora de esquinas-Croissant-25 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BDQA65Y/?tag=tolees-21'
 descuento: '37.50'
 average: '6.05'

@@ -16,6 +16,7 @@ comparePrice: 34.42 EUR
 prodname: 'Skechers Solar Fuse - Lite Joy  Zapatillas para Mujer  Negro Negro Blanco Knit Mesh Trim BKW  41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VWXHR84/?tag=tolees-21'
 descuento: '27.60'
 average: '29.3525'

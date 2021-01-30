@@ -16,6 +16,7 @@ comparePrice: 25.9 EUR
 prodname: '3 x 10 original Bosch Siemens Neff Gaggenau pastillas de limpieza'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BQYKW98/?tag=tolees-21'
 descuento: '36.87'
 average: '16.35'

@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'find. Alto HS01 Mocasines  Azul  Navy Navy   39'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TGKF94D/?tag=tolees-21'
 descuento: '37.32'
 average: '31.34'

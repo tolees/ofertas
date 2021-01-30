@@ -16,6 +16,7 @@ comparePrice: 9.0 EUR
 prodname: 'Schwarzkopf Gliss - Reparador de puntas Ultimate Repair  2 unidades - 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NRTD77M/?tag=tolees-21'
 descuento: '27.78'
 average: '6.663333333333333'

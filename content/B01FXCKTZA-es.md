@@ -16,6 +16,7 @@ comparePrice: 18.0 EUR
 prodname: 'CESTA ORGANIZACION DE COCINA - 2 unidades - INTERKITCHEN©'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FXCKTZA/?tag=tolees-21'
 descuento: '30.56'
 average: '12.5'

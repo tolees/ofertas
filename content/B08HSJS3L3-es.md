@@ -16,6 +16,7 @@ comparePrice: 50.95 EUR
 prodname: 'BRICOMIRAS JAMONERO Modelo BANQUETA Color Natural  Regalo Pinzas Arcos INOXIDABLES  Cuchillo  CHAIRA  PAÑO Y CUBREJAMÓN'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08HSJS3L3/?tag=tolees-21'
 descuento: '33.37'
 average: '33.95'

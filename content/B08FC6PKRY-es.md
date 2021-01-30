@@ -16,6 +16,7 @@ comparePrice: 5.83 EUR
 prodname: 'Longspeed A5 Draw with Light Fun Tablero de Dibujo Tablero Luminoso Pizarra mágica Brillante para niños Pintura de Graffiti Tablero de Dibujo para niños - Aleatorio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FC6PKRY/?tag=tolees-21'
 descuento: '33.45'
 average: '3.88'

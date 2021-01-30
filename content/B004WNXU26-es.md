@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Merrell Choprock Leather Shandal  Zapatillas Impermeables para Hombre  Azul  Navy   43.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004WNXU26/?tag=tolees-21'
 descuento: '66.43'
 average: '40.28'

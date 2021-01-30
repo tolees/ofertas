@@ -16,6 +16,7 @@ comparePrice: 10.0 EUR
 prodname: 'Pop! Figura de Vinilo: Música: The Struts - Luke Spiller'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P82MVJ7/?tag=tolees-21'
 descuento: '33.30'
 average: '6.67'

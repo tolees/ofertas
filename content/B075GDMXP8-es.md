@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Pioneer SE-E7BT-Y - Auricular Deportivo con Bluetooth  Color Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075GDMXP8/?tag=tolees-21'
 descuento: '33.57'
 average: '52.8675'

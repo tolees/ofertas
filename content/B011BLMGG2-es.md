@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Tribe Los Minions Despicable Me Egyptian - Memoria USB 2.0 de 8 GB Pendrive Flash Drive de Goma con Llavero  Color Amarillo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B011BLMGG2/?tag=tolees-21'
 descuento: '54.38'
 average: '8.013333333333334'

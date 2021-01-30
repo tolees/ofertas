@@ -16,6 +16,7 @@ comparePrice: 104.42 EUR
 prodname: 'Laguiole 6050/51 - Cuchillo de carne'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JJ64QX4/?tag=tolees-21'
 descuento: '29.97'
 average: '73.13'

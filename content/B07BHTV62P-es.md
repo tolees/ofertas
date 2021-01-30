@@ -16,6 +16,7 @@ comparePrice: 26.95 EUR
 prodname: 'Mr Wonderful Funda Portátil/PC 13.3" Pulgadas - con Diseño Teclas de Color Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BHTV62P/?tag=tolees-21'
 descuento: '63.01'
 average: '9.97'

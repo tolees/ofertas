@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Jack & Jones Jorfame Crew Neck Suéter  Azul  Sunflower Fit: Knit Fit Gradient   S para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W5VPBN3/?tag=tolees-21'
 descuento: '73.91'
 average: '9.135'

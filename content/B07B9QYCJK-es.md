@@ -16,6 +16,7 @@ comparePrice: 14.04 EUR
 prodname: 'True Instinct No Grain Mini Paté de Buey para Perros 150 gr - Pack de 8'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B9QYCJK/?tag=tolees-21'
 descuento: '28.85'
 average: '9.99'

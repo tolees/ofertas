@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Russell Hobbs Light & Easy Brights - Plancha de Ropa de Vapor  2400W  Suela de Cerámica  Amarillo Mango  -ref. 24800-56'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074H5LYTZ/?tag=tolees-21'
 descuento: '49.50'
 average: '26.585'

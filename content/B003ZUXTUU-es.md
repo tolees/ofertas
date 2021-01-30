@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Casio Reloj de Pulsera W-S210H-1AVEF'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003ZUXTUU/?tag=tolees-21'
 descuento: '28.52'
 average: '35.67'

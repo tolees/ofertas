@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Columbia Sun Ridge Polo  Hombre  Azul  Blue Sky   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KRSFLXS/?tag=tolees-21'
 descuento: '54.39'
 average: '20.061666666666667'

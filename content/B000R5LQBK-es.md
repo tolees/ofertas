@@ -16,6 +16,7 @@ comparePrice: 15.85 EUR
 prodname: 'Bosch Professional 2607010146 Bosch 2607010146-Cuchilla de Sierra caladora  Pack  Set de 10 Piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000R5LQBK/?tag=tolees-21'
 descuento: '33.82'
 average: '9.655000000000001'

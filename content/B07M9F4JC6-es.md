@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Cojín Almohada LED Estrella  laamei Felpa Juguetes Muñecas Decorativo con Forma de Estrella Luminoso Almohadas Cojines Infantiles Luz Nocturna para Ñiños y Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M9F4JC6/?tag=tolees-21'
 descuento: '67.03'
 average: '6.59'

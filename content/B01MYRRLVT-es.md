@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Soehnle Style Sense Safe 300 - Bascula de bano  color gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MYRRLVT/?tag=tolees-21'
 descuento: '47.84'
 average: '20.865000000000002'

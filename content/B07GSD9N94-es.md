@@ -16,6 +16,7 @@ comparePrice: 149.95 EUR
 prodname: 'Einhell HEROCCO Martillo perforador inalámbrico  no Incluye batería  18 V  Negro  Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GSD9N94/?tag=tolees-21'
 descuento: '33.38'
 average: '99.9'

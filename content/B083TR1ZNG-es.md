@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'flintronic Fresas Set  15 PCS Cortadores Caja de plastico de Diámetro de Caña Herramienta de Fresado  Kit de herramientas de carpintería con caja de madera para el hogar y bricolaje'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083TR1ZNG/?tag=tolees-21'
 descuento: '36.68'
 average: '18.99'

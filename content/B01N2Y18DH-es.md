@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'Intex 56265NP - Rueda hinchable Donut de fresa 107 x 99 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N2Y18DH/?tag=tolees-21'
 descuento: '31.66'
 average: '7.113333333333332'

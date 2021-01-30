@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Columbia Meadows Slip-On Omni-Heat  Botas Bajas para Mujer  Negro  HEA-Black  Dark STO   38 1/2 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0787GLP3X/?tag=tolees-21'
 descuento: '50.04'
 average: '59.95'

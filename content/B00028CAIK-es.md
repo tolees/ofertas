@@ -16,6 +16,7 @@ comparePrice: 12.1 EUR
 prodname: 'StarTech SCREW6-32 - Tornillos de fijación para PCs  pack de 50 unidades '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00028CAIK/?tag=tolees-21'
 descuento: '30.74'
 average: '8.38'

@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'TECLADO BLUETOOTH UNIVERSAL BLANCO'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076CLL9TL/?tag=tolees-21'
 descuento: '51.76'
 average: '11.09'

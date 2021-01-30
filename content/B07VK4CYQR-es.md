@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'Auriculares inalámbricos Verdaderos Bluetooth 5.0  Estuche de Carga con luz de Limpieza UV  Auriculares estéreo HiFi de Graves Profundos 6D TWS  Auriculares estéreo internos Impermeables Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VK4CYQR/?tag=tolees-21'
 descuento: '38.80'
 average: '29.99'

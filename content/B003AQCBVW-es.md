@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Birkenstock Boston 160583 - Zapatillas de casa de fieltro  Unisex  Gris  Anthrazite Wool   39 S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003AQCBVW/?tag=tolees-21'
 descuento: '28.73'
 average: '57.02'

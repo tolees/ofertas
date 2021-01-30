@@ -16,6 +16,7 @@ comparePrice: 185.0 EUR
 prodname: 'Lacoste 2000987 - Reloj analógico de pulsera para mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NBRBI1K/?tag=tolees-21'
 descuento: '34.06'
 average: '111.25999999999999'

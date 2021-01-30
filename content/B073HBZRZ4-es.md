@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Maybelline New York - Superstay Matte Ink  Pintalabios Mate de Larga Duración  Tono 30 Romantic Color Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073HBZRZ4/?tag=tolees-21'
 descuento: '60.86'
 average: '6.012499999999999'

@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Armor Lux Penmarch Impermeable  Azul  Navire 300   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NVVH4C3/?tag=tolees-21'
 descuento: '66.79'
 average: '29.56'

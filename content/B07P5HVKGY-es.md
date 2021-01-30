@@ -16,6 +16,7 @@ comparePrice: 289.95 EUR
 prodname: 'Gb Gold Pockit+ All-City 619000245 Silla de Paseo  6 meses hasta 17 kg  Approx. 4 Años   Beige  Vanilla 2019 Fashion Collection '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P5HVKGY/?tag=tolees-21'
 descuento: '27.58'
 average: '209.99'

@@ -16,6 +16,7 @@ comparePrice: 74.95 EUR
 prodname: 'Puma Future Runner Premium  Zapatillas Unisex Adulto  Blanco  Puma White-Puma Black 04   40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG68YSQ/?tag=tolees-21'
 descuento: '53.37'
 average: '34.95'

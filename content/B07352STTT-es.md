@@ -16,6 +16,7 @@ comparePrice: 104.22 EUR
 prodname: 'Tenscare Sports Tens 2+ Paquete de 12 Electrodos - Dispositivo de electroestimulación con Masaje  TENS  EMS y programas manuales. Para alivio del dolor  tonificación y relajación muscular.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07352STTT/?tag=tolees-21'
 descuento: '25.54'
 average: '77.6'

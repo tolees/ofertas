@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance 997h  Zapatillas para Mujer  Gris  Grey/Blue HAP   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RZLZ54W/?tag=tolees-21'
 descuento: '59.14'
 average: '41.160000000000004'

@@ -16,6 +16,7 @@ comparePrice: 54.6 EUR
 prodname: 'Pepe Jeans London Porter Boot  Botas Desert para Hombre  Tan 869  42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZQPWZY/?tag=tolees-21'
 descuento: '30.24'
 average: '38.09'

@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Naipo Masajeador de Cuello y Hombros Clásico Shiatsu Masajeador Cervical con Intensidad Regulable y Función de Calor para Aliviar Tensión y Dolores Musculares en Casa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LS9FC36/?tag=tolees-21'
 descuento: '37.50'
 average: '51.82333333333333'

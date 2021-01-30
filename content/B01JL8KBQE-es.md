@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'POP! Bobble - Marvel: Doctor Strange: Kaecilius'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JL8KBQE/?tag=tolees-21'
 descuento: '33.36'
 average: '9.99'

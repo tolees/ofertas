@@ -16,6 +16,7 @@ comparePrice: 40.7 EUR
 prodname: 'Symiu Juegos de Mesa Niñas Juego de Pesca Música Ajustable Juegos Educativos Regalo para Niños 3 4 5 6 Años con 45 Peces de Juguete'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TB52GSZ/?tag=tolees-21'
 descuento: '50.88'
 average: '19.99'

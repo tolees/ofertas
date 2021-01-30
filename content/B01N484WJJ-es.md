@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'POP! Vinilo - Kingdom Hearts: Pete'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N484WJJ/?tag=tolees-21'
 descuento: '35.36'
 average: '8.205'

@@ -16,6 +16,7 @@ comparePrice: 53.99 EUR
 prodname: 'BRIKSMAX Kit de Iluminación Led para Lego Star Wars Snowspeeder Compatible con Ladrillos de Construcción Lego Modelo 75259  Juego de Legos no Incluido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XQRPH1B/?tag=tolees-21'
 descuento: '55.57'
 average: '27.336153846153845'

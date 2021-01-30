@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Rowenta Skin Spirit EP2910 - Depiladora de 2 velocidades con sistema anti dolor de 24 pinzas  cepillo limpiador  accesorio para zonas sensibles y bolsita de viaje'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079TGLPQF/?tag=tolees-21'
 descuento: '26.69'
 average: '34.516666666666666'

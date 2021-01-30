@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'LUDOS Clamor Auriculares con Micrófono y Cable  Cascos Espuma de Memoria  Cable Reforzado  Graves y Control de Volumen Earphones para Mi  Xiaomi  iPhone  Samsung  Huawei  Ordenador  Portátil  PC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VS7GBLC/?tag=tolees-21'
 descuento: '43.43'
 average: '16.956'

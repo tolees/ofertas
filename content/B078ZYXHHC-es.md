@@ -16,6 +16,7 @@ comparePrice: 20.76 EUR
 prodname: 'TRESemmé Champú Liso y Sedoso - Paquete de 4 x 900 ml - Total: 3600 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078ZYXHHC/?tag=tolees-21'
 descuento: '39.31'
 average: '13.124999999999998'

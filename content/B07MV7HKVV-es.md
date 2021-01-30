@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Pekebaby 01111370000 - Saco entretiempo universal impermeable  niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MV7HKVV/?tag=tolees-21'
 descuento: '55.38'
 average: '29.0'

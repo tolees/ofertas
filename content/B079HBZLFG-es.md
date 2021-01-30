@@ -16,6 +16,7 @@ comparePrice: 124.99 EUR
 prodname: 'Philips Sonicare ProtectiveClean HX6856/17 - Cepillo de dientes eléctrico recargable con 2 cabezales de Cuidado de las encías  3 modos de limpieza  2 cabezales y estuche de viaje  cargador  rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079HBZLFG/?tag=tolees-21'
 descuento: '25.60'
 average: '90.10499999999999'

@@ -16,6 +16,7 @@ comparePrice: 28.7 EUR
 prodname: 'Continental Grand Sport Race  Cubierta  Unisex  Negro  700 x 25'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00G9AN10Q/?tag=tolees-21'
 descuento: '28.61'
 average: '20.49'

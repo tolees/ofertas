@@ -16,6 +16,7 @@ comparePrice: 21.9 EUR
 prodname: 'Biotherm Biocils Anti-Chute Desmaquillante - 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BLHP4HY/?tag=tolees-21'
 descuento: '35.21'
 average: '14.19'

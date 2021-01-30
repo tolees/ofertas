@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Tommy Hilfiger 1985 Straight Mmst Jeans  Azul  Denim 911   95  Talla del Fabricante: 80  para Bebés'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JYLF1V2/?tag=tolees-21'
 descuento: '57.11'
 average: '21.4'

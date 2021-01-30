@@ -16,6 +16,7 @@ comparePrice: 16.0 EUR
 prodname: 'Bourjois  Sombra de ojos  Tono: 004 Insaisissa  - 42 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P5FCDHZ/?tag=tolees-21'
 descuento: '62.81'
 average: '5.95'

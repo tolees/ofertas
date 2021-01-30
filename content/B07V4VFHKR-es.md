@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'flintronic Medidor de Contornos  5"/127MM Herramienta de Medición de Perfil Irregular  para la medición precisa de baldosas en madera laminada Marcado  RED '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V4VFHKR/?tag=tolees-21'
 descuento: '25.03'
 average: '7.49'

@@ -16,6 +16,7 @@ comparePrice: 5.72 EUR
 prodname: 'Trixie 1571260031 - Pala p/lecho bandejas granulado silice Col.surt.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000WFFSLE/?tag=tolees-21'
 descuento: '63.11'
 average: '2.11'

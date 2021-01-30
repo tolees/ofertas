@@ -16,6 +16,7 @@ comparePrice: 4.2 EUR
 prodname: '4 pcs Caja para Guardar Mas/carillas - Estuche Rectangular para Almacenar Más/caras Organizador Portátil Plástico Duro para Mas/carillas Desechables Ligero y Reutilizable Protege Suciedad y Polvo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08GQ5MDMS/?tag=tolees-21'
 descuento: '26.67'
 average: '3.64'

@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Skechers Men s Bounder Trainers  Red  Burgundy Burgundy   6.5 UK  40 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J5HTH7D/?tag=tolees-21'
 descuento: '40.03'
 average: '35.95'

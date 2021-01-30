@@ -16,6 +16,7 @@ comparePrice: 260.0 EUR
 prodname: 'Guess Piumino Modello Histy W94L85 WC4V0 G72G W94L85 WC4V0 M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YXYR78Y/?tag=tolees-21'
 descuento: '42.69'
 average: '149.0'

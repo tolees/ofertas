@@ -16,6 +16,7 @@ comparePrice: 15.07 EUR
 prodname: 'La Couronne de Paille  The Puppet Crown '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JDOLI4G/?tag=tolees-21'
 descuento: '64.96'
 average: '5.28'

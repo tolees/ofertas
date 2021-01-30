@@ -16,6 +16,7 @@ comparePrice: 38.99 EUR
 prodname: 'Oral-B CrossAction Cabezal de Recambio 8+2 uds. Extra  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00L5M26DQ/?tag=tolees-21'
 descuento: '33.34'
 average: '26.2162962962963'

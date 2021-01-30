@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Pendientes Colgantes Diseño Flor de Verano Multicolor para Señora Para Las Vacaciones'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079GNMMQ2/?tag=tolees-21'
 descuento: '28.01'
 average: '17.99'

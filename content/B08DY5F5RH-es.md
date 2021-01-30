@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Rollo de papel de regalo navideño Multipack 6 hojas de papel dobladas para familia  niños  amigos  niñas  niños  cumpleaños  Halloween  fiestas  cajas de regalo  70 x 50 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DY5F5RH/?tag=tolees-21'
 descuento: '25.02'
 average: '11.99'

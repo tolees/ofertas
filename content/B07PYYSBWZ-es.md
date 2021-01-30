@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Under Armour UA W Charged Rogue 2  Zapatillas de Running para Mujer  Negro  Black/Black/Black   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PYYSBWZ/?tag=tolees-21'
 descuento: '47.89'
 average: '41.66'

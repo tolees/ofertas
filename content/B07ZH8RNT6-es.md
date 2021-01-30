@@ -16,6 +16,7 @@ comparePrice: 47.5 EUR
 prodname: 'Lubricante Intimo a Base de Agua Natural lubricante - 250 Ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZH8RNT6/?tag=tolees-21'
 descuento: '78.97'
 average: '9.99'

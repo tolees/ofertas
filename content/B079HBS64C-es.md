@@ -16,6 +16,7 @@ comparePrice: 8.5 EUR
 prodname: 'Philips Avent SCF343/20 - Pack con 2 chupetes Ultra Air decorados  de 0 A 6 meses  niña'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079HBS64C/?tag=tolees-21'
 descuento: '42.35'
 average: '5.656666666666667'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Nakiri cuchillo de cocinero Cuchillo profesional Cuchillo de cocina 17.5 cm Cuchillo universal Acero inoxidable alemán Cuchilla extra afilada con mango ergonómico Embalaje de regalo exquisito'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BZ7MR8X/?tag=tolees-21'
 descuento: '25.01'
 average: '29.99'

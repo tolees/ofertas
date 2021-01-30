@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Just Dance 2019'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DRXG21F/?tag=tolees-21'
 descuento: '27.71'
 average: '28.405'

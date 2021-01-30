@@ -16,6 +16,7 @@ comparePrice: 34.9 EUR
 prodname: 'Bisoo - Toalla Bebe con Capucha - Set de Baño 4 Piezas con Capa de Baño 80x80 cm y 3 Paños 30x30 cm - 100% Algodón Turco - Regalo Original Recien Nacido Embarazada Baby Shower  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08KPMHPGS/?tag=tolees-21'
 descuento: '48.71'
 average: '17.9'

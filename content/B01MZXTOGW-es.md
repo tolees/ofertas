@@ -16,6 +16,7 @@ comparePrice: 18.71 EUR
 prodname: 'NIZZIN Fenna  Pullover Manga Larga Mujer  Gris  Light Grey Melange   Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MZXTOGW/?tag=tolees-21'
 descuento: '59.97'
 average: '7.49'

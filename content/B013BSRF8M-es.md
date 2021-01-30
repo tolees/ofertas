@@ -16,6 +16,7 @@ comparePrice: 11.34 EUR
 prodname: 'Essie Nail Número Laca 203A  Cocktail Bling 13 5 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013BSRF8M/?tag=tolees-21'
 descuento: '71.87'
 average: '3.19'

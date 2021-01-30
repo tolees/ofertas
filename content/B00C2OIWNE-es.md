@@ -16,6 +16,7 @@ comparePrice: 18.52 EUR
 prodname: 'Arnold 1194-X1-0030 - Juego de limas  para afilar sierras de cadena  empaquetado en rollo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00C2OIWNE/?tag=tolees-21'
 descuento: '34.77'
 average: '12.08'

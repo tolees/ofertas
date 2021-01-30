@@ -16,6 +16,7 @@ comparePrice: 6.9 EUR
 prodname: 'Brabantia 363603 Cucharón sopero  Acero Inoxidable  Gris y Negro  0 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000RE3OMA/?tag=tolees-21'
 descuento: '26.23'
 average: '5.19'

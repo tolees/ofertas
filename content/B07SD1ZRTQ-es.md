@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Playtex Sujetador C/A Absolute Lift Aros  Beige  Piel 313   95  Tamaño del Fabricante:95B  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SD1ZRTQ/?tag=tolees-21'
 descuento: '78.52'
 average: '8.57'

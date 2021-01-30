@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'STAR WARS Pijamas para Niños 2 Paquetes La Guerra de Las Galaxias 5-6 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JGPQ4SG/?tag=tolees-21'
 descuento: '48.10'
 average: '12.95'

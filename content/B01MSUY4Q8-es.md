@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'Helly Hansen W Pier 2 Pant  Mujer  Ebony  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MSUY4Q8/?tag=tolees-21'
 descuento: '44.33'
 average: '70.48'

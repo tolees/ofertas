@@ -16,6 +16,7 @@ comparePrice: 7.75 EUR
 prodname: 'Nuby NT67744 - Pack 50 bolsas preesterilizadas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009NI6EQ4/?tag=tolees-21'
 descuento: '70.97'
 average: '2.25'

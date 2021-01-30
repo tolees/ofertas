@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Sellador de Silicona  Bst4U Aplicador de Pegamento y Removedor de Pegamento Esquinas Interiores  Herramienta de Eliminación de Sellador de Múltiples ángulos para Baño  Cocina  Esquina del Piso  10PCS '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FR1TGNZ/?tag=tolees-21'
 descuento: '52.66'
 average: '8.99'

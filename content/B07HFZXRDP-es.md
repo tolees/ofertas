@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'New Balance 420  Zapatillas para Mujer  Negro  Black Black   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HFZXRDP/?tag=tolees-21'
 descuento: '47.13'
 average: '42.3'

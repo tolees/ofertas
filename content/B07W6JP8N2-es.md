@@ -16,6 +16,7 @@ comparePrice: 73.22 EUR
 prodname: 'Logitech G502 HERO Ratón Gaming con Cable Alto Rendimiento  Sensor HERO16K  16 000 DPI  RGB  Peso Personalizable  11 Botones Programables  Memoria Integrada  PC/Mac - Versión Allemana - Blanco y Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W6JP8N2/?tag=tolees-21'
 descuento: '28.99'
 average: '61.755'

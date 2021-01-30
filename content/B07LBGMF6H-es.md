@@ -16,6 +16,7 @@ comparePrice: 16.0 EUR
 prodname: 'FOGAWA 2 Pcs Paño de Queso Cucina Telas Filtrantes de Algodón Tela Quesera Reutilizable para Hacer Queso Mantequilla Colar Leche Jugo Decoracion 95 x 95cm Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBGMF6H/?tag=tolees-21'
 descuento: '37.56'
 average: '9.99'

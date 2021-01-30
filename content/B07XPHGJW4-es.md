@@ -16,6 +16,7 @@ comparePrice: 14.25 EUR
 prodname: 'Jack & Jones Jcopolar Sweat Half Zip Capucha  Verde  Forest Nightreg   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XPHGJW4/?tag=tolees-21'
 descuento: '26.25'
 average: '12.066666666666666'

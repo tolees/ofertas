@@ -16,6 +16,7 @@ comparePrice: 4.87 EUR
 prodname: 'Tirol Nuevo Espejo ajustable para el asiento trasero del automóvil Bebé mirando hacia atrás Vista trasera del reposacabezas Montura del espejo cuadrado Seguridad para bebés Monitor para niños - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZRJH2JM/?tag=tolees-21'
 descuento: '32.03'
 average: '3.31'

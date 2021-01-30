@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Russell Hobbs Mix & Go - Batidora de Vaso Individual  300 W  Batidora Smoothies  Sin BPA  Blanco y Verde  2 vasos de 600 ml y 2 tubos refrigeradores  - ref. 21350-56'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IJOFQBM/?tag=tolees-21'
 descuento: '32.51'
 average: '24.177500000000002'

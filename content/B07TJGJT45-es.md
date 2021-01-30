@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Superdry International Chino Short Pantalones Cortos  Azul  Neptune Blue Aky   58  Talla del Fabricante: 38  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJGJT45/?tag=tolees-21'
 descuento: '55.36'
 average: '26.78'

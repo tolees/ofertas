@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'adidas N-5923  Zapatillas de Gimnasia para Hombre  Gris  Grey Six/Core Black/Ftwr White   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JZ4XKP8/?tag=tolees-21'
 descuento: '67.40'
 average: '38.065'

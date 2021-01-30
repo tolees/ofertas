@@ -16,6 +16,7 @@ comparePrice: 10.9 EUR
 prodname: 'Banana Boat KIDS Advanced Protection - Crema solar en spray para niños que hidrata la piel y la protege de los rayos UVA/UVB SPF 50  220 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071ZFVQYB/?tag=tolees-21'
 descuento: '35.87'
 average: '7.49'

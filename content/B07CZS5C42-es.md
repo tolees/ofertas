@@ -16,6 +16,7 @@ comparePrice: 15.5 EUR
 prodname: 'ADERMA Limpieza Personal 1 Unidad 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZS5C42/?tag=tolees-21'
 descuento: '29.03'
 average: '11.0'

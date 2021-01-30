@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Superdry Classic Lite Micro Pique Polo  Amarillo  Sulphur Yellow 22k   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P16DCLZ/?tag=tolees-21'
 descuento: '62.45'
 average: '18.77'

@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'BRIKSMAX Kit de Iluminación Led para Lego Super Heroes Iron Man Sala de Armaduras  Compatible con Ladrillos de Construcción Lego Modelo 76125  Juego de Legos no Incluido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TVMWXG7/?tag=tolees-21'
 descuento: '62.01'
 average: '37.99'

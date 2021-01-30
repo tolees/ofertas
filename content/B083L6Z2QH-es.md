@@ -16,6 +16,7 @@ comparePrice: 25.39 EUR
 prodname: 'Ballet Girl Night Light para Niños  Luces de Lámpara de Ilusión 3D  Lámpara de Noche Cambiante de 16 Colores  Regalos de Vacaciones y Cumpleaños para Niños  Niñas y Adultos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083L6Z2QH/?tag=tolees-21'
 descuento: '40.96'
 average: '14.99'

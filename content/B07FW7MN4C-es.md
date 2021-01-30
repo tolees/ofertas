@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'SD Toys- Data Llavero Cabezon Goma Pokis The Goonies Blister  Multicolor  SDTWRN21305    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FW7MN4C/?tag=tolees-21'
 descuento: '57.29'
 average: '4.25'

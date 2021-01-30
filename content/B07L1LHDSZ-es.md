@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Vicloon Babero de Bebé del Silicona 2pcs Baberos Reutilizables Impermeable súper suave Fáciles de Lavar Babero Alimenticio de Silicona para Bebé Niño o Niña Par de 2 Colores  Rosa/Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L1LHDSZ/?tag=tolees-21'
 descuento: '38.60'
 average: '8.59'

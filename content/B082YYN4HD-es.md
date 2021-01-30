@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'Pistola de Masaje Muscular  Padi Home Masajeador de Músculos de Tejido Profundo con 20 Niveles Ajustables  6 Cabezas de Masaje y Pantalla LCD  Ultra Silenciosos para Relajación Recuperación Fatiga'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082YYN4HD/?tag=tolees-21'
 descuento: '31.25'
 average: '109.99'

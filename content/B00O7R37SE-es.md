@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Komono Reloj Analógico de Cuarzo Unisex con Correa de Acero Inoxidable – KOM-W2350'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00O7R37SE/?tag=tolees-21'
 descuento: '35.02'
 average: '62.52333333333333'

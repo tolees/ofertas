@@ -16,6 +16,7 @@ comparePrice: 74.99 EUR
 prodname: 'Rowenta Premium Care Liss & Curl SF7660F0 - Plancha de pelo con función alisadora y rizadora  recubrimiento de cashmere Keratin con aceite de argán  generador de iones  protección cabello'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LAGXM5M/?tag=tolees-21'
 descuento: '36.00'
 average: '46.06846153846154'

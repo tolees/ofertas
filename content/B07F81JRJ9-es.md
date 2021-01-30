@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Cepillo de pelo de cerda de jabalí  Cepillo de pelo de paleta de mango de bambú natural  que el pelo Brillante Peine de pelo de jabalí redondo grande  para hombres Mujeres Gran bolsa de regalo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F81JRJ9/?tag=tolees-21'
 descuento: '60.02'
 average: '11.99'

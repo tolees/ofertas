@@ -16,6 +16,7 @@ comparePrice: 24.93 EUR
 prodname: 'Fellowes Gel con Canal Health-V - Alfombrilla con reposamuñecas para ratón  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001BTWOJ4/?tag=tolees-21'
 descuento: '51.91'
 average: '11.99'

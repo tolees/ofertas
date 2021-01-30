@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Under Armour UA HOVR Sonic 2  Zapatillas de Running para Hombre  Gris  Wire/Ash Gray/Ash Gray  400  400   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HKK3R6Y/?tag=tolees-21'
 descuento: '25.85'
 average: '88.98'

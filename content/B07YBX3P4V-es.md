@@ -16,6 +16,7 @@ comparePrice: 2.83 EUR
 prodname: 'Ventiladores de 80 mm de fácil instalación 4 LED Azul para computadora Caja de la PC Refrigeración PC CPU Enfriador de refrigeración Ventilador Tipo silencioso Transparente - Transparente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YBX3P4V/?tag=tolees-21'
 descuento: '33.92'
 average: '1.87'

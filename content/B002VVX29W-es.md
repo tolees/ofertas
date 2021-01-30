@@ -16,6 +16,7 @@ comparePrice: 6.5 EUR
 prodname: 'Bourjois Contour Clubbing Delineador de Ojos  Tono 45 Blue remix - 1.20 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002VVX29W/?tag=tolees-21'
 descuento: '44.62'
 average: '3.6'

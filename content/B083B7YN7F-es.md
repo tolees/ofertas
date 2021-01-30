@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'hollylife Utensilio de Cocina 5 Piezas Moderna  Sólidas Espátula Cuchara de Bambú Puro Madera Natural  sin Barnizada'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083B7YN7F/?tag=tolees-21'
 descuento: '35.02'
 average: '12.99'

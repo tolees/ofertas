@@ -16,6 +16,7 @@ comparePrice: 361.25 EUR
 prodname: 'Sapphire Nitro+ Radeon RX 580 4GB GDDR5  Tarjeta Grafica  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071CFN75H/?tag=tolees-21'
 descuento: '49.90'
 average: '214.27'

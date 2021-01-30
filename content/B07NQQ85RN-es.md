@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Gioteck - Cascos TX30+Farcry 5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NQQ85RN/?tag=tolees-21'
 descuento: '48.94'
 average: '42.285000000000004'

@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'ORITO Bateria Externa 26800mAh Power Bank USB C PD18W & QC3.0 Rápido Cargador Portátil Móvil Gran Capacidad con 3 Entradas y 3 Salidas y Pantalla LCD  para Móviles y Tabletas etc'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081CYM7QB/?tag=tolees-21'
 descuento: '50.01'
 average: '29.99'

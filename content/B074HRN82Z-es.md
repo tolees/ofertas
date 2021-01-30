@@ -16,6 +16,7 @@ comparePrice: 199 EUR
 prodname: 'Skagen Reloj Analógico para Hombre de Cuarzo con Correa en Cuero SKT1112'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074HRN82Z/?tag=tolees-21'
 descuento: '38.69'
 average: '122'

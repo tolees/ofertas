@@ -16,6 +16,7 @@ comparePrice: 99 EUR
 prodname: 'Amplificador de voz WinBridge con micrófono con cable Megáfono Clip Amp Altavoz Bluetooth portátil Banco de energía Impermeable para actividades al aire libre  enseñanza  reuniones  etc.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QLRGBD6/?tag=tolees-21'
 descuento: '35.35'
 average: '64'

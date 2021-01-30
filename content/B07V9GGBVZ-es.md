@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Pulsar Reloj de Vestir Inspirado en Diver con Pulsera de Acero Inoxidable PG8293X1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V9GGBVZ/?tag=tolees-21'
 descuento: '51.77'
 average: '60.946666666666665'

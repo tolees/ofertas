@@ -16,6 +16,7 @@ comparePrice: 1.6 EUR
 prodname: 'Faux Gemstones Naturales Colgante de Reiki Puntiagudo Hexagonal sin Cadena'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089SXY8ZC/?tag=tolees-21'
 descuento: '35.00'
 average: '1.04'

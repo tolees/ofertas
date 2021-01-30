@@ -16,6 +16,7 @@ comparePrice: 8.5 EUR
 prodname: 'Leifheit 24055 Sterling - Cuchara para Servir  de Metal'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004JU0EE4/?tag=tolees-21'
 descuento: '49.53'
 average: '4.29'

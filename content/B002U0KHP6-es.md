@@ -16,6 +16,7 @@ comparePrice: 72.0 EUR
 prodname: 'Casio Reloj para Hombre MTD-1053D-1AVES'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002U0KHP6/?tag=tolees-21'
 descuento: '34.18'
 average: '45.894999999999996'

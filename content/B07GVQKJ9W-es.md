@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Belkin Ultra HD  2018  - Cable HDMI de Alta Velocidad  1 m  admite 4K/120 Hz y 8K/60Hz  Compatible con Dolby Vision/HDR 10  transferencias de 48 Gbps'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GVQKJ9W/?tag=tolees-21'
 descuento: '29.67'
 average: '50.945'

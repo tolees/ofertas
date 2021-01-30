@@ -16,6 +16,7 @@ comparePrice: 169.9 EUR
 prodname: 'BLACK+DECKER MT188KB - Taladro percutor y multiherramienta Multievo 18V  incluye 2 baterías de litio 1.5Ah y maletín'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00P2NKR3A/?tag=tolees-21'
 descuento: '25.87'
 average: '125.95'

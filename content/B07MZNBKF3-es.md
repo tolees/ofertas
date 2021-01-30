@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Kickers BONKRO  Botas para Bebés  Azul  Marine 10   18 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZNBKF3/?tag=tolees-21'
 descuento: '80.78'
 average: '13.26'

@@ -16,6 +16,7 @@ comparePrice: 53.99 EUR
 prodname: 'Craft Pro Control Compression Tight Unisex Black Size : M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GBYQZKC/?tag=tolees-21'
 descuento: '31.49'
 average: '36.99'

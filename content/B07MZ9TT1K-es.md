@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Beard Grooming Kit by Benjamin Bernard - Scissors  Oil  Wash  Wooden Comb and Brush Package Set - Natural Skin Moisturizer  Cleanser and Conditioner - Complete Moustache Growth Care Gift Box for Men'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZ9TT1K/?tag=tolees-21'
 descuento: '25.00'
 average: '44.99'

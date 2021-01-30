@@ -16,6 +16,7 @@ comparePrice: 45.76 EUR
 prodname: 'Optimum Nutrition Gold Standard 100% Caseina  Cookies & Cream - 896 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00QMSSHWC/?tag=tolees-21'
 descuento: '41.02'
 average: '28.49'

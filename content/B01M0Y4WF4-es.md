@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: '50 PCS 20 mm Abalorios de madera Natural redonda sin pintar para joyeía o manualidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M0Y4WF4/?tag=tolees-21'
 descuento: '38.04'
 average: '6.19'

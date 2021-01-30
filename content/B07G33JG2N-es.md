@@ -16,6 +16,7 @@ comparePrice: 18.0 EUR
 prodname: 'Toalla Playa Personalizada con Nombre o Texto. Regalo Infantil Toalla niño y niña. Piscina Playa Camping. Varios Diseños y Tamaños. Hadas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G33JG2N/?tag=tolees-21'
 descuento: '30.56'
 average: '12.5'

@@ -16,6 +16,7 @@ comparePrice: 94.12 EUR
 prodname: 'LANGRIA 2xTaburetes de Bar Manhattan Tapizados en Cuero de Imitación  Base y Barra en Acabado Cromado  Altura Ajustable  para Cocina  Bar  Juego de 2 Taburetes  Negros '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MY0SXOP/?tag=tolees-21'
 descuento: '30.00'
 average: '61.935'

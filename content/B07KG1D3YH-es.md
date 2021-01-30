@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'PUMA Future 4.3 Netfit FG/AG Jr  Botas de fútbol Unisex Niños  Glacial Blue-Nrgy Red  28 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG1D3YH/?tag=tolees-21'
 descuento: '49.02'
 average: '33.11'

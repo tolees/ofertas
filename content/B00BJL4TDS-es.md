@@ -16,6 +16,7 @@ comparePrice: 229.0 EUR
 prodname: 'KitchenAid 5KSB5553EOB - Batidora de vaso  con capacidad del tazón de 0.75 l  550 W  220-240 V  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BJL4TDS/?tag=tolees-21'
 descuento: '44.34'
 average: '127.46'

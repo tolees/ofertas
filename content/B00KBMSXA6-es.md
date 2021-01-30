@@ -16,6 +16,7 @@ comparePrice: 11.95 EUR
 prodname: 'Control Nature Preservativos - Pack de 24 preservativos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KBMSXA6/?tag=tolees-21'
 descuento: '45.69'
 average: '7.0704'

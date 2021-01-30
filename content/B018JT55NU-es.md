@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Levi s LEVIS 200SF BRIEF 2P - Calzoncillo Hombre  Azul  light denim 827   Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018JT55NU/?tag=tolees-21'
 descuento: '37.00'
 average: '12.6'

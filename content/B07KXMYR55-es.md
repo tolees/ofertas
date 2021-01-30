@@ -16,6 +16,7 @@ comparePrice: 13.0 EUR
 prodname: 'adidas Mid Cut CRW Sck Socks  Unisex Adulto  White/Black  3942'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KXMYR55/?tag=tolees-21'
 descuento: '25.31'
 average: '9.71'

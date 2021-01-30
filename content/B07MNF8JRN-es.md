@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'UniqueMe Funda para Samsung Galaxy S10e Funda TPU Suave Transparente Delgada Compatible con Samsung Galaxy S10e  Case Suave de Silicona Flexible - Transparente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MNF8JRN/?tag=tolees-21'
 descuento: '90.52'
 average: '1.99'

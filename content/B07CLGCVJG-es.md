@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'COSORI Mantenedor de Café Caliente de Acero Inoxidable para Oficina y Hogar  Pantalla LED  Accesorios para Café  Té  Agua  Cacao  Leche  24 Vatios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CLGCVJG/?tag=tolees-21'
 descuento: '25.01'
 average: '29.99'

@@ -16,6 +16,7 @@ comparePrice: 2.95 EUR
 prodname: 'Suavizante supreme glamour vernel 600ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HJC7X3C/?tag=tolees-21'
 descuento: '66.10'
 average: '1.0'

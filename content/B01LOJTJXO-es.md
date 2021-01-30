@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Hot Chocolate Design Chocolaticas He Loves Me  He Loves Me Not Tacon Mary Jane para Mujeres Multicolor HCD 41'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LOJTJXO/?tag=tolees-21'
 descuento: '67.01'
 average: '32.99'

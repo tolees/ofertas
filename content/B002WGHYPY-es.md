@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Superga 2750 Cotu Classic  Zapatillas Unisex Adulto  Beige Ecru 912  40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002WGHYPY/?tag=tolees-21'
 descuento: '40.68'
 average: '35.879999999999995'

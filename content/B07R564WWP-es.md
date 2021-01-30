@@ -16,6 +16,7 @@ comparePrice: 156.96 EUR
 prodname: 'DlandHome Cama Elastica Ø 152 cm Trampolín Infantil de jardín  con Recinto de Seguridad  Ideal para Interiores y Exteriores  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R564WWP/?tag=tolees-21'
 descuento: '43.27'
 average: '89.04'

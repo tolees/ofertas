@@ -16,6 +16,7 @@ comparePrice: 38.99 EUR
 prodname: 'HONZIN Alicate Multiuso 10-en-1 Alicates Plegables Multiherramienta De Acero Inoxidable Martillo Multifunción Para Acampar Al Supervivencia Exterior'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081Z69MTG/?tag=tolees-21'
 descuento: '48.73'
 average: '19.99'

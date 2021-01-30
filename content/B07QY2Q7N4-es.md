@@ -16,6 +16,7 @@ comparePrice: 9.31 EUR
 prodname: 'Primo Slinky Cuerdas Guitarra Eléctrica Nickel Wound - 9.5-44'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QY2Q7N4/?tag=tolees-21'
 descuento: '25.89'
 average: '6.9'

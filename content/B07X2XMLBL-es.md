@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Sendowtek Wake Up Light  Despertador Luz  Reloj despertador digital con altavoces Bluetooth  despertador para niños con 3 voces naturales  5 luces de colores para dormitorios/Adulto/Regalo/Amigos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X2XMLBL/?tag=tolees-21'
 descuento: '52.86'
 average: '32.99'

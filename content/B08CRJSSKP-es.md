@@ -16,6 +16,7 @@ comparePrice: 32.43 EUR
 prodname: '10A Control remoto inalámbrico inteligente para el hogar Toma de corriente Plug & Play Interruptor de enchufe Wifi de tamaño pequeño para electrodomésticos - Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CRJSSKP/?tag=tolees-21'
 descuento: '35.00'
 average: '21.08'

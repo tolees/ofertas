@@ -16,6 +16,7 @@ comparePrice: 38.99 EUR
 prodname: 'deAO Coche de Muñecas Convertible Conjunto 2en1 Vehículo para Muñecas Incluye Muebles  Accesorios y Muñeca a Medida'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q8RGS6V/?tag=tolees-21'
 descuento: '30.78'
 average: '26.99'

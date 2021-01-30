@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'MyGel by Mylee - Esmalte de uñas en gel de 4 x 10 ml  colores + capa superior y base  UV/LED  manicura y pedicura para uso profesional  salón y hogar  de larga duración y fácil de aplicar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N6FN6N4/?tag=tolees-21'
 descuento: '28.01'
 average: '17.99'

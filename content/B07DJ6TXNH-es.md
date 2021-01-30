@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'New Balance 574S v2  Zapatillas para Mujer  Rosa Cashmere Tea  39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DJ6TXNH/?tag=tolees-21'
 descuento: '51.43'
 average: '46.230000000000004'

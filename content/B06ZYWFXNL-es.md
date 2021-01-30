@@ -16,6 +16,7 @@ comparePrice: 81.9 EUR
 prodname: 'Speedo Teamster 35L Mochilas y Bolsas  Unisex Adulto  navy/red/white  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06ZYWFXNL/?tag=tolees-21'
 descuento: '50.71'
 average: '45.39666666666666'

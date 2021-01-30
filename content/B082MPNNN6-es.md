@@ -16,6 +16,7 @@ comparePrice: 21.95 EUR
 prodname: 'Buff Trucker Cap  Brown  One size womens'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082MPNNN6/?tag=tolees-21'
 descuento: '40.82'
 average: '12.99'

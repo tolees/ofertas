@@ -16,6 +16,7 @@ comparePrice: 38.99 EUR
 prodname: 'Ejercitador de Mano  JUMPFISCH Ejercitador de Mano 3 en 1 con Ejercitador de Mano Ajustable  Anillo de Entrenamiento de Mano  Extensor de Dedo con Bolsa de Malla para rehabilitación de dedos y muñecas  fortalecimiento y entrenamiento de flexibilidad de manos  10-40KG/22-88LB   Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BFTRSNW/?tag=tolees-21'
 descuento: '69.25'
 average: '11.99'

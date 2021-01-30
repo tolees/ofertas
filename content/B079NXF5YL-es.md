@@ -16,6 +16,7 @@ comparePrice: 86.99 EUR
 prodname: 'Hapilife Grifo Cocina Pared 15 CM Plegable Monomando Extraíble Extensible Giratorio de Latón Cromado Para Fregadero Encimera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079NXF5YL/?tag=tolees-21'
 descuento: '39.08'
 average: '52.99'

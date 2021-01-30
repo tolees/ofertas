@@ -16,6 +16,7 @@ comparePrice: 656.0 EUR
 prodname: 'MUEBLES MARIETA OLD STYLE NOW Sofa Beverly 5 plazas Dark Green'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083FVC4ZZ/?tag=tolees-21'
 descuento: '25.00'
 average: '492.0'

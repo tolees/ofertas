@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'RockPet Soporte para Perros con Manija para la Ayuda Canina  Aprobado por los Veterinarios. Arnés para Levantar Perros Durante la Rehabilitación  L Gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BF3S6C2/?tag=tolees-21'
 descuento: '46.70'
 average: '15.99'

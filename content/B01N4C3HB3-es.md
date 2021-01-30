@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Samadoyo taza de té de cristal de borosilicato de alta calidad con de calidad alimentaria sus # 304 infusor filtro  té taza para café de té o té bolsa  resistente al calor  500 ml  LFGB Test.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N4C3HB3/?tag=tolees-21'
 descuento: '25.01'
 average: '14.99'

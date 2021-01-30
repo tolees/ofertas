@@ -16,6 +16,7 @@ comparePrice: 78.99 EUR
 prodname: 'Evfun Estación de Carga USB  Base de Carga 8 Puertos Cargador Smartphone Tablets  Incluido 8 Cables de Carga '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CNHCP39/?tag=tolees-21'
 descuento: '53.17'
 average: '36.99'

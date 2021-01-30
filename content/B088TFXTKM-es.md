@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: '200 almohadillas de filtro desechables  almohadillas internas de filtro de respiración de seguridad  fibra no tejida  hipoalergénicas y transpirables desechables  repuesto para purificar el aire'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088TFXTKM/?tag=tolees-21'
 descuento: '32.13'
 average: '6.78'

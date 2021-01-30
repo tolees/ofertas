@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Magicfun Cojín Lumbar  Soporte para la Espalda Lumbar Soporte para Silla de Oficina Coche corrije la Postura Alivia el Dolor Lumbar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PWMBKR4/?tag=tolees-21'
 descuento: '50.03'
 average: '9.99'

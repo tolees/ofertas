@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'GSOTTA Calcetines premium 10 paquetes  calcetines de negocios para mujeres y hombres  unisex  calcetines de algodón  calcetines de trabajo con una pretina suave  en azul  talla 39-42'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WZNWZY5/?tag=tolees-21'
 descuento: '44.57'
 average: '19.95'

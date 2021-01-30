@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'Kitchen Emperor Cuchillo de Cocina  Cuchillos Damasco  Cuchillos Cocina Profesional de Acero de Damasco 67 Capas con la Manija G10'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078XTLQ3K/?tag=tolees-21'
 descuento: '42.93'
 average: '79.89'

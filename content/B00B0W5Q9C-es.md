@@ -16,6 +16,7 @@ comparePrice: 112.99 EUR
 prodname: 'STANLEY FATMAX FME340K-QS - Sierra de calar 710W  20mm  corte bisel 45°  incluye maletín'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00B0W5Q9C/?tag=tolees-21'
 descuento: '41.98'
 average: '64.7157142857143'

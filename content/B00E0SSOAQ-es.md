@@ -16,6 +16,7 @@ comparePrice: 13.95 EUR
 prodname: 'Repsol RP172X51 Moto Fork Oil 10W Aceite de Motor  1 L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00E0SSOAQ/?tag=tolees-21'
 descuento: '25.02'
 average: '10.41'

@@ -16,6 +16,7 @@ comparePrice: 75 EUR
 prodname: 'Tectonic - Reloj Analógico de Cuarzo unisex  correa de Cuero color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MFQPUDY/?tag=tolees-21'
 descuento: '80.01'
 average: '14.99'

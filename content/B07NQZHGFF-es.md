@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Skechers Flex Advantage 3.0-transvert  Zapatillas para Niños  Negro  Black Textile/Blue & Silver Trim Bkbl   27 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NQZHGFF/?tag=tolees-21'
 descuento: '51.01'
 average: '24.47'

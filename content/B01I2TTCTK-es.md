@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Belkin F2CU038BTBLK - Adaptador de USB-C a HDMI  4k a 60 Hz  resolución 4096 x 2160  Negro  Compatible con iPad Pro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01I2TTCTK/?tag=tolees-21'
 descuento: '36.66'
 average: '38.0'

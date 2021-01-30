@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'A2BC LED Lighting  Bombilla Esférica con Luz Calida  6 W  Paquete de 5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K9VUPF4/?tag=tolees-21'
 descuento: '33.95'
 average: '9.100000000000001'

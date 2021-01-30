@@ -16,6 +16,7 @@ comparePrice: 181.97 EUR
 prodname: 'MAKITA UC4041A Herramienta  1800 W  240 V  Negro  Azul  40cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LIEXSPG/?tag=tolees-21'
 descuento: '30.89'
 average: '125.76'

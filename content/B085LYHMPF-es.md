@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'El Sexto Día  BD  [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085LYHMPF/?tag=tolees-21'
 descuento: '37.45'
 average: '8.663333333333334'

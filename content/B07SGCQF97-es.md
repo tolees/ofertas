@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'KEXIN 64GB Memoria USB 3.0  2 Pendrives de 64GB Alta Velocidad hasta 80MB/s Memoria Flash Drive USB 3.0  2 Piezas para Computadora de Windows  Mac OS [ Azul Negro]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SGCQF97/?tag=tolees-21'
 descuento: '29.64'
 average: '18.99'

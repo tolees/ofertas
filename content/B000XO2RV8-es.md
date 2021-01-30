@@ -16,6 +16,7 @@ comparePrice: 169.95 EUR
 prodname: 'Intex 28273NP  Small Frame - Piscina desmontable tubular  450 x 220 x 84 cm  7.127 litros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000XO2RV8/?tag=tolees-21'
 descuento: '26.68'
 average: '133.04999999999998'

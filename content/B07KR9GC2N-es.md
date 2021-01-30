@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'New Balance 624v5  Zapatillas Deportivas para Interior para Mujer  Blanco  White White   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KR9GC2N/?tag=tolees-21'
 descuento: '47.44'
 average: '36.79'

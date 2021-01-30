@@ -16,6 +16,7 @@ comparePrice: 10.55 EUR
 prodname: 'Reserva Yzaguirre Vermouth Rojo - 1 l'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M1NR3PF/?tag=tolees-21'
 descuento: '52.80'
 average: '4.98'

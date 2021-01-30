@@ -16,6 +16,7 @@ comparePrice: 197.19 EUR
 prodname: 'K&N 33-2474 Filtro de Aire Coche  Lavable y Reutilizable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007N1BIJ6/?tag=tolees-21'
 descuento: '48.59'
 average: '101.38'

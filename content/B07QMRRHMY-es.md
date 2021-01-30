@@ -16,6 +16,7 @@ comparePrice: 14.84 EUR
 prodname: 'DURAGADGET Cable De Audio Portátil Lenovo Ideapad 330-15AST  Lenovo Y520-15IBK  Lenovo Y520-15IBK  Acer Predator Helios 700 - con Conexión de 3.5mm Y Bañado En Oro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QMRRHMY/?tag=tolees-21'
 descuento: '33.36'
 average: '9.89'

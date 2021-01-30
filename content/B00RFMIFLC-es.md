@@ -16,6 +16,7 @@ comparePrice: 2.58 EUR
 prodname: '111D12-27 - Escuadra Angulo Bicr 40Mm 4 Uds E'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00RFMIFLC/?tag=tolees-21'
 descuento: '39.53'
 average: '1.56'

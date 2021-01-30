@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'SOYAR® mordedor bebé - Pulpo juguete y el 100% BPA de silicona de mordedor gratis  Verde '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CG4YJCY/?tag=tolees-21'
 descuento: '80.02'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Nobleza - Pañales para Perros Desechables Macho Hembra Cachorro Entrenamiento Pañales Súper Absorbente Envolturas para Mascotas Paquete de 12 Cintura 30-18CM ，XS para 1-3 KG'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FR8D1JG/?tag=tolees-21'
 descuento: '44.14'
 average: '9.49'

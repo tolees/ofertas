@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'PEKITAS Bebe Capa De Baño Con Capucha y Manopla 75x75 cm 90% Algodón 10% Polyester Dibujo Bordado Fabricado En Portugal'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MSE4GEX/?tag=tolees-21'
 descuento: '50.33'
 average: '14.9'

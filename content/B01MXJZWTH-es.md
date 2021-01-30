@@ -16,6 +16,7 @@ comparePrice: 8.9 EUR
 prodname: 'NEW C 2 Unidades  Protector de Pantalla para Huawei P9 Lite  Vidrio Cristal Templado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MXJZWTH/?tag=tolees-21'
 descuento: '44.94'
 average: '4.9'

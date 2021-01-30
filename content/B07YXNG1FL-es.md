@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Under Armour Challenger III Jacket Hombre para Hacer  Ropa De Deporte Inspirada En Las Chaquetas Bomber  Azul  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YXNG1FL/?tag=tolees-21'
 descuento: '66.15'
 average: '22.3'

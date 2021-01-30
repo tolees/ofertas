@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Energy Sistem DJ 700 Porta Edition - Auriculares de diadema cerrados  ajustables  color negro/rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006GLDYLO/?tag=tolees-21'
 descuento: '45.23'
 average: '27.33'

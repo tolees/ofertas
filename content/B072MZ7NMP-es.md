@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'adidas Adi-Ease  Zapatillas de Skateboard para Hombre  Negro  Core Black/Footwear White/Core Black 0   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072MZ7NMP/?tag=tolees-21'
 descuento: '30.09'
 average: '45.9'

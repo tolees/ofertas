@@ -16,6 +16,7 @@ comparePrice: 54.9 EUR
 prodname: 'Energy Sistem Tower 1  Torre de Sonido Bluetooth 4.1  30 W Potencia  RCA  3 5 mm Audio-in  - Blanca'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MQNPDU4/?tag=tolees-21'
 descuento: '41.89'
 average: '32.82666666666667'

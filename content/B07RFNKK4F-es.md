@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Columbia IVO Trail Breeze  Zapatillas Deportivas para Hombre  Gris  Steam/Acid Yellow 088   40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RFNKK4F/?tag=tolees-21'
 descuento: '36.00'
 average: '63.99'

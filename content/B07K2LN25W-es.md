@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'adidas Vl Court 2.0  Zapatillas de Skateboard para Hombre  Verde  Raw Khaki/Ftwr White/Ftwr White   36.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2LN25W/?tag=tolees-21'
 descuento: '59.03'
 average: '26.61'

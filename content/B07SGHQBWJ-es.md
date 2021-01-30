@@ -16,6 +16,7 @@ comparePrice: 34.0 EUR
 prodname: 'FITTOO Leggings Sin Costuras Corte de Malla Mujer Pantalon Deportivo Alta Cintura Yoga Elásticos Fitness Seamless #1 Rojo Medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SGHQBWJ/?tag=tolees-21'
 descuento: '44.15'
 average: '18.389999999999997'

@@ -16,6 +16,7 @@ comparePrice: 26.59 EUR
 prodname: 'QYiD Funda para iPad 10.2 / iPad 7th Gen Plegables Soporte Protectora Cubierta con Bolsillo & Auto-Sueño/Estela para Apple iPad 10.2  2019  / A2200  A2198  A2232  Oscuro Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081KWSRNK/?tag=tolees-21'
 descuento: '37.61'
 average: '16.59'

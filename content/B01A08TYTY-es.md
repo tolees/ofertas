@@ -16,6 +16,7 @@ comparePrice: 132.0 EUR
 prodname: 'Lume Cube LC0003NE - Antorcha LED para cámaras  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01A08TYTY/?tag=tolees-21'
 descuento: '29.84'
 average: '92.28500000000001'

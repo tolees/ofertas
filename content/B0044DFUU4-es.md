@@ -16,6 +16,7 @@ comparePrice: 66.9 EUR
 prodname: 'Weleda  - Crema facial de día de Granada  30 ml  1 unidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0044DFUU4/?tag=tolees-21'
 descuento: '58.30'
 average: '30.185'

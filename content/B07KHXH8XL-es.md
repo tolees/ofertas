@@ -16,6 +16,7 @@ comparePrice: 31.86 EUR
 prodname: 'ECO-WORTHY 12 voltios 5 vatios 10 vatios 120 vatios Energía del Panel Solar portátil Cargador de batería de Respaldo para la Potencia del Motor del automóvil  10W Panel Solar '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KHXH8XL/?tag=tolees-21'
 descuento: '35.66'
 average: '21.005000000000003'

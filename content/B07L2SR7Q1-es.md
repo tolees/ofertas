@@ -16,6 +16,7 @@ comparePrice: 63.99 EUR
 prodname: 'Asics Patriot 11  Running Shoe Womens  Black/White  39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L2SR7Q1/?tag=tolees-21'
 descuento: '32.82'
 average: '41.59'

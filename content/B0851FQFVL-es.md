@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Auriculares Bluetooth 5.0 Auriculares Inalambricos Cascos Bluetooth Headphone Deportivos Estéreo con Mic y Cancelación de Ruido Caja de Carga - Auriculares Compatible con iPhone Airpods/Samsung'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0851FQFVL/?tag=tolees-21'
 descuento: '54.10'
 average: '12.335'

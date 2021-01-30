@@ -16,6 +16,7 @@ comparePrice: 74.95 EUR
 prodname: 'PUMA NRGY Neko Knit  Zapatillas de Entrenamiento para Hombre  Verde  Forest Night Black   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZ5WZNW/?tag=tolees-21'
 descuento: '61.03'
 average: '29.21'

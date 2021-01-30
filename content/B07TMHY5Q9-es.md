@@ -16,6 +16,7 @@ comparePrice: 11.6 EUR
 prodname: 'Philips AVENT SCF746/01 vaso de aprendizaje con boquilla - Vasos de aprendizaje con boquilla  0 1 g '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TMHY5Q9/?tag=tolees-21'
 descuento: '26.47'
 average: '8.53'

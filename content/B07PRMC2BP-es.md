@@ -16,6 +16,7 @@ comparePrice: 11.94 EUR
 prodname: 'Bourjois Velvet The Pencil - Pintalabios Tono 4 Amou-rose  3g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PRMC2BP/?tag=tolees-21'
 descuento: '69.10'
 average: '3.69'

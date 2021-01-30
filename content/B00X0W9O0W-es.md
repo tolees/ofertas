@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Tommy Hilfiger Johnson Mini CC Wallet  Cartera Hombre^Mujer  Black  OS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X0W9O0W/?tag=tolees-21'
 descuento: '29.96'
 average: '34.925'

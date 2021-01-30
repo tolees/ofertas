@@ -16,6 +16,7 @@ comparePrice: 37.99 EUR
 prodname: 'UMI. Essentials Marco para Fotos y Diplomas De pie o para Colgar en la Pared  Tamaño A4 Negro  Juego de 4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LGY6MFF/?tag=tolees-21'
 descuento: '34.75'
 average: '24.79'

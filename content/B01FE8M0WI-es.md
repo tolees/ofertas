@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Gardena 08905-20 Tijera de jardín  Diámetro máx de corte-Ø: 24mm  S-XL '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FE8M0WI/?tag=tolees-21'
 descuento: '26.01'
 average: '22.16'

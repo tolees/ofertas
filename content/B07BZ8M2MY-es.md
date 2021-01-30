@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Sloggi S Symmetry N Sujetador sin aros  Black 004  90C  Talla del fabricante: 75  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BZ8M2MY/?tag=tolees-21'
 descuento: '52.19'
 average: '16.71'

@@ -16,6 +16,7 @@ comparePrice: 149 EUR
 prodname: 'Mercedes-Benz M7003 Hombre  Azul  Blau   59'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GY0WK52/?tag=tolees-21'
 descuento: '78.85'
 average: '33.46'

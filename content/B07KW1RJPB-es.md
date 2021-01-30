@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'Salomon XA Discovery GTX W  Zapatillas de Trail Running para Mujer  Rosa  Beet Red/Potent Purple/Calypso Cora   43 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KW1RJPB/?tag=tolees-21'
 descuento: '63.92'
 average: '46.89'

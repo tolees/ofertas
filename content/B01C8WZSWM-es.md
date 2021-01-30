@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Seiko Reloj Analogico para Hombre de Automático con Correa en Acero Inoxidable SKA717P1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01C8WZSWM/?tag=tolees-21'
 descuento: '40.45'
 average: '175.634'

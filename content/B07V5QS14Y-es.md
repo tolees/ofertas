@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Tommy Hilfiger Core Corporate Textile Sneaker  Zapatillas para Hombre  Negro  Black Bds   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V5QS14Y/?tag=tolees-21'
 descuento: '50.00'
 average: '39.95'

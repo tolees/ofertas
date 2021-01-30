@@ -16,6 +16,7 @@ comparePrice: 7.75 EUR
 prodname: 'Vagisil Vagisil Higiene Intima Diaria Sensitive 250 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DNYSPWC/?tag=tolees-21'
 descuento: '27.74'
 average: '5.6'

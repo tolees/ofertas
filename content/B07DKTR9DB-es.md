@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'UNO de 50 Ahora o Nunca'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DKTR9DB/?tag=tolees-21'
 descuento: '30.00'
 average: '139.3'

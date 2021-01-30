@@ -16,6 +16,7 @@ comparePrice: 216.59 EUR
 prodname: 'Police 15917JS-03 Reloj de Hombres'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RRPQ3WW/?tag=tolees-21'
 descuento: '42.92'
 average: '123.63'

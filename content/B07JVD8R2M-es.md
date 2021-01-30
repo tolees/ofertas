@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Arealer Masajeador de Hombros Eléctrico para el Cuello  Cervical Shiatsu Masajeador con Calor de Cuello  con Rotación 3D Masaje y 3 Velocidades Ajustables  para el Automóvil de la Oficina en Casa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JVD8R2M/?tag=tolees-21'
 descuento: '37.34'
 average: '37.59'

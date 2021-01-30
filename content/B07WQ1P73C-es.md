@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'TUBBZ Fallout Vault Boy Collectible Duck'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WQ1P73C/?tag=tolees-21'
 descuento: '60.31'
 average: '5.95'

@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Philips Avent Magic - Taza antigoteo de 260 ml  color azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00M6POE5E/?tag=tolees-21'
 descuento: '47.22'
 average: '6.286666666666666'

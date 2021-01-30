@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'HOMEYU Enchufe Antipolvo de Aluminio de Primera Calidad iPhone X  XR XS XS MAX  11 11pro 11pro MAX  8  8 Plus  7 6s  [Paquete de 2] - Cubierta Jet para Puerto Lightning -  Gris Espacial '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CLBPJV4/?tag=tolees-21'
 descuento: '71.88'
 average: '3.09'

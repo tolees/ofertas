@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Levi s 502 Taper Shorts 10" Pantalones Cortos  Azul  Shooting Star Short 0047   W36  Talla del Fabricante: 36  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RJ1DSPN/?tag=tolees-21'
 descuento: '44.60'
 average: '33.24'

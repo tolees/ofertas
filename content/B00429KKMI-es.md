@@ -16,6 +16,7 @@ comparePrice: 32.64 EUR
 prodname: 'Herradura Reposado Tequila - 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00429KKMI/?tag=tolees-21'
 descuento: '38.73'
 average: '20.0'

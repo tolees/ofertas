@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'The Yakuza Remastered Collection'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WRM2H57/?tag=tolees-21'
 descuento: '25.59'
 average: '51.82363636363637'

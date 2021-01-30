@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Aerku Protector de Pantalla para Echó Show 5 9H Dureza Alta Sensibilidad 2.5D[Sin Burbujas] Cristal Templado Protector de Pantalla para Echó Show 5[Transparente]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SW3D2CN/?tag=tolees-21'
 descuento: '27.39'
 average: '7.98'

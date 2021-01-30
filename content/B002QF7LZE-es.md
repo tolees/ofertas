@@ -16,6 +16,7 @@ comparePrice: 109.0 EUR
 prodname: 'Fossil Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable ES2362'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002QF7LZE/?tag=tolees-21'
 descuento: '41.28'
 average: '62.26'

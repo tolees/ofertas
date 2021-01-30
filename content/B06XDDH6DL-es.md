@@ -16,6 +16,7 @@ comparePrice: 17.91 EUR
 prodname: 'Jimmy Choo Eau de Courreges Loción - 500 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XDDH6DL/?tag=tolees-21'
 descuento: '65.33'
 average: '8.606666666666666'

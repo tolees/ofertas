@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Botella Agua Acero Inoxidable 750 ml  Botella Termoaislada de Doble Pared  Botella de Agua Ecológica Reutilizable  Botella Deportiva a Prueba de Fugas  Botella de Agua Duradera para Al Aire Libre.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0819XGZLR/?tag=tolees-21'
 descuento: '36.68'
 average: '18.99'

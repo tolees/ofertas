@@ -16,6 +16,7 @@ comparePrice: 65.03 EUR
 prodname: 'Darphin  Crema corporal - 50 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006K4EVRS/?tag=tolees-21'
 descuento: '47.33'
 average: '34.25'

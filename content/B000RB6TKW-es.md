@@ -16,6 +16,7 @@ comparePrice: 25.96 EUR
 prodname: 'reisenthel CU 0004 - Carro de la Compra  Color Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000RB6TKW/?tag=tolees-21'
 descuento: '44.26'
 average: '14.47'

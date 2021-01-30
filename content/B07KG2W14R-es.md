@@ -16,6 +16,7 @@ comparePrice: 53.95 EUR
 prodname: 'PUMA RS 9.8 Space  Zapatillas Unisex Adulto  Whisper White-Peacoat  43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG2W14R/?tag=tolees-21'
 descuento: '33.36'
 average: '35.95'

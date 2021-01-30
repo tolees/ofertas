@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'AEG WZD 5648 - Manta eléctrica  130 x 180 cm  apagado automático  10 niveles  180 W  color marrón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MOIDX82/?tag=tolees-21'
 descuento: '39.36'
 average: '60.58'

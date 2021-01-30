@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'TUBBZ Street Fighter Ryu Collectible Duck'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WQ1P96B/?tag=tolees-21'
 descuento: '33.62'
 average: '9.95'

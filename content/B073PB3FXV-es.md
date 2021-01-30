@@ -16,6 +16,7 @@ comparePrice: 8.95 EUR
 prodname: 'Bourjois Velvet The Lipstick Barra de Labios Tono 01 Hey Nude ! - 23 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073PB3FXV/?tag=tolees-21'
 descuento: '52.85'
 average: '4.22'

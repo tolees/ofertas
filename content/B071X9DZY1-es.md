@@ -16,6 +16,7 @@ comparePrice: 11.85 EUR
 prodname: 'Palette Intense Cream Coloration Intensive Coloración del Cabello L4 Avellana Luminoso - Pack de 3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071X9DZY1/?tag=tolees-21'
 descuento: '30.38'
 average: '7.314'

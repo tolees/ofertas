@@ -16,6 +16,7 @@ comparePrice: 9.5 EUR
 prodname: 'Philips SCF145/06 - Cepillo escobilla de limpieza para biberones y chupetes  color azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000MMOR46/?tag=tolees-21'
 descuento: '47.47'
 average: '5.318'

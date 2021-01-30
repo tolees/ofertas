@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'BRIKSMAX Kit de Iluminación Led para Mini Cooper-Compatible con Ladrillos de Construcción Lego Modelo 10242-Juego de Legos no Incluido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PM99YTC/?tag=tolees-21'
 descuento: '50.01'
 average: '29.99'

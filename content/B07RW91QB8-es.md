@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Zeerkeer Rastreador GPS Reloj Inteligente para Niños GPS/LBS Posicionamiento en Tiempo Real Reloj SOS Antipérdida Reloj Inteligente para Niños……'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RW91QB8/?tag=tolees-21'
 descuento: '25.23'
 average: '29.9'

@@ -16,6 +16,7 @@ comparePrice: 22.24 EUR
 prodname: 'Liqui Moly 4087 Detergente para Acondicionadores de Aire Spray  250 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001CZKC4G/?tag=tolees-21'
 descuento: '40.24'
 average: '13.29'

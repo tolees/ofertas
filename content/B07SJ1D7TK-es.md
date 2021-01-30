@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Levi s Woodward L  Zapatillas para Hombre  Gris  R Grey 55   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SJ1D7TK/?tag=tolees-21'
 descuento: '45.97'
 average: '32.42'

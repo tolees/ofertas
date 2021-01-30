@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'New Balance 500  Zapatillas para Hombre  Verde  Green True   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S2SLQNY/?tag=tolees-21'
 descuento: '30.07'
 average: '50.97'

@@ -16,6 +16,7 @@ comparePrice: 2.83 EUR
 prodname: 'BIC Marking marcadores permanentes punta media Cónica – Oro y Plata  Blíster de 2 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009NBP4M6/?tag=tolees-21'
 descuento: '64.66'
 average: '1.53'

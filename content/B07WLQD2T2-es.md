@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'GLOBE Tilt  Zapatillas de Skateboard para Hombre  Negro  Black/Carbon/Red 20494   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WLQD2T2/?tag=tolees-21'
 descuento: '34.96'
 average: '52.0'

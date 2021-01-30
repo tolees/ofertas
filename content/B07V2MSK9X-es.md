@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Tommy Hilfiger - Mini Reporter  Shoppers y bolsos de hombro Hombre  Gris  Nomad   1x1x1 cm  W x H L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V2MSK9X/?tag=tolees-21'
 descuento: '40.00'
 average: '35.94'

@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Marshall Mode EQ - Auriculares in-ear  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OHVT2SO/?tag=tolees-21'
 descuento: '36.72'
 average: '45.70428571428572'

@@ -16,6 +16,7 @@ comparePrice: 24.89 EUR
 prodname: 'Vogue Olympia - Fuente redonda de servir  de hierro fundido con soporte de madera  22 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001XN0QSO/?tag=tolees-21'
 descuento: '26.36'
 average: '18.33'

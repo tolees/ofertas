@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'WaYiNg #B006 - Hombre Short Sleeve Motogp Vr46 The Doctor Rossi T-Shirt Cool Funny Gift Present Negro Medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086D3SVWD/?tag=tolees-21'
 descuento: '40.64'
 average: '18.99'

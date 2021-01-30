@@ -16,6 +16,7 @@ comparePrice: 229.99 EUR
 prodname: 'Fitfiu Remo RA-100 Resistencia magnética y de Aire Crosstraining y Cardio  Adultos Unisex  Negro  115 x 25 x 77'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YF9N1KS/?tag=tolees-21'
 descuento: '26.09'
 average: '169.99'

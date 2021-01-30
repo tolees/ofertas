@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Ymea Menopausia Sofoconfort 24h cápsulas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N5Y66TS/?tag=tolees-21'
 descuento: '50.13'
 average: '12.399999999999999'

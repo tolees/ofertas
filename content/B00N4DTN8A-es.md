@@ -16,6 +16,7 @@ comparePrice: 16.0 EUR
 prodname: 'Call of Duty: Advanced Warfare'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00N4DTN8A/?tag=tolees-21'
 descuento: '44.38'
 average: '9.2'

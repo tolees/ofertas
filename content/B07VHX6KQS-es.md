@@ -16,6 +16,7 @@ comparePrice: 10.93 EUR
 prodname: 'Pimkie Puw19 Puca suéter  Marrón  Autres 786a06   Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VHX6KQS/?tag=tolees-21'
 descuento: '34.13'
 average: '8.2'

@@ -16,6 +16,7 @@ comparePrice: 24.88 EUR
 prodname: 'Juego de 12 pasadores Dooppa  para niña  con cierre de cocodrillo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076Q3PNKM/?tag=tolees-21'
 descuento: '59.85'
 average: '9.99'

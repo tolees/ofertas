@@ -16,6 +16,7 @@ comparePrice: 3.99 EUR
 prodname: 'Puzle coloreable 20 piezas. Frozen  Puzle coloreable frozen '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HHLM5HA/?tag=tolees-21'
 descuento: '46.87'
 average: '2.12'

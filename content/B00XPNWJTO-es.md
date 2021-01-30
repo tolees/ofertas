@@ -16,6 +16,7 @@ comparePrice: 16.5 EUR
 prodname: 'GoldNutrition Tribulus 550 mg  - 60 Cápsulas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XPNWJTO/?tag=tolees-21'
 descuento: '33.09'
 average: '11.04'

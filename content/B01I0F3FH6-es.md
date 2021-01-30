@@ -16,6 +16,7 @@ comparePrice: 20.77 EUR
 prodname: 'RaceOne R1 Igloo 550cc Botella de Agua 550 ml  Unisex Adulto  Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01I0F3FH6/?tag=tolees-21'
 descuento: '42.22'
 average: '12.0'

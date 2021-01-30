@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'IOCHIC Patinete Eléctrico con Bluetooth  Niños Unisex  Talla Única Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L3TTH5X/?tag=tolees-21'
 descuento: '39.70'
 average: '140.29'

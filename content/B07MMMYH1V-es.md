@@ -16,6 +16,7 @@ comparePrice: 383.28 EUR
 prodname: 'KIMISS RS3 Style Front Sport Hex Mesh Honeycomb Hood Grill Negro brillante para A3 / S3 8V 17-18'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MMMYH1V/?tag=tolees-21'
 descuento: '35.08'
 average: '281.2675'

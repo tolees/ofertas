@@ -16,6 +16,7 @@ comparePrice: 166.1 EUR
 prodname: 'Trio Lighting 603900302 Lámpara de techo Stoffschirm Schwarz  Negro  50 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00I94UYAK/?tag=tolees-21'
 descuento: '62.75'
 average: '61.87'

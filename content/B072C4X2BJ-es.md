@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'Di4 Jet Pressing Centro de Planchado  Doble Sistema de Calentamiento  2850 W  Cerámica  Blanco/Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072C4X2BJ/?tag=tolees-21'
 descuento: '42.33'
 average: '64.915'

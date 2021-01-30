@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'Skechers Go Run Fast Valor  Zapatillas para Niños  Rojo  Red Textile/Red Synthetic/White Trim Red   30 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XKBPKJS/?tag=tolees-21'
 descuento: '41.67'
 average: '26.22'

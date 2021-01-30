@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Asics Gel-Cumulus 21  Running Shoe Mens - Black/Black - 46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0812GN2RY/?tag=tolees-21'
 descuento: '34.41'
 average: '98.82'

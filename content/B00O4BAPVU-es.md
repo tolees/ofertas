@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Purina Cat Chow Esterilizado Gato Adulto Pollo 15 Kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00O4BAPVU/?tag=tolees-21'
 descuento: '26.36'
 average: '33.14'

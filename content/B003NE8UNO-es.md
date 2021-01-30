@@ -16,6 +16,7 @@ comparePrice: 31.25 EUR
 prodname: 'HELLA 6PT 009 107-141 Sensor  temperatura del refrigerante  Número de conexiones 4  con junta  con circlip'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003NE8UNO/?tag=tolees-21'
 descuento: '62.69'
 average: '11.66'

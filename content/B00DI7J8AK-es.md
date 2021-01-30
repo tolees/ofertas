@@ -16,6 +16,7 @@ comparePrice: 14.06 EUR
 prodname: 'Ecozone - Nueces de jabon para lavar la ropa  bolsa de 1 kg  hasta 330 lavados '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DI7J8AK/?tag=tolees-21'
 descuento: '27.45'
 average: '10.2'

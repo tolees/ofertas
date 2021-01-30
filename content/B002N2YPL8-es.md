@@ -16,6 +16,7 @@ comparePrice: 135.0 EUR
 prodname: 'Le Creuset Sartén Baja de Aluminio Antiadherente  Libre de PFOA  para Todas Las Fuentes de Calor  Incluso la inducción  Antracita/Plateado  Anodizado  Negro  30 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002N2YPL8/?tag=tolees-21'
 descuento: '30.00'
 average: '94.5'

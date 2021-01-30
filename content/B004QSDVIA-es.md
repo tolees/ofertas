@@ -16,6 +16,7 @@ comparePrice: 11.84 EUR
 prodname: 'BELCILS - VIÑAS BELCILS Corrector Invisible 4 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004QSDVIA/?tag=tolees-21'
 descuento: '50.76'
 average: '5.83'

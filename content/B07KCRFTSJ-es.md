@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'adidas T19 M Polo Shirt  Hombre  Team Navy Blue/White  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KCRFTSJ/?tag=tolees-21'
 descuento: '48.71'
 average: '20.49'

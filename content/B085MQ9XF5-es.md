@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Kelme - Zapatillas Precision Wild'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085MQ9XF5/?tag=tolees-21'
 descuento: '50.00'
 average: '29.95'

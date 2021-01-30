@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Orlane  Maquillaje corrector - 200 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ELHQDP8/?tag=tolees-21'
 descuento: '28.20'
 average: '17.95'

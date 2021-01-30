@@ -16,6 +16,7 @@ comparePrice: 8.95 EUR
 prodname: 'Bourjois Velvet The Lipstick Barra de Labios Tono 03 Hyppink chic - 23 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073P9P4WN/?tag=tolees-21'
 descuento: '57.43'
 average: '3.81'

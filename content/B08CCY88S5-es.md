@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Auriculares Bluetooth 5.0 Auriculares inalámbricos 3D estéreo HD Bluetooth Deporte emparejamiento automático para Llamadas binaurales  para con iPhone/Android/Huawei/Samsung'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CCY88S5/?tag=tolees-21'
 descuento: '50.01'
 average: '19.99'

@@ -16,6 +16,7 @@ comparePrice: 105.91 EUR
 prodname: 'New Balance Summit Unknown m  Zapatillas de Running para Asfalto para Mujer  Morado  Purple Purple   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DVKFXCL/?tag=tolees-21'
 descuento: '37.39'
 average: '66.31'

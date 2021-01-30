@@ -16,6 +16,7 @@ comparePrice: 34.9 EUR
 prodname: 'Té verde menta Té verde marroquí con menta nana Mezcla de té de menta y té Cay Chai de Marruecos ? sin saborizante ? sin aditivos ? sin conservantes ? 1000g sueltos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MR9NRMT/?tag=tolees-21'
 descuento: '25.79'
 average: '25.9'

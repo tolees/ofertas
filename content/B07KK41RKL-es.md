@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Columbia Caldorado III  Zapatillas de Running para Asfalto para Hombre  Azul  Beta  Super Son 445   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KK41RKL/?tag=tolees-21'
 descuento: '70.88'
 average: '38.64'

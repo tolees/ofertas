@@ -16,6 +16,7 @@ comparePrice: 17.9 EUR
 prodname: 'Tommy Hilfiger Thong Tanga  Blanco  White 100   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MXKHP6C/?tag=tolees-21'
 descuento: '41.40'
 average: '11.323333333333334'

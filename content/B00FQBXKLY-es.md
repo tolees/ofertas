@@ -16,6 +16,7 @@ comparePrice: 42.99 EUR
 prodname: 'Máscara de calavera sangrienta adulto Halloweeen'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00FQBXKLY/?tag=tolees-21'
 descuento: '30.01'
 average: '42.84'

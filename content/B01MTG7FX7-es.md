@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Warner Bros Interactive Spain Harry Potter - Hermione  Fun Pack '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MTG7FX7/?tag=tolees-21'
 descuento: '26.68'
 average: '9.445'

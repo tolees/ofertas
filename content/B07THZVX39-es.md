@@ -16,6 +16,7 @@ comparePrice: 73.9 EUR
 prodname: 'BRA Advanced Plancha Lisa  Aluminio Fundido  Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07THZVX39/?tag=tolees-21'
 descuento: '45.89'
 average: '40.24'

@@ -16,6 +16,7 @@ comparePrice: 8.95 EUR
 prodname: 'Control Senso Preservativos - Pack de 12 preservativos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009LSIYPK/?tag=tolees-21'
 descuento: '39.66'
 average: '5.053333333333334'

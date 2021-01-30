@@ -16,6 +16,7 @@ comparePrice: 329.9 EUR
 prodname: 'Vanguard Alta Fly 62T - Maleta trolley de transporte  35x19x55cm  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MY9KD1O/?tag=tolees-21'
 descuento: '33.32'
 average: '231.98083333333335'

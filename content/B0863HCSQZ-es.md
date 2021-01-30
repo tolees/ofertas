@@ -16,6 +16,7 @@ comparePrice: 53.21 EUR
 prodname: 'KETONG 50 Partes Desechables Boca Cara Facial Polvo Morph Mujer Hombre Gancho respiración por la Boca Cara del Filtro Protector bucal 3-Capa no Tejida 50 Piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0863HCSQZ/?tag=tolees-21'
 descuento: '43.81'
 average: '29.9'

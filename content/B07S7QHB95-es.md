@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'PUMA Flyer Runner  Zapatillas de Running Unisex Adulto  Negro Black/Metallic Silver 25  39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S7QHB95/?tag=tolees-21'
 descuento: '40.04'
 average: '29.95'

@@ -16,6 +16,7 @@ comparePrice: 126.57 EUR
 prodname: 'K&N E-1987 Filtro de Aire Coche  Lavable y Reutilizable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001IX6ACA/?tag=tolees-21'
 descuento: '48.83'
 average: '72.31666666666666'

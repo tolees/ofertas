@@ -16,6 +16,7 @@ comparePrice: 10.95 EUR
 prodname: 'L Oréal Paris Les Chocolats Labial Líquido Mate  Tono Marrón Nude 866 Truffa Mania'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CGX433V/?tag=tolees-21'
 descuento: '44.75'
 average: '6.2'

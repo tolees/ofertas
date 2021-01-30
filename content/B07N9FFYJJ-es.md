@@ -16,6 +16,7 @@ comparePrice: 145.0 EUR
 prodname: 'Timex Reloj de Pulsera TW2R96300'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N9FFYJJ/?tag=tolees-21'
 descuento: '26.48'
 average: '98.222'

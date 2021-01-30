@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Lacoste L1230  Polo de Manga Corta para Hombre  Blanco  Blanc   3XL  Talla del fabricante: 8 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008E8SIZY/?tag=tolees-21'
 descuento: '50.07'
 average: '34.95'

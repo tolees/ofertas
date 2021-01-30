@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Citizen Reloj Analógico para Hombre de Cuarzo con Correa en Titanio CA0700-86L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D9ZWX2R/?tag=tolees-21'
 descuento: '29.43'
 average: '209.79999999999998'

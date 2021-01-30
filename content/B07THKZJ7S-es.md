@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Charles Wilson Paquete 2 Camisetas Cuello Redondo de Rayas  Large  Blue & Brown '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07THKZJ7S/?tag=tolees-21'
 descuento: '66.78'
 average: '9.95'

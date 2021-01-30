@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Wrangler Skinny Jeans  Azul  Water Blue 78X   31W / 34L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M5DY79T/?tag=tolees-21'
 descuento: '56.69'
 average: '38.96'

@@ -16,6 +16,7 @@ comparePrice: 10.07 EUR
 prodname: 'The Blues'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PP8PN8S/?tag=tolees-21'
 descuento: '30.59'
 average: '6.99'

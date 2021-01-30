@@ -16,6 +16,7 @@ comparePrice: 149.9 EUR
 prodname: 'Polar M200 Pulsómetro GPS  Unisex  Rojo  M/L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N52JQL8/?tag=tolees-21'
 descuento: '57.22'
 average: '64.13'

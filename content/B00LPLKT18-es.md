@@ -16,6 +16,7 @@ comparePrice: 18.75 EUR
 prodname: 'Lullage acneXpert Renovador Celular Concentrado exfoliante en gel para la piel grasa con imperfecciones o propensa al acné  Efecto Peeling  Ácido Azelaico | Ácido Salicílico | Ácido Glicólico  30 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LPLKT18/?tag=tolees-21'
 descuento: '48.16'
 average: '9.72'

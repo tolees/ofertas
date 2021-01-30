@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Women s Flex Appeal 3.0 Trainers  Black  Black Knit Mesh/White Trim Bkw   4 UK  37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079ZY96YF/?tag=tolees-21'
 descuento: '27.22'
 average: '46.2725'

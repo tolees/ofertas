@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Blacksad: Under The Skin - Limited Edition'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R4XMQQ2/?tag=tolees-21'
 descuento: '48.01'
 average: '25.041428571428572'

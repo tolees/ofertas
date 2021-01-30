@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Under Armour Heatgear Armour Sujetador Deportivo  Mujer  Gris  Gray-014   34B'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RCZMXTY/?tag=tolees-21'
 descuento: '29.15'
 average: '38.97'

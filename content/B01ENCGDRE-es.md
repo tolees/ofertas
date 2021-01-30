@@ -16,6 +16,7 @@ comparePrice: 68.9 EUR
 prodname: 'Andis Lithium - Maquinilla afeitar  sólo recargable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ENCGDRE/?tag=tolees-21'
 descuento: '27.43'
 average: '63.275'

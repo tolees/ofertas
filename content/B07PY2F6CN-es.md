@@ -16,6 +16,7 @@ comparePrice: 4.89 EUR
 prodname: '2X Funda Xiaomi Redmi Note 7  Cárcasa Silicona Transparente Gel TPU Protector Bumper Case Cover Fundas para Teléfono Móvil Xiaomi Redmi Note 7 Pro/Redmi Note 7  Panda + Elefante '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PY2F6CN/?tag=tolees-21'
 descuento: '79.35'
 average: '1.01'

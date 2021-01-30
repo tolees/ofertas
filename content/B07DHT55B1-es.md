@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Lacoste Graduate BL 1 SMA  Zapatillas para Hombre  Blanco  White/White   47 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DHT55B1/?tag=tolees-21'
 descuento: '30.54'
 average: '65.99'

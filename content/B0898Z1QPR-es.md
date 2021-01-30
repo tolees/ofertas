@@ -16,6 +16,7 @@ comparePrice: 11.59 EUR
 prodname: 'WINMI para Samsung Galaxy A20e Funda Tapa Trasera de Cristal 9H Templado Resistente a Arañazos con Funda Borde Suave de Silicona Back Cover para Samsung Galaxy A20e-XY'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0898Z1QPR/?tag=tolees-21'
 descuento: '48.66'
 average: '5.95'

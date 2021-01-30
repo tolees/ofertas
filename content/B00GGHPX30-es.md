@@ -16,6 +16,7 @@ comparePrice: 11.0 EUR
 prodname: 'Max Factor LipFinity Colour & Gloss Lip Gloss Pintalabios Gloss 2 lados  Tono 550 Ruby  6 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GGHPX30/?tag=tolees-21'
 descuento: '34.45'
 average: '7.21'

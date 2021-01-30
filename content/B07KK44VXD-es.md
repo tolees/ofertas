@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Columbia Peakfreak Venture S II Mid  Botas de Senderismo para Hombre  Marrón  Cordovan  Fiery 231   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KK44VXD/?tag=tolees-21'
 descuento: '65.01'
 average: '41.98'

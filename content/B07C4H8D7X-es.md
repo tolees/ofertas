@@ -16,6 +16,7 @@ comparePrice: 58.9 EUR
 prodname: 'Electroestimuladores Tens y EMS Estimulador De Pulsos  Electroestimulador Digital Masaje Recargable con 16 Modos y 8 Pads 2 Canales'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C4H8D7X/?tag=tolees-21'
 descuento: '44.14'
 average: '31.9'

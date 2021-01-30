@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Tefal A702S885 Intuition Set 4 piezas incluye cazo 16 cm y tapa  cacerola 20/24 cm y tapas  olla 28 cm con tapa  acero inoxidable  marcas medición  tapas cristal  aptas para del horno y lavavajillas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075MLDFCP/?tag=tolees-21'
 descuento: '27.28'
 average: '79.99'

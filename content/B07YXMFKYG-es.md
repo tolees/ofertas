@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Calefactor  Calentador Eléctrico 500W con Oscilación Automática  Calentamiento Rápid  Dos Modos  Operación con un Botón  Uso Vertical y Horizontal  Calentador Silencioso para Hogar  Oficina  Piso'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YXMFKYG/?tag=tolees-21'
 descuento: '37.51'
 average: '26.656666666666666'

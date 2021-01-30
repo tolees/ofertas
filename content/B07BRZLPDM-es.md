@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Salomon XA Pro 3D Winter TS CSWP J  Calzado de Invierno Unisex Niños  Morado  Dark Purple/Potent Purple/Atlantis   33 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BRZLPDM/?tag=tolees-21'
 descuento: '43.30'
 average: '39.88'

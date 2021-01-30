@@ -16,6 +16,7 @@ comparePrice: 9.9 EUR
 prodname: 'Thai Green curry paste  400g by Mae Ploy '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BGX2F4Y/?tag=tolees-21'
 descuento: '40.10'
 average: '6.922499999999999'

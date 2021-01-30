@@ -16,6 +16,7 @@ comparePrice: 139.15 EUR
 prodname: 'Deltadore 217 Termostato'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00I46YF8A/?tag=tolees-21'
 descuento: '35.00'
 average: '90.45'

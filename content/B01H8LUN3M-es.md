@@ -16,6 +16,7 @@ comparePrice: 10.0 EUR
 prodname: 'Under Armour Shinguard Sleeves Espinillera  Hombre  Negro  Black/High Vis Yellow 001   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01H8LUN3M/?tag=tolees-21'
 descuento: '28.60'
 average: '7.14'

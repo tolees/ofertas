@@ -16,6 +16,7 @@ comparePrice: 32.31 EUR
 prodname: 'Wera 05057434001 Juego de Herramientas con 30 Piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BNGH4HG/?tag=tolees-21'
 descuento: '26.09'
 average: '23.88'

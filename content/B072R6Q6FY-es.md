@@ -16,6 +16,7 @@ comparePrice: 9.77 EUR
 prodname: 'Softee 0710000 Crema Anti-Rozaduras  Blanco  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072R6Q6FY/?tag=tolees-21'
 descuento: '80.14'
 average: '1.94'

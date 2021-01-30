@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'New Balance Fresh Foam Tempo m  Zapatillas de Running para Mujer  Negro  Black B   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S3X5BJR/?tag=tolees-21'
 descuento: '63.82'
 average: '44.485'

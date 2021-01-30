@@ -16,6 +16,7 @@ comparePrice: 90 EUR
 prodname: 'New Balance Fresh Foam Roav  Zapatillas de Running para Mujer  Rosa  Oxygen Oxygen   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KR91VFM/?tag=tolees-21'
 descuento: '50.00'
 average: '45'

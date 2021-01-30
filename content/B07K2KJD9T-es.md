@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Adidas RUNFALCON K  Zapatillas Deportivas Unisex niño  Negro  Core Black/Core Black/Core Black   37 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2KJD9T/?tag=tolees-21'
 descuento: '31.19'
 average: '27.49'

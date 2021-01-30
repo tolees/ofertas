@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee Chino Corduroy Pantalones  Azul  Dark Marine 21   33W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M8L2FKP/?tag=tolees-21'
 descuento: '49.99'
 average: '44.98'

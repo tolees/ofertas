@@ -16,6 +16,7 @@ comparePrice: 15.0 EUR
 prodname: 'LARPOTE Funda con Huawei Nova 3  Funda Piel PU  Soporte Plegable  Ranuras para Tarjetas y Billetes  Estilo Libro  Acceso a Botones  Cierre Magnético -Gris.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XSD2Q91/?tag=tolees-21'
 descuento: '60.07'
 average: '5.99'

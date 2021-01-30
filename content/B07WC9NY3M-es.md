@@ -16,6 +16,7 @@ comparePrice: 4.3 EUR
 prodname: 'Panamami Slime Mermaid Crystal Mud Symphony Pearl Transparent Mud - con Mermaid 80ml - Transparente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WC9NY3M/?tag=tolees-21'
 descuento: '33.49'
 average: '2.86'

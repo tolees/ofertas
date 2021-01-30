@@ -16,6 +16,7 @@ comparePrice: 101.53 EUR
 prodname: 'K&N AL-1004 Filtro de Aire para Aprilia RSV MILLE 2004 RSV 1000 05-12 Moto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000E2CRUA/?tag=tolees-21'
 descuento: '37.03'
 average: '63.93'

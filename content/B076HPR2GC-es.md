@@ -16,6 +16,7 @@ comparePrice: 8.86 EUR
 prodname: 'Hula Hoop desmontable para niños 25.6 "ejercicio niños pequeños Hula Hoop para deportes & jugar  medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076HPR2GC/?tag=tolees-21'
 descuento: '66.25'
 average: '2.99'

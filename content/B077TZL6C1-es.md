@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Kipling Multiple Riñonera de Marcha  25 cm  True Black'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077TZL6C1/?tag=tolees-21'
 descuento: '29.97'
 average: '41.95'

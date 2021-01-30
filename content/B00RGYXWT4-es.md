@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Top Race Control remoto RC Blocks  Robot Vehicle Building Kit. Construya su vehículo y controle con el control remoto inalámbrico  varios colores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00RGYXWT4/?tag=tolees-21'
 descuento: '25.02'
 average: '10.323333333333334'

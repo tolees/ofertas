@@ -16,6 +16,7 @@ comparePrice: 38.0 EUR
 prodname: 'ZIPRINT 1800 Páginas Tóner Compatible Samsung MLT-D111L D111L para Tóner Sansung Xpress M2026W M2070FW M2070F M2022W M2020 M2020 M2027W 2 Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W11MJK6/?tag=tolees-21'
 descuento: '29.21'
 average: '26.9'

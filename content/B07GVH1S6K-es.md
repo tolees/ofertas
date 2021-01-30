@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'Nobleza - 1080 Conde Bolsas de Caca Perro Bolsas para excrementos de Perros Pack de 72 Rollos. Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GVH1S6K/?tag=tolees-21'
 descuento: '46.89'
 average: '16.99'

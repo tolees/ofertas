@@ -16,6 +16,7 @@ comparePrice: 54.0 EUR
 prodname: 'Britax Römer Kidfix II XP SICT / Kidfix II XP / Kidfix XP SICT / Kidfix XP-Funda de Verano   color beige'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DZHGU08/?tag=tolees-21'
 descuento: '40.78'
 average: '35.23'

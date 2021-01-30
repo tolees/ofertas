@@ -16,6 +16,7 @@ comparePrice: 44.9 EUR
 prodname: 'Lowepro Torba Apex 120 AW Black'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000KZD75A/?tag=tolees-21'
 descuento: '30.51'
 average: '31.2'

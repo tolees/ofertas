@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Napapijri Berber H Capucha  Verde  Green Forest 2 GE3   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVBY814/?tag=tolees-21'
 descuento: '55.00'
 average: '44.55'

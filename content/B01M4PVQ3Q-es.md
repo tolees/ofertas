@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'ITALY MORN Joggers Hombre Panatalones para Chicos Deportes Slim Fit M Gris Oscuro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M4PVQ3Q/?tag=tolees-21'
 descuento: '60.69'
 average: '34.99'

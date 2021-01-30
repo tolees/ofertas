@@ -16,6 +16,7 @@ comparePrice: 16.49 EUR
 prodname: 'Braun Clean&Renew Cartuchos de recarga para afeitadora eléctrica hombre  2 unidades  compatibles con todos los centros SmartCare Y Clean&Charge'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000KPUNB6/?tag=tolees-21'
 descuento: '29.11'
 average: '11.605'

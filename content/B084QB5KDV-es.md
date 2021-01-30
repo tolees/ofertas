@@ -16,6 +16,7 @@ comparePrice: 2.01 EUR
 prodname: 'Correa de Repuesto de Silicona Anti-pérdida de Dos Colores Correa de muñeca Wristband Smartwatch Pulsera Band para Xiaomi Mi Band 3 — Negro + Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084QB5KDV/?tag=tolees-21'
 descuento: '49.75'
 average: '1.01'

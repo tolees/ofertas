@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Rubies 300194-TW Fortnite - Disfraz Skull Trooper para niños  11-12 años  152 cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HFN3SYC/?tag=tolees-21'
 descuento: '31.46'
 average: '27.41'

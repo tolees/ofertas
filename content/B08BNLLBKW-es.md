@@ -16,6 +16,7 @@ comparePrice: 6.58 EUR
 prodname: '20x Clips de Cierre de Plástico  11cm Pinzas de Cierre en Varios Tamaños y Colores  Clip para Bolsas de Congelador y para Cereales  Nueces o Café  5- coloridas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BNLLBKW/?tag=tolees-21'
 descuento: '32.07'
 average: '4.47'

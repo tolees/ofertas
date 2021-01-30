@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'Seiko Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable SGEH68P1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MUXJXZR/?tag=tolees-21'
 descuento: '51.94'
 average: '100.58'

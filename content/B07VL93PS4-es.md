@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'ORICO 40W con 5 Cables USB Estación de Carga Inteligente con Soporte para teléfono y Tableta para iPhone  iPad  Samsung Galaxy  Nexus  HTC  Motorola  LG y Muchos más'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VL93PS4/?tag=tolees-21'
 descuento: '28.01'
 average: '35.99'

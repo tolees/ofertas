@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'RYMALL Álbum de Fotos para bebé  Álbum de Memorias  Little Foot para niño y niña  Regalos Originales y únicos con Recuerdos memorables  Álbum para 200 Fotos  23 x 19 cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072JYNMCG/?tag=tolees-21'
 descuento: '47.85'
 average: '11.99'

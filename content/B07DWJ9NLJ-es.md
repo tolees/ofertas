@@ -16,6 +16,7 @@ comparePrice: 7.18 EUR
 prodname: 'Manija de Maleta Reemplazo Perfecto para Viejos Rotos Fácil de Instalar Accesorios SB-218'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DWJ9NLJ/?tag=tolees-21'
 descuento: '44.43'
 average: '3.99'

@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Superga 2750 COTU Classic  Zapatillas Unisex Adulto  Lt Grey 506  49 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MRLBRAL/?tag=tolees-21'
 descuento: '83.80'
 average: '9.56'

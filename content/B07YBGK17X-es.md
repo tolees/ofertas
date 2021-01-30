@@ -16,6 +16,7 @@ comparePrice: 38.0 EUR
 prodname: 'Billetero Pepe Jeans Fair Camel'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YBGK17X/?tag=tolees-21'
 descuento: '60.29'
 average: '15.09'

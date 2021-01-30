@@ -16,6 +16,7 @@ comparePrice: 28.28 EUR
 prodname: 'find. Alpargata Destalonada de Ante Mujer  Amarillo  Yellow   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XK8DNLF/?tag=tolees-21'
 descuento: '61.81'
 average: '10.8'

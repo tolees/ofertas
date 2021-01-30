@@ -16,6 +16,7 @@ comparePrice: 10.68 EUR
 prodname: 'qingqingR Condones más vendidos Condón lubricado de látex con Punta Puntiaguda Acanalada'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CDCKXLQ/?tag=tolees-21'
 descuento: '50.00'
 average: '5.34'

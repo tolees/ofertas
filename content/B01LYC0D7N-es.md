@@ -16,6 +16,7 @@ comparePrice: 32.5 EUR
 prodname: 'Brabantia Newicon-Cubo de Basura con Pedal  3 l  Color Fpp Inoxidable  Acero Mate Anti-Huellas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LYC0D7N/?tag=tolees-21'
 descuento: '39.69'
 average: '19.6'

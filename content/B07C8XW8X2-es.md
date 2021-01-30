@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Valkyria Chronicles 4 - Switch'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C8XW8X2/?tag=tolees-21'
 descuento: '50.08'
 average: '39.96333333333333'

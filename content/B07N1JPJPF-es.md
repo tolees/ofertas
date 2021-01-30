@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Clarks Griffin Plaza  Botas Chelsea para Mujer  Gris Pardo de Serpiente  37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1JPJPF/?tag=tolees-21'
 descuento: '81.06'
 average: '13.25'

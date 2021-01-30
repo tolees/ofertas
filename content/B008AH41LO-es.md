@@ -16,6 +16,7 @@ comparePrice: 5.5 EUR
 prodname: 'Trixie Comedero Acero INOX  Recub. Plástico 0.4 l ø14 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008AH41LO/?tag=tolees-21'
 descuento: '32.91'
 average: '3.69'

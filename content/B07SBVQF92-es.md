@@ -16,6 +16,7 @@ comparePrice: 50.06 EUR
 prodname: 'PUMA Flyer Modern  Zapatillas de Running Unisex-Adulto  Negro Black White 04  43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SBVQF92/?tag=tolees-21'
 descuento: '35.06'
 average: '32.51'

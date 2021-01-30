@@ -16,6 +16,7 @@ comparePrice: 85.99 EUR
 prodname: 'Philips Pro HPS920/00 - Secador profesional  2300 W  6 ajustes de potencia  2 boquillas concentradoras  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ECBUK58/?tag=tolees-21'
 descuento: '41.87'
 average: '49.99'

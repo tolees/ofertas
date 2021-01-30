@@ -16,6 +16,7 @@ comparePrice: 79 EUR
 prodname: 'Napapijri TALY 2 LS Polo  Rojo  Red Scarlet R01   M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MMLLJRH/?tag=tolees-21'
 descuento: '50.00'
 average: '39.5'

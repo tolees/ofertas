@@ -16,6 +16,7 @@ comparePrice: 27.29 EUR
 prodname: 'Desigual Foulard Loki Bufanda  Azul  Medieval Blue 5074   única  Talla del Fabricante: U  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N33Q7LH/?tag=tolees-21'
 descuento: '45.22'
 average: '14.95'

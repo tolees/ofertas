@@ -16,6 +16,7 @@ comparePrice: 17.19 EUR
 prodname: 'Jevogh JLY03-1 HD Dash Cam  170°Grand Angle 1080P avec vision nocturne  3 "LCD avec moniteur de stationnement / capteur G  alliage de zinc + peinture au four Artistry  Noir '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DYJNRFV/?tag=tolees-21'
 descuento: '26.53'
 average: '16.563333333333333'

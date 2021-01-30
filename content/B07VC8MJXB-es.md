@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: '32GB Grabadora de Voz Digital  ADOKEY Grabadora Audio con Reproductor de MP3  Portatil Grabadora Sonido Grabadora Estereo Grabadora para Reuniones  Musica Micrófono Incorporado  Baterías Recargables'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VC8MJXB/?tag=tolees-21'
 descuento: '50.01'
 average: '29.989090909090905'

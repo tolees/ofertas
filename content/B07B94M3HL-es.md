@@ -16,6 +16,7 @@ comparePrice: 160.0 EUR
 prodname: 'Clarks Ashcombemidgtx  Botas Chelsea para Hombre  Marrón  Dark Brown Lea   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B94M3HL/?tag=tolees-21'
 descuento: '50.00'
 average: '77.40333333333332'

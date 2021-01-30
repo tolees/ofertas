@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'HP DeskJet 3750 - Impresora de tinta multifunción  8 ppm  4800 x 1200 DPI  A4  Wifi  Escanea  Copia  60 hojas  Modo silencioso   Blanca'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GZSLLZH/?tag=tolees-21'
 descuento: '32.20'
 average: '49.123333333333335'

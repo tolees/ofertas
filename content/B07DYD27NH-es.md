@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Trust Gaming GXT 715 - Alfombrilla para Silla Gaming  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DYD27NH/?tag=tolees-21'
 descuento: '50.06'
 average: '24.445555555555554'

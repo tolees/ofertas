@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Everlast 2260 Punching de Pie  Unisex  Negro  Ajustable hasta 1 65 m de Altura'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00B49QDGQ/?tag=tolees-21'
 descuento: '40.01'
 average: '71.99'

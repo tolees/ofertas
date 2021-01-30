@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Qiwode Escurreplatos extensible para escurreplatos  cestas de secado de platos para ollas  cuencos y utensilios de cocina  acero inoxidable Style A: Arch Net'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W7J9MSP/?tag=tolees-21'
 descuento: '28.44'
 average: '13.59'

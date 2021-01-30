@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Salomon HYDRO 45 BELT Riñonera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F6ZTSWW/?tag=tolees-21'
 descuento: '40.00'
 average: '18.0'

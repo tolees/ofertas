@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Controlador de Gamepad，DOYO Gamepad USB con Cable para PC / Ordenador Portátil y PS3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VVVQH8D/?tag=tolees-21'
 descuento: '43.48'
 average: '16.95'

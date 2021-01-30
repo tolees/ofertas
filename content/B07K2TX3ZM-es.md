@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'adidas Continental 80 C  Zapatillas de Deporte Unisex niño  Blanco  Ftwbla/Escarl/Maruni 000   32 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2TX3ZM/?tag=tolees-21'
 descuento: '34.58'
 average: '35.95'

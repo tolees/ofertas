@@ -16,6 +16,7 @@ comparePrice: 9.14 EUR
 prodname: 'Wolfcraft 4868000 4868000-1 Cascos Anti-Ruido Standard  SNR 19 dB  DIN EN 352-1:2002  CE '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003CRG5IO/?tag=tolees-21'
 descuento: '33.15'
 average: '6.11'

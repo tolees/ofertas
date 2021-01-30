@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee Luke Pants Jeans  Moto Grey Hga  31W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M5ZH62H/?tag=tolees-21'
 descuento: '50.03'
 average: '56.924285714285716'

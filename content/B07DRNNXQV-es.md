@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Skechers Boys  Go Run 600-Farrox Trainers  Black  Black Blue Lime Bblm   12 UK  30 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DRNNXQV/?tag=tolees-21'
 descuento: '30.04'
 average: '25.45'

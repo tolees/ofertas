@@ -16,6 +16,7 @@ comparePrice: 104 EUR
 prodname: 'El motor eléctrico se basa leche Nuby Natural Touch'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006JYXL5M/?tag=tolees-21'
 descuento: '90.66'
 average: '9.71'

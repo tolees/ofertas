@@ -16,6 +16,7 @@ comparePrice: 61.99 EUR
 prodname: 'Braun Satin Hair 7 AS720 - Cepillo de pelo moldeador con tecnología iónica  rizador de pelo que seca peina y da brillo  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003YCKGYQ/?tag=tolees-21'
 descuento: '35.63'
 average: '40.26'

@@ -16,6 +16,7 @@ comparePrice: 275.0 EUR
 prodname: 'Reloj Scuderia Ferrari para Hombre 0830435  Marrón  Azul/Marrón '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07111XSPK/?tag=tolees-21'
 descuento: '46.08'
 average: '175.61333333333332'

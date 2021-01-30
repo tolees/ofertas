@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'HP Spectre Bluetooth 500 Bluetooth Blue LED 1600DPI Ambidextro Plata - Ratón  Bluetooth  Oficina  Botones táctiles  Rueda  Blue LED  1600 DPI '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072KK2ZRP/?tag=tolees-21'
 descuento: '26.29'
 average: '32.94'

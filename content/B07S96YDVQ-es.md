@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'adidas M Mh Plain T P Pantalones de Deporte  Hombre  Black  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S96YDVQ/?tag=tolees-21'
 descuento: '54.78'
 average: '24.74222222222222'

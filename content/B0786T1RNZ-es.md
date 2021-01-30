@@ -16,6 +16,7 @@ comparePrice: 320.0 EUR
 prodname: 'adidas Nitrocharge ATTK Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0786T1RNZ/?tag=tolees-21'
 descuento: '76.62'
 average: '74.85'

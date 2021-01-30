@@ -16,6 +16,7 @@ comparePrice: 11.9 EUR
 prodname: 'Windows 10 Profesional 32/64 bits Mcrosoft | 100% garantía de activación | Envío por correo electrónico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z45RQ7H/?tag=tolees-21'
 descuento: '42.02'
 average: '7.090000000000001'

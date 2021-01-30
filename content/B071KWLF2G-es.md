@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'KROM Khuno USB Óptico 5000DPI Mano Derecha Negro - Ratón  USB  Juego  Botones presionados  Rueda  Óptico  5000 dpi '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071KWLF2G/?tag=tolees-21'
 descuento: '39.95'
 average: '26.155'

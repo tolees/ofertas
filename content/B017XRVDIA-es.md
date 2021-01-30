@@ -16,6 +16,7 @@ comparePrice: 351.2 EUR
 prodname: 'Compa G-250 - Ingletadora'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017XRVDIA/?tag=tolees-21'
 descuento: '38.33'
 average: '216.59'

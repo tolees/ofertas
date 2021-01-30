@@ -16,6 +16,7 @@ comparePrice: 74.9 EUR
 prodname: 'Tommy Hilfiger Essential Stripes Detail Sneaker  Zapatillas para Hombre  Blanco  White Ybs   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V8VGHPP/?tag=tolees-21'
 descuento: '42.60'
 average: '48.41857142857143'

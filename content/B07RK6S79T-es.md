@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Jeerhope Cable USB Tipo C USB C [3PACK 1M+1.5M+1.8M] Nylon Cargador USB Tipo C de Nylon Trenzado Carga Rápida y Sincronización para Samsung Galaxy S9/S8 - Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RK6S79T/?tag=tolees-21'
 descuento: '75.02'
 average: '9.99'

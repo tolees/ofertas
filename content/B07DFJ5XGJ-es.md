@@ -16,6 +16,7 @@ comparePrice: 17.95 EUR
 prodname: 'Pop! Marvel Studios 10th - Figura Chrome Hulk'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFJ5XGJ/?tag=tolees-21'
 descuento: '53.31'
 average: '8.737499999999999'

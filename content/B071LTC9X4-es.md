@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'New Balance Pc574v1 Zapatillas Unisex Niños  Negro  Black/grey   28.5 EU  10.5 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071LTC9X4/?tag=tolees-21'
 descuento: '48.58'
 average: '30.85'

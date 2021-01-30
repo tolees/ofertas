@@ -16,6 +16,7 @@ comparePrice: 10.66 EUR
 prodname: 'Crema para las pecas  Crema de eliminación de pecas  Crema hidratante blanqueadora antiarrugas para el cuidado de la piel  Control del aceite Nutritiva Reparación Eliminación de manchas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RTXLRR8/?tag=tolees-21'
 descuento: '65.38'
 average: '3.69'

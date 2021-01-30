@@ -16,6 +16,7 @@ comparePrice: 130.08 EUR
 prodname: 'Someline - Foco led para exteriores  20 W  con sensor de movimiento  enchufe y caja de derivación  IP66  resistente al agua  con sensor de movimiento  3 unidades '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SW2NRKK/?tag=tolees-21'
 descuento: '70.93'
 average: '37.81'

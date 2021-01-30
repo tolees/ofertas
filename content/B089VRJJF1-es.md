@@ -16,6 +16,7 @@ comparePrice: 19.88 EUR
 prodname: '3 Modos y 3 Capas Filtración Cabezal Ducha  Ainkedin Alcachofa de Ducha con Alta Presiòn Ahorro de Agua Desmontable Portátil  Viene con Tres Paquetes de Bolas Minerales'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089VRJJF1/?tag=tolees-21'
 descuento: '35.21'
 average: '12.88'

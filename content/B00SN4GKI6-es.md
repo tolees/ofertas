@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Chicco - Esterilizador microondas de hasta 5 biberones en 3 minutos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SN4GKI6/?tag=tolees-21'
 descuento: '32.83'
 average: '16.235'

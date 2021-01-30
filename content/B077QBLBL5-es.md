@@ -16,6 +16,7 @@ comparePrice: 42.85 EUR
 prodname: 'cuzit fútbol árbitro temporizador deportes Match Juego Reloj de pulsera cronógrafo de fútbol equipo Racing Carrera alarma multifunción digital cuenta atrás cronómetro para hombre TF7301'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077QBLBL5/?tag=tolees-21'
 descuento: '65.79'
 average: '14.66'

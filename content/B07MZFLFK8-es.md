@@ -16,6 +16,7 @@ comparePrice: 13.66 EUR
 prodname: 'Mustang Ben H Logo Capucha  Gris  Mid Grey Melange 4140   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZFLFK8/?tag=tolees-21'
 descuento: '28.48'
 average: '10.094999999999999'

@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Funko- Aladdins First Wish s Aladdin  Color Beige  Azul  marrón  Rojo  Disney 29375 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079TBLGFP/?tag=tolees-21'
 descuento: '45.98'
 average: '19.236666666666665'

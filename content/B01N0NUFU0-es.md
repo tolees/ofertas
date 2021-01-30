@@ -16,6 +16,7 @@ comparePrice: 59.14 EUR
 prodname: 'Cecotec Envasadora Vacío SealVac 110. 3 Modos de Funcionamiento  Vacía y Sella  más de 0 8 Bar de Presión  Longitud de Sellado hasta 30cm  Succion12l/min  Incluye 5 Bolsas y 1 Rollo Gofrado  110 W'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N0NUFU0/?tag=tolees-21'
 descuento: '33.72'
 average: '39.2'

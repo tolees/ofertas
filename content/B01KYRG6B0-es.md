@@ -16,6 +16,7 @@ comparePrice: 21.7 EUR
 prodname: 'American Crew Tratamiento Revigorizante Del Cuero Cabelludo - 100 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KYRG6B0/?tag=tolees-21'
 descuento: '49.54'
 average: '10.95'

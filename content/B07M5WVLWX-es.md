@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'VQYSKO Brazalete Pulsera Pareja Novios DIY Personalizado Acero Inoxidable Pulsera de Amor Regalo de San Valentin Sorpresa para Novio/a  2 Piezas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M5WVLWX/?tag=tolees-21'
 descuento: '44.46'
 average: '15.323333333333334'

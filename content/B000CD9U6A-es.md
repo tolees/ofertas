@@ -16,6 +16,7 @@ comparePrice: 33.5 EUR
 prodname: 'Pyrex Classic Vidrio - Fuente rectangular  38 x 25 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000CD9U6A/?tag=tolees-21'
 descuento: '51.49'
 average: '16.25'

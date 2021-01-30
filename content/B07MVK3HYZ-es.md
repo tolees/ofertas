@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'Kipling Women s KI3697  3 x Wallet Grey Grey  STEEL GR METAL H55 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVK3HYZ/?tag=tolees-21'
 descuento: '50.00'
 average: '25.386000000000003'

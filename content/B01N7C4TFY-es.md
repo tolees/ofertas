@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Intex 64446 - Colchón hinchable fibertech doble capa  152x203x51 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N7C4TFY/?tag=tolees-21'
 descuento: '33.07'
 average: '68.42500000000001'

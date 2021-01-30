@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'Salomon RX Slide 4.0 W  Zapatillas de Trail Running para Mujer  Rojo  Rhododendron/White/Cayenne   41 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RDLRH9J/?tag=tolees-21'
 descuento: '26.16'
 average: '47.99'

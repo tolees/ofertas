@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Helly Hansen W HH LIFA Crew LS Baselayer  Mujer  Negro  Black 990   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XHG1LTD/?tag=tolees-21'
 descuento: '40.12'
 average: '23.95'

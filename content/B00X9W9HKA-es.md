@@ -16,6 +16,7 @@ comparePrice: 8.5 EUR
 prodname: 'L Oreal Paris Sublime Mousse Coloración Permanente 450 Caoba Profundo Cautivador'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X9W9HKA/?tag=tolees-21'
 descuento: '29.53'
 average: '6.243333333333333'

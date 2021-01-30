@@ -16,6 +16,7 @@ comparePrice: 9.1 EUR
 prodname: 'Maybelline New York Corrector Imperfecciones Master Camo Pens  Ojeras   Tono 40 Amarillo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073VMZM6C/?tag=tolees-21'
 descuento: '28.57'
 average: '5.506666666666667'

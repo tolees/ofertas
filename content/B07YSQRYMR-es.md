@@ -16,6 +16,7 @@ comparePrice: 12.62 EUR
 prodname: 'runya Teclado Numérico Inalámbrico 2.4G Mini 18 Teclas Numérico Inalámbrico Keypad con Receptor USB para PC Ordenador portátil o de Escritorio Notebook'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YSQRYMR/?tag=tolees-21'
 descuento: '39.70'
 average: '7.61'

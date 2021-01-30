@@ -16,6 +16,7 @@ comparePrice: 62.99 EUR
 prodname: 'GPS coches  7 Pulgadas Navegadores GPS para Coche  Navegador gps para coche  pantalla táctil capacitiva de alto brillo  Actualización del mapa de por vida Dirección de giro recordando voz real hablada'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0837MDTQ8/?tag=tolees-21'
 descuento: '26.99'
 average: '45.99'

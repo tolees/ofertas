@@ -16,6 +16,7 @@ comparePrice: 19.88 EUR
 prodname: 'VIMOV Bandas de Resistencia de Tela Booty Bands/Bandas Elasticas Gluteos y Piernas/Bandas Antideslizantes de Ejercicios de Cadera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V2XHJG8/?tag=tolees-21'
 descuento: '49.75'
 average: '16.2125'

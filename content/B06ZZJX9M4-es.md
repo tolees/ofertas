@@ -16,6 +16,7 @@ comparePrice: 9.41 EUR
 prodname: 'Tetra Betta larvasticks comida para acuariofilia'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06ZZJX9M4/?tag=tolees-21'
 descuento: '33.79'
 average: '6.23'

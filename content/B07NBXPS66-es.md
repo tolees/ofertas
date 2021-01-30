@@ -16,6 +16,7 @@ comparePrice: 52.36 EUR
 prodname: 'Samsung Leather Cover  funda oficial para Samsung Galaxy 10  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NBXPS66/?tag=tolees-21'
 descuento: '71.41'
 average: '33.516666666666666'

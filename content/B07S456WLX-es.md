@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'BOSS Trunk 24 Print Calzón para Hombre  Rojo  Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S456WLX/?tag=tolees-21'
 descuento: '38.68'
 average: '20.125'

@@ -16,6 +16,7 @@ comparePrice: 15.71 EUR
 prodname: 'Somat Todo en 1 Pastillas Lavavajillas - 70 Dosis'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B5DDBP8/?tag=tolees-21'
 descuento: '49.97'
 average: '7.86'

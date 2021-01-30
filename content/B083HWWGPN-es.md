@@ -16,6 +16,7 @@ comparePrice: 42.45 EUR
 prodname: 'Ritokme Auriculares intrauditivos inalámbricos estéreo binaurales con Bluetooth y Estuche de Carga Auriculares'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083HWWGPN/?tag=tolees-21'
 descuento: '25.49'
 average: '38.495000000000005'

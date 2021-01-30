@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'Trust GXT 107 Izza Ratón inalámbrico para Juegos  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RFLJB1Y/?tag=tolees-21'
 descuento: '35.50'
 average: '19.99'

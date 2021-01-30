@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'PUMA ST Runner V2 NL  Zapatillas Unisex Adulto  Negro Black White  38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077MJHYY3/?tag=tolees-21'
 descuento: '31.85'
 average: '40.355000000000004'

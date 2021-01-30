@@ -16,6 +16,7 @@ comparePrice: 239.0 EUR
 prodname: 'MASERATI Reloj Analógico para Hombre de Cuarzo con Correa en Cuero R8851108027'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N5Y80UK/?tag=tolees-21'
 descuento: '36.13'
 average: '157.0375'

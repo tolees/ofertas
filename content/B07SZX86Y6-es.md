@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'adidas W C90 Tight Tights  Mujer  Black/White  M/S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SZX86Y6/?tag=tolees-21'
 descuento: '40.00'
 average: '17.97'

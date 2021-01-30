@@ -16,6 +16,7 @@ comparePrice: 11.15 EUR
 prodname: 'Funko- Pop Vinilo: Ghostbusters: Dr. Peter Venkman Figura Coleccionable  Multicolor  39335 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NSX38K5/?tag=tolees-21'
 descuento: '28.61'
 average: '10.168125'

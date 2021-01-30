@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Tous Baby Lámpara de Noche en Forma de Oso  3 watts  Blanco Semitransparente  19.6 x 24.5 x 11 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XZVGZ31/?tag=tolees-21'
 descuento: '30.00'
 average: '55.3'

@@ -16,6 +16,7 @@ comparePrice: 9.8 EUR
 prodname: 'Naturtint. Tinte Sin Amoniaco. Ingredientes Vegetales. 7G Rubio Dorado. 170 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XDWAVKQ/?tag=tolees-21'
 descuento: '61.33'
 average: '3.79'

@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Nike Tanjun    Zapatillas para Niños  Negro  Black/White   34 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00YFS0I46/?tag=tolees-21'
 descuento: '35.00'
 average: '26.0'

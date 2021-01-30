@@ -16,6 +16,7 @@ comparePrice: 489.0 EUR
 prodname: 'Somfy 2400961 Kit de Alimentación Solar  Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01E6FHPCU/?tag=tolees-21'
 descuento: '50.55'
 average: '309.78999999999996'

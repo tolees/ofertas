@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Lacoste PH4012  Polo Para Hombre  Blanco  Blanc   X-Small  Talla del fabricante: 2 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B019OFMKDG/?tag=tolees-21'
 descuento: '32.64'
 average: '63.99'

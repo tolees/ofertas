@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'adidas W E PLN Pant Sport Trousers  Mujer  Medium Grey Heather  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KL3WFBR/?tag=tolees-21'
 descuento: '42.55'
 average: '22.95'

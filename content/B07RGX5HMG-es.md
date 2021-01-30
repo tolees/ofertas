@@ -16,6 +16,7 @@ comparePrice: 22.22 EUR
 prodname: 'Kit de Punto de Cruz Estampado  Tela Impresa con Kit de Herramientas - EC008'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RGX5HMG/?tag=tolees-21'
 descuento: '36.95'
 average: '14.01'

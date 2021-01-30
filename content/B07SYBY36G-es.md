@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Huawei Mini Altavoz Bluetooth CM510  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SYBY36G/?tag=tolees-21'
 descuento: '55.12'
 average: '14.414285714285713'

@@ -16,6 +16,7 @@ comparePrice: 59 EUR
 prodname: 'Lacoste Carnaby EVO 319 1 SUI  Zapatillas Unisex Niños  Blanco  White/Green 082   24 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9V5ZPC/?tag=tolees-21'
 descuento: '69.25'
 average: '18.14'

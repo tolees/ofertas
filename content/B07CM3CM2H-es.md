@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Termometro Infrarrojos laser - AUELEK Profesional Medidor IR Digital sin Contacto  -50℃ ~ 550℃ Pistola de Temperatura  LCD Iluminación  Con Pilas  Para Coche  Cocina  Agua  Piscina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CM3CM2H/?tag=tolees-21'
 descuento: '25.01'
 average: '14.99'

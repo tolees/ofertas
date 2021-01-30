@@ -16,6 +16,7 @@ comparePrice: 60.99 EUR
 prodname: 'Alfombrilla De Planchar Portátil Manta De Planchar Lana Soporte De Plancha para Planchar A Vapor sobre La Mesa O La Cama'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088RH3KSK/?tag=tolees-21'
 descuento: '31.15'
 average: '41.99'

@@ -16,6 +16,7 @@ comparePrice: 5.08 EUR
 prodname: 'Gowind6 - Extensión de pestañas de algodón para microcepillo  100 unidades rosa rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H29Z3YW/?tag=tolees-21'
 descuento: '33.46'
 average: '3.38'

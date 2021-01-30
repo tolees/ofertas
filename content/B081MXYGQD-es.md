@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Masajeador 10 Modos de Vibración Silicona Masajeador Eléctricos Recargable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081MXYGQD/?tag=tolees-21'
 descuento: '56.69'
 average: '12.99'

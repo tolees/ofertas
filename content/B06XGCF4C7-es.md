@@ -16,6 +16,7 @@ comparePrice: 799.0 EUR
 prodname: 'Sonos PBASEWH - Base TV Multiroom  color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XGCF4C7/?tag=tolees-21'
 descuento: '32.96'
 average: '587.455'

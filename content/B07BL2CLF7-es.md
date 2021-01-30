@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance 997H  Zapatillas para Mujer  Negro  Black/Air   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BL2CLF7/?tag=tolees-21'
 descuento: '59.34'
 average: '34.365'

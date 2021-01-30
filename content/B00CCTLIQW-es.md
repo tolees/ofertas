@@ -16,6 +16,7 @@ comparePrice: 10.62 EUR
 prodname: 'Vaso medidor Kitchen Craft  de cristal  50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CCTLIQW/?tag=tolees-21'
 descuento: '48.78'
 average: '5.44'

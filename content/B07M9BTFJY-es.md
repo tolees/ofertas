@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'adidas Sleek  Zapatillas para Mujer  Color Blanco Footwear White Crystal White 0  39 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M9BTFJY/?tag=tolees-21'
 descuento: '30.02'
 average: '62.95'

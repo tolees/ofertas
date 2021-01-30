@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Gomyhom Rosa 24K  Rosa de Oro Chapada en Oro con Caja de Regalo para Madre para Amor en el Día de San Valentín para Aniversario para Amigos como Un Regalo de Cumpleaños  Rosa con Soporte '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079C1NMM7/?tag=tolees-21'
 descuento: '25.01'
 average: '29.99'

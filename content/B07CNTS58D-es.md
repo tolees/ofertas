@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Belkin F8J050bt04-BLK - Cable Micro-USB con Adaptador Lightning y Adaptador USB-C  1 2 m  Compatible con Apple iPhone/iPad  Samsung Galaxy S9/S9+/Note 9  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CNTS58D/?tag=tolees-21'
 descuento: '28.34'
 average: '21.49'

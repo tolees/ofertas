@@ -16,6 +16,7 @@ comparePrice: 15.37 EUR
 prodname: 'Betued Herramienta de artesanía Ajustable del Divisor del compás de la precisión del ángulo del Fabricante de Herramientas de la joyería'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T3GL1MD/?tag=tolees-21'
 descuento: '53.22'
 average: '7.19'

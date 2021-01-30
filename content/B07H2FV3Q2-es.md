@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Cressi Water Bottle H20 Stainless Steel Botella Deportiva Inoxidable  Unisex Adulto  Plata/Acero  500 ML'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H2FV3Q2/?tag=tolees-21'
 descuento: '51.33'
 average: '10.299'

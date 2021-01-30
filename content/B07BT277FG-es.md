@@ -16,6 +16,7 @@ comparePrice: 17.97 EUR
 prodname: 'Trona de Viaje para Bebé Silla alta Bebe Portatil Arnés de Seguridad Infantil Saco Correa Café'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BT277FG/?tag=tolees-21'
 descuento: '26.27'
 average: '13.25'

@@ -16,6 +16,7 @@ comparePrice: 159.95 EUR
 prodname: 'Salomon XA Pro 3D GTX  Zapatillas de Trail Running para Hombre  Negro/Lima  Black/Lime Green/White   46 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZKSR35/?tag=tolees-21'
 descuento: '36.26'
 average: '101.95'

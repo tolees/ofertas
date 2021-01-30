@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'E-MANIS Bolsa Almuerzo Bolsa Térmica con Compartimentos Separados Multiuso Caja De Almuerzo Multiuso Bolsa de Almuerzo para Adultos Mujeres Niños para Camping Excursión Playa Refrescos 6L  Gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F9VBSN3/?tag=tolees-21'
 descuento: '41.20'
 average: '9.99'

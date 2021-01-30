@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Under Armour UA Mojo  Zapatillas de Running para Hombre  Gris  Steel/White 101   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0777WXZB7/?tag=tolees-21'
 descuento: '31.33'
 average: '37.77'

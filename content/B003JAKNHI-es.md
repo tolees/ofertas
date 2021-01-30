@@ -16,6 +16,7 @@ comparePrice: 26.1 EUR
 prodname: 'PowerBar Ride Energy Peanut Caramel 18x55g - Barra de Proteínas de Carbohidratos + Magnesio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003JAKNHI/?tag=tolees-21'
 descuento: '29.20'
 average: '18.48'

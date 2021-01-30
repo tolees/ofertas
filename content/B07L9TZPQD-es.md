@@ -16,6 +16,7 @@ comparePrice: 109.0 EUR
 prodname: 'Lacoste Court Slam 319 2 SMA  Zapatillas para Hombre  Blanco  White/Green 082   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9TZPQD/?tag=tolees-21'
 descuento: '39.46'
 average: '65.99'

@@ -16,6 +16,7 @@ comparePrice: 15.7 EUR
 prodname: 'Ladrón con interruptor múltiple Maclean MCE217  adaptador con cuatro enchufes europeos de 2 5 A'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FYL9DS4/?tag=tolees-21'
 descuento: '44.84'
 average: '8.66'

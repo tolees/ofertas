@@ -16,6 +16,7 @@ comparePrice: 74.47 EUR
 prodname: 'Tommy Hilfiger Medium Drawstring Bañador  Blanco  Large  Talla del Fabricante:  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W4M2QCY/?tag=tolees-21'
 descuento: '51.47'
 average: '31.049999999999997'

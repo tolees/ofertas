@@ -16,6 +16,7 @@ comparePrice: 216.83 EUR
 prodname: 'Johnnie Walker Blue Whisky Escocés - 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009RUKXT2/?tag=tolees-21'
 descuento: '36.66'
 average: '135.30923076923077'

@@ -16,6 +16,7 @@ comparePrice: 19.0 EUR
 prodname: 'Levi s Oversized Batwing Beanie Gorro de Punto  Negro  Noir Regular Black 59   única  Talla del Fabricante: UN  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BR6DLJR/?tag=tolees-21'
 descuento: '31.63'
 average: '15.745000000000001'

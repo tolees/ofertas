@@ -16,6 +16,7 @@ comparePrice: 8.25 EUR
 prodname: 'Palette Intense Cream Coloration Intensive Coloración del Cabello 8.55 Rubio Dorado Miel - Pack de 3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071KCB1JS/?tag=tolees-21'
 descuento: '40.73'
 average: '4.89'

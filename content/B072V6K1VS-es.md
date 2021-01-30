@@ -16,6 +16,7 @@ comparePrice: 525.83 EUR
 prodname: 'COMTEX hombres de color blanco reloj con pulsera de acero inoxidable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072V6K1VS/?tag=tolees-21'
 descuento: '97.60'
 average: '14.271249999999998'

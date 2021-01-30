@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: '3Ciker Case compatible con Samsung Galaxy A50 funda transparente de silicona suave transparente antigolpes  funda antigolpes  mármol flores antiamarilla Cover para Samsung A50'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089YS9NLJ/?tag=tolees-21'
 descuento: '42.13'
 average: '10.99'

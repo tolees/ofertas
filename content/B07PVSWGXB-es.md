@@ -16,6 +16,7 @@ comparePrice: 18.65 EUR
 prodname: 'SoftSocks SNEAKER LOW CUT Calcetines para mujeres  hombres y adolescentes  varios tamaños  6 pares: ¡Negro  blanco o mixto! Calidad de algodón!  Blanco  35-38 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PVSWGXB/?tag=tolees-21'
 descuento: '49.97'
 average: '14.576666666666666'

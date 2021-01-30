@@ -16,6 +16,7 @@ comparePrice: 261.84 EUR
 prodname: 'B+W Vario XS-Pro - Filtro ND de 58 mm MRC Nano'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GIRU3PG/?tag=tolees-21'
 descuento: '40.37'
 average: '156.14'

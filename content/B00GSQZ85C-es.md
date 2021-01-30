@@ -16,6 +16,7 @@ comparePrice: 13.95 EUR
 prodname: 'Victory Endurance Fat Burner - 120 Cápsulas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GSQZ85C/?tag=tolees-21'
 descuento: '25.02'
 average: '10.425'

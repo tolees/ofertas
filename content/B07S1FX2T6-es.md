@@ -16,6 +16,7 @@ comparePrice: 47.98 EUR
 prodname: 'Neusky - Aspersor de agua para niños  bebés y perros en verano'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S1FX2T6/?tag=tolees-21'
 descuento: '47.92'
 average: '24.99'

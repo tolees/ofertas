@@ -16,6 +16,7 @@ comparePrice: 33.98 EUR
 prodname: 'K9CK Soporte para Lego Star Wars Millennium Falcon 75105  Soporte de Exhibición Vertical Soporte Compatible con Modelo en Bloques de Construcción  Modelo no Incluido '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086C4GZ5Q/?tag=tolees-21'
 descuento: '50.00'
 average: '16.508749999999996'

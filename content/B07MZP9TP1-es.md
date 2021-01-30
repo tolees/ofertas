@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Pepe Jeans Lia Pantalones   Multi 0aa   36  Talla del Fabricante: Small  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZP9TP1/?tag=tolees-21'
 descuento: '64.95'
 average: '31.7175'

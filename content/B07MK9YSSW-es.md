@@ -16,6 +16,7 @@ comparePrice: 35.22 EUR
 prodname: 'Skechers GO Walk 5 APPRIZE  Zapatillas sin Cordones para Hombre  Gris  Charcoal Textile/Synthetic/White Trim Charcoal   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MK9YSSW/?tag=tolees-21'
 descuento: '37.22'
 average: '22.11'

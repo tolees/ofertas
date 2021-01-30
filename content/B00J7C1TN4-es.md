@@ -16,6 +16,7 @@ comparePrice: 6.1 EUR
 prodname: 'Schwarzkopf Professional Igora Royal Loción Activa Vol 20 - 60 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00J7C1TN4/?tag=tolees-21'
 descuento: '29.67'
 average: '4.29'

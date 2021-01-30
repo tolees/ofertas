@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'QITAYO Protector de Pantalla Huawei P30 Lite  [0.3mm  2.5D] [Libre de Burbujas] [Dureza 9H] [Fácil instalación] [HD Clear] Protector de Pantalla de Vidrio Templado para Huawei P30 Lite  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N5ZGGJW/?tag=tolees-21'
 descuento: '46.19'
 average: '6.99'

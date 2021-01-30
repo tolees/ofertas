@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Klarstein Infinity Storm - Ventilador de pie  40 cm  16"   55 W  3600 m³/h  3 Modos  6 velocidades  5 aspas  Oscilación de 85°  Variofresh  Anti vuelco  Incluye Mando a Distancia  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D9NY73N/?tag=tolees-21'
 descuento: '25.00'
 average: '59.99'

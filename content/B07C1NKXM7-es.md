@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Oxford School - Recambio para cuaderno  A4  5 x 5 cm  color multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C1NKXM7/?tag=tolees-21'
 descuento: '31.66'
 average: '6.165'

@@ -16,6 +16,7 @@ comparePrice: 92.84 EUR
 prodname: 'Banco de energía inalámbrico rápido cargador solar 20000mAh batería externa mejorada energía de emergencia portátil con puertos entrada tipo C brújula para Android/IOS y otros teléfonos inteligentes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QDRVMV6/?tag=tolees-21'
 descuento: '47.23'
 average: '48.99'

@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'Cepillo Desenredador  Cepillo para Alisar Cabello  Cepillo Desenredante para Cabello Natural  Peine de Pelo Ocho Garras Cepillo  Apta para Pelo Afro 3a Hasta 4c  Ondulado  Rizado  Grueso'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086JY2W2K/?tag=tolees-21'
 descuento: '44.84'
 average: '15.99'

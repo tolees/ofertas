@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'AUKEY Bateria Externa 20000mAh  Cargador Portatil con 2 Ports  Power Bank para iPhone 8/ Plus/ 7/ 6s  Samsung Galaxy S8/ S8+  iPad y más'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075VNGBZM/?tag=tolees-21'
 descuento: '32.01'
 average: '20.189999999999998'

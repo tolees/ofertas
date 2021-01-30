@@ -16,6 +16,7 @@ comparePrice: 195.0 EUR
 prodname: 'Samsonite Spark SNG Spinner Top Pocket Equipaje de Mano 55 cm  43 litros  Negro  Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XXCQL6J/?tag=tolees-21'
 descuento: '26.44'
 average: '140.81'

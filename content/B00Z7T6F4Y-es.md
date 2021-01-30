@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'OtterBox Defender - Funda de protección triple capa para Apple iPad Pro 10.5"  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00Z7T6F4Y/?tag=tolees-21'
 descuento: '25.00'
 average: '67.49'

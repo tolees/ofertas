@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Lacoste Mh6270 Pantalones Cortos  Verde  Vert/Marine 381   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07THWD6J6/?tag=tolees-21'
 descuento: '30.78'
 average: '44.99'

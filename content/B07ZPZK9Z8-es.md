@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Masajeador Electrónico 10 Modos Vibración Masajeador de Espalda y Hombros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZPZK9Z8/?tag=tolees-21'
 descuento: '45.01'
 average: '21.99'

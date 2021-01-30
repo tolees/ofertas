@@ -16,6 +16,7 @@ comparePrice: 499.0 EUR
 prodname: 'Suunto - Traverse Alpha - Reloj GPS Outdoor para pesca  caza y excursionismo - Sumergible - Negro Stealth - Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DNSDBDS/?tag=tolees-21'
 descuento: '47.90'
 average: '288.3816666666667'

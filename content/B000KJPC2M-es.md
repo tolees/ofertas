@@ -16,6 +16,7 @@ comparePrice: 38.3 EUR
 prodname: 'Wedo 212200 Taburete con Ruedas  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000KJPC2M/?tag=tolees-21'
 descuento: '29.84'
 average: '26.87'

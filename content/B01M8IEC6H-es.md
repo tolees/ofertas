@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Razer Gigantus - Alfombrilla de ratón con superficie extra grande  adecuado para juegos de baja sensibilidad  control y velocidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M8IEC6H/?tag=tolees-21'
 descuento: '33.34'
 average: '20.59'

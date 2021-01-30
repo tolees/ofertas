@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Telmu 10 x 42 Prismáticos con Prisma Superior BAK4 y Lente FMC  Binoculares Compactos para Conciertos  Partidos de Fútbol  Observación de Aves  Correas para Los Hombros y Bolsas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PYRV81C/?tag=tolees-21'
 descuento: '44.01'
 average: '31.740000000000002'

@@ -16,6 +16,7 @@ comparePrice: 145.54 EUR
 prodname: 'Interruptor de reinicio del botón Interruptor de circuito WIFI Temporizador de control remoto 4P Ewelink inalámbrico inteligente inteligente Switch-4P 10A'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BCN36FW/?tag=tolees-21'
 descuento: '46.41'
 average: '78.0'

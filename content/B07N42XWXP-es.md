@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Levi s 501 Original Short Pantalones Cortos  Azul  Silver Lake 0018   W30  Talla del Fabricante: 30  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N42XWXP/?tag=tolees-21'
 descuento: '36.38'
 average: '34.99'

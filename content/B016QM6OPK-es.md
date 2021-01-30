@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Tommy Hilfiger BB Cap Gorra  Blanco  Classic White 100   talla unica para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016QM6OPK/?tag=tolees-21'
 descuento: '29.80'
 average: '19.976666666666667'

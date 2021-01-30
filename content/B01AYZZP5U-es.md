@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Audio-Technica ATH-ADG1X Auriculares  de Diadema  Micro Gaming  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AYZZP5U/?tag=tolees-21'
 descuento: '59.87'
 average: '149.57928571428573'

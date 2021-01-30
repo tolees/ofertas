@@ -16,6 +16,7 @@ comparePrice: 329.0 EUR
 prodname: 'De Longhi MultiFry Extra Chef Freidora  1 7 kg de capacidad  resistencia inferior de 800 W  panel de control digital LCD con 7 programas automáticos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VE53LOM/?tag=tolees-21'
 descuento: '35.93'
 average: '214.308'

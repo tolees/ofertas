@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'Mercurio Distribuciones- Juego de Estrategia  A0036 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017A1NKAI/?tag=tolees-21'
 descuento: '41.08'
 average: '32.4'

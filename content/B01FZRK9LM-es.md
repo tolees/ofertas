@@ -16,6 +16,7 @@ comparePrice: 106 EUR
 prodname: 'Nike Air MAX 90 Leather  Zapatillas para Niños  Negro  Black 001   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FZRK9LM/?tag=tolees-21'
 descuento: '62.26'
 average: '65.0'

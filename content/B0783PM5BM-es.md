@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'PUMA Smash V2 L  Zapatillas para Hombre  Blanco White Black  44.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0783PM5BM/?tag=tolees-21'
 descuento: '32.83'
 average: '29.449736842105263'

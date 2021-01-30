@@ -16,6 +16,7 @@ comparePrice: 729.0 EUR
 prodname: 'De Longhi Pac AN98 Aire Acondicionado portátil  capacidad refrigeración 10.700 BTU  tecnología Real Feel comfort óptimo  función ventilador y deshumidificación  control LED  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NT57BJM/?tag=tolees-21'
 descuento: '32.78'
 average: '501.8'

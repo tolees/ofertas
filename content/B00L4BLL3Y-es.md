@@ -16,6 +16,7 @@ comparePrice: 849.9 EUR
 prodname: 'Panasonic Lumix DMC FZ1000 - Cámara Bridge de 20.1 MP  Sensor 1 pulgadas  zoom 16X  Estabilizador Óptico  Objetivo F2.8-F4 de 25- 400 mm  4K  WiFi   Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00L4BLL3Y/?tag=tolees-21'
 descuento: '33.88'
 average: '544.4200000000001'

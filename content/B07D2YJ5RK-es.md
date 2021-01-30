@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Luchild Colchoneta Silla Paseo Universal Verano Colchoneta para Cochecito y Carro Bebe Transpirable  Gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D2YJ5RK/?tag=tolees-21'
 descuento: '34.63'
 average: '16.99'

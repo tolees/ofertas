@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'DFNT - Spray contra Insectos  250 ml  Ideal para protección contra Insectos  con Efecto prolongado  Alternativa a la Trampa contra Insectos en Caso de infestación aguda de parásitos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NNMHCZ8/?tag=tolees-21'
 descuento: '30.15'
 average: '13.9'

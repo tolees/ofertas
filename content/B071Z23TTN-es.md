@@ -16,6 +16,7 @@ comparePrice: 16.56 EUR
 prodname: 'Scholl Plantillas Gel Activ Sport Mujer para Zapatillas Deportivas  35.5-40.5  1 par'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071Z23TTN/?tag=tolees-21'
 descuento: '93.42'
 average: '1.09'

@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Levi s 502 Regular Taper Jeans  Negro  Adjustable Black 0751   W31/L32  Talla del Fabricante: 31 32  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TYGZDY8/?tag=tolees-21'
 descuento: '64.79'
 average: '35.68'

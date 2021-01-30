@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Lotus Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable 18652/3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NGR4VFB/?tag=tolees-21'
 descuento: '25.62'
 average: '95.95'

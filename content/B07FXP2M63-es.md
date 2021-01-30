@@ -16,6 +16,7 @@ comparePrice: 49.98 EUR
 prodname: 'TOUCHBeauty Manicura y Pedicura Lima de uñas eléctrico profesional con conjunto de soporte - el sistema completo de lima de uñas portátil San inalámbrico con sello  pulidora  lijadora y tendedero UV'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FXP2M63/?tag=tolees-21'
 descuento: '62.00'
 average: '18.99'

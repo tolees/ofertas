@@ -16,6 +16,7 @@ comparePrice: 479.0 EUR
 prodname: 'Samyang DSLR - Objetivo fotográfico para Sony E  20 mm  F1.8 ED  AS UMC   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LY4OY3J/?tag=tolees-21'
 descuento: '28.46'
 average: '404.02000000000004'

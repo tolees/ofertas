@@ -16,6 +16,7 @@ comparePrice: 19.94 EUR
 prodname: '12pcs Negro Y Blanco A Cuadros Fórmula Uno Que Compite Con F1 Mano Que Agita La Bandera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FFRYJZY/?tag=tolees-21'
 descuento: '54.91'
 average: '9.780000000000001'

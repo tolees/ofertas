@@ -16,6 +16,7 @@ comparePrice: 180.0 EUR
 prodname: 'Clarks Un Elda Hi  Botas Slouch para Mujer  Negro  Black Combi Black Combi   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1GN2PC/?tag=tolees-21'
 descuento: '82.76'
 average: '31.04'

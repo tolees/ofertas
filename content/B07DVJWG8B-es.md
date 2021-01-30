@@ -16,6 +16,7 @@ comparePrice: 90 EUR
 prodname: 'New Balance 247v2  Entrenadores para Mujer  Rosa  Birch Birch   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DVJWG8B/?tag=tolees-21'
 descuento: '69.34'
 average: '36.295'

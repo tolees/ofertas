@@ -16,6 +16,7 @@ comparePrice: 7.54 EUR
 prodname: 'MaNMaNing Protección 3 Capas Transpirables con Elástico para Los Oídos Pack 50 unidades 20200723-MANING-NM50  50  Niño '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DJZT3FZ/?tag=tolees-21'
 descuento: '29.18'
 average: '5.34'

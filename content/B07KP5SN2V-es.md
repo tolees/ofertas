@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'Lámpara Secador de Uñas  NAVANINO LED/UV Gel Esmalte de Uñas Curado Luz Máquina  4 Modos con Sensor Automático y Pantalla LCD Para Manicura/Pedicure Nail Art en el Hogar y el Salón  54W'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KP5SN2V/?tag=tolees-21'
 descuento: '25.01'
 average: '24.99'

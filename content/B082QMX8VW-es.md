@@ -16,6 +16,7 @@ comparePrice: 46.99 EUR
 prodname: 'Ukuu gsm Teléfonos Móviles para Mayores con Teclas Extra Grandes Pantalla de 2 3 Pulgadas con Botón SOS Batería de 1000mAh y Base de Carga Fácil de Usar Senior Teléfonos - Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082QMX8VW/?tag=tolees-21'
 descuento: '30.03'
 average: '34.935'

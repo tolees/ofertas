@@ -16,6 +16,7 @@ comparePrice: 36.9 EUR
 prodname: 'DIM SG Foulard  Sujetador Para Mujer  Negro  Black   95B'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01C460IKO/?tag=tolees-21'
 descuento: '40.22'
 average: '22.543333333333333'

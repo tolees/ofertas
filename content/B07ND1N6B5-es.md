@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 32.02 % en LAY S GOURMET TRUFA'
-date: 2021-01-28 10:00:03
+date: 2021-01-30 09:35:41
 image: 'https://m.media-amazon.com/images/I/41FE2MSphsL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,9 +16,10 @@ comparePrice: 2.28 EUR
 prodname: 'LAY S GOURMET TRUFA'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Lay'S Gourmet'
 buyurl: 'https://www.amazon.es/dp/B07ND1N6B5/?tag=tolees-21'
 descuento: '32.02'
-average: '1.795'
+average: '1.71333333333333'
 ---
 
 Tienes [LAY S GOURMET TRUFA](https://www.amazon.es/dp/B07ND1N6B5/?tag=tolees-21) con un 32.02 % de descuento con precio de oferta de 1.55 EUR (original: 2.28 EUR) en el siguiente enlace!
@@ -28,7 +29,7 @@ Tienes [LAY S GOURMET TRUFA](https://www.amazon.es/dp/B07ND1N6B5/?tag=tolees-21)
 ℹ️:
 
 - Sabor trufa
-- Conservar en un lugar fresco y seco
 - Lays gourmet
+- Conservar en un lugar fresco y seco
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07ND1N6B5/?tag=tolees-21)

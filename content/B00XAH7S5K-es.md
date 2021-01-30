@@ -16,6 +16,7 @@ comparePrice: 3.38 EUR
 prodname: 'Heno de Pravia - Desodorante roll-on  50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XAH7S5K/?tag=tolees-21'
 descuento: '32.25'
 average: '2.29'

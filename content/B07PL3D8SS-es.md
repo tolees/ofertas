@@ -16,6 +16,7 @@ comparePrice: 53.26 EUR
 prodname: 'Nike Todos  Zapatillas de Entrenamiento para Hombre  Blanco  White/University Red/Black 101   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PL3D8SS/?tag=tolees-21'
 descuento: '38.38'
 average: '32.82'

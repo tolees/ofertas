@@ -16,6 +16,7 @@ comparePrice: 39.76 EUR
 prodname: 'Masthome tabla de cortar de bambú con ranura para jugo y mango  ideal para carne  verduras  frutas - 1 afilador de cuchillos y 1 cuchillo como un regalo [4 piezas]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MD5B94Z/?tag=tolees-21'
 descuento: '50.68'
 average: '19.61'

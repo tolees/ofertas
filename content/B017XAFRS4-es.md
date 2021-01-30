@@ -16,6 +16,7 @@ comparePrice: 11.57 EUR
 prodname: 'Kärcher Pistola pulverizadora  2.645-265.0 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017XAFRS4/?tag=tolees-21'
 descuento: '31.29'
 average: '7.677272727272728'

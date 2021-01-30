@@ -16,6 +16,7 @@ comparePrice: 33.66 EUR
 prodname: 'YIMORE Raquetas de Tenis bádminton con Bolas Juguete para niños - 3 en 1 Juego de Deporte Playa al Aire Libre  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DLSXQX3/?tag=tolees-21'
 descuento: '46.58'
 average: '15.98'

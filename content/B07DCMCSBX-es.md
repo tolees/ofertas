@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'LITTHING Plancha de Pelo Profesional de Cerámica con Pantalla LCD Apagado Automático en 1 hora Doble Vortaje Roja'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DCMCSBX/?tag=tolees-21'
 descuento: '30.01'
 average: '17.49'

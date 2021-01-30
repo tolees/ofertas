@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Columbia Sun Ridge  Polo  Hombre  Negro  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004E0ZZIE/?tag=tolees-21'
 descuento: '67.99'
 average: '15.1'

@@ -16,6 +16,7 @@ comparePrice: 26.11 EUR
 prodname: 'Olimp Sport Nutrition HMB Mega Anticatabólico - 120 Cápsulas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003KOK9EK/?tag=tolees-21'
 descuento: '32.63'
 average: '17.59'

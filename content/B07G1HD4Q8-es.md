@@ -16,6 +16,7 @@ comparePrice: 37.35 EUR
 prodname: 'find. Chunky Leather Botas Chelsea  Negro Black  36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G1HD4Q8/?tag=tolees-21'
 descuento: '34.43'
 average: '24.49'

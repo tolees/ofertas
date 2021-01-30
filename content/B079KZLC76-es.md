@@ -16,6 +16,7 @@ comparePrice: 37.99 EUR
 prodname: 'Veatree Bloques Magnéticos de Construcción para Niños Palos Magnéticos con Bolas 206 Piezas Juguete Educativo para el Desarrollo Integral para Mayores de 4 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079KZLC76/?tag=tolees-21'
 descuento: '32.88'
 average: '27.755000000000003'

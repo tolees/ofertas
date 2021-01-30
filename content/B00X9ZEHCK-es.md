@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Nivea Sun Spray Solar Niños Protege Juega FP50+  1 x 300 ml  pistola spray solar hidratante resistente al agua  protector solar infantil  protección solar muy alta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X9ZEHCK/?tag=tolees-21'
 descuento: '31.10'
 average: '10.336455696202531'

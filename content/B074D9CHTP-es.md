@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Casio Reloj Analogico-Digital para Mujer de Cuarzo con Correa en Resina BGS-100-1AER'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074D9CHTP/?tag=tolees-21'
 descuento: '51.19'
 average: '62.97'

@@ -16,6 +16,7 @@ comparePrice: 62.99 EUR
 prodname: 'BANLVS 1080P Cámara IP WiFi  Cámara de Vigilancia WiFi Interior FHD con Visión Nocturna  Detección de Movimiento  Audio de 2 Vías  Vigilancia de Seguridad para Hogar/Bebé/Mascotas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QYTXQSG/?tag=tolees-21'
 descuento: '58.74'
 average: '31.490000000000002'

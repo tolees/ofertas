@@ -16,6 +16,7 @@ comparePrice: 80.13 EUR
 prodname: 'Multímetro Digital de Voltaje Corriente AC DC MESTEK Pantalla VA Inversa Anti-quemaduras NCV VFC Amp Volt Ohm Hz Diodo Resistencia Frecuencia Capacitancia'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z5Q9VH4/?tag=tolees-21'
 descuento: '55.30'
 average: '35.82'

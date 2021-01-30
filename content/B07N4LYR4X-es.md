@@ -16,6 +16,7 @@ comparePrice: 43.97 EUR
 prodname: 'Levi s Twain  Zapatillas para Hombre  Negro  Shoes 59   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N4LYR4X/?tag=tolees-21'
 descuento: '33.66'
 average: '31.055'

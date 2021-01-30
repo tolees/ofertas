@@ -16,6 +16,7 @@ comparePrice: 2.27 EUR
 prodname: 'Nuevo 20PCS NE555P NE555 DIP-8 TEMPORIZADORES BIPOLARES SIMPLES IC TOP Alta calidad-Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B69RPMX/?tag=tolees-21'
 descuento: '33.48'
 average: '1.51'

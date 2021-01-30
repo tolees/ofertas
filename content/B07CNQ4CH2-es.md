@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Linterna LED Recargable Zoomable Ajustable Linterna - King-Pin Impermeable Portátil Linterna 5 Modos 1000 Lumen para Casa  Apagón  Garaje  Emergencia  Acampar  Pesca Actividades al Aire Libre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CNQ4CH2/?tag=tolees-21'
 descuento: '56.82'
 average: '12.95'

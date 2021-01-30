@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'JACK & JONES Jorflash Crew Neck suéter  Azul  Sea Mossno Badge Knit Fit   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VRB2C3L/?tag=tolees-21'
 descuento: '50.02'
 average: '14.99'

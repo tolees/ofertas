@@ -16,6 +16,7 @@ comparePrice: 45.9 EUR
 prodname: 'Trueno Kids V'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C5D3BTW/?tag=tolees-21'
 descuento: '50.00'
 average: '22.185'

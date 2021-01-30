@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Shovel Knight: Treasure Trove'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJHQ393/?tag=tolees-21'
 descuento: '33.26'
 average: '27.15333333333333'

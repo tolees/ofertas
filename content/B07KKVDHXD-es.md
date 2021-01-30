@@ -16,6 +16,7 @@ comparePrice: 38.65 EUR
 prodname: 'Nike M CFD Pant FLC TM Club19 Sport - Pantalones  Hombre  Black/White  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KKVDHXD/?tag=tolees-21'
 descuento: '30.04'
 average: '33.519999999999996'

@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Dermacol - Barra de Labios Pretty Matte No. 05-1 unidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N9BXCA0/?tag=tolees-21'
 descuento: '47.39'
 average: '4.73'

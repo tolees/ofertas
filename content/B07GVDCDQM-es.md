@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'UniqueMe Funda para iPhone XS  2018  / iPhone X  2017   Ultra [Slim Thin] TPU Funda Protectora TPU de Silicona Suave para iPhone XS 5.8 Inch- Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GVDCDQM/?tag=tolees-21'
 descuento: '85.78'
 average: '1.99'

@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Salomon X Ultra 3 GTX W  Zapatillas de Senderismo para Mujer  Multicolor  Magnet/Black/Mineral Red 000   36 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071HY33FN/?tag=tolees-21'
 descuento: '26.73'
 average: '119.23333333333333'

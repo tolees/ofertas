@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Braun MQ20 Minipimer Accesorio Minipicadora  350 ml  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EQB0Q1W/?tag=tolees-21'
 descuento: '37.93'
 average: '18.0'

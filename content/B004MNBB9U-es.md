@@ -16,6 +16,7 @@ comparePrice: 101.8 EUR
 prodname: 'FISCHER 038002 - Brida BN 8 8x1168 natural  Envase de 100 ud. '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004MNBB9U/?tag=tolees-21'
 descuento: '78.44'
 average: '21.95'

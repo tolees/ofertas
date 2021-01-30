@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Skechers MAX Cushioning Elite-Step Up  Zapatillas para Mujer  Blanco  White Leather/Silver Trim WSL   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TXM2DG7/?tag=tolees-21'
 descuento: '55.96'
 average: '39.61'

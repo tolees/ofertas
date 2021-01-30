@@ -16,6 +16,7 @@ comparePrice: 9.49 EUR
 prodname: 'Verbatim PinStripe 32GB USB 3.0  3.1 Gen 1  Conector USB Tipo A Negro unidad flash USB - Memoria USB  32 GB  3.0  3.1 Gen 1   Conector USB Tipo A  Deslizar  3 6 g  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DWNMY5A/?tag=tolees-21'
 descuento: '26.34'
 average: '6.626666666666667'

@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Calvin Klein Damen String MODERN - THONG  Einfarbig  Gr. 34  Herstellergröße: XS   Weiß  WHITE 100 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MF9LHHO/?tag=tolees-21'
 descuento: '39.90'
 average: '11.469999999999999'

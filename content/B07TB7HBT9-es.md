@@ -16,6 +16,7 @@ comparePrice: 10.95 EUR
 prodname: 'Max Factor Colour Elixir Lipstick  Barra de labios Tono 25  29 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TB7HBT9/?tag=tolees-21'
 descuento: '67.21'
 average: '3.59'

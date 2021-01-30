@@ -16,6 +16,7 @@ comparePrice: 22.9 EUR
 prodname: 'Playtex Soutien-Gorge Emboitant Avec Armatures Essential Elegance Sujetador con Aros  Negro  Noir 001   95D para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PSK1SBK/?tag=tolees-21'
 descuento: '65.07'
 average: '8.0'

@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'FREDI Cámara espía Wireless Mini cámara de Seguridad HD 1080P WiFi Cámara IP con Detector de Movimiento/micrófono/grabación de Video para iPhone/teléfono Android/iPad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PZ6WFJP/?tag=tolees-21'
 descuento: '50.01'
 average: '42.49'

@@ -16,6 +16,7 @@ comparePrice: 45.7 EUR
 prodname: 'NUEVO Dermaroller Kit 3 en 1 Para la Cara y el Cuerpo - Disminuir Cicatrices de Acné  Arrugas y Líneas Finas  Hiperpigmentación  Celulitis & Estrías'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0758BL4TY/?tag=tolees-21'
 descuento: '67.24'
 average: '14.97'

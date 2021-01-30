@@ -16,6 +16,7 @@ comparePrice: 16.49 EUR
 prodname: 'IPOTCH El Soporte del Porta Bolsas De Lona Enrolla El Soporte del Cepillo De La Caligrafía Enrolla La Protección'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X9KCJSQ/?tag=tolees-21'
 descuento: '33.35'
 average: '10.99'

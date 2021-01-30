@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'JACK & JONES Jfwbarton Canvas  Zapatillas para Hombre  Azul  Navy Blazer Navy Blazer   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MYNMK1X/?tag=tolees-21'
 descuento: '53.13'
 average: '26.48'

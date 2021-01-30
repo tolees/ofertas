@@ -16,6 +16,7 @@ comparePrice: 10.96 EUR
 prodname: '3M Cinta Americana Universal 1900  50 mm x 50 m  color negro  1 unidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006MKBVNM/?tag=tolees-21'
 descuento: '36.59'
 average: '6.95'

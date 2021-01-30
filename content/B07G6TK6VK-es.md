@@ -16,6 +16,7 @@ comparePrice: 6.01 EUR
 prodname: 'Babaria Babaria Men After Shave Balsamo 150 Ml 150 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G6TK6VK/?tag=tolees-21'
 descuento: '37.77'
 average: '3.74'

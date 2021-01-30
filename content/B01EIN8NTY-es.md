@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Victoria Deportivo Basket Piel - Zapatillas de Deporte Unisex  color Blanco y Negro Brillante  Negro 10   talla 37'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EIN8NTY/?tag=tolees-21'
 descuento: '25.27'
 average: '37.29'

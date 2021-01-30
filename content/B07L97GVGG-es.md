@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Under Armour SweaterFleece 1/2 Zip Parte Superior del Calentamiento  Hombre  Negro  SM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L97GVGG/?tag=tolees-21'
 descuento: '33.12'
 average: '37.265'

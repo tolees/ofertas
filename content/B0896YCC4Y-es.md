@@ -16,6 +16,7 @@ comparePrice: 11.52 EUR
 prodname: 'TRUUA 10pcs Silicona para bebés Mam Anillo simulado Chupete Titular Clip Adaptador - Transparente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0896YCC4Y/?tag=tolees-21'
 descuento: '61.55'
 average: '4.43'

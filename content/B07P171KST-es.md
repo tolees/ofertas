@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'FITTOO Mallas Pantalones Deportivos Mujer Elásticos Transpirables para Yoga Running Fitness670'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P171KST/?tag=tolees-21'
 descuento: '43.37'
 average: '16.99'

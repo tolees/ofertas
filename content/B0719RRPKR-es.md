@@ -16,6 +16,7 @@ comparePrice: 169.99 EUR
 prodname: 'Finether Armario de Cultivo Interior 120x120x200 cm Grow Box Hidroponía para Jardín Resistente a la Luz e Impermeable Ideal para Plántulas  Frutas  Hierbas  Flores y Vegetales  Plantas Todo el Año'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0719RRPKR/?tag=tolees-21'
 descuento: '44.71'
 average: '93.99'

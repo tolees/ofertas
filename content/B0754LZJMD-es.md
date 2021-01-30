@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Easton Marlowe 6 PR Calcetines de Vestir Homber - 6pk #38 - estampados sutiles - 39-42 EU shoe size'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0754LZJMD/?tag=tolees-21'
 descuento: '30.79'
 average: '12.656666666666666'

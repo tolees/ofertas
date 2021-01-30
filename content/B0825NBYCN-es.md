@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Quiksilver Word Block 17" - Short De Natación para Hombre Jam/Volley  Hombre  Blithe  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0825NBYCN/?tag=tolees-21'
 descuento: '56.01'
 average: '21.99'

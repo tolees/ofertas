@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'LANDWIND FT118 Termómetro Digital Bebé  Termómetro Infrarrojo de Frente  Multifunción 4 en 1  Alarma de Fiebre  Lectura instantánea para Niños  Adultos  Objetos y Ambiente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086W2GF9G/?tag=tolees-21'
 descuento: '28.90'
 average: '31.99'

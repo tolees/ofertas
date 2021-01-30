@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Persona 5: Dancing in Starlight - Edición Estándar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GC8QDGV/?tag=tolees-21'
 descuento: '47.49'
 average: '28.494999999999997'

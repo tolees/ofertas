@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Einhell 1002231 Cargador Bateria CC-BC 6 m con ControlMicro-Processor Voltaje 6/12v  Negro  Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JYZ24F0/?tag=tolees-21'
 descuento: '40.05'
 average: '24.807142857142857'

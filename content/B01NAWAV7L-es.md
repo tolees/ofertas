@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Utawarerumono: Mask Of Deception'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NAWAV7L/?tag=tolees-21'
 descuento: '42.01'
 average: '28.837999999999997'

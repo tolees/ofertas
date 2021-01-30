@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'NK Tunnel Cámara Deportiva subacuática 4K Ultra HD  16MP  WiFi - HDMI  Carcasa Impermeable  170º Gran Angular  Sensor Ultra-Avanzado Toshiba  900mAh  Doble Pantalla  - 15 Accesorios Múltiples'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LX79CZT/?tag=tolees-21'
 descuento: '34.50'
 average: '35.99'

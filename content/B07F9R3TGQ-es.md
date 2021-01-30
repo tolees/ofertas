@@ -16,6 +16,7 @@ comparePrice: 189.74 EUR
 prodname: 'Festina Reloj de Pulsera F20361/1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F9R3TGQ/?tag=tolees-21'
 descuento: '35.71'
 average: '122.66'

@@ -16,6 +16,7 @@ comparePrice: 55.41 EUR
 prodname: 'Tatkraft Mercury Perchero de Ropa Plegable para Tiendas y Casa  Colgador de Pie Robusto con Ruedas  Altura Ajustable 101-166cm  Acero Cromado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00D1QQSW4/?tag=tolees-21'
 descuento: '60.31'
 average: '21.99'

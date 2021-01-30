@@ -16,6 +16,7 @@ comparePrice: 18.19 EUR
 prodname: 'find. Lace Detail Ribbed Suéter para Mujer  Rosa  Orchid   40  Talla del Fabricante: Medium '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N4E8ITJ/?tag=tolees-21'
 descuento: '63.72'
 average: '6.6'

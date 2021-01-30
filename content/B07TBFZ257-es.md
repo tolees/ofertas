@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Quiksilver Stapilton-Chaqueta De Lona con Cremallera para Hombre  Black  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TBFZ257/?tag=tolees-21'
 descuento: '77.34'
 average: '20.39'

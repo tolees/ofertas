@@ -16,6 +16,7 @@ comparePrice: 16.18 EUR
 prodname: 'Kit de Inicio de Bordado Patrón de Plantas Accesorios de Costura de Manualidades - Estilo 2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WFKFGYT/?tag=tolees-21'
 descuento: '44.44'
 average: '8.99'

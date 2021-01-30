@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Fantasy Flight Games- Star Wars Imperial Assault  Boba Fett  Color  Edge Entertainment EDGSWI11 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BYSPKPG/?tag=tolees-21'
 descuento: '29.75'
 average: '6.99'

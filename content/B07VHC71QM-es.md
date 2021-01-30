@@ -16,6 +16,7 @@ comparePrice: 47.6 EUR
 prodname: 'Eono by Amazon - Paraguas de Golf Resistente al Viento con Doble Tela y Sistema de Apertura automático  147 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VHC71QM/?tag=tolees-21'
 descuento: '41.20'
 average: '26.59'

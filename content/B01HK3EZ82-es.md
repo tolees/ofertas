@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Superga 2750-efglu  Zapatillas de Gimnasia para Mujer  Blanco  White 900   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HK3EZ82/?tag=tolees-21'
 descuento: '85.16'
 average: '16.386666666666667'

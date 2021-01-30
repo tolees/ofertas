@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'NYX Professional Makeup Paleta de sombra de ojos Ultimate Shadow Palette  Pigmentos compactos  16 sombras  Acabados mate  satinados y metalizados  Tono: Smokey and Highlight'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IW02I4U/?tag=tolees-21'
 descuento: '34.92'
 average: '12.95'

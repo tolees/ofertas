@@ -16,6 +16,7 @@ comparePrice: 43.99 EUR
 prodname: 'ORIA Termómetro Infrarrojo Digital  Termómetro sin Contacto con Alarma de Alta Temperatura y Lectura Instantánea  Termómetro de Frente y Oído con Función de Memoria para Adultos  Bebés  Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0868GL8LX/?tag=tolees-21'
 descuento: '29.55'
 average: '30.99'

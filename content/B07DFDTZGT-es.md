@@ -16,6 +16,7 @@ comparePrice: 10 EUR
 prodname: 'Funko Pop Marvel Studios 10º Aniversario Figura de Vinilo cromada Gamora  Multicolor  33519 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFDTZGT/?tag=tolees-21'
 descuento: '45.00'
 average: '6.85'

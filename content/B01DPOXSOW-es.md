@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'ION Audio Max LP - Tocadiscos de vinilo de 3 Velocidades con Altavoces estéreo  Salidas Auriculares y RCA  Salida USB para Convertir Discos de Vinilo a Archivos Digitales  Acabado en Negro Piano'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DPOXSOW/?tag=tolees-21'
 descuento: '45.55'
 average: '49.0'

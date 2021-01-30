@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Swatch Reloj Analógico para Hombre de Cuarzo con Correa en Silicona GW201'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M61F8WH/?tag=tolees-21'
 descuento: '31.53'
 average: '41.08'

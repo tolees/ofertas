@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Metal Bookmark with Tassels and Envelope - Amupper Página Kawaii Leaf Book Marcadores Para Libros Stationery Gift School Supplies  Paquete de 7'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06X6J71LW/?tag=tolees-21'
 descuento: '62.52'
 average: '14.99'

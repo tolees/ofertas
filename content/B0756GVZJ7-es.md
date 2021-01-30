@@ -16,6 +16,7 @@ comparePrice: 1.84 EUR
 prodname: 'Rexona Roll-On Tropical Desodorante para Mujer - 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0756GVZJ7/?tag=tolees-21'
 descuento: '45.65'
 average: '1.0'

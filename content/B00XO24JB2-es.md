@@ -16,6 +16,7 @@ comparePrice: 21.52 EUR
 prodname: 'Fostprint Complemento EnergÃ©tico con AminoÃ¡cidos - 300 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XO24JB2/?tag=tolees-21'
 descuento: '31.69'
 average: '14.704074074074072'

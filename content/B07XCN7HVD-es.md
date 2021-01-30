@@ -16,6 +16,7 @@ comparePrice: 54.51 EUR
 prodname: 'SKY LIGHT Olla aluminio 26cm / 6.4L  Embalaje caja de regalo  Antiadherente con tapa de vidrio templado  revestimiento antiadherente StoneTech  compatible con inducción y horno  apto para lavavajillas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XCN7HVD/?tag=tolees-21'
 descuento: '26.64'
 average: '39.99'

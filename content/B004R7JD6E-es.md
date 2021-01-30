@@ -16,6 +16,7 @@ comparePrice: 11.95 EUR
 prodname: 'Australian Gold Intensifier Aceite - 237 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004R7JD6E/?tag=tolees-21'
 descuento: '30.04'
 average: '8.36'

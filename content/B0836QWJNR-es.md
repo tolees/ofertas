@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'MOSISO Funda Blanda Protectora Compatible con 13-13.3 Pulgadas MacBook Air/MacBook Pro Retina/2019 Surface Laptop 3/Surface Book  Bolsa Patrón de Nubes Cubierta con Pequeña Caja  Azul Serenidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0836QWJNR/?tag=tolees-21'
 descuento: '25.02'
 average: '11.99'

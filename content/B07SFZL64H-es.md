@@ -16,6 +16,7 @@ comparePrice: 32.95 EUR
 prodname: 'Kappa Maglia Replica Home 2019/2020 Unisex Adulto  Hombre  Azul  XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SFZL64H/?tag=tolees-21'
 descuento: '39.61'
 average: '19.9'

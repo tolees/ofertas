@@ -16,6 +16,7 @@ comparePrice: 12.86 EUR
 prodname: 'Longspeed Honeycomb - Puertos de Carga USB Individuales Carcasa del Banco de energía del teléfono móvil Ultra Ligera con indicador LED Carcasa del Banco de energía - Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0869CSQTC/?tag=tolees-21'
 descuento: '34.99'
 average: '8.36'

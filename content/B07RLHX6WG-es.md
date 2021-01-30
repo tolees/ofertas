@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Guardabarros Patinete Electrico  Guardabarros Scooter Compatible con Xiaomi M365  Guardabarros Neumático Trasero Guardabarros Piezas de Reparación Compatible con Xiao Mi Mijia M365 Scooter Eléctrico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RLHX6WG/?tag=tolees-21'
 descuento: '29.19'
 average: '8.59'

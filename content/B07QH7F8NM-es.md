@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'AmazonBasics - Cargador de pilas USB rápido  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QH7F8NM/?tag=tolees-21'
 descuento: '44.47'
 average: '9.99'

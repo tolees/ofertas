@@ -16,6 +16,7 @@ comparePrice: 556.1 EUR
 prodname: 'CREATIVE Sound Blaster X7 USB DAC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00RABQ0GK/?tag=tolees-21'
 descuento: '46.05'
 average: '299.99'

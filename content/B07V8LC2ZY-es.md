@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Sistema de alarma inalámbrico PNI SafeHouse HS550 Wifi GSM 3G con monitoreo y alerta a través de Internet  SMS  llamadas de voz'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V8LC2ZY/?tag=tolees-21'
 descuento: '33.34'
 average: '99.99'

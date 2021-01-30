@@ -16,6 +16,7 @@ comparePrice: 179.99 EUR
 prodname: 'Sharp XL-B710 BK  All In One Sound System con Radio Fm  Bluetooth 4.2  Cd-Mp3  Reproducción Usb. Carcasa de Madera y Frontal de Acero Inoxidable Cepillado. 90W de Potencia  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F2S1PK7/?tag=tolees-21'
 descuento: '47.22'
 average: '122.445'

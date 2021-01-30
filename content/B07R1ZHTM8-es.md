@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Under Armour Challenger III Training Pant Chándal para Hombre  Pantalones Largos Muy Ligeros  Azul  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R1ZHTM8/?tag=tolees-21'
 descuento: '52.24'
 average: '21.49'

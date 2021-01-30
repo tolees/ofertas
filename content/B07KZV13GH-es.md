@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'kangyh Cinturón para el Vientre Combo Maternity Belly Band Pantalones elásticos Ajustables Mujeres Embarazadas Solución para Embarazadas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KZV13GH/?tag=tolees-21'
 descuento: '50.25'
 average: '9.95'

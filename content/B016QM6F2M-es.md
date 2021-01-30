@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Tommy Hilfiger New ALY Belt Cinturón  Braun  DARK TAN 257   100 cm para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016QM6F2M/?tag=tolees-21'
 descuento: '37.37'
 average: '24.99'

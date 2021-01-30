@@ -16,6 +16,7 @@ comparePrice: 17.59 EUR
 prodname: 'WOSTOO Purpurinas Polvo Chunky Glitter Purpurina para el Rostro  Cara y Cuerpo Maquillaje Glitter Paillette Brillante Decoración para Pelo  Uñas y Mejilla -10 Cajas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HKCXM9S/?tag=tolees-21'
 descuento: '43.21'
 average: '9.99'

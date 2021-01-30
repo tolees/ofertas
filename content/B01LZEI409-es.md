@@ -16,6 +16,7 @@ comparePrice: 21.77 EUR
 prodname: 'StarTech.com HDMM2MP - Cable HDMI de 2 m  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZEI409/?tag=tolees-21'
 descuento: '27.65'
 average: '15.75'

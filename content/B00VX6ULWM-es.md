@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'Revlon ColorStay Base de Maquillaje piel normal/seca FPS20  #180 Sand Beige  30ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VX6ULWM/?tag=tolees-21'
 descuento: '48.26'
 average: '6.39'

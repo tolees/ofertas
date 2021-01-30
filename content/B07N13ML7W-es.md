@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Skechers Women s GO Walk 5 Trainers  Black  Black Textile/Trim BBK   5  38 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N13ML7W/?tag=tolees-21'
 descuento: '33.44'
 average: '39.9'

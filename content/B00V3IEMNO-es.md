@@ -16,6 +16,7 @@ comparePrice: 54.9 EUR
 prodname: 'Lexar Professional - Lector de Tarjetas de Memoria  Doble Ranura  USB 3.0 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00V3IEMNO/?tag=tolees-21'
 descuento: '52.53'
 average: '26.06'

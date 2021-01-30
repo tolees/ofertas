@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'TACKLIFE Cúter  UKH01 Cuchillo con 5 Hojas Extra Reemplazables  Mango de Aluminio Ligero y Botón de Liberación Fácil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071LDJWKM/?tag=tolees-21'
 descuento: '50.03'
 average: '11.406666666666666'

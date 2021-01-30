@@ -16,6 +16,7 @@ comparePrice: 229.99 EUR
 prodname: 'casa pura Alfombras Fibras Naturales - Alfombras Sisal |100% Natural | Reverso Antideslizante | Ecológica | Distintos Colores a Elegir  Natural  200x290 cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PMD3H2T/?tag=tolees-21'
 descuento: '26.09'
 average: '169.99'

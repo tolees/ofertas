@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'New Era Fashion ESS 940 Gorra  Mujer  Rosa/Blanco  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00W5FT2BQ/?tag=tolees-21'
 descuento: '25.05'
 average: '13.296666666666667'

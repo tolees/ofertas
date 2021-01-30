@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Apple Smart Battery Case  for iPhone XS MAX  - White'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MX2TYMT/?tag=tolees-21'
 descuento: '61.70'
 average: '71.04666666666667'

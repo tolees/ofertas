@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'San Ignacio SARTEN 30cm ROJA Soft Touch Infinity  Aluminio  Rojo y Negro  30x11x7 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XHU3BCY/?tag=tolees-21'
 descuento: '25.25'
 average: '15.69'

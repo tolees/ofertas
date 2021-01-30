@@ -16,6 +16,7 @@ comparePrice: 27.05 EUR
 prodname: 'Shock Absorber Active Crop Top Sujetador Estilo Bralette  Negro  Noir   X-Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06ZYBWPJ2/?tag=tolees-21'
 descuento: '43.84'
 average: '15.19'

@@ -16,6 +16,7 @@ comparePrice: 74.95 EUR
 prodname: 'Skechers Arch Fit  Zapatillas sin Cordones para Hombre  Azul  Navy Mesh/Synthetic/Trim Nvy   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZ61FJ7/?tag=tolees-21'
 descuento: '36.92'
 average: '47.28'

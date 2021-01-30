@@ -16,6 +16,7 @@ comparePrice: 9.23 EUR
 prodname: 'KISME para Espejo Flip Funda Samsung Galaxy A51 Funda Espejo Mirror Cuero Protección con Función Kickstand para Samsung Galaxy A51-Oro Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082CVVJGM/?tag=tolees-21'
 descuento: '36.29'
 average: '5.88'

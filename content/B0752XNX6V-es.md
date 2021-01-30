@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Llave USB 16 GB R2D2 TLJ - Memoria Flash Drive 2.0 Original Star Wars  Tribe FD030511'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0752XNX6V/?tag=tolees-21'
 descuento: '50.03'
 average: '9.99'

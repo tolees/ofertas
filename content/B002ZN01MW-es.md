@@ -16,6 +16,7 @@ comparePrice: 1.95 EUR
 prodname: 'My Day Protector Incontinencia Ultra Mini Compresas - 28 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002ZN01MW/?tag=tolees-21'
 descuento: '41.03'
 average: '1.15'

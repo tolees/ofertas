@@ -16,6 +16,7 @@ comparePrice: 10.9 EUR
 prodname: 'Compex Electrodos Wire Wire 5X10 Cable Dual Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004WBJ9RS/?tag=tolees-21'
 descuento: '35.87'
 average: '6.99'

@@ -16,6 +16,7 @@ comparePrice: 27.89 EUR
 prodname: 'Belkin SoundForm - Auriculares USB-C para Samsung Galaxy S20  S20+  S20 Ultra  Note10  Note10+  S10  S10+  S10e  Google Pixel 3  3XL  iPad Pro y Otros  Intrauriculares USB-C  Audífonos USB-C  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TTJ2L8P/?tag=tolees-21'
 descuento: '32.99'
 average: '20.34'

@@ -16,6 +16,7 @@ comparePrice: 16.65 EUR
 prodname: 'Nexcare Coldhot Premium - Gel pack  235 mm x 110 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00O24I0TI/?tag=tolees-21'
 descuento: '39.94'
 average: '10.896666666666667'

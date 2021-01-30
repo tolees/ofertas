@@ -16,6 +16,7 @@ comparePrice: 51.95 EUR
 prodname: 'Zwilling Motion - Cuchillo jamonero  26 cm de hoja  acero Inoxidable  plateado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B010DH3E4S/?tag=tolees-21'
 descuento: '51.97'
 average: '22.496666666666666'

@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Yorbay Mini Ventilador de Mano USB Portátil 2600mAh Bateria Recargable para Oficina  Hogar  Viajes  Ejercicio al Aire Libre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085T42DDV/?tag=tolees-21'
 descuento: '38.49'
 average: '7.99'

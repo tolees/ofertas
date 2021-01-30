@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'adidas TIRO19 WOV PNT Pantalones de Deporte  Hombre  Negro  Black/White   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K6WK55V/?tag=tolees-21'
 descuento: '28.71'
 average: '25.985'

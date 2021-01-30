@@ -16,6 +16,7 @@ comparePrice: 107.69 EUR
 prodname: 'Bosch Professional Bosch GSR 12V-15 Professional-Atornillador batería ni Cargador  12V /0601868101  230 W  12 V  Negro  Azul  Rojo  Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003VEILMG/?tag=tolees-21'
 descuento: '39.87'
 average: '66.98'

@@ -16,6 +16,7 @@ comparePrice: 31.98 EUR
 prodname: 'Docooler Cámara Web USB A870 Cámara Web 1080P Sonido Incorporado Micrófono para Juegos para lecciones en línea Computadora de Escritorio Cámara'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088H1XM4F/?tag=tolees-21'
 descuento: '40.62'
 average: '18.485'

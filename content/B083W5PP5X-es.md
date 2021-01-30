@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Smooce Piedras Luminosas Jardín  Piedras Decorativas Guijarros Brillantes  200 Piezas Piedras de jardín para decoración de pasillos al Aire Libre  Decorar Acuario Sendero Patio de césped'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083W5PP5X/?tag=tolees-21'
 descuento: '30.02'
 average: '13.99'

@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'Crema Cutículas - Aceite de Limón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002PK0ROW/?tag=tolees-21'
 descuento: '25.16'
 average: '5.95'

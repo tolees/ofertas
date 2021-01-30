@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'Joseph Joseph Grandes Nest Juego de 3 Tablas para Cortar con Soporte de Almacenamiento  tamaño Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KKXKX7J/?tag=tolees-21'
 descuento: '25.90'
 average: '48.16'

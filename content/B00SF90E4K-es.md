@@ -16,6 +16,7 @@ comparePrice: 145.99 EUR
 prodname: 'G-STAR RAW Stean Tapered Jeans  Azul  dk aged 7056-89   30W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SF90E4K/?tag=tolees-21'
 descuento: '68.50'
 average: '45.99'

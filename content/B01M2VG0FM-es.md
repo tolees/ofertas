@@ -16,6 +16,7 @@ comparePrice: 85 EUR
 prodname: 'DC Heathrow M Zapatillas  Hombre  Negro  Black   40 EU  6.5 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M2VG0FM/?tag=tolees-21'
 descuento: '65.93'
 average: '28.4025'

@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Bestway 91082 - Tucán Hinchable Minnie Mouse 207x150 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TMKBBK7/?tag=tolees-21'
 descuento: '65.73'
 average: '11.643333333333334'

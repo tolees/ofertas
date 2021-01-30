@@ -16,6 +16,7 @@ comparePrice: 173.99 EUR
 prodname: 'DEWALT DCD796NT-XJ - Taladro percutor sin escobillas XR 18V de 70 Nm  con maletin TSTAK'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01C6PNSR8/?tag=tolees-21'
 descuento: '25.93'
 average: '128.87'

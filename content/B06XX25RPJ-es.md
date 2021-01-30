@@ -16,6 +16,7 @@ comparePrice: 7.07 EUR
 prodname: 'Ecran Aftersun Mousse Efecto Hielo - 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XX25RPJ/?tag=tolees-21'
 descuento: '47.81'
 average: '3.69'

@@ -16,6 +16,7 @@ comparePrice: 15.76 EUR
 prodname: '¡Rompe Ralph! [DVD]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00B2H3VFG/?tag=tolees-21'
 descuento: '42.96'
 average: '8.99'

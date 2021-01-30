@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Philips Sonicare ProtectiveClean 6100 HX6871/47 - Cepillo de dientes eléctrico  Cepillo de dientes eléctrico con sensor de presión  3 modos de limpieza  3 intensidades  tecnología BrushSync y estuche'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079H8LMY9/?tag=tolees-21'
 descuento: '26.67'
 average: '119.0'

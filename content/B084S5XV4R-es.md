@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Lam Hub Fong Pulsera Mujer Pulsera con Nombre Personalizado Pulsera Acero Inoxidable Mujer Pulsera Amistad Mujer  Dorado '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084S5XV4R/?tag=tolees-21'
 descuento: '67.52'
 average: '12.99'

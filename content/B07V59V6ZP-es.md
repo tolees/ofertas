@@ -16,6 +16,7 @@ comparePrice: 16.07 EUR
 prodname: 'Hurley M One&Only Hat Gorra  Hombre  Dark Grey  S/M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V59V6ZP/?tag=tolees-21'
 descuento: '25.26'
 average: '12.01'

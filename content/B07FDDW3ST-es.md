@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'BLEND 20708180 Polo  Marrón  Sand Brown 75107   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FDDW3ST/?tag=tolees-21'
 descuento: '56.94'
 average: '8.77'

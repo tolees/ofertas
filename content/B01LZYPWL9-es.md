@@ -16,6 +16,7 @@ comparePrice: 43.5 EUR
 prodname: 'Brabantia Newicon Cubo de Basura con Pedal  Acero Inoxidable  Negro Mate  12 l'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZYPWL9/?tag=tolees-21'
 descuento: '32.67'
 average: '29.29'

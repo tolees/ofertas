@@ -16,6 +16,7 @@ comparePrice: 17.89 EUR
 prodname: 'EatekPower Tijeras Cocina  Heavy Duty Scissors Tijeras de Cocina Multiuso de Acero Inoxidable con Hoja Afilada'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076PZGW48/?tag=tolees-21'
 descuento: '33.54'
 average: '9.734444444444444'

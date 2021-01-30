@@ -16,6 +16,7 @@ comparePrice: 5.14 EUR
 prodname: 'Simulación de lujo con perlas y pendientes de perlas Joyas 1 par Fiesta segura Diseño exquisito Duradero Precioso - Dorado y rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089NNZQJL/?tag=tolees-21'
 descuento: '35.02'
 average: '3.34'

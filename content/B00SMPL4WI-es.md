@@ -16,6 +16,7 @@ comparePrice: 999.0 EUR
 prodname: 'Olympus OM-D E-M5 Mark II cámara de sistema Micro Cuatro Tercios  16.1 megapíxeles  estabilizador de imagen de cinco ejes  visor electrónico  plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SMPL4WI/?tag=tolees-21'
 descuento: '28.55'
 average: '625.6527272727271'

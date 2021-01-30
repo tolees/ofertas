@@ -16,6 +16,7 @@ comparePrice: 15.0 EUR
 prodname: 'BOSSTER Exprimidor Tubo Pasta Dientes 3 Piezas Exprimidor de Tubos de Plástico Ahorra Pasta de Dientes Cremas para Baño'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085WT1XZS/?tag=tolees-21'
 descuento: '33.40'
 average: '9.99'

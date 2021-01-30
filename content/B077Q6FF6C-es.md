@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Luxtude Bateria Externa Movil iPhone 5000mAh  Powerbank con Lightning Cable  Bateria Externa Carga Rapida  Ultra Delgado Power Bank Pequeño y Ligero  Apple MFI Certificado Cargador Portatil iPhone'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077Q6FF6C/?tag=tolees-21'
 descuento: '30.01'
 average: '27.99'

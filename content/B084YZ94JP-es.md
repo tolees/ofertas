@@ -16,6 +16,7 @@ comparePrice: 109.0 EUR
 prodname: 'Saco Silla Universal Rosy Fuentes en celeste gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084YZ94JP/?tag=tolees-21'
 descuento: '35.87'
 average: '69.9'

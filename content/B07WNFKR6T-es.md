@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Bakers Twine 100M Cadena de Algodón para el Horno Jardinería Manualidades Envolver Regalos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WNFKR6T/?tag=tolees-21'
 descuento: '27.30'
 average: '7.99'

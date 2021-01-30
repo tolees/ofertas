@@ -16,6 +16,7 @@ comparePrice: 22.48 EUR
 prodname: 'Supportiback® Cojín ortopédico para ciática  espalda  caderas  articulaciones  alivio de dolores de embarazo y dormir de lado — Diseño ergonómico médico contorneado con espuma de memoria'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MS4RBRL/?tag=tolees-21'
 descuento: '29.31'
 average: '20.41909090909091'

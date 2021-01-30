@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Aomekie Correa de hombro con cuello de cámara  correa de hombro doble'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L3VCT8G/?tag=tolees-21'
 descuento: '35.02'
 average: '12.99'

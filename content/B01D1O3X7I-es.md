@@ -16,6 +16,7 @@ comparePrice: 60.99 EUR
 prodname: 'Sherlock Holmes: The Devil s Daughter'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01D1O3X7I/?tag=tolees-21'
 descuento: '67.29'
 average: '19.95'

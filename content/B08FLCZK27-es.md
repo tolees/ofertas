@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: '18 piezas Mini Máquina de Coser Portátil Herramienta de Puntada Rápida de Bricolaje Adecuada para Tela  Ropa o Tela de Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FLCZK27/?tag=tolees-21'
 descuento: '33.34'
 average: '18.293333333333333'

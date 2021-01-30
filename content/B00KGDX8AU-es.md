@@ -16,6 +16,7 @@ comparePrice: 4.02 EUR
 prodname: 'Wc Net Turbo Desatascador - 500 ml  Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KGDX8AU/?tag=tolees-21'
 descuento: '25.87'
 average: '2.9299999999999997'

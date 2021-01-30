@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'CARPISA ® Carro pequeño rígido - Tea'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V3T6F9Q/?tag=tolees-21'
 descuento: '40.00'
 average: '35.4'

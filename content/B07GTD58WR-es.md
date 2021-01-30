@@ -16,6 +16,7 @@ comparePrice: 199.9 EUR
 prodname: 'Devolo Magic 2  Magic 2 Kit de Inicio Powerline  1  Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GTD58WR/?tag=tolees-21'
 descuento: '27.47'
 average: '157.958'

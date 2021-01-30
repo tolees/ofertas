@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Belkin F8J088bt - Base con cable USB de 1 2 m integrado  conector Lightning  para iPhone 8/8+ y iPhone X  plateado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00E7LOXTW/?tag=tolees-21'
 descuento: '66.68'
 average: '29.215'

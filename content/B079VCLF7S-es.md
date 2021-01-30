@@ -16,6 +16,7 @@ comparePrice: 64.32 EUR
 prodname: 'BLACK+DECKER BEG210K-QS Amoladora  900 W  Disco 115 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079VCLF7S/?tag=tolees-21'
 descuento: '40.31'
 average: '39.957499999999996'

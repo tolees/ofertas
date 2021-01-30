@@ -16,6 +16,7 @@ comparePrice: 66.19 EUR
 prodname: 'SanDisk Ultra Dual Drive Go para Dispositivos con USB Type-C  256 GB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YYJL21Z/?tag=tolees-21'
 descuento: '35.96'
 average: '55.19'

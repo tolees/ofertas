@@ -16,6 +16,7 @@ comparePrice: 74.99 EUR
 prodname: 'CapitalSports Alatech CS010 Pulsómetro - Sensor de Pulso  Entrenamiento Cardiovascular  Bluetooth 4.0 Smart  Protección IPX7  Resiste Agua y Sudor  Talla Universal  Correa Textil  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L6JR67J/?tag=tolees-21'
 descuento: '52.01'
 average: '35.99'

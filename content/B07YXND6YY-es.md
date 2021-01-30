@@ -16,6 +16,7 @@ comparePrice: 22.0 EUR
 prodname: 'Under Armour Elevated Golf Visera  Mujer  Blanco  OSFA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YXND6YY/?tag=tolees-21'
 descuento: '47.77'
 average: '11.49'

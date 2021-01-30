@@ -16,6 +16,7 @@ comparePrice: 27.0 EUR
 prodname: 'Parasol Kinder Fluff  4 x  - El único parasol certificado de bloquear el 99 79% de los rayos UVA y el 99 95% UVB. Para parabrisas de coche  camión  furgoneta  SUV'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ZOKJVAG/?tag=tolees-21'
 descuento: '41.48'
 average: '15.8'

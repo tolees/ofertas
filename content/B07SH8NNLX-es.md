@@ -16,6 +16,7 @@ comparePrice: 238.95 EUR
 prodname: 'IKOHS Retro Fridge - Frigorífico con diseño  Control de Temperatura Ajustable  Estantes Intercambiables  Estética Vintage de los años 50  Clase Energética A+  Rojo  50 cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SH8NNLX/?tag=tolees-21'
 descuento: '28.88'
 average: '164.95'

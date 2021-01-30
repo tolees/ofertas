@@ -16,6 +16,7 @@ comparePrice: 10.45 EUR
 prodname: 'Multidermol Champú - Vitamina B5 - Extracto de Tila - Aporta Flexibilidad y Suavidad - 400 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TTX77C8/?tag=tolees-21'
 descuento: '33.01'
 average: '8.15'

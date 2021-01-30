@@ -16,6 +16,7 @@ comparePrice: 81.99 EUR
 prodname: 'Remington HC5880 - Máquina de Cortar Pelo  Prácticamente Indestructible  Acero Inoxidable Japonés  Recargable  Negro  Doble Batería de Litio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MCSVYAS/?tag=tolees-21'
 descuento: '38.32'
 average: '49.03'

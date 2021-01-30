@@ -16,6 +16,7 @@ comparePrice: 90 EUR
 prodname: 'New Balance 247v2  Zapatillas para Hombre  Blanco  Team Royal Team Royal   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KRM5XKZ/?tag=tolees-21'
 descuento: '26.61'
 average: '61.735'

@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Trust Ventu - Ventilador de refrigeración  Color Violeta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BFRJSJ5/?tag=tolees-21'
 descuento: '66.84'
 average: '4.97'

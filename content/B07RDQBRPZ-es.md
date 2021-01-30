@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'adidas Altarun CF K  Zapatillas de Running Unisex Niños  Multicolor  Legend Ink/Blue/Active Orange G27235   32 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RDQBRPZ/?tag=tolees-21'
 descuento: '65.92'
 average: '11.91'

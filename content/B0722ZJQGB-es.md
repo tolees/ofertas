@@ -16,6 +16,7 @@ comparePrice: 21.83 EUR
 prodname: 'Emuca 9163651 Lote de 10 tiradores para mueble Ø12mm intereje 160mm en acero acabado níquel satinado 10 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0722ZJQGB/?tag=tolees-21'
 descuento: '28.22'
 average: '15.67'

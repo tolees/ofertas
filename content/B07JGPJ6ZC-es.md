@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Aicok SD60K Juicer Filter & Cups  Juicer Accesorios para SD60K Masticating Slow Juicer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JGPJ6ZC/?tag=tolees-21'
 descuento: '50.01'
 average: '29.99'

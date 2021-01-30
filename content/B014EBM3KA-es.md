@@ -16,6 +16,7 @@ comparePrice: 100.99 EUR
 prodname: 'Osprey Farpoint 40 Men s Travel Pack - Volcanic Grey  M/L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B014EBM3KA/?tag=tolees-21'
 descuento: '42.62'
 average: '70.45'

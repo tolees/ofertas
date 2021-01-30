@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Termómetro Digital Frente y Oído  3 in 1 Termómetro Infrarrojo Médico Alta Precisión Para Bebe Niños y Adultos Alarma De Fiebre Temperatura Ambiente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DNZWQP4/?tag=tolees-21'
 descuento: '26.93'
 average: '17.99'

@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'G-STAR RAW 5620 Elwood 3D Slim Jeans  Azul  medium aged 9118-071   40W / 38L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0752NWFFT/?tag=tolees-21'
 descuento: '67.60'
 average: '32.68'

@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Helly Hansen HH Scout Wash Bag Neceser  Unisex Adulto  Living Coral  STD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZV2HHQP/?tag=tolees-21'
 descuento: '47.55'
 average: '10.49'

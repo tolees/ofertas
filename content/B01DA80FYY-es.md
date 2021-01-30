@@ -16,6 +16,7 @@ comparePrice: 156.89 EUR
 prodname: 'HP L0S07AE 973X Cartucho de Tinta Original de alto rendimiento  1 unidad  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DA80FYY/?tag=tolees-21'
 descuento: '34.46'
 average: '103.062'

@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Xiaomi Soocas H3 Secador de cabello de secado rápido con aniones-Cuerpo de aleación de aluminio - Salida de aire de 1800 W  con desviación innovadora anti-caliente servicio garantía Polonia  plata '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q8RZMGQ/?tag=tolees-21'
 descuento: '54.01'
 average: '45.99'

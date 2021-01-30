@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Nella The Knight - Disfraz de la Princesa Nella para niña  infantil 3-4 años  Rubie s 640987-S '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DD5D8WD/?tag=tolees-21'
 descuento: '60.49'
 average: '11.85'

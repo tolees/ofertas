@@ -16,6 +16,7 @@ comparePrice: 122.85 EUR
 prodname: 'SunRace Csmz90 12s-11-50T Cassete 12 velocidades  Deportes y Aire Libre  Negro  11-50T'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075NPQ76X/?tag=tolees-21'
 descuento: '26.37'
 average: '90.45'

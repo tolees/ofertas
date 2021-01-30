@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'JBL Go Plus  Altavoz Inalámbrico Portátil con Bluetooth  Manos Libres con Reducción de Ruido  Hasta 5 h de Reproducción con Sonido  Inalámbrico y Alámbrico MicroUSB  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CSXFVM6/?tag=tolees-21'
 descuento: '39.56'
 average: '31.0725'

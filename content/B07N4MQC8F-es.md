@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'NIKE M CFD Pant FLC TM Club19 Pantalones de Deporte  Hombre  Charcoal Heathr/White/White  2XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N4MQC8F/?tag=tolees-21'
 descuento: '37.78'
 average: '28.0'

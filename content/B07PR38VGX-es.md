@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'MIROCOO V6 Auriculares Bluetooth 5.0  TWS Mini In Ear Auriculares Bluetooth Inalámbricos Cascos Deportivos Auriculares  HiFi Estéreo 125 Horas Reproducción  IPX6 con Mic y Caja de Carga 3000mAh'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PR38VGX/?tag=tolees-21'
 descuento: '36.01'
 average: '30.020000000000003'

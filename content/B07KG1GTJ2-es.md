@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'PUMA Ralph Sampson Mid  Zapatillas Unisex Adulto  Blanco White/Gray Violet/Peacoat  44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG1GTJ2/?tag=tolees-21'
 descuento: '45.48'
 average: '49.132'

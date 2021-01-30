@@ -16,6 +16,7 @@ comparePrice: 56.99 EUR
 prodname: 'BRIKSMAX Kit de Iluminación Led para Lego Technic Depósito de contenedores Compatible con Ladrillos de Construcción Lego Modelo 42062  Juego de Legos no Incluido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WS7QQX7/?tag=tolees-21'
 descuento: '52.64'
 average: '31.97113207547169'

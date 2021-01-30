@@ -16,6 +16,7 @@ comparePrice: 14.9 EUR
 prodname: 'Reifen-Markt Funda de la Almohada 40x40cm Balonmano Fútbol Voleibol Baloncesto Deporte Microfibra Regalo Ideal y la decoración de Buen Gusto para Cada salón o el Dormitorio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00REIXQYS/?tag=tolees-21'
 descuento: '40.27'
 average: '8.9'

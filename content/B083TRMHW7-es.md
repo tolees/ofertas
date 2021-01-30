@@ -16,6 +16,7 @@ comparePrice: 3.29 EUR
 prodname: 'Kasfam Máscara Facial  máscara de carbón Activado Anti PM2.5 Máscaras de Filtro con válvula de respiración 3.0 para Ciclismo MTB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083TRMHW7/?tag=tolees-21'
 descuento: '39.82'
 average: '2.4375'

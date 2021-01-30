@@ -16,6 +16,7 @@ comparePrice: 10.97 EUR
 prodname: 'Braun Oral-B Stages Power Kids Batería de Cepillo de Dientes Niños 3 + Años Disney Frozen la Reina de Hielo + MAGIC temporizador  Modelos Aleatorios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ERVW2SU/?tag=tolees-21'
 descuento: '31.45'
 average: '7.767142857142857'

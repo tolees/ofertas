@@ -16,6 +16,7 @@ comparePrice: 22.43 EUR
 prodname: 'Xiaomi Mi - Ratón inalámbrico  Color Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RP1ST8R/?tag=tolees-21'
 descuento: '51.00'
 average: '10.99'

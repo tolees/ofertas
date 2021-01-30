@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Women s Secret Print Flower Mesh Grey Sujetador de triángulo  Gris  Gama Grises 44   95B para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TVTN9GF/?tag=tolees-21'
 descuento: '64.33'
 average: '8.2'

@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Kipling ONALO PACKABLE - Bolsa de viaje  25 liters  Morado  PLUM LIGHT '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1HP84Y/?tag=tolees-21'
 descuento: '27.42'
 average: '32.66'

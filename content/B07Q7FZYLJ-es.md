@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Widamin 2Pack  Compatible con Redmi 7 Cristal Templado  Pantalla protección， Protector Pantalla  [dureza de 9H]  [De Alta Definición]  [Ninguno-Burbuja] para Xiaomi Redmi 7'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q7FZYLJ/?tag=tolees-21'
 descuento: '46.96'
 average: '6.89'

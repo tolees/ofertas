@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Columbia Fairbanks Omni-Heat  Bota de Invierno para Hombre  Negro  Shark  Peatmoss   43 1/2 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JWVZHG5/?tag=tolees-21'
 descuento: '74.58'
 average: '36.355000000000004'

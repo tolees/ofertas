@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'VIASOLAR Panel Solar fotovoltaico 50W 12V Cable 5m'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075DHVVC2/?tag=tolees-21'
 descuento: '31.26'
 average: '54.99'

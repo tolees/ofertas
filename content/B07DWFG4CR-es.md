@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'AmazonBasics - Cable USB A con conector Lightning  colección premium  0 9 m  Pack de 1 - Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DWFG4CR/?tag=tolees-21'
 descuento: '49.94'
 average: '5.265000000000001'

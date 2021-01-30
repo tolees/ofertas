@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Festina Reloj Analógico para Hombre de Cuarzo con Correa en Cuero F16824/2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XBN198K/?tag=tolees-21'
 descuento: '34.67'
 average: '55.34666666666667'

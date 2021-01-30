@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Cabin Max - Equipaje Infantil Azul Carry-on'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00A0NQ23Q/?tag=tolees-21'
 descuento: '54.99'
 average: '20.803333333333335'

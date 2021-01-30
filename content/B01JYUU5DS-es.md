@@ -16,6 +16,7 @@ comparePrice: 272.99 EUR
 prodname: 'Sandisk SDSDXPK-128G-GN4IN Extreme Pro Tarjeta de Memoria SDXC de 128 GB  300 MB/s  UHS-II  Class 10 y U3   Black'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JYUU5DS/?tag=tolees-21'
 descuento: '63.37'
 average: '131.66'

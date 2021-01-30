@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Tommy Hilfiger - Th Essential Mini Cc Wallet  Carteras Hombre  Negro  Black   1x1x1 cm  W x H L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V2MSKQ6/?tag=tolees-21'
 descuento: '46.15'
 average: '26.87'

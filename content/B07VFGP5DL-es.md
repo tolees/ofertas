@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'RAVIAD 3 en 1 Multi Cable de Carga  Nylon Multi USB Cargador Cable Múltiples Micro USB Tipo C Compatible con Samsung Galaxy S10/S9/S8/S7/S6  Huawei P30/P20/P10  Xiaomi Redmi Note 7/Mi A3/A2/A1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VFGP5DL/?tag=tolees-21'
 descuento: '37.55'
 average: '4.99'

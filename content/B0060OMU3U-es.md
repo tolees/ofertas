@@ -16,6 +16,7 @@ comparePrice: 21.5 EUR
 prodname: 'La Roche Posay - Agua micelar effaclar  400 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0060OMU3U/?tag=tolees-21'
 descuento: '38.37'
 average: '11.6'

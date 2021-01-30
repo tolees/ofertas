@@ -16,6 +16,7 @@ comparePrice: 180.0 EUR
 prodname: 'Cole Haan Herren Zerogrand Stitchlite Oxfords  Grau  Ironstone Irnstn Knit/Ivory   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M72GCIU/?tag=tolees-21'
 descuento: '88.43'
 average: '20.82'

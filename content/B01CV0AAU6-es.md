@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'Caterpillar Elude Wp Botas Chukka Hombre  Marrón  Dark Brown   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CV0AAU6/?tag=tolees-21'
 descuento: '50.00'
 average: '94.5'

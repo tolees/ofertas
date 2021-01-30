@@ -16,6 +16,7 @@ comparePrice: 25.35 EUR
 prodname: 'Balvi Felpudo Welcome  Goma/Nylon 34 x 75 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AW9F88W/?tag=tolees-21'
 descuento: '33.53'
 average: '16.85'

@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'IntimaTe WM Heart Set de 2 x Taburetes de Bar Cuadrado y Moderno  Cuero de PU Telesilla con Respaldo Medialuna Altura Ajustable Giratoria para Bar Cocina  Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C5SK2TS/?tag=tolees-21'
 descuento: '43.85'
 average: '72.99'

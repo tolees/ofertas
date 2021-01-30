@@ -16,6 +16,7 @@ comparePrice: 20.41 EUR
 prodname: 'Amazonas AZ-3027000 - Cuerda para hamaca  Resistencia 120 kg por cuerda '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000PDFJTO/?tag=tolees-21'
 descuento: '40.72'
 average: '12.1'

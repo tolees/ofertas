@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'Jamo - Altavoces Estéreo S-801  60 W  85 Db  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0767VT7WH/?tag=tolees-21'
 descuento: '42.54'
 average: '103.89166666666667'

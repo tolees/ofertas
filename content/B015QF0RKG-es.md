@@ -16,6 +16,7 @@ comparePrice: 3.9 EUR
 prodname: 'Prolinx X-21 - Cable Video  1.5 m  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015QF0RKG/?tag=tolees-21'
 descuento: '75.13'
 average: '0.97'

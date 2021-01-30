@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Triumph True Shape Sensation Maxi Culotte  Verde  40  Talla del Fabricante: 38  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003N8GSTI/?tag=tolees-21'
 descuento: '40.06'
 average: '20.95'

@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'PUMA Vikky Stacked L  Zapatillas para Mujer  Black Black  39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DCK2M1B/?tag=tolees-21'
 descuento: '33.58'
 average: '37.41'

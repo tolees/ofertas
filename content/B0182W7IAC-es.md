@@ -16,6 +16,7 @@ comparePrice: 85.21 EUR
 prodname: 'Batman Gotham City  4D Cityscape '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0182W7IAC/?tag=tolees-21'
 descuento: '41.70'
 average: '49.68'

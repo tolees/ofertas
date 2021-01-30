@@ -16,6 +16,7 @@ comparePrice: 27.13 EUR
 prodname: 'Clarks Stepstrolllace  Zapatillas para Hombre  Marrón  Brown Brown   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TMRPN5Z/?tag=tolees-21'
 descuento: '28.20'
 average: '22.433333333333334'

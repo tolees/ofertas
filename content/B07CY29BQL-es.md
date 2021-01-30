@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Samsonite B-Lite Icon - Bolsa de Viaje  Duffle 45/18  45 cm  36.5 litros  Azul  Dark Blue '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CY29BQL/?tag=tolees-21'
 descuento: '40.81'
 average: '74.685'

@@ -16,6 +16,7 @@ comparePrice: 359.0 EUR
 prodname: 'Hot Mom Multi cochecito cochecito 2 en 1 con buggy 2020 nuevo diseño  Asiento para bebé vendido por separado  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X8GPXLV/?tag=tolees-21'
 descuento: '39.00'
 average: '219.0'

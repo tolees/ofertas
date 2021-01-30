@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Gant Terrycloth Robe Albornoz  Azul  Yankee Blue 459   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M28BQKR/?tag=tolees-21'
 descuento: '35.89'
 average: '64.1'

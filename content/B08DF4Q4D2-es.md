@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'KingShark Funda Silicone Case para Samsung Galaxy Note 20 Ultra  Protección de Cuerpo Completo  Carcasa de Silicona Líquida Suave Antichoque Bumper para Samsung Galaxy Note 20 Ultra -  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DF4Q4D2/?tag=tolees-21'
 descuento: '62.53'
 average: '8.99'

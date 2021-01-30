@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Auna iAdapt 280 - Adaptador de Radio Digital  Módulo de Expansión  para Sistemas de Sonido y HiFi  WLAN  Bluetooth  FM  Función RDS  Pantalla TFT Color 2 8"  Luz Atenuable  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M693HVG/?tag=tolees-21'
 descuento: '40.00'
 average: '60.70428571428572'

@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Pepe Jeans Sloane Pantalones   Beige 844   W28/L32 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZQ47Z3/?tag=tolees-21'
 descuento: '54.31'
 average: '25.836000000000002'

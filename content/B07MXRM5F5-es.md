@@ -16,6 +16,7 @@ comparePrice: 37.9 EUR
 prodname: 'Cazo Amercook Terracotta con tapa 20 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MXRM5F5/?tag=tolees-21'
 descuento: '48.55'
 average: '19.5'

@@ -16,6 +16,7 @@ comparePrice: 5.69 EUR
 prodname: '[1-Pack]para Samsung Galaxy S9 Protector de Pantalla XCYYOO Cristal Vidrio Templado [Alta Definicion] [Cobertura Completa] Premium Protector Vidrio Templado para Samsung Galaxy S9-Compatible 3D Touch'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GZF8FSK/?tag=tolees-21'
 descuento: '81.90'
 average: '1.03'

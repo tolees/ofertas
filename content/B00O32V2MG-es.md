@@ -16,6 +16,7 @@ comparePrice: 4.67 EUR
 prodname: 'Bourjois Paris Silk Edition Compact Poudre  56 Bronce  1 unidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00O32V2MG/?tag=tolees-21'
 descuento: '35.97'
 average: '2.99'

@@ -16,6 +16,7 @@ comparePrice: 31.08 EUR
 prodname: 'Máscara Blanca  Outgeek 12PCS Máscara Blanca Para Pintar De Disfraces Decoración De Bricolaje Carnaval De Veneciano Traje De Halloween Cosplay Para Niños Mujeres Hombres'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B3RP4BV/?tag=tolees-21'
 descuento: '48.55'
 average: '15.656666666666666'

@@ -16,6 +16,7 @@ comparePrice: 440.0 EUR
 prodname: 'Samsonite Neopulse - Spinner XL Maleta  81 cm  124 L  Negro  Metallic Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ULI8PMQ/?tag=tolees-21'
 descuento: '40.66'
 average: '261.09'

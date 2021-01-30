@@ -16,6 +16,7 @@ comparePrice: 24.2 EUR
 prodname: 'BRA Profesional - Pote  14 cm  Acero Inoxidable 18/10'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00AE2OEOW/?tag=tolees-21'
 descuento: '50.62'
 average: '11.95'

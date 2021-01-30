@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Columbia Backpedal Outdry  Zapatillas de Cross para Mujer  Gris  Steam  White   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DV4ZQG9/?tag=tolees-21'
 descuento: '68.50'
 average: '31.5'

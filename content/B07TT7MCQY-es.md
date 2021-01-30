@@ -16,6 +16,7 @@ comparePrice: 2.5 EUR
 prodname: 'Syoss Espuma Keratin - 250 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TT7MCQY/?tag=tolees-21'
 descuento: '60.00'
 average: '1.0'

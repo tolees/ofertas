@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'JACK & JONES JFWALBANY Leather STS  Chukka Boots para Hombre  Gris Anthracite Anthracite   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CTK7LDY/?tag=tolees-21'
 descuento: '38.00'
 average: '63.989999999999995'

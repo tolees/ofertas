@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Superga Classic  Zapatillas Unisex Adulto  Azul  Azure Erica 325   49 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N4PKZXX/?tag=tolees-21'
 descuento: '69.90'
 average: '20.10333333333333'

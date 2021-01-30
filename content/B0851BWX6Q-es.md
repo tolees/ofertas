@@ -16,6 +16,7 @@ comparePrice: 33.88 EUR
 prodname: 'HERSITY Camión de Basura Montar y Desmontar Coches con Sonidos Vehiculos Juguete Regalos para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0851BWX6Q/?tag=tolees-21'
 descuento: '52.92'
 average: '15.95'

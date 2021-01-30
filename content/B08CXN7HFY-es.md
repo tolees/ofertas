@@ -16,6 +16,7 @@ comparePrice: 31.12 EUR
 prodname: 'Bolsa de cosméticos para mujeres  siluetas de una paloma flocado volando a un árbol de gallo  bolsas de maquillaje  accesorios organizadores regalos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CXN7HFY/?tag=tolees-21'
 descuento: '59.99'
 average: '12.45'

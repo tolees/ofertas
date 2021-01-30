@@ -16,6 +16,7 @@ comparePrice: 32.93 EUR
 prodname: 'Caja de Paternina Banda Azul Crianza D.O. Rioja Vino tinto - 6 botellas x 750 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9KYWLX/?tag=tolees-21'
 descuento: '29.76'
 average: '23.13'

@@ -16,6 +16,7 @@ comparePrice: 4.6 EUR
 prodname: 'FIND - Tender Hues - Trío de sombras de ojos  n.4  n.5  n.6 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CTRNLWV/?tag=tolees-21'
 descuento: '43.04'
 average: '3.257142857142857'

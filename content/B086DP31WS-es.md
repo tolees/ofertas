@@ -16,6 +16,7 @@ comparePrice: 37.83 EUR
 prodname: 'OWSOO 20PCS Máscaras FFP2  95% de Filtración'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086DP31WS/?tag=tolees-21'
 descuento: '47.16'
 average: '19.99'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Cortapelos Nariz y Oreja - Liberex Recortador Eléctrico para Nariz Oreja con LED  Cuchilla Impermeable de 360° Rotación  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074NV4DH3/?tag=tolees-21'
 descuento: '50.03'
 average: '9.99'

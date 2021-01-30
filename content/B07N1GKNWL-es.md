@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Un Maui Lace  Zapatillas para Mujer  Multicolor  Natural Snake Natural Snake   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1GKNWL/?tag=tolees-21'
 descuento: '54.12'
 average: '37.1625'

@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Hunletai Cable iPhone Cable Lightning [3Pack 1M 1M 2M] Trenzado de Nylon Cargador iPhone Compatible con iPhone XS MAX XR X 8 Plus 7 Plus 6S 6 Plus 5 5S 5C SE iPad iPod  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VBF1JRL/?tag=tolees-21'
 descuento: '49.80'
 average: '9.635714285714288'

@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Columbia Schooner Bank Gorra Cachalot  Unisex Adulto  Beige  Fossil   One Size  Adjustable '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0058YRYJ8/?tag=tolees-21'
 descuento: '34.57'
 average: '15.686666666666667'

@@ -16,6 +16,7 @@ comparePrice: 13.98 EUR
 prodname: 'MoreCro 5 Piezas Botellas de Viaje Portátiles de 50ml con 2 Embudos  Contenedores Vacíos de Desinfectante de Manos con Mosquetón de Gancho  Clip para Cinturón  Plástico  Color de Gancho Aleatorio '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08H8T59XP/?tag=tolees-21'
 descuento: '60.73'
 average: '5.49'

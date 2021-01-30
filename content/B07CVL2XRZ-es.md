@@ -16,6 +16,7 @@ comparePrice: 16.3 EUR
 prodname: 'NANOCABLE 10.16.4401-BK - Adaptador USB-C a 4 x USB 3.0  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CVL2XRZ/?tag=tolees-21'
 descuento: '32.33'
 average: '11.146666666666667'

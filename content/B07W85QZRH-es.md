@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Vicloon Funda de Maleta  20-Pulgadas Cubierta de Maleta Protector de Equipaje  Material de PVC Transparente Viajar Protector de Equipaje  Reutilizable  Lavable  Impermeable y a Prueba de Polvo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W85QZRH/?tag=tolees-21'
 descuento: '33.36'
 average: '7.99'

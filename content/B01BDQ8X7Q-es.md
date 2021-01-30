@@ -16,6 +16,7 @@ comparePrice: 1.99 EUR
 prodname: 'Leifheit 7216-Recambio Classic mop  Compuesto  8.5x8.5x31 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BDQ8X7Q/?tag=tolees-21'
 descuento: '50.25'
 average: '0.99'

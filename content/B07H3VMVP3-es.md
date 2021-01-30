@@ -16,6 +16,7 @@ comparePrice: 116.2 EUR
 prodname: 'Coolbell Bolsa de mensajero convertible multifuncional para laptop de 17.3 pulgadas 17.3 pulgadas Gris oscuro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H3VMVP3/?tag=tolees-21'
 descuento: '67.38'
 average: '37.91'

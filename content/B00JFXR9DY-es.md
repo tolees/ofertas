@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'Memoria USB 128 MB 10 Piezas Pen Drives - Portátil Unidad Flash USB Práctico PenDrive con 10 Unidades Cuerdas - Azul Giratoria USB 2.0 Flash Drive Pequeña Capacidad 128 MB for Conferencia by FEBNISCTE'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JFXR9DY/?tag=tolees-21'
 descuento: '35.73'
 average: '20.56'

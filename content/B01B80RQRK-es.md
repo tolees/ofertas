@@ -16,6 +16,7 @@ comparePrice: 350.0 EUR
 prodname: 'Helly Hansen Rigging Shell Jacket  Hombre  Azul  Navy   2XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01B80RQRK/?tag=tolees-21'
 descuento: '53.68'
 average: '162.12'

@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Estudio de Fotografía Mini portátil Gleading 40x40x40cm Carpa Luminosa Lightroom con luz LED. Kit de Caja de luz: Carpa Plegable + Dos Fondos  Blanco y Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075HGYDXT/?tag=tolees-21'
 descuento: '46.68'
 average: '39.99'

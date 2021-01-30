@@ -16,6 +16,7 @@ comparePrice: 25.95 EUR
 prodname: 'Victoria Mercedes Terciopelo  Bailarinas con Punta Cerrada para Niñas  Azul  Marino 30   22 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DH9XJY4/?tag=tolees-21'
 descuento: '34.99'
 average: '16.87'

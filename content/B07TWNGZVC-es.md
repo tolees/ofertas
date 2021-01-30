@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Lacoste Rc2012 Cinturón  Beige  Fog D47   95  tamaño del fabricante: 110  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TWNGZVC/?tag=tolees-21'
 descuento: '29.16'
 average: '31.88'

@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'The North Face Resolve  Pantalones para Hombre  TNF Negro  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0058ZC5DM/?tag=tolees-21'
 descuento: '42.64'
 average: '54.49'

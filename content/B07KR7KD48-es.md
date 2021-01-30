@@ -16,6 +16,7 @@ comparePrice: 65 EUR
 prodname: 'Under Armour UA Qualifier Heatgear Tight Leggings  Hombre  Negro  Black/Black/Reflective 001   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KR7KD48/?tag=tolees-21'
 descuento: '43.22'
 average: '36.91'

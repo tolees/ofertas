@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Puma ESS Logo Pants FL Cl Chándal  Hombre  Gibraltar Sea  XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QFBPF9W/?tag=tolees-21'
 descuento: '56.22'
 average: '17.49'

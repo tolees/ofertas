@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'RS-05 CLASSIC - JET VESPA MOTO SCOOTER RETRO VINTAGE MOPED CHOPPER CRUISER BOBBER BIKER VERANO CASCO ABIERTO  L  59-60 CM  '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SFY13M4/?tag=tolees-21'
 descuento: '27.35'
 average: '39.95'

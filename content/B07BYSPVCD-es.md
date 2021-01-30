@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'GRÜNTEK Tijera Cortasetos de dos manos LEOPARD 540 mm. Cortarramas y yunque con corte Bypass  Hoja en acer 78mm. Tijeras de podar jadín lígera y poderosa. Garantia a 90 días'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BYSPVCD/?tag=tolees-21'
 descuento: '32.26'
 average: '16.9'

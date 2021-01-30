@@ -16,6 +16,7 @@ comparePrice: 12.53 EUR
 prodname: 'Note D Espresso - Cápsulas de tisana de ciruela y canela exclusivamente compatibles con cafeteras Nespresso*  3 g  caja de 40 unidades '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WS7TVDP/?tag=tolees-21'
 descuento: '36.23'
 average: '7.19'

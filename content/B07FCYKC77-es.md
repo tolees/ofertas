@@ -16,6 +16,7 @@ comparePrice: 12.6 EUR
 prodname: '60g  0.13lb  té negro hecho a mano de China Yunnan Dianhong  pequeña bola de oro  té negro en conserva  té chino gongfu té rojo Dian hong té verde comida'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FCYKC77/?tag=tolees-21'
 descuento: '50.00'
 average: '6.3'

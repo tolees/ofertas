@@ -16,6 +16,7 @@ comparePrice: 31.45 EUR
 prodname: 'Crucial CT51264BD160B - Memoria RAM de 4 GB  DDR3L  1600 MT/s  PC3L-12800  DIMM  240-Pin '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005LDLUW8/?tag=tolees-21'
 descuento: '30.24'
 average: '23.78666666666667'

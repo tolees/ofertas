@@ -16,6 +16,7 @@ comparePrice: 74.95 EUR
 prodname: 'PUMA NRGY Neko Skim  Zapatillas de Running para Hombre  Negro Black/High Risk Red  48.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S6NHG8N/?tag=tolees-21'
 descuento: '44.03'
 average: '41.95'

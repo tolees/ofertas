@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Gentai 128 GB/400 GB Tarjeta Micro SD Clase 10 UHS-I TF Tarjeta de memoria flash Micro SDHC con adaptador  400 GB '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08G1DDCPV/?tag=tolees-21'
 descuento: '61.56'
 average: '9.99'

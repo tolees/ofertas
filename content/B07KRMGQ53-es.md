@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'New Balance 624v5  Zapatillas Deportivas para Interior para Hombre  Negro  Black/Black Black/Black   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KRMGQ53/?tag=tolees-21'
 descuento: '57.67'
 average: '27.115384615384617'

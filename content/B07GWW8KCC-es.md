@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Cable guy XL Spyro the dragon soporte de sujeción o carga para mando de consola smartphone y tableta con tu personaje favorito con licencia de Activision.Producto con licencia oficial.Exquisite Gaming'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GWW8KCC/?tag=tolees-21'
 descuento: '50.01'
 average: '19.99'

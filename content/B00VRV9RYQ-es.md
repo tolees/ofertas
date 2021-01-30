@@ -16,6 +16,7 @@ comparePrice: 8.72 EUR
 prodname: 'HENDI Bandejas para comida rápida  grande  - Verde - 350x450x H 20 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VRV9RYQ/?tag=tolees-21'
 descuento: '49.31'
 average: '4.42'

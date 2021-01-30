@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Máscara ffp2  Máscara para Exteriores  Máscara anticontaminación Anti Pm2.5  Prevención con Capas de válvula FFP2 Filtro de Smog  Polvo  frío  1 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085KY6TZP/?tag=tolees-21'
 descuento: '46.19'
 average: '6.99'

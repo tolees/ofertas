@@ -16,6 +16,7 @@ comparePrice: 64.9 EUR
 prodname: 'Bionaire BT19-I Ventilador de torre  40 W  Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004WG3ZJG/?tag=tolees-21'
 descuento: '32.85'
 average: '44.76'

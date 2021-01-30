@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'scottpown Reproductor de música de Tarjeta de Altavoz Bluetooth estéreo inalámbrico portátil Resistente al Agua Altavoces portátiles'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083GJJ6LX/?tag=tolees-21'
 descuento: '76.63'
 average: '18.475'

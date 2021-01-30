@@ -16,6 +16,7 @@ comparePrice: 129 EUR
 prodname: 'Bébé Confort CAPAZO BLANDO LAIKA  Nomad Blue - Capazo Blando  exclusivo para cochecito Laika  color azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076DXJCXY/?tag=tolees-21'
 descuento: '56.60'
 average: '55.98'

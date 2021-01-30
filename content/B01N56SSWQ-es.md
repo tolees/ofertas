@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Pioneer SE-MS7BT-S - Auriculares de Tipo Diadema  Bluetooth  Hires  Power Bass  NFC   Color Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N56SSWQ/?tag=tolees-21'
 descuento: '41.61'
 average: '77.39375000000001'

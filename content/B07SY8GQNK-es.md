@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Pulidor Esmeril limas de uñas profesionales eléctricas Máquina lijadora Pedicura lijadora eléctrica con 6 Brocas Pulidor Broca y 150 bandas de lijado Torno para uñas para Manicura y Pedicura'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SY8GQNK/?tag=tolees-21'
 descuento: '35.01'
 average: '23.612857142857145'

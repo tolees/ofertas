@@ -16,6 +16,7 @@ comparePrice: 99 EUR
 prodname: 'Timex Grid Shock - Reloj digital con correa de resina para hombre  color negro/LCD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B010GTJGO0/?tag=tolees-21'
 descuento: '42.43'
 average: '57.31142857142857'

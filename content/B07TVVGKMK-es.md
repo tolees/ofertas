@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Skechers Bounder  Zapatillas para Hombre  Gris  Black Mesh/Synthetic/Black Trim BBK   39.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TVVGKMK/?tag=tolees-21'
 descuento: '35.78'
 average: '38.5'

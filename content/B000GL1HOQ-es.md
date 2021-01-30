@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Rollo decorativo estilo reptiles'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000GL1HOQ/?tag=tolees-21'
 descuento: '38.71'
 average: '5.51'

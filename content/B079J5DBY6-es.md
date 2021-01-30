@@ -16,6 +16,7 @@ comparePrice: 23 EUR
 prodname: 'Tefal Daily Cook - Sartén de 20 cm  antiadherente de acero inoxidable  para todo tipo de cocinas incluido inducción'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079J5DBY6/?tag=tolees-21'
 descuento: '34.83'
 average: '18.993333333333332'

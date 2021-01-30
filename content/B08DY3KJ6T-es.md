@@ -16,6 +16,7 @@ comparePrice: 40.87 EUR
 prodname: 'NNAYD1996 Pintura al óleo Flor de Cactus Impresión Digital a Prueba de Agua y Moho'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DY3KJ6T/?tag=tolees-21'
 descuento: '61.15'
 average: '15.88'

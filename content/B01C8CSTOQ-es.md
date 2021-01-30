@@ -16,6 +16,7 @@ comparePrice: 291.63 EUR
 prodname: 'Grohe Vitalio Start - Sistema de ducha con termostato  teleducha y barra de ducha  acabado cromado  Ref. 34597000 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01C8CSTOQ/?tag=tolees-21'
 descuento: '53.28'
 average: '141.34'

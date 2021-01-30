@@ -16,6 +16,7 @@ comparePrice: 7.64 EUR
 prodname: 'Valira Aceitera  Accesorios  Blanco-Transparente  60 mL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CI0AVX6/?tag=tolees-21'
 descuento: '48.30'
 average: '3.686666666666667'

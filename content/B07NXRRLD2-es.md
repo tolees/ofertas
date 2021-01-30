@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Alarma Personal  Alarma Personal de Emergencia  Scream Safesound  3 Piezas 140DB Alarma Seguridad Autodefensa con Luz LED Llaveros para Mujeres  Niños  Ancianos  Turno Nocturno'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NXRRLD2/?tag=tolees-21'
 descuento: '40.02'
 average: '11.99'

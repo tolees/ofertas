@@ -16,6 +16,7 @@ comparePrice: 13.59 EUR
 prodname: 'Revlon 7244684000 Style Masters 2 Modular  Laca de Fijación la permanente  500ml  1 unidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D5JP53C/?tag=tolees-21'
 descuento: '28.40'
 average: '9.73'

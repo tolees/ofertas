@@ -16,6 +16,7 @@ comparePrice: 109.0 EUR
 prodname: 'Lacoste Chaymon 120 4 CMA  Zapatillas para Hombre  Blanco  41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SL6VPH1/?tag=tolees-21'
 descuento: '34.11'
 average: '71.82'

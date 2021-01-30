@@ -16,6 +16,7 @@ comparePrice: 18.8 EUR
 prodname: 'Shimano  SM-SH11 - Par Calas Sm-Sh11 68  color amarillo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000NONWIK/?tag=tolees-21'
 descuento: '33.24'
 average: '12.55'

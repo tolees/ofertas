@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Pop! Crash Bandicoot - Aku Aku'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFBSVGG/?tag=tolees-21'
 descuento: '25.20'
 average: '12.854444444444443'

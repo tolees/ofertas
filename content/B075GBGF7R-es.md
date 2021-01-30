@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'Triumph Body Make-up Essent WHU Sujetador  Marrón  Coffee Sugar FF   100C para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075GBGF7R/?tag=tolees-21'
 descuento: '46.72'
 average: '23.95'

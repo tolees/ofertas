@@ -16,6 +16,7 @@ comparePrice: 9.55 EUR
 prodname: 'ISDIN Spray Anti Mosquitos - Repelente de Mosquitos para la Prevención de Picaduras  Eficaz Mosquito Tigre  Amarillo  1 x 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GY2IEKG/?tag=tolees-21'
 descuento: '26.81'
 average: '7.870000000000001'

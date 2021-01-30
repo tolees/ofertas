@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Weideworld [2 Pack Protector de Pantalla para Realme X2  Cristal Templado HD Film Protector de Pantalla Screen Protector para Realme X2 [9H Dureza] Transparente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZVHSHX7/?tag=tolees-21'
 descuento: '61.98'
 average: '7.22'

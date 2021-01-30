@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'HUAWEI FreeBuds 3 - Auriculares inalámbricos con cancelación de Ruido Activa  conexión Bluetooth ultrarrápida  Altavoz de 14 mm  Carga inalámbrica   Color Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZTP9N1F/?tag=tolees-21'
 descuento: '27.93'
 average: '157.0'

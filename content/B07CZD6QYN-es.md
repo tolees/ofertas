@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'Salomon Trailster GTX W  Zapatillas de Trail Running para Mujer  Morado  Deep Lagoon/Navy Blazer/Purple Magic   41 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZD6QYN/?tag=tolees-21'
 descuento: '54.09'
 average: '55.07'

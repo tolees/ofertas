@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Superga 2750 COTU Classic  Zapatillas Unisex  Blanco White Gold A15  41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P8M3N9P/?tag=tolees-21'
 descuento: '52.56'
 average: '27.99'

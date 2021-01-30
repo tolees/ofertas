@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Bohell TP710REA - Taladro percutor 710 W  velocidad regulable 0-3000 rpm  con portabrocas automático de 13 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DM5ZTK8/?tag=tolees-21'
 descuento: '26.22'
 average: '24.25'

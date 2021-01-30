@@ -16,6 +16,7 @@ comparePrice: 123.74 EUR
 prodname: 'IPOTCH Cámara de Cazar Rastro HC-300M 12MP 2G MMS GPRS HD 1080P Agarrar Blando Peces Industria Piscícola'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KMFYLFN/?tag=tolees-21'
 descuento: '33.34'
 average: '82.49'

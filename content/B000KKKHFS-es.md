@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'InLine 33101 Adaptador de Cable USB A DB15 Beige - Adaptador para Cable  USB A  DB15  Male Connector/Female Connector  Beige '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000KKKHFS/?tag=tolees-21'
 descuento: '27.73'
 average: '7.22'

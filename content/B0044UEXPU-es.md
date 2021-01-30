@@ -16,6 +16,7 @@ comparePrice: 85.89 EUR
 prodname: 'HP CE312A 126A Cartucho de Tóner Original  1 unidad  amarillo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0044UEXPU/?tag=tolees-21'
 descuento: '44.11'
 average: '48.0'

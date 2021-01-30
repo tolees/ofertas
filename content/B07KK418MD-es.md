@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Columbia Fairbanks Omni-Heat  Bota de Invierno para Hombre  Azul  Carbon  Red Jas   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KK418MD/?tag=tolees-21'
 descuento: '66.17'
 average: '41.95'

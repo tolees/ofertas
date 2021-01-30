@@ -16,6 +16,7 @@ comparePrice: 25.58 EUR
 prodname: 'Hama Cubo Cartón 10000 Perlas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00005LADI/?tag=tolees-21'
 descuento: '39.60'
 average: '15.45'

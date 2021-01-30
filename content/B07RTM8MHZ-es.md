@@ -16,6 +16,7 @@ comparePrice: 135.0 EUR
 prodname: 'Tiny Love Rocker Napper Balancin para bebès  hamaca con Vibraciones relajantes  música y luces calmante  color Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RTM8MHZ/?tag=tolees-21'
 descuento: '33.78'
 average: '90.42571428571429'

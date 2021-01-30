@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'L Oréal Paris Make-up designer X Isabel Marant "Pillage Western" Pintalabios Mate Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FY88JJ3/?tag=tolees-21'
 descuento: '27.27'
 average: '8.85'

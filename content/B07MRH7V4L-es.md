@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Black Diamond Astro 175 Lampe Frontale  Unisex Adulto  Verde  Dark Olive   Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MRH7V4L/?tag=tolees-21'
 descuento: '39.35'
 average: '12.13'

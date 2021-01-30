@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'iMagicBox Cife Cubo de Magia  Multicolor Spain 41419'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DD75Q1H/?tag=tolees-21'
 descuento: '59.96'
 average: '25.47'

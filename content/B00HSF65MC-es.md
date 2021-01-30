@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'LE Tira LED  Cadena de Luces  5m 300 LED SMD 2835  Blanco Frío No Impermeable 6000K para Techo  Escaparate  Muebles  etc.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HSF65MC/?tag=tolees-21'
 descuento: '25.03'
 average: '7.49'

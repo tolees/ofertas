@@ -16,6 +16,7 @@ comparePrice: 24.8 EUR
 prodname: 'NIDO DE PAJAROS - INTERHOME©'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ULUETJW/?tag=tolees-21'
 descuento: '55.69'
 average: '10.99'

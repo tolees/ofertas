@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'HICKIES Cordones Elásticos No-Tie 2.0 Performance - Taupe Tan'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GYQDNH3/?tag=tolees-21'
 descuento: '25.08'
 average: '11.2'

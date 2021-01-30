@@ -16,6 +16,7 @@ comparePrice: 34.9 EUR
 prodname: 'Tommy Hilfiger Triangle Bra Sujetador de triángulo  Gris  Grey Heather 004   K  Talla del Fabricante: X-Small  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MXKSPCK/?tag=tolees-21'
 descuento: '36.99'
 average: '19.240000000000002'

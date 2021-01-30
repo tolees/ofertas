@@ -16,6 +16,7 @@ comparePrice: 0.1 EUR
 prodname: 'Cable USB-C Tipo C Muelle en Espiral Espiral Tipo-C Cable de extensión Macho Cargador de sincronización de Datos Cable de Carga de Alambre - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YB5XR83/?tag=tolees-21'
 descuento: '90.00'
 average: '0.01'

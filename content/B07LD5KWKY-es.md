@@ -16,6 +16,7 @@ comparePrice: 37.6 EUR
 prodname: 'Shayson Paquete de 16 Mascarilla rcp  CPR Máscara de Bolsillo máscara de Emergencia con Kit de Emergencia con válvula de una vía para Rescate de Primeros Auxilios o Entrenamiento con AED'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LD5KWKY/?tag=tolees-21'
 descuento: '54.81'
 average: '16.99'

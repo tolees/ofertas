@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Barra De Labios Mate Permanente De Pintalabios Impermeable Natural Brillo De Labios 003 Rojo Oscuro Oscuro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HQ1KD4D/?tag=tolees-21'
 descuento: '46.70'
 average: '7.99'

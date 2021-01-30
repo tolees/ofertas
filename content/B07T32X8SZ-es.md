@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'Cámaras bala 700TVL AHD Cámara impermeable aire libre  Seguridad para el hogar Cámara visión nocturna por infrarrojos Visión nocturna Vigilancia Tarjeta video Sistema monitoreo multifunción EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T32X8SZ/?tag=tolees-21'
 descuento: '51.37'
 average: '17.99'

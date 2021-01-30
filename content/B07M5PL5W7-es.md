@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'StarBlue Churrera Máquina para Hacer Churros Fácil Herramienta para Hacer Churros en 8 Formas Diferentes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M5PL5W7/?tag=tolees-21'
 descuento: '30.56'
 average: '24.99'

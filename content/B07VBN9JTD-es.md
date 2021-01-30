@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Pepe Jeans Adams Logo  Zapatillas para Mujer  Color Blanco 800  40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VBN9JTD/?tag=tolees-21'
 descuento: '56.28'
 average: '39.3'

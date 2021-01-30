@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Escobilla Flexible inoxidable  pelo de cabra de limpieza para radiador'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003UR5BIG/?tag=tolees-21'
 descuento: '40.05'
 average: '11.99'

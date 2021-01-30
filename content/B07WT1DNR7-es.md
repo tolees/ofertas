@@ -16,6 +16,7 @@ comparePrice: 17.89 EUR
 prodname: 'Onnea 7 Pares de Pendientes con Clip para Ni?as Bebes Flor Animales Unicornio Sirena  Sirena Girasol Fresa '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WT1DNR7/?tag=tolees-21'
 descuento: '44.16'
 average: '9.99'

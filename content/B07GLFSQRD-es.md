@@ -16,6 +16,7 @@ comparePrice: 12.7 EUR
 prodname: 'Té de Yunnan Rose Puerh 100g  0.22LB  conservas de Rose Puer pequeñas Tuocha Pu er té maduro Té orgánico Pu er té Té negro Té Puer Té chino Pu er té Pu-erh té Árboles viejos Pu er té cocido té rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GLFSQRD/?tag=tolees-21'
 descuento: '50.00'
 average: '6.35'

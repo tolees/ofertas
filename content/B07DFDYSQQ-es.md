@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Funko Little Shop of Horrors - Figura de Vinilo Orin Scivello D.D.S.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFDYSQQ/?tag=tolees-21'
 descuento: '39.87'
 average: '7.093333333333333'

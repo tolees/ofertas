@@ -16,6 +16,7 @@ comparePrice: 22.2 EUR
 prodname: '40 x Copas de vino desechable de plástico  40 unidades | Sin BPA  robusta y con un elegante aspecto de cristal | Tallo rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S6NPDNC/?tag=tolees-21'
 descuento: '41.49'
 average: '11.565000000000001'

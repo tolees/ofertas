@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Helly Hansen TRANSAT Polo Polo  Hombre  Negro  Negro 990   Small  Tamaño del Fabricante:S '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073RPXM5J/?tag=tolees-21'
 descuento: '35.58'
 average: '28.99'

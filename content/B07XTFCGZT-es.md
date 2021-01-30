@@ -16,6 +16,7 @@ comparePrice: 15.0 EUR
 prodname: 'LARPOTE con Funda Huawei P20 Pro Funda Piel PU  Soporte Plegable  Ranuras para Tarjetas y Billetes  Estilo Libro  Acceso a Botones  Cierre Magnético -Oro.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XTFCGZT/?tag=tolees-21'
 descuento: '60.07'
 average: '5.99'

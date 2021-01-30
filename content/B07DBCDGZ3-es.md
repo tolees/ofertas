@@ -16,6 +16,7 @@ comparePrice: 20.87 EUR
 prodname: 'TELLW Verano Hombre Dama casa par Interior Lino Zapatillas de Cuero Suelo de Madera Casual Zapatillas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DBCDGZ3/?tag=tolees-21'
 descuento: '47.44'
 average: '10.97'

@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Nike Revolution 4  PSV   Zapatillas de Entrenamiento Unisex Niños  Negro  Black/White-Anthracite 006   31 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XR5JHS4/?tag=tolees-21'
 descuento: '35.27'
 average: '22.65'

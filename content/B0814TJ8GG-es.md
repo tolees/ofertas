@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Under Armour Tech Wordmark Corto  Hombre  Negro  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0814TJ8GG/?tag=tolees-21'
 descuento: '48.37'
 average: '15.49'

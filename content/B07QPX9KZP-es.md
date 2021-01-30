@@ -16,6 +16,7 @@ comparePrice: 14.38 EUR
 prodname: 'Homyl - Recambio de cartucho de tinta de 69 ml para 500 ps / 500 ps / 510 amarillo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QPX9KZP/?tag=tolees-21'
 descuento: '44.44'
 average: '7.99'

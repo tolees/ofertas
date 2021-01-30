@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'FORMIZON 40 Pcs Bolsas Regalo Papel  10 Colores Patrón Puntos con Adhesivos Sellado para Niños Suministros Fiesta de Cumpleaños  Suministros Banquetes de Boda'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TYXCFGN/?tag=tolees-21'
 descuento: '47.85'
 average: '11.99'

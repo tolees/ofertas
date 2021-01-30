@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Triumph Tempting Lace Tai Braguita  Azul  Peacock 1512   36  Talla del Fabricante: 00XS  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V4P1KQB/?tag=tolees-21'
 descuento: '64.88'
 average: '5.25'

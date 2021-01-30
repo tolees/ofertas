@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'AmazonBasics - Maleta de mano rígida de alta calidad  con ruedas y cerradura TSA incorporada  55 cm  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C3S5J4L/?tag=tolees-21'
 descuento: '27.84'
 average: '46.9'

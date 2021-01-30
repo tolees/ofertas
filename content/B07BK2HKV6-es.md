@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'New Balance 373 Core   Zapatillas para Hombre  Gris  Grey   38.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BK2HKV6/?tag=tolees-21'
 descuento: '52.81'
 average: '37.75'

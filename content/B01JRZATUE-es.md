@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'Tristar PZ-2881 Pizzera Máquina para hacer pizzas  30 cm  termostato regulable  1450 W  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JRZATUE/?tag=tolees-21'
 descuento: '30.91'
 average: '38.399'

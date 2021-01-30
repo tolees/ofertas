@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Cacharel Amor Amor Deo Vaporizador 150 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000Q34PVG/?tag=tolees-21'
 descuento: '35.31'
 average: '18.19'

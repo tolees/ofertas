@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Barra de Sonido  Wellwerks 95W Altavoz de Audio para TV Bluetooth V4.2 [Conexiones Alámbrico/Inalámbrico] Bluetooth Sound-Bar Subwoofer para TV/Computer/Video/Music etc.  95W '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X5YWJ67/?tag=tolees-21'
 descuento: '47.59'
 average: '47.16'

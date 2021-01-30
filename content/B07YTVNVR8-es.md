@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'AJOXEL Afilador de Cuchillos Profesional  4 en 1 Manual Cocina Afilador Cuchillos  Knife Sharpener Afiladores Manuales para Cuchillos de Todo tamaño del hogar  Diseño Antideslizante'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YTVNVR8/?tag=tolees-21'
 descuento: '50.02'
 average: '14.99'

@@ -16,6 +16,7 @@ comparePrice: 20.28 EUR
 prodname: 'Suhctup Transparente Funda Compatible con OnePlus 5 Carcasa Protectora de TPU Ultradelgada Flor y Calavera Diseño Anti-Choques Resistente Case Cover para OnePlus 5 4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0868N9HDP/?tag=tolees-21'
 descuento: '60.65'
 average: '7.98'

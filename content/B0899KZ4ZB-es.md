@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Petoske Ventilador Cuello Ventilador Portatil USB Recargable Mini Ventilador de Manos Libres 3 velocidades rotación Libre de 360° Color with LED 7 Hoja para Mascotas Viajes Interior Exterior.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0899KZ4ZB/?tag=tolees-21'
 descuento: '30.02'
 average: '13.99'

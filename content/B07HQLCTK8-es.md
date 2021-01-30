@@ -16,6 +16,7 @@ comparePrice: 14.66 EUR
 prodname: 'MOBOREST Acoplador Coaxial TV Antena Coaxial T/F Tipo Antena Distribuidor Completamente Blindado Bidireccional para Adaptadores TV/T Acoplamiento Coaxial Screw 3Female-Gold'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HQLCTK8/?tag=tolees-21'
 descuento: '52.32'
 average: '6.99'

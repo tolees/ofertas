@@ -16,6 +16,7 @@ comparePrice: 34.93 EUR
 prodname: 'Hozelock - Carrete portamangueras Pico Reel con 10 m de manguera y todos los accesorios - lista para su uso'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HNWZ7IS/?tag=tolees-21'
 descuento: '32.18'
 average: '23.69'

@@ -16,6 +16,7 @@ comparePrice: 21.35 EUR
 prodname: 'HR-International - 2 rollos de paño desechable para limpieza de cocina húmeda y seca  toallas de papel de cocina para baño o ventana  100 unidades  blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085YG9PP3/?tag=tolees-21'
 descuento: '39.20'
 average: '12.98'

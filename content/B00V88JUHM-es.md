@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'PARFUMS SAPHIR Agua de Mayo - Eau de Parfum con vaporizador para Hombre - 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00V88JUHM/?tag=tolees-21'
 descuento: '29.10'
 average: '12.190000000000001'

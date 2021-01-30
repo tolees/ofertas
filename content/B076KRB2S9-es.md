@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'VAUDE Classic Back Alforja  Unisex Adulto  Negro  Phantom Black   Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076KRB2S9/?tag=tolees-21'
 descuento: '48.24'
 average: '62.11'

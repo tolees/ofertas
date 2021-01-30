@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'New Balance Fresh Foam Arishi V3  Zapatillas de Running para Hombre  Gris  Grey Lg3   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RK2CXF7/?tag=tolees-21'
 descuento: '42.78'
 average: '48.64'

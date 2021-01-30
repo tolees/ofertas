@@ -16,6 +16,7 @@ comparePrice: 46.99 EUR
 prodname: 'Mini Camara Espia Oculta  DEXILIO 1080P Vigilancia Grabadora de Video Portátil con Visión Nocturna Detector de Movimiento  Camara Seguridad Pequeña Inalambrica Interior/Exterior  con Tarjeta de 32GB '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KC6C58Q/?tag=tolees-21'
 descuento: '29.79'
 average: '34.656666666666666'

@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'RIFFUE Moto G6 Play Protector de Pantalla  Cristal Vidrio Templado Glass Premium [9H Dureza] [3D Touch] [Alta Definicion] 0.26mm Screen Protector Film para Motorola Moto G6 Play [2 Unidades]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B2TYRMT/?tag=tolees-21'
 descuento: '68.12'
 average: '7.01'

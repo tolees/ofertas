@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Asics Gel-Cumulus 21  Running Shoe Mens - Midnight/Midnight - 41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0812GBGGH/?tag=tolees-21'
 descuento: '30.25'
 average: '97.65'

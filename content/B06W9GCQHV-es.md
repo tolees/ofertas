@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Schleich - Quad con remolque y ranger - Con múltiples Funciones - Set con Figuras y Accesorios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06W9GCQHV/?tag=tolees-21'
 descuento: '49.98'
 average: '15.0'

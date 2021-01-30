@@ -16,6 +16,7 @@ comparePrice: 68.0 EUR
 prodname: 'Chantelle DE Pyramide Sujetador de Copa Media  Beige  Champagner NL   85B  Talla del Fabricante: 70B  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JMYBB7B/?tag=tolees-21'
 descuento: '42.65'
 average: '32.053333333333335'

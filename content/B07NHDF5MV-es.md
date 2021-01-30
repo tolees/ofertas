@@ -16,6 +16,7 @@ comparePrice: 139.95 EUR
 prodname: 'Adidas Terrex Ax3 Mid GTX W  Zapatillas de Deporte para Mujer  Multicolor  Gricin/Negbás/Mencla 000   43 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NHDF5MV/?tag=tolees-21'
 descuento: '60.48'
 average: '55.31'

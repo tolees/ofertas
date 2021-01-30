@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'EKKONG Objetivo de Tiro Eléctrico  Arma de Juguete de reinicio automático  Objetivo Digital Electrónico con Efecto de Sonido Target eléctrico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WR7V2W7/?tag=tolees-21'
 descuento: '37.05'
 average: '16.99'

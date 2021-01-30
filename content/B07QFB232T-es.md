@@ -16,6 +16,7 @@ comparePrice: 11.84 EUR
 prodname: 'Puckator FRUTITOSCOM - Taza - Game Over con asa en Forma de Joystick y Dibujo Pixel'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QFB232T/?tag=tolees-21'
 descuento: '55.66'
 average: '5.25'

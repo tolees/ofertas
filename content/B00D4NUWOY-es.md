@@ -16,6 +16,7 @@ comparePrice: 45.48 EUR
 prodname: 'Supportiback Almohada terapéutica de cama con gel disipador de calor.Reversible funda extraíble hipoalérgena lavable diseñado médicamente para la prevención y el alivio del dolor de cuello y espalda'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00D4NUWOY/?tag=tolees-21'
 descuento: '29.44'
 average: '38.778000000000006'

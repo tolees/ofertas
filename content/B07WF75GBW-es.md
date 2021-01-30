@@ -16,6 +16,7 @@ comparePrice: 34.97 EUR
 prodname: 'Sntieecr 36 piezas tamaño A5 brillante tela hojas con 60 piezas 2 tamaños Clips de metal para lazos de pelo DIY Hair  pinzas de pelo  bolsos de mano y manualidades  16 x 21 cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WF75GBW/?tag=tolees-21'
 descuento: '34.43'
 average: '22.77'

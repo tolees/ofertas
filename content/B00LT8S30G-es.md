@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'Revlon ColorStay Gel Envy Esmalte de Uñas de Larga Duración 11 7ml  Queen of Hearts '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LT8S30G/?tag=tolees-21'
 descuento: '69.94'
 average: '2.39'

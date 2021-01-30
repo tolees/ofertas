@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Pack de 10 Bolsas de Comida Reutilizables Sweety Fox - Bolsa para Compota y Puré 150 ml - Doble cierre Hermetico - Fácil de Rellenar  Limpiar y Transportar - con Cepillo y Embudo - Para bebes y niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08242DJQV/?tag=tolees-21'
 descuento: '44.04'
 average: '13.99'

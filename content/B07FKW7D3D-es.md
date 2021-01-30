@@ -16,6 +16,7 @@ comparePrice: 1049.0 EUR
 prodname: 'Nikon COOLPIX P1000 - Cámara compacta tipo Bridge  16 MP  pantalla de 3.2 "  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FKW7D3D/?tag=tolees-21'
 descuento: '25.45'
 average: '809.5333333333333'

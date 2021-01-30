@@ -16,6 +16,7 @@ comparePrice: 18.9 EUR
 prodname: 'Bella Aurora Solar Anti-Manchas Para Piel Sensible SPF 50+'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FRBAW0E/?tag=tolees-21'
 descuento: '25.40'
 average: '14.1'

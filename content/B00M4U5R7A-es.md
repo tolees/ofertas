@@ -16,6 +16,7 @@ comparePrice: 17.9 EUR
 prodname: 'Shimano Deore SMBB52B - Juego De Cazoletas Pedalier'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00M4U5R7A/?tag=tolees-21'
 descuento: '35.47'
 average: '10.696666666666667'

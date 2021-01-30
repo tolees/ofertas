@@ -16,6 +16,7 @@ comparePrice: 9 EUR
 prodname: 'Bourjois Boite Ronde Sombra de ojos Tono 4 Emauvante  - 18 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015WSD3IU/?tag=tolees-21'
 descuento: '77.78'
 average: '2'

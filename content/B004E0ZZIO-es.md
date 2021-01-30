@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Columbia Sun Ridge Polo de Manga Corta  Hombre  Negro  Black   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004E0ZZIO/?tag=tolees-21'
 descuento: '68.07'
 average: '17.98'

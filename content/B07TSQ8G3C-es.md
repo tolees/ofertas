@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Skechers Bounder  Zapatillas para Hombre  Azul  Navy Mesh/Synthetic/Trim Nvy   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TSQ8G3C/?tag=tolees-21'
 descuento: '39.10'
 average: '36.51'

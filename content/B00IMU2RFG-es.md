@@ -16,6 +16,7 @@ comparePrice: 51.74 EUR
 prodname: 'Estee Lauder Youth Dew Edp Vapo 65 Ml 15 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IMU2RFG/?tag=tolees-21'
 descuento: '51.35'
 average: '25.17'

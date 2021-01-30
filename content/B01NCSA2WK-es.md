@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Lima de uñas eléctrica para manicura y pedicura  limas eléctricas para el brillo y cuidado de las uñas. Pulidor de uñas y set de manicura  elimina piel muerta uñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NCSA2WK/?tag=tolees-21'
 descuento: '66.70'
 average: '9.99'

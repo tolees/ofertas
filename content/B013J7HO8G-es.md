@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'Toshiba X300 - Disco Duro Interno de 4 TB  3.5"'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013J7HO8G/?tag=tolees-21'
 descuento: '26.88'
 average: '119.982'

@@ -16,6 +16,7 @@ comparePrice: 96.0 EUR
 prodname: 'Lacoste Ph4014  Polo para Hombre  Blanco  White   Medium  Talla del fabricante : 4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00Y4XUTF0/?tag=tolees-21'
 descuento: '49.01'
 average: '46.150000000000006'

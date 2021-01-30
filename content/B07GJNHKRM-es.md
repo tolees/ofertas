@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'Eono Essentials Travel Microfibre Towel Blue 100 x 50 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GJNHKRM/?tag=tolees-21'
 descuento: '58.64'
 average: '11.99'

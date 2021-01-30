@@ -16,6 +16,7 @@ comparePrice: 11.55 EUR
 prodname: 'ANWEN para Samsung Galaxy A70E Protector de Pantalla HD 9H de dureza Cristal Templado Anti-ralladuras Anti-Burbujas para Samsung Galaxy A70E-3 Piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0876P1DHC/?tag=tolees-21'
 descuento: '55.58'
 average: '5.13'

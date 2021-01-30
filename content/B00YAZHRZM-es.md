@@ -16,6 +16,7 @@ comparePrice: 235.95 EUR
 prodname: 'Rode VideoMic Pro R - Micrófono Externo para videocámara  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00YAZHRZM/?tag=tolees-21'
 descuento: '32.61'
 average: '159.0'

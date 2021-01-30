@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Under Armour Recovery Travel Track Jacket Parte Superior del Calentamiento  Hombre  Negro  Black/Metallic Silver 001   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077XQM4B9/?tag=tolees-21'
 descuento: '81.20'
 average: '18.8'

@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'KollyKolla Botella de Agua Deporte  Botellas Sin BPA Tritan Plástico Reutilizables Ecológica con Filtro  Water Bottle para Niños & Adultos  Gimnasio  Oficina  Colegio  750ml Azul Claro Brillante '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S5QM66L/?tag=tolees-21'
 descuento: '31.60'
 average: '12.99'

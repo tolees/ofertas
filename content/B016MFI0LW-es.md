@@ -16,6 +16,7 @@ comparePrice: 45.95 EUR
 prodname: 'Medisana FS 881 bañera de hidromasaje para pies con reflexología podal - baño de pies eléctrico  función calefactora  masaje de vibración  baño de pies con masaje y calefacción  relajante de pies'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016MFI0LW/?tag=tolees-21'
 descuento: '25.40'
 average: '31.263333333333335'

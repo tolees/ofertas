@@ -16,6 +16,7 @@ comparePrice: 69 EUR
 prodname: 'Parfums Grès  Agua fresca - 100 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X9NJ5NI/?tag=tolees-21'
 descuento: '75.91'
 average: '16.62'

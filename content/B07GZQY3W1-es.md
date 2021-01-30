@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Refrigerador de aire acondicionado  manómetro de presión recargable para R410A R22 R134A R404A.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GZQY3W1/?tag=tolees-21'
 descuento: '52.03'
 average: '7.91'

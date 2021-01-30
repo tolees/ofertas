@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'IPOTCH Juego de Viaje de Madera Plegable 3 en 1 con Damas Ajedrez y Backgammon - 44 x 44 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SYZ2Q98/?tag=tolees-21'
 descuento: '33.34'
 average: '21.99'

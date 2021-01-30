@@ -16,6 +16,7 @@ comparePrice: 24.75 EUR
 prodname: 'Sisbelt Forte Complemento Alimenticio con Berenjena y Alcachofa - 225 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078HFPFC7/?tag=tolees-21'
 descuento: '28.57'
 average: '17.56'

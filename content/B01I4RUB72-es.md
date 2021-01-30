@@ -16,6 +16,7 @@ comparePrice: 74.9 EUR
 prodname: 'Breville DuraCeramic VST071X Sandwichera de tamaño mediano con revestimiento  1000 W  0 db  cerámica  Inox  planchas lisas  color gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01I4RUB72/?tag=tolees-21'
 descuento: '39.93'
 average: '54.94500000000001'

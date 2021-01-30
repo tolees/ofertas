@@ -16,6 +16,7 @@ comparePrice: 123.58 EUR
 prodname: 'Butterfly Pro Afeitadora Eléctrica para Mujer Afeitadora Rotativa Máquina de Afeitar Eléctrica Afeitadora Corporal de Skull Shaver'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VH8IHT0/?tag=tolees-21'
 descuento: '65.08'
 average: '42.10333333333333'

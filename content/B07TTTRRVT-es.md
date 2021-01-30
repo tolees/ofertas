@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Solar Fuse  Zapatillas sin Cordones para Hombre  Azul  Black Knit/PU/Gold Trim Bkgd   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TTTRRVT/?tag=tolees-21'
 descuento: '41.94'
 average: '45.105'

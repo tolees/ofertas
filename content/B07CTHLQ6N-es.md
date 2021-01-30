@@ -16,6 +16,7 @@ comparePrice: 15.96 EUR
 prodname: 'E·Durable 51pcs Mini Taladro Manual Kit Taladro Mano modelismo de Herramientas para Madera  Resina  joyería  Nogal  ámbar  Cera de Abejas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CTHLQ6N/?tag=tolees-21'
 descuento: '31.14'
 average: '10.99'

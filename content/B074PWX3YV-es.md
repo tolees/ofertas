@@ -16,6 +16,7 @@ comparePrice: 15.0 EUR
 prodname: 'Renberg Cubiertos  Diseño Liso y Plano  Acero Inoxidable  Cromado  17.5x6x25.5 cm  24 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074PWX3YV/?tag=tolees-21'
 descuento: '33.40'
 average: '11.66'

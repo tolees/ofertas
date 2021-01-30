@@ -16,6 +16,7 @@ comparePrice: 14.36 EUR
 prodname: '12 Pares Distintos Tamaños De Perlas De Imitación Cremosa Aretes De Perla Blanca'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GH12X4Q/?tag=tolees-21'
 descuento: '44.43'
 average: '7.98'

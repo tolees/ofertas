@@ -16,6 +16,7 @@ comparePrice: 23.18 EUR
 prodname: 'Moroccanoil Treatment For All Hair Types Tratamiento Capilar - 25 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003JKFEL8/?tag=tolees-21'
 descuento: '45.21'
 average: '12.7'

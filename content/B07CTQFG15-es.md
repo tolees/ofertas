@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'Fossil Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable FS5455'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CTQFG15/?tag=tolees-21'
 descuento: '44.09'
 average: '82.2'

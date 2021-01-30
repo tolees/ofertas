@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Altavoz Bluetooth Ducha Impermeable con Ventosa Extraíble  AGPTEK Radio Ducha Portátil con Pantalla Funciones de Radio FM  Manos Libre  Microfono  Reloj ect  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FQQPM85/?tag=tolees-21'
 descuento: '26.68'
 average: '22.089999999999996'

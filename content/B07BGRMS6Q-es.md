@@ -16,6 +16,7 @@ comparePrice: 12.42 EUR
 prodname: 'Diealles 26pcs Sellos de Entintado de Animales para Favor de Fiesta Infantil  Premios Escolares  Regalo de Cumpleaños  Aprendizaje de Aprendizaje'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BGRMS6Q/?tag=tolees-21'
 descuento: '27.62'
 average: '8.99'

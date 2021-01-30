@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Adoric Cortador de Verdura 4 en 1 Rallador de Verduras Calabacin Pasta Espiralizador Vegetal Veggetti Slicer Pepino  Espaguetis de Calabacin  Cortador Espiral Manual  Verde '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085M1XPJG/?tag=tolees-21'
 descuento: '37.40'
 average: '10.206551724137926'

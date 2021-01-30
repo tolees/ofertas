@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'AIRENA USB Bluetooth Nano Adaptador Stick Dongle para PC con Windows 10  8  7  XP  Vista | Plug & Play | Insertar & Uno chlaten  admite BT Auriculares  Altavoces  Ratones  Teclado  etc.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078JNSW1G/?tag=tolees-21'
 descuento: '47.09'
 average: '8.823333333333334'

@@ -16,6 +16,7 @@ comparePrice: 32.0 EUR
 prodname: 'Victoria Botin Basket Autoclave  Zapatillas Altas para Hombre  Blanco  42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IBZS4N0/?tag=tolees-21'
 descuento: '31.91'
 average: '21.79'

@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Parasol Coche Infantil Lateral UV Parasol Coche Bebe- Parasoles Autoadhesivos Para Proteger del Sol a Bebés y Mascotas  3 unidades '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P6QF2P4/?tag=tolees-21'
 descuento: '31.27'
 average: '10.99'

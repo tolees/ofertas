@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Paulmann 77029 Pinja-Lámpara de Mesa de 3 encendidos táctil E14  0 W  Cromo  Blanco  11 x 11 x 24 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000LOXQYC/?tag=tolees-21'
 descuento: '36.63'
 average: '18.98'

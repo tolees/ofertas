@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'ANGELBLISS Alimentador antiahogo bebe  chupete fruta bebe  alimentador bebe  2 piezas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WK2ZMWJ/?tag=tolees-21'
 descuento: '60.02'
 average: '11.99'

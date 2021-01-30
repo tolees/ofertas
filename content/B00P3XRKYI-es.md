@@ -16,6 +16,7 @@ comparePrice: 110.83 EUR
 prodname: 'K&N HD-1614 Filtro de Aire Moto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00P3XRKYI/?tag=tolees-21'
 descuento: '34.44'
 average: '71.344'

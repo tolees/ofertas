@@ -16,6 +16,7 @@ comparePrice: 23.9 EUR
 prodname: 'PURE RESVERATROL ANTI-OX 60 CAPS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017BY7JII/?tag=tolees-21'
 descuento: '35.02'
 average: '15.53'

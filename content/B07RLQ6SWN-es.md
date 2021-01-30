@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'J.Rosée Collares Mujer Colgante Plata de Ley 925 Circonita Regalos Originales Regalos para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RLQ6SWN/?tag=tolees-21'
 descuento: '87.01'
 average: '36.489999999999995'

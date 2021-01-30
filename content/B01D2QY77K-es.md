@@ -16,6 +16,7 @@ comparePrice: 760.0 EUR
 prodname: 'CHRONOWATCH Reloj automático Man Camara HA5310C2GBCT 44 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01D2QY77K/?tag=tolees-21'
 descuento: '76.97'
 average: '175.0'

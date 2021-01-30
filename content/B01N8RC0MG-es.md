@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Funko Pop!-Son of Zorn: Business  Color Blanco  100g  12297 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N8RC0MG/?tag=tolees-21'
 descuento: '66.71'
 average: '6.155'

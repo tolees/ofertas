@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'BOSHUN Pintar por Numeros para Adultos Niños Pintura por Números con Pinceles y Pinturas Decoraciones para el Hogar Choza de Campo  16 * 20 Pulgadas  Sin Marco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BJY5GST/?tag=tolees-21'
 descuento: '49.97'
 average: '9.0'

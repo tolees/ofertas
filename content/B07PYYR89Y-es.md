@@ -16,6 +16,7 @@ comparePrice: 74.95 EUR
 prodname: 'Under Armour UA W TriBase Edge Trainer  Zapatillas Deportivas para Interior para Mujer  Negro  Black/White/Halo Gray   35.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PYYR89Y/?tag=tolees-21'
 descuento: '68.29'
 average: '23.77'

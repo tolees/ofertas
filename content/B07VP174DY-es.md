@@ -16,6 +16,7 @@ comparePrice: 55.99 EUR
 prodname: 'GRULLIN Outdoor Survival Kit  13 in 1 Multi-Purpose Emergency First Aid Gear Kits with Survival Bracelet Blanket Carabiner for Hiking Camping'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VP174DY/?tag=tolees-21'
 descuento: '69.80'
 average: '16.91'

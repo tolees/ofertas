@@ -16,6 +16,7 @@ comparePrice: 11.02 EUR
 prodname: 'GOZAR Carcasa De Aluminio Duro De Metal Multicolor Carcasa para 3Ds XL Ll - Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MYWKHL7/?tag=tolees-21'
 descuento: '30.22'
 average: '7.69'

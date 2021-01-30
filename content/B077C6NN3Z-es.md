@@ -16,6 +16,7 @@ comparePrice: 349.0 EUR
 prodname: 'Emporio Armani Reloj Analogico para Hombre de Cuarzo con Correa en Cuero AR11106'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077C6NN3Z/?tag=tolees-21'
 descuento: '34.10'
 average: '221.8375'

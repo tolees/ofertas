@@ -16,6 +16,7 @@ comparePrice: 15.96 EUR
 prodname: 'Atrix Crema de Manos con Protección Intensiva Camomila - 250 ml - 4 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GSPGX6T/?tag=tolees-21'
 descuento: '31.08'
 average: '11.0'

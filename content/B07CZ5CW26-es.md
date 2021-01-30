@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Salomon XA Pro 3D J  Zapatillas de Deporte Unisex Niños  Azul/Naranja  Medieval Blue/Mazarine Blue Wil/Tan   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZ5CW26/?tag=tolees-21'
 descuento: '40.32'
 average: '38.76'

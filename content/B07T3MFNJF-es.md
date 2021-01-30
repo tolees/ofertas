@@ -16,6 +16,7 @@ comparePrice: 24.06 EUR
 prodname: 'Nike Benassi  Sandalia de Diapositivas para Hombre  Hierro Gris/Whitetrack Red  44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T3MFNJF/?tag=tolees-21'
 descuento: '58.40'
 average: '10.01'

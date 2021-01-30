@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Lonsdale Hombre Box Shorts Entrenar Boxeo Pantalones Deporte Gimnasio Vestir Black/White XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SKWJ4X4/?tag=tolees-21'
 descuento: '33.35'
 average: '15.99'

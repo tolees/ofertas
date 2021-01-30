@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Helly Hansen HH Duffel Bag 2 30L Bolsa de Viaje  Unisex Adulto  Ebony  Cherry Tomato '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SFBQM1S/?tag=tolees-21'
 descuento: '40.73'
 average: '43.33'

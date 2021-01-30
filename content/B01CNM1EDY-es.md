@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'FREETOO Prensa de ajo Prensa profesional de ajo Práctico Sólido - Fácil limpieza para la cocina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CNM1EDY/?tag=tolees-21'
 descuento: '25.02'
 average: '11.99'

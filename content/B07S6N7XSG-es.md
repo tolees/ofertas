@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'NWOUIIAY Organizadores para Coche 2PCS Funda Protección para Asientos Trasero de Coche Back con Soporte de iPad  niños accesorios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S6N7XSG/?tag=tolees-21'
 descuento: '42.32'
 average: '14.99'

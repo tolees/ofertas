@@ -16,6 +16,7 @@ comparePrice: 59 EUR
 prodname: 'Superga 2750 COTU Classic  Zapatillas Unisex  Gris  Grey Vapor Sx8V   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00O0XMBAK/?tag=tolees-21'
 descuento: '47.78'
 average: '33.33'

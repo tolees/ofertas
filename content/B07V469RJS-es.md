@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Xpassion Mini Maquina de Coser Portátil de Mano Herramienta de Puntada Rápida para Tela Aguja y Enhebrador Uso de Viaje y Casa Ropa o Tela de Niños con Accesorios  Blanca'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V469RJS/?tag=tolees-21'
 descuento: '38.41'
 average: '17.49'

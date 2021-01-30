@@ -16,6 +16,7 @@ comparePrice: 12.58 EUR
 prodname: 'B Blesiya 4X Gancho Triangular De Anillo Dividido para Cámara Correa para La Muñeca Correa para El Hombro Y Clip De Soporte'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086ZJXBJD/?tag=tolees-21'
 descuento: '44.44'
 average: '6.99'

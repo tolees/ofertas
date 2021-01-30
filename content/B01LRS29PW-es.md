@@ -16,6 +16,7 @@ comparePrice: 349.0 EUR
 prodname: 'Bébé Confort MiloFix Silla de auto de 0 a 4 años  0-18 kg  color negro  Triangle Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LRS29PW/?tag=tolees-21'
 descuento: '65.42'
 average: '132.014'

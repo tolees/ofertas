@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Hually Funda para Huawei P20 Lite  Carcasa Transparente Slilicona Suave TPU Gel [Ultra Fina][Protección a Bordes y Cámara]  Funda para Huawei P20 Lite/Nova 3e Funda –Transparente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GWMBPV9/?tag=tolees-21'
 descuento: '50.05'
 average: '4.99'

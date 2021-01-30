@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Klarstein VariCook Duo Silver Edition - Placa vitrocerámica  Cocción doble  Potencia: 1800W-20cm Ø  1200W-16 5cm Ø  Indicadores luminosos  Calentador halógeno  Acero inoxidable  Gris/negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PNR8NYF/?tag=tolees-21'
 descuento: '25.00'
 average: '89.99'

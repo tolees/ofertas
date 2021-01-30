@@ -16,6 +16,7 @@ comparePrice: 37.67 EUR
 prodname: 'Sharplace Unidad de Disquete SSD USB Tornillos Externa SFR1M44-u100 3.5 Pulgadas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L93BFCH/?tag=tolees-21'
 descuento: '44.44'
 average: '20.165'

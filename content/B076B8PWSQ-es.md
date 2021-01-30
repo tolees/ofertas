@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Fossil Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable FTW5009'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076B8PWSQ/?tag=tolees-21'
 descuento: '42.10'
 average: '115.22'

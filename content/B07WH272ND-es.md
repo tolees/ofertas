@@ -16,6 +16,7 @@ comparePrice: 14.9 EUR
 prodname: 'RITUALS The Ritual of Sakura Exfoliante corporal  250 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WH272ND/?tag=tolees-21'
 descuento: '39.80'
 average: '8.97'

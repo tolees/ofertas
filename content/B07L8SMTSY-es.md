@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'Medisana FM 883 Masajeador de pies Shiatsu  masajeador eléctrico de espalda  18 cabezales de masaje  función de luz roja  función de calor  2 velocidades  masaje estimulante de la circulación'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L8SMTSY/?tag=tolees-21'
 descuento: '39.98'
 average: '77.99'

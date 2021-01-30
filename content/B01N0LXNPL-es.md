@@ -16,6 +16,7 @@ comparePrice: 48.68 EUR
 prodname: 'New Fashion Notebook Gift Box Creative Resin Decoration Staionary Set Totoro Notebook and Pen One Piece Notebook Set for Collectors  Totoro set  by Jolly Girl'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N0LXNPL/?tag=tolees-21'
 descuento: '56.24'
 average: '21.1'

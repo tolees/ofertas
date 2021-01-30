@@ -16,6 +16,7 @@ comparePrice: 12.9 EUR
 prodname: 'ERIK - Agenda 2020 semana vista Harry Potter  A5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XFXZDC2/?tag=tolees-21'
 descuento: '50.00'
 average: '7.095000000000001'

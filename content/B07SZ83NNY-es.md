@@ -16,6 +16,7 @@ comparePrice: 541.39 EUR
 prodname: 'DMAR Escudo del Capitán América + Soporte De Madera  60cm Captain America Shield 1: 1 Escudo De Metal  7050 Aluminio De Grado De Aviones  Legends Series Replica Marvel Prop'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SZ83NNY/?tag=tolees-21'
 descuento: '55.67'
 average: '239.98'

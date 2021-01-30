@@ -16,6 +16,7 @@ comparePrice: 1709.99 EUR
 prodname: 'ZLJ Cojín Largo Grueso para Tumbona  cojín reclinable para Asiento portátil con Respaldo  Silla de jardín  Tumbona  colchón  cojín para Banco  Interior o Exterior'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08HDNBF9C/?tag=tolees-21'
 descuento: '33.33'
 average: '1139.99'

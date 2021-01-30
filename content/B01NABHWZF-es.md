@@ -16,6 +16,7 @@ comparePrice: 63.0 EUR
 prodname: 'Lacoste PJ2909 Polo  Negro  Noir   14 años para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NABHWZF/?tag=tolees-21'
 descuento: '42.94'
 average: '35.95'

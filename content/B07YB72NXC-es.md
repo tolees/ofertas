@@ -16,6 +16,7 @@ comparePrice: 139.9 EUR
 prodname: 'Taurus MyBread Panificadora  Plástico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YB72NXC/?tag=tolees-21'
 descuento: '35.74'
 average: '89.9'

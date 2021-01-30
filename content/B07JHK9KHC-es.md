@@ -16,6 +16,7 @@ comparePrice: 4.75 EUR
 prodname: 'good01 Big Promotion! Tienda de pintura de diamante  diseño de lobo de tigre y animal de resina para manualidades  Z644'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JHK9KHC/?tag=tolees-21'
 descuento: '37.05'
 average: '2.99'

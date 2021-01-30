@@ -16,6 +16,7 @@ comparePrice: 8.9 EUR
 prodname: 'NEW C Funda para iPhone 11  Funda Protectora absorción de Impactos y Fibra de Carbono [Gel Flex Silicone]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZG399VQ/?tag=tolees-21'
 descuento: '44.94'
 average: '4.9'

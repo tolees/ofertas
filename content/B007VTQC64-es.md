@@ -16,6 +16,7 @@ comparePrice: 28.9 EUR
 prodname: 'Scotch 700/YEL Aplicador de Cinta Transferidora'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007VTQC64/?tag=tolees-21'
 descuento: '30.83'
 average: '19.99'

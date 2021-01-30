@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Under Armour Women s Charged Pursuit 2 Laufschuhe  Zapatillas de Running para Mujer  Negro  Black/White/White  001  001   40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NNTJJVD/?tag=tolees-21'
 descuento: '26.44'
 average: '44.1'

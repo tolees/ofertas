@@ -16,6 +16,7 @@ comparePrice: 15.0 EUR
 prodname: 'Helly Hansen Outline Beanie Gorro Sombrero De Invierno  Unisex Adulto  North Sea Blue  One Size'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBPJ8L8/?tag=tolees-21'
 descuento: '46.73'
 average: '7.99'

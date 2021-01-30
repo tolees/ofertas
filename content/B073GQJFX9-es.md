@@ -16,6 +16,7 @@ comparePrice: 209 EUR
 prodname: 'Canon BG-E21 - Empuñadura para Canon EOS 6D Mark II  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073GQJFX9/?tag=tolees-21'
 descuento: '33.02'
 average: '139.99'

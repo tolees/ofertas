@@ -16,6 +16,7 @@ comparePrice: 50.99 EUR
 prodname: 'Braun HC 5030 - Máquina de cortar pelo profesional  cortapelos con 17 longitudes  color azul  ac / batería'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BGFLW9K/?tag=tolees-21'
 descuento: '35.28'
 average: '32.830000000000005'

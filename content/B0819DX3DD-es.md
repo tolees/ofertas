@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'PUTORSEN® Soporte de Monitor pc - Elevador de Monitor 8cm de Altura para Laptop  Ordenador  PC  Impresora  Soporte Vidrio Templado Ergonómico de Escritorio para Monitor 2 Pack '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0819DX3DD/?tag=tolees-21'
 descuento: '53.54'
 average: '27.87'

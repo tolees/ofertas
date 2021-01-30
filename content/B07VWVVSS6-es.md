@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'amzdeal Air Football Kit Juguete Balón de Fútbol（1 x Air Hover Ball+1 Mini Soccer +1 Goal de Fútbol +1 Aguja de Gas） Aire Fútbol'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VWVVSS6/?tag=tolees-21'
 descuento: '50.02'
 average: '15.847142857142856'

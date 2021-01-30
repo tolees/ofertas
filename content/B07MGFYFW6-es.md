@@ -16,6 +16,7 @@ comparePrice: 52.35 EUR
 prodname: 'Vans Doheny  Zapatillas para Hombre  Negro Lona Negro Negro 186  42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MGFYFW6/?tag=tolees-21'
 descuento: '43.53'
 average: '29.56'

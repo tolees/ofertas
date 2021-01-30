@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'GORE WEAR R3 Mallas cortas de mujer  36  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075RFGGBC/?tag=tolees-21'
 descuento: '53.77'
 average: '19.403333333333332'

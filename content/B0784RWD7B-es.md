@@ -16,6 +16,7 @@ comparePrice: 699.98 EUR
 prodname: 'XP-PEN Artist15.6 IPS Monitor de Dibujo 8192 Niveles de Presión con Lápiz Sin Pila NO Necesita Recargar 1920x1080 Type C 266 RPS Viene con el Último Software de Dibujo de OpenCanvas 7 o ArtRage 5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0784RWD7B/?tag=tolees-21'
 descuento: '50.00'
 average: '337.49'

@@ -16,6 +16,7 @@ comparePrice: 135.93 EUR
 prodname: 'WD My Passport Ultra - Disco Duro Externo para Mac de 2 TB  Preparado para USB-C'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GKK35BT/?tag=tolees-21'
 descuento: '27.63'
 average: '102.038'

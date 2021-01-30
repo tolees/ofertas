@@ -16,6 +16,7 @@ comparePrice: 25.46 EUR
 prodname: 'Bergner Q3020 Sartén 20 x 4.5cm Aluminio Forjado  Inducción Copper Just for Chefs  Cobre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJYLTTD/?tag=tolees-21'
 descuento: '45.40'
 average: '13.4'

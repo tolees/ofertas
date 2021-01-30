@@ -16,6 +16,7 @@ comparePrice: 31.0 EUR
 prodname: 'Estee Lauder 56928 - Barra de labios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JG7YAG8/?tag=tolees-21'
 descuento: '60.26'
 average: '12.32'

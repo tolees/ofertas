@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'havit Teclados mecánico Gaming de una Mano y Ratón Teclado Gaming con Azul Anti-Efecto Fantasma de 36 Teclas Ratón Gaming programable con Cable  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088BRMXKW/?tag=tolees-21'
 descuento: '42.01'
 average: '28.99'

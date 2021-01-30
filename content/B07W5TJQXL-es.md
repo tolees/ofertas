@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Only 15186153 Pantalones Cortos  Negro  Black Black   Talla Única  Talla del Fabricante: 36  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W5TJQXL/?tag=tolees-21'
 descuento: '83.80'
 average: '6.48'

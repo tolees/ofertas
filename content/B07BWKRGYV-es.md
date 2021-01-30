@@ -16,6 +16,7 @@ comparePrice: 45.88 EUR
 prodname: 'Mocasines Planos cómodos para Mujer - Los Negros Mocasines de Suela Gruesa para Mujer Son Aptos para Caminar  Trabajar y para la Vida Diaria SH004-BLACK-38'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BWKRGYV/?tag=tolees-21'
 descuento: '61.01'
 average: '17.89'

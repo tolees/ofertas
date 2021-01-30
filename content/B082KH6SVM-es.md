@@ -16,6 +16,7 @@ comparePrice: 2.7 EUR
 prodname: 'Funda para teléfono Impermeable al Aire Libre con Correa para el Cuello para Nadar Surf - Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082KH6SVM/?tag=tolees-21'
 descuento: '40.00'
 average: '1.62'

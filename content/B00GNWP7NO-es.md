@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Nike Revolution 4  TDV   Zapatillas de Marcha Nórdica Unisex Niños  Negro  Black/White/Anthracite 006   26 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GNWP7NO/?tag=tolees-21'
 descuento: '30.08'
 average: '20.97'

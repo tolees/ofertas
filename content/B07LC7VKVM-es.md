@@ -16,6 +16,7 @@ comparePrice: 36.06 EUR
 prodname: 'Moneta Stratomax  Juego de Sartenes 24 + 28 cm  Aluminio  Color Negro  para todo tipo de cocinas incluida inducción'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LC7VKVM/?tag=tolees-21'
 descuento: '33.94'
 average: '23.82'

@@ -16,6 +16,7 @@ comparePrice: 280.0 EUR
 prodname: 'Dunlop FLASH PRO - Pala de pádel 38mm  2018  nivel iniciación  color fucsia'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079LK5X2K/?tag=tolees-21'
 descuento: '82.16'
 average: '49.95'

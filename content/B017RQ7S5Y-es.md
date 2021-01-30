@@ -16,6 +16,7 @@ comparePrice: 9.68 EUR
 prodname: 'Babolat Custom Damp X2 Amortiguador de vibración de Tenis  Unisex Adulto  Negro/Amarillo  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017RQ7S5Y/?tag=tolees-21'
 descuento: '28.20'
 average: '6.95'

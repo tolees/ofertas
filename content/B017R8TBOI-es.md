@@ -16,6 +16,7 @@ comparePrice: 15.8 EUR
 prodname: 'Tatkraft Panda Gancho Toallero Adhesivo Colgador Infantil para Pared Acero Inoxidable 2 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017R8TBOI/?tag=tolees-21'
 descuento: '31.65'
 average: '10.8'

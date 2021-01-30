@@ -16,6 +16,7 @@ comparePrice: 74.95 EUR
 prodname: 'Puma Future Runner Premium  Zapatillas Unisex Adulto  Gris  Castlerock-Blue Turquoise-Puma Black-Puma White 05   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFY5TD6/?tag=tolees-21'
 descuento: '73.33'
 average: '23.08'

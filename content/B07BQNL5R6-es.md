@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Goliath- Boomtrix  Pack Lanzadera y trampolines  80602    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BQNL5R6/?tag=tolees-21'
 descuento: '62.85'
 average: '16.656666666666666'

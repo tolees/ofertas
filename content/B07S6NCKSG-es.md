@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'PUMA Ralph Sampson LO Perf  Zapatillas Unisex-Adulto  Blanco White White White  41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S6NCKSG/?tag=tolees-21'
 descuento: '40.40'
 average: '47.65'

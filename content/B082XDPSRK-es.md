@@ -16,6 +16,7 @@ comparePrice: 2.81 EUR
 prodname: 'Funda Universal para Tableta portátil Funda Ultra Suave Impermeable a Prueba de Golpes Funda Protectora a Prueba de Golpes para computadora portátil PC-Negro 8"'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082XDPSRK/?tag=tolees-21'
 descuento: '35.59'
 average: '1.81'

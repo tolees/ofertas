@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'New Balance FuelCell Propel  Zapatillas de Running para Hombre  Negro  Black/Lead Black/Lead   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HG4L5MR/?tag=tolees-21'
 descuento: '54.59'
 average: '54.82666666666667'

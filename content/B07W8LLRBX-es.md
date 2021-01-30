@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Le llamaban Trinidad  1 y 2  [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W8LLRBX/?tag=tolees-21'
 descuento: '40.03'
 average: '8.79'

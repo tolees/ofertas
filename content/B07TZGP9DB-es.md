@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'BlueXP100 Pieza Clips de Cable Nylon Pinzas para Cables Porta Cables Organizador de Cables con Tornillos para Oficina Casa Cable de USB AudioTV Organización de Alambre-Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZGP9DB/?tag=tolees-21'
 descuento: '49.07'
 average: '10.69'

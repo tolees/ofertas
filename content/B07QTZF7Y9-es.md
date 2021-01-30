@@ -16,6 +16,7 @@ comparePrice: 74.91 EUR
 prodname: 'Asics Gel-Quantum Infinity  Zapatillas de Running para Hombre  Azul  Electric Blue/Black 400   44.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QTZF7Y9/?tag=tolees-21'
 descuento: '34.41'
 average: '49.13'

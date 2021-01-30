@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'PANOZON Nuevo Corpiño de Encaje para Mujer de Corsés de Cuerpo de Lencería Dos Colores Opcionales  Small  A-Rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B012FU5IUO/?tag=tolees-21'
 descuento: '31.83'
 average: '16.49'

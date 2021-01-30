@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee Luke Jeans  Rinse DP  38W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BQ1PRBH/?tag=tolees-21'
 descuento: '53.33'
 average: '41.98'

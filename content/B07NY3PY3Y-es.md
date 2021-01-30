@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Superdry Core Utility Pant Pantalones  Negro  Black 02a   50  Talla del Fabricante: 31/32  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NY3PY3Y/?tag=tolees-21'
 descuento: '64.34'
 average: '25.033333333333335'

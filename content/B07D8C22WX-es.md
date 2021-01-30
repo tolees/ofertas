@@ -16,6 +16,7 @@ comparePrice: 35.94 EUR
 prodname: 'Dove  Loción corporal - 6 de 190 ml.  Total 1140 ml. '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D8C22WX/?tag=tolees-21'
 descuento: '49.44'
 average: '19.035'

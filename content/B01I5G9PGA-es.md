@@ -16,6 +16,7 @@ comparePrice: 2.01 EUR
 prodname: 'adidas Real Wallet Cartera  Unisex Adulto  Negro/Blanco  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01I5G9PGA/?tag=tolees-21'
 descuento: '49.75'
 average: '1.01'

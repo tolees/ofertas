@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Severin AT 2232 Tostadora Automática  1 Ranura Larga  Hasta 2 Rebanadas de Pan  800 W  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ONA70TW/?tag=tolees-21'
 descuento: '27.49'
 average: '23.064615384615387'

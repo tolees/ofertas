@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Vans Atwood Canvas  Zapatillas para Hombre  Negro  Black 186   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00B4GB23S/?tag=tolees-21'
 descuento: '53.85'
 average: '30.553571428571427'

@@ -16,6 +16,7 @@ comparePrice: 74.99 EUR
 prodname: 'KLARSTEIN GrowIt Seeds Lote de Semillas - 9 paquetitos  Asia: Cilantro  albahaca tailandesa  Allium tuberosum  Europa: tomillo  Salvia  perejil  Ensalada: lollo bionda  pak Choi  rúcula'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJ6J3RN/?tag=tolees-21'
 descuento: '46.67'
 average: '39.99'

@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'Salomon Trailster GTX W  Zapatillas de Trail Running para Mujer  Rosa  Cerise/Potent Purple/Heather   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KQP48YK/?tag=tolees-21'
 descuento: '65.12'
 average: '41.84'

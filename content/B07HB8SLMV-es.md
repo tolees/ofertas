@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'SanDisk Extreme - Tarjeta de memoria microSDXC para cámaras de acción de 64 GB con hasta 160 MB/s  Class 10  U3 y V30'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HB8SLMV/?tag=tolees-21'
 descuento: '40.38'
 average: '14.945'

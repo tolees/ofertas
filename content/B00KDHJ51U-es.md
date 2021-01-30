@@ -16,6 +16,7 @@ comparePrice: 39.63 EUR
 prodname: 'Lacor - 68601 - Botella Para Sifón CO2  1 Litro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KDHJ51U/?tag=tolees-21'
 descuento: '26.04'
 average: '29.31'

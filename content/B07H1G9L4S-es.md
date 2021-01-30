@@ -16,6 +16,7 @@ comparePrice: 2.22 EUR
 prodname: 'Formulaone Adaptador de Tarjeta de Sonido Externo para portátil 7.1 Canales USB Externo con Tarjeta de Sonido Externa Independiente Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H1G9L4S/?tag=tolees-21'
 descuento: '45.05'
 average: '1.22'

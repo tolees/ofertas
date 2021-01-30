@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'TENMOS X96 Ratón Gaming inalámbrico Recargable  Silenciosa óptico con Retroiluminación Raton Wireless Ordenador  3 DPI ajustables  Auto dormir  6 botones para MAC PC Notebook Portátil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LXOXDM3/?tag=tolees-21'
 descuento: '27.77'
 average: '12.493333333333334'

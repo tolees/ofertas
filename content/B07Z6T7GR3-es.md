@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'American Tourister Jetglam Maleta de Mano  S  55 cm  35.5 L   Morado  Metallic Grape Purple '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z6T7GR3/?tag=tolees-21'
 descuento: '30.31'
 average: '93.57'

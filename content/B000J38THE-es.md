@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Saucony Clarion  Zapatillas de Running para Mujer  Rosa  Rose 2   40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000J38THE/?tag=tolees-21'
 descuento: '60.05'
 average: '39.95'

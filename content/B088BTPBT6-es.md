@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'YPSNH Compatible para Garmin Fenix 3 Correa 26mm Suave Silicona Accesorio Fenix 5X Banda para Reloje Deportivos Correa de Repuesto para Fenix 3/Fenix 5X/Fenix 3 HR'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088BTPBT6/?tag=tolees-21'
 descuento: '29.43'
 average: '11.99'

@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'Nike MD Runner 2  Zapatillas para Hombre  Black/White Anthracite  40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PYDT5J0/?tag=tolees-21'
 descuento: '27.85'
 average: '42.892'

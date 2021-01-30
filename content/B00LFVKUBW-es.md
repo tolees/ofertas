@@ -16,6 +16,7 @@ comparePrice: 26.46 EUR
 prodname: 'Luminarc Set 6 Piezas Modelo Fiesta Combinados Juegos de cristalería  Vidrio sodo  71 5 cl  26 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LFVKUBW/?tag=tolees-21'
 descuento: '48.41'
 average: '15.096666666666668'

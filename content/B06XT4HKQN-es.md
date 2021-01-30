@@ -16,6 +16,7 @@ comparePrice: 23.12 EUR
 prodname: 'Braga impermeable en PVC  Ayuda a la incontinencia  flexible y lavable  reutilizable  Modelo Cerrado  color blanco  talla 8  75-90 cm de cintura   unisex'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XT4HKQN/?tag=tolees-21'
 descuento: '57.40'
 average: '10.399999999999999'

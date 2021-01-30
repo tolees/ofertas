@@ -16,6 +16,7 @@ comparePrice: 149 EUR
 prodname: 'Pulsar Reloj analogico para Mujer de Energía Solar con Correa en Piel PY5044X1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GB7W2KT/?tag=tolees-21'
 descuento: '65.01'
 average: '52.13'

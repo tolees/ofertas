@@ -16,6 +16,7 @@ comparePrice: 7.9 EUR
 prodname: 'Palette Intense - Tono 4.6 Castaño Marrón - 2 uds - Coloración Permanente - Schwarzkopf'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N3RTJBX/?tag=tolees-21'
 descuento: '46.84'
 average: '4.2'

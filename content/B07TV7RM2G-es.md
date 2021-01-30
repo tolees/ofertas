@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'Cat Footwear Quadrate  Botas Clasicas para Hombre  Gris  Gunmetal Grey   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TV7RM2G/?tag=tolees-21'
 descuento: '59.17'
 average: '46.95'

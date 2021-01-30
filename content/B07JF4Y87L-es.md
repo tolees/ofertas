@@ -16,6 +16,7 @@ comparePrice: 19.11 EUR
 prodname: 'Abanderado Lote X4 Slip de Algodón Calzoncillos  Azul  Marino 0m9   Large  Tamaño del Fabricante:52   Pack de 4  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JF4Y87L/?tag=tolees-21'
 descuento: '30.30'
 average: '13.370000000000001'

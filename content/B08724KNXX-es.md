@@ -16,6 +16,7 @@ comparePrice: 35.21 EUR
 prodname: 'Mono de bebé Promini para bebé  con texto en inglés "My Uncle Loves me to The Moon and Back" para bebé  de una pieza  el mejor regalo para bebé'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08724KNXX/?tag=tolees-21'
 descuento: '61.32'
 average: '13.62'

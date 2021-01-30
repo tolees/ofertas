@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'VYPE ePen 3 Cigarrillo electrónico Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FR8MLHF/?tag=tolees-21'
 descuento: '57.22'
 average: '2.99'

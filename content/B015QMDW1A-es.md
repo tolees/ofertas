@@ -16,6 +16,7 @@ comparePrice: 12.25 EUR
 prodname: 'Solo En Casa Aniversario - 25 Años Blu Ray [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015QMDW1A/?tag=tolees-21'
 descuento: '35.76'
 average: '7.87'

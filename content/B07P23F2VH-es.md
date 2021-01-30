@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Skechers Sergeants-Verno  Botas Clasicas para Hombre  Negro  Black Leather BBK   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P23F2VH/?tag=tolees-21'
 descuento: '66.28'
 average: '33.7'

@@ -16,6 +16,7 @@ comparePrice: 10.49 EUR
 prodname: ' LA  Panel LED redondo plano  18W  1600 lumenes reales! driver incluido. Corte standard 200mm.  Blanco Frio  6500K   1 Unidad '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HLST2C7/?tag=tolees-21'
 descuento: '30.51'
 average: '7.29'

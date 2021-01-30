@@ -16,6 +16,7 @@ comparePrice: 36.93 EUR
 prodname: 'Top Race Micro-Drone Quadcopter de 4 canales con ruedas  Fly  Roll y Flip. TR-MQ3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00QSFM5O0/?tag=tolees-21'
 descuento: '78.36'
 average: '7.49'

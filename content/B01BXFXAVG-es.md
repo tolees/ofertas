@@ -16,6 +16,7 @@ comparePrice: 110.9 EUR
 prodname: 'CLP Silla Racing De Oficina Fire Estilo Deportivo I Silla Gaming Regulable En Altura & Giratoria I Silla Gamer con Ruedas Deslizantes I Color: Negro/Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BXFXAVG/?tag=tolees-21'
 descuento: '25.25'
 average: '82.9'

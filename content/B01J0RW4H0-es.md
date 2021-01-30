@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'MoKo Botella de Viaje - Anti-Fugas & Rellenable/Compresible Silicona Travel Bottles Set para Champú  Bálsamo  Crema de Baño  Loción  Libre de BPA  FDA Aprobado  [ 4 Pzs - 89ml - 3.1oz ]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01J0RW4H0/?tag=tolees-21'
 descuento: '38.49'
 average: '7.99'

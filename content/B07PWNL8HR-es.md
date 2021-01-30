@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Under Armour UA GS Assert 8  Zapatillas de Running Unisex Niños  Negro  Black/Lipstick/Metallic Silver   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PWNL8HR/?tag=tolees-21'
 descuento: '53.94'
 average: '22.405'

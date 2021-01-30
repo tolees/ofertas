@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'KAKOO 4pcs brazaletes Reflectantes Visibilidad Alta elástico Aire Libre  Deporte  Caminar  por la Noche'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JCVVJ3G/?tag=tolees-21'
 descuento: '57.53'
 average: '8.49'

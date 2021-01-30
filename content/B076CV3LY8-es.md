@@ -16,6 +16,7 @@ comparePrice: 255.0 EUR
 prodname: 'Samsonite Spectrolite 2.0 Rolling Laptop Bag 43 9 cm  17.3"  Trolley Case Gris - Funda  Trolley Case  43 9 cm  17.3"   Expandible  3 7 kg  Gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076CV3LY8/?tag=tolees-21'
 descuento: '25.68'
 average: '195.32'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Nike Dri-FIT Sports Bra G Sujetador Deportivo  Niñas  Rosa  Pink Gaze/White   L  146-156 CM '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RWKKFSL/?tag=tolees-21'
 descuento: '60.68'
 average: '8.63'

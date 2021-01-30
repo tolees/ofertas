@@ -16,6 +16,7 @@ comparePrice: 60.98 EUR
 prodname: 'Azur Lane: Crosswave'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V1YBCKZ/?tag=tolees-21'
 descuento: '32.99'
 average: '44.78285714285715'

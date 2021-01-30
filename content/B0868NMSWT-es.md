@@ -16,6 +16,7 @@ comparePrice: 20.28 EUR
 prodname: 'Suhctup Transparente Funda Compatible con OnePlus 7T Pro Carcasa Protectora de TPU Ultradelgada Flor y Calavera Diseño Anti-Choques Resistente Case Cover para OnePlus 7T Pro 7 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0868NMSWT/?tag=tolees-21'
 descuento: '60.65'
 average: '7.98'

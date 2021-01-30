@@ -16,6 +16,7 @@ comparePrice: 3.54 EUR
 prodname: 'Friends Impreso TPU A Prueba de Golpes Ligero Ultra Delgado Estuche para teléfono móvil Estuche Protector Trasero Adecuado para iPhone'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083HZ3CB8/?tag=tolees-21'
 descuento: '56.21'
 average: '1.55'

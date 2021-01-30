@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'New Balance 570  Zapatillas Deportivas para Interior Unisex Niños  Rosa  Pink/White Pink   38.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DJ3MT2K/?tag=tolees-21'
 descuento: '30.17'
 average: '27.93'

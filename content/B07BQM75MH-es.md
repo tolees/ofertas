@@ -16,6 +16,7 @@ comparePrice: 13.69 EUR
 prodname: 'ONEVER Bolsa De Bloqueo De Señal  GPS RFID Faraday Bolsa De Protección De Jaula  Funda para Teléfono Móvil Protección De La Privacidad Y Llave De Coche Fob  Anti-rastreo Antispying  2pcs '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BQM75MH/?tag=tolees-21'
 descuento: '49.67'
 average: '6.89'

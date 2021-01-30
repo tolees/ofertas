@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Le Creuset 20202320600460 Parrilla Rectangular  Apto para todas las fuentes de calor  incl. inducción  Hierro Fundido  Rojo Cereza '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QRKZJLH/?tag=tolees-21'
 descuento: '32.55'
 average: '67.89'

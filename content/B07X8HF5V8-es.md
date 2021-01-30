@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'iAmotus Soporte Movil Coche  Soporte Movil Coche Celular Universal para Rejilla Ventilación con Rotación 360 Grados Ajustable con 2 Clips de ventilación Compatible para iPhone Samsung Xiaomi Huawei'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X8HF5V8/?tag=tolees-21'
 descuento: '57.66'
 average: '5.483333333333333'

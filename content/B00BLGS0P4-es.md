@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Beurer BC31 Tensiómetro muñeca  para la medición de la presión arterial  pantalla LCD  indicador OMS  detección arritmia  memoria 60 espacios  color plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BLGS0P4/?tag=tolees-21'
 descuento: '29.75'
 average: '19.73333333333333'

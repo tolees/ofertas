@@ -16,6 +16,7 @@ comparePrice: 11.94 EUR
 prodname: 'Bourjois Velvet The Pencil - Pintalabios Tono 11 Red Vin tage  3g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PM83TNW/?tag=tolees-21'
 descuento: '67.25'
 average: '3.91'

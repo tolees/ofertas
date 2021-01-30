@@ -16,6 +16,7 @@ comparePrice: 3.38 EUR
 prodname: 'Caja del teléfono móvil TPU Blanco Mate en Relieve lenguaje de Aves Floral Shell Protector para iPhone'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083HZ6FHT/?tag=tolees-21'
 descuento: '58.88'
 average: '1.39'

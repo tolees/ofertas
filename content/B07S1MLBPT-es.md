@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'New Balance 574v2  Zapatillas para Hombre  Gris  Grey/White Eag   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S1MLBPT/?tag=tolees-21'
 descuento: '30.53'
 average: '69.47'

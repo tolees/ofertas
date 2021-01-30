@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'Greylags Prima Calzoncillos Retro | Boxershorts | Tubo Corto | Ropa Interior para Hombres | 95% Algodón - 5% Spandex | Paquete de 6'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MF7G5Y2/?tag=tolees-21'
 descuento: '41.69'
 average: '26.21'

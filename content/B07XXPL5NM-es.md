@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'BENYAR Cuarzo cronógrafo Impermeable Relojes Business Casual Deporte Banda Correa de Piel Reloj de Pulsera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XXPL5NM/?tag=tolees-21'
 descuento: '62.01'
 average: '37.99'

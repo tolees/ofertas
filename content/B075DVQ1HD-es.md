@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Tucano Guscio - Funda tipo libro con tapa extraíble  compatible con  iPad Air 1  iPad Air 2  iPad Pro 9 7”  y iPad 9 7” 2017 / 2018. Tapa negra y carcasa posterior transparente.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075DVQ1HD/?tag=tolees-21'
 descuento: '49.90'
 average: '24.955'

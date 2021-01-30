@@ -16,6 +16,7 @@ comparePrice: 8.78 EUR
 prodname: 'LNIEGE - Asiento de Seguridad para Coche con Ventosa Interior y Espejo retrovisor para bebé  Cuidado de Cara Trasera para niños  Seguro e inastillable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081CHNV3S/?tag=tolees-21'
 descuento: '72.32'
 average: '2.43'

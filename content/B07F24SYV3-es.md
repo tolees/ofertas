@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Válvula de drenaje automática  G1 / 2 DN15 Válvula de drenaje temporizada electrónica automática para la gestión del condensado del compresor de aire AC110V '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F24SYV3/?tag=tolees-21'
 descuento: '69.12'
 average: '6.79'

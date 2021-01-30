@@ -16,6 +16,7 @@ comparePrice: 38.0 EUR
 prodname: 'FITTOO Pantalones De Yoga Sueltos Cintura Alta Mujer Pantalones Largos Deportivos Suaves y Cómodos1080#4 Blanco XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FQMJ2GN/?tag=tolees-21'
 descuento: '50.03'
 average: '18.99'

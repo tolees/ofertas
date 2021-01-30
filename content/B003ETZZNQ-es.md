@@ -16,6 +16,7 @@ comparePrice: 16.4 EUR
 prodname: 'American Crew Classic Precision Blend Tinte Gel Crema  Castaño Ceniza  - 3 Unidades x 40 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003ETZZNQ/?tag=tolees-21'
 descuento: '56.52'
 average: '7.13'

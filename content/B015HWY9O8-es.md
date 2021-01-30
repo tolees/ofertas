@@ -16,6 +16,7 @@ comparePrice: 33.73 EUR
 prodname: 'Ron Appleton Estate  1 x 0.7 l '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015HWY9O8/?tag=tolees-21'
 descuento: '43.97'
 average: '18.9'

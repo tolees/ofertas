@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'POP! Vinilo - Games: Assassin s Creed: Jacob Frye'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016MUYFCA/?tag=tolees-21'
 descuento: '49.91'
 average: '7.99'

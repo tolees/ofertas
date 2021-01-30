@@ -16,6 +16,7 @@ comparePrice: 29 EUR
 prodname: 'Himaly Báscula de baño Antideslizante  Digital de Alta Medición Precisa 180kg / 400lbs  Pantalla LCD digital de gran área   Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X422YRF/?tag=tolees-21'
 descuento: '31.07'
 average: '19.99'

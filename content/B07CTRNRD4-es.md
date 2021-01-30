@@ -16,6 +16,7 @@ comparePrice: 8.37 EUR
 prodname: 'FIND - Sunkissed radiance duo - medio  Bronceador n.2 + Colorete n.2 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CTRNRD4/?tag=tolees-21'
 descuento: '50.30'
 average: '4.16'

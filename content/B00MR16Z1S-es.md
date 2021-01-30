@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-STAR Lynn Mid Skinny Wmn - frakto superstretch - Pantalones para mujer  Azul  W28/L28'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MR16Z1S/?tag=tolees-21'
 descuento: '61.49'
 average: '38.49'

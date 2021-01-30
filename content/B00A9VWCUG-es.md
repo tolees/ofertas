@@ -16,6 +16,7 @@ comparePrice: 103.0 EUR
 prodname: 'Philips myLiving Star - Barra de 4 focos  iluminación interior  LED integrado y garantía de 5 años  color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00A9VWCUG/?tag=tolees-21'
 descuento: '25.88'
 average: '83.14500000000001'

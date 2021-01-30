@@ -16,6 +16,7 @@ comparePrice: 12.69 EUR
 prodname: 'Exfoliante corporal PraNaturals de Sal rosada del Himalaya 500g  rico en vitaminas y minerales nutritivos  elimina las células cutáneas muertas y rejuvenece la piel  apto para todo tipo de piel.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K4BDVCD/?tag=tolees-21'
 descuento: '25.22'
 average: '9.49'

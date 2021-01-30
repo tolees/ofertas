@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'PLAYMOBIL: THE MOVIE Emperador Maximus en el Coliseo  a Partir de 5 Años  70076 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P7KKCNQ/?tag=tolees-21'
 descuento: '28.54'
 average: '16.845'

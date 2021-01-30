@@ -16,6 +16,7 @@ comparePrice: 17.9 EUR
 prodname: 'Tommy Hilfiger Thong Tanga  Gris  Grey Heather 004   X-Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MXHSHV7/?tag=tolees-21'
 descuento: '44.19'
 average: '9.99'

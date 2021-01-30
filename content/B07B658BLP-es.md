@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Super Impulse Llavero Tiny Arcade Dig Dug  Multicolor  0854941007495 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B658BLP/?tag=tolees-21'
 descuento: '49.87'
 average: '10.0'

@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Maybelline New York Master Camo  Kit Corrector Imperfecciones  Tono 01 Light'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N9HX4KW/?tag=tolees-21'
 descuento: '79.37'
 average: '3.7775000000000003'

@@ -16,6 +16,7 @@ comparePrice: 8.09 EUR
 prodname: 'Maybelline Color Sensational Vivids - 902 Fuchsia Flash - Lipstick - barras de labios  Rosa  Fuchsia Flash  Francia '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00K7WOXWW/?tag=tolees-21'
 descuento: '35.85'
 average: '5.19'

@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'Triumph Amourette Charm W Sujetador con Aros  Multicolor  Blue/Dark Combination M008   115B  Talla del Fabricante: 100  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J53ZLXK/?tag=tolees-21'
 descuento: '40.04'
 average: '26.95'

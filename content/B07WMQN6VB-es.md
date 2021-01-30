@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Jack & Jones JCOMOON Crew Neck Suéter  Negro  Black Fit: Knit Fit   L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WMQN6VB/?tag=tolees-21'
 descuento: '67.51'
 average: '11.37'

@@ -16,6 +16,7 @@ comparePrice: 163.15 EUR
 prodname: 'Panasonic SC-UA3E-K 300W Negro Sistema de Audio para el hogar - Microcadena  Negro  300 W  13 cm  4 cm  FM  CD CD-R CD-RW '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073PZS7TL/?tag=tolees-21'
 descuento: '40.13'
 average: '177.77'

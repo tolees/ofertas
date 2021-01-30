@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Creative Sound Blaster Audigy 5/RX - Tarjeta de sonido interna'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EO6X7PG/?tag=tolees-21'
 descuento: '30.13'
 average: '51.18'

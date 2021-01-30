@@ -16,6 +16,7 @@ comparePrice: 5.64 EUR
 prodname: 'Brazalete de cuero italiano  curtido vegetal  marrón  tamañao mediano para muñecas de 16.5-18 cm  pulsera  manilla'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BN3X6WK/?tag=tolees-21'
 descuento: '31.03'
 average: '3.89'

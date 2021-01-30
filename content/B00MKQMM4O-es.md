@@ -16,6 +16,7 @@ comparePrice: 21.0 EUR
 prodname: 'Wella Sp  Aceite para el cabello - 100 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MKQMM4O/?tag=tolees-21'
 descuento: '52.43'
 average: '12.440000000000001'

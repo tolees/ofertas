@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Samsung - Funda de silicona para Galaxy Note 9  color negro- Version española'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F8S46HX/?tag=tolees-21'
 descuento: '83.38'
 average: '8.524000000000001'

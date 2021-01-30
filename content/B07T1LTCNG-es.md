@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Buffalo Fierce P1  Zapatillas Altas para Mujer  Multicolor  Multi 000   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T1LTCNG/?tag=tolees-21'
 descuento: '43.16'
 average: '56.78'

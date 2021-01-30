@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Garmin Forerunner 35- Reloj GPS con monitor de frecuencia cardiaca en la muñeca  monitor de actividad y notificaciones inteligentes  color lima'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K9W5EKO/?tag=tolees-21'
 descuento: '50.50'
 average: '103.45'

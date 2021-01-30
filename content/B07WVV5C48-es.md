@@ -16,6 +16,7 @@ comparePrice: 64.5 EUR
 prodname: 'Kinross Gin pink - 6 botellas x 700 ml - Total: 4200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WVV5C48/?tag=tolees-21'
 descuento: '40.78'
 average: '38.2'

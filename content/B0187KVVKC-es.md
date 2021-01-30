@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Vizaro - SÁBANA BAJERA para Colchón de Capazo de Carrito de Bebé 70-80x30-35cm - 100% ALGODÓN PURO - ALTA CALIDAD  hecho en UE  certificado OekoTex sin sustancias nocivas - C. Estrellitas Blancas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0187KVVKC/?tag=tolees-21'
 descuento: '46.68'
 average: '15.99'

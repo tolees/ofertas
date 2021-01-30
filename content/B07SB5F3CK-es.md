@@ -16,6 +16,7 @@ comparePrice: 22.63 EUR
 prodname: 'Bolsas de Leche Materna 50 Piezas  Bestele Recipientes almacenamiento de leche materna 220ml Sin BPA  Sello de Cremallera  50 Piezas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SB5F3CK/?tag=tolees-21'
 descuento: '42.60'
 average: '12.99'

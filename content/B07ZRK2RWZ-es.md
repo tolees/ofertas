@@ -16,6 +16,7 @@ comparePrice: 5.81 EUR
 prodname: 'Gel de sílice Galactorrhea Colección Tapa Colector de leche materna Suave Postparto Masaje de mama Cojín del recipiente de succión del pezón - Transparente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZRK2RWZ/?tag=tolees-21'
 descuento: '32.01'
 average: '3.95'

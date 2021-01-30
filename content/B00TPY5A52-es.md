@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Nuggela & Sulé champú premium con extracto de cebolla - 250 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TPY5A52/?tag=tolees-21'
 descuento: '32.23'
 average: '14.18'

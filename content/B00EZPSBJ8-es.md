@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Merc Of London Card  Polo Shirt - Polo para hombre  Negro  Medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EZPSBJ8/?tag=tolees-21'
 descuento: '50.00'
 average: '30.0'

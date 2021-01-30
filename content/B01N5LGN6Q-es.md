@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Tommy Hilfiger E3578A1208  Cinturón Para Hombre  Marrón  DARK TAN 257   95 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N5LGN6Q/?tag=tolees-21'
 descuento: '34.86'
 average: '25.99'

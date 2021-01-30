@@ -16,6 +16,7 @@ comparePrice: 139.95 EUR
 prodname: 'Millet LD AMURI  Zapatillas de Senderismo para Mujer  Multicolor  Tarmac/Hibiscus 000   41 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079VYD5F5/?tag=tolees-21'
 descuento: '74.18'
 average: '36.14'

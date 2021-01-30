@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Bastilipo TLM-2000 Termoventilador-Calefactor de Aire Caliente  2000 W  Acero  Blanco  Reacondicionado '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083SRHM2M/?tag=tolees-21'
 descuento: '38.19'
 average: '16.07'

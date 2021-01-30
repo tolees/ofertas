@@ -16,6 +16,7 @@ comparePrice: 28.33 EUR
 prodname: 'Ultra Delgado 7000mAh Banco de energía Externa Tamaño portátil 2USB Aleación de Aluminio Cargador de batería Fuente de alimentación de batería para teléfonos-Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B7WQKGZ/?tag=tolees-21'
 descuento: '33.50'
 average: '18.84'

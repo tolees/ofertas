@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'marckonfort Cabecero tapizado Oslo 150X100  capitone en Tela Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0731GK2HL/?tag=tolees-21'
 descuento: '59.80'
 average: '79.99'

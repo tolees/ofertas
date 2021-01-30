@@ -16,6 +16,7 @@ comparePrice: 12.4 EUR
 prodname: 'Max Factor Masterpiece High Precision Eyeliner Delineador de Ojos Tono 01 Negro - 6 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013QOGGRM/?tag=tolees-21'
 descuento: '57.02'
 average: '4.6'

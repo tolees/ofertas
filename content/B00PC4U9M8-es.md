@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Trust Yvi - Ratón óptico inalámbrico  Flower Power'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PC4U9M8/?tag=tolees-21'
 descuento: '54.43'
 average: '5.92'

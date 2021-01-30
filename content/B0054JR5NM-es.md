@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Alessi Officina Tiffany Bandeja  Plateado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0054JR5NM/?tag=tolees-21'
 descuento: '55.59'
 average: '61.73'

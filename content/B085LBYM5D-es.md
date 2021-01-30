@@ -16,6 +16,7 @@ comparePrice: 7.69 EUR
 prodname: 'Safety – Pantalla Facial  Cocina cocinar  Aceite de Doble Cara Anti-Fog Anti Splash Transparente  protección máscara Facial Visera  Ojo Protección Con 10 parasoles protección máscara Facial Visera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085LBYM5D/?tag=tolees-21'
 descuento: '55.92'
 average: '3.39'

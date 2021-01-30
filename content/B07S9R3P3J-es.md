@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'WHRZ Huohou - Abrebotellas eléctrico  abridor de botellas automático inalámbrico  recargable  cortador de láminas de aluminio  abrebotellas de acero inoxidable  negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S9R3P3J/?tag=tolees-21'
 descuento: '30.88'
 average: '22.280909090909088'

@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Medi Grade Pulseras de Goma Repelentes de Mosquitos [10uds] Parches Repelentes de Insectos [120uds] Primeras Pulseras Anti Mosquitos de Triple Espiral – De Plantas Naturales Sin DEET'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VGLJ7NV/?tag=tolees-21'
 descuento: '33.36'
 average: '7.99'

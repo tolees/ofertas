@@ -16,6 +16,7 @@ comparePrice: 8.21 EUR
 prodname: 'YuamMei 1pc Caja de anillo LED  Caja de anillo con luz cuadrada  Caja de almacenamiento de exhibición de joyería para la Boda  Regalo negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MP51M9P/?tag=tolees-21'
 descuento: '63.58'
 average: '2.99'

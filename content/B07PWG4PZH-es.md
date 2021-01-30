@@ -16,6 +16,7 @@ comparePrice: 23.98 EUR
 prodname: 'Aceite de Ricino Orgánico Presionado en Frío Eclat - Aceite de Jojoba Orgánico 100% Puro con Cepillo Aplicador sin Rellenos ni Aditivos para un Aceite de Ricino'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PWG4PZH/?tag=tolees-21'
 descuento: '68.81'
 average: '7.48'

@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Acuvue Oasys - Lentes de contacto esféricas quincenales  R 8.4 / D 14 / -1.25 Diop   Pack de 12 uds.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NJGXV4Y/?tag=tolees-21'
 descuento: '42.62'
 average: '37.3'

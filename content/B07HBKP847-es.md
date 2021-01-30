@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Pop! Modern Family - Figura de Vinilo Jay'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HBKP847/?tag=tolees-21'
 descuento: '68.65'
 average: '5.0'

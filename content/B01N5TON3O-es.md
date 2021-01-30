@@ -16,6 +16,7 @@ comparePrice: 16.9 EUR
 prodname: 'NYX Professional Makeup Base de maquillaje Total Control Drop Foundation  Dosificación precisa  Cobertura modulable  Larga duración  Fórmula vegana  Acabado mate  Tono: Mocha'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N5TON3O/?tag=tolees-21'
 descuento: '51.66'
 average: '8.17'

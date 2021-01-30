@@ -16,6 +16,7 @@ comparePrice: 47.99 EUR
 prodname: 'Philips Sonicare HX6322/04 - Cepillo de dientes eléctrico para niños con Bluetooth y App divertida'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BSO6NZW/?tag=tolees-21'
 descuento: '31.26'
 average: '35.806666666666665'

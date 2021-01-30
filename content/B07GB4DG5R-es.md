@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Lacoste HH9553 Pantalones  Azul  Marine   36  Talla del Fabricante: 36/32  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GB4DG5R/?tag=tolees-21'
 descuento: '37.51'
 average: '62.49'

@@ -16,6 +16,7 @@ comparePrice: 45.14 EUR
 prodname: 'IBRA® Master Gold - 1m  Metros  Cable óptico de Audio Digital Toslink Conectores Toslink | para PS3  Sky  Sky HD  Home Cinema Sistemas  AV Amps.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003U81XFK/?tag=tolees-21'
 descuento: '85.40'
 average: '6.59'

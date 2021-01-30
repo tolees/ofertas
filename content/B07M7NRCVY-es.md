@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Adidas Fortagym CF Jr  Zapatillas de Competición Unisex Niños  Multicolor  Magrea/Ftwbla/Semcor 000   33 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M7NRCVY/?tag=tolees-21'
 descuento: '49.99'
 average: '19.98'

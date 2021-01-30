@@ -16,6 +16,7 @@ comparePrice: 191.99 EUR
 prodname: 'Escher S 1464 7421 Banco para Exterior - Bancos para Exteriores  Marrón '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CITY3UY/?tag=tolees-21'
 descuento: '26.04'
 average: '142.0'

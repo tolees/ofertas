@@ -16,6 +16,7 @@ comparePrice: 24.09 EUR
 prodname: 'Riuty Faros Delanteros Searchlight，Outdoor Night Waterproof LED Bike Luz Delantera Brillante Luz Trasera Trasera Rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NNR5TS8/?tag=tolees-21'
 descuento: '64.76'
 average: '8.49'

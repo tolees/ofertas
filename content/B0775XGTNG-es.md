@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Gifort Esponja de Silicona  3 Piezas Silicona Esponja de cocina  Scrubber para Cocina para Ollas de Cocina  Tazón de Fuente de Pan  Frutas y Verduras'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0775XGTNG/?tag=tolees-21'
 descuento: '37.52'
 average: '9.99'

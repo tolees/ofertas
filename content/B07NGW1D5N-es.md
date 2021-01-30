@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Primigi Ple 44001  Botas para Bebés  Navy 4400100  18 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NGW1D5N/?tag=tolees-21'
 descuento: '78.50'
 average: '10.73'

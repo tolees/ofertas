@@ -16,6 +16,7 @@ comparePrice: 1.97 EUR
 prodname: 'yaoyan Funda Universal para Tableta portátil Funda Ultra Suave a Prueba de Agua Funda Protectora a Prueba de Golpes para PC portátil - Negro - 8"'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083QY3ZBV/?tag=tolees-21'
 descuento: '29.95'
 average: '1.38'

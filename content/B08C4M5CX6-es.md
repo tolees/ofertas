@@ -16,6 +16,7 @@ comparePrice: 20.75 EUR
 prodname: 'Cepillo de dientes eléctrico tres en uno Vibración de alta frecuencia Cerdas suaves de Dupont Protegen las encías Tensión ajustable en el engranaje 1 pieza - Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08C4M5CX6/?tag=tolees-21'
 descuento: '34.99'
 average: '13.49'

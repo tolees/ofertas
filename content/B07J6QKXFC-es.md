@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'PROACC Tapete para Piano  Juguete para niños con Teclado y Teclado para Piano  tamaño Grande  39 * 14 Pulgadas  Divertido tapete de Baile para bebés Niños pequeños y Regalos para niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J6QKXFC/?tag=tolees-21'
 descuento: '64.01'
 average: '17.99'

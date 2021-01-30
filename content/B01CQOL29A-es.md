@@ -16,6 +16,7 @@ comparePrice: 94.95 EUR
 prodname: 'adidas Zx Flux  Zapatillas de Entrenamiento Hombre  Negro  Cblack/Cblack/Dkgrey   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CQOL29A/?tag=tolees-21'
 descuento: '50.51'
 average: '46.99'

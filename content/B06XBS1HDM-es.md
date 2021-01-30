@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'KOPEKS Piscina Extra Grande Infantil Ideal para Niños/Mascotas Perros 160 x 30 cm - Azul Marino y Celeste - XL - XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XBS1HDM/?tag=tolees-21'
 descuento: '30.77'
 average: '54.33833333333333'

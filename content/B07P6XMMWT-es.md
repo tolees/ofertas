@@ -16,6 +16,7 @@ comparePrice: 11.12 EUR
 prodname: 'Pop! Bobble: Marvel: Venom S2 - Storm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P6XMMWT/?tag=tolees-21'
 descuento: '26.08'
 average: '8.844999999999999'

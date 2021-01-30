@@ -16,6 +16,7 @@ comparePrice: 23.69 EUR
 prodname: 'Louviva Bolas da Masaje  Set de 6  con Bolsa de Terciopelo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0785VP7RM/?tag=tolees-21'
 descuento: '57.83'
 average: '9.99'

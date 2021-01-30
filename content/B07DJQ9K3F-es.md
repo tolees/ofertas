@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'DAM TEKKIWEAR. DMX043BLACK. Smartwatch M26S Plus con Monitor Cardíaco  Presión Sanguinea Y Notificaciones para iOS Y Android. Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DJQ9K3F/?tag=tolees-21'
 descuento: '74.85'
 average: '39.99'

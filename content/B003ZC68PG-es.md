@@ -16,6 +16,7 @@ comparePrice: 7.0 EUR
 prodname: 'Rimmel London Exaggerate Automatic Eyeliner Waterproof - Delineador de Ojos Retráctil  Tono 230-Azul  Deep Ocean   0.28 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003ZC68PG/?tag=tolees-21'
 descuento: '54.43'
 average: '3.19'

@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'PREXTEX - Coche de Policía Teledirigido Monster Truck Juguete Radio Control para Niños  Control Remoto RC con Luces - Mejor Niños de 8 a 12 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TEEHS9E/?tag=tolees-21'
 descuento: '32.01'
 average: '17.70428571428571'

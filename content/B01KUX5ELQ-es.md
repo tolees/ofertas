@@ -16,6 +16,7 @@ comparePrice: 8.0 EUR
 prodname: 'Reebok Cuerda Saltar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KUX5ELQ/?tag=tolees-21'
 descuento: '50.25'
 average: '3.98'

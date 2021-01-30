@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'PC Webcam  USB Cámara Web con Micrófono Incorporado Que Reduce el Ruido  720p CAM Desktop y Laptop para videollamadas Videoconferencia Grabación Aprendizaje Juegos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088FJJMYX/?tag=tolees-21'
 descuento: '25.01'
 average: '26.99'

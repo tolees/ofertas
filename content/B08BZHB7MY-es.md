@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Lomogo Funda Cartera [iPhone XS MAX]  Funda de Cuero con Tapa Ranuras Tarjetas Soporte Plegable Antigolpes Carcasa Case para Apple iPhone XS MAX - LOBFE170106 L5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BZHB7MY/?tag=tolees-21'
 descuento: '52.48'
 average: '10.45'

@@ -16,6 +16,7 @@ comparePrice: 13.0 EUR
 prodname: 'Bourjois Delice De Poudre Polvos Bronceadores Tono 55 Highlighter + universal tan - 67 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LP418TM/?tag=tolees-21'
 descuento: '31.92'
 average: '8.370000000000001'

@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'adidas CORE18 TR SHO Sport Shorts  Hombre  Black/White  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076HRMKSH/?tag=tolees-21'
 descuento: '52.98'
 average: '9.38'

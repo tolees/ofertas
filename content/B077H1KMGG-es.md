@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Ice-Watch - P. Leclercq Slate - Reloj verde para Hombre con Correa de silicona - Chrono - 014947  Large '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077H1KMGG/?tag=tolees-21'
 descuento: '47.74'
 average: '86.91'

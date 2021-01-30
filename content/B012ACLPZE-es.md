@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Swimovate Poolmate 2 - Reloj cuenta vueltas  color azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B012ACLPZE/?tag=tolees-21'
 descuento: '31.32'
 average: '67.99'

@@ -16,6 +16,7 @@ comparePrice: 13.91 EUR
 prodname: 'Mazhar Natural Beige Cotton Rope Handmade Natural Cotton Rope Mcrammy Cotton Yarn Rope For DIY Wall Decoration Crafts 1 Piece - Beige'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085WVBZDT/?tag=tolees-21'
 descuento: '25.02'
 average: '10.43'

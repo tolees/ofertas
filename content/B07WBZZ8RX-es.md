@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Nike Pico 5 TDV  Zapatillas Unisex Niños  Azul  Deep Royal Blue/White   18.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WBZZ8RX/?tag=tolees-21'
 descuento: '42.73'
 average: '14.89'

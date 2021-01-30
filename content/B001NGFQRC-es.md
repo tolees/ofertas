@@ -16,6 +16,7 @@ comparePrice: 460.15 EUR
 prodname: 'Makita HR2811FT Martillo  800 W  230 V'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001NGFQRC/?tag=tolees-21'
 descuento: '40.67'
 average: '273.02'

@@ -16,6 +16,7 @@ comparePrice: 8.9 EUR
 prodname: 'STANHOME CREMA MUEBLES'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01B0O08HO/?tag=tolees-21'
 descuento: '39.44'
 average: '5.39'

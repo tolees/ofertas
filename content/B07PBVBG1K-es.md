@@ -16,6 +16,7 @@ comparePrice: 41.99 EUR
 prodname: 'UglyDolls: Una Aventura Imperfecta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PBVBG1K/?tag=tolees-21'
 descuento: '58.32'
 average: '22.71'

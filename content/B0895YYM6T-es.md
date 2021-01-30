@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'GREAT ART set de 2 posters XXL – Animales de la selva - jungla y puente colgante plantas de la selva tropical cómic aventura safari zoo selva foto decoración de la pared  140 x 100cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0895YYM6T/?tag=tolees-21'
 descuento: '40.20'
 average: '29.9'

@@ -16,6 +16,7 @@ comparePrice: 65 EUR
 prodname: 'Vans Filmore Decon  Zapatillas para Mujer  Rosa   Suede  Lilac Snow/True White Xof   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZQ2DTV/?tag=tolees-21'
 descuento: '58.71'
 average: '26.84'

@@ -16,6 +16,7 @@ comparePrice: 17.77 EUR
 prodname: 'Biotina 10.000 mcg  Vitamina B7  | 365 comprimidos  Suministro anual  | Estimula el crecimiento del cabello  ayuda a mantener la piel y las uñas sanas  y activa el metabolismo | Apto para Veganos.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JMVVHVZ/?tag=tolees-21'
 descuento: '26.73'
 average: '13.02'

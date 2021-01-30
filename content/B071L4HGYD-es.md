@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Utawarerumono: Mask Of Truth'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071L4HGYD/?tag=tolees-21'
 descuento: '49.29'
 average: '21.26'

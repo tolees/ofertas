@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Mass Effect: Andrómeda'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ZIVYOVM/?tag=tolees-21'
 descuento: '36.59'
 average: '15.945'

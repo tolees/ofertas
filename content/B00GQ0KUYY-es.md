@@ -16,6 +16,7 @@ comparePrice: 86.8 EUR
 prodname: 'Orbegozo RRM 510 – Emisor térmico sin aceite  3 elementos  500 W  2 niveles de potencia  color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GQ0KUYY/?tag=tolees-21'
 descuento: '25.12'
 average: '65.0'

@@ -16,6 +16,7 @@ comparePrice: 153.0 EUR
 prodname: 'Carissima Gold Pendientes de mujer con oro amarillo de 9 K  375/1000   sin gema'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BN7QPOY/?tag=tolees-21'
 descuento: '30.07'
 average: '107.0'

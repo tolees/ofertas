@@ -16,6 +16,7 @@ comparePrice: 3.95 EUR
 prodname: 'Schwarzkopf Palette Intense Coloración Permanente  Tono 3 Castaño Oscuro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082VSYK2T/?tag=tolees-21'
 descuento: '30.38'
 average: '2.75'

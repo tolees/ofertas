@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'XLTOK Cable USB Tipo C  Cable USB C [ 3Pack 1M +1M+2M ] Carga Rápida para Samsung Galaxy S10 /S9 /S8 /Note 8  Huawei P9 /P10 /P 20  LG G5 /G6  Sony Xperia XZ etc - Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LF8MF2K/?tag=tolees-21'
 descuento: '55.03'
 average: '8.99'

@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance 574v2  Zapatillas para Mujer  Azul  Blue Sos   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RFVZ9Y1/?tag=tolees-21'
 descuento: '41.03'
 average: '53.07'

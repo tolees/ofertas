@@ -16,6 +16,7 @@ comparePrice: 94.9 EUR
 prodname: 'Tommy Hilfiger Wmns Retro Flag Sneaker  Zapatillas para Mujer  Rojo  RWB 020   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V8V9X4Z/?tag=tolees-21'
 descuento: '65.99'
 average: '32.28'

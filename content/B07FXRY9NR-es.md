@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Maquinilla de afeitar profesional  hoja de acero inoxidable maquinilla de afeitar plegable herramienta de cuidado de limpieza facial masculina negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FXRY9NR/?tag=tolees-21'
 descuento: '73.72'
 average: '4.99'

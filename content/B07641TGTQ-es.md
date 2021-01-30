@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Funko Pop!- Sonic: Dr. Eggman Figura de Vinilo  20149 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07641TGTQ/?tag=tolees-21'
 descuento: '26.68'
 average: '10.99'

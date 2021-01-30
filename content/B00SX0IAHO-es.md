@@ -16,6 +16,7 @@ comparePrice: 171.99 EUR
 prodname: 'Unreal by Joshua Jay and Luis De Matos - DVD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SX0IAHO/?tag=tolees-21'
 descuento: '35.71'
 average: '110.57'

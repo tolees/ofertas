@@ -16,6 +16,7 @@ comparePrice: 18.78 EUR
 prodname: 'Need For Speed  BD 3D + 2D  [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00K7WHRXY/?tag=tolees-21'
 descuento: '60.06'
 average: '9.290000000000001'

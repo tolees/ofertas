@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Merrell Terran Lattice Ii Tira de tobillo para Mujer  Gris  Slate   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074N9DMH4/?tag=tolees-21'
 descuento: '34.13'
 average: '55.99'

@@ -16,6 +16,7 @@ comparePrice: 305.99 EUR
 prodname: 'Seagate Backup Plus Hub STEL10000400 Unidad de disco duro externa de 10 TB  HDD  USB 3.0 para ordenador de sobremesa  PC  portátil y Mac  2 puertos USB  2 meses de suscripción a Adobe CC Photography'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076DGG3QW/?tag=tolees-21'
 descuento: '31.37'
 average: '223.38428571428574'

@@ -16,6 +16,7 @@ comparePrice: 99 EUR
 prodname: 'La Martina Miguel Polo  Blanco  Optic White 00001   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NHSVCTK/?tag=tolees-21'
 descuento: '67.03'
 average: '32.64'

@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'CHOETECH Cargador USB C PD 60W  Cargador Rápida  Tipo C Cargador para MacBook Pro 2020/2019/2018  Macbook Air  Lenevo Thinkpad  Dell XPS  iPad Pro  iPhone 11/11Pro/SE 2  Galaxy S20/S20+/S10/10+ Huawei'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZGG8WB5/?tag=tolees-21'
 descuento: '26.10'
 average: '17.015'

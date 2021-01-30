@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Columbia Urban Uplift - Bolsa Cruzada  Unisex Adulto  Mountain  O/S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KTV6S37/?tag=tolees-21'
 descuento: '54.10'
 average: '15.520000000000001'

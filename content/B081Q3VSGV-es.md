@@ -16,6 +16,7 @@ comparePrice: 10.87 EUR
 prodname: 'Ideapark Sombrero de Invierno para Hombre Mujeres  Sombrero de Punto Unisex Gorro con Bufanda de Felpa Cálida Suave para Esquí u Otras Actividades al Aire Libre de Invierno  Azul Oscuro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081Q3VSGV/?tag=tolees-21'
 descuento: '70.01'
 average: '3.26'

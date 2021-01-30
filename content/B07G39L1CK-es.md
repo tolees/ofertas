@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'L Oréal Magic Retouch Precision Rubio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G39L1CK/?tag=tolees-21'
 descuento: '53.84'
 average: '3.67'

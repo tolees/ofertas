@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Linksys EA6900-EJ - Router inalámbrico Smart Wi-Fi de Doble Banda AC1900  Wireless-AC  Doble Banda 2 4 + 5 GHz  Smart Wi-Fi  Beamforming  USB 3.0 + USB 2.0   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00H44YJAC/?tag=tolees-21'
 descuento: '33.40'
 average: '104.665'

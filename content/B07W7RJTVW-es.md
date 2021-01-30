@@ -16,6 +16,7 @@ comparePrice: 43.99 EUR
 prodname: 'Antena TV  Antena TV Interior HDTV Digital con Amplificador de Señal Inteligente Rango de Recepción 50-80 Millas  3 M  Soporte Más Canales de TV Gratis 1080P 4K y Todos los Tipos de TV'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W7RJTVW/?tag=tolees-21'
 descuento: '56.38'
 average: '21.84'

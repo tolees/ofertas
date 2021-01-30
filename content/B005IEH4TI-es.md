@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Bourjois Effect 3d Gloss Gloss Tono 23 Framboise magnific - 19 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005IEH4TI/?tag=tolees-21'
 descuento: '58.89'
 average: '4.09'

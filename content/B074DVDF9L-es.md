@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Hiedra artificial de Amkun  pack de 12  para bodas  cocina  exteriores  fiestas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074DVDF9L/?tag=tolees-21'
 descuento: '30.79'
 average: '8.99'

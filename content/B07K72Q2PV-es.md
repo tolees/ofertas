@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Levi s 501 High Rise Short Pantalones Cortos  Azul  Flat Broke 0011   W31  Talla del Fabricante: 31  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K72Q2PV/?tag=tolees-21'
 descuento: '43.65'
 average: '30.99'

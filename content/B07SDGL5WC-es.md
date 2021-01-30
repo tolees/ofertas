@@ -16,6 +16,7 @@ comparePrice: 22.5 EUR
 prodname: 'Got2b - Perfume de cabello Ocean Vibe - 5 unidades de 75ml - Schwarzkopf'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SDGL5WC/?tag=tolees-21'
 descuento: '57.29'
 average: '9.635'

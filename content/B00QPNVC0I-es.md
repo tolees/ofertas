@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Real Techniques  Esponja para maquillaje facial - 2 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00QPNVC0I/?tag=tolees-21'
 descuento: '30.82'
 average: '8.865'

@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Estera Para Parrilla de Yawao  Forro del Horno Teflon que Cocina las Esteras  Negro- 6 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RW51DXK/?tag=tolees-21'
 descuento: '30.63'
 average: '13.183333333333334'

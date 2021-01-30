@@ -16,6 +16,7 @@ comparePrice: 17.67 EUR
 prodname: 'HifloFiltro HFA3615 Filtro para Moto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004ZGAA28/?tag=tolees-21'
 descuento: '29.37'
 average: '12.48'

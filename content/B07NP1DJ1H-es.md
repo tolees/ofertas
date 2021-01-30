@@ -16,6 +16,7 @@ comparePrice: 499.0 EUR
 prodname: 'Samsung Monitor U32R590C | Monitor Curvo 32   4K sin marcos  LED  UHD  60Hz  4ms  2500:1 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NP1DJ1H/?tag=tolees-21'
 descuento: '32.58'
 average: '327.246'

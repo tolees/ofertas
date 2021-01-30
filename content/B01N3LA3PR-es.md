@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'The Prisioner  El prisionero  [DVD]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N3LA3PR/?tag=tolees-21'
 descuento: '49.95'
 average: '5.0'

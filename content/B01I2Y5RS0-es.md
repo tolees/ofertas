@@ -16,6 +16,7 @@ comparePrice: 8.25 EUR
 prodname: 'Astor Perfect Finish Powder Polvos Compactos Tono 102-56 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01I2Y5RS0/?tag=tolees-21'
 descuento: '34.55'
 average: '5.4'

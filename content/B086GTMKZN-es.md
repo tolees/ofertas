@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Oihxse Transparente Funda para Huawei Mate 8 Ultrafina Silicona Suave TPU Carcasa Interesante Perro Patrón Flexible Protectora Estuche Antigolpes Anti-Choque  A2 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086GTMKZN/?tag=tolees-21'
 descuento: '27.39'
 average: '7.98'

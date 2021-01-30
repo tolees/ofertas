@@ -16,6 +16,7 @@ comparePrice: 14.5 EUR
 prodname: 'Mavala Gel Finish Top Coat Tratamiento de Manicura con Efecto Gel para las Uñas + Volumen + Suavidad + Brillo Extra  10 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PPGWFSE/?tag=tolees-21'
 descuento: '38.00'
 average: '8.91'

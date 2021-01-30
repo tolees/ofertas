@@ -16,6 +16,7 @@ comparePrice: 49.1 EUR
 prodname: 'Winsor & Newton Cotman Set regalo acuarela  multicolor  12 piezas  10 colores  1 pincel  1 almohadilla '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HGH259Y/?tag=tolees-21'
 descuento: '47.41'
 average: '25.82'

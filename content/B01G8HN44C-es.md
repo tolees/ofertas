@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Superga2754 Lamew - Zapatillas de Deporte Mujer   Gris  Gris  Gris 980    talla 38'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01G8HN44C/?tag=tolees-21'
 descuento: '61.25'
 average: '34.86'

@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'G-STAR RAW Classic Trunk Clr 3 Pack Pantalones Cortos  Multicolor  Dk Flame/Deep Bordeaux/bl 8527   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XCG9KDF/?tag=tolees-21'
 descuento: '34.94'
 average: '25.99'

@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Dodot Sensitive - Pañales Talla 4  48 Pañales  9-14 kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LGF5JVZ/?tag=tolees-21'
 descuento: '26.07'
 average: '16.72'

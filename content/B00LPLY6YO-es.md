@@ -16,6 +16,7 @@ comparePrice: 30.84 EUR
 prodname: 'Compartimento de verduras para el frigorífico  original de Liebherr  grande  9290036'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LPLY6YO/?tag=tolees-21'
 descuento: '25.42'
 average: '23.0'

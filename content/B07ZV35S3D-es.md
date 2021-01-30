@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Helly Hansen Calshot Trunk Bañador  Hombre  Royal Blue  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZV35S3D/?tag=tolees-21'
 descuento: '41.28'
 average: '23.49'

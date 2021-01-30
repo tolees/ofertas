@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Miracle Tunes- Vestido/Disfraz  Jasmine  Color blanco/azul  S  Giochi Preziosi MRC08000 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DD5D91T/?tag=tolees-21'
 descuento: '31.76'
 average: '27.29'

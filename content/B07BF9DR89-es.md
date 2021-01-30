@@ -16,6 +16,7 @@ comparePrice: 13.2 EUR
 prodname: 'Garnier Delial Sensitive Advanced - Protector Solar Facial UV Gel Hidratante IP50+ - 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BF9DR89/?tag=tolees-21'
 descuento: '35.61'
 average: '9.163333333333334'

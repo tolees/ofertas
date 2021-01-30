@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'ANEWSIR [2 Pack Protector de Pantalla para Huawei P30 Lite  Huawei P30 Lite Cristal Templado Vidrio Templado [9H Dureza] [Alta Definicion] Protector de Pantalla para.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PLP9N8N/?tag=tolees-21'
 descuento: '28.61'
 average: '5.656666666666667'

@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'New Balance - 574v2  Zapatillas Mujer  Morado  Purple Purple   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KRCCRN6/?tag=tolees-21'
 descuento: '66.11'
 average: '33.89'

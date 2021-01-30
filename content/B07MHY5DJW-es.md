@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Kickers Swibo  Botas Clasicas para Hombre  Verde  Kaki 20   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MHY5DJW/?tag=tolees-21'
 descuento: '69.10'
 average: '30.59'

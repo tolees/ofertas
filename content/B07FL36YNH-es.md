@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'Tommy Hilfiger Reloj Analógico para Mujer de Cuarzo con Correa en Cerámica 1781957'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FL36YNH/?tag=tolees-21'
 descuento: '32.07'
 average: '135.01999999999998'

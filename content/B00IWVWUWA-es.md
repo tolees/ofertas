@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Alesis VI49 - Teclado Controlador MIDI USB de 49 Teclas con 16 Pads  12 Mandos y 36 Botones Todos Asignables  Salida MIDI de 5 Puntas y un paquete de software profesional con ProTools | First incluido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IWVWUWA/?tag=tolees-21'
 descuento: '49.40'
 average: '101.19'

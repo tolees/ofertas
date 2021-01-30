@@ -16,6 +16,7 @@ comparePrice: 33.87 EUR
 prodname: 'HorBous Tarjetas de Aprendizaje Alfabeto Números Colores Formas Animales para Niños   Inglés    Azul  Forma  + Rosa  Alfabeto  '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RXX9K18/?tag=tolees-21'
 descuento: '46.86'
 average: '18.0'

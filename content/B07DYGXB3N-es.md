@@ -16,6 +16,7 @@ comparePrice: 100 EUR
 prodname: 'Merrell Vapor Glove 4  Zapatillas Deportivas para Interior para Mujer  Negro  Black   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DYGXB3N/?tag=tolees-21'
 descuento: '35.10'
 average: '65.0'

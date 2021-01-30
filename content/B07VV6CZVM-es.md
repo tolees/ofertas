@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Nudito Soporte Base Portátil Ajustable para Ordenadores Portátiles de 7 a 14 pulgadas. Soporte Ergonómico Plegable de Aleación de Aluminio para Portátiles y Tablets. Elevador Ajustable de Portátiles'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VV6CZVM/?tag=tolees-21'
 descuento: '36.24'
 average: '14.430000000000001'

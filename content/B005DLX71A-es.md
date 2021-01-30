@@ -16,6 +16,7 @@ comparePrice: 34.9 EUR
 prodname: 'Casio Reloj de Pulsera MRW-200H-1B2VEF'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005DLX71A/?tag=tolees-21'
 descuento: '27.79'
 average: '23.325'

@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Men s Solar Fuse Trainers  Black  Black Mesh/Pu/Trim Blk   9 UK  43 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NYTKKMF/?tag=tolees-21'
 descuento: '37.56'
 average: '39.2025'

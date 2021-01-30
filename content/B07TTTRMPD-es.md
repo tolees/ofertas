@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Delson 2.0 Larwin  Zapatillas sin Cordones para Hombre  Azul  Blue Canvas BLU   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TTTRMPD/?tag=tolees-21'
 descuento: '36.04'
 average: '39.099999999999994'

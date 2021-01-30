@@ -16,6 +16,7 @@ comparePrice: 225.0 EUR
 prodname: 'Bestway 56681 | Steel Pro – Piscina exterior redonda 366 x 76 cm  bomba de filtrado incluida'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJZJ6GK/?tag=tolees-21'
 descuento: '34.67'
 average: '181.5'

@@ -16,6 +16,7 @@ comparePrice: 25.28 EUR
 prodname: 'Zephyrr - Pendientes de gota para mujer  diseño moderno de filigrana de plata oxidada  para niñas y mujeres'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GVCFN98/?tag=tolees-21'
 descuento: '34.81'
 average: '16.48'

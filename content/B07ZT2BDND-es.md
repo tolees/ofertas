@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Solar Power Bank 26800mAh Cargador Solar Batería Externa Móvil+4 Puertos:Carga Rapida Tipo C/QI Carga Inalámbrico/Dos 3.1A+4 Modo Iluminación:SOS Linterna+18 LED+Impermeable para iPad Teléfono Viajes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZT2BDND/?tag=tolees-21'
 descuento: '37.15'
 average: '43.99'

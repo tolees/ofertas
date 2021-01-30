@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Funko Pop!- Star Wars: Red Cup Figura de Vinilo  Multicolor  26992 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079YKRT63/?tag=tolees-21'
 descuento: '51.47'
 average: '7.802'

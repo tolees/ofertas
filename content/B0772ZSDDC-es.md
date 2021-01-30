@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Columbia Canyon Point Waterproof  Zapatillas de Senderismo  Impermeable para Hombre  Gris  Violeta  Charcoal  Intense Violet   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0772ZSDDC/?tag=tolees-21'
 descuento: '27.07'
 average: '65.63'

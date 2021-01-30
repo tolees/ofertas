@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Gant Lambswool V-Neck suéter  Rojo  Dark Burgundy Mel   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074PRCH6D/?tag=tolees-21'
 descuento: '43.46'
 average: '74.72333333333333'

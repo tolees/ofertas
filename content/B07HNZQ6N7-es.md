@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Micrófono de cámara  Emiral Micrófono de entrevista estéreo Profesional Micrófono de Escopeta direccional Micrófono en la cámara para cámara DSLR/videocámara DV …'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HNZQ6N7/?tag=tolees-21'
 descuento: '26.03'
 average: '36.98'

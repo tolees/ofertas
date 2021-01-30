@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Ultimate Ears Wonderboom Altavoz Portátil Inalámbrico Bluetooth  Sonido Envolvente de 360°  Impermeable  Conexión de 2 Altavoces para Sonido Potente  Batería de 10 h  color Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06VWH9S58/?tag=tolees-21'
 descuento: '40.99'
 average: '52.182'

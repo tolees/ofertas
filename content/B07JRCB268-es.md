@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Tommy Hilfiger Tommy Slim Polo  Morado  Hyacinth Violet 526   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JRCB268/?tag=tolees-21'
 descuento: '39.99'
 average: '37.975'

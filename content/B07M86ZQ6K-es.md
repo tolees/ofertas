@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Adidas ENERGYFALCON  Zapatillas de Trail Running para Hombre  Core Black FTWR White Grey Six  47 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M86ZQ6K/?tag=tolees-21'
 descuento: '34.00'
 average: '46.17'

@@ -16,6 +16,7 @@ comparePrice: 25 EUR
 prodname: 'find. Top sin Magas de Encaje para Mujer   Multicolor  Orchid/black   36  Talla del Fabricante: X-Small '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NAL8Z8D/?tag=tolees-21'
 descuento: '75.00'
 average: '6.25'

@@ -16,6 +16,7 @@ comparePrice: 44.56 EUR
 prodname: 'Pour Moi? Remix Underwired Basque Bustier  Negro  Black Black   tamaño Fabricante: 32B para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VB4F1Y1/?tag=tolees-21'
 descuento: '79.60'
 average: '9.09'

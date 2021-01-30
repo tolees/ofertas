@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Botones Costura de Colores Mezclados Botones de Resina con Caja de Plástico para manualidades de DIY Coser Artesanía 235 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DG82YNS/?tag=tolees-21'
 descuento: '31.79'
 average: '5.465000000000001'

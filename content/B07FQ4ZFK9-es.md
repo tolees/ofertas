@@ -16,6 +16,7 @@ comparePrice: 25.64 EUR
 prodname: 'Little Dragons Café - Edición Estándar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FQ4ZFK9/?tag=tolees-21'
 descuento: '42.12'
 average: '20.5775'

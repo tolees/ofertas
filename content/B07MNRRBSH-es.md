@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Lee Scarlett Jeans  Azul  Dark Ulrich Iy   24W / 31L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MNRRBSH/?tag=tolees-21'
 descuento: '87.79'
 average: '12.2'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Luces Solar Exterior Tira Lamparas led de Decoración/ Garden iluminación de 22 metros  200 LEDs de decoración con de 8 modos de cambia las formas  impermeable  Blanco  '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01I4SJWK8/?tag=tolees-21'
 descuento: '46.68'
 average: '16.49'

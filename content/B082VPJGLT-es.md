@@ -16,6 +16,7 @@ comparePrice: 9.59 EUR
 prodname: 'Nivea Men Deep Control - Exfoliante antiespinillas y gel de lavado  75 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082VPJGLT/?tag=tolees-21'
 descuento: '36.91'
 average: '6.05'

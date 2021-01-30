@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Calvados Boulard Calvados Pays d Auge XO mit Geschenkverpackung  1 x 0.7 l '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0045WNGTQ/?tag=tolees-21'
 descuento: '56.46'
 average: '25.69'

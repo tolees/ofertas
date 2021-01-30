@@ -16,6 +16,7 @@ comparePrice: 1250.0 EUR
 prodname: 'Sony SELP18200 - Objetivo para Sony  Distancia Focal 27-300mm  Apertura f/3.5-40  Zoom óptico 11x estabilizador  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BBWMGNK/?tag=tolees-21'
 descuento: '43.74'
 average: '831.91'

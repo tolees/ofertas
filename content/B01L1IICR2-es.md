@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'Sennheiser HD 599 - Auriculares de Diadema Abiertos  6.3 mm/3.5 mm   Color Marfil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01L1IICR2/?tag=tolees-21'
 descuento: '58.59'
 average: '149.89333333333337'

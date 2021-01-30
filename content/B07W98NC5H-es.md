@@ -16,6 +16,7 @@ comparePrice: 22.04 EUR
 prodname: 'New Look Damen Pullover Op Fashioned  Grün  Verde Menta 37   Gr. S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W98NC5H/?tag=tolees-21'
 descuento: '43.33'
 average: '12.49'

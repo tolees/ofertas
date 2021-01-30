@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Desigual - Bag Orangina Capri Zipper Women  Shoppers y bolsos de hombro Mujer  Azul  Navy   13x28x30 cm  B x H T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GT5LF51/?tag=tolees-21'
 descuento: '36.70'
 average: '44.28'

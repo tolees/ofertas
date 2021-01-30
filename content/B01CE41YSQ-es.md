@@ -16,6 +16,7 @@ comparePrice: 70 EUR
 prodname: 'Under Armour UA Drift RN Mineral  Zapatillas de Running para Hombre  Gris  Glacier Gray   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CE41YSQ/?tag=tolees-21'
 descuento: '43.09'
 average: '39.84'

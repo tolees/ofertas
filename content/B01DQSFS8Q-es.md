@@ -16,6 +16,7 @@ comparePrice: 289.0 EUR
 prodname: 'Reloj MASERATI - Hombre R8823124001'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DQSFS8Q/?tag=tolees-21'
 descuento: '45.39'
 average: '157.83'

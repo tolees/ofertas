@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Daniel Wellington DW00100217 -  Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076H9D7ZJ/?tag=tolees-21'
 descuento: '47.29'
 average: '83.28823529411765'

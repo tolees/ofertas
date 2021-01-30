@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee Luke Jeans  Moto Grey Hga  29W / 30L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MR9JP9P/?tag=tolees-21'
 descuento: '42.75'
 average: '49.846666666666664'

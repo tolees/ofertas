@@ -16,6 +16,7 @@ comparePrice: 101.42 EUR
 prodname: 'Ecco Irving   Mocasines para Hombre  Negro  BLACK2001   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VR1INV4/?tag=tolees-21'
 descuento: '45.82'
 average: '54.95'

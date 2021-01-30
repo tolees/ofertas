@@ -16,6 +16,7 @@ comparePrice: 25.36 EUR
 prodname: 'LuckyGirls • • Men Fashion Letter Solid Elastic Running Sport Flat Ankle Round Toe Casual Shoes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S63FN9M/?tag=tolees-21'
 descuento: '55.17'
 average: '11.37'

@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Puma Defy TZ Wn s  Zapatillas de Deporte para Mujer  Verde White-Blazing Yellow  42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DBYNV1Z/?tag=tolees-21'
 descuento: '63.99'
 average: '35.99'

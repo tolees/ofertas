@@ -16,6 +16,7 @@ comparePrice: 349.99 EUR
 prodname: 'Targus DOCK160USZ USB 3.0  3.1 Gen 1  Type-A Negro  Gris - Base  Alámbrico  USB 3.0  3.1 Gen 1  Type-A  1000 Mbit/s  4096 x 2160 Pixeles  5000 Mbit/s  Negro  Gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0714CX9KV/?tag=tolees-21'
 descuento: '30.26'
 average: '244.1'

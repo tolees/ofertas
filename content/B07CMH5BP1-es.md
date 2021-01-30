@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Wolfenstein II: The New Colossus'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CMH5BP1/?tag=tolees-21'
 descuento: '31.86'
 average: '36.92666666666667'

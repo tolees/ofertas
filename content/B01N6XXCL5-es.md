@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Casio Reloj Digital para Hombre de Cuarzo con Correa en Resina SGW-600H-1BER'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N6XXCL5/?tag=tolees-21'
 descuento: '34.48'
 average: '54.27428571428571'

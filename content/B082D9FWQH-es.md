@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'YuanLey 8 Port Gigabit PoE Switch  8 PoE+ Port 1000Mbps  120W 802.3af/at  Metal sin Ventilador Plug and Play no Administrado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082D9FWQH/?tag=tolees-21'
 descuento: '33.34'
 average: '59.99'

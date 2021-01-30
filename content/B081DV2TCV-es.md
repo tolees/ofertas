@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'KingYH 10M Cable Eléctrico Transparente 2 Núcleos 0 75 mm² Cable Flexible PVC Alambre de Cobre de Alta Resistencia la Temperatura Cable de Alimentación para Uso en Condiciones Secas Electrodomésticos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081DV2TCV/?tag=tolees-21'
 descuento: '47.26'
 average: '15.29'

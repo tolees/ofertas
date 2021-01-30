@@ -16,6 +16,7 @@ comparePrice: 8.95 EUR
 prodname: 'Bourjois Velvet The Lipstick Barra de Labios Tono 13 Nohalicious  2.4 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077L6PLT9/?tag=tolees-21'
 descuento: '77.65'
 average: '2'

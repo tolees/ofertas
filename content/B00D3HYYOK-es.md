@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Le Dieci Erb Alim 100Tav Esi'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00D3HYYOK/?tag=tolees-21'
 descuento: '34.61'
 average: '7.84'

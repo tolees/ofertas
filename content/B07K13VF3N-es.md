@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Adidas N-5923 J Zapatillas de Gimnasia Unisex Niños  Azul  Legend Marine/Ftwr White/Legend Marine Legend Marine/Ftwr White/Legend Marine   38 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K13VF3N/?tag=tolees-21'
 descuento: '49.19'
 average: '34.26333333333333'

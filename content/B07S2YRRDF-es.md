@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Diesel UMBX-DAMIENTHREEPACK  Calzoncillo para Hombre  Multicolor  Black/Bright White/Dark Grey Mélange E4157/0wawd   S  Pack de 3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S2YRRDF/?tag=tolees-21'
 descuento: '50.00'
 average: '20.0'

@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Un Maui Lace  Zapatillas para Mujer  Gris  Grey Textile Grey Textile   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1GTC47/?tag=tolees-21'
 descuento: '49.47'
 average: '50.5'

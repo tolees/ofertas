@@ -16,6 +16,7 @@ comparePrice: 28.53 EUR
 prodname: 'Mooness - Funda de piel sintética para Xiaomi Redmi 9s/Note 9 Pro  magnética  color oro rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0881HWQQ3/?tag=tolees-21'
 descuento: '54.40'
 average: '13.01'

@@ -16,6 +16,7 @@ comparePrice: 33.99 EUR
 prodname: 'Tarjeta Micro SD de 400 GB de alta velocidad clase 10 Micro SD SDXC con adaptador  1024 GB-A '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08GFCYZRN/?tag=tolees-21'
 descuento: '52.96'
 average: '15.99'

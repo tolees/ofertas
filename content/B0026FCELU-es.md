@@ -16,6 +16,7 @@ comparePrice: 42.95 EUR
 prodname: 'WMF Profi Plus Termómetro Digital  Acero Inoxidable Pulido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0026FCELU/?tag=tolees-21'
 descuento: '30.03'
 average: '30.05'

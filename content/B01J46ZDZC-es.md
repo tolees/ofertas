@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Khomo - Funda Universal con Cremallera para Tablet Negro Negro Universal'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01J46ZDZC/?tag=tolees-21'
 descuento: '43.35'
 average: '16.99'

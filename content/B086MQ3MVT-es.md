@@ -16,6 +16,7 @@ comparePrice: 12.08 EUR
 prodname: 'YO-HAPPY Chupete Adulto Personalizado de Gran tamaño  Especialmente diseñado  Suave'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086MQ3MVT/?tag=tolees-21'
 descuento: '50.00'
 average: '6.04'

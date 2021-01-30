@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Mini Enfriador de Aire Acondicionador de Aire Móviles Climatizador Evaporativo Humidificador Portátil Espacio Personal con Temporizador Silencioso 3 Velocidades 7 Colores Luz Ajustable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084HB3Q6D/?tag=tolees-21'
 descuento: '42.51'
 average: '45.99'

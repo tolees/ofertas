@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-STAR RAW Rovic Zip 3D Tapered  Pantalones para Hombre  Gris  Gs Grey 1260   W40/L32'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BGTVRO6/?tag=tolees-21'
 descuento: '34.98'
 average: '59.989999999999995'

@@ -16,6 +16,7 @@ comparePrice: 149.95 EUR
 prodname: 'Rowenta RR6927MP Smart Force Essential - Robot Aspirador con mopa y depósito de Agua  aspira y friega a la vez  3 modos limpieza  sensores infrarrojos y anticaída  150 min autonomía  Reacondicionado '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084ZM6NP2/?tag=tolees-21'
 descuento: '26.65'
 average: '109.99'

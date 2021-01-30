@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Sotor Funda de Barbacoa  600D Oxford Impermeable Resistente al Desgarro  con Hebilla Doble  Cordón Ajustable  Doble Asa y Bolsa  Protección Solar/Lluvia/Polvo/Viento/UV  152 x 75 x 124 cm - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QB2JYLQ/?tag=tolees-21'
 descuento: '27.28'
 average: '23.99'

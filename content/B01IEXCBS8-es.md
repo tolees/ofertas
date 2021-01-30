@@ -16,6 +16,7 @@ comparePrice: 5.83 EUR
 prodname: 'Dreamlove Skins Preservativo Sabores Varios - 12 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IEXCBS8/?tag=tolees-21'
 descuento: '31.56'
 average: '3.99'

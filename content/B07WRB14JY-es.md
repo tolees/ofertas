@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Botas de Nieve para niños y niñas  Caminar  Senderismo  con Forro de Piel de Invierno  cálidas  para Clima frío  Antideslizantes  Botas Altas Impermeables  Color  Talla 36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WRB14JY/?tag=tolees-21'
 descuento: '44.01'
 average: '27.99'

@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Chicco-00.005954.000.000 Big & Small Anillos Fáciles De Agarrar  Multicolor  00005954000000 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HZEPT82/?tag=tolees-21'
 descuento: '25.03'
 average: '5.99'

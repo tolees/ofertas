@@ -16,6 +16,7 @@ comparePrice: 107.74 EUR
 prodname: 'Reloj para hombre  brújula  altímetro  barómetro  termómetro  digital  para deportes al aire libre  fitness  podómetro  rastreador de actividad  para hombres  ejército militar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BKW1ZVG/?tag=tolees-21'
 descuento: '48.80'
 average: '55.16'

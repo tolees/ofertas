@@ -16,6 +16,7 @@ comparePrice: 309 EUR
 prodname: 'PNI ZN101 - Ordenador portátil de 10.6"  Intel Z8350  2 GB de RAM  32 GB de Disco Duro  Intel HD Graphics  Windows 10  Color Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GXBPXV9/?tag=tolees-21'
 descuento: '29.04'
 average: '219.26'

@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: '24x Color de la mezcla Lámina impresa 2d PEGATINAS lisas para pegar sobre azulejos cuadrados de 15cm en cocina  baños – resistentes al agua y aceite  Azulejos decorativos adhesivos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TS58ST2/?tag=tolees-21'
 descuento: '71.73'
 average: '9.89'

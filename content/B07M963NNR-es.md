@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Wrangler HIGH RISE SKINNY Jeans  Azul  Mid Indigo X8e   26W / 32L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M963NNR/?tag=tolees-21'
 descuento: '48.87'
 average: '45.99'

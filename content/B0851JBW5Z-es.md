@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'BANLVS Smartwatch  1.4 Inch Reloj Inteligente IP67 con Pulsómetro Presión Arterial  Monitor de Sueño Podómetro Contador de Caloría  Smartwatch Reloj Inteligente Deporte para Hombre Mujer Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0851JBW5Z/?tag=tolees-21'
 descuento: '44.45'
 average: '49.99'

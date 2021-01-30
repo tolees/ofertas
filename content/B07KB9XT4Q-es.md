@@ -16,6 +16,7 @@ comparePrice: 8.9 EUR
 prodname: 'Nyx Professional Makeup Corrector No Comedogénico  Waterproof Y De Larga Duración Can T Stop Won T Stop 24H Tono 13 Golden Para Pieles Oscuras'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KB9XT4Q/?tag=tolees-21'
 descuento: '30.00'
 average: '6.23'

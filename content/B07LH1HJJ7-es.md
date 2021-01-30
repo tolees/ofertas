@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Salomon out Day 20+4 Mochila  Capacidad 24 L  Mujer  Gris  Lilac Grey   M/L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LH1HJJ7/?tag=tolees-21'
 descuento: '31.00'
 average: '69.0'

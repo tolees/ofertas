@@ -16,6 +16,7 @@ comparePrice: 2.99 EUR
 prodname: 'Rexona Desodorante Active Pro+ Original Mujer - 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BQDD74G/?tag=tolees-21'
 descuento: '66.56'
 average: '1.1466666666666665'

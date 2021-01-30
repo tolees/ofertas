@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Levi s Global Vulca-Low  Zapatillas para Hombre  Blanco  R White 51   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SH1L65R/?tag=tolees-21'
 descuento: '45.47'
 average: '29.99'

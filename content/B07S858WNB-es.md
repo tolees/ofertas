@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'adidas Crop Tank Tank Top  Mujer  Ice Yellow  42'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S858WNB/?tag=tolees-21'
 descuento: '40.00'
 average: '14.97'

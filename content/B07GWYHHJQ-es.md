@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'auna Ultrasonic BT Boombox - Bluetooth hasta 10 m   Puerto USB   Entrada AUX   Potencia: 2 x 20 W   Pantalla LCD   Función Karaoke   Micrófono Incluido   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GWYHHJQ/?tag=tolees-21'
 descuento: '38.57'
 average: '85.99'

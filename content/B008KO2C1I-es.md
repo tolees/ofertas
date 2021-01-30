@@ -16,6 +16,7 @@ comparePrice: 62.11 EUR
 prodname: 'Monix VELOCE - Olla a presión rápida de 4 litros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008KO2C1I/?tag=tolees-21'
 descuento: '27.24'
 average: '42.787499999999994'

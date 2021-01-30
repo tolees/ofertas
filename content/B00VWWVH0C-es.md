@@ -16,6 +16,7 @@ comparePrice: 61.09 EUR
 prodname: 'Versa 18790381 Perchero de pie con paragüero  Metal Lacado  Blanco  185 x 30 x 30 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VWWVH0C/?tag=tolees-21'
 descuento: '28.65'
 average: '40.15'

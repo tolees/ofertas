@@ -16,6 +16,7 @@ comparePrice: 9.5 EUR
 prodname: 'Bourjois Radiance Reveal Corrector Tono 03 Dark beige - 29 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01C45WITE/?tag=tolees-21'
 descuento: '63.47'
 average: '3.87'

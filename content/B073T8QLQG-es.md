@@ -16,6 +16,7 @@ comparePrice: 239.0 EUR
 prodname: 'Hugo BOSS Reloj Análogo clásico para Mujer de Cuarzo con Correa en Cuero 1502411'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073T8QLQG/?tag=tolees-21'
 descuento: '27.36'
 average: '163.07999999999998'

@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Generador de ozono Ionizador Purificador de aire Eliminador de olores domésticos Desodorante para dormitorio Sala de estar Aseo Oficina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0841VCDR6/?tag=tolees-21'
 descuento: '42.20'
 average: '52.01'

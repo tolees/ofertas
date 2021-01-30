@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'DIGITNOW! Escáner de película para 35mm negativos y diapositivas   Digitalizador de alta resolución de 10MP  Convertidor No se requiere PC y software'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IADT54K/?tag=tolees-21'
 descuento: '33.34'
 average: '62.49'

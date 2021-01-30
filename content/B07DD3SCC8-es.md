@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'L.O.L Surprise Bling - Modelo surtido  sorpresa  Giochi Preziosi LLU58000 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DD3SCC8/?tag=tolees-21'
 descuento: '52.37'
 average: '12.34'

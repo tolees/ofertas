@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Gant The Original Heavy Rugger  Polo Hombre  Azul  Evening Blue 433   Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KPD9SV2/?tag=tolees-21'
 descuento: '43.37'
 average: '54.1'

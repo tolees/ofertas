@@ -16,6 +16,7 @@ comparePrice: 3.49 EUR
 prodname: 'J9503-Yt Anti-Fall Cartoon Cute Elk Snowflake Pattern Teléfono móvil Soft Shell TPU Phone Case Funda Protectora para iPhone'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083HZ4KCZ/?tag=tolees-21'
 descuento: '57.02'
 average: '1.5'

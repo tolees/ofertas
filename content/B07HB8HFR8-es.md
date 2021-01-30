@@ -16,6 +16,7 @@ comparePrice: 7.92 EUR
 prodname: 'Funko Capitan Marvel Pop talos  Multicolor  36378 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HB8HFR8/?tag=tolees-21'
 descuento: '30.56'
 average: '6.8100000000000005'

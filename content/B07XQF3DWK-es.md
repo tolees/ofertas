@@ -16,6 +16,7 @@ comparePrice: 249.95 EUR
 prodname: 'DESIGUAL Letras Abrigos Femmes Negro - EU 36 - Plumas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XQF3DWK/?tag=tolees-21'
 descuento: '50.00'
 average: '124.97'

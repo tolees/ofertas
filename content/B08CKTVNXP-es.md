@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'FORMIZON Juguete Lanzador de Cohetes  Juguete de Lanzamiento de Cohete al Aire Libre con 3 Cohetes Actividad al Aire Libre Jugar Kids Toy Set Boys Birthday Gift'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CKTVNXP/?tag=tolees-21'
 descuento: '41.68'
 average: '13.99'

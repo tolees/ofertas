@@ -16,6 +16,7 @@ comparePrice: 1499.0 EUR
 prodname: 'Apple MacBook  de 12 pulgadas: Intel Core m3 de doble núcleo a 1 2 GHz  256GB  - Oro rosa  Modelo Anterior '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071JYGS5B/?tag=tolees-21'
 descuento: '33.36'
 average: '1081.47'

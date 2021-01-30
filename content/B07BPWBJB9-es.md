@@ -16,6 +16,7 @@ comparePrice: 111.62 EUR
 prodname: '1100lm luces exteriores solares 4500mAh aluminio 120 ° sensor de movimiento infrarrojo impermeable IP65 luz de seguridad inalámbrica con 4 modos para jardín  patio  puerta  pared- luz blanca cálida'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BPWBJB9/?tag=tolees-21'
 descuento: '60.59'
 average: '43.24'

@@ -16,6 +16,7 @@ comparePrice: 1.95 EUR
 prodname: 'Gillette Espuma para Piel sensible  200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZC3IRJ/?tag=tolees-21'
 descuento: '48.72'
 average: '1.0'

@@ -16,6 +16,7 @@ comparePrice: 67.37 EUR
 prodname: 'ORICO Aluminio Aleación USB C a HDMI Adaptador y 3-Puertos USB-A 3.0 y USB C Hub  4K * 30 fps para el Nuevo Macbook  Pixel  Yoga 900  Lumia 950 y más  Plata '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C8H4HCK/?tag=tolees-21'
 descuento: '68.84'
 average: '20.99'

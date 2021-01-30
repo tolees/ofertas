@@ -16,6 +16,7 @@ comparePrice: 12.02 EUR
 prodname: 'L Oréal  Tratamiento para pestañas - 9 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007LNJ94W/?tag=tolees-21'
 descuento: '46.01'
 average: '6.49'

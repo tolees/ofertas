@@ -16,6 +16,7 @@ comparePrice: 259.0 EUR
 prodname: 'WMF Perfect Premium - Set de olla ultra rápida/a presión de 22 cm y 4 5 l  cuerpo de 3 l y cestillo de vapor  acero inoxidable cromargan  apto para inducción  fabricado en Alemania con certificado GS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CG3N7SN/?tag=tolees-21'
 descuento: '32.97'
 average: '182.243'

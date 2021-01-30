@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'FITFORT Ventilador USB Silencioso - Máx 43 Horas de Trabaja Mini Fan Portátil con Pilas Recargable para Cochecito de bebé  Coche  Caminadora  Oficina  Hogar  Viajes  Camping  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TKDP28N/?tag=tolees-21'
 descuento: '66.69'
 average: '13.989999999999998'

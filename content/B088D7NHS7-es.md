@@ -16,6 +16,7 @@ comparePrice: 16.88 EUR
 prodname: 'Suhctup Funda Compatible para Xiaomi Mi 8 Lite Carcasa Transparente Dibujos Animal Suave Silicona TPU Gel Bumper Ultra Pulgada Antigolpes Crystal Clear Protector Piel Case Cover Panda 3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088D7NHS7/?tag=tolees-21'
 descuento: '52.73'
 average: '7.98'

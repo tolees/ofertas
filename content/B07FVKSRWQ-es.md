@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Lotus Reloj para de Cuarzo con Correa en Acero Inoxidable 18620/1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FVKSRWQ/?tag=tolees-21'
 descuento: '43.75'
 average: '90.27666666666666'

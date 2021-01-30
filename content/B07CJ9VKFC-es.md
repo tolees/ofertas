@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'TianMai Caliente Nueva DIY 5D Kit de Pintura Taladro Completo Diamante Bordado de Diamantes Pintura Pintura Pegada Por Número Kits Stitch Craft Kit Decoración Etiqueta de La Pared  8255 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CJ9VKFC/?tag=tolees-21'
 descuento: '31.27'
 average: '10.99'

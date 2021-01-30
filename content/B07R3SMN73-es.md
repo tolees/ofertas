@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Wrangler High Rise Skinny Jeans  Azul  Used Tint 50h   26W / 32L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R3SMN73/?tag=tolees-21'
 descuento: '86.77'
 average: '13.22'

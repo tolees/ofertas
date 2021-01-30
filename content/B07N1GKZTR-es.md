@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Un Maui Lace  Zapatillas para Mujer  Marrón  Aubergine Lea Aubergine Lea   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1GKZTR/?tag=tolees-21'
 descuento: '45.53'
 average: '53.3925'

@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Toallitas para Perros y Gatos  Pet Wipes  Toallitas húmedas para Mascotas  Toallitas Limpiadoras para los Ojos de Perros y Gatos  limpie las lágrimas y el moco en los ojos de las mascotas  100 Pcs'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088CPVLZ2/?tag=tolees-21'
 descuento: '42.32'
 average: '14.99'

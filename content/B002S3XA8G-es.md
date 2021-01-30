@@ -16,6 +16,7 @@ comparePrice: 16.95 EUR
 prodname: 'Australian Gold Crema Hidratante Extensiva - 227 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002S3XA8G/?tag=tolees-21'
 descuento: '27.02'
 average: '12.37'

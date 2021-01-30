@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'ARDITEX FP10016 Bolsa Mamá multifuncional de 39x14x30.5cm de MATTEL-Fisher-Price'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0744LZKCT/?tag=tolees-21'
 descuento: '44.53'
 average: '36.05'

@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Metronic 477144 - Radio CD-mp3 y Reproductor de CD portátil con Toma USB/SD  Radio FM  con Salida Jack 3.5mm  3w  Jungle Blanco/Verde.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076DFY62W/?tag=tolees-21'
 descuento: '34.01'
 average: '35.48166666666667'

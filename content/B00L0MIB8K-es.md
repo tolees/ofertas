@@ -16,6 +16,7 @@ comparePrice: 33.35 EUR
 prodname: 'EasyRead ERTT-DIG Reloj Infantil de Pared Time Teacher  Que Indica la Hora  Digital  en Formato de 12 y 24 horas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00L0MIB8K/?tag=tolees-21'
 descuento: '25.04'
 average: '25.0'

@@ -16,6 +16,7 @@ comparePrice: 12.68 EUR
 prodname: 'MANN-FILTER HU 718/1 N Original Filtro de Aceite  para automóviles'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005NFXQ76/?tag=tolees-21'
 descuento: '66.88'
 average: '4.2'

@@ -16,6 +16,7 @@ comparePrice: 4.91 EUR
 prodname: 'Flota - Jabón de Marsella - Detergente líquido para lavado de ropa - 1.65 l'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XA6G9D8/?tag=tolees-21'
 descuento: '42.36'
 average: '2.83'

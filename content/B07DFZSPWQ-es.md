@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'New Balance 220  Zapatillas Unisex Niños  Rosa  Pink/Pink Blue   28 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFZSPWQ/?tag=tolees-21'
 descuento: '58.65'
 average: '31.165000000000003'

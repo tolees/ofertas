@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Bausch & Lomb Soflens Tóricas  Lentes de Contacto para Astigmatismo - Pack de 6'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000UJFSHG/?tag=tolees-21'
 descuento: '61.08'
 average: '29.19'

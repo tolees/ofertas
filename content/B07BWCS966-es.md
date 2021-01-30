@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Detector de Voltaje sin Contacto  Meterk 12V-1000V Detector De Tension  Electrico Comprobador De Tensión con Linterna LED Juicio de Cable vivo / nulo Modo de Alarma'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BWCS966/?tag=tolees-21'
 descuento: '50.03'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 30.79 EUR
 prodname: 'Look by Crewcut - Camisola de cambray para niña  Chambray  8'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KQWVB8T/?tag=tolees-21'
 descuento: '56.80'
 average: '13.3'

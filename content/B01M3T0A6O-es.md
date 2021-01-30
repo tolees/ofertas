@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Penisso Delay • Retardante sexual • Sex Spray  50 ml  • Retardantes para hombre • A base de sustancias naturales'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M3T0A6O/?tag=tolees-21'
 descuento: '46.66'
 average: '15.95'

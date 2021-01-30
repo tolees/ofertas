@@ -16,6 +16,7 @@ comparePrice: 179.95 EUR
 prodname: 'Dainese-MANIS D1 49  Negro  Talla M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013TV3KR6/?tag=tolees-21'
 descuento: '36.84'
 average: '120.325'

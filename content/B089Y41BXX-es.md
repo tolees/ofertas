@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Auriculares Bluetooth 5.0  Auriculares inalámbricos Bluetooth de Carga rápida  Estéreo Hi-Fi  Deportivos Auriculares In-Ear Impermeable IPX5  Compatible con Todos los Dispositivos Inteligentes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089Y41BXX/?tag=tolees-21'
 descuento: '25.01'
 average: '29.99'

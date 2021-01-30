@@ -16,6 +16,7 @@ comparePrice: 65.37 EUR
 prodname: 'KYG Robot de Cocina al Vapor Procesador de Alimentos para Bebés 5 en 1 Máquina para Hacer Puré Smoothie Sopa y Zumo para Bebés  430w  Color Blanco y Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BKT9H8N/?tag=tolees-21'
 descuento: '29.37'
 average: '51.894999999999996'

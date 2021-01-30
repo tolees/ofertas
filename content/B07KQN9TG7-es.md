@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Helly Hansen KOS Polo  Hombre  Blanco  Blanco 001   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KQN9TG7/?tag=tolees-21'
 descuento: '66.78'
 average: '23.34'

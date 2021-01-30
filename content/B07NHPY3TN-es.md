@@ -16,6 +16,7 @@ comparePrice: 25.4 EUR
 prodname: 'Veet for Men Crema Depilatoria para Hombre Piel Sensible 400ml + Durex preservativos Real Feel - 12 condones'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NHPY3TN/?tag=tolees-21'
 descuento: '29.37'
 average: '17.94'

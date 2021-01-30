@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'BRIKSMAX Kit de Iluminación Led para Ford Mustang-Compatible con Ladrillos de Construcción Lego Modelo 10265  Juego de Legos no Incluido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QLPV7VD/?tag=tolees-21'
 descuento: '45.72'
 average: '37.99'

@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Tommy Hilfiger Tommy Jeans Casual Sneaker  Zapatillas para Mujer  Blanco  White 100   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q6B29VQ/?tag=tolees-21'
 descuento: '30.73'
 average: '41.49'

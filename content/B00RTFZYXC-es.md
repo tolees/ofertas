@@ -16,6 +16,7 @@ comparePrice: 131.89 EUR
 prodname: 'Grohe Eurosmart - Grifo de lavabo  con vaciador automático  caño estándar  con limitador ecológico de caudal y temperatura  Ref. 32926002 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00RTFZYXC/?tag=tolees-21'
 descuento: '38.52'
 average: '81.08'

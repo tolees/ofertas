@@ -16,6 +16,7 @@ comparePrice: 6.49 EUR
 prodname: 'Oral - B pro - expert premium  hilo dental - 40 m'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00E601GJE/?tag=tolees-21'
 descuento: '32.97'
 average: '4.443333333333333'

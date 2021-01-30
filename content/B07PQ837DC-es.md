@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Kipling Cindy  Cartera para Mujer  Plateado  Steel Grey Gifting   11.5x8x1 centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PQ837DC/?tag=tolees-21'
 descuento: '71.69'
 average: '10.23'

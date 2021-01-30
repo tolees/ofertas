@@ -16,6 +16,7 @@ comparePrice: 598.95 EUR
 prodname: 'Grohe  27473001 Euphoria 260 - Sistema de ducha con grifo monomando  alcachofa SmartControl de 260 mm con tres chorros y teleducha de 110 mm con tres chorros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074PDD3CW/?tag=tolees-21'
 descuento: '46.41'
 average: '301.67'

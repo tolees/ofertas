@@ -16,6 +16,7 @@ comparePrice: 20.98 EUR
 prodname: 'Hagen Catit Design Senses Massage Centre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001LWRHA2/?tag=tolees-21'
 descuento: '42.85'
 average: '11.323333333333334'

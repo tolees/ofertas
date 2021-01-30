@@ -16,6 +16,7 @@ comparePrice: 5.0 EUR
 prodname: 'Osram Bombilla de bajo Consumo con 2 Tubos  Casquillo de 2 Pines para operar ECC G24d-2  18 W'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000N5RH2G/?tag=tolees-21'
 descuento: '38.60'
 average: '3.376666666666667'

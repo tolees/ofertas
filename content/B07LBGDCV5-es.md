@@ -16,6 +16,7 @@ comparePrice: 41.0 EUR
 prodname: 'Calvin Klein Plunge Sujetador con Push-up  Negro  Black 001   DD  Talla del Fabricante: DD36  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBGDCV5/?tag=tolees-21'
 descuento: '74.37'
 average: '10.51'

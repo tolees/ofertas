@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'AI: SOMNIUM FILES COLLECTOR EDITION'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VVDBGD8/?tag=tolees-21'
 descuento: '44.49'
 average: '56.85333333333334'

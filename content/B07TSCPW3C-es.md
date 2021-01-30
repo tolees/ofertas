@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Batidora Portátil de Frutas Recargable Con USB  Mini Licuadora Para Batidos  Bebidas  zumo de frutas  Máscara Completa  380 ml  Seis Cuchillas 3D Para una Mezcla Excelente. Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TSCPW3C/?tag=tolees-21'
 descuento: '34.63'
 average: '19.419999999999998'

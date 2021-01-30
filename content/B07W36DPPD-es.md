@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Pepe Jeans Levyce Polo  Gris  Grey Marl 933   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W36DPPD/?tag=tolees-21'
 descuento: '57.76'
 average: '20.020000000000003'

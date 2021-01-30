@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Adidas Terrex AX2R CP K  Zapatillas de Senderismo Unisex niño  Negro  Negbás/Negbás/Naalre 000   29 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FMRRB6S/?tag=tolees-21'
 descuento: '59.63'
 average: '28.24'

@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'KiplingBaroeMujerMonederosPlateado  Metallic Glow  20.5x10x7.5 Centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TXWN4H2/?tag=tolees-21'
 descuento: '51.38'
 average: '13.25'

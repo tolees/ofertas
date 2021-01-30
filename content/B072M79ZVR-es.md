@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Weider Testo Xtreme. Incrementa los niveles de energía  fuerza y  resistencia. Contiene Ashwagandha  Extracto de Fenogreco y Maca  120 Caps '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072M79ZVR/?tag=tolees-21'
 descuento: '29.07'
 average: '23.4'

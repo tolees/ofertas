@@ -16,6 +16,7 @@ comparePrice: 1599.99 EUR
 prodname: 'HP OMEN Gaming 875-0013ns - Ordenador de sobremesa  Intel Core i7-8700  16GB RAM  2TB HDD + 256GB SSD  NVIDIA GTX 1060-6GB  Windows 10   Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MPW7XTK/?tag=tolees-21'
 descuento: '34.38'
 average: '1049.99'

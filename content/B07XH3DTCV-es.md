@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Esprit 109ee1i003 suéter  Gris  Medium Grey 5 039   Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XH3DTCV/?tag=tolees-21'
 descuento: '37.05'
 average: '31.47'

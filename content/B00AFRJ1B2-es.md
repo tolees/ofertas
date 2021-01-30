@@ -16,6 +16,7 @@ comparePrice: 90.99 EUR
 prodname: 'K&N RG-1002RD filtro cromado universal Coche y Moto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00AFRJ1B2/?tag=tolees-21'
 descuento: '47.43'
 average: '47.83'

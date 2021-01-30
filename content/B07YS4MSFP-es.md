@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'ZoneYan Gorras Bebé Recién Nacido Sombreros Bebé Invierno Sombrero de Punto para Niñas y Niños Gorra Calentar para Otoño Invierno Gorros De Punto Bebe Niños Invierno'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YS4MSFP/?tag=tolees-21'
 descuento: '40.02'
 average: '11.99'

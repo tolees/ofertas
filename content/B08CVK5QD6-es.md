@@ -16,6 +16,7 @@ comparePrice: 21.18 EUR
 prodname: 'Klas Remo - Dispensador de jabón automático  400 ml  rociador de jabón táctil con sensor de infrarrojos para baño  cocina  oficina  hotel – blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CVK5QD6/?tag=tolees-21'
 descuento: '55.76'
 average: '9.37'

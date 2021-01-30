@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Helly Hansen Transat Polo  Hombre  Royal Blue  2XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZV2JYFY/?tag=tolees-21'
 descuento: '35.58'
 average: '28.99'

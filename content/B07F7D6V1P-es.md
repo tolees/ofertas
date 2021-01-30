@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'INTEY Perchero de Pie  Perchero Metálico de Árbol de Pie para Colgar Ropa en Casa y Oficina  Carga Máx. 20KG  11 Ganchos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F7D6V1P/?tag=tolees-21'
 descuento: '50.03'
 average: '20.99'

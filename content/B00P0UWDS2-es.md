@@ -16,6 +16,7 @@ comparePrice: 48.18 EUR
 prodname: 'IBILI PICADORA DE Hielo  Centimeters'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00P0UWDS2/?tag=tolees-21'
 descuento: '35.28'
 average: '31.18'

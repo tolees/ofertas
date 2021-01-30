@@ -16,6 +16,7 @@ comparePrice: 21.0 EUR
 prodname: 'NIKE Club Short JSY Pantalones Cortos  Hombre  Gris  Dk Grey Heather/White   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJNH7RR/?tag=tolees-21'
 descuento: '47.57'
 average: '14.67'

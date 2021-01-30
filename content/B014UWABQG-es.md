@@ -16,6 +16,7 @@ comparePrice: 3.99 EUR
 prodname: 'Adidas  Perfume sólido - 100 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B014UWABQG/?tag=tolees-21'
 descuento: '25.06'
 average: '2.99'

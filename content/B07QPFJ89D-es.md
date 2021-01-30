@@ -16,6 +16,7 @@ comparePrice: 87.49 EUR
 prodname: 'New Balance Wl574 - Zapatillas para Mujer  Black/White  36.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QPFJ89D/?tag=tolees-21'
 descuento: '42.91'
 average: '49.95'

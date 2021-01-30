@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Forza Horizon 4 [Importación italiana]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DMDRXGD/?tag=tolees-21'
 descuento: '55.77'
 average: '35.94'

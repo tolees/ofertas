@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Vibram Fivefingers V-Train  Zapatillas de Deporte para Mujer  Gris  Grey/Black/Aqua Grey/Black/Aqua   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072R3LNGP/?tag=tolees-21'
 descuento: '47.64'
 average: '67.54'

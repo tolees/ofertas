@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Skechers Boys  Bounder Trainers  Blue  Blue & Black Textile/Orange & Lime Trim Bl Bk   12  30 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NQZQ6Z2/?tag=tolees-21'
 descuento: '36.92'
 average: '25.2'

@@ -16,6 +16,7 @@ comparePrice: 7.9 EUR
 prodname: 'Palette Intense - Tono 3.65 Castaño Medio Chocolate - 2 uds - Coloración Permanente - Schwarzkopf'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N3PGCVY/?tag=tolees-21'
 descuento: '37.97'
 average: '4.9'

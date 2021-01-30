@@ -16,6 +16,7 @@ comparePrice: 20.65 EUR
 prodname: 'Taurus Dublin - Báscula de baño'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01720OTNE/?tag=tolees-21'
 descuento: '37.53'
 average: '12.9'

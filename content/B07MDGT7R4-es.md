@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'Skechers Girls  OMNE SCHOLASTIC STYLE Trainers  Black  Black Dura Leather Bbk   5  38 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MDGT7R4/?tag=tolees-21'
 descuento: '49.86'
 average: '22.54'

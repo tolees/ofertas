@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'HKSMAN - Adaptador de Conector RCA Macho de Audio y vídeo en línea Chapado en Oro  Enchufe RCA sin Soldadura  Negro y Rojo 4 Pcs'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG7B4MC/?tag=tolees-21'
 descuento: '57.93'
 average: '7.99'

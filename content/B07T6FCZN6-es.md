@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Auriculares inalámbricos auténticos resistentes al sudor Creative Outlier Gold con software Super X-Fi  Bluetooth 5.0  aptX/AAC  39 horas de autonomía con 14 horas por cada carga de batería'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T6FCZN6/?tag=tolees-21'
 descuento: '30.00'
 average: '79.32333333333332'

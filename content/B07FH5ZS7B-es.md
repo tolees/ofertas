@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Element Dusk II Beanie A Gorro  Hombre  Rojo  Napa Red   Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FH5ZS7B/?tag=tolees-21'
 descuento: '50.05'
 average: '9.99'

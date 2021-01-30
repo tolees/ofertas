@@ -16,6 +16,7 @@ comparePrice: 2.06 EUR
 prodname: '1 Par Imán Perder Peso Nueva Tecnología Pegatina del Pezón de Pérdida Delgada Saludable Pecho de Silicona Masaje Pies Pérdida Peso Reducir'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K5VCP86/?tag=tolees-21'
 descuento: '48.54'
 average: '1.06'

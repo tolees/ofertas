@@ -16,6 +16,7 @@ comparePrice: 6.9 EUR
 prodname: 'TY - Beanie Boos Asia  Tigre  15 cm  Color Blanco / Rosa  United Labels Ibérica 36180TY '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B014LXY78M/?tag=tolees-21'
 descuento: '29.28'
 average: '4.88'

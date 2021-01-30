@@ -16,6 +16,7 @@ comparePrice: 16.95 EUR
 prodname: 'Mr. Wonderful  Agenda Clásica 2020'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YG98LKB/?tag=tolees-21'
 descuento: '49.97'
 average: '10.459999999999999'

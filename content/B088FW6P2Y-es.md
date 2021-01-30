@@ -16,6 +16,7 @@ comparePrice: 73.37 EUR
 prodname: 'Otium - Auriculares inalámbricos Bluetooth 5.0 IPX7  impermeables  40H  tiempo total de reproducción con funda de carga  mini auriculares con micrófono integrado Negro-C'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088FW6P2Y/?tag=tolees-21'
 descuento: '48.07'
 average: '38.1'

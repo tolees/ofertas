@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Puma Modern Soleil SL  Zapatillas para Mujer  Negro  40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B011V1BF5K/?tag=tolees-21'
 descuento: '38.02'
 average: '26.85'

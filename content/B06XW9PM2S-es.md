@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'BA20D Blanca LED Faro Lámpara Lejos Y Cerca De La Señal De Luz Bombilla LED Para La Motocicleta Universal  Moto  Vespa  barco  RV  automóvil  Iluminación del paisaje  etc.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XW9PM2S/?tag=tolees-21'
 descuento: '50.81'
 average: '6.39'

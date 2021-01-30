@@ -16,6 +16,7 @@ comparePrice: 12.22 EUR
 prodname: 'Fila Calcetines de deporte para Hombre  Negro  39/42  pack de 6 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VDSKQG2/?tag=tolees-21'
 descuento: '32.73'
 average: '8.265'

@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Clarks Un Rio Step  Zapatillas sin Cordones para Mujer  Azul  Blush Leather Blush Leather   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TMW6P3K/?tag=tolees-21'
 descuento: '58.13'
 average: '46.06'

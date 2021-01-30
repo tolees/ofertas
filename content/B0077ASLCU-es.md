@@ -16,6 +16,7 @@ comparePrice: 14.8 EUR
 prodname: 'MOTUL C1 Chain Clean 400ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0077ASLCU/?tag=tolees-21'
 descuento: '43.92'
 average: '9.07181818181818'

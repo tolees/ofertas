@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Under Armour Performance Polo 2.0  Niños  Azul  Academy/Mod Gray Light Heather/Pitch Gray Fade Heather 408   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZCH8MM/?tag=tolees-21'
 descuento: '63.47'
 average: '10.96'

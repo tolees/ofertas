@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'New Balance Fresh Foam Cruz Hoody Pack  Zapatillas de Entrenamiento para Mujer  Rojo  Bordeaux/Weiß Bordeaux/Weiß   40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XS3PLS7/?tag=tolees-21'
 descuento: '65.54'
 average: '31.0'

@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Dolovemk 10Pcs Beauty Sponge Blender  Makeup Blender Sponge Set  Real Sponge Mini  Sponge Foundation para maquillaje líquido  Handmade Craft  2IN  10 colores '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y4NZ3SB/?tag=tolees-21'
 descuento: '50.05'
 average: '4.99'

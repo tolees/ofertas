@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Belkin F2CD079bt - Adaptador de Mini DisplayPort a HDMI  4K  para dispositivos con mini-DP  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013P0JTX0/?tag=tolees-21'
 descuento: '30.55'
 average: '13.82'

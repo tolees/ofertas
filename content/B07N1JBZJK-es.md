@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Clarks Orinoco Dusk  Botas Estilo Motero para Mujer  Marrón  Tan Leather Tan Leather   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1JBZJK/?tag=tolees-21'
 descuento: '69.48'
 average: '31.479999999999997'

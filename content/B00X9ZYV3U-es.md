@@ -16,6 +16,7 @@ comparePrice: 216.59 EUR
 prodname: 'Bosch Professional GIC 120 Professional - Cámara de inspección  pantalla 2 7 "  cable 120 cm  luz LED  en caja '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X9ZYV3U/?tag=tolees-21'
 descuento: '28.90'
 average: '153.99'

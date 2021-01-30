@@ -16,6 +16,7 @@ comparePrice: 48.99 EUR
 prodname: 'BRIKSMAX Kit de Iluminación Lego Batman Coche Misterioso de The Riddler  Compatible con Ladrillos de Construcción Lego Modelo 70903  Juego de Legos no Incluido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TYVG51V/?tag=tolees-21'
 descuento: '61.24'
 average: '18.99'

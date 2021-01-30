@@ -16,6 +16,7 @@ comparePrice: 34.27 EUR
 prodname: 'Pokémon Ultrasol'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071WQ2NRN/?tag=tolees-21'
 descuento: '38.72'
 average: '24.233333333333334'

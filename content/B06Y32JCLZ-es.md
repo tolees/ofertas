@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Arvok 15 6 Pulgadas Funda Protectora para Portátiles/Impermeable Ordenador Portátil Caso/Neopreno del Portátil Bolsa para Acer/ASUS/DELL/Fujitsu/Lenovo/HP/Samsung/Sony'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y32JCLZ/?tag=tolees-21'
 descuento: '25.02'
 average: '8.99'

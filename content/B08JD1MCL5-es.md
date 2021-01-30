@@ -16,6 +16,7 @@ comparePrice: 7.7 EUR
 prodname: 'Nihlsfen Ratón USB para Juegos con Cable Z-7600 Retroiluminación LED Profesional 6 Botones Óptico 1000/1600/2000 dpi Ajustable para computadora portátil Pc - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08JD1MCL5/?tag=tolees-21'
 descuento: '33.51'
 average: '5.12'

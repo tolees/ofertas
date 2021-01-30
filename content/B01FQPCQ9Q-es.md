@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'WORKPRO Alicates Extensible Alicate de Cremallera Pico de Loro con Ranura Curvada Liberación Rápida 2 piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FQPCQ9Q/?tag=tolees-21'
 descuento: '26.93'
 average: '19.49'

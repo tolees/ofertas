@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'PUMA Flyer Runner  Zapatillas de Running Unisex Adulto  Negro Black White-Pink Alert  39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG7K8R1/?tag=tolees-21'
 descuento: '33.03'
 average: '33.45'

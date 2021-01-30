@@ -16,6 +16,7 @@ comparePrice: 99.74 EUR
 prodname: 'adidas Originals Superstar  Zapatillas Unisex Adulto  Negro  Core Black/ftwr White/Core Black   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PNUI5CC/?tag=tolees-21'
 descuento: '36.94'
 average: '62.9'

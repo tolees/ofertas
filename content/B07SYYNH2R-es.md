@@ -16,6 +16,7 @@ comparePrice: 39.36 EUR
 prodname: 'Elite Bags  Botiquín Riñonera  Funcional y Cómodo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SYYNH2R/?tag=tolees-21'
 descuento: '31.55'
 average: '26.94'

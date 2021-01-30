@@ -16,6 +16,7 @@ comparePrice: 24.9 EUR
 prodname: 'AR-Gun Brazalete Deportivo Pack 2 uds valido para Smartphones de hasta 6.8" Compatible con iPhone 11 Pro MAX XS MAX 11 Samsung Galaxy S20 Plus S10 Plus S9 Plus S8 Plus  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084YRC9PL/?tag=tolees-21'
 descuento: '52.21'
 average: '11.9'

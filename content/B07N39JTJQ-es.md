@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'QITAYO Funda Huawei P30 Pro de Tup Suave Carcasa Antigolpes & Anti-Rasguño & Antideslizante para Protección del Huawei P30 Pro Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N39JTJQ/?tag=tolees-21'
 descuento: '49.91'
 average: '7.99'

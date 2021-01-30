@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Under Armour UA W Charged Pursuit 2  Zapatillas de Running para Mujer  Rosa  Dash Pink/White/Jet Gray   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PWNKWCL/?tag=tolees-21'
 descuento: '46.11'
 average: '32.31'

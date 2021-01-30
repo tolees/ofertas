@@ -16,6 +16,7 @@ comparePrice: 26.94 EUR
 prodname: 'Biofinity - Lentes de contacto esféricas mensuales  R 8.6 / D 14 / -5.25 Diop   Pack de 6 uds.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001POTTDO/?tag=tolees-21'
 descuento: '33.22'
 average: '17.99'

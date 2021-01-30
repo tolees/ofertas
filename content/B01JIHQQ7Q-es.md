@@ -16,6 +16,7 @@ comparePrice: 11.95 EUR
 prodname: 'Nuei Cosmetics Gel Oh Holy Mary Sliding - 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JIHQQ7Q/?tag=tolees-21'
 descuento: '25.52'
 average: '10.34'

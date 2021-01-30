@@ -16,6 +16,7 @@ comparePrice: 190.8 EUR
 prodname: 'Fossil Reloj de Pulsera CH2861'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003RUFJE2/?tag=tolees-21'
 descuento: '40.33'
 average: '113.85'

@@ -16,6 +16,7 @@ comparePrice: 8.95 EUR
 prodname: 'Control Chocolate Addiction Preservativos - 12 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00N7VMIKY/?tag=tolees-21'
 descuento: '33.52'
 average: '5.79'

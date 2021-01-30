@@ -16,6 +16,7 @@ comparePrice: 199.95 EUR
 prodname: 'adidas Ultraboost 19 W  Zapatillas de Running para Mujer  Azul  Blue Tint S18/Core Black/Copper Met. Blue Tint S18/Core Black/Copper Met.   40 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RFNCTQ2/?tag=tolees-21'
 descuento: '30.00'
 average: '139.97'

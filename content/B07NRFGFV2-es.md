@@ -16,6 +16,7 @@ comparePrice: 22.47 EUR
 prodname: 'Gliss - Oil Elixir Diario - Aceite Capilar Nutrición y Brillo - 3 uds de 75ml - Schwarzkopf'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NRFGFV2/?tag=tolees-21'
 descuento: '57.72'
 average: '10.198'

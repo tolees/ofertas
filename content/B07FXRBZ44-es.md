@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Vans Filmore Decon  Zapatillas para Hombre  Gris  Canvas/Pewter/White 4wv   39'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FXRBZ44/?tag=tolees-21'
 descuento: '27.45'
 average: '41.68'

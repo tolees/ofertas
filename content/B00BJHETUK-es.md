@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Postquam - Balsamic Cream | Crema de Masaje con Efecto Balsámico - 1000 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BJHETUK/?tag=tolees-21'
 descuento: '33.14'
 average: '19.99'

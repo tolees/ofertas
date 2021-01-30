@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Reebok Classic Leather  Zapatillas de Gimnasia para Hombre  Blanco  INT/White/Gum INT/White/Gum   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018SH2WUM/?tag=tolees-21'
 descuento: '57.14'
 average: '39.74818181818182'

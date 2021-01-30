@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Sorel Explorer Carnival  Botas para Mujer  Verde  Hiker Green/Black 371   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079LF3MX8/?tag=tolees-21'
 descuento: '55.42'
 average: '57.95'

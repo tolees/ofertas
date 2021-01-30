@@ -16,6 +16,7 @@ comparePrice: 16.5 EUR
 prodname: 'Eucerin Skin Protection Loción Corporal - 400 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HL6XHM4/?tag=tolees-21'
 descuento: '51.82'
 average: '7.95'

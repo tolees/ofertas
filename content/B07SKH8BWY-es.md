@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Adidas Tensaur C  Zapatillas de Running Unisex niño  Noir Noir Gris Foncã  29 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SKH8BWY/?tag=tolees-21'
 descuento: '66.58'
 average: '10.01'

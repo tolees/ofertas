@@ -16,6 +16,7 @@ comparePrice: 101.71 EUR
 prodname: 'Victure Camara Deportiva 4k WiFi 16MP Impermeable Cámara Acción Deporte Acuatica Agua de 30m Pantalla LCD 2.0 Inch 170 Gran Angular 2 Baterías de 1050mAh con Múltiples Accesorios Kit Última versión'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FMTHB5N/?tag=tolees-21'
 descuento: '41.88'
 average: '59.11'

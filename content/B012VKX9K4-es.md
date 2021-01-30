@@ -16,6 +16,7 @@ comparePrice: 30 EUR
 prodname: 'Targus TSS865EU City Gear - Maletín para portátiles y tabletas de 10" a 11.6"  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B012VKX9K4/?tag=tolees-21'
 descuento: '40.03'
 average: '17.99'

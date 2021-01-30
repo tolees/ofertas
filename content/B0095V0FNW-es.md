@@ -16,6 +16,7 @@ comparePrice: 14.89 EUR
 prodname: 'STANLEY 1-93-333 - Caja de herramientas  12.5"/31.75 cm  con organizador'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0095V0FNW/?tag=tolees-21'
 descuento: '66.49'
 average: '4.49'

@@ -16,6 +16,7 @@ comparePrice: 97.36 EUR
 prodname: 'Vigilados  Person Of Interest Blue Ray Temporada 1-5 Colección Completa [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M4OSCWI/?tag=tolees-21'
 descuento: '30.99'
 average: '64.14999999999999'

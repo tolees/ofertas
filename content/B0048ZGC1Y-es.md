@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Vacu Vin 3887560 Enfriador Rápido para Botellas De Vino Y Cava  Plateado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0048ZGC1Y/?tag=tolees-21'
 descuento: '50.00'
 average: '9.95'

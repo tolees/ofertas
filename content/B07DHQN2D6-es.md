@@ -16,6 +16,7 @@ comparePrice: 71.95 EUR
 prodname: 'Lacoste Lerond 119 737cma0045042  Zapatillas para Hombre  Blanco  Wht/Nvy 042   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DHQN2D6/?tag=tolees-21'
 descuento: '40.25'
 average: '42.99'

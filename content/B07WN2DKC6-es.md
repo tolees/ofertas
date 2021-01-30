@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Cocoda Linterna Frontal  LED USB Recargable Linterna Cabeza con 4 Modes de Luz  Sensor de Movimiento  160 Lúmenes  Impermeable IPX6 y Ajustable Ángulo & Correa  Frontal LED para Cámping Correr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WN2DKC6/?tag=tolees-21'
 descuento: '33.35'
 average: '12.490000000000002'

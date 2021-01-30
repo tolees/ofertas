@@ -16,6 +16,7 @@ comparePrice: 94.95 EUR
 prodname: 'GLOBE Fusion  Zapatillas de Skateboard para Hombre  Marrón  Sahara 16318   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W92BZZ1/?tag=tolees-21'
 descuento: '61.48'
 average: '36.57'

@@ -16,6 +16,7 @@ comparePrice: 13.88 EUR
 prodname: 'Juego de 10 brochas de maquillaje de cerdas sintéticas de primera calidad para base de maquillaje  correctores en polvo  sombras de ojos  brochas de maquillaje profesional  dorado champán '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085WR6M6P/?tag=tolees-21'
 descuento: '49.64'
 average: '6.99'

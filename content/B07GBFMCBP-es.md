@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Casio G-SHOCK Reloj Digital  Contador de pasos  Sensor de movimiento  Aplicación de deporte gratuita para descargar  20 BAR  Blanco  para Hombre  GBD-800-7ER'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GBFMCBP/?tag=tolees-21'
 descuento: '35.94'
 average: '64.0'

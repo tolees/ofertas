@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Elizabeth Arden Eight hour Intensive Bálsamo Reparador de Labios - 11 6 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EU8A49K/?tag=tolees-21'
 descuento: '37.69'
 average: '14.82875'

@@ -16,6 +16,7 @@ comparePrice: 239.99 EUR
 prodname: 'Proyector YABER Mini Portátil Proyector Cine en Casa 5000 Lúmenes Resolución Nativa 1280*720p  Vídeo Proyector con HiFi Altavoces Incorporados  Cubierta de Metal  Soporte HDMI/USB/VGA/AV'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084KS3TBC/?tag=tolees-21'
 descuento: '58.75'
 average: '98.99'

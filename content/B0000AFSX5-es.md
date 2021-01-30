@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Converse Chuck Taylor All Star Season Ox  Zapatillas de Tela Unisex Adulto  Blanco  53 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0000AFSX5/?tag=tolees-21'
 descuento: '84.63'
 average: '13.323333333333332'

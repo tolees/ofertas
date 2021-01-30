@@ -16,6 +16,7 @@ comparePrice: 53.49 EUR
 prodname: 'Nike Renew Lucent  PS   Zapatillas Unisex Niños  Negro  Black/White 001   30 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RJ17Z8C/?tag=tolees-21'
 descuento: '56.42'
 average: '23.31'

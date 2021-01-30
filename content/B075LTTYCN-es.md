@@ -16,6 +16,7 @@ comparePrice: 252.28 EUR
 prodname: 'Mac Audio MPS - Minicadena  Dab+  Dab+  Bluetooth  USB  CD  AUX  RDS   Color Negro MPS 501 Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075LTTYCN/?tag=tolees-21'
 descuento: '37.25'
 average: '156.392'

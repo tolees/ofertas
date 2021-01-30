@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Levi s Original Batwing  Multicolor  Hm Patch Polo Dress Blues/Riverside/ 0003   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TMHGV8L/?tag=tolees-21'
 descuento: '50.51'
 average: '26.502'

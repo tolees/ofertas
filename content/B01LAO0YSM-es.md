@@ -16,6 +16,7 @@ comparePrice: 155.0 EUR
 prodname: 'Castellanisimos C00102 Mocasines Piel Florentic Borlas Hombre Hecho en España Cómodo y Elegante'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LAO0YSM/?tag=tolees-21'
 descuento: '54.85'
 average: '69.99'

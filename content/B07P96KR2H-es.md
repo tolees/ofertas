@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Funko- Pop Bobble: Marvel: Venom S2-Groot Figura coleccionable  Multicolor  41693 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P96KR2H/?tag=tolees-21'
 descuento: '34.29'
 average: '8.391250000000001'

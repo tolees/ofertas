@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'dn-nightwear Mujer Albornoz/Bata SDB.7059 con Capucha Beige Melange X-Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00U27ZIVC/?tag=tolees-21'
 descuento: '52.57'
 average: '37.9'

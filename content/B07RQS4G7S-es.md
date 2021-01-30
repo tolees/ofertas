@@ -16,6 +16,7 @@ comparePrice: 12.85 EUR
 prodname: 'find. Faroe Zapatillas Altas  Negro Black  41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RQS4G7S/?tag=tolees-21'
 descuento: '30.51'
 average: '10.616666666666665'

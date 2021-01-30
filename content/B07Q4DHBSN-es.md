@@ -16,6 +16,7 @@ comparePrice: 128.0 EUR
 prodname: 'Chronotech Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable CT7504LS-04M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q4DHBSN/?tag=tolees-21'
 descuento: '69.13'
 average: '39.51'

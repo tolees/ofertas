@@ -16,6 +16,7 @@ comparePrice: 12.98 EUR
 prodname: 'Oihxse Cristal Compatible con Samsung Galaxy J4 Funda Ultra-Delgado Silicona TPU Suave Protector Estuche Creativa Patrón Panda Protector Anti-Choque Carcasa Cover Panda A1 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088BH9PYJ/?tag=tolees-21'
 descuento: '38.52'
 average: '7.98'

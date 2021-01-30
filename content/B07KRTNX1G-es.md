@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Columbia Sun Ridge Polo  Hombre  Azul  Mountain   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KRTNX1G/?tag=tolees-21'
 descuento: '68.15'
 average: '17.96'

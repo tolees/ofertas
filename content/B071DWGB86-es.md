@@ -16,6 +16,7 @@ comparePrice: 70.78 EUR
 prodname: 'Half Moon Bay Tazón Juego de Tronos Stark  1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071DWGB86/?tag=tolees-21'
 descuento: '78.00'
 average: '15.57'

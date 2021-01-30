@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'ORSIFOW Herramienta Multiuso  18 in 1 Inoxidable Hacha Supervivencia con Martillo Alicates Cuchillo Destornillador Abrebotellas  kit Supervivencia para Acampada Senderismo y Emergencias'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085S25XNT/?tag=tolees-21'
 descuento: '33.34'
 average: '19.99'

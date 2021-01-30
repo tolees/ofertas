@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Huawei Y6 2019 - Smartphone de 6.09"  RAM de 2GB  Memoria de 32GB  3020 mAh  Cámara de 13 MP   EMUI 9.0  Color Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N8PGY23/?tag=tolees-21'
 descuento: '33.56'
 average: '102.34705882352942'

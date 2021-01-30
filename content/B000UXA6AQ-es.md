@@ -16,6 +16,7 @@ comparePrice: 3.77 EUR
 prodname: 'Osram 64210 Original Line Lámpara Halógena de Faros  1 Unidad '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000UXA6AQ/?tag=tolees-21'
 descuento: '46.95'
 average: '2.0'

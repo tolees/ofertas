@@ -16,6 +16,7 @@ comparePrice: 12.37 EUR
 prodname: 'LeYi Funda Huawei Mate 20 Lite Silicona Purpurina Carcasa con HD Protectores de Pantalla  Transparente Cristal Bumper Telefono Gel TPU Fundas Case Cover para Movil Huawei Mate 20 Lite ZX Oro Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JQR2MSH/?tag=tolees-21'
 descuento: '40.42'
 average: '7.37'

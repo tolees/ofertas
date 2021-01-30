@@ -16,6 +16,7 @@ comparePrice: 38.0 EUR
 prodname: 'Cartera Pepe Jeans Burned vertical con cierre de clic Marrón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HHLDN2T/?tag=tolees-21'
 descuento: '44.71'
 average: '21.01'

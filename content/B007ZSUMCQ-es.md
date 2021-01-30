@@ -16,6 +16,7 @@ comparePrice: 8.22 EUR
 prodname: 'NanoCable 10.15.0305 - Cable HDMI V1.3 alta velocidad  1080P  tipo A macho-macho  A/M-A/M  negro  5mts'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007ZSUMCQ/?tag=tolees-21'
 descuento: '27.13'
 average: '5.99'

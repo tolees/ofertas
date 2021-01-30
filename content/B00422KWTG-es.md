@@ -16,6 +16,7 @@ comparePrice: 5.95 EUR
 prodname: 'Medisana FTC Termómetro clínico digital para bebés  niños y adultos  oral  axilar o rectal  a prueba de agua con alarma de fiebre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00422KWTG/?tag=tolees-21'
 descuento: '32.94'
 average: '3.0749999999999997'

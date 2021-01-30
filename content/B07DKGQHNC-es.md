@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Relaxdays Silla Oficina Ergonómica Regulable  Rosa  102 x 55 x 55 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DKGQHNC/?tag=tolees-21'
 descuento: '37.62'
 average: '49.9'

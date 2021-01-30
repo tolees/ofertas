@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Nike T-Lite XI  Zapatillas Hombre   Negro  Black   44'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BYG3QM8/?tag=tolees-21'
 descuento: '50.10'
 average: '28.81'

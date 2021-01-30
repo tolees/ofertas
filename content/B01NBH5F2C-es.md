@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Maybelline New York - The Falsies Push Up Angel  Máscara de Pestañas - Tono Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NBH5F2C/?tag=tolees-21'
 descuento: '44.44'
 average: '6.831666666666667'

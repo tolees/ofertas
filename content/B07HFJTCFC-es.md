@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'ATHENA Basic Color Bañador  Multicolor  Noir Gris Noir 1920   Small  Talla del Fabricante: 2   Pack de 3  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HFJTCFC/?tag=tolees-21'
 descuento: '67.24'
 average: '10.583333333333332'

@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Festina Reloj Análogo clásico para Hombre de Cuarzo con Correa en Acero Inoxidable F20276/4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0767D8HLY/?tag=tolees-21'
 descuento: '39.59'
 average: '78.14666666666666'

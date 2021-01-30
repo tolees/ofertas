@@ -16,6 +16,7 @@ comparePrice: 549.0 EUR
 prodname: 'Olympus OM-D E-M10 Mark II cámara de Sistema Micro Cuatro Tercios  16 megapíxeles  estabilizador de Imagen de Cinco Ejes  Visor electrónico  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013QWFLLQ/?tag=tolees-21'
 descuento: '43.74'
 average: '308.86'

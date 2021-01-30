@@ -16,6 +16,7 @@ comparePrice: 57.12 EUR
 prodname: 'Conceptronic CSPKBTBASSPARTY 20 W Negro  Rojo - Altavoces portátiles  20 W  100-20000 Hz  80 dB  Inalámbrico y alámbrico  USB Tipo A  Negro  Rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ARHFJM4/?tag=tolees-21'
 descuento: '38.36'
 average: '38.385000000000005'

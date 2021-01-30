@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'MR. SIGA Dual Action Scrubbing Sponge  Pack of 6  Size:17x10x2.3cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01A6HV6AE/?tag=tolees-21'
 descuento: '35.02'
 average: '12.99'

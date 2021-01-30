@@ -16,6 +16,7 @@ comparePrice: 139.95 EUR
 prodname: 'Physionics Mini trampolín en Varias tamaños - Peso máximo: 100 kg - Fitness Trampoline  Trampolín Elástico para jardín y Uso doméstico  Cama Elástica'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BVH1Y00/?tag=tolees-21'
 descuento: '57.16'
 average: '59.95'

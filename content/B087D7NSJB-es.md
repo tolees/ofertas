@@ -16,6 +16,7 @@ comparePrice: 209.0 EUR
 prodname: 'Juego de Mueble de Baño Modelo ESPACE  Conjunto formado por Mueble de Baño Dos Puertas Lacado en Blanco  Medidas  60x45x80   Lavabo Encimera y Espejo. Compacto no precisa montaje'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087D7NSJB/?tag=tolees-21'
 descuento: '28.71'
 average: '149.0'

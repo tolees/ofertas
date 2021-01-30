@@ -16,6 +16,7 @@ comparePrice: 14.86 EUR
 prodname: '30 ml Perfume De Mujer Elegante Original  Fragancia De Flores Duradero Flor Refrescante Fabulosas Frutas Señora Perfume Eternity Euphoria #006 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082D2BHNR/?tag=tolees-21'
 descuento: '34.79'
 average: '9.69'

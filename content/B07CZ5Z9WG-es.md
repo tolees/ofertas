@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Puma Mantra Fusefit  Zapatillas de Deporte para Hombre  Gris  Iron Gate White 03   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZ5Z9WG/?tag=tolees-21'
 descuento: '49.97'
 average: '38.1475'

@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Funko- Pop Animation: Rick & Moty-Hologram Rick Clone Collectible Figure  Multicolor  44252 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SPVSJGD/?tag=tolees-21'
 descuento: '40.94'
 average: '9.298888888888888'

@@ -16,6 +16,7 @@ comparePrice: 219.99 EUR
 prodname: 'Bosch AVR 1100 - Escarificador  cesta colectora  en caja de cartón  1100 W  anchura de corte: 32 cm  capacidad: 50 l '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001UHO8O6/?tag=tolees-21'
 descuento: '27.66'
 average: '159.15'

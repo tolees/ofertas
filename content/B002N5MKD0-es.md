@@ -16,6 +16,7 @@ comparePrice: 31.0 EUR
 prodname: 'Clarins - Gentle Crema Noche'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002N5MKD0/?tag=tolees-21'
 descuento: '76.10'
 average: '7.41'

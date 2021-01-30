@@ -16,6 +16,7 @@ comparePrice: 31.22 EUR
 prodname: 'El Padrino 1-3  Edición 2017  [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075CRSZLT/?tag=tolees-21'
 descuento: '28.54'
 average: '22.31'

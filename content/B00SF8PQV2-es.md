@@ -16,6 +16,7 @@ comparePrice: 149.95 EUR
 prodname: 'G-STAR RAW Midge Cody Mid Waist Skinny Vaquero  Azul  Medium Aged 6131-071   32W / 30L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SF8PQV2/?tag=tolees-21'
 descuento: '55.64'
 average: '66.52'

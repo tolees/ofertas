@@ -16,6 +16,7 @@ comparePrice: 23.0 EUR
 prodname: 'Set Pintura Acrílica Nazca para Trabajo Artístico y Manualidades - 16 Colores x 30ml - Acrílicos Perfectos para usar en Lienzo  Madera  Papel  Cartón  Dry Clay  Uñas – Para Artistas de cualquier Nivel'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CLZD3VZ/?tag=tolees-21'
 descuento: '39.57'
 average: '18.450000000000003'

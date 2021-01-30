@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Edge Entertainment - Kick-Ass El juego de Tablero - Español  EECMKA01 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NLQJLRC/?tag=tolees-21'
 descuento: '25.00'
 average: '46.99333333333334'

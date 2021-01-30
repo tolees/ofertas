@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Everybody s Golf - Edición Estándar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071HQRW7K/?tag=tolees-21'
 descuento: '66.12'
 average: '15.788333333333334'

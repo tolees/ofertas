@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'SEVERIN Hervidor de Agua  1 L  2.200 W aprox.  WK 3469  Acero Inoxidable/Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075YG1PGB/?tag=tolees-21'
 descuento: '25.72'
 average: '22.99'

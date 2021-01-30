@@ -16,6 +16,7 @@ comparePrice: 72.71 EUR
 prodname: 'Forever Speed Piscina Perros Gatos Bañera Piscina Mascotas Piscina para Niños Portátil Plegable Piscina de Baño Antideslizante Resistente al Desgaste PVC Doggy Pool  120X30cm Rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XPPWM7G/?tag=tolees-21'
 descuento: '45.00'
 average: '39.99'

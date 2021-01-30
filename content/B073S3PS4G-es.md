@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Medidor de Sonido  Tacklife MLM02 Decibelímetro  30-130dB  Modo Rápido/Lento  LCD Retroiluminada  con Linterna  Batería Incluida  Precisión: ±1.5 dB  Medir Ruido en Casa  Oficina  Teatro  Fábrica'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073S3PS4G/?tag=tolees-21'
 descuento: '31.68'
 average: '13.79'

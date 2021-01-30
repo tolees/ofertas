@@ -16,6 +16,7 @@ comparePrice: 37.8 EUR
 prodname: 'KELME - Short Portero 18/19 A.d Alcorcon'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S6J21TC/?tag=tolees-21'
 descuento: '70.00'
 average: '11.34'

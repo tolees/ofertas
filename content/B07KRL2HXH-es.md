@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'New Balance Yc373v1  Zapatillas para Niñas  Dorado  Classic Gold Classic Gold   28 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KRL2HXH/?tag=tolees-21'
 descuento: '60.12'
 average: '19.94'

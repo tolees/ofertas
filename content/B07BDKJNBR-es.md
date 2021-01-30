@@ -16,6 +16,7 @@ comparePrice: 224.77 EUR
 prodname: 'Experobot EX501 - Robot aspirador silencioso para todo tipo de suelos con gran poder de succión  depósito de agua  tecnología de sensores infrarrojos y carga automática'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BDKJNBR/?tag=tolees-21'
 descuento: '49.01'
 average: '114.62'

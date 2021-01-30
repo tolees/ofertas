@@ -16,6 +16,7 @@ comparePrice: 38.45 EUR
 prodname: 'Aqua Control Riego por Goteo para Balcones-Programador C4099N + 12 Goteros Autocompensantes de 2 l/h + Microtubo de 4 mm  Kit C4061'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UCL2L2M/?tag=tolees-21'
 descuento: '30.04'
 average: '32.675'

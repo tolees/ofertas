@@ -16,6 +16,7 @@ comparePrice: 17.08 EUR
 prodname: 'Sebastian Tratamiento Capilar - 150 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001D0BH3K/?tag=tolees-21'
 descuento: '26.87'
 average: '12.49'

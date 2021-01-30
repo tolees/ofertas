@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Under Armour Armour Mid Crossback Sujetador Deportivo  Mujer  Verde  Lime Light/Lime Light 884   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L97SWKF/?tag=tolees-21'
 descuento: '33.32'
 average: '26.67'

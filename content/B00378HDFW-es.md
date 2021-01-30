@@ -16,6 +16,7 @@ comparePrice: 13 EUR
 prodname: 'L Oréal Paris Barra de Labios Color Riche Creme 302 Bois de Rose'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00378HDFW/?tag=tolees-21'
 descuento: '28.46'
 average: '9.3'

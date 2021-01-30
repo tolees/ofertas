@@ -16,6 +16,7 @@ comparePrice: 53.89 EUR
 prodname: 'Teccpo - Herramienta multifunción  170 W  mini herramienta giratoria con 80 accesorios  portabrocas automático  eje flexible  mini Drill con velocidad variable  ideal para manualidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H4Q1S7M/?tag=tolees-21'
 descuento: '47.19'
 average: '28.395'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'JINYU Loft Vintage Rústico Industrial Lámpara de techo/Pared Bañadores de Pared Luz de Pared Iluminación para Dormitorio Studio Hogar Decoración Porche Blanco Cálido Negra diseño ángulo ajustable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ML3F2RQ/?tag=tolees-21'
 descuento: '50.61'
 average: '19.75'

@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Foxom Cronómetro Deportivo Profesional Portátil Digital Cronógrafo Temporizador  Tres Filas 60 Memorias de Vuelta 1/100 Segundo Precisión cronómetro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WGN4RTL/?tag=tolees-21'
 descuento: '33.35'
 average: '17.99'

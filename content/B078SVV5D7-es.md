@@ -16,6 +16,7 @@ comparePrice: 30.96 EUR
 prodname: 'Sharplace 62 Piezas Modelo Árbol para Paisaje Landscape Modelismo Espada Hierba y Palmera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078SVV5D7/?tag=tolees-21'
 descuento: '44.44'
 average: '14.653749999999999'

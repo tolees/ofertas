@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'WWE 2K20 - Deluxe Edition'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W7VCFRR/?tag=tolees-21'
 descuento: '30.04'
 average: '82.47'

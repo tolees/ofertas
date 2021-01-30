@@ -16,6 +16,7 @@ comparePrice: 200.0 EUR
 prodname: 'MODAUTO Asiento Deportivo Coche  Baquet Deportivo  de Tela  con Ríeles incluidos  Universal para Simulador de Conducción  Modelo N070  Ojo Grande  Negro-Amarillo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HYF6FSR/?tag=tolees-21'
 descuento: '45.00'
 average: '110.0'

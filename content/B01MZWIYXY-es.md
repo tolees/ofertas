@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Tommy Hilfiger H2285ARLOW 1D  Zapatillas para Hombre  Azul  Midnight   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MZWIYXY/?tag=tolees-21'
 descuento: '38.66'
 average: '36.74'

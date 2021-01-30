@@ -16,6 +16,7 @@ comparePrice: 9.9 EUR
 prodname: '5 Máscaras Faciales KN95 / FFP2 Mascarilla Mascarilla Protectora de Respirador de 5 Capas  Máscara Desechable Transpirable para Adultos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08HLZBGGP/?tag=tolees-21'
 descuento: '39.49'
 average: '5.99'

@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Carttiya Cojin Lumbar Coche  Almohada de Soporte Lumbar de Espuma de Memoria Cojín Respaldo Ortopédico Ergonómico para Automóvil  Silla Oficina  Alivio del Fatiga de Espalda'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DHFZ81J/?tag=tolees-21'
 descuento: '30.79'
 average: '26.49'

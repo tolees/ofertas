@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Braun Silk-épil 5 - Depiladora para mujer con 3 accesorios: masaje  guante de frío y funda rosa  color blanco y rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006J1S9SY/?tag=tolees-21'
 descuento: '36.10'
 average: '55.1825'

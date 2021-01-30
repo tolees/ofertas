@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Buff Solid Calentador Lana Merino Heavy  Unisex Adulto  Black  Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00V3HV6OS/?tag=tolees-21'
 descuento: '45.09'
 average: '19.19'

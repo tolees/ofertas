@@ -16,6 +16,7 @@ comparePrice: 35.9 EUR
 prodname: 'CHIKA10 Amira 06 Nude/LG.Pink  Talla 39'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0857DF1TG/?tag=tolees-21'
 descuento: '27.88'
 average: '25.89'

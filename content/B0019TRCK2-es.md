@@ -16,6 +16,7 @@ comparePrice: 12.1 EUR
 prodname: 'HP 364 - Cartucho de tinta Original HP 364 Magenta para HP DeskJet  HP OfficeJet y HP PhotoSmart'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0019TRCK2/?tag=tolees-21'
 descuento: '34.88'
 average: '7.88'

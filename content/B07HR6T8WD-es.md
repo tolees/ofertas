@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'Radio de Coche  Rixow Autoradio FM Estéreo Bluetooth 60W*4 Doble USB Carga Rápida Reproductor MP3 Llamadas Manos Libres 7 Colores de Luz de Fondo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HR6T8WD/?tag=tolees-21'
 descuento: '36.96'
 average: '28.99'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Nike MD Runner 2  Zapatillas de Deporte para Mujer  Multicolor  Negro 000   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016EPNPFG/?tag=tolees-21'
 descuento: '29.98'
 average: '28.0'

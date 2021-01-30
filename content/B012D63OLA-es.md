@@ -16,6 +16,7 @@ comparePrice: 39.59 EUR
 prodname: 'M3 MEDIATRES ESTUDIO - Gantz: la Saga Completa'
 country: 'es'
 flag: '🇪🇸'
+brand: 'M3 MEDIATRES ESTUDIO'
 buyurl: 'https://www.amazon.es/dp/B012D63OLA/?tag=tolees-21'
 descuento: '70.19'
 average: '11.8'
@@ -27,8 +28,8 @@ En este momento está [M3 MEDIATRES ESTUDIO - Gantz: la Saga Completa](https://w
 
 🔎:
 
-- Disco 2 GANTZ:PERFECT ANSWER
 - Disco 1 GANTZ
+- Disco 2 GANTZ:PERFECT ANSWER
 - *EXTRAS* Libreto Exclusivo con textos escritos por Mike Hostench (Sub-director del Festival de Sitges)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B012D63OLA/?tag=tolees-21)

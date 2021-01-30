@@ -16,6 +16,7 @@ comparePrice: 33.99 EUR
 prodname: 'Bajo sistema de sujeción de esclavitud de cama con puños de mano Colección de esclavitud de puño de tobillo  Juguetes Sexuales Bondage para la Cama con Cómodas Esposas Ajustables para los Tobillos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KS49M9X/?tag=tolees-21'
 descuento: '61.78'
 average: '12.99'

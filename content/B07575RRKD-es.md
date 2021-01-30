@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'Chicco Echo - Silla de paseo  ligera y compacta  soporta hasta 22kg  color azul  Mr Blue '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07575RRKD/?tag=tolees-21'
 descuento: '26.72'
 average: '89.88'

@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Dickies Pensacola Short  Pantalones Cortos Deportivos para Hombre  Azul  Rinsed RIN   Tamaño del Fabricante:34 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0198K5LZQ/?tag=tolees-21'
 descuento: '80.68'
 average: '11.4'

@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'adidas Drst Ask Bra Sujetador de Deporte  Mujer  White  XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081TTGZXW/?tag=tolees-21'
 descuento: '33.26'
 average: '19.99'

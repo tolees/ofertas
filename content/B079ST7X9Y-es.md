@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Desigual Jers edimburgo suéter   Negro 2000   Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079ST7X9Y/?tag=tolees-21'
 descuento: '47.92'
 average: '37.46'

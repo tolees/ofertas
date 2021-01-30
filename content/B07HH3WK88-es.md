@@ -16,6 +16,7 @@ comparePrice: 13.48 EUR
 prodname: 'Amazon Essentials - Camisetas de manga corta y corte entallado con cuello en V y diseño a rayas para hombre  Negro/Gris jaspeado claro  US M  EU M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HH3WK88/?tag=tolees-21'
 descuento: '41.91'
 average: '7.83'

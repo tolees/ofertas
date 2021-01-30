@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'FIFA 19 Edición Legacy'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DMGHB7V/?tag=tolees-21'
 descuento: '41.91'
 average: '59.95166666666666'

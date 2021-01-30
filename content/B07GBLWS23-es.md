@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Pulsar Reloj cronografo para Hombre de Cuarzo con Correa en Acero Inoxidable PM3115X1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GBLWS23/?tag=tolees-21'
 descuento: '51.57'
 average: '67.32'

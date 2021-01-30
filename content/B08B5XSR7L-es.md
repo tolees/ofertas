@@ -16,6 +16,7 @@ comparePrice: 49.39 EUR
 prodname: 'AONESY Dispensador de jabón automático Touchless  Dispensador de jabón de Manos Libres de 300ml  Dispensadores de loción de jabón líquido con Sensor de Profundidad IP67 para la Cocina del baño'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B5XSR7L/?tag=tolees-21'
 descuento: '35.23'
 average: '31.99'

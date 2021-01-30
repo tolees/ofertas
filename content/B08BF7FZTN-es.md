@@ -16,6 +16,7 @@ comparePrice: 8.98 EUR
 prodname: 'NICEAO Almohadas Piernas Dormir  Almohada Piernas Dormir OrtopéDicas para Durmientes de Lado  Alivie La CiáTica  Material de Rebote 100% Lento  Almohada para Rodillas  Almohada Piernas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BF7FZTN/?tag=tolees-21'
 descuento: '29.73'
 average: '7.5875'

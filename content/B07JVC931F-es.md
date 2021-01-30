@@ -16,6 +16,7 @@ comparePrice: 23.0 EUR
 prodname: 'Under Armour  UNDKU Armour Heatgear Sujetador Deportivo  Niñas  Negro  YXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JVC931F/?tag=tolees-21'
 descuento: '52.22'
 average: '10.7675'

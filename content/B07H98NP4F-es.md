@@ -16,6 +16,7 @@ comparePrice: 8.35 EUR
 prodname: 'Suavinex – Pomada Intensiva de pañal para bebés. Cuidado Intenso para pieles muy Sensibles. Pomada del Pañal con Textura Pomada Untosa. 89% Ingredientes de Origen Natural  75ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H98NP4F/?tag=tolees-21'
 descuento: '35.93'
 average: '5.324999999999999'

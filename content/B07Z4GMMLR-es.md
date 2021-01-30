@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'LENCENT Cargador USB Pared con 2 Puerto[2 Unidades]  12W/2.4A Cargador Móvil con tecnología Auto-ID  Enchufe Multipuerto Europeo para iPhone  iPad  Samsung  Huawei  Xiaomi  LG  Nexus  HTC y más'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z4GMMLR/?tag=tolees-21'
 descuento: '45.05'
 average: '10.99'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Trust Urban Ula - Cargador portátil con batería integrada de 8000 mAh  Color Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F98NJZN/?tag=tolees-21'
 descuento: '49.12'
 average: '15.26'

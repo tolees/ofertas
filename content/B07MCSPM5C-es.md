@@ -16,6 +16,7 @@ comparePrice: 79 EUR
 prodname: 'Napapijri TALY 2 LS Polo  Azul  BLU Marine 176   L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MCSPM5C/?tag=tolees-21'
 descuento: '50.00'
 average: '39.5'

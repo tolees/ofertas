@@ -16,6 +16,7 @@ comparePrice: 3.95 EUR
 prodname: 'Palette Intense - Tono 5.5 Castaño Luminoso - Coloración Permanente - Schwarzkopf'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EFHQXZ4/?tag=tolees-21'
 descuento: '39.49'
 average: '2.39'

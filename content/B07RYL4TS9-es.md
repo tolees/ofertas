@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'New Balance 373v2 n  Zapatillas para Mujer  Blanco  White/Purple Gw   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RYL4TS9/?tag=tolees-21'
 descuento: '48.08'
 average: '25.96'

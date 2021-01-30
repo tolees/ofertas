@@ -16,6 +16,7 @@ comparePrice: 14.9 EUR
 prodname: 'Max Factor  Base de maquillaje  Corrector del color y refrescante  1 Unidad  30 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KPXRNGC/?tag=tolees-21'
 descuento: '55.57'
 average: '6.8149999999999995'

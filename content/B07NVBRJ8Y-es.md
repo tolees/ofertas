@@ -16,6 +16,7 @@ comparePrice: 54.79 EUR
 prodname: 'Skechers SELMEN WALDER  Botas Clasicas para Hombre  Negro Nylon Mesh Black  45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NVBRJ8Y/?tag=tolees-21'
 descuento: '35.77'
 average: '35.19'

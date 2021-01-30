@@ -16,6 +16,7 @@ comparePrice: 15.98 EUR
 prodname: 'Real Madrid FC Body Niños - Producto Oficial Primera equipación 2018/2019  1 Mes '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HWV2PZ2/?tag=tolees-21'
 descuento: '31.85'
 average: '10.89'

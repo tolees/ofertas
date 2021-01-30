@@ -16,6 +16,7 @@ comparePrice: 19.0 EUR
 prodname: 'Cartera de piel para documentos del coche  de la marca Interhome'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NSPTW9O/?tag=tolees-21'
 descuento: '26.37'
 average: '13.99'

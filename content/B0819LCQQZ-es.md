@@ -16,6 +16,7 @@ comparePrice: 16 EUR
 prodname: 'Luces de Cadena DazSpirit LED Photo Clip Para Habitación  USB y Batería 100 LED 10M con 50 Decoraciones de Clip de Plástico Transparente para Interiores  Hogar  Bodas  Dormitorios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0819LCQQZ/?tag=tolees-21'
 descuento: '37.81'
 average: '9.95'

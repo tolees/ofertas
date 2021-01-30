@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'PUMA Studio Porcelain Bra Sujetador Deportivo  Mujer  Black  XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XDZGGR2/?tag=tolees-21'
 descuento: '39.95'
 average: '23.99'

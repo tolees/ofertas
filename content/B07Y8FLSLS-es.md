@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Gioseppo Livermore  Zapatillas sin Cordones para Mujer  Multicolor  Leopardo Leopardo   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y8FLSLS/?tag=tolees-21'
 descuento: '37.03'
 average: '40.9'

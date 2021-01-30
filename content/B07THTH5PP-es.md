@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'E·Durable 5 pcs Kit de herramientas de reparación en el hogar con alicate combinado cuchillo de utilidad  destornillador Phillips y destornillador de punta estándar  kit de herramientas de mano DIY'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07THTH5PP/?tag=tolees-21'
 descuento: '26.39'
 average: '11.77'

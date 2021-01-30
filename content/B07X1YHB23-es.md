@@ -16,6 +16,7 @@ comparePrice: 56.95 EUR
 prodname: 'Yves Saint Laurent YSL Libre EPV  50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X1YHB23/?tag=tolees-21'
 descuento: '29.85'
 average: '39.95'

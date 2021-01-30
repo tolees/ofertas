@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Bolsas Vacio Ropa Bolsas de Almacenaje al Vacío Bolsas Envasar al Vacio Bolsa de vacío Ahorra Espacio  40x60 3ud  60x80 3ud  para Guardar Ropa  Ropa de Cama Almohadas de viaje  Mantas incluyen bomba'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VVNRPY1/?tag=tolees-21'
 descuento: '53.35'
 average: '13.99'

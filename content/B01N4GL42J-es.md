@@ -16,6 +16,7 @@ comparePrice: 4.49 EUR
 prodname: 'Finish Ambientador para lavavajillas fragancia limón - 2 unidades - 120 lavados'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N4GL42J/?tag=tolees-21'
 descuento: '38.75'
 average: '2.998'

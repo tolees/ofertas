@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Plastificadora A4 A5 A7  ABOX Pixseal II Máquina para Plastificar en Frío y Caliente 350mm por min con Función ABS  Cortador de Papel  Redondeador de Esquina y 20 Fundas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZGYCN22/?tag=tolees-21'
 descuento: '50.01'
 average: '54.222142857142835'

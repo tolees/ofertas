@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Gant Leisha  Zapatillas para Mujer  Amarillo  Light Yellow G301   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TYQX7SS/?tag=tolees-21'
 descuento: '61.19'
 average: '31.03'

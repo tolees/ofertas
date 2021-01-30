@@ -16,6 +16,7 @@ comparePrice: 8.65 EUR
 prodname: 'Uniqueheart Home Kitchen Baking Accessories Easy Clean Nonstick Cooling Rack Mesh Grid Baking Cookie Biscuit Cake Drying Stand'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CH14K3L/?tag=tolees-21'
 descuento: '57.69'
 average: '3.66'

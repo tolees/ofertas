@@ -16,6 +16,7 @@ comparePrice: 6.0 EUR
 prodname: 'Key chain Pop Tomb Raider Llavero Funko Lara Croft  Color Mulitcolor  32394 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFBSH1H/?tag=tolees-21'
 descuento: '34.17'
 average: '3.95'

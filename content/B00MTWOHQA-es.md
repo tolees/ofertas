@@ -16,6 +16,7 @@ comparePrice: 89 EUR
 prodname: 'Timex Reloj de Pulsera T49983'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MTWOHQA/?tag=tolees-21'
 descuento: '26.65'
 average: '63.246249999999996'

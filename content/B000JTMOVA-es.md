@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'Kensington 56146 Reposapiés Ergonómico Ajustable SoleMate Plus  Mejora la Postura y Alivia Dolores Relacionados con la Ciática y otros Problemas Ortopédicos  Negro/Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000JTMOVA/?tag=tolees-21'
 descuento: '43.11'
 average: '45.36333333333334'

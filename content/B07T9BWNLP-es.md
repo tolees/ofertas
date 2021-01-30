@@ -16,6 +16,7 @@ comparePrice: 899.0 EUR
 prodname: 'YESKAMO Kit Cámaras de Vigilancia Wifi Exterior 8 Canales con 4 Cámaras Wifi 1080p Full HD y 2.0 Megapíxele  CCTV Cámaras IP de Videovigilancia con Disco Duro de 2TB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T9BWNLP/?tag=tolees-21'
 descuento: '60.07'
 average: '359.0'

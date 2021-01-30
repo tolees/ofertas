@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Familybox Aceitera Botella Antigoteo 400ML  Vinagre Botella de Aceite Oliva Cristal Dispensador con Pico de Acero Inoxi y Cepillo Aceite de Oliva para Cocinar Ensalada BBQ'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W21TGVB/?tag=tolees-21'
 descuento: '35.02'
 average: '12.015'

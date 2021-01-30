@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'Panama Jack Fedro  Botas Estilo Motero para Hombre  Negro  Negro C3   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004XC5HFO/?tag=tolees-21'
 descuento: '48.76'
 average: '91.72'

@@ -16,6 +16,7 @@ comparePrice: 67.05 EUR
 prodname: 'Safety 1st RAINBOW  Black Chic  - Silla de paseo  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KK3BHQP/?tag=tolees-21'
 descuento: '29.60'
 average: '47.2'

@@ -16,6 +16,7 @@ comparePrice: 8.43 EUR
 prodname: 'Funko Pop! - Llavero de Vinilo Jon Snow  14690-PDQ '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072DXSX19/?tag=tolees-21'
 descuento: '29.42'
 average: '4.785714285714285'

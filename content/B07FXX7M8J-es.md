@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Levi s 502 Regular Taper Jeans  Azul  Rock Cod 0280   34W / 36L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FXX7M8J/?tag=tolees-21'
 descuento: '56.70'
 average: '45.0325'

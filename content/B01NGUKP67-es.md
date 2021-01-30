@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-STAR RAW Rovic Mid Waist Skinny Pantalones  Verde  Forest Night 5126-5163   27W / 34L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NGUKP67/?tag=tolees-21'
 descuento: '50.01'
 average: '49.97'

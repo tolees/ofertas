@@ -16,6 +16,7 @@ comparePrice: 16.65 EUR
 prodname: 'Oral-B 3DWhite Cabezales De Recambio - Pack De 3 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0043M4XWM/?tag=tolees-21'
 descuento: '34.23'
 average: '11.616666666666665'

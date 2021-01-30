@@ -16,6 +16,7 @@ comparePrice: 5.99 EUR
 prodname: 'Max Factor Skin Match Blush  Colorete Tono 0075- 8.25 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TYZR8YK/?tag=tolees-21'
 descuento: '54.92'
 average: '2.7'

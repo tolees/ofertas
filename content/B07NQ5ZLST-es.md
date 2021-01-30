@@ -16,6 +16,7 @@ comparePrice: 36.81 EUR
 prodname: 'Kinder Fluff Parasol para Parabrisas de Coche  210T  Protección Solar Definitiva  Furgonetas y Camiones - Parasol para Ventana Delantera  Bloqueador de Rayos UV y Mantiene tu Choche Fresco - 2 piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NQ5ZLST/?tag=tolees-21'
 descuento: '56.59'
 average: '15.98'

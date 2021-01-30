@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: '4 Pack cinturón de seguridad ajustable perro de mascota gato  yucool seguridad Leads vehículo coche arnés asiento Tether  nailon textil negro  azul  rojo  morado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074PRVJH1/?tag=tolees-21'
 descuento: '59.66'
 average: '4.581111111111111'

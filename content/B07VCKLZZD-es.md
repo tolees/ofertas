@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Hugo Boss Reloj Analógico para Hombre de Cuarzo con Correa en Cuero 1513726'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VCKLZZD/?tag=tolees-21'
 descuento: '50.08'
 average: '99.34'

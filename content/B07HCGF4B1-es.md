@@ -16,6 +16,7 @@ comparePrice: 509.99 EUR
 prodname: 'Braun Series 9 9292 Clean&Charge Afeitadora Eléctrica Hombre  Afeitadora Barba  Estación de Limpieza y Carga Clean&Charge y Funda para Viaje  Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HCGF4B1/?tag=tolees-21'
 descuento: '47.82'
 average: '253.04500000000002'

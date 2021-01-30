@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Motorola Moto E4 - Smartphone Libre de 5" HD  2.800 mAh de batería  cámara de 8 MP  2 GB de RAM + 16 GB de Almacenamiento  procesador Quad-Core de 1.3 GHz  Color Dorado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071ZLN3H5/?tag=tolees-21'
 descuento: '36.24'
 average: '95.37227272727274'

@@ -16,6 +16,7 @@ comparePrice: 109.95 EUR
 prodname: 'PUMA LQDCELL Origin Tech  Zapatillas de Running para Hombre  White-Peacoat  42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFY13PZ/?tag=tolees-21'
 descuento: '70.16'
 average: '32.81'

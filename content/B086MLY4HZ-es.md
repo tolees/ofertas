@@ -16,6 +16,7 @@ comparePrice: 23.36 EUR
 prodname: 'YO-HAPPY Albornoces recién Nacidas  Cuidado del bebé  Suave'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086MLY4HZ/?tag=tolees-21'
 descuento: '50.00'
 average: '11.68'

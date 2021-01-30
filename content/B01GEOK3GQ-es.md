@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'SILVERHT 111933340199 - Teclado Plegable Doble para Tablet'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GEOK3GQ/?tag=tolees-21'
 descuento: '27.51'
 average: '31.67'

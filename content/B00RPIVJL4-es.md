@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'adidas Zx Flux  Zapatillas Unisex para Niños  Negro  Black/black/footwear White 0   29 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00RPIVJL4/?tag=tolees-21'
 descuento: '66.80'
 average: '23.22'

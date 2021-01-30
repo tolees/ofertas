@@ -16,6 +16,7 @@ comparePrice: 3.36 EUR
 prodname: 'Monrodbitt Caja de Banco de energía portátil Banco de batería móvil Powerbank de Respaldo Externo 8400mAh Cargador Universal de USB Conveniente para el teléfono'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2ZKBQ7/?tag=tolees-21'
 descuento: '29.76'
 average: '2.36'

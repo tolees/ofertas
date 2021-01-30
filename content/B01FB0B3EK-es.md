@@ -16,6 +16,7 @@ comparePrice: 8.49 EUR
 prodname: 'La Pajarita Cera Incolora / Solida Natural 100ML Especial Chalk Paint'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FB0B3EK/?tag=tolees-21'
 descuento: '53.47'
 average: '3.95'

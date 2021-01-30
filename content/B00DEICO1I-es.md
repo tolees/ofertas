@@ -16,6 +16,7 @@ comparePrice: 44.69 EUR
 prodname: 'Marvel Character World Disney Comics - Juego de Funda de edredón Doble  Reversible  Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DEICO1I/?tag=tolees-21'
 descuento: '32.00'
 average: '30.39'

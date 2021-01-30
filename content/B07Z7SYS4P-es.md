@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Charminer Pelota de Juguete al Aire Libre para Perros  Juguete Multifuncional para mordedura de Molar para Mascotas  Juguete de Bola de Perro de Estilo de Ventosa Resistente a la masticación'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z7SYS4P/?tag=tolees-21'
 descuento: '33.36'
 average: '13.716666666666669'

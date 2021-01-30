@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Belkin - Cable de audio de 3.5 mm con conector Lightning  cable de Lightning a auxiliar para iPhone 11  11 Pro  11 Pro Max  XS  XS Max  XR  X  SE  8/8 Plus  certificación MFi  1.8 m   negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CXW9LD9/?tag=tolees-21'
 descuento: '42.87'
 average: '19.99'

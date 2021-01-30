@@ -16,6 +16,7 @@ comparePrice: 16.95 EUR
 prodname: 'Desigual Skirt Denver Leggings  Negro  Negro 2000   4 años para Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N8C7F4P/?tag=tolees-21'
 descuento: '64.48'
 average: '6.02'

@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Poyet 21XL Remanufacturado Cartucho de tinta Reemplazo para HP 21XL HP21 XL HP 21 Alto rendimiento Cartucho de tinta  2 Negro  C9351A Compatible con HP Deskjet 3940 D1530 F2280 D2360 D2460 D1460 F2180'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BZCS5WC/?tag=tolees-21'
 descuento: '32.58'
 average: '23.59'

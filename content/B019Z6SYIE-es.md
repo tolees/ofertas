@@ -16,6 +16,7 @@ comparePrice: 5.99 EUR
 prodname: 'Tombow WS-BS Fudenosuke - Pluma escobilla  punta blanda  tinta negra'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B019Z6SYIE/?tag=tolees-21'
 descuento: '48.25'
 average: '3.39'

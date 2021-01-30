@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'Columbia Caldorado III Outdry  Zapatillas de Running para Asfalto para Mujer  Azul  Deep Ocean  Red 458   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JKB18LB/?tag=tolees-21'
 descuento: '81.47'
 average: '25.94'

@@ -16,6 +16,7 @@ comparePrice: 2.09 EUR
 prodname: 'Almirón Galletitas sin gluten a partir de los 4 meses 180g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YQF3G7F/?tag=tolees-21'
 descuento: '35.89'
 average: '1.685'

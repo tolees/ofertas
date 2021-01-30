@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Merrell Terran Lattice Ii Tira de tobillo para Mujer  Marrón  Dark Earth   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00YDIUHHG/?tag=tolees-21'
 descuento: '35.35'
 average: '55.64333333333334'

@@ -16,6 +16,7 @@ comparePrice: 98.59 EUR
 prodname: 'Under Armour UA HOVR Rise  Zapatillas Deportivas para Interior para Hombre  Rojo  Martian Red/Gray Flux/Martian Red   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2S1D8Z/?tag=tolees-21'
 descuento: '50.01'
 average: '49.29'

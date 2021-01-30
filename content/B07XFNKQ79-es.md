@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'HBselect Sujetador Lactancia Sostén De Maternidad con Almohadillas Desmontable Fácil De Desabrochar para Dar El Pecho'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XFNKQ79/?tag=tolees-21'
 descuento: '45.01'
 average: '21.99'

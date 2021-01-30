@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Trixie  Divisorio para el Coche  Metálico  Ajustable 85-140/ 75-110 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00140TTTS/?tag=tolees-21'
 descuento: '44.96'
 average: '23.212'

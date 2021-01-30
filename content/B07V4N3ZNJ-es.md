@@ -16,6 +16,7 @@ comparePrice: 94.9 EUR
 prodname: 'Tommy Hilfiger Iconic Material Mix Runner  Zapatillas para Hombre  Gris  Antique Silver PRT   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V4N3ZNJ/?tag=tolees-21'
 descuento: '39.99'
 average: '56.95'

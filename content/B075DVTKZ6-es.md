@@ -16,6 +16,7 @@ comparePrice: 15.29 EUR
 prodname: 'Prozis Zero Snack Barra Rico En Proteína y Bajo en Hidratos de Carbono y Azúcares  Galletas y Crema - 12 x 35 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075DVTKZ6/?tag=tolees-21'
 descuento: '29.82'
 average: '10.825'

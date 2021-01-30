@@ -16,6 +16,7 @@ comparePrice: 12.5 EUR
 prodname: 'Bourjois Velvet The Lipstick Barra de Labios Tono 33  2.5 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082MWT5JJ/?tag=tolees-21'
 descuento: '58.08'
 average: '5.24'

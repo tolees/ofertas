@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'El Ganso Casual 1 Polo  Rojo  Rojo 0005   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PPJMWGX/?tag=tolees-21'
 descuento: '66.47'
 average: '22.673333333333336'

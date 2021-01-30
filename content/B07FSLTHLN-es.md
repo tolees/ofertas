@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Un Maui Step  Mocasines para Mujer  Blanco  White Leather-   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FSLTHLN/?tag=tolees-21'
 descuento: '70.58'
 average: '29.41'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'NETUM Handheld Laser Barcode Scanner 1D Lector de Escáner de Código de Barras con Cable USB aplicaciones en supermercados  farmacias  panaderías  bibliotecas  tiendas  NT-M1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FQTAOKA/?tag=tolees-21'
 descuento: '56.69'
 average: '12.99'

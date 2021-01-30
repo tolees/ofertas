@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'GoPro Bodyboard Mount - Soporte para Cámara Gopro de 3.8 cm a 8.8 cm  Color Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KCX8E1C/?tag=tolees-21'
 descuento: '51.68'
 average: '15.64'

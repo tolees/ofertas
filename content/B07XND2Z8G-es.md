@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'LUDOS Turbo Auriculares con Micrófono y Graves  Cascos Ergonómicos  con Espuma Viscoelástica  Cable Duradero Earphones para Mi  Xiaomi  iPhone  Samsung  Huawei  Ordenador  Portátil  PC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XND2Z8G/?tag=tolees-21'
 descuento: '50.10'
 average: '14.97'

@@ -16,6 +16,7 @@ comparePrice: 56.4 EUR
 prodname: 'Mannesmann - M29057 - Juego de herramientas 57 piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005I4P2CY/?tag=tolees-21'
 descuento: '31.99'
 average: '36.85599999999999'

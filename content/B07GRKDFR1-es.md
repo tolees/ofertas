@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'The Division 2: Dark Zone - Collector s Edition'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GRKDFR1/?tag=tolees-21'
 descuento: '66.71'
 average: '63.92666666666666'

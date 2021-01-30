@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Leotec Hardy Life VERDE'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DZMCX28/?tag=tolees-21'
 descuento: '31.53'
 average: '25.58666666666667'

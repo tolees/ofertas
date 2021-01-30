@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Bolsa de Lino con Cordón KATOOM 24pcs Bolsitas de Tela Saco Fiesta Reutilizables para Bodas Joyas Regalos Carbón Café Azúcar Cacao Especias Cadenas Pulsera Reloje Moneda Tarjeta Fiesta Manualidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XCZM5ZR/?tag=tolees-21'
 descuento: '50.11'
 average: '10.97'

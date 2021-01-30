@@ -16,6 +16,7 @@ comparePrice: 17.95 EUR
 prodname: 'Disney Pijamas de Manga Corta para niñas Dumbo Azul 8-9 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PVDCLK1/?tag=tolees-21'
 descuento: '33.43'
 average: '11.95'

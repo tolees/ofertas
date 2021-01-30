@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Clarks Boot  Botas Desert para Mujer  Marrón Chestnut Leather  38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1JBNSY/?tag=tolees-21'
 descuento: '80.61'
 average: '27.14'

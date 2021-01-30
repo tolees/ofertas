@@ -16,6 +16,7 @@ comparePrice: 58.31 EUR
 prodname: 'HUAWEI Sonido Stone Portable Bluetooth Speaker CM51  Red'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079NCVBZ9/?tag=tolees-21'
 descuento: '65.87'
 average: '18.916666666666664'

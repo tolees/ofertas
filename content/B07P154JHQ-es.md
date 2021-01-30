@@ -16,6 +16,7 @@ comparePrice: 39.09 EUR
 prodname: 'deAO Cocinita Mi Pequeño Chef con Características de Sonidos y Agua Incluye Accesosrios de Cocina  Rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P154JHQ/?tag=tolees-21'
 descuento: '61.40'
 average: '16.425'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Xnuoyo 10000mAh Mini Power Bank Diseño de Espejo Cargador Portátil de Alta Capacidad Batería Externa con Indicador LCD Entrada Micro&Tipo-C y Salida USB Doble Compatible con Smartphones'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V55SSGW/?tag=tolees-21'
 descuento: '60.02'
 average: '16.99'

@@ -16,6 +16,7 @@ comparePrice: 5.9 EUR
 prodname: 'Kölln Muesli de chocolate - 500 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DN9IN3Q/?tag=tolees-21'
 descuento: '35.59'
 average: '3.815'

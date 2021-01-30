@@ -16,6 +16,7 @@ comparePrice: 39.61 EUR
 prodname: 'Resultado de la Mujer r121 F Soft Shell  Liso  Mujer  Color Azure  tamaño XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZNUXM5/?tag=tolees-21'
 descuento: '71.93'
 average: '11.12'

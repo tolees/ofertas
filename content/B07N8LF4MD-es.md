@@ -16,6 +16,7 @@ comparePrice: 119.9 EUR
 prodname: 'Tommy Hilfiger POPPY BACKPACKMujerBolsos bandoleraNegro  Black  13x40x31 centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N8LF4MD/?tag=tolees-21'
 descuento: '50.00'
 average: '59.95'

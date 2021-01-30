@@ -16,6 +16,7 @@ comparePrice: 9.06 EUR
 prodname: 'BRA Efficient - Asas de Silicona  2 Unidades  Medida paellera  para Efficient con diámetro de 32-40 cm  Color Naranja'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KBOOS76/?tag=tolees-21'
 descuento: '61.81'
 average: '3.46'

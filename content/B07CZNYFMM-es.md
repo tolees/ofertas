@@ -16,6 +16,7 @@ comparePrice: 16.49 EUR
 prodname: 'DURAGADGET Práctico Divisor De Auriculares para Teclado/Piano Digital Yamaha EZ-220 / Yamaha YPT-260 / Yamaha NP-12B / McGrey BK-4910 - Entrada De 3.5mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZNYFMM/?tag=tolees-21'
 descuento: '33.35'
 average: '10.99'

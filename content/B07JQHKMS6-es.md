@@ -16,6 +16,7 @@ comparePrice: 28 EUR
 prodname: 'Under Armour Huddle 2.0 Gorra  Hombre  Verde  OSFA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JQHKMS6/?tag=tolees-21'
 descuento: '39.39'
 average: '20.646666666666665'

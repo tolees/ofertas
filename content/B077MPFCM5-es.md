@@ -16,6 +16,7 @@ comparePrice: 2.45 EUR
 prodname: 'Chocolates Valor  Chocolate Negro 70% con Naranja - 200 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077MPFCM5/?tag=tolees-21'
 descuento: '30.61'
 average: '1.7'

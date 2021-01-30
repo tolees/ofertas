@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Calcetines de Algodón 6 Pares  Multicolor: 4 x negro  2 x gris  EU 43-47 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N8X1W5X/?tag=tolees-21'
 descuento: '50.06'
 average: '19.95'

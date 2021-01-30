@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Women s Secret Print Flower Mesh Pink Sujetador básico  Multicolor  Gama Rosas/Morados 71   95  Tamaño del Fabricante: 95B  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TWXDJSR/?tag=tolees-21'
 descuento: '51.15'
 average: '11.23'

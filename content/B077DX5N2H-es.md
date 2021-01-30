@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Rieker B8762  Zapatillas sin Cordones para Hombre  Azul Pazifik/Amaretto  40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077DX5N2H/?tag=tolees-21'
 descuento: '77.98'
 average: '13.2'

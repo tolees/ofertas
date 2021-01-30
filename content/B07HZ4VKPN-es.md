@@ -16,6 +16,7 @@ comparePrice: 155.0 EUR
 prodname: 'Petusco - Eddie Beige Lona tipo Canvas combinada con Vaqueta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HZ4VKPN/?tag=tolees-21'
 descuento: '35.48'
 average: '100.0'

@@ -16,6 +16,7 @@ comparePrice: 299.95 EUR
 prodname: 'CYBEX Gold - Silla de Paseo Eezy S Twist  Asiento Giratorio 360°  Ultracompacta  desde el Nacimiento hasta 17 kg  aprox. 4 años   Manhattan Grey'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CKY6JW8/?tag=tolees-21'
 descuento: '36.01'
 average: '213.475'

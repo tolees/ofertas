@@ -16,6 +16,7 @@ comparePrice: 169.99 EUR
 prodname: 'Gimbal Estabilizador para Cámaras de Acción - 3-Axis Gimbal Stabilizer Para GoPro Hero 7/6/5/4/3  DJI Osmo Action  Yi Cam 4K  AEE  modo Deportivo Actualizado  12H de Tiempo de Seguimiento de Objeto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VL91K1S/?tag=tolees-21'
 descuento: '41.76'
 average: '99.0'

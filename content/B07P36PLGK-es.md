@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Heston  Zapatillas para Hombre  Negro Black Leather Black  39.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P36PLGK/?tag=tolees-21'
 descuento: '40.03'
 average: '38.95'

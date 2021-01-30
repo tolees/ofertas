@@ -16,6 +16,7 @@ comparePrice: 212.2 EUR
 prodname: 'Festina Reloj de Pulsera F20399/1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F9RNBK9/?tag=tolees-21'
 descuento: '27.86'
 average: '146.89333333333335'

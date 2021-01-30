@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'Beats Auriculares  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HFGLGS7/?tag=tolees-21'
 descuento: '27.48'
 average: '85.57'

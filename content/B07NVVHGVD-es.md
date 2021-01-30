@@ -16,6 +16,7 @@ comparePrice: 11.0 EUR
 prodname: 'Neceser dos compartimentos adaptable a trolley Movom Enjoy'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NVVHGVD/?tag=tolees-21'
 descuento: '27.36'
 average: '7.306666666666667'

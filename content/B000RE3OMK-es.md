@@ -16,6 +16,7 @@ comparePrice: 14.5 EUR
 prodname: 'Brabantia 214585 Barra para Colgar los Utensilios de Cocina  Acero Inoxidable  Gris y Negro  0 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000RE3OMK/?tag=tolees-21'
 descuento: '32.48'
 average: '9.79'

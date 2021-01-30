@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'American Tourister- Funshine spinner 4 ruedas  55/20 equipaje de mano  azul  orion blue   S  55cm-36L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CZUVM36/?tag=tolees-21'
 descuento: '25.16'
 average: '63.31'

@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Onnea 5 Pares Pendientes Aro de Acero Inoxidable para Mujer Oro Plata Oro Rosa  Diámetro 10 mm 12 mm 14 mm 16 mm 18 mm  Plata '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VRNR64N/?tag=tolees-21'
 descuento: '33.36'
 average: '9.99'

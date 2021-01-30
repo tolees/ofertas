@@ -16,6 +16,7 @@ comparePrice: 2.94 EUR
 prodname: 'Tamaño portátil 2M Cable USB Tipo C Duradero Cable de transmisión de Datos Cable de sincronización de Datos Línea de Cable para teléfono Tipo C - Rojo - 2M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B63KKDS/?tag=tolees-21'
 descuento: '35.03'
 average: '1.91'

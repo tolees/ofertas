@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Iridium Labs Cerberus Suplemento - 60 Cápsulas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0761YQHB1/?tag=tolees-21'
 descuento: '49.29'
 average: '17.75'

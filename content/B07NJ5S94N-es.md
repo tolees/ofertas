@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Casio Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable MTS-100D-2AVEF'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJ5S94N/?tag=tolees-21'
 descuento: '47.56'
 average: '44.908'

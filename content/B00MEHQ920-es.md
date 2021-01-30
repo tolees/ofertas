@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Panasonic ER-GB70-S503 Recortadora WET&DRY para hombre 3 en 1 con Peine-Guía  Cabello  Barba y Cuerpo  Recargable  Acero inoxidable  40 Longitudes  2 Peines incluidos  Indicador LED - Color Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MEHQ920/?tag=tolees-21'
 descuento: '45.67'
 average: '46.53'

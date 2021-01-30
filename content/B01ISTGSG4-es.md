@@ -16,6 +16,7 @@ comparePrice: 275.0 EUR
 prodname: 'Bosch Serie | 6 EasyComfort TDS6040 - Centro de planchado  2.400 W  5.8 bares de presión  color blanco y negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ISTGSG4/?tag=tolees-21'
 descuento: '48.36'
 average: '142.83333333333334'

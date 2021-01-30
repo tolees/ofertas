@@ -16,6 +16,7 @@ comparePrice: 10.78 EUR
 prodname: 'Cuchara de Oreja Visible con LED Iluminado para Niños Kit de Cuidado de Oído'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XWVN3FG/?tag=tolees-21'
 descuento: '44.43'
 average: '5.99'

@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Galapara Bebedero Gatos  Automático de la Fuente de Agua del Gato Bebedor de Mascotas eléctrico Cuenco Dispensador Fuente silencioso para Gatos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SZT4TR9/?tag=tolees-21'
 descuento: '26.10'
 average: '16.99'

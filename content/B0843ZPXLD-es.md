@@ -16,6 +16,7 @@ comparePrice: 11.49 EUR
 prodname: 'Skip Liquido Ultimate Triple Poder Máxima Eficacia 2750 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0843ZPXLD/?tag=tolees-21'
 descuento: '47.35'
 average: '6.05'

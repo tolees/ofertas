@@ -16,6 +16,7 @@ comparePrice: 11.22 EUR
 prodname: 'Beaphar pipetas repelentes  Perro pequeño  3 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00O4BC6D0/?tag=tolees-21'
 descuento: '30.57'
 average: '8.279'

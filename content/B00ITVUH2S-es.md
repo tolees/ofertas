@@ -16,6 +16,7 @@ comparePrice: 9.32 EUR
 prodname: 'Wd-40 34302 Lubricante  Color unico  200ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ITVUH2S/?tag=tolees-21'
 descuento: '49.03'
 average: '4.75'

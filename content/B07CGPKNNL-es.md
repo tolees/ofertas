@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Reloj Deportivos para Niños Niño Niña Resistente al Agua Digital Analógico Militares Impermeabl Deportivos Especiales al Aire Libre LED Despertador Multifuncionales  RojoAzul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CGPKNNL/?tag=tolees-21'
 descuento: '80.02'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 145.0 EUR
 prodname: 'Petusco - Judith Amarillo Piel de Vacuno tipo grano y grabado logotipo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J1V4NPN/?tag=tolees-21'
 descuento: '31.03'
 average: '100.0'

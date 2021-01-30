@@ -16,6 +16,7 @@ comparePrice: 119 EUR
 prodname: 'Lacoste Straightset 319 2 Cfa  Zapatillas para Mujer  Blanco Off White 18c  38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9NVPJF/?tag=tolees-21'
 descuento: '73.81'
 average: '31.17'

@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Almohada maBELLA con Cuidado de la Piel y Aromaterapia | Almohada Cervical Ergonómica y Ortopédica | Con Ylang-Ylang y Tecnología Patentada SKIN+ | Ideal para Dormir en Cualquier Posición'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078RRKTPN/?tag=tolees-21'
 descuento: '30.02'
 average: '69.95'

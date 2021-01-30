@@ -16,6 +16,7 @@ comparePrice: 13.0 EUR
 prodname: 'TFA 38.1028.10 Avisador de Cocina de Metal  Negro  Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005FP2YSG/?tag=tolees-21'
 descuento: '51.00'
 average: '6.37'

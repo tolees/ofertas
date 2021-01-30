@@ -16,6 +16,7 @@ comparePrice: 75.99 EUR
 prodname: 'HOMCOM Chimenea Electrica Vertical 41 5x28x54 8cm 950/1850W Efecto Leña Ardiendo Tipo 5 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K6XOU6U/?tag=tolees-21'
 descuento: '26.32'
 average: '55.99'

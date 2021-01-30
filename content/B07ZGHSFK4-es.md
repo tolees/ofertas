@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'SUPRBIRD Juguete de Cuentas de Niños DIY  Cuentas Coloridas para Hacer Joyas para Niños Pulseras de Bricolaje Cuentas de Collares  550pcs '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZGHSFK4/?tag=tolees-21'
 descuento: '53.35'
 average: '13.99'

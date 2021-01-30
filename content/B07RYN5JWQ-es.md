@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'New Balance 411  Zapatillas de Running para Hombre  Azul  Navy CT   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RYN5JWQ/?tag=tolees-21'
 descuento: '40.38'
 average: '29.81'

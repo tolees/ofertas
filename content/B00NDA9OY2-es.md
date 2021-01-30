@@ -16,6 +16,7 @@ comparePrice: 1229.0 EUR
 prodname: 'Compex SP 8.0 Electroestimulador  Unisex  Negro  0'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NDA9OY2/?tag=tolees-21'
 descuento: '35.00'
 average: '846.5350000000001'

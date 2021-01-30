@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Curación Ungüento  protector de la piel 14 oz  396 g  - Aquaphor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006IB5T4W/?tag=tolees-21'
 descuento: '72.03'
 average: '6.99'

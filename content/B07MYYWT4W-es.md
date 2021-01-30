@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Solar Fuse  Zapatillas Deportivas para Mujer  Negro  Lt Gray Mesh/Duraleather/Hot Pink Trim Bkmt   35.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MYYWT4W/?tag=tolees-21'
 descuento: '36.73'
 average: '46.85'

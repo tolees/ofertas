@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Extracto de Maca Andina Ecológica Premium para 9 meses | 300 comprimidos de 2500mg | Altamente concentrada 10:1 | Aumenta Energía y Vitalidad | Libre de Plástico | Certificación Ecológica Oficial'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R5NC1VH/?tag=tolees-21'
 descuento: '77.12'
 average: '17.563333333333333'

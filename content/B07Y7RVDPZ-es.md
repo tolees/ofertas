@@ -16,6 +16,7 @@ comparePrice: 38.38 EUR
 prodname: 'WOSTOO Estantería de Esquina para Baño Estantería Ducha sin Perforaciones Aluminio Estanteria Baño Ducha con 2 Ganchos Accesorios de Baño y Cocina -2 piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y7RVDPZ/?tag=tolees-21'
 descuento: '37.49'
 average: '23.99'

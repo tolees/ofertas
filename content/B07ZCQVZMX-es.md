@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Compatible con la funda de iPhoneX  silicona flexible ultrafina 2 en 1  protección extrema  soporte para teléfono móvil  funda antiarañazos  doble capa para iPhoneX azul Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZCQVZMX/?tag=tolees-21'
 descuento: '31.60'
 average: '12.99'

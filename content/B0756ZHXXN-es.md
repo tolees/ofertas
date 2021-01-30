@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Globos de Confeti Dorado  12 Pulgadas Globos de Fiesta de Latex Transparentes con Puntos de Confeti de Papel Dorado para Decoraciones de Cumpleaños  Bodas o Fiestas  15 Piezas   globos de oro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0756ZHXXN/?tag=tolees-21'
 descuento: '46.19'
 average: '6.99'

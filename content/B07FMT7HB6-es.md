@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Kickers 584348-10  Botas Unisex bebé  Azul  Marine Foncé Perm 102   30 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FMT7HB6/?tag=tolees-21'
 descuento: '38.15'
 average: '24.12'

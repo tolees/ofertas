@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Wrangler Arizona Pantalones  Azul  Oxford Blue 072   W38/L34  Talla del Fabricante: 38/34  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P6XZQRB/?tag=tolees-21'
 descuento: '79.37'
 average: '14.91'

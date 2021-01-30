@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'PUMA Cilia SD  Zapatillas para Mujer  Black-Calypso Coral Silver White  38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFYM9R9/?tag=tolees-21'
 descuento: '56.88'
 average: '25.85'

@@ -16,6 +16,7 @@ comparePrice: 2.95 EUR
 prodname: 'Rimmel London  rossetto The Only 1 Lipstick  colore Peachy-Beachy'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MEHHC70/?tag=tolees-21'
 descuento: '33.90'
 average: '1.95'

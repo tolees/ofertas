@@ -16,6 +16,7 @@ comparePrice: 4.99 EUR
 prodname: 'PAPEL SEDA LIDERPAPEL VERDE OSCURO 52X76CM 18 GR/M2 PAQUETE DE 25 HOJAS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PDRE628/?tag=tolees-21'
 descuento: '44.09'
 average: '2.6475'

@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Bersigar Hombres de Negocios Casual Sport Design Genuino Correa de Cuero Impermeable Reloj de Pulsera automático'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SD189FL/?tag=tolees-21'
 descuento: '50.00'
 average: '99.99'

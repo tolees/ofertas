@@ -16,6 +16,7 @@ comparePrice: 8.95 EUR
 prodname: 'Cubo de profesional piramidal 3x3.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0771T5CKW/?tag=tolees-21'
 descuento: '27.37'
 average: '6.5'

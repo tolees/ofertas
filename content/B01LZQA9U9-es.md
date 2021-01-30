@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Vents TT-100 TT - Extractor en línea con flujo mixto  100 mm  color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZQA9U9/?tag=tolees-21'
 descuento: '34.71'
 average: '22.82'

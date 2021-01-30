@@ -16,6 +16,7 @@ comparePrice: 23.74 EUR
 prodname: 'Omen Of Sorrow'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C78J1BS/?tag=tolees-21'
 descuento: '57.88'
 average: '14.985'

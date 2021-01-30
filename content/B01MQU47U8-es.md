@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Braun BT3040 - Máquina Cortar Pelo  Recortadora Barba y Cortapelos  con Cuchillas Afiladas de Larga Duración  Negro/Azul  Incluye Maquinilla Gillete Fusion5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MQU47U8/?tag=tolees-21'
 descuento: '34.09'
 average: '33.28916666666666'

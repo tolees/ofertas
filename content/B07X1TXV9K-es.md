@@ -16,6 +16,7 @@ comparePrice: 20.33 EUR
 prodname: 'SIGNATURE PACKAGING Tazas de batido de plástico fuerte con tapas de domos - tazas de batido - ideal para batidos  batidos de leche y bebidas gruesas - 50 paquete de 16 oz'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X1TXV9K/?tag=tolees-21'
 descuento: '36.35'
 average: '12.94'

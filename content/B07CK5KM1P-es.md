@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'Michael Kors Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable MK6588'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CK5KM1P/?tag=tolees-21'
 descuento: '53.41'
 average: '126.52666666666667'

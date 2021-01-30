@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Nike Benassi JDI  Slide Sandal Womens  Black/Vivid Pink/Black  38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002H6BJ3M/?tag=tolees-21'
 descuento: '60.66'
 average: '11.01'

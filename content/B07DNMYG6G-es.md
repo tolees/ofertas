@@ -16,6 +16,7 @@ comparePrice: 79.94 EUR
 prodname: 'Cocinita de juguete Studio BBQ con accesorios  Smoby 311041 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DNMYG6G/?tag=tolees-21'
 descuento: '33.95'
 average: '52.8'

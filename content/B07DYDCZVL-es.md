@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Merrell Trail Glove 5  Zapatillas Deportivas para Interior para Mujer  Azul  Velvet Morning   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DYDCZVL/?tag=tolees-21'
 descuento: '55.00'
 average: '53.99'

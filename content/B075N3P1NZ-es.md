@@ -16,6 +16,7 @@ comparePrice: 4.95 EUR
 prodname: 'BIC Gel-ocity Illusion Recambios para Bolis de Gel Borrables punta media  0 7 mm  – Negro  Blíster de 3 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075N3P1NZ/?tag=tolees-21'
 descuento: '47.27'
 average: '2.61'

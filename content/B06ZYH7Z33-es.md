@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Tommy Hilfiger M2285Axwell 11C1  Zapatillas para Hombre  Negro  Black   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06ZYH7Z33/?tag=tolees-21'
 descuento: '34.94'
 average: '64.99'

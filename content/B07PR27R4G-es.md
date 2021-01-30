@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Under Armour Rush Low Sujetador Deportivo  Mujer  Negro  MD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PR27R4G/?tag=tolees-21'
 descuento: '50.53'
 average: '22.26'

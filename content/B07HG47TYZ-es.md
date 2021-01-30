@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'New Balance 373  Zapatillas para Mujer  Negro  Black/White Black/White   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HG47TYZ/?tag=tolees-21'
 descuento: '67.77'
 average: '28.259999999999998'

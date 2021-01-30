@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Tommy Hilfiger Classic Low Tommy Jeans Sneaker  Zapatillas para Hombre  Negro  Black Bds   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V6TNHS8/?tag=tolees-21'
 descuento: '58.96'
 average: '28.200000000000003'

@@ -16,6 +16,7 @@ comparePrice: 13.98 EUR
 prodname: 'OurLeeme Scooter Bolsa de Almacenamiento  Bolsa Delantera de Gran Capacidad Bolsa para Scooter eléctrico Bolsa Colgante para XiaoMi  Pequeño '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S1TZ82L/?tag=tolees-21'
 descuento: '50.00'
 average: '6.99'

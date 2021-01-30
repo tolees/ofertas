@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Superga 2750 COTU Classic  Zapatillas Unisex  Rosa  Pink Skin W6y   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077PQRP9D/?tag=tolees-21'
 descuento: '58.17'
 average: '24.68'

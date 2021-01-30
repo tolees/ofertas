@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Flex Advantage 3.0  Zapatillas para Hombre  Azul  Navy Mesh/Red Trim Nvrd   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TSQ978H/?tag=tolees-21'
 descuento: '45.03'
 average: '38.45'

@@ -16,6 +16,7 @@ comparePrice: 20.78 EUR
 prodname: 'V7 SB2526-USB-6E Altavoz soundbar Negro - Barra de Sonido  2 5 W  50000 Ω  58 dB  1 m  335 mm  77 mm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N7JKNQD/?tag=tolees-21'
 descuento: '66.75'
 average: '6.91'

@@ -16,6 +16,7 @@ comparePrice: 126.0 EUR
 prodname: 'EXO Lighting - Aplique de pared modelo IV en aluminio IP20 led'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B019HKOJ00/?tag=tolees-21'
 descuento: '64.29'
 average: '45.0'

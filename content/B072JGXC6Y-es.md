@@ -16,6 +16,7 @@ comparePrice: 2130.0 EUR
 prodname: 'Panasonic Lumix DC-GH5L - Cámara EVIL de 20.3 MP  Pantalla de 3.2"  Visor OLED  Estabilizador Dual I.S. 2 5 Ejes  4K  Wi-Fi  Bluetooth  Kit con Objetivo Panasonic LEICA 12 - 60 mm/F2.8-F4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072JGXC6Y/?tag=tolees-21'
 descuento: '28.03'
 average: '1938.4249999999997'

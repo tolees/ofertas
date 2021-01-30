@@ -16,6 +16,7 @@ comparePrice: 28.78 EUR
 prodname: 'non-brand 5X Bandera China del Dragón Al Aire Libre WindsHerramientas de Jardinería Decoración Exterior'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FWW265M/?tag=tolees-21'
 descuento: '44.44'
 average: '15.99'

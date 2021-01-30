@@ -16,6 +16,7 @@ comparePrice: 204.9 EUR
 prodname: 'Asics Gel-Quantum 360 Knit 2 T840n-001  Zapatillas de Entrenamiento para Hombre  Negro  Black/Black 001   48 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D1H5B6G/?tag=tolees-21'
 descuento: '60.96'
 average: '80'

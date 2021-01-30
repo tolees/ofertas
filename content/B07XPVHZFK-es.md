@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Newdora Tapas de Silicona Elásticas  14 Tapas Silicona Ajustables Cocina  Reutilizable Fundas Protectoras para Alimentos Tapa Tazas  Boles o Tarros Tapa del tazón  Lavavajillas  Microonda'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XPVHZFK/?tag=tolees-21'
 descuento: '43.78'
 average: '11.256666666666666'

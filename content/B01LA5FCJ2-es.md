@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'CamelBak 1228401003 Bolsa de hidratación  Unisex  Azul  3 litros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LA5FCJ2/?tag=tolees-21'
 descuento: '27.16'
 average: '32.74'

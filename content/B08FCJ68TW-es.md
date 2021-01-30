@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Camara de Fotos Camara Fotos Full HD 2.7K C de 30MP para Youtube Camaras de Fotos Digital con Tarjeta de Memoria de 32G y 2 Baterías'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FCJ68TW/?tag=tolees-21'
 descuento: '26.93'
 average: '94.99'

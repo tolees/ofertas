@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Bourjois Velvet The Lipstick Barra De Labios Tono 018 Mauve-martre - 23 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GS3RS7G/?tag=tolees-21'
 descuento: '30.65'
 average: '6.9'

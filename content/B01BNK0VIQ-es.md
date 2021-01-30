@@ -16,6 +16,7 @@ comparePrice: 4.9 EUR
 prodname: 'Rimmel Supercurler Mascara Extra Black Podkręcający Tusz do rzęs'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BNK0VIQ/?tag=tolees-21'
 descuento: '30.61'
 average: '3.4'

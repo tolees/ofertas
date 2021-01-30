@@ -16,6 +16,7 @@ comparePrice: 55 EUR
 prodname: 'Under Armour UA W Thrill 3  Zapatillas de Running para Mujer  Negro  Black/Rhino Gray/White 001   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MXXIR3U/?tag=tolees-21'
 descuento: '43.20'
 average: '31.24'

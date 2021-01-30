@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'EVERSEE Bluetooth Beanie Hat  5.0 Bluetooth Hat  Inalámbrico Auricular Gorro con estéreo HD y Mic Incorporado  Sombrero Lavable para Correr para Hombres Regalos  Hombres/Mujeres  Gris Oscuro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VCDHTB5/?tag=tolees-21'
 descuento: '58.01'
 average: '20.99'

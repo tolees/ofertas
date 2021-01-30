@@ -16,6 +16,7 @@ comparePrice: 52.24 EUR
 prodname: 'Oral-B Pro 600 3D White - Cepillo de Dientes Eléctrico con Tecnología Braun'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EPDJ0W2/?tag=tolees-21'
 descuento: '50.56'
 average: '27.183333333333334'

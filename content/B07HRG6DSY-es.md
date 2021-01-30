@@ -16,6 +16,7 @@ comparePrice: 185.0 EUR
 prodname: 'Ultimate Ears Boom 3 Altavoz Portátil Inalámbrico Bluetooth + Base de Carga Power Up  Graves Profundos  Impermeable  Flotante  Conexión Múltiple  Batería de 15 h - Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HRG6DSY/?tag=tolees-21'
 descuento: '43.25'
 average: '117.65666666666667'

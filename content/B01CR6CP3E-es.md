@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'HBL Cruze Junior Shiny'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CR6CP3E/?tag=tolees-21'
 descuento: '50.10'
 average: '24.95'

@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Powerextra Sony NP-FW50 Cargador Inteligente Pantalla LCD Cargador Doble Canal para Batería y Sony Alpha a6500 a6300 a6000 a7s a7 a7s II a7s a5100 a5000 a7r a7 II Digital Cámara'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071JM35RG/?tag=tolees-21'
 descuento: '41.20'
 average: '9.99'

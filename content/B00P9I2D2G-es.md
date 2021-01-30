@@ -16,6 +16,7 @@ comparePrice: 8.54 EUR
 prodname: 'Greentech - Puños Manillar Plano Espuma Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00P9I2D2G/?tag=tolees-21'
 descuento: '42.86'
 average: '4.88'

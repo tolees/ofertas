@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'PUTUO Calcetines Cinco Dedos Mujer Calcetines Invisibles de Algodón  Calcetines 5 Dedos Mujer Calcetines Cortos Bajo con Silicona  5 pares'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CH2BPWM/?tag=tolees-21'
 descuento: '37.94'
 average: '17.99'

@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'adidas VL Court 2.0 CMF C  Zapatillas de Tenis para Unisex Niños  Blanco  Ftwr White/Core Black/Ftwr White   31 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0793HNV7R/?tag=tolees-21'
 descuento: '65.92'
 average: '11.91'

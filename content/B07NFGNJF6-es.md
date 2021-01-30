@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Casio Reloj Analógico para Mujer de Cuarzo con Correa en Cuero SHE-3066PGL-7AUEF'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NFGNJF6/?tag=tolees-21'
 descuento: '51.26'
 average: '64.4588888888889'

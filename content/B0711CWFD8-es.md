@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'SELECTED HOMME Shnstraight-Scott 1002 Rinse St JNS Noos Jeans Rectos  Azul  Dark Blue Denim   W34/L30  Talla del Fabricante: 34  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0711CWFD8/?tag=tolees-21'
 descuento: '58.91'
 average: '28.76'

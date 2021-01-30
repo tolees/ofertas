@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'GUANTE DE NITRILO  AQL 1.5  5gr SIN POLVO  COLOR NEGRO  Mediano  - Caja de 100 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DD2CF69/?tag=tolees-21'
 descuento: '25.23'
 average: '14.88'

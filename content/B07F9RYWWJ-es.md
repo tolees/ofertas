@@ -16,6 +16,7 @@ comparePrice: 145.18 EUR
 prodname: 'San Ignacio Premium Dina - Bateria de cocina de 4 piezas  acero inoxidable  1.9L-2.7L-3.5L-5.1L  apta para todo tipo de cocinas incluido inducción  Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F9RYWWJ/?tag=tolees-21'
 descuento: '72.45'
 average: '44.620000000000005'

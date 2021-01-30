@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'TELMU Telescopio monocular 10X42 para adultos  prisma BAK-4  parche giratorio con visor de rifle de alta resolución y adaptador para teléfono inteligente  para la caza  el campamento  los viajes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083SKPRJB/?tag=tolees-21'
 descuento: '27.60'
 average: '19.689999999999998'

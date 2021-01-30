@@ -16,6 +16,7 @@ comparePrice: 12.06 EUR
 prodname: 'Bioderma Sebium H2O Solución Micelar - 250 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00D10IR1K/?tag=tolees-21'
 descuento: '36.15'
 average: '7.7'

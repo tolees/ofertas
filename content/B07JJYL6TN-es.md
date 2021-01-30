@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'CLA Ácido Linoleico Conjugado 3000 mg por dosis | 180 perlas de Aceite Vegetal de Cártamo  Suministro para 2 meses  | Para Perder peso  Aumentar la musculatura  Quemar grasa y Adelgazar.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JJYL6TN/?tag=tolees-21'
 descuento: '26.15'
 average: '13.87'

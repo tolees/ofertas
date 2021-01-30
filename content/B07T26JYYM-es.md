@@ -16,6 +16,7 @@ comparePrice: 5.72 EUR
 prodname: 'Air Wick Freshmatic Max Ambientador de Recambio Flor - 250 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T26JYYM/?tag=tolees-21'
 descuento: '82.52'
 average: '1.0'

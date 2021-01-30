@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Sabrent Caja de Disco Duro Externo sin Herramientas SATA a USB 3.0 de 2.5 Pulgadas [Optimizado para SSD  Soporte UASP SATA III] Negro  EC-UASP '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OJ3UJ2S/?tag=tolees-21'
 descuento: '27.30'
 average: '8.7375'

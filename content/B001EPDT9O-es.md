@@ -16,6 +16,7 @@ comparePrice: 36.95 EUR
 prodname: 'adidas - Real Madrid 1ª Pantalon 08/09 Hombre Color: Blanco Talla: S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001EPDT9O/?tag=tolees-21'
 descuento: '72.94'
 average: '10.0'

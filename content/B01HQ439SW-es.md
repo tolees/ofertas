@@ -16,6 +16,7 @@ comparePrice: 10.7 EUR
 prodname: 'Bolero Bebida Instantánea sin Azúcar  Sabor Frambuesa - Paquete de 24 x 9 gr - Total: 216 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HQ439SW/?tag=tolees-21'
 descuento: '35.98'
 average: '7.849285714285715'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Brother LC1100HYBK - Cartucho de tinta negro de larga duración  duración estimada: hasta 900 páginas según ISO/IEC 24711 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001DHSYVQ/?tag=tolees-21'
 descuento: '25.28'
 average: '22.41'

@@ -16,6 +16,7 @@ comparePrice: 26.95 EUR
 prodname: 'Eastpak SPRINGER Riñonera interior  23 cm  2 liters  Azul  Humble Blue '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KY9BSSD/?tag=tolees-21'
 descuento: '37.11'
 average: '11.382'

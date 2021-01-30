@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'NAME IT Nkmhonk UNB Swe Long Shorts Noos Pantalones Cortos  Negro  Black Black   122 para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078HDQ5L7/?tag=tolees-21'
 descuento: '34.96'
 average: '11.05'

@@ -16,6 +16,7 @@ comparePrice: 160.0 EUR
 prodname: 'Clarks Un Tread UpGTX  Botas clásicas. para Hombre  Piel Negra Negra  46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MSKD2S1/?tag=tolees-21'
 descuento: '81.98'
 average: '28.44'

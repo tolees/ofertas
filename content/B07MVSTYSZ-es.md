@@ -16,6 +16,7 @@ comparePrice: 17.95 EUR
 prodname: 'Cerdá 8427934274819 Toalla Poliéster LOL  Azul  113 x 108 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVSTYSZ/?tag=tolees-21'
 descuento: '64.62'
 average: '6.35'

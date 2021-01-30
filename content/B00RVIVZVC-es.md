@@ -16,6 +16,7 @@ comparePrice: 110.99 EUR
 prodname: 'Colocado Directamente Bajo el Agua Roleadro 54W Luz de Piscina con Control Remoto IP68 Sumergible Led para Piscinas Multicolor Luz RGB Wall Mounted [AC/DC 12-24V]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00RVIVZVC/?tag=tolees-21'
 descuento: '27.93'
 average: '79.99'

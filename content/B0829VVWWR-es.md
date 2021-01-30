@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Termómetro médico de Fieberthermometer por infrarrojos de Wohlman  para bebés  niños  adultos  superficie del cuerpo y espacio  frente y oído  termómetro de fiebre  función de memoria  1 segundo  medición de la edad  selección magnética'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0829VVWWR/?tag=tolees-21'
 descuento: '33.34'
 average: '59.99'

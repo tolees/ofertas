@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Pre-Workout X6 | Potente Pre-entreno Ultra Concentrado | Beta Alanina + L-Arginina AAKG + Creatina + Cafeína + Taurina | Potencia el desarrollo muscular  la resistencia y fuerza | Sabor sandía'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TMCRDGC/?tag=tolees-21'
 descuento: '33.50'
 average: '17.45'

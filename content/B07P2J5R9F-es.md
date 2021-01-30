@@ -16,6 +16,7 @@ comparePrice: 8.95 EUR
 prodname: 'Control Lub Chocolate - Gel lubricante sin azúcar ni parabenos con sabor a chocolate  75 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P2J5R9F/?tag=tolees-21'
 descuento: '28.60'
 average: '6.39'

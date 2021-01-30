@@ -16,6 +16,7 @@ comparePrice: 71.99 EUR
 prodname: 'ART VVIES Mit Haken Wandbild 20x20 Zoll Neugeborenen Kleines Kind Junge Person Lächelt Küche Holz Gerahmte Leinwand für Hauptdekorationen Kunst Malerei'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082HBG3J6/?tag=tolees-21'
 descuento: '55.56'
 average: '31.99'

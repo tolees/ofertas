@@ -16,6 +16,7 @@ comparePrice: 45.59 EUR
 prodname: 'Juego de herramientas de 65 piezas DEKO Kit de herramientas de mano para el hogar en general con caja de almacenamiento de plástico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PPD6QK7/?tag=tolees-21'
 descuento: '42.99'
 average: '25.99'

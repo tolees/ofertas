@@ -16,6 +16,7 @@ comparePrice: 12.76 EUR
 prodname: 'Grafoplás Bits & Bobs  Estuches 3 Compartimentos con Solapa  23 x 10 x 10 cm  Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QFRGDHR/?tag=tolees-21'
 descuento: '29.55'
 average: '8.99'

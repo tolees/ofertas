@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Dafunna Mujer Hombre Gorros de Punto Coleta Beanie Unisex Sombrero Invierno Suave Cálido Elástico Ponytail Beanie Hat  Amarillo Mostaza  Talla única '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GKNBM3M/?tag=tolees-21'
 descuento: '50.03'
 average: '6.390000000000001'

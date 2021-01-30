@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'RUNCCI-YUN 8dBi 2 4 GHz 5 GHz Dual Band WiFi RP-SMA Antena + 2 x 20cm IPEX a RP-SMA Hembra Cable Pigtail l para NGFF/M.2 WiFi'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089DYLZGY/?tag=tolees-21'
 descuento: '41.20'
 average: '9.99'

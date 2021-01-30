@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Yimidear Al Aire Libre Respirable Plegable Bolsa para Mascotas para Perro Gato Cómodo Viaje Talla Mediana Portador de Mascotas  Gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N75ZNY1/?tag=tolees-21'
 descuento: '28.41'
 average: '17.89'

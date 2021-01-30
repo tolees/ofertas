@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'FreedConn Accesorio de Clip de Casco de intercomunicador para T-COMVB y T-COMSC Serie Casco de la Motocicleta Bluetooth Interphone Moto Intercomunicador'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R5JTBBR/?tag=tolees-21'
 descuento: '30.79'
 average: '8.99'

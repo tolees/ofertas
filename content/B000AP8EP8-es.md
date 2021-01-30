@@ -16,6 +16,7 @@ comparePrice: 136.29 EUR
 prodname: 'K&N BM-0300 Filtro de Aire Moto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000AP8EP8/?tag=tolees-21'
 descuento: '42.51'
 average: '78.35'

@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Under Armour UA Charged Intake 4  Zapatillas de Running para Hombre  Negro  Black/White/White   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PYYTZVZ/?tag=tolees-21'
 descuento: '30.31'
 average: '69.66'

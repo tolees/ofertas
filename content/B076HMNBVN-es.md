@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'adidas Core18 PES Pnt Pantalones de Deporte  Hombre  Azul  Azul/Blanco   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076HMNBVN/?tag=tolees-21'
 descuento: '37.05'
 average: '16.729999999999997'

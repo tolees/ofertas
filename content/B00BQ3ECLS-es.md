@@ -16,6 +16,7 @@ comparePrice: 19.5 EUR
 prodname: 'Easy-Macro - Macro + 4 - Objetivo Macro + 4 montado sobre un Pulsera para Smartphone/Tablet - Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BQ3ECLS/?tag=tolees-21'
 descuento: '30.77'
 average: '13.5'

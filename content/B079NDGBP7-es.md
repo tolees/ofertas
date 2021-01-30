@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Huawei P20 Lite - Funda flip  negra'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079NDGBP7/?tag=tolees-21'
 descuento: '60.38'
 average: '11.595'

@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Solar Fuse  Zapatillas para Mujer  Black Mesh/White & Gum Trim Gy Bl  5.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MYZ52XV/?tag=tolees-21'
 descuento: '50.95'
 average: '31.86'

@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Sense Strap  Sandalia con Pulsera para Mujer  Beige  Praline Leather Praline Leather   35.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TNZMDD5/?tag=tolees-21'
 descuento: '82.08'
 average: '17.91'

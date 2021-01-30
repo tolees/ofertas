@@ -16,6 +16,7 @@ comparePrice: 1499.99 EUR
 prodname: 'MEDION MD61178 - Ordenador portátil de 15.6" Full HD  Intel Core i7-8750H  RAM de 16 GB DDR4  SSD de 256 GB y 1 TB HDD  Nvidia GTX 1060 6 GB GDDR5  Windows 10  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JVTF1XP/?tag=tolees-21'
 descuento: '40.00'
 average: '947.9933333333333'

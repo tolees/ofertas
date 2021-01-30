@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'South Park: Retaguardia En Peligro - Collector s Edition'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HDUAHQG/?tag=tolees-21'
 descuento: '28.06'
 average: '71.95833333333333'

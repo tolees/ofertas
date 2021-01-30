@@ -16,6 +16,7 @@ comparePrice: 12.9 EUR
 prodname: 'Aura DVBT 50 Aquarius - Sintonizador de TV'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00W8UTRGS/?tag=tolees-21'
 descuento: '46.51'
 average: '11.843333333333334'

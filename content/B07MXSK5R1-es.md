@@ -16,6 +16,7 @@ comparePrice: 199.95 EUR
 prodname: 'Gb Gold Pockit Air All Terrain - Silla de Paseo  Ultracompacta  De 6 Meses a 4 años  17 kg  Night Blue'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MXSK5R1/?tag=tolees-21'
 descuento: '29.56'
 average: '140.85'

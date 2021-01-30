@@ -16,6 +16,7 @@ comparePrice: 8.5 EUR
 prodname: 'Philips Avent SCF169/27 - Set de 2 chupetes Gama Safari  de 6 a 18 meses  diseño mono o rinoceronte  para niño'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N5WW8L0/?tag=tolees-21'
 descuento: '40.35'
 average: '5.575714285714286'

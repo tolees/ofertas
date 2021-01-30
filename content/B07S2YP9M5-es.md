@@ -16,6 +16,7 @@ comparePrice: 41.99 EUR
 prodname: 'BESCHOI Plancha de Pelo Profesional  Revestimiento de Turmalina y Cerámica  Digital Suspensión 3D Proteína Vegetal Alisados Ondas y Rizos Naturales'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S2YP9M5/?tag=tolees-21'
 descuento: '39.30'
 average: '26.99'

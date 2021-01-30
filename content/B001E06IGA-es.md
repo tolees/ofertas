@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Nike Force 1  PS   Zapatillas de Baloncesto para Niños  Negro  Black/Black/Black 009   28 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001E06IGA/?tag=tolees-21'
 descuento: '42.82'
 average: '31.45'

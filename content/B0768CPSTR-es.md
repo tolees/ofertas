@@ -16,6 +16,7 @@ comparePrice: 9.18 EUR
 prodname: 'Coche Cinturón De Seguridad Ajustador Cinturón de Seguridad para Niños Seguridad Triángulo Ajustador pantalla azul 1 pcs  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0768CPSTR/?tag=tolees-21'
 descuento: '50.00'
 average: '4.59'

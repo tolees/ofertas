@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'New Balance Hombre U420 Sneaker  Vino tinto   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HG1X46K/?tag=tolees-21'
 descuento: '50.76'
 average: '39.39'

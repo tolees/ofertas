@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'IMC Toys- Atrapa Estrellas Juego  Multicolor  97346 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DDDN9MH/?tag=tolees-21'
 descuento: '48.92'
 average: '23.49'

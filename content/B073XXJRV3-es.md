@@ -16,6 +16,7 @@ comparePrice: 175.0 EUR
 prodname: 'Scuderia Ferrari Reloj Análogo clásico para Hombre de Cuarzo con Correa en Silicona 830464'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073XXJRV3/?tag=tolees-21'
 descuento: '46.03'
 average: '94.45'

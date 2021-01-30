@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'Calvin Klein Reloj Digital para Mujer de Cuarzo con Correa en Acero Inoxidable K5N2M121'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00YES7Y2Q/?tag=tolees-21'
 descuento: '45.98'
 average: '134.5'

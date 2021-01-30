@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'adidas Trefoil T-Shirt  Hombre  Power Red  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JNMK19J/?tag=tolees-21'
 descuento: '40.00'
 average: '18.029999999999998'

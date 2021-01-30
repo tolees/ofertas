@@ -16,6 +16,7 @@ comparePrice: 169.0 EUR
 prodname: 'BERING Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable 11927-369'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EYQLC1Q/?tag=tolees-21'
 descuento: '30.00'
 average: '118.3'

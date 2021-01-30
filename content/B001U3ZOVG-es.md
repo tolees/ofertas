@@ -16,6 +16,7 @@ comparePrice: 8.38 EUR
 prodname: 'Cables To Go Mini Gender Changer - Cambiador hembra /hembra  Para Serie - Db-9  H  - Db-9  H '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001U3ZOVG/?tag=tolees-21'
 descuento: '36.63'
 average: '5.54'

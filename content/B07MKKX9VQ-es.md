@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'La Casa de Caramelo - Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MKKX9VQ/?tag=tolees-21'
 descuento: '25.01'
 average: '22.49'

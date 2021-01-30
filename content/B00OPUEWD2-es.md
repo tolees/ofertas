@@ -16,6 +16,7 @@ comparePrice: 61.8 EUR
 prodname: 'iHealth Monitor de Actividad y Sueño - 1 Monitor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OPUEWD2/?tag=tolees-21'
 descuento: '26.52'
 average: '39.20736842105263'

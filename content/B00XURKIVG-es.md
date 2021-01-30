@@ -16,6 +16,7 @@ comparePrice: 20.59 EUR
 prodname: 'Tanqueray London Dry Gin - 1000 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XURKIVG/?tag=tolees-21'
 descuento: '41.77'
 average: '14.976666666666667'

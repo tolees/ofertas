@@ -16,6 +16,7 @@ comparePrice: 12.6 EUR
 prodname: 'Brita Maxtra Plus - Cartucho de Filtro de Agua'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XYSQ7T1/?tag=tolees-21'
 descuento: '36.51'
 average: '8.0'

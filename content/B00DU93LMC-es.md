@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Crocs Jaunt Shorty Boot  Botas de Agua para Mujer  Negro  Black   34/35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DU93LMC/?tag=tolees-21'
 descuento: '30.01'
 average: '29.99'

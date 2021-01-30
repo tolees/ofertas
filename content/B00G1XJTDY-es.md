@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'EZON Optical Pulsómetros Reloj Recargable para Correr Deporte al Aire Libre con Alarma Dual  podómetro  Contador de calorías  cronómetro T043'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00G1XJTDY/?tag=tolees-21'
 descuento: '56.18'
 average: '39.0'

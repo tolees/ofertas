@@ -16,6 +16,7 @@ comparePrice: 681.0 EUR
 prodname: 'Piscina Ultra Frame'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001BJ4FBO/?tag=tolees-21'
 descuento: '30.98'
 average: '470.0'

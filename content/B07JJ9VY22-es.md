@@ -16,6 +16,7 @@ comparePrice: 19.85 EUR
 prodname: 'Ferilinso Cristal Templado para Huawei Mate 20 X [2 Pack] Protector de Pantalla Screen Protector para Huawei Mate 20 X'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JJ9VY22/?tag=tolees-21'
 descuento: '64.69'
 average: '7.01'

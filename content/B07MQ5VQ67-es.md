@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Scotch & Soda Nos Mott-Classic Slim Fit Chino Pantalones  Gris  Grey 97   52  Talla del Fabricante: 33/30  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MQ5VQ67/?tag=tolees-21'
 descuento: '33.11'
 average: '44.895'

@@ -16,6 +16,7 @@ comparePrice: 40.99 EUR
 prodname: 'Remington Dual Curl CI63E1 - Rizador de pelo  Pinza de 19 a 31 mm  Cerámica  Hasta 200 ˚C  Morado y Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00T2XXJCW/?tag=tolees-21'
 descuento: '33.11'
 average: '27.94333333333333'

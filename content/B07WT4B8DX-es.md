@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'HONCENMAX Funda Asiento Coche  Suave Cojín de Asiento  Protección del Asiento de Coche Universales [Sin Respaldo] - 1 Paquete de Cubierta de Asiento Trasera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WT4B8DX/?tag=tolees-21'
 descuento: '65.01'
 average: '27.99'

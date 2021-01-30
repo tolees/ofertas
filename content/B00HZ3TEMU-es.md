@@ -16,6 +16,7 @@ comparePrice: 149.95 EUR
 prodname: 'UGG Male Neumel Classic Boot  Black  13  UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HZ3TEMU/?tag=tolees-21'
 descuento: '34.34'
 average: '103.52709677419355'

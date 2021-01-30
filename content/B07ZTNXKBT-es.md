@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Frozen Believe-Mochila 3D  Pequeña '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZTNXKBT/?tag=tolees-21'
 descuento: '50.38'
 average: '5.95'

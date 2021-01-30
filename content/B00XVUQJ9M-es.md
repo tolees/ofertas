@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Orlane  Crema diurna facial - 130 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XVUQJ9M/?tag=tolees-21'
 descuento: '34.78'
 average: '62.504999999999995'

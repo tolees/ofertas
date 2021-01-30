@@ -16,6 +16,7 @@ comparePrice: 5.99 EUR
 prodname: 'Gazechimp Interruptor de Encendido Tercer Engranaje Pin de Tres Pies Posición de Conmutador Torcer Negro/Rojo - Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06ZYQNP1X/?tag=tolees-21'
 descuento: '65.78'
 average: '2.05'

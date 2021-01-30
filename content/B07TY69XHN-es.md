@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'DONPEREGRINO 55cm Maletas de Cabina Rígidas y Resistentes  Maleta Cabina Avión Full Forrada con 4 Doble-Ruedas 360° Giratorias'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TY69XHN/?tag=tolees-21'
 descuento: '28.01'
 average: '35.99'

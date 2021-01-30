@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Kipling PARAC Bolsa de Aseo  22 cm  4.5 Liters  Azul  Blue Bleu '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V6SWSP7/?tag=tolees-21'
 descuento: '32.15'
 average: '26.46'

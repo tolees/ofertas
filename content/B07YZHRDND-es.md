@@ -16,6 +16,7 @@ comparePrice: 25.89 EUR
 prodname: 'Molinillo sal y pimienta Molinillos de especias Premium Juego de molinillo de sal de acero inoxidable y saleros y pimenteros de cuerpo de vidrio con grosor de cerámica ajustable para cocinar BBQ'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YZHRDND/?tag=tolees-21'
 descuento: '62.96'
 average: '9.59'

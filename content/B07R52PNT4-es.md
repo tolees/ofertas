@@ -16,6 +16,7 @@ comparePrice: 12.5 EUR
 prodname: 'Boston Tech SP1 - Botella de Agua de Acero Inoxidable Sin BPA con Tapón Hermético a Prueba de Fugas. Doble Capa envasado al Vacío Mantiene Las Bebidas frías o Calientes por 24 Horas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R52PNT4/?tag=tolees-21'
 descuento: '36.24'
 average: '7.97'

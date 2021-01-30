@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'American Tourister - Bon Air - Spinner Equipaje de mano 55 cm  32 L  Rosa  Azalea Pink '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079LGLMGR/?tag=tolees-21'
 descuento: '40.00'
 average: '71.3'

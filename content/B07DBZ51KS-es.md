@@ -16,6 +16,7 @@ comparePrice: 86.51 EUR
 prodname: 'LTPAG Bombilla H7 LED Coche  2pcs 72W 12000LM Lampara H7 LED 12V/24V Luces LED Coche H7  Faros Reemplazo de Halógena y Kit Xenón H7  Blanco 6000K  Garantía de 2 años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DBZ51KS/?tag=tolees-21'
 descuento: '61.87'
 average: '31.74625'

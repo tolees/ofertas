@@ -16,6 +16,7 @@ comparePrice: 196.02 EUR
 prodname: 'B&W 77mm F-Pro - Filtro para cámara  7 7 cm  Negro  F-Pro  XS-Pro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OPZGRDA/?tag=tolees-21'
 descuento: '51.79'
 average: '94.5'

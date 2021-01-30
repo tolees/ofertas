@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Smatree Estación de Carga de Baterías Múltiple para dji Spark  Carga 3 baterías simultáneamente  Equivalente a 6 dji Spark baterías'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076VF3LBS/?tag=tolees-21'
 descuento: '30.00'
 average: '69.99'

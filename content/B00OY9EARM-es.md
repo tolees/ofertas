@@ -16,6 +16,7 @@ comparePrice: 55 EUR
 prodname: 'VAUDE Jacke Girls Centipede Jacket - Soft Shell para niña  Color Amarillo  Talla 10 años  140 cm  [DE 134/140]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OY9EARM/?tag=tolees-21'
 descuento: '78.84'
 average: '11.64'

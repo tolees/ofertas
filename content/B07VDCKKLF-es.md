@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Napapijri Elbas 3 Polo  Turquesa  Reef Turquoise I711   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VDCKKLF/?tag=tolees-21'
 descuento: '45.78'
 average: '31.99'

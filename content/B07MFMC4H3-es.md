@@ -16,6 +16,7 @@ comparePrice: 27.47 EUR
 prodname: 'Funko- VYNL 4" 2-Pack: Kingdom Hearts 3: Sora & Heartless Paquete de 2  Multicolor  Talla única  37017 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MFMC4H3/?tag=tolees-21'
 descuento: '38.11'
 average: '16.433333333333334'

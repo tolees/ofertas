@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'Kipling Spontaneous S Equipaje de Mano  53 cm  37.5 litros  Verde  Light Aloe '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V3M7YG5/?tag=tolees-21'
 descuento: '50.00'
 average: '89.5'

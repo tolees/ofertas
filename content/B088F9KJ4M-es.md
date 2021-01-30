@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'AOLUXLM Maquina de Burbujas Juguete para Niños  Soplador de Pistola de Burbujas con Líquido de Burbujas de 130ml  Bubble Machine con Luces LED para Fiesta de Cumpleaños de Baño'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088F9KJ4M/?tag=tolees-21'
 descuento: '28.59'
 average: '9.99'

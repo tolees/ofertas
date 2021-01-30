@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Trust Reno - Auriculares con micrófono para PC  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N9W5EA0/?tag=tolees-21'
 descuento: '34.33'
 average: '10.5'

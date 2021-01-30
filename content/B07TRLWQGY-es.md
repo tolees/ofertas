@@ -16,6 +16,7 @@ comparePrice: 101.01 EUR
 prodname: 'Daniel Wellington Reloj Analógico para Mujer de Cuarzo japonés Correa de la OTAN DW00100313'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TRLWQGY/?tag=tolees-21'
 descuento: '28.72'
 average: '72.0'

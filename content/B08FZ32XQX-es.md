@@ -16,6 +16,7 @@ comparePrice: 19.88 EUR
 prodname: 'LXHGrowH Funda para Xiaomi Redmi 9A - Carcasa Completa Anti-Shock [360°] Full Body Protección [Silicona TPU Frente] y [Duro PC Back] para Xiaomi Redmi 9A - Cover Doble [Transparente]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FZ32XQX/?tag=tolees-21'
 descuento: '54.78'
 average: '8.99'

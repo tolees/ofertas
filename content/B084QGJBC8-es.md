@@ -16,6 +16,7 @@ comparePrice: 2.6 EUR
 prodname: 'Tooth Instant Perfect Smile Flex Blanqueamiento de dientes Smile False Teeth Cover — Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084QGJBC8/?tag=tolees-21'
 descuento: '38.46'
 average: '1.6'

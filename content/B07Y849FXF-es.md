@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'HUYIYI Bolsas para Guardar Ropa Bolsas Vacio Ropa  2Pequeño 2Mediano  2Grande  Bolsas Almacenaje al Vacio Bolsas Envasar al Vacio Bolsas de Compresion  Bomba de Mano Incluida '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y849FXF/?tag=tolees-21'
 descuento: '53.72'
 average: '13.88'

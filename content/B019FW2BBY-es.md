@@ -16,6 +16,7 @@ comparePrice: 19.5 EUR
 prodname: 'HEY JOE - Beard Oil Nº1 CLASSIC JOE 30ml | Aceite para barba 30ml con ARGÁN  JOJOBA y MACADAMIA. Aroma a ESPLIEGO'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B019FW2BBY/?tag=tolees-21'
 descuento: '25.13'
 average: '14.6'

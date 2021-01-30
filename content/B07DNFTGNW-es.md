@@ -16,6 +16,7 @@ comparePrice: 19.49 EUR
 prodname: 'Limpiador de Cepillo de Acero Inoxidable con Mango Usar con Aceite de Trementina Limpiador de Pinceles'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DNFTGNW/?tag=tolees-21'
 descuento: '33.35'
 average: '12.99'

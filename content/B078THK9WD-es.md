@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Edge Entertainment- Arcadia Quest: Infierno - Español  Edge Entertaiment EECMAQ18 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078THK9WD/?tag=tolees-21'
 descuento: '25.00'
 average: '74.96'

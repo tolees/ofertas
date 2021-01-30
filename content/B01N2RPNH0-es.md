@@ -16,6 +16,7 @@ comparePrice: 189.0 EUR
 prodname: 'Gigandet Minimalism Reloj Caballero Dual Time Watch Analógico con Pulsera de Cuero G21-001'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N2RPNH0/?tag=tolees-21'
 descuento: '57.72'
 average: '79.9'

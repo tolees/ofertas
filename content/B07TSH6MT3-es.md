@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'BESTBOMG Plancha de pelo barba flequillo para Los hombres Peine alisador barba alisar funciona fijador peinar Rizador de pelo Multifuncional La rápida enderezadora  Oval '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TSH6MT3/?tag=tolees-21'
 descuento: '76.68'
 average: '13.99'

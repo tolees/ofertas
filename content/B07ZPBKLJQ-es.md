@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'San Ignacio Set 5pc  16 20 24 28cm  sartenes + espátula  aluminio prensado Laredo  Morado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZPBKLJQ/?tag=tolees-21'
 descuento: '26.92'
 average: '25.318333333333335'

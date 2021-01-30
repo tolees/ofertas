@@ -16,6 +16,7 @@ comparePrice: 8.95 EUR
 prodname: 'Revlon Ultra HD Pintalabios Mate  Kisses '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FKL4J64/?tag=tolees-21'
 descuento: '44.47'
 average: '5.0633333333333335'

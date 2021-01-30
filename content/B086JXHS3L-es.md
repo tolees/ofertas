@@ -16,6 +16,7 @@ comparePrice: 25.23 EUR
 prodname: 'iMiMi Kraft Arts rollo de papel para pinturas  1 pieza de arte de pared blanca  caballete  papel de pizarra de anuncios sin decoloración'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086JXHS3L/?tag=tolees-21'
 descuento: '31.83'
 average: '17.2'

@@ -16,6 +16,7 @@ comparePrice: 40.41 EUR
 prodname: 'Cartucho de Tinta Original 912XL  825 páginas  21 7 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VHK418B/?tag=tolees-21'
 descuento: '40.26'
 average: '24.14'

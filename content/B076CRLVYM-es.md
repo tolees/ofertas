@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'American Tourister - Bon Air - Spinner Maleta 75 cm  91 L  Rojo  Magma Red '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076CRLVYM/?tag=tolees-21'
 descuento: '40.00'
 average: '84.0'

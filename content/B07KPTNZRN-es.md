@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Pop! Bobble: Avengers Endgame: Hulk'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KPTNZRN/?tag=tolees-21'
 descuento: '33.36'
 average: '7.855806451612906'

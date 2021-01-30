@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Q-Connect Pizarra Corcho Marco De Madera 60x40 Cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001O3PAA2/?tag=tolees-21'
 descuento: '72.56'
 average: '5.21'

@@ -16,6 +16,7 @@ comparePrice: 19.25 EUR
 prodname: 'Cala para Look con tornillos Look Keo-Grip negro  juego '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001BRVTBK/?tag=tolees-21'
 descuento: '27.32'
 average: '13.99'

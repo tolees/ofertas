@@ -16,6 +16,7 @@ comparePrice: 16.88 EUR
 prodname: 'Suhctup Funda Compatible con Xiaomi Redmi Note 8 Transparente Silicona TPU Gel Carcasa Dibujos Flor Crystal Suave Bumper Ultra Delgado [Soporte Carga Inalámbrica] Antigolpes Case Cover Lace 10'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088M2PX4T/?tag=tolees-21'
 descuento: '52.73'
 average: '7.98'

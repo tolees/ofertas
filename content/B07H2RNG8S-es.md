@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Citizen Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable EL3041-87X'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H2RNG8S/?tag=tolees-21'
 descuento: '35.35'
 average: '62.75076923076924'

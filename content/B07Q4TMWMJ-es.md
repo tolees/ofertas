@@ -16,6 +16,7 @@ comparePrice: 375.0 EUR
 prodname: 'White Patchwork Quilt  King Size quilts for sale  Patchwork Comforter  Soft Throw Blanket House warming gifts  FREE SHIPPING'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q4TMWMJ/?tag=tolees-21'
 descuento: '36.80'
 average: '237.0'

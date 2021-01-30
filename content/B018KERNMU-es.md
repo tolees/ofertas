@@ -16,6 +16,7 @@ comparePrice: 26.95 EUR
 prodname: 'Oral-B Stages Power Kids Cepillo de Dientes Eléctrico con los Personajes de Frozen  Azul  Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018KERNMU/?tag=tolees-21'
 descuento: '25.83'
 average: '20.283636363636365'

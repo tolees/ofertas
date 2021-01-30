@@ -16,6 +16,7 @@ comparePrice: 119.9 EUR
 prodname: 'Corsair Vengeance LPX 16GB  2x8GB  DDR4 3600MHz C18  Módulo de Memoria de Óptimo Rendimiento  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RM39V5F/?tag=tolees-21'
 descuento: '36.04'
 average: '88.18166666666666'

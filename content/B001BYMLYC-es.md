@@ -16,6 +16,7 @@ comparePrice: 7.25 EUR
 prodname: 'TRIXIE Bebedero Viaje con botella  700 ml  Dog on Tour  Perro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001BYMLYC/?tag=tolees-21'
 descuento: '47.17'
 average: '3.6399999999999997'

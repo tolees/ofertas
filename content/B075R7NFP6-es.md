@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Intex 57254EU - Colchoneta hinchable emoji 173 x 27 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075R7NFP6/?tag=tolees-21'
 descuento: '25.85'
 average: '18.5'

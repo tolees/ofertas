@@ -16,6 +16,7 @@ comparePrice: 90.99 EUR
 prodname: 'Merrell Moab 2 GTX  Zapatillas de Senderismo para Hombre  Azul  Navy   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0792BZWY8/?tag=tolees-21'
 descuento: '28.62'
 average: '64.95'

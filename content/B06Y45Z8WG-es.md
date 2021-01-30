@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'American Tourister - Soundbox Spinner Expandible  67cm  71 5/81 L - 3 7 KG  Azul  Midnight Navy '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y45Z8WG/?tag=tolees-21'
 descuento: '30.00'
 average: '112.75'

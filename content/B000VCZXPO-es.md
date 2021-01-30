@@ -16,6 +16,7 @@ comparePrice: 74.95 EUR
 prodname: 'Wera 05057122001 Surtido de puntas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000VCZXPO/?tag=tolees-21'
 descuento: '50.03'
 average: '37.45'

@@ -16,6 +16,7 @@ comparePrice: 14.04 EUR
 prodname: 'True Instinct No Grain Mini Paté de Pollo para Perros 150 gr - Pack de 8'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B9Q7LGN/?tag=tolees-21'
 descuento: '32.41'
 average: '10.26'

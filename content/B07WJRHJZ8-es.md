@@ -16,6 +16,7 @@ comparePrice: 29.98 EUR
 prodname: 'Rodillo de la Fascia Rodillo de Espuma de Eva Port¨¢Til Rodillo de Masaje para el Entrenamiento de la Fascia Rodillo de Columna de Yoga para Masaje Muscular Ejercicio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WJRHJZ8/?tag=tolees-21'
 descuento: '44.66'
 average: '21.053333333333335'

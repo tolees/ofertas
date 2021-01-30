@@ -16,6 +16,7 @@ comparePrice: 10.49 EUR
 prodname: 'Esteve CORTAGRIP Spray Bucal Antivirus  7 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CGERXNE/?tag=tolees-21'
 descuento: '40.90'
 average: '6.2'

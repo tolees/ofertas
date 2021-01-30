@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Auriculares Bluetooth TWS Wireless Bluetooth 5.0  Auriculares Inalámbricos con 125H Reproducció IPX7 a Prueba de Agua  Auriculares In-Ear Bluetooth con Caja de Carga Portátil  MicróFono Incorporado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083NHDMKM/?tag=tolees-21'
 descuento: '40.01'
 average: '29.99'

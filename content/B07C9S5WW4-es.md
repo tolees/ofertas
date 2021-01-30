@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Skechers Women s Squad-Team BOBS Trainers  Beige  Dk.Taupe Durasuede Dktp   8  41 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C9S5WW4/?tag=tolees-21'
 descuento: '45.65'
 average: '26.689999999999998'

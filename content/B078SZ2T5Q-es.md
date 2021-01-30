@@ -16,6 +16,7 @@ comparePrice: 139.95 EUR
 prodname: 'Salomon Ellipse Freeze CS WP  Calzado de Invierno para Mujer  Negro  Black/Phantom/Beach Glass   42 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078SZ2T5Q/?tag=tolees-21'
 descuento: '74.06'
 average: '36.31'

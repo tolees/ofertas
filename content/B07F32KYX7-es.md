@@ -16,6 +16,7 @@ comparePrice: 74.95 EUR
 prodname: 'Palladium Plphoenix F C U  Zapatillas Unisex Adulto  Blanco  Star White/French S97   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F32KYX7/?tag=tolees-21'
 descuento: '27.34'
 average: '43.57333333333333'

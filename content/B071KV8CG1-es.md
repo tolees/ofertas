@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'MVPower Set de 10 marcos de fotos 10 marcos de cuadros individuales Poster Photo Collage Home Decor  Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071KV8CG1/?tag=tolees-21'
 descuento: '33.34'
 average: '21.99'

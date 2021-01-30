@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'FIESTA Llaves Ácidas Golosinas Sabor Fresa - Envase de 290 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VWK5HQD/?tag=tolees-21'
 descuento: '30.23'
 average: '13.25'

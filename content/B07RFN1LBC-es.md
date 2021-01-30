@@ -16,6 +16,7 @@ comparePrice: 50.8 EUR
 prodname: 'Salomon Alphacross  Zapatillas de Trail Running para Hombre  Beige  Bleached Sand/Vanilla Ice/White   43 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RFN1LBC/?tag=tolees-21'
 descuento: '25.87'
 average: '37.66'

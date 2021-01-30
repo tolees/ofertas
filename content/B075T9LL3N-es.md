@@ -16,6 +16,7 @@ comparePrice: 9.62 EUR
 prodname: 'Proyector LED de proyector  detector de movimiento  reflector Led para exterior Proyector Led  Proyector LED Proyector 50 W Blanc Chaud  5000LM para interiores y exteriores  impermeable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075T9LL3N/?tag=tolees-21'
 descuento: '37.73'
 average: '5.99'

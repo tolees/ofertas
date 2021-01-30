@@ -16,6 +16,7 @@ comparePrice: 44.73 EUR
 prodname: 's.Oliver 53101  Zapatillas para Niños  Azul  Navy   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06W9G8CWV/?tag=tolees-21'
 descuento: '74.51'
 average: '12.653333333333334'

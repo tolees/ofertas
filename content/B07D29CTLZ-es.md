@@ -16,6 +16,7 @@ comparePrice: 105.97 EUR
 prodname: 'TACKLIFE Cortadora de Setos Eléctrica   40V 2.5 Ah con Batería Samsung y Cargador Rápido  Longitud de la hoja 550 mm  Capacidad de Corte 22 mm-GHT1B'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D29CTLZ/?tag=tolees-21'
 descuento: '31.03'
 average: '109.36749999999999'

@@ -16,6 +16,7 @@ comparePrice: 76.66 EUR
 prodname: 'Tommy Hilfiger Hilfiger Slim Polo  Azul  Blue Ink   Small  Talla del Fabricante:  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W6NH5K7/?tag=tolees-21'
 descuento: '49.84'
 average: '38.45'

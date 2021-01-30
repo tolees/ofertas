@@ -16,6 +16,7 @@ comparePrice: 108.67 EUR
 prodname: 'Cámara Impermeable Digital Videocámara Subacuática 10 Metros de 16MP Video LCD de 2.7" 8 x Zum Digital Detección de Caras con TF Card de 8 GB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B49VXVM/?tag=tolees-21'
 descuento: '30.00'
 average: '76.07'

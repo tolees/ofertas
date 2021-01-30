@@ -16,6 +16,7 @@ comparePrice: 23.85 EUR
 prodname: 'S&R Alicate corte diagonal electricista 180mm VDE-series  1000 V  acero de cromo-vanadio fosfatado.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015SWWZ52/?tag=tolees-21'
 descuento: '32.96'
 average: '15.99'

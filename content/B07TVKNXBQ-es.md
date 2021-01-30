@@ -16,6 +16,7 @@ comparePrice: 125.8 EUR
 prodname: 'Fanilife - Mesa de comedor rectangular  de 110 cm  diseño retro moderno  con patas de madera  ideal para salón  comedor  cocina  oficina  sala de estar  color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TVKNXBQ/?tag=tolees-21'
 descuento: '41.98'
 average: '72.99'

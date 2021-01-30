@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Triumph Amourette Charm WHP Sujetador  Neutral Beige EP  85C para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N2W34HM/?tag=tolees-21'
 descuento: '68.59'
 average: '15.69'

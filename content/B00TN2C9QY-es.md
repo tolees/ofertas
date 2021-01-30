@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Velvet  2ª temporada  [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TN2C9QY/?tag=tolees-21'
 descuento: '33.55'
 average: '23.25'

@@ -16,6 +16,7 @@ comparePrice: 59.24 EUR
 prodname: 'Surenhap Espejo retrovisor LED de Bebé Acrílico con Control Remoto Ajustable Irrompible Interior Espejo  para Los Asientos de Niños Orientados hacia Atrás'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CYT3DH2/?tag=tolees-21'
 descuento: '59.91'
 average: '23.75'

@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Clarks Jillian Rise  Sandalia con Pulsera para Mujer  Negro  Black Leather Black Leather   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TPYQBDR/?tag=tolees-21'
 descuento: '68.12'
 average: '28.68'

@@ -16,6 +16,7 @@ comparePrice: 50.33 EUR
 prodname: 'find. Lace Up Leather Botas Estilo Motero  Negro Black  36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G1Y3VTD/?tag=tolees-21'
 descuento: '27.26'
 average: '36.61'

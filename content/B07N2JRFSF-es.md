@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Intey 3-in-1 Wall Detector with LCD Display and Beep for Stud Line Detector with 3 Modes for Metal Wood AC Cable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N2JRFSF/?tag=tolees-21'
 descuento: '37.28'
 average: '14.45'

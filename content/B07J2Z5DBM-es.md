@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'TOZO T10 TWS audífonos estéreo inalámbricos con Bluetooth 5.0  IPX8  Impermeables  con Funda de Carga inalámbrica  micrófono Integrado  Sonido Premium con Graves Profundos para Correr y Hacer Deporte'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J2Z5DBM/?tag=tolees-21'
 descuento: '79.50'
 average: '40.99'

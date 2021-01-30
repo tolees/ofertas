@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance 997h  Zapatillas para Hombre  Azul  Navy Hay   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RHS2SVZ/?tag=tolees-21'
 descuento: '42.23'
 average: '54.97666666666667'

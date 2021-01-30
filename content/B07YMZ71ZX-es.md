@@ -16,6 +16,7 @@ comparePrice: 12.98 EUR
 prodname: 'Leabags Pocket Notes Plain Edition - Cuaderno  68 páginas  9 x 14 cm   color Deep Space  Deco Edition #2 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YMZ71ZX/?tag=tolees-21'
 descuento: '30.82'
 average: '8.98'

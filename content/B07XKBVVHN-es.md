@@ -16,6 +16,7 @@ comparePrice: 44.41 EUR
 prodname: 'Pendientes de plata de ley 925 con diseño de caballo de calzado  para niñas o adolescentes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XKBVVHN/?tag=tolees-21'
 descuento: '52.96'
 average: '20.89'

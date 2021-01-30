@@ -16,6 +16,7 @@ comparePrice: 121.0 EUR
 prodname: 'Nike Air Zoom Pegasus 36  Zapatillas de Running para Hombre  Negro  Black/White/Thunder Grey 002   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H8HYXB1/?tag=tolees-21'
 descuento: '35.96'
 average: '77.49'

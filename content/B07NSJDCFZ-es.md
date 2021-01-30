@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Kipling Supertaboo Light - Bolsa de Deporte Infantil  44 cm   Color Peachy Pink Fun  tamaño 44 cm  Volumen 13.0liters'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NSJDCFZ/?tag=tolees-21'
 descuento: '51.04'
 average: '12.24'

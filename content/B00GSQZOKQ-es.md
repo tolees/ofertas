@@ -16,6 +16,7 @@ comparePrice: 17.5 EUR
 prodname: 'VICTORY ENDURANCE Beta Alanine 90 Caps'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GSQZOKQ/?tag=tolees-21'
 descuento: '43.94'
 average: '11.170000000000002'

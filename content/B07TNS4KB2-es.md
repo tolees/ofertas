@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Superdry Orange Label Cotton Crew suéter  Verde  Fresh Mint Grit Bt7   XS para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TNS4KB2/?tag=tolees-21'
 descuento: '77.28'
 average: '14.42'

@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Chicco Ohlala - Silla de paseo ultraligera y compacta  3 8 kg  color azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JS9GCJ6/?tag=tolees-21'
 descuento: '39.60'
 average: '90.0'

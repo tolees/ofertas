@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'APEX LIFELINE'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y2B3X1M/?tag=tolees-21'
 descuento: '46.72'
 average: '10.65'

@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Women s Stretch Flat Laced Slip Trainers Negro   Negro/Multi     5.5  38.5 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MYZFHKX/?tag=tolees-21'
 descuento: '30.32'
 average: '43.595'

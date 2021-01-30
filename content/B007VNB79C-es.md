@@ -16,6 +16,7 @@ comparePrice: 22.06 EUR
 prodname: 'Bosch - Siemens - Neff - Aceite de Limpieza y Cuidado para Superficies de Acero Inoxidable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007VNB79C/?tag=tolees-21'
 descuento: '29.28'
 average: '15.6'

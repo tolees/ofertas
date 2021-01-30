@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'PUMA Gorra ESS  White  OSFA  052919 10'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016D48JYA/?tag=tolees-21'
 descuento: '30.58'
 average: '8.865'

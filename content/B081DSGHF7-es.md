@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Muñequera Túnel Carpiano  Estabilizador de Muñeca Ajustable con Férula Metálica Desmontable  Protector de Muñequera  Alivio del dolor de Artritis  Tendinitis  Disponible para Mano Derecha o Izquierda'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081DSGHF7/?tag=tolees-21'
 descuento: '53.35'
 average: '13.99'

@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Funda compatible con iPhone XR  mármol flexible de silicona  ultrafina  antiarañazos  antigolpes  para iPhone XR 4 Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z9WX15J/?tag=tolees-21'
 descuento: '42.13'
 average: '10.99'

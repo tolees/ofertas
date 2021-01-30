@@ -16,6 +16,7 @@ comparePrice: 33.0 EUR
 prodname: 'Gricol Estante de Ducha Sin Taladrar en Aluminio Aeronautico Rectangular Estanteria Baño Autoadhesivas Antioxidantes con Jabonera Organizador de Esponja para Baño Cocina  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WV31K2S/?tag=tolees-21'
 descuento: '51.55'
 average: '15.99'

@@ -16,6 +16,7 @@ comparePrice: 79.55 EUR
 prodname: 'Lavibelle - Zapatillas de Deporte Unisex Ligeras  de Malla  para Gimnasio  Correr  Color Negro  Talla 43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XYVF3SN/?tag=tolees-21'
 descuento: '57.18'
 average: '34.06'

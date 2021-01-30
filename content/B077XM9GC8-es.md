@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Funko Pop!- 27032 Games: God of War: Atreus  Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077XM9GC8/?tag=tolees-21'
 descuento: '39.00'
 average: '9.73'

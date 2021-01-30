@@ -16,6 +16,7 @@ comparePrice: 7.39 EUR
 prodname: 'Bestway 58277 - Recogehojas de Superficie Cleancast'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00FQD6IV6/?tag=tolees-21'
 descuento: '32.48'
 average: '5.4'

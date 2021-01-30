@@ -16,6 +16,7 @@ comparePrice: 9.69 EUR
 prodname: 'Llongueras Optima Tinte de Cabello Permanente sin Amoniaco Tono #5 Castaño Claro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XAMMRJM/?tag=tolees-21'
 descuento: '48.50'
 average: '4.99'

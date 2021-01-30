@@ -16,6 +16,7 @@ comparePrice: 19.15 EUR
 prodname: 'MOISO Plantillas ortopédicas con soporte de arco  cojín de talón y masaje de gel en el antepié para aliviar el dolor de pie y la fascitis plantar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078J8FCXC/?tag=tolees-21'
 descuento: '37.39'
 average: '11.99'

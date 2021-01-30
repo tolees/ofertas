@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Calvin Klein Reloj Analógico para Mujer de Cuarzo con Correa en Cuero K8Y231C1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CJHRWYR/?tag=tolees-21'
 descuento: '44.74'
 average: '109.97'

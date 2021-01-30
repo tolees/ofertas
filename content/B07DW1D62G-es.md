@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'Tommy Hilfiger Original Basic Polo  Blanco  Classic White 100   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DW1D62G/?tag=tolees-21'
 descuento: '32.67'
 average: '32.99'

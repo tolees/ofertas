@@ -16,6 +16,7 @@ comparePrice: 13.95 EUR
 prodname: 'Gardena 18311-20 Pistola  Gris  Naranja  embalado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PNUCGAY/?tag=tolees-21'
 descuento: '28.53'
 average: '10.7025'

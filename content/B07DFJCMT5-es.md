@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Funko-Pop Heroes: Aquaman-Arthur Curry  as Gladiator  DC  Multicolor  Standard  889698311762 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFJCMT5/?tag=tolees-21'
 descuento: '49.91'
 average: '7.636000000000001'

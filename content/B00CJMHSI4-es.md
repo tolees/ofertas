@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Nike NSW Pq Matchup Polo  Hombre  Blanco  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CJMHSI4/?tag=tolees-21'
 descuento: '43.48'
 average: '16.95'

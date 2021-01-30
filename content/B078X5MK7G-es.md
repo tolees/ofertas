@@ -16,6 +16,7 @@ comparePrice: 500.0 EUR
 prodname: 'Sony HT-XF9000 - Barra de Sonido 2.1  Dolby Atmos  DTS:X  Bluetooth  HDCP 2.2  HDMI   Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078X5MK7G/?tag=tolees-21'
 descuento: '38.29'
 average: '331.4825'

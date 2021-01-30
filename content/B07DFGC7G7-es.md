@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Funko Mortal Engines - Figura de Vinilo Thaddeus Valentine'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFGC7G7/?tag=tolees-21'
 descuento: '68.65'
 average: '5.12'

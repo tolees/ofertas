@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'Muvit MUGOO0008 Riñonera Cinturón Elástico Impermeable  Unisex Adulto  Negro  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IIOHWI8/?tag=tolees-21'
 descuento: '30.12'
 average: '7.403333333333333'

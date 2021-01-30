@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Afinador de Guitarra Sintonizador Digital Cromático con Clip  EXJOY Tuner de 5 modos con 12 Púas para Guitarra Eléctrica  Guitarra Española  Acústica  Bajo  Violín  Ukelele'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SZBHXCQ/?tag=tolees-21'
 descuento: '56.53'
 average: '8.69'

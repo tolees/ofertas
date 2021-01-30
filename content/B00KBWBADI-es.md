@@ -16,6 +16,7 @@ comparePrice: 187.95 EUR
 prodname: 'Oral-B SmartSeries 6000 Cepillo de Dientes Eléctrico con Tecnología Braun'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KBWBADI/?tag=tolees-21'
 descuento: '55.98'
 average: '82.73'

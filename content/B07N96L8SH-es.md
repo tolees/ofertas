@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'BOSS Prime Polo  Rojo  Bright Red 622   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N96L8SH/?tag=tolees-21'
 descuento: '45.03'
 average: '38.45'

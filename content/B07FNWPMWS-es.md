@@ -16,6 +16,7 @@ comparePrice: 191.93 EUR
 prodname: 'EXZACT EX17019S3Juego De 3 Maletas Premium De Viaje – 28”  24”  20” Color Plateado  Incluye Una Maleta Grande  Una Mediana Y Un Equipaje De Mano/Bolsa De Mano. Maleta Rígida / 4 Ruedas 360° Spinner'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FNWPMWS/?tag=tolees-21'
 descuento: '58.32'
 average: '79.99'

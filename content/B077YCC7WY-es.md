@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Pikmi Pops Serie 2 -  Piruleta 2 Peluches Perfumados Coleccionable con Sorpresas  Multicolor  Giochi Preziosi PKM07001 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077YCC7WY/?tag=tolees-21'
 descuento: '58.80'
 average: '7.0'

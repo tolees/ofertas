@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'PUMA Flyer Runner  Zapatillas de Running para Hombre  Azul  Dark Denim/Yellow Alert White 21   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S6NJ73Z/?tag=tolees-21'
 descuento: '32.95'
 average: '33.49'

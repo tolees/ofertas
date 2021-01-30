@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Tommy Hilfiger Original Fine Pique Polo  Blanco  Classic White 100   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0776ZRJ4P/?tag=tolees-21'
 descuento: '49.58'
 average: '26.14666666666667'

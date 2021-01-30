@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Seiko Reloj Analógico para Hombre de Cuarzo con Correa en Cuero PXHA73X1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NBQCJKM/?tag=tolees-21'
 descuento: '41.36'
 average: '52.19'

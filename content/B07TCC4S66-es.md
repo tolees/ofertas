@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Helly Hansen W Copenhagen Leather  Zapatillas para Mujer  Rosa  Bridal Rose/Bridal Blush 182   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TCC4S66/?tag=tolees-21'
 descuento: '60.46'
 average: '35.34666666666667'

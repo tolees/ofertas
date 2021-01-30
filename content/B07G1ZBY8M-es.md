@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Cortapelos Profesional Hombre  TTMOW Maquina Cortar Pelo con 5 en 1 Set de Afeitado Multifunción  Eléctrico Maquina Afeitar Recortador de Barba/ Nariz/ Cabeza/ Cara/ Cuerpo  USB Carga Rápida'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G1ZBY8M/?tag=tolees-21'
 descuento: '46.68'
 average: '18.784000000000002'

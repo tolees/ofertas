@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Depiladora de Luz Pulsada  2NLF Depilación Definitiva Profesional de IPL  2 Modos Depiladora Luz Pulsada con LCD 900000 Disparos la Depilación Permanente del Vello Visible para Hombres y Mujeres'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VVQ2Q4T/?tag=tolees-21'
 descuento: '25.56'
 average: '66.99'

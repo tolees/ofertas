@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Lacoste Carnaby EVO 118 6 SPW  Zapatillas para Mujer  Blanco  White/Gold   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077DQ3PG7/?tag=tolees-21'
 descuento: '31.94'
 average: '67.99'

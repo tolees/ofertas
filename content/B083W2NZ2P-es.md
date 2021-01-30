@@ -16,6 +16,7 @@ comparePrice: 8.74 EUR
 prodname: 'NHUAIYINSHUGUOGUANGGAOJINGY Reloj Inteligente Monitor de frecuencia cardíaca Multifuncional Podómetro de Resistencia al Agua M11 Pantalla de 1.3 Pulgadas Reloj Deportivo Verde Oscuro - Dorado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083W2NZ2P/?tag=tolees-21'
 descuento: '33.52'
 average: '5.81'

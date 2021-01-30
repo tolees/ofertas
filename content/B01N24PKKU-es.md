@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Women Synergy 2.0 Fashion Sneaker  Black  Black/Black Bbk   3 UK  36 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N24PKKU/?tag=tolees-21'
 descuento: '26.17'
 average: '47.95'

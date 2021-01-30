@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'Alpinestar Eternal Polo de Manga Corta con Logo de Goma en el Pecho  Hombre  Black  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075FZLHNF/?tag=tolees-21'
 descuento: '37.73'
 average: '27.99'

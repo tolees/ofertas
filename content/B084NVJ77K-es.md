@@ -16,6 +16,7 @@ comparePrice: 3.66 EUR
 prodname: '29 * 19 cm Bebé Niños Niños Escribir Dibujar Pintura Alfombrilla de Agua Magic Doodle Play Mat con Agregar Pluma de Agua Pintura Juguete - Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084NVJ77K/?tag=tolees-21'
 descuento: '34.97'
 average: '2.38'

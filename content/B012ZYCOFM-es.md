@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'ZOEREA Uno-Pedazos de los bebés Romper el Smoking con el Bowknot para el Bautismo Boda'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B012ZYCOFM/?tag=tolees-21'
 descuento: '35.01'
 average: '25.99'

@@ -16,6 +16,7 @@ comparePrice: 59.96 EUR
 prodname: 'ieGeek Autoradio Bluetooth  Estéreo RDS  Soporta 60W X 4 MP3/FM/AM/SD/AUX/USB con Dos Botones  para controlar el Volumen y Tiempo de visualización Independiente  Llamadas Manos Libres'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SZ78ZLL/?tag=tolees-21'
 descuento: '50.03'
 average: '28.62666666666667'

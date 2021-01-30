@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Napapijri Eisberg SS Polo  Gris  Med Grey Mel 160   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVLT3NJ/?tag=tolees-21'
 descuento: '60.00'
 average: '23.6'

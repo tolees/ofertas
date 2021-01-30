@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'uni Hub USB C 8 en 1  USB C Hub con un Conector extraíble y Funda de Silicona  admite Carga de 100 W  4K HDMI y más  Compatible con iPad Pro 2018  MacBook  Galaxy S20  Huawei P40  Mate 30 y más'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081YGDBG7/?tag=tolees-21'
 descuento: '28.58'
 average: '49.99'

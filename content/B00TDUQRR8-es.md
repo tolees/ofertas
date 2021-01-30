@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Belkin F8M730btGRY - Cargador Premium para el coche USB  12 W  2.4 A  carga inteligente  compatible con iPhone 8/8+/X  gris metálico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TDUQRR8/?tag=tolees-21'
 descuento: '42.32'
 average: '13.125'

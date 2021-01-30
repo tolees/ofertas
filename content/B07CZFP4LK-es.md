@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Under Armour Favorite Legging WM Ar Leggings  Mujer  Negro  Black/Onyx White 001   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZFP4LK/?tag=tolees-21'
 descuento: '29.09'
 average: '28.155'

@@ -16,6 +16,7 @@ comparePrice: 198.65 EUR
 prodname: 'Reloj analógico para hombre Tommy Hilfiger 1710355  mecanismo de cuarzo  diseño clásico  correa de acero inoxidable.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HBJ7CBC/?tag=tolees-21'
 descuento: '41.61'
 average: '116.0'

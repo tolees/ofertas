@@ -16,6 +16,7 @@ comparePrice: 22.91 EUR
 prodname: 'Clarks Un Maui Mid  Zapatillas Altas para Mujer  Negro  Black Leather Black Leather   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1JGVDY/?tag=tolees-21'
 descuento: '28.63'
 average: '16.35'

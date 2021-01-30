@@ -16,6 +16,7 @@ comparePrice: 159.5 EUR
 prodname: 'Sisley Global Perfect Pore Minimizer 30 Ml 1 Unidad 30 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ADMLUUY/?tag=tolees-21'
 descuento: '39.64'
 average: '96.28'

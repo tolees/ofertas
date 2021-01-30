@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Exerz Bandejas oficina 4 Piezas de Malla/Oficina Conjunto de 4 Piezas - Bandeja de Letras con 2 Plantas  Estante de Letras  Portalápices  Sostenedor de clipso & notas  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CUT1X9U/?tag=tolees-21'
 descuento: '33.34'
 average: '19.99'

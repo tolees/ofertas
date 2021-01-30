@@ -16,6 +16,7 @@ comparePrice: 30.78 EUR
 prodname: 'YPPDPP Toto Likes Videogames Velvet Pillow Cases Cubierta de cojín Throw Pillow Cover Funda cojine'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084X8WLV4/?tag=tolees-21'
 descuento: '51.62'
 average: '14.89'

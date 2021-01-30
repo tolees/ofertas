@@ -16,6 +16,7 @@ comparePrice: 42.5 EUR
 prodname: 'Philips Sonicare - CleanCare Cepillo dental eléctrico sónico HX3212/61  Batería  110-220 V  2 pieza s '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0764HFT1S/?tag=tolees-21'
 descuento: '29.65'
 average: '36.894999999999996'

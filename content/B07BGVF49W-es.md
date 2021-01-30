@@ -16,6 +16,7 @@ comparePrice: 99 EUR
 prodname: 'Navaja táctica de BGT  plegable  con sistema de cojinete  funda  con mango antideslizante'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BGVF49W/?tag=tolees-21'
 descuento: '75.77'
 average: '24.656666666666666'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Bebé Luz nocturna musical USB recargable 4 modos Proyector estrella con luz cálida Romántico Cosmos giratorio Cielo estrellado Proyección de luna para bebés Cumpleaños Día de los niños Regalo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076RWLVJN/?tag=tolees-21'
 descuento: '67.52'
 average: '12.99'

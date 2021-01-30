@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Vans Atwood Textile Suede  Zapatillas para Hombre  Marrón   Outdoor  Glazed Ginger/White Ui9   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TLZ1J26/?tag=tolees-21'
 descuento: '49.16'
 average: '35.59'

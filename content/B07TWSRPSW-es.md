@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'KiplingAbanu MultiMujerBolsos bandoleraGris  Curiosity Grey 19x13x8 Centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TWSRPSW/?tag=tolees-21'
 descuento: '51.88'
 average: '27.235'

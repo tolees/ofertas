@@ -16,6 +16,7 @@ comparePrice: 18.95 EUR
 prodname: 'Agenda 2020 semana vista - Pedrita Parker'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SPY32TN/?tag=tolees-21'
 descuento: '49.97'
 average: '11.893333333333333'

@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'Havaianas Origine III  Alpargatas Unisex Adulto  Azul  Navy Blue/Beige   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01L41BVUQ/?tag=tolees-21'
 descuento: '60.33'
 average: '19.227857142857143'

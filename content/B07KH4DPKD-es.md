@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Under Armour Rush P Mallas de Compresion con Cinturilla Elástica  Hombre  Negro  Black 001   XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KH4DPKD/?tag=tolees-21'
 descuento: '62.52'
 average: '24.36'

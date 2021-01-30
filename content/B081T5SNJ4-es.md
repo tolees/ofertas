@@ -16,6 +16,7 @@ comparePrice: 21.87 EUR
 prodname: 'Iberitos - Cachuela - 6 Latas x 250 Gramos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081T5SNJ4/?tag=tolees-21'
 descuento: '46.50'
 average: '11.7'

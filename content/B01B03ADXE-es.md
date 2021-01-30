@@ -16,6 +16,7 @@ comparePrice: 449.9 EUR
 prodname: 'Panasonic Lumix DC-TZ80 - Cámara Compacta de 18 1 MP  Super Zoom  Objetivo F3.3-F6.4 de 24-720mm  Estabilizador Híbrido  Zoom de 30X  4K  WiFi  Raw   Color Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01B03ADXE/?tag=tolees-21'
 descuento: '36.48'
 average: '252.7925'

@@ -16,6 +16,7 @@ comparePrice: 88.99 EUR
 prodname: 'Edifier W860NB Auriculares Bluetooth aptX con Smart Touch con cancelación Activa de Ruido - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DVR2TS1/?tag=tolees-21'
 descuento: '32.94'
 average: '54.68'

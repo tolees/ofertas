@@ -16,6 +16,7 @@ comparePrice: 7.69 EUR
 prodname: 'SOOPSON Alfombrilla de ratón para Juegos  de Gel  para Ordenador y portátil  precisión y Velocidad  Mejora en la Alfombrilla de ratón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z9B72KL/?tag=tolees-21'
 descuento: '83.49'
 average: '1.27'

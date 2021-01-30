@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Solar Fuse  Zapatillas para Hombre  Negro  Black Mesh/PU/Lime Trim Bklm   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P49HCQ8/?tag=tolees-21'
 descuento: '49.96'
 average: '38.45'

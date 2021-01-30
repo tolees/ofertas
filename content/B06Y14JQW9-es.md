@@ -16,6 +16,7 @@ comparePrice: 169.0 EUR
 prodname: 'Baby Jogger BJ2012299 - Kit de capazo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y14JQW9/?tag=tolees-21'
 descuento: '36.38'
 average: '115.6925'

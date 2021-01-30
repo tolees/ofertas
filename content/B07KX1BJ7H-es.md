@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Brooks Addiction Walker 2  Zapatillas de Running para Hombre  Blanco White 142  47.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KX1BJ7H/?tag=tolees-21'
 descuento: '78.16'
 average: '30.58'

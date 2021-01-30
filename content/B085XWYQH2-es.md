@@ -16,6 +16,7 @@ comparePrice: 234.99 EUR
 prodname: 'Luz Lámpara de pared Pájaro pastoral fresco Nordic Little Angel Habitación infantil Moderna sala de estar minimalista Dormitorio Iluminación de cabecera  Color: Blanco Forma: C '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085XWYQH2/?tag=tolees-21'
 descuento: '41.28'
 average: '137.99'

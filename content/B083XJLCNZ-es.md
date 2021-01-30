@@ -16,6 +16,7 @@ comparePrice: 33.99 EUR
 prodname: 'Masajeador Portátil  10 Modos de Frecuencia  Silicona Suave  Impermeable  Carga USB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083XJLCNZ/?tag=tolees-21'
 descuento: '41.19'
 average: '19.99'

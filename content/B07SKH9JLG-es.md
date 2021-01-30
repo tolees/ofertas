@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'J.Endéar Infinito Amor Amistad Cuerda Pulsera Regalo para Mujer 24 cm Trenzado Ajustable Hecho a Mano'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SKH9JLG/?tag=tolees-21'
 descuento: '70.02'
 average: '14.99'

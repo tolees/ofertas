@@ -16,6 +16,7 @@ comparePrice: 9.61 EUR
 prodname: 'L oreal paris - Sublime  loción autobronceadora  tono medio  200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007FRNWCY/?tag=tolees-21'
 descuento: '43.29'
 average: '5.45'

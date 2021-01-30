@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'Salomon XA Pro 3D  Zapatillas de Trail Running para Hombre  Azul  Sky Diver/Navy Blazer/Hawaiian Ocean   46 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KW92XH9/?tag=tolees-21'
 descuento: '29.98'
 average: '89.49'

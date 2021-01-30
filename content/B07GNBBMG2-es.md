@@ -16,6 +16,7 @@ comparePrice: 105.99 EUR
 prodname: 'Neewer 48 Centímetros LED Anillo de Luz Blanco con Soporte de Luz Plata Iluminación Regulable 42W 3200-5600K Kit con Filtro Suave  Adaptador de Zapata  Soporte de Móvil para Maquillaje Vídeo Grabación'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GNBBMG2/?tag=tolees-21'
 descuento: '31.04'
 average: '78.72333333333333'

@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Superdry Sweat Shirt Shop Duo Hood suéter  Azul  Eclipse Navy 98T   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F8GTMWF/?tag=tolees-21'
 descuento: '38.37'
 average: '51.644999999999996'

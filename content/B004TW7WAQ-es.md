@@ -16,6 +16,7 @@ comparePrice: 3.2 EUR
 prodname: 'Autoleads PC5-27 - Adaptador de Antena ISO-DIN'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004TW7WAQ/?tag=tolees-21'
 descuento: '43.44'
 average: '1.815'

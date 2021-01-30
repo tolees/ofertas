@@ -16,6 +16,7 @@ comparePrice: 57.99 EUR
 prodname: 'AUKEY Bateria Externa 20000mAh  Cargador Portatil con 2 Puertos USB para Google Pixel Nexus  iPhone X/ 8/ 7/ 7 Plus/ 6s  Samsung S8/ S8+ y más'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075V1L8BN/?tag=tolees-21'
 descuento: '77.60'
 average: '21.656666666666666'

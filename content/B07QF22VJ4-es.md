@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'WOTEK Conjunto de bandas de aptitud  bandas de entrenamiento para pilates  yoga  gimnasia y crossfit [Multicolor]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QF22VJ4/?tag=tolees-21'
 descuento: '25.01'
 average: '17.99'

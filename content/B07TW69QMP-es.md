@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Aggelos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TW69QMP/?tag=tolees-21'
 descuento: '33.48'
 average: '22.623333333333335'

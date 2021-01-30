@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Maybelline New York - Superstay Matte Ink  Pintalabios Mate de Larga Duración  Tono 75 Fighter'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077NCF92M/?tag=tolees-21'
 descuento: '45.45'
 average: '5.616666666666667'

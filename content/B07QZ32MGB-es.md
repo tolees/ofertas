@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Aceites Esenciales  100% Puros y Naturales Aromaterapia Aceites Esenciales para Humidificador  Lavanda  Hierba de Limón  Menta  Eucalipto  Árbol de té  Naranja dulce  6 x 10 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QZ32MGB/?tag=tolees-21'
 descuento: '29.19'
 average: '10.473333333333333'

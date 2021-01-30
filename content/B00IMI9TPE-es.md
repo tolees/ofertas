@@ -16,6 +16,7 @@ comparePrice: 31.01 EUR
 prodname: 'Atosa - Disfraz de rambo para mujer  talla XL  22937 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IMI9TPE/?tag=tolees-21'
 descuento: '30.83'
 average: '21.45'

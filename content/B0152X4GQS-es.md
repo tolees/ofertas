@@ -16,6 +16,7 @@ comparePrice: 9.92 EUR
 prodname: 'Dove Derma Spa Summer Media Resucitado a Dark Skin Body Lotion 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0152X4GQS/?tag=tolees-21'
 descuento: '54.64'
 average: '5.798749999999999'

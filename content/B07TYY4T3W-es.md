@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Merrell Moab 2 Vent  Zapatillas de Senderismo para Hombre  Gris  Boulder   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TYY4T3W/?tag=tolees-21'
 descuento: '34.55'
 average: '71.99'

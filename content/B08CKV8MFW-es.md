@@ -16,6 +16,7 @@ comparePrice: 4.99 EUR
 prodname: 'NINGNETI Adultos Reutilizables Pañuelos con banda Elástico para al Aire Libre Pack 5 unidades NING-M0707A038'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CKV8MFW/?tag=tolees-21'
 descuento: '64.13'
 average: '1.79'

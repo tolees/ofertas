@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Masajeador AREALER Spa Pies con 3 Velocidades de Masaje Pies  Hidromasaje Pies con Rodillo Automático  Control deTemperatura por Infrarrojo con Burbujas  Uso en Hogar y Oficina para alivar los Pies'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076D8H5GD/?tag=tolees-21'
 descuento: '30.00'
 average: '76.99'

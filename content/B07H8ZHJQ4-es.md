@@ -16,6 +16,7 @@ comparePrice: 2.89 EUR
 prodname: 'Bolsa de Pañales Bebés  Sunshine D Bolsa Reutilizable Impermeable Lavable de Tela con Cremallera para mamá  Elefante'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H8ZHJQ4/?tag=tolees-21'
 descuento: '48.44'
 average: '1.49'

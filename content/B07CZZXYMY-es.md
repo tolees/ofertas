@@ -16,6 +16,7 @@ comparePrice: 55.2 EUR
 prodname: 'Hi Young - Colgante de plata de ley 925 bañado en oro amarillo de 14 quilates con forma de diamante cuadrado  cadena de clavícula corta con circonita cúbica transparente  longitud 38 5 cm + extensión'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZZXYMY/?tag=tolees-21'
 descuento: '64.60'
 average: '19.54'

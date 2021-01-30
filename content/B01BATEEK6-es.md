@@ -16,6 +16,7 @@ comparePrice: 109.95 EUR
 prodname: 'Black+Decker GWC1820PC-QW - Soplador PowerCommand 18V  2 Ah   209 Km/h'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BATEEK6/?tag=tolees-21'
 descuento: '30.61'
 average: '87.73666666666668'

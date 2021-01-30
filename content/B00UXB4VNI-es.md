@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Muvit MUSCP0825 - MCA Protector de pantalla para Samsung Galaxy S6'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UXB4VNI/?tag=tolees-21'
 descuento: '89.95'
 average: '1.0'

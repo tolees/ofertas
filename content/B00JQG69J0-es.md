@@ -16,6 +16,7 @@ comparePrice: 7.32 EUR
 prodname: 'VALUELINE Cable EUROCONECTOR con IN'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JQG69J0/?tag=tolees-21'
 descuento: '33.47'
 average: '4.87'

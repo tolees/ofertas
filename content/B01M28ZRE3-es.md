@@ -16,6 +16,7 @@ comparePrice: 149 EUR
 prodname: 'Prismáticos Bresser Corvette 10x42 rellenos de nitrógeno'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M28ZRE3/?tag=tolees-21'
 descuento: '62.82'
 average: '55.435'

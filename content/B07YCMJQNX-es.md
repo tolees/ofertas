@@ -16,6 +16,7 @@ comparePrice: 60.99 EUR
 prodname: 'TACKLIFE Cortabordes Eléctrico  350W Cortabordes  Ancho de Corte 25 cm  Asa Giratoria 180°  Fácilmente Plegable & Almacenamiento  Función de Recorte Simple  Tap&Go Sistema de Corte de 2 Hilos- KAGT03A'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YCMJQNX/?tag=tolees-21'
 descuento: '30.86'
 average: '42.17'

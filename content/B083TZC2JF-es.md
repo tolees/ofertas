@@ -16,6 +16,7 @@ comparePrice: 139.98 EUR
 prodname: 'TONGJI Vitrina de Acrílico Compatible con Lego 10265 Creator Expert - Ford Mustang  Vitrina A Prueba De Polvo  Modelo No Incluido '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083TZC2JF/?tag=tolees-21'
 descuento: '50.00'
 average: '69.99'

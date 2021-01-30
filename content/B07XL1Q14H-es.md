@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'KPCB Máquina de Coser para Principiantes con Material de Bolsa de Bricolaje'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XL1Q14H/?tag=tolees-21'
 descuento: '35.01'
 average: '38.99'

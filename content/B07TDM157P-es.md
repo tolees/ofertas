@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Quiksilver Above The Lip-Camiseta con Bolsillo para Hombre  Black  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TDM157P/?tag=tolees-21'
 descuento: '66.62'
 average: '10.01'

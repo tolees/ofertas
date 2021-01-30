@@ -16,6 +16,7 @@ comparePrice: 250 EUR
 prodname: 'L Oréal Steampod Styler  Plancha de Pelo - 1810 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015QDUEV0/?tag=tolees-21'
 descuento: '40.00'
 average: '150'

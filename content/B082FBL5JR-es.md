@@ -16,6 +16,7 @@ comparePrice: 12.19 EUR
 prodname: 'CuteRose Men Jammer Cycling Stretch Breathable Athletic Sports Shorts Grey XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082FBL5JR/?tag=tolees-21'
 descuento: '90.48'
 average: '1.16'

@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Merrell M-Moab Fst Low A/C Waterproof  Zapatillas de Senderismo Unisex Niños  Gris  Grey/Coral   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077V65FJT/?tag=tolees-21'
 descuento: '47.75'
 average: '31.35'

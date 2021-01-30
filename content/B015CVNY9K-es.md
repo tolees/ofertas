@@ -16,6 +16,7 @@ comparePrice: 13.15 EUR
 prodname: 'Balvi Bandeja Caramel Color Amarillo bandejas Antideslizantes para Servir Comida En Forma de barrita de Chocolate Soporte recangular Diseño Americano Vintage Melamina 2x45x31 5 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015CVNY9K/?tag=tolees-21'
 descuento: '45.63'
 average: '7.15'

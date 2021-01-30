@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Tommy Hilfiger Patch Cap Gorra de béisbol  Azul  Talla única  Talla del Fabricante:  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JQB9G5S/?tag=tolees-21'
 descuento: '58.62'
 average: '17.245'

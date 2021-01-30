@@ -16,6 +16,7 @@ comparePrice: 6.37 EUR
 prodname: 'Prym - Agujas para Coser a Mano  tamaños de 1 a 5   Color Plateado con Ojo Dorado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003SMF0UM/?tag=tolees-21'
 descuento: '28.57'
 average: '4.55'

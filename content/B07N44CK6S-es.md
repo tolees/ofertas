@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Desigual Blouse Larson Blusas  Azul  Navy 5000   M para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N44CK6S/?tag=tolees-21'
 descuento: '30.59'
 average: '31.448'

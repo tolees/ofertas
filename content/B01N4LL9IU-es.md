@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'G-STAR RAW Rovulc Denim Mid Sneakers  Zapatillas para Hombre  Blanco  White  White 110  110   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N4LL9IU/?tag=tolees-21'
 descuento: '69.22'
 average: '24.61'

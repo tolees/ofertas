@@ -16,6 +16,7 @@ comparePrice: 8.5 EUR
 prodname: 'Bourjois Fard Joues Duo Blush Colorete Tono 2 Roméo et Peachette - 2.4 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BC2T2TZ/?tag=tolees-21'
 descuento: '43.53'
 average: '4.8'

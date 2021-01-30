@@ -16,6 +16,7 @@ comparePrice: 155.0 EUR
 prodname: 'Ultimate Ears Boom 3 Altavoz Portátil Inalámbrico Bluetooth  Graves Profundos  Impermeable  Flotante  Conexión Múltiple  Batería de 15 h  color Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NPG8HYY/?tag=tolees-21'
 descuento: '38.07'
 average: '120.95666666666666'

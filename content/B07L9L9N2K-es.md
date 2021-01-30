@@ -16,6 +16,7 @@ comparePrice: 93.16 EUR
 prodname: 'Lacoste Ampthill 319 1 CMA  Zapatillas para Hombre  Negro  Black/Offwhite 454   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9L9N2K/?tag=tolees-21'
 descuento: '51.17'
 average: '45.49'

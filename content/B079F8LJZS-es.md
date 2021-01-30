@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Vans Ward  Zapatillas para Mujer  Rosa  Canvas/Sepia Rose Oln   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079F8LJZS/?tag=tolees-21'
 descuento: '34.17'
 average: '46.08'

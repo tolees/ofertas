@@ -16,6 +16,7 @@ comparePrice: 32.95 EUR
 prodname: 'Charles Wilson Lote 12 Pares Calcetines Básicos  9-11  Navy  0619  '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T14BWXZ/?tag=tolees-21'
 descuento: '63.73'
 average: '11.95'

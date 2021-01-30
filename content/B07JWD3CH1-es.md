@@ -16,6 +16,7 @@ comparePrice: 23.4 EUR
 prodname: 'CESFONJER 26 Pcs Conector para Cable Coaxial  RG59 RG6U Cable Coaxial Adaptadores  Conectores F  Adaptador de Ángulo  para Conexión de Antena IEC  Cable Satélite   hasta 7 8 mm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JWD3CH1/?tag=tolees-21'
 descuento: '40.21'
 average: '13.99'

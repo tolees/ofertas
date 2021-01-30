@@ -16,6 +16,7 @@ comparePrice: 41.94 EUR
 prodname: 'Aussie  Acondicionador de pelo - 6 de 75 ml.  Total: 450 ml. '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MM4F33N/?tag=tolees-21'
 descuento: '28.61'
 average: '29.94'

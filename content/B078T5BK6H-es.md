@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Tommy Hilfiger Tommy Jeans Textile Sneaker  Zapatillas para Hombre  Gris  Ink 006   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078T5BK6H/?tag=tolees-21'
 descuento: '39.98'
 average: '43.31'

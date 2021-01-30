@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'Fossil Reloj Analogico para Hombre de Cuarzo con Correa en Cuero FTW1206'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074GD22JW/?tag=tolees-21'
 descuento: '26.12'
 average: '139.86'

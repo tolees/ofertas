@@ -16,6 +16,7 @@ comparePrice: 25.95 EUR
 prodname: 'Redken Curvaceous Unisex Champú 300 ml - Champues  Unisex  Champú  Todo el pelo  Pelo rizado  300 ml  Hidratante  Botella '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CK88IBC/?tag=tolees-21'
 descuento: '56.49'
 average: '11.64'

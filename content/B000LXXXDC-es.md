@@ -16,6 +16,7 @@ comparePrice: 14.52 EUR
 prodname: 'Versele-laga Pienso para Loro - 1 kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000LXXXDC/?tag=tolees-21'
 descuento: '48.35'
 average: '7.5'

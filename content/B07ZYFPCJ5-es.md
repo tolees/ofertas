@@ -16,6 +16,7 @@ comparePrice: 12.69 EUR
 prodname: 'BlueXP 2 Pieza Soporte de Techo Lámpara E27 Accesorios para Lámparas de Techo con Cable Accesorio Bricolaje para Iluminación Colgante Vintage Retro Lámparas de Araña Soporte Montaje con Base Cromo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZYFPCJ5/?tag=tolees-21'
 descuento: '38.06'
 average: '7.86'

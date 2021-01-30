@@ -16,6 +16,7 @@ comparePrice: 15.0 EUR
 prodname: 'MaiJin Funda para OPPO Realme 5 Pro  6 3 Pulgadas  2 en 1 Híbrida Rugged Armor Case Choque Absorción Protección Dual Layer Bumper Carcasa con Pata de Cabra  Plateado '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z4GBCPY/?tag=tolees-21'
 descuento: '47.00'
 average: '7.95'

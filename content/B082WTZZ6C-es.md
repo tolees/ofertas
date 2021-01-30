@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Aigostar - Bolsas para envasar al vacío. Reutilizables  conservación y almacenamiento de alimentos. Libres de BPA. Pack de 30 unidades  3 tamaños distintos  cierre zip  se adaptan a cualquier espacio.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082WTZZ6C/?tag=tolees-21'
 descuento: '34.80'
 average: '14.99'

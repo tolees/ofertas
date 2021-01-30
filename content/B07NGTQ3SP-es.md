@@ -16,6 +16,7 @@ comparePrice: 44.9 EUR
 prodname: 'Primigi Pbb 43604  Botas para Bebés  Zaffiro 4360411  20 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NGTQ3SP/?tag=tolees-21'
 descuento: '76.08'
 average: '10.74'

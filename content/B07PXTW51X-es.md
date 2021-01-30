@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Under Armour UA Charged Escape 3  Zapatillas para Correr  Calzado Deportivo para Hombre  Gris  Mod Gray/Mod Gray/Mod Gray  105  105   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PXTW51X/?tag=tolees-21'
 descuento: '43.98'
 average: '50.39'

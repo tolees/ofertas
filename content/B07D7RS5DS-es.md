@@ -16,6 +16,7 @@ comparePrice: 799.99 EUR
 prodname: 'MEDION ERAZER P6689 - Portátil gaming 15.6" FullHD  Intel Core i7-8550U-QC  8GB RAM  1TB HDD + 128GB SSD  NVIDIA GTX-1050-4GB  Sin sistema operativo   color negro - Teclado QWERTY español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D7RS5DS/?tag=tolees-21'
 descuento: '25.00'
 average: '713.9619230769231'

@@ -16,6 +16,7 @@ comparePrice: 31.23 EUR
 prodname: 'Cosmos  Versión Extendida  [DVD]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003Z7SDF4/?tag=tolees-21'
 descuento: '51.97'
 average: '15.0'

@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Foreo - Cepillo Inteligente De Limpieza Facial Luna Fofo Aquamarine Foreo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GJRQQKQ/?tag=tolees-21'
 descuento: '27.00'
 average: '64.97'

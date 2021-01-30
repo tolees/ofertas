@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'Kenwood Triblade System Pro HDM804SI Batidora de mano  incluye vaso medidor 1 L  accesorios incluidos  1000 W  Gris plateado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FUX6WBW/?tag=tolees-21'
 descuento: '42.30'
 average: '91.74'

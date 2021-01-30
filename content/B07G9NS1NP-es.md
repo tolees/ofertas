@@ -16,6 +16,7 @@ comparePrice: 279.0 EUR
 prodname: 'Seiko Reloj analogico para Hombre de Automático con Correa en Piel SRPC87K1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G9NS1NP/?tag=tolees-21'
 descuento: '32.20'
 average: '181.06'

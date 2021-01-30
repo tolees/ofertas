@@ -16,6 +16,7 @@ comparePrice: 52.99 EUR
 prodname: 'COOAU Cámara Web 1080p HD con micrófono con cancelación de Ruido  Webcam  Uso para cámara de Juegos  cámara de Video Conferencia  Video Llamada.Compatible con Windows/Mac/Andriod  Web 1 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088RC9NF3/?tag=tolees-21'
 descuento: '62.28'
 average: '37.91307692307692'

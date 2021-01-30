@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'SATECHI Cargador Portátil  Certificado MFi  con Puerto de Carga Magnético USB-C para Reloj – Compatible con Apple Watch Series 5/4/3/2/1  Cable no Incluido '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082MRVVS9/?tag=tolees-21'
 descuento: '25.01'
 average: '33.74'

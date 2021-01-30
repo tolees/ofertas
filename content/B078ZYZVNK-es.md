@@ -16,6 +16,7 @@ comparePrice: 17.25 EUR
 prodname: 'TRESemmé Acondicionador Color Keratina - Paquete de 3 x 700 ml - Total: 2100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078ZYZVNK/?tag=tolees-21'
 descuento: '28.35'
 average: '12.36'

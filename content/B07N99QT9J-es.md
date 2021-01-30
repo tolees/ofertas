@@ -16,6 +16,7 @@ comparePrice: 16.9 EUR
 prodname: 'Max Factor Polvos Miracle Veil  Polvos sueltos  - 4 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N99QT9J/?tag=tolees-21'
 descuento: '82.54'
 average: '2.575'

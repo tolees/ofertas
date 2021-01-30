@@ -16,6 +16,7 @@ comparePrice: 14.13 EUR
 prodname: 'ORICO Funda Disco Duro Externo 3.5 para Western Digital WD Seagate Toshiba Samsung Naranja'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076KD27ZQ/?tag=tolees-21'
 descuento: '32.98'
 average: '9.47'

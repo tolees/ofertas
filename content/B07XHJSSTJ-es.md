@@ -16,6 +16,7 @@ comparePrice: 73.99 EUR
 prodname: 'jerryvon Juego de Pista de Madera Circuito Coches con 2 Tren Magnética Pistas de Coches Bloques Construccion para Niños 3 4 + Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XHJSSTJ/?tag=tolees-21'
 descuento: '39.19'
 average: '44.99'

@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'RUNCCI Kit Conectores Tiras LED RGB 5050 con Cable Divisor LED de 4 Pines  led 5050 extensión Cable  Puente de Tira a Tira de LED  Conectores en Forma de L  Conectores Gapless'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SG4N9R4/?tag=tolees-21'
 descuento: '41.61'
 average: '9.92'

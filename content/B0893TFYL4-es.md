@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'TianTa Funda para Galaxy Tab A 8.0 2019  SM-T290/T295   Híbrido Tres Capas Funda Carcasa a Prueba de Golpes Caso PC + Silicona con Soporte para Samsung Galaxy Tab A 8.0 SM-T290/T295 - NavyAzul/Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0893TFYL4/?tag=tolees-21'
 descuento: '34.49'
 average: '18.99'

@@ -16,6 +16,7 @@ comparePrice: 46.99 EUR
 prodname: 'LED Reloj Despertador de Dormitorio Vibrante  Atenuador de 7 Pulgadas  Luz Nocturna de 7 Colores  Volumen Ajustable  Alarmas Duales  2 Puertos USB para Sordo  Durmientes Pesados Deficiencia Auditiva'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SJFTXV8/?tag=tolees-21'
 descuento: '36.18'
 average: '29.99'

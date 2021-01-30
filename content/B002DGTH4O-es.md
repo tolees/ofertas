@@ -16,6 +16,7 @@ comparePrice: 78.95 EUR
 prodname: 'Zwilling Twin Choice - Sartén  acero inoxidable  20 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002DGTH4O/?tag=tolees-21'
 descuento: '35.33'
 average: '54.03666666666667'

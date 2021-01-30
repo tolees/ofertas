@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Roits Calcetines Melocotones Rosa - Calcetines Originales Hombre y Mujer  41-46 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085W3SRT3/?tag=tolees-21'
 descuento: '33.37'
 average: '5.99'

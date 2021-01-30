@@ -16,6 +16,7 @@ comparePrice: 492.99 EUR
 prodname: 'GoPro HERO7 Black - Cámara de acción  sumergible hasta 10 m  pantalla táctil  vídeo 4K HD  fotos de 12 MP  transmisión en directo y estabilizador  negro + Kit de accesorios para cámara  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T42DHNJ/?tag=tolees-21'
 descuento: '29.61'
 average: '357.08500000000004'

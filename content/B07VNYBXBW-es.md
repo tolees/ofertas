@@ -16,6 +16,7 @@ comparePrice: 8.9 EUR
 prodname: 'NEW C 2 Unidades  Protector de Pantalla para Xiaomi Mi 9 SE  Mi Play Vidrio Templado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VNYBXBW/?tag=tolees-21'
 descuento: '44.94'
 average: '4.916666666666667'

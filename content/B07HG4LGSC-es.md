@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'New Balance Ypariv2 n  Zapatillas Deportivas para Interior para Niñas  Gris  Light Grey Light Grey   29 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HG4LGSC/?tag=tolees-21'
 descuento: '30.00'
 average: '38.5'

@@ -16,6 +16,7 @@ comparePrice: 112.49 EUR
 prodname: 'PUMA SF Drift Cat 5 Ultra  Zapatillas Unisex Adulto  Negro Black-Rosso Corsa Black 02  42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MQFFRL7/?tag=tolees-21'
 descuento: '55.54'
 average: '50.01'

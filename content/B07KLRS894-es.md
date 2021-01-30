@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Predator Colección 4 Películas [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KLRS894/?tag=tolees-21'
 descuento: '28.06'
 average: '20.445'

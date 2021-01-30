@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Jack & Jones Jorbrit Crew Neck suéter  Azul  Navy Blazer Fit: Knit Fit   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VWRG9F3/?tag=tolees-21'
 descuento: '73.97'
 average: '10.445'

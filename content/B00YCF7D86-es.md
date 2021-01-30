@@ -16,6 +16,7 @@ comparePrice: 12.78 EUR
 prodname: 'Max Factor Skin Luminizer Foundation 47 Nude Podkład do twarzy rozświetlający'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00YCF7D86/?tag=tolees-21'
 descuento: '69.17'
 average: '3.94'

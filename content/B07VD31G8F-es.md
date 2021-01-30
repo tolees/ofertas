@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'BOSS Schino-Slim Shorts Pantalones Cortos  Beige  Open Beige 280   38  Talla del Fabricante: 36  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VD31G8F/?tag=tolees-21'
 descuento: '81.10'
 average: '17.0'

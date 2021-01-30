@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Pepe Jeans Sloane Pantalones  Beige  Malt 845   Talla única  Talla del Fabricante: W29/L34  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RYWN6JN/?tag=tolees-21'
 descuento: '56.37'
 average: '28.36'

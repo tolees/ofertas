@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-STAR RAW Midge Saddle Mid Waist Bootcut  Azul  Dk Aged 6553-89   22W / 28L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BGTRN6M/?tag=tolees-21'
 descuento: '64.64'
 average: '50.56333333333333'

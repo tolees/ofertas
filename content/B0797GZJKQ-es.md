@@ -16,6 +16,7 @@ comparePrice: 189.0 EUR
 prodname: 'Guess Reloj Analógico para Mujer de Cuarzo con Correa en Caucho W1053L3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0797GZJKQ/?tag=tolees-21'
 descuento: '37.72'
 average: '117.05'

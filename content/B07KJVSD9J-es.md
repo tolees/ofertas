@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Columbia Peakfreak Venture S II Mid  Botas de Senderismo para Hombre  Negro  Black  Dark Ado 010   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KJVSD9J/?tag=tolees-21'
 descuento: '45.60'
 average: '65.27'

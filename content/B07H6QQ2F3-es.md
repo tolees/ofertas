@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'HUGO Reloj Multiesfera para Hombre de Cuarzo con Correa en Cuero 1530032'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H6QQ2F3/?tag=tolees-21'
 descuento: '35.20'
 average: '119.1'

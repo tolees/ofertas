@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'HP 24f - Monitor de 24"  FHD  1920 x 1080 pixeles  Tiempo de Respuesta de 5 ms  1 x HDMI  1 x VGA  16:9   Negro y Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CP9DN99/?tag=tolees-21'
 descuento: '29.25'
 average: '123.428'

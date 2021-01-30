@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Skechers Arch Fit  Zapatillas para Hombre  Azul  Navy Textile/Synthetic/Trim Nvy   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TVVF7FJ/?tag=tolees-21'
 descuento: '30.63'
 average: '55.46'

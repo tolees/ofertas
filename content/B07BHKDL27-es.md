@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Mpow Auriculares con Cancelación de Ruido Activos con Micrófono  Auriculares Estéreo con Cable  20 Horas Auriculares con Reloj ANC con Modo del Monitor de Conciencia'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BHKDL27/?tag=tolees-21'
 descuento: '61.56'
 average: '20.79'

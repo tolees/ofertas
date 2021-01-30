@@ -16,6 +16,7 @@ comparePrice: 70 EUR
 prodname: 'Salomon Trailblazer Mochila para Carrera de montaña  Cómoda y Ligera  Capacidad 30 L  Unisex Adulto  Negro  Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F6V4MF5/?tag=tolees-21'
 descuento: '44.23'
 average: '39.04'

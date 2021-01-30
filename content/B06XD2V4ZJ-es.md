@@ -16,6 +16,7 @@ comparePrice: 299.95 EUR
 prodname: 'Auriculares Inalámbricos Beats Solo3 Wireless  Bluetooth  - Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XD2V4ZJ/?tag=tolees-21'
 descuento: '66.69'
 average: '139.945'

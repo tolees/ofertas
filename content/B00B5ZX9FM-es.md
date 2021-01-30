@@ -16,6 +16,7 @@ comparePrice: 135.0 EUR
 prodname: 'Audio-Technica AT2020USB - Micrófono  Studio  20-20000 Hz  Cardioid  Alámbrico  3 1m  374g  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00B5ZX9FM/?tag=tolees-21'
 descuento: '34.07'
 average: '89.0'

@@ -16,6 +16,7 @@ comparePrice: 499.99 EUR
 prodname: 'Numan Unison Reference - Radio por Internet   Receptor Todo en uno   Amplificador   CD   Dab +   FM   Bluetooth   Puerto USB   2 x 40 vatios RMS   Connect Spotify   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078N6F2GB/?tag=tolees-21'
 descuento: '44.00'
 average: '279.99'

@@ -16,6 +16,7 @@ comparePrice: 53.85 EUR
 prodname: '3 Claveles 8" Tijeras de Cocina Profesional  Acero Inoxidable- 20cm  Brillo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00B2N8Q3C/?tag=tolees-21'
 descuento: '27.82'
 average: '39.385'

@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Suhctup Funda Transparent Compatible para Samsung Galaxy A60/M40 Carcasa Protectora [Antigolpes] Suave Silicona TPU Bumper Cojín de Aire de Cuatro Esquinas Protector Gel para Galaxy A60/M40 A2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087X7ZZMD/?tag=tolees-21'
 descuento: '47.15'
 average: '8.98'

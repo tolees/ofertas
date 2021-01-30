@@ -16,6 +16,7 @@ comparePrice: 24.51 EUR
 prodname: 'NANOCABLE 10.20.0302 - Cable de Red Ethernet rigido RJ45 Cat.5e UTP AWG24  Gris  Bobina de 100mts'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00AKBSBNC/?tag=tolees-21'
 descuento: '29.62'
 average: '17.25'

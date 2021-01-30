@@ -16,6 +16,7 @@ comparePrice: 18.75 EUR
 prodname: 'loonBonnie Reloj Inteligente Resistente al Agua para Hombres con cámara Smartwatch Podómetro Monitor de Ritmo cardíaco Tarjeta SIM Reloj de Pulsera-Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B8L1Y5C/?tag=tolees-21'
 descuento: '33.49'
 average: '12.47'

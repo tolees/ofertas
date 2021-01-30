@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Under Armour Women s Charged Aurora Hallenschuhe  Zapatillas Deportivas para Interior para Mujer  Rosa  Dash Pink/White/Beta  600  600   38.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NNV7FD2/?tag=tolees-21'
 descuento: '40.03'
 average: '41.95'

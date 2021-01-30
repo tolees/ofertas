@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'CAJA REGALO de etiquetas personalizadas. INCLUYE código para personalizar y recibir las etiquetas. Etiquetas termoadhesivas y adhesivas para marcar ropa y objetos.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N06GCOG/?tag=tolees-21'
 descuento: '55.43'
 average: '9.24'

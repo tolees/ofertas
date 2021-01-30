@@ -16,6 +16,7 @@ comparePrice: 35.59 EUR
 prodname: 'Vampirina - Pack Deluxe figuras Serie 2  Bandai 78027 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GZC78VR/?tag=tolees-21'
 descuento: '57.88'
 average: '17.012'

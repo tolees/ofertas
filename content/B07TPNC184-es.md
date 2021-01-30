@@ -16,6 +16,7 @@ comparePrice: 15.96 EUR
 prodname: 'Legami - Agenda semanal de 12 meses - Tema Take It Easy - Agenda 2020 de espiral Edición Limitada  color Air Balloon SMALL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TPNC184/?tag=tolees-21'
 descuento: '65.23'
 average: '5.55'

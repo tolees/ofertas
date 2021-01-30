@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Navigator Eco-Logical - Papel de impresión 2500 hojas  A4  5 x 500 hojas  75 g/m2 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002ATRPY8/?tag=tolees-21'
 descuento: '32.91'
 average: '24.804000000000002'

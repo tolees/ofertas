@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Rowenta Flower Love EP2812F0 - Depiladora 2 en 1 con cabezal ultrapreciso de 2 velocidades y 2 modos de uso  24 pinzas con rodillo de pedicura ultra exfoliante y un neceser'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XZRY112/?tag=tolees-21'
 descuento: '33.72'
 average: '23.19'

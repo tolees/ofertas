@@ -16,6 +16,7 @@ comparePrice: 20.7 EUR
 prodname: 'NewZC Bridas Ajustables para Cables 120 Unidades 15 x 1 2 cm Ataduras de Cable de Sujeción Reutilizables para Organizar Cables de TV Ordenador Portátil etc. - Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YBSSZ18/?tag=tolees-21'
 descuento: '52.27'
 average: '11.38'

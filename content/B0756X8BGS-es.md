@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Razer Atheris Ratón Ergonómico para Juegos  Gaming con una duración de batería de 350 horas  Sensor óptico de 7 200 Dpi  Tecnología de frecuencia adaptativa de 2.4 Ghz  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0756X8BGS/?tag=tolees-21'
 descuento: '33.82'
 average: '39.358000000000004'

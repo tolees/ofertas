@@ -16,6 +16,7 @@ comparePrice: 19.47 EUR
 prodname: 'Nilian     chapado en plata      '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076YFQLF7/?tag=tolees-21'
 descuento: '27.53'
 average: '14.11'

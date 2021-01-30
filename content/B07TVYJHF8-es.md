@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: '16 Tipos 20pc 75 Mm Lijar Discos De Papel De Lija Gancho Y Lazo Herramientas Abrasivas - P320'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TVYJHF8/?tag=tolees-21'
 descuento: '33.37'
 average: '5.99'

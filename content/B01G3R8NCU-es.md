@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Diset Soy Luna - Decora con Tachuelas  Juego de Arte y Manualidades  S.A 46594'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01G3R8NCU/?tag=tolees-21'
 descuento: '50.14'
 average: '14.46'

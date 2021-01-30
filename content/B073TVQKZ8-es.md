@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Maxesla Mini Bomba de Agua Ultra Silencioso 220 GPH  1000L/H  Bomba Sumergible 21W Bomba de Circulación para Pecera Acuario Jardín  Estanque  Fuente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073TVQKZ8/?tag=tolees-21'
 descuento: '30.49'
 average: '14.59'

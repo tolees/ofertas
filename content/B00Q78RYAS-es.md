@@ -16,6 +16,7 @@ comparePrice: 7.5 EUR
 prodname: 'MENFORSAN Champú Perros Acondicionador - 300 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00Q78RYAS/?tag=tolees-21'
 descuento: '34.40'
 average: '4.92'

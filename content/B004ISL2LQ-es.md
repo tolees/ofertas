@@ -16,6 +16,7 @@ comparePrice: 11.95 EUR
 prodname: 'Gowi 454-81 - Juego de cubiertos y bandeja  17 piezas  [importado de Alemania]   color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004ISL2LQ/?tag=tolees-21'
 descuento: '33.14'
 average: '7.99'

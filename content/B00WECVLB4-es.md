@@ -16,6 +16,7 @@ comparePrice: 14.22 EUR
 prodname: 'Orbegozo PW 1019 Mini ventilador USB de sobremesa  4 W  Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00WECVLB4/?tag=tolees-21'
 descuento: '30.38'
 average: '9.9'

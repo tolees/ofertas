@@ -16,6 +16,7 @@ comparePrice: 299.99 EUR
 prodname: 'Blink XT2 | Cámara de seguridad inteligente  exteriores e interiores  almacenamiento en el Cloud  audio bidireccional  2 años de autonomía | 3 cámaras'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M8DTKNM/?tag=tolees-21'
 descuento: '25.00'
 average: '224.99'

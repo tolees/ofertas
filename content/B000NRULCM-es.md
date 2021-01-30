@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Converse Chuck Taylor Hi  Zapatillas Unisex  Blanco  Optical White   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000NRULCM/?tag=tolees-21'
 descuento: '34.50'
 average: '52.07666666666667'

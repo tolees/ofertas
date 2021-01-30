@@ -16,6 +16,7 @@ comparePrice: 160.14 EUR
 prodname: 'Salewa MS Wildfire GTX  Zapatillas de Senderismo para Hombre  Schwarz  Black out/Fluo Yellow 978   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DW8QTH6/?tag=tolees-21'
 descuento: '31.34'
 average: '109.95'

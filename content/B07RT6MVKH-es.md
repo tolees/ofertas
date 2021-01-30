@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'DIESEL ShoesBoldmessage DoublecrossHombreCarterasAzul  Blue Nights  8x18x34 Centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RT6MVKH/?tag=tolees-21'
 descuento: '71.38'
 average: '28.62'

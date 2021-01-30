@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: '80 en 1 juego de destornillador de precisión  Kit de herramientas de reparación de bricolaje para arreglar móviles smartphones portátiles y otros electrónicos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZGH5DTL/?tag=tolees-21'
 descuento: '73.34'
 average: '23.99'

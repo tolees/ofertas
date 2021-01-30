@@ -16,6 +16,7 @@ comparePrice: 329.0 EUR
 prodname: 'Suunto Core Negro/Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MSW01R7/?tag=tolees-21'
 descuento: '45.98'
 average: '188.484'

@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Columbia Vitesse Outdry  Zapatillas de Deporte para Mujer  Gris  Grey Ice/Canyon Rose 063   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RFNGZ3T/?tag=tolees-21'
 descuento: '40.04'
 average: '65.95'

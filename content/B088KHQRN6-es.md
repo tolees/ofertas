@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'FAGORY Webcam HD 1080p Webcam Digital portátil con micrófono Plug and Play USB Cámara de transmisión en Vivo para Llamadas de Video de grabación de Conferencia'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088KHQRN6/?tag=tolees-21'
 descuento: '25.01'
 average: '29.99'

@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Vans Ward Suede/Canvas  Zapatillas para Hombre  Azul   Outdoor  Dress Blue/White Syn   44.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TKXZL5X/?tag=tolees-21'
 descuento: '56.00'
 average: '35.2'

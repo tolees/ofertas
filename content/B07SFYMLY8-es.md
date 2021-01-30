@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Levi s Skinner  Zapatillas para Hombre  Azul  Navy Blue 17   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SFYMLY8/?tag=tolees-21'
 descuento: '50.00'
 average: '27.25'

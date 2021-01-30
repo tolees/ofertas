@@ -16,6 +16,7 @@ comparePrice: 11.04 EUR
 prodname: 'Tangle Teezer Cepillo fine & fragile mint & lilac 70 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L61DNMR/?tag=tolees-21'
 descuento: '27.63'
 average: '7.99'

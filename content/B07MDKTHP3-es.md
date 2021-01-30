@@ -16,6 +16,7 @@ comparePrice: 422.29 EUR
 prodname: 'Michael Kors Reloj Mujer de Digital con Correa en Silicona MKT5055'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MDKTHP3/?tag=tolees-21'
 descuento: '50.41'
 average: '196.26666666666665'

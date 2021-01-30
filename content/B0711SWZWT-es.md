@@ -16,6 +16,7 @@ comparePrice: 125.0 EUR
 prodname: 'Merrell Cham 7 Limit Waterproof  Zapatillas de Senderismo para Hombre  Marrón Stone  42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0711SWZWT/?tag=tolees-21'
 descuento: '42.34'
 average: '72.08'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Quiksilver Blade Dreams-Camiseta De Manga Larga para Chicos 8-16  Niños  White  XL/16'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T9DYWVN/?tag=tolees-21'
 descuento: '45.02'
 average: '10.99'

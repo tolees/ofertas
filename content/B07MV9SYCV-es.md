@@ -16,6 +16,7 @@ comparePrice: 79 EUR
 prodname: 'Kipling - Amiel  Bolsos maletín Mujer  Negro  Black Indigo   27x24.5x14.5 cm  B x H T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MV9SYCV/?tag=tolees-21'
 descuento: '36.72'
 average: '49.99'

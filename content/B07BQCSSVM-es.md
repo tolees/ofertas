@@ -16,6 +16,7 @@ comparePrice: 18.44 EUR
 prodname: 'Wella  Cuidado del pelo y del cuero cabelludo - 1 unidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BQCSSVM/?tag=tolees-21'
 descuento: '45.82'
 average: '9.99'

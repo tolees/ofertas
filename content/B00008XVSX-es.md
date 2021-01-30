@@ -16,6 +16,7 @@ comparePrice: 33.04 EUR
 prodname: 'WMF Classic Line Cuchillo Cocinero 34 cm con Hoja de Acero Templado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00008XVSX/?tag=tolees-21'
 descuento: '39.50'
 average: '19.99'

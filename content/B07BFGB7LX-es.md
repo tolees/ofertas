@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'JAIMIE JACOBS ® Cartera Mágica Flap Boy Slim  el Original  Magic Wallet con Bloqueo RFID  Protege Tarjetas de Crédito  Tarjetero Hombre Slim  Cuero Auténtico  Marrón Oscuro con Rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BFGB7LX/?tag=tolees-21'
 descuento: '28.09'
 average: '64.0'

@@ -16,6 +16,7 @@ comparePrice: 46.99 EUR
 prodname: 'Vileda Turbo - Juego de fregona con palo telescópico + cubo escurridor giratorio + recambio de microfibras  color negro y rojo  48.6 x 29.6 x 29.3 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GPSNMF3/?tag=tolees-21'
 descuento: '25.54'
 average: '37.378'

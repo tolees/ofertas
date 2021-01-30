@@ -16,6 +16,7 @@ comparePrice: 14.53 EUR
 prodname: 'Arregui TB-021-G Taburete Plegable de 21 cm de altura  gris  210X250X200 MM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B012WJREX2/?tag=tolees-21'
 descuento: '54.65'
 average: '6.59'

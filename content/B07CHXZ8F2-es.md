@@ -16,6 +16,7 @@ comparePrice: 95.67 EUR
 prodname: 'ECCO Soft 7  Zapatillas para Hombre  Azul  Navy/Night Sky 51313   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CHXZ8F2/?tag=tolees-21'
 descuento: '33.50'
 average: '63.62'

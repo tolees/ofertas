@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Munich Massana  Zapatillas de Deporte para Hombre  Azul  Marino 301   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D87W2GD/?tag=tolees-21'
 descuento: '35.97'
 average: '56.99'

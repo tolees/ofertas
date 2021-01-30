@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Sabrent El hub USB de 10 Puertos y 60W con interruptores de alimentación Individuales y LED Incluye un Adaptador de alimentación de 60W 12V / 5A  HB-BU10 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0797NZFYP/?tag=tolees-21'
 descuento: '32.86'
 average: '46.99'

@@ -16,6 +16,7 @@ comparePrice: 7.17 EUR
 prodname: 'Quid Temis - Sartén De Aluminio  18 Cm  Antiadherente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018UFUOO8/?tag=tolees-21'
 descuento: '45.61'
 average: '3.9'

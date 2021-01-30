@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'The Wooden Toy Factory - Autobús con Animales Saltarines - Juguete de Madera Educativo Clásico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RQHNSML/?tag=tolees-21'
 descuento: '50.03'
 average: '9.99'

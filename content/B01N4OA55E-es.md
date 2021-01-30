@@ -16,6 +16,7 @@ comparePrice: 66.99 EUR
 prodname: 'Ivos Suporte Universal de Aluminio para Proyector  Distancia de Techo Extensible 22-40cm para Mini DLP Proyector CCTV DVR Cámara'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N4OA55E/?tag=tolees-21'
 descuento: '76.13'
 average: '15.99'

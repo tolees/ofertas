@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Beethoven: Symphonies & Overtures'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008YKRRI6/?tag=tolees-21'
 descuento: '26.25'
 average: '18.4'

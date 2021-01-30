@@ -16,6 +16,7 @@ comparePrice: 21.85 EUR
 prodname: 'RAOYI 2X 32GB Memoria USB 3.0  Pendrive USB Portátil 32GB 3.0 Memoria Flash Drive para PC/Windows/Tabletas/Mac OS [2 Unidades  Color Negro y Azul]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R6KH9LV/?tag=tolees-21'
 descuento: '42.43'
 average: '12.58'

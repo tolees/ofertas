@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'ivencase Funda para iPhone 11 Pro  Carcasa Transparente Protectora Reforzado Cojín de Esquina Parachoques Case Flexible TPU Suave Anti-Choque Ultra-Delgado Funda para iPhone 11 Pro 2019 5.8"'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VG1N8L7/?tag=tolees-21'
 descuento: '37.67'
 average: '4.98'

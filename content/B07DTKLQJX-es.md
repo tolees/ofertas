@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'GREENCUT GS400L - Motosierra de batería de litio 40V para 2 0Ah/4 0Ah con espada de 14   Oregon y velocidad de corte hasta 12 metros por segundo  Incluye funda de espada'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DTKLQJX/?tag=tolees-21'
 descuento: '25.00'
 average: '89.99'

@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Funda para Xiaomi Mi 9/Mi 9 SE Teléfono Móvil Silicona Liquida Bumper Case y Flexible Scratchproof Ultra Slim Anti-Rasguño Protectora Caso  blue  Xiaomi Mi 9 SE '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PYRNGH5/?tag=tolees-21'
 descuento: '35.74'
 average: '10.513333333333334'

@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'auna RCD-70 Radio Dab con CD - Radio Dab   Radio Retro   Bluetooth   14 W   FM   Dab+   Reproductor de CD   USB   AUX   Salida de Auriculares   Funciona con batería   Asa   Diseño Retro   Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JWGD99M/?tag=tolees-21'
 descuento: '43.34'
 average: '84.99'

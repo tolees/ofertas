@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'St.Tropez Mousse De Bronceado - 120 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0027UY3IG/?tag=tolees-21'
 descuento: '63.62'
 average: '9.405000000000001'

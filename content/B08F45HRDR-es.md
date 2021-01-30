@@ -16,6 +16,7 @@ comparePrice: 4.42 EUR
 prodname: 'XINFULUK Baño a Prueba de Agua Juguetes de luz LED Niños Juguete de baño Divertido Plástico hermético Multicolor con Pantalla de luz LED a Prueba de Agua - Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08F45HRDR/?tag=tolees-21'
 descuento: '33.48'
 average: '2.94'

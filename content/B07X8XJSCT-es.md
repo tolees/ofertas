@@ -16,6 +16,7 @@ comparePrice: 8.37 EUR
 prodname: 'ERIK Star Wars Classic  Calendario De Escritorio  17x20 cm  Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X8XJSCT/?tag=tolees-21'
 descuento: '34.89'
 average: '5.45'

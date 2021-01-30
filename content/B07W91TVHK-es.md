@@ -16,6 +16,7 @@ comparePrice: 120.47 EUR
 prodname: 'Tommy Hilfiger Hombre Slim Bleecker Pstr Crane Blue Loose Fit Jeans  Azul  Crane Blue   W31/L34'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W91TVHK/?tag=tolees-21'
 descuento: '80.29'
 average: '23.74'

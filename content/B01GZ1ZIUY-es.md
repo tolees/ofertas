@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'HP Adaptador de CA de alimentación Inteligente de 90 W - Fuente de alimentación  100-240  50/60  90 W  Interior  Portátil  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GZ1ZIUY/?tag=tolees-21'
 descuento: '40.19'
 average: '29.9'

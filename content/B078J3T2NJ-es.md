@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Maybelline New York Master Chrome - Polvos Iluminadores Metalizados  Tono 100 Molten Gold'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078J3T2NJ/?tag=tolees-21'
 descuento: '25.92'
 average: '6.66'

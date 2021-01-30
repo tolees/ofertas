@@ -16,6 +16,7 @@ comparePrice: 32.95 EUR
 prodname: 'Calcetines de Deporte Low Cut Pack de 3  Gris  EU 35-38 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DTM52W6/?tag=tolees-21'
 descuento: '57.66'
 average: '13.95'

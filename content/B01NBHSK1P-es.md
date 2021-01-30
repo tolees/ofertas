@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Tristar VE-5999  Ventilador de torre  75 centímetros  45 W  función de temporizador  blanco y negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NBHSK1P/?tag=tolees-21'
 descuento: '30.19'
 average: '34.9'

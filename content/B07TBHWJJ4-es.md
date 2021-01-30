@@ -16,6 +16,7 @@ comparePrice: 46.98 EUR
 prodname: 'Topsale-ycld 4.3"1080P Dual Lens Car Auto DVR Mirror Dash CAM Recorder + Kit de cámara de visión Trasera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TBHWJJ4/?tag=tolees-21'
 descuento: '44.70'
 average: '41.903333333333336'

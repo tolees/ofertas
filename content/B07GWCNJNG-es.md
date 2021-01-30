@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'SUPORE Garmin Vivosmart HR Activity Tracker  Correa de Silicona para Reloj  ajustable  Reemplazo diseñado para Garmin Vivosmart HR Smart Sport Reloj  3 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GWCNJNG/?tag=tolees-21'
 descuento: '46.68'
 average: '15.99'

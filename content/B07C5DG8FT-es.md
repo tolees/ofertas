@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'JACK & JONES Jjeholmen Sweat Pants Noos Pantalones  Gris  Light Grey Melange Fit: Melange-Comfort Fit   W38  Talla del Fabricante: X-Large  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C5DG8FT/?tag=tolees-21'
 descuento: '46.02'
 average: '13.969999999999999'

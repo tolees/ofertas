@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Vans M ASHER - Zapatillas para hombre  Negro  canvas Black Black   41'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CLVM3FG/?tag=tolees-21'
 descuento: '36.65'
 average: '38.01'

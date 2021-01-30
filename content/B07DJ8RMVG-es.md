@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'New Balance 411  Zapatillas de Running para Mujer  Negro  Black Silver   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DJ8RMVG/?tag=tolees-21'
 descuento: '36.82'
 average: '27.875'

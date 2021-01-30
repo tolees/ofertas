@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Smoby- Spielhaus Doorbell Timbre electrónico Casitas  810900 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0798CQNH2/?tag=tolees-21'
 descuento: '27.94'
 average: '7.17'

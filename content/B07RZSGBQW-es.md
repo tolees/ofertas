@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'BOSS Passenger Polo  Verde  Medium Green 314   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RZSGBQW/?tag=tolees-21'
 descuento: '74.36'
 average: '20.5'

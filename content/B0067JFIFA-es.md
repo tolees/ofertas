@@ -16,6 +16,7 @@ comparePrice: 5.5 EUR
 prodname: 'Rimmel London Lasting Finish Barra De Labios Tono 264 Coffee Shimmer- 18 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0067JFIFA/?tag=tolees-21'
 descuento: '49.64'
 average: '2.77'

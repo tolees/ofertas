@@ -16,6 +16,7 @@ comparePrice: 9.98 EUR
 prodname: 'JOJOR Cuerda para Saltar Ajustable para Niños y Adultos Cuerda de con Mangos Cómodos y Contador  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PY7BQNP/?tag=tolees-21'
 descuento: '49.90'
 average: '5.0'

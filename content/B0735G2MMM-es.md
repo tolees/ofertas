@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Silicone Plug  Negro - Juego de 4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0735G2MMM/?tag=tolees-21'
 descuento: '33.34'
 average: '19.99'

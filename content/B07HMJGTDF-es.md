@@ -16,6 +16,7 @@ comparePrice: 118.91 EUR
 prodname: 'Nike W Air Zoom Structure 22  Zapatillas de Running para Mujer  Negro  Black/White/Gridiron 002   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HMJGTDF/?tag=tolees-21'
 descuento: '42.14'
 average: '68.8'

@@ -16,6 +16,7 @@ comparePrice: 259.95 EUR
 prodname: 'Wavemaster Cube Neo - Sistema de altavoces - 50 V  Bluetooth  entrada digital  control remoto por infrarrojos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D6WT3GZ/?tag=tolees-21'
 descuento: '38.27'
 average: '160.46'

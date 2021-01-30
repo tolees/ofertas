@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Philips Optimal Temp GC8715/20 - Centro de Planchado de 5.8 bares  Autonomia Ilimitada  Golpe de Vapor 310 g  Suela Steam Glide  Planchado Sin Ajustes de Temperatura  Calentamiento Rápido  Autoapagado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KFLG1EW/?tag=tolees-21'
 descuento: '32.50'
 average: '138.33333333333334'

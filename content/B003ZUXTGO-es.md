@@ -16,6 +16,7 @@ comparePrice: 220.0 EUR
 prodname: 'Reloj Casio para Hombre EF-558D-1AVEF'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003ZUXTGO/?tag=tolees-21'
 descuento: '37.65'
 average: '141.92'

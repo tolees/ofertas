@@ -16,6 +16,7 @@ comparePrice: 21.9 EUR
 prodname: 'Scitec Nutrition Suplemento Dietético de Creatina - 1000 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004EPYBSY/?tag=tolees-21'
 descuento: '30.91'
 average: '15.4275'

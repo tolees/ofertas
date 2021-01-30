@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Bestlife- Equipaje- Maletas  Color negro  Safta 641989808 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YVLD827/?tag=tolees-21'
 descuento: '50.08'
 average: '29.95'

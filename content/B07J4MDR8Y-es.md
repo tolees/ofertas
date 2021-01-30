@@ -16,6 +16,7 @@ comparePrice: 27.0 EUR
 prodname: 'Difusor de Aceites Esenciales  Avaspot 250ml Ultrasónico Aromaterapia Humidificador  Operación silenciosa  Auto Shut Off  bebé  Yoga  Oficina  hogar  Dormitorio y baño  etc'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J4MDR8Y/?tag=tolees-21'
 descuento: '39.85'
 average: '18.755'

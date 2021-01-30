@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'BOLD UNIQ by B Uniq - Champú matizador con pigmentos violetas para conseguir tonos plateados - Adiós al amarillo: revitaliza el cabello rubio teñido  decolorado y con mechas - Sin sulfatos - 250 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0743CZWCP/?tag=tolees-21'
 descuento: '32.06'
 average: '15.263333333333334'

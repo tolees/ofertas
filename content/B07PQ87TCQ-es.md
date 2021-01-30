@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Kipling - Multiple  Bolsos bandolera Mujer  Verde  Seagrass   20x13x7.5 cm  B x H T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PQ87TCQ/?tag=tolees-21'
 descuento: '37.95'
 average: '27.105999999999998'

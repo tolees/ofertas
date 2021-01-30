@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Reebok Royal Techque T  Zapatillas para Hombre  Negro  Black / Black   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071K97PDC/?tag=tolees-21'
 descuento: '29.16'
 average: '46.67666666666666'

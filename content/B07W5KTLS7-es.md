@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'WERNNSAI Unicornio Manta de Hito Bebé - 150 x 100 cm Manta de Fotografía de Vellón Semanal Mensual Niñas Bebé Recién Nacido Regalo de cumpleaños Baby Shower'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W5KTLS7/?tag=tolees-21'
 descuento: '43.35'
 average: '16.99'

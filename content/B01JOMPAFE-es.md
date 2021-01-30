@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'Tommee Tippee - Kit de iniciación para recién nacido  transparente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JOMPAFE/?tag=tolees-21'
 descuento: '75.80'
 average: '14.469999999999999'

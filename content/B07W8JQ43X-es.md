@@ -16,6 +16,7 @@ comparePrice: 13.58 EUR
 prodname: 'Funko- Pop Movies: Devil Wears Prada-Miranda Priestly Collectible Toy  Multicolor  45313 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W8JQ43X/?tag=tolees-21'
 descuento: '30.93'
 average: '11.48'

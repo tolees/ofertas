@@ -16,6 +16,7 @@ comparePrice: 6.9 EUR
 prodname: 'NYX Professional Makeup Pintalabios Soft Matte Lip Cream  Acabado cremoso mate  Color ultrapigmentado  Larga duración  Fórmula vegana  Tono: Abu Dhabi'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004LXJOEK/?tag=tolees-21'
 descuento: '28.26'
 average: '4.95'

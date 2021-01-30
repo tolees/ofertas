@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Conjunto de luces Lightailing para  Bugatti Chiron  Modelo de Construcción de Bloques - Kit de luz LED compatible con Lego 42083  NO incluido en el modelo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG3LV8F/?tag=tolees-21'
 descuento: '50.01'
 average: '59.99'

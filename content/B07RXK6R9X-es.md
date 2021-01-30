@@ -16,6 +16,7 @@ comparePrice: 11.97 EUR
 prodname: 'Johnson s Baby Baño Suave  Jabón Líquido Suave y Delicado de Uso Diario para Pieles Sensibles - 3 x 750 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RXK6R9X/?tag=tolees-21'
 descuento: '25.06'
 average: '8.97'

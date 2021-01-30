@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Mobicool 9103501263 V26 AC/DC Nevera Termoeléctrica Portátil  25 L  12/230 V A+  Azul  25 litros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B019PT5RW2/?tag=tolees-21'
 descuento: '29.26'
 average: '62.96'

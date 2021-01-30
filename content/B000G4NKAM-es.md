@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Adidas Samba Classic  Schwarz-weiÃ  Zapatillas de Fútbol para Hombre  Negro  Black/Running White   45 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000G4NKAM/?tag=tolees-21'
 descuento: '25.73'
 average: '51.95'

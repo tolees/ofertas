@@ -16,6 +16,7 @@ comparePrice: 899.0 EUR
 prodname: 'Nikon D5600 - [Versión Nikonistas] - Kit cámara réflex de 24.2 MP + AF-P DX 18-55 mm VR  táctil de 3"  Full HD  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XC339HB/?tag=tolees-21'
 descuento: '37.64'
 average: '729.81'

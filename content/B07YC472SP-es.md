@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Gimbal Estabilizador 3 en1 para Cámara Digital/Gopro Hero/Móvil/Sony Cámara  3-Ejes Gimbal Stabilizer con 6 Modos  Gimbal Handheld Carga 400g  Ideal para Smartphone iOS&Android/Cámara de Accón etc'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YC472SP/?tag=tolees-21'
 descuento: '40.13'
 average: '179.0'

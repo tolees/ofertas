@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Lacoste Lerond BL 1 CAM  Zapatillas para Hombre  Azul  Navy   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NCNXR3E/?tag=tolees-21'
 descuento: '33.87'
 average: '47.81'

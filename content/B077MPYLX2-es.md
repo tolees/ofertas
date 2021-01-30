@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'PUMA Smash v2 L  Zapatillas Unisex Adulto  White White  44.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077MPYLX2/?tag=tolees-21'
 descuento: '27.45'
 average: '36.595'

@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Nikidom Raincover XL Chubasquero  Unisex Adulto  Negro  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XI07U7K/?tag=tolees-21'
 descuento: '27.44'
 average: '7.22'

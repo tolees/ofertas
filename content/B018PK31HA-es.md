@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Seiko Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable PN8002X1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018PK31HA/?tag=tolees-21'
 descuento: '53.46'
 average: '46.07'

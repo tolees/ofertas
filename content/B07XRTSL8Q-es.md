@@ -16,6 +16,7 @@ comparePrice: 23.64 EUR
 prodname: 'Anpro - Micrófono de condensador USB con cable USB de 1 8 m y soporte ajustable para grabación de estudio  juegos  streaming  voz  transmisión en vivo y vídeos de Youtube'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XRTSL8Q/?tag=tolees-21'
 descuento: '49.24'
 average: '12.59'

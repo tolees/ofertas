@@ -16,6 +16,7 @@ comparePrice: 3.75 EUR
 prodname: 'SHIMANO 1Mm M970/770/600 Zapatas  Unisex  Multicolor  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001CT1CHI/?tag=tolees-21'
 descuento: '33.33'
 average: '2.5'

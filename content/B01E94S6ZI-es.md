@@ -16,6 +16,7 @@ comparePrice: 27.79 EUR
 prodname: 'Filtex - PTS56. Escurreplatos plastificado para armarios de Cocina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01E94S6ZI/?tag=tolees-21'
 descuento: '34.69'
 average: '22.323333333333334'

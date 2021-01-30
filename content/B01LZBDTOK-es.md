@@ -16,6 +16,7 @@ comparePrice: 1.37 EUR
 prodname: 'MyCat Arena para Gatos - 5 Kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZBDTOK/?tag=tolees-21'
 descuento: '27.01'
 average: '1.21'

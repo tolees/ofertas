@@ -16,6 +16,7 @@ comparePrice: 156.0 EUR
 prodname: 'Rettos - Zapatillas Bajas  Hombre  Afelpado/NAPA GRABADA  Color: BEIG  Caucho  Talla: 45'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084Y1NH6F/?tag=tolees-21'
 descuento: '65.00'
 average: '54.6'

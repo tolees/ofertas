@@ -16,6 +16,7 @@ comparePrice: 101.97 EUR
 prodname: 'Andador Caminador de aluminio con rueda doble y sin asiento'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VEAD0HK/?tag=tolees-21'
 descuento: '45.09'
 average: '55.99'

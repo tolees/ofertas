@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Mars gaming MAK1  Teclado Gaming  Pulsación Optimizada  Antighosting  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZWX2DK/?tag=tolees-21'
 descuento: '30.93'
 average: '6.246363636363636'

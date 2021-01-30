@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'adidas All Me 3-Stripes Sujetador Deportivo  Mujer  Negro  Black   2XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GDGVPMJ/?tag=tolees-21'
 descuento: '37.08'
 average: '21.99'

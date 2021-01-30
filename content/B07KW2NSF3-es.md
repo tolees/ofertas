@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Baseus Cargador de Coche Quick Charge 3.0 5A 30W Carga Rapida Doble Puertos USB Adaptador para Samsung Galaxy S10E/S9/S8/Note 8 LG G6 Huawei P20/Mate10'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KW2NSF3/?tag=tolees-21'
 descuento: '35.02'
 average: '12.790000000000001'

@@ -16,6 +16,7 @@ comparePrice: 59.69 EUR
 prodname: 'Louviva Masajeador  10 Modos de Frecuencia  Silicona Suave  Impermeable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NVQCFX5/?tag=tolees-21'
 descuento: '73.71'
 average: '16.19'

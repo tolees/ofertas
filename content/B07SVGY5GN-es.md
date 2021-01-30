@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'The Fisherman: Fishing Planet - Day One Edition [Versión Española]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SVGY5GN/?tag=tolees-21'
 descuento: '62.99'
 average: '25.9'

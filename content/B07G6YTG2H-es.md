@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'FOGAWA 2 Pares Taloneras Gel Médica Plantillas Gel Taloneras Fascitis Plantar Taloneras Silicona Para aliviar el Dolor del Tendón de Aquiles Tamaño 39/40-46'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G6YTG2H/?tag=tolees-21'
 descuento: '26.68'
 average: '10.99'

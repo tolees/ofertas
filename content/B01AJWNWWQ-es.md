@@ -16,6 +16,7 @@ comparePrice: 193.1 EUR
 prodname: 'Maxtor STSHX-M401TCBM - Disco Duro Externo de 4 TB  2.5"  USB 3.0/3.1 Gen 1   Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AJWNWWQ/?tag=tolees-21'
 descuento: '55.98'
 average: '91.27380952380953'

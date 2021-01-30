@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'FNBK Funda para iPhone 11 Pro Max Case  Funda Móvil PU en iPhone 11 Pro Max  Magnético Carcasa con Soporte y Ranuras para Tarjetas Marrón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081DGTT7M/?tag=tolees-21'
 descuento: '53.89'
 average: '5.99'

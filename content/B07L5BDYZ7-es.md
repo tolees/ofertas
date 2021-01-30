@@ -16,6 +16,7 @@ comparePrice: 177.8 EUR
 prodname: 'BRA Efficient - Batería 3 piezas  de aluminio fundido con antiadherente  apta para todo tipo de cocinas incluso inducción'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L5BDYZ7/?tag=tolees-21'
 descuento: '46.57'
 average: '107.49'

@@ -16,6 +16,7 @@ comparePrice: 3.47 EUR
 prodname: 'ZARLLE CláSico Mujer Damas Chica Unisex Reloj De Pulsera De Cuarzo De Acero Inoxidable  Casual Banda De Acero Inoxidable Reloj De Cuarzo Analogico Reloj Correa De Marmol  Talla única  Azul B '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BVRH3VD/?tag=tolees-21'
 descuento: '71.47'
 average: '0.99'

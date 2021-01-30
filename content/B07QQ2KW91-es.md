@@ -16,6 +16,7 @@ comparePrice: 24.32 EUR
 prodname: 'Funko- Pop Disney: Frozen 2-The Water Nokk 6" Figura Coleccionable  Multicolor  Talla única  40896 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QQ2KW91/?tag=tolees-21'
 descuento: '52.92'
 average: '13.519200000000001'

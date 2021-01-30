@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Crema Facial de Acido Hialuronico Vegano 50ml de la Más Alta Calidad - Crema Antiarrugas para Mujer y el Contorno de Ojos con Vitamina E - Cosmetica Natural Hecho en Alemania'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H43FBVJ/?tag=tolees-21'
 descuento: '50.08'
 average: '14.97'

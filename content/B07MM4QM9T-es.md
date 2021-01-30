@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'EECOO 1200W LED Cultivo Interior  Plantas Led Grow Light 120LED  Lámpara de Plantas Espectro Completo Ligero Lampara con IR Rojo Azul  Lampara de Cultivo para Jardín de Interior Greenhouse Hydroponics'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MM4QM9T/?tag=tolees-21'
 descuento: '30.93'
 average: '96.69'

@@ -16,6 +16,7 @@ comparePrice: 17.5 EUR
 prodname: 'Lékué - Recipiente hermético para transportar alimentos  600 ml  Plástico  Turquesa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H3T85BL/?tag=tolees-21'
 descuento: '47.60'
 average: '11.059090909090909'

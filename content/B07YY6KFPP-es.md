@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'YOUKE Multifuncional para，Mesa de Centro  Mesa para Sofá  Estructura Metálica Estilo Industrial Marco de Madera y Metal  para Sala de Estar  Cocina  Dormitorio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YY6KFPP/?tag=tolees-21'
 descuento: '28.99'
 average: '49.0'

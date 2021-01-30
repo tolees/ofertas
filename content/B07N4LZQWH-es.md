@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Levi s Alpine  Botas Desert para Hombre  Marrón  Light Brown 26   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N4LZQWH/?tag=tolees-21'
 descuento: '44.44'
 average: '55.9625'

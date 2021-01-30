@@ -16,6 +16,7 @@ comparePrice: 90.99 EUR
 prodname: 'My Lovely Bed - Edredón Nórdico 4 Estaciones - 220x240 cm - Para cama de 150/160 - 3 en 1 - Cálido en invierno/Fresco en verano - Relleno Fibra Hueca : Mullida y Respirable - Funda 100% Microfibra - Para cama de 150/160'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076TCQ63Q/?tag=tolees-21'
 descuento: '40.00'
 average: '54.59'

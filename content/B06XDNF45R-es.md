@@ -16,6 +16,7 @@ comparePrice: 20.2 EUR
 prodname: 'Phister Philina B0303-0441-Camiseta de Manga Larga Bebé-Niñas Gris  Dark Shadow Dar  68 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XDNF45R/?tag=tolees-21'
 descuento: '72.72'
 average: '5.51'

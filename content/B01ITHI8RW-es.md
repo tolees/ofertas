@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Otterbox Clearly Protected Skin - Funda de Gel Transparente para iPhone SE 2020/8/7'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ITHI8RW/?tag=tolees-21'
 descuento: '50.03'
 average: '9.99'

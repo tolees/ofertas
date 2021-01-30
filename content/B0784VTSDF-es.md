@@ -16,6 +16,7 @@ comparePrice: 111.99 EUR
 prodname: 'Asics Chaussures Gecko XT'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0784VTSDF/?tag=tolees-21'
 descuento: '60.01'
 average: '44.79'

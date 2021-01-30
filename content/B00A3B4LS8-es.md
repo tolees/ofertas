@@ -16,6 +16,7 @@ comparePrice: 11.95 EUR
 prodname: 'Essie Esmalte de Uñas 076 Merino Cool'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00A3B4LS8/?tag=tolees-21'
 descuento: '25.52'
 average: '8.488'

@@ -16,6 +16,7 @@ comparePrice: 32.08 EUR
 prodname: 'Love Hair Extensions Extensiones de Clip de Pelo Natural Color 25 Rubio Claro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002LARLEK/?tag=tolees-21'
 descuento: '53.40'
 average: '14.95'

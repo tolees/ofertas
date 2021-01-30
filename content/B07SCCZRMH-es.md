@@ -16,6 +16,7 @@ comparePrice: 449.0 EUR
 prodname: 'HUGO Arti/hesten193 Traje  Negro  Charcoal 10   46  Talla del Fabricante: 44  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SCCZRMH/?tag=tolees-21'
 descuento: '48.62'
 average: '230.71'

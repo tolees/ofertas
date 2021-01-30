@@ -16,6 +16,7 @@ comparePrice: 5.38 EUR
 prodname: 'MagiDeal 50 Pedazos Madera Mixta Birdcase DIY Artesanía Decoración de Costura Scrapbooking'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074PQFGN7/?tag=tolees-21'
 descuento: '44.42'
 average: '2.99'

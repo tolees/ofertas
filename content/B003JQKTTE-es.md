@@ -16,6 +16,7 @@ comparePrice: 16.9 EUR
 prodname: 'NIVEA Good-Bye Celulitis Q10 plus Crema Corporal Reafirmante y Anticelulítico  200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003JQKTTE/?tag=tolees-21'
 descuento: '47.34'
 average: '8.4'

@@ -16,6 +16,7 @@ comparePrice: 40.99 EUR
 prodname: 'Bubble Bobble 4 Friends'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XH8YMDF/?tag=tolees-21'
 descuento: '26.93'
 average: '30.985'

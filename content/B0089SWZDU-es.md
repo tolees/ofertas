@@ -16,6 +16,7 @@ comparePrice: 245.99 EUR
 prodname: 'Canon EF 40mm f/2.8 STM - Objetivo para Canon  Distancia Focal Fija 40mm  Apertura f/2.8-22  diámetro: 68.2mm  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0089SWZDU/?tag=tolees-21'
 descuento: '32.92'
 average: '178.80666666666664'

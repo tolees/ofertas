@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Naipo Cojín de Masaje Respaldo Masajeador Espalda Shiatsu Eléctrico Masaje Espalda Asiento de Cuello  Espalda y Caderas  Calor Infrarrojos  Intensidad Regulable en Casa  Oficina o Coche'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BS3MSQR/?tag=tolees-21'
 descuento: '33.34'
 average: '108.55428571428573'

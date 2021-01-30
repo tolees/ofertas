@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Komono Reloj Analógico de Cuarzo Unisex con Correa de Cuero – KOM-W2000'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00G00ALBM/?tag=tolees-21'
 descuento: '43.78'
 average: '44.95'

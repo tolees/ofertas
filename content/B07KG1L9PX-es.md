@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'PUMA Rebound Layup Lo Mesh  Zapatillas Unisex Adulto  White Black-Jaffa Orange-Gum  37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG1L9PX/?tag=tolees-21'
 descuento: '68.32'
 average: '18.99'

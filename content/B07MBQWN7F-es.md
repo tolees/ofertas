@@ -16,6 +16,7 @@ comparePrice: 109.0 EUR
 prodname: 'Kickers Layton  Botas Clasicas para Hombre  Azul  Marine 10   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MBQWN7F/?tag=tolees-21'
 descuento: '68.72'
 average: '34.09'

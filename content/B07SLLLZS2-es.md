@@ -16,6 +16,7 @@ comparePrice: 73.33 EUR
 prodname: 'Asics Patriot 11  Running Shoe para Mujer  Menta Tinte/Sheet Rock  40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SLLLZS2/?tag=tolees-21'
 descuento: '34.61'
 average: '47.95'

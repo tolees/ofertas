@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'adidas Falcon W  Zapatillas de Deporte para Mujer  Multicolor Black Cblack Cblack Ftwwht  42 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DP7X41W/?tag=tolees-21'
 descuento: '25.76'
 average: '74.2'

@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Melissa & Doug- On The Farm Juego con Pegatines Reutilizables  Multicolor  19408 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ASUD724/?tag=tolees-21'
 descuento: '36.91'
 average: '5.735'

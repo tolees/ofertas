@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Pajitas de silicona reutilizables – pajitas grandes para batidos y zumos en colores inspirados en frutas – Paquete de 8'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZNMHGRC/?tag=tolees-21'
 descuento: '50.03'
 average: '9.99'

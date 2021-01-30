@@ -16,6 +16,7 @@ comparePrice: 7.98 EUR
 prodname: 'Purina ONE Bifensis Pienso para gatos Esterilizados Salmón y Trigo 1 5 Kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WD3WPYS/?tag=tolees-21'
 descuento: '79.45'
 average: '2.17'

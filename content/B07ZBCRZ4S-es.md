@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Suero de Retinol para Cara y Cuello  con Retinol Encapsulado al 3%  Ácido Hialurónico y Vitamina C  Hidratante de Alta Dosis Antienvejecimiento y Antiarrugas  Reduce Arrugas y Líneas Finas  20ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZBCRZ4S/?tag=tolees-21'
 descuento: '42.71'
 average: '14.89'

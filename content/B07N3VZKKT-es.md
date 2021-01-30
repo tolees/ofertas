@@ -16,6 +16,7 @@ comparePrice: 35.95 EUR
 prodname: 'Desigual Belts Indian Pasley Cinturón  Negro  NEGRO 2000   90 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N3VZKKT/?tag=tolees-21'
 descuento: '55.66'
 average: '15.94'

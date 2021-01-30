@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Zeller 13143 - Cajón multiusos de madera blanda conífera  40 x 30 x 24 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003ESIE9E/?tag=tolees-21'
 descuento: '40.29'
 average: '8.95'

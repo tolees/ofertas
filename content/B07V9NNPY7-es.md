@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Hackett London Parachute Belt Cinturón  Azul  513sky 513   115  Talla del fabricante: Medium  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V9NNPY7/?tag=tolees-21'
 descuento: '52.35'
 average: '40.5'

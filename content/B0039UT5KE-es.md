@@ -16,6 +16,7 @@ comparePrice: 41.02 EUR
 prodname: 'Casio Reloj de Pulsera AE-1000W-1BVEF'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0039UT5KE/?tag=tolees-21'
 descuento: '41.52'
 average: '24.131428571428568'

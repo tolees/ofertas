@@ -16,6 +16,7 @@ comparePrice: 32.0 EUR
 prodname: 'CRZ YOGA Sujetador Deportivo Yoga para Mujer Ejercicio Fitness Ropa Interior Leafy Multi 1 XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YYC9CV9/?tag=tolees-21'
 descuento: '50.00'
 average: '16.0'

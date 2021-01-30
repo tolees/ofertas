@@ -16,6 +16,7 @@ comparePrice: 62.24 EUR
 prodname: 'Adidas Zx Flux - Zapatillas para Bebés  Color Negro  Negro/Negro/Ftwr Blanco   Talla  36.6666666666667'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PNUGV4Q/?tag=tolees-21'
 descuento: '28.44'
 average: '44.54'

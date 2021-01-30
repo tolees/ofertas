@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Citizen Reloj Analógico para Hombre de Cuarzo con Correa en Cuero EQ0601-03EE'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0117DMNTE/?tag=tolees-21'
 descuento: '43.80'
 average: '48.045'

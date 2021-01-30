@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Racketworld Wilson Six Two BLX – Raqueta de Tenis + 3 Pelotas de Tenis RRP £120'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079HZ84HN/?tag=tolees-21'
 descuento: '64.29'
 average: '49.99'

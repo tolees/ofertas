@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'NuPro - Kit de protectores de pantalla para Kindle y Kindle Paperwhite  pack de 3  —no es compatible con el modelo del 2019  10.ª generación '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00QLEQAP8/?tag=tolees-21'
 descuento: '66.71'
 average: '4.99'

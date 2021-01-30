@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Kit Cuidado Barba Hombre  ATMOKO 9PCS Barba Peine  Barba Cepillo  Barba Aceite 30g  Barba Champú 60ml  Bálsamo Barba 30g  Tijera Barba  Barba Delantal  Modelo de forma de barba  Mejor Regalo  9 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RW2PXJ5/?tag=tolees-21'
 descuento: '30.01'
 average: '20.49'

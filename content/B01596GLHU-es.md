@@ -16,6 +16,7 @@ comparePrice: 43.99 EUR
 prodname: 'Suéter de Gasolina Industrias FW15-KWC283 591 PROFUNDO de la MARINA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01596GLHU/?tag=tolees-21'
 descuento: '45.44'
 average: '24'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Femometer Copa Menstrual  1 Piezas Pequeña y 1 Piezas Grande - Silicona suave reutilizable de grado medicinal - Menstrual Cup  Rosa y morado '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088WKVFS5/?tag=tolees-21'
 descuento: '46.68'
 average: '15.99'

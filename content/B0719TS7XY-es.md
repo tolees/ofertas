@@ -16,6 +16,7 @@ comparePrice: 6.92 EUR
 prodname: 'TAZA MICRO 350 ML | AVENGERS GALLERY'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0719TS7XY/?tag=tolees-21'
 descuento: '53.90'
 average: '3.19'

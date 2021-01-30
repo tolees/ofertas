@@ -16,6 +16,7 @@ comparePrice: 143.82 EUR
 prodname: 'Faro Barcelona 33415 - EASY Ventilador de techo con luz  15W  acero  palas de abs y difusor de cristal opal  color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007YFYU5K/?tag=tolees-21'
 descuento: '26.99'
 average: '107.93'

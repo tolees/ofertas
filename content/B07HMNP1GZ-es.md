@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Buff Tzom Gorra Pack Trek  Unisex Adulto  Stone Blue  Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HMNP1GZ/?tag=tolees-21'
 descuento: '60.00'
 average: '14.503333333333334'

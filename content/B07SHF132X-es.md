@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'adidas Continental  Zapatillas para Hombre  Multicolor  Cloud White/Off White Ee6329   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SHF132X/?tag=tolees-21'
 descuento: '40.00'
 average: '59.97'

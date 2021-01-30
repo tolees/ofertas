@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Sensilis Sun Secret - Crema Ultraligera Protector Solar Facial con SPF30-40 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077Y9PM2P/?tag=tolees-21'
 descuento: '27.50'
 average: '14.5'

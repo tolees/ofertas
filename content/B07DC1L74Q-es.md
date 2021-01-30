@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Puma RS-150 Satin Wn s  Zapatillas para Mujer  Morado  Sweet Lavender-Sweet Lavender   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DC1L74Q/?tag=tolees-21'
 descuento: '74.01'
 average: '25.98'

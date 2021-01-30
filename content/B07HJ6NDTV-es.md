@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Funko- Pop Vinyl: Animation: Rick & Morty: Unity Rick and Morty Figura de vinilo - coleccionable  Multicolor  talla única  35595 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HJ6NDTV/?tag=tolees-21'
 descuento: '60.63'
 average: '7.93'

@@ -16,6 +16,7 @@ comparePrice: 21.34 EUR
 prodname: 'Levi s Galoo Reversible Belt Cinturón  Negro  R Black 59   90 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RH3R5MJ/?tag=tolees-21'
 descuento: '38.33'
 average: '17.83'

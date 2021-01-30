@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'Luz Solar Exterior Jardín 12 LED Foco Solar con Sensor de Movimiento Impermeable Lámparas Solares Apliques de pared 2 Modos para Jardín Patio Césped Terraza Calzada'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WK68MK7/?tag=tolees-21'
 descuento: '45.93'
 average: '39.995000000000005'

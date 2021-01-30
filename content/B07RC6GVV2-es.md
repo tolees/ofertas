@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Puma Laliga 1 Hybrid Balón de Fútbol  Unisex Adulto  Gris White-Green Glimmer-Nrgy Red  5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RC6GVV2/?tag=tolees-21'
 descuento: '40.10'
 average: '16.975'

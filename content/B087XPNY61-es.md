@@ -16,6 +16,7 @@ comparePrice: 132.99 EUR
 prodname: 'San Ignacio 3 Sartenes 18/26/28 + Set Cuchillos  Daimiel  Aluminio Forjado  Inducción  Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087XPNY61/?tag=tolees-21'
 descuento: '44.36'
 average: '73.99'

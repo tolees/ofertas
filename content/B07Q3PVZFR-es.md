@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'Orimade Adhesivo Estantes Cesta para Ducha con 5 Ganchos para Colgar Esponjas y Cuchillas Estanteria Organizador Baño SUS304 Acero Inoxidable Sin Taladro - 2 Piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q3PVZFR/?tag=tolees-21'
 descuento: '28.01'
 average: '20.87'

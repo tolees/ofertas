@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'WEOFUN Protector de Pantalla Samsung A9 2018  3-Unidades Protector Cristal Templado para Samsung A9 2018 Vidrio Templado [0.33mm Ultra Transparent]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089QPFM3M/?tag=tolees-21'
 descuento: '46.19'
 average: '6.99'

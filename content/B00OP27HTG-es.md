@@ -16,6 +16,7 @@ comparePrice: 87.6 EUR
 prodname: 'Orbegozo MIG 2031 - Microondas con grill  700 W  20 L  9 niveles de funcionamento   color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OP27HTG/?tag=tolees-21'
 descuento: '30.37'
 average: '61.0'

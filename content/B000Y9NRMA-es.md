@@ -16,6 +16,7 @@ comparePrice: 12.71 EUR
 prodname: 'Kitchen Craft - Termómetro de Acero Inoxidable para espumador de Leche'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000Y9NRMA/?tag=tolees-21'
 descuento: '55.70'
 average: '6.23'

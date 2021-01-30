@@ -16,6 +16,7 @@ comparePrice: 15.26 EUR
 prodname: 'TRUUA 50pcs Papel Pintura colador Embudo de Filtro de Nylon  Malla Blanca cónico   9.5x16cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086JZ89NG/?tag=tolees-21'
 descuento: '52.69'
 average: '7.22'

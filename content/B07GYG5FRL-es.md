@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'AOQUSSQOA Mujer Shapewear Faja Reductora Abdomen con Gancho Adelgazantes Elástico de Alta Body Shape  5XL  Beige '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GYG5FRL/?tag=tolees-21'
 descuento: '47.51'
 average: '20.99'

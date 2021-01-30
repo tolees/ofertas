@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'L Oréal Paris Botanicals Champú para Cabellos Frágiles  Jengibre y Cilantro - 400 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XDRK2W8/?tag=tolees-21'
 descuento: '31.82'
 average: '5.42'

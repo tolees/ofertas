@@ -16,6 +16,7 @@ comparePrice: 11.04 EUR
 prodname: 'DC Figura de Vinilo Cyborg  colección Justice League  Funko 13487 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0711TYQB4/?tag=tolees-21'
 descuento: '27.63'
 average: '8.615'

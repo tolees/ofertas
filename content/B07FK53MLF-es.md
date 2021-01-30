@@ -16,6 +16,7 @@ comparePrice: 9.31 EUR
 prodname: 'Revlon  Accesorio de coloración - 60 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FK53MLF/?tag=tolees-21'
 descuento: '62.08'
 average: '3.53'

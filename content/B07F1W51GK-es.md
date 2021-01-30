@@ -16,6 +16,7 @@ comparePrice: 55.15 EUR
 prodname: 'Goda Goda eléctrica Soldador feinlöt pistón 220 V 60 W Eu Temperatura Regulable Soldadura lötwerkzeug con 5 stücketipps'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F1W51GK/?tag=tolees-21'
 descuento: '94.58'
 average: '2.99'

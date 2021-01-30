@@ -16,6 +16,7 @@ comparePrice: 222.64 EUR
 prodname: 'Bosch Professional BT 300 HD Trípode para nivel láser y óptico  295 cm  Rosca 5/8"  En caja'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002LCAL40/?tag=tolees-21'
 descuento: '36.76'
 average: '140.8'

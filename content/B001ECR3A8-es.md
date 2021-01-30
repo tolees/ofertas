@@ -16,6 +16,7 @@ comparePrice: 12.5 EUR
 prodname: 'Lékué coccion Blanca Malla Elástica para Cocer Los Alimentos A Parte  Silicona  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001ECR3A8/?tag=tolees-21'
 descuento: '29.60'
 average: '9.805'

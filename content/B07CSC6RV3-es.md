@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Puma Vikky Platform Ribbon P  Zapatillas para Mujer  Rosa  Dusty Coral-Dusty Coral   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CSC6RV3/?tag=tolees-21'
 descuento: '42.83'
 average: '35.295'

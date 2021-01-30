@@ -16,6 +16,7 @@ comparePrice: 2.37 EUR
 prodname: 'Universal Candy Color 3USB Cargador Travel Wall Charger Adapter Smart Mobile Phone Cargador de Fuente de alimentación para tabletas EU - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085CGNFF6/?tag=tolees-21'
 descuento: '35.02'
 average: '1.54'

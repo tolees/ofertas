@@ -16,6 +16,7 @@ comparePrice: 13.44 EUR
 prodname: 'Call of Duty: Modern Warfare - Steelbook [enthält kein Spiel] [Importación alemana]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W131QZN/?tag=tolees-21'
 descuento: '32.59'
 average: '14.163333333333334'

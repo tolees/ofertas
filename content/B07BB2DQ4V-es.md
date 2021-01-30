@@ -16,6 +16,7 @@ comparePrice: 34.11 EUR
 prodname: 'Beper BT.150Y - Máquina para Hot-Dog'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BB2DQ4V/?tag=tolees-21'
 descuento: '47.70'
 average: '17.84'

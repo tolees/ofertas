@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Mardozon Correa para Xiaomi Mi Band 4 / Mi Band 3 Pulsera  Coloridos Reloj Silicona Reemplazar Banda Pulsera para Xiaomi Mi Band 3/4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083MZHDMX/?tag=tolees-21'
 descuento: '35.31'
 average: '10.99'

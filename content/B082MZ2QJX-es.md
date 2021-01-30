@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Coleman - Nevera térmica rígida 16 QT  Alto Rendimiento  15 L  Capacidad para Enfriar hasta 1 día'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082MZ2QJX/?tag=tolees-21'
 descuento: '30.04'
 average: '27.95'

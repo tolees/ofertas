@@ -16,6 +16,7 @@ comparePrice: 26.78 EUR
 prodname: 'MANZI - 3 pares de medias de ballet para mujer y niña 40 Denier 3 pares de pies desnudos naturales edad 4-6'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T3JBKKJ/?tag=tolees-21'
 descuento: '34.95'
 average: '17.42'

@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'PUMA Ribbed Classic Beanie Gorro  Unisex Adulto  Jaffa Orange'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QGFZ2BF/?tag=tolees-21'
 descuento: '37.39'
 average: '12.49'

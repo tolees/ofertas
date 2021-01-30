@@ -16,6 +16,7 @@ comparePrice: 20.09 EUR
 prodname: 'Monix Copper - Sartén 28 cm de aluminio forjado con antiadherente con partículas de titanio  aptas para todo tipo de cocinas  incluso inducción  color cobre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L8F63DT/?tag=tolees-21'
 descuento: '25.39'
 average: '15.989999999999998'

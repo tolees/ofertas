@@ -16,6 +16,7 @@ comparePrice: 23.0 EUR
 prodname: 'Colnatur Sport sabor Neutro  330grs. Proteína hidrolizada de colágeno Colnatur y Vitamina C  Magnesio  Manganeso  Zinc y vitaminas B2 y B3  11grs al día.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071WS6C7Y/?tag=tolees-21'
 descuento: '49.57'
 average: '13.1'

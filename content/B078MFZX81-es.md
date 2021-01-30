@@ -16,6 +16,7 @@ comparePrice: 18.0 EUR
 prodname: 'Distribuidores de señal Splitter Combinador de Cables Satélite Repartidor Interior con Conector N de 2 Salidas  380-2700MHz  2 vías '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078MFZX81/?tag=tolees-21'
 descuento: '27.83'
 average: '12.99'

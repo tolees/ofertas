@@ -16,6 +16,7 @@ comparePrice: 57.99 EUR
 prodname: 'Balanza de cocina digital Laica KS1029W con diseño de fresas  en vidrio templado peso máximo 5 Kg. Encendido y apagado automático. Función TARA.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DU3IKL4/?tag=tolees-21'
 descuento: '69.86'
 average: '17.48'

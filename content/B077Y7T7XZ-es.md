@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'HP ENVY 500 - Ratón inalámbrico recargable  1600 ppp  sensor láser  micro-USB  ambidiestro   color negro y rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077Y7T7XZ/?tag=tolees-21'
 descuento: '42.26'
 average: '26.156666666666666'

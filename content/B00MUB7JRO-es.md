@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Camper Beetle  Zapatillas Altas para Hombre  Gris  Dark Gray   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MUB7JRO/?tag=tolees-21'
 descuento: '46.79'
 average: '80.435'

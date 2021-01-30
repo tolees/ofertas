@@ -16,6 +16,7 @@ comparePrice: 5.9 EUR
 prodname: 'Tescoma JGO 8 Cortapastas Galletas Tradicionales Delicia'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016N2D6AO/?tag=tolees-21'
 descuento: '25.42'
 average: '4.4'

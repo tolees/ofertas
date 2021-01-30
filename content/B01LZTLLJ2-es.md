@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'GoPro AMCRU-001 - Lector de Tarjetas MicroSD Portátil con Conector Universal  Color Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZTLLJ2/?tag=tolees-21'
 descuento: '26.68'
 average: '19.472'

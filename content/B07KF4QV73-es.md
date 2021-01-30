@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Levi s 501 High Rise Short Pantalones Cortos  Blanco  In The Clouds 0025   W28  Talla del Fabricante: 28  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KF4QV73/?tag=tolees-21'
 descuento: '25.00'
 average: '36.128181818181815'

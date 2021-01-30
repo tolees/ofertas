@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'SELECTED HOMME Slhskinny-Luca T Pants W Pantalones  Marrón  Tortoise Shell   W34/L32  Talla del Fabricante: 34  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D1VVJC2/?tag=tolees-21'
 descuento: '54.99'
 average: '28.125'

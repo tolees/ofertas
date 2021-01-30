@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Columbia Nikiski  Botas Bajas para Mujer  Negro  Black  39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JH35S5G/?tag=tolees-21'
 descuento: '25.46'
 average: '96.89'

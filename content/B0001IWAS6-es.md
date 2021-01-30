@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'STANLEY 1-92-066 - Caja de herramientas Milenium  48.9 x 26 x 24.8 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0001IWAS6/?tag=tolees-21'
 descuento: '28.04'
 average: '14.058'

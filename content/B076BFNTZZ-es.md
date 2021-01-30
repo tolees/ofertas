@@ -16,6 +16,7 @@ comparePrice: 17.9 EUR
 prodname: 'Tytoo Kit de Tatuaje de Purpurina para Chicas con 15 Plantillas  Uso Seguro  duración de 8-18 días'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076BFNTZZ/?tag=tolees-21'
 descuento: '46.98'
 average: '9.49'

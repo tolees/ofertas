@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Neutrogena Cellular Boost Anti-Edad  Crema De Día Spf 20 Con Vitamina C  Para La Cara Y El Cuello 1 Unidad 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081QHNBJF/?tag=tolees-21'
 descuento: '41.81'
 average: '17.263333333333332'

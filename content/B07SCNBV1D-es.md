@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Newdora Almohada de Viaje Viscoelástica de Espuma de Memoria  Almohada de Cuello  Almohadas de Acampada  Almohada Ortopédica Cervica  Soporte de Cuello  con Máscara de Ojos y Tapones  Gris Oscuro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SCNBV1D/?tag=tolees-21'
 descuento: '46.70'
 average: '12.600000000000001'

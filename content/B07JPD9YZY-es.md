@@ -16,6 +16,7 @@ comparePrice: 28.95 EUR
 prodname: 'Weekend Peninsula 5 Pares Calcetines de Running Deportivos Compresión Ligera Hombres Mujer de Deporte Transpirables  EU 39-42  3X Negro + 2X Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JPD9YZY/?tag=tolees-21'
 descuento: '55.27'
 average: '12.95'

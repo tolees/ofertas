@@ -16,6 +16,7 @@ comparePrice: 385.59 EUR
 prodname: 'Lenovo Ideapad 330-15IKBR  Ordenador  Platinum Grey'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MJ5LVLN/?tag=tolees-21'
 descuento: '27.39'
 average: '295.87'

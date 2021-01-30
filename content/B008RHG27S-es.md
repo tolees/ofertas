@@ -16,6 +16,7 @@ comparePrice: 10.76 EUR
 prodname: 'Cuerda Bungee Elástica Red De Carga Para Motocicleta Casco Equipaje Paquete'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008RHG27S/?tag=tolees-21'
 descuento: '44.33'
 average: '5.99'

@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'TianTa Funda para Galaxy Tab A 8.4 2020  Híbrido Tres Capas Funda Carcasa Protector con Correa y Mano  360 Rotación Kickstand para Samsung Galaxy Tab A 8.4 Pulgada 2020 SM-T307  Púrpura'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BK5VHRW/?tag=tolees-21'
 descuento: '45.96'
 average: '19.99'

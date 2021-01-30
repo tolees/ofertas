@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Woxter Smartfit15. Pulsera Actividad. Control pulsaciones  sueño. App BT. Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071XVND29/?tag=tolees-21'
 descuento: '33.36'
 average: '14.9325'

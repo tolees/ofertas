@@ -16,6 +16,7 @@ comparePrice: 1050.0 EUR
 prodname: 'Sony DSCRX100M5A - Cámara Compacta  20.1 MP  AF Híbrido de 0.05 s  24 fps  Vídeo 4 K  Sensor CMO  Cámara Superlenta con 960 fps  Lente Zeiss  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G4RNJ1R/?tag=tolees-21'
 descuento: '30.67'
 average: '708.926'

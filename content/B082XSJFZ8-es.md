@@ -16,6 +16,7 @@ comparePrice: 17.14 EUR
 prodname: 'Foto láser digital Tacómetro Sin contacto RPM Tacómetro Tacómetro láser digital Velocímetro Indicador de velocidad Motor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082XSJFZ8/?tag=tolees-21'
 descuento: '33.49'
 average: '11.4'

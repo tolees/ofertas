@@ -16,6 +16,7 @@ comparePrice: 20.28 EUR
 prodname: 'Suhctup Transparente Funda Compatible con Huawei Mate 8 Carcasa Protectora de TPU Ultradelgada Flor y Calavera Diseño Anti-Choques Resistente Case Cover para Huawei Mate 8 8 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0868N8GSZ/?tag=tolees-21'
 descuento: '60.65'
 average: '7.98'

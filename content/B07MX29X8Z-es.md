@@ -16,6 +16,7 @@ comparePrice: 12.82 EUR
 prodname: 'Far Cry New Dawn'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MX29X8Z/?tag=tolees-21'
 descuento: '25.98'
 average: '11.74'

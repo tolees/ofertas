@@ -16,6 +16,7 @@ comparePrice: 107.4 EUR
 prodname: 'Under Armour Ua Ultimate Speed Zapatillas de deporte Hombre  Negro Anthracite 101  41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0714DHKPW/?tag=tolees-21'
 descuento: '39.57'
 average: '58.24666666666667'

@@ -16,6 +16,7 @@ comparePrice: 61.8 EUR
 prodname: 'BRA Efficient Iron Parrilla Rectangular Lisa   35 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076H7S2LV/?tag=tolees-21'
 descuento: '26.34'
 average: '46.99666666666667'

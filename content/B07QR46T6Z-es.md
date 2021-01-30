@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'Pantalones Cortos Deportivos 2 de 2 GARVIT Pantalones Cortos de Verano con cordón elástico con cordón elástico de Playa Informal Gris y Rosa S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QR46T6Z/?tag=tolees-21'
 descuento: '44.84'
 average: '15.99'

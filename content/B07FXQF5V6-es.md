@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Vans Ward Canvas  Zapatillas para Hombre  Azul   Checkerboard  Sailor Blue/White Vh1   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FXQF5V6/?tag=tolees-21'
 descuento: '34.55'
 average: '49.09'

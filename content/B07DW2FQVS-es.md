@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Karcher Juego de llaves de carraca y de vaso - 130 piezas - carraca de calidad 1/4" hecho de cromo vanadio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DW2FQVS/?tag=tolees-21'
 descuento: '25.94'
 average: '19.99'

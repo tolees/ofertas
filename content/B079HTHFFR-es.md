@@ -16,6 +16,7 @@ comparePrice: 36.96 EUR
 prodname: '5W Gu10 Rgbw Led Colores Cambiantes Bombilla  6000K Blanco frio Equivalente 50W Bombilla LED  AC 85-265V  Rgb 12 Colore  Control remoto Incluido 10 unidades '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079HTHFFR/?tag=tolees-21'
 descuento: '32.01'
 average: '25.13'

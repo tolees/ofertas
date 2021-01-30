@@ -16,6 +16,7 @@ comparePrice: 43.97 EUR
 prodname: 'Mini altavoz portátil con Bluetooth  Con función altavoz  6 horas de reproducción musical  Sonido cristalino y potente  Verde metalizado  WOW  63581064'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZKKBRG/?tag=tolees-21'
 descuento: '73.03'
 average: '11.93'

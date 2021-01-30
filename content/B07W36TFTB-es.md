@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Pepe Jeans Bryan Bañador  Azul  Beat 549   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W36TFTB/?tag=tolees-21'
 descuento: '33.43'
 average: '26.965'

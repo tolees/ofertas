@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Dolity 6 Hojas de Pegatinas Transparentes de Conejo Gordo Accesorios para Hacer Manualidades de Bricolaje'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CH3DY12/?tag=tolees-21'
 descuento: '33.37'
 average: '5.99'

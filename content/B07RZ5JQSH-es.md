@@ -16,6 +16,7 @@ comparePrice: 27.18 EUR
 prodname: 'Libershine Organizadores de Viaje para Maletas  8 Set de Organizador de Equipaje  Impermeable Organizador de Maleta Bolsa para Ropa Sucia de Viaje Cubos de Embalaje para Viaje'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RZ5JQSH/?tag=tolees-21'
 descuento: '48.53'
 average: '13.99'

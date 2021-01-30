@@ -16,6 +16,7 @@ comparePrice: 189.0 EUR
 prodname: 'ghd mini - Plancha de pelo profesional con placas finas de 12 7 mm para cabello corto y flequillo  Negra'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BHGNCDL/?tag=tolees-21'
 descuento: '28.58'
 average: '134.99'

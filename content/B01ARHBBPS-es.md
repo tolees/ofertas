@@ -16,6 +16,7 @@ comparePrice: 53.61 EUR
 prodname: 'Corsair Vengeance LPX - Módulo de memoria XMP 2.0 de alto rendimiento de 8 GB  1 x 8 GB  DDR4  2400 MHz  C16   color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ARHBBPS/?tag=tolees-21'
 descuento: '25.42'
 average: '39.31666666666666'

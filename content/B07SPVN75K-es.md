@@ -16,6 +16,7 @@ comparePrice: 10.58 EUR
 prodname: 'Funko- Pop TV: La Casa de Papel-Helsinki Collectible Figure  Multicolor  44194 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SPVN75K/?tag=tolees-21'
 descuento: '26.47'
 average: '8.87'

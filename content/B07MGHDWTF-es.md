@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Gant 3-Pack Trunk Seasonal Solid Calzoncillos  Rojo  Mahogany Red 617   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MGHDWTF/?tag=tolees-21'
 descuento: '51.91'
 average: '19.23'

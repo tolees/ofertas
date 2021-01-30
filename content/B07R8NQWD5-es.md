@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Máscara de bricolaje para DJ PVC Casco Festival de música Malvavisco Sombrero Discoteca Bar Máscara Fiesta Disfraz Prestaciones Prestaciones - Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R8NQWD5/?tag=tolees-21'
 descuento: '46.19'
 average: '7.923333333333334'

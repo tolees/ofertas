@@ -16,6 +16,7 @@ comparePrice: 17.33 EUR
 prodname: 'Traje de baño de Manga Larga para Mujer  Traje de Surf con Cremallera de una Pieza Impreso 2XL '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PT99H9H/?tag=tolees-21'
 descuento: '62.55'
 average: '6.49'

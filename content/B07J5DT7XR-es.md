@@ -16,6 +16,7 @@ comparePrice: 38.05 EUR
 prodname: 'SUPERMOM Pants Utb Tropical Pantalones premamá  Multicolor  Multicolour AOP P184   36  Talla del Fabricante: X-Small  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J5DT7XR/?tag=tolees-21'
 descuento: '55.45'
 average: '16.95'

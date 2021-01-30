@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'TECOOL 13 Pulgadas Funda Portátil  Funda de Cuero Protectora Bolsa Ordenador Laptop Sleeve para MacBook Air 13 / MacBook Pro 13.3 Retina  HP Envy x360  ASUS Flip C302CA  DELL XPS 13 -Gris Claro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V9DHM13/?tag=tolees-21'
 descuento: '50.02'
 average: '14.99'

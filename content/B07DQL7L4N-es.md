@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'Lámpara Escritorio LED  Lámparas de Mesa USB Regulable Recargable - AUELEK 1800mAh Plegable Luz/Diseño Giratorio/Control Táctil/ 3 Niveles de Brillo/ 5 Temperaturas para Relax  Estudio  Lectura'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DQL7L4N/?tag=tolees-21'
 descuento: '34.49'
 average: '19.528461538461535'

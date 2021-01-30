@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Samsung HW-N400  Barra de Sonido Inalámbrica Estéreo 2 Ch  1  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CHBNYQ1/?tag=tolees-21'
 descuento: '41.60'
 average: '121.072'

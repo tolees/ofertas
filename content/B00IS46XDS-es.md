@@ -16,6 +16,7 @@ comparePrice: 44.45 EUR
 prodname: 'Travesero empapador impermeable para la cama   Máxima absorción   con 5 capas   ideal para la incontinencia urinaria   70 x 90 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IS46XDS/?tag=tolees-21'
 descuento: '34.78'
 average: '26.47'

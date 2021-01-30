@@ -16,6 +16,7 @@ comparePrice: 21.77 EUR
 prodname: 'Desodorante en barra antitranspirante Dove Plus Care. Para hombre  modelo Clean Comfort  50 ml  Pack of 6'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01F8IE64O/?tag=tolees-21'
 descuento: '29.31'
 average: '15.39'

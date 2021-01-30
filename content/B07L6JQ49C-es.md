@@ -16,6 +16,7 @@ comparePrice: 38.9 EUR
 prodname: 'B Blesiya Unidad de Disquete SSD USB Tornillos Complimentos Fácil Instalación Conveniente Duradero'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L6JQ49C/?tag=tolees-21'
 descuento: '44.45'
 average: '20.959999999999997'

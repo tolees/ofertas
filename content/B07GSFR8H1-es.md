@@ -16,6 +16,7 @@ comparePrice: 21.96 EUR
 prodname: 'NIVEA Creme en pack de 4  4 x 400 ml   crema hidratante de manos  cara y cuerpo para toda la familia  crema universal para una piel suave e hidratada  crema multiusos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GSFR8H1/?tag=tolees-21'
 descuento: '27.32'
 average: '16.4475'

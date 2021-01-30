@@ -16,6 +16,7 @@ comparePrice: 16.8 EUR
 prodname: 'Finocam Espiral Design Collection Elegant  Agenda 2020  155 x 212 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TCP7TVH/?tag=tolees-21'
 descuento: '30.06'
 average: '11.75'

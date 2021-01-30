@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Revlon ColorStay Corrector 24h  #030 Light Medium  - 6.2ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00AXJA008/?tag=tolees-21'
 descuento: '64.32'
 average: '4.126666666666667'

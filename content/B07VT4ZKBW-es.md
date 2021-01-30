@@ -16,6 +16,7 @@ comparePrice: 46.73 EUR
 prodname: 'Skechers GO Run Pulse  Zapatillas para Mujer  Blanco Blanco Textil Multi Trim Wmlt  40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VT4ZKBW/?tag=tolees-21'
 descuento: '26.77'
 average: '34.22'

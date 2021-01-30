@@ -16,6 +16,7 @@ comparePrice: 75.6 EUR
 prodname: 'Clarks Ronnie Top  Botas Chelsea para Hombre  Negro  Black Leather Black Leather   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MLSSRQL/?tag=tolees-21'
 descuento: '50.05'
 average: '37.76'

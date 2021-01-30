@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Star Wars: Battlefront II - Edición estándar  La caja contiene un código de descarga - Origin '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071CNQWV4/?tag=tolees-21'
 descuento: '62.49'
 average: '18.939999999999998'

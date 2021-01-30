@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Reloj Komono Estelle Royale para Mujer KOM-W2863'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BN6D8FI/?tag=tolees-21'
 descuento: '33.35'
 average: '54.475'

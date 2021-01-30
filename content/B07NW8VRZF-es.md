@@ -16,6 +16,7 @@ comparePrice: 84.95 EUR
 prodname: 'Skechers D lites 3.0-Proven Force  Zapatillas para Mujer  Black Leather/Black & Gray Trim Bbk   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NW8VRZF/?tag=tolees-21'
 descuento: '41.26'
 average: '52.61'

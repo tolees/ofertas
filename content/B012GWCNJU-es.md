@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: '3 Piezas Sujetador Deportivo para Mujeres Sin Costuras Yoga Racerback Top con Almohadillas Extraíbles Ultimate Corriendo Gimnasio Ropa  M: 32/34  Negro x 3 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B012GWCNJU/?tag=tolees-21'
 descuento: '37.52'
 average: '11.19'

@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'ValueHall 5Pcs Ruedas para Sillas de Oficina de goma de repuesto Caster Silencioso Rolling y Seguro para Cualquier Piso 2.5-Inch  Negro V7067'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JZ4ZW1N/?tag=tolees-21'
 descuento: '30.56'
 average: '24.99'

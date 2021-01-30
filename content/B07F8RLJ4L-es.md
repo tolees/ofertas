@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Samsung Led View - Funda para Galaxy Note 9  color lavanda púrpura  lavanda - Version española'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F8RLJ4L/?tag=tolees-21'
 descuento: '77.93'
 average: '24.845'

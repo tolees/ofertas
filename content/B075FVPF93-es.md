@@ -16,6 +16,7 @@ comparePrice: 104.95 EUR
 prodname: 'D-Link DIR-878 – Router WiFi Gaming AC1900 MU-MIMO  Dual-Band  1900 Mbps  4 Puertos LAN + 1 Puerto de Internet  RJ45 Gigabit 10/100/1000 Mbps  Wave 2  WPS  WPA2   Compatible Movistar  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075FVPF93/?tag=tolees-21'
 descuento: '26.70'
 average: '73.46000000000001'

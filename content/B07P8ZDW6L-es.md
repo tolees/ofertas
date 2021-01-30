@@ -16,6 +16,7 @@ comparePrice: 12.9 EUR
 prodname: 'Dove Loción Coporal Té Matcha - Pack de 3 x 400 ml  Total: 1200 ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P8ZDW6L/?tag=tolees-21'
 descuento: '30.31'
 average: '9.110555555555557'

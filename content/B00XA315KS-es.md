@@ -16,6 +16,7 @@ comparePrice: 11.45 EUR
 prodname: 'Respiral Caramelos  Sabor Mentol - 1000 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XA315KS/?tag=tolees-21'
 descuento: '52.31'
 average: '5.46'

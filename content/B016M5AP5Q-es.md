@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'OililyOilily Carry All - Shopper Mujer  Color Rosa  Talla 38x31x15 cm  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016M5AP5Q/?tag=tolees-21'
 descuento: '29.16'
 average: '85.0'

@@ -16,6 +16,7 @@ comparePrice: 18.95 EUR
 prodname: 'Calcetines de Tenis Performance Crew 3 Pares  Blanco  EU 35-38 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DNG16CQ/?tag=tolees-21'
 descuento: '31.66'
 average: '12.95'

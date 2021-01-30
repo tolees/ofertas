@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'HAORUI Telón De Fondo De Los 3mx3m De Seda Blanca del Sin El Botín para La Decoración De Bodas  Fiesta  Evento'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0769D8VZP/?tag=tolees-21'
 descuento: '48.90'
 average: '30.15'

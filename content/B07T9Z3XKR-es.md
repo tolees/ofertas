@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Reloj Digital para Niños Niñas  Reloj Infantil Deportivo 7 Colores Luz LED Multifuncional Impermeable 30 M Relojes de Pulsera para Exteriores con Alarma para Niños de 4 a 15 años.  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T9Z3XKR/?tag=tolees-21'
 descuento: '62.37'
 average: '9.78'

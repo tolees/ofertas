@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'Pendrive 512MB 10 Piezas Unidad Flash USB - Giratorio Pequeña Capacidad 512 MB Pen Drive - Portátil Azul Memoria USB Regalo de Empresa con 10 Unidades Cordones para Trabajos Fotográficos by FEBNISCTE'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JFXR9HA/?tag=tolees-21'
 descuento: '33.60'
 average: '24.56'

@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'BOSS Schino-Slim D Pantalones  Marrón  Dark Brown 201   W35/L34  Talla del Fabricante: 3534  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N95H1HK/?tag=tolees-21'
 descuento: '64.53'
 average: '35.45'

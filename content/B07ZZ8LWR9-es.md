@@ -16,6 +16,7 @@ comparePrice: 31.06 EUR
 prodname: 'Kayhan Originals - Pantalones Cortos de Deporte para Hombre  con Bolsillos y Cremallera  para Entrenamiento  Fitness  Jogging  Pantalones Cortos Antracita XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZZ8LWR9/?tag=tolees-21'
 descuento: '44.01'
 average: '17.365000000000002'

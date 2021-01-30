@@ -16,6 +16,7 @@ comparePrice: 27.95 EUR
 prodname: 'Buff Karlin Mardi Grape Tubular Polar  Mujer  Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TCHSC34/?tag=tolees-21'
 descuento: '40.00'
 average: '16.77'

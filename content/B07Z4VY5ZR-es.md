@@ -16,6 +16,7 @@ comparePrice: 4.56 EUR
 prodname: 'SALAKA Peine Plegable de plástico Negro de Doble Cabeza Peine Plegable de Viaje Peine Plegable Plegable DIY Peluquería Belleza Peine Cepillo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z4VY5ZR/?tag=tolees-21'
 descuento: '48.90'
 average: '2.33'

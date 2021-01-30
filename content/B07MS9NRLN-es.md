@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Kickers Tyl  Botas Slouch para Mujer  Marrón  Camel 114   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MS9NRLN/?tag=tolees-21'
 descuento: '74.04'
 average: '27.276666666666664'

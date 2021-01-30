@@ -16,6 +16,7 @@ comparePrice: 33.89 EUR
 prodname: 'AEG AKIT 360+ Accesorio Para Aspirador De Mano  Plástico  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M15KS4E/?tag=tolees-21'
 descuento: '41.02'
 average: '19.99'

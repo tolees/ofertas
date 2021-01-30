@@ -16,6 +16,7 @@ comparePrice: 23.98 EUR
 prodname: 'TOPBATHY Vegetable and Fruit Can Strainer Washing Drain Basket Colanders Can Colander Strainer for Kitchen  Pink '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SJ6G5RZ/?tag=tolees-21'
 descuento: '50.00'
 average: '11.99'

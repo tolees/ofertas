@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Syxinn Compatible con Correa de Reloj Gear S3 Frontier/Classic/Galaxy Watch 46mm Banda Pulseras de Repuesto  22mm Acero Inoxidable Metal Pulsera para Moto 360 2nd Gen 46mm/Huawei Watch GT/GT 2 46mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088CRXPXR/?tag=tolees-21'
 descuento: '42.51'
 average: '22.99'

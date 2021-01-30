@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Bolsa de viaje Pepe Jeans Raw para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NCN6PFM/?tag=tolees-21'
 descuento: '30.00'
 average: '38.5'

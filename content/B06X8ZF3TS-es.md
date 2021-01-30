@@ -16,6 +16,7 @@ comparePrice: 36.0 EUR
 prodname: 'Bandolera con solapa Pepe Jeans Nicole'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06X8ZF3TS/?tag=tolees-21'
 descuento: '38.89'
 average: '22.0'

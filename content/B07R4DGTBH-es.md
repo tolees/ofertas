@@ -16,6 +16,7 @@ comparePrice: 170.37 EUR
 prodname: 'Alacrity 9203 Handsfree 2D 1D escáner de código de barras con cable  lector de código de barras omnidireccional con cable USB  captura códigos de barras desde la pantalla del teléfono móvil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R4DGTBH/?tag=tolees-21'
 descuento: '39.63'
 average: '102.86'

@@ -16,6 +16,7 @@ comparePrice: 237.29 EUR
 prodname: 'Shark Tiburón Nano homenaje cascos de motocicleta  color negro/morado  talla M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077F6RQZD/?tag=tolees-21'
 descuento: '39.52'
 average: '143.51'

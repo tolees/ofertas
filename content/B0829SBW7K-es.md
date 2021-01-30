@@ -16,6 +16,7 @@ comparePrice: 18.69 EUR
 prodname: 'Longsing Juego Tema Decoración de Fiesta Videojuegos Decoración Videojuegos de 20 Piezas Fiesta Temática para Suministros de Fiesta para Niños y Adultos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0829SBW7K/?tag=tolees-21'
 descuento: '57.25'
 average: '7.99'

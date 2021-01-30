@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Memoria Flash USB 3.1 de Estado sólido SanDisk SDCZ880-256G-G46 Extreme Pro de 256 GB  USB 3.1 Gen 1   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N7QDO7M/?tag=tolees-21'
 descuento: '44.00'
 average: '82.70666666666666'

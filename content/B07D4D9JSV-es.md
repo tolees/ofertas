@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Huasiru Pintura Caso Funda para Amazon Kindle 8th generación  2016 lanzado  con Auto Despertar/Dormir [no Apto para Kindle Paperwhite]  Navegar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D4D9JSV/?tag=tolees-21'
 descuento: '43.35'
 average: '16.99'

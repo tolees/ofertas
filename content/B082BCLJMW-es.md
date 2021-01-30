@@ -16,6 +16,7 @@ comparePrice: 69.98 EUR
 prodname: 'Icons Corner Pack de 2 Sillas Negra Patas de Madera Kandem Paris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082BCLJMW/?tag=tolees-21'
 descuento: '37.14'
 average: '47.99'

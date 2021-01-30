@@ -16,6 +16,7 @@ comparePrice: 78 EUR
 prodname: 'Chantelle Champs Elysees Balconette  Marfil  Dune 97     Talla del Fabricante: 70D  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077H15GFF/?tag=tolees-21'
 descuento: '67.72'
 average: '25.18'

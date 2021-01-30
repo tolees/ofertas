@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'POP! Vinilo - Games: Mass Effect Andromeda: Jaal'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M4SAG4U/?tag=tolees-21'
 descuento: '43.43'
 average: '7.54'

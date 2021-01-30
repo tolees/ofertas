@@ -16,6 +16,7 @@ comparePrice: 139.95 EUR
 prodname: 'G-STAR RAW Feldspar High Waist Straight Cargo Pantalones  Azul  Mazarine Blue B067-4213   33W / 36L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JJ43DLM/?tag=tolees-21'
 descuento: '89.10'
 average: '15.25'

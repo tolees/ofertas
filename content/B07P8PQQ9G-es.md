@@ -16,6 +16,7 @@ comparePrice: 14.93 EUR
 prodname: 'Diesel UFST-STARS-THREEPACK  Tanga para Mujer  Negro  Black/Black/Black E4953/0jawe   40  Talla del fabricante: Large   Pack de 3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P8PQQ9G/?tag=tolees-21'
 descuento: '44.01'
 average: '8.36'

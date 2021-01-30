@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Alfombrilla de Ratón Cojín de Muñeca con Reposamuñecas  Apoyo de Gel Ergonómico de Memoria Para Trabajadores Y Jugadores（negro）  Alfombrilla de ratón '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073GDBD23/?tag=tolees-21'
 descuento: '39.40'
 average: '8.84'

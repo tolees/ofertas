@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'Columbia Heavenly Shorty Omni-Heat  Botas de Invierno para Mujer  Gris  Grey Ice  White   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JHWDJCM/?tag=tolees-21'
 descuento: '77.40'
 average: '24.86'

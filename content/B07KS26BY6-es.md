@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: '50W Focos LED Exterior  Yuanline Floodlight IP65 Iluminación de Exterior para Jardín  Terraza  Camino  Estadio  Blanco Cálido [Clase de eficiencia energética A+]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KS26BY6/?tag=tolees-21'
 descuento: '50.03'
 average: '9.99'

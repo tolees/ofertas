@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Go Run Mojo 2.0-Escape  Zapatillas para Mujer  Black Textile/Pink Trim Bkpk  3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N13CTDF/?tag=tolees-21'
 descuento: '57.31'
 average: '27.935000000000002'

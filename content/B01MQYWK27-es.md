@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Prodigiosa: Las aventuras de Ladybug - Playset con acción  Bandai 39850 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MQYWK27/?tag=tolees-21'
 descuento: '44.98'
 average: '9.57'

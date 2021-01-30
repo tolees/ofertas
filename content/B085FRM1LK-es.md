@@ -16,6 +16,7 @@ comparePrice: 81.7 EUR
 prodname: 'Concise Home and Insect Killer 20w/30w/40w luz UV atraer a Zap insectos voladores plata  con 2 tubos de regalo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085FRM1LK/?tag=tolees-21'
 descuento: '70.54'
 average: '24.025000000000002'

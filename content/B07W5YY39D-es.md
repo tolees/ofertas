@@ -16,6 +16,7 @@ comparePrice: 18.0 EUR
 prodname: '500x Negro Sujetacables profesional Cable Sujetacables Velcro Bridas de cable Estancias UV Resistente al calor Duradero Grado industrial 5 tama?os: 100/150 / 200/300 / 400 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W5YY39D/?tag=tolees-21'
 descuento: '40.00'
 average: '10.8'

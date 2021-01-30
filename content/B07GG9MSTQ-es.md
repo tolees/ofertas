@@ -16,6 +16,7 @@ comparePrice: 249.99 EUR
 prodname: 'Philips Centro de planchado GC8940/20 Plancha sin quemaduras ni necesidad de realizar ajustes de la temperatura  autoapagado  ultraligera  Steamglide Advanced  7.5 bares  golpe de vapor 470 gr  azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GG9MSTQ/?tag=tolees-21'
 descuento: '40.63'
 average: '154.70499999999998'

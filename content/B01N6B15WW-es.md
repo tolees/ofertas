@@ -16,6 +16,7 @@ comparePrice: 40.95 EUR
 prodname: 'Overwatch - D.VA & Meka figura de vinilo  Funko 13090 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N6B15WW/?tag=tolees-21'
 descuento: '29.38'
 average: '31.680666666666667'

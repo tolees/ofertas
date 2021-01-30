@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Under Armour Charged Pursuit 2  Zapatillas para Correr para Hombre  Azul  Academy/White/White  401  401   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PXTYZSP/?tag=tolees-21'
 descuento: '29.76'
 average: '42.11'

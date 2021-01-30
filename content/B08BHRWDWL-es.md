@@ -16,6 +16,7 @@ comparePrice: 43.99 EUR
 prodname: 'Mouse para juegos Bluetooth  mouse inalámbrico recargable  mouse silencioso con retroiluminación LED RGB de 2400 ppp  para PC portátil Windows Mac Linux OSX Office games  Black star '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BHRWDWL/?tag=tolees-21'
 descuento: '47.74'
 average: '22.99'

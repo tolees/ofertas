@@ -16,6 +16,7 @@ comparePrice: 9.92 EUR
 prodname: 'LNIEGE 1PC plástico 800ml Gel Bolas Carga de Botellas de plástico con Perlas de 7-8m m 10000PCS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087JK7PH7/?tag=tolees-21'
 descuento: '49.09'
 average: '5.05'

@@ -16,6 +16,7 @@ comparePrice: 12.0 EUR
 prodname: 'Insect.zum sumideros 0  5l - [Pack de 2]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NBHQEPP/?tag=tolees-21'
 descuento: '33.50'
 average: '8.146666666666667'

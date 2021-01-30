@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Tigi 57432 - Champú  300 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003HUSM8M/?tag=tolees-21'
 descuento: '37.45'
 average: '7.5'

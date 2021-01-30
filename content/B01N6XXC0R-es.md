@@ -16,6 +16,7 @@ comparePrice: 189.0 EUR
 prodname: 'Seiko Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable SXDG89P1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N6XXC0R/?tag=tolees-21'
 descuento: '25.61'
 average: '135.73714285714286'

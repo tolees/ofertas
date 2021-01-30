@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'PUMA Cilia  Zapatillas para Mujer  Negro Black White/Gray Violet Silver  38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F31WXKN/?tag=tolees-21'
 descuento: '45.04'
 average: '32.7'

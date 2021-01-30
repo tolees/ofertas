@@ -16,6 +16,7 @@ comparePrice: 84.95 EUR
 prodname: 'Wrangler Arizona Jeans  Azul  Fuse Blue 40d   40W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JLZY5B5/?tag=tolees-21'
 descuento: '49.99'
 average: '42.48'

@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'PROTEAR Protectores Auditivos Con Bluetooth y radio AM FM micrófono incorporado  protección auditiva que reduce el ruido  SNR 30 dB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J65PR5N/?tag=tolees-21'
 descuento: '38.16'
 average: '80.39'

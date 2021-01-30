@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance 997H m  Zapatillas para Mujer  Morado  Purple Haq   40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S2SN29S/?tag=tolees-21'
 descuento: '44.51'
 average: '49.94'

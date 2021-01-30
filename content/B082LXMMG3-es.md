@@ -16,6 +16,7 @@ comparePrice: 11.48 EUR
 prodname: 'Anillas para Llavero con Cadena 50 Piezas Anillo de Llavero Aleación Plateada con Cadena y Anillos de Salto para Manualidades Fabricación de Joyas Correas 25mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082LXMMG3/?tag=tolees-21'
 descuento: '30.40'
 average: '7.99'

@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Arena Cruiser EVO Goggles  Adultos Unisex  Clear-Blue  TU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T7KD7XM/?tag=tolees-21'
 descuento: '45.25'
 average: '8.19'

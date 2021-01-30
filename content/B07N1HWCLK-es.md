@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Clarks Step Weltfree  Zapatillas para Mujer  Negro  Black Black   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1HWCLK/?tag=tolees-21'
 descuento: '77.20'
 average: '21.035999999999998'

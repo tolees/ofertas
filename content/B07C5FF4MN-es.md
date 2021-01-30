@@ -16,6 +16,7 @@ comparePrice: 23.9 EUR
 prodname: 'Pulsera Repelente de Mosquitos -12 Paquetes Todo Pulsera Anti Mosquito Natural Bandas Repelentes de Insectos Pulseras Repelentes de Viaje Ingrediente Químico No Tóxico Para Niños y Adultos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C5FF4MN/?tag=tolees-21'
 descuento: '54.02'
 average: '10.99'

@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'DH-QN05 Calefactor Portátil Eléctrico PTC Calefacción de Cerámica 950W/650W/5W 90°Oscilación Calentador con 3 Ajustes de Temperatura Protección contra Sobrecalentamiento Seguridad para Hogar&Oficina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GXD16GN/?tag=tolees-21'
 descuento: '58.59'
 average: '25.381666666666668'

@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'PUMA Carina L  Zapatillas para Mujer  Blanco White White Silver  38.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JGP7TN2/?tag=tolees-21'
 descuento: '30.07'
 average: '41.95'

@@ -16,6 +16,7 @@ comparePrice: 19.0 EUR
 prodname: 'KiplingGleam SMujerMonederosMulticolor  Urban Jungle  14x9.5x5.5 Centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TTPDT2F/?tag=tolees-21'
 descuento: '40.00'
 average: '11.4'

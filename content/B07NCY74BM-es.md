@@ -16,6 +16,7 @@ comparePrice: 45.04 EUR
 prodname: 'non-brand 50pcs Juego de Dados de Madera en Blanco D6 3cm para Proyectos de Decoración y Manualidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NCY74BM/?tag=tolees-21'
 descuento: '44.45'
 average: '25.02'

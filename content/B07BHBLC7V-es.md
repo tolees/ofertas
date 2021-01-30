@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Kipling - New Hiphurray  Bolsos totes Mujer  Rojo  Lively Red   1x4x44.5 cm  B x H T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BHBLC7V/?tag=tolees-21'
 descuento: '57.73'
 average: '12.64'

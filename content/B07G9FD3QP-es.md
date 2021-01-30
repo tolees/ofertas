@@ -16,6 +16,7 @@ comparePrice: 19.98 EUR
 prodname: 'Joma Academy Pantalon Termico Caballero  Hombre  Naranja  L-XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G9FD3QP/?tag=tolees-21'
 descuento: '34.98'
 average: '12.99'

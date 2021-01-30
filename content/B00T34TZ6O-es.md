@@ -16,6 +16,7 @@ comparePrice: 35.95 EUR
 prodname: 'Emsa Clip&Close - Set de 9 Herméticos de Plástico Rectangular de 0.15  0.25  2x0.55/0.55  1  1.10  2.30 L   higiénico  no retiene olores ni sabores 100% libre de BPA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00T34TZ6O/?tag=tolees-21'
 descuento: '33.27'
 average: '23.99'

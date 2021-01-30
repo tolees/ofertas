@@ -16,6 +16,7 @@ comparePrice: 259.99 EUR
 prodname: 'KidKraft- Arenero de madera para niños  diseño de galeón pirata  para jardín y exteriores   Color Multicolor  128 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001AKE2B2/?tag=tolees-21'
 descuento: '30.00'
 average: '181.99'

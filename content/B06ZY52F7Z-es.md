@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Pierre Cardin Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable PC108112F04'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06ZY52F7Z/?tag=tolees-21'
 descuento: '61.12'
 average: '34.95'

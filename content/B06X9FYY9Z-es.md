@@ -16,6 +16,7 @@ comparePrice: 11.84 EUR
 prodname: 'COREGA Acción total tabletas limpiadoras prótesis dentales 30 tabletas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06X9FYY9Z/?tag=tolees-21'
 descuento: '43.83'
 average: '6.65'

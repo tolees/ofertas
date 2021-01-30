@@ -16,6 +16,7 @@ comparePrice: 33.0 EUR
 prodname: 'Narciso Rodriguez Narciso Rodriguez For Her Hair Mist 30 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00AURSFXM/?tag=tolees-21'
 descuento: '34.55'
 average: '21.6'

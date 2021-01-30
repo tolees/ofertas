@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'BOSS Dogfish Bañador  Azul  Bright Blue 431   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KCS13VW/?tag=tolees-21'
 descuento: '30.03'
 average: '34.95'

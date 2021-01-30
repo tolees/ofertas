@@ -16,6 +16,7 @@ comparePrice: 14.2 EUR
 prodname: 'Shimano CSHG318132 Cassette  Unisex  Gris  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003EQ96SE/?tag=tolees-21'
 descuento: '30.28'
 average: '9.9'

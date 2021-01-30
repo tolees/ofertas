@@ -16,6 +16,7 @@ comparePrice: 106.0 EUR
 prodname: 'Kickers Kick Hi Core  Botas para Hombre  Negro  43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001BN0PJQ/?tag=tolees-21'
 descuento: '45.22'
 average: '59.71333333333333'

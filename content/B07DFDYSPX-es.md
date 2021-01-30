@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Funko Pop Doctor Who Figura de Vinilo Missy  Multicolor  32830 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFDYSPX/?tag=tolees-21'
 descuento: '44.94'
 average: '7.0'

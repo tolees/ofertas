@@ -16,6 +16,7 @@ comparePrice: 30.49 EUR
 prodname: 'Soporte Monitor de Ordenador  Madera Elevador Monitor Portátil Monitor de Escritorio de Doble Propósito  Almacenamiento por Escritorio  Nogal Rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DVMQNXW/?tag=tolees-21'
 descuento: '49.85'
 average: '15.29'

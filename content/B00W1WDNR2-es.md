@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Keter -  Conjunto de jardín de 4 plazas Corfu  Color marrón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00W1WDNR2/?tag=tolees-21'
 descuento: '36.49'
 average: '198.26666666666665'

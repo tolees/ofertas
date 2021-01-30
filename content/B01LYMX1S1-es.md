@@ -16,6 +16,7 @@ comparePrice: 39.97 EUR
 prodname: 'Mandolina ajustable por Chef  s INSPIRATIONS. Ideal para cortar alimentos  frutas y verduras. Cortador en juliana de grado profesional. Con cepillo de limpieza.Acero inoxidable.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LYMX1S1/?tag=tolees-21'
 descuento: '30.02'
 average: '27.97'

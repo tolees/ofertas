@@ -16,6 +16,7 @@ comparePrice: 11.89 EUR
 prodname: 'Adidas AA2299  Calcetines Unisex  Negro  Negro/Gris/Blanco   23 - 26 EU  Paquete de 3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00YSTFSXI/?tag=tolees-21'
 descuento: '37.85'
 average: '7.39'

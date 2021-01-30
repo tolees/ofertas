@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'PUMA ST Runner V2 Full L  Zapatillas Unisex Adulto  Negro Black/Castlerock White  36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFX785N/?tag=tolees-21'
 descuento: '32.74'
 average: '36.96'

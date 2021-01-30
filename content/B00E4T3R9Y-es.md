@@ -16,6 +16,7 @@ comparePrice: 12.15 EUR
 prodname: 'NUK 10256342 - Dosificador de leche en polvo  3 compartimentos  sin BPA   color azul y blanco translúcido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00E4T3R9Y/?tag=tolees-21'
 descuento: '50.70'
 average: '7.323333333333333'

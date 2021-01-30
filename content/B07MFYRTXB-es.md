@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Adidas Fortagym CF Jr  Zapatillas de Competición Unisex Niños  Azul  Reauni/Ftwbla/Narsol 000   31 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MFYRTXB/?tag=tolees-21'
 descuento: '49.99'
 average: '19.98'

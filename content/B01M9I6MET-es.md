@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Nox Modus - NXMODUSB - Caja PC  USB 3.0  Color Negro  LED Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M9I6MET/?tag=tolees-21'
 descuento: '26.76'
 average: '23.4'

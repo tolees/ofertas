@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'adidas W ID 3s Snap PT Pantalones de Deporte  Mujer  Legend Ink  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SCF7FLP/?tag=tolees-21'
 descuento: '35.56'
 average: '35.41'

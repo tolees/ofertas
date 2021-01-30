@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Jata LD85B Limador de Durezas Contiene Dos Rodillos Limadores de Rotación Suave y Eficaz Cabezal Extraíble Lavable  Protegido contra Proyecciones de Agua'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00QAIRD6K/?tag=tolees-21'
 descuento: '54.82'
 average: '9.401176470588235'

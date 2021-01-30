@@ -16,6 +16,7 @@ comparePrice: 84.99 EUR
 prodname: 'Nike Classic Cortez Leather  Zapatillas para Mujer  Blanco  White/Varsity Red-Varsity Royal 103   38.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NBOY6BF/?tag=tolees-21'
 descuento: '29.99'
 average: '59.483333333333334'

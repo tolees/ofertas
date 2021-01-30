@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'EACLL Bombillas LED GU10 2700K Blanco Cálido 5W 450 Lúmenes Equivalente 50W Halógena. 36 ° Luz Blanca Cálida Lámpara Reflectoras Spotlight LED  6 Pack'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PFJ3T5K/?tag=tolees-21'
 descuento: '40.02'
 average: '12.256666666666668'

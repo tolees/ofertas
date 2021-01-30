@@ -16,6 +16,7 @@ comparePrice: 350 EUR
 prodname: 'Matris - Colchón Viscoelástico Muelles Ensacados Espuma Nature - 135 x 190 x 30 - Todas Las Medidas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T3VKZXS/?tag=tolees-21'
 descuento: '27.14'
 average: '255'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Set Pulidor de uñas eléctrico Rowenta MP2016F1 + Rowenta Depiladora WET & DRY ELITE EP8002F0 - Sin cable y utilizable bajo el agua  cabezal de 24 pinzas con función masajeadora  autonomía de 40min'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BWNJ7HG/?tag=tolees-21'
 descuento: '30.01'
 average: '34.99'

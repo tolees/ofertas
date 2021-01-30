@@ -16,6 +16,7 @@ comparePrice: 17.66 EUR
 prodname: 'Premier Housewares Portarrollos  Negro  Centimeters'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005CNOK6U/?tag=tolees-21'
 descuento: '34.03'
 average: '11.65'

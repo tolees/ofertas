@@ -16,6 +16,7 @@ comparePrice: 22.29 EUR
 prodname: 'ORANSSI Shorts de baño para hombre bañador de malla a rayas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075N8SFH4/?tag=tolees-21'
 descuento: '26.33'
 average: '16.42'

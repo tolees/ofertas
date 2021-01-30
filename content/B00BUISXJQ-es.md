@@ -16,6 +16,7 @@ comparePrice: 22.78 EUR
 prodname: 'Nioxin Sistema 6 Acondicionador - 300 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BUISXJQ/?tag=tolees-21'
 descuento: '51.71'
 average: '11'

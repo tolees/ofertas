@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Cortapelos y afeitadora hombrel 6-en-1  juego de cortapelos multifuncion para hombre profesional  afeitadora eléctrica  fácil de quitar el cabello  el pelo de la nariz y el pelo extra en el cuerpo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VCBWT7R/?tag=tolees-21'
 descuento: '42.86'
 average: '39.99'

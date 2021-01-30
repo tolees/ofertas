@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Mousehouse Gifts Perro de Madera para Arrastrar con Laberinto de Cuentas  un Juguete Tradicional para niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XAOFHRO/?tag=tolees-21'
 descuento: '41.20'
 average: '9.99'

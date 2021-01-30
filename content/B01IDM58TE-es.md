@@ -16,6 +16,7 @@ comparePrice: 8.11 EUR
 prodname: 'Cuca Berberecho Grande - 63 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IDM58TE/?tag=tolees-21'
 descuento: '25.65'
 average: '6.03'

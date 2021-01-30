@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'dodocool Soporte Auriculares para Cascos Gaming Headphone Stand Sonido Envolvente 7.1 con luz LED  2 USB Conectores de Audio  1 Conector de AUX y Conector para micrófono de 3.5mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JHXHPYM/?tag=tolees-21'
 descuento: '50.02'
 average: '19.24'

@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Leifheit 55111 - Mopa de Secado Profesional'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000MWTCQY/?tag=tolees-21'
 descuento: '31.02'
 average: '13.1'

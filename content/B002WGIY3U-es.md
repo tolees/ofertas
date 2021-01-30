@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Superga 2750 COTU Classic  Zapatillas de Gimnasia Unisexo  Rojo  Red 975   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002WGIY3U/?tag=tolees-21'
 descuento: '48.14'
 average: '38.925'

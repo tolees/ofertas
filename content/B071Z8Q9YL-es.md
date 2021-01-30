@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Under Armour Mid Keyhole Sujetador para Mujer Deportivo  Ropa de Mujer Deportiva de compresión  cómodo Sujetador de sujeción de Secado rápido  Black/Black/Metallic Silver  001   MD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071Z8Q9YL/?tag=tolees-21'
 descuento: '35.75'
 average: '17.531666666666663'

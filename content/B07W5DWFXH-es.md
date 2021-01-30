@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'EXCEED DIY Gomas Loom Bandas  10 000 Elásticos + Hebilla 600S + 200 Cuentas + 52 Cuentas ABC  2 Cada una  + 30 Modelos + 10 Ganchos + 5 Borlas + 5 Ganchillos + 3 Pinzas para el Cabello + 4 Pegatinas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W5DWFXH/?tag=tolees-21'
 descuento: '37.51'
 average: '19.99'

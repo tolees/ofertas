@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'One For All WM2421  Soporte de pared para TV de 32 a 55” Inclinable 15° Peso máx. 80kg  Para todo tipo de TVs LED  LCD  Plasma  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IVQVOZO/?tag=tolees-21'
 descuento: '43.62'
 average: '14.09'

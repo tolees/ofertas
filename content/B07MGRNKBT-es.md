@@ -16,6 +16,7 @@ comparePrice: 43.63 EUR
 prodname: 'Cardinal Games 6053141 Perplexus Epic Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MGRNKBT/?tag=tolees-21'
 descuento: '40.77'
 average: '25.84'

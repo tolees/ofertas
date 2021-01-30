@@ -16,6 +16,7 @@ comparePrice: 42.99 EUR
 prodname: 'Mini Enfriador de Aire Portátil  4 en 1 Acondicionador de Aire Móvil  Ventilador Humidificador Purificador  USB Air Cooler con Manija/3 Velocidades/7 Colores LED  para Hogar Oficina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B5VM5CJ/?tag=tolees-21'
 descuento: '27.91'
 average: '36.99'

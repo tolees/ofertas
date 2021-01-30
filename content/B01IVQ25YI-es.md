@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Joe Weider Victory Multivit Up 80 gummies  Sabor naranja y limón  Sin azúcares y sin gluten  Gominolas de vitaminas y minerales'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IVQ25YI/?tag=tolees-21'
 descuento: '28.03'
 average: '7.642'

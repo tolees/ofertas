@@ -16,6 +16,7 @@ comparePrice: 16.95 EUR
 prodname: 'Olay Total Effects 7en1 Sérum Anti-Edad Suavidad Instante 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZL1SMMW/?tag=tolees-21'
 descuento: '50.03'
 average: '8.47'

@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Hugo Boss Orange Reloj analógico para Hombre con cuarzo  1513350'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BNBEKE6/?tag=tolees-21'
 descuento: '27.29'
 average: '89.52897435897435'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'SWITCH SNK Heroines: Tag Team Frenzy'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DQWN8YN/?tag=tolees-21'
 descuento: '58.35'
 average: '21.16'

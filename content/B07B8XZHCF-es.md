@@ -16,6 +16,7 @@ comparePrice: 19.72 EUR
 prodname: 'Purina ProPlan Comida para Gatos Esterilizados en Salsa Gato Adulto Buey 24 x 85 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B8XZHCF/?tag=tolees-21'
 descuento: '39.10'
 average: '12.01'

@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Toshiba Hayabusa - Memoria USB 2.0 de 64 GB  color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016E7EBPM/?tag=tolees-21'
 descuento: '36.73'
 average: '11.215'

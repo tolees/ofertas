@@ -16,6 +16,7 @@ comparePrice: 8.02 EUR
 prodname: 'Hama Dan Import 207-26 Bolas de Color de la Piel'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000AYHN60/?tag=tolees-21'
 descuento: '34.66'
 average: '5.24'

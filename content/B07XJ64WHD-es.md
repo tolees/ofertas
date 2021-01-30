@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Go Run 400 V2  Zapatillas para Hombre  Negro Black Textile Synthetic Gray Trim  41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XJ64WHD/?tag=tolees-21'
 descuento: '47.56'
 average: '34.06'

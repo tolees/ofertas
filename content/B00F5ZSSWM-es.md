@@ -16,6 +16,7 @@ comparePrice: 91.69 EUR
 prodname: 'Ferplast Transportín para Perros para automóvil Atlas Car 80  Rejillas de ventilación  Compartimentos portaobjetos  Alfombrilla de Drenaje incluida  82 x 51 x h 61 cm Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00F5ZSSWM/?tag=tolees-21'
 descuento: '29.77'
 average: '64.39'

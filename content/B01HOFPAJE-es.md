@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Gigandet Reloj Hombre Cuarzo Minimalism Analógico Correa de Acero Nero G42-007'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HOFPAJE/?tag=tolees-21'
 descuento: '30.31'
 average: '89.9'

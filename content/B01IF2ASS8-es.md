@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Dispensador de Formula  Kidsmile apilable On-the-Go BPA del dispensador de leche en polvo y almacenamiento de contenedores de aperitivos - no hay fugas en polvo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IF2ASS8/?tag=tolees-21'
 descuento: '30.02'
 average: '13.99'

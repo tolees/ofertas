@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'JOEAIS Tableta de Escritura LCD 12 Pulgadas  Vistoso Anti-caída Tablet Dibujo  Tablet para Dibujar para Niños  Regalo para Niños Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08926SLRC/?tag=tolees-21'
 descuento: '48.74'
 average: '19.99'

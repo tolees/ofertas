@@ -16,6 +16,7 @@ comparePrice: 22.0 EUR
 prodname: 'Aceite de Rosa Mosqueta  120ml . Aceite orgánico certificado. Prensado en frío y sin refinar. 100% puro y natural.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00Y5G7FFS/?tag=tolees-21'
 descuento: '32.05'
 average: '15.45'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'zociko EMS Electroestimulador Muscular Abdominales Estimulador Muscular Masajeador Eléctrico Cinturón EMS Estimulador Abdomen/Brazo/Piernas/Cintura Entrenador Muscular  USB Recargable  Hombre/Mujer '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q5Z6PQX/?tag=tolees-21'
 descuento: '32.01'
 average: '28.07'

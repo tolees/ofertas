@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Kappa Follow OC  Zapatillas Unisex adulto Rojo  Red/White 2010  48 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D4TQ8M5/?tag=tolees-21'
 descuento: '36.71'
 average: '22.12'

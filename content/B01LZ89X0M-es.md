@@ -16,6 +16,7 @@ comparePrice: 699.9 EUR
 prodname: 'Panasonic Lumix DMC-LX15 - Cámara Compacta Premium de 20.9 MP  Sensor de 1"  Objetivo F1.4-F2.8 de 24-72 mm  Zoom de 3X  Pantalla Abatible  4K  WiFi Raw   Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZ89X0M/?tag=tolees-21'
 descuento: '45.11'
 average: '415.99'

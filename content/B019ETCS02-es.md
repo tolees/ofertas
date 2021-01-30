@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Under Armour 1268951-001 Zapatillas de Senderismo  Negro  Black   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B019ETCS02/?tag=tolees-21'
 descuento: '30.00'
 average: '70.0'

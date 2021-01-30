@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'Memoria Flash USB 128MB 10 Piezas Pen Drives - Pequeña Capacidad Pendrive Almacenamiento Unidad USB 128 MB - FEBNISCTE Verde Giratoria Portátil y Económico Llave USB 2.0 con 10 Unidades Cuerdas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JKCS2E0/?tag=tolees-21'
 descuento: '32.60'
 average: '21.56'

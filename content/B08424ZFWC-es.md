@@ -16,6 +16,7 @@ comparePrice: 0.1 EUR
 prodname: 'Mini Adaptador USB CSR Dual Mode Wireless V4.0 EDR Dongle Transmisor USB para Windows 7 8 10 PC portátil - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08424ZFWC/?tag=tolees-21'
 descuento: '90.00'
 average: '0.01'

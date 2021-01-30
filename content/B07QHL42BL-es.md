@@ -16,6 +16,7 @@ comparePrice: 36.98 EUR
 prodname: 'Pablosky 590622  Botas Slouch para Niños  Azul  Azul Azul   20 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QHL42BL/?tag=tolees-21'
 descuento: '74.53'
 average: '9.42'

@@ -16,6 +16,7 @@ comparePrice: 12.92 EUR
 prodname: 'Durex Massage 2 In 1 Aloe Vera 200 Ml 1 Unidad 200 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XI26B4G/?tag=tolees-21'
 descuento: '26.47'
 average: '10.5425'

@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Samsonite Happy Sammies Upright Maleta Infantil 45 cm  24 L Verde  Dino Rex '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079Z8B4TJ/?tag=tolees-21'
 descuento: '30.00'
 average: '66.5'

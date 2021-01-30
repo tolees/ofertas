@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Precision Elite 2.0'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PWN99M4/?tag=tolees-21'
 descuento: '50.01'
 average: '28.978571428571428'

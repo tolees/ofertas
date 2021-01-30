@@ -16,6 +16,7 @@ comparePrice: 130 EUR
 prodname: 'Merrell Moab Adventure Lace  Zapatillas de Senderismo para Hombre  Marrón  Dark Earth   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NBL19O0/?tag=tolees-21'
 descuento: '30.01'
 average: '90.99'

@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Luz de Cortina JINPX Luz Cadena con 300 LED 8 Modos 3 * 3M Multicolor Perfecto para Fiestas Bodas Festivales Presentaciones Bares  Restaurantes  Hoteles  Conciertos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082XTV1N6/?tag=tolees-21'
 descuento: '45.48'
 average: '11.99'

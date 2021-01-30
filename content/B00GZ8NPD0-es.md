@@ -16,6 +16,7 @@ comparePrice: 26.89 EUR
 prodname: 'Goa London Dry Gin  1 x 0.7 l '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GZ8NPD0/?tag=tolees-21'
 descuento: '27.48'
 average: '19.5'

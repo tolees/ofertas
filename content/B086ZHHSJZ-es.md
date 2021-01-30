@@ -16,6 +16,7 @@ comparePrice: 5.16 EUR
 prodname: 'Moliies 1PCS Tamaño portátil Cubierta de cámara Web Obturador Imán Control Deslizante Cubierta de cámara de plástico para computadora portátil Web para PC Tableta Privacidad - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086ZHHSJZ/?tag=tolees-21'
 descuento: '38.76'
 average: '3.16'

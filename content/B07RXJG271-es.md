@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'New Balance Fresh Foam Tempo h  Zapatillas de Running para Hombre  Negro  Black B   45.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RXJG271/?tag=tolees-21'
 descuento: '66.71'
 average: '43.28'

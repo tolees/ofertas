@@ -16,6 +16,7 @@ comparePrice: 40.99 EUR
 prodname: 'Remington MB4130 Máquinas de Afeitar  Negro y Gris  4.1 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CUGXWLK/?tag=tolees-21'
 descuento: '56.09'
 average: '18'

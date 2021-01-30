@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Crema de Ojos Crema para los Ojos Contorno de Ojos Anti Edad Eye Cream Serum Contorno de Ojos Anti arrugas  Elimina la hinchazón  las ojeras  líneas finas y arrugas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TK1X1RZ/?tag=tolees-21'
 descuento: '46.17'
 average: '14.704285714285716'

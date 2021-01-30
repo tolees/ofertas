@@ -16,6 +16,7 @@ comparePrice: 149.95 EUR
 prodname: 'Pistola de Masaje Muscular  ACTION Pistola Masajeadora Muscular de Tejido Profundo Ultra Silencioso con 9 Niveles Ajustables  6 Cabezas de Masaje y Chip inteligente  Relajación Recuperación Fatiga'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083JF99WY/?tag=tolees-21'
 descuento: '42.68'
 average: '87.95'

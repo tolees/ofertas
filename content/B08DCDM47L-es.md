@@ -16,6 +16,7 @@ comparePrice: 67.99 EUR
 prodname: 'TIBEK Licuadora Prensado Frío  Licuadoras Para Verduras y Frutas  extractor de zumos con Función inversa  Slow Juicer Motor Silencioso  Libre de BPA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DCDM47L/?tag=tolees-21'
 descuento: '36.26'
 average: '63.57750000000001'

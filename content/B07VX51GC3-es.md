@@ -16,6 +16,7 @@ comparePrice: 18.61 EUR
 prodname: 'Hook Scratch Art  Manualidades para Niños Niña Dibujar  Pulseras para Rascar  Paquete de 12  y 10 Magic Papel Scratch y 2 Reglas De Dibujo  3 Estilográficas De Madera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VX51GC3/?tag=tolees-21'
 descuento: '53.84'
 average: '8.59'

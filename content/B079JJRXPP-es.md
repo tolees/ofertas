@@ -16,6 +16,7 @@ comparePrice: 32.91 EUR
 prodname: 'PUMA Urban SL  Zapatillas Unisex Adulto  Black White  42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079JJRXPP/?tag=tolees-21'
 descuento: '33.12'
 average: '22.01'

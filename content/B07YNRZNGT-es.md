@@ -16,6 +16,7 @@ comparePrice: 66.99 EUR
 prodname: 'Minisun – Lámpara de Mesa Mono Resina Negra- Clase de eficiencia energética A+ - Lámpara moderna - Iluminación de Interior - Lámpara de sobremesa moderna negra'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YNRZNGT/?tag=tolees-21'
 descuento: '37.32'
 average: '41.99'

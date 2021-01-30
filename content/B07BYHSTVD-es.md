@@ -16,6 +16,7 @@ comparePrice: 45.9 EUR
 prodname: 'Trueno Kids 2.0'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BYHSTVD/?tag=tolees-21'
 descuento: '60.00'
 average: '18.36'

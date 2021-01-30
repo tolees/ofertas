@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'NDANH9896 Patrón de asta de Estilo Simple La Tela de Lino Nunca se desvanece 45X45 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089FWDM96/?tag=tolees-21'
 descuento: '50.03'
 average: '9.99'

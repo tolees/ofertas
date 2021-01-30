@@ -16,6 +16,7 @@ comparePrice: 19.0 EUR
 prodname: 'Woxter Cooling Pad 1560 R – Base refrigeradora para portátiles  5 ventiladores desconectables  luz led azul y 2 puertos USB  especialmente diseñado para gamers   silencioso 30dBA  base iluminada  alimentado por USB  control de velocidad y compatible con portátiles de 10”-17”   color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009PK2UPE/?tag=tolees-21'
 descuento: '31.58'
 average: '12.315000000000001'

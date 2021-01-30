@@ -16,6 +16,7 @@ comparePrice: 270.0 EUR
 prodname: 'MODAUTO Asiento Deportivo Coche  Semibaquet Ajustable  de Tela  con Ríeles incluidos  Conductor y Pasajero  Universal para Coche y Simulador de Conducción  Modelo N190L  Negro y Cosutra Roja U'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0797VVVQM/?tag=tolees-21'
 descuento: '48.15'
 average: '140.0'

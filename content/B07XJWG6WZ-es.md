@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'TOMLOV Mini Cámara 140 Grados HD 1080P Mini Cámara Espia Oculta Videocámara con Visión Nocturna y Detección de Movimiento Camaras de Seguridad para el Hogar/Garaje/Jardín y ect'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XJWG6WZ/?tag=tolees-21'
 descuento: '71.44'
 average: '28.990000000000002'

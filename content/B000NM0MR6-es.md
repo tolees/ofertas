@@ -16,6 +16,7 @@ comparePrice: 97.9 EUR
 prodname: 'Casio Reloj Multiesfera para Mujer de Cuarzo con Correa en Acero Inoxidable LTP-2069D-2AVEF'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000NM0MR6/?tag=tolees-21'
 descuento: '49.96'
 average: '48.79642857142857'

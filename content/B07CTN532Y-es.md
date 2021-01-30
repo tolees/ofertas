@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Under Armour UA HOVR Sonic 2  Zapatillas de Running para Hombre  Blanco  Onyx White/Mod Gray/Mod Gray 101   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CTN532Y/?tag=tolees-21'
 descuento: '36.53'
 average: '76.16'

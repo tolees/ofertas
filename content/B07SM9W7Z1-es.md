@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Lacoste Graduate 120 1 SFA  Zapatillas para Mujer  Blanco  Wht/Nat   35.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SM9W7Z1/?tag=tolees-21'
 descuento: '39.28'
 average: '60.11'

@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'Grabadora CD/DVD Externa USB 3.0  Colourstone USB 3.0 y Type-C Puerto Dual Compatible con Macbook Pro Ordenador Portátil/Escritorios window98 /SE/ME /2000 /XP/Vista /Win7 /WIN8 /WIN10 Mac OS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PPQFM88/?tag=tolees-21'
 descuento: '43.24'
 average: '19.723333333333333'

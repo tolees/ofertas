@@ -16,6 +16,7 @@ comparePrice: 177.99 EUR
 prodname: 'San Ignacio Juego de Sartenes y Batería de Cocina  Aluminio  Negro  24 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MU3K7IR/?tag=tolees-21'
 descuento: '69.11'
 average: '54.99'

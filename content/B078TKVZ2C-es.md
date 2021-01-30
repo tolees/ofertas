@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Pepe Jeans Vincent Polo  Negro  Black 999   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078TKVZ2C/?tag=tolees-21'
 descuento: '34.86'
 average: '25.99'

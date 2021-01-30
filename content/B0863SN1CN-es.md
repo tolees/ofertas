@@ -16,6 +16,7 @@ comparePrice: 20.28 EUR
 prodname: 'Suhctup Transparente Funda Compatible con Samsung Galaxy S11 Cárcasa Silicona Ultra Fina Flor Diseño Anti-Arañazos Antigolpes Bumper TPU Resistente Case Cover para Samsung Galaxy S11 2 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0863SN1CN/?tag=tolees-21'
 descuento: '60.65'
 average: '7.98'

@@ -16,6 +16,7 @@ comparePrice: 92.49 EUR
 prodname: 'New Balance 997H Core  Zapatillas para Hombre  Plateado  Pigment/Silver   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DJ21WYX/?tag=tolees-21'
 descuento: '41.62'
 average: '54.0'

@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'Bose SoundLink Micro  Altavoz  Inalámbrico Micro-USB  Naranja'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0748PGNBX/?tag=tolees-21'
 descuento: '28.31'
 average: '80.035625'

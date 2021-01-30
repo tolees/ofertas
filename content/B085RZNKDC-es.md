@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Zapatillas Running Hombre Antideslizantes Ligeras Zapatillas de Correr Casual para Deportivas de Malla Negro 36'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085RZNKDC/?tag=tolees-21'
 descuento: '50.01'
 average: '34.99'

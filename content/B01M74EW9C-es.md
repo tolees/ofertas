@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'G-STAR RAW Duko Belt Cinturón  Negro  Black/black 406   80 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M74EW9C/?tag=tolees-21'
 descuento: '68.69'
 average: '13.107500000000002'

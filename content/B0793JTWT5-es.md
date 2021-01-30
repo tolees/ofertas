@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'Darkest Dungeon - Ancestral Edition'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0793JTWT5/?tag=tolees-21'
 descuento: '51.60'
 average: '15.141428571428571'

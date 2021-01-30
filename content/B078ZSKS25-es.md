@@ -16,6 +16,7 @@ comparePrice: 305.99 EUR
 prodname: 'Epson Workforce Pro WF-C5710DWF - Impresora multifunción  Inyección de Tinta  4800 x 1200 dpi  330 Hojas  A4  Impresión Directa  Negro  Gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078ZSKS25/?tag=tolees-21'
 descuento: '31.70'
 average: '208.0'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Adaptador de Viaje  Cargador de Pared con Doble Puerto de Carga USB y convertidor de enchufes Universal Valido para USA  EU  UK  AUS  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077SSGGG8/?tag=tolees-21'
 descuento: '60.02'
 average: '11.99'

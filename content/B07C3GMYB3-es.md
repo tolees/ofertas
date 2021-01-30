@@ -16,6 +16,7 @@ comparePrice: 42.99 EUR
 prodname: 'Zeewoo Juego de Accesorios Baño 5 Piezas Cerámica de Dolphin Baño de Tocador Hotel  Jabonera  Dispensador Jabon  Cepillo de Dientes Titular  Taza de Cepillo de Dientes  Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C3GMYB3/?tag=tolees-21'
 descuento: '30.24'
 average: '29.99'

@@ -16,6 +16,7 @@ comparePrice: 109.0 EUR
 prodname: 'Lacoste ESPARRE BL 1 CMA  Zapatillas para Hombre  Negro  Black/White   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DMCHSYM/?tag=tolees-21'
 descuento: '71.81'
 average: '34.925'

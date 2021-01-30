@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Superga 2750 COTU Classic  Zapatillas Unisex  Negro  Full Black S996   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002WGIY1C/?tag=tolees-21'
 descuento: '39.46'
 average: '38.114999999999995'

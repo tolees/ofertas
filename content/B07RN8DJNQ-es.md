@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Funko Pop! Disney: Kingdom Hearts 3 - Axel  Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RN8DJNQ/?tag=tolees-21'
 descuento: '37.30'
 average: '9.155'

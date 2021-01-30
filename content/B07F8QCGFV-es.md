@@ -16,6 +16,7 @@ comparePrice: 25.98 EUR
 prodname: 'TOUCHBeauty Rizador de Pestañas  Rizador de Pestañas Electrico  Rizador de Pestañas Termico  Pestañas Electrico para Maquillaje Herramientas de Rizado de Belleza AG-2016Y  versión actualizada '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F8QCGFV/?tag=tolees-21'
 descuento: '42.34'
 average: '14.98'

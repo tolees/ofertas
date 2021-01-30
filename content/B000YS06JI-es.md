@@ -16,6 +16,7 @@ comparePrice: 26.85 EUR
 prodname: 'Exo Terra Bombilla Bajo Consumo UVB 100 Compacto Repti  13 W  5.0 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000YS06JI/?tag=tolees-21'
 descuento: '47.78'
 average: '14.02'

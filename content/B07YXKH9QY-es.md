@@ -16,6 +16,7 @@ comparePrice: 59.82 EUR
 prodname: 'Secador de pelo profesional – 2000 W  secador de pelo Manli  secador de pelo de iones y cerámica – 3 boquillas de peinado y difusor – Viento caliente y fresco – 6 modos – 3 velocidades secador profesional de pelo con iones'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YXKH9QY/?tag=tolees-21'
 descuento: '25.03'
 average: '44.85'

@@ -16,6 +16,7 @@ comparePrice: 219.0 EUR
 prodname: 'MEDION E2221t - Ordenador convertible de 11.6"  Intel Atom x5-Z8350  2 GB de RAM  32 GB SSD HDD  Windows 10  color dorado - teclado QWERTY español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073CSMNR1/?tag=tolees-21'
 descuento: '31.51'
 average: '168.99555555555557'

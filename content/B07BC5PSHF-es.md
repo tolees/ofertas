@@ -16,6 +16,7 @@ comparePrice: 13.0 EUR
 prodname: 'Bourjois Satin Edition Sombra de Ojos Líquida Tono 1 Beige seller - 28 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BC5PSHF/?tag=tolees-21'
 descuento: '79.23'
 average: '2.7'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'N300 Repetidor Extensor de Red WiFi Enrutador Inalámbrico Señal Amplificador Modo Extensor/Mini Ap/Router Modem Dos Antenas  2.4GHz  Modo Multi  fácil de Usar  2 Puertos LAN/WAN  WPS '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BDDC46Y/?tag=tolees-21'
 descuento: '33.34'
 average: '19.99'

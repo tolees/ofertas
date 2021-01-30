@@ -16,6 +16,7 @@ comparePrice: 27.4 EUR
 prodname: 'Homyl 1 Par Sonido de Sistema de Audio Estéreo de Coche Altavoz Dual Color Mezclado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BPRC7JV/?tag=tolees-21'
 descuento: '44.45'
 average: '15.31'

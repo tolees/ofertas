@@ -16,6 +16,7 @@ comparePrice: 29.96 EUR
 prodname: 'OurLeeme Cubierta Impermeable Barbacoa Grande Protector para Cubrir Gas de Carbã³n Elã©Ctrica Parrilla de la Barbacoa  170 * 61 * 117 cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F2B6CRM/?tag=tolees-21'
 descuento: '50.03'
 average: '14.97'

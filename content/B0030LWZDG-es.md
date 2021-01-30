@@ -16,6 +16,7 @@ comparePrice: 4.75 EUR
 prodname: 'Stagg STC3PCM - Cable jack a RCA  3 m   color negro  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0030LWZDG/?tag=tolees-21'
 descuento: '30.11'
 average: '3.32'

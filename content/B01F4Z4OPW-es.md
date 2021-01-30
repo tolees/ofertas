@@ -16,6 +16,7 @@ comparePrice: 42.34 EUR
 prodname: 'Crucial Ballistix Sport LT BLS2K4G4D240FSE 2400 MHz  DDR4  DRAM  Memoria Gamer Kit para Ordenadores de Sobremesa  8 GB  4 GB x 2   CL16  Rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01F4Z4OPW/?tag=tolees-21'
 descuento: '29.17'
 average: '39.99'

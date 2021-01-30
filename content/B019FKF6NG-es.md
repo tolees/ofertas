@@ -16,6 +16,7 @@ comparePrice: 8.3 EUR
 prodname: 'Béaba 913400 - Cuchara y tenedor ergonómicos de aprendizaje  para niños segunda edad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B019FKF6NG/?tag=tolees-21'
 descuento: '52.05'
 average: '5.31'

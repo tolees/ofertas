@@ -16,6 +16,7 @@ comparePrice: 4.71 EUR
 prodname: 'Panamar Funda Protectora de Fieltro Suave y Liviana para computadora portátil  Funda Protectora  Funda Protectora Fina  Adecuada para Macbook Air de 13 3 Pulgadas  Gris Claro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08J6H6NQF/?tag=tolees-21'
 descuento: '33.55'
 average: '3.13'

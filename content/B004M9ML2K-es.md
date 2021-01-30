@@ -16,6 +16,7 @@ comparePrice: 3.95 EUR
 prodname: 'Rimmel London Lasting Finish Barra De Labios Tono 170 Alarm - 18 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004M9ML2K/?tag=tolees-21'
 descuento: '35.44'
 average: '2.55'

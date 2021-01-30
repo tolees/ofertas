@@ -16,6 +16,7 @@ comparePrice: 9.02 EUR
 prodname: 'Tratto Video 830201 - Marcadores fluorescente  color amarillo  pack de 12 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00WIM8U3W/?tag=tolees-21'
 descuento: '29.82'
 average: '6.33'

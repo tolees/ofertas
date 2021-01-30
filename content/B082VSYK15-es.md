@@ -16,6 +16,7 @@ comparePrice: 2.23 EUR
 prodname: 'Haribo Favoritos Pica Caramelos de Goma - 275 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082VSYK15/?tag=tolees-21'
 descuento: '26.01'
 average: '1.83'

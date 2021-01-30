@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Pop! Vinilo: Fairy Tail S3: Gajeel'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KPK5VYG/?tag=tolees-21'
 descuento: '28.52'
 average: '10.325'

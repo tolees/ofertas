@@ -16,6 +16,7 @@ comparePrice: 7.9 EUR
 prodname: 'Unitedheart Caja del Banco de la energía  2600MAH Tamaño portátil 1 * 18650 Batería Banco de la energía Externa Batería de Reserva del Banco de la energía del Caso Banco para teléfonos Inteligentes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JCPLGZQ/?tag=tolees-21'
 descuento: '70.38'
 average: '2.34'

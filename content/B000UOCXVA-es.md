@@ -16,6 +16,7 @@ comparePrice: 18.05 EUR
 prodname: 'Pyrex Molde PLUMCAKE 28 CM 838  Cristal'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000UOCXVA/?tag=tolees-21'
 descuento: '33.52'
 average: '13.0'

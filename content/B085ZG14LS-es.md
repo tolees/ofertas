@@ -16,6 +16,7 @@ comparePrice: 22.6 EUR
 prodname: 'Adaptador de taladro de remachado multifuncional pistola de tuercas de remache eléctrico Herramienta de tuerca de inserción inalámbrica automática Herramienta de taladro eléctrico - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085ZG14LS/?tag=tolees-21'
 descuento: '33.50'
 average: '15.03'

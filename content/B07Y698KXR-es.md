@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'HOMRanger Keine Bohrer Zugvorhangstange dusche Einstellbar Ausziehbarer Pol Für Schrank Schlafzimmer Kleiderschrank Fenster Badezimmer Küche-a 70-120cm 28-47inch '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y698KXR/?tag=tolees-21'
 descuento: '33.34'
 average: '29.99'

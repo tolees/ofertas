@@ -16,6 +16,7 @@ comparePrice: 137.9 EUR
 prodname: 'Dormio Esmeralda Colchón ViscoSoft reversible  Blanco  90 x 190 x 24 cm  Todas las medidas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016AFQKX4/?tag=tolees-21'
 descuento: '31.62'
 average: '94.91166666666668'

@@ -16,6 +16,7 @@ comparePrice: 399.99 EUR
 prodname: 'Coche Electrico de Bateria 12V para Niños Infantil Deportivo 130x71x52cm 3-8 Años Musica MP3  Rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01L8DZWWS/?tag=tolees-21'
 descuento: '65.00'
 average: '136.99'

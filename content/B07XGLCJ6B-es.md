@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers UNO  Zapatillas para Hombre  Gris carbón de Malla de Poliuretano con Borde de Lima  46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XGLCJ6B/?tag=tolees-21'
 descuento: '50.25'
 average: '34.8'

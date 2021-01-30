@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Levi s Malibu Beach S  Zapatillas para Mujer  Blanco  B White 50   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SDG6MVV/?tag=tolees-21'
 descuento: '30.00'
 average: '27.633333333333333'

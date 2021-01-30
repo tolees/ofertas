@@ -16,6 +16,7 @@ comparePrice: 4.99 EUR
 prodname: 'Makeup Revolution Conceal & Define Concealer C6 Korektor w płynie 3 4ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079DSBSXS/?tag=tolees-21'
 descuento: '60.12'
 average: '1.99'

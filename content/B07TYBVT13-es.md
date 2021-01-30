@@ -16,6 +16,7 @@ comparePrice: 29.27 EUR
 prodname: 'S.Lux Hombres Cinturón de Lona  YKK Hebilla de Plástico Cinturón de Secado Rápido Transpirable Hipoalergénico no Metal Cinturón Recreación al aire libre Fitness Ejercicio  Negro Y Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TYBVT13/?tag=tolees-21'
 descuento: '62.45'
 average: '10.99'

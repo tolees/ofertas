@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Sloggi Zero Feel Ex Sujetador Estilo Bralette  Morado  Kaluha 00qn   75A  Talla del Fabricante: X-Small  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XQ42DPP/?tag=tolees-21'
 descuento: '62.26'
 average: '13.19'

@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Enfriador de Aire Grande Aire Acondicionado Climatizador evaporativo 4 en 1 Enfría Ventilador Humidifica Ion negativo 3 Modos 1-7 H Temporizadores con Ruedas y Control remoto 65W  400m³/h  5L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083PVBP1G/?tag=tolees-21'
 descuento: '40.00'
 average: '131.3584210526316'

@@ -16,6 +16,7 @@ comparePrice: 56.0 EUR
 prodname: 'Converse Chuck Taylor All Star Hi  Zapatillas Altas Unisex adulto  Negro  Black/White   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001AEA5K0/?tag=tolees-21'
 descuento: '33.91'
 average: '35.980000000000004'

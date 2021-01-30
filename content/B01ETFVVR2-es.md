@@ -16,6 +16,7 @@ comparePrice: 141.18 EUR
 prodname: 'Imperial Confort Oslo - Colchón Viscoelástico acolchado alta firmeza - Grosor 24 cm -  105x190'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ETFVVR2/?tag=tolees-21'
 descuento: '25.99'
 average: '96.70333333333333'

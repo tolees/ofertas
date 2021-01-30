@@ -16,6 +16,7 @@ comparePrice: 98.36 EUR
 prodname: 'Bellelli  TGTR00020 - Portabebé de ciclismo  color blanco/ rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007BLEA6Q/?tag=tolees-21'
 descuento: '73.68'
 average: '25.89'

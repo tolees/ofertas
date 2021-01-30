@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Aigostar MR. Black 32JVO - Maquinilla para cortar el pelo  15 W potencia  3 ajustes  incluye un kit completo de mantenimiento y 4 peines-guía  cable extra largo 1 65 m. Color negro. Diseño exclusivo.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0784BSCVR/?tag=tolees-21'
 descuento: '48.02'
 average: '12.99'

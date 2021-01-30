@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Goliath- Juego de Mesa No Panic  Multicolor  70366 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VF67M7Z/?tag=tolees-21'
 descuento: '33.39'
 average: '19.95'

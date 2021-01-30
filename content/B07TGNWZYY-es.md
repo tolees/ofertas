@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Only & Sons NOS Onssato 7 Multi Clr Knit Noos suéter  Gris  Light Grey Melange Detail: Melange   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TGNWZYY/?tag=tolees-21'
 descuento: '55.59'
 average: '13.32'

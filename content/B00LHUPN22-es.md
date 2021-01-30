@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Belkin SurgeStrip - Regleta de protección contra sobretensiones de 6 vías con conexiones USB  2.4 A   blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LHUPN22/?tag=tolees-21'
 descuento: '57.16'
 average: '24.23230769230769'

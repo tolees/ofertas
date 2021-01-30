@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Maybelline New York - Superstay Matte Ink  Pintalabios Mate de Larga Duración  Tono 70 Amazonian'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077N77HSB/?tag=tolees-21'
 descuento: '61.76'
 average: '5.088'

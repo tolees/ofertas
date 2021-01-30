@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'FORMIZON Loom Bands  6800 Kit Completo  22 Colores  Kit de CREA de Brazaletes y Loom Juguetes  Juego Creativo para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SPB9R79/?tag=tolees-21'
 descuento: '34.49'
 average: '18.99'

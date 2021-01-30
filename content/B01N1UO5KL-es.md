@@ -16,6 +16,7 @@ comparePrice: 28.9 EUR
 prodname: 'Car&Gus Disfraz de Mariquita Reina para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N1UO5KL/?tag=tolees-21'
 descuento: '50.59'
 average: '14.28'

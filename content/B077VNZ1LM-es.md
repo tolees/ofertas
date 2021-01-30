@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Dickies Gilmer Cinturón  Negro  No Aplica  Talla del fabricante:  Unisex adulto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077VNZ1LM/?tag=tolees-21'
 descuento: '55.23'
 average: '15.973333333333333'

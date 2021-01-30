@@ -16,6 +16,7 @@ comparePrice: 58.73 EUR
 prodname: 'Disney El Amor Incondicional de Una Madre-Dumbo Figurina  Resina  Multicolor  12.50x16.50x19.00 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079LZL1C6/?tag=tolees-21'
 descuento: '28.42'
 average: '42.04'

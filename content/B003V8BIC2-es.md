@@ -16,6 +16,7 @@ comparePrice: 4.9 EUR
 prodname: 'BIC Velleda 1741 - Blíster de 4 unidades  marcadores de pizarra punta media  4 5 mm   colores surtidos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003V8BIC2/?tag=tolees-21'
 descuento: '28.57'
 average: '4.3525'

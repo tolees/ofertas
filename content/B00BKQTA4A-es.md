@@ -16,6 +16,7 @@ comparePrice: 169.0 EUR
 prodname: 'Daniel Wellington Reloj con Correa de Acero para Mujer 0608DW'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BKQTA4A/?tag=tolees-21'
 descuento: '49.43'
 average: '71.01593749999999'

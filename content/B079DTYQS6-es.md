@@ -16,6 +16,7 @@ comparePrice: 67.73 EUR
 prodname: 'Regalo del día de la madre  un AAA platino plateado transparente colgante de óxido de circonio Pendientes regalos para mamá  para mujeres  YE-001'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079DTYQS6/?tag=tolees-21'
 descuento: '80.82'
 average: '12.99'

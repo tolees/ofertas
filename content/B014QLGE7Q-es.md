@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Manfrotto Holster XS - Bolsa para cámara'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B014QLGE7Q/?tag=tolees-21'
 descuento: '25.79'
 average: '21.85666666666667'

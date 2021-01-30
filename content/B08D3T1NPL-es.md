@@ -16,6 +16,7 @@ comparePrice: 1.52 EUR
 prodname: 'Panamar Negro Diseño portátil USB Hembra a Mini 5P USB B Adaptador de conversión Macho Cable OTG hacia Arriba - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08D3T1NPL/?tag=tolees-21'
 descuento: '33.55'
 average: '1.01'

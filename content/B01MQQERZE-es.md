@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Woxter Stinger Hub Red- Hub multipuerto retroiluminado  4 Puertos  USB  soporte para teléfono y compartimento para tarjetas SD   Color Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MQQERZE/?tag=tolees-21'
 descuento: '50.05'
 average: '4.99'

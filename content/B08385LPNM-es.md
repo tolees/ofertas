@@ -16,6 +16,7 @@ comparePrice: 25.93 EUR
 prodname: 'Hurley M Phantom One&Only 18  Bañador  Hombre  Pacific Blue  30'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08385LPNM/?tag=tolees-21'
 descuento: '33.47'
 average: '17.25'

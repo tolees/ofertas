@@ -16,6 +16,7 @@ comparePrice: 8.5 EUR
 prodname: 'Funko - Estatuilla de Disney Cars - Doc Hudson Pop 10cm - 0849803042394'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TRDHH16/?tag=tolees-21'
 descuento: '29.53'
 average: '5.99'

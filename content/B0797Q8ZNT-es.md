@@ -16,6 +16,7 @@ comparePrice: 17.95 EUR
 prodname: 'PUMA LIGA Shorts Pants  Hombre  White Black  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0797Q8ZNT/?tag=tolees-21'
 descuento: '31.87'
 average: '12.23'

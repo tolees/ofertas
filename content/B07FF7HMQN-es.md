@@ -16,6 +16,7 @@ comparePrice: 549.95 EUR
 prodname: 'Cybex Gold  Sirona S i-Size 519000215 Silla de Coche Grupo 0+/1  Sistema Giratorio de 360 grados  en Contra de la Marcha  18 kg Máximo  Base Isofix  Colección Ferrari  Rojo  Racing Red - Ferrari '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FF7HMQN/?tag=tolees-21'
 descuento: '32.08'
 average: '373.5'

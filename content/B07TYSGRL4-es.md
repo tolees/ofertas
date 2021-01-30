@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Hd 1080p HDMI VGA Adaptador Convertidor  Hembra Cable de Salida Audio para Computadoras Portátiles  Teléfonos Móviles  Dvd  Tabletas  Decodificadores Digitales negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TYSGRL4/?tag=tolees-21'
 descuento: '37.52'
 average: '9.99'

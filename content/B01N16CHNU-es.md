@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Dickies Slim Fit Work  Pantalones Cortos para Hombre  Azul  Dark Navy    Tamaño del fabricante:46 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N16CHNU/?tag=tolees-21'
 descuento: '63.87'
 average: '18.625'

@@ -16,6 +16,7 @@ comparePrice: 55.3 EUR
 prodname: 'TOUS colgante de mujer en Vermeil 18kt  con perlas cultivadas de agua dulce - Tamaño 2 2 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KXC9NZM/?tag=tolees-21'
 descuento: '30.00'
 average: '44.239999999999995'

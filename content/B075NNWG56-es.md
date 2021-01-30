@@ -16,6 +16,7 @@ comparePrice: 899.99 EUR
 prodname: 'Lenovo Ideapad 520-15IKB - Ordenador portátil de 15.6" FullHD  Intel Core i7-7500U H   RAM de 8GB  HDD de 1TB  Nvidia GeForce GT-940MX de 4GB  Windows Home 10   gris hierro - Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075NNWG56/?tag=tolees-21'
 descuento: '33.33'
 average: '752.995'

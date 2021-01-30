@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Teclado Wireless Turquesa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076CPV77C/?tag=tolees-21'
 descuento: '50.02'
 average: '11.49'

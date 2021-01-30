@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Adaptador USB C a HDMI QGeeM 4K USB C HDMI Cable [Thunderbolt 3] Compatible con MacBook Pro 2018/2017 Surface Book 2 DELL XPS 13/15  Pixelbook Samsung Galaxy S9 / S8 y más'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JW7GT7H/?tag=tolees-21'
 descuento: '41.19'
 average: '11.40875'

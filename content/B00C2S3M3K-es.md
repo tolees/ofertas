@@ -16,6 +16,7 @@ comparePrice: 8.78 EUR
 prodname: 'Top Model 7938-F - Juego de plumas de gel'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00C2S3M3K/?tag=tolees-21'
 descuento: '66.29'
 average: '2.96'

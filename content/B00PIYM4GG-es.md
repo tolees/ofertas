@@ -16,6 +16,7 @@ comparePrice: 18.9 EUR
 prodname: 'Victoria S Secret  Spray corporal con fragancia para mujeres  piel normal  - 250 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PIYM4GG/?tag=tolees-21'
 descuento: '30.69'
 average: '9.1'

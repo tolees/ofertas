@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Garmin Vívofit Jr. 2 - Monitor de actividad para niños  Disney Princess Pink  Banda ajustable   Edad 6+'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GQ5JD96/?tag=tolees-21'
 descuento: '35.56'
 average: '57.99'

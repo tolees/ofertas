@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Tommy Hilfiger - Elevated Nylon Slingpack  Mochilas Hombre  Azul  Sky Captain   1x1x1 cm  W x H L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V2MSWJ5/?tag=tolees-21'
 descuento: '35.41'
 average: '65.1375'

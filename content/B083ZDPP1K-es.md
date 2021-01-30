@@ -16,6 +16,7 @@ comparePrice: 94.99 EUR
 prodname: 'RECCI - 4CM Topper Colchón de Espuma 135x190cm  Topper Viscoelástica con Alivio de la Presión  Sobrecolchón Hipoalergénico de Bambú - Extraíble y Lavable en Lavadora  CertiPUR-EU  135 x 190 x 4cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083ZDPP1K/?tag=tolees-21'
 descuento: '53.82'
 average: '43.87'

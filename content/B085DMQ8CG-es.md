@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Crema anticelulítica  crema anticelulítica  crema de masaje anticelulítico  mejora del contorno de la piel  crema quemagrasas para abdomen  glúteos  piernas 120g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085DMQ8CG/?tag=tolees-21'
 descuento: '46.68'
 average: '15.99'

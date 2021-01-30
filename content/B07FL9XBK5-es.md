@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Philips Avent Biberón Natural SCF070/25 - Biberón de 260 ml con tetina con flujo para recién nacidos  diseñada para imitar el tacto del pecho  0% BPA  1m+  Unicornio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FL9XBK5/?tag=tolees-21'
 descuento: '28.03'
 average: '8.074'

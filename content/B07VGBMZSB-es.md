@@ -16,6 +16,7 @@ comparePrice: 58.23 EUR
 prodname: 'Monitor de Presión Arterial JUMPER en la Parte Superior del Brazo  2 Usuarios  2 Módulos de Fuente de Alimentación  198 Memoria de datos  Gran pantalla LCD  Brazalete Ajustable Grande  Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VGBMZSB/?tag=tolees-21'
 descuento: '43.35'
 average: '32.99'

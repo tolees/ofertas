@@ -16,6 +16,7 @@ comparePrice: 8.74 EUR
 prodname: 'Versele-laga A-16570 Prestige Premium Loro Africano - 1 kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001JD09BC/?tag=tolees-21'
 descuento: '41.08'
 average: '5.15'

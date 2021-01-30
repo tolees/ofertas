@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Joma Academy Chandal Caballero  Hombre  Amarillo/Negro  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FKSG789/?tag=tolees-21'
 descuento: '26.10'
 average: '18.99'

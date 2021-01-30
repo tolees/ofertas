@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'LeYi Funda Xiaomi Redmi Note 8 con HD Protector Pantalla  Carcasa Libro Tapa Silicona TPU Bumper Leather Soporte Cartera Case Flip Cuero Wallet Slim Antigolpes Cover para Movil Note 8 Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YDXKZ1V/?tag=tolees-21'
 descuento: '50.69'
 average: '8.87'

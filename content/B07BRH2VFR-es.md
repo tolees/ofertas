@@ -16,6 +16,7 @@ comparePrice: 16.96 EUR
 prodname: 'TACKLIFE Pistola de Riego  Pistola de Agua para Manguera de Jardín  de Material ABS  10 Modos Diferentes para Pulverizar  Caudal de Agua Regulable  Anillo de Metal para Fijar el Caudal - GHN1A'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BRH2VFR/?tag=tolees-21'
 descuento: '48.35'
 average: '8.975333333333332'

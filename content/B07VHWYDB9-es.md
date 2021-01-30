@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Vans Atwood Canvas  Zapatillas para Hombre  Azul   Enzyme Wash  Dress Blues/White W57   38.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VHWYDB9/?tag=tolees-21'
 descuento: '41.62'
 average: '45.503'

@@ -16,6 +16,7 @@ comparePrice: 26.46 EUR
 prodname: 'Eastpak Springer Riñonera  23 cm  2 L  Multicolor  Blurred Lines '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X3NKHWP/?tag=tolees-21'
 descuento: '39.53'
 average: '17.45'

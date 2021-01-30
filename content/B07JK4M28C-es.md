@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Puntos Negros Mascarilla  Mascarilla Exfoliante  Black Mask-Mascara Negra De Purificante Espinillas y Piel Muerta  Hidratar Piel  Eliminar Puntos Negros  Acné-60 g/2.1oz'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JK4M28C/?tag=tolees-21'
 descuento: '33.61'
 average: '15.056666666666667'

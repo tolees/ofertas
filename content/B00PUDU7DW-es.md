@@ -16,6 +16,7 @@ comparePrice: 16.5 EUR
 prodname: 'Rexona Maximum Protection Crema Antitranspirante Stress Control 3x 45mL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PUDU7DW/?tag=tolees-21'
 descuento: '27.45'
 average: '11.430000000000001'

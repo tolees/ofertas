@@ -16,6 +16,7 @@ comparePrice: 6.0 EUR
 prodname: 'Revlon ZP11 - Champú Anticaspa Cabellos Normales  400 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0051PRCNC/?tag=tolees-21'
 descuento: '41.67'
 average: '3.5'

@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'DC Shoes Penza  Zapatillas de Skateboard para Hombre  Azul  Nautical Blue Nab   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07STVGP35/?tag=tolees-21'
 descuento: '54.47'
 average: '36.193333333333335'

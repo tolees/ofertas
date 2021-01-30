@@ -16,6 +16,7 @@ comparePrice: 390.0 EUR
 prodname: 'Samsonite Neopulse - Spinner L Maleta  75 cm  94 L  Marrón  Metallic Sand '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ULI8PAS/?tag=tolees-21'
 descuento: '35.28'
 average: '252.42'

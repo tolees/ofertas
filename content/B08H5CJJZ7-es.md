@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'i12-TWS Auriculares inalámbricos Bluetooth 5.0  Toque Inteligente  Auriculares estéreo intrauditivos  emparejamiento emergente automático  Compatible con Todos los teléfonos Inteligentes - Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08H5CJJZ7/?tag=tolees-21'
 descuento: '40.01'
 average: '29.99'

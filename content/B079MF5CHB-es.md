@@ -16,6 +16,7 @@ comparePrice: 38.25 EUR
 prodname: 'New Balance 411 m  Zapatillas de Running para Mujer  Negro  Mineral Rode White Lp1   36.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079MF5CHB/?tag=tolees-21'
 descuento: '42.07'
 average: '30.7775'

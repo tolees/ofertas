@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Kaisi Kit Herramienta movil Destornillador Apertura de Pantalla LCD Desmontar moviles reparación para reemplazar la batería y Abrir teléfono para iPhone7 7plus iPhone Series  iPads  iPad Air Samsung'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NVJ3QLQ/?tag=tolees-21'
 descuento: '42.32'
 average: '14.99'

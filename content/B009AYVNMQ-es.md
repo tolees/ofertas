@@ -16,6 +16,7 @@ comparePrice: 73.81 EUR
 prodname: 'Toshiba MQ01ABD0100 - Disco duro interno  2 5"  1TB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009AYVNMQ/?tag=tolees-21'
 descuento: '25.55'
 average: '53.254615384615384'

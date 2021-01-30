@@ -16,6 +16,7 @@ comparePrice: 369.66 EUR
 prodname: 'Samsung Galaxy Tab S5e Wi Fi SM-T720 64GB  plateado alemán versión'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NR4QM9S/?tag=tolees-21'
 descuento: '27.68'
 average: '320.175'

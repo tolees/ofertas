@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Reebok Rapide Mu  Zapatillas de Deporte para Hombre  Multicolor  Skull Grey/Vital Blue/Twisted Berry/Chal 000   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DNGZ5VR/?tag=tolees-21'
 descuento: '33.60'
 average: '53.09'

@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Tommy Hilfiger TJM Classics Longsleeve Polo  Blanco  White Ya2   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RGQKPPD/?tag=tolees-21'
 descuento: '58.38'
 average: '27.05'

@@ -16,6 +16,7 @@ comparePrice: 69.02 EUR
 prodname: 'Hugo Boss-Boss  Agua fresca - 100 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BPAI78K/?tag=tolees-21'
 descuento: '46.39'
 average: '43.080555555555556'

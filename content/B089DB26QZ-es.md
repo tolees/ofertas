@@ -16,6 +16,7 @@ comparePrice: 25.88 EUR
 prodname: 'Ponacat Cámara Web Usb Cámara Web con Micrófono Monitoreo Remoto de 12Mp de Alta Definición para Computadora Portátil Tabletas de Escritorio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089DB26QZ/?tag=tolees-21'
 descuento: '44.44'
 average: '14.38'

@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Pop! Bobble: Avengers Endgame: Nebula'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KPK63Y8/?tag=tolees-21'
 descuento: '33.29'
 average: '9.734615384615385'

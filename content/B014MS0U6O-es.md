@@ -16,6 +16,7 @@ comparePrice: 9.5 EUR
 prodname: 'Original Junta de Cuchillas para Thermomix TM 21/ TM 31'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B014MS0U6O/?tag=tolees-21'
 descuento: '60.53'
 average: '3.75'

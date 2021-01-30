@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Levi s Original Batwing  Blanco  Hm Patch Polo White + 0000   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TNLV42T/?tag=tolees-21'
 descuento: '40.02'
 average: '29.99'

@@ -16,6 +16,7 @@ comparePrice: 6.72 EUR
 prodname: 'Tesa TE05671-00000-11 Cinta doble cara Extra fuerte 10m x 50mm beige  Standard'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00J9QACSQ/?tag=tolees-21'
 descuento: '42.11'
 average: '3.89'

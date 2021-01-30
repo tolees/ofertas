@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Pepe Jeans Jose Pm701939 suéter   Sailor 580   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JH3Z6ZP/?tag=tolees-21'
 descuento: '50.00'
 average: '29.25'

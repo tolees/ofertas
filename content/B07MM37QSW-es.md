@@ -16,6 +16,7 @@ comparePrice: 32.67 EUR
 prodname: 'The Legend of Zelda - Master Sword Lamp  PP4934NN '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MM37QSW/?tag=tolees-21'
 descuento: '33.88'
 average: '24.807333333333336'

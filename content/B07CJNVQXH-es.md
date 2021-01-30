@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'VTIN Mini Auriculares Bluetooth 4.1  Manos Libres Blutooth con Micrófono Reducción de Ruido  Carga Rapida 6-Hrs de Llamadas  Auriculares Inalambricos Bluetooth para iPhone/Android/Conducir/Negocio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CJNVQXH/?tag=tolees-21'
 descuento: '47.64'
 average: '12.59'

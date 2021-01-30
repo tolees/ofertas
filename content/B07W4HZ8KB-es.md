@@ -16,6 +16,7 @@ comparePrice: 76.66 EUR
 prodname: 'Tommy Hilfiger Tommy Tipped Slim Polo  Blanco  White   Large  Talla del Fabricante:  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W4HZ8KB/?tag=tolees-21'
 descuento: '47.89'
 average: '39.95'

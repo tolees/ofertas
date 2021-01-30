@@ -16,6 +16,7 @@ comparePrice: 114.0 EUR
 prodname: 'Safety 1st Looky Trona para bebé evolutiva y reclinable en 3 posiciónes  ajustable en altura  plegable compacto con 4 ruedas  color Warm Grey'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YPRJZHM/?tag=tolees-21'
 descuento: '38.89'
 average: '75.33'

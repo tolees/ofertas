@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Daniel Wellington 0505DW - Reloj con correa para mujer  color azul/rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BKQT6B2/?tag=tolees-21'
 descuento: '56.91'
 average: '61.058'

@@ -16,6 +16,7 @@ comparePrice: 139.95 EUR
 prodname: 'Einhell GC-EM 1743 HW - Cortacésped eléctrico  1700W  altura de corte 6 niveles | 20-70 mm   ancho de corte 43 cm  hasta 700m² de jardín  52L de capacidad de bolsa   ref.3400590 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004FOI5PE/?tag=tolees-21'
 descuento: '28.45'
 average: '100.14'

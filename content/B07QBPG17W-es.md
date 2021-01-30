@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'G-STAR RAW Vetar Slim Chino Pantalones  Beige  Sahara 5126-436   W33/L34  Talla del Fabricante: 33W/ 34L  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QBPG17W/?tag=tolees-21'
 descuento: '44.82'
 average: '49.63'

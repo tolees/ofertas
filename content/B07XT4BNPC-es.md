@@ -16,6 +16,7 @@ comparePrice: 11.5 EUR
 prodname: 'Yacel For Men Cera Disciplinadora  Fija  Protege e Hidrata Cabello 100ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XT4BNPC/?tag=tolees-21'
 descuento: '48.78'
 average: '5.89'

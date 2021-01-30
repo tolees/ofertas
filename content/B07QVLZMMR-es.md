@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Under Armour Women s Essential NS Calcetines  Mujer  Negro  SM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QVLZMMR/?tag=tolees-21'
 descuento: '47.55'
 average: '10.49'

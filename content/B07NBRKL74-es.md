@@ -16,6 +16,7 @@ comparePrice: 57.39 EUR
 prodname: 'Riuty Inteligente Lámpara de Escritorio con Altavoz con  lámpara de Mesa de Aprendizaje para niños con protección Ocular LED Luz de Mesa de Carga USB con Altavoz inalámbrico Bluetooth'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NBRKL74/?tag=tolees-21'
 descuento: '85.55'
 average: '8.29'

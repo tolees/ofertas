@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Samsung EVO Select 64 GB microSD 100 MB/s  Velocidad  Full HD & 4K UHD  Tarjeta de Memoria Incluye Adaptador SD para Smartphone  Tablet  cámara de acción  dron y portátil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085FH3LBD/?tag=tolees-21'
 descuento: '38.78'
 average: '13.123333333333335'

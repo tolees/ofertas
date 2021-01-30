@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Localizador GPS for Coche  Toptellite 3G GPS Tracker NO Monthly Fees  Real-Time Locating  Antitheft SOS Button  Acc Detection  Geo-Fence Wire GPS Tracker for Car Auto Truck Trailer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJ8ZVBX/?tag=tolees-21'
 descuento: '48.89'
 average: '45.99'

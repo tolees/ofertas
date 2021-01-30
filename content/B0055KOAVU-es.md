@@ -16,6 +16,7 @@ comparePrice: 18.55 EUR
 prodname: 'Silverado- Bd [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0055KOAVU/?tag=tolees-21'
 descuento: '29.97'
 average: '12.99'

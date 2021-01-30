@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Victoria Deportivo Serraje P. Negro  Zapatillas para Mujer  40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071JYRNBH/?tag=tolees-21'
 descuento: '62.07'
 average: '22.81'

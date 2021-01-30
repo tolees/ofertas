@@ -16,6 +16,7 @@ comparePrice: 1999.99 EUR
 prodname: 'ASUS ROG Zephyrus M GU502GV-ES004T - Ordenador portátil gaming de 15.6" FullHD  Intel Core i7-9750H  16GB RAM  512GB SSD  GeForce RTX 2060-6GB  Windows 10  metal negro - Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RDZ9LD7/?tag=tolees-21'
 descuento: '30.00'
 average: '1479.99'

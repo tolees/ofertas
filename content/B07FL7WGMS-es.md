@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Pekitas - Colchón minicuna 50 x 75 cm Funda 3D Erogonómico Transpirable Antiahogo con cremallera lavable  interior espuma blanca Fabricado en España'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FL7WGMS/?tag=tolees-21'
 descuento: '60.10'
 average: '19.95'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Superdry Poolside Pique Polo  Rojo  Rouge Red Twist Y6p   M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NY3PY85/?tag=tolees-21'
 descuento: '52.01'
 average: '20.775'

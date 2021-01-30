@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Skechers Men s Stamina Cutback Trainers  Blue  Navy & Black Leather/Charcoal Mesh Nvbk   9  43 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VR53ZVS/?tag=tolees-21'
 descuento: '43.71'
 average: '45.0'

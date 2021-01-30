@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'FIGROL Ventilador Cuello  Ventilador Portatil  USB Recargable Mini Ventilador de Manos Libres  3 velocidades  rotación Libre de 360 °  luz LED  para Mascotas Viajes Interior Exterior  Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088WJNSJ5/?tag=tolees-21'
 descuento: '50.02'
 average: '22.49'

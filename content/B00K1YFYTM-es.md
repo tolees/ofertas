@@ -16,6 +16,7 @@ comparePrice: 42.0 EUR
 prodname: 'Emporio Armani Underwear 111357CC717 - Calzoncillos Para Hombre  Blanco  BIANCO 00110   talla del fabricante: S  paquete de 3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00K1YFYTM/?tag=tolees-21'
 descuento: '31.79'
 average: '28.783333333333335'

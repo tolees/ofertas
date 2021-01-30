@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Victoria 1915 Doble Lona  Zapatillas para Mujer  Negro  Negro 10   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PNVPH4B/?tag=tolees-21'
 descuento: '39.49'
 average: '23.6'

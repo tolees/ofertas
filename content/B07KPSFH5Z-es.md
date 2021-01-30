@@ -16,6 +16,7 @@ comparePrice: 13.83 EUR
 prodname: 'Funko- Pop Vinilo: BTS: J-Hope Figura Coleccionable  Multicolor  37865 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KPSFH5Z/?tag=tolees-21'
 descuento: '32.18'
 average: '13.291578947368423'

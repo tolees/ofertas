@@ -16,6 +16,7 @@ comparePrice: 86 EUR
 prodname: 'Naturalia Somier Fortuna  Tubo de Acero y Láminas de Chopo  150 x 190 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NCN7YZ6/?tag=tolees-21'
 descuento: '33.13'
 average: '57.51'

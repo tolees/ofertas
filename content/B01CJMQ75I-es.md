@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'BH Fitness Optima Flex Banco musculación  Unisex  Plata/Rojo  Unico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CJMQ75I/?tag=tolees-21'
 descuento: '33.44'
 average: '199.0'

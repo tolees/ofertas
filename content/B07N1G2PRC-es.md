@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Kipling HONEST PACK - Bolsa de viaje  1 liters  Morado  DARK PLUM '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1G2PRC/?tag=tolees-21'
 descuento: '65.24'
 average: '26.07'

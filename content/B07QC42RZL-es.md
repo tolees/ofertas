@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Sterntaler Patucos  Botas para Niñas  Rosa  Magenta 745   18 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QC42RZL/?tag=tolees-21'
 descuento: '34.22'
 average: '13.15'

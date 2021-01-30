@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'DIGITNOW! 16MP Cámaras de Caza 1080P FHD Impermeable Gran Angular de 120° y 42pcs IR LED Infrarrojo Visión Nocturna con hasta 80FT/25m Sendero Juego Camera  Cazar Vigilancia de la Fauna'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081JM7KZH/?tag=tolees-21'
 descuento: '33.75'
 average: '52.99'

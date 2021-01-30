@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: '[Nuevo Modelo]Juego de Bordado Punch Needle  Kit de Costura de Bordado Mágico con Herramienta Craft y Tela 50 hilos de colores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MPVG3XX/?tag=tolees-21'
 descuento: '32.01'
 average: '16.99'

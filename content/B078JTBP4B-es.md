@@ -16,6 +16,7 @@ comparePrice: 25.43 EUR
 prodname: 'Safta Bolsa De Deporte Real Sporting De Gijon Oficial 400x230x240mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078JTBP4B/?tag=tolees-21'
 descuento: '41.01'
 average: '16.830000000000002'

@@ -16,6 +16,7 @@ comparePrice: 18.33 EUR
 prodname: 'Gioseppo 56156  Merceditas para Niñas  Negro  36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZPRG98/?tag=tolees-21'
 descuento: '29.41'
 average: '12.94'

@@ -16,6 +16,7 @@ comparePrice: 13.98 EUR
 prodname: 'Protector WC Desechable Impermeable  HTBAKOI Protector Water Desechables Papel Cubre Inodoro 60 PCS Paquete Individual Material Antibacteriano Talla Universal Funda Desechable wc para Baño'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D9GCJX8/?tag=tolees-21'
 descuento: '28.61'
 average: '10.98'

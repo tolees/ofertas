@@ -16,6 +16,7 @@ comparePrice: 81.72 EUR
 prodname: 'Panel Solar Fuente de Alimentación Compatible con Cámara de Seguridad Blink XT Interior y Exterior  Impermeable  Montaje Ajustable  Continuo Fuente de Alimentación  Cable de 12 pies/ 3 6 m   Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HG5STZY/?tag=tolees-21'
 descuento: '57.15'
 average: '35.02'

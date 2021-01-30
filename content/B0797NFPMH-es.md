@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Avengers - Disfraz de Thor oficial Infinity Wars para niños  infantil 5-7 años  Rubie s 641311-M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0797NFPMH/?tag=tolees-21'
 descuento: '44.85'
 average: '14.8125'

@@ -16,6 +16,7 @@ comparePrice: 179.99 EUR
 prodname: 'Sierra de Calar  TECCPO 800W 3000SPM  Corte45°  6 Velocidades  4 Posiciones Orbitales  Maletín  Sierra de Calar Potente  Luz Láser  Adecuada para Cortar Madera y Metal -TAJS01P'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CTBT26K/?tag=tolees-21'
 descuento: '77.78'
 average: '37.440000000000005'

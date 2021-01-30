@@ -16,6 +16,7 @@ comparePrice: 5.09 EUR
 prodname: 'TAMPAX Superplus Tampones - 30 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M63RZXI/?tag=tolees-21'
 descuento: '43.03'
 average: '2.9'

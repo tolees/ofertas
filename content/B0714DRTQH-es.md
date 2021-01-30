@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Under Armour Challenger II Knit Warm-Up Ropa de Deporte de Hombre  chándal Completo  Negro  Black/Graphite 001   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0714DRTQH/?tag=tolees-21'
 descuento: '29.69'
 average: '49.027499999999996'

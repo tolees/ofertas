@@ -16,6 +16,7 @@ comparePrice: 8.95 EUR
 prodname: 'Oliceydress DS0010 Vestidos de Noche  Negro  Black   XXS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZG2V4NN/?tag=tolees-21'
 descuento: '33.30'
 average: '5.97'

@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Men Elite Flex-Hartnell Trainers  Blue  Navy/Blue   47.5 EU  12 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XB4VTH1/?tag=tolees-21'
 descuento: '27.83'
 average: '50.48'

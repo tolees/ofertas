@@ -16,6 +16,7 @@ comparePrice: 8.95 EUR
 prodname: 'Control Touch And Feel Preservativos - 12 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NQZKK8I/?tag=tolees-21'
 descuento: '44.25'
 average: '5.186'

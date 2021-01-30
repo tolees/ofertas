@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'Logitech G512 SE Teclado Gaming Mecánico  Retroiluminado RGB LIGHTSYNC  Interruptores GX Blue  Aleación de Aluminio 5052  Teclas de Función  Conexión de Paso de USB  Disposición AZERTY Francés  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W5JK1LJ/?tag=tolees-21'
 descuento: '25.55'
 average: '85.62'

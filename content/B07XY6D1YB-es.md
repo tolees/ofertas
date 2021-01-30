@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Arándano Rojo Capsulas 12 500 mg - 180 Cápsulas Apto Para Veganos - Suministro para 6 Meses - Extracto de Arándanos de Alta Potencia por Porción - Producto Elaborado en el Reino Unido por Nutravita'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XY6D1YB/?tag=tolees-21'
 descuento: '60.03'
 average: '7.99'

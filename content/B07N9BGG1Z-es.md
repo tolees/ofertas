@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'THE NORTH FACE M TB TRCTN Mule V  Zapatillas de Senderismo para Hombre  Negro  TNF Black/TNF White KY4   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N9BGG1Z/?tag=tolees-21'
 descuento: '40.00'
 average: '33.0'

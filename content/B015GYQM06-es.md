@@ -16,6 +16,7 @@ comparePrice: 15.0 EUR
 prodname: 'L Oréal Paris Accord Parfait  Base de maquillaje acabado natural con ácido hialurónico  tono piel claro 2R  30 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015GYQM06/?tag=tolees-21'
 descuento: '47.00'
 average: '7.6850000000000005'

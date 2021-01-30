@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Dragon Quest Heroes II Explorer s Edition'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NGYYA0R/?tag=tolees-21'
 descuento: '39.16'
 average: '28.0'

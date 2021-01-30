@@ -16,6 +16,7 @@ comparePrice: 26.22 EUR
 prodname: 'Parker Jotter - Pluma estilográfica  cuerpo de acero inoxidable con adorno cromado  plumín mediano y tinta azul  en estuche de regalo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C1SJSC7/?tag=tolees-21'
 descuento: '27.99'
 average: '18.88'

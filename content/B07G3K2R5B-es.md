@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'XPLORA 3S - Smartwatch Resistente al Agua para tu hijo  SIM no incluida  - Llamadas  Mensajes  Modo Colegio  función SOS  Localización GPS y Cámara  Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G3K2R5B/?tag=tolees-21'
 descuento: '25.05'
 average: '124.9'

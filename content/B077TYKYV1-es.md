@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Black+Decker BXPW1400E Hidrolimpiadora de Alta Presión  1400 W  230 V  Negro/Naranja  Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077TYKYV1/?tag=tolees-21'
 descuento: '30.23'
 average: '73.74'

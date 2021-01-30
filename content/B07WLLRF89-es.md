@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Jack & Jones JORFRANKIE Knit Crew Neck Suéter  Sky Captain  S para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WLLRF89/?tag=tolees-21'
 descuento: '49.99'
 average: '17.496666666666666'

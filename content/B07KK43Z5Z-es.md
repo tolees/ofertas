@@ -16,6 +16,7 @@ comparePrice: 160.0 EUR
 prodname: 'Saucony Xodus ISO 3  Mujer  Morado  Púrpura 37   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KK43Z5Z/?tag=tolees-21'
 descuento: '59.38'
 average: '68.995'

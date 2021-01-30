@@ -16,6 +16,7 @@ comparePrice: 25.11 EUR
 prodname: 'VIKI LYNN Pendientes de perlas 7-8mm  Pendientes de perlas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075RYX9XX/?tag=tolees-21'
 descuento: '57.98'
 average: '10.55'

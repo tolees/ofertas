@@ -16,6 +16,7 @@ comparePrice: 37.96 EUR
 prodname: 'Somat Oro Gel Lavavajillas Limón – Pack de 4  Total: 200 lavados  3.6 L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NW6YZ5Z/?tag=tolees-21'
 descuento: '28.87'
 average: '27.0'

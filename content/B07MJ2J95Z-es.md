@@ -16,6 +16,7 @@ comparePrice: 194.74 EUR
 prodname: 'UGG W Classic Short Rubber Logo  Botas para Mujer  Marrón  Chestnut Che   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MJ2J95Z/?tag=tolees-21'
 descuento: '52.56'
 average: '92.39'

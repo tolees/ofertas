@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Merrell Terran Lattice Ii Tira de tobillo para Mujer  Azul  NAVY   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00YDITUBU/?tag=tolees-21'
 descuento: '34.13'
 average: '55.99'

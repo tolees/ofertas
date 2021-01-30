@@ -16,6 +16,7 @@ comparePrice: 39.66 EUR
 prodname: 'Tommy Hilfiger Tjw Sleeve Logo V-Neck Sweater Suéter  Rojo  Claret Red   M para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N4X5JD4/?tag=tolees-21'
 descuento: '28.95'
 average: '32.52333333333333'

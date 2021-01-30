@@ -16,6 +16,7 @@ comparePrice: 6.97 EUR
 prodname: 'Viviance Universal Motocicleta Quad Pit Dirt Moto Tambor Interruptor De Luz De Freno Trasero Kit De Resorte'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R5NZ6BS/?tag=tolees-21'
 descuento: '52.94'
 average: '3.28'

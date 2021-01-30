@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Under Armour UA HG Armour Graphic Swerve WM Leggings Legging Deportivo  Mallas para Mujer  Gris  XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0814T3CGH/?tag=tolees-21'
 descuento: '54.42'
 average: '25.07'

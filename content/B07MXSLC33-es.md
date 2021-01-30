@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'GLOBE Encore-2  Zapatillas de Skateboard para Hombre  Marrón  Ochre Brown 17310   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MXSLC33/?tag=tolees-21'
 descuento: '75.97'
 average: '19.21'

@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'HP C2P24AE 935XL Cartucho de Tinta Original de alto rendimiento  1 unidad  cian'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KRXSJW6/?tag=tolees-21'
 descuento: '30.22'
 average: '16.74'

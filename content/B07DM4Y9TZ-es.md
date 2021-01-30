@@ -16,6 +16,7 @@ comparePrice: 21.45 EUR
 prodname: 'Salter BW06667W - Cubo de Basura Rectangular con Pedal de baño  5 L   Color Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DM4Y9TZ/?tag=tolees-21'
 descuento: '25.45'
 average: '15.99'

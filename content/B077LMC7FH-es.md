@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Adidas Vl Court 2.0 K  Zapatillas de deporte Unisex niños  Rosa  Rosa 000   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077LMC7FH/?tag=tolees-21'
 descuento: '45.01'
 average: '25.955'

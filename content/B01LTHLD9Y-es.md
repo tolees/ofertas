@@ -16,6 +16,7 @@ comparePrice: 3.49 EUR
 prodname: 'Revlon ColorSilk Tinte de Cabello Permanente Tono #50 Castaño Claro Cenizo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LTHLD9Y/?tag=tolees-21'
 descuento: '51.58'
 average: '2.0428571428571427'

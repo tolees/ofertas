@@ -16,6 +16,7 @@ comparePrice: 12.0 EUR
 prodname: 'Max Factor LipFinity Classic Pintalabios Tono 110 Passionate - 34 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00008MORG/?tag=tolees-21'
 descuento: '50.17'
 average: '6.229333333333335'

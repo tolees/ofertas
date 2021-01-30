@@ -16,6 +16,7 @@ comparePrice: 36.08 EUR
 prodname: 'Emuca - Regleta multienchufe retráctil con 3 enchufes schuko EU y 2 Puertos USB  Torre de enchufes Vertical empotrable para encimera de Cocina o Escritorio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GV0PE26/?tag=tolees-21'
 descuento: '30.85'
 average: '29.5'

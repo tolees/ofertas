@@ -16,6 +16,7 @@ comparePrice: 74.95 EUR
 prodname: 'PUMA NRGY Neko Knit  Zapatillas de Running para Hombre  Rojo  High Risk Red/Castlerock 24   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SBVQ1ZC/?tag=tolees-21'
 descuento: '44.03'
 average: '41.95'

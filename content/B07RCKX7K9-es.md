@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'LIFECORP Corrector de Postura Espalda – Rectificador de espalda para hombre y mujer – Corsé de apoyo para hombros  dolor de espalda  thorácico  cuello y columna  soporte de espalda deportivo y oficina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RCKX7K9/?tag=tolees-21'
 descuento: '66.89'
 average: '9.9'

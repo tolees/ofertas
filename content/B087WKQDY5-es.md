@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Bst4UDirect Herramientas de Equilibrado  Herramienta De EliminacióN del Tablero De Audio del AutomóVil Y La NavegacióN del AutomóVil con El Kit De EliminacióN del Panel De Ajuste  43PCS '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087WKQDY5/?tag=tolees-21'
 descuento: '34.63'
 average: '16.99'

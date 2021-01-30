@@ -16,6 +16,7 @@ comparePrice: 5.66 EUR
 prodname: 'Rimmel Stay Matte Polvos compacto - 003 Peach Glow x1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004M9SJ3K/?tag=tolees-21'
 descuento: '68.37'
 average: '1.79'

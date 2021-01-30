@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'Skechers Desert Kiss 31440  Sandalia con Pulsera para Mujer  Negro  Black Black   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074JJWHDG/?tag=tolees-21'
 descuento: '33.08'
 average: '30.08'

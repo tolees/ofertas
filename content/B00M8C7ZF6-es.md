@@ -16,6 +16,7 @@ comparePrice: 172.55 EUR
 prodname: 'Kodak Cám. FZ201 Negra'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00M8C7ZF6/?tag=tolees-21'
 descuento: '36.19'
 average: '120.13666666666666'

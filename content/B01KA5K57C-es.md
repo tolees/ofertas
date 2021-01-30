@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'Thumbs Up!- 1001473 Retro Mini Arcade Machine  Multicolor  OR-240IN1ARC '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KA5K57C/?tag=tolees-21'
 descuento: '36.26'
 average: '25.750434782608693'

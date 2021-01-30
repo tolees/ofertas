@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Helly Hansen Classic Duffel Bolsa De Viaje Impermeable Deporte  Unisex Adulto  Nightshade  30L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R16SLK1/?tag=tolees-21'
 descuento: '26.41'
 average: '49.435'

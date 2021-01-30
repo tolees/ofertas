@@ -16,6 +16,7 @@ comparePrice: 180 EUR
 prodname: 'DUNLOP Explosion Sport Naranja Fluor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JDX3X7D/?tag=tolees-21'
 descuento: '58.77'
 average: '74.22'

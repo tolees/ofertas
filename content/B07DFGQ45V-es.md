@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Jabra Talk 55 – Auricular Monoaural In-Ear  Llamadas Inalámbricas  Indicaciones para el GPS  Transmisión de Música y Podcasts desde Dispositivos Móviles  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFGQ45V/?tag=tolees-21'
 descuento: '38.20'
 average: '61.812222222222225'

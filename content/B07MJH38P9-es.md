@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Birkenstock Rio  Sandalia con Pulsera para Niñas  Rosa  Coral Coral   25 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MJH38P9/?tag=tolees-21'
 descuento: '73.33'
 average: '8.0'

@@ -16,6 +16,7 @@ comparePrice: 54.62 EUR
 prodname: 'Salomon Sense Feel W  Zapatillas para Correr para Mujer  Morado  Mauve Shadows/White/Flint Stone   40 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RFN1J95/?tag=tolees-21'
 descuento: '27.74'
 average: '39.47'

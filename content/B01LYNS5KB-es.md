@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'AGPTEK G02 Mini-Clip Reproductor de MP3 8 GB de Capacidad con Radio FM una Funda Silicona Incluido   Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LYNS5KB/?tag=tolees-21'
 descuento: '28.01'
 average: '18.32333333333333'

@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'adidas Falcon W  Running Shoe Womens  Core Black/Core Black/Footwear White  40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DP81SDF/?tag=tolees-21'
 descuento: '61.61'
 average: '38.63'

@@ -16,6 +16,7 @@ comparePrice: 2.64 EUR
 prodname: 'Justdodo Bolsa de Cintura Deportiva multifunción Bolsa de cinturón de Ciclismo para Correr al Aire Libre Bolsa portátil de 6"para teléfono móvil para Hombres y Mujeres - Púrpura'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XGJM2BB/?tag=tolees-21'
 descuento: '29.92'
 average: '1.85'

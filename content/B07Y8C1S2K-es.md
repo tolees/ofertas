@@ -16,6 +16,7 @@ comparePrice: 126.9 EUR
 prodname: 'WARDBES EMS Masajeador de Pie Plegable 2019 Nuevo Control Remoto inalámbrico EMS masajeador de pies Carga USB cojín de Masaje de pie Plegable masajeador de Pulso para Oficina en casa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y8C1S2K/?tag=tolees-21'
 descuento: '78.80'
 average: '26.9'

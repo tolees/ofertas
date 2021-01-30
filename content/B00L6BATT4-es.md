@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Merry Style Shorts Bañadores Deportivos Trajes de Baño Mujer Modelo L23L1  Negro  9240   46 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00L6BATT4/?tag=tolees-21'
 descuento: '25.02'
 average: '11.99'

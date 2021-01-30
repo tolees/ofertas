@@ -16,6 +16,7 @@ comparePrice: 649.0 EUR
 prodname: 'Fujifilm X-A3 CAMEL - Cámara EVIL de 24 MP  pantalla táctil de 3"  obturador electrónico  video Full HD  Wifi  - kit cuerpo con objetivo XC 16-50 mm Camel'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075JSBWSG/?tag=tolees-21'
 descuento: '28.42'
 average: '548.2'

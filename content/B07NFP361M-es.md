@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Spin Master - Kit de Pulseras y collares para niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NFP361M/?tag=tolees-21'
 descuento: '33.98'
 average: '27.279999999999998'

@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'GTIWUNG 36 Piezas Juego de Herramientas de extracción de terminales automáticos  Kit de extractores de Cables eléctricos para reparación de Coches'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083YXRSDG/?tag=tolees-21'
 descuento: '42.13'
 average: '10.99'

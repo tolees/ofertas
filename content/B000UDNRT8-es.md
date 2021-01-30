@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Eastpak Doggy Bag Riñonera  27 cm  3 L  Negro  Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000UDNRT8/?tag=tolees-21'
 descuento: '33.37'
 average: '18.953333333333333'

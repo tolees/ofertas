@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'CARPISA ® Almohada de Viaje - Go'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V9TBFQJ/?tag=tolees-21'
 descuento: '49.97'
 average: '7.98'

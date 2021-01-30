@@ -16,6 +16,7 @@ comparePrice: 23.98 EUR
 prodname: 'HelpCuisine Salvamanteles/Agarrador de ollas/salvamanteles para ollas/Salvamanteles redondos/reposacucharas de silicona alimentaria 100%  Juego de 4 manteles: azul  rojo  amarillo y verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06X6JJWQF/?tag=tolees-21'
 descuento: '45.91'
 average: '12.97'

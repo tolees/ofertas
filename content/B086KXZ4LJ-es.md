@@ -16,6 +16,7 @@ comparePrice: 24.9 EUR
 prodname: '108 rollos de papel higiénico doble capa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086KXZ4LJ/?tag=tolees-21'
 descuento: '44.98'
 average: '13.7'

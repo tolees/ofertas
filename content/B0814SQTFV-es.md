@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Under Armour Armour Mid Keyhole Graphic Ropa Mujer para Correr  Sujetador Deportivo Espalda Cruzada Y Logotipo  Negro  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0814SQTFV/?tag=tolees-21'
 descuento: '48.37'
 average: '15.49'

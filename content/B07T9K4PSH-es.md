@@ -16,6 +16,7 @@ comparePrice: 71.99 EUR
 prodname: 'Set 2 sartenes Ø20+26cm aluminio prensado aptas inducción Click & cook black CON mango Click & cook'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T9K4PSH/?tag=tolees-21'
 descuento: '61.81'
 average: '34.36333333333333'

@@ -16,6 +16,7 @@ comparePrice: 556.9 EUR
 prodname: 'HP 651A - Cartucho de tóner original LaserJet para Laserjet Enterprise serie 700 color MFP M775  color amarillo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009KFSW2E/?tag=tolees-21'
 descuento: '37.15'
 average: '329.6133333333333'

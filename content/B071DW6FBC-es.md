@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'SELECTED HOMME Shnstraight-Scott 1001 St JNS Noos Jeans Rectos  Negro  Black   W32/L34  Talla del Fabricante: 32  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071DW6FBC/?tag=tolees-21'
 descuento: '62.55'
 average: '27.676000000000002'

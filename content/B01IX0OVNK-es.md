@@ -16,6 +16,7 @@ comparePrice: 37.95 EUR
 prodname: 'Triumph Modern Posy W  Sujetador para Mujer  Beige  Neutral Beige EP   110D'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IX0OVNK/?tag=tolees-21'
 descuento: '45.43'
 average: '20.71'

@@ -16,6 +16,7 @@ comparePrice: 4.78 EUR
 prodname: 'Philips 12499B2 Vision - Bombilla P21/5W para indicadores  2 unidades '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001BATTF0/?tag=tolees-21'
 descuento: '64.02'
 average: '1.72'

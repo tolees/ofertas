@@ -16,6 +16,7 @@ comparePrice: 1259.0 EUR
 prodname: 'Samsung SM-N960F/DS Galaxy Note9  6.4"  8 GB RAM  512GB Memoria  8MP Camara  Azul  Ocean Blue '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FSS2JYH/?tag=tolees-21'
 descuento: '38.92'
 average: '769.0'

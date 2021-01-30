@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Meridian-Ostwall  Zapatillas para Hombre  Verde  Olive Suede/Mesh/PU/Trim Old   39.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P49HCC2/?tag=tolees-21'
 descuento: '54.00'
 average: '29.63'

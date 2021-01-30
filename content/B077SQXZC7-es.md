@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Iimpiador de cera de oídos  Salud Cerumen Entferner para el cuidado Baby para niño niña + 5 pcs Acero Inoxidable cerumen Distancia unicon Irisette Tool Health Ear Care Juego para niños adultos mayores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077SQXZC7/?tag=tolees-21'
 descuento: '27.39'
 average: '7.98'

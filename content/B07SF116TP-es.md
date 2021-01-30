@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'PUMA ST Runner V2 NL JR  Zapatillas Unisex niños  Rosa  Rosewater/Peony White   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SF116TP/?tag=tolees-21'
 descuento: '29.99'
 average: '31.47'

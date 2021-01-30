@@ -16,6 +16,7 @@ comparePrice: 479.9 EUR
 prodname: 'Panasonic LUMIX H-PS45175 - Objetivo Servo Zoom para cámaras de montura M4/3  Focal 45-175 mm  F4-F5.6  tamaño filtro 46 mm  lentes asféricas  POWER O.I.S   negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005JSC3H6/?tag=tolees-21'
 descuento: '27.07'
 average: '315.0'

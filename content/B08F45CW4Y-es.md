@@ -16,6 +16,7 @@ comparePrice: 16.27 EUR
 prodname: 'Toallero de baño Organizador de baño Toallero de pared de acero inoxidable Estante de pared Home Hotel Accesorio de hardware - plata - 60CM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08F45CW4Y/?tag=tolees-21'
 descuento: '33.50'
 average: '10.82'

@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Trust GXT 101P GAV - Ratón Gaming de 4800 PPP con 6 Botones e iluminación  Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K7ST62Q/?tag=tolees-21'
 descuento: '33.36'
 average: '9.99'

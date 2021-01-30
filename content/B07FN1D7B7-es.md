@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'adidas Galaxy 11  Zapatillas de Running para Hombre  Negro  Core Black   39 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FN1D7B7/?tag=tolees-21'
 descuento: '25.95'
 average: '36.355'

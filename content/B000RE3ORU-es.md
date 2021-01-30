@@ -16,6 +16,7 @@ comparePrice: 4.5 EUR
 prodname: 'Brabantia 365102 - Espumadera  Nylon  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000RE3ORU/?tag=tolees-21'
 descuento: '29.11'
 average: '3.19'

@@ -16,6 +16,7 @@ comparePrice: 34.44 EUR
 prodname: 'Alienwork Navy Blue Reloj Unisex Relojes Hombre Mujer Acero Inoxidable Banda de Malla Metálica Plata Analógicos Cuarzo Azul Impermeable Ultra-Delgada Slim'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074J8X8CW/?tag=tolees-21'
 descuento: '28.51'
 average: '24.62'

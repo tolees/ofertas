@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Gant Contrast Color Pique - Polo con manga corta para hombre  Blanco  White   Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00G6F8TOM/?tag=tolees-21'
 descuento: '43.39'
 average: '45.57333333333333'

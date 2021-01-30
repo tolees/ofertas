@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Durex Performax Intense 10'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00D5CZKE6/?tag=tolees-21'
 descuento: '26.27'
 average: '19.945'

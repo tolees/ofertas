@@ -16,6 +16,7 @@ comparePrice: 4.99 EUR
 prodname: 'Himalaya Herbals  Mascarilla de Almendra y Pepino  75 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01D8VRJYM/?tag=tolees-21'
 descuento: '40.08'
 average: '2.99'

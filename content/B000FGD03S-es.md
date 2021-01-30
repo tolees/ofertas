@@ -16,6 +16,7 @@ comparePrice: 10.39 EUR
 prodname: 'K&N KN-185 Filro the Aceite Moto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000FGD03S/?tag=tolees-21'
 descuento: '43.12'
 average: '5.91'

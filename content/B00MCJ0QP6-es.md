@@ -16,6 +16,7 @@ comparePrice: 66 EUR
 prodname: 'Nike Wmns Flex Experience RN 8  Zapatillas de Running para Mujer  Gris  Pure Platinum/Psychic Pink/Black/Mtlc Dk Grey/Wolf Grey/White 003   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MCJ0QP6/?tag=tolees-21'
 descuento: '40.98'
 average: '38.95'

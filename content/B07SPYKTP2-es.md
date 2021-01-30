@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Sunshine smile Juego Splash Pad Almohadilla de aspersión niños al Aire Libre Splash Pad Aspersor de Juego Jardín Aspersor Inflable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SPYKTP2/?tag=tolees-21'
 descuento: '33.35'
 average: '15.99'

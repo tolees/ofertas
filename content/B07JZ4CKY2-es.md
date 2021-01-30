@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: '400pcs pluma de color ZoomSky pluma manualidad de plumaje artesanal para DIY  disfraz  atrapasueños  decoracion sombrero  fiesta de boda'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JZ4CKY2/?tag=tolees-21'
 descuento: '42.62'
 average: '11.47'

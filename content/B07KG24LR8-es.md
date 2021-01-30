@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'PUMA King Pro SG  Botas de fútbol para Hombre  Black White  40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG24LR8/?tag=tolees-21'
 descuento: '81.25'
 average: '18.74'

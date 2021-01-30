@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Bosch TAT7203 Tostador Compacto de Acero Inoxidable  2 Ranuras  1050 W  Color Negro Grafito'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WGXJY74/?tag=tolees-21'
 descuento: '28.58'
 average: '49.99'

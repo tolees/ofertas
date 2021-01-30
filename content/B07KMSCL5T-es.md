@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'adidas W Zne Rev Mallas  Mujer  Negro/grisei  XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KMSCL5T/?tag=tolees-21'
 descuento: '48.45'
 average: '25.75'

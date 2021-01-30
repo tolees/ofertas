@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Levoit Jarra de Agua Filtrada 2 5L con 1 Filtro hasta 60 Días  Libre de BPA con Indicador de Cambio de Filtro  5-Etapa de Filtración para Atrapar Cloro  Fluoruro  Plomo  Metales Pesados y Olores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PZKJRYX/?tag=tolees-21'
 descuento: '40.01'
 average: '23.32333333333333'

@@ -16,6 +16,7 @@ comparePrice: 109.0 EUR
 prodname: 'Silla de paseo Rapid Unique azul 2019'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NGP7J5C/?tag=tolees-21'
 descuento: '27.52'
 average: '79.0'

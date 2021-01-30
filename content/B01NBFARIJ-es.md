@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Ukelele Redondo de 21” Construido con Funda  Bolsa de Accesorios  Púas  Correa Ajustable  Afinador  Cejilla de Aleación  Llave para Desmontado  Cuerda y Toalla para Limpiar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NBFARIJ/?tag=tolees-21'
 descuento: '33.34'
 average: '39.99'

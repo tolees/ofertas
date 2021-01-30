@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Timex Classic T2H371 - Reloj de Cuarzo para Mujeres  Correa de Acero Inoxidable  Color Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000HZTKZE/?tag=tolees-21'
 descuento: '34.36'
 average: '44.49'

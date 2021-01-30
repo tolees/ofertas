@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'BSN DNA Series Glutamine  Sin Sabor - 309 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00WGOE21Q/?tag=tolees-21'
 descuento: '41.34'
 average: '10.933333333333334'

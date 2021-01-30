@@ -16,6 +16,7 @@ comparePrice: 45.3 EUR
 prodname: 'Shock Absorber Ultimate Run Bra Sujetador Deportivo  Azul  Bleu D été 0a7   80B para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HFPYXS7/?tag=tolees-21'
 descuento: '47.24'
 average: '34.599999999999994'

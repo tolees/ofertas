@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Ringke Funda Motorola Moto G6  2018   [Fusion] Claro PC TPU Back [Anti-Cling Dot Matrix Technology] Actualizado Paragolpes TPU Ligero Transparente Funda de Teléfono - Clear'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DCXMMCR/?tag=tolees-21'
 descuento: '26.68'
 average: '10.99'

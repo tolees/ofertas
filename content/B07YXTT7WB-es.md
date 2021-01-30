@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'FITTOO Leggings Sin Costuras Mujer Pantalon Deportivo Alta Cintura Yoga Elásticos Fitness SeamlessGP1600#1 Negro Medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YXTT7WB/?tag=tolees-21'
 descuento: '35.75'
 average: '17.99'

@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'tomtoc Estuche Inteligente para iPad Pro de 12.9 Pulgadas  3.a / 4.a generación  2018-2020  Cubierta Protectora con Conveniente Pata de Cabra magnética para Ver y Escribir en múltiples ángulos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VZMHFFF/?tag=tolees-21'
 descuento: '31.26'
 average: '21.99'

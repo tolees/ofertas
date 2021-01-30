@@ -16,6 +16,7 @@ comparePrice: 69.89 EUR
 prodname: 'READ Reloj Deportivo Impermeable para Hombres con Fecha Automática  Cronógrafo  Reloj Despertador  Fecha Completa del Calendario y Luz LED  Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HLWJ3M5/?tag=tolees-21'
 descuento: '85.85'
 average: '10.389999999999999'

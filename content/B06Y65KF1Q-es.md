@@ -16,6 +16,7 @@ comparePrice: 119 EUR
 prodname: 'Tommy Hilfiger STSSLD99003  Pantalones de traje para Hombre  Azul  425   46'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y65KF1Q/?tag=tolees-21'
 descuento: '59.34'
 average: '48.39'

@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Hub USB 3.0  de 4 Puertos de Datos iAmotus Adaptador usb 3.0 con Tipo C Conector de Alta Velocidade de Transmisión Compatible con USB2.0 para Macbook Windows 10/8 /7 XP Linux - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RWHR22C/?tag=tolees-21'
 descuento: '41.20'
 average: '12.035454545454545'

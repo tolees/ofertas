@@ -16,6 +16,7 @@ comparePrice: 92.95 EUR
 prodname: 'Superdry Hombre Storm Hybrid Jacket  Negro  X-Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F3M3XG4/?tag=tolees-21'
 descuento: '39.81'
 average: '60.45'

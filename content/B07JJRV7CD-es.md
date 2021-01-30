@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-STAR RAW Rovic Mid Waist Skinny Pantalones  Negro  dk Black 5126-6484   W26/L34  Talla del Fabricante: 26W / 34L  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JJRV7CD/?tag=tolees-21'
 descuento: '72.82'
 average: '34.13'

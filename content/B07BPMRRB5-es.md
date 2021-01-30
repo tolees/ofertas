@@ -16,6 +16,7 @@ comparePrice: 109.0 EUR
 prodname: 'Camper Damen Alright Pumps  Pink  Black 1   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BPMRRB5/?tag=tolees-21'
 descuento: '34.06'
 average: '71.87'

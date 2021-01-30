@@ -16,6 +16,7 @@ comparePrice: 292.09 EUR
 prodname: 'Suunto Core - Reloj de exterior para todas las altitudes  sumergible  30 m   con altímetro y barómetro  esfera de composite  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002CIR4CK/?tag=tolees-21'
 descuento: '58.12'
 average: '131.12'

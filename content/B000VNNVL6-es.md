@@ -16,6 +16,7 @@ comparePrice: 19.46 EUR
 prodname: 'Clatronic Secador de Pelo HTD 3055 Secador - 350 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000VNNVL6/?tag=tolees-21'
 descuento: '33.71'
 average: '12.9'

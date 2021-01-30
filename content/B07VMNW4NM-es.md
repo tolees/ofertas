@@ -16,6 +16,7 @@ comparePrice: 54.53 EUR
 prodname: 'Calvin Klein Medium Drawstring Bañador  Verde  Dark Green LC0   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VMNW4NM/?tag=tolees-21'
 descuento: '49.57'
 average: '27.5'

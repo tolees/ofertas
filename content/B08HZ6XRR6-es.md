@@ -16,6 +16,7 @@ comparePrice: 11.59 EUR
 prodname: 'BOWFU Funda para Xiaomi Poco X3 NFC [Ranuras de Tarjeta][Soporte Plegable][Cierre Magnético] Cartera Cuero PU Mandala Gofrado Cover para Xiaomi Poco X3 NFC-Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08HZ6XRR6/?tag=tolees-21'
 descuento: '60.48'
 average: '4.58'

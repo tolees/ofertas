@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance 574v2  Zapatillas para Hombre  Gris  Grey/Red Scj   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RK1XYPM/?tag=tolees-21'
 descuento: '33.47'
 average: '59.88'

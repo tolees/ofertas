@@ -16,6 +16,7 @@ comparePrice: 36.28 EUR
 prodname: 'Banpresto Blood of Saiyans Dragon Ball Estatua Super Saiyan Son Goku  Multicolor  85145 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N5L6PWH/?tag=tolees-21'
 descuento: '31.09'
 average: '25.0'

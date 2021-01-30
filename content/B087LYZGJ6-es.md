@@ -16,6 +16,7 @@ comparePrice: 17.39 EUR
 prodname: 'L3 Tech Estuche rígido para Samsung T7 Touch SSD portátil de 1TB / 2TB / 500GB  Bolsa de Almacenamiento de Transporte - Negro  Forro Negro   Solo Estuche  se Adapta a 1 SSD '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087LYZGJ6/?tag=tolees-21'
 descuento: '25.53'
 average: '12.95'

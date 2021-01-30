@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Columbia Zero Rules Polo de Manga Corta  Hombre  Gris  Carbon Heather   XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072Y6W6HR/?tag=tolees-21'
 descuento: '70.17'
 average: '13.42'

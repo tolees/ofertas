@@ -16,6 +16,7 @@ comparePrice: 120 EUR
 prodname: 'Under Armour UA W TriBase Reign  Zapatillas Deportivas para Interior para Mujer  Negro  Black/White/White  001  001   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CVDGDG1/?tag=tolees-21'
 descuento: '47.51'
 average: '64.495'

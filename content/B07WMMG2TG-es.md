@@ -16,6 +16,7 @@ comparePrice: 113.73 EUR
 prodname: 'Crucial Ballistix Tactical Tracer BLT2K8G4D32AET4K RGB  3200 MHz  DDR4  DRAM  Memoria Gamer Kit para ordenadores de sobremesa  16GB  8GBx2   CL16'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WMMG2TG/?tag=tolees-21'
 descuento: '27.91'
 average: '97.86'

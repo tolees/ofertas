@@ -16,6 +16,7 @@ comparePrice: 60 EUR
 prodname: 'Asics Patriot 10  Zapatillas de Running para Hombre  Azul  Imperial/White 402   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K74KWKS/?tag=tolees-21'
 descuento: '45.08'
 average: '32.95'

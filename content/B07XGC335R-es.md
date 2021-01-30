@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Cosmopolitan Rainbow Shine Hair Waver Tong - Rizos sueltos en minutos - Pinzas para barril - Cable giratorio de 3 m y guante de protección contra el calor gratis'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XGC335R/?tag=tolees-21'
 descuento: '50.03'
 average: '39.95'

@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Pnakqil Funda Xiaomi Redmi 7A Clear Transparente Silicona Carcasa Ultrafina Suave Gel TPU Piel Antigolpes Protectora Bumper Case Cover Compatible con Teléfono Xiaomi Redmi7A  Jirafa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WQX7DS2/?tag=tolees-21'
 descuento: '33.37'
 average: '5.99'

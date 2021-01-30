@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Juego de paños de cocina. 3 piezas. Trapos cocina 60 * 60 cm  algodon. Gruesas y absorbentes. Diseño mediterráneo de España. Libro electrónico gratuito sobre ‘cómo crear tu espacio sagrado’.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084JKQFNF/?tag=tolees-21'
 descuento: '43.78'
 average: '8.99'

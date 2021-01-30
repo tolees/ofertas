@@ -16,6 +16,7 @@ comparePrice: 759.0 EUR
 prodname: 'Apple iPad mini - Tablet  20 1 cm  7.9"   2048 x 1536 Pixeles  256 GB  3G  iOS 12  Oro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PTVKGD2/?tag=tolees-21'
 descuento: '25.99'
 average: '622.855'

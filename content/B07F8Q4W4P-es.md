@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Donna Karan Stories EAU De Parfum Mujeres 100 ml - Eau de parfum  Mujeres  100 ml  Aerosol '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F8Q4W4P/?tag=tolees-21'
 descuento: '47.65'
 average: '51.83'

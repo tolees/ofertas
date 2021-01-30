@@ -16,6 +16,7 @@ comparePrice: 26 EUR
 prodname: 'ELEGOO PLA Filamento de Impresora 3D  Precisión Dimensional +/- 0.03 mm  1kg Carrete  1.75mm-Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JMPPBK3/?tag=tolees-21'
 descuento: '34.65'
 average: '16.99'

@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Funko Pop!- Pop Movies: Harry Potter-Tom Riddle Figura de Vinilo  Multicolor  Estándar  30032 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079YFY2FG/?tag=tolees-21'
 descuento: '37.42'
 average: '9.006666666666668'

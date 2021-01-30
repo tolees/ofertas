@@ -16,6 +16,7 @@ comparePrice: 21.77 EUR
 prodname: 'Now Foods Eve Múltiples Vitaminas Para Mujeres 90 Unidades 230 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00772CHAA/?tag=tolees-21'
 descuento: '26.32'
 average: '16.04'

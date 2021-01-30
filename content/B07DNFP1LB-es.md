@@ -16,6 +16,7 @@ comparePrice: 10.19 EUR
 prodname: 'Weider Peanut Butter - 1000 gr. 100% cacahuete triturado. 100% natural. 100% vegano.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DNFP1LB/?tag=tolees-21'
 descuento: '31.31'
 average: '6.7375'

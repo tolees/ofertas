@@ -16,6 +16,7 @@ comparePrice: 22.9 EUR
 prodname: 'Mantona Premium  Funda para Cámara Reflex  Correa para Hombro  Cierre de Cremallera y Clip  Color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002CMSOFW/?tag=tolees-21'
 descuento: '40.48'
 average: '16.325'

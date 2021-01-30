@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Tommy Hilfiger Corte Regular Tanga de Malla Transparente Alrededor de la Cintura  Negro  Black   32  Talla del Fabricante: XS  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XCGZS2C/?tag=tolees-21'
 descuento: '34.72'
 average: '12.99'

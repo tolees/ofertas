@@ -16,6 +16,7 @@ comparePrice: 16.9 EUR
 prodname: 'SHIMANO R55C4 Zapatas Sueltas  Unisex Adulto  Multicolor  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GED7PKU/?tag=tolees-21'
 descuento: '31.36'
 average: '11.513333333333332'

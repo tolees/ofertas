@@ -16,6 +16,7 @@ comparePrice: 94.99 EUR
 prodname: 'Taurus Professional 3 MAX Freidora de Aceite de 3 Litros  Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079X7NPKW/?tag=tolees-21'
 descuento: '36.85'
 average: '59.99'

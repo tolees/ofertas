@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'Mellerware City Lite Robot Aspirador con Mando a Distancia programable. Motor de aspiración 1400PA. Autonomía 160 Minutos. Friega hasta 135 m2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VDSH1JS/?tag=tolees-21'
 descuento: '25.00'
 average: '135.76466666666664'

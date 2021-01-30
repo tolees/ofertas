@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Hot Chocolate Design Chocolaticas Doris Tacon Mary Jane para Mujeres Multicolor HCD 40'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SK7TTLQ/?tag=tolees-21'
 descuento: '55.01'
 average: '47.49'

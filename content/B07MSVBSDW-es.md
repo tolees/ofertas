@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'GLOBE Encore-2  Zapatillas de Skateboarding para Hombre  Azul  Navy/Gum 000   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MSVBSDW/?tag=tolees-21'
 descuento: '55.03'
 average: '35.95'

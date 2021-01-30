@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'LIUMY Pelota de Juguete al Aire Libre para Perros  Juguete Multifuncional para mordedura de Molar para Mascotas con Ventosa para Masticar  Limpiar los Dientes  Adecuado para Perros y Gatos Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082VB6HPV/?tag=tolees-21'
 descuento: '46.19'
 average: '6.99'

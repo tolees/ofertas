@@ -16,6 +16,7 @@ comparePrice: 33.9 EUR
 prodname: 'KEEP OUT KEP-F80S - Teclado Gaming retroiluminado  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00Q6GQS3K/?tag=tolees-21'
 descuento: '33.72'
 average: '20.814999999999998'

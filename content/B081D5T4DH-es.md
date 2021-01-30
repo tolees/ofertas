@@ -16,6 +16,7 @@ comparePrice: 288.7 EUR
 prodname: 'Candy CS 1292D3/P-S - Lavadora carga frontal 9Kgs  16 programas  1200rpm  programas rápidos  NFC  61dba  display digital táctil  clase A+++  color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081D5T4DH/?tag=tolees-21'
 descuento: '31.42'
 average: '244.34500000000003'

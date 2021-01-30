@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'sumgott - Soporte para monitor de madera  para monitor  portátil  soporte ergonómico  415 x 235 x 100 mm  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088LWBGL2/?tag=tolees-21'
 descuento: '30.78'
 average: '17.99'

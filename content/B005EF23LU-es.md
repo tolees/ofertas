@@ -16,6 +16,7 @@ comparePrice: 16.72 EUR
 prodname: 'Bolsius – Vela perfumada 103630519700 Velas  Cera de parafina  Blanco  Paquete de 50'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005EF23LU/?tag=tolees-21'
 descuento: '32.72'
 average: '11.25'

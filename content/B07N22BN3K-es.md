@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Sennheiser HD 300 Auriculares Circumaurales  Ligeros y Plegables  Color Negro  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N22BN3K/?tag=tolees-21'
 descuento: '45.51'
 average: '31.52636363636364'

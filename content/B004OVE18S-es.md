@@ -16,6 +16,7 @@ comparePrice: 79.26 EUR
 prodname: 'B+W XS-Pro Digital - Filtro UV para 72 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004OVE18S/?tag=tolees-21'
 descuento: '48.40'
 average: '42.4'

@@ -16,6 +16,7 @@ comparePrice: 175 EUR
 prodname: 'Saucony Triumph ISO 5  Zapatillas de Running para Hombre  Gris  Gris 42   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MMWZYLQ/?tag=tolees-21'
 descuento: '50.00'
 average: '87.5'

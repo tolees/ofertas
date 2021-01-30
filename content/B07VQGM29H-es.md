@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Nike Pico 5 TDV  Zapatillas Unisex Niños  Gris  Smoke Grey/Lemon Venom-Laser Blue   27 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VQGM29H/?tag=tolees-21'
 descuento: '30.88'
 average: '17.97'

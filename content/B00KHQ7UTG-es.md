@@ -16,6 +16,7 @@ comparePrice: 21.9 EUR
 prodname: 'Rust-Oleum RO0070002G1 - Pintura De Chalky Finalizar Muebles - Blanco Antiguo - 750Ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KHQ7UTG/?tag=tolees-21'
 descuento: '36.53'
 average: '13.9'

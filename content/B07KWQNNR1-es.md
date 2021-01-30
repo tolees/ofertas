@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Helly Hansen Tokyo Hoodie  Hombre  Grey Mélange  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KWQNNR1/?tag=tolees-21'
 descuento: '35.72'
 average: '44.99'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Color Technik Water Colouring Brush Pens  Set of 6 Premium Brush Tips for Watercolor Painting  Calligraphy  Water Soluble Pencils  Brush Pen Markers  Solid Colors or Powdered Pigment  Perfect Gift'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074GTSNR4/?tag=tolees-21'
 descuento: '50.03'
 average: '9.99'

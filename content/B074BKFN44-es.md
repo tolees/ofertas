@@ -16,6 +16,7 @@ comparePrice: 102.49 EUR
 prodname: 'The Big Bang Theory Temporada 1-10 [DVD]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074BKFN44/?tag=tolees-21'
 descuento: '31.21'
 average: '76.21000000000001'

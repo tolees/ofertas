@@ -16,6 +16,7 @@ comparePrice: 64.04 EUR
 prodname: 'Bra Paellera  Negro  36 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0123ZQ0RG/?tag=tolees-21'
 descuento: '46.92'
 average: '37.0'

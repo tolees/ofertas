@@ -16,6 +16,7 @@ comparePrice: 37.99 EUR
 prodname: 'UMI. Essentials Marco de Fotos 20 x 25 cm Set de 8  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HGPSNXJ/?tag=tolees-21'
 descuento: '34.75'
 average: '24.79'

@@ -16,6 +16,7 @@ comparePrice: 12.05 EUR
 prodname: 'Durex Sensitivo Suave Preservativos Finos y Extralubricados 12 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M13IFK3/?tag=tolees-21'
 descuento: '51.70'
 average: '5.82'

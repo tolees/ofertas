@@ -16,6 +16,7 @@ comparePrice: 119 EUR
 prodname: 'Fossil ES4331 - Reloj analógico para mujer  de cuarzo con correa en acero inoxidable  Silver'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0722YKB8J/?tag=tolees-21'
 descuento: '38.75'
 average: '68.25666666666666'

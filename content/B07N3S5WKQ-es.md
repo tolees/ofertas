@@ -16,6 +16,7 @@ comparePrice: 9.98 EUR
 prodname: 'Diadermine - Tiras Purificantes pieles normales/mixtas- 2 uds de 6 tiras'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N3S5WKQ/?tag=tolees-21'
 descuento: '40.08'
 average: '5.98'

@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Niluoya Bandas Elásticas Fitness  4-Pack 1.5M+2M Cintas Banda Resistencia con 2 Niveles Piezas Bandas de Resistencia para Yoga  Pilates  Crossfit  Estiramientos  Musculacion  Piernas  Brazos Fuerza'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089DZ5ZBG/?tag=tolees-21'
 descuento: '29.43'
 average: '15.989999999999997'

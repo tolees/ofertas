@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Levi s Reddinger  Botas Slouch para Hombre  Negro  R Black 59   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PFWPMQL/?tag=tolees-21'
 descuento: '71.53'
 average: '40.58'

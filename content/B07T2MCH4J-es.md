@@ -16,6 +16,7 @@ comparePrice: 14.11 EUR
 prodname: 'Softee Equipment Pica Madera - 150CM - Color Madera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T2MCH4J/?tag=tolees-21'
 descuento: '29.20'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Estuche rígido de Viaje para Sony MDRZX110NC / ZX300 / ZX310 / MDRZX110 ZX Series Estéreo / MDRZX110AP Auriculares Extra Bajos  Bolsa de Almacenamiento Protectora - Negro  Forro Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TF68GB4/?tag=tolees-21'
 descuento: '40.22'
 average: '11.95'

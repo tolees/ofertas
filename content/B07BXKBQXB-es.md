@@ -16,6 +16,7 @@ comparePrice: 57.99 EUR
 prodname: 'Batidora de Vaso  Deik Batidora 3 en 1 con Molinillo y Picadora de Carne  Batidora Smoothie para Batidos y Alimentos para Bebés  Base de Acero Inoxidable  4 Cuchillas de Titanio  500W & 26000RMP'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BXKBQXB/?tag=tolees-21'
 descuento: '31.04'
 average: '38.01222222222222'

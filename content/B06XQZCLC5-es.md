@@ -16,6 +16,7 @@ comparePrice: 7.45 EUR
 prodname: '7 Enanitos - Estuche portatodo Cuadrado  Karactermanía KM-33615   Karactermanía 33615 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XQZCLC5/?tag=tolees-21'
 descuento: '33.56'
 average: '5.507777777777778'

@@ -16,6 +16,7 @@ comparePrice: 299.41 EUR
 prodname: 'Lsnisni aspirador robótico  Aspiradora automatica con un gran cubo de basura  La succion fuerte  Tranquilo  De prevención de colisiones  Super delgada blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HTCD7XP/?tag=tolees-21'
 descuento: '66.98'
 average: '98.88'

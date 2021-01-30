@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Nike Court Royale  Zapatillas Hombre  Azul/Blanco  Midnight Navy/White   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VDL2BQ6/?tag=tolees-21'
 descuento: '36.40'
 average: '34.98'

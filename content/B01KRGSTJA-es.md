@@ -16,6 +16,7 @@ comparePrice: 199.9 EUR
 prodname: 'Beurer IPL 7500 - Depiladora de luz  pulsada compacta  con cartucho de 150.000 pulsaciones  color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KRGSTJA/?tag=tolees-21'
 descuento: '50.53'
 average: '86.94'

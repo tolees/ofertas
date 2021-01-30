@@ -16,6 +16,7 @@ comparePrice: 7.26 EUR
 prodname: 'Pocket POP! Keychain - Harry Potter: Harry Potter'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017NQWKTW/?tag=tolees-21'
 descuento: '29.89'
 average: '5.125'

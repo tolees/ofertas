@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Incentivador Respiratorio Respiflo FS | Ejercitador respirstorio |-Unidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00U2LKWO6/?tag=tolees-21'
 descuento: '27.23'
 average: '10.18'

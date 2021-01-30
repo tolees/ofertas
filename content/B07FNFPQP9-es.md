@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Clarks Cloud Air T  Zapatillas Altas para Niños  Azul Navy Leather  22.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FNFPQP9/?tag=tolees-21'
 descuento: '70.35'
 average: '15.766666666666667'

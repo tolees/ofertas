@@ -16,6 +16,7 @@ comparePrice: 46.99 EUR
 prodname: 'Logitech G300s Ratón Gaming con Cable  Ambidiestro  RGB  Peso Reducido  9 Botones Programables  Memoria Integrada  PC/Mac  Versión Alemana  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00Q6MR0UO/?tag=tolees-21'
 descuento: '25.43'
 average: '32.01'

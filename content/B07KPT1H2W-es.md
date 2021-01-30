@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Funko Bobble Captain Marvel: Pop 1 Figura Coleccionable  Multicolor  Talla única  37685 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KPT1H2W/?tag=tolees-21'
 descuento: '37.43'
 average: '8.146923076923077'

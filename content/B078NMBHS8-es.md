@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'NIX Advance Marco Digital Fotos y Videos 8 Pulgadas HD. Pantalla IPS  16:10 . Calendario  Reloj. Auto On/Off. Rotación automática'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078NMBHS8/?tag=tolees-21'
 descuento: '31.25'
 average: '67.49'

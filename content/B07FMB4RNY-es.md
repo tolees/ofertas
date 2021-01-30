@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Joseph Joseph Elevate Pinzas de acero inoxidable de 30 5 cm- Gris / Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FMB4RNY/?tag=tolees-21'
 descuento: '30.22'
 average: '13.95'

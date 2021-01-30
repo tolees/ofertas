@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'VULKKANO Blast el Altavoz Bluetooth más potente con 30W Resiste agua y arena  perfecto en playa  piscina  ducha  Altavoz inalámbrico portátil estéreo compatible con móvil  ordenador  TV  etc...'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N9NPQNB/?tag=tolees-21'
 descuento: '25.00'
 average: '68.48333333333332'

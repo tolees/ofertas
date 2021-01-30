@@ -16,6 +16,7 @@ comparePrice: 13.95 EUR
 prodname: 'Essie Gel Couture Laca de Uñas  Tono: 410 Hung Up the Heels'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GJ4MXRS/?tag=tolees-21'
 descuento: '70.18'
 average: '4.16'

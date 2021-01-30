@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Auriculares inalámbricos Bluetooth sobre la Oreja  Plegables Hi-fi estéreo con Suaves Almohadillas de proteína  cableado/inalámbrico/Modo TF para PC/Cell teléfonos/TV  Negro-Rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V3KJ9QB/?tag=tolees-21'
 descuento: '25.01'
 average: '29.99'

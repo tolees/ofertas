@@ -16,6 +16,7 @@ comparePrice: 999.99 EUR
 prodname: 'Acer Nitro xv273kpbmiipphzx - Monitor Gaming de 27 "  144Hz  IPS UltraHD 4k 3840x2160  Contraste 100M:1 1ms  Respuesta 1ms  AMD FreeSync '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JNQ92F6/?tag=tolees-21'
 descuento: '51.00'
 average: '669.995'

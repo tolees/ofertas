@@ -16,6 +16,7 @@ comparePrice: 6.85 EUR
 prodname: 'Aquabeads - 31331 - Flip Tray®'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M6MSTZN/?tag=tolees-21'
 descuento: '43.21'
 average: '3.89'

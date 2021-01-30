@@ -16,6 +16,7 @@ comparePrice: 26.02 EUR
 prodname: 'Motorola Lifestyle 726310106001 Dash cámara WiFi  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076PF2LD5/?tag=tolees-21'
 descuento: '44.47'
 average: '26.509999999999998'

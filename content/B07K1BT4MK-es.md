@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'adidas Estro 19 JSY T-Shirt  Niños  White  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K1BT4MK/?tag=tolees-21'
 descuento: '39.87'
 average: '8.99'

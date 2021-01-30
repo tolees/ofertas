@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'funfunfly Webcam PC con Microfono  HD 1080P Webcam para Portatil/Ordenador/Mac USB 2.0 Web Camera PC para Videollamadas  Estudios  Conferencias  Grabación  Juegos con Clip Giratorio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0892ZYWHW/?tag=tolees-21'
 descuento: '28.00'
 average: '18.0'

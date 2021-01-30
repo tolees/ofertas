@@ -16,6 +16,7 @@ comparePrice: 14.49 EUR
 prodname: 'Konfekt - Geles dulces'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XAPCWZS/?tag=tolees-21'
 descuento: '38.10'
 average: '8.97'

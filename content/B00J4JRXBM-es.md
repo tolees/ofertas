@@ -16,6 +16,7 @@ comparePrice: 14.3 EUR
 prodname: 'Xylazel M57858 - Carcomas 750 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00J4JRXBM/?tag=tolees-21'
 descuento: '37.41'
 average: '10.316666666666666'

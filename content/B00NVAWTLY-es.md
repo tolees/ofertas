@@ -16,6 +16,7 @@ comparePrice: 187.55 EUR
 prodname: 'Fossil Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero JR1487'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NVAWTLY/?tag=tolees-21'
 descuento: '30.71'
 average: '109.475'

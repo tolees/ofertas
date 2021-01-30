@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Remington SP IPL 5000 - Bombilla de repuesto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002C1AYEM/?tag=tolees-21'
 descuento: '29.93'
 average: '21.96333333333333'

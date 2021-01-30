@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'Puma Source Mid World Cup  Zapatillas Altas Unisex Adulto  Negro Black-Bronze-High Risk Red 01  36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG6GVGF/?tag=tolees-21'
 descuento: '84.14'
 average: '20.185000000000002'

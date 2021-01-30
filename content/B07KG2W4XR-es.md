@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'PUMA Nova Wn s  Zapatillas Deportivas para Mujer  Blanco White Black  37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG2W4XR/?tag=tolees-21'
 descuento: '69.86'
 average: '27.11'

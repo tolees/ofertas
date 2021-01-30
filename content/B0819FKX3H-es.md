@@ -16,6 +16,7 @@ comparePrice: 11.87 EUR
 prodname: 'PUTORSEN® Soporte TV de Pared para la Mayoría de los Televisores LED  LCD  OLED  Plasma Plana y Curvada de 32-55 Pulgadas - Soporte de TV con VESA Máxima de 400x400mm Peso de hasta 40kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0819FKX3H/?tag=tolees-21'
 descuento: '28.56'
 average: '10.175'

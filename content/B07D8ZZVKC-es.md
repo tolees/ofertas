@@ -16,6 +16,7 @@ comparePrice: 214.99 EUR
 prodname: 'Asmuse Multi Efecto Pedal Guitarra Eléctrica MG100 Procesador de Pedalera Multiefectos Guitarra para Bajo Principiante Looper EQ Mezclador Instrumento con Adaptador de Energía  Enchufe de la UE '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D8ZZVKC/?tag=tolees-21'
 descuento: '62.79'
 average: '79.99'

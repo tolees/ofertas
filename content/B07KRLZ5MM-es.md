@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'New Balance Fresh Foam Zante Pursuit  Zapatillas de Running para Mujer  Rosa  Pink Pink   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KRLZ5MM/?tag=tolees-21'
 descuento: '74.63'
 average: '75.22'

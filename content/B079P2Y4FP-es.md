@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Diset- Pinto con el Dedo 2 años  68953 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079P2Y4FP/?tag=tolees-21'
 descuento: '49.85'
 average: '7.695'

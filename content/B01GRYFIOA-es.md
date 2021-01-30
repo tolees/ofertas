@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'LEICKE ULL Fuente de alimentación Universal Clavija DE 5 5 * 2 5 milímetros  24V 2A | 48W | Clavija 5 5 * 2 5 mm  24V 2A '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GRYFIOA/?tag=tolees-21'
 descuento: '30.02'
 average: '13.99'

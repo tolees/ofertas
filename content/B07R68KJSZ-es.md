@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Cabezal de Recambio para Oral-B Cepillo de Dientes Eléctrico Recargable  16Pzs Recambios para Cepillo de Dientes Compatible con Precision  Floss  Cross  Whitening'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R68KJSZ/?tag=tolees-21'
 descuento: '35.02'
 average: '12.99'

@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Kasimir Espejo Maquillaje con Luz LED Aumento 5X Espejo de Maquillaje Táctil Ultra Alta Definición Profesional Espejo Cosmético Plegable Espejos - Rotación Ajustable de 360°blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08531GNMF/?tag=tolees-21'
 descuento: '44.46'
 average: '19.99'

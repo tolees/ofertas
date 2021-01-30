@@ -16,6 +16,7 @@ comparePrice: 75.99 EUR
 prodname: 'Giow Lupa de Lectura LED de Escritorio Lupa Grande 5X con 36 Luces LED de Ahorro de energía: la Mejor lámpara de Lupa Manos Libres con Luces para Lectura  Pasatiempos  Manualidades  Banco de trab'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZKNPFDG/?tag=tolees-21'
 descuento: '44.74'
 average: '41.99'

@@ -16,6 +16,7 @@ comparePrice: 10.48 EUR
 prodname: 'Mando a Distancia para Toshiba LCD / 3D / LED TV'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HY7ZZ5F/?tag=tolees-21'
 descuento: '44.27'
 average: '5.84'

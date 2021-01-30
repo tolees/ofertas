@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'ValueHall 18 Piezas Sierra de Corona Perforadora  Juego de Corona con Usillos Mandriles Placa de Instalación para Escayola Madera Yeso Plástico y Tubería PVC V7041-6'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CSPY1PM/?tag=tolees-21'
 descuento: '33.34'
 average: '19.49'

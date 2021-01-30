@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Amazon - Funda protectora de cuero para Kindle  7ª generación - modelo de 2014   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KRM8RS8/?tag=tolees-21'
 descuento: '63.04'
 average: '14.78'

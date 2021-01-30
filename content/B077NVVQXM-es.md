@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Vans Ward Hi  Zapatillas Altas para Mujer Negro   Suede/Canvas  Black/White Iju  36.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077NVVQXM/?tag=tolees-21'
 descuento: '25.43'
 average: '55.93'

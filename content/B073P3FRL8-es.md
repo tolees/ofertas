@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Dreamzie - Protector de Colchón 90 x 190/200 cm Impermeable - Tela 100% Algodón Oeko Tex - Cubre Colchón Hipoalergénico  Anti-Bacteriano  Anti-Acaros - Elásticos de hasta 28cm - Made in EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073P3FRL8/?tag=tolees-21'
 descuento: '25.01'
 average: '18.383333333333333'

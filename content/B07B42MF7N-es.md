@@ -16,6 +16,7 @@ comparePrice: 35.59 EUR
 prodname: 'Ravensburger-00.016.099 Puzle Shaped Mickey  Color Amarillo  00.016.099 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B42MF7N/?tag=tolees-21'
 descuento: '39.42'
 average: '21.56'

@@ -16,6 +16,7 @@ comparePrice: 179.95 EUR
 prodname: 'adidas Ultraboost 19 W  Zapatillas de Running para Mujer  Gris  Grey Three F17/Grey Two F17/Core Black Grey Three F17/Grey Two F17/Core Black   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RLY1R4C/?tag=tolees-21'
 descuento: '50.00'
 average: '89.97'

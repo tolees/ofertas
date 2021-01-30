@@ -16,6 +16,7 @@ comparePrice: 13.41 EUR
 prodname: 'Caja de proyectos de electrónica  caja de aluminio fundida BE-TOOL  caja de conexión para alimentación externa  exterior  caja de conexiones impermeable completa con conector  1 unidad   plateado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0827TLDK9/?tag=tolees-21'
 descuento: '30.05'
 average: '9.38'

@@ -16,6 +16,7 @@ comparePrice: 114.22 EUR
 prodname: 'Protenrop Ecol-Trio - Cubo de basura con 3 compartimentos  45 Litros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OPW5B4O/?tag=tolees-21'
 descuento: '43.09'
 average: '65.0'

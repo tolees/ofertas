@@ -16,6 +16,7 @@ comparePrice: 50.29 EUR
 prodname: 'New Balance 997H Core  Zapatillas para Hombre  Negro  Black/Black   39.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DJ65T1L/?tag=tolees-21'
 descuento: '38.44'
 average: '29.326666666666664'

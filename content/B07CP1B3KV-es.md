@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'PRIXTON Smartwatch SWB31 - Reloj Inteligente Sumergible con Pulsómetro y 50 Watchfaces  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CP1B3KV/?tag=tolees-21'
 descuento: '28.36'
 average: '42.95'

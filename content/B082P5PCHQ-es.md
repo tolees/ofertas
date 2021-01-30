@@ -16,6 +16,7 @@ comparePrice: 77.95 EUR
 prodname: 'EShine Acabado Blanco 3 paneles de luz LED de 30 cm para colocar debajo de los muebles  regulables y activados con movimiento manual - control de atenuación sin contacto  Blanco Cálido  3000K '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082P5PCHQ/?tag=tolees-21'
 descuento: '29.51'
 average: '54.95'

@@ -16,6 +16,7 @@ comparePrice: 6.95 EUR
 prodname: 'Revlon Super Lustrous Pintalabios Mate  Power Move '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DJ9Q7B9/?tag=tolees-21'
 descuento: '71.37'
 average: '1.99'

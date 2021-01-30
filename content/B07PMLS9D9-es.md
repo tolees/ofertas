@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance 997H h  Zapatillas para Hombre  Marfil  White   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PMLS9D9/?tag=tolees-21'
 descuento: '73.93'
 average: '27.216'

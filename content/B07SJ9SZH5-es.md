@@ -16,6 +16,7 @@ comparePrice: 48.99 EUR
 prodname: 'CMXING Molinillo de Pimienta y Sal Molino 2 en 1 Molino de Especias con Molinillo de cerámica Molino de Sal acrílico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SJ9SZH5/?tag=tolees-21'
 descuento: '73.48'
 average: '12.99'

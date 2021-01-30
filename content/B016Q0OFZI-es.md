@@ -16,6 +16,7 @@ comparePrice: 1.4 EUR
 prodname: 'Semillas Hortícolas - Zanahoria Nantesa 2 sel. Urgelba - Batlle'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016Q0OFZI/?tag=tolees-21'
 descuento: '43.57'
 average: '0.79'

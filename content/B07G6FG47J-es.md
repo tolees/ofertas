@@ -16,6 +16,7 @@ comparePrice: 11.24 EUR
 prodname: 'Slumberzzz - Pantuflas/Zapatillas de Estar por casa con diseño tartán para Mujer  36-37 EU   Blanco/Morado '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G6FG47J/?tag=tolees-21'
 descuento: '60.41'
 average: '4.45'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'King Cock Pene de 22.56 cm  Color Natural - 100 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VHKUAGQ/?tag=tolees-21'
 descuento: '43.28'
 average: '17.01'

@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Correa Apple Watch  Correa Compatible con Apple Watch 44 mm 38 mm 42 mm 40 mm  Correa de Repuesto Deportiva de Silicona Suave Ultrafina de Adecuada para Apple Watch SE/iWatch Series 6 5 4 3 2 1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08D6F8ZR9/?tag=tolees-21'
 descuento: '62.99'
 average: '9.99'

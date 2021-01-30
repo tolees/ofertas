@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Flex Appeal 3.0-insiders  Zapatillas para Mujer  Verde  Navy Mesh/Coral Trim Old   2.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NW7QC7D/?tag=tolees-21'
 descuento: '48.64'
 average: '33.36'

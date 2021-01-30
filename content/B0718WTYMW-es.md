@@ -16,6 +16,7 @@ comparePrice: 7.0 EUR
 prodname: 'Rimmel London Stay Matte  Pintalabios Tono 800 Midnight  5.5 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0718WTYMW/?tag=tolees-21'
 descuento: '67.86'
 average: '3.578571428571428'

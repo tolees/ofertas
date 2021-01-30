@@ -16,6 +16,7 @@ comparePrice: 700.0 EUR
 prodname: 'Sony ILCE-5100L - Cámara EVIL de 24.3 MP  pantalla 3"  estabilizador óptico  vídeo Full HD  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MTZI376/?tag=tolees-21'
 descuento: '47.14'
 average: '431.0319999999999'

@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Under Armour Playoff 2.0 Polo  Hombre  Morado  Optic Purple/Pitch Gray 665   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J37RVPQ/?tag=tolees-21'
 descuento: '71.40'
 average: '18.59'

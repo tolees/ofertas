@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'JACK & JONES Jjiace Jjworker WW Pantalones  Verde  Olive Night Olive Night   W30/L30  Talla del Fabricante: 30  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V7DYJSL/?tag=tolees-21'
 descuento: '72.16'
 average: '16.7'

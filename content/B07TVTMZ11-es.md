@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Women s Secret Feminine Micro Black Sujetador básico  Negro  Negro 1   90  Tamaño del Fabricante: 90B  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TVTMZ11/?tag=tolees-21'
 descuento: '68.83'
 average: '7.79'

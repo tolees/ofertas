@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'NWOUIIAY Cargador de Batería Coche Mantenimiento Automático Inteligente 6A 12V con Múltiples Protecciones para Coche Moto ATV RV Barco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PZKSMQD/?tag=tolees-21'
 descuento: '50.36'
 average: '14.39'

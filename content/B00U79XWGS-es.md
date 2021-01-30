@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Edge Entertainment Star Wars. X-Wing. Interceptor Tie'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00U79XWGS/?tag=tolees-21'
 descuento: '55.25'
 average: '6.69'

@@ -16,6 +16,7 @@ comparePrice: 43.0 EUR
 prodname: 'Juvena  Tónico corporal - 50 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074TY2YQF/?tag=tolees-21'
 descuento: '75.70'
 average: '10.45'

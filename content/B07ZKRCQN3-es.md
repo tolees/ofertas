@@ -16,6 +16,7 @@ comparePrice: 15.94 EUR
 prodname: 'Gillette Mach3 Recambio De Maquinilla De Afeitar Para Hombre 8 Recambios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZKRCQN3/?tag=tolees-21'
 descuento: '50.00'
 average: '7.97'

@@ -16,6 +16,7 @@ comparePrice: 36.9 EUR
 prodname: 'Tommy Hilfiger X Sujetador Estilo Bralette  Azul  Navy Blazer 416   Medium  Talla del Fabricante: MD  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0788BTRFD/?tag=tolees-21'
 descuento: '34.99'
 average: '23.99'

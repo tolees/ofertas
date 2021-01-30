@@ -16,6 +16,7 @@ comparePrice: 11.95 EUR
 prodname: 'Underground Toys- Moldes para Galletas Star Wars  Color Blanco  Rojo y Azul  4x1.5x6 cm  SW02785 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M7V8GJY/?tag=tolees-21'
 descuento: '27.62'
 average: '8.65'

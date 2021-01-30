@@ -16,6 +16,7 @@ comparePrice: 12.88 EUR
 prodname: 'MOSOTECH Bandejas Hielo de 3 Packs  Fácil Liberación Cubitera Hielo con Tapa  BPA Free Moldes y Bandejas para Hielo Flexible  Moldes Cubitera Silicona para Whisky  Cócteles y Bebidas Refrigeradas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085S6RPZ6/?tag=tolees-21'
 descuento: '37.97'
 average: '7.99'

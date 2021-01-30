@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Beurer MG148 - Aparato de Masaje Shiatsu  con función de calor  color marrón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EXOBTWC/?tag=tolees-21'
 descuento: '28.48'
 average: '50.977500000000006'

@@ -16,6 +16,7 @@ comparePrice: 7.8 EUR
 prodname: 'Nivea Men - Crema - Cara  cuerpo  manos - 150 ml - [paquete de 2]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y66PCCX/?tag=tolees-21'
 descuento: '61.54'
 average: '3.2333333333333334'

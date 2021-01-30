@@ -16,6 +16,7 @@ comparePrice: 46.3 EUR
 prodname: 'Shimano PDM530W - Pedales M-530 Enduro Spd  color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004V3Z4NA/?tag=tolees-21'
 descuento: '35.23'
 average: '28.99'

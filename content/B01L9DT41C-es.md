@@ -16,6 +16,7 @@ comparePrice: 139.95 EUR
 prodname: 'High Peak Woodpecker 3 Tienda  Unisex  Rojo  Oliva   340 x 190 x 110 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01L9DT41C/?tag=tolees-21'
 descuento: '53.93'
 average: '64.48'

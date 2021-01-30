@@ -16,6 +16,7 @@ comparePrice: 30 EUR
 prodname: 'Hurley Prem Enjoy tee SS Geo Camisetas  Hombre  White  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PSJ4T6G/?tag=tolees-21'
 descuento: '74.47'
 average: '7.66'

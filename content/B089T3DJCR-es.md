@@ -16,6 +16,7 @@ comparePrice: 343.99 EUR
 prodname: 'Klarstein Beersafe Onyx - Nevera de bebidas con puerta acristalada  Mininevera  Minibar  Iluminación LED  Baldas metálicas  Acero inoxidable  42 dB  35 litros  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089T3DJCR/?tag=tolees-21'
 descuento: '27.33'
 average: '249.99'

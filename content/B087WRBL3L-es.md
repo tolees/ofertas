@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'tanggo Cycling Face Half Cover Carbono Antipolvo al Aire Libre Running Faire Shield Faire con Cuatro filtros Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087WRBL3L/?tag=tolees-21'
 descuento: '54.52'
 average: '6.8'

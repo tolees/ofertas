@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Superga 2750 COTU Classic  Zapatillas Unisex  Azul  Azure Erica 325   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N4LD7DM/?tag=tolees-21'
 descuento: '77.12'
 average: '13.5'

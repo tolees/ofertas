@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Bizak- Modelos Aleatorios Dragones Berk  Multicolor  61926549 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D83DLQC/?tag=tolees-21'
 descuento: '69.99'
 average: '6.6'

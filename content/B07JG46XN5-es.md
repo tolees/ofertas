@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Crocs 205827  Botas de Agua Unisex Niños  Azul  Navy/Bright Cobalt 4kb   27/28 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JG46XN5/?tag=tolees-21'
 descuento: '60.30'
 average: '13.89'

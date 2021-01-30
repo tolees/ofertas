@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Tommy Hilfiger Poppy Lrg Za Wallet  Cartera para Mujer  Negro  Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0713THZ4M/?tag=tolees-21'
 descuento: '29.96'
 average: '39.748'

@@ -16,6 +16,7 @@ comparePrice: 40 EUR
 prodname: 'Asics Jolt 2 GS  Zapatillas de Running Unisex Niños  Gris  Sheet Rock/Sun Coral 022   39.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QWYK966/?tag=tolees-21'
 descuento: '40.12'
 average: '23.95'

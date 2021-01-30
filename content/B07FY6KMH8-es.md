@@ -16,6 +16,7 @@ comparePrice: 42.56 EUR
 prodname: 'Vans Filmore Decon  Zapatillas para Hombre  Rojo  Canvas  Port Royale/White 8j7   44.5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FY6KMH8/?tag=tolees-21'
 descuento: '35.01'
 average: '27.66'

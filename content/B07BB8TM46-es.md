@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'ZAPATILLAS SIUX TSUNAMI ROYAL AMARILLO'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BB8TM46/?tag=tolees-21'
 descuento: '71.48'
 average: '19.95'

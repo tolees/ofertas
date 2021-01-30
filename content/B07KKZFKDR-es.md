@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Joseph Joseph Froach Pods Juego de 2 recipientes Redondos de Silicona para Huevos  Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KKZFKDR/?tag=tolees-21'
 descuento: '30.29'
 average: '10.45'

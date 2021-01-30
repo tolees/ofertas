@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'adidas Run tee M T-Shirt  Hombre  Black  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079PX5KJ1/?tag=tolees-21'
 descuento: '37.80'
 average: '15.8075'

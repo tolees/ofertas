@@ -16,6 +16,7 @@ comparePrice: 10.88 EUR
 prodname: 'FRIENDS MS65091 Imanes  Multicolor  18 x 24 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TLNS443/?tag=tolees-21'
 descuento: '38.14'
 average: '6.73'

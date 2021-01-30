@@ -16,6 +16,7 @@ comparePrice: 51.56 EUR
 prodname: 'Braun HC5030 Limited Edition Recargable Negro  Azul - Afeitadora  Negro  Azul  3 mm  3 5 cm  Acero inoxidable  50 min  Integrado '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LXFEKKV/?tag=tolees-21'
 descuento: '36.00'
 average: '33.0'

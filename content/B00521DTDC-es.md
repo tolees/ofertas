@@ -16,6 +16,7 @@ comparePrice: 71.57 EUR
 prodname: 'Mascot 05279 Faro - Pantalones de trabajo  bolsillos  costuras triples '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00521DTDC/?tag=tolees-21'
 descuento: '80.75'
 average: '13.78'

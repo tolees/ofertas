@@ -16,6 +16,7 @@ comparePrice: 17.55 EUR
 prodname: 'Superga 2750-efglu  Zapatillas de Gimnasia Unisex Adulto  Negro  Black 999   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KXHNUKQ/?tag=tolees-21'
 descuento: '26.67'
 average: '12.87'

@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Skechers MAX Cushioning Elite  Zapatillas para Hombre  Azul Marino Textil Naranja Borde Sintético Nvor  42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NR3Y5D9/?tag=tolees-21'
 descuento: '46.94'
 average: '47.73'

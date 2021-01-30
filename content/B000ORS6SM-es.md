@@ -16,6 +16,7 @@ comparePrice: 10.88 EUR
 prodname: 'Max Factor 12057 Masterpiece MAX Máscara de Pestañas - 7 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000ORS6SM/?tag=tolees-21'
 descuento: '35.75'
 average: '7.345'

@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Medisana IN 520 Inhalador portátil para viajes  nebulizador de compresor con boquilla y máscara para adultos y niños  para resfriados o asma con amplios accesorios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082LLS3PL/?tag=tolees-21'
 descuento: '34.00'
 average: '46.17'

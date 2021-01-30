@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'Camper Damen Katie Mary Jane Halbschuhe  Schwarz  Black 1   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079KCBM9N/?tag=tolees-21'
 descuento: '42.74'
 average: '65.85'

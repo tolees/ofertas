@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'PUMA Future 4.2 Netfit FG/AG  Botas de fútbol para Hombre  Black Aged Silver  39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG2THSQ/?tag=tolees-21'
 descuento: '80.89'
 average: '24.83'

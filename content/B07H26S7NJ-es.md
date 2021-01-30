@@ -16,6 +16,7 @@ comparePrice: 14.29 EUR
 prodname: 'COMVIP - Calcetines hasta la rodilla - Liso - para hombre  Hombre  color Style3 White Black  tamaño Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H26S7NJ/?tag=tolees-21'
 descuento: '37.79'
 average: '8.89'

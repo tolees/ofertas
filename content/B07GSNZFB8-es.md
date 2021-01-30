@@ -16,6 +16,7 @@ comparePrice: 141.0 EUR
 prodname: 'Guess - Uptown Chic Barcelona Tote  Mujer  Negro  Nero   42x28.6x13 cm  W x H L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GSNZFB8/?tag=tolees-21'
 descuento: '30.92'
 average: '94.69000000000001'

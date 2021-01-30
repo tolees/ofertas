@@ -16,6 +16,7 @@ comparePrice: 399.0 EUR
 prodname: 'HUGO Astian/hets184 Traje  Beige  Medium Beige 266   102 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VFL491H/?tag=tolees-21'
 descuento: '43.62'
 average: '224.95'

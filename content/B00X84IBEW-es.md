@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'CleanStream Ducha Shot Enema Sistema Limpieza Anal - 1 Unidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X84IBEW/?tag=tolees-21'
 descuento: '78.96'
 average: '15.965'

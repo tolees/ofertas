@@ -16,6 +16,7 @@ comparePrice: 12.22 EUR
 prodname: 'Columbia Goodlife Two Gore Slip  Zapatillas Casual para Mujer  Negro  Black  Storm   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073RNW9B3/?tag=tolees-21'
 descuento: '27.82'
 average: '8.82'

@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'Xiaomi Redmi Note 9 - Smartphone con Pantalla FHD+ de 6.53" DotDisplay  4 GB+128 GB  Cámara cuádruple de 48 MP con IA  MediaTek Helio G85  Batería de 5020 mAh  18 W de Carga rápida   Gris  VEspañola'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0891CSWTC/?tag=tolees-21'
 descuento: '27.71'
 average: '185.65833333333336'

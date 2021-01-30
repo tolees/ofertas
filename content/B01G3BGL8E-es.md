@@ -16,6 +16,7 @@ comparePrice: 32.28 EUR
 prodname: 'MAKITA DEAADP06 - Adaptador para usb 10.8v'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01G3BGL8E/?tag=tolees-21'
 descuento: '34.88'
 average: '21.02'

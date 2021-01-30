@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'AUSTOR 16 Piezas Ganchos de Pared Adhesivo Ganchos de Comando Transparente 7.2cm x 7.2cm  para Colgador de Cocina Baño Puerta Techo  22 libras / 10kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077NW3SR9/?tag=tolees-21'
 descuento: '40.61'
 average: '10.09'

@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Coñac Naranja Marrón Báltico Ámbar Bola de Oro Vermeil Pendientes de Gota'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084VNQW7W/?tag=tolees-21'
 descuento: '28.81'
 average: '42.0'

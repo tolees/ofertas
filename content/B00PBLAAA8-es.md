@@ -16,6 +16,7 @@ comparePrice: 229.0 EUR
 prodname: 'Mercedes-Benz M1039 Hombre  Negro  Schwarz   58'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PBLAAA8/?tag=tolees-21'
 descuento: '88.79'
 average: '25.67'

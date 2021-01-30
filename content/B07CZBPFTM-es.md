@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Under Armour UA Tech Mesh Short Pantalones Cortos  Hombre  Azul  Academy/Steel 408   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZBPFTM/?tag=tolees-21'
 descuento: '48.37'
 average: '15.49'

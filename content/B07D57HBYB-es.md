@@ -16,6 +16,7 @@ comparePrice: 5.59 EUR
 prodname: 'COMVIP Mujer cobre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D57HBYB/?tag=tolees-21'
 descuento: '37.57'
 average: '3.49'

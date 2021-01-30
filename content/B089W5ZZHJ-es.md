@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Aotlet Bañador para Hombre Pantalones Cortos de los Hombres Shorts de Playa Secado Rápido Bañadores con Bolsillos y Drawstring Ajustable para Beach Traje Vacaciones Verano Negro XL-3XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089W5ZZHJ/?tag=tolees-21'
 descuento: '43.98'
 average: '14.56'

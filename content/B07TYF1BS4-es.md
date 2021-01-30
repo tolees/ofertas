@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'D&D Quality Puff Almacenaje Plegable  Asiento Acolchado  38 x 38 x 38 cm - Exterior Suave Piel Sintética - Caja Almacenamiento Cuadrada  BUHOS '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TYF1BS4/?tag=tolees-21'
 descuento: '56.99'
 average: '12.9'

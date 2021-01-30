@@ -16,6 +16,7 @@ comparePrice: 46.14 EUR
 prodname: 'Nike Team Hustle D 9  PS   Zapatillas de Baloncesto Unisex niño  Blanco  White/Black/Volt 000   28 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HHXMC57/?tag=tolees-21'
 descuento: '31.84'
 average: '31.45'

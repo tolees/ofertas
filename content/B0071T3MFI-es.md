@@ -16,6 +16,7 @@ comparePrice: 181.5 EUR
 prodname: 'Bosch Professional GST 90 E - Sierra de calar  650 W  500 - 3100 cpm  profundidad de corte 90 mm  en maletín '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0071T3MFI/?tag=tolees-21'
 descuento: '31.13'
 average: '114.776'

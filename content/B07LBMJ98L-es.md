@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Anker Soundcore Icon Mini  Altavoz Bluetooth  Impermeable  Resistente al Agua IP67 para Senderismo  Ciclismo  Entretenimiento y Aventura  de Bolsillo  9 Horas de reproducción  micrófono Integrado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBMJ98L/?tag=tolees-21'
 descuento: '42.87'
 average: '19.99'

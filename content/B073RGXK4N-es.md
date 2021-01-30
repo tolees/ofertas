@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'Adidas Response W  Zapatillas de Trail Running para Mujer  Negro  Negbas/Aeroaz/Ftwbla 000   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073RGXK4N/?tag=tolees-21'
 descuento: '59.47'
 average: '56.56999999999999'

@@ -16,6 +16,7 @@ comparePrice: 50.55 EUR
 prodname: 'BNTTEAM Mini Carrete Giratorio y Combos de Caña Telescópico Mano Portátil Difícil 99% de Fibra de Carbono Mar Caña de Pescar y Carrete Señuelos Artificiales Sedal  Full Set/2.3M/90.55inch '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08HQG973P/?tag=tolees-21'
 descuento: '36.72'
 average: '31.99'

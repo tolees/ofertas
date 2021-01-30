@@ -16,6 +16,7 @@ comparePrice: 69 EUR
 prodname: 'PIKOLINOS Sandalia Plana de Piel Alcudia 816'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MM27WHQ/?tag=tolees-21'
 descuento: '55.54'
 average: '30.68'

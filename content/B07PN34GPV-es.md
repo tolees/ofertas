@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'VSADEY Aceite de Ricino Orgánico 100% Natural Castor Oil Aceite de Ricino 100% Puro Aceite Prensado en Frío Estimula el crecimiento del cabello Ceja Pestañas y Cejas con 5 Juegos de Cepillos-120ML'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PN34GPV/?tag=tolees-21'
 descuento: '50.35'
 average: '13.940000000000001'

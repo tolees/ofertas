@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Cable equilibrado XLR macho a TRS macho de 6 35 mm  1/4 pulgadas  estéreo | 10 metros | incluye adaptador de toma hembra de 6 35 mm estéreo a conector tipo jack de 3 5 mm y abrazaderas para cables'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KDEHPYM/?tag=tolees-21'
 descuento: '48.35'
 average: '12.39'

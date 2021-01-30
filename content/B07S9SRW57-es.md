@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'PUMA Cilia  Zapatillas para Mujer  Rosa Black/Pink Rosewater Silver White 17  37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S9SRW57/?tag=tolees-21'
 descuento: '54.56'
 average: '27.24'

@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Homever Vaporizador vertical para prendas de vestir con tanque de agua grande de 1.1L  cepillo de tela  férula y 2 ganchos  1750W  vaporizador de ropa de calentamiento rápido 45s'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F298HVY/?tag=tolees-21'
 descuento: '61.81'
 average: '67.65666666666667'

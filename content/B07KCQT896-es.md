@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Adidas T19 KN SHO M Pantalones Cortos de Deporte  Hombre  White  XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KCQT896/?tag=tolees-21'
 descuento: '37.40'
 average: '15.5825'

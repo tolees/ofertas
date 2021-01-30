@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Snailax Masajeador de pies Shiatsu eléctrico con masaje de pies y calor por compresión de aire y balanceo  alivio del dolor SL58A1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083HYT4TN/?tag=tolees-21'
 descuento: '27.76'
 average: '93.91'

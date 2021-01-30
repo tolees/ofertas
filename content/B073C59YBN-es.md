@@ -16,6 +16,7 @@ comparePrice: 133.59 EUR
 prodname: 'Caterpillar Deplete WP  Botas Clasicas para Hombre  Negro  Black Black   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073C59YBN/?tag=tolees-21'
 descuento: '58.46'
 average: '54.45'

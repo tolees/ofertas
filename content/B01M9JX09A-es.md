@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Funko Figurine Marvel - Gardiens De La Galaxie 2 - Taserface [Importación Francesa]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M9JX09A/?tag=tolees-21'
 descuento: '36.69'
 average: '9.715'

@@ -16,6 +16,7 @@ comparePrice: 74.9 EUR
 prodname: 'Taurus ETNA INOX 2 en 1 Grill plancha de asar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YB5JS1T/?tag=tolees-21'
 descuento: '34.58'
 average: '49.0'

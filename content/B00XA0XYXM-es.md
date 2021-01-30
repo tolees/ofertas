@@ -16,6 +16,7 @@ comparePrice: 1.87 EUR
 prodname: 'Príncipe Mini - Galletas Rellenas de Chocolate con Leche en Formato Mini - 4 Bolsitas para Llevar  160 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XA0XYXM/?tag=tolees-21'
 descuento: '30.48'
 average: '1.3'

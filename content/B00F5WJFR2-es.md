@@ -16,6 +16,7 @@ comparePrice: 32.95 EUR
 prodname: 'Bestron Gofrera para Gofres en forma de Corazón  Diseño Retro  Sweet Dreams  700 Vatios  Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00F5WJFR2/?tag=tolees-21'
 descuento: '26.56'
 average: '24.2'

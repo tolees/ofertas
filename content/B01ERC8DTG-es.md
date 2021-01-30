@@ -16,6 +16,7 @@ comparePrice: 13.95 EUR
 prodname: 'L Oréal Paris - False Lash Mariposa  Máscara de Pestañas  Tono Sculpt'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ERC8DTG/?tag=tolees-21'
 descuento: '60.93'
 average: '5.45'

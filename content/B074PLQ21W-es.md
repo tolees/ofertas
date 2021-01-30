@@ -16,6 +16,7 @@ comparePrice: 398.99 EUR
 prodname: 'Epson WFDS410 - Escáner de Documentos en Color A4  Capacidad de USB  Blanco y Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074PLQ21W/?tag=tolees-21'
 descuento: '27.60'
 average: '277.7786956521739'

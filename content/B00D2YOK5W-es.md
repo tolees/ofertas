@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Creative A250 - Equipo de altavoces 2.1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00D2YOK5W/?tag=tolees-21'
 descuento: '28.58'
 average: '26.643749999999997'

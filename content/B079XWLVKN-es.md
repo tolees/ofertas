@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Bergner Q2655 Sarten 20x4.3cm aluminio forjado inducción Neon silver  Alumino'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079XWLVKN/?tag=tolees-21'
 descuento: '37.05'
 average: '16.99'

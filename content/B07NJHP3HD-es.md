@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Tamaris 1-1-25242-23  Botas Militar para Mujer  Marrón  Cognac 305   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJHP3HD/?tag=tolees-21'
 descuento: '79.80'
 average: '20.19'

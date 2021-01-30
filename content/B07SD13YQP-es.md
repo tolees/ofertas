@@ -16,6 +16,7 @@ comparePrice: 34.65 EUR
 prodname: 'PUMA Carina L PS  Zapatillas para Niñas  Blanco White/Gulf Stream 06  29 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SD13YQP/?tag=tolees-21'
 descuento: '48.86'
 average: '17.72'

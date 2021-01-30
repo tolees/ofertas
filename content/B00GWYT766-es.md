@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Eshow Bolsos Bandolera a Hombro Tela de Lona para Hombres Viaje Casual Oficina Uso Diario'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GWYT766/?tag=tolees-21'
 descuento: '68.58'
 average: '21.99'

@@ -16,6 +16,7 @@ comparePrice: 28.98 EUR
 prodname: 'OfficeWorld 603XL Cartucho Tinta para Epson 603 Compatible con Expression Home XP-2100 XP-2105 XP-3100 XP-3105 XP-4100 XP-4105 Workforce WF-2810 WF-2830 WF-2835 WF-2850  2 Cian 2 Magenta 2 Amarillo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088BKWZDW/?tag=tolees-21'
 descuento: '34.85'
 average: '18.88'

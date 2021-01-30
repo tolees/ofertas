@@ -16,6 +16,7 @@ comparePrice: 109.95 EUR
 prodname: 'PUMA LQDCELL Optic  Zapatillas de Running para Hombre  Black White  39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFZQL66/?tag=tolees-21'
 descuento: '54.36'
 average: '50.18'

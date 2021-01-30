@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Star Wars-Funko SW-EP8 Figura de Vinilo Pop 10: B Character  Episodio 8  Multicolor  Standard 14751'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071VTGDQQ/?tag=tolees-21'
 descuento: '34.78'
 average: '7.419999999999999'

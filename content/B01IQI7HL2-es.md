@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Osprey Tempest 20 Women s Hiking Pack - Mystic Magenta  WS/WM '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IQI7HL2/?tag=tolees-21'
 descuento: '28.38'
 average: '85.94'

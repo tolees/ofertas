@@ -16,6 +16,7 @@ comparePrice: 54.53 EUR
 prodname: 'Calvin Klein Short Runner Bañador  Negro  PVH Black BEH   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VSTYQYJ/?tag=tolees-21'
 descuento: '41.34'
 average: '31.99'

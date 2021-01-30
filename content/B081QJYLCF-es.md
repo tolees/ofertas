@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Deik Juego de 5 Utensilios Antiadherentes para Horno-Bandeja de Horno  Molde para Magdalenas  Molde Rectangular para Pan  Molde Redondo  de Acero al Carbono  para Horno  260°Resistente al Calor  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081QJYLCF/?tag=tolees-21'
 descuento: '33.34'
 average: '21.35363636363636'

@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'Pen Drive 512MB 10 Piezas Memorias Flash USB 2.0 - Portátil PenDrive 512 MB Pequeña Capacidad Memory Stick - Negro Económico Unidad Flash USB con Cordones para Empresa Anuncia y Buscaba by FEBNISCTE'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JED5XK6/?tag=tolees-21'
 descuento: '32.44'
 average: '24.99'

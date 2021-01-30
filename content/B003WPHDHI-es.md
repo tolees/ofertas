@@ -16,6 +16,7 @@ comparePrice: 172.0 EUR
 prodname: 'Orlane Fermete Sérum Thermo Actif 30 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003WPHDHI/?tag=tolees-21'
 descuento: '48.96'
 average: '87.14500000000001'

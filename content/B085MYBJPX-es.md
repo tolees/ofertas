@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'CT Aspersor Trampolín Set Cama elástica de Jardín Water Play Sprinklers Pipe  Hechos para Sujetar en la Caja de Red de Seguridad del trampolín  8 m '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085MYBJPX/?tag=tolees-21'
 descuento: '55.01'
 average: '17.99'

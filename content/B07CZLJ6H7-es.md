@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Under Armour Boxerjocks 15 cm Ropa Interior Elástica  3 Unidades  Hombre  Blanco  White 100   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZLJ6H7/?tag=tolees-21'
 descuento: '43.85'
 average: '23.53'

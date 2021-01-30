@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'SDBAUX 3 in 1 Cable de Carga 2Pack Múltiples USB Cargador Rápido Cable de Ocho Pin Tipo C Micro USB Compatible con Samsung Galaxy S9 S8 Plus LG G5 V30 Google Pixel 2XL OnePlus iPad iPod  Solo Carga '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P8M6P5R/?tag=tolees-21'
 descuento: '41.20'
 average: '9.99'

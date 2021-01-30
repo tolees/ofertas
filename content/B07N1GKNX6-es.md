@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Clarks Sillian2.0pace  Zapatillas para Mujer  Negro  Black Textile Black Textile   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1GKNX6/?tag=tolees-21'
 descuento: '26.99'
 average: '51.07'

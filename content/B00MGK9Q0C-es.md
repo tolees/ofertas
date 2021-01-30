@@ -16,6 +16,7 @@ comparePrice: 5.84 EUR
 prodname: 'Rimmel London Extra 3D Lash - Rimel  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MGK9Q0C/?tag=tolees-21'
 descuento: '28.08'
 average: '2.741333333333334'

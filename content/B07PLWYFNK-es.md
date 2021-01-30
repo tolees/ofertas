@@ -16,6 +16,7 @@ comparePrice: 1.99 EUR
 prodname: '1 en 2 Salida Hdmi Convertidor Conecte el Cable del Cable 2 Puerto Doble Y Splitter 1080p - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PLWYFNK/?tag=tolees-21'
 descuento: '31.66'
 average: '1.36'

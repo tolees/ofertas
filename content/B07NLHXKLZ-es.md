@@ -16,6 +16,7 @@ comparePrice: 128 EUR
 prodname: 'Versace Jeans CouturePortafoglioMujerCarterasRojo  Rosso  0 5x16x25 5 centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NLHXKLZ/?tag=tolees-21'
 descuento: '33.81'
 average: '84.72'

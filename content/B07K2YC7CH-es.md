@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Ergocar Creativo Lindo Dibujos Animados Organizador del Asiento de Coche con Bolsas de Aislamiento para Niños Impermeable del Coche Almacenamiento Plegable Kick Mat  Niñita - 1 Pack '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2YC7CH/?tag=tolees-21'
 descuento: '55.02'
 average: '17.99'

@@ -16,6 +16,7 @@ comparePrice: 76.79 EUR
 prodname: 'Carrera- Go DTM Championship Circuito Completo de Coches  Multicolor  Stadlbauer 20062503 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PTV2D4H/?tag=tolees-21'
 descuento: '41.40'
 average: '45.0'

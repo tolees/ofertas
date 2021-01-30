@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Napapijri TALY 2 LS Polo  Azul  French Blue Bb7   XXXL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M83VYY3/?tag=tolees-21'
 descuento: '60.00'
 average: '31.6'

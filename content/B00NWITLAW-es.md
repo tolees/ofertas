@@ -16,6 +16,7 @@ comparePrice: 148.7 EUR
 prodname: 'STANLEY FATMAX FMST1-72383 - Maleta para herramientas con ruedas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NWITLAW/?tag=tolees-21'
 descuento: '32.78'
 average: '108.21000000000001'

@@ -16,6 +16,7 @@ comparePrice: 24.0 EUR
 prodname: 'Kipling Creativity S  Cartera para Mujer  Multicolor  Speckled   14.5x9.5x5 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TXWLGB1/?tag=tolees-21'
 descuento: '50.00'
 average: '13.940000000000001'

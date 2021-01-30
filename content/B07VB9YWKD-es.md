@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'edc by Esprit 099cc1i020 suéter  Gris  Gunmetal 5 019   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VB9YWKD/?tag=tolees-21'
 descuento: '33.34'
 average: '19.99'

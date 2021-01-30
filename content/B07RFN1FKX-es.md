@@ -16,6 +16,7 @@ comparePrice: 94.81 EUR
 prodname: 'Salomon Quest Prime GTX W  Botas de Senderismo para Mujer  Gris  Shadow/Green Gables/Patina Green   40 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RFN1FKX/?tag=tolees-21'
 descuento: '36.00'
 average: '60.68'

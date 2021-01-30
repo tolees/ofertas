@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Atornillador Eléctrico  Jellas Destornillador Eléctrico Carga Rápida 2000 mAh 3 6 V Iones de Iitio con Mango Ajustable  10+1 Engranajes de Torque  Bloqueo Automático  LED luz  USB y 40PCS Accesorios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RLNYDX4/?tag=tolees-21'
 descuento: '27.29'
 average: '15.99'

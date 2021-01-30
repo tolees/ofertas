@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'New Balance 500  Zapatillas para Hombre  Gris  Grey TRS   40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S1PJHBN/?tag=tolees-21'
 descuento: '42.23'
 average: '43.33'

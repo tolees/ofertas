@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Dickies Hose Orgnl 874work Pants - Pantalones deportivos para hombre  Marrón  Dark Brown    Talla del fabricante: 44/34 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008S9B3ZQ/?tag=tolees-21'
 descuento: '80.85'
 average: '12.782499999999999'

@@ -16,6 +16,7 @@ comparePrice: 66.0 EUR
 prodname: 'Nike Tanjun  Zapatillas Hombre  Negro  Black/Black-Anthracite   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XWQ1JK4/?tag=tolees-21'
 descuento: '44.70'
 average: '36.5'

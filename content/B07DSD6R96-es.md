@@ -16,6 +16,7 @@ comparePrice: 26.37 EUR
 prodname: 'Antical-Desincrustante  Corcal Profesional  5 Litros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DSD6R96/?tag=tolees-21'
 descuento: '33.14'
 average: '17.63'

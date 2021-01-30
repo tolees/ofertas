@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Cargador Inalámbrico ESR  Qi 10 W para iPhone 11/11 Pro/11 Pro Max/Xs/Xs Max/XR/X/iPhone 8/8+ Pixel 3/3 XL  Carga Rápida para Samsung S10/S10+/S10e/Note 9/S9/S9+/S8/Note 8  Control de Calor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B8HM19Z/?tag=tolees-21'
 descuento: '35.74'
 average: '13.989999999999998'

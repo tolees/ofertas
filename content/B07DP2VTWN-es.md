@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Doom Eternal  Windows  - Caja con Código de Descarga'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DP2VTWN/?tag=tolees-21'
 descuento: '58.35'
 average: '38.86'

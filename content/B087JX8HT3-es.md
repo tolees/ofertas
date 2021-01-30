@@ -16,6 +16,7 @@ comparePrice: 44.72 EUR
 prodname: 'Blindecor Ara Estor Enrollable translúcido Liso  Poliéster  Blanco Optico  100 X 250 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087JX8HT3/?tag=tolees-21'
 descuento: '26.54'
 average: '32.85'

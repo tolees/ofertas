@@ -16,6 +16,7 @@ comparePrice: 289.0 EUR
 prodname: 'Balay 3CG5172B0 Integrado -  Microondas integrable / encastre con grill  800 W / 1000 W   color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BGWG27J/?tag=tolees-21'
 descuento: '29.07'
 average: '210.5'

@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'adidas Runfalcon  Zapatillas de Running para Hombre  Rojo  Active Red/ Ftwr White/ Core Black   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2KQG22/?tag=tolees-21'
 descuento: '31.63'
 average: '35.42333333333334'

@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Olympus VP-10 - Grabadora de Voz Estéreo de Calidad con Micrófono Omnidireccional  Filtro Anti-Rozamiento  Grabación con una Sola Pulsación  Conexión Directa al Ordenador y 4 GB de Memoria'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013WBJ2ES/?tag=tolees-21'
 descuento: '50.01'
 average: '52.39'

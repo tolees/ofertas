@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Funko The Figura Pop Fugitive Predator  Multicolor  Standard  31299 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFF819M/?tag=tolees-21'
 descuento: '50.16'
 average: '9.403888888888888'

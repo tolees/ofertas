@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Ritiriko Unisex Zapatillas de Deporte para Hombre - Zapatillas de Running Zapatillas de Tenis Zapatillas de Deporte para Caminar Transpirable Athletic Sport Verde 44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z9V6LP5/?tag=tolees-21'
 descuento: '45.01'
 average: '32.99'

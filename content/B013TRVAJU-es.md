@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'POP! Vinilo - The Hunger Games: Peeta Mellark'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013TRVAJU/?tag=tolees-21'
 descuento: '36.62'
 average: '9.5'

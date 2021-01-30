@@ -16,6 +16,7 @@ comparePrice: 12.03 EUR
 prodname: 'Alluflon Tradizione Italia Crepera  aluminio  negro  22 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N5LRQQS/?tag=tolees-21'
 descuento: '31.42'
 average: '8.25'

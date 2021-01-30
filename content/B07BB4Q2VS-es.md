@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'The North Face Edgewood  Botas Chukka para Hombre  Negro  Tnf Black/Tnf White Ky4   47 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BB4Q2VS/?tag=tolees-21'
 descuento: '69.32'
 average: '45.5475'

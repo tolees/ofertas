@@ -16,6 +16,7 @@ comparePrice: 32.62 EUR
 prodname: 'Tommy Hilfiger Kids Plaque Belt 3.0 Cinturón  Azul  Corporate 0g3   Small  Talla del fabricante: S-M  Unisex Adulto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VLC9KZZ/?tag=tolees-21'
 descuento: '44.97'
 average: '17.95'

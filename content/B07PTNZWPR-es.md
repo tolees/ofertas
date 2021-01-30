@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'Mujer Bañador de Una Pieza Traje de Baño Estampado Vintage Retro L CL011002-3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PTNZWPR/?tag=tolees-21'
 descuento: '62.18'
 average: '13.99'

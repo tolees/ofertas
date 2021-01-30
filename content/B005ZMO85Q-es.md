@@ -16,6 +16,7 @@ comparePrice: 22.9 EUR
 prodname: 'AEG HTD 5595 - Secador de pelo profesional con difusor  3 niveles de temperatura  2 velocidades  cable de 2 metros  2200 W  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005ZMO85Q/?tag=tolees-21'
 descuento: '34.50'
 average: '15.0'

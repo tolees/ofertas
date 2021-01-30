@@ -16,6 +16,7 @@ comparePrice: 179.9 EUR
 prodname: 'Klarstein Grill eléctrico multifunción  1600W  Parrilla de pie o Mesa  Tapa termómetro  Incluye Olla Acero INOX para freir  escurridor fritos  Barbacoa Jardin  terraza  Hierro Fundido '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DO97ND0/?tag=tolees-21'
 descuento: '33.30'
 average: '119.99'

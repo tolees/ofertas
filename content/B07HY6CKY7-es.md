@@ -16,6 +16,7 @@ comparePrice: 279.99 EUR
 prodname: 'Rowenta Perfect Steam Pro DG8642F0 - Centro de planchado  autonomía ilimitada de 7 2 bares  golpe de vapor 450 g/min  vapor contínuo 120 g/min  suela Microsteam Laser 400  función Eco y depósito cal'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HY6CKY7/?tag=tolees-21'
 descuento: '29.64'
 average: '201.40875000000003'

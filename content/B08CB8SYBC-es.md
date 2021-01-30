@@ -16,6 +16,7 @@ comparePrice: 45.95 EUR
 prodname: 'JEVX Megafono Portatil 4 en 1 con BATERIA Recargable + Bandera de España 145x90 Grande - Profesional Funcion Grabador y Reproductor de Voz 10 Segundos Altavoz con Control de Volumen Ajustable Correa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CB8SYBC/?tag=tolees-21'
 descuento: '40.35'
 average: '27.41'

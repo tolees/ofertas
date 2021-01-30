@@ -16,6 +16,7 @@ comparePrice: 26.95 EUR
 prodname: 'Rowenta For Elite CF3112F0 Utensilio de peinado Rizador de pelo 1 8 m 25 W - Moldeador de pelo  Rizador de pelo  30 s  Negro  1 8 m  25 W  100-240 V '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PSHNJBJ/?tag=tolees-21'
 descuento: '25.97'
 average: '19.959999999999997'

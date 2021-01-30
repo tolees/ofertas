@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'New Balance 574v2  Zapatillas para Hombre  Azul  Blue E A E   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S2QMG96/?tag=tolees-21'
 descuento: '43.45'
 average: '56.55'

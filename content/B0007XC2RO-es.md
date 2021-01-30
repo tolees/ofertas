@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Intex 59631NP - Set de reparación parches autoadhesivos  7 x 7 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0007XC2RO/?tag=tolees-21'
 descuento: '45.93'
 average: '4.876250000000001'

@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'Optoma HEM2 - Auriculares  Alámbrico  Dentro de oído  Binaural  Intraaural  20-40000 Hz  Rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GVFDPFE/?tag=tolees-21'
 descuento: '48.19'
 average: '145.60666666666665'

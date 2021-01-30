@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'BRTLX 5W G45 Bombilla LED Mini Globo Blanco Frio 6000K E14 Incandescente Equivalente a 45 Ángulo de haz 220Grados 400Lm No Regulable 4 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075YRN1LP/?tag=tolees-21'
 descuento: '40.02'
 average: '11.99'

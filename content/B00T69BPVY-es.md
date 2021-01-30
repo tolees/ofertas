@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Chicco TP-8058664042913 Vendor  Dispositivo Anti Mosquitos Electrónicos  Blanco  Tamaño Único'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00T69BPVY/?tag=tolees-21'
 descuento: '26.02'
 average: '12.29'

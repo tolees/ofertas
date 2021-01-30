@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Under Armour Speed Stride Tight Legging  Mujer  Negro  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QXL89D9/?tag=tolees-21'
 descuento: '49.02'
 average: '27.299999999999997'

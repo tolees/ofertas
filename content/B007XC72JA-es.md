@@ -16,6 +16,7 @@ comparePrice: 44.49 EUR
 prodname: 'M MOLTO Pupitre Pizarra 2 en 1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007XC72JA/?tag=tolees-21'
 descuento: '43.81'
 average: '25.0'

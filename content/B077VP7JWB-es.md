@@ -16,6 +16,7 @@ comparePrice: 145.0 EUR
 prodname: 'BaByliss C1500E – Rizador de pelo automático con Sensor Digital  ajusta automáticamente las opciones de temperatura y tiempo  todo tipo de rizos y ondas  selector de la dirección del rizo  iónico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077VP7JWB/?tag=tolees-21'
 descuento: '51.76'
 average: '79.22625000000001'

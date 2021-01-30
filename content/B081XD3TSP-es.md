@@ -16,6 +16,7 @@ comparePrice: 6.61 EUR
 prodname: 'Babaria Crema Intensiva Antimanchas Noche Dobre Efecto Reparadora y Antiarrugas 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081XD3TSP/?tag=tolees-21'
 descuento: '41.00'
 average: '3.9'

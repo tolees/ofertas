@@ -16,6 +16,7 @@ comparePrice: 21.97 EUR
 prodname: 'Aceite mediterráneo seco  CUERPO CARA CORPORAL  argán orgánico  aguacate  nutre hidrata  regenera y protege su piel  sin silicona  99.5% natural  spray 100 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B4YV3P7/?tag=tolees-21'
 descuento: '45.52'
 average: '11.97'

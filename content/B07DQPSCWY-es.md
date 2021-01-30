@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'adidas Saturday Short Pantalones Cortos de Deporte  Hombre  Negro  XL/5"'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DQPSCWY/?tag=tolees-21'
 descuento: '58.07'
 average: '16.75'

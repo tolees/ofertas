@@ -16,6 +16,7 @@ comparePrice: 44.4 EUR
 prodname: 'Lancaster Sun Beauty Velvet Tanning Milk SPF30 Protector Solar - 400 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IINTKDE/?tag=tolees-21'
 descuento: '47.52'
 average: '23.3'

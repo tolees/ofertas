@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Tommy Hilfiger - Modern Nylon Mini Crossover  Shoppers y bolsos de hombro Hombre  Negro  Black   3x20x18.5 cm  W x H L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RS6FH3W/?tag=tolees-21'
 descuento: '38.94'
 average: '39.3975'

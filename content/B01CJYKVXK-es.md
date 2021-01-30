@@ -16,6 +16,7 @@ comparePrice: 51.6 EUR
 prodname: 'Casio Reloj Analogico para Hombre de Cuarzo con Correa en Resina MRW-200H-2B2VEF'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CJYKVXK/?tag=tolees-21'
 descuento: '53.49'
 average: '24.971999999999998'

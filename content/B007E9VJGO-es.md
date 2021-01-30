@@ -16,6 +16,7 @@ comparePrice: 6.06 EUR
 prodname: 'Smiffy S 37809 Spray Sangre Con Atomizador De Bombeo  Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007E9VJGO/?tag=tolees-21'
 descuento: '34.16'
 average: '3.99'

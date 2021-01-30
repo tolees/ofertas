@@ -16,6 +16,7 @@ comparePrice: 38.99 EUR
 prodname: 'BRTLX Interior de la luz del coche Atmósfera LED decorativa Kit de luz de tira RGB 12V 4 x 18 LED con sonido Función activa Universal Fitment'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076CHN4FT/?tag=tolees-21'
 descuento: '48.73'
 average: '19.99'

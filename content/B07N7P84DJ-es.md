@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Fila Strada Low Wmn  Zapatillas Altas para Mujer  Blanco  White 1fg   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N7P84DJ/?tag=tolees-21'
 descuento: '25.00'
 average: '61.955'

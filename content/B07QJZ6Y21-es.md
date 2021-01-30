@@ -16,6 +16,7 @@ comparePrice: 11.05 EUR
 prodname: 'LuckyGirls ❤️• •❤️ Men s Solid Casual Anti-Slip SpOrot Walking Sneakers Loafers Soft Shoes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QJZ6Y21/?tag=tolees-21'
 descuento: '63.26'
 average: '4.06'

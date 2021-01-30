@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Magicfly Sujetador Organizador Plegable  Organizador de Cajón Armario Ropa Interior Calcetines Calzoncillos Corbatas Bufandas Joyería  4 Cajas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BBTP9GR/?tag=tolees-21'
 descuento: '38.15'
 average: '9.89'

@@ -16,6 +16,7 @@ comparePrice: 14.0 EUR
 prodname: 'Viceni - Marco para fotos con borde fino  bañado en plata  15 x 20 cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00F4TCFO6/?tag=tolees-21'
 descuento: '48.71'
 average: '7.18'

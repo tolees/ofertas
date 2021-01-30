@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Elyco Botones analógico  Amortiguador Premium Aim Assist Motion Control Accesorios  Precision Ring Controlador Juego thumbstick Joystick para Mando thumbstick PS4/Pro/Xbox/Switch'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BFCG84J/?tag=tolees-21'
 descuento: '61.56'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'adidas Stan Smith J  Zapatillas de Gimnasia Unisex Niños  Blanco  FTWR White/FTWR White/Tech Mineral FTWR White/FTWR White/Tech Mineral   37 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RFNC9X6/?tag=tolees-21'
 descuento: '49.99'
 average: '32.48'

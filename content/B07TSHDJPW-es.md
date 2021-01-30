@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Merrell Trail Glove 5  Zapatillas Deportivas para Interior para Hombre  Dorado  Gold   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TSHDJPW/?tag=tolees-21'
 descuento: '33.38'
 average: '79.95'

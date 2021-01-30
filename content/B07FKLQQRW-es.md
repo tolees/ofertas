@@ -16,6 +16,7 @@ comparePrice: 9 EUR
 prodname: 'Joma Marsella Camisetas Equip. M/c  Hombre  Blanco  2XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FKLQQRW/?tag=tolees-21'
 descuento: '33.44'
 average: '6.470000000000001'

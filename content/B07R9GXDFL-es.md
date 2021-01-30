@@ -16,6 +16,7 @@ comparePrice: 15.29 EUR
 prodname: 'Amazon Essentials French Terry Jogger Sweatpant Athletic-Pants  Marino  US XXL  EU 3XL-4XL '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R9GXDFL/?tag=tolees-21'
 descuento: '31.33'
 average: '10.5'

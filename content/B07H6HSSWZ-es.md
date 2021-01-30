@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Unidad externa de DVD  USB 3.0 CD / DVD-RW Drive Writer Burner Transferencia de datos de alta velocidad para computadora portátil  computadora de escritorio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H6HSSWZ/?tag=tolees-21'
 descuento: '38.48'
 average: '15.99'

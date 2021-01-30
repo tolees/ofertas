@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'shenky - Gorro caído - Diseño Vintage - Fantasía 2 - Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MZZON82/?tag=tolees-21'
 descuento: '35.02'
 average: '12.99'

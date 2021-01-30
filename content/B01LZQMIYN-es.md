@@ -16,6 +16,7 @@ comparePrice: 98.0 EUR
 prodname: 'Babyline Caramelo - Saco para silla de paseo  color rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZQMIYN/?tag=tolees-21'
 descuento: '50.71'
 average: '48.3'

@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Sony WHCH400H - Auriculares inalámbricos  Bluetooth  NFC  micro para llamadas con manos libres  óptimo para trabajar en casa   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078VGN9T7/?tag=tolees-21'
 descuento: '45.00'
 average: '26.0'

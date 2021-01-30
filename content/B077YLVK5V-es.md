@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'The North Face W HH Hike II GTX  Zapatillas de Senderismo para Mujer  Negro  TNF Black/TNF Black Kx7   36.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077YLVK5V/?tag=tolees-21'
 descuento: '59.61'
 average: '66.855'

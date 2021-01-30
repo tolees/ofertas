@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'FMPC Funda Compatible con Xiaomi Mi MAX 2  Caso Carcasa Xiaomi Mi MAX 2 Slim Fit 360 Grados 3 in 1 Todo Incluido Protección Cover Anti-Rasguño con HD Protector de Pantalla—Rojo Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XYNL1ZH/?tag=tolees-21'
 descuento: '66.69'
 average: '9.99'

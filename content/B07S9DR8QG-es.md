@@ -16,6 +16,7 @@ comparePrice: 105.0 EUR
 prodname: 'Logitech G703 Lightspeed Ratón Gaming Inalámbrico  Captor Hero 16 000 dpi  Pesos Ajustables  6 Botones Programables  Memoría Integrada  Compatible con PC/Mac  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S9DR8QG/?tag=tolees-21'
 descuento: '39.06'
 average: '72.986'

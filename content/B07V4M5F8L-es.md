@@ -16,6 +16,7 @@ comparePrice: 175.5 EUR
 prodname: 'Love Moschino Jc4270pp0a  Bolsa de mensajero para Mujer  Marrón  Camel Pu   10x14.5x25 Centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V4M5F8L/?tag=tolees-21'
 descuento: '55.56'
 average: '78.43666666666667'

@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Dickies Adairville suéter  Azul  X-Small  Talla del Fabricante:  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NZXGD6H/?tag=tolees-21'
 descuento: '80.05'
 average: '17.779999999999998'

@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'adidas Superstar  Zapatillas de deporte Unisex Adulto  Blanco  Ftwr White/Core Black/Ftwr White   40 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OUWQYO0/?tag=tolees-21'
 descuento: '40.85'
 average: '52.2425'

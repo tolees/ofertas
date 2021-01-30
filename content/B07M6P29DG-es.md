@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'adidas Court Adapt  Zapatillas de Tenis para Hombre  Multicolor  Ftwbla/Ftwbla/Azuosc 000   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M6P29DG/?tag=tolees-21'
 descuento: '58.34'
 average: '31.04'

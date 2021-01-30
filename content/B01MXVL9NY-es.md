@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Tribe Marvel Avengers - Funda para Apple iPhone 6  diseño Iron Man'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MXVL9NY/?tag=tolees-21'
 descuento: '44.82'
 average: '11.03'

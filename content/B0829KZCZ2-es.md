@@ -16,6 +16,7 @@ comparePrice: 40.54 EUR
 prodname: 'adidas Don t Rest Women s Bra - SS20 - M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0829KZCZ2/?tag=tolees-21'
 descuento: '30.04'
 average: '28.36'

@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'SRAM Power Lock Cadena cierre  color plata  4 packs de 2 piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075FB6XKN/?tag=tolees-21'
 descuento: '49.12'
 average: '10.15'

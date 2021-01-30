@@ -16,6 +16,7 @@ comparePrice: 36.26 EUR
 prodname: 'Dockers by Gerli 45pa040  Botas Militar para Hombre  Amarillo  Golden Tan 910   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q3GYBHT/?tag=tolees-21'
 descuento: '25.79'
 average: '26.91'

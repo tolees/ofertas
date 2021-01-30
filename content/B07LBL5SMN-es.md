@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Kappa Bonfire  Botas Clasicas Unisex Adulto  Brown 5050  36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBL5SMN/?tag=tolees-21'
 descuento: '63.58'
 average: '14.55'

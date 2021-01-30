@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Guitarra Abstracta Cesto para la Colada Cestos Lavado de Ropa Bolsas Cesta Redonda de Almacenamiento de Lavandería Grande Plegable de la Fácil de Llevar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089WFJ3P8/?tag=tolees-21'
 descuento: '52.51'
 average: '18.99'

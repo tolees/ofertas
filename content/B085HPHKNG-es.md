@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Lifewit 10L Bolsa Isotermica de Almuerzo Nevera Portatil para Alimentos Frutas  Porta de Comida con Forro Plástico Aislamiento Térmico Genial para Playa Picnic Camping Barbacoa  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085HPHKNG/?tag=tolees-21'
 descuento: '30.78'
 average: '17.99'

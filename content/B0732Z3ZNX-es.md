@@ -16,6 +16,7 @@ comparePrice: 52.24 EUR
 prodname: 'Murtra Estor Plegable loneta Lisa autofrenado 090 x 175 Tostado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0732Z3ZNX/?tag=tolees-21'
 descuento: '26.32'
 average: '38.49'

@@ -16,6 +16,7 @@ comparePrice: 24.89 EUR
 prodname: 'Senderismo y acampada Chubasquero  Vaxiuja Impermeable De Camuflaje  Poncho Camouflage  Ponchos impermeables  para Caza pesca Chubasquero'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072KDDP7Y/?tag=tolees-21'
 descuento: '31.74'
 average: '16.99'

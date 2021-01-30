@@ -16,6 +16,7 @@ comparePrice: 76.0 EUR
 prodname: 'Pioneer TS-R1350S - Altavoces para Coche  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GJXNU68/?tag=tolees-21'
 descuento: '56.20'
 average: '40.83142857142857'

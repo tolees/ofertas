@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: '2018 Wedding Planner Book for Wedding Schedule Organize Diary Unique Hardcover Notebook Keepsake Engagement Gift in Pink Color'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0798PVWMN/?tag=tolees-21'
 descuento: '42.23'
 average: '25.99'

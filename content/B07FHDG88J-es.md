@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'PUMA Cilia  Zapatillas para Mujer  Black Silver-Peach Bud  39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FHDG88J/?tag=tolees-21'
 descuento: '33.39'
 average: '39.93'

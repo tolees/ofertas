@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Ortho Care S Fitness - Entrenamiento en Suspension/Funcional con Cuerdas. Kit Multifuncion Gimnasia - Fortalecimiento  Resistencia y Tonificacion Muscular. con Anclaje para Puerta....'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K6FSMZX/?tag=tolees-21'
 descuento: '25.03'
 average: '29.95'

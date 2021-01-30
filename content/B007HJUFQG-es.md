@@ -16,6 +16,7 @@ comparePrice: 27.85 EUR
 prodname: 'Bloom - Gin Premium London Dry gin 70 C3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007HJUFQG/?tag=tolees-21'
 descuento: '28.22'
 average: '19.99'

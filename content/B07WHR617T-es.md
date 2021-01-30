@@ -16,6 +16,7 @@ comparePrice: 3.69 EUR
 prodname: '100Pcs CD DVD Funda de Almacenamiento de Doble Cara Funda de Bolsa de PP El sobre Proporciona Almacenamiento y protección para su CD y DVD - Aleatorio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WHR617T/?tag=tolees-21'
 descuento: '31.98'
 average: '2.51'

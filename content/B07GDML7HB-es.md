@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Mr. Tronic 30m Cable de Red Ethernet Latiguillo | CAT6  AWG24  CCA  UTP  RJ45  30 Metros  Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GDML7HB/?tag=tolees-21'
 descuento: '25.01'
 average: '17.99'

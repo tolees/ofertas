@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Under Armour UA Speedpocket Run Crop Leggings Capri  Mujer  Negro  Black/Black/Reflective 001   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071FNWKTG/?tag=tolees-21'
 descuento: '59.71'
 average: '44.915'

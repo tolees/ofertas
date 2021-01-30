@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Dickies New York Short Pantalones Cortos Deportivos  Beige  Khaki KH    Tamaño del Fabricante:46  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MZFZJL7/?tag=tolees-21'
 descuento: '81.15'
 average: '11.12'

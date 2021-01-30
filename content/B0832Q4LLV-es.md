@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Videocámara Videocamara Full HD 1080P 30FPS Videocámara Cámara IR Night Vision 24MP 16X Zoom Vlogging Camera con Control Remoto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0832Q4LLV/?tag=tolees-21'
 descuento: '46.16'
 average: '69.99'

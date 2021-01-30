@@ -16,6 +16,7 @@ comparePrice: 21.84 EUR
 prodname: 'EKU FASHION - Body - para bebé niño Gris Gris 80 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01L8FPE9M/?tag=tolees-21'
 descuento: '79.44'
 average: '4.49'

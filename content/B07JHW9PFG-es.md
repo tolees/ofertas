@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Columbia MARAGAL WP  Botas Casual para Mujer  Negro  Black  Graphite   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JHW9PFG/?tag=tolees-21'
 descuento: '69.64'
 average: '36.43'

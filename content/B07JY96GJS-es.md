@@ -16,6 +16,7 @@ comparePrice: 9.9 EUR
 prodname: '28 Palms 9" Inseam Cotton Tencel Chino Short Shorts  Natural  31'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JY96GJS/?tag=tolees-21'
 descuento: '43.43'
 average: '5.6'

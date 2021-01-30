@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'SALOMON Agile 2In1 Short M Pantalones Cortos  Hombre  Negro  Black   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FHDT2XZ/?tag=tolees-21'
 descuento: '30.10'
 average: '34.95'

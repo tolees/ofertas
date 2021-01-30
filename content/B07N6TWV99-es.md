@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Tommy Hilfiger Leather Lifestyle Sneaker  Zapatillas para Hombre  Ink Cey  40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N6TWV99/?tag=tolees-21'
 descuento: '39.99'
 average: '59.95'

@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Under Armour UA Launch AV Cap Gorras de béisbol  Gorrapara Hombre  Blanco  OSFA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071VSVV6R/?tag=tolees-21'
 descuento: '48.12'
 average: '13.49'

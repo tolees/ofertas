@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Mr. Wonderful WOA09177ES - Set de 2 libretas para mentes inquietas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CHNMHT7/?tag=tolees-21'
 descuento: '49.95'
 average: '4.98'

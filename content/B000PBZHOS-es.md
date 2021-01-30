@@ -16,6 +16,7 @@ comparePrice: 5.47 EUR
 prodname: 'Wilton Gomas para Mangas pasteleras  12 Unidades  Morado  Centimeters'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000PBZHOS/?tag=tolees-21'
 descuento: '35.47'
 average: '3.53'

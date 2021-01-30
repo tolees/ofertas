@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'Panama Jack Bill C2  Botin para Hombre 46 Marron'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HMHW986/?tag=tolees-21'
 descuento: '35.75'
 average: '115.0'

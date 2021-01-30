@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'SADES Ratón Gaming 3500 DPI ratón para juegos RGB alámbrico Programable LED Mouse Gaming Profesional 7 Botón para PC Computadora Portátil Computadora MacBook'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076M7DX2Q/?tag=tolees-21'
 descuento: '60.42'
 average: '11.87'

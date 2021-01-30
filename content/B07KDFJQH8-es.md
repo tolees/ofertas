@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'adidas T19 TRK Pnt Y Pantalones de Deporte  Unisex niños  Black/White  1516Y'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KDFJQH8/?tag=tolees-21'
 descuento: '34.52'
 average: '26.16'

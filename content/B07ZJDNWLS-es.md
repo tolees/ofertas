@@ -16,6 +16,7 @@ comparePrice: 39.98 EUR
 prodname: 'Carpeta de Conferencia de Cuero A4 Portafolio con Cuaderno  Carpeta de Negocios para Ipad  Computadora Portátil  Ideal para Entrevistas  Viajes de Negocios  Oficina  Carpeta de Contrato de Venta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZJDNWLS/?tag=tolees-21'
 descuento: '55.10'
 average: '17.95'

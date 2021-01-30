@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee Scarlett Corduroy Pantalones  Rosa  Cameo Pink 94   29W / 33L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MMVZWJ8/?tag=tolees-21'
 descuento: '83.42'
 average: '14.91'

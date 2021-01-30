@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'CMP Ahto  Náuticos Unisex Niños  Gris  Antracite U423   25 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BWWPYPP/?tag=tolees-21'
 descuento: '75.77'
 average: '9.68'

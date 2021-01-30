@@ -16,6 +16,7 @@ comparePrice: 33.63 EUR
 prodname: 'Buscador de Llaves  Esky 4 en 1 Key Finder Control remoto Localizador de artículos inalámbricos Key Finder para Key / Pet / Wallet / Cell Phone'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071SBH59S/?tag=tolees-21'
 descuento: '43.53'
 average: '18.99'

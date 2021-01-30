@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Cape Herb - RUB Louisiana Cajun 100g. Cape Herb de Sudáfrica'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015WY9CW0/?tag=tolees-21'
 descuento: '44.94'
 average: '4.95'

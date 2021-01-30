@@ -16,6 +16,7 @@ comparePrice: 189.0 EUR
 prodname: 'Bulova 98A167 - Reloj de Pulsera de Diseño para Hombre - Ultrafino - Correa de Cuero - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JD2AR6C/?tag=tolees-21'
 descuento: '46.03'
 average: '101.66499999999999'

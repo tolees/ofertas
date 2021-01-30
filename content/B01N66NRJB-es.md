@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'Puma St Trainer EVO AC Jr  Zapatillas Infantil  Rosa  Knockout Pink White 03   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N66NRJB/?tag=tolees-21'
 descuento: '69.83'
 average: '25.173333333333336'

@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Beurer FC48 - Cepillo facial  resistente a salpicadura s  2 intensidades  color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N8RS0Q6/?tag=tolees-21'
 descuento: '33.26'
 average: '18.49'

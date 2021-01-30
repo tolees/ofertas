@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'ROOTOK Electroestimulador Muscular Abdominales  USB Recargable EMS Estimulador Muscular Abdominales  para Abdomen/Cintura/Pierna/Brazo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087JBHS3W/?tag=tolees-21'
 descuento: '40.08'
 average: '29.9'

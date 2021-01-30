@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: '3 Piezas Baberos Bebés Impermeables Manga Larga De Dibujos Animados Suave Material Para Niños Niñas 1-3 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XW4YSW1/?tag=tolees-21'
 descuento: '30.79'
 average: '8.99'

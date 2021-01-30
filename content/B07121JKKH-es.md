@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'XTI 46172 TENIS PLATAFORMA XTI MUJER NEGRO 40'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07121JKKH/?tag=tolees-21'
 descuento: '37.56'
 average: '18.7'

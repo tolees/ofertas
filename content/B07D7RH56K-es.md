@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'BOSS Passerby Polo  Gris  Light/Pastel Grey 051   XXX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D7RH56K/?tag=tolees-21'
 descuento: '69.79'
 average: '27.17'

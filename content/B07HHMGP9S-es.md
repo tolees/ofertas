@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'Chicco Good Night - Vigilabebés de audio con panel de cuna y luz antioscuridad  activación por voz  330 metros alcance  color rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HHMGP9S/?tag=tolees-21'
 descuento: '50.43'
 average: '57.01'

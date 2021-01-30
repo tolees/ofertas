@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Almohadillas Desmaquillantes  TURATA 16Pcs Almohadillas de algodón de bambú reutilizables con bolsa de lavandería  Lavable Maquillaje facial Paños de limpieza para cara Todo Pieles'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VC1JCTS/?tag=tolees-21'
 descuento: '26.33'
 average: '13.99'

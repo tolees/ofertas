@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: '16GB USB 2.0 Flash Drive Divertido 16 GB Pendrive Almacenamiento de Datos Externo Rosa Hielo Unidad USB Pen Drive Regalo Llave USB para Infantil/Madre/Padre/Hermano/Hermana by FEBNISCTE'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OXR74LO/?tag=tolees-21'
 descuento: '31.27'
 average: '10.99'

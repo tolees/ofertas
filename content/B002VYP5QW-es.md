@@ -16,6 +16,7 @@ comparePrice: 8.69 EUR
 prodname: 'TP-LINK TL-ANT2408CL 2 4 GHz de Interior omnidireccional Antena'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002VYP5QW/?tag=tolees-21'
 descuento: '34.18'
 average: '7.515'

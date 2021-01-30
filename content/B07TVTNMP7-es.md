@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Women s Secret Vintage Mv DS Mickey Stripes Nd Camisón  Gris  Gama Grises 42   X-Large  Tamaño del Fabricante: XL  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TVTNMP7/?tag=tolees-21'
 descuento: '67.79'
 average: '10.623333333333333'

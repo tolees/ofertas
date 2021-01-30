@@ -16,6 +16,7 @@ comparePrice: 94.95 EUR
 prodname: 'Dailydream colchón Topper viscoelástico  Espuma con Efecto Memoria  80x200x5cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D7Y1LH8/?tag=tolees-21'
 descuento: '31.65'
 average: '64.9'

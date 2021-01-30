@@ -16,6 +16,7 @@ comparePrice: 16.49 EUR
 prodname: 'Revell Star Wars Boba Fett s Slave I  Kit modele  Escala 1:160  03610 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01D4QFG5K/?tag=tolees-21'
 descuento: '50.45'
 average: '10.145555555555553'

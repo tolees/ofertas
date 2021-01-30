@@ -16,6 +16,7 @@ comparePrice: 3.49 EUR
 prodname: 'Revlon ColorSilk Tinte de Cabello Permanente Tono #80 Rubio Claro Cenizo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AJIK9AS/?tag=tolees-21'
 descuento: '44.13'
 average: '1.95'

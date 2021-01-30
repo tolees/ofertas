@@ -16,6 +16,7 @@ comparePrice: 10.96 EUR
 prodname: 'Canson Iris - Cartulina  50 Unidades  Color Gris Perla'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JMD00PG/?tag=tolees-21'
 descuento: '48.45'
 average: '5.65'

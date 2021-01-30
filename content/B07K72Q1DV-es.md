@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Asics Gel-Sonoma 4 G-TX  Walking Shoe Womens  Black/Stone Grey  38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K72Q1DV/?tag=tolees-21'
 descuento: '60.05'
 average: '39.95'

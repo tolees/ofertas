@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Maybelline New York - The Colossal Big Shot  Base de Máscara de Pestañas Potenciadora  Tono Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077PXNK28/?tag=tolees-21'
 descuento: '37.91'
 average: '4.6433333333333335'

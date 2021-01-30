@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Bella Aurora Splendor Crema Facial Reafirmante Cuello y Escote Hidratante para Mujer Anti-Edad Tratamiento Anti-Arrugas para la Cara Sin Parabenos Día y Noche  50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009K0GGXQ/?tag=tolees-21'
 descuento: '44.57'
 average: '11.03'

@@ -16,6 +16,7 @@ comparePrice: 30.75 EUR
 prodname: 'Cubo de basura color negro de 85 L de Robert Scott'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003MAFPZK/?tag=tolees-21'
 descuento: '54.80'
 average: '15.16'

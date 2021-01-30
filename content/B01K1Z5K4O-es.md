@@ -16,6 +16,7 @@ comparePrice: 47.9 EUR
 prodname: 'Electrolux Love Your Day Collection Batidora de repostería  450 W  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K1Z5K4O/?tag=tolees-21'
 descuento: '60.29'
 average: '19.02'

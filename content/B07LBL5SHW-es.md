@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Kappa Modus II  Zapatillas Unisex Adulto  White/Black 1011  41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBL5SHW/?tag=tolees-21'
 descuento: '52.29'
 average: '19.06'

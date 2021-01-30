@@ -16,6 +16,7 @@ comparePrice: 30.9 EUR
 prodname: 'L-Arginina PURA 99.7% Vegavero® Sport | TESTADO EN LABORATORIO | SIN ADITIVOS | 270 Cápsulas | Vasodilatador + Vigorizante + Aumentar Masa Muscular + Disfunción | 700 mg | Pre Entrenos Potentes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KHNTOXE/?tag=tolees-21'
 descuento: '25.89'
 average: '22.9'

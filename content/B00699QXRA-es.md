@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'INJUSA Triciclo Infantil Body Sport Evolutivo de Color Rosa  12m+  3252 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00699QXRA/?tag=tolees-21'
 descuento: '32.21'
 average: '67.78'

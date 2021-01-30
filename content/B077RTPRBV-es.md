@@ -16,6 +16,7 @@ comparePrice: 151.0 EUR
 prodname: 'Nike Air MAX 270  Zapatillas de Gimnasia para Hombre  Negro  Black/Black/Black 005   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077RTPRBV/?tag=tolees-21'
 descuento: '40.43'
 average: '85.45'

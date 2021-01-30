@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Belkin MIXIT - Cable de Lightning a USB con certificación MFi para iPhone 11  11 Pro  11 Pro Max  XS  XS Max  XR  X  8/8 plus y otros  1 2 metros   negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BCIS5I8/?tag=tolees-21'
 descuento: '32.30'
 average: '12.18'

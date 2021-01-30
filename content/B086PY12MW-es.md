@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Beikell Pulseras Repelentes de Mosquitos 12 Piezas  Pulsera Mosquitos Natural sin DEET con Aceites Esenciales a Citronela y Menta de Protección contra Insectos a Largo Plazo para Niños y Adultos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086PY12MW/?tag=tolees-21'
 descuento: '40.04'
 average: '6.49'

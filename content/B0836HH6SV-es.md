@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'OFFICE HELPER Reemplazo de Cartucho de Tinta Compatible para Epson 29XL for Epson Expression Home XP-235 XP-245 XP-247 XP-330 XP-332 XP-335 XP-342 XP-345 XP-430 XP-432 XP-435  15 Paquete '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0836HH6SV/?tag=tolees-21'
 descuento: '29.80'
 average: '18.89875'

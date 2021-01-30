@@ -16,6 +16,7 @@ comparePrice: 10.53 EUR
 prodname: 'Quid Senia- Paellera En Acero De 26 Cm  2 Raciones  Apta Para Horno e Inducción'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LLQDU4Y/?tag=tolees-21'
 descuento: '45.87'
 average: '5.7'

@@ -16,6 +16,7 @@ comparePrice: 6.24 EUR
 prodname: 'Estilo de carreras almohadillas de cinturón de seguridad Para NISSAN'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004DJS70O/?tag=tolees-21'
 descuento: '32.85'
 average: '4.19'

@@ -16,6 +16,7 @@ comparePrice: 101.06 EUR
 prodname: 'ADATA SD600Q - Disco Duro Externo de Estado sólido  480 GB   Color Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PJMGW13/?tag=tolees-21'
 descuento: '44.77'
 average: '62.725'

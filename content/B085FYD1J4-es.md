@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Bandas de Resistencia Gluteos Set -Conjunto de Bandas de Ejercicio de Tela Premium  con Diseño Antideslizante  3 Niveles Diferentes Bandas de Resistencia de Tela para piernas y glúteos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085FYD1J4/?tag=tolees-21'
 descuento: '32.05'
 average: '16.98'

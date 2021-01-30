@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Anita Maternity Still-BH Miss Cotton - Sujetador Mujer  Blanco  pearl white 671   95DD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0148LS7DS/?tag=tolees-21'
 descuento: '30.03'
 average: '41.95'

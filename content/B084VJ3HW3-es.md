@@ -16,6 +16,7 @@ comparePrice: 4.87 EUR
 prodname: 'Portátil al aire libre de gran capacidad para bebés  leche en polvo para bebés  caja de almacenamiento sellada  tanque organizador  contenedor  caja de recepción - verde - S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084VJ3HW3/?tag=tolees-21'
 descuento: '33.47'
 average: '3.24'

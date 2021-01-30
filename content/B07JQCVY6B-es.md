@@ -16,6 +16,7 @@ comparePrice: 11.29 EUR
 prodname: '50ml Ocean Perfume para Hombres  Fragancias frescas Maduro Caballero Tentaciones Sexy Perfume Bottle #1 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JQCVY6B/?tag=tolees-21'
 descuento: '31.00'
 average: '7.79'

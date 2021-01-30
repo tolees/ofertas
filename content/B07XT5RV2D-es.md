@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'VEIERSIA Calentador de Manos Recargable 5200mAh Recargable Banco de Energía  se Calienta Rápido Idea de Regalo de Invierno para Familiares y Amigos  Rosado '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XT5RV2D/?tag=tolees-21'
 descuento: '42.13'
 average: '17.656666666666666'

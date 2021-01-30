@@ -16,6 +16,7 @@ comparePrice: 64.9 EUR
 prodname: 'Breville DuraCeramic VST074X - Sandwichera con revestimiento  850 W  acero inoxidable  platos desmontables  color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01I4RUBMC/?tag=tolees-21'
 descuento: '38.38'
 average: '39.660000000000004'

@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Women s Stamina-Classy Trail Trainers  Green  Off White Suede/Mesh/Off White & Gum Trim Old   3  36 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NW6YCPV/?tag=tolees-21'
 descuento: '38.88'
 average: '42.75'

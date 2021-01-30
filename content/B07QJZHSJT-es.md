@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Lámpara de Espejo Baño LED 5W 30cm 400LM Azhien Blanco Neutro 4000K LED Armario Lámpara Luz de Pared IP44 230V Aplique de Baño Espejo Acero Inoxidable 300x14x14mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QJZHSJT/?tag=tolees-21'
 descuento: '36.68'
 average: '19.99'

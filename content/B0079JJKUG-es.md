@@ -16,6 +16,7 @@ comparePrice: 35.74 EUR
 prodname: 'BRA Cazo 16cm Efficient Orange  Aluminio Fundido  Naranja  16 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0079JJKUG/?tag=tolees-21'
 descuento: '28.09'
 average: '25.793333333333333'

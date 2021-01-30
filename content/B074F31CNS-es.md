@@ -16,6 +16,7 @@ comparePrice: 18.8 EUR
 prodname: 'Spider-Man: Homecoming [DVD]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074F31CNS/?tag=tolees-21'
 descuento: '52.18'
 average: '8.600000000000001'

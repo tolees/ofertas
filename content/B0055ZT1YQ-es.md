@@ -16,6 +16,7 @@ comparePrice: 33.9 EUR
 prodname: 'Orbegozo TB2203 TB 2203-Tabla de asado  220 x 430 mm  2000 W  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0055ZT1YQ/?tag=tolees-21'
 descuento: '35.40'
 average: '22.499999999999996'

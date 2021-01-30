@@ -16,6 +16,7 @@ comparePrice: 31.4 EUR
 prodname: 'DEK - Zapatillas Deportivas de Memory Foam para Chico Hombre  45 EU   Gris Oscuro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H74ZRKW/?tag=tolees-21'
 descuento: '40.45'
 average: '18.7'

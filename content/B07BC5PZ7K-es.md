@@ -16,6 +16,7 @@ comparePrice: 10.0 EUR
 prodname: 'Bourjois Le Petit Strober Iluminadores Tono 0 Universal - 25 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BC5PZ7K/?tag=tolees-21'
 descuento: '53.20'
 average: '4.68'

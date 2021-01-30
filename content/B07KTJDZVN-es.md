@@ -16,6 +16,7 @@ comparePrice: 245.0 EUR
 prodname: 'Scuderia Ferrari Reloj de Pulsera 830597'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KTJDZVN/?tag=tolees-21'
 descuento: '47.96'
 average: '142.22666666666666'

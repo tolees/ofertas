@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Amzdeal Soporte de Fondo 2 * 3m con 3 Fondos Fotográficos 1.6 * 2m  NegroBlancoVerde  y 2 Pinzas para Fotografía versión  Traje pequeño '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077S2NC5C/?tag=tolees-21'
 descuento: '27.50'
 average: '51.24'

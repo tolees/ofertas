@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Maybelline New York - Color Sensational Vivid Matte Liquid  Barra de Labios  Tono 30 Fuchsia'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01F32BX9Q/?tag=tolees-21'
 descuento: '78.54'
 average: '1.5'

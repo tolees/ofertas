@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Angel Schlesser Eau Fraiche Citrus Pomelo Edt Vapo 150 Ml - 150 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R3XXFMR/?tag=tolees-21'
 descuento: '50.00'
 average: '14.95'

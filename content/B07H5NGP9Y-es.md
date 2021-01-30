@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Targus THZ749GL Funda VersaVu para iPad Pro de 12 9 Pulgadas  2018  en Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H5NGP9Y/?tag=tolees-21'
 descuento: '38.52'
 average: '47.885000000000005'

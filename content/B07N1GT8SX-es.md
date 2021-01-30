@@ -16,6 +16,7 @@ comparePrice: 62.08 EUR
 prodname: 'Clarks Un Rio Lace  Zapatillas  Marrón  Aubergine Lea Aubergine Lea   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1GT8SX/?tag=tolees-21'
 descuento: '37.98'
 average: '38.5'

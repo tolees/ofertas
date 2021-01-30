@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Lékué Decorador pastelería  Silicona  Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007F6G3YE/?tag=tolees-21'
 descuento: '39.75'
 average: '11.99'

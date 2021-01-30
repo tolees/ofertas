@@ -16,6 +16,7 @@ comparePrice: 130.47 EUR
 prodname: 'Dolce & Gabbana The One Men Agua Colonia  150 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075HLZH44/?tag=tolees-21'
 descuento: '57.38'
 average: '56.916250000000005'

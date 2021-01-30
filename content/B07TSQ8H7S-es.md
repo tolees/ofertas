@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Ultra Groove  Zapatillas para Hombre  Azul  Navy Flat Knit/Trim Nvy   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TSQ8H7S/?tag=tolees-21'
 descuento: '47.25'
 average: '35.665'

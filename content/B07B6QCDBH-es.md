@@ -16,6 +16,7 @@ comparePrice: 13.6 EUR
 prodname: '6x Cuaderno de notas Notebook VINTAGE Tapa Kraft Papel Crema LISO especial para Estilografica Roller Rlotulador Pluma 4419a'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B6QCDBH/?tag=tolees-21'
 descuento: '26.84'
 average: '9.95'

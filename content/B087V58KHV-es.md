@@ -16,6 +16,7 @@ comparePrice: 5.99 EUR
 prodname: 'Inibsa Alcogel 100 ml - Gel hidroalcóholico manos 70%. Sin enjuagar. No pegajoso. Contiene glicerina que hidrata la piel - Gel de manos para una limpieza profunda - 1 unidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087V58KHV/?tag=tolees-21'
 descuento: '50.08'
 average: '3.0600000000000005'

@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'ESI Multicomplex Potasio+ Magnesio  Complemento Alimenticio - 90 Tabletas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XO25PZ6/?tag=tolees-21'
 descuento: '31.54'
 average: '13.0'

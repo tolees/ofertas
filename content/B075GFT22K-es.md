@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Triumph Amourette Charm WHP Sujetador  Blanco  White 03   95B para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075GFT22K/?tag=tolees-21'
 descuento: '61.96'
 average: '19.0'

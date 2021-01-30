@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'NICREW Temporizador Digital Programable  Enchufe Programador Diario / 10A/2000 W Semanal Digital Timer Ahorrar Energia y Dinero para Cocina  Electrodomesticos  Luz Acuario  Calentador de Agua'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K6LT1H6/?tag=tolees-21'
 descuento: '33.36'
 average: '9.99'

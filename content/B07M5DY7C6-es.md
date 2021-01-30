@@ -16,6 +16,7 @@ comparePrice: 84.95 EUR
 prodname: 'Wrangler Greensboro Jeans  Azul  Green Night 26M   32W / 31L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M5DY7C6/?tag=tolees-21'
 descuento: '40.74'
 average: '50.34'

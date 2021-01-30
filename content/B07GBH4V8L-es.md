@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Duracell Powerbank 3350 mAh - Cargador universal portátil para iPhone  Samsung y otros dispositivos alimentados por USB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GBH4V8L/?tag=tolees-21'
 descuento: '35.62'
 average: '12.87'

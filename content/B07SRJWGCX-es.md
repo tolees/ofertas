@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'adidas Forest Grove  Zapatillas de Gimnasia para Hombre  Negro  Core Black/Core Black/Orchid Tint   44 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SRJWGCX/?tag=tolees-21'
 descuento: '54.18'
 average: '45.8'

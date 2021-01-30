@@ -16,6 +16,7 @@ comparePrice: 30.4 EUR
 prodname: 'find. MDR 40621 vestidos mujer  Azul  Blue   42  Talla del fabricante: Large '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077HWRCLR/?tag=tolees-21'
 descuento: '62.50'
 average: '11.4'

@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Moulinex XF389010 Accesorios Cuisine Companion  kit repostería  varillas de doble rotación  manga pastelera  espátula  molde 12 muffins  tapete bandeja horno y recetario  molde desmontable 24 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FPPX64Q/?tag=tolees-21'
 descuento: '30.99'
 average: '69.0'

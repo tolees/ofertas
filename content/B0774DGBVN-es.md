@@ -16,6 +16,7 @@ comparePrice: 32.8 EUR
 prodname: 'Calcetines antideslizantes de algodón  3 pares  para pilates  barra  yoga y ballet  talla 5 a 10'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0774DGBVN/?tag=tolees-21'
 descuento: '63.45'
 average: '11.99'

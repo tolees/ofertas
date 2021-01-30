@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Motorola Moto G6 Plus - Smartphone de 5.9"  procesador de Ocho nucleos a 2.2 GHz  Memoria Interna de 4GB  Doble Cámara Inteligente de 12 MP y 5 MP   Color Azul índigo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CY7Y4B1/?tag=tolees-21'
 descuento: '35.52'
 average: '197.276875'

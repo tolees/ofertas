@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Under Armour UA Heatgear Ankle Crop Leggings Capri  Mujer  Negro  Black/Metallic Silver 001   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0711LZNFS/?tag=tolees-21'
 descuento: '52.24'
 average: '21.49'

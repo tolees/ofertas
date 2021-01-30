@@ -16,6 +16,7 @@ comparePrice: 10.59 EUR
 prodname: 'Funda para Xiaomi Redmi Note 9 con [2 Pack] Cristal Templado Protector de Pantalla  Suave TPU Transparente Gel Silicona Anti-caída Protectora Carcasa para Xiaomi Redmi Note 9  6.53 Pulgadas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BFX98SF/?tag=tolees-21'
 descuento: '37.77'
 average: '5.356666666666667'

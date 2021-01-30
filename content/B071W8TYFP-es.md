@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Belkin Classic Pro - Bolsa Messenger para Ordenador portátil de 15.6    Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071W8TYFP/?tag=tolees-21'
 descuento: '58.34'
 average: '24.99'

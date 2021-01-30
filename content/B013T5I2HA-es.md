@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Lacoste PH4012  Polo Para Hombre  Rojo  Rouge   Medium  Talla del fabricante: 4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013T5I2HA/?tag=tolees-21'
 descuento: '33.74'
 average: '61.28333333333334'

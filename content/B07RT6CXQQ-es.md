@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'Mr. Wonderful Carpeta archivadora-Apunta Alto y llegarás  Multicolor  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RT6CXQQ/?tag=tolees-21'
 descuento: '49.94'
 average: '3.98'

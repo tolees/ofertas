@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'Columbia Fairbanks 1006  Botas para Hombre  Gris  Graphite  Red J   41 1/2 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JWX1FT9/?tag=tolees-21'
 descuento: '73.60'
 average: '39.86333333333333'

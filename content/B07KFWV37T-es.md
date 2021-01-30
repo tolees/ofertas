@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'PUMA Aeon Heritage Wn s  Zapatillas Deportivas para Mujer  White-Teal Green  38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFWV37T/?tag=tolees-21'
 descuento: '66.92'
 average: '26.45'

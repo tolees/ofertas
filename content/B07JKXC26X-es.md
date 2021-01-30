@@ -16,6 +16,7 @@ comparePrice: 49.79 EUR
 prodname: 'Memoria USB Universal de 64 GB  Pen Drive Tipo C Micro USB Unidad de Almacenamiento Externo U Disk para iPhone/iPad/iPod/Mac/iOS/Android teléfono móvil y Ordenador Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JKXC26X/?tag=tolees-21'
 descuento: '29.72'
 average: '36.79'

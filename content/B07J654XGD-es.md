@@ -16,6 +16,7 @@ comparePrice: 105.0 EUR
 prodname: 'Amercian Tourister Aero Racer Spinner'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J654XGD/?tag=tolees-21'
 descuento: '50.11'
 average: '52.38'

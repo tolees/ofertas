@@ -16,6 +16,7 @@ comparePrice: 10.95 EUR
 prodname: 'Intex 29020 - Cobertor solar para piscinas 244 cm de diámetro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GHUHNPC/?tag=tolees-21'
 descuento: '27.40'
 average: '9.026'

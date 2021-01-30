@@ -16,6 +16,7 @@ comparePrice: 134.05 EUR
 prodname: 'STANLEY STHT77502-1 Nivel láser rojo cubix cruzadas y linea adicional de 90º  12 m de alcance  autonivelante  incluye bolsa de transporte  2 pilas AA y soporte Quicklink'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CM9HVMZ/?tag=tolees-21'
 descuento: '47.82'
 average: '79.48'

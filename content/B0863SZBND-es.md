@@ -16,6 +16,7 @@ comparePrice: 15.98 EUR
 prodname: 'Suhctup Transparente Funda Compatible con Huawei Honor 6X Cárcasa Silicona Ultra Fina Flor Diseño Anti-Arañazos Antigolpes Bumper TPU Resistente Case Cover para Huawei Honor 6X 6 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0863SZBND/?tag=tolees-21'
 descuento: '50.06'
 average: '7.98'

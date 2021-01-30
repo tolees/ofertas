@@ -16,6 +16,7 @@ comparePrice: 12.16 EUR
 prodname: 'Hellmann s - Gran Salsa Barbacoa - 250 ml - [Pack de 8]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M6ZKMUF/?tag=tolees-21'
 descuento: '34.21'
 average: '8.386666666666667'

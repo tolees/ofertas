@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Meinkind Silla de Coche Niños Grupo 1 2 3 Isofix  9-36 kg   Crece con el Niño  Desde los 9 Mes Hasta los 12 Edad de Año Aprox  Normativa ECE R44/4  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RBNP5VG/?tag=tolees-21'
 descuento: '30.00'
 average: '136.65666666666667'

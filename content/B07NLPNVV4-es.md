@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Panasonic RP-HTX90NE-W Auriculares Inalámbricos  Noise Cancelling  200 gr  24 hrs de Batería  Carga Rápida  Unidad Control 40 mm  Cable Extraíble  Control Voz  Bluetooth  Diseño Clásico  Color Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NLPNVV4/?tag=tolees-21'
 descuento: '46.24'
 average: '90.60285714285715'

@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Sandalia Tipo Chancla Masaje de Hombre Mujer Unisex  Tira Ancha Suela con Agujero  Zapatillas de Casa Playa para Verano Interior/Exterior  Amarillo  44/45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PFHDW99/?tag=tolees-21'
 descuento: '35.73'
 average: '17.99'

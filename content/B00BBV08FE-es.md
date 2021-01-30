@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Conceptronic CNBCOMLOCK18 - Candado de Seguridad para Ordenador portátil  1.8 Metros '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BBV08FE/?tag=tolees-21'
 descuento: '44.49'
 average: '6.99'

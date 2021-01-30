@@ -16,6 +16,7 @@ comparePrice: 18.67 EUR
 prodname: 'YOZATIA - Guirnalda de luces de corcho de 2 m  3 modos de parpadeo  funciona con pilas  20 bombillas LED  decoración nocturna para vino  cerveza  whisky  frasco Mason  plástico  Blanco frío.  Star Bottle Lights'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W6T1GWC/?tag=tolees-21'
 descuento: '36.48'
 average: '11.86'

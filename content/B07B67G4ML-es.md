@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Jack & Jones Jjecorp Logo Sweat Hood Noos Capucha  Azul  Navy Blazer Detail: Reg Fit   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B67G4ML/?tag=tolees-21'
 descuento: '34.01'
 average: '17.344285714285714'

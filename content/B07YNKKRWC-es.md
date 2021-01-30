@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'RLTech Funda Carcasa para Teclast P80X  Slim Smart Carcasa Protectora con Soporte Función Cover Case para Teclast P80X 8 Pulgadas  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YNKKRWC/?tag=tolees-21'
 descuento: '70.12'
 average: '8.95'

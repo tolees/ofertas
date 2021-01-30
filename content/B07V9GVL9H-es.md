@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'JACK & JONES Jorrafael Sweat Hood Capucha  Azul  Navy Blazer Fit: Slim/JJ   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V9GVL9H/?tag=tolees-21'
 descuento: '66.28'
 average: '13.603333333333333'

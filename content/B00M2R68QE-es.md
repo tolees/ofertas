@@ -16,6 +16,7 @@ comparePrice: 7.22 EUR
 prodname: 'Bic Atlantis exacta retráctil Bolígrafo-Azul/Negro/Azul/Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00M2R68QE/?tag=tolees-21'
 descuento: '58.45'
 average: '3.0'

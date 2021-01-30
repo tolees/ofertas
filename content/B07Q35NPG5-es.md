@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'MicarBa cámara de Seguridad HD visión Nocturna 170 Grados Ojo de pez Lente Coche visión Trasera cámara de estacionamiento Impermeable Coche cámara de Marcha atrás 4 LED'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q35NPG5/?tag=tolees-21'
 descuento: '45.18'
 average: '16.99'

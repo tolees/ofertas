@@ -16,6 +16,7 @@ comparePrice: 14.31 EUR
 prodname: 'Wet Brush-pro Pink Floral'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KZP7ZH0/?tag=tolees-21'
 descuento: '53.46'
 average: '6.385000000000001'

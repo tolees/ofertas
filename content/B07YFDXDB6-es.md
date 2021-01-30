@@ -16,6 +16,7 @@ comparePrice: 74.99 EUR
 prodname: 'Dremel Versa Limpiador de Alta Velocidad - Kit de Limpieza con 9 Almohadillas Multifunción  1 Cepillo de Cerdas y 1 Protector Antisalpicaduras para Limpieza y Fregado más Rápidos y Fáciles'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YFDXDB6/?tag=tolees-21'
 descuento: '38.47'
 average: '56.815'

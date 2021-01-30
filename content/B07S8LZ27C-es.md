@@ -16,6 +16,7 @@ comparePrice: 2.99 EUR
 prodname: 'AXE gel de ducha gold bote 400 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S8LZ27C/?tag=tolees-21'
 descuento: '33.11'
 average: '2.0'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Cincobebé Manta Swaddle/Toalla de Baño Acogedora y Suave 6 Capas de Gasa 100% Algodón 120cm x 120 cm Unisex Pack de 1 Dibujos Flamencos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YRL5RP4/?tag=tolees-21'
 descuento: '60.02'
 average: '11.99'

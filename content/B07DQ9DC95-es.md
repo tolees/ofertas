@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Sekiro: Shadows Die Twice'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DQ9DC95/?tag=tolees-21'
 descuento: '54.29'
 average: '37.969230769230776'

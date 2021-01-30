@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'Fossil Reloj Cronógrafo para Hombre de Cuarzo con Correa en Piel FS5503'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N2F3LFC/?tag=tolees-21'
 descuento: '40.88'
 average: '87.59466666666667'

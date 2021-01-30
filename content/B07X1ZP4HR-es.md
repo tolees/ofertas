@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'LIGE Relojes para Hombre Impermeable Deporte Análogo Cuarzo Reloj Cronógrafo Negocios Negro Acero Inoxidable Reloj de Pulsera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X1ZP4HR/?tag=tolees-21'
 descuento: '74.62'
 average: '32.99'

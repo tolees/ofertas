@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'adidas Adilette Shower  Slide Sandal Mens  Core Black/Footwear White/Core Black  46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KTW5YFL/?tag=tolees-21'
 descuento: '59.88'
 average: '10.01'

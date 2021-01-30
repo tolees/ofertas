@@ -16,6 +16,7 @@ comparePrice: 8.23 EUR
 prodname: 'Revlon Super Lustrous Pintalabios Tono 25 Lovers Coral - 3.7 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CQ5Z2P0/?tag=tolees-21'
 descuento: '27.22'
 average: '5.99'

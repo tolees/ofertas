@@ -16,6 +16,7 @@ comparePrice: 32 EUR
 prodname: 'find. MDR 40625 vestidos mujer  Negro  Black   40  Talla del fabricante: Medium '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077HLDN74/?tag=tolees-21'
 descuento: '62.50'
 average: '12.0'

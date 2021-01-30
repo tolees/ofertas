@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Fossil Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable ES4488'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G67GK3D/?tag=tolees-21'
 descuento: '28.51'
 average: '80.25999999999999'

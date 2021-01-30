@@ -16,6 +16,7 @@ comparePrice: 6.98 EUR
 prodname: 'Cordón que cubre la cara de longitud ajustable  conveniente soporte de protección facial Clip extensor Colgador de cuerda alrededor del cuello  7 piezas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FKWK639/?tag=tolees-21'
 descuento: '61.60'
 average: '2.68'

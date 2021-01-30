@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'SALAKA Contactos de Costura Kit 1Ponga Bias Tape Maker Tela Bias Fabricante de unión con Clips de la Carpeta del pie punzón acolchar para Coser Project Arts Crafts'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086JTJCM7/?tag=tolees-21'
 descuento: '47.00'
 average: '15.365'

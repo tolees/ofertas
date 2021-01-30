@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'PUMA JARO  Zapatillas de Running para Hombre  Negro Black  43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S9RYR2G/?tag=tolees-21'
 descuento: '40.04'
 average: '29.95'

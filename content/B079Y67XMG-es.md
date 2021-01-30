@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Mr. Tronic 50m Cable de Instalación Red Ethernet Bobina | CAT6  AWG24  CCA  UTP  50 Metros  Gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079Y67XMG/?tag=tolees-21'
 descuento: '26.69'
 average: '32.99'

@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'DREAMWIN 38 Piezas Máscaras de Superhéroe  Máscaras de Cosplay de Superhéroe  Accesorio de Fiesta Infantil y Adultos  Máscaras para Niños y Adultos  Suministros de Fiesta de Superhéroes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QGX4BJ6/?tag=tolees-21'
 descuento: '31.02'
 average: '12.665'

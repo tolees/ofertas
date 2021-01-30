@@ -16,6 +16,7 @@ comparePrice: 23.85 EUR
 prodname: 'Rompecabezas 3D para Niños STEM Learning Toy  Kit de Carretilla Elevadora DIY  589PCS / set Rompecabezas de Acero Inoxidable 3D DIY Ensamblaje de Juguete Modelo de Carretilla Elevadora de Metal Kit de'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X115QVN/?tag=tolees-21'
 descuento: '58.95'
 average: '9.79'

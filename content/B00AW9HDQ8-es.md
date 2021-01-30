@@ -16,6 +16,7 @@ comparePrice: 109.95 EUR
 prodname: 'FERM WEM1042 Soldador de arco  40-100A '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00AW9HDQ8/?tag=tolees-21'
 descuento: '31.83'
 average: '74.95'

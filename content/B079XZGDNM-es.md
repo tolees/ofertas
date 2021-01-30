@@ -16,6 +16,7 @@ comparePrice: 20 EUR
 prodname: 'Mr. Tronic 20m Cable de Red Ethernet Latiguillo | CAT6  AWG24  CCA  UTP  RJ45  20 Metros  Gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079XZGDNM/?tag=tolees-21'
 descuento: '35.05'
 average: '12.99'

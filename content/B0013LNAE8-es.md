@@ -16,6 +16,7 @@ comparePrice: 755.97 EUR
 prodname: 'Dewalt DW745-QS Sierra 1.700W-diámetro de 250 mm-Mesa 630 x 570 mm-Portátil  Set de 2 Piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0013LNAE8/?tag=tolees-21'
 descuento: '58.07'
 average: '538.19'

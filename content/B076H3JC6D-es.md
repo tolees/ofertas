@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Kipling Travel Doc Cartera De Viaje  Negro  True Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076H3JC6D/?tag=tolees-21'
 descuento: '68.51'
 average: '11.556666666666667'

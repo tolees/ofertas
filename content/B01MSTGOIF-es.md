@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Reebok Club C 85  Zapatillas Hombre  Negro  Int / Black / White / Gum   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MSTGOIF/?tag=tolees-21'
 descuento: '30.68'
 average: '55.42'

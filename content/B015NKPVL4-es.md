@@ -16,6 +16,7 @@ comparePrice: 19.81 EUR
 prodname: 'Rust-Oleum 4081303 Pintura  Grafito  750 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015NKPVL4/?tag=tolees-21'
 descuento: '34.43'
 average: '12.99'

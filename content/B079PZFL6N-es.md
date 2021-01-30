@@ -16,6 +16,7 @@ comparePrice: 11.9 EUR
 prodname: 'Fujifilm FUJ105231 - Pel?cula instant instax mini  pink limonade frame 1  1x10 fotos  multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079PZFL6N/?tag=tolees-21'
 descuento: '32.02'
 average: '8.54'

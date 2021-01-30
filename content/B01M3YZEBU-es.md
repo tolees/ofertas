@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'POP! Vinilo - Games: Mass Effect Andromeda: Liam Kosta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M3YZEBU/?tag=tolees-21'
 descuento: '50.90'
 average: '7.36'

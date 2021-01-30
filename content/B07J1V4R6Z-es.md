@@ -16,6 +16,7 @@ comparePrice: 175.0 EUR
 prodname: 'Petusco - Naomi Pistacho Piel de vacuno tipo grano y grabado logotipo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J1V4R6Z/?tag=tolees-21'
 descuento: '31.43'
 average: '120.0'

@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Levi s Jax  Botas Clasicas para Hombre  Amarillo  Medium Yellow 74   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N4KSMDK/?tag=tolees-21'
 descuento: '33.44'
 average: '44.17666666666667'

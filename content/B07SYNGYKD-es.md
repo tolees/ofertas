@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'COOLMAN Herradura Pulsera de Hombre con Acero Inoxidable en Cierre Ajustable Negro Brazalete para Hombre 8 5-9"'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SYNGYKD/?tag=tolees-21'
 descuento: '65.23'
 average: '19.32333333333333'

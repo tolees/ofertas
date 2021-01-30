@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Superga 2750 COTU Classic Zapatillas  Unisex-Adulto  Azul  Navy S 933   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002LTH58I/?tag=tolees-21'
 descuento: '47.24'
 average: '31.13'

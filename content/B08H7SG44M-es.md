@@ -16,6 +16,7 @@ comparePrice: 41.45 EUR
 prodname: 'Digital para bebés  con indicador de Fiebre para Adultos y niños  Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08H7SG44M/?tag=tolees-21'
 descuento: '79.52'
 average: '19.643333333333334'

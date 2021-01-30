@@ -16,6 +16,7 @@ comparePrice: 120 EUR
 prodname: 'Clarks Triactive Up  Zapatillas para Hombre  Negro  Black Combi-   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FQX2CYF/?tag=tolees-21'
 descuento: '73.89'
 average: '31.33'

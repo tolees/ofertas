@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Jack & Jones Jjiace Jjworker WW Pantalones  Negro  Black Black   W33/L30  Talla del Fabricante: 33  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VBZQ89N/?tag=tolees-21'
 descuento: '73.81'
 average: '15.71'

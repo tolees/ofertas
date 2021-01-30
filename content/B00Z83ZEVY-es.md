@@ -16,6 +16,7 @@ comparePrice: 10.0 EUR
 prodname: 'Under Armour UA 7.5cm Performance Wristband Pack de 2 Muñequeras para Hombre  Accesorios de Entrenamiento  Negro  Black 001   Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00Z83ZEVY/?tag=tolees-21'
 descuento: '28.60'
 average: '8.2775'

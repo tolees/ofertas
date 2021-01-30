@@ -16,6 +16,7 @@ comparePrice: 6.45 EUR
 prodname: 'Aussie 3 Minute Miracle Reconstructor Tratamiento Intensivo  Fórmula Reparadora Intensiva Suaviza Y Revitaliza - 250 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LCTU56Q/?tag=tolees-21'
 descuento: '59.22'
 average: '2.63'

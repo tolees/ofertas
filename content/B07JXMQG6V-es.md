@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Chantelle DE Pyramide Sujetador  Beige  Champagner NL   85D  Talla del Fabricante: 70D  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JXMQG6V/?tag=tolees-21'
 descuento: '56.73'
 average: '30.27'

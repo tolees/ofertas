@@ -16,6 +16,7 @@ comparePrice: 75 EUR
 prodname: 'Levi s Modern Hm Hoodie Capucha  Marrón  Warm Cabernet 0020   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFGBJGF/?tag=tolees-21'
 descuento: '36.67'
 average: '47.5'

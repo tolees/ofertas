@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Pawaboo Cojín de calefacción eléctrica para Mascotas  39.37 x 30.48cm  Cama Calentador  Perro  Gato Estera  Impermeable  Temperatura Ajustable  Esterilla de Calentamiento  cálido cómodo  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077V9N9BG/?tag=tolees-21'
 descuento: '25.01'
 average: '26.99'

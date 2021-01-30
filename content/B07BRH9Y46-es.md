@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'Adidas Nemeziz Messi Tango 17.4 In J  Zapatillas de fútbol Sala Unisex niño  Multicolor  Tinuni/Vealre/Negbas 000   28.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BRH9Y46/?tag=tolees-21'
 descuento: '75.97'
 average: '10.8'

@@ -16,6 +16,7 @@ comparePrice: 11.94 EUR
 prodname: 'Bourjois Velvet The Pencil - Pintalabios Tono 15 Rouge ES-Carmin  3g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PN6D7LX/?tag=tolees-21'
 descuento: '65.33'
 average: '4.14'

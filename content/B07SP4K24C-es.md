@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Under Armour Tech 2.0 Tanque  Hombre  Azul  MD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SP4K24C/?tag=tolees-21'
 descuento: '48.12'
 average: '12.823333333333334'

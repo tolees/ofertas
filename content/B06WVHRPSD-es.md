@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'adidas Crazymove Studio  Zapatillas de Deporte Interior para Mujer  Azul  Utiblu/Cblack/Ftwwht   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WVHRPSD/?tag=tolees-21'
 descuento: '88.31'
 average: '7.01'

@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Wrangler Texas Contrast Hombre Jeans  Azul  Blue Black 002   44W / 30L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FLT8FGL/?tag=tolees-21'
 descuento: '33.82'
 average: '52.91'

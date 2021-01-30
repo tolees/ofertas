@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Lebze Bebé Muselina Swaddle Manta "Diseño de Oso polar" Bambú Algodon Muselinas 120x120 cm Mantitas para Bebes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WPYFXFX/?tag=tolees-21'
 descuento: '30.47'
 average: '13.9'

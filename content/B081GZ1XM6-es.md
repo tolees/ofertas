@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'int!rend Caja de Regalo | Caja de Sorpresa Personalizada  5 Plantillas con Diferentes Temas  Fotos para cumpleaños  Boda  San Valentín  álbum de Fotos Creativo para Novia o Novio - Bricolaje'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081GZ1XM6/?tag=tolees-21'
 descuento: '25.13'
 average: '14.9'

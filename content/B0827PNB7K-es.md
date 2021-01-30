@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Mameluco de Orejas de Oso bebé Sudaderas con Capucha de Animales de Dibujos Animados para niños Bonitos Regalos para bebés-MMWT3543-BU-24'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0827PNB7K/?tag=tolees-21'
 descuento: '47.64'
 average: '10.99'

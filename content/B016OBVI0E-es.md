@@ -16,6 +16,7 @@ comparePrice: 27.89 EUR
 prodname: 'Msi DS B1 Ratón  Black'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016OBVI0E/?tag=tolees-21'
 descuento: '35.96'
 average: '13.59909090909091'

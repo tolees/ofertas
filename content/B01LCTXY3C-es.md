@@ -16,6 +16,7 @@ comparePrice: 3.06 EUR
 prodname: 'Pantene Pro-V Prevención Caída Champú para el Cabello con Tendencia a la Rotura - 360 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LCTXY3C/?tag=tolees-21'
 descuento: '35.29'
 average: '1.99'

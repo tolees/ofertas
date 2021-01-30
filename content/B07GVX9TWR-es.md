@@ -16,6 +16,7 @@ comparePrice: 17.4 EUR
 prodname: 'HP 250 - Ratón inalámbrico  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GVX9TWR/?tag=tolees-21'
 descuento: '34.54'
 average: '11.39'

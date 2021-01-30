@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Helly Hansen HH Scout Duffel L Bolsa De Deporte  Unisex Adulto  Black  90L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZZ3ZD33/?tag=tolees-21'
 descuento: '48.34'
 average: '46.49'

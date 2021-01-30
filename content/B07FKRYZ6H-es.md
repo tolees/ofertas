@@ -16,6 +16,7 @@ comparePrice: 524.9 EUR
 prodname: 'Bestway 65303 - Tabla Paddle Surf Hinchable Hydro-Force Oceana 305x84x12 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FKRYZ6H/?tag=tolees-21'
 descuento: '33.51'
 average: '415.18'

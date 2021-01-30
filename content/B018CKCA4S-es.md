@@ -16,6 +16,7 @@ comparePrice: 25.98 EUR
 prodname: 'Cambiador Portátil de Pañales para Bebé - Kit Cambiador de Viaje - Completamente Acolchado - Esterilla Lavable de Quita y Pon - Para Usar Fuera y en la Casa - Perfecto como Regalo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018CKCA4S/?tag=tolees-21'
 descuento: '35.72'
 average: '18.79'

@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Cortador de Verduras  opamoo 3 en 1 Cortador en Espiral Manual Rallador de Verduras con 3 Cuchillas Mandolina de Cocina para Pepino Papa Calabaza Calabacín Zanahoria'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D1JGWK8/?tag=tolees-21'
 descuento: '52.02'
 average: '11.49'

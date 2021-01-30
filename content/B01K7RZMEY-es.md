@@ -16,6 +16,7 @@ comparePrice: 11.49 EUR
 prodname: 'Carbonell  Aceite de Oliva Virgen Extra  3L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K7RZMEY/?tag=tolees-21'
 descuento: '25.59'
 average: '8.55'

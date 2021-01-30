@@ -16,6 +16,7 @@ comparePrice: 58.99 EUR
 prodname: '30W Bombilla LED Sumergible Iluminación de Piscinas 300 LED  Luz LED Piscina con Control Remoto  Submersible Luz con Mando a Distancia Cambio de Color RGB LED Luz Sumergible'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DDDBX9G/?tag=tolees-21'
 descuento: '59.16'
 average: '24.09'

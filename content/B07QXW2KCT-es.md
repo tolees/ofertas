@@ -16,6 +16,7 @@ comparePrice: 30.88 EUR
 prodname: 'Lámpara de ilusión 3D  Siete regalos de Dragon Ball Juguetes Decoración Lámpara de luz de noche LED 7 colores Control táctil Lámpara de decoración de fiesta alimentada por USB  Lámpara visual 3D'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QXW2KCT/?tag=tolees-21'
 descuento: '35.27'
 average: '19.99'

@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'BaByliss C903PE - Rizador automático  dos posiciones de temperatura  hasta 205° C  color rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KOF1BGW/?tag=tolees-21'
 descuento: '41.19'
 average: '60.19499999999999'

@@ -16,6 +16,7 @@ comparePrice: 15.79 EUR
 prodname: 'Tbest 1 Par Compresión de Rodillera Manga para Pierna  Rodillera Deportiva Rótula Rodilleras Elástico Antideslizante Soporte Apoyo de Rodilla para Baloncesto Fútbol Correr Ciclismo S- Verde '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KGDTVC8/?tag=tolees-21'
 descuento: '53.20'
 average: '7.39'

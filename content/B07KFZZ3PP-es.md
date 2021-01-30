@@ -16,6 +16,7 @@ comparePrice: 74.95 EUR
 prodname: 'Puma Future Runner Premium  Zapatillas Unisex Adulto  Azul  Galaxy Blue-Puma White-High Risk Red-Puma Black 06   44.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFZZ3PP/?tag=tolees-21'
 descuento: '69.02'
 average: '23.22'

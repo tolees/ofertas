@@ -16,6 +16,7 @@ comparePrice: 53.23 EUR
 prodname: 'Calvin Klein Formal Plaque Belt 3.5cm Cinturón  Negro  Black 001   105  Talla del fabricante: 90  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QYW93YL/?tag=tolees-21'
 descuento: '40.84'
 average: '31.49'

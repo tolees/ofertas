@@ -16,6 +16,7 @@ comparePrice: 22.59 EUR
 prodname: 'Herramienta de Espaciador de Cuero Puntada de Costura de Cuero Rueda de Aguja de Manija para Artesanía de Cuero'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0774LTHS1/?tag=tolees-21'
 descuento: '38.51'
 average: '13.89'

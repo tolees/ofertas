@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Lékué - Decomax - Manga pastelera de Silicona 6 boquillas  marrón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0041O4LVA/?tag=tolees-21'
 descuento: '29.70'
 average: '13.99'

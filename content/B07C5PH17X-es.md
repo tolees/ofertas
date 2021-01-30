@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Casco Motocicleta Auriculares FreedConn T-comVB Casco Moto Prueba de Agua Sistema comunicación intercomunicación Auriculares Bluetooth con 800m  GPS  Radio FM  MP3  1 pcs con micrófono Suave '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C5PH17X/?tag=tolees-21'
 descuento: '36.72'
 average: '50.656666666666666'

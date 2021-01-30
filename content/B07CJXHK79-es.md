@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'MARNUR Báscula Digital Báscula de Grasa Corporal con Sensor de Alta Precisión BIA Técnica de Medición Para Análisis el Cuerpo Lichen Composición'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CJXHK79/?tag=tolees-21'
 descuento: '63.72'
 average: '10.13'

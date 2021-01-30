@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Merrell Nova Gore-Tex  Zapatillas de Running para Asfalto para Hombre  Azul  Sailor   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KM9XJZC/?tag=tolees-21'
 descuento: '55.76'
 average: '61.93'

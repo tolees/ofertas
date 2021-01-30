@@ -16,6 +16,7 @@ comparePrice: 105.95 EUR
 prodname: 'Waterpik 450- Irrigador bucal inalámbrico  62.24'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0049UWT1A/?tag=tolees-21'
 descuento: '46.48'
 average: '43.6'

@@ -16,6 +16,7 @@ comparePrice: 85.99 EUR
 prodname: 'Sawera Generador de Ozono portátil O3 Generador de Ozono purificador de Aire Ozono Máquina de Ozono + Acero Inoxidable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087JG96KQ/?tag=tolees-21'
 descuento: '34.89'
 average: '55.99'

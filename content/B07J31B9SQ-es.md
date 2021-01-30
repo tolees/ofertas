@@ -16,6 +16,7 @@ comparePrice: 899.99 EUR
 prodname: 'HP Omen Obelisk 875-0007ns - Ordenador de sobremesa gaming  Intel Core i5-8400  8 GB de RAM  1 TB HDD y 128 GB SSD  NVIDIA GeForce GTX 1050 Ti  Sin sistema operativo  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J31B9SQ/?tag=tolees-21'
 descuento: '33.33'
 average: '606.9928571428571'

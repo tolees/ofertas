@@ -16,6 +16,7 @@ comparePrice: 16.72 EUR
 prodname: 'JK-2 Relleno de Dibujos Animados Animales león de la Felpa de la marioneta de Mano de Regalo del Cabrito y la narración'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0869N5YXY/?tag=tolees-21'
 descuento: '41.39'
 average: '9.8'

@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Weta Collectibles- Mini Epics Figura Coleccionable Balrog  El Señor de los Anillos  Multicolor  Weta Workshop 865002519 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H5JD14C/?tag=tolees-21'
 descuento: '31.09'
 average: '95.79'

@@ -16,6 +16,7 @@ comparePrice: 14.05 EUR
 prodname: 'Funko Pop!- Rick & Morty Jerry Figura de Vinilo  22962 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0759HQHGD/?tag=tolees-21'
 descuento: '28.97'
 average: '9.98'

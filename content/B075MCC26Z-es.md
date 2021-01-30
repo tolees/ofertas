@@ -16,6 +16,7 @@ comparePrice: 124.95 EUR
 prodname: 'Altavoz Autoamplificado 250W 8" ThunderSound Biwond'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075MCC26Z/?tag=tolees-21'
 descuento: '36.01'
 average: '79.95'

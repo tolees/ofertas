@@ -16,6 +16,7 @@ comparePrice: 12.1 EUR
 prodname: 'Fiskars Cortador de queso curado  Acero inoxidable/Plástico  Ancho de corte: 6 cm  Functional Form  Blanco  1016129'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017HAWEC2/?tag=tolees-21'
 descuento: '27.85'
 average: '5.86'

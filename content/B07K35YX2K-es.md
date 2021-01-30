@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Adidas Continental 80  Zapatillas de Gimnasia para Hombre  Negro  Core Black/Scarlet/Collegiate Navy   42 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K35YX2K/?tag=tolees-21'
 descuento: '30.09'
 average: '69.9'

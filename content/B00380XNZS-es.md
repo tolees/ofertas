@@ -16,6 +16,7 @@ comparePrice: 91.75 EUR
 prodname: 'Panasonic ER-1411 - Cortapelos profesional  Versión Importada '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00380XNZS/?tag=tolees-21'
 descuento: '30.25'
 average: '58.79333333333333'

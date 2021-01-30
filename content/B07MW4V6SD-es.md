@@ -16,6 +16,7 @@ comparePrice: 16.8 EUR
 prodname: 'Fischer Duoblade S 545676 - Tacos de yeso autoperforante  incluye tornillos  tacos para placas de yeso  tacos para placas ligeras  tacos para paneles de yeso  25 unidades  Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MW4V6SD/?tag=tolees-21'
 descuento: '28.63'
 average: '11.99'

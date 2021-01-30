@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: '20m Guirnalda luces  LEDOU 200 LED Luces Cable de Cobre  Cadena de Luces 8 modos de Iluminación  IP65 Impermeable Control Remoto Decoración de Casa  Fiesta #5 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081YMYZ92/?tag=tolees-21'
 descuento: '42.04'
 average: '39.99'

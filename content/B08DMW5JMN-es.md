@@ -16,6 +16,7 @@ comparePrice: 3.43 EUR
 prodname: 'Panamar NE555 + CD4017 Rojo Azul Doble Color Juego de Tablero de Luces Intermitentes Luz estroboscópica Aprendizaje Kits de Bricolaje Módulo de Suite electrónica - Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DMW5JMN/?tag=tolees-21'
 descuento: '33.53'
 average: '2.28'

@@ -16,6 +16,7 @@ comparePrice: 19.75 EUR
 prodname: 'GRÜNTEK Tijera de podar de 1 Mano Bussard 20 cm. Podadora de Yunque para Corte Suave de frutales  olivos  viñas  Ramas  Plantas y Flores.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0822W5BXX/?tag=tolees-21'
 descuento: '30.38'
 average: '13.75'

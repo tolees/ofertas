@@ -16,6 +16,7 @@ comparePrice: 35.08 EUR
 prodname: 'AYAMAYA Newsboy Gorra Gatsby Baker Boy Gorra Plana de Tweed Ajustable Shelby Caps para Hombres y Mujeres'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K88LDCN/?tag=tolees-21'
 descuento: '31.61'
 average: '23.99'

@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'PUMA Future 5.3 Netfit FG/AG  Botas de fútbol para Hombre  Azul  Luminous Blue/Nrgy Blue Black/Pink Alert   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SD1FPN7/?tag=tolees-21'
 descuento: '33.61'
 average: '53.08'

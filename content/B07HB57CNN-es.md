@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Woxter Stinger GX 250 H - Auriculares Gaming 7.1 Retroiluminados con micrófono para PS4–PC–Mac Reducción de ruido Diadema ajustable Micrófono omnidireccional conexión USB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HB57CNN/?tag=tolees-21'
 descuento: '40.31'
 average: '17.9'

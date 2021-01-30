@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'OMRON A3 Complete Inhalador 3 en 1: trata las vías respiratorias altas  medias y bajas  adecuado para resfriados  infecciones  alergias y asma'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00THNHNE2/?tag=tolees-21'
 descuento: '43.83'
 average: '49.99'

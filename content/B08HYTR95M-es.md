@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Your Vip Skin bastoncillos de algodón de silicona  reutilizables  lavables para limpieza de oídos y para maquillaje.  Rosa '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08HYTR95M/?tag=tolees-21'
 descuento: '50.03'
 average: '9.99'

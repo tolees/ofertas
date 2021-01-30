@@ -16,6 +16,7 @@ comparePrice: 44.22 EUR
 prodname: 'Fantasyworld SJ60 Impermeable 2.0" LCD 4K Ultra HD 1080P WiFi Deportes de Movimiento Acción de la cámara DVR videocámara de la Leva HDMI 32GB HD 170 ° de ángulo Amplio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KPX51V4/?tag=tolees-21'
 descuento: '60.00'
 average: '17.69'

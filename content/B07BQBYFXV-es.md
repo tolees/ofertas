@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Lamina Magnetica Adhesiva  Bingolar Cuadrados magnéticos anisotrópicos fuertes  Mantenga 100g  Cuadrados de cinta magnética  25 x 25 x 2mm   cuadrados de imán flexible perfecto para la organización'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BQBYFXV/?tag=tolees-21'
 descuento: '42.13'
 average: '10.99'

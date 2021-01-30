@@ -16,6 +16,7 @@ comparePrice: 149.9 EUR
 prodname: 'Trangoworld Trx2 PES Stretch WM Pro Pant. Largo  Mujer  Negro  212   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075NRDWQM/?tag=tolees-21'
 descuento: '35.30'
 average: '96.99'

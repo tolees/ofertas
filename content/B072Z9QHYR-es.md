@@ -16,6 +16,7 @@ comparePrice: 11.37 EUR
 prodname: 'Micro USB Splitter Cable Cable de potencia OTG Power Enhancer USB 2.0 Una hembra a Micro USB Macho y Micro 5 Pin hembra adaptador Host Charging Converter'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072Z9QHYR/?tag=tolees-21'
 descuento: '29.73'
 average: '7.99'

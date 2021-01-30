@@ -16,6 +16,7 @@ comparePrice: 15.27 EUR
 prodname: 'AYIYO - Pantalones cortos para bebé  niños y niñas  mezcla de lino y algodón suave  con volantes de 0-3T Verde verde 6-12 Meses'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CGP75BQ/?tag=tolees-21'
 descuento: '50.03'
 average: '7.63'

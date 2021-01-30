@@ -16,6 +16,7 @@ comparePrice: 24.5 EUR
 prodname: 'Clarins Joli Rouge Brillant #07-Raspberry 3 5 Gr 1 Unidad 400 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BLHQ4DM/?tag=tolees-21'
 descuento: '34.90'
 average: '15.95'

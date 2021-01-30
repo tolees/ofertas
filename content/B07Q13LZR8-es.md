@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Under Armour Women s Charged Aurora Hallenschuhe  Zapatillas Deportivas para Interior para Mujer  Blanco  White/White/Beta  100  100   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q13LZR8/?tag=tolees-21'
 descuento: '58.07'
 average: '29.33'

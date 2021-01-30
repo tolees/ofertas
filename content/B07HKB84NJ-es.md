@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'Feilaxleer Ropa Ciclismo Otoño/Invierno/Primavera para Hombre y Mujer - Ciclismo Maillot MTB de Manga Larga y Culotte Pantalones Acolchado 3D'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HKB84NJ/?tag=tolees-21'
 descuento: '25.01'
 average: '34.49'

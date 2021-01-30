@@ -16,6 +16,7 @@ comparePrice: 14.29 EUR
 prodname: 'Campingaz Kühltasche Flaschen Kühler für 1 5 Liter Nevera Flexible portabotellas  1.5 l  Unisex  Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CAXC6KW/?tag=tolees-21'
 descuento: '30.72'
 average: '10.25'

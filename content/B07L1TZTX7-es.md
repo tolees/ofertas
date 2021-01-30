@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Relojes Hombre Relojes Grandes de Pulsera Militares Cronografo Diseñador Luminosos Impermeable Reloj Hombre Deportivos de Acero Inoxidable Plata Analogicos Fecha'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L1TZTX7/?tag=tolees-21'
 descuento: '79.44'
 average: '28.205'

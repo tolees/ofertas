@@ -16,6 +16,7 @@ comparePrice: 12.51 EUR
 prodname: 'Pulsera de joyería Inteligente Multifuncional 18K Gold Plating Sleep Monitor D1 Nuevos Accesorios de Venta - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B62L4PB/?tag=tolees-21'
 descuento: '33.49'
 average: '8.32'

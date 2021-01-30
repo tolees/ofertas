@@ -16,6 +16,7 @@ comparePrice: 9.9 EUR
 prodname: 'NYX Professional Makeup Delineador de ojos Epic Ink Liner  Punta de pincel  Resistente al agua  Fórmula vegana  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074Y8LM6T/?tag=tolees-21'
 descuento: '29.80'
 average: '8.719999999999999'

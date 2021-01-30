@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Nike Air Max Command Leather - Zapatillas de running  Hombre  Blanco / Negro / Gris  White / Black-Black-Wolf Grey   41'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015KHW6U4/?tag=tolees-21'
 descuento: '31.40'
 average: '89.18'

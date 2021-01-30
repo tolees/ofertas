@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'WIN.MAX Tirantes Ancho 35 mm Y-Forma con 6 Clips Extra Fuerte 1 Conjunto Pajaritas Elásticos Elástico y Longitud Ajustable Diferentes Estilos Tela Gruesa Una Talla Para Todos Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZQYV9Q6/?tag=tolees-21'
 descuento: '35.02'
 average: '12.99'

@@ -16,6 +16,7 @@ comparePrice: 17.44 EUR
 prodname: 'Repuesto de bombilla Foxnovo  en forma de U  de 9 W y 365 nanómetros  para lámpara de secado de uñas  4 unidades '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JKE1T70/?tag=tolees-21'
 descuento: '45.01'
 average: '9.59'

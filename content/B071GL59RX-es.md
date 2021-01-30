@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Great Cum x3-30 caps Sex Tabletten für den Mann'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071GL59RX/?tag=tolees-21'
 descuento: '35.02'
 average: '12.99'

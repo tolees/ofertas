@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'BRA Advanced Cazo 16 cm  aluminio fundido con antiadherente  sin PFOA súper reforzado de rendimiento superior y alta resistencia a los arañazos y a la abrasión  apto para Inducción '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TL4RY5X/?tag=tolees-21'
 descuento: '25.01'
 average: '19.49'

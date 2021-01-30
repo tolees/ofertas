@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Máquina de coser de mano  18 piezas mini máquina de coser portátil  mini máquina de coser portátil inalámbrica para tela  ropa  cortinas  uso de viaje en casa  bricolaje'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08HLQ7CL1/?tag=tolees-21'
 descuento: '33.34'
 average: '19.99'

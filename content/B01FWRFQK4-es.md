@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'Sternitz Botella de Agua Hydra Acero Inoxidable con Aislamiento al vacio. Mantiene Tus Bebidas frías por 24 Horas y Calientes por 12 Horas. EDICIÓN Limitada. Water Bottle  Rosa '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FWRFQK4/?tag=tolees-21'
 descuento: '31.05'
 average: '17.417499999999997'

@@ -16,6 +16,7 @@ comparePrice: 52.9 EUR
 prodname: 'DeBuyer Comprador De Mini automático del pistón Embudo 0 8 litros de Capacidad.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0015XHOKA/?tag=tolees-21'
 descuento: '28.02'
 average: '38.08'

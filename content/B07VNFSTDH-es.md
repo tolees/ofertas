@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Anself 18 pcs Kit de Manicura Pedicura Profesional Kit de Cortauñas Recortador de Limas de Uñas Afeitado de Cejas Herramienta de Corte de Pelo de Nariz  Rosa claro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VNFSTDH/?tag=tolees-21'
 descuento: '37.39'
 average: '16.956666666666667'

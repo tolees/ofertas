@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'JACK & JONES Jjiroy Jjjames Sa Noos Pantalones  Verde  Olive Night Olive Night   42 /L32  Talla del Fabricante: 29  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RY8VPTL/?tag=tolees-21'
 descuento: '68.49'
 average: '15.75'

@@ -16,6 +16,7 @@ comparePrice: 31.0 EUR
 prodname: 'adidas Essentials 3 Bandas Tight Mallas  Mujer  Negro  Black/White   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KQSHR4P/?tag=tolees-21'
 descuento: '30.65'
 average: '20.666363636363634'

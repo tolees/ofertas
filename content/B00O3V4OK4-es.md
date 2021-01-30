@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'JVC HA-S180-B - Auriculares de diadema abiertos  estructura Ring  plegables  10 - 22000 Hz   color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00O3V4OK4/?tag=tolees-21'
 descuento: '40.02'
 average: '12.226250000000002'

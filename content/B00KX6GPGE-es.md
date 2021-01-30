@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Bering 14440-077 - Reloj para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KX6GPGE/?tag=tolees-21'
 descuento: '40.20'
 average: '124.30333333333333'

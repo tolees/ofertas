@@ -16,6 +16,7 @@ comparePrice: 63.64 EUR
 prodname: 'Wenger/SwissGear MarieSol maletines para portátil 35 6 cm  14"  Estuche para Dama Multi - Funda  Estuche para Dama  35 6 cm  14"   Tirante para Hombro  400 g  Multi '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CNJHKFD/?tag=tolees-21'
 descuento: '41.48'
 average: '42.367777777777775'

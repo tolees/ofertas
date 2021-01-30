@@ -16,6 +16,7 @@ comparePrice: 9.15 EUR
 prodname: 'StarTech MUY1MFFS - Cable Adaptador estéreo  2 x 3.5 mm   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0081ZBNI4/?tag=tolees-21'
 descuento: '78.25'
 average: '2.485'

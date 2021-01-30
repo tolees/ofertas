@@ -16,6 +16,7 @@ comparePrice: 15.66 EUR
 prodname: '3D Ilusión óptica Lámpara LED Luz de noche Deco LED Lámpara 7 colores de control remoto con Acrílico Plano & ABS Base & Cargador usb  Star Wars '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078KFC6ZT/?tag=tolees-21'
 descuento: '26.95'
 average: '11.44'

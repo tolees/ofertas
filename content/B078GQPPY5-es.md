@@ -16,6 +16,7 @@ comparePrice: 40.47 EUR
 prodname: 'Muscletech Hydroxycut Pro Clinical  72 caps  72 Unidades 40 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078GQPPY5/?tag=tolees-21'
 descuento: '32.47'
 average: '27.33'

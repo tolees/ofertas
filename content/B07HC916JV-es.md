@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Nobleza – Poste rascador para Gatos de sisal con Juguete. Pequeño  Color Marrón. Medidas: 25 * 25 * 35 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HC916JV/?tag=tolees-21'
 descuento: '29.43'
 average: '11.99'

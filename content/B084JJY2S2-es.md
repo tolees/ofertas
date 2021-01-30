@@ -16,6 +16,7 @@ comparePrice: 1.69 EUR
 prodname: 'Moliies Esponja Almacenamiento de desagüe Cesta para Colgar Verde Productos domésticos para el hogar Familia artículo Familiar de Uso Diario - Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084JJY2S2/?tag=tolees-21'
 descuento: '34.91'
 average: '1.1'

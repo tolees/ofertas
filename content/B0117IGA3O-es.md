@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'HP X3000 - Ratón inalámbrico óptico  Color Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0117IGA3O/?tag=tolees-21'
 descuento: '62.48'
 average: '10.624285714285714'

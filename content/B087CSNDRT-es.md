@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'FitBeast Banda de Resistencia con Anclaje para Puerta Almohadilla de Mano（5 Pcs ），para Pilates  Entrenamiento  Fisioterapia  Estiramiento  Yoga  Gimnasio en Casa para Hombres y Mujeres'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087CSNDRT/?tag=tolees-21'
 descuento: '26.01'
 average: '36.99'

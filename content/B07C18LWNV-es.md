@@ -16,6 +16,7 @@ comparePrice: 37.99 EUR
 prodname: 'GOOD FOR YOU Recipientes de Vidrio para la preparación de Comidas - Recipientes De Vidrio con Tapas Horno y congelador Seguros-BPA Libre 850ml 28oz 3.5Tazas [5- Paquete]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C18LWNV/?tag=tolees-21'
 descuento: '31.59'
 average: '25.99'

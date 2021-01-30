@@ -16,6 +16,7 @@ comparePrice: 145.0 EUR
 prodname: 'BaByliss AS500E – Cepillo de aire con sensor digital ajusta automáticamente la temperatura según el cabezal  4 cabezales  base cerámica  aerodinámica térmica  iónico  2 velocidades y aire frío'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077TBHVJ2/?tag=tolees-21'
 descuento: '46.90'
 average: '81.3675'

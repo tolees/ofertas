@@ -16,6 +16,7 @@ comparePrice: 31.98 EUR
 prodname: 'DAZAKA Juego de Destornilladores de Precisión Profesional 115 en 1 Kit de destornillador magnético Kit de Herramientas para teléfono móvil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XFQB75B/?tag=tolees-21'
 descuento: '50.00'
 average: '15.99'

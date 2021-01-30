@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'morpilot Batería 14.4V 2600mah Litio  Compatible con Conga Excellence y Conga Excellence 990 950 1090 DEEBOT N79S N79 Eufy RoboVac 11 11S 11S MAX 12 15C 30 30C 30 MAX 35C  con un Cepillo de Limpieza'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088BJBWMW/?tag=tolees-21'
 descuento: '27.60'
 average: '19.54'

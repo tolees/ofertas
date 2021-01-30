@@ -16,6 +16,7 @@ comparePrice: 6.0 EUR
 prodname: 'Astor Perfect Stay Gel Shine  Esmalte de Uñas Tono 635 Sailor Blue  12 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D7Q3BCR/?tag=tolees-21'
 descuento: '41.83'
 average: '3.49'

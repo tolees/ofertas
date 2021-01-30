@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'QHOHQ Funda para Samsung Galaxy A51  Cases Silicona Slim TPU Cuatro Esquinas Anti-caíd  Transparente '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081W7FT8C/?tag=tolees-21'
 descuento: '40.44'
 average: '5.95'

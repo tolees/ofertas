@@ -16,6 +16,7 @@ comparePrice: 14.84 EUR
 prodname: 'DURAGADGET Cable De Audio Portátil Medion MD61338  HP Pavilion 14-bf013ns - con Conexión de 3.5mm Y Bañado En Oro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RGWB8TW/?tag=tolees-21'
 descuento: '33.36'
 average: '9.89'

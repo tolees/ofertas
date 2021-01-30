@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Clarks Orinoco Club  Botas Estilo Motero para Mujer  Gris  Dark Grey Nubuck Dark Grey Nubuck   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1JQP3M/?tag=tolees-21'
 descuento: '44.11'
 average: '38.54'

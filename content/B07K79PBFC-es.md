@@ -16,6 +16,7 @@ comparePrice: 25.95 EUR
 prodname: 'CMP Hamal  Sandalia con Pulsera Unisex Niños  Rosa  Geranio-Bamboo 14hc   29 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K79PBFC/?tag=tolees-21'
 descuento: '63.58'
 average: '9.45'

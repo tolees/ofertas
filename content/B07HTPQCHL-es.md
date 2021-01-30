@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Luchild Nido Bebé Recién Nacido  Reductor de Cuna Nidos  Cama cana nido de viaje Doble Caras para bebe dormir'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HTPQCHL/?tag=tolees-21'
 descuento: '26.01'
 average: '36.99'

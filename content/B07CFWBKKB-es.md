@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Pasito a Pasito Canastilla Total - Bolsa  unisex  color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CFWBKKB/?tag=tolees-21'
 descuento: '47.85'
 average: '36.45'

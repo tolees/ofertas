@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'adidas RUN80S  Zapatillas para Hombre  Gris  Grey/Grey/Hi-Res Aqua 0   44 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D9D8YDC/?tag=tolees-21'
 descuento: '56.29'
 average: '34.95'

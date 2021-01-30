@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Final Fantasy TCG Mazo FF X'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MTIO5XK/?tag=tolees-21'
 descuento: '36.14'
 average: '7.994999999999999'

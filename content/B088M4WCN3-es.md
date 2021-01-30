@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Abanicos Plegables 2 Piezas Abanicos de Mano Plegable Seda de Bambú Abanicos para Fiestas Regalos de Boda Decoración de Bricolaje Color'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088M4WCN3/?tag=tolees-21'
 descuento: '35.74'
 average: '8.99'

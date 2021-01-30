@@ -16,6 +16,7 @@ comparePrice: 332.99 EUR
 prodname: 'MWPO Cortinas de Cuentas Azules Cuerdas Colgantes de plástico Puerta Divisor de la habitación Decoración Panel Pantalla Entrada Puerta Balcón  Personalizable  Tamaño: 120x200cm-160 Hilos '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08766WSXN/?tag=tolees-21'
 descuento: '44.45'
 average: '184.99'

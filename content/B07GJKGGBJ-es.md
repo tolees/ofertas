@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'MODERN LIFE Soporte de Pared para TV 14-42 Pulgadas 35-107cm   Fijo Ultra Delgado  Máx Vesa 300x300  Carga 15KG  para Televisores de Pantalla Plana LED LCD Plasma 4K 3D  con Nivel de Burbujas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GJKGGBJ/?tag=tolees-21'
 descuento: '50.03'
 average: '10.49'

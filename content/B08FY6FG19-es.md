@@ -16,6 +16,7 @@ comparePrice: 2.5 EUR
 prodname: 'XINFULUK Cable USB 2.0 Am-TO-BM de Alta Velocidad  Cable A a B Largo  Negro  blindado  impresoras compatibles  escáneres  Disco Duro  transmisión Estable  Negro  1 5 m'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FY6FG19/?tag=tolees-21'
 descuento: '33.60'
 average: '1.66'

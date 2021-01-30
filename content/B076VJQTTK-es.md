@@ -16,6 +16,7 @@ comparePrice: 51.0 EUR
 prodname: 'Kelme - Zapatillas Trueno Sala'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076VJQTTK/?tag=tolees-21'
 descuento: '46.14'
 average: '27.47'

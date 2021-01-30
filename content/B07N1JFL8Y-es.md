@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Superga 2730-cotu  Zapatillas de Gimnasia para Mujer  Rosa  Pink Skin W6y   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1JFL8Y/?tag=tolees-21'
 descuento: '82.23'
 average: '12.26'

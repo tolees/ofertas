@@ -16,6 +16,7 @@ comparePrice: 25.48 EUR
 prodname: 'Wond3rland Póster para Rascar Prémium con Lista de 100 Películas y 20 Programas de TV por Ver | Cartel de Cine con Lámina para Rascar | Lujoso Regalo para Cinéfilos con Accesorios Incluidos | Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P61CRPT/?tag=tolees-21'
 descuento: '29.55'
 average: '17.616666666666667'

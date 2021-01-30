@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'caseable - Funda para Kindle y Kindle Paperwhite  Gold Dots'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0781YCK4M/?tag=tolees-21'
 descuento: '37.51'
 average: '24.99'

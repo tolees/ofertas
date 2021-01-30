@@ -16,6 +16,7 @@ comparePrice: 11.98 EUR
 prodname: 'fgdjfhsdfgsdfh SQ11 Mini Micro HD Cámara Dice Video Night Vision HD 1080P 960P Videocámara Sensor de Movimiento Cámara Monitores WiFi Remoto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0872QXRD8/?tag=tolees-21'
 descuento: '39.98'
 average: '7.19'

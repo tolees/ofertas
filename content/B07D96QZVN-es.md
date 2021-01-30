@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Animal Crossing New Leaf Welcome Amiibo SELECTS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D96QZVN/?tag=tolees-21'
 descuento: '29.76'
 average: '19.205'

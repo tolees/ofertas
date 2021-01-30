@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Estimulador de vibración del clítoris Shanghai Pro 2-Gold — One'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083GHHC1J/?tag=tolees-21'
 descuento: '47.92'
 average: '29.37888888888889'

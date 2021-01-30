@@ -16,6 +16,7 @@ comparePrice: 249.99 EUR
 prodname: 'Panasonic SC-AKX320 - Equipo de Sonido de Alta Potencia para el hogar  450W  16 cm Woofer  6 cm Tweeter  Bluetooth  USB Dual  CD  AUX  DJ Jukebox  Función DJ  Hi-Fi  Sonido Nítido  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QT3L5X2/?tag=tolees-21'
 descuento: '26.00'
 average: '191.995'

@@ -16,6 +16,7 @@ comparePrice: 15.8 EUR
 prodname: 'Neutrogena Radiance Boost Mascarilla  Paquete de 4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HQ1BTQK/?tag=tolees-21'
 descuento: '36.77'
 average: '10.99'

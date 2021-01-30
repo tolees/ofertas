@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Lomogo Funda Huawei Y6  2018   Cartera Funda de Cuero Ranuras para Tarjetas Cierre Magnetico Soporte Plegable Carcasa Antigolpes para Huawei Y6 2018 - LOYBO470485 Oro Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X54FRPW/?tag=tolees-21'
 descuento: '60.23'
 average: '7.95'

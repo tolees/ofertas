@@ -16,6 +16,7 @@ comparePrice: 19.55 EUR
 prodname: 'Nike Nk Heritage Bkpk-2.0 AOP Hombre  Black/University Red/University Red  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KMC6V85/?tag=tolees-21'
 descuento: '28.64'
 average: '13.95'

@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'Clarks Trigenic Flex  Zapatillas para Mujer  Negro  Black Nubuck   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UXG6TEC/?tag=tolees-21'
 descuento: '76.40'
 average: '35.4'

@@ -16,6 +16,7 @@ comparePrice: 15.5 EUR
 prodname: 'Tatay Baobab Cesta para la Colada  Plástico polipropileno  Blanco  35 litros de capacidad. 52 x 42 5 x 26 5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HSCY96Q/?tag=tolees-21'
 descuento: '35.55'
 average: '9.99'

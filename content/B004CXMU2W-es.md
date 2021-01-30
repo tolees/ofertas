@@ -16,6 +16,7 @@ comparePrice: 42.0 EUR
 prodname: 'Biofinity Toric Lentes de contacto tóricas mensuales  R 8.7  D 14.5  -5.5 dioptría  cilindro -1.25  eje 180-3 lentillas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004CXMU2W/?tag=tolees-21'
 descuento: '60.74'
 average: '16.49'

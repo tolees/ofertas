@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'Himaly Cortapelos Profesional Hombre Electrónico Corte Pelo Profesional Máquina Cortar Pelo Recortador de Barba Cortadora de Pelo USB Recargable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H3LLNGC/?tag=tolees-21'
 descuento: '57.83'
 average: '16.74'

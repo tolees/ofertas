@@ -16,6 +16,7 @@ comparePrice: 259.99 EUR
 prodname: 'Homelody 38ºC Termostatica 3 Funciones Columna de Ducha Conjunto de Ducha Ducha con Barra Adjustable Sistema de Ducha Ducha de Mano Ducha de Lluvia Set de Ducha Sistema de Ducha Grifos de Ducha'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078T76CCG/?tag=tolees-21'
 descuento: '25.77'
 average: '189.49'

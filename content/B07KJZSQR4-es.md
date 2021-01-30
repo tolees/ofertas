@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Sorel Winter Carnival  Botas de Invierno para Mujer  Negro  Black/Stone 011   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KJZSQR4/?tag=tolees-21'
 descuento: '84.79'
 average: '19.77'

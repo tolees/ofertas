@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'adidas Advantage C  Zapatillas de Tenis Unisex niños  Multicolor Ftwbla Verde Gridos 000  29 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QFF3M2J/?tag=tolees-21'
 descuento: '31.36'
 average: '23.99'

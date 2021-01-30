@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Pulsar Uhren PT3005X1 - Reloj cronógrafo de Cuarzo para Hombre con Correa de Acero Inoxidable  Color Plateado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004LR7SD0/?tag=tolees-21'
 descuento: '35.92'
 average: '60.29166666666667'

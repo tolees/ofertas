@@ -16,6 +16,7 @@ comparePrice: 21.62 EUR
 prodname: 'B Blesiya 1 USB Drive de Memoria Disco Duro Externo Accesorios Electrónicos para Ordenadores - Rosado 64 GB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GXVDCL3/?tag=tolees-21'
 descuento: '44.45'
 average: '12.01'

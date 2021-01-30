@@ -16,6 +16,7 @@ comparePrice: 108.99 EUR
 prodname: 'MasterPro Asador 40 cm Aluminio Fundido Apta para inducción Gravity'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DY5EEQ8/?tag=tolees-21'
 descuento: '64.23'
 average: '38.99'

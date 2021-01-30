@@ -16,6 +16,7 @@ comparePrice: 5.95 EUR
 prodname: 'Samsung EHS64AVFBE - Auriculares para Samsung Galaxy S4 i9505  botón de encendido/apagado   color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DC7DIJ8/?tag=tolees-21'
 descuento: '32.94'
 average: '4.6000000000000005'

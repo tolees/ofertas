@@ -16,6 +16,7 @@ comparePrice: 9.67 EUR
 prodname: 'Fini Tronc - Marshmallow Bicolor - Espumas Dulces - 125 piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XAQ7MSO/?tag=tolees-21'
 descuento: '41.05'
 average: '5.5'

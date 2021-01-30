@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Burberry My Burberry Edt Vapo 90 Ml 1 Unidad 90 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XU8KKUE/?tag=tolees-21'
 descuento: '48.01'
 average: '50.95'

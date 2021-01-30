@@ -16,6 +16,7 @@ comparePrice: 76.66 EUR
 prodname: 'Tommy Hilfiger Shoulder GS Insert Slim Polo  Azul  Desert Sky   Medium  Talla del Fabricante:  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W7RSVRN/?tag=tolees-21'
 descuento: '61.88'
 average: '29.22'

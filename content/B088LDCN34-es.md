@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'Altavoz Bluetooth Portátil Altavoces Bluetooth Portatiles ZEALOT S32 Mini Altavoz Impermeable 24 Horas Reproducción  TWS Sonido Estéreo Apoya Tarjeta tf Micro SD  Pendrive Inalámbrico（camuflaje verde）'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088LDCN34/?tag=tolees-21'
 descuento: '41.83'
 average: '31.99'

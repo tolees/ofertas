@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'kitteny Juegos Suelo Juego de Piso Familiar Tapete de Juego  Juegos de Mesa  Divertidos Juegos de Habilidad para niños y Adultos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R42RG4T/?tag=tolees-21'
 descuento: '50.03'
 average: '9.99'

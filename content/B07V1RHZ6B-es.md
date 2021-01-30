@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Regalos Originales Hombre Muñequera magnética - Regalo Cumpleaños Padre Carpinteria Herramientas  Cinturón de Herramientas con 15 Imanes para Sujetar Tornillos  Clavos y Brocas Ideal como Regalo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V1RHZ6B/?tag=tolees-21'
 descuento: '36.43'
 average: '13.98'

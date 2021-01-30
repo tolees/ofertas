@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'TACKLIFE T6 Arrancador de Coche 800A Pico 18000mAh Jump Starter  Batería Arrancador de Coche  Hasta 6.5L en Gas o 5.5L en Diesel   con Puertos de Carga Dual USB  Linterna LED'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075HBZ5ZF/?tag=tolees-21'
 descuento: '25.00'
 average: '67.49'

@@ -16,6 +16,7 @@ comparePrice: 25.16 EUR
 prodname: 'DIXIUZA Diadema Cuerno de Unicornio Niñas Diadema para Fiesta Cumpleaños Decoración'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VBMD143/?tag=tolees-21'
 descuento: '95.71'
 average: '1.08'

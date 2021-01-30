@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'JUNING Kit de Costura Costurero 90pcs Accesorios Costura Kit de Accesorios para el viajes y principiantes y emergencias  B-Mini '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078TGBSPD/?tag=tolees-21'
 descuento: '57.50'
 average: '7.22'

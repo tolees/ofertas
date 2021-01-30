@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'BOSS Serge-va sz40 Cinturón  Marrón  Medium Brown 212   95  Talla del fabricante: 80  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V8JMB5F/?tag=tolees-21'
 descuento: '41.93'
 average: '40.65'

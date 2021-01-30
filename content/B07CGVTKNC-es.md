@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Licuadoras Para Verduras y Frutas  Aicok 800W Centrífugo con Boca Ancha de 75MM  Doble Velocidad con Pies Antideslizantes  Diseño Antigoteo  Libre de BPA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CGVTKNC/?tag=tolees-21'
 descuento: '48.00'
 average: '47.847142857142856'

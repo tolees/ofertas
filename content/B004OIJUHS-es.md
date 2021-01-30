@@ -16,6 +16,7 @@ comparePrice: 29.18 EUR
 prodname: 'Mirak - Zapatillas/Zapatos sin Cordones Estilo Marinero Modelo Yachtmaster  Facil Quita y pon - Verano  45 EUR/Azul Marino '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004OIJUHS/?tag=tolees-21'
 descuento: '33.34'
 average: '19.45'

@@ -16,6 +16,7 @@ comparePrice: 94.9 EUR
 prodname: 'Tommy Jeans Retro Flag Sneaker  Zapatillas para Hombre  Blanco  White 100   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D8Z1R3R/?tag=tolees-21'
 descuento: '32.79'
 average: '54.03'

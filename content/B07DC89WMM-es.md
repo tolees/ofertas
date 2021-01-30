@@ -16,6 +16,7 @@ comparePrice: 29.46 EUR
 prodname: 'Sloggi Zero Feel Top Ex Corsé  Azul  Cool Ice 00iu   38  Talla del Fabricante: Small  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DC89WMM/?tag=tolees-21'
 descuento: '28.89'
 average: '20.95'

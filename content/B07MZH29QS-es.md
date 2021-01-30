@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'HengBO Raclette con Placa de Piedra Natural  8 Mini Sartenes  Control de Temperatura Variable para 8 Personas  1300W  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZH29QS/?tag=tolees-21'
 descuento: '57.50'
 average: '67.99'

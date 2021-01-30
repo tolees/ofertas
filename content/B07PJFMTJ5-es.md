@@ -16,6 +16,7 @@ comparePrice: 9.57 EUR
 prodname: 'Essie Esmalte de Uñas N.630 Take The Lead  13.5 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PJFMTJ5/?tag=tolees-21'
 descuento: '36.78'
 average: '6.05'

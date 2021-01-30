@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance Fresh Foam Roav m  Zapatillas de Running para Mujer  Morado  Neo TV   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RHXPNVZ/?tag=tolees-21'
 descuento: '56.01'
 average: '39.59'

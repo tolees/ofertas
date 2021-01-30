@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Clarks Step Allena Go  Zapatillas para Mujer  Beige  Mauve Mauve   35.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TKN919J/?tag=tolees-21'
 descuento: '68.56'
 average: '24.565714285714286'

@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Prices Citronella Tealight Candles Mosquito Fly Insect Repeller by Price s Candles'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KU69HRQ/?tag=tolees-21'
 descuento: '40.27'
 average: '5.37'

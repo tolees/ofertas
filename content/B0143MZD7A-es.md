@@ -16,6 +16,7 @@ comparePrice: 3.9 EUR
 prodname: 'Flexible LED Brillante Luz USB Alimentado Multi Propósito Ordenador Portátil PC Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0143MZD7A/?tag=tolees-21'
 descuento: '50.26'
 average: '1.94'

@@ -16,6 +16,7 @@ comparePrice: 61.43 EUR
 prodname: 'Prada Linea Rossa - Desodorante spray l homme prada'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KGSK5HS/?tag=tolees-21'
 descuento: '38.29'
 average: '37.91'

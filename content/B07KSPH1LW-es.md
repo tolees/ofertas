@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'Adidas Duramo 9 K  Zapatillas de Deporte Unisex Adulto  Multicolor  Magrea/Azuosc/Ftwbla 000   38 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KSPH1LW/?tag=tolees-21'
 descuento: '33.84'
 average: '29.74'

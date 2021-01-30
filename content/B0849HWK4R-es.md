@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Hurley M Dri-Fit Pier Hat Gorra  Hombre  Black  L/XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0849HWK4R/?tag=tolees-21'
 descuento: '47.17'
 average: '18.49'

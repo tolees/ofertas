@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Montse Interiors  S.L. Relleno NÓRDICO SINTÉTICO Invierno 400gr Cama 80/90  150x220   400gr '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MRCB3PI/?tag=tolees-21'
 descuento: '27.53'
 average: '28.95'

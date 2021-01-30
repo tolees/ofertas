@@ -16,6 +16,7 @@ comparePrice: 16.49 EUR
 prodname: 'Lúdilo SOS Dino  multicolor  51474    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079XVRXS6/?tag=tolees-21'
 descuento: '45.42'
 average: '18.15'

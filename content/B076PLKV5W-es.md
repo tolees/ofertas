@@ -16,6 +16,7 @@ comparePrice: 16.9 EUR
 prodname: 'Cecotec Rollos Gofrados Set de 2 Rollos Grandes 28 x 600 cm. Superficie gofrada  BPA Free'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076PLKV5W/?tag=tolees-21'
 descuento: '46.80'
 average: '8.99'

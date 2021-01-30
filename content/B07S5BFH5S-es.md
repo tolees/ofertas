@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'NvWang Origami Papel Origami 100 Hojas 15 x 15 cm Doble Cara Papel para papiroflexia para Folded Square Origami Manualidades y DIY Proyectos de Artes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S5BFH5S/?tag=tolees-21'
 descuento: '30.79'
 average: '8.99'

@@ -16,6 +16,7 @@ comparePrice: 12.54 EUR
 prodname: 'Adidas - Gel de ducha para hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OX23EEK/?tag=tolees-21'
 descuento: '40.19'
 average: '13.718'

@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'HBselect Gorros De Punto Bebe Niños Invierno Gorra Bebe Orejas Gorros Termicos Bebe Sombreros y Gorras para Bebés Niña  M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JGKLV98/?tag=tolees-21'
 descuento: '37.52'
 average: '9.99'

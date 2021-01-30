@@ -16,6 +16,7 @@ comparePrice: 7.89 EUR
 prodname: 'Tesa 77767-00001-00 77767-00001-00-Smart Mounting System Removíbles para Azulejo-SMS Clavo Adhesivo Ajustable hasta 3KgAzulejos  Set de 2 Piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MCQP1Q2/?tag=tolees-21'
 descuento: '41.70'
 average: '4.6'

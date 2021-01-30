@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'PUMA NRGY Comet  Zapatillas de Running Unisex Adulto  Peacoat-Yellow Alert  44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG1GRLR/?tag=tolees-21'
 descuento: '35.01'
 average: '35.71'

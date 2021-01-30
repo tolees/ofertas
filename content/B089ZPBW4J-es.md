@@ -16,6 +16,7 @@ comparePrice: 61.59 EUR
 prodname: 'ASICS Training Club Pantalones - L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089ZPBW4J/?tag=tolees-21'
 descuento: '63.65'
 average: '22.39'

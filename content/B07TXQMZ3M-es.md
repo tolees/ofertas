@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Legend COMO-A - Bolsa de Cuero Mujer  color Negro  talla 4x13x19 cm  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TXQMZ3M/?tag=tolees-21'
 descuento: '40.90'
 average: '53.18'

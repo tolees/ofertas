@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Bearbelly Gigante súper pene Ventosa simulación pene Falso Doble líquido Silicona pene masturbación Femenina Equipo Adulto para Mujeres  17.5 cm x 3.4 cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TYCVK62/?tag=tolees-21'
 descuento: '76.73'
 average: '6.98'

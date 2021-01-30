@@ -16,6 +16,7 @@ comparePrice: 26.57 EUR
 prodname: 'BRA Terra - Sartén 18 cm  aluminio fundido con antiadherente Teflon Selectaptas para todo tipo de cocinas incluida inducción'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00B3SURZG/?tag=tolees-21'
 descuento: '28.53'
 average: '18.99'

@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'Depiladora Eléctrica  Afeitadora Electrica  Eléctrica Máquina de Afeitar  Depiladora Facial Mujer 5 en 1 USB Recargable  Depilador Sin Dolor Maquinilla Afeitador para Cejas Nariz Pierna'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RHS88Y9/?tag=tolees-21'
 descuento: '49.00'
 average: '24.99'

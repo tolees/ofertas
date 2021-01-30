@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'CHIKA10 Lily 06 Nude/LG.Pink  Talla 38'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084HLVX6K/?tag=tolees-21'
 descuento: '30.01'
 average: '34.99'

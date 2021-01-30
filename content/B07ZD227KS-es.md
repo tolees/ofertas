@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Amzdeal Carretilla Plegable Carretilla de Mano con 4 Ruedas Carga Máxima 30 kg/65lbs  Mango Extensible Carretilla de Transporte incluye Cuerda de Expansión'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZD227KS/?tag=tolees-21'
 descuento: '37.51'
 average: '24.99'

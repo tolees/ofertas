@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Funko Pop!- Pop Marvel: Spider-Man Miles Morales Figura de Vinilo  Multicolor  30680 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079YMNPD7/?tag=tolees-21'
 descuento: '31.42'
 average: '8.5'

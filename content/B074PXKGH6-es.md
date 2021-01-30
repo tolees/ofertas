@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'Hugo BOSS Reloj Análogo clásico para Hombre de Cuarzo con Correa en Acero Inoxidable 1513514'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074PXKGH6/?tag=tolees-21'
 descuento: '30.00'
 average: '199.2'

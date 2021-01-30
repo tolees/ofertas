@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Optimum Nutrition Optimum Protein Shakes Vanilla Listo a Consumir 25G de Proteína sin Azúcar Añadido  Carbohidratos 10 Unidades 330 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VFLR4XS/?tag=tolees-21'
 descuento: '25.37'
 average: '18.65'

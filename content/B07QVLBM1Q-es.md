@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'J&C 18W Plafón LED Techo Blanco Natural - IP44 Ultra-fino Lámpara de Techo Led Cuadrado  Luz de Baño  Cocina  Salon  Dormitorio  4000K  1550Lm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QVLBM1Q/?tag=tolees-21'
 descuento: '26.01'
 average: '36.99'

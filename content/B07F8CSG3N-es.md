@@ -16,6 +16,7 @@ comparePrice: 23.16 EUR
 prodname: 'SNK Heroines : Tag Team Frenzy [Importación francesa]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F8CSG3N/?tag=tolees-21'
 descuento: '43.91'
 average: '13.402000000000001'

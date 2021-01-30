@@ -16,6 +16,7 @@ comparePrice: 30.4 EUR
 prodname: 'find. MDR 40621 vestidos mujer  Rojo  Red   38  Talla del fabricante: Small '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077HKY4M7/?tag=tolees-21'
 descuento: '62.50'
 average: '12.606666666666667'

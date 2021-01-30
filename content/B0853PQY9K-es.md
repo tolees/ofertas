@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Renberg Papelera con Pedal 3.0l Acero Inoxidable bodø  Metal  Cromado  3 litros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0853PQY9K/?tag=tolees-21'
 descuento: '30.03'
 average: '7.99'

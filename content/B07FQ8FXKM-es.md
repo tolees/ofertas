@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'JACK & JONES Jjestructure Knit Crew Neck Noos suéter  Gris Jet Stream  X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FQ8FXKM/?tag=tolees-21'
 descuento: '50.02'
 average: '14.99'

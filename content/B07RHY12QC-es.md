@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Under Armour Men s Charged Assert 8 Ltd Laufschuhe  Zapatillas de Running para Hombre  Negro  Black/White/White  001  001   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RHY12QC/?tag=tolees-21'
 descuento: '29.99'
 average: '48.97'

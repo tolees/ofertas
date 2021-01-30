@@ -16,6 +16,7 @@ comparePrice: 44.94 EUR
 prodname: 'Master Series Caña Espada de Energía Eléctrico - 1 Unidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AVG4GU2/?tag=tolees-21'
 descuento: '55.43'
 average: '20.03'

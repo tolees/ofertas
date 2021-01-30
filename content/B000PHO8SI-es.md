@@ -16,6 +16,7 @@ comparePrice: 111.4 EUR
 prodname: 'HP C9380A - Cabezal de Impresora  Gris y Negro fotográfico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000PHO8SI/?tag=tolees-21'
 descuento: '31.79'
 average: '73.80666666666667'

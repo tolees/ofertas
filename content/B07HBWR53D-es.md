@@ -16,6 +16,7 @@ comparePrice: 26.6 EUR
 prodname: 'Ventosa Fácil Instalación Suction Cup para Carro Autocaravana'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HBWR53D/?tag=tolees-21'
 descuento: '33.35'
 average: '17.73'

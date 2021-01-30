@@ -16,6 +16,7 @@ comparePrice: 12.0 EUR
 prodname: 'Under Armour  UNDKU Heatgear Crew Calcetines  Unisex adulto  Blanco  MD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QWNDXXF/?tag=tolees-21'
 descuento: '50.08'
 average: '5.99'

@@ -16,6 +16,7 @@ comparePrice: 109 EUR
 prodname: 'Lacoste Carnaby EVO 319 3 SMA  Zapatillas para Hombre  Marrón  Light Brown/Off White Bw7   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9W1YLX/?tag=tolees-21'
 descuento: '59.83'
 average: '43.78'

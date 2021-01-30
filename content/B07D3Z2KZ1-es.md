@@ -16,6 +16,7 @@ comparePrice: 264.99 EUR
 prodname: 'Dreaming Kamahaus Elite Colchón  con Viscografeno-Soft  150x200'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D3Z2KZ1/?tag=tolees-21'
 descuento: '27.21'
 average: '192.88'

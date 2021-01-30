@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'LANCARDO Reloj Médico de Bolsillo Colgante Enfermera Prendedor Broche Movimiento Cuarzo Multicolor con Clip Uniforme Paramédico Regalo Gracias Doctor Mujer Chica Niña'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KCZVR75/?tag=tolees-21'
 descuento: '45.48'
 average: '11.323333333333334'

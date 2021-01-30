@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'GALAX PRO Sierra de calar a Batería  DC-20V 2500SPM Herramienta de Sierra de Calar 8 Hojas de Sierra para Cortar Madera/metal Blando/PVC Sin batería Sin cargador '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z4NYQP3/?tag=tolees-21'
 descuento: '25.66'
 average: '29.73'

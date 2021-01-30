@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Bebé Pantalones Cortos Niñas Niños Bombacho Estampado Braguitas Pañal Cubierta Verano Cintura Elástica Pull-on Bloomer Shorts Loose Harem Shorts Pantalones De Playa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0895WV3BQ/?tag=tolees-21'
 descuento: '33.79'
 average: '5.29'

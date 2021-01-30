@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'PUMA Essentials Logo W Legging Deportivo de Talle Alto  Mujer  Negro  Cotton Black   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D5SBXKK/?tag=tolees-21'
 descuento: '41.60'
 average: '19.654999999999998'

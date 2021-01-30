@@ -16,6 +16,7 @@ comparePrice: 16.5 EUR
 prodname: 'Atopic Piel Crema Corporal Extreme para el tratamiento de la piel atópica en periodos de brote 150 Ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00J5FZLAK/?tag=tolees-21'
 descuento: '36.97'
 average: '9.916666666666668'

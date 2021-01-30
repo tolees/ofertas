@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Rowenta - Aspirador escoba inalámbrica RH8773WU  autonomía de hasta 45 minutos. Limpieza libre: Sin cables  sin bolsa y sin concesiones en el rendimiento de succión  Reacondicionado '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MQJHTY7/?tag=tolees-21'
 descuento: '30.30'
 average: '89.64999999999999'

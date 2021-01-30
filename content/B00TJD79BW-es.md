@@ -16,6 +16,7 @@ comparePrice: 895.19 EUR
 prodname: 'Acer MR.JKY11.00L - Videoproyector  3000 lúmenes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TJD79BW/?tag=tolees-21'
 descuento: '65.93'
 average: '452.6666666666667'

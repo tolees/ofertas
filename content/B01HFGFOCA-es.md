@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Columbia Vapor Vent  Zapatillas de Senderismo para Mujer  Blanco  White  Wild Salmon 100   36.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HFGFOCA/?tag=tolees-21'
 descuento: '61.03'
 average: '31.17'

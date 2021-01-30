@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Skechers Summits  Zapatillas para Mujer  Gris  Gray Mesh/Hot Pink & Lime Trim Gyhp   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TVPDRTV/?tag=tolees-21'
 descuento: '40.13'
 average: '32.9'

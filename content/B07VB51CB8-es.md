@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Pepe Jeans  Bandolera con Solapa  28 cm  6.01 Liters  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VB51CB8/?tag=tolees-21'
 descuento: '31.56'
 average: '51.33'

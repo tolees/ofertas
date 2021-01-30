@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Warxin Soporte Magnético Movil Coche para Ventilación  Duradero Mini Iman Móvil Coche Soporte para Teléfono Universal con Rejillas del Aire para iPhone Galaxy Smartphone y GPS - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VWP37H9/?tag=tolees-21'
 descuento: '41.70'
 average: '7.156666666666667'

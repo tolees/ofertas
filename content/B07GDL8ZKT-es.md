@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'DANISH ENDURANCE Bóxers para Hombres Pack de 3  Negro  Small '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GDL8ZKT/?tag=tolees-21'
 descuento: '57.57'
 average: '16.616666666666667'

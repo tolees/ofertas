@@ -16,6 +16,7 @@ comparePrice: 141.91 EUR
 prodname: 'Adornos Einfache Escultura Decoración Moderna Keramik Handwerk Heimtextilien Wohnzimmer Zimmer Modo Creativo Blume Blume Florero Artesanías GAOLILI  Color: Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081KV8R3V/?tag=tolees-21'
 descuento: '38.70'
 average: '86.99'

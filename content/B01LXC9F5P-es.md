@@ -16,6 +16,7 @@ comparePrice: 30.71 EUR
 prodname: 'Saint Seiya Box 8 [DVD]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LXC9F5P/?tag=tolees-21'
 descuento: '25.76'
 average: '19.145'

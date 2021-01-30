@@ -16,6 +16,7 @@ comparePrice: 249.99 EUR
 prodname: 'Rowenta Perfect Steam Pro DG8626 Centro de Planchado Autonomía Ilimitada con 6.9 Bares  Golpe 450 Vapor Contínuo de 120 g/min  Suela Microsteam Laser 400  Función Eco  Depósito Cal'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HY7N6MK/?tag=tolees-21'
 descuento: '28.40'
 average: '165.90363636363637'

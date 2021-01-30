@@ -16,6 +16,7 @@ comparePrice: 84.0 EUR
 prodname: 'El Mentalista Temporada 1-7 [DVD]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0168UDHO6/?tag=tolees-21'
 descuento: '34.01'
 average: '55.43'

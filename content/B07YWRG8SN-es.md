@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Fundas Sillas Oficina Elasticas Modernas Fundas para sillas Oficina Cubierta de Sillas Oficina Universales Extraíbles y Lavables Funda Protector para Sillas de Giratorias u Ordenador'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YWRG8SN/?tag=tolees-21'
 descuento: '46.19'
 average: '6.99'

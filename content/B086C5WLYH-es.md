@@ -16,6 +16,7 @@ comparePrice: 10.89 EUR
 prodname: 'Funda para Samsung Galaxy Note 10 Lite 360°Full Body Protección [Suave TPU Silicona Delantero] [PC dura Atrás] Transparente Flip Protectora Carcasa para Samsung Galaxy Note 10 Lite  6.7 Pulgadas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086C5WLYH/?tag=tolees-21'
 descuento: '55.10'
 average: '4.89'

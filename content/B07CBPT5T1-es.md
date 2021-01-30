@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Maybelline New York - The Lemonade Craze  Paleta de Sombras de Ojos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CBPT5T1/?tag=tolees-21'
 descuento: '33.36'
 average: '9.695'

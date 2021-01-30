@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Columbia Zero Rules Polo con Protección Solar 30  Hombre  Gris  Shark Heather   X-L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017WHFR60/?tag=tolees-21'
 descuento: '35.56'
 average: '27.075'

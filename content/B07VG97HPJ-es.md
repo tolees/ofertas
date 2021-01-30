@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Hackett London Coral Swim Trim Polo  Blanco  800white 800   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VG97HPJ/?tag=tolees-21'
 descuento: '60.00'
 average: '38.0'

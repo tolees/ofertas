@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'New Balance 247v1  Zapatillas para Hombre  Azul  Outerspace/Silver Oh   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DJ65TXD/?tag=tolees-21'
 descuento: '37.24'
 average: '50.21'

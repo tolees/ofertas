@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'inphic Auriculares Bluetooth  reproducción las 24 horas  estéreo de alta fidelidad  Bluetooth 5.0  Over ear auriculares inalámbricos con micrófono para iPhone  teléfono Samsung  PC  TV'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XQ7Q8GF/?tag=tolees-21'
 descuento: '30.01'
 average: '20.99'

@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Merrell Waterpro Maipo 2  Zapatillas Impermeables para Hombre  Azul  Blue Wing   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000QJDH78/?tag=tolees-21'
 descuento: '52.66'
 average: '47.34'

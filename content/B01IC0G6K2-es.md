@@ -16,6 +16,7 @@ comparePrice: 15.35 EUR
 prodname: 'Original Buff Zelig Mineral Tubular  Unisex Adulto  Multicolor  Zelig Mineral   Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IC0G6K2/?tag=tolees-21'
 descuento: '44.76'
 average: '8.48'

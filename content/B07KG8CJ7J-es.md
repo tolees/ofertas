@@ -16,6 +16,7 @@ comparePrice: 33.44 EUR
 prodname: 'PUMA Cali-0 Zapatillas deportivas de piel Unisex adulto  Blanco  Puma White-Galaxy Blue-Whisper White    42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG8CJ7J/?tag=tolees-21'
 descuento: '27.51'
 average: '28.43'

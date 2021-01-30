@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Fular Portabebe  Newlemo Portabebes - Hecho de Tela Suave y Elástica  Suave y Cómoda   Porta Bebes en Mochilas  Adecuado para Recién Nacidos  Bebés y Niños Pequeños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089DZYP1B/?tag=tolees-21'
 descuento: '46.17'
 average: '13.99'

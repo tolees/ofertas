@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'Withings Steel Reloj  Unisex Adulto  Negro/Silver  36 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072HVWJDP/?tag=tolees-21'
 descuento: '43.83'
 average: '74.525'

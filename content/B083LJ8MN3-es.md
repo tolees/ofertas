@@ -16,6 +16,7 @@ comparePrice: 51.98 EUR
 prodname: 'K9CK Luces LED para Lego Technic Mack Anthem 42078  Kit de Iluminación Luz Compatible con Bloques de construcción  NO Incluido en el Modelo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083LJ8MN3/?tag=tolees-21'
 descuento: '50.00'
 average: '25.99'

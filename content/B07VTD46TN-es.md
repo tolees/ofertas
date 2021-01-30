@@ -16,6 +16,7 @@ comparePrice: 98.16 EUR
 prodname: 'Tommy Hilfiger Organic Cotton Silk Crew Neck Pantalones  Verde  Mystic Mint Heather MQ7   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VTD46TN/?tag=tolees-21'
 descuento: '49.98'
 average: '37.765'

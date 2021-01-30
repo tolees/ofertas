@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Tommy Hilfiger Core Hilfiger Regular Polo  Negro  Flag Black 060   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018LLIXB2/?tag=tolees-21'
 descuento: '38.74'
 average: '47.5'

@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Juego de 2 Almohadas Ajustables  50 x 75 cm   Sin Productos Químicos  OEKO-TEX  con Bolsa de Almacenamiento y Cremallera - 2 x Almohada Cervical Adaptado - Todo Tipos de Dormilones - Garantía 3 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079VFJL6F/?tag=tolees-21'
 descuento: '49.97'
 average: '32.22'

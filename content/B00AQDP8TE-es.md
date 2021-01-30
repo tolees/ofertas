@@ -16,6 +16,7 @@ comparePrice: 11.59 EUR
 prodname: 'L Oréal Paris Pintalabios 24H Permanente  Color Nude 111 Permanent Blush'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00AQDP8TE/?tag=tolees-21'
 descuento: '37.45'
 average: '7.25'

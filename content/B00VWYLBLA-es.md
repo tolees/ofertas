@@ -16,6 +16,7 @@ comparePrice: 18.95 EUR
 prodname: 'Joma Master Bermuda Deporte  Hombre  Negro  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VWYLBLA/?tag=tolees-21'
 descuento: '26.17'
 average: '13.969999999999999'

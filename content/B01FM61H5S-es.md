@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'HBF 5 Pares Calcetines Cortos Hombre Algodon Calcetines Invisibles Hombre Multicolor Calcetines Barco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FM61H5S/?tag=tolees-21'
 descuento: '42.89'
 average: '7.623333333333333'

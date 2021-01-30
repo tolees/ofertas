@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance 574v2  Zapatillas para Hombre  Gris  Grey/Navy Sou   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RJW9H8T/?tag=tolees-21'
 descuento: '38.19'
 average: '55.63'

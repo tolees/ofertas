@@ -16,6 +16,7 @@ comparePrice: 10.98 EUR
 prodname: 'Oihxse Funda para OnePlus 7 Pro Transparente  Estuche con OnePlus 7 Pro Ultra-Delgado Silicona TPU Suave Protectora Carcasa Océano Animal Serie Bumper  C1 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086MLSJNX/?tag=tolees-21'
 descuento: '27.32'
 average: '7.98'

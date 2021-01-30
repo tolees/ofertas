@@ -16,6 +16,7 @@ comparePrice: 26.95 EUR
 prodname: 'RESPIRFIX DILATADOR Nasal Deportivo ANTIRONQUIDO 2 Unidades Talla M sin Latex ni Silicona antialergico diseñado y Fabricado en España con CÓDIGO Nacional del Colegio DE FARMACEUTICOS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H3QZBQN/?tag=tolees-21'
 descuento: '25.90'
 average: '19.97'

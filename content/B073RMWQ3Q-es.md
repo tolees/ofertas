@@ -16,6 +16,7 @@ comparePrice: 79.25 EUR
 prodname: 'Columbia GoodlifeTM Lace  Zapatillas Casual para Mujer  Blanco  White  Ti Grey Steel   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073RMWQ3Q/?tag=tolees-21'
 descuento: '72.97'
 average: '21.42'

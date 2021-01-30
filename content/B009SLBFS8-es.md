@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Lindam Easy Fit Plus Deluxe - Barrera de Seguridad  Blanco  76-82 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009SLBFS8/?tag=tolees-21'
 descuento: '43.04'
 average: '34.333333333333336'

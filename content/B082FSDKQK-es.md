@@ -16,6 +16,7 @@ comparePrice: 16.9 EUR
 prodname: 'Beurer MG10 Bola de masaje con vibración  compacta  2 niveles intensidad para activar zonas tensas de los músculos  superfície tacto suave  óptimo para viajes  7.5 cm  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082FSDKQK/?tag=tolees-21'
 descuento: '29.05'
 average: '13.344999999999999'

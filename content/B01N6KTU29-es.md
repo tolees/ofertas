@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'FORTEM Cojín de Asiento y Respaldo de Soporte Lumbar Ergonómico | Espuma de Calidad Ortopédica: Alivio de Dolores de Espalda  del Cóccix y la Ciática | Mejora y Corrige su Postura | Fundas Lavables'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N6KTU29/?tag=tolees-21'
 descuento: '60.01'
 average: '27.99'

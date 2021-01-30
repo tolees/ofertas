@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'PUMA Basket Heart Patent WN S  Zapatillas para Mujer  Gris  Iron Gate/Iron Gate   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZ42JPF/?tag=tolees-21'
 descuento: '48.26'
 average: '34.4675'

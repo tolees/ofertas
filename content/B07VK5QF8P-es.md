@@ -16,6 +16,7 @@ comparePrice: 10.2 EUR
 prodname: 'Camisetas Tirantes Basicas para Mujer Verano LuckyGirls • • Tank Top Tirantes Fiesta Mujer Tallas Grandes Sin Manga Blusas Elegante Vestir Sexy Cuello V Vest'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VK5QF8P/?tag=tolees-21'
 descuento: '58.73'
 average: '4.21'

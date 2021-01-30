@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Disney Pijamas de Manga Corta para niñas La Sirenita Naranja 6-7 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086PZVF3X/?tag=tolees-21'
 descuento: '25.08'
 average: '11.95'

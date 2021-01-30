@@ -16,6 +16,7 @@ comparePrice: 19.5 EUR
 prodname: 'Balvi salvamanteles Tomato Sauce En Forma de Bote de conserva Al ser magnético se adhiere a Superficies metálicas Silicona'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076HGCJXN/?tag=tolees-21'
 descuento: '30.77'
 average: '13.5'

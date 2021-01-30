@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Luces para Espejo de Maquillaje  12 Luces de Espejo de Tocador con 12 Cintas Autoadhesivas y Interfaz USB  Luces Tocador Maquillaje de 10 Niveles de Brillo y 3 Modos de Luz  Luces Tocador para Espejo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0895QFFS2/?tag=tolees-21'
 descuento: '50.02'
 average: '14.99'

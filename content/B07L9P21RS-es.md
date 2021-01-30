@@ -16,6 +16,7 @@ comparePrice: 109 EUR
 prodname: 'Lacoste Masters Cup 319 1 SMA  Zapatillas para Hombre  Azul  Nvy/Off Wht/Dk Red Nod   47 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9P21RS/?tag=tolees-21'
 descuento: '64.32'
 average: '38.89'

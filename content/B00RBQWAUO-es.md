@@ -16,6 +16,7 @@ comparePrice: 126.0 EUR
 prodname: 'Dolce & Gabbana - Pour Homme Intenso Eau De Perfume Spray  200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00RBQWAUO/?tag=tolees-21'
 descuento: '48.95'
 average: '64.32'

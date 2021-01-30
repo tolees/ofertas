@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'New Balance 373v2  Zapatillas para Mujer  Azul  Navy Be2   36.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S1PK8R4/?tag=tolees-21'
 descuento: '45.07'
 average: '43.94'

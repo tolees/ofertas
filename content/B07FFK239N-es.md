@@ -16,6 +16,7 @@ comparePrice: 14.0 EUR
 prodname: 'Amazon Essentials Studio Relaxed-Fit Crewneck T-Shirt fashion-t-shirts  Blanco  Medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FFK239N/?tag=tolees-21'
 descuento: '37.43'
 average: '11.379999999999999'

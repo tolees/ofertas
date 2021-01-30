@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Compatible para Samsung Galaxy Note 10 Lite Silicone Case Flexible Transparente Cristal Suave Ultra Slim TPU Anti-Choque Anti-Scratch Waterproof para Samsung Galaxy Note 10 Lite Carcasa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CC5X8PC/?tag=tolees-21'
 descuento: '31.27'
 average: '10.99'

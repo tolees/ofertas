@@ -16,6 +16,7 @@ comparePrice: 33.43 EUR
 prodname: 'Skechers Diameter Vassell Diameter Vassell - Zapatillas de Cuero para Hombre  Color marrón  Talla 40'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0050I7QLS/?tag=tolees-21'
 descuento: '25.87'
 average: '28.37'

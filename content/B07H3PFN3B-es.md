@@ -16,6 +16,7 @@ comparePrice: 12.46 EUR
 prodname: 'DINOKA Corrección de Postura  Ajustable Corrector de Postura Espalda para Hombres y Mujeres Negro  M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H3PFN3B/?tag=tolees-21'
 descuento: '51.93'
 average: '10.656666666666666'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Castillo de Princesa-Sonyabecca Castillo de Tienda de Jugar Castillo Princesa para niña Pop up diámetro: 102 cm  Altura: 140 cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M9A4XFF/?tag=tolees-21'
 descuento: '27.51'
 average: '27.13035087719298'

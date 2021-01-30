@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Levi s Graphic Po Hoodie-B suéter  Grigio  Hm Pop Co Midtone Heather Grey 0037   XXX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FHB23CN/?tag=tolees-21'
 descuento: '34.63'
 average: '38.72'

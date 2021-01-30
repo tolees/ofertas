@@ -16,6 +16,7 @@ comparePrice: 18.7 EUR
 prodname: 'Pink 47 - Ginebra Botella 70 cl'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003Z2KO5G/?tag=tolees-21'
 descuento: '26.90'
 average: '13.876'

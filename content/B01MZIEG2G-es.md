@@ -16,6 +16,7 @@ comparePrice: 21.0 EUR
 prodname: 'Poster STAR WARS El Despertar De La Fuerza Grafiti Hecho A Mano - Handmade Street Art - Artwork'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MZIEG2G/?tag=tolees-21'
 descuento: '42.86'
 average: '12.0'

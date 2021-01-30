@@ -16,6 +16,7 @@ comparePrice: 9.97 EUR
 prodname: 'Ksix BXSING01 - Karaoke portátil para Smartphones  Color Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075FG7RTS/?tag=tolees-21'
 descuento: '29.99'
 average: '7.460000000000001'

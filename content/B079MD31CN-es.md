@@ -16,6 +16,7 @@ comparePrice: 74.99 EUR
 prodname: 'Salomon XA Pro 3D CSWP J  Zapatillas de Deporte Unisex Niños  Azul Navy Blazer Mallard Blue Hawaiian Surf  31 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079MD31CN/?tag=tolees-21'
 descuento: '30.67'
 average: '51.99'

@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Tommy Hilfiger - Th Metro Ns Trifold  Carteras Hombre  Negro  Black   1x1x1 cm  W x H L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V5VDXNQ/?tag=tolees-21'
 descuento: '52.28'
 average: '34.970000000000006'

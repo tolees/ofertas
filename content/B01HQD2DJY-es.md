@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'iCozzier 15-15 6 Pulgadas Funda para portátil con Espuma de Diamante Splash Funda para ASUS Acer HP Lenovo Laptop/Chromebook/MacBook/Ultrabook Computer - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HQD2DJY/?tag=tolees-21'
 descuento: '27.75'
 average: '13.72'

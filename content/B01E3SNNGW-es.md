@@ -16,6 +16,7 @@ comparePrice: 179.95 EUR
 prodname: 'Bose SoundSport - Auriculares inalámbricos  Bluetooth  NFC  micrófono   color azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01E3SNNGW/?tag=tolees-21'
 descuento: '39.43'
 average: '109.0'

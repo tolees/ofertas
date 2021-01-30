@@ -16,6 +16,7 @@ comparePrice: 93.51 EUR
 prodname: 'Wangxyan Mosquitera Redondo Colcha de cúpula para niños Prevención de Insectos Redes Plegables Redes Plegables Fácil de Instalar- Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086DB9WFY/?tag=tolees-21'
 descuento: '40.12'
 average: '55.99'

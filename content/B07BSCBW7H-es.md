@@ -16,6 +16,7 @@ comparePrice: 36.2 EUR
 prodname: 'SaintderG® Fundas para sillas Pack de 6 Fundas sillas Comedor  Duradera Modern Bouquet de la Boda  Hotel  Decor Restaurante  Champagne Ligero  Pack de 6 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BSCBW7H/?tag=tolees-21'
 descuento: '30.97'
 average: '24.99'

@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'PUMA Electron Street  Zapatillas Unisex Adulto  Blanco White/High Risk Red/Peacoat 11  42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S6PCRFT/?tag=tolees-21'
 descuento: '51.28'
 average: '34.08'

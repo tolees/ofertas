@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Hauck Sport Silla de paseo ligera y practica para bebes de 0 meses hasta 15 kg  sistema de arnés de 5 puntos  respaldo reclinable  plegable  Azul  Moonlight Capri '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ETN28A4/?tag=tolees-21'
 descuento: '26.18'
 average: '52.156'

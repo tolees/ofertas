@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'NETVIP Receptor Bluetooth Adaptador Audio Inalámbrico Kit Bluetooth 4.1 Manos Libres Kits con Salida Estéreo 3.5mm Aux Jack para Casa y Sistema de Audio Estéreo de Coche'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PQ6BP6S/?tag=tolees-21'
 descuento: '56.02'
 average: '10.353636363636364'

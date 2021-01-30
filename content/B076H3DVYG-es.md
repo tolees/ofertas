@@ -16,6 +16,7 @@ comparePrice: 35.5 EUR
 prodname: 'Jirafa de Piedra Hecha a Mano en Italia - Símbolo de Belleza  Elegancia  Visión y Previsión  Protección y Gentileza de Espíritu - Caja de Regalo y Tarjeta de Mensaje - Regalo Cumpleaños él ella'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076H3DVYG/?tag=tolees-21'
 descuento: '29.86'
 average: '24.9'

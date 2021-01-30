@@ -16,6 +16,7 @@ comparePrice: 13.07 EUR
 prodname: 'Gen‚rico Calzador de Mango Largo Acero Inoxidable Cordón Fácil de Agarrar - Camuflaje  38cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CB94KYC/?tag=tolees-21'
 descuento: '44.45'
 average: '7.26'

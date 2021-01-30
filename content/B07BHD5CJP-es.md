@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Ringke Funda Xiaomi REDMI 5 Plus  [Fusion] Claro PC TPU Back Actualizado Ligera TPU Transparente Protección de Caída Protectora Cover para Redmi 5 Plus - Clear  Claro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BHD5CJP/?tag=tolees-21'
 descuento: '26.68'
 average: '10.99'

@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'CLUSE Reloj Analógico para Mujer de Cuarzo con Correa en Cuero CL40010'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DLR7TNV/?tag=tolees-21'
 descuento: '50.00'
 average: '71.47'

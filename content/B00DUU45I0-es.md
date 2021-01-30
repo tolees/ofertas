@@ -16,6 +16,7 @@ comparePrice: 27.5 EUR
 prodname: 'TRIXIE 2 Botas Protectoras Walker Active  Extra  XL  Negro  Perro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DUU45I0/?tag=tolees-21'
 descuento: '41.85'
 average: '16.43'

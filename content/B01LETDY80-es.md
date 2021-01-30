@@ -16,6 +16,7 @@ comparePrice: 16.6 EUR
 prodname: 'Lampa 60158 Cinta Tensor con trinquete'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LETDY80/?tag=tolees-21'
 descuento: '46.63'
 average: '8.86'

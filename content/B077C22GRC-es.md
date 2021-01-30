@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Tous Baby- Oso Musical  Color Celeste  T.Bear-603 00067 0/36M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077C22GRC/?tag=tolees-21'
 descuento: '50.00'
 average: '14.5'

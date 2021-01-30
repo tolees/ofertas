@@ -16,6 +16,7 @@ comparePrice: 139.9 EUR
 prodname: 'Beurer MG510 - Masaje presion por golpeteo  con/sin cable y bateria de litio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01L55RIBM/?tag=tolees-21'
 descuento: '35.68'
 average: '82.65666666666667'

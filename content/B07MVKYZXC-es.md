@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Napapijri Eisberg SS Polo  Blanco  Bright White 002   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVKYZXC/?tag=tolees-21'
 descuento: '60.66'
 average: '23.21'

@@ -16,6 +16,7 @@ comparePrice: 23.95 EUR
 prodname: 'S&R LLAVES TORX Juego de 15 llaves allen Torx cortas hexagonales EXTRA RESISTENTES TX6-TX60. Llaves non perforadas.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KHTFL4O/?tag=tolees-21'
 descuento: '41.59'
 average: '13.99'

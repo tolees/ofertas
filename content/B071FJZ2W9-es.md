@@ -16,6 +16,7 @@ comparePrice: 86.0 EUR
 prodname: 'QUEEN ROSE Tendedero Tipo Torre  para Interior y Exterior  con alas Plegables'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071FJZ2W9/?tag=tolees-21'
 descuento: '33.73'
 average: '56.99'

@@ -16,6 +16,7 @@ comparePrice: 259.95 EUR
 prodname: 'IKOHS FLOWIND - Ventilador de Techo con Luz  Diseño Exclusivo  Silencioso  Potente  5 Aspas  Mando a Distancia  132 cm de Diámetro  3 Velocidades Temporizador  Aspas de Madera  Motor AC  88W  Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083WPJQ57/?tag=tolees-21'
 descuento: '33.14'
 average: '173.8'

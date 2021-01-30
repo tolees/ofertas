@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Ride 3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DPG512Q/?tag=tolees-21'
 descuento: '47.60'
 average: '9.95'

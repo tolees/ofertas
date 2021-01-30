@@ -16,6 +16,7 @@ comparePrice: 5.78 EUR
 prodname: 'Lacor - 60386 - Cuchillo Para Corta Verduras 18 cm- VerDe'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007VOOEBO/?tag=tolees-21'
 descuento: '80.45'
 average: '1.13'

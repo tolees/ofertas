@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'Asics Patriot 10 SP 1012a236-101  Zapatillas de Running Unisex Niños  Beige  Beige 1012a236/101   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KPRXB62/?tag=tolees-21'
 descuento: '29.08'
 average: '37.995000000000005'

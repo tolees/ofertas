@@ -16,6 +16,7 @@ comparePrice: 6.03 EUR
 prodname: 'HANSAPLAST FROZEN NIÑA 20 APOSITOS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078HPGBDL/?tag=tolees-21'
 descuento: '45.27'
 average: '3.3'

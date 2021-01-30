@@ -16,6 +16,7 @@ comparePrice: 9.75 EUR
 prodname: 'Bourjois Healthy Mix Powder Polvos Tono 02 Light beige / Beige clair   11 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077MKJ7HK/?tag=tolees-21'
 descuento: '60.10'
 average: '3.89'

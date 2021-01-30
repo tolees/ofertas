@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Bourjois Volume Reveal Máscara de pestañas Tono 22 Ultra Black  7.5 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JGFDLBY/?tag=tolees-21'
 descuento: '49.75'
 average: '5.346363636363637'

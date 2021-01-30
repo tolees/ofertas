@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Bosch AHM 38 G - Cortacésped manual'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004JMTY2K/?tag=tolees-21'
 descuento: '35.54'
 average: '68.88666666666667'

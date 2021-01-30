@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Adidas Vs Switch 2 CMF Inf  Zapatillas de Estar por casa Bebé Unisex  Multicolor  Azuosc/Ftwbla/Azul 000   19 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SN9DJJP/?tag=tolees-21'
 descuento: '29.92'
 average: '20.99'

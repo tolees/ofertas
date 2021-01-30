@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Regleta Enchufes Múltiples Base USB - SAFEMORE - 11 Enchufes y 2 Puertos de Carga USB con Protección de Sobrecarga Contra Subidas y Picos de Tensión  Interruptor Individual y Cable de Extensión de 2 m'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q5FBKB6/?tag=tolees-21'
 descuento: '36.01'
 average: '31.99'

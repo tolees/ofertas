@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Luz para Correr Running  BraceTek luz led Frontal correr con Recargables USB Impermeable  Muy cómoda y Ligera Tiene una luz Rojo en la Espalda con Seguridad.Perfecto para los Corredores nocturnas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078QRRHBB/?tag=tolees-21'
 descuento: '46.68'
 average: '15.99'

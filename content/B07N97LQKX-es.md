@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'BOSS Prime Polo  Azul  Medium Blue 428   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N97LQKX/?tag=tolees-21'
 descuento: '58.54'
 average: '29.0'

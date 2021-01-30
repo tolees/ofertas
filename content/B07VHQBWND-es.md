@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'REPLAY M9715 .000.22906 Pantalones de Deporte  Azul  Blue 085   52  Talla del Fabricante: Medium  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VHQBWND/?tag=tolees-21'
 descuento: '36.25'
 average: '43.99'

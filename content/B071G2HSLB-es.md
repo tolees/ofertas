@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Apple Funda de piel  para el iPad Pro de 10 5 pulgadas  - Marrón topo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071G2HSLB/?tag=tolees-21'
 descuento: '49.23'
 average: '65.31'

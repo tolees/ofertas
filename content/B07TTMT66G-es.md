@@ -16,6 +16,7 @@ comparePrice: 142.0 EUR
 prodname: 'Juego de 4 Sillas de Comedor Modernas de Medio Siglo Tapizadas  Tapizadas en Tela Lateral con Base de Madera de Pasador; Ideal para Sala de Estar  Comedor  Cafetería  Sala de Espera  etc.  Rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TTMT66G/?tag=tolees-21'
 descuento: '30.99'
 average: '98.0'

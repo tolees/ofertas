@@ -16,6 +16,7 @@ comparePrice: 189.0 EUR
 prodname: 'Festina Reloj Cronógrafo para Hombre de Cuarzo con Correa en Silicona F20353/3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CB4V5PK/?tag=tolees-21'
 descuento: '30.98'
 average: '129.79714285714286'

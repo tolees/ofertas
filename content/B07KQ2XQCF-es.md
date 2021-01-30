@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Paquete 40 Batería de botón de batería alcalina Celular LR44 AG13 Paquete de 40 baterías'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KQ2XQCF/?tag=tolees-21'
 descuento: '46.19'
 average: '6.99'

@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Etekcity Masajeador de Espalda Masajeador Almohada de Masaje para Cuello  Pies y Lumbares  Masaje Cervical Shiatsu con 8 Nodos  2 Velocidades y Función de Calentamiento  para Casa  Coche y Oficina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XKCX2FP/?tag=tolees-21'
 descuento: '28.34'
 average: '42.99'

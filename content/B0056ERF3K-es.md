@@ -16,6 +16,7 @@ comparePrice: 20 EUR
 prodname: 'Nike M Nk Dry Acdmy Top SS T-Shirt  Hombre  Black/White/ White '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0056ERF3K/?tag=tolees-21'
 descuento: '32.75'
 average: '13.45'

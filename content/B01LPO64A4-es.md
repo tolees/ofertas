@@ -16,6 +16,7 @@ comparePrice: 10.16 EUR
 prodname: 'Twins Sarah  Polaina Bebé-Niñas  Multicolor  Mehrfarbig   80'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LPO64A4/?tag=tolees-21'
 descuento: '64.67'
 average: '3.59'

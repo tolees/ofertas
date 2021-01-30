@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Intex 57181NP - Piscina hinchable rectangular 229 x 147 x 46 cm  600 litros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01959QWFI/?tag=tolees-21'
 descuento: '59.92'
 average: '10.0'

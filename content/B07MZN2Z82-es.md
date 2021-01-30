@@ -16,6 +16,7 @@ comparePrice: 42.0 EUR
 prodname: 'Pepe Jeans LondonRen BackpackNiñosCarterasNegro  Black 13x30x37 centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZN2Z82/?tag=tolees-21'
 descuento: '30.98'
 average: '28.99'

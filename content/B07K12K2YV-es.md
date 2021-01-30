@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'adidas Deerupt Runner C Zapatillas de Gimnasia Unisex Niños  Verde  Ice Mint/Ftwr White/Clear Orange Ice Mint/Ftwr White/Clear Orange   31 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K12K2YV/?tag=tolees-21'
 descuento: '72.66'
 average: '21.16'

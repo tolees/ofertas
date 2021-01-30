@@ -16,6 +16,7 @@ comparePrice: 24.5 EUR
 prodname: 'Bosch 2 608 690 124 - Cincel plano RTec Sharp  SDS-max - 400 mm  pack de 1 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003TWOQ56/?tag=tolees-21'
 descuento: '30.00'
 average: '17.15'

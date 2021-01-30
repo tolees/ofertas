@@ -16,6 +16,7 @@ comparePrice: 12.0 EUR
 prodname: 'Max Factor LipFinity Classic Pintalabios Tono 020 Angelic  - 31 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001IDZ4WW/?tag=tolees-21'
 descuento: '30.00'
 average: '8.4'

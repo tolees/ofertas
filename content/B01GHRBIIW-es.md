@@ -16,6 +16,7 @@ comparePrice: 9.18 EUR
 prodname: 'W7 Smokin  - Paleta de sombras de ojos  15 6 g  12 colores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GHRBIIW/?tag=tolees-21'
 descuento: '34.75'
 average: '5.99'

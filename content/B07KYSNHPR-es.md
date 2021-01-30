@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Nike Star Runner 2  Zapatillas de Atletismo Unisex niño  Multicolor  University Red/Black/Volt 600   26 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KYSNHPR/?tag=tolees-21'
 descuento: '34.00'
 average: '19.8'

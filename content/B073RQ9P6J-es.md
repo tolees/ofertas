@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Helly Hansen W HH Logo Hoodie  Mujer  Grey Melange  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073RQ9P6J/?tag=tolees-21'
 descuento: '35.73'
 average: '38.760000000000005'

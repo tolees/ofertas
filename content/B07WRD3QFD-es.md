@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Vicloon Tarjetas de Felicitación  Tarjeta de San Valentín con Sobre  Tarjeta de Felicitación Pop Up 3D  Tarjeta de Felicitación de Boda e Invitación  Rosa Sakura Romántica Tarjeta Cumpleaños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WRD3QFD/?tag=tolees-21'
 descuento: '30.03'
 average: '6.99'

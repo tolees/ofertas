@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Funko 3014 - Game Of Thrones  Tyrion Lannister  figura de vinilo  10 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009B10BHQ/?tag=tolees-21'
 descuento: '55.12'
 average: '7.72'

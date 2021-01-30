@@ -16,6 +16,7 @@ comparePrice: 125 EUR
 prodname: 'Calvin Klein - Ck Cast Sml Flap Xbody  Bolsos totes Mujer  Negro  Black   7x16x15 cm  W x H L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RMLFSQ9/?tag=tolees-21'
 descuento: '42.46'
 average: '71.92'

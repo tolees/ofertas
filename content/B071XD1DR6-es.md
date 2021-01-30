@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Xiaomi Mi Band 2 Fitness Smartband  Pulsera de actividad  con monitor de ritmo cardíaco  color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071XD1DR6/?tag=tolees-21'
 descuento: '28.96'
 average: '14.2'

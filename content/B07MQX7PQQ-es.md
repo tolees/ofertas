@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'GANT MD. Extrafine Lambswool V-Neck suéter  Gris  Dk Charcoal Melange 97   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MQX7PQQ/?tag=tolees-21'
 descuento: '50.93'
 average: '49.07'

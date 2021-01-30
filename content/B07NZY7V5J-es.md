@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Skechers Elite Flex  Zapatillas para Hombre  Azul  Navy Premium Wool/Synthetic/Metal/Trim Nvy   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NZY7V5J/?tag=tolees-21'
 descuento: '70.35'
 average: '29.64'

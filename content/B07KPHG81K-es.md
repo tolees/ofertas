@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'adidas Falcon W  Zapatillas de Deporte para Mujer  Balcri/Maruni 000  36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KPHG81K/?tag=tolees-21'
 descuento: '45.97'
 average: '54.0'

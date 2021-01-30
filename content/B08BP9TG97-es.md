@@ -16,6 +16,7 @@ comparePrice: 33.98 EUR
 prodname: 'Fesjoy Mini ventilador portátil de aire acondicionado  silencioso  humidificador  evaporador  USB  aire acondicionado personal  3 velocidades  LED  noche  oficina  dispositivo de refrigeración'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BP9TG97/?tag=tolees-21'
 descuento: '47.09'
 average: '28.646666666666665'

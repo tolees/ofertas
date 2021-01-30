@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'LIGHTAILING Conjunto de Luces  Architecture Shanghái  Modelo de Construcción de Bloques - Kit de luz LED Compatible con Lego 21039  NO Incluido en el Modelo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TG88QVH/?tag=tolees-21'
 descuento: '55.02'
 average: '26.99'

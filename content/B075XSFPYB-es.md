@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Sensilis Origin Pro EGF-5 - Crema Antiedad Rejuvenecedora - 50ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075XSFPYB/?tag=tolees-21'
 descuento: '34.52'
 average: '58.93'

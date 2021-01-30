@@ -16,6 +16,7 @@ comparePrice: 48.99 EUR
 prodname: 'Bosch 2 608 640 444 - Hoja de sierra circular Optiline Wood - 254 x 30 x 2 8 mm  60  pack de 1 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000XJ3PHI/?tag=tolees-21'
 descuento: '38.87'
 average: '29.95'

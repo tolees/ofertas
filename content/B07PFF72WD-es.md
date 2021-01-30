@@ -16,6 +16,7 @@ comparePrice: 20.95 EUR
 prodname: 'Disney Bañador para Mujer Minnie Mouse Blanco Medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PFF72WD/?tag=tolees-21'
 descuento: '52.51'
 average: '9.95'

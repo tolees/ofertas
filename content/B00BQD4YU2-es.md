@@ -16,6 +16,7 @@ comparePrice: 223.0 EUR
 prodname: 'Haverland RC3W - Emisor Térmico De Inercia De Fundición De Aluminio Bajo Consumo  450 de Potencia  3 Elementos  Pantalla LCD y Funcionamiento Programable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BQD4YU2/?tag=tolees-21'
 descuento: '26.39'
 average: '164.15'

@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'TedGem Raton Inalámbrico Portatil  2.4G Raton Inalambrico Mouse Raton Mouse Inalambrico Raton Gaming con Receptor USB Nano  6 Botones  para PC/Tablet/Laptop y Windows/Mac/Linux  Office Home'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SYYP7Y9/?tag=tolees-21'
 descuento: '28.59'
 average: '9.615'

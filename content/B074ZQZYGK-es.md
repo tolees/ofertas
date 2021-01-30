@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Funko Pop!- 24972 Wonder Woman ETTA Sword & Shield Figura de Vinilo  Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074ZQZYGK/?tag=tolees-21'
 descuento: '49.37'
 average: '7.1066666666666665'

@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'camel active Houston 488385/2511 Pantalones  Grün  Khaki 36   W31/L34  Talla del Fabricante: 31/34  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NC2S31L/?tag=tolees-21'
 descuento: '30.13'
 average: '55.86'

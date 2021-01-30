@@ -16,6 +16,7 @@ comparePrice: 50 EUR
 prodname: 'Nike Women s Revolution 4 Running Shoe  Mujer  Azul  Half Blue/Black/Wolf Grey/White 407   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T5WQ73X/?tag=tolees-21'
 descuento: '35.10'
 average: '32.45'

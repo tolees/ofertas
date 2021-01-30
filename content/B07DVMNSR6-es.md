@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'PEKITAS Pack 3 Muselinas Extra Grandes Mantas de Muselina de 100% Algodón Suave y Sedoso Envolventes transpirables  Pack 3 mantas 115 x 115 cm  45 inches  Colección blanco negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DVMNSR6/?tag=tolees-21'
 descuento: '50.00'
 average: '15.0'

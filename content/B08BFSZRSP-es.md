@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Ellaao 50 Piezas 3 Capas  Azul  Protege La Boca Y La Boca  Evita El Contacto De Polvo Y La TransmisióN  Limpia/Exterior/Para NiñAs Mujer  Ninguna Caja '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BFSZRSP/?tag=tolees-21'
 descuento: '59.90'
 average: '3.99'

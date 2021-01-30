@@ -16,6 +16,7 @@ comparePrice: 56.69 EUR
 prodname: 'Masajeador multifunción más divertido USB recargable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VYWZLJV/?tag=tolees-21'
 descuento: '77.09'
 average: '12.99'

@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Kayboo Memoria USB 512GB Pendrive Mental USB Memory Stick con Llavero portátil  512gb '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BCHCNLN/?tag=tolees-21'
 descuento: '25.94'
 average: '21.323333333333334'

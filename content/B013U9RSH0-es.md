@@ -16,6 +16,7 @@ comparePrice: 40.99 EUR
 prodname: 'Remington PG6130 Groomkit - Recortador multifunción  cuchillas con revestimiento de titanio autoafilables  cuatro cabezales  inalámbrico  batería  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013U9RSH0/?tag=tolees-21'
 descuento: '34.15'
 average: '29.375714285714285'

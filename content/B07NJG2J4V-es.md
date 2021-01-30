@@ -16,6 +16,7 @@ comparePrice: 129.01 EUR
 prodname: 'Lacoste Carnaby EVO 119 7 SMA  Zapatillas para Hombre  Azul Marino/Blanco/Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJG2J4V/?tag=tolees-21'
 descuento: '53.53'
 average: '59.95'

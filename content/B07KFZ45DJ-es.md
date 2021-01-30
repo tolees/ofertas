@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'PUMA RS 9.8 Space  Zapatillas Unisex Adulto  White-High Risk Red  45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFZ45DJ/?tag=tolees-21'
 descuento: '49.97'
 average: '45.0'

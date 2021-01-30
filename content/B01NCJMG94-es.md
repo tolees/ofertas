@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Columbia Childrens Firecamp™ Sledder II WP  Zapatillas de Senderismo  Impermeable para Niños  Negro  Black  Steam   29 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NCJMG94/?tag=tolees-21'
 descuento: '53.04'
 average: '23.849999999999998'

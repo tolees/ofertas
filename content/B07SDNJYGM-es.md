@@ -16,6 +16,7 @@ comparePrice: 19.39 EUR
 prodname: 'Riuty Dardos de Espuma Recargue Dardos de Espuma para balastros de la Serie Elite de N-Strike de 200 Balas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SDNJYGM/?tag=tolees-21'
 descuento: '43.32'
 average: '10.99'

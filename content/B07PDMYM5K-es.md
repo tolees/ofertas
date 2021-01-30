@@ -16,6 +16,7 @@ comparePrice: 429.0 EUR
 prodname: 'HP Pavilion 32 QHD - Monitor de 31.5" QHD  2560 x 1440  300 CD/m²  USB-C  HDMI  DisplayPort  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PDMYM5K/?tag=tolees-21'
 descuento: '34.81'
 average: '246.16833333333332'

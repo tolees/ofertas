@@ -16,6 +16,7 @@ comparePrice: 142.59 EUR
 prodname: 'Mizuno Wave Rider 23  Zapatillas de Running para Mujer  Rosa  Hibiscus/VaporBlue/AstralAura 3   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N35SYF7/?tag=tolees-21'
 descuento: '53.16'
 average: '66.79'

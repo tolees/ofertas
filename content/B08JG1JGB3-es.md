@@ -16,6 +16,7 @@ comparePrice: 12.18 EUR
 prodname: 'Ocobudbxw  pequeño y Encantador  Forma de ratón  Espuma  Adorno Artesanal  Figura  miniaturas  Decoraciones'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08JG1JGB3/?tag=tolees-21'
 descuento: '50.00'
 average: '6.09'

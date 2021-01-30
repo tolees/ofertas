@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Puma Persist Xt Knit Zapatillas Deportivas para Interior Hombre  Gris  Castlerock/Yellow Alert 06   39 EU  6 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S7QLWZ1/?tag=tolees-21'
 descuento: '35.86'
 average: '38.45'

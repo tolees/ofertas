@@ -16,6 +16,7 @@ comparePrice: 17.5 EUR
 prodname: 'Kärcher Bolsas de filtro de fieltro WD4-WD5-WD6  4u   2.863-006.0 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HVSORU8/?tag=tolees-21'
 descuento: '31.71'
 average: '11.95'

@@ -16,6 +16,7 @@ comparePrice: 8.88 EUR
 prodname: 'FIND - Full-fab Lipkit  Chubby shiny n.3 + Chubby Mate n.3 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CTLZVFM/?tag=tolees-21'
 descuento: '67.79'
 average: '3.763333333333333'

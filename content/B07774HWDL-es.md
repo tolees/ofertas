@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Tommy Jeans Hombre Scanton Rinsc Jeans  Azul  Rinse Comfort 498   W27/L34'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07774HWDL/?tag=tolees-21'
 descuento: '57.19'
 average: '36.39'

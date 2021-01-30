@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Philips SHB3075RD - Auriculares Inalambricos  Bluetooth  con micrófono  aislantes de Ruido  Plegables  12 h de reproducción  Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0711GRRDL/?tag=tolees-21'
 descuento: '44.01'
 average: '28.494999999999997'

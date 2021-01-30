@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'PUMJV|#Puma Defy Wn s Zapatillas Deportivas para Interior Mujer  Rosa  Bridal Rose-Puma White 23   4  37 EU  EU  4 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFWZDWR/?tag=tolees-21'
 descuento: '60.03'
 average: '35.95'

@@ -16,6 +16,7 @@ comparePrice: 57.99 EUR
 prodname: 'Amzdeal Mesa de Luz Dibujo  A4 LED Portátil Tableta de Luz Ultradelgada con Panel Táctil y Óptico Inteligente Interfaz USB para Artistas  Dibujo  Animación'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0743C1GJM/?tag=tolees-21'
 descuento: '37.94'
 average: '32.99'

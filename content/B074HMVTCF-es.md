@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Blade Runner 2049 Blade Runner 2049-Funko Pop Figura de Vinilo Joi  Multicolor  Funko 21597 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074HMVTCF/?tag=tolees-21'
 descuento: '46.70'
 average: '7.208'

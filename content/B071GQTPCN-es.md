@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'PUMA 900248.020 Bolsa Mediana  Unisex Adulto  Azul  Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071GQTPCN/?tag=tolees-21'
 descuento: '73.26'
 average: '8.01'

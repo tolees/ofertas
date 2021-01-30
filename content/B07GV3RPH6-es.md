@@ -16,6 +16,7 @@ comparePrice: 50.3 EUR
 prodname: 'Berg Outdoor FREITA Commuter Denim Pants  Hombre  Black Iris  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GV3RPH6/?tag=tolees-21'
 descuento: '70.68'
 average: '14.75'

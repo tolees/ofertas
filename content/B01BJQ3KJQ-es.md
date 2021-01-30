@@ -16,6 +16,7 @@ comparePrice: 9 EUR
 prodname: 'NGS Fog - Ratón inalámbrico  Color Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BJQ3KJQ/?tag=tolees-21'
 descuento: '47.00'
 average: '4.77'

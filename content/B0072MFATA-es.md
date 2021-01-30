@@ -16,6 +16,7 @@ comparePrice: 10.77 EUR
 prodname: 'American Crew Classic Ultramatte Fijador Medio Sin Brillo 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0072MFATA/?tag=tolees-21'
 descuento: '45.50'
 average: '5.87'

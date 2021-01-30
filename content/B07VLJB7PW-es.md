@@ -16,6 +16,7 @@ comparePrice: 58.9 EUR
 prodname: 'Calvin Klein Medium Drawstring Bañador  Azul  Snorkel Blue CJR   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VLJB7PW/?tag=tolees-21'
 descuento: '49.58'
 average: '29.7'

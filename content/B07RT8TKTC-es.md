@@ -16,6 +16,7 @@ comparePrice: 66.98 EUR
 prodname: 'DEKO Juego de herramientas de 138 piezas Caja de Herramienta Para Hogar maletin de Herramientas de Reparación Universal con Estuche de Plástico  Incluido Nivel Torpedo Martillo Destornilladorta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RT8TKTC/?tag=tolees-21'
 descuento: '40.30'
 average: '46.656666666666666'

@@ -16,6 +16,7 @@ comparePrice: 103.97 EUR
 prodname: 'Hoover TE-75 - Aspiradora  700 W  A  27 kWh  Aspiradora cilíndrica  Bolsa para el polvo  3 5 L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CUONGY0/?tag=tolees-21'
 descuento: '32.68'
 average: '85.47294117647058'

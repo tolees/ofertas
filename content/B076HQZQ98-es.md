@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'adidas CORE18 tee T-Shirt  Hombre  Power Red/White  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076HQZQ98/?tag=tolees-21'
 descuento: '26.32'
 average: '12.893333333333333'

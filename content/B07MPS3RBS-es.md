@@ -16,6 +16,7 @@ comparePrice: 135.0 EUR
 prodname: 'Kickers Oxfordchic  Botas Slouch para Mujer  Negro  Noir Perm 82   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MPS3RBS/?tag=tolees-21'
 descuento: '82.04'
 average: '24.24'

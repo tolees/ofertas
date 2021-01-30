@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Sundis ORGAMIX A4 MM 3 cajones Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JL5EJ34/?tag=tolees-21'
 descuento: '35.02'
 average: '14.619885057471258'

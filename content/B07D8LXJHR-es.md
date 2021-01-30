@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Receptor Bluetooth Coche Amplificador HiFi 4.1 Manos Libres Kits Estéreo per Audio Adaptador con Salida Estéreo DE 3 5 mm Aux Jack para Casa y Sistema de Audio Estéreo de Coche Tarjeta del TF'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D8LXJHR/?tag=tolees-21'
 descuento: '45.02'
 average: '10.99'

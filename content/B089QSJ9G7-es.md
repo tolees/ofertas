@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Haioo Mini Ventilador USB Portátil y Silencioso Rotación 360º Ventilador PC de Mesa para Oficina/Viajar/Acampada  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089QSJ9G7/?tag=tolees-21'
 descuento: '30.79'
 average: '8.99'

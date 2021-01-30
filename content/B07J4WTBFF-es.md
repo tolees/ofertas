@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Triumph Sexy Angel Spotlight W02 Sujetador con Aros  Marfil  Silk White 00gz   90G  Talla del Fabricante: 75  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J4WTBFF/?tag=tolees-21'
 descuento: '50.99'
 average: '19.58'

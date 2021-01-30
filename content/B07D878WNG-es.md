@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'SELECTED HOMME Slhslim-Arval Med.Blue Mix Pants W Pantalones  Azul  Medium Blue Denim Medium Blue Denim   44/L32  Talla del Fabricante: 31  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D878WNG/?tag=tolees-21'
 descuento: '60.01'
 average: '30.815714285714286'

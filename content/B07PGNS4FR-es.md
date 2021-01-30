@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Ommani Encendedor Electrico  USB Encendedor de Doble Arco Recargable con Indicación de Batería  ARC Encendedor Antiviento para Cocina Cigarrillos Velas Papel sin Llama ni Olor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PGNS4FR/?tag=tolees-21'
 descuento: '50.02'
 average: '14.99'

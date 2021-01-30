@@ -16,6 +16,7 @@ comparePrice: 171.98 EUR
 prodname: 'TONGJI Vitrina de Acrílico con Luces Compatible con Lego 10266 Ideas - NASA Apollo 11 Lunar Lander  Vitrina A Prueba De Polvo  Modelo No Incluido '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083SMSGMB/?tag=tolees-21'
 descuento: '50.00'
 average: '85.99'

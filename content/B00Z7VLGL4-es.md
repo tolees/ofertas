@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Exzact Básculas de Cocina/Balanza Electrónica/Escala Electrónica con Pantalla Grande y con Cuenco de Acero Inoxidable - 5kg/11lb  EX4350 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00Z7VLGL4/?tag=tolees-21'
 descuento: '37.51'
 average: '22.74'

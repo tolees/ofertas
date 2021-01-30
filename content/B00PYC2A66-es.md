@@ -16,6 +16,7 @@ comparePrice: 12.0 EUR
 prodname: 'Ritchey WCS Puños Manillar  Unisex Adulto  Naranja  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PYC2A66/?tag=tolees-21'
 descuento: '26.25'
 average: '8.85'

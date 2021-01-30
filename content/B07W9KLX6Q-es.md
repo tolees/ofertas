@@ -16,6 +16,7 @@ comparePrice: 83.21 EUR
 prodname: 'Auriculares inalámbricos Philips SHB2515BK/10 auriculares Bluetooth  Bluetooth  micrófono integrado  larga duración de la batería  cancelación del ruido  3 tipos de cascos   color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W9KLX6Q/?tag=tolees-21'
 descuento: '39.92'
 average: '57.49'

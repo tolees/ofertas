@@ -16,6 +16,7 @@ comparePrice: 40.87 EUR
 prodname: 'Joseph Joseph Tablas de Cortar  Plata  Mediano  4 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N0V6SP5/?tag=tolees-21'
 descuento: '27.40'
 average: '29.67'

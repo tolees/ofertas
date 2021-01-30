@@ -16,6 +16,7 @@ comparePrice: 61.88 EUR
 prodname: 'Casio Reloj de pulsera A158WEA-1EF'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005FEY3V8/?tag=tolees-21'
 descuento: '54.75'
 average: '25.95'

@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Puma LIGA Casuals Shorts  Pantalones Cortos  Hombre  Gris  Medium Gray Heather-Puma Black   3XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078TP4W6S/?tag=tolees-21'
 descuento: '57.36'
 average: '13.483333333333333'

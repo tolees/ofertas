@@ -16,6 +16,7 @@ comparePrice: 165.0 EUR
 prodname: 'SAMSONITE Karissa Biz - Bailhandle 15.6" 2 Computer Maletín  41 cm  16 Liters  Negro  Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073JCS7CY/?tag=tolees-21'
 descuento: '25.71'
 average: '114.72'

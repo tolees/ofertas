@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'POP! Vinilo - UFC: Chris Weidman'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01E02TDO2/?tag=tolees-21'
 descuento: '53.37'
 average: '6.99'

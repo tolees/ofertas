@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'The North Face 24/7 Short Pantalones Cortos para Mujer  Negro  TNF Black   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LH7L8T3/?tag=tolees-21'
 descuento: '64.33'
 average: '14.27'

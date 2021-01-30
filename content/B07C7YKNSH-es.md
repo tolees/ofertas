@@ -16,6 +16,7 @@ comparePrice: 42.74 EUR
 prodname: 'Ao International Tennis'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C7YKNSH/?tag=tolees-21'
 descuento: '57.88'
 average: '18'

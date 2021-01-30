@@ -16,6 +16,7 @@ comparePrice: 233.99 EUR
 prodname: 'Focusrite Scarlett Solo Studio 3rd Gen  Interfaz de Audio  Micrófono de Condensador y Auriculares  USB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QTDKS59/?tag=tolees-21'
 descuento: '37.34'
 average: '146.61'

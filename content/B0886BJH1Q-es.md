@@ -16,6 +16,7 @@ comparePrice: 9.93 EUR
 prodname: 'Niños Desechables de Filtro de Tres Capas con Pendientes Elásticos  50pcs  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0886BJH1Q/?tag=tolees-21'
 descuento: '29.71'
 average: '6.98'

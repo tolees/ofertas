@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'REARAND Relaja la Almohada ， Es una Increíble solución para aliviar de Forma Natural y Segura los Dolores de Cuello y Hombros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072LQGWBD/?tag=tolees-21'
 descuento: '34.63'
 average: '16.99'

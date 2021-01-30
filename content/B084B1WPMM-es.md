@@ -16,6 +16,7 @@ comparePrice: 26.2 EUR
 prodname: 'Lubricante Intimo Durex Gel Original 2 x 100 ml | Lubricante al agua Durex'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084B1WPMM/?tag=tolees-21'
 descuento: '30.00'
 average: '18.34'

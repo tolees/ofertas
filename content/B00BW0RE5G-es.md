@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'POP! Vinilo - BTTF: Marty McFly'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BW0RE5G/?tag=tolees-21'
 descuento: '44.96'
 average: '8.375'

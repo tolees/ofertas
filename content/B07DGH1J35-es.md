@@ -16,6 +16,7 @@ comparePrice: 109.07 EUR
 prodname: 'Dreaming Kamahaus Damas Colchón  67 5x190'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DGH1J35/?tag=tolees-21'
 descuento: '53.49'
 average: '50.73'

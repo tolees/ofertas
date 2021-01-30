@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Kalolary 2 en 1 Diseños UV PolyGel Poly Gel Nail Brush Dual-ended Slice Shape Nail Art Tool Cepillos Polygel Herramienta de clavos para el gel UV de PolyGel Uñas Extensión Multifunal'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TXTLBFF/?tag=tolees-21'
 descuento: '52.71'
 average: '8.98'

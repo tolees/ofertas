@@ -16,6 +16,7 @@ comparePrice: 12.7 EUR
 prodname: 'SOLARAY® Zinc Citrate 50  60 VegCaps.  Contribuye al normal funcionamiento del sistema inmunitario y a la protección de las células frente al daño oxidativo. Sin gluten. Apto para veganos.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000QS7H0M/?tag=tolees-21'
 descuento: '27.48'
 average: '9.21'

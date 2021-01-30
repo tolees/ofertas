@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Calvin Klein Carousel-Bikini Sujetador  Negro  BLACK 001   Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00F4AVPGY/?tag=tolees-21'
 descuento: '33.18'
 average: '9.899090909090908'

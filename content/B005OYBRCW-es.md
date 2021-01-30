@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Roncato Maleta Pequeña XS Rigida Light - Cabina cm. 55 x 40 x 20 Capacidad 41 L  Organización Interna  Cierre TSA  Aprobado para: Ryanair Easyjet Lufthansa  Garantìa 10 años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005OYBRCW/?tag=tolees-21'
 descuento: '30.00'
 average: '90.3'

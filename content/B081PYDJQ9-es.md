@@ -16,6 +16,7 @@ comparePrice: 26.06 EUR
 prodname: 'Pllieay - 60 palos de bambú natural para manualidades  39 cm de largo x 0 95 cm de ancho '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081PYDJQ9/?tag=tolees-21'
 descuento: '41.56'
 average: '15.183333333333334'

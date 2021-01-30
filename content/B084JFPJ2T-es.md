@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'TOUS Colgante San Valentín Llave de Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084JFPJ2T/?tag=tolees-21'
 descuento: '30.00'
 average: '41.3'

@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'G-STAR RAW Rovulc Denim Low Sneakers  Zapatillas para Hombre  Azul  Blue  Dk Navy 881   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074HF4NFD/?tag=tolees-21'
 descuento: '64.59'
 average: '25.85'

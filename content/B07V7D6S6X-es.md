@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Cojín para Silla Oficina  Cojín Ortopédico y Ergonómico  Cojín Coxis  Cojín Silla de Ruedas y Coches  Alivia Presión y Fatiga  Dolores de Ciática  Hemorroides  Espalda  Dimensión Grande'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V7D6S6X/?tag=tolees-21'
 descuento: '32.51'
 average: '26.32333333333333'

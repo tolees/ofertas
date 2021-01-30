@@ -16,6 +16,7 @@ comparePrice: 109.95 EUR
 prodname: 'adidas EQT Gazelle  Zapatillas de Gimnasia para Hombre  Azul  Collegiate Navy/Matte Silver/Ash Grey S18 Collegiate Navy/Matte Silver/Ash Grey S18   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07STFPGNM/?tag=tolees-21'
 descuento: '73.28'
 average: '29.38'

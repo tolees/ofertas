@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'Filtro para Ducha Universal  AUELEK 10 Etapas Filtro Reemplazable Purificador Ducha de Alta Salida para Cuide su Piel Cabello y Cuerpo Salud'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CG4L82S/?tag=tolees-21'
 descuento: '48.66'
 average: '19.13285714285714'

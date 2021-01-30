@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Columbia Vapor Vent  Zapatillas de Senderismo para Mujer  Negro  Black  Dark Mirage   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HFGG6W2/?tag=tolees-21'
 descuento: '60.10'
 average: '31.92'

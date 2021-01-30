@@ -16,6 +16,7 @@ comparePrice: 4.6 EUR
 prodname: 'Instituto Español Piel Sana Crema Corporal Hidratante - 400 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06ZZQFQKQ/?tag=tolees-21'
 descuento: '35.00'
 average: '2.99'

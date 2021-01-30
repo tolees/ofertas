@@ -16,6 +16,7 @@ comparePrice: 50.15 EUR
 prodname: 'dreamlock Pedales con articulado de construcción 261 pcs AZ 6803'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JK63LH3/?tag=tolees-21'
 descuento: '37.93'
 average: '30.52846153846154'

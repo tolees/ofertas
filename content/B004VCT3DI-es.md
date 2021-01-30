@@ -16,6 +16,7 @@ comparePrice: 8.0 EUR
 prodname: 'Sony Mdre9Lpl - Auriculares de Botón  Blanco y Azul  5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004VCT3DI/?tag=tolees-21'
 descuento: '25.00'
 average: '5.495'

@@ -16,6 +16,7 @@ comparePrice: 4.71 EUR
 prodname: 'TooQ TQR-208B - Lector Interno de Tarjetas de Memoria  CF  MS  SD  SDXC  microSDXC  X-Memory  TF  Micro SD  y M2   3.5"  USB 2.0  Color Negro  chasis metalico  480Mbps.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005E0EJDK/?tag=tolees-21'
 descuento: '36.94'
 average: '2.97'

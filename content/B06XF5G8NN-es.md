@@ -16,6 +16,7 @@ comparePrice: 28.87 EUR
 prodname: 'Arcilla Seca al Aire  24 Colores Arcilla de Modelado Ultra Ligero  arcilla mágica iFergoo DIY Creativa Modeladora de Masa con Modos de Frutas y Herramientas de Arcilla de Modelado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XF5G8NN/?tag=tolees-21'
 descuento: '50.29'
 average: '17.439999999999998'

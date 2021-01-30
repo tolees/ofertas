@@ -16,6 +16,7 @@ comparePrice: 74.99 EUR
 prodname: 'Columbia SANTIAM 2 Strap  Zapatillas para Hombre  Gris  Dark Grey  Rusty 089   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073RMDNLH/?tag=tolees-21'
 descuento: '36.00'
 average: '47.99'

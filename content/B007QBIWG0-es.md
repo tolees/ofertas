@@ -16,6 +16,7 @@ comparePrice: 168.31 EUR
 prodname: 'Grohe Eurocube- Grifo de Bide de Una Planca  acabado cromado  5.1 cm  tamaño S  Ref. 23138000 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007QBIWG0/?tag=tolees-21'
 descuento: '28.72'
 average: '119.97'

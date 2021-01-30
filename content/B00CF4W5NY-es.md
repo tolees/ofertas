@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Nike W React Element 55  Zapatillas de Running para Mujer  Negro  Black/White 003   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CF4W5NY/?tag=tolees-21'
 descuento: '49.64'
 average: '65.47'

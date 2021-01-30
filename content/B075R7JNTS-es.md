@@ -16,6 +16,7 @@ comparePrice: 53.12 EUR
 prodname: 'New Balance Fresh Foam Cruz v2 Knit m  Zapatillas para Mujer  Negro  Black/Magnet/White Munsell Kb2   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075R7JNTS/?tag=tolees-21'
 descuento: '30.37'
 average: '35.403333333333336'

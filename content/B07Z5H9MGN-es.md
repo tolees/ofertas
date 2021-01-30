@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Salomon Speedcross 4  Zapatillas de Trail Running para Hombre  Negro  Black/Goji Berry/Red Orange   43 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z5H9MGN/?tag=tolees-21'
 descuento: '30.82'
 average: '83.02'

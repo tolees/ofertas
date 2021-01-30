@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Benkeg Luz Bicicleta Recargable USB  Linterna Bicicleta Impermeable con Luz Bicicleta Delantera y Campana  luz delantera de bicicleta con sirena de sonido de 5 modos  3 modos de iluminación'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B7TWBGF/?tag=tolees-21'
 descuento: '50.03'
 average: '16.765'

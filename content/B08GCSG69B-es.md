@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Bluelucon 1 Unidad de paños faciales de protección Facial Lavables Reutilizables de Color Impresión con Correa elástica Transpirable a Prueba de Polvo para Mujeres y Hombres'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08GCSG69B/?tag=tolees-21'
 descuento: '78.98'
 average: '1.89'

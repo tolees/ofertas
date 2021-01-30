@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Elli Pendientes para dama forma geométrica con cristales Swarovski® en plata de ley 925'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N8VGYXR/?tag=tolees-21'
 descuento: '34.69'
 average: '26.06'

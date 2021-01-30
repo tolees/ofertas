@@ -16,6 +16,7 @@ comparePrice: 54.94 EUR
 prodname: 'Nike Revolution 5  Zapatillas de Atletismo para Hombre  Azul  Midnight Navy White Dark Obsidian   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NLD8QLP/?tag=tolees-21'
 descuento: '40.03'
 average: '32.95'

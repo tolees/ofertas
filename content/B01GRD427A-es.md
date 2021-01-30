@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Columbia Childrens Newton Ridge  Botas de Senderismo Infantil  Negro  Black/ Mountain Red   31 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GRD427A/?tag=tolees-21'
 descuento: '74.63'
 average: '20.29'

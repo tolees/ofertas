@@ -16,6 +16,7 @@ comparePrice: 16.88 EUR
 prodname: 'Funda Transparente Compatible para Galaxy A9 Star Lite Carcasa Suave Silicona TPU Gel Dibujos Animal Ultra Fina Anti Choques y Anti Arañazos Clear Bumper Case Cover para Galaxy A9 Star Lite A18'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0872PRT5Y/?tag=tolees-21'
 descuento: '52.73'
 average: '7.98'

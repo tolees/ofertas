@@ -16,6 +16,7 @@ comparePrice: 57.95 EUR
 prodname: 'Mobiclinic  Timón  Silla con WC o inodoro para discapacitados  ancianos  minusválidos  Plegable  Reposabrazos  Asiento ergonómico  Conteras antideslizates'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077JXHW4M/?tag=tolees-21'
 descuento: '37.96'
 average: '46.975'

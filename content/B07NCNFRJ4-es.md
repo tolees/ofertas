@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Bandolera Pepe Jeans Raw cruzada para hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NCNFRJ4/?tag=tolees-21'
 descuento: '30.05'
 average: '19.918'

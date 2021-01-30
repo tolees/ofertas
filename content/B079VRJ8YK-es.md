@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Bizak-61921455 Día de Playa   61921455 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079VRJ8YK/?tag=tolees-21'
 descuento: '47.18'
 average: '11.76'

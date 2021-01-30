@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'L ATELIER DU SOURIRE Kit de blanqueamiento dental profesional - Kit completo para hacer 10 blanqueamientos dentales en casa  kit de blanqueamiento   Carbón y menta  Kit de blanqueamiento '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G8PTF98/?tag=tolees-21'
 descuento: '50.06'
 average: '39.9'

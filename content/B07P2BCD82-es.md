@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Superdry OL Elite Ziphood Capucha  Gris  Slate 07x   XX-Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P2BCD82/?tag=tolees-21'
 descuento: '75.05'
 average: '19.96'

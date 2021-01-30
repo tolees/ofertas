@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Under Armour UA W Skylar 2  Zapatillas de Running para Mujer  Blanco  White/Halo Gray/Halo Gray   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q13N3CF/?tag=tolees-21'
 descuento: '50.99'
 average: '31.83'

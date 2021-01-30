@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Kipling Creativity S  Cartera para Mujer  Negro  Charcoal   14.5x9.5x5 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TXWRLS4/?tag=tolees-21'
 descuento: '64.31'
 average: '10.675'

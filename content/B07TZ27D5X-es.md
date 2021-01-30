@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Wrangler High Rise Skinny Jeans  Negro  Black Sea 45a   29W / 32L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZ27D5X/?tag=tolees-21'
 descuento: '40.02'
 average: '53.95'

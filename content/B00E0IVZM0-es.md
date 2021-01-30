@@ -16,6 +16,7 @@ comparePrice: 11.5 EUR
 prodname: 'Bosch 2607017180 - Atornillador manual con puntas de atornillar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00E0IVZM0/?tag=tolees-21'
 descuento: '48.26'
 average: '5.95'

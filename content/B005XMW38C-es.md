@@ -16,6 +16,7 @@ comparePrice: 35.5 EUR
 prodname: 'DIM Generous Sujetador  Negro  105B para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005XMW38C/?tag=tolees-21'
 descuento: '74.65'
 average: '9.0'

@@ -16,6 +16,7 @@ comparePrice: 14.9 EUR
 prodname: 'Harissa mezcla de especias 250g de polvo picante de especias I especialidad norteafricana de alta calidad para la producción de pasta Harissa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XVZ6S7G/?tag=tolees-21'
 descuento: '26.85'
 average: '10.9'

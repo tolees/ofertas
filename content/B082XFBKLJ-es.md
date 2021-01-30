@@ -16,6 +16,7 @@ comparePrice: 6.63 EUR
 prodname: 'Doble verde esmeralda rodillo elíptico masajeador ojo cuello cuidado de la salud cara delgada herramientas de belleza OPP embalaje/verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082XFBKLJ/?tag=tolees-21'
 descuento: '34.99'
 average: '4.31'

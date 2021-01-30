@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee Luke Jeans  Clean Black  29W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009WOB5EU/?tag=tolees-21'
 descuento: '76.63'
 average: '26.67666666666667'

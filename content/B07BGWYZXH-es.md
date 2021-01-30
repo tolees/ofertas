@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Máscara para los ojos  Parches para los ojos  Ojos Parches  Contorno de Ojos Antiarrugas  Anti edad para ojeras bolsas patas de gallo e hinchazón  30 pares'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BGWYZXH/?tag=tolees-21'
 descuento: '43.35'
 average: '16.865'

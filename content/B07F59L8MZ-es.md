@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'alambre manualidades 8pcs ZoomSky 0.4mm para hacer bisutería de número de 26 alambre aluminio de joyería manejable fácil con regalo de alicate pequeña'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F59L8MZ/?tag=tolees-21'
 descuento: '47.52'
 average: '9.823333333333332'

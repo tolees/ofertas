@@ -16,6 +16,7 @@ comparePrice: 11.0 EUR
 prodname: 'La Toja - Espuma Afeitado Protect 7 - Enriquecida con Micro Aceites y Sales Minerales - 4 unidades de 300ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N3XXWF9/?tag=tolees-21'
 descuento: '75.36'
 average: '4.015000000000001'

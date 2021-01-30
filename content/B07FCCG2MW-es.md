@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'G9 Led Bulb 3W  Bombilla Led G9 Pursnic  equivalente a halógeno de 33W   blanco frío 6000k  ángulo de haz de 360 °  lámpara g9 para iluminación del hogar  paquete de 6'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FCCG2MW/?tag=tolees-21'
 descuento: '45.85'
 average: '12.99'

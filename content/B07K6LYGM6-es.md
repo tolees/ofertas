@@ -16,6 +16,7 @@ comparePrice: 180.0 EUR
 prodname: 'Asics Gel-Nimbus 21  Zapatillas de Running para Mujer  Gris  Dark Mid Grey 021   39.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K6LYGM6/?tag=tolees-21'
 descuento: '30.57'
 average: '124.98'

@@ -16,6 +16,7 @@ comparePrice: 6.17 EUR
 prodname: 'Panamami 6 Tamaño diferente Forma redonda Práctico Punto de cruz de madera Máquina Anillo de aro de bordado Accesorio de herramienta de costura de bambú'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0842P9DPN/?tag=tolees-21'
 descuento: '35.01'
 average: '4.01'

@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'Candy CMXG22DS Microondas con Grill y Cook In App  40 programas automáticos  plato giratorio 24.5 cm  800 W-1000 W  22 litros  silver'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01J7OV4EU/?tag=tolees-21'
 descuento: '42.92'
 average: '74.324'

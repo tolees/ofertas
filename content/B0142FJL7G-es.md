@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Garmin Forerunner 25 Reloj Deportivo  Negro/Rojo  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0142FJL7G/?tag=tolees-21'
 descuento: '46.83'
 average: '79.4775'

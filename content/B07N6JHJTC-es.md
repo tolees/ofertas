@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Baseus Hub Tipo C de 5 Puertos de Datos Ultrafino de Aluminio USB Data Hub 3 Puertos USB 3.0 y 2 Puertos USB 2.0 para Apple MacBook Air  Mac Pro/Mini  Microsoft Surface Pro  DELL XPS 15  Tipo C '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N6JHJTC/?tag=tolees-21'
 descuento: '38.49'
 average: '13.719999999999999'

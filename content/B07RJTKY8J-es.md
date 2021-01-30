@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Columbia Sandal  Sandalia para Hombre  Azul  Petrol Blue  Golden Yellow 403   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RJTKY8J/?tag=tolees-21'
 descuento: '50.06'
 average: '34.95'

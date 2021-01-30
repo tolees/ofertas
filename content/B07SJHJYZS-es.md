@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'adidas VL Court 2.0  Zapatillas para Mujer  Rosa  Glow Pink/Footwear White/Cloud White 0   39 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SJHJYZS/?tag=tolees-21'
 descuento: '31.57'
 average: '47.87'

@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Skechers Segment-Garnet 65573  Botas Chukka para Hombre  Marrón  Dark Brown CDB   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B6JYDJ7/?tag=tolees-21'
 descuento: '44.12'
 average: '50.26'

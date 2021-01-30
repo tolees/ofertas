@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Tommy Hilfiger Th Rib Scarf Bufanda   Blue Cjm   Talla única  Talla del fabricante: OS  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N6MLSB9/?tag=tolees-21'
 descuento: '51.59'
 average: '29.0'

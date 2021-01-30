@@ -16,6 +16,7 @@ comparePrice: 82.59 EUR
 prodname: 'BOSS - Arezzo  Carteras Hombre  Negro  Schwarz   1x1x1 cm  B x H T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00H7HA7DY/?tag=tolees-21'
 descuento: '32.20'
 average: '56.0'

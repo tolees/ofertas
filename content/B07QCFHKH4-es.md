@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Lacoste Lerond 119  Zapatillas para Hombre  Azul  Navy 737cma00457a2   47 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QCFHKH4/?tag=tolees-21'
 descuento: '30.78'
 average: '69.21'

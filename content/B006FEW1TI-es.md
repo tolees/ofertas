@@ -16,6 +16,7 @@ comparePrice: 14.69 EUR
 prodname: 'Tayg - Estante con clasificador apilable 9 cajones'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006FEW1TI/?tag=tolees-21'
 descuento: '32.61'
 average: '9.9'

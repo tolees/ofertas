@@ -16,6 +16,7 @@ comparePrice: 383.9 EUR
 prodname: 'HP CF361X 508X Cartucho de Tóner Original de alto rendimiento  1 unidad  cian'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UBMOKJE/?tag=tolees-21'
 descuento: '37.61'
 average: '261.83'

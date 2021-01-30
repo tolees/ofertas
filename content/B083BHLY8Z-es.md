@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Camicia Dottore/Dottoressa Accessori Valigetta Dottore Bambini Costume da Dottore per Giocattoli Bambino 3 4 5 Anni BUON Materiale  …'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083BHLY8Z/?tag=tolees-21'
 descuento: '60.62'
 average: '12.99'

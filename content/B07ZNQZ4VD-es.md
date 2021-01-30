@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'BRIKSMAX Kit de Iluminación Led para Lego Star Wars Caza Tie del Mayor Vonreg Compatible con Ladrillos de Construcción Lego Modelo 75240  Juego de Legos no Incluido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZNQZ4VD/?tag=tolees-21'
 descuento: '35.72'
 average: '44.99'

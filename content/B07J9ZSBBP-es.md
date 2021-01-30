@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'World of Warcraft: Battle For Azeroth - Standard | Código Battle.net para PC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J9ZSBBP/?tag=tolees-21'
 descuento: '55.57'
 average: '24.990000000000002'

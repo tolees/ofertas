@@ -16,6 +16,7 @@ comparePrice: 105.0 EUR
 prodname: 'Pack Los Soprano Temporada 1-6 Blu-Ray [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00L8ZH9NW/?tag=tolees-21'
 descuento: '30.01'
 average: '68.10166666666666'

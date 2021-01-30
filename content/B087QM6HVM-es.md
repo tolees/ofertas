@@ -16,6 +16,7 @@ comparePrice: 9.48 EUR
 prodname: 'Dani - Estragón hoja - Pack 12 x 8g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087QM6HVM/?tag=tolees-21'
 descuento: '36.39'
 average: '6.03'

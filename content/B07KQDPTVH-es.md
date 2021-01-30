@@ -16,6 +16,7 @@ comparePrice: 499.99 EUR
 prodname: 'FIT-FORCE Cinta de Correr Plegable 1600W Velocidad hasta 15KM con Entrada de Mp3 y Dos Altavoces 1.5CV'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KQDPTVH/?tag=tolees-21'
 descuento: '46.00'
 average: '269.99'

@@ -16,6 +16,7 @@ comparePrice: 11.59 EUR
 prodname: 'BOWFU Funda para Samsung Galaxy A51 5G Case 【Silicona Suave TPU Bumper】【Transparente Duro PC】【Anillo de Metal Integrado】 Hybrid Cover para Samsung Galaxy A51 5G-Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0894MXDQZ/?tag=tolees-21'
 descuento: '60.48'
 average: '4.58'

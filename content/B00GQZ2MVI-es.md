@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Reticare 352T-3500-B - Protector de ojos para tablets de 18 x 25 cm  intensive'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GQZ2MVI/?tag=tolees-21'
 descuento: '34.72'
 average: '13.653333333333332'

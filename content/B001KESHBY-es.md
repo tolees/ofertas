@@ -16,6 +16,7 @@ comparePrice: 175.0 EUR
 prodname: 'Reloj Seiko - Hombre SNKE49K1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001KESHBY/?tag=tolees-21'
 descuento: '43.43'
 average: '99.0'

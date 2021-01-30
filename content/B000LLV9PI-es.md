@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Joydivision Bioglide Lubricante Anal - 80 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000LLV9PI/?tag=tolees-21'
 descuento: '67.04'
 average: '6.56'

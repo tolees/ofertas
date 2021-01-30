@@ -16,6 +16,7 @@ comparePrice: 34.0 EUR
 prodname: 'RioRiva En caja de regalo  los calcetines para hombre con pedrería en 90% algodón  bonito diseño en la pantorrilla  estilo colorido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KUKQAQW/?tag=tolees-21'
 descuento: '32.38'
 average: '22.99'

@@ -16,6 +16,7 @@ comparePrice: 44.19 EUR
 prodname: 'JULIUS-K9 Arnés Julius-K9 IDC  2/L–XL  71–96 cm/50 mm  Camuflaje  Perro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00A9XBEU8/?tag=tolees-21'
 descuento: '41.19'
 average: '21.86'

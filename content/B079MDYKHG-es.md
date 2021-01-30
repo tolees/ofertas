@@ -16,6 +16,7 @@ comparePrice: 84.95 EUR
 prodname: 'Salomon Speedcross CSWP J  Zapatillas de Trail Running Unisex Niños  Azul/Negro  Indigo Bunting/Sky Diver/White   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079MDYKHG/?tag=tolees-21'
 descuento: '29.39'
 average: '59.98'

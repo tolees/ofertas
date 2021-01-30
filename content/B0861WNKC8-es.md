@@ -16,6 +16,7 @@ comparePrice: 1499.0 EUR
 prodname: 'LG gram 15Z90N-V-AP72B - Ordenador portátil ultraligero de 15.6" FullHD IPS  Intel Core i7-1065G7  8GB RAM  256GB SSD  Windows 10 Pro  Plata - Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0861WNKC8/?tag=tolees-21'
 descuento: '36.01'
 average: '1074.175'

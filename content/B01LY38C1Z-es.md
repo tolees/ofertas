@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Skechers Women 12615 Low-Top Trainers  Grey  Charcoal Mesh/Green Trim Ccgr   4 UK  37 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LY38C1Z/?tag=tolees-21'
 descuento: '30.03'
 average: '34.95'

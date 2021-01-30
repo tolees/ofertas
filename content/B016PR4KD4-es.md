@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'LIFETIME 80471 - Mesa plegable multiusos ultrarresistente 184x76x73 5 cm UV100'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016PR4KD4/?tag=tolees-21'
 descuento: '29.95'
 average: '34.99'

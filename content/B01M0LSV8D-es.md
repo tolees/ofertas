@@ -16,6 +16,7 @@ comparePrice: 8.9 EUR
 prodname: 'Ewent EW1052 - Lector de Tarjetas electrónicas Compatible con Windows/Mac  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M0LSV8D/?tag=tolees-21'
 descuento: '55.06'
 average: '5.495'

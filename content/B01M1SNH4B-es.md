@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Trust GXT 570 - Volante Gaming de Competición con Respuesta de Vibración para Pc y Ps3  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M1SNH4B/?tag=tolees-21'
 descuento: '32.53'
 average: '29.0'

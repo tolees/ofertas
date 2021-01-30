@@ -16,6 +16,7 @@ comparePrice: 17.95 EUR
 prodname: 'Disney Pijamas de Manga Larga para niños The Incredibles Ajuste Ceñido Rojo 2-3 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K8QGSPZ/?tag=tolees-21'
 descuento: '27.86'
 average: '12.95'

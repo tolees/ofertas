@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Di4 Stiro Plancha de vapor con suela acero inoxidable y doble sistema antical  2200 W  Blanco/Rojo/Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0723CJHBC/?tag=tolees-21'
 descuento: '28.58'
 average: '19.99'

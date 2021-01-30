@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'Hoya Pro 1 Digital - Filtro polarizador para Objetivos de 58 mm  Montura Negra'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000KL7J3A/?tag=tolees-21'
 descuento: '45.58'
 average: '31.62'

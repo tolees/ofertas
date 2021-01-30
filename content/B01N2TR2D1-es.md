@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'WITHLIN Paquete de fotografía profesional - deporte bandolera con cadena de seguridad para cámaras SLR réflex DIGITAL  Canon Nikon Sony Olympus Pentax  etc '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N2TR2D1/?tag=tolees-21'
 descuento: '55.00'
 average: '10.299999999999999'

@@ -16,6 +16,7 @@ comparePrice: 101.0 EUR
 prodname: 'Nike Air MAX Graviton  Zapatillas de Running para Asfalto para Hombre  Blanco White Univ Red Black 100  41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RMB91DJ/?tag=tolees-21'
 descuento: '33.37'
 average: '67.3'

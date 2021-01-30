@@ -16,6 +16,7 @@ comparePrice: 105.06 EUR
 prodname: 'Mesa auxiliar de cama plegable  reclinable y con ruedas y freno color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071LB2DHW/?tag=tolees-21'
 descuento: '29.64'
 average: '77.97142857142856'

@@ -16,6 +16,7 @@ comparePrice: 399.0 EUR
 prodname: 'Beurer IPL-10000 + - Depiladora de luz  pulsada con base  incluye cartucho de 250.000 pulsaciones'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MOIX3SC/?tag=tolees-21'
 descuento: '41.11'
 average: '270.34000000000003'

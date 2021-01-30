@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Adidas Falcon W  Zapatillas de Gimnasia para Mujer  Multicolor  Black Cblack/Cblack/Ftwwht   39 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DP7QPJS/?tag=tolees-21'
 descuento: '47.22'
 average: '50.71333333333333'

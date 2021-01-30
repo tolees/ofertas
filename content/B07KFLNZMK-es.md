@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'adidas Grand Court  Zapatillas de Running para Hombre  Multicolor  Ftwr White/Core Black/Ftwr White F36392   42 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFLNZMK/?tag=tolees-21'
 descuento: '37.08'
 average: '44.01'

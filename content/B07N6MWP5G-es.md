@@ -16,6 +16,7 @@ comparePrice: 80 EUR
 prodname: 'DUNLOP Sting 360 2.0 2019  Adultos Unisex  Multicolor  Talla Unica'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N6MWP5G/?tag=tolees-21'
 descuento: '46.03'
 average: '43.18'

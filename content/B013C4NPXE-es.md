@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'adidas Stan Smith S75104  Zapatillas para Hombre  Blanco  White   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013C4NPXE/?tag=tolees-21'
 descuento: '39.45'
 average: '62.495000000000005'

@@ -16,6 +16,7 @@ comparePrice: 139 EUR
 prodname: 'Samsonite - Base Boost - Spinner Maleta 78 cm  113 L  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LXFCAZR/?tag=tolees-21'
 descuento: '30.00'
 average: '97.3'

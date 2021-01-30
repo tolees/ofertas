@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Kekai KT0586 - Estufa de Gas Blanco Termopatio Tower 13 Kw.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WQHHBLC/?tag=tolees-21'
 descuento: '34.70'
 average: '129.95'

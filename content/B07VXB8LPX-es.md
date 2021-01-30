@@ -16,6 +16,7 @@ comparePrice: 192.45 EUR
 prodname: 'Plastimyr 5970077  Bañera con Cajones y Cambiador  de 0 a 12 meses  Blanco/Gris  82 × 53 × 107 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VXB8LPX/?tag=tolees-21'
 descuento: '41.73'
 average: '110.18333333333334'

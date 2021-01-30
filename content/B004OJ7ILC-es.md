@@ -16,6 +16,7 @@ comparePrice: 82.76 EUR
 prodname: 'Holzstar 5900009 Lijadora de disco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004OJ7ILC/?tag=tolees-21'
 descuento: '42.48'
 average: '47.6'

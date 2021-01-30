@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Tira LED 2.2 m  Tiray Ledy Tiras LED Impermeable Tira de LED Retroiluminación LED de TV USB Tira De Luz con Control Remoto de 24 Botones para TV  40 a 65 pulgadas  HDTV  y Monitor de PC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HDZKWMT/?tag=tolees-21'
 descuento: '33.36'
 average: '10.99'

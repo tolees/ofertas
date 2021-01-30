@@ -16,6 +16,7 @@ comparePrice: 81.9 EUR
 prodname: 'Pasito a pasito 73757 - Maleta acolchada Inés  color rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XPQ9QFF/?tag=tolees-21'
 descuento: '27.96'
 average: '54.095'

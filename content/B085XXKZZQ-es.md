@@ -16,6 +16,7 @@ comparePrice: 27.32 EUR
 prodname: 'Mini Ventiladores de Sobremesa  Ventilador USB de Escritorio  Ventilador 360 ° Rotación Ventilador de Mesa Silencioso  Ventilador USB 3 Ajustable para Oficina  Hogar  Viaje（Negro）'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085XXKZZQ/?tag=tolees-21'
 descuento: '34.15'
 average: '18.389999999999997'

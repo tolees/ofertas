@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Razer Lancehead Tournament Edition - Ratón para gaming ambidextro  sensor láser con 16000 DPI  switches mecánicos  retroiluminación RGB Chroma   color Quartz  Rosa '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077SBDMBV/?tag=tolees-21'
 descuento: '28.89'
 average: '60.49'

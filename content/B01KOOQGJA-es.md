@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Weider Vegan Protein. Sabor Cappuccino. Proteína 100% vegetal de guisante  PISANE  y arroz. Sin gluten. Sin lactosa. Sin aceite de palma  750 g '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KOOQGJA/?tag=tolees-21'
 descuento: '30.51'
 average: '16.67'

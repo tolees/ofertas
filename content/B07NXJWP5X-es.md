@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'Skechers Dyna-Lights  Zapatillas para Niños  Azul  Navy Mesh/Orange Trim Nvor   32 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NXJWP5X/?tag=tolees-21'
 descuento: '26.70'
 average: '32.95'

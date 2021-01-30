@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Jack & Jones Jcomilla Sweat Hood Capucha  Multicolor  Light Grey Melange Detail:w. Black   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WBZWC7J/?tag=tolees-21'
 descuento: '64.42'
 average: '14.605'

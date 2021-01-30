@@ -16,6 +16,7 @@ comparePrice: 5.99 EUR
 prodname: 'Maybelline New York - Color Sensational  Pintalabios Mate Hidratante  Tono 10 Nocturnal Rose'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078LLD5M5/?tag=tolees-21'
 descuento: '50.75'
 average: '2.95'

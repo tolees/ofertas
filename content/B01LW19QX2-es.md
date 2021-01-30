@@ -16,6 +16,7 @@ comparePrice: 299.99 EUR
 prodname: 'Rollei C6i Trípode Carbono'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LW19QX2/?tag=tolees-21'
 descuento: '51.34'
 average: '145.97'

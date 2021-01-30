@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Philips In Ear Sport ST702BK/00 True Wireless Sports  Bluetooth  18 Horas de autonomía  función de autolimpieza UV  Impermeables  Resistentes al Sudor   Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z89CSXX/?tag=tolees-21'
 descuento: '40.00'
 average: '119.99'

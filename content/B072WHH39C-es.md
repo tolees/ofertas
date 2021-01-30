@@ -16,6 +16,7 @@ comparePrice: 116.9 EUR
 prodname: 'CLP Baúl De Almacenamiento Millie I Consola Baúl De Madera I Cómoda - Banco Almacenamiento De Recibidor I Baúl De Entrada I Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072WHH39C/?tag=tolees-21'
 descuento: '33.36'
 average: '77.9'

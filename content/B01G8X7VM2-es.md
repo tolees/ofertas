@@ -16,6 +16,7 @@ comparePrice: 21.11 EUR
 prodname: 'BBC micro: bit go'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01G8X7VM2/?tag=tolees-21'
 descuento: '25.77'
 average: '18.105833333333333'

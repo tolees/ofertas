@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'Belmont Plus: Maleta DE Cabina 4 Ruedas Dobles 55 CM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N39P9SY/?tag=tolees-21'
 descuento: '53.83'
 average: '65.04333333333334'

@@ -16,6 +16,7 @@ comparePrice: 15.42 EUR
 prodname: 'Paycheck [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0053C7ZNU/?tag=tolees-21'
 descuento: '48.18'
 average: '11.99'

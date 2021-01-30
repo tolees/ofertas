@@ -16,6 +16,7 @@ comparePrice: 5.99 EUR
 prodname: '5 Star 424410  Mini Dispensador de cinta  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004VUV7HU/?tag=tolees-21'
 descuento: '37.90'
 average: '3.72'

@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Ferilinso Funda para Xiaomi Mi 9T Pro/Mi 9T Funda [Reforzar la versión con Cuatro Esquinas][Funda Protectora de la cámara] Funda Protectora de Silicona de Piel de Goma TPU a Prueba  Transparente '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SC3FHQK/?tag=tolees-21'
 descuento: '41.26'
 average: '9.971428571428572'

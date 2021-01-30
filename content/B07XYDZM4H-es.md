@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Proze Sport Auriculares Inalámbricos Bluetooth con Micrófono 8H IPX7 In Ear con Gancho para la Oreja  Rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XYDZM4H/?tag=tolees-21'
 descuento: '36.73'
 average: '18.95'

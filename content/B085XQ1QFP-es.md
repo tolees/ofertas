@@ -16,6 +16,7 @@ comparePrice: 27.26 EUR
 prodname: 'Calcetines deportivos largos de J color  unisex  mitad acolchada  rodilla  de compresión atlética  de fútbol  de compresión deportiva  para adultos  color azul marino + rayas blancas  2 pares'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085XQ1QFP/?tag=tolees-21'
 descuento: '66.69'
 average: '9.08'

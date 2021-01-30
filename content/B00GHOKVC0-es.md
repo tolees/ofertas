@@ -16,6 +16,7 @@ comparePrice: 45.56 EUR
 prodname: 'Concordia'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GHOKVC0/?tag=tolees-21'
 descuento: '36.81'
 average: '28.79'

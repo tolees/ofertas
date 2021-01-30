@@ -16,6 +16,7 @@ comparePrice: 380.0 EUR
 prodname: 'Seiko Reloj Cronógrafo para Hombre de Energía Solar con Correa en Acero Inoxidable SSC147P1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EV5AP8W/?tag=tolees-21'
 descuento: '42.11'
 average: '239.53666666666666'

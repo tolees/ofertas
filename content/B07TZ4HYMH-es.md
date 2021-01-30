@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'Valentino by Mario - Doxy  Shoppers y bolsos de hombro Mujer  Amarillo  Limone   13x25x33 cm  B x H T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZ4HYMH/?tag=tolees-21'
 descuento: '66.21'
 average: '70.39333333333333'

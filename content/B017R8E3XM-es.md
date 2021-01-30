@@ -16,6 +16,7 @@ comparePrice: 18.16 EUR
 prodname: 'LEORX Tabla protector parachoques tira bebé Protector de borde - suave no tóxico - 2M  blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017R8E3XM/?tag=tolees-21'
 descuento: '44.99'
 average: '9.99'

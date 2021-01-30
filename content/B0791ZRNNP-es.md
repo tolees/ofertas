@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'NIKE Pantalones Training Parque 18 Fútbol  Nero BLU Bianco  M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0791ZRNNP/?tag=tolees-21'
 descuento: '37.24'
 average: '21.30666666666667'

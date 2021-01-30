@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Alambre Manualidades Alambre de Cobre Desnudo 10 piezas 0.3 mm Colores Mezclados Resistente al Alambre Rollos de Alambre de Cobre para cuentas para Joyería Fabricación y Arte'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZMWRY46/?tag=tolees-21'
 descuento: '26.68'
 average: '10.99'

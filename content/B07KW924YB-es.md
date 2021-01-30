@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Salomon Trailster Zapatillas de trail running Hombre  Gris  Stormy Weather/Navy/Valiant Poppy   44.66666667 EU  10 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KW924YB/?tag=tolees-21'
 descuento: '40.02'
 average: '59.95'

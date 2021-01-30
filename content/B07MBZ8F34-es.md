@@ -16,6 +16,7 @@ comparePrice: 2599.99 EUR
 prodname: 'MSI GE63 Raider RGB 8SG-029ES - Ordenador portátil Gaming 15.6" FullHD 144Hz  Intel Core i7-8750H  16GB RAM  1TB HDD + 512GB SSD  Nvidia RTX 2080 8GB  Windows 10  Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MBZ8F34/?tag=tolees-21'
 descuento: '26.54'
 average: '1910.0'

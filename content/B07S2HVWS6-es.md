@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'FILA - Women Bra - Pink Panther'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S2HVWS6/?tag=tolees-21'
 descuento: '45.88'
 average: '11.9'

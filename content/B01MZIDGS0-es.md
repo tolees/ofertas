@@ -16,6 +16,7 @@ comparePrice: 21.97 EUR
 prodname: 'Serum contorno ojos 30ml con ácido hialurónico y colágeno. Crema Anti edad con pantenol vitamina B5 para una piel suave y tersa. Antiarrugas hidratante con Elastina  glicerina para Bolsas y ojeras'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MZIDGS0/?tag=tolees-21'
 descuento: '27.31'
 average: '15.97'

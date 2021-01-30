@@ -16,6 +16,7 @@ comparePrice: 74.95 EUR
 prodname: 'Keter Pacific Cool Bar - Mesa nevera para jardín  Color Marrón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DQRTZ78/?tag=tolees-21'
 descuento: '42.27'
 average: '57.80533333333333'

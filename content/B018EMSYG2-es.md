@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Silver HT 111932940199 - Mini Teclado Universal retroiluminado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018EMSYG2/?tag=tolees-21'
 descuento: '37.51'
 average: '27.24'

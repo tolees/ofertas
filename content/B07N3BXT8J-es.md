@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'Ecco St.1 M  Zapatillas para Hombre  Gris  Titanium 2244   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N3BXT8J/?tag=tolees-21'
 descuento: '40.67'
 average: '104.5'

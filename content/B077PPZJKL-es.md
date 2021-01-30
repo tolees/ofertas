@@ -16,6 +16,7 @@ comparePrice: 215.61 EUR
 prodname: 'Sharkoon SKILLER SGS2 – Silla Gaming Profesional  Tela  Acero  Negro/Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077PPZJKL/?tag=tolees-21'
 descuento: '25.80'
 average: '159.99'

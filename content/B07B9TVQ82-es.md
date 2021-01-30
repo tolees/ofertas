@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'HyperX Pulsefire Surge  Ratón para Juegos Rgb  1  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B9TVQ82/?tag=tolees-21'
 descuento: '27.00'
 average: '40.85666666666667'

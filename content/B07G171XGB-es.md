@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'Just For Chefs Q2903 Sarten Forjado Inducción Infinity  Cobre  24X4.8Cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G171XGB/?tag=tolees-21'
 descuento: '71.09'
 average: '15.9'

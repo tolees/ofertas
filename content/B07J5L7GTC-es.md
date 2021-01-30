@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'Optimum Nutrition Gold Standard 100% Plant Proteína Vegana Vainilla - 684 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J5L7GTC/?tag=tolees-21'
 descuento: '32.22'
 average: '18.113333333333333'

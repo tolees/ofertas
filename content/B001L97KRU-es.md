@@ -16,6 +16,7 @@ comparePrice: 7.5 EUR
 prodname: 'Babaria - Aloe Vera Balsamo Reparador  250 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001L97KRU/?tag=tolees-21'
 descuento: '34.00'
 average: '4.796363636363636'

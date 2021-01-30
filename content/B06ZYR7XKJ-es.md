@@ -16,6 +16,7 @@ comparePrice: 25.58 EUR
 prodname: 'Saint Seiya Hade Sanctuary Blu-Ray [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06ZYR7XKJ/?tag=tolees-21'
 descuento: '26.97'
 average: '16.786666666666665'

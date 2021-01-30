@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: ' Leathario Marca de Portafolio/ Carpeta Plegable de Mano  PU  Diseñado para Negocios y para tomar notas  Marrón-A4-3 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DNLPSKY/?tag=tolees-21'
 descuento: '83.85'
 average: '20.99'

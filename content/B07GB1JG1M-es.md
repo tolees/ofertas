@@ -16,6 +16,7 @@ comparePrice: 27.4 EUR
 prodname: 'Puer Tea 357g  0.787LB  Naturalmente orgánico Pu-erh Té crudo Pu Er Té Pu er Té Té verde Té chino sheng cha Puerh Té Comida sana Pu-erh Té Comida verde Árboles viejos Pu erh té'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GB1JG1M/?tag=tolees-21'
 descuento: '50.00'
 average: '13.7'

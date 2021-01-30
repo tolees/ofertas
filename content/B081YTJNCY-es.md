@@ -16,6 +16,7 @@ comparePrice: 82.22 EUR
 prodname: 'para GoPro Domo Puerto  para Gopro Hero Negro Domo GoPro Accesorios Lente de cúpula subacuática Caja de Carcasa Impermeable Súper Traje de Buceo con Pistola gatillo para acción cámara'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081YTJNCY/?tag=tolees-21'
 descuento: '45.28'
 average: '44.99'

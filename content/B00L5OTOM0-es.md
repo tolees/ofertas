@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Bioderma Photoderm Mineral Spf 50+ Fluide - Protección solar  100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00L5OTOM0/?tag=tolees-21'
 descuento: '59.24'
 average: '14.017999999999999'

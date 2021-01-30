@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Skechers Skech-Air Element 2.0  Zapatillas para Mujer  Azul Marino Malla Rosa Caliente Borde Nvhp  38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VVDWQ7K/?tag=tolees-21'
 descuento: '57.17'
 average: '34.24'

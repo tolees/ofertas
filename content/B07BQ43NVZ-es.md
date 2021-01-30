@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee Scarlett Jeans  Azul  Rinse 36   32W / 33L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BQ43NVZ/?tag=tolees-21'
 descuento: '44.00'
 average: '50.37'

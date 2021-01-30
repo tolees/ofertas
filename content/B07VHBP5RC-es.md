@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'HOTLIFE Funda iPad Air 3 10.5 2019/iPad Pro 10.5 2017  Funda Magnética iPad Air 3 con Smart Auto Sleep-Wake para iPad Air 3 10.5 2019/iPad Pro 10.5 2017 con Múltiples Ángulos de Visión  Gris Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VHBP5RC/?tag=tolees-21'
 descuento: '31.52'
 average: '10.95'

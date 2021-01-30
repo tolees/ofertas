@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Vibram Fivefingers V 2.0  Zapatillas de Trail Running para Mujer  Negro  Black/Yellow Black/Yellow   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GS9PSBF/?tag=tolees-21'
 descuento: '68.06'
 average: '44.39'

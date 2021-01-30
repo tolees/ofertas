@@ -16,6 +16,7 @@ comparePrice: 65.9 EUR
 prodname: 'Repelente ultrasonico  antimosquitos antimosquitos electrico control de plagas anti cucarachas  moscas  mosquitos  ratones  arañas 100% Inofensivo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZM532FC/?tag=tolees-21'
 descuento: '60.70'
 average: '25.9'

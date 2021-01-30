@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: '80 piezas Bolsas Regalo Bolsas de Papel Bolsas para Chuches Bolsas Papel Bolsas de Regalo con Adhesivos Sellado de 80 piezas 5 colores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088BMK9FK/?tag=tolees-21'
 descuento: '38.91'
 average: '14.323333333333334'

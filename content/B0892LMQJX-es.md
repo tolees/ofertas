@@ -16,6 +16,7 @@ comparePrice: 13.02 EUR
 prodname: 'luosh 10 Hojas de Papel de calco de vitela translúcido A4 para Dibujar bocetos de impresión de Dibujos Animados de Dibujo cómico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0892LMQJX/?tag=tolees-21'
 descuento: '50.00'
 average: '6.51'

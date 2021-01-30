@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Beurer Bs49 - Espejo Maquillaje con Luz Led Brillante  12 Leds   Espejo Pivotante  2 Espejos en 1  1 Cara Vista Normal  Uno con Aumento X 5  17 5 X 19 X 10 cm  Blanco con Acabados Cromados'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0034B5JAS/?tag=tolees-21'
 descuento: '28.00'
 average: '18.0'

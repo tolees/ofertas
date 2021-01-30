@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'SALOMON Wayfarer Lt Pantalones Cortos  Hombre  Azul  Night Sky   54'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MXW93S1/?tag=tolees-21'
 descuento: '50.00'
 average: '30.0'

@@ -16,6 +16,7 @@ comparePrice: 1.69 EUR
 prodname: 'Mical Profesional Bolsas de Basura  Gran tamaño 85 x 110 cm - 10 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MUE8K60/?tag=tolees-21'
 descuento: '40.83'
 average: '1.0'

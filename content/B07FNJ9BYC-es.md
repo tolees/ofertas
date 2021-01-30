@@ -16,6 +16,7 @@ comparePrice: 37.3 EUR
 prodname: 'Tapa de Depósito Freno Delantero con Reloj para Honda CB400 SF Modificación'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FNJ9BYC/?tag=tolees-21'
 descuento: '44.45'
 average: '18.3675'

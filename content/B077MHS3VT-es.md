@@ -16,6 +16,7 @@ comparePrice: 17.85 EUR
 prodname: 'S&R Martillo de Cerrajero Carpintero 300 G. Mango de fibra de vidrio anti deslizante y anti vibración.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077MHS3VT/?tag=tolees-21'
 descuento: '44.54'
 average: '9.9'

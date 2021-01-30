@@ -16,6 +16,7 @@ comparePrice: 17.91 EUR
 prodname: 'find. Zapatillas Clásicas con Cordones para Hombre  Azul  Navy   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072FM1MLN/?tag=tolees-21'
 descuento: '54.77'
 average: '8.1'

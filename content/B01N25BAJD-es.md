@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'L Oréal Paris Colorete en Stick Infalible Chubby Pinkabilly'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N25BAJD/?tag=tolees-21'
 descuento: '33.87'
 average: '6.456666666666666'

@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Diesel ShoesBoldmessage Bold Back IiHombreMochilasAzul  Blue Nights  10x44x30 centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RVCRD14/?tag=tolees-21'
 descuento: '45.67'
 average: '51.366'

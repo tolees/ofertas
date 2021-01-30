@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'EKKONG Espátulas de Silicona Paleta Utensilios Cocina  Protección del Medio Ambiente  No Tóxico  Antiadherente  Resistente al Calor  6 Piezas  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L7ZS76B/?tag=tolees-21'
 descuento: '35.02'
 average: '12.99'

@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Opret Kit de Protector para Esquinas y Bordes para Bebés y Niños  8 Cantos Protectores y 1 Rollo para Mesa Muebles  1 Tope Puerta  Kit de Seguridad con Adhesivo de 3M  Marrón '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XK8K9RD/?tag=tolees-21'
 descuento: '38.11'
 average: '13.323333333333334'

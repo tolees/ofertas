@@ -16,6 +16,7 @@ comparePrice: 180.0 EUR
 prodname: 'Asics Gel-Nimbus 21  Zapatillas de Running para Mujer  Gris  Lavender Grey/Dive Blue 500   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QTZFH38/?tag=tolees-21'
 descuento: '67.13'
 average: '81.185'

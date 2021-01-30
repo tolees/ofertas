@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Buff Neper Gorro Tricot Y Polar  Unisex Adulto  Violet  Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072VJF13Q/?tag=tolees-21'
 descuento: '37.36'
 average: '18.76'

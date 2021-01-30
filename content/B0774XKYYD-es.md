@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Cellularline SMGALAXYS8 Fundas Galaxy S8 para Moto  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0774XKYYD/?tag=tolees-21'
 descuento: '48.26'
 average: '30.99'

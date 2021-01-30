@@ -16,6 +16,7 @@ comparePrice: 16.7 EUR
 prodname: 'Pop! Rocks: Slayer - Jeff Hanneman'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YQH188Z/?tag=tolees-21'
 descuento: '40.18'
 average: '9.99'

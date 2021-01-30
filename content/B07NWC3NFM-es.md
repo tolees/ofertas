@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance Ml574 D  Zapatillas para Hombre  Negro  Egn Black Iris 10   44.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NWC3NFM/?tag=tolees-21'
 descuento: '39.43'
 average: '54.51'

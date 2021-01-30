@@ -16,6 +16,7 @@ comparePrice: 21.58 EUR
 prodname: 'TheHealthyTree Company Espirulina Orgánica en Polvo - 250g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K49KULK/?tag=tolees-21'
 descuento: '40.04'
 average: '12.94'

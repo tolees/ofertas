@@ -16,6 +16,7 @@ comparePrice: 68.45 EUR
 prodname: 'Moldex MOL6401 - Tapón para los oídos  pack de 50 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000SDSVPA/?tag=tolees-21'
 descuento: '87.32'
 average: '8.68'

@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Tommy Hilfiger - Th Nylon Tote  Bolsos totes Mujer  Multicolor  Corporate   14x0.1x47 cm  W x H L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RS6FH6P/?tag=tolees-21'
 descuento: '44.00'
 average: '55.94'

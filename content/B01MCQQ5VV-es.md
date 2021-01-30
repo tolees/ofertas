@@ -16,6 +16,7 @@ comparePrice: 4.99 EUR
 prodname: 'mengjay 1er Pack 6 W E27 filamento LED Lámpara Bombilla de bajo consumo 550 lúmenes 2300 K de 2700 K blanco cálido A60 LED AC 220 V'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MCQQ5VV/?tag=tolees-21'
 descuento: '49.30'
 average: '2.53'

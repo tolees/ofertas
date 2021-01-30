@@ -16,6 +16,7 @@ comparePrice: 67.49 EUR
 prodname: 'Reebok Classic Leather  Zapatillas de Running Niños  Negro  Black   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001XSBLLK/?tag=tolees-21'
 descuento: '46.66'
 average: '35.98'

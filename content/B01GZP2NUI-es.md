@@ -16,6 +16,7 @@ comparePrice: 30.58 EUR
 prodname: '2 Pares 9450 Fibra de Carbono Reforzada Hélices Auto-Apretado Apoyos para Phantom2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GZP2NUI/?tag=tolees-21'
 descuento: '44.44'
 average: '16.99'

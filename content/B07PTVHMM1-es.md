@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Kipling - Aicil  Mochilas Mujer  Multicolor  Camo Large   26x34x16 cm  B x H T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PTVHMM1/?tag=tolees-21'
 descuento: '71.21'
 average: '28.5'

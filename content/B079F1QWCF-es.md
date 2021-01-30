@@ -16,6 +16,7 @@ comparePrice: 139.9 EUR
 prodname: 'CLP Silla De Oficina Kolumbus En Tela I Silla De Escritoria Ergonómica & con Ruedas I Silla Ejecutiva con Altura Regulable & Giratoria I Color: Naranja'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079F1QWCF/?tag=tolees-21'
 descuento: '25.02'
 average: '104.9'

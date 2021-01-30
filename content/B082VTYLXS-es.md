@@ -16,6 +16,7 @@ comparePrice: 6.1 EUR
 prodname: 'BIOTERRA Harina Almendra Ecológica Española  Sin Gluten  Sin Piel 200g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082VTYLXS/?tag=tolees-21'
 descuento: '34.75'
 average: '3.98'

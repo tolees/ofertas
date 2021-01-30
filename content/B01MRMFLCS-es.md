@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'L Oreal Paris Colorista Coloración Temporal Colorista Washout Indigo Hair - 1 Unidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MRMFLCS/?tag=tolees-21'
 descuento: '32.08'
 average: '5.750000000000001'

@@ -16,6 +16,7 @@ comparePrice: 18.5 EUR
 prodname: 'NANOCABLE 10.31.0102 - Tenaza Metalica de carraca para crimpar Cables RJ10/RJ11/RJ12/RJ45'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CI30JVC/?tag=tolees-21'
 descuento: '25.68'
 average: '13.75'

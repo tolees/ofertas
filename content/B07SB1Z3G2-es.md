@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Helly Hansen Daybreaker 1/2 Zip Fleece Forro Polar  Hombre  Azul Royal  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SB1Z3G2/?tag=tolees-21'
 descuento: '48.02'
 average: '25.99'

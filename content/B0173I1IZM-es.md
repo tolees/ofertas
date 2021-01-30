@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Fresh N Rebel Rockbox Cube - Altavoz portátil con Bluetooth  color azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0173I1IZM/?tag=tolees-21'
 descuento: '66.72'
 average: '13.065000000000001'

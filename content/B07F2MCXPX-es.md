@@ -16,6 +16,7 @@ comparePrice: 20 EUR
 prodname: 'Vans Herren Left Chest Logo Tee T-Shirt  Schwarz  Black White Grey Melange   X-Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F2MCXPX/?tag=tolees-21'
 descuento: '30.05'
 average: '14.469999999999999'

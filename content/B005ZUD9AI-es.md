@@ -16,6 +16,7 @@ comparePrice: 6.6 EUR
 prodname: 'Tayg 601354  Bidón 5L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005ZUD9AI/?tag=tolees-21'
 descuento: '31.97'
 average: '4.590000000000001'

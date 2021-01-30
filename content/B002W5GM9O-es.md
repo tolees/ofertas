@@ -16,6 +16,7 @@ comparePrice: 35.82 EUR
 prodname: 'Verbatim Store  N  Go Pinstripe - Memoria USB de 32 GB  60 MB/s   color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002W5GM9O/?tag=tolees-21'
 descuento: '80.79'
 average: '6.88'

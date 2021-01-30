@@ -16,6 +16,7 @@ comparePrice: 11.0 EUR
 prodname: 'NIVEA SUN After Sun Loción Hidratante  1 x 400 ml   loción calmante para el cuidado de la piel tras la exposición al sol  cuidado solar con aloe vera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X9ZEBGW/?tag=tolees-21'
 descuento: '35.00'
 average: '7.026666666666666'

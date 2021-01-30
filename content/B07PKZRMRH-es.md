@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance Fresh Foam Trail Roav  Zapatillas de Running para Asfalto para Hombre  Negro  Black Black   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PKZRMRH/?tag=tolees-21'
 descuento: '32.50'
 average: '60.75'

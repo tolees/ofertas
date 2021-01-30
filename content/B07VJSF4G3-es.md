@@ -16,6 +16,7 @@ comparePrice: 28.86 EUR
 prodname: 'Desigual Mone maui Maria - Cartera para Mujer  Color Blanco  Talla 3x9.5x20.2 cm  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VJSF4G3/?tag=tolees-21'
 descuento: '30.32'
 average: '20.11'

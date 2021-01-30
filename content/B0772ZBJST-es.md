@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'Columbia Ventrailia 3 Low Outdry  Zapatillas de Senderismo para Hombre  Negro  BlackLux 010   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0772ZBJST/?tag=tolees-21'
 descuento: '44.64'
 average: '64.41'

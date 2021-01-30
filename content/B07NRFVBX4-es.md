@@ -16,6 +16,7 @@ comparePrice: 13.98 EUR
 prodname: 'Barnängen - Loción Hidratante corporal con baya Cloudberry Nutritive para piel seca y muy seca - 2 unidades de 400ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NRFVBX4/?tag=tolees-21'
 descuento: '54.86'
 average: '6.31'

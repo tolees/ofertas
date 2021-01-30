@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Ever-Pretty Vestidos de Fiesta Encaje Gasa Cuello Redondo Corte Imperio A-línea para Mujer Gris 54'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KPZFDK4/?tag=tolees-21'
 descuento: '28.75'
 average: '56.32333333333334'

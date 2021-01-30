@@ -16,6 +16,7 @@ comparePrice: 15.9 EUR
 prodname: 'L Oréal Paris Men Expert Hydra Energetic Roll-On - Ojos Antibags y Anti-Caps  con extracto de guaraná y vitamina C  10 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00I989OSO/?tag=tolees-21'
 descuento: '46.29'
 average: '10.975'

@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Samsung Clear View Standing Cover - Funda para Galaxy S9+  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079FWYQJN/?tag=tolees-21'
 descuento: '33.93'
 average: '32.15'

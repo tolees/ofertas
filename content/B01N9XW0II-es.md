@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Philips Sonicare AirFloss HX8432/03 - Irrigador dental inalambrico  recargable  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N9XW0II/?tag=tolees-21'
 descuento: '31.01'
 average: '68.98'

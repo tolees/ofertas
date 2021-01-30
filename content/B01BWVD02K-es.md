@@ -16,6 +16,7 @@ comparePrice: 2.19 EUR
 prodname: 'Pasta de dientes blanqueadora Colgate Sensation  dientes más blancos en 14 días 75 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BWVD02K/?tag=tolees-21'
 descuento: '31.51'
 average: '1.5966666666666667'

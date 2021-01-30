@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Armani ExchangeCrossbodyHombreBolso bandoleraNegro  Negro/Black 26x5x21 Centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T2C8BKY/?tag=tolees-21'
 descuento: '38.43'
 average: '36.94'

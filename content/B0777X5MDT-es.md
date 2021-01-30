@@ -16,6 +16,7 @@ comparePrice: 869.0 EUR
 prodname: 'ASUS ROG Strix XG35VQ - Monitor Curvo de Gaming 35 Pulgadas  UWQHD 3440x144  100 Hz  Extreme Low Motion Blur  Adaptive-Sync  FreeSync '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0777X5MDT/?tag=tolees-21'
 descuento: '27.62'
 average: '628.99'

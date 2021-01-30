@@ -16,6 +16,7 @@ comparePrice: 40.99 EUR
 prodname: 'Beholder CE - Collector s Edition'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TWMFJZ1/?tag=tolees-21'
 descuento: '54.82'
 average: '26.57181818181818'

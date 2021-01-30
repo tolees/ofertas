@@ -16,6 +16,7 @@ comparePrice: 42.9 EUR
 prodname: 'Tommy Hilfiger 3p Trunk Tanga  Blanco  White 100   Large  Pack de 3  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00K5R99JG/?tag=tolees-21'
 descuento: '44.52'
 average: '24.363333333333333'

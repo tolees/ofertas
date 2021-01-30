@@ -16,6 +16,7 @@ comparePrice: 26.8 EUR
 prodname: 'PUMA Carson 2 Knit NM  Zapatillas de Running para Hombre  Black White-Yellow Alert  43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFYF6JS/?tag=tolees-21'
 descuento: '27.13'
 average: '19.53'

@@ -16,6 +16,7 @@ comparePrice: 29 EUR
 prodname: 'Kipling - Inami M  Monederos Mujer  Azul  Active Blue Bl '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DKF8HZV/?tag=tolees-21'
 descuento: '30.00'
 average: '19.333333333333336'

@@ -16,6 +16,7 @@ comparePrice: 34.01 EUR
 prodname: 'Leatherman Style Multi-Tool CS - Black / Steel'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003J37BMK/?tag=tolees-21'
 descuento: '39.22'
 average: '34.43'

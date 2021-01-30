@@ -16,6 +16,7 @@ comparePrice: 249.99 EUR
 prodname: 'Houzetek Comedero Automático Gatos/Perros dispensador de Comida para Perros con Cámara HD de 1080p  WiFi con App Control Recordatorio Visión Nocturna'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZS7YCJQ/?tag=tolees-21'
 descuento: '32.00'
 average: '169.99'

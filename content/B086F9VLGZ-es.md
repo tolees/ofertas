@@ -16,6 +16,7 @@ comparePrice: 9.13 EUR
 prodname: 'Marvel LOKI-Carpeta Anillas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086F9VLGZ/?tag=tolees-21'
 descuento: '56.30'
 average: '3.99'

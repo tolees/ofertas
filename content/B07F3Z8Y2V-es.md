@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Amzdeal Grifos de lavabo  grifo para baño con filtro cerámico y Neoperl aireador avanzado  grifo monomando para lavabo  hecho de 59 latón/Dolphin-05'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F3Z8Y2V/?tag=tolees-21'
 descuento: '33.34'
 average: '38.56142857142858'

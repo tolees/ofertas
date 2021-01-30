@@ -16,6 +16,7 @@ comparePrice: 61.7 EUR
 prodname: 'Crucial CT2K51264BD160B - Kit de memoria RAM de 8 GB  4 GB x 2   DDR3L  1600 MT/s  PC3L-12800  DIMM  240-Pin'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005NU49DG/?tag=tolees-21'
 descuento: '29.42'
 average: '43.375'

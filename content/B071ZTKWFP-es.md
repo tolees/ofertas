@@ -16,6 +16,7 @@ comparePrice: 1599.99 EUR
 prodname: 'Lenovo Yoga 910-13IKB - Portátil táctil convertible de 13.9" FHD  Intel Core I7-7500  8 GB de RAM  512 GB SSD  Windows 10   color gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071ZTKWFP/?tag=tolees-21'
 descuento: '37.56'
 average: '1199.0'

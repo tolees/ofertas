@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Pop! Wrek - It Ralph 2  -  Figura de Vinilo Shank'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFB8DLY/?tag=tolees-21'
 descuento: '37.30'
 average: '10.0'

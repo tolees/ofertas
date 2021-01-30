@@ -16,6 +16,7 @@ comparePrice: 439.66 EUR
 prodname: 'SanDisk UHS-I  Tarjeta de Memoria microSDXC con Adaptador SD  hasta 160 MB/s  Speed Class 3  U3   V30  1TB  Oro/Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P9W5HJV/?tag=tolees-21'
 descuento: '28.15'
 average: '375.85347826086957'

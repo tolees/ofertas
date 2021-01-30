@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'PUTORSEN® Soporte de Escritorio para Monitor de Las Pantallas de TV  LCD y computadora de17”-32”  Brazo de Monitor con Resorte de Gas  Altura Ajustable  La Capacidad de Carga es 8kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BBLVFDD/?tag=tolees-21'
 descuento: '61.47'
 average: '42.38'

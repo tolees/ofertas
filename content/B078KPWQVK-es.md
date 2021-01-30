@@ -16,6 +16,7 @@ comparePrice: 12.88 EUR
 prodname: 'Urban Classics Canvas Belts Cinturón  Negro  Talla Única Unisex Adulto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078KPWQVK/?tag=tolees-21'
 descuento: '44.02'
 average: '7.21'

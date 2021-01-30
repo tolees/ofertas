@@ -16,6 +16,7 @@ comparePrice: 42.0 EUR
 prodname: 'Napapijri Semiury 2 Gorro de Punto  Azul  BLU Marine 176   Única  Talla del Fabricante: OS  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVJLQKK/?tag=tolees-21'
 descuento: '45.00'
 average: '23.1'

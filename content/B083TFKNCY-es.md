@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'NETVIP Repetidor WiFi AC1200 Extensor WiFi Amplificador Señal Router WiFi Extensor Banda Dual  300Mbps en 2 4GHz y 867Mbps en 5GHz  Punto de Acceso WiFi  Puerto Ethernet  Alta Gain Antenas Externas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083TFKNCY/?tag=tolees-21'
 descuento: '52.86'
 average: '34.418571428571425'

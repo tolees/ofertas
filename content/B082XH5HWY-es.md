@@ -16,6 +16,7 @@ comparePrice: 95.95 EUR
 prodname: 'MSI MAG FORGE 101M Mid-Tower - Caja de PC Gaming  3 x 120 mm RGB + 1 x 120 mm RGB Ventiladores Incluidos  Panel Cristal Templado  ATX  mATX  Mini-ITX   negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082XH5HWY/?tag=tolees-21'
 descuento: '27.06'
 average: '69.99'

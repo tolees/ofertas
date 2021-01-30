@@ -16,6 +16,7 @@ comparePrice: 24.0 EUR
 prodname: 'DIY Taladro Completo 5D Kits de Pintura de Diamantes Pintar por número Kits de Imagen Artesanía para el hogar Decoración de Pared Punto de Cruz Kits de Bricolaje -- Compañero De Juego  22  Sin Marco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DFPZPDM/?tag=tolees-21'
 descuento: '33.38'
 average: '15.99'

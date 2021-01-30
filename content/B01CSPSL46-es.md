@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'para Hombre de Piel de Botas de Seguridad para Hombre Puntera de Acero de Seguridad Botas de Seguridad S3 SRC Calzado de Trabajo Tobillo Piel 7752 Black Hammer  41 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CSPSL46/?tag=tolees-21'
 descuento: '53.34'
 average: '41.32333333333334'

@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Merrell Sprint Blast  Zapatillas para Hombre  Gris  Gunsmoke/White   43.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001R5UHKU/?tag=tolees-21'
 descuento: '58.96'
 average: '68.835'

@@ -16,6 +16,7 @@ comparePrice: 39.51 EUR
 prodname: 'Broche Pin simulado Azabache Figa Hand Evil Eye Protection Charm para bebés'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B9KM82V/?tag=tolees-21'
 descuento: '46.70'
 average: '21.06'

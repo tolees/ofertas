@@ -16,6 +16,7 @@ comparePrice: 25.89 EUR
 prodname: 'DAYNEW 5 Pares de Calcetines Antideslizantes para bebé  Calcetines para niños  Calcetines para recién Nacidos  Calcetines Antideslizantes de algodón  Calcetines con diseño de Zorro S 12-13cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y9QGMKX/?tag=tolees-21'
 descuento: '39.40'
 average: '15.69'

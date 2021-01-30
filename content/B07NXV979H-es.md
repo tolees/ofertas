@@ -16,6 +16,7 @@ comparePrice: 105.99 EUR
 prodname: 'San Ignacio Premium Set de Bateria 5 Piezas + 4 recipientes herméticos + 4 Cuchillos de Cocina  5 pcs + utensilios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NXV979H/?tag=tolees-21'
 descuento: '57.55'
 average: '44.99'

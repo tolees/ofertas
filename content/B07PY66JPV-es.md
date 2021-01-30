@@ -16,6 +16,7 @@ comparePrice: 25.79 EUR
 prodname: 'Bascula Cocina  Bascula de Cocina Homever de 15 kg Panel Grande de 9*6.3Pulgadas Bascula Digital Acero Inoxidable 5 unidades de medida lb: oz  fl oz  ml  g  kg  y precisión de 1g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PY66JPV/?tag=tolees-21'
 descuento: '38.00'
 average: '15.99'

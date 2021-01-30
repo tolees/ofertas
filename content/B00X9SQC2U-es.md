@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Babyliss Ipro 230 Steam - Plancha de Vapor Profesional con Revestimiento de Cerámica  Iónica  5 Ajustes de Temperatura de 170 a 230ºc  Morado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X9SQC2U/?tag=tolees-21'
 descuento: '56.24'
 average: '57.470833333333346'

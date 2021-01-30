@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'KATELUO 250Pcs Natural Palitos de madera Popsicle  Gran para manualidades caseras y DIY de postre Making.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QK7YZ3X/?tag=tolees-21'
 descuento: '30.79'
 average: '8.99'

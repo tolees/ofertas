@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'WESCO Telémetro Láser 40m Telémetro con Rango Distancia de Medida en M/In/Ft  Auto-Calibración  Modo de Voz y Silencio  Distancia Precisa  Área  Mediciones de Volumen  con Teorema de Pitágoras WS8910'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XX6P7C4/?tag=tolees-21'
 descuento: '25.01'
 average: '29.99'

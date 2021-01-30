@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Moulinex Vitae JU200045 - Licuadoras para Verduras y Frutas  200 W  Velocidad 12.800 rpm  Tapa y Contenedor Pulpa Transparente  Extractor de Jugos con Filtro de Inoxidable Compatible Lavavajillas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001KL18FO/?tag=tolees-21'
 descuento: '30.01'
 average: '34.815000000000005'

@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Lictin 100pcs Bolsas de Pastelería Mangas Pastelera deshechable Manga repostería para Fondant Decoración'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071CWYS46/?tag=tolees-21'
 descuento: '35.74'
 average: '8.99'

@@ -16,6 +16,7 @@ comparePrice: 20.5 EUR
 prodname: 'Brugal Blanco Supremo Ron Dominicano  40% - 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00H2JEP7Q/?tag=tolees-21'
 descuento: '36.63'
 average: '13.043333333333333'

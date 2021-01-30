@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Puma Smash v2 Zapatillas Unisex adulto  Beige  Elm-Puma White-Puma Team Gold   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DCFXTZV/?tag=tolees-21'
 descuento: '30.33'
 average: '35.53'

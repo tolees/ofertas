@@ -16,6 +16,7 @@ comparePrice: 25.86 EUR
 prodname: 'Malfy Limón Gin Ginebra Premium - 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01E3T6C6Y/?tag=tolees-21'
 descuento: '45.86'
 average: '14.0'

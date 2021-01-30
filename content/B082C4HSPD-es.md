@@ -16,6 +16,7 @@ comparePrice: 4.54 EUR
 prodname: 'Moliies Ligas de Hombre 1 par de Liguero Individual Liguero Masculino Gancho Ajustable Liguero de Calcetines Liguero elástico Alto Accesorios Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082C4HSPD/?tag=tolees-21'
 descuento: '35.02'
 average: '2.95'

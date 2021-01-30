@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Equalizer Double Play  Men s Fitness Shoes Blue  Navy  8 UK 42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00WR3WQZU/?tag=tolees-21'
 descuento: '40.00'
 average: '38.97'

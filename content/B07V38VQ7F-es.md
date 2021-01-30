@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Sanetta Badehose Bañador de natación  Azul  Blau 50150   92 cm para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V38VQ7F/?tag=tolees-21'
 descuento: '37.24'
 average: '11.29'

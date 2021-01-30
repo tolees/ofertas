@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'BABY HEROE - Cinturón de seguridad embarazada. Cinturón de uso obligatorio durante el embarazo  ajustable a cualquier asiento y coche'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FSOTV0C/?tag=tolees-21'
 descuento: '51.33'
 average: '21.9'

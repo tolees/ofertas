@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Orfeld 13" Remachadora de Tuercas  Remachadora con M3  M4  M5  M6  M8  M10  M12 Tuerca de Remache  Mango de PVC  Ahorra Energía  Apta para Acero de 2-3 mm de Espesor  Llave Incorporada  7 Mandriles'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082XXWSFZ/?tag=tolees-21'
 descuento: '30.01'
 average: '41.99'

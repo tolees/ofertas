@@ -16,6 +16,7 @@ comparePrice: 25.95 EUR
 prodname: 'Desigual Belts Wrap ME Stars Cinturón  Verde  MUSGO 4000   85 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N3Y9PZT/?tag=tolees-21'
 descuento: '43.82'
 average: '14.58'

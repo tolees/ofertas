@@ -16,6 +16,7 @@ comparePrice: 36.98 EUR
 prodname: 'Dustgo 【Promoción】 Esterilla Yoga Colchoneta de Yoga Antideslizante con Material ecológico TPE con líneas corporales Yoga Mat diseñado para Entrenamiento y Entrenamiento físico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y2YVGZS/?tag=tolees-21'
 descuento: '27.77'
 average: '26.71'

@@ -16,6 +16,7 @@ comparePrice: 8.01 EUR
 prodname: 'Fournier- Nº 1-40 Cartas Set de baraja Española y tapete con Reglamento de Mus y Tute   F36790 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GCF7AT6/?tag=tolees-21'
 descuento: '26.34'
 average: '5.9'

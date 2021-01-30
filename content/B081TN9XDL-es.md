@@ -16,6 +16,7 @@ comparePrice: 23.66 EUR
 prodname: 'adidas Tsubasa TRN Soccer Ball  Men s  White/Solar Red/Glory Blue/Black  3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081TN9XDL/?tag=tolees-21'
 descuento: '26.20'
 average: '17.46'

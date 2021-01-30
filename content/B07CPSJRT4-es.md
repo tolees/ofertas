@@ -16,6 +16,7 @@ comparePrice: 59.2 EUR
 prodname: 'GIGALUMI - Juego de 6 luces colgantes para tarros solares'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CPSJRT4/?tag=tolees-21'
 descuento: '32.45'
 average: '39.99'

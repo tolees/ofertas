@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'K-Swiss Court Winston  Zapatillas para Mujer  Blanco  White/Amparo Blue 116   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TKML9K1/?tag=tolees-21'
 descuento: '65.77'
 average: '17.11'

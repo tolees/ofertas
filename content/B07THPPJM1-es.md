@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Picadora de Carne Eléctrica 1500W  Negro  - Para Carne y Salchichas - Robot Cocina  Picador de Carne con 3 Placas de Corte de acero inoxidable y 3 Boquillas para Salchichas - Picadora Profesional'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07THPPJM1/?tag=tolees-21'
 descuento: '48.58'
 average: '64.78999999999999'

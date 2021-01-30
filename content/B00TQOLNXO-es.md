@@ -16,6 +16,7 @@ comparePrice: 5.75 EUR
 prodname: 'Nuby ID5397AQUA - Alimentador antiahogo con redecilla  color agua'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TQOLNXO/?tag=tolees-21'
 descuento: '30.09'
 average: '4.02'

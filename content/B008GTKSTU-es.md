@@ -16,6 +16,7 @@ comparePrice: 3.96 EUR
 prodname: 'Kärcher Conector universal para mangueras  2.645-191.0 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008GTKSTU/?tag=tolees-21'
 descuento: '36.87'
 average: '2.5'

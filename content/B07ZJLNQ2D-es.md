@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Jack & Jones Jcocharming Polo SS Noos  Negro  Grande  Tamaño del Fabricante: L  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZJLNQ2D/?tag=tolees-21'
 descuento: '50.23'
 average: '7.46'

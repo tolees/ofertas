@@ -16,6 +16,7 @@ comparePrice: 5.07 EUR
 prodname: 'Sombrero de invierno  sombreros para mujeres y hombres  Gorras Con Bufanda y Gorros de punto Sombreros de Suave Encantador Invierno de lana'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0768WL5DV/?tag=tolees-21'
 descuento: '41.03'
 average: '2.99'

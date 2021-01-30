@@ -16,6 +16,7 @@ comparePrice: 70 EUR
 prodname: 'New Balance Wx624Wb4 - entrenamiento/correr de cuero mujer  Blanco  White/Blue   36.5 EU  4 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B010FR4JA4/?tag=tolees-21'
 descuento: '62.40'
 average: '25.605'

@@ -16,6 +16,7 @@ comparePrice: 23.27 EUR
 prodname: 'Oxford - Pack de 5 cuadernos  tapa extradura  80 hojas  cuadrícula 4x4 con margen  Lima/Rojo/Naranja/Verde/Azul Marino'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008DCIAZE/?tag=tolees-21'
 descuento: '39.11'
 average: '14.572857142857144'

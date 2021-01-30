@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'HFTEK Soporte para 3 tres monitores de escritorio para pantalla 15 - 27 pulgadas con VESA 75 / 100  MP230C-L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NUEXO4W/?tag=tolees-21'
 descuento: '30.00'
 average: '139.99'

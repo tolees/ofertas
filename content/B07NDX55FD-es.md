@@ -16,6 +16,7 @@ comparePrice: 6.95 EUR
 prodname: 'Brabantia Tasty+ Batidora pequeña  color vanilla yellow'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDX55FD/?tag=tolees-21'
 descuento: '30.22'
 average: '4.85'

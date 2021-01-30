@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Precision LNFS 18'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BR7DRT5/?tag=tolees-21'
 descuento: '50.00'
 average: '29.95'

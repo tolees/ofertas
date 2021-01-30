@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'TUTUO Lector de Tarjetas SD/Micro SD  TF  USB Tipo C a USB A 3.0 Adaptador Tipo C OTG Conector para MacBook Pro  Redmi Note 8 Pro/Note 7  Huawei P30 Pro  Galaxy Note 10 / S20 Plus  Gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M35UYVA/?tag=tolees-21'
 descuento: '55.03'
 average: '8.99'

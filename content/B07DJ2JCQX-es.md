@@ -16,6 +16,7 @@ comparePrice: 63.74 EUR
 prodname: 'New Balance 997H Core h  Zapatillas para Hombre  Morado  Dark Currant/Silver   44.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DJ2JCQX/?tag=tolees-21'
 descuento: '41.28'
 average: '37.43'

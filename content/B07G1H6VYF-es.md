@@ -16,6 +16,7 @@ comparePrice: 169.95 EUR
 prodname: 'Fitbit Charge 3 Pulsera Avanzada de Salud y Actividad física  Unisex-Adult  Oro Rosa/Lavanda  Talla Unico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G1H6VYF/?tag=tolees-21'
 descuento: '29.41'
 average: '142.84'

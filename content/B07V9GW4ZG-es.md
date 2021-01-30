@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'JACK & JONES Jorrafael Sweat Hood Capucha  Gris  Light Grey Melange Fit: Slim/JJ   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V9GW4ZG/?tag=tolees-21'
 descuento: '69.59'
 average: '11.655000000000001'

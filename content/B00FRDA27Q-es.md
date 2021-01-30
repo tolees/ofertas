@@ -16,6 +16,7 @@ comparePrice: 34.9 EUR
 prodname: 'Microsoft – Bluetooth Mobile Mouse 3600  Inalámbrico  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00FRDA27Q/?tag=tolees-21'
 descuento: '51.03'
 average: '22.990000000000002'

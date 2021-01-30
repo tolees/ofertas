@@ -16,6 +16,7 @@ comparePrice: 10.95 EUR
 prodname: 'Max Factor False Lash Effect Rise & Shine Black Máscara de pestañas Tono Nego - 12 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MHHJJ3J/?tag=tolees-21'
 descuento: '52.97'
 average: '5.15'

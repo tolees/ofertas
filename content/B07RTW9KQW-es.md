@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'DAYNEW Dispensador De Aceite De Oliva y Vinagre con Boquillas Antigoteo - Dispensador De La Botella del Aceite y del Vinagre [Marcador de líneas con una Escala] 500ML Cepillo de Regalo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RTW9KQW/?tag=tolees-21'
 descuento: '42.13'
 average: '10.99'

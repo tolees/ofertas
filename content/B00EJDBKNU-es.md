@@ -16,6 +16,7 @@ comparePrice: 13.95 EUR
 prodname: 'L Oreal Paris Color Riche 230 Coral Showroom Barra de Labios Coral'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EJDBKNU/?tag=tolees-21'
 descuento: '49.46'
 average: '9.309999999999999'

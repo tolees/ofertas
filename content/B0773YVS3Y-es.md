@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'adidas Stan Smith  Sneaker Mens  Blanco  Footwear White/Footwear White/Collegiate Green 0   41 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0773YVS3Y/?tag=tolees-21'
 descuento: '40.02'
 average: '59.95'

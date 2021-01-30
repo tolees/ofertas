@@ -16,6 +16,7 @@ comparePrice: 46.48 EUR
 prodname: 'Pepe Jeans London Koko Sandy  Zapatillas para Mujer  Smoke 926  39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZQBTQV/?tag=tolees-21'
 descuento: '25.49'
 average: '34.63'

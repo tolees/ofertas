@@ -16,6 +16,7 @@ comparePrice: 39.17 EUR
 prodname: 'find. Leather Cleated Brogue Botas Estilo Motero  Marrón Brown  40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FGKDLQL/?tag=tolees-21'
 descuento: '57.72'
 average: '16.56'

@@ -16,6 +16,7 @@ comparePrice: 105.99 EUR
 prodname: 'TECCPO Cortabordes  18V 2.0Ah Cortacésped sin Cable  2X Bobina  Ancho de Corte 30cm  Cabezal de Corte Giratorio a 90 °  Dos Mango y Mango Telescópico  Función de Recorte de Borde - TDLT02G'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GC4MY25/?tag=tolees-21'
 descuento: '26.42'
 average: '77.99'

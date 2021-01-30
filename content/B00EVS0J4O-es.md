@@ -16,6 +16,7 @@ comparePrice: 7.5 EUR
 prodname: 'Rimmel London Lasting Finish Mono Blush Colorete Tono 190 Coral - 30 7 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EVS0J4O/?tag=tolees-21'
 descuento: '41.33'
 average: '4.4'

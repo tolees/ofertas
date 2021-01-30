@@ -16,6 +16,7 @@ comparePrice: 81.0 EUR
 prodname: 'Eglo RAZONI Interior E27 60W Negro  Blanco iluminación de techo - Lámpara  Dormitorio  Cocina  Salón  Negro  Blanco  IP20  Cepillado  Alrededor  Vidrio  Acero '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00AKA0C58/?tag=tolees-21'
 descuento: '45.74'
 average: '43.95'

@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Desconocido Nike Swoosh Headband Cinta para la Cabeza  Unisex Adulto  redbla  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DHK3SPK/?tag=tolees-21'
 descuento: '43.62'
 average: '5.61'

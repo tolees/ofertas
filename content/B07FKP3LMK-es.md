@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Carnival Games'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FKP3LMK/?tag=tolees-21'
 descuento: '45.06'
 average: '19.395'

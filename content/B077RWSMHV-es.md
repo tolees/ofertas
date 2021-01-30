@@ -16,6 +16,7 @@ comparePrice: 16.58 EUR
 prodname: 'MYCARBON Escala del Equipaje Pesa Maletas Báscula Digital Portátil Bascula para Maletas de Viaje Pantalla LCD Retroiluminada para Leer Tare Function Balanzas de Equipaje Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077RWSMHV/?tag=tolees-21'
 descuento: '30.40'
 average: '11.54'

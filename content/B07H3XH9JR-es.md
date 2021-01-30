@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'LA Active Tobillera Calcetines Antideslizantes - 6 Pares - para Bebé Niños Niñas Infantil Recién Nacido  Blanco  6-12 Meses '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H3XH9JR/?tag=tolees-21'
 descuento: '26.33'
 average: '13.656666666666666'

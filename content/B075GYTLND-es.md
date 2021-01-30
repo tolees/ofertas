@@ -16,6 +16,7 @@ comparePrice: 39.89 EUR
 prodname: 'Nemesis Now House Stark - Taza  20 cm   color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075GYTLND/?tag=tolees-21'
 descuento: '57.38'
 average: '17.0'

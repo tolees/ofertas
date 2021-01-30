@@ -16,6 +16,7 @@ comparePrice: 46.9 EUR
 prodname: 'adidas Gazelle J  Zapatillas Unisex Niños  Rojo  Red Cq2874   38 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0781Z5RGZ/?tag=tolees-21'
 descuento: '29.70'
 average: '32.97'

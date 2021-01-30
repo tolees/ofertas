@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'PenDrive 8 GB 10 Piezas USB Flash Drives - Portátil Azul 8GB Pen Drive 10 Unidades Memoria USB 2.0 Regalo Llave USB - FEBNISCTE Giratorio Bonito Unidad Flash USB con Cordone para la Familia/Oficina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013T6R1BW/?tag=tolees-21'
 descuento: '30.91'
 average: '37.99'

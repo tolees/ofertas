@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'HONOR Smart Watch Magic Watch 2  42 mm   Fitness Tracker Watch Hombre Mujer Smart Watch  5 ATM Monitor de frecuencia cardíaca de muñeca  Pantalla a Color de 1.20 Pulgadas  GPS  Negro Mate'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085C3N1KW/?tag=tolees-21'
 descuento: '40.05'
 average: '146.64166666666668'

@@ -16,6 +16,7 @@ comparePrice: 18.25 EUR
 prodname: 'Multi Enchufe/Pararrayos - Eaton Protection Strip 4 DIN - PS4D - 4 enchufes Schuko - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WHYCJ4T/?tag=tolees-21'
 descuento: '27.62'
 average: '13.21'

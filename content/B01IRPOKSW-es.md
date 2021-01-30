@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Funko- Gears of War JD Fenix Armored Figura de Vinilo  colección de Pop  seria GOW  Multicolor  10636 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IRPOKSW/?tag=tolees-21'
 descuento: '32.02'
 average: '8.004999999999999'

@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'HP OfficeJet Pro 9020 - Impresora multifunción'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VAWFAFW/?tag=tolees-21'
 descuento: '26.93'
 average: '211.88789473684213'

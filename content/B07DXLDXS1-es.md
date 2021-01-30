@@ -16,6 +16,7 @@ comparePrice: 11.95 EUR
 prodname: 'Wella Invigo Brilliance Shampoo Coarse  500 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DXLDXS1/?tag=tolees-21'
 descuento: '31.72'
 average: '8.16'

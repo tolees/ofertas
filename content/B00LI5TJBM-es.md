@@ -16,6 +16,7 @@ comparePrice: 8.0 EUR
 prodname: 'Buono Pelle - Cartera de piel para hombre  plegable   con cierre de botón y bolsillo para monedas  color negro Marrón marrón M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LI5TJBM/?tag=tolees-21'
 descuento: '27.38'
 average: '5.81'

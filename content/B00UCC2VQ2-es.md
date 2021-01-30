@@ -16,6 +16,7 @@ comparePrice: 4.82 EUR
 prodname: 'Vitroclen Limpiador de Vitrocerámica en crema  acción protectora y desengrasante - 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UCC2VQ2/?tag=tolees-21'
 descuento: '28.42'
 average: '3.52'

@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Champion 6pk Sneaker Socken Calcetines  Multicolore  Blanc/Gris/Noir 8wu   39-42 Unisex-Adulto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DKY9TMK/?tag=tolees-21'
 descuento: '29.95'
 average: '10.5'

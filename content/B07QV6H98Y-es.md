@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Wrangler Greensboro Regular Jeans  Azul  Dark Rinse 90a   40W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QV6H98Y/?tag=tolees-21'
 descuento: '40.53'
 average: '41.6'

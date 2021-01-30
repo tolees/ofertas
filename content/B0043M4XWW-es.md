@@ -16,6 +16,7 @@ comparePrice: 16.85 EUR
 prodname: 'Oral-B Pulsonic - Pack de 3 cabezales de recambio para cepillo de dientes recargable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0043M4XWW/?tag=tolees-21'
 descuento: '41.66'
 average: '9.83'

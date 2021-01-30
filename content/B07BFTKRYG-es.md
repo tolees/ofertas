@@ -16,6 +16,7 @@ comparePrice: 12.08 EUR
 prodname: 'Karactermania 37063 Frozen Sister Queens Estuches  22 cm  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BFTKRYG/?tag=tolees-21'
 descuento: '50.75'
 average: '5.95'

@@ -16,6 +16,7 @@ comparePrice: 179.99 EUR
 prodname: 'Corsair K70 MK.2 RGB Teclado Mecánico Gaming  Retroiluminación LED RGB  QWERTY Español  Cherry MX Speed  Rápido y altamente preciso '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FYBPZXT/?tag=tolees-21'
 descuento: '25.00'
 average: '134.51600000000002'

@@ -16,6 +16,7 @@ comparePrice: 9.63 EUR
 prodname: 'Bourjois Rouge Edition Barra de Labios Tono 07 Fuchsia Graffiti - 25 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00B1CGC62/?tag=tolees-21'
 descuento: '37.80'
 average: '4.76'

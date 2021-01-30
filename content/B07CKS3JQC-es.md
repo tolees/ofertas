@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'KOOOPER Mapa del Mundo  Mapa Mural para Rascar del Mundo 255*165mm y 180*130mm - País  las Ciudades que Visitó - para Viajeros/Exploradores/Coleccionistas  etc - Con Pegatinas + Herramienta de Rayado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CKS3JQC/?tag=tolees-21'
 descuento: '41.39'
 average: '16.32333333333333'

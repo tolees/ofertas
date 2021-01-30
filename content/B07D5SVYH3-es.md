@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Under Armour Tech 9in 2 Pack Ropa Interior  Hombre  Gris  Mod Gray Light Heather/Jet Gray Light Heather 011   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D5SVYH3/?tag=tolees-21'
 descuento: '52.97'
 average: '16.475'

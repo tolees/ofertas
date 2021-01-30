@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'PUTUO Calcetines de Dedos Hombre Calcetines Cortos de Algodón  Calcetines 5 Dedos Hombre Calcetines Invisibles con Silicona Antideslizante  6 pares'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085DFSKXV/?tag=tolees-21'
 descuento: '48.66'
 average: '18.99'

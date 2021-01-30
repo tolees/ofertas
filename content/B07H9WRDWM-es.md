@@ -16,6 +16,7 @@ comparePrice: 41.11 EUR
 prodname: 'The Glenrothes 12 Años Single Malt Whisky Escoces  40% - 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H9WRDWM/?tag=tolees-21'
 descuento: '27.24'
 average: '32.30799999999999'

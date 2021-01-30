@@ -16,6 +16,7 @@ comparePrice: 56.46 EUR
 prodname: 'ZHBRE Humidificador de 400 ml de Gran Capacidad  Apagado automático sin Agua con luz Nocturna para el hogar  Dormitorio para bebés  Oficina  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086SXX8D2/?tag=tolees-21'
 descuento: '30.00'
 average: '39.52'

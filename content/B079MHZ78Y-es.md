@@ -16,6 +16,7 @@ comparePrice: 17.39 EUR
 prodname: 'Mosquitera Puertas  Mosquitera Magnética Automático para Puertas Cortina de Sala de Estar la Puerta del Balcón Puerta Corredera de Patio 90 x 210cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079MHZ78Y/?tag=tolees-21'
 descuento: '32.72'
 average: '11.7'

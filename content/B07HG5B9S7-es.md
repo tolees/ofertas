@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'New Balance Fresh Foam Vongo  Zapatillas de Running para Mujer  Rojo  Red Red   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HG5B9S7/?tag=tolees-21'
 descuento: '49.30'
 average: '70.40333333333334'

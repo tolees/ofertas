@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Synergy-Case Closed  Zapatillas de Entrenamiento para Mujer  Rosa  Pink   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IVMMZHO/?tag=tolees-21'
 descuento: '34.90'
 average: '33.343333333333334'

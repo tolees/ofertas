@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Tous K Mini  Cartera para Mujer   Beige 695790024   19.5x11x2 cm  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B9SS3VP/?tag=tolees-21'
 descuento: '25.32'
 average: '58.53'

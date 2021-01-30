@@ -16,6 +16,7 @@ comparePrice: 15.24 EUR
 prodname: 'NP-60 - Batería de Ion de Litio para Fuji  1200 mAh  3 7 V '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002IX5DRC/?tag=tolees-21'
 descuento: '52.03'
 average: '7.31'

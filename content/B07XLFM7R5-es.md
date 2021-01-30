@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'KZIOACSH 5X Funda para Xiaomi Redmi Note 8 Carcasas Ultra Fina Silicona TPU Protector Amarillo，Rojo，Negro，Azul，Cian Tibetano Color 1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XLFM7R5/?tag=tolees-21'
 descuento: '60.03'
 average: '7.99'

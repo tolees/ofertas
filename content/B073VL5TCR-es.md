@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Avaspot Difusor de Aceites Esenciales  250ml humidificador de Vapor frío'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073VL5TCR/?tag=tolees-21'
 descuento: '47.62'
 average: '19.841111111111108'

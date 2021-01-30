@@ -16,6 +16,7 @@ comparePrice: 64.9 EUR
 prodname: 'Tommy Hilfiger Essential Lace Up Sneaker  Zapatillas para Mujer  Negro  Black Bds   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V3N3FS3/?tag=tolees-21'
 descuento: '59.08'
 average: '26.56'

@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Seiko UK Limited - EU Pulsar Solar M Sport - Reloj cronógrafo con Correa de Piel PZ6033X1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V9J1QRW/?tag=tolees-21'
 descuento: '48.37'
 average: '102.68363636363635'

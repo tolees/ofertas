@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee Malone Jeans  Black Rinse 47  32W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JZCLV9R/?tag=tolees-21'
 descuento: '66.93'
 average: '29.75'

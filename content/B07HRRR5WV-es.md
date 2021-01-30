@@ -16,6 +16,7 @@ comparePrice: 39.97 EUR
 prodname: 'ANSIO Calefactor  Oscilante Calentador de Torre PTC con Control Remoto - 2000 W Vertical/Plano Calefactor-Oscilación Interna 24 Horas de Temporizador y 2 configuraciones de Calor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HRRR5WV/?tag=tolees-21'
 descuento: '25.02'
 average: '29.97'

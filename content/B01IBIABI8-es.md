@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'JACK & JONES JJIPAUL JJLEATHER BELT NOOS  Cinturón Hombre  Marrón  Mocha Bisque   80 cm  Talla del fabricante: 80 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IBIABI8/?tag=tolees-21'
 descuento: '43.98'
 average: '14.0'

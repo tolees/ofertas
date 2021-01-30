@@ -16,6 +16,7 @@ comparePrice: 216 EUR
 prodname: 'GUESS Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable 0091661488184'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F3MW3KF/?tag=tolees-21'
 descuento: '34.79'
 average: '140.86'

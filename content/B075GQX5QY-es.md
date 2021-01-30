@@ -16,6 +16,7 @@ comparePrice: 149 EUR
 prodname: 'Bresser Optics - Estación Meterológica Bresser 5 En 1 Comfort con Pantalla De Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075GQX5QY/?tag=tolees-21'
 descuento: '48.18'
 average: '77.21'

@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Skechers Women s Flex Appeal 3.0-first Insight Trainers  Black  Slate Leather/Mesh/Lt Pink Trim Bbk   4.5 UK  37.5 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H5WLB7T/?tag=tolees-21'
 descuento: '27.09'
 average: '43.71'

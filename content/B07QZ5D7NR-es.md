@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Asics Gel-Sonoma 4  Zapatillas de Running para Mujer  Gris  Carrier Grey/Black 020   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QZ5D7NR/?tag=tolees-21'
 descuento: '28.85'
 average: '61.785'

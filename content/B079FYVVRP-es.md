@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Sveon SAC140 - Cargador de portátil  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079FYVVRP/?tag=tolees-21'
 descuento: '25.01'
 average: '14.99'

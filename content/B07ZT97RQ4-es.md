@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'Inclinómetro horizontal magnético del buscador digital de ángulos  medición integral de 360 grados  transportador de regla angular para la fabricación de maquinaria  reparación de automóviles  etc.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZT97RQ4/?tag=tolees-21'
 descuento: '41.39'
 average: '16.99'

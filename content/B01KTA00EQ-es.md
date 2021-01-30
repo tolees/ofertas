@@ -16,6 +16,7 @@ comparePrice: 108.93 EUR
 prodname: 'Reloj Orla Kiely - Mujer OK2137'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KTA00EQ/?tag=tolees-21'
 descuento: '54.11'
 average: '49.99'

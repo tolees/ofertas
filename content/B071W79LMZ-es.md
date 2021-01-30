@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'L Óreal Paris Máscara de Pestañas Mega Volumen Miss Baby Roll Lilac'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071W79LMZ/?tag=tolees-21'
 descuento: '29.75'
 average: '6.99'

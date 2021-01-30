@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Jack & Jones Jjepaulos Polo SS Noos  Azul  Bright Cobalt Detail: Slim Fit   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079C8RP9Y/?tag=tolees-21'
 descuento: '35.02'
 average: '13.485'

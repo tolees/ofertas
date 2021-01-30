@@ -16,6 +16,7 @@ comparePrice: 14.4 EUR
 prodname: 'Yosoy - Bebida de Avena - Caja de 8 packs de 3x250ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FB61BJF/?tag=tolees-21'
 descuento: '41.67'
 average: '8.4'

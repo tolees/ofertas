@@ -16,6 +16,7 @@ comparePrice: 3.09 EUR
 prodname: 'Pompadour Supreme Rooibos Caramel Té - 10 Cápsulas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LYW87JQ/?tag=tolees-21'
 descuento: '49.84'
 average: '1.55'

@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Levi s XX Chino Std II Pantalones  Rosa  Rose Tan Shady GD Ccu B 0009   W32/L30  Talla del Fabricante: 32 30  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TKDP811/?tag=tolees-21'
 descuento: '67.05'
 average: '29.875'

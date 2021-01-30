@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Xnuoyo 20000mAh Power Bank Cargador Portátil Batería Externa de Alta Capacidad con Indicador LED  Entrada Micro y Tipo C y Puertos de Salida Dual Compatibles con la Mayoría de los Smart Phones'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T961KCP/?tag=tolees-21'
 descuento: '33.35'
 average: '23.519411764705882'

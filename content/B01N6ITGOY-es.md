@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'REPLAY Am2453.000.a3001e Cinturón  Negro  Black 98   125  Talla del fabricante: 110  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N6ITGOY/?tag=tolees-21'
 descuento: '42.33'
 average: '22.49'

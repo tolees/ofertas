@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee Daren Button Fly Jeans  Azul  Clean Black   29W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GDKPTNE/?tag=tolees-21'
 descuento: '72.70'
 average: '31.769999999999996'

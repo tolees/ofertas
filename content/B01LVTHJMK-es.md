@@ -16,6 +16,7 @@ comparePrice: 11.59 EUR
 prodname: 'Philonext Pan - Bandeja roja de Silicona con 12 Huecos para Magdalenas  no se Pega  Uso Seguro en lavavajillas y microondas  32 7 x 24 5 x 2 8 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LVTHJMK/?tag=tolees-21'
 descuento: '45.21'
 average: '7.67'

@@ -16,6 +16,7 @@ comparePrice: 21.66 EUR
 prodname: 'Fellowes 53062  Pack de 100 fundas para plastificar  brillo formato A3  80 micras  surtido: modelos aleatorios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000NJUWM4/?tag=tolees-21'
 descuento: '28.90'
 average: '15.3'

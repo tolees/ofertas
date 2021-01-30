@@ -16,6 +16,7 @@ comparePrice: 15.5 EUR
 prodname: 'Calvin Klein Radiant Cotton-Thong Tanga  Negro  BLACK   Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00W9OYBP0/?tag=tolees-21'
 descuento: '35.55'
 average: '9.482000000000001'

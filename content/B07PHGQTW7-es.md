@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Rieker Herbst/Winter  Botas Clasicas para Hombre  Negro  Schwarz/Granit/Schwarz/Schwarz 01   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PHGQTW7/?tag=tolees-21'
 descuento: '51.83'
 average: '27.775'

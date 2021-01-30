@@ -16,6 +16,7 @@ comparePrice: 36.2 EUR
 prodname: 'Targus Classic+ - Maleta de 17-18"  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007XDYKP8/?tag=tolees-21'
 descuento: '61.35'
 average: '16.361428571428572'

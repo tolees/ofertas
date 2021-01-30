@@ -16,6 +16,7 @@ comparePrice: 16.88 EUR
 prodname: 'Funda Transparente Compatible para Huawei Nova 5 Carcasa Suave Silicona TPU Gel Dibujos Animal Ultra Fina Anti Choques y Anti Arañazos Clear Bumper Case Cover para Huawei Nova 5 A4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0872NQYP8/?tag=tolees-21'
 descuento: '52.73'
 average: '7.98'

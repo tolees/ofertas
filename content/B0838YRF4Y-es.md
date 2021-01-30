@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'LEMEGO Pistola de Masaje Muscular  Masajeador de Cuerpo Eléctrico de Mano  Modos Opcionales Ultra Silenciosos de 5 Velocidades  Masajeador de Percusión Con 4 Cabezales Aliviar la Tensión Muscular'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0838YRF4Y/?tag=tolees-21'
 descuento: '42.86'
 average: '79.99'

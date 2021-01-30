@@ -16,6 +16,7 @@ comparePrice: 72.44 EUR
 prodname: 'Hugo Boss-Boss The Scent for Her  3 productos  107 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J6MYHP2/?tag=tolees-21'
 descuento: '34.68'
 average: '56.55833333333333'

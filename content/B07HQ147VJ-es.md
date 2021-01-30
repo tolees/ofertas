@@ -16,6 +16,7 @@ comparePrice: 14.42 EUR
 prodname: 'Funko Pop!- Colección Vinilo Fortnite Black Knight  Multicolor  única  34467 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HQ147VJ/?tag=tolees-21'
 descuento: '34.40'
 average: '11.814814814814813'

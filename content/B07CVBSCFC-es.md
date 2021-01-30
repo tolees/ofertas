@@ -16,6 +16,7 @@ comparePrice: 5.41 EUR
 prodname: 'FIND - Princess of Shine  Barra de labios mate n.5 + Brillo de labios n.5 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CVBSCFC/?tag=tolees-21'
 descuento: '48.06'
 average: '3.875'

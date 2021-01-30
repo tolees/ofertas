@@ -16,6 +16,7 @@ comparePrice: 18.94 EUR
 prodname: 'Julius-K9 16IDC - Power Harness'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00A9XBK7U/?tag=tolees-21'
 descuento: '31.89'
 average: '13.4'

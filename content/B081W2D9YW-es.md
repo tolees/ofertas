@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Carpeta Clasificadora - ABClife Archivador acordeón 12 Bolsillos de gran Capacidad soporte Extensible portátil acordeón Clasificador Documentos  Archivador A4 para Office School  12 Bolsillos Tapa '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081W2D9YW/?tag=tolees-21'
 descuento: '29.93'
 average: '7.0'

@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Salomon Mallas 3 y 4 para running  agile mid tight  tejido de punto  negro  mujer  talla: M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0754RWC6Z/?tag=tolees-21'
 descuento: '33.02'
 average: '31.01'

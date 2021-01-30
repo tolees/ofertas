@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Contorno de Ojos Antiarrugas | Anti-edad para ojeras  bolsas  patas de gallo e hinchazón | Reduce líneas de expresión y arrugas | Crema contorno de ojos Mujer y Hombre | Efecto Anti-fatiga y Lifting '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0748GG3GN/?tag=tolees-21'
 descuento: '37.51'
 average: '24.99'

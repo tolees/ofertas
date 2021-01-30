@@ -16,6 +16,7 @@ comparePrice: 12.14 EUR
 prodname: 'AnySharp Afilador De Cuchillos  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001DXVL6K/?tag=tolees-21'
 descuento: '26.03'
 average: '12.4075'

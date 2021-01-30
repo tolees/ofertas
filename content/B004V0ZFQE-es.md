@@ -16,6 +16,7 @@ comparePrice: 2.56 EUR
 prodname: 'FISCHER 087490 - Brida UBN 2 5x200 negra  Envase de 100 ud. '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004V0ZFQE/?tag=tolees-21'
 descuento: '46.48'
 average: '1.37'

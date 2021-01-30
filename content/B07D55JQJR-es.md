@@ -16,6 +16,7 @@ comparePrice: 12.87 EUR
 prodname: 'D DOLITY Indicador de Presión de Aire de Balones con Protector de Goma para Pelotas Inflables Herramienta de Deportes al Aire Libre - Negro  4.5cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D55JQJR/?tag=tolees-21'
 descuento: '33.33'
 average: '9.649999999999999'

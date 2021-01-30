@@ -16,6 +16,7 @@ comparePrice: 63.09 EUR
 prodname: 'Moderna lámpara LED de techo para salón  regulable  pantalla de acrílico  lámpara de techo de diseño cuadrado  lámpara de comedor con mando a distancia  lámpara de techo  lámpara colgante  cocina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PVW7Q7P/?tag=tolees-21'
 descuento: '38.18'
 average: '38.22666666666667'

@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance 574v2  Entrenadores para Hombre  Turquesa  Dark Neptune Dark Neptune   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DVM6CCX/?tag=tolees-21'
 descuento: '42.60'
 average: '51.66'

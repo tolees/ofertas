@@ -16,6 +16,7 @@ comparePrice: 209.0 EUR
 prodname: 'Pioneer DEH-8700BT DEH-8700BT-Autorradio  Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PAQGYIG/?tag=tolees-21'
 descuento: '47.85'
 average: '109.0'

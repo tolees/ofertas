@@ -16,6 +16,7 @@ comparePrice: 629.0 EUR
 prodname: 'Compex Wireless Fit 5.0 Electroestimulador  Unisex  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NDA9QZY/?tag=tolees-21'
 descuento: '30.05'
 average: '426.0'

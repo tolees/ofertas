@@ -16,6 +16,7 @@ comparePrice: 799.0 EUR
 prodname: 'Tamron SP - Objetivo para Canon DSLR  Distancia Focal Fija 35mm  Apertura f/1.8  Di  VC  USD  diámetro Filtro: 67 mm   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B014SQ2VQM/?tag=tolees-21'
 descuento: '31.12'
 average: '543.052'

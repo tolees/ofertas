@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'YWLINK Mezcla de algodón sin mangas del verano cómodo botón de color sólido para Y - Dark Blue 0- 3 meses / 60 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SZGDDHB/?tag=tolees-21'
 descuento: '48.23'
 average: '5.69'

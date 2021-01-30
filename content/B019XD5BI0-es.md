@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Desigual Bols Elmira Silvana Borse a spalla - berenjena 61X52A5-3004'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B019XD5BI0/?tag=tolees-21'
 descuento: '40.54'
 average: '41.59'

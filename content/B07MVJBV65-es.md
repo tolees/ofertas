@@ -16,6 +16,7 @@ comparePrice: 59 EUR
 prodname: 'Kipling - Arto S  Bolsos bandolera Mujer  Gris  Night Grey   25x21x3 cm  B x H T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVJBV65/?tag=tolees-21'
 descuento: '30.00'
 average: '41.3'

@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'SanDisk Ultra Fit  Memoria flash USB 3.1 de 64 GB con hasta 130 MB/s de velocidad de lectura Tradicional Negro 64GB'
 country: 'es'
 flag: '🇪🇸'
+brand: 'SanDisk'
 buyurl: 'https://www.amazon.es/dp/B077VYCV37/?tag=tolees-21'
 descuento: '56.71'
 average: '10.9785648148149'
@@ -27,8 +28,8 @@ Ahora mismo tienes [SanDisk Ultra Fit  Memoria flash USB 3.1 de 64 GB con hasta 
 
 🔎:
 
-- Velocidades de lectura de hasta 130 MB/s
 - Mueve una película a la memoria en menos de 30 segundos
 - Escribe hasta 15 veces más rápido que las memorias USB 2.0 estándar
+- Velocidades de lectura de hasta 130 MB/s
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B077VYCV37/?tag=tolees-21)

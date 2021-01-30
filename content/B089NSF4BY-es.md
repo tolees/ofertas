@@ -16,6 +16,7 @@ comparePrice: 2.03 EUR
 prodname: 'Funda de Gel de sílice Funda de Silicona con Tapa para teléfono OSMO Pocket con Accesorio para cámara de Cuerda Manual'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089NSF4BY/?tag=tolees-21'
 descuento: '49.26'
 average: '1.03'

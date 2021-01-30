@@ -16,6 +16,7 @@ comparePrice: 17.5 EUR
 prodname: 'KUTOP por charge2 Correa  Charge 2 TPU Silicona Suave Especial Deporte Banda de Reloj Ajustable Accesorios para Charge 2 Grande pequeño'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DLS168J/?tag=tolees-21'
 descuento: '43.77'
 average: '9.84'

@@ -16,6 +16,7 @@ comparePrice: 10.0 EUR
 prodname: 'Funko Pop Games: PUBG - Hawaiian Shirt Guy  Multicolor  Estándar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SM8C58J/?tag=tolees-21'
 descuento: '33.30'
 average: '6.484999999999999'

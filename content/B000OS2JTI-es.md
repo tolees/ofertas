@@ -16,6 +16,7 @@ comparePrice: 160.98 EUR
 prodname: 'Kärcher Presostato electrónico  6.997-357.0 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000OS2JTI/?tag=tolees-21'
 descuento: '51.89'
 average: '77.44'

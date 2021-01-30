@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Rieker - Cerrado Hombre  Color Azul  Talla 40'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074FY58TQ/?tag=tolees-21'
 descuento: '62.29'
 average: '24.49'

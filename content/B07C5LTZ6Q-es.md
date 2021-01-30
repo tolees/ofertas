@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Removedor espinilla  Chuangmeida Limpiador de Poros Extractor de aspiración de vacío eléctrico con 4 cabeza multifuncional  Acné facial de limpieza del acné Comedo Tratamiento Máquina de la piel'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C5LTZ6Q/?tag=tolees-21'
 descuento: '48.01'
 average: '25.99'

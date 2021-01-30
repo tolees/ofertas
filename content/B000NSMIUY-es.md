@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Vans Classic Slip-On VEYEBWW - Zapatillas clsicas de Tela Unisex  Color Negro  Talla 36'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000NSMIUY/?tag=tolees-21'
 descuento: '27.71'
 average: '46.99'

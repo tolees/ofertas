@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Asalvo  Silla de coche grupo 1/2/3 Isofix  rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078GMZKXF/?tag=tolees-21'
 descuento: '42.90'
 average: '135.4975'

@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'PUMA ESS Sweat TR Chándal  Hombre  Gris  Medium Gray Heather   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D5RFW25/?tag=tolees-21'
 descuento: '33.26'
 average: '19.99'

@@ -16,6 +16,7 @@ comparePrice: 30.55 EUR
 prodname: 'Optimum Nutrition Protein Whipped Bites barrita proteica  Sabor de Chocolate - Paquete de 12 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079H9VKKL/?tag=tolees-21'
 descuento: '44.39'
 average: '15.989999999999998'

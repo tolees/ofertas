@@ -16,6 +16,7 @@ comparePrice: 109.0 EUR
 prodname: 'Festina Hombre Reloj F20205/4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N2BJRBJ/?tag=tolees-21'
 descuento: '54.06'
 average: '50.08'

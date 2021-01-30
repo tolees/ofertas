@@ -16,6 +16,7 @@ comparePrice: 35.06 EUR
 prodname: 'B Blesiya Tablero De Dibujo De Tableta De Escritura LCD De 8 "Pulgadas Tablero De Doodle Electrónico Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086ZWN1XK/?tag=tolees-21'
 descuento: '44.44'
 average: '19.48'

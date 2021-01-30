@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'BelleStyle 24V 15A 360W Fuente Alimentacion Transformador Interruptor Adaptador de Corriente Regulada Universal  CCTV Radio Proyecto de Computadora Led Impresora 3D [Clase de eficiencia energética A]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TFVG2VX/?tag=tolees-21'
 descuento: '35.23'
 average: '24.93'

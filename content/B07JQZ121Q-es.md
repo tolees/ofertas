@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'adidas Terrex Eastrail GTX  Track and Field Shoe Mens  Carbon/Core Black/Grey  39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JQZ121Q/?tag=tolees-21'
 descuento: '31.48'
 average: '68.49'

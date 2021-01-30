@@ -16,6 +16,7 @@ comparePrice: 33.99 EUR
 prodname: 'Mellerware Batidora de mano de 1000W. Velocidad regulable y función Turbo Cuchillas de 4 filos de acero inoxidable de alta resistencia. Acero inoxidable  agarre ergonómico negro.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VDSJLKS/?tag=tolees-21'
 descuento: '26.48'
 average: '24.145'

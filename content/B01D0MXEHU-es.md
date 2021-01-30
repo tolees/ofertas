@@ -16,6 +16,7 @@ comparePrice: 6.54 EUR
 prodname: 'Marca 2188-GVE - Gafa Visitor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01D0MXEHU/?tag=tolees-21'
 descuento: '49.69'
 average: '3.29'

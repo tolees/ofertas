@@ -16,6 +16,7 @@ comparePrice: 43.18 EUR
 prodname: 'Baoblaze 2 Pares Altavoces de Audio para Automóvil Junta de Altavoz Coaxial de 3 Vías'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H2KWG46/?tag=tolees-21'
 descuento: '44.44'
 average: '23.427999999999997'

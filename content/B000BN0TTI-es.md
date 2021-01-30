@@ -16,6 +16,7 @@ comparePrice: 268.9 EUR
 prodname: 'HP Q7582A - Cartucho de tóner'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000BN0TTI/?tag=tolees-21'
 descuento: '92.57'
 average: '16.03'

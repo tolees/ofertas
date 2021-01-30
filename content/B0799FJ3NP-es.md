@@ -16,6 +16,7 @@ comparePrice: 124.99 EUR
 prodname: 'TACKLIFE Cortasetos Eléctrico  600W Cortasetos  20mm Ancho de Corte  3 Ángulos de Corte y 3 Interruptores  Corte Anticolisión  Diseño de Parachoques - GHT1A '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0799FJ3NP/?tag=tolees-21'
 descuento: '40.96'
 average: '71.79'

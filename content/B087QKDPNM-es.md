@@ -16,6 +16,7 @@ comparePrice: 12.88 EUR
 prodname: 'LAQI Oído de la Salud de eliminación de Cera del oído Cureta selección del oído Pinzas de Salud Herramienta removedor Limpiador de la Cera para el hogar Salon'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087QKDPNM/?tag=tolees-21'
 descuento: '58.15'
 average: '5.39'

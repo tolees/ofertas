@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'New Balance Trail Nitrel  Zapatillas de Running para Asfalto para Hombre  Azul  Blue/Black Blue/Black   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HGD5TPG/?tag=tolees-21'
 descuento: '34.71'
 average: '48.97'

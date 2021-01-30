@@ -16,6 +16,7 @@ comparePrice: 4.95 EUR
 prodname: 'Rimmel Super Gel Esmalte de Uñas  30g  Pack de 1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WBY1P6Q/?tag=tolees-21'
 descuento: '46.87'
 average: '2.63'

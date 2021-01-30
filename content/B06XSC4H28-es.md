@@ -16,6 +16,7 @@ comparePrice: 112.08 EUR
 prodname: 'Daniel Wellington Reloj Digital para Mujer de Cuarzo con Correa en Acero Inoxidable DW00100163'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XSC4H28/?tag=tolees-21'
 descuento: '28.16'
 average: '89.64'

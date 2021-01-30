@@ -16,6 +16,7 @@ comparePrice: 102.49 EUR
 prodname: 'Caja Stargate Atlantis Temporadas 1-4 [DVD]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0055KNYLC/?tag=tolees-21'
 descuento: '49.43'
 average: '64.20666666666668'

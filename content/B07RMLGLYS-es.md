@@ -16,6 +16,7 @@ comparePrice: 165.0 EUR
 prodname: 'Calvin Klein - Revealed Laptop Bag  Organizadores de bolsos Hombre  Negro  Black   0.1x0.1x0.1 cm  W x H L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RMLGLYS/?tag=tolees-21'
 descuento: '65.32'
 average: '75.55'

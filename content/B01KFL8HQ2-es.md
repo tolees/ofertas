@@ -16,6 +16,7 @@ comparePrice: 229.99 EUR
 prodname: 'Philips Optimal Temp GC8723/20 - Centro de Planchado de 6 bares  Autonomia Ilimitada  Golpe de Vapor 330 g  Suela Steam Glide  Planchado Sin Ajustes de Temperatura  Calentamiento Rapido y Autoapagado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KFL8HQ2/?tag=tolees-21'
 descuento: '32.05'
 average: '160.94166666666666'

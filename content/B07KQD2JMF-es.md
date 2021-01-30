@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'Salomon XA Pro 3D  Zapatillas de Trail Running para Hombre  Naranja Umber Black Hawaiian Sunset  40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KQD2JMF/?tag=tolees-21'
 descuento: '32.76'
 average: '75.33'

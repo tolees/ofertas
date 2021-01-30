@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Pop! Stranger Things S2 - Figura de Vinilo Mike  Snowball Dance '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HJCD7B5/?tag=tolees-21'
 descuento: '48.28'
 average: '9.996666666666668'

@@ -16,6 +16,7 @@ comparePrice: 102.99 EUR
 prodname: 'Ever-Pretty Vestidos de Noche Encaje Gasa Cuello Redondo Corte Imperio A-línea para Mujer Azul Marino 52'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KQ13GV4/?tag=tolees-21'
 descuento: '36.90'
 average: '61.65666666666666'

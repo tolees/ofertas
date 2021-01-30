@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'New Balance FuelCell Propel m  Zapatillas de Running para Mujer  Morado  Plum Ci   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S4TCD6Q/?tag=tolees-21'
 descuento: '57.79'
 average: '50.65'

@@ -16,6 +16,7 @@ comparePrice: 48.65 EUR
 prodname: 'Buyger 3 en 1 Helados Supermercado Juguete con Luz y Sonido Caja Registradora Cocina Comida Maletin Juguete para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087X1G5SS/?tag=tolees-21'
 descuento: '53.01'
 average: '22.86'

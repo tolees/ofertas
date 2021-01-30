@@ -16,6 +16,7 @@ comparePrice: 104.0 EUR
 prodname: 'Lacoste L1312 Polo  Blanco  Blanc   6XL  Talla del fabricante: 11  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0719BMPLY/?tag=tolees-21'
 descuento: '50.49'
 average: '47.38000000000001'

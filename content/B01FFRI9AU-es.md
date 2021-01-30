@@ -16,6 +16,7 @@ comparePrice: 18.98 EUR
 prodname: 'ROYAL RASCALS | Espejo para vigilar al bebé en el coche | Espejo retrovisor para asiento de niños orientado hacia atrás | NEGRO | Inastillable | PRODUCTO PREMIUM | Señal de Baby on Board GRATIS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FFRI9AU/?tag=tolees-21'
 descuento: '26.29'
 average: '13.985'

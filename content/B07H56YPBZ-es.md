@@ -16,6 +16,7 @@ comparePrice: 54.79 EUR
 prodname: 'X-TIGER Ciclismo Maillots para Hombres con Tirantes Manga Corta Transpirable Secado Rápido con 5D Acolchado Gel Culotes Culotte Pantalones Cortos  Verde M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H56YPBZ/?tag=tolees-21'
 descuento: '42.53'
 average: '31.49'

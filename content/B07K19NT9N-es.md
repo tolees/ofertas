@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'adidas Tiro19 PES Jkty Sport Jacket  Unisex niños  Black/White  7-8Y'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K19NT9N/?tag=tolees-21'
 descuento: '41.37'
 average: '20.49'

@@ -16,6 +16,7 @@ comparePrice: 136.02 EUR
 prodname: 'Smartphone Oferta del día  ofertas móviles 3 GB RAM 32 GB ROM - 6 2 pulgadas HD+ pantalla - Dual SIM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BLH53TV/?tag=tolees-21'
 descuento: '43.60'
 average: '76.71'

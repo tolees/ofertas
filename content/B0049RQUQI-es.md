@@ -16,6 +16,7 @@ comparePrice: 6.59 EUR
 prodname: 'Tremblay - Bombe de Froid 400 ml Taille - Unique'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0049RQUQI/?tag=tolees-21'
 descuento: '27.31'
 average: '4.79'

@@ -16,6 +16,7 @@ comparePrice: 39.97 EUR
 prodname: 'KLIM™ Comfort + Base de refrigeración para portátil + Protégete del Calor y Evita el sobrecalentamiento + Nueva 2020 + Silenciosa y cómoda  Compatible de 10 a 15 6" + Muy Estable + Bajo Ruido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NMFQ8MS/?tag=tolees-21'
 descuento: '25.02'
 average: '24.97'

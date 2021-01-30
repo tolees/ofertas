@@ -16,6 +16,7 @@ comparePrice: 16.84 EUR
 prodname: 'Funko- Pop Vinyl: Rocks: AC/DC: Angus Young w/Chase  Styles May Vary  Figura coleccionable  Multicolor  talla única  36318    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HB7WTQD/?tag=tolees-21'
 descuento: '40.68'
 average: '13.448'

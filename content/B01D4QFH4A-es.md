@@ -16,6 +16,7 @@ comparePrice: 17.2 EUR
 prodname: 'Revell- Star Wars Naboo Starfighter  Kit modele  Escala 1:109  03611 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01D4QFH4A/?tag=tolees-21'
 descuento: '35.06'
 average: '11.17'

@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Nike T-Lite 11  Zapatillas de Cross Training para Hombre  Blanco  White/Black/Obsidian   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BYG3W1I/?tag=tolees-21'
 descuento: '34.20'
 average: '32.9'

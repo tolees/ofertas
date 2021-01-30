@@ -16,6 +16,7 @@ comparePrice: 599.0 EUR
 prodname: 'Sigma 30 mm/F 1 4 DC/HSM - Objetivo para Canon  Distancia Focal Fija 45mm  Apertura f/1 4-16   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BQXL8BU/?tag=tolees-21'
 descuento: '28.53'
 average: '428.3933333333333'

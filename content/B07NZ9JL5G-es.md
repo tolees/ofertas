@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'ORICO Concentrador USB 3.0  4 Puertos USB 3.0 HUB de Escritorio Transparente con luz indicadora Azul y Fuente de alimentación de Doble Puerto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NZ9JL5G/?tag=tolees-21'
 descuento: '41.76'
 average: '8.73'

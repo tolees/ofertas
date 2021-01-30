@@ -16,6 +16,7 @@ comparePrice: 83.49 EUR
 prodname: 'Bosch Professional GLI 12V-330 - Linterna a batería  12V  330 lúmenes  sin batería  en caja '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MIUZAZA/?tag=tolees-21'
 descuento: '46.11'
 average: '48.074'

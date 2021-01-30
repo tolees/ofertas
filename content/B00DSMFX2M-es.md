@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Precision'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DSMFX2M/?tag=tolees-21'
 descuento: '50.00'
 average: '37.425'

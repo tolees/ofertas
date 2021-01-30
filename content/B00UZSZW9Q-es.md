@@ -16,6 +16,7 @@ comparePrice: 30.49 EUR
 prodname: 'Jako Polyesterjacke Pro Junior Jacke Blue-Navy-Citro - 152'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UZSZW9Q/?tag=tolees-21'
 descuento: '56.08'
 average: '13.39'

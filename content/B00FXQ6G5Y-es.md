@@ -16,6 +16,7 @@ comparePrice: 13.9 EUR
 prodname: 'Eucerin Atopicontrol Loción Corporal 12% Omega - 400 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00FXQ6G5Y/?tag=tolees-21'
 descuento: '28.78'
 average: '9.9'

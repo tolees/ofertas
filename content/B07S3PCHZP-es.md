@@ -16,6 +16,7 @@ comparePrice: 23.25 EUR
 prodname: 'SanDisk Memoria Flash USB Ultra de 32 GB con USB 3.0 y hasta 100 MB/s de Lectura - Paquete de 2 Unidades Rojo y Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S3PCHZP/?tag=tolees-21'
 descuento: '39.83'
 average: '14.19'

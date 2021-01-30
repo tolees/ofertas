@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'ORNARTO Funda Huawei Mate 20 Pro  Carcasa [Ultra-Delgado] [Ligera] Mate Anti-arañazos y Antideslizante Protectora Sedoso Caso para Huawei Mate 20 Pro  2018  6.39  Arena Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JDTFF3V/?tag=tolees-21'
 descuento: '66.69'
 average: '9.99'

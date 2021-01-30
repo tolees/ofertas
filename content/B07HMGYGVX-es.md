@@ -16,6 +16,7 @@ comparePrice: 26.32 EUR
 prodname: 'AmazonBasics - Toallas de uso diario  2 de baño y 4 de mano  Marrón topo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HMGYGVX/?tag=tolees-21'
 descuento: '37.54'
 average: '14.767500000000002'

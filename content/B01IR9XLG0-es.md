@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Maclaren AM1Y031872 Union Jack Princess Blue Forro de asiento Accesorio para silla de paseo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IR9XLG0/?tag=tolees-21'
 descuento: '47.25'
 average: '23.1075'

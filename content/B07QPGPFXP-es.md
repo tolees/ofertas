@@ -16,6 +16,7 @@ comparePrice: 47.99 EUR
 prodname: 'Teppiche Fußmatte Indoor-matten Die küche Wohnzimmer schlafzimmerbereich Anti-rutsch-Matte-schwarzC 40x60cm 15.7x23.6inch '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QPGPFXP/?tag=tolees-21'
 descuento: '41.68'
 average: '27.99'

@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Flex Advantage 3.0 Landess  Zapatillas para Hombre  Azul  Navy Knit/Synthetic/Trim NVY   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XHM3TRM/?tag=tolees-21'
 descuento: '52.08'
 average: '33.52'

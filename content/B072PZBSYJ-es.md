@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'Finether 4 1M Escalera Telescópica de Aluminio  Escalera Extensible Multifuncional Portátil  Certificada por EN131  profesionales y Plegables  Carga 150kg Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072PZBSYJ/?tag=tolees-21'
 descuento: '42.50'
 average: '91.99'

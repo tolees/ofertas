@@ -16,6 +16,7 @@ comparePrice: 29.61 EUR
 prodname: 'Cámara Digital réflex Digital de Alta definición/Media/Larga con Enfoque óptico Cámara CMR Funcionamiento Manual Uso doméstico Videocámara antivibraciones DV'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JQ1ZP9F/?tag=tolees-21'
 descuento: '39.01'
 average: '18.06'

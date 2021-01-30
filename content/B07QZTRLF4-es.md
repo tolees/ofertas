@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Under Armour Qualifier 2-In-1 Pantalones Cortos  Hombre  Negro  LG'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QZTRLF4/?tag=tolees-21'
 descuento: '41.82'
 average: '29.09'

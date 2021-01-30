@@ -16,6 +16,7 @@ comparePrice: 49.74 EUR
 prodname: 'Reebok Royal Complete  Zapatillas para Hombre  Negro  Black Bs7343   44.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073K1TZLL/?tag=tolees-21'
 descuento: '49.78'
 average: '28.47'

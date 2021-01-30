@@ -16,6 +16,7 @@ comparePrice: 39.89 EUR
 prodname: 'Icicles Hand Blown Glass Massager  No. 62-1 Unidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00I9UDS2K/?tag=tolees-21'
 descuento: '26.87'
 average: '29.17'

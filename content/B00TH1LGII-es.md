@@ -16,6 +16,7 @@ comparePrice: 285.0 EUR
 prodname: 'Vileda 949860 Robot aspirador inteligente con programador y estación de carga  25 W  68 Decibelios  Otro  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TH1LGII/?tag=tolees-21'
 descuento: '30.04'
 average: '152.10875'

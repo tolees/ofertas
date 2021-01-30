@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance Fresh Foam Cruz v2 Silent Rave Pack  Zapatillas para Hombre  Negro  Black/Raincloud/Deep Ozone Blue Dk2   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DJ2C2GK/?tag=tolees-21'
 descuento: '50.00'
 average: '50.85'

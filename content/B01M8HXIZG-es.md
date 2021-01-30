@@ -16,6 +16,7 @@ comparePrice: 39.27 EUR
 prodname: 'Arcopal - Vajilla con 18 Piezas  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M8HXIZG/?tag=tolees-21'
 descuento: '36.59'
 average: '24.9'

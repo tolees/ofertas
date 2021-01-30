@@ -16,6 +16,7 @@ comparePrice: 36.0 EUR
 prodname: 'NNJXD Partido del Unicornio Flor de Las Muchachas del Traje de Cosplay de la Boda de Halloween de fantasía de Princesa Dress + del Mismo tamaño Gorras  100  3-4 Años Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GWN9ST5/?tag=tolees-21'
 descuento: '44.47'
 average: '19.389999999999997'

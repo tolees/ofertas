@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'GEORGE GINA & LUCY Nylon 100 Peaches Red Palms'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06VXMTT7V/?tag=tolees-21'
 descuento: '35.99'
 average: '63.95'

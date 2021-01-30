@@ -16,6 +16,7 @@ comparePrice: 135.64 EUR
 prodname: 'GBC Fusion 3000L - Plastificadora para oficina y hogar  A3  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00AHW471Y/?tag=tolees-21'
 descuento: '25.01'
 average: '94.6075'

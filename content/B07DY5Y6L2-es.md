@@ -16,6 +16,7 @@ comparePrice: 270.0 EUR
 prodname: 'Orient Reloj Analógico para Hombre de Automático con Correa en Acero Inoxidable FEU0A003WH'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DY5Y6L2/?tag=tolees-21'
 descuento: '40.00'
 average: '151.33333333333334'

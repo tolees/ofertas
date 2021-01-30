@@ -16,6 +16,7 @@ comparePrice: 89 EUR
 prodname: 'Timex Reloj Analógico para Mujer de Cuarzo con Correa en Nailon TW2R49100'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077LZRPGF/?tag=tolees-21'
 descuento: '70.00'
 average: '29.666666666666664'

@@ -16,6 +16,7 @@ comparePrice: 141.79 EUR
 prodname: 'Mc Haus GROTTA - Mesa Comedor Extensible Madera salón  Mesa Cocina diseño Nórdico y patas de madera Natural 140/190x90x78cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084S9GMC4/?tag=tolees-21'
 descuento: '29.48'
 average: '99.99'

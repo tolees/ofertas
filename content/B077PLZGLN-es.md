@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Trust Gaming GXT 140 Manx - Ratón Gaming inalámbrico Iluminado con batería Recargable  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077PLZGLN/?tag=tolees-21'
 descuento: '33.34'
 average: '29.99'

@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Casio Collection AQ-230A-7BMQYES  Reloj Analógico-Digital para Hombre  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000MX59JC/?tag=tolees-21'
 descuento: '37.47'
 average: '23.23'

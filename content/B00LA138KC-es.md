@@ -16,6 +16,7 @@ comparePrice: 31.0 EUR
 prodname: 'Calvin Klein 0000F3785E  Sujetador Deportivo para Mujer  Blanco  White 100   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LA138KC/?tag=tolees-21'
 descuento: '35.52'
 average: '19.31'

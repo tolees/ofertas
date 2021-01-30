@@ -16,6 +16,7 @@ comparePrice: 15.98 EUR
 prodname: 'Linterna Taller Lampara led Recargable，HTBAKOI Luz de Trabajo Portatil Mecanico Superbrillante Dual Luz Modo  LED + COB   con Base Magnética 360º Gancho para Coche Hogar Camping Carro Uso Emergencia'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079DLXLR9/?tag=tolees-21'
 descuento: '37.55'
 average: '9.98'

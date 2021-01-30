@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'STANLEY FATMAX FMC694M1-QW - Pack Cargador de 2Ah con 1 batería de litio 18V de 4Ah'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CGREXDO/?tag=tolees-21'
 descuento: '31.85'
 average: '88.59'

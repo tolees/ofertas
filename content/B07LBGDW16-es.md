@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Kappa Memni  Zapatillas para Mujer  Black/White 1110  39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBGDW16/?tag=tolees-21'
 descuento: '53.99'
 average: '16.08'

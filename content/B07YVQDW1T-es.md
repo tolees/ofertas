@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Nike Revolution 5  Zapatillas de Atletismo para Hombre  Multicolor  Racer Blue/White/Black 401   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YVQDW1T/?tag=tolees-21'
 descuento: '30.09'
 average: '38.95'

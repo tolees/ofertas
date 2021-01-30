@@ -16,6 +16,7 @@ comparePrice: 20.39 EUR
 prodname: 'Foonii Pack de 4 Luces LED Sensores de Movimiento Sensor Automático Luces Nocturnas adecuado para de Escaleras Pasillos Armario Cocina etc Batería Impulsado[Clase de eficiencia energética A+]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M1JB3MI/?tag=tolees-21'
 descuento: '25.16'
 average: '15.26'

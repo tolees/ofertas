@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'PUMA Challenger Duffel Bag M Bolsa Deporte  Adultos Unisex  Black  OSFA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RC67WCY/?tag=tolees-21'
 descuento: '57.11'
 average: '19.865'

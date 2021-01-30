@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Frozen 2 Anna & Kristoff Couple Set'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KVJ2XF9/?tag=tolees-21'
 descuento: '72.13'
 average: '20.547500000000003'

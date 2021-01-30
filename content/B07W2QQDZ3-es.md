@@ -16,6 +16,7 @@ comparePrice: 7.64 EUR
 prodname: 'Philips Avent SCF376/12 - Pack de 2 chupetes Ultra Air Nocturno que brilla en la oscuridad  tetina suave para 0-6 m  apta para la piel sensible  con estuche de esterilización  color rosa y morado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W2QQDZ3/?tag=tolees-21'
 descuento: '31.94'
 average: '5.8966666666666665'

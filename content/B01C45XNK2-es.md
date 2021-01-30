@@ -16,6 +16,7 @@ comparePrice: 35.5 EUR
 prodname: 'DIM Generous Sujetador  Beige  New Skin   90C para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01C45XNK2/?tag=tolees-21'
 descuento: '32.54'
 average: '14.414285714285713'

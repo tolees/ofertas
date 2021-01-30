@@ -16,6 +16,7 @@ comparePrice: 13.09 EUR
 prodname: 'reer 83221 protector para plantas Negro Nylon - Protectores para plantas  Planta en maceta  Negro  Nylon  97 mm  30 mm  120 mm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078HTLKKS/?tag=tolees-21'
 descuento: '26.05'
 average: '9.68'

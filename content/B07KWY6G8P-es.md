@@ -16,6 +16,7 @@ comparePrice: 16.79 EUR
 prodname: 'OTraki Cepillo Electrico Dientes para Niños Cepillo Dientes Infantil Impermeable Temporizador Inteligente con LED Luz  Limpieza Dental Toothbrush con 2 Reemplazable Cabezas para Edad 3+  Verde '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KWY6G8P/?tag=tolees-21'
 descuento: '28.59'
 average: '11.99'

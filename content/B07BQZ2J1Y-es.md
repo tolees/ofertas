@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Relven-Velton  Zapatillas Deportivas para Hombre  Negro  Black BBK   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BQZ2J1Y/?tag=tolees-21'
 descuento: '36.43'
 average: '39.594'

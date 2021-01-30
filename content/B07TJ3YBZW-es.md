@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'YoRiBo Pajitas multifunción de Silicona Reutilizables con Cepillo Limpieza y Contenedor Almacenamiento- Plegables Pajas Sin BPA para Niños y para Viajes al Aire Libre.  4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJ3YBZW/?tag=tolees-21'
 descuento: '73.95'
 average: '5.99'

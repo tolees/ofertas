@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Tommy Hilfiger New ALY Belt Cinturón  Schwarz BLACK 090   105 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018LLLUXU/?tag=tolees-21'
 descuento: '33.61'
 average: '26.412857142857142'

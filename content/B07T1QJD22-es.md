@@ -16,6 +16,7 @@ comparePrice: 4.99 EUR
 prodname: 'Cerradura de puerta portátil  Cerradura de viaje  Agregar cerradura adicional para mayor seguridad y privacidad  Cerradura sólida de servicio pesado para viajar  AirBNB  Hotel  Hogar  Apartamento'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T1QJD22/?tag=tolees-21'
 descuento: '33.87'
 average: '3.3'

@@ -16,6 +16,7 @@ comparePrice: 17.65 EUR
 prodname: 'Saro 1435-C - Porta chupete  unisex'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KYDN27Y/?tag=tolees-21'
 descuento: '66.06'
 average: '5.99'

@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Levi s 511 Slim Shorts Pantalones Cortos  Azul  Baguette Short 0111   W29  Talla del Fabricante: 29  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TQNC3RM/?tag=tolees-21'
 descuento: '38.35'
 average: '30.994999999999997'

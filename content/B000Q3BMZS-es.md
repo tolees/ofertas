@@ -16,6 +16,7 @@ comparePrice: 44.84 EUR
 prodname: 'CHANEL ANTAEUS DEODORANT STICK 60 g Hombres Desodorante en barra - Desodorantes  Hombres  Desodorante  Desodorante en barra  De U  Universal  60 g '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000Q3BMZS/?tag=tolees-21'
 descuento: '26.40'
 average: '33.0'

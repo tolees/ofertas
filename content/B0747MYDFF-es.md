@@ -16,6 +16,7 @@ comparePrice: 78.82 EUR
 prodname: 'Tul Dosel Azul Mosquitera Cuna Bebe Cortina para Cama Infantil Decoración Habitación Juvenil pared Tienda Bebe Juegos Regalo NTE003'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0747MYDFF/?tag=tolees-21'
 descuento: '45.46'
 average: '42.99'

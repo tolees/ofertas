@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'OrgaWise Joyero Viaje Voyage Plegable Multifuncional  para Joyas  Collares  Pendientes  Anillos  Pulseras  ect'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VLMQ3V5/?tag=tolees-21'
 descuento: '48.29'
 average: '14.99'

@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Pack Escuadrón suicida + Aves de Presa  Y la fantabulosa emancipación de Harley Quinn  [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0898ZY3JL/?tag=tolees-21'
 descuento: '29.90'
 average: '21.22'

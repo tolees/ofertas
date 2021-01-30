@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'Rowenta Ultimate Experience SF8220 Plancha profesional con 5 ajustes de temperatura  deslizamiento óptimo  placas de anchas de 3 cm y calientamiento rápido  para todo tipo de cabellos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GDLMCV6/?tag=tolees-21'
 descuento: '31.87'
 average: '115.66666666666667'

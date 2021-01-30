@@ -16,6 +16,7 @@ comparePrice: 25.97 EUR
 prodname: 'Buluri 84 Piezas Fondant Cortadores - Bricolaje Fondant Cake Decorating Sugarcraft Tools Kits - Para Decorar Pasteles  Fondant  Galletas De Jarabe Galletas  Azúcar  Chocolat'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D3LKVDQ/?tag=tolees-21'
 descuento: '43.13'
 average: '14.77'

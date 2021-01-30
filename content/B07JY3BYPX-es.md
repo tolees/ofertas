@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Adidas Powerlift 4  Zapatillas de Deporte para Hombre  Negro  Core Black/Footwear White/Core Black 0   42 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JY3BYPX/?tag=tolees-21'
 descuento: '29.99'
 average: '69.97'

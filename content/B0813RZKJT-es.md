@@ -16,6 +16,7 @@ comparePrice: 27.57 EUR
 prodname: 'adidas Adilette Comfort  Slide Sandal Womens  Core Black/Silver Metallic/Core Black  38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0813RZKJT/?tag=tolees-21'
 descuento: '30.29'
 average: '19.22'

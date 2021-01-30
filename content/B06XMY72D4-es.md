@@ -16,6 +16,7 @@ comparePrice: 67.92 EUR
 prodname: 'BSN  Suplemento Dietético en Polvo "Syntha 6"   Sabor de Fresa - 2.26 kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XMY72D4/?tag=tolees-21'
 descuento: '41.00'
 average: '40.07'

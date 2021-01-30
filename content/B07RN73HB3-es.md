@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Oral-B Junior - Cepillo Eléctrico Recargable con Tecnología de Braun  1 Mango de Star Wars  1 Cabezal  Apto para Niños Mayores de 6 años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RN73HB3/?tag=tolees-21'
 descuento: '41.47'
 average: '35.23437499999999'

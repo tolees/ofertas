@@ -16,6 +16,7 @@ comparePrice: 23.9 EUR
 prodname: 'Havaianas Brasil Logo Zehentrenner Unisex-Erwachsene  Amarillo  Citrus Yellow   41/42 EU  6.5 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0036QKPGE/?tag=tolees-21'
 descuento: '51.46'
 average: '11.6'

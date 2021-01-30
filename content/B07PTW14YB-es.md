@@ -16,6 +16,7 @@ comparePrice: 25.03 EUR
 prodname: 'Carrera- Mercedes-AMG F1 W09 EQ Power+L. Hamilton  No.44   Stadlbauer 20064128 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PTW14YB/?tag=tolees-21'
 descuento: '32.28'
 average: '16.95'

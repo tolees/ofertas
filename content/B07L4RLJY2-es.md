@@ -16,6 +16,7 @@ comparePrice: 65.99 EUR
 prodname: 'Rubies - Disfraz Oficial de Los Vengadores Endgame Thanos  para Hombre Adulto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L4RLJY2/?tag=tolees-21'
 descuento: '29.00'
 average: '46.85'

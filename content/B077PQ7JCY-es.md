@@ -16,6 +16,7 @@ comparePrice: 18.06 EUR
 prodname: 'HORIZON ZERO DAWN - ORIGINAL SOUNDTRACK'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077PQ7JCY/?tag=tolees-21'
 descuento: '34.88'
 average: '12.89'

@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'KangaROOS Kf Act V  Zapatillas Unisex Niños  Gris  Vapor Grey/Daisy Pink 2050   34 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DDC54VJ/?tag=tolees-21'
 descuento: '70.88'
 average: '8.695'

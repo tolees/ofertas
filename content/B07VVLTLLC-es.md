@@ -16,6 +16,7 @@ comparePrice: 4.8 EUR
 prodname: 'One Punch Man - Pack de 6 chapas  Talla Única   Multicolor '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VVLTLLC/?tag=tolees-21'
 descuento: '33.33'
 average: '3.2'

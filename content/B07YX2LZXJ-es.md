@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Trueno Sala Elite'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YX2LZXJ/?tag=tolees-21'
 descuento: '40.00'
 average: '32.97'

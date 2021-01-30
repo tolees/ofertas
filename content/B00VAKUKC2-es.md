@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Infantino 004915-01 - 3 en 1 Proyector Musical Mobile'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VAKUKC2/?tag=tolees-21'
 descuento: '27.99'
 average: '36.0'

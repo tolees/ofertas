@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Ever-Pretty A-línea Vestito de Gala Cuello Redondo sin Mangas Encaje Gasa para Mujer Azul Marino 42'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JML2RJ9/?tag=tolees-21'
 descuento: '25.00'
 average: '54.99'

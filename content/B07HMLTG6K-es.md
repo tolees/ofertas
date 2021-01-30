@@ -16,6 +16,7 @@ comparePrice: 34.0 EUR
 prodname: 'RioRiva Calcetines de colores envueltos para regalo para hombres en 90% algodón  bonito diseño en media pantorrilla  estilo colorido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HMLTG6K/?tag=tolees-21'
 descuento: '41.21'
 average: '20.59'

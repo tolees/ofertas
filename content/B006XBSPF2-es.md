@@ -16,6 +16,7 @@ comparePrice: 54.84 EUR
 prodname: 'Yale YSV/200/DB1 Caja Fuerte Básica Pequeña  200 x 310 x 200 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006XBSPF2/?tag=tolees-21'
 descuento: '38.97'
 average: '33.47'

@@ -16,6 +16,7 @@ comparePrice: 26.67 EUR
 prodname: 'Yves Saint Laurent DESSIN DES SOURCILS eyebrow pencil #pink 1 02 gr - kilograms'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CBHW17J/?tag=tolees-21'
 descuento: '74.95'
 average: '6.68'

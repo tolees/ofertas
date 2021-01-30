@@ -16,6 +16,7 @@ comparePrice: 38.47 EUR
 prodname: 'Hoya Pro1 Digital - Filtro de protección UV para Objetivo de 72 mm  Montura Negra'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000BGZMTC/?tag=tolees-21'
 descuento: '40.53'
 average: '22.88'

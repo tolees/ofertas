@@ -16,6 +16,7 @@ comparePrice: 8.95 EUR
 prodname: 'L´Oreal Paris Infalible Sombra 306 Nudist - 1 Sombra de ojos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072JHJRTM/?tag=tolees-21'
 descuento: '43.24'
 average: '6.345000000000001'

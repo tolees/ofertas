@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Quiksilver Mission-Guantes para Snowboard/Esquí para Hombre  Black  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TFQ9QF6/?tag=tolees-21'
 descuento: '33.34'
 average: '29.99'

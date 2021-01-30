@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'SanDisk Cruzer Blade- Memoria USB 2.0  Pack 3 Unidades de Colores  16GB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NHBV6PE/?tag=tolees-21'
 descuento: '29.24'
 average: '9.9'

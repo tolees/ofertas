@@ -16,6 +16,7 @@ comparePrice: 65.26 EUR
 prodname: 'JBL E25BT – Auriculares intraurales inalámbricos con micrófono  Batería de hasta 8 horas  Color rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M5BUS65/?tag=tolees-21'
 descuento: '35.66'
 average: '41.99'

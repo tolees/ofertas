@@ -16,6 +16,7 @@ comparePrice: 199.9 EUR
 prodname: 'Drift DR150BG - Silla Gaming Profesional   Poilipiel Alta Calidad  Ergonómica   Color Negro/Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CY6MFKG/?tag=tolees-21'
 descuento: '25.58'
 average: '153.784'

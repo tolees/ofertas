@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'POWEROWL Cargador de Pilas AA AAA con 16 Ranuras para Ni-MH Ni-CD Baterías Recargables'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XF2GTZ2/?tag=tolees-21'
 descuento: '51.68'
 average: '28.99'

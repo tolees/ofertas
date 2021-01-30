@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Case Logic HDC11B - Funda rígida para Disco Duro de 2.5"  Color Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X5G14WY/?tag=tolees-21'
 descuento: '40.04'
 average: '5.99'

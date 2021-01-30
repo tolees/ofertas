@@ -16,6 +16,7 @@ comparePrice: 38.99 EUR
 prodname: 'ZIGLINT Cargador Inalámbrico Coche  Rápido Cargador Qi de Móvil con Sensor Automático 10/7.5 / 5W Soporte para iPhone XR/X/8/8 Plus  Samsung Galaxy s9/s9+/s8 / S7 / S6 Edge +/ Note 5  Xiaomi  Huawei'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GN8X1MK/?tag=tolees-21'
 descuento: '30.78'
 average: '24.32333333333333'

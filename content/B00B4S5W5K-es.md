@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Rowenta Steamforce DW9240D1 - Plancha ropa vapor 3.100 W  golpe de vapor 230 gr/min y vapor continuo de 65 gr/min  ajuste automático temperatura  antical integrado  autoapagado y autolimpieza'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00B4S5W5K/?tag=tolees-21'
 descuento: '31.53'
 average: '88.99428571428572'

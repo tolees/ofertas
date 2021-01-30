@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Wilson WTB2501XB07 Pelota de Baloncesto NCAA Battleground Caucho Interior y Exterior  Unisex-Adult  Negro/Gris  Official'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M7X58SD/?tag=tolees-21'
 descuento: '44.26'
 average: '11.084'

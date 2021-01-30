@@ -16,6 +16,7 @@ comparePrice: 75 EUR
 prodname: 'Under Armour Qualifier Camo Half Zip Parte Superior del Calentamiento  Mujer  Multicolor  LG'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9HZXM8/?tag=tolees-21'
 descuento: '44.64'
 average: '41.52'

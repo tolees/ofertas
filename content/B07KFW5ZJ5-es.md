@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'PUMA Thunder Fashion 2.0  Zapatillas Deportivas Unisex Adulto  Multicolor  High Rise-CASTLEROCK    38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFW5ZJ5/?tag=tolees-21'
 descuento: '72.68'
 average: '32.77'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'KZIOACSH [2 Unidades] Protector de Pantalla para Xiaomi Redmi Note 7，[9H Dureza] [Alta Definicion] [Anti-Arañazos] Cristal Templado para Xiaomi Redmi Note 7/Note 7 Pro Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MV55NGH/?tag=tolees-21'
 descuento: '64.93'
 average: '7.3'

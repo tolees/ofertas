@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'PUMA Liga Striped Maillot  Hombre  Electric Blue Lemonade/White  XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077SW4VNQ/?tag=tolees-21'
 descuento: '66.49'
 average: '8.36'

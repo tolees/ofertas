@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Under Armour Rival Fleece Jogger Pantalones  Hombre  Negro  Black/Black 001   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077XN3LZ6/?tag=tolees-21'
 descuento: '35.15'
 average: '35.67'

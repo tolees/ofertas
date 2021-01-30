@@ -16,6 +16,7 @@ comparePrice: 59.05 EUR
 prodname: 'Winning Moves-Juego de Mesa de una Pieza  Color  036948 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SQG3K1M/?tag=tolees-21'
 descuento: '43.03'
 average: '33.42666666666666'

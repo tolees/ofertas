@@ -16,6 +16,7 @@ comparePrice: 5.88 EUR
 prodname: 'Intex 58652EU - Manguitos hinchables marino 23x15 cm de 3 a 6 años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000VYN6KG/?tag=tolees-21'
 descuento: '66.16'
 average: '2.636'

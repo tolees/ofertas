@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'United Colors of Benetton Basic G1 Pantalones  Gris  Grigio Melange 501   82  Talla del Fabricante: 1Y  para Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MRKVXZ4/?tag=tolees-21'
 descuento: '53.59'
 average: '6.01'

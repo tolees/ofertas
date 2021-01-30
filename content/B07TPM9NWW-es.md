@@ -16,6 +16,7 @@ comparePrice: 18.0 EUR
 prodname: 'LolaPix Toalla Surf Personalizada con Nombre o Texto | Toalla Infantil niño niña bebé | Regalo Original Playa Piscina Camping | Varios Diseños y Tamaños | Surf'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TPM9NWW/?tag=tolees-21'
 descuento: '30.56'
 average: '12.5'

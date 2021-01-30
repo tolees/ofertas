@@ -16,6 +16,7 @@ comparePrice: 12.45 EUR
 prodname: 'Relec Infantil Loción Repelente Eficaz Antimosquitos. Niños a partir de 2 años - 125 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00M75LV2W/?tag=tolees-21'
 descuento: '36.95'
 average: '7.66'

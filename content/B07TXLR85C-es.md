@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Superga 2750 COTU Classic  Zapatillas Unisex Adulto  Naranja  Orange Md X2f   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TXLR85C/?tag=tolees-21'
 descuento: '73.47'
 average: '15.65'

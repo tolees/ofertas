@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'ENEGON NP-W126S NP-W126 Batería de Repuesto  Paquete de 2  y Cargador Dual USB para Fujifilm NP-W126S NP-W126 y Fuji FinePix HS30EXR HS35EXR HS50EXR X-A1 X-E1 X-E2 X-E3 X-M1 X-Pro1 X-T1 X-T3 y más'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VNDXH2Z/?tag=tolees-21'
 descuento: '61.68'
 average: '22.99'

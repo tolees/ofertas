@@ -16,6 +16,7 @@ comparePrice: 115.03 EUR
 prodname: 'Makita BO3711 - Lijadora Orbital Electronica  190W   4000-11000 Rpm  93 x 185 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002T9VRX4/?tag=tolees-21'
 descuento: '28.22'
 average: '82.18'

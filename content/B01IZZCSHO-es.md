@@ -16,6 +16,7 @@ comparePrice: 32.2 EUR
 prodname: 'Swiffer XXL Mopa & Completo de Sistema de Limpieza Plus 8 Suelo paños de Polvo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IZZCSHO/?tag=tolees-21'
 descuento: '28.57'
 average: '23.0'

@@ -16,6 +16,7 @@ comparePrice: 10.98 EUR
 prodname: 'Oihxse Funda para Huawei Honor V10 Lite/8X Transparente  Estuche con Huawei Honor V10 Lite/8X Ultra-Delgado Silicona TPU Suave Protectora Carcasa Océano Animal Serie Bumper  C10 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086M56BHS/?tag=tolees-21'
 descuento: '27.32'
 average: '7.98'

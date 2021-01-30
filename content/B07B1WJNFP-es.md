@@ -16,6 +16,7 @@ comparePrice: 7.77 EUR
 prodname: 'Tottenham Hotspur FC - Pack de dos chupetes oficiales  Talla Única   Azul marino/Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B1WJNFP/?tag=tolees-21'
 descuento: '58.82'
 average: '3.2'

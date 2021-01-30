@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Tommy Hilfiger Mujer-Reloj de Deporte analógico Everyday 1781636'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BNA0IRA/?tag=tolees-21'
 descuento: '60.39'
 average: '79.6'

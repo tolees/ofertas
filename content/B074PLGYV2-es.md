@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'fullmark multiusos pegamento  lavable  escuela  oficina  no tóxico  fuerte adhesivo transparente  0.53oz/15 g  20 Count  Jumbo Bulk Pack  apto para niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074PLGYV2/?tag=tolees-21'
 descuento: '77.79'
 average: '19.99'

@@ -16,6 +16,7 @@ comparePrice: 24.0 EUR
 prodname: 'Orchard Toys - Juego de Mesa de los Tres Cerditos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004JU0ETE/?tag=tolees-21'
 descuento: '29.62'
 average: '16.87'

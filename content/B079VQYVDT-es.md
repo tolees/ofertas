@@ -16,6 +16,7 @@ comparePrice: 29.85 EUR
 prodname: 'Targus TSS959GL 14" Gris maletines para Portátil - Funda  35 6 cm  14"   Tirante para Hombro  480 g  Gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079VQYVDT/?tag=tolees-21'
 descuento: '37.25'
 average: '18.73'

@@ -16,6 +16,7 @@ comparePrice: 19.7 EUR
 prodname: 'Rowenta XD9060E0 Cartucho antical para generadores Easy Steam y Fasteo centros de planchado  reduce el tiempo de calentamiento y mejora el rendimiento'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0743L1WYH/?tag=tolees-21'
 descuento: '39.14'
 average: '11.99'

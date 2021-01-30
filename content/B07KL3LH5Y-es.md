@@ -16,6 +16,7 @@ comparePrice: 20.66 EUR
 prodname: 'adidas D2m tee 3s T-Shirt  Hombre  White  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KL3LH5Y/?tag=tolees-21'
 descuento: '33.35'
 average: '13.77'

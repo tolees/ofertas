@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'PUMA Zone XT WNS  Zapatillas Deportivas para Interior para Mujer  Negro Black White  42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S6NJGD5/?tag=tolees-21'
 descuento: '34.62'
 average: '52.27'

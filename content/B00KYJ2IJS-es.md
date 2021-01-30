@@ -16,6 +16,7 @@ comparePrice: 92.36 EUR
 prodname: 'K&N YA-9514 Filtro de Aire para Yamaha XVS950 BOLT 950 2014 Moto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KYJ2IJS/?tag=tolees-21'
 descuento: '43.79'
 average: '51.92'

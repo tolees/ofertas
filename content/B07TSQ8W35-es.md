@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Ingram Streetway  Zapatillas sin Cordones para Hombre  Gris  Black Knitted Mesh Black   39.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TSQ8W35/?tag=tolees-21'
 descuento: '53.52'
 average: '32.51'

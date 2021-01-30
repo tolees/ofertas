@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'RUNCCI-YUN 10 Conectores coaxiales de Metal para Antena de TV  5 Conectores Hembra y 5 machos Macho para Antena de TV  Adaptador de Cable coaxial RF coaxial/coaxial+3M Cable Satélite'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FXSLFGK/?tag=tolees-21'
 descuento: '47.09'
 average: '8.99'

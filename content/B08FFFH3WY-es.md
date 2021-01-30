@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'UniqueMe [6 Pack Protector de Pantalla para Xiaomi Mi Band 5  [Adsorcion anhidra] [Película Flexible] Soft HD TPU Clear para Xiaomi Mi Band 5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FFFH3WY/?tag=tolees-21'
 descuento: '57.93'
 average: '7.99'

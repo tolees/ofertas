@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'SPC Opal teléfono móvil con Tapa y Dual SIM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082TDHDCJ/?tag=tolees-21'
 descuento: '48.26'
 average: '25.82'

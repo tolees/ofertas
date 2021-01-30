@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Superdry International Chino Short Pantalones Cortos  Beige  Sand Dollar Q2x   52  Talla del Fabricante: 32  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TPVCSS1/?tag=tolees-21'
 descuento: '57.93'
 average: '26.299999999999997'

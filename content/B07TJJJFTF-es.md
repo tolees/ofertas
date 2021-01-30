@@ -16,6 +16,7 @@ comparePrice: 16.95 EUR
 prodname: 'Nike U Nk H86 Cap Metal Swoosh Hat  Unisex Adulto  Team Orange  MISC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJJJFTF/?tag=tolees-21'
 descuento: '50.15'
 average: '8.45'

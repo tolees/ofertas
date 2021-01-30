@@ -16,6 +16,7 @@ comparePrice: 95.19 EUR
 prodname: 'LQLQO Mini humidificador Personal USB portátil ultrasónico humidificador de Niebla fría Humidificador de Aire de Niebla de 400 ml para hogar  Oficina  Dormitorio  habitación de bebé  Dorado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083FT2P2Z/?tag=tolees-21'
 descuento: '53.78'
 average: '44.0'

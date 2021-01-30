@@ -16,6 +16,7 @@ comparePrice: 81.99 EUR
 prodname: 'ART VVIES mit Haken Leinwanddrucke Rose Ringed Sittich Vogel Tier exotische Wildlife Küche 24 x 24 Zoll Wand Bild Holz gerahmt für Hauptdekorationen'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082H9PVQP/?tag=tolees-21'
 descuento: '56.10'
 average: '35.99'

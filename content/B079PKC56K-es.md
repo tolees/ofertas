@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Brabantia Recipiente para Residuos Orgánicos  Gris Oscuro 12.7 x 22.1 x 10.7 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079PKC56K/?tag=tolees-21'
 descuento: '39.90'
 average: '13.384000000000002'

@@ -16,6 +16,7 @@ comparePrice: 6.9 EUR
 prodname: 'Chicco Physio Air - Pack de 2 chupetes de látex/caucho para 16-36 meses  color azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01C23ELPC/?tag=tolees-21'
 descuento: '33.62'
 average: '4.58'

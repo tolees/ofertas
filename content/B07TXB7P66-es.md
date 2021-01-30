@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Jack & Jones Jjehill Knit Crew Neck Noos suéter  Verde  Olive Night Detail: Melange   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TXB7P66/?tag=tolees-21'
 descuento: '48.76'
 average: '20.49'

@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'Reproductor MP3  Wodgreat MP4 Player 8GB Reproductor de Música HiFi Lossless Sound  Pantalla de Color de 1.8 Pulgadas  Altavoz Incorporado  Radio FM  Grabación de Voz  E-Book  Soporta hasta 128GB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083S4RHQZ/?tag=tolees-21'
 descuento: '38.72'
 average: '18.99'

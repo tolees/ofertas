@@ -16,6 +16,7 @@ comparePrice: 22.95 EUR
 prodname: 'Tommy Hilfiger Thong String Tanga  Negro  Black 001   38  Talla del Fabricante: Medium  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MZGYODH/?tag=tolees-21'
 descuento: '30.07'
 average: '15.52'

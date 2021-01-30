@@ -16,6 +16,7 @@ comparePrice: 22.15 EUR
 prodname: 'Scholl Plantillas Gelactiv Profesional Mujer + Crema de Pies para Durezas - 2 plantillas  Talla 35.5-40.5  + Crema 60ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083KM5SYH/?tag=tolees-21'
 descuento: '25.01'
 average: '16.61'

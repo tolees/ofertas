@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'Astor Soft Sentation Color & Care Barra de Labios  color 405'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076JKBNQN/?tag=tolees-21'
 descuento: '59.75'
 average: '3.4050000000000002'

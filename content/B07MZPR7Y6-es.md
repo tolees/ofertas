@@ -16,6 +16,7 @@ comparePrice: 26.34 EUR
 prodname: 'Pepe Jeans London Koko Archi  Zapatillas Altas para Mujer   Black 999   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZPR7Y6/?tag=tolees-21'
 descuento: '27.90'
 average: '25.8225'

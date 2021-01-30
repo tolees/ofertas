@@ -16,6 +16,7 @@ comparePrice: 20.8 EUR
 prodname: 'Purina Friskies Pienso para Perro Adulto Buey  Cereales y Verduras 15 Kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H4RW6GK/?tag=tolees-21'
 descuento: '37.55'
 average: '12.99'

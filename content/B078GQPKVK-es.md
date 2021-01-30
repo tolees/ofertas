@@ -16,6 +16,7 @@ comparePrice: 119.9 EUR
 prodname: 'NutriBullet NB90928R Extractor de nutrientes original con recetario en español  ciclónico  apto lavavajillas  900 W  alta velocidad 25.000 rpm  color rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078GQPKVK/?tag=tolees-21'
 descuento: '28.48'
 average: '86.50333333333333'

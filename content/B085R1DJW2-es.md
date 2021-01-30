@@ -16,6 +16,7 @@ comparePrice: 6.2 EUR
 prodname: 'Finocam - Agenda Curso 2020-2021 E3  79 x 127 Semana Vista Apaisada Espir Label  Azul Cobalto  Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085R1DJW2/?tag=tolees-21'
 descuento: '26.61'
 average: '4.55'

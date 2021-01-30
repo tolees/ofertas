@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Color&Geometry Alfombrilla de Cocina de 2 Piezas  Alfombra Antideslizante  PVC Lavable y Resistente al Aceite  45 x 75 cm + 45 x 150 cm  Rojo óxido '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086SWLM97/?tag=tolees-21'
 descuento: '25.01'
 average: '29.99'

@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Lámpara de Techo Moderna Tomshine 24W 169 Piezas * 2835 Beads Luz de Techo LED Cuadrado IP65 Impermeable 4000k Luz Blanca Natural 2000lm Brillo Iluminación para Salón Comedor Habitacion Dormitorio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WVTVJ8K/?tag=tolees-21'
 descuento: '45.01'
 average: '32.99'

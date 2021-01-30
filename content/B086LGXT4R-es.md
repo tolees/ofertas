@@ -16,6 +16,7 @@ comparePrice: 4.5 EUR
 prodname: 'Burger de Wagyu con verduras y setas 2 x 125gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086LGXT4R/?tag=tolees-21'
 descuento: '25.56'
 average: '3.35'

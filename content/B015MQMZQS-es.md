@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Moulinex Accesorios XF383110 - Accesorio cortador de 3 discos  eje rotación  tapa con doble tubo  color blanco para Cuisine Companion y Cuisine iCompanion  fácil de guardar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015MQMZQS/?tag=tolees-21'
 descuento: '34.10'
 average: '66.134'

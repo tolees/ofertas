@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'PICTEK Teclado Gaming RGB con Soporte para Teléfono Móvil  Rueda de Volumen  Teclado USB con 21 Botones Multimedia  Ergonómico / Conveniente / Resistente al Agua para MAC / PC - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z8SHDVM/?tag=tolees-21'
 descuento: '38.23'
 average: '29.6325'

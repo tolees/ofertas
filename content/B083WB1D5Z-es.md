@@ -16,6 +16,7 @@ comparePrice: 271.98 EUR
 prodname: 'TONGJI Vitrina de Acrílico con Luces Compatible con Lego 75105 Star Wars Millennium Falcon  Vitrina A Prueba De Polvo  Modelo No Incluido '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083WB1D5Z/?tag=tolees-21'
 descuento: '50.00'
 average: '135.99'

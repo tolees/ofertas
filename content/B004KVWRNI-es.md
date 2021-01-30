@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'M2 Beauté Ceja Renovación de 5 ml de suero  1er Pack  1 x 5 ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004KVWRNI/?tag=tolees-21'
 descuento: '34.02'
 average: '93.45'

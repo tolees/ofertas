@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Funda protectora para Moto E6 Plus E6  con anillo de metal  soporte giratorio 360 grados  amortiguación de golpes TPU + PC 2 en 1 E6 rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0825WKR6S/?tag=tolees-21'
 descuento: '41.38'
 average: '12.89'

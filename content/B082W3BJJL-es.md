@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Pistola de Masaje  Electrónica Masajeador de Tejido Profundo con 6 Niveles Ajustables  4 Cabezas de Masaje y Ultra Silenciosos  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082W3BJJL/?tag=tolees-21'
 descuento: '43.00'
 average: '56.99'

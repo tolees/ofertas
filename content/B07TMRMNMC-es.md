@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Un Costa Lace  Zapatillas  Azul  Navy Leather Navy Leather   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TMRMNMC/?tag=tolees-21'
 descuento: '51.05'
 average: '48.93'

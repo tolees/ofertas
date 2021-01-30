@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Tommy Hilfiger Core Hilfiger Regular Polo  Gris  Cloud Htr 501   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B96LXLM/?tag=tolees-21'
 descuento: '28.47'
 average: '49.665'

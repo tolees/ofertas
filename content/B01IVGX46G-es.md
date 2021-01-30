@@ -16,6 +16,7 @@ comparePrice: 235.0 EUR
 prodname: 'Calvin Klein Reloj Analogico para Hombre de Cuarzo con Correa en Tela K7B211WL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IVGX46G/?tag=tolees-21'
 descuento: '30.54'
 average: '163.23'

@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Helly Hansen Feathering  Náuticos para Hombre  Azul  Navy/Off White 597   40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TCC65M5/?tag=tolees-21'
 descuento: '49.73'
 average: '45.24'

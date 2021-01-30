@@ -16,6 +16,7 @@ comparePrice: 10.3 EUR
 prodname: 'Nosaprotect  Spray triple acción Melocotón. Protección contra piojos. 250 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FFSSUF8/?tag=tolees-21'
 descuento: '27.18'
 average: '7.5'

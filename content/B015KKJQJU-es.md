@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Kappa Rocket  Zapatillas Unisex Adulto  Azul  Navy/White 6710   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015KKJQJU/?tag=tolees-21'
 descuento: '26.11'
 average: '22.13'

@@ -16,6 +16,7 @@ comparePrice: 80.87 EUR
 prodname: 'Casio Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable LTP-1302PSG-7AVEF'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JVL4EBK/?tag=tolees-21'
 descuento: '46.42'
 average: '43.33'

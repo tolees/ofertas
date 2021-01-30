@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Chicco Humi Fresh - Humidificador de vapor frío con contenedor de esencias y autonomía de 8 horas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M67WUBP/?tag=tolees-21'
 descuento: '32.59'
 average: '37.858'

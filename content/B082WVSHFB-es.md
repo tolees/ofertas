@@ -16,6 +16,7 @@ comparePrice: 13.79 EUR
 prodname: 'Magicfly Cesto Ropa Sucia Lavandería 75L Bolsa Lavandería Almacenamiento Colada Resistente al Agua Moho Plegable  Incluye 5 Bolsas de Lavadora de 3 Tamaños Gratis'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082WVSHFB/?tag=tolees-21'
 descuento: '25.16'
 average: '10.32'

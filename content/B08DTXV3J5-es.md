@@ -16,6 +16,7 @@ comparePrice: 179.95 EUR
 prodname: 'Auriculares inalámbricos Bluetooth 5.0  Auriculares inalámbricos idnternos  IPX7 a Prueba de Agua  reducción de Ruido estéreo 3D  Compatible con iPhone/Huawei/Samsung /（2.ª generación'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DTXV3J5/?tag=tolees-21'
 descuento: '72.22'
 average: '49.99'

@@ -16,6 +16,7 @@ comparePrice: 279.99 EUR
 prodname: 'Craft Lightcraft Shineball S-XL Set lámparas Esfera Decoracion Jardin Bola iluminacion Nocturna Exteriores  4 Unidades luz de Diferentes tamaños  Resistente  Incluye Fijaciones '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y2H3DM7/?tag=tolees-21'
 descuento: '32.14'
 average: '189.99'

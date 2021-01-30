@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Funko Vinyl: Valerian: Doghan Daguis  10 cm  14336 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XGYX3QW/?tag=tolees-21'
 descuento: '61.63'
 average: '5.941428571428572'

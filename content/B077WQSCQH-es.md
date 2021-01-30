@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Hatteker Tondeuse Cheveux Tondeuse Barbe Professionnelle Electrique avec Ecran LCD Sans Fils USB Rechargeable Imperméable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077WQSCQH/?tag=tolees-21'
 descuento: '55.01'
 average: '35.99'

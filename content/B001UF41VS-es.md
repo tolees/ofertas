@@ -16,6 +16,7 @@ comparePrice: 27.0 EUR
 prodname: 'Lékué Duo Redondo Rojo Molde Pastel  Silicona  23 x 7 x 23 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001UF41VS/?tag=tolees-21'
 descuento: '39.30'
 average: '17.674166666666668'

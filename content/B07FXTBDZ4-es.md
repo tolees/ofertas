@@ -16,6 +16,7 @@ comparePrice: 16.19 EUR
 prodname: 'Bolsa de Cochecito de Landau Impermeable Diseñado con Suspensión de Viaje Organizador de Transporte Bolsa de Almacenamiento Portátil Cochecito de Pañales Bolsa Nero '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FXTBDZ4/?tag=tolees-21'
 descuento: '34.03'
 average: '10.68'

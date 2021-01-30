@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'BERING Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable 33440-227'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IUJQP9S/?tag=tolees-21'
 descuento: '36.56'
 average: '143.681'

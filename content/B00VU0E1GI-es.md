@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Nike Knee High Classic Football Dri Fit Calcetines  Unisex Adulto  Rojo  Varsity Red/White   XS  30-34 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VU0E1GI/?tag=tolees-21'
 descuento: '50.45'
 average: '4.95'

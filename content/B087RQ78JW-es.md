@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Warhammer 40.000: Mechanicus'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087RQ78JW/?tag=tolees-21'
 descuento: '30.11'
 average: '27.95'

@@ -16,6 +16,7 @@ comparePrice: 175.0 EUR
 prodname: 'Saucony Triumph ISO 5  Zapatillas de Running para Mujer  Purple/Peach  39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MCY4GTG/?tag=tolees-21'
 descuento: '54.31'
 average: '79.95'

@@ -16,6 +16,7 @@ comparePrice: 90 EUR
 prodname: 'New Balance Cm997hv1  Zapatillas para Hombre  Blanco  White White   47 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KRL7TY2/?tag=tolees-21'
 descuento: '61.99'
 average: '34.21'

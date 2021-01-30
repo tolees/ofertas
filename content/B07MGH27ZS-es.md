@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Transportín Perro Gato  Bolsa de Transporte Transpirable para Mascotas  Portador de Viaje con Correa de Hombro Ajustable  Transporte de Gato con Colchón Suave + Tazón Plegable  16.2*12.1*9.45 inch '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MGH27ZS/?tag=tolees-21'
 descuento: '50.01'
 average: '29.55285714285714'

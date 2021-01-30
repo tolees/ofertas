@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Skechers Comfy Flex 2.0  Zapatillas para Niñas  Plateado  Silver Sparkle Mesh/Lt.Blue Trim Sllb   26 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NQSDT33/?tag=tolees-21'
 descuento: '39.91'
 average: '21'

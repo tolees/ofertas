@@ -16,6 +16,7 @@ comparePrice: 7.6 EUR
 prodname: 'Biotina 45 comprimidos para fortalecimiento de pelo y uñas Drasanvi'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PYAPO2A/?tag=tolees-21'
 descuento: '31.58'
 average: '5.2'

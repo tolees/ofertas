@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Puma Liga Casuals Shorts Pantalones Cortos  Hombre  Negro Black White  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077SPZ63X/?tag=tolees-21'
 descuento: '26.88'
 average: '17.81'

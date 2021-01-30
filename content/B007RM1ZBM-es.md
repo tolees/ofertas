@@ -16,6 +16,7 @@ comparePrice: 252.89 EUR
 prodname: 'Grohe Concetto - Grifo de lavabo mural 1/2"Tamaño S  color cromo  Ref.19575001 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007RM1ZBM/?tag=tolees-21'
 descuento: '52.16'
 average: '120.99'

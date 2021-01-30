@@ -16,6 +16,7 @@ comparePrice: 37.23 EUR
 prodname: 'BENETTON PINK COL WOM 80V'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N94SLCW/?tag=tolees-21'
 descuento: '54.39'
 average: '16.98'

@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'VAIRO Polo Masculino Columns  Blanco  XL '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079ZX82YP/?tag=tolees-21'
 descuento: '50.19'
 average: '19.9'

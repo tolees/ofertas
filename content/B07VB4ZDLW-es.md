@@ -16,6 +16,7 @@ comparePrice: 14.84 EUR
 prodname: 'DURAGADGET Cable De Audio Compatible con Portátil Acer Aspire 3A315-41-R8N8  HP 15-db1011ns  MSI GP75 Leopard 9SE-660XES  MSI GS75 Stealth 9SD-604ES - con Conexión de 3.5mm Y Bañado En Oro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VB4ZDLW/?tag=tolees-21'
 descuento: '33.36'
 average: '9.89'

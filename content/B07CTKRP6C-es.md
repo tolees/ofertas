@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'JACK & JONES Jfwalbany Leather Brown Stone STS  Botas Estilo Motero para Hombre  Marrón  44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CTKRP6C/?tag=tolees-21'
 descuento: '38.00'
 average: '61.99'

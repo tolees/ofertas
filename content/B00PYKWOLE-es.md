@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Nike Court Royale  Zapatillas de Gimnasia para Hombre  Negro  Black/White   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PYKWOLE/?tag=tolees-21'
 descuento: '45.44'
 average: '32.373333333333335'

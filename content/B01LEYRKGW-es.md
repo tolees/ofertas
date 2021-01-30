@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'ID Italian Design | Cepillo Alisador Steam Brush Pro 2.0 de Color Blanco - 80W'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LEYRKGW/?tag=tolees-21'
 descuento: '58.09'
 average: '36.01571428571429'

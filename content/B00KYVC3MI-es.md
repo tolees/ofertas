@@ -16,6 +16,7 @@ comparePrice: 1.95 EUR
 prodname: 'Campingaz - Cartucho De Gas Perforable C206'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KYVC3MI/?tag=tolees-21'
 descuento: '51.28'
 average: '1.45'

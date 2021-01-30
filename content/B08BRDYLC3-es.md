@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Grapas de Pared para Cables Eléctricos con Adhesivo  Gestión de Cable Eléctrico  Clips de Cables para Cable de USB  TV  Cargador  Audio  para Cables en Hogar  Oficina y Coche'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BRDYLC3/?tag=tolees-21'
 descuento: '35.02'
 average: '12.99'

@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'QHOHQ Protector de Pantalla para Xiaomi Mi A3  [3 Unidades] Cristal Templado Screen Protector 9H [Versión Mejorada] para Xiaomi Mi A3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZKHYKD/?tag=tolees-21'
 descuento: '38.49'
 average: '7.99'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Beautural Secador de Pelo  Secador 2200W con Selector de Velocidad Reajustable del Flujo de Aire  Iónico  2 Niveles de Calor y Aire Frio  Accesorios Concentrador y Difusor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FVSVBDW/?tag=tolees-21'
 descuento: '42.01'
 average: '24.206666666666667'

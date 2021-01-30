@@ -16,6 +16,7 @@ comparePrice: 16.5 EUR
 prodname: 'Planificador de estudio Mr. Wonderful para que no se te pase ni una'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F43ZTK1/?tag=tolees-21'
 descuento: '50.00'
 average: '8.25'

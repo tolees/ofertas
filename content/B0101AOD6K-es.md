@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'Fossil Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero FS5088'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0101AOD6K/?tag=tolees-21'
 descuento: '32.79'
 average: '101.885'

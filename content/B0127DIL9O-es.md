@@ -16,6 +16,7 @@ comparePrice: 52.5 EUR
 prodname: 'Juego De Tronos Temporada 2 Steelbook Blu-Ray [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0127DIL9O/?tag=tolees-21'
 descuento: '52.40'
 average: '20.615'

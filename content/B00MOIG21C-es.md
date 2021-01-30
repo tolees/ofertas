@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'WMF Kitchenminis Hervidor de agua eléctrico  0.8 litros  1800 W  acero inoxidable cromargan'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MOIG21C/?tag=tolees-21'
 descuento: '48.11'
 average: '42.655'

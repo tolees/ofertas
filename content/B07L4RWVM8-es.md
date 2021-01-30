@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Sockers FCB - Figura de Gerard Piqué 2018/19  Azulgrana  30 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L4RWVM8/?tag=tolees-21'
 descuento: '56.69'
 average: '12.95'

@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Levi s 511 Slim Shorts Pantalones Cortos  Gris  Ciabatta Short 0113   W29  Talla del Fabricante: 29  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TNLV4DQ/?tag=tolees-21'
 descuento: '43.93'
 average: '33.64'

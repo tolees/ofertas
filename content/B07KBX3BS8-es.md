@@ -16,6 +16,7 @@ comparePrice: 8.9 EUR
 prodname: 'Nyx Professional Makeup Corrector No Comedogénico  Waterproof Y De Larga Duración Can T Stop Won T Stop 24H 24H Tono 2 Alabaster Para Pieles Claras'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KBX3BS8/?tag=tolees-21'
 descuento: '27.53'
 average: '6.45'

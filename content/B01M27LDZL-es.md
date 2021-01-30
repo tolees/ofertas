@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Dunlop OMEGA - Pala de pádel 38mm  2017  nivel iniciación  color verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M27LDZL/?tag=tolees-21'
 descuento: '62.03'
 average: '37.95'

@@ -16,6 +16,7 @@ comparePrice: 110.56 EUR
 prodname: 'G-STAR RAW Bronson Low Waist Boyfriend Chino Pantalones  Negro  rinsed pressed 6960-7410   30W / 34L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HZUQL8C/?tag=tolees-21'
 descuento: '89.92'
 average: '11.74'

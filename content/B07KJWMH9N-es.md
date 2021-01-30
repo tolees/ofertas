@@ -16,6 +16,7 @@ comparePrice: 55.99 EUR
 prodname: 'QUIKSILVER Nelson Surfwash Hybrid Shorts  Hombre  Black  36'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KJWMH9N/?tag=tolees-21'
 descuento: '65.94'
 average: '19.07'

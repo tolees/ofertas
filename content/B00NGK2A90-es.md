@@ -16,6 +16,7 @@ comparePrice: 10.6 EUR
 prodname: 'Beter Pur Pedicur - Cortacallos con bisagra'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NGK2A90/?tag=tolees-21'
 descuento: '52.92'
 average: '4.99'

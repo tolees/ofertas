@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'ITALY MORN Pantalones Jogger de Hombre Bolsillos Laterales XL Azul Oscuro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BLZ1JCP/?tag=tolees-21'
 descuento: '60.69'
 average: '34.99'

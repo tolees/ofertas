@@ -16,6 +16,7 @@ comparePrice: 39.57 EUR
 prodname: 'Lacoste Carnaby EVO BL 2 SUC  Zapatillas Unisex Niños  Blanco  B53 White/Pink   28 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DV1MQNM/?tag=tolees-21'
 descuento: '46.35'
 average: '21.23'

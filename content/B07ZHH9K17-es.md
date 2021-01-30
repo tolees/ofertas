@@ -16,6 +16,7 @@ comparePrice: 17.9 EUR
 prodname: 'Villanas Disney -Bolso Redondo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZHH9K17/?tag=tolees-21'
 descuento: '58.38'
 average: '7.45'

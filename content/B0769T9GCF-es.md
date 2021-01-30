@@ -16,6 +16,7 @@ comparePrice: 22.19 EUR
 prodname: 'B Blesiya 48pcs Topper Vintage Cupcake Flor Fairy Cowboy Papel Temático Toppers de Torta Decoraciones Fiesta de Cumpleaños Accesorios de T'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0769T9GCF/?tag=tolees-21'
 descuento: '44.43'
 average: '12.33'

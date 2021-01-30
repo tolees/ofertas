@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'ZoneYan Niños Bricolaje Conjunto de Cuentas  Niños DIY Set de Perlas  Cuentas para la Fabricación de Joyas para Niños  Kit de Cuentas para Hacer Pulseras niñas  Juguete de Cuentas de Niños DIY  2 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08HCK9XP7/?tag=tolees-21'
 descuento: '60.02'
 average: '11.99'

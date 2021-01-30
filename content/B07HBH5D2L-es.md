@@ -16,6 +16,7 @@ comparePrice: 14.98 EUR
 prodname: 'WiCareYo 1.8M 6ft Audio Video Cable AV 9 Pines para Genesis Mega Drive 2 y 3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HBH5D2L/?tag=tolees-21'
 descuento: '39.32'
 average: '9.09'

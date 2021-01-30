@@ -16,6 +16,7 @@ comparePrice: 48.57 EUR
 prodname: 'Powcan Ratón Gaming con Cable Profesional USB 16400 DPI con 5 Colores Ajustable RGB y 10 Botón Compatible con Windows 7  8  10  XP  Vista  ME  2000 y Mac OS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XZ3R4S4/?tag=tolees-21'
 descuento: '44.41'
 average: '27.0'

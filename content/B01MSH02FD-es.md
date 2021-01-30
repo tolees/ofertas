@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Vans UA ISO 2  Zapatillas para Hombre  Azul  Prime   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MSH02FD/?tag=tolees-21'
 descuento: '74.32'
 average: '26.316666666666666'

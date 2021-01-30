@@ -16,6 +16,7 @@ comparePrice: 32.13 EUR
 prodname: 'Cámara de Video Digital HD-100 Full HD 1080P Pantalla TFT de 2.7 Pulgadas Pantalla portátil de 16.0 megapíxeles Mini DV para Uso en el hogar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KT5X6Z5/?tag=tolees-21'
 descuento: '32.00'
 average: '21.39'

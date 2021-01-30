@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'adidas Altasport CF I  Zapatillas Unisex Niños  Blanco  Footwear White/Blue/Footwear White 0   25 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MU50SRI/?tag=tolees-21'
 descuento: '66.58'
 average: '10.01'

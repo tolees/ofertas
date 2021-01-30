@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Creative Labs Halo - Altavoz Inalámbrico portable con Bluetooth  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074WJ5QB4/?tag=tolees-21'
 descuento: '43.83'
 average: '39.59'

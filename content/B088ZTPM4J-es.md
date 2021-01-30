@@ -16,6 +16,7 @@ comparePrice: 29.66 EUR
 prodname: 'P Prettyia Película Protectora De Pantalla Templada Anti-Aceite De 0.3 Mm con Herramientas para Teclast T30'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088ZTPM4J/?tag=tolees-21'
 descuento: '44.44'
 average: '16.48'

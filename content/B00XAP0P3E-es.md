@@ -16,6 +16,7 @@ comparePrice: 9.7 EUR
 prodname: 'Haribo Delfines Azules  1kg '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XAP0P3E/?tag=tolees-21'
 descuento: '51.34'
 average: '4.565'

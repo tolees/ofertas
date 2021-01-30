@@ -16,6 +16,7 @@ comparePrice: 36.87 EUR
 prodname: 'Arcos Universal - Set de 2 Cuchillos  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007TS6GI6/?tag=tolees-21'
 descuento: '25.47'
 average: '27.48'

@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Eagle Flight'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZ72OSN/?tag=tolees-21'
 descuento: '49.96'
 average: '17.235714285714288'

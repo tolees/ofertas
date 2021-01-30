@@ -16,6 +16,7 @@ comparePrice: 142.99 EUR
 prodname: 'Inventor Fresh 12L  Deshumidificador Portátil con Refrigerante R290 - Deshumidificación Continua y Silenciosa  Panel de Control Digital y Dos Años de Garantía'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XHMLNPL/?tag=tolees-21'
 descuento: '33.60'
 average: '94.95'

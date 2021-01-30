@@ -16,6 +16,7 @@ comparePrice: 25.4 EUR
 prodname: 'Biotherm Sun Brume Solaire Dry Touch SPF50 Protector Solar - 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JMQWDMQ/?tag=tolees-21'
 descuento: '39.80'
 average: '15.393333333333333'

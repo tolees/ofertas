@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Calvin Klein - Ck Bombe  5cc W/Coin  Carteras Hombre  Azul  Blackwhite Navy   1x1x1 cm  W x H L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V3RPXRR/?tag=tolees-21'
 descuento: '50.75'
 average: '29.5'

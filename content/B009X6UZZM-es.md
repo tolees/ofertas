@@ -16,6 +16,7 @@ comparePrice: 312.69 EUR
 prodname: 'Lexmark 50F2U0E - Tóner  capacidad 20000 páginas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009X6UZZM/?tag=tolees-21'
 descuento: '40.84'
 average: '185'

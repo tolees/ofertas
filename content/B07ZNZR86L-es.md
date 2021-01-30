@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Valsole Plantillas Ortopédicas soportes de arco y talones la absorción de choque- para el dolor de talón  pie plano  Fascitis Plantar  dolor de rodilla y espalda  43-44 EU  280mm   red-v7a '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZNZR86L/?tag=tolees-21'
 descuento: '36.68'
 average: '18.30428571428571'

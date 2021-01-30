@@ -16,6 +16,7 @@ comparePrice: 19.79 EUR
 prodname: 'Campingaz Coolbag Nevera Flexible  13 l  KÃ¼hltasche Carry  Dunkelblau/Grau  44 x 15 x 35 cm  13 Liters  2000011726  0.00 euro/100 ml  Azul Marino/Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00AGAG2T2/?tag=tolees-21'
 descuento: '49.97'
 average: '11.70111111111111'

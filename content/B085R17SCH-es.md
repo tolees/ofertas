@@ -16,6 +16,7 @@ comparePrice: 12.5 EUR
 prodname: 'Finocam - Agenda Curso 2020-2021 Cuarto-155x212 1 Día Página Secundaria Magia Catalán'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085R17SCH/?tag=tolees-21'
 descuento: '30.00'
 average: '8.75'

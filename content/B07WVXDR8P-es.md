@@ -16,6 +16,7 @@ comparePrice: 78.25 EUR
 prodname: 'TAIFU - Adaptador de alimentación CA  65 W  Chargeur Universel 65W'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WVXDR8P/?tag=tolees-21'
 descuento: '93.51'
 average: '5.08'

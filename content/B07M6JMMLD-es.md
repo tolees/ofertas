@@ -16,6 +16,7 @@ comparePrice: 17.98 EUR
 prodname: 'Homyl Caja Estuche para Bolsa Funda para Ordenador portátil para MacBook Pro/Air/Retina 11 " 13 "/15 " 15.6 Pulgadas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M6JMMLD/?tag=tolees-21'
 descuento: '44.44'
 average: '9.99'

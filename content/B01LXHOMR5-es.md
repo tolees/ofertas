@@ -16,6 +16,7 @@ comparePrice: 161.8 EUR
 prodname: 'Bosch Professional GSS 18V-10 Orbital  Plato lijador 113 x 101 mm  microfiltro  sin batería  en L-BOXX  18 V  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LXHOMR5/?tag=tolees-21'
 descuento: '25.84'
 average: '124.65'

@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'GARDENA 750 B 12007-20 Cortarramas EnergyCut la podadera compacta con engranaje integrado para los trabajos de poda más exigentes  principio bypass'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JMDVHNV/?tag=tolees-21'
 descuento: '26.01'
 average: '44.36'

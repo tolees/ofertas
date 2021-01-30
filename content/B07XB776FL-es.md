@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'QHOHQ Funda para Xiaomi Redmi Note 8 Pro  Cases Silicona Thin Slim TPU Cuatro Esquinas Anti-caída para Xiaomi Redmi Note 8 Pro  Transparente '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XB776FL/?tag=tolees-21'
 descuento: '53.21'
 average: '7.296666666666667'

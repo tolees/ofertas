@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Superdry Core Sport Graphic tee Top de Deporte  Negro  Black 02a   XS para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P3K3XJF/?tag=tolees-21'
 descuento: '34.88'
 average: '19.53'

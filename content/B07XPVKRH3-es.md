@@ -16,6 +16,7 @@ comparePrice: 8.4 EUR
 prodname: 'Zapatillas de espinilleras de fútbol para Profesionales Titular de Calzado Deportivo Calzado de Nailon Transpirable Fundas de Bloqueo para Guardias de fútbol Shin - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XPVKRH3/?tag=tolees-21'
 descuento: '35.00'
 average: '5.46'

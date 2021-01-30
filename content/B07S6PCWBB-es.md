@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'PUMA X-Ray  Zapatillas Unisex-Adulto  Negro Black/Dark Shadow  38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S6PCWBB/?tag=tolees-21'
 descuento: '54.81'
 average: '36.13'

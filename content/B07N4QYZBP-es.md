@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Under Armour Tech Pant 2.0  Pantalones Deportivos Mujer  Negro  Black/Metallic Silver   XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N4QYZBP/?tag=tolees-21'
 descuento: '60.29'
 average: '17.87'

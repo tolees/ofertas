@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Funko- Pop Vinilo: NSYNC: Lance Bass Figura Coleccionable  Multicolor  34543 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N5XR3GW/?tag=tolees-21'
 descuento: '33.11'
 average: '6.763333333333334'

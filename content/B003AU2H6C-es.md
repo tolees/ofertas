@@ -16,6 +16,7 @@ comparePrice: 27.0 EUR
 prodname: 'Sebastian Volupt Acondicionador - 250 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003AU2H6C/?tag=tolees-21'
 descuento: '50.41'
 average: '14.170000000000002'

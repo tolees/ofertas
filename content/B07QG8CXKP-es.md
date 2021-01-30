@@ -16,6 +16,7 @@ comparePrice: 17.65 EUR
 prodname: 'minzoier Tarjeta de Memoria Flash SDXC Micro SD de 128GB / 256GB / 400GB Clase 10 para la cámara del teléfono Celular Laptop + Adaptador Gratuito'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QG8CXKP/?tag=tolees-21'
 descuento: '43.40'
 average: '9.99'

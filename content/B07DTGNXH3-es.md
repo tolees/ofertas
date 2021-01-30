@@ -16,6 +16,7 @@ comparePrice: 28.95 EUR
 prodname: 'Calcetines de Deporte Low Cut Pack de 5  Multicolor: 2 x Negro  2 x Gris  1 x Blanco  EU 39-42 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DTGNXH3/?tag=tolees-21'
 descuento: '38.00'
 average: '18.95'

@@ -16,6 +16,7 @@ comparePrice: 27.9 EUR
 prodname: 'Pedigree Dentastix de uso diario para higiene oral para perros medianos - Pack de 10 x 7 sticks - Total: 70 sticks'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002RWK1DA/?tag=tolees-21'
 descuento: '31.90'
 average: '19.599999999999998'

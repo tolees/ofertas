@@ -16,6 +16,7 @@ comparePrice: 6.5 EUR
 prodname: 'Wilson Pro Feel Antivibrador Raqueta-Unisex  Rojo/Plata  NS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GKQG2GY/?tag=tolees-21'
 descuento: '49.54'
 average: '5.62'

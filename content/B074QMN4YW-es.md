@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Microsoft - Adaptador Wireless  PC '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074QMN4YW/?tag=tolees-21'
 descuento: '28.14'
 average: '24.104999999999997'

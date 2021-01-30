@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Un Paso Adelante - Serie Completa  25 años A3  [DVD]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0132JQH3E/?tag=tolees-21'
 descuento: '40.00'
 average: '71.99'

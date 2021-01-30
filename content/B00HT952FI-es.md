@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Einhell TH-US 240 -  Esmeriladora combinada  4 patas de goma antideslizantes  230 V  240 W  ref. 4466150 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HT952FI/?tag=tolees-21'
 descuento: '31.52'
 average: '49.62222222222222'

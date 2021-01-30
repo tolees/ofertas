@@ -16,6 +16,7 @@ comparePrice: 37.62 EUR
 prodname: 'Dim Generous Ed. Limitada Capacidad Sujetador básico  Azul  Negro con Estrellas De Terciopelo 6nj   90  Tamaño del Fabricante:90 D  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D2JBKY6/?tag=tolees-21'
 descuento: '47.87'
 average: '17.073333333333334'

@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'PUMA Carina L  Zapatillas de Cuero para Mujer  Negro White Black Silver 17  40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S9SS4ZN/?tag=tolees-21'
 descuento: '30.62'
 average: '37.81'

@@ -16,6 +16,7 @@ comparePrice: 27.04 EUR
 prodname: 'BIODERMA Atoderm Crema Duo 2X500 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007N6W0TS/?tag=tolees-21'
 descuento: '33.25'
 average: '19.945999999999998'

@@ -16,6 +16,7 @@ comparePrice: 6.5 EUR
 prodname: 'Rexona Desodorante Antitranspirante Crema Confidence 45Ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00763ABGC/?tag=tolees-21'
 descuento: '39.23'
 average: '3.95'

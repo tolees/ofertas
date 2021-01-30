@@ -16,6 +16,7 @@ comparePrice: 32.5 EUR
 prodname: 'Ron Millonario 10º aniversario'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06X18MKJL/?tag=tolees-21'
 descuento: '29.08'
 average: '23.05'

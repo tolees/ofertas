@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Nike Ebernon Low Premium  Zapatillas de Baloncesto para Mujer  Negro Gridiron/Sail 2  36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VQP7TB9/?tag=tolees-21'
 descuento: '56.65'
 average: '28.18'

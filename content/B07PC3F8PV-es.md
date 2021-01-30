@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Set Cuidado Facial | 6 productos | Agua Micelar  Active Serum Hialuronico  Comfort Mask  Expert Cream  Gold Eye Contour  Pearl Peeling | Sin Parabenos | Elaborado en España.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PC3F8PV/?tag=tolees-21'
 descuento: '31.95'
 average: '28.78'

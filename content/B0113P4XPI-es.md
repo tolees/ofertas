@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Skechers Synergy-Winter Nights  Botas para Mujer  Negro  Black   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0113P4XPI/?tag=tolees-21'
 descuento: '62.00'
 average: '30.38'

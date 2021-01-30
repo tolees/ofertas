@@ -16,6 +16,7 @@ comparePrice: 656.4 EUR
 prodname: 'Bulova Reloj Analógico para Hombre de Cuarzo con Correa en Cuero 98A186'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074JLHQR7/?tag=tolees-21'
 descuento: '32.02'
 average: '446.25'

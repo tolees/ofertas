@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'adidas Galaxy 4  Zapatillas de Running para Hombre  Gris  Grey Five   39 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2JCXC4/?tag=tolees-21'
 descuento: '30.03'
 average: '39.95'

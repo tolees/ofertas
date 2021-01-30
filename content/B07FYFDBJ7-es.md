@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Champion The Absolute Workout Sujetador Deportivo  Multicolor  Noir Logo 8mo   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FYFDBJ7/?tag=tolees-21'
 descuento: '52.88'
 average: '12.51'

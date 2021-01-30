@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Columbia Caldorado III  Zapatillas de Running para Asfalto para Hombre  Gris  Graphite  Heatw 053   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JK9ZF23/?tag=tolees-21'
 descuento: '66.09'
 average: '44.08'

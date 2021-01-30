@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Kipling - City Pack Mini  Mochilas Mujer  Gris  Active Grey Bl '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DKGC41N/?tag=tolees-21'
 descuento: '40.00'
 average: '47.4'

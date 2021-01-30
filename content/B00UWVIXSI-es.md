@@ -16,6 +16,7 @@ comparePrice: 349.99 EUR
 prodname: 'Rowenta Intense Pure Air PU6020 Purificador de Aire XL  para Habitaciones hasta 120 m²  con sensores contaminación y 4 Niveles de filtración  75 W  4 Velocidades  Plata  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UWVIXSI/?tag=tolees-21'
 descuento: '31.71'
 average: '222.70200000000003'

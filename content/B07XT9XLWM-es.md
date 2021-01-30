@@ -16,6 +16,7 @@ comparePrice: 20.04 EUR
 prodname: 'ANKENGS Protector de Pantalla para Xiaomi Redmi Note 8 Pro [3 Unidades]  Xiaomi Redmi Note 8 Pro Cristal Templado [dureza 9H][Anti-Arañazos]Xiaomi Redmi Note 8 Pro Vidrio Templado película Protectora'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XT9XLWM/?tag=tolees-21'
 descuento: '70.66'
 average: '4.9350000000000005'

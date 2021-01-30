@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Tomshine Clip Cadena de Luces LED  40LEDs 5m Fotoclips Guirnalda de Luces para Decoración de Fotos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0747MF4SY/?tag=tolees-21'
 descuento: '26.68'
 average: '10.885'

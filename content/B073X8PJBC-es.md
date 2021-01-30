@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'Lotus Watches Reloj Análogo clásico para Mujer de Cuarzo con Correa en Acero Inoxidable 18561/3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073X8PJBC/?tag=tolees-21'
 descuento: '30.89'
 average: '86.46'

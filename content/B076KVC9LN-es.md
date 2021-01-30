@@ -16,6 +16,7 @@ comparePrice: 80 EUR
 prodname: 'VAUDE Silk Road L  I de Rack  Cilindro de Bolsillos  Black  One Size'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076KVC9LN/?tag=tolees-21'
 descuento: '59.39'
 average: '32.49'

@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'Mujer Bañador de Una Pieza Traje de Baño de Rayas Vintage Retro S CLAF0640-6'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RYM4PFS/?tag=tolees-21'
 descuento: '34.49'
 average: '18.99'

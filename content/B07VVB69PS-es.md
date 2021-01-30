@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'adidas Superstar J  Unisex niños  Blanco  Cloud White/Core Black/Cloud White 000   38 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VVB69PS/?tag=tolees-21'
 descuento: '25.73'
 average: '45.58833333333334'

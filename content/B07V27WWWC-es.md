@@ -16,6 +16,7 @@ comparePrice: 51.34 EUR
 prodname: 'Juego de herramientas de perforación  4 piezas/juego de piercings  Asepsis Safety Nuevas herramientas para piercings en el cuerpo Kit de herramientas profesionales de acero inoxidable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V27WWWC/?tag=tolees-21'
 descuento: '79.96'
 average: '10.29'

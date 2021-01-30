@@ -16,6 +16,7 @@ comparePrice: 18.21 EUR
 prodname: 'Transcend JetFlash 710S - Memoria USB 3.0 de 64GB  90 MB/s   color plateado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016QAH2N0/?tag=tolees-21'
 descuento: '43.77'
 average: '10.24'

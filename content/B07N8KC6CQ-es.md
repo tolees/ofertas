@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'BOSS Raio_1 suéter  Gris  Light/Pastel Grey   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N8KC6CQ/?tag=tolees-21'
 descuento: '44.58'
 average: '65.95'

@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Clarks Step Urban Mix  Zapatillas para Hombre  Negro Black  44.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FQR36MJ/?tag=tolees-21'
 descuento: '45.03'
 average: '38.43333333333334'

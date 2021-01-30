@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Fossil Smartwatch para Mujer con Correa en Acero Inoxidable FTW6011'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GFY7FWP/?tag=tolees-21'
 descuento: '44.01'
 average: '203.675'

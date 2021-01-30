@@ -16,6 +16,7 @@ comparePrice: 28.76 EUR
 prodname: 'Qkiss Rejuvenecimiento Facial Máquina  Cuidado Facial de la Belleza  Piel Reafirmante Poros Retráctiles Dispositivo de Belleza con Masajeador para el Cuidado de la Piel con Luz Roja LED Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SLMS8HY/?tag=tolees-21'
 descuento: '39.88'
 average: '16.62333333333333'

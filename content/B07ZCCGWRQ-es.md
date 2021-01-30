@@ -16,6 +16,7 @@ comparePrice: 87.5 EUR
 prodname: 'ASUS RT-AC58U V2 - Router  WiFi 5 AC1300 MU-MIMO  4 Gigabit LAN  Control de aplicación  DFS  multifunción  USB  IPv6  VPN.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZCCGWRQ/?tag=tolees-21'
 descuento: '31.44'
 average: '72.49'

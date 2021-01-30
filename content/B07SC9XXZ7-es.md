@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Nike Court Royale  Zapatillas de Tenis para Hombre  Multicolor  Mahogany/Pale Ivory/Dusty Peach 200   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SC9XXZ7/?tag=tolees-21'
 descuento: '33.65'
 average: '34.93'

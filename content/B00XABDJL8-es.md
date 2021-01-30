@@ -16,6 +16,7 @@ comparePrice: 12.5 EUR
 prodname: 'Haribo - Pasta Basta Fresa - Geles dulces - 200 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XABDJL8/?tag=tolees-21'
 descuento: '30.48'
 average: '8.606315789473683'

@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'L Oréal Paris Colorista Coloración Permanente Colorista Paint - Mulberry'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N1HC4I9/?tag=tolees-21'
 descuento: '87.42'
 average: '1.9516666666666669'

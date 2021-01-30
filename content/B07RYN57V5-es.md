@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'New Balance 411  Zapatillas de Running para Mujer  Rosa Pink Cs1  36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RYN57V5/?tag=tolees-21'
 descuento: '44.28'
 average: '33.28666666666667'

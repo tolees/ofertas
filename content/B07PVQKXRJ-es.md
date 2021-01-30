@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Under Armour UA W Charged Breathe TR 2  Zapatillas Deportivas para Interior para Mujer  Gris  Jet Gray/Jet Gray/Halo Gray   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PVQKXRJ/?tag=tolees-21'
 descuento: '52.98'
 average: '37.59'

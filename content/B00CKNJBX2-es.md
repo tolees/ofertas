@@ -16,6 +16,7 @@ comparePrice: 32.9 EUR
 prodname: 'Microsoft – Sculpt Mobile Mouse  Inalámbrico  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CKNJBX2/?tag=tolees-21'
 descuento: '54.50'
 average: '14.97'

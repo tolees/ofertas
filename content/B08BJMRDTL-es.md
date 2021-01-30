@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Sivane Aire humidificador ultrasónico difusor de aromaterapia de Carga USB para el hogar Humidificadores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BJMRDTL/?tag=tolees-21'
 descuento: '85.33'
 average: '20.43'

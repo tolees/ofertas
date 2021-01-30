@@ -16,6 +16,7 @@ comparePrice: 39.51 EUR
 prodname: 'Ksix Smartwatch HR Multitáctil Urban'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081K64LYJ/?tag=tolees-21'
 descuento: '44.60'
 average: '21.89'

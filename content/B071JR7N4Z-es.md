@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'HP OMEN 300 - Alfombrilla para ratón  monótono  de plástico  Caucho  900 mm x 400 mm x 4 mm   Color Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071JR7N4Z/?tag=tolees-21'
 descuento: '43.35'
 average: '17.889999999999997'

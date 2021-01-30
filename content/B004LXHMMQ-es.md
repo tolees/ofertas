@@ -16,6 +16,7 @@ comparePrice: 5.5 EUR
 prodname: 'Rimmel London 1000 Kisses Lipliner Perfilador de Labios Tono 021 Red Dynamite - 4 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004LXHMMQ/?tag=tolees-21'
 descuento: '50.91'
 average: '2.022857142857143'

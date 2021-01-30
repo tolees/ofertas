@@ -16,6 +16,7 @@ comparePrice: 29.98 EUR
 prodname: 'Lychee Grabadora de Voz Digital Portátil 8GB 1536kbps Recargable Reproductor de MP3  Micrófono Dual  Reducción de Ruido  Pantalla LCD y Activación por Voz  para Lecciones / Reuniones / Entrevistas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MV4CWBM/?tag=tolees-21'
 descuento: '36.66'
 average: '28.75888888888889'

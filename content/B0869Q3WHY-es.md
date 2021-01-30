@@ -16,6 +16,7 @@ comparePrice: 100.36 EUR
 prodname: 'WOLTU Mesa de Bar Mesa de Bistro Mesa de Comedor con 2 Estantes  Estructura de Metal  MDF  120x50x105cm  WxDxH  Blanco BT25ws'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0869Q3WHY/?tag=tolees-21'
 descuento: '26.28'
 average: '73.99'

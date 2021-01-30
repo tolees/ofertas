@@ -16,6 +16,7 @@ comparePrice: 24.0 EUR
 prodname: 'SALAKA 1pc 30cm × 5m Portátil PCB Película Seca fotosensible Película fotográfica para producción de circuitos Hoja fotorresistente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XHPS4QQ/?tag=tolees-21'
 descuento: '49.58'
 average: '12.1'

@@ -16,6 +16,7 @@ comparePrice: 84.95 EUR
 prodname: 'Wrangler Larston Slim Jeans  Indigo Wit  32W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BPBTYRN/?tag=tolees-21'
 descuento: '46.43'
 average: '45.51'

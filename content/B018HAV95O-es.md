@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Tommee Tippee - Kit de iniciación para recién nacido  modelos surtidos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018HAV95O/?tag=tolees-21'
 descuento: '33.34'
 average: '19.99'

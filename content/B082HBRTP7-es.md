@@ -16,6 +16,7 @@ comparePrice: 100.99 EUR
 prodname: 'ART VVIES Wandbild 40 x 30 Zoll Sonnenuntergang Abend romantische Sonne Abenddämmerung mit Haken Leinwanddrucke Holz gerahmte Lieferungen für Hauptdekorationen'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082HBRTP7/?tag=tolees-21'
 descuento: '55.45'
 average: '44.99'

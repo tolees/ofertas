@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'GX·Diffueser Mini Generador de Ozono portátil purificador de Aire USB recargeable esterilizador de ozono para Frigorífico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YFNDDD7/?tag=tolees-21'
 descuento: '32.84'
 average: '33.58'

@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'Max Factor Pan Stick Base de maquillaje Tono 12 True Beige  9 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003JM4OCG/?tag=tolees-21'
 descuento: '61.78'
 average: '4.95'

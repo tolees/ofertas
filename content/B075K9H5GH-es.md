@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance Hombre 574v2-core Trainers Zapatillas  Negro  Triple Black   39.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075K9H5GH/?tag=tolees-21'
 descuento: '50.00'
 average: '48.514545454545456'

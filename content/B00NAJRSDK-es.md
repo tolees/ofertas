@@ -16,6 +16,7 @@ comparePrice: 429.0 EUR
 prodname: 'Compex Electroestimulador  Unisex  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NAJRSDK/?tag=tolees-21'
 descuento: '30.00'
 average: '299.15'

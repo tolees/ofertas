@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'HP 24o - Monitor Full HD de 24    1920x1080  panel TN  16:9  HMDI  VGA  DVI-D  1 ms  60 Hz  antirreflejo   color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KKJHQLQ/?tag=tolees-21'
 descuento: '31.09'
 average: '103.04333333333334'

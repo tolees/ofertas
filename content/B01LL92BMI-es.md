@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Cámara Yuntab Warrior G1S de 32 GB para deportes al aire libre  videocámara con Wi-Fi H.265 HD 1080P  3400mAh batería  165 ° gran angular  control remoto  azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LL92BMI/?tag=tolees-21'
 descuento: '35.00'
 average: '64.99'

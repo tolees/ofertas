@@ -16,6 +16,7 @@ comparePrice: 109.95 EUR
 prodname: 'BOSS Plisy 1 Polo  Azul  Navy 410   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VBZL81C/?tag=tolees-21'
 descuento: '72.82'
 average: '29.88'

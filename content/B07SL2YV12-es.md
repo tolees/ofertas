@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'adidas SPT 3s Short Pantalones Cortos de Deporte  Hombre  Black/White  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SL2YV12/?tag=tolees-21'
 descuento: '29.98'
 average: '20.97'

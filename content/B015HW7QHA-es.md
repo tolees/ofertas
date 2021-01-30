@@ -16,6 +16,7 @@ comparePrice: 17.49 EUR
 prodname: 'Hollywood Star Fashion - Camisas - para mujer  Gris Heather  Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015HW7QHA/?tag=tolees-21'
 descuento: '77.19'
 average: '3.99'

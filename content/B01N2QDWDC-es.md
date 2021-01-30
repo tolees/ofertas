@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'L Oréal Paris Total Cover  Base Maquillaje Cobertura Total  Tono de Piel Medio 20 Sable Sand - 35 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N2QDWDC/?tag=tolees-21'
 descuento: '29.96'
 average: '9.07'

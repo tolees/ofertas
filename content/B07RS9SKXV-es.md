@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Hoidokly Cargador Inalámbrico Rápido Qi Wireless Charger para iPhone SE 2020/11 Pro/XS/XS Max/XR/X/8/8P  10W Carga Rápida para Samsung Galaxy S20/S20+/S10/ S10+/S10e/S9/S8/S7/Note 20/10+ Airpods Pro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RS9SKXV/?tag=tolees-21'
 descuento: '25.01'
 average: '14.59'

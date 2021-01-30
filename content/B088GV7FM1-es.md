@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'WuGlrz 2 Pack Protector de Pantalla +2 Pack Cámara Lente Protector para Xiaomi Redmi 9 [Dureza 9H] [Sin Burbujas] HD Transparente Anti-Arañazos Cristal Templado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088GV7FM1/?tag=tolees-21'
 descuento: '46.19'
 average: '6.99'

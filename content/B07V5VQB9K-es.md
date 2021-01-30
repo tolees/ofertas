@@ -16,6 +16,7 @@ comparePrice: 5.45 EUR
 prodname: 'Adaptador HD Hdmi 90 grados 270 grados Ángulo recto Lado lateral Macho a codo femenino Conversión Tv Turning Elbow - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V5VQB9K/?tag=tolees-21'
 descuento: '35.05'
 average: '3.54'

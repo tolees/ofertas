@@ -16,6 +16,7 @@ comparePrice: 39.75 EUR
 prodname: 'Clarins - Gel contorno de ojos - Antiojeras  Antibolsas - 20 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00V88E0PO/?tag=tolees-21'
 descuento: '44.78'
 average: '21.95'

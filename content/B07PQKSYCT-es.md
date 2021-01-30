@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Lovewlb Tablet Funda para Alcatel 3t 10 8088q 8088x Funda Soporte Cuero Case Cover Lang'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PQKSYCT/?tag=tolees-21'
 descuento: '44.00'
 average: '14.0'

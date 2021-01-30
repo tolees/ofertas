@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'GLEADING Ventilador portátil Control táctil Inteligente  Ultra silencioso  Ventilador de refrigeración de PC/Laptop para hogar  Oficina  Viajes.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CM1SZTF/?tag=tolees-21'
 descuento: '50.03'
 average: '19.99'

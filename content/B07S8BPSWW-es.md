@@ -16,6 +16,7 @@ comparePrice: 4.0 EUR
 prodname: 'Justdodo Bolsa de cosméticos de Gran Capacidad Las Mujeres componen una Bolsa de Almacenamiento portátil multifunción Bolsa de Mano con Espejo para Viajes-Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S8BPSWW/?tag=tolees-21'
 descuento: '30.00'
 average: '2.8'

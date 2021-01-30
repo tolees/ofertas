@@ -16,6 +16,7 @@ comparePrice: 9.31 EUR
 prodname: 'Twins Sweathose mit Knieflicken - Pantalones deportivos Niñas  Morado  amaranth purple 193536   W42/ L30'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00V4COUHC/?tag=tolees-21'
 descuento: '64.66'
 average: '3.29'

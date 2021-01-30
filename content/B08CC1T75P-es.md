@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Esterilla portátil para práctica de golf 60 x 30 cm  Alfombrilla de práctica con hierba de golf para entrenamiento en interiores y exteriores  Alfombra de Práctica para deportes con tee de golf'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CC1T75P/?tag=tolees-21'
 descuento: '30.78'
 average: '17.99'

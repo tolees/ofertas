@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Lacoste L1230  Polo de Manga Corta para Hombre  Azul  Marine   L  Talla del fabricante: 5 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00FBAF9IM/?tag=tolees-21'
 descuento: '31.50'
 average: '56.61666666666667'

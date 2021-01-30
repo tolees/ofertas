@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'Sorel Nakiska Slide II  Zapatillas de casa para Mujer  Beige  British Tan  Natural 265   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078VFT6R1/?tag=tolees-21'
 descuento: '39.99'
 average: '39'

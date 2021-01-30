@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'WMF 545244021 Permadur Element Sartén de Aluminio  Antiadherente  Apto para Todo Tipo de Cocinas Incluido Inducción  Exterior Resistente en Acero  24 cm sin PFOA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QF8RQKG/?tag=tolees-21'
 descuento: '25.69'
 average: '25.994'

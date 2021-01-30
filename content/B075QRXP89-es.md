@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Cable Guy - Star Wars "Darth Vader" Soporte para teléfono y controlador  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075QRXP89/?tag=tolees-21'
 descuento: '40.18'
 average: '15.663333333333332'

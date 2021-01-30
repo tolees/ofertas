@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Kelme - Zapatillas Intense 7.0'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W7BXWBQ/?tag=tolees-21'
 descuento: '40.00'
 average: '27.0'

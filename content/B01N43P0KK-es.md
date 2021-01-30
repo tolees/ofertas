@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Indoor Copa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N43P0KK/?tag=tolees-21'
 descuento: '60.00'
 average: '19.96'

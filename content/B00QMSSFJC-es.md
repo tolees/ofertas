@@ -16,6 +16,7 @@ comparePrice: 36.39 EUR
 prodname: 'Optimum Nutrition ON Gold Standard 100% Whey Proteína en Polvo Suplementos Deportivos  Glutamina y Aminoacidos  BCAA  Chocolate Mantequilla de Cacahuete  27 porciones  900g  Embalaje puede variar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00QMSSFJC/?tag=tolees-21'
 descuento: '34.05'
 average: '23.377142857142857'

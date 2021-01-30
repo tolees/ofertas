@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Levi s Batwing Hoodie  Capucha Mujer  Marfil  Sportswear Hoodiee White 0001   X-Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073QNC9WY/?tag=tolees-21'
 descuento: '41.55'
 average: '37.99'

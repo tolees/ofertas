@@ -16,6 +16,7 @@ comparePrice: 599.0 EUR
 prodname: 'MEDION AKOYA M80 - PCC893 Ordenador de sobremesa  Intel Core i5-9400  8GB RAM  1TB de HDD  Intel Graphics  Windows10  Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDRZCXG/?tag=tolees-21'
 descuento: '34.89'
 average: '393.99'

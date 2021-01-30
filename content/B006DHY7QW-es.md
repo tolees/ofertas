@@ -16,6 +16,7 @@ comparePrice: 32.4 EUR
 prodname: 'febi bilstein 31974 Culatas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006DHY7QW/?tag=tolees-21'
 descuento: '54.81'
 average: '14.64'

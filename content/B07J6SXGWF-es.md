@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Funko Rugrats Pop Angelica  Multicolor  35574 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J6SXGWF/?tag=tolees-21'
 descuento: '50.22'
 average: '8.553333333333333'

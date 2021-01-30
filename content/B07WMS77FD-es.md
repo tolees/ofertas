@@ -16,6 +16,7 @@ comparePrice: 80 EUR
 prodname: 'SALOMON Side 25 Mochila de montañismo  Espaciosa y práctica  Capacidad 30 l  Unisex Adulto  Caqui Oscuro  Avocado /Negro  Night Sky   One Size'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WMS77FD/?tag=tolees-21'
 descuento: '52.29'
 average: '38.17'

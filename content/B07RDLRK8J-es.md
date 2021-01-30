@@ -16,6 +16,7 @@ comparePrice: 64.62 EUR
 prodname: 'Salomon XA Discovery GTX W  Zapatillas de Trail Running para Mujer  Azul  India Ink/Bluestone/Black   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RDLRK8J/?tag=tolees-21'
 descuento: '27.47'
 average: '52.17333333333333'

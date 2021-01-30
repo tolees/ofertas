@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Pilas AA Recargable POWEROWL Alta Capacidad 2800mAh 1.2V Pilas Recargables AA NI-MH Diámetro 14.4mm Baja Autodescarga  Precarga 12 Piezas  Recargable Aproximadamente 1200 Veces '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MSDC6M1/?tag=tolees-21'
 descuento: '25.94'
 average: '19.55'

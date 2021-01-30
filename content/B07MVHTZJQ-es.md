@@ -16,6 +16,7 @@ comparePrice: 27.0 EUR
 prodname: 'Kipling - Card Keeper  Carteras Mujer  Morado  Dark Plum   7x10x1 cm  B x H T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVHTZJQ/?tag=tolees-21'
 descuento: '46.19'
 average: '14.53'

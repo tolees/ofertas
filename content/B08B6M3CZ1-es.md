@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'Relec Día y Noche - Recambio Antimosquitos Eléctrico Líquido - 45 noches de protección - Sin fragancia - 35 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B6M3CZ1/?tag=tolees-21'
 descuento: '40.13'
 average: '4.76'

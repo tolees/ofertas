@@ -16,6 +16,7 @@ comparePrice: 15.11 EUR
 prodname: 'Plantronics 89032-01 - Cable de alimentación USB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009UNH0EM/?tag=tolees-21'
 descuento: '27.93'
 average: '10.89'

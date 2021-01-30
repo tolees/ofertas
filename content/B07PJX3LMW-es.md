@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance Fresh Foam Roav  Zapatillas de Running para Hombre  Azul  Navy Navy   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PJX3LMW/?tag=tolees-21'
 descuento: '40.56'
 average: '53.5'

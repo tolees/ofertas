@@ -16,6 +16,7 @@ comparePrice: 10.0 EUR
 prodname: 'Melissa Hilo Acrílico Ovillo de Lana Premium para DIY Tejer y Ganchillo  1u * 100g   Beige 35  Mediana'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZHHD3HM/?tag=tolees-21'
 descuento: '62.10'
 average: '3.79'

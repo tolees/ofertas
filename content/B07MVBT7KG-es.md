@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Napapijri Eisberg SS Polo  Azul  BLU Marine 176   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVBT7KG/?tag=tolees-21'
 descuento: '50.00'
 average: '29.5'

@@ -16,6 +16,7 @@ comparePrice: 209.0 EUR
 prodname: 'Reloj Guess - Hombre W0971G1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WLM2T4C/?tag=tolees-21'
 descuento: '45.74'
 average: '117.36333333333333'

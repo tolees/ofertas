@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Yimidear Anillos de Gimnasia  Madera Anillos Olímpicos con Correas de Hebilla Anillos de Gimnasio para Entrenamiento de Fuerza  Crossfit  Dominadas y Dips 28MM '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00D5Q5AJM/?tag=tolees-21'
 descuento: '25.75'
 average: '25.98'

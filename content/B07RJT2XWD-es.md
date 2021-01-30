@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'SALOMON XA Pro 3D  Zapatillas de Trail Running para Hombre  Gris  Monument/Ebony/Red Dahlia   40 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RJT2XWD/?tag=tolees-21'
 descuento: '30.00'
 average: '90.99'

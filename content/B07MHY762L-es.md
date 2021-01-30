@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Kickers Kickstyle  Zapatillas para Hombre  Azul  Marine/Camel 103   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MHY762L/?tag=tolees-21'
 descuento: '68.00'
 average: '28.48'

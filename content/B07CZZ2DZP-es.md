@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Under Armour Playoff 2.0 Polo  Hombre  Blanco  White/Mod Gray 107   XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZZ2DZP/?tag=tolees-21'
 descuento: '52.32'
 average: '30.99'

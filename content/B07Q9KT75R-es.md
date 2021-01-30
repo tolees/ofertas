@@ -16,6 +16,7 @@ comparePrice: 53.99 EUR
 prodname: 'casa pura Alfombras de Goma Escaleras - Peldaños de Goma | Santiago - 5pz | 100% Impermeables | Antideslizantes  Resistencia UV | Excelente adherencia  Negra 25x75 cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q9KT75R/?tag=tolees-21'
 descuento: '25.93'
 average: '39.32333333333334'

@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Steiff Jogginghose Pantalones de Deporte  Azul  Patriot Blue 6033   52  Talla del Fabricante: 50  para Bebés'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJJZ37X/?tag=tolees-21'
 descuento: '48.15'
 average: '15.53'

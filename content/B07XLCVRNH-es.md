@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'CARPISA ® Cartera con cremallera completa de fantasía - Foresta Wallet'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XLCVRNH/?tag=tolees-21'
 descuento: '49.97'
 average: '7.98'

@@ -16,6 +16,7 @@ comparePrice: 162.0 EUR
 prodname: 'María Barceló Sneaker Alta Piel Burdeos Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y9XT8NN/?tag=tolees-21'
 descuento: '56.80'
 average: '69.99'

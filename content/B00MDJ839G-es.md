@@ -16,6 +16,7 @@ comparePrice: 133.4 EUR
 prodname: 'Tesa Assa Abloy  1970908NV  Barra Antipánico Universal 1970 de embutir  Negro y Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MDJ839G/?tag=tolees-21'
 descuento: '29.73'
 average: '93.74'

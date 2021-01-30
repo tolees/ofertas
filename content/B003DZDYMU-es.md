@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Casio Smart Watch Armbanduhr AE-1000W-1B'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003DZDYMU/?tag=tolees-21'
 descuento: '41.88'
 average: '26.681333333333335'

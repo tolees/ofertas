@@ -16,6 +16,7 @@ comparePrice: 15.12 EUR
 prodname: 'Arppe 2090010101 Flexi New Classic Cordon  5 m  S  Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00O3B1HYK/?tag=tolees-21'
 descuento: '26.52'
 average: '6.946666666666668'

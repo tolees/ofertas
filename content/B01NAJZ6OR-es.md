@@ -16,6 +16,7 @@ comparePrice: 9.5 EUR
 prodname: 'Bourjois Healthy Mix Concealer Corrector Tono 53 Dark - 29 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NAJZ6OR/?tag=tolees-21'
 descuento: '54.21'
 average: '4.655'

@@ -16,6 +16,7 @@ comparePrice: 20.97 EUR
 prodname: 'Lenor Unstoppables Spring Perlas Impulsoras De Fragancia - pack de 3 x 210 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KJS38T6/?tag=tolees-21'
 descuento: '25.75'
 average: '17.213333333333335'

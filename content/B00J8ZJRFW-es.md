@@ -16,6 +16,7 @@ comparePrice: 16.9 EUR
 prodname: 'Set de 8 cabezales de recambio Compatible para cepillo Philips Sonicare ProResults / DiamondClean  EasyClean  FlexCare  HealthyWhite'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00J8ZJRFW/?tag=tolees-21'
 descuento: '47.34'
 average: '8.9'

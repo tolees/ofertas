@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'Marc Ecko Reloj Análogo clásico para Unisex de Cuarzo con Correa en Cuero E10038M1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003U3VWSI/?tag=tolees-21'
 descuento: '49.71'
 average: '49.25'

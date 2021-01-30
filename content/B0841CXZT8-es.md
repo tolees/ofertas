@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Tommy Hilfiger Regular Trucker Jacket MBKST Chaqueta  Max Black Str  L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.es/dp/B0841CXZT8/?tag=tolees-21'
 descuento: '50.53'
 average: '47.0'
@@ -27,9 +28,9 @@ En este momento está [Tommy Hilfiger Regular Trucker Jacket MBKST Chaqueta  Max
 
 🔎:
 
-- Tommy Jeans - Chaquetas para hombre
 - Más información sobre Tommy Hilfiger / Tommy Jeans se puede encontrar en la descripción del producto
 - Este producto se ha producido de forma sostenible
 - Producto original y auténtico de Tommy Hilfiger/Tommy Jeans
+- Tommy Jeans - Chaquetas para hombre
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0841CXZT8/?tag=tolees-21)

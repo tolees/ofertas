@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Skagen Reloj Analogico para Hombre de Cuarzo con Correa en Silicona SKW6510'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KYDLJG7/?tag=tolees-21'
 descuento: '47.47'
 average: '57.84374999999999'

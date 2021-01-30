@@ -16,6 +16,7 @@ comparePrice: 230.0 EUR
 prodname: 'ASUS BE249QLB 23.8" Full HD IPS Mate Negro Pantalla para PC - Monitor  60 5 cm  23.8"   1920 x 1080 Pixeles  Full HD  5 ms  250 CD/m²  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016AWG0UA/?tag=tolees-21'
 descuento: '43.51'
 average: '139.93666666666667'

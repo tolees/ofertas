@@ -16,6 +16,7 @@ comparePrice: 11.47 EUR
 prodname: 'Welinks - Cepillo para polvo de mesita de noche  mango largo  para fregona y sofá o cama  limpieza de microfibra mágica  limpiador de polvo multiusos  cepillo de limpieza para el hogar y la habitación'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083DTPV3B/?tag=tolees-21'
 descuento: '33.83'
 average: '7.59'

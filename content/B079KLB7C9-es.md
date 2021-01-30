@@ -16,6 +16,7 @@ comparePrice: 169.0 EUR
 prodname: 'Fossil Reloj  Analógico de Cuarzo FTW1162'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079KLB7C9/?tag=tolees-21'
 descuento: '40.00'
 average: '94.21000000000001'

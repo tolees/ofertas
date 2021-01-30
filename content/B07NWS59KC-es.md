@@ -16,6 +16,7 @@ comparePrice: 67.99 EUR
 prodname: 'AICOOK Tetera eléctrica  hervidor eléctrico y tetera 2 en 1 con infusor de té de acero inoxidable extraíble  función de aislamiento y sistema de protección contra ebullición en seco  sin BPA  750 W'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NWS59KC/?tag=tolees-21'
 descuento: '61.77'
 average: '26.578235294117647'

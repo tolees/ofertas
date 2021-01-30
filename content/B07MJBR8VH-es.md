@@ -16,6 +16,7 @@ comparePrice: 33.63 EUR
 prodname: 'Hackett Lambswool V suéter   Navy 595   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MJBR8VH/?tag=tolees-21'
 descuento: '26.32'
 average: '24.78'

@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Puma Always On Solid 7/8 TR Lgg Mallas Deporte  Mujer  Negro Black  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QJLPG8R/?tag=tolees-21'
 descuento: '50.75'
 average: '24.6'

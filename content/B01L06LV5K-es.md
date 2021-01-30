@@ -16,6 +16,7 @@ comparePrice: 250.48 EUR
 prodname: 'Pulsar Reloj Digital para Unisex de Analogico con Correa en Chapado en Acero Inoxidable PQ2056X1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01L06LV5K/?tag=tolees-21'
 descuento: '51.10'
 average: '101.88'

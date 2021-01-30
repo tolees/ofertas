@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'Razer Huntsman  Teclado con Switches Opto Mecánicos Mejorados  1  Standard'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZGJCQH/?tag=tolees-21'
 descuento: '37.50'
 average: '92.65066666666667'

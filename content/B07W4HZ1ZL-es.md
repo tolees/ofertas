@@ -16,6 +16,7 @@ comparePrice: 98.57 EUR
 prodname: 'Tommy Hilfiger Hombre Bleecker Th Flex Satin Chino Gmd Loose Fit Jeans  Blanco  White   W33/L36'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W4HZ1ZL/?tag=tolees-21'
 descuento: '38.17'
 average: '60.95'

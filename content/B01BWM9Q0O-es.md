@@ -16,6 +16,7 @@ comparePrice: 699.9 EUR
 prodname: 'Panasonic Lumix DMC-TZ100EG-K - Cámara Compacta Premium de 21.1 MP  Sensor de 1"  Objetivo F2.8-F5.9 de 25-250mm  Zoom de 10X  4K  WiFi  Bluetooth  Raw   Color Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BWM9Q0O/?tag=tolees-21'
 descuento: '41.35'
 average: '408.9533333333333'

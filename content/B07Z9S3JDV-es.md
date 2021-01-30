@@ -16,6 +16,7 @@ comparePrice: 169.99 EUR
 prodname: 'LIGE Reloj para Hombre Cronógrafo Impermeable Moonphase Analog Quartz Negro Silicone Strap Relojes para Hombres …'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z9S3JDV/?tag=tolees-21'
 descuento: '77.65'
 average: '37.99'

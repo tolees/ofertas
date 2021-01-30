@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Cartera Caballero en Piel Modelo Americano'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084DTQ5TZ/?tag=tolees-21'
 descuento: '40.00'
 average: '18.0'

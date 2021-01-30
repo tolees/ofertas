@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Extensor para mascarilla  para sujetar la mascarilla sin que apriete en las orejas  accesorio para mascarilla  extensor para aliviar el dolor de orejas  cuatro colores  4 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089QB3KTM/?tag=tolees-21'
 descuento: '80.10'
 average: '2.835'

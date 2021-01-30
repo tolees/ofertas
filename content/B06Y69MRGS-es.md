@@ -16,6 +16,7 @@ comparePrice: 84.0 EUR
 prodname: 'Fujifilm Instax Mini 9 - Cámara instantánea  Solo cámara  Azul Marino'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y69MRGS/?tag=tolees-21'
 descuento: '32.15'
 average: '58.26199999999999'

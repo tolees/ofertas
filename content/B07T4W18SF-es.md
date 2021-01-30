@@ -16,6 +16,7 @@ comparePrice: 5.99 EUR
 prodname: 'SYOSIN Corrección de Postura  Entrenador de Postura  Entrenador de Espalda  fijador de Espalda Recta  Postura para Corregir el Soporte del Hombro Trasero'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T4W18SF/?tag=tolees-21'
 descuento: '33.39'
 average: '5.99'

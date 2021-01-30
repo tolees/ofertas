@@ -16,6 +16,7 @@ comparePrice: 84.77 EUR
 prodname: '2019 más novedoso: Auriculares Bluetooth antimi  Bluetooth 5.0 Sport inalámbricos  miniauriculares estéreo con IPX6 Resistente al Agua  micrófono  Caja de Carga 3000 mAh para Smartphone  S8 Plus'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MQQRXL4/?tag=tolees-21'
 descuento: '69.46'
 average: '35.32'

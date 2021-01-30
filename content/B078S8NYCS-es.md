@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Chlorella Espirulina.Spirulina Potente DETOX Antioxidante-Sistema Inmunitario-Proteinas Vegetales-Hierro-Elimina Metales-Probiotico-180 Capsulas Vegetal.1250mg.Certificado Vegano.N2 Natural Nutrition'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078S8NYCS/?tag=tolees-21'
 descuento: '62.33'
 average: '15.254999999999999'

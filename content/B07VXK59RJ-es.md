@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Solar Fuse Cosmic View  Zapatillas para Mujer  Gris Gris Gris Malla Rosa Mint Trim Gypk  39.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VXK59RJ/?tag=tolees-21'
 descuento: '57.74'
 average: '29.56'

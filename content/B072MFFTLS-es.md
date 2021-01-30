@@ -16,6 +16,7 @@ comparePrice: 18.28 EUR
 prodname: 'RED WAGON Zapatillas  Back To School  para Niños  Negro  Black   24 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072MFFTLS/?tag=tolees-21'
 descuento: '52.41'
 average: '8.7'

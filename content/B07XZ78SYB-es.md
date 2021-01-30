@@ -16,6 +16,7 @@ comparePrice: 31.79 EUR
 prodname: 'Auriculares Inalámbricos Bluetooth 5.0 SoundPEATS Truefree+ Cascos In-Ear True Wireless Invisibles Sonido Estéreo Mini Audífonos Gemelos Manos Libres con Micrófono con Estuche de Carga'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XZ78SYB/?tag=tolees-21'
 descuento: '25.01'
 average: '23.84'

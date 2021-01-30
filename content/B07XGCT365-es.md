@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'DCL Drone Championship League'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XGCT365/?tag=tolees-21'
 descuento: '42.71'
 average: '11.530000000000001'

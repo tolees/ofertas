@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Philips PRO6305BK/00 - Auriculares intrauditivos  1.2 m  12.2 mm  Neodimio  32 g  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q33B1LF/?tag=tolees-21'
 descuento: '52.11'
 average: '23.94'

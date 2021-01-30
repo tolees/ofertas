@@ -16,6 +16,7 @@ comparePrice: 2689.0 EUR
 prodname: 'Lenovo Legion Y910-17ISK - Ordenador portátil gaming de 17 3" FullHD  Intel Core i7-6820HK  24GB RAM  1TB HDD + 256GB SSD  Nvidia GTX0170-8GB  Windows 10  Negro - Teclado QWERTY español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MN8RNMB/?tag=tolees-21'
 descuento: '44.25'
 average: '1711.7927272727272'

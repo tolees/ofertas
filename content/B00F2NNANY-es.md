@@ -16,6 +16,7 @@ comparePrice: 9.4 EUR
 prodname: 'Bellota 5825-16x300 CP Cincel  Cromo vanadio  Cuerpo Octogonal  16x300 mm  con Protector  16 mm x 300 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00F2NNANY/?tag=tolees-21'
 descuento: '33.51'
 average: '6.25'

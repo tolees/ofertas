@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Reebok Club C 85  Zapatillas para Hombre  Blanco  INT White/Royal Gum   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MRX5QEE/?tag=tolees-21'
 descuento: '30.59'
 average: '55.49'

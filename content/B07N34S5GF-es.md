@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Emporio Armani Reloj Analógico para Hombre de Cuarzo con Correa en Silicona AR11217'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N34S5GF/?tag=tolees-21'
 descuento: '60.00'
 average: '91.41333333333333'

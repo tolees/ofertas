@@ -16,6 +16,7 @@ comparePrice: 18.34 EUR
 prodname: 'BIC 950615 Velleda – Lote de 2 Surface borrado en seco borde 19 x 26 cm azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CN7S3NP/?tag=tolees-21'
 descuento: '29.06'
 average: '13.01'

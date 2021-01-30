@@ -16,6 +16,7 @@ comparePrice: 14.36 EUR
 prodname: 'Phenovo 100pcs 5.5cm Díametro Tarjetas Redondas Decorativas de Papel Etiquetas de Regalo Cuerda Color Marrón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X6TK0OS/?tag=tolees-21'
 descuento: '44.43'
 average: '7.98'

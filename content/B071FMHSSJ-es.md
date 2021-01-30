@@ -16,6 +16,7 @@ comparePrice: 8.95 EUR
 prodname: 'Olivares de Altomira Aceite Oliva Virgen Extra 500 ml - AOVE ECOLOGICO - Primera prensada en frio - Rico en polinenoles - rico en Oleocanthal'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071FMHSSJ/?tag=tolees-21'
 descuento: '25.25'
 average: '6.69'

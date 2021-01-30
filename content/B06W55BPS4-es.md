@@ -16,6 +16,7 @@ comparePrice: 5.95 EUR
 prodname: 'Procos - Vaso de plástico 200 ml Avengers Mighty  multicolor  5PR87964'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06W55BPS4/?tag=tolees-21'
 descuento: '58.15'
 average: '2.49'

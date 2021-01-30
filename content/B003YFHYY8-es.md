@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Bosch TKA8653 - Máquina de café  1100 W  capacidad para 8/12 tazas  color blanco y negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003YFHYY8/?tag=tolees-21'
 descuento: '74.71'
 average: '96.9725'

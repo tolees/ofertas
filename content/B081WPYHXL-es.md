@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Cuquiland Esencia  Agenda ilustrada por Esther Gili  Tamaño Único  Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081WPYHXL/?tag=tolees-21'
 descuento: '50.00'
 average: '15.0'

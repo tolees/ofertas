@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'adidas Zx Flux J  Zapatillas de Deporte Unisex Niños  Rosa  Rosesc/Ftwbla/Ftwbla   36 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0714FLJJD/?tag=tolees-21'
 descuento: '35.67'
 average: '45.0'

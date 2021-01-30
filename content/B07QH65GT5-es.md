@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Chicco Lamparita Dulces Sueños - Lámpara quita miedos anti oscuridad  con luces y sonidos  diseño oso azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QH65GT5/?tag=tolees-21'
 descuento: '30.31'
 average: '11.84'

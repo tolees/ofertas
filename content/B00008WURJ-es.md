@@ -16,6 +16,7 @@ comparePrice: 18.95 EUR
 prodname: 'Zwilling Twinsharp Afilador Cuchillos Manual  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00008WURJ/?tag=tolees-21'
 descuento: '28.50'
 average: '13.55'

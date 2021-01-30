@@ -16,6 +16,7 @@ comparePrice: 101.0 EUR
 prodname: 'Nike W M2k Tekno  Zapatillas de Gimnasia para Mujer  Verde  Gridiron/Gridiron/Atmosphere Grey/Luminous Green/Atomic Violet/Summit White 015   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SFJ6BKZ/?tag=tolees-21'
 descuento: '42.59'
 average: '57.98'

@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Reebok Royal Glide  Zapatillas de deporte  Hombre  Blanco   White / Steel / Reebok Royal   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01F2T8AMS/?tag=tolees-21'
 descuento: '29.65'
 average: '45.69'

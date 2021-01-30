@@ -16,6 +16,7 @@ comparePrice: 646.68 EUR
 prodname: 'HP ProDesk 400 G4 Mini - Ordenador de sobremesa profesional  Intel Core i3-8100  8GB RAM  1TB HDD  Intel Graphics  Windows 10 Pro  Negro - Teclado QWERTY Español y Ratón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DTPBWX2/?tag=tolees-21'
 descuento: '54.69'
 average: '293.0'

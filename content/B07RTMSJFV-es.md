@@ -16,6 +16,7 @@ comparePrice: 187.9 EUR
 prodname: 'ZHENROG Electroestimulador Muscular Abdominales Estimulación Muscular Eléctrico Cinturón con USB EMS Trainer para Abdomen/Brazo/Piernas/Glúteos-Hombre/Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RTMSJFV/?tag=tolees-21'
 descuento: '81.96'
 average: '32.9'

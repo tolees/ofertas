@@ -16,6 +16,7 @@ comparePrice: 28.95 EUR
 prodname: 'Calcetines de Running para Largas Distancias  para Hombre y Mujer  Acolchados  Transpirables  Calcetines con Compresión de Arco  Anti-Ampollas  Maratón  Negro  Pack de 3  Azul claro  EU 35-38 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082L1MHWN/?tag=tolees-21'
 descuento: '34.54'
 average: '19.45'

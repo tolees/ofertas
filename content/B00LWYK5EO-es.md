@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Maybelline New York - The Colossal Go Extreme Volum Waterproof  Máscara de Pestañas  Tono Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LWYK5EO/?tag=tolees-21'
 descuento: '39.38'
 average: '5.45'

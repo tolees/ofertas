@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'FITTOO Pantalones Deportivos Mujer Yoga Leggings de Alta Cintura Elásticos y Transpirables para Running Fitness490'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DJQT894/?tag=tolees-21'
 descuento: '40.05'
 average: '11.99'

@@ -16,6 +16,7 @@ comparePrice: 74.9 EUR
 prodname: 'Tommy Hilfiger LowCut Essential Sneaker  Zapatillas para Mujer  Blanco  White Ybs   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V5QRTKW/?tag=tolees-21'
 descuento: '28.95'
 average: '53.22'

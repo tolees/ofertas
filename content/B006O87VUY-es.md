@@ -16,6 +16,7 @@ comparePrice: 102.76 EUR
 prodname: 'K&N AL-1010 Filtro de Aire para Aprilia RSV4R FACTORY 2009-2013 Moto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006O87VUY/?tag=tolees-21'
 descuento: '46.78'
 average: '54.69'

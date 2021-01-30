@@ -16,6 +16,7 @@ comparePrice: 182.76 EUR
 prodname: 'Michael Kors Reloj analogico para Mujer de Cuarzo con Correa en Acero Inoxidable SO-1643-LQ'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002PJ9P8M/?tag=tolees-21'
 descuento: '29.42'
 average: '133.17666666666668'

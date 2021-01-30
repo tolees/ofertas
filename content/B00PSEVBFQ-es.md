@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Adaptador de candado para el Mac Pro de Apple'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PSEVBFQ/?tag=tolees-21'
 descuento: '70.56'
 average: '19.256666666666668'

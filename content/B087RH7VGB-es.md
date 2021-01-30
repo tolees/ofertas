@@ -16,6 +16,7 @@ comparePrice: 17.53 EUR
 prodname: 'Leepesx Termómetro infrarrojo digital Medidor de temperatura Objeto Dispositivo de medición de temperatura sin contacto 4 Modos de configuración 99 Memorias ℃ y ℉ Conmutable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087RH7VGB/?tag=tolees-21'
 descuento: '34.51'
 average: '29.12'

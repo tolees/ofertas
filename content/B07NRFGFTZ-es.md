@@ -16,6 +16,7 @@ comparePrice: 13.47 EUR
 prodname: 'Schwarzkopf Gliss Champú seco anti-grasa - 200 ml x Pack de 3 = 600ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NRFGFTZ/?tag=tolees-21'
 descuento: '68.45'
 average: '7.62'

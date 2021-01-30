@@ -16,6 +16,7 @@ comparePrice: 131.5 EUR
 prodname: 'Trango SHANGU IP  Zapatillas de Deporte Exterior Unisex Adulto  Negro  Negro/Naranja 004   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DOHEAK6/?tag=tolees-21'
 descuento: '56.48'
 average: '65.1325'

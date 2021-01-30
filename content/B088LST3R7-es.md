@@ -16,6 +16,7 @@ comparePrice: 25.42 EUR
 prodname: '1pcs Limpiador de orejas Fácil extracción de la cera del oído Orejas de limpiador en espiral suave Prevenir la selección del oído Limpiador de hisopo Herramienta de eliminación de cera del o'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088LST3R7/?tag=tolees-21'
 descuento: '28.44'
 average: '18.19'

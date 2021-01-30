@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Tom Tailor 1008650 Polo  Negro  Black 29999   M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MKNF4T5/?tag=tolees-21'
 descuento: '30.27'
 average: '13.94'

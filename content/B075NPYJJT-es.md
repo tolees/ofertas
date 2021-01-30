@@ -16,6 +16,7 @@ comparePrice: 3.42 EUR
 prodname: 'NUOLUX Jumbo Foil Love Balloon romántica boda nupcial ducha aniversario de compromiso fiesta decoración  rosa '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075NPYJJT/?tag=tolees-21'
 descuento: '68.13'
 average: '1.09'

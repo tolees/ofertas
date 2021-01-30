@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Neutrogena Hydro Boost Loción Corporal En Gel - 750 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DP4TLCS/?tag=tolees-21'
 descuento: '36.02'
 average: '12.79'

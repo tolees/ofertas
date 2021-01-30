@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'SD toys - Mug Game of Thrones - Targaryen Verre Noir Logo Rotatif - 8436546897552'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LQKEEOK/?tag=tolees-21'
 descuento: '61.39'
 average: '5.0'

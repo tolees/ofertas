@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'Lee Whiz IT Coverall Petos  Azul  Frost Blue MJ   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MN3H6GQ/?tag=tolees-21'
 descuento: '86.60'
 average: '22.465'

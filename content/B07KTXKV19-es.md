@@ -16,6 +16,7 @@ comparePrice: 27.95 EUR
 prodname: 'adidas W E Lin Tight Tights  Mujer  Black/White  2XLS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KTXKV19/?tag=tolees-21'
 descuento: '33.85'
 average: '18.49'

@@ -16,6 +16,7 @@ comparePrice: 11.92 EUR
 prodname: 'L Oréal Professionnel - Champú experto Silver Series para cabello gris y blanco  300 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y3LXYMF/?tag=tolees-21'
 descuento: '32.89'
 average: '7.9'

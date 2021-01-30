@@ -16,6 +16,7 @@ comparePrice: 12.05 EUR
 prodname: 'Pegatinas de Alabanza 70 Hojas Estudiante Alabanza Pegatina Well Done Star Reward Sticker para Niños Maestros Padres Manualidades Scrap Books Decoración'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WHFQWD2/?tag=tolees-21'
 descuento: '37.84'
 average: '7.49'

@@ -16,6 +16,7 @@ comparePrice: 15.0 EUR
 prodname: 'Sierra Reposado  Tequila  70 cl - 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007OTZ2U8/?tag=tolees-21'
 descuento: '28.47'
 average: '10.73'

@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'J.Endéar Tobillera de plata de ley 925 con símbolo de amor para mujeres niñas  cadena ajustable 22 + 4 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PQQKQ13/?tag=tolees-21'
 descuento: '50.03'
 average: '19.99'

@@ -16,6 +16,7 @@ comparePrice: 142.0 EUR
 prodname: 'Sensai Cellular Performance Cream Tratamiento Facial - 40 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00N4SJOHA/?tag=tolees-21'
 descuento: '40.18'
 average: '84.95'

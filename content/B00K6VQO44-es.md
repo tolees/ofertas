@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'American Tourister - Bon Air - Spinner Maleta 66 cm  58 L  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00K6VQO44/?tag=tolees-21'
 descuento: '42.31'
 average: '75.0'

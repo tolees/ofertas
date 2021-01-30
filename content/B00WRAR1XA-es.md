@@ -16,6 +16,7 @@ comparePrice: 33.35 EUR
 prodname: 'Olay  Crema diurna facial - 50 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00WRAR1XA/?tag=tolees-21'
 descuento: '30.67'
 average: '22.310000000000002'

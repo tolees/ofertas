@@ -16,6 +16,7 @@ comparePrice: 74.57 EUR
 prodname: 'BRA Olla RÁPIDA Vitesse  Acero Inoxidable  Plata  22 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006FXAFF6/?tag=tolees-21'
 descuento: '28.05'
 average: '53.24142857142857'

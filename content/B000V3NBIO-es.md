@@ -16,6 +16,7 @@ comparePrice: 18.0 EUR
 prodname: 'Emsa Basic Tapa  Blanco  33 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000V3NBIO/?tag=tolees-21'
 descuento: '38.06'
 average: '11.15'

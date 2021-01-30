@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'PUMA Smash V2  Zapatillas Unisex Adulto  Negro Black/Hot Coral Team Gold White  42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S8PV6HZ/?tag=tolees-21'
 descuento: '36.40'
 average: '35.78333333333334'

@@ -16,6 +16,7 @@ comparePrice: 15.07 EUR
 prodname: 'Motorola Lifestyle VerveLoop200 - Auriculares intrauditivos inalámbricos  IP54  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K95KVR2/?tag=tolees-21'
 descuento: '30.19'
 average: '10.52'

@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'POP! Vinilo - One Piece: Portgas D. Ace'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0198KU8PY/?tag=tolees-21'
 descuento: '37.42'
 average: '9.38'

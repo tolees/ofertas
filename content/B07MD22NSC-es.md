@@ -16,6 +16,7 @@ comparePrice: 57.69 EUR
 prodname: 'Le Coq Sportif COURTSTAR Craft  Zapatillas para Hombre  Blanco  Optical White/Croissant Optical White/Croissant   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MD22NSC/?tag=tolees-21'
 descuento: '40.01'
 average: '34.61'

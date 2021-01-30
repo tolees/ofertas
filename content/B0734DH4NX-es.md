@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Asus ROG Pugio - Ratón óptico por cable diseño ambidiestro  botones laterales personalizables  interruptores desmontables fijación por encaje  iluminación Asus Aura RGB  soporte Aura Sync'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0734DH4NX/?tag=tolees-21'
 descuento: '44.45'
 average: '63.98833333333333'

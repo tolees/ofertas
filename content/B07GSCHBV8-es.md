@@ -16,6 +16,7 @@ comparePrice: 13.5 EUR
 prodname: 'Max Factor LipFinity Velvet Matte Pintalabios Tono 050 Satinberry'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GSCHBV8/?tag=tolees-21'
 descuento: '67.56'
 average: '4.38'

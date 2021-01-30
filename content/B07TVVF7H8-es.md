@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Equalizer 4.0  Zapatillas sin Cordones para Hombre  Azul  Navy Engineered Mesh/Orange Trim Nvor   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TVVF7H8/?tag=tolees-21'
 descuento: '49.81'
 average: '32.59'

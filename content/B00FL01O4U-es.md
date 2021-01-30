@@ -16,6 +16,7 @@ comparePrice: 44.9 EUR
 prodname: 'Elli Collares Solitär Basic Swarovski® Kristalle 925 Silber'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00FL01O4U/?tag=tolees-21'
 descuento: '28.75'
 average: '31.99'

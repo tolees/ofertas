@@ -16,6 +16,7 @@ comparePrice: 149.95 EUR
 prodname: 'G-STAR RAW Citishield 3D Cargo Slim Tapered Pantalones  Gris  Asfalt 5126/995   W34/L40  Talla del Fabricante: 34W/ L40  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDN5K5Z/?tag=tolees-21'
 descuento: '51.66'
 average: '72.49'

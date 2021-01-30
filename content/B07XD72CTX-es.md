@@ -16,6 +16,7 @@ comparePrice: 37.99 EUR
 prodname: 'Bedsure Bombilla Inteligente WiFi 2-Pack  - Bombilla RGB E27 10W  con Luz Frías/Cálidas 2700K-6500K - Led Regulable con 160 Millones de Colores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XD72CTX/?tag=tolees-21'
 descuento: '26.32'
 average: '30.240000000000002'

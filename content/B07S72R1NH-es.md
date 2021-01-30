@@ -16,6 +16,7 @@ comparePrice: 25 EUR
 prodname: 'Regatta Ligero Forro Polar Montes con Media Cremallera Fleece  Hombre  Deep Teal  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S72R1NH/?tag=tolees-21'
 descuento: '48.04'
 average: '12.99'

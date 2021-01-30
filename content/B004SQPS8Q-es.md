@@ -16,6 +16,7 @@ comparePrice: 1.52 EUR
 prodname: 'tesa 56192-00013-02 Cinta aislante en PVC 10m x 15mm  rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004SQPS8Q/?tag=tolees-21'
 descuento: '28.29'
 average: '1.09'

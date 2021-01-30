@@ -16,6 +16,7 @@ comparePrice: 42.51 EUR
 prodname: 'Cecotec Power Titanium 850 Batidora Americana de Vaso  5 Velocidades + Turbo  Cristal Fundido Termorresistente  Cuchillas de Titanio  850W  Capacidad 1L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MQRUKTQ/?tag=tolees-21'
 descuento: '34.32'
 average: '25.3'

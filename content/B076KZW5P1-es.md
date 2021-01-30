@@ -16,6 +16,7 @@ comparePrice: 41.25 EUR
 prodname: 'find. Cazadora Bomber Mujer  Rosa  Pink Black Mix   36  Talla del fabricante: X-Small '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076KZW5P1/?tag=tolees-21'
 descuento: '60.00'
 average: '16.5'

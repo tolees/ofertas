@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Limpiador de pelotas de golf'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NAEKRNB/?tag=tolees-21'
 descuento: '40.01'
 average: '29.99'

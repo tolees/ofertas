@@ -16,6 +16,7 @@ comparePrice: 66.08 EUR
 prodname: 'FurReal Friends JJ  mein hopsender Mops'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KZ3NWYB/?tag=tolees-21'
 descuento: '66.96'
 average: '28.596666666666668'

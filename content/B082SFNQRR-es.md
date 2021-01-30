@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'AirPods Pro Funda Case  ICARER Piel Genuina Cuero Luxury Vintage Series Portátil Ultra Delgado Protección Cover Funda Carcasa para Apple AirPods Pro AirPods 3  LED Visible  [Carga inalámbrica]-Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082SFNQRR/?tag=tolees-21'
 descuento: '43.35'
 average: '16.99'

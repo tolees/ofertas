@@ -16,6 +16,7 @@ comparePrice: 45 EUR
 prodname: 'Dickies - Pantalones cortos para hombre  Gris  Charcoal Grey   W38  Talla del fabricante: 38 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00FMQUAXO/?tag=tolees-21'
 descuento: '33.44'
 average: '29.95'

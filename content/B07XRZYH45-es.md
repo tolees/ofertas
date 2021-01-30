@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Trust GXT 764 Glide-Flex - XXL Alfombrilla de ratón RGB  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XRZYH45/?tag=tolees-21'
 descuento: '38.01'
 average: '30.92333333333334'

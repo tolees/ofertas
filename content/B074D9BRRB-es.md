@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Victoria Deportivo PU Contraste  Zapatillas para Hombre  Azul  Marino 30   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074D9BRRB/?tag=tolees-21'
 descuento: '65.00'
 average: '24.15'

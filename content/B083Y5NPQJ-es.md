@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'PRIXTON KIT610 - Kit de 13 Accesorios para Camara Deportiva/Accesorios Camara Deportiva  Maletín con Soportes para Bici o Cuerpo: Cabeza  muñeca  Pecho y Accesorio Flotador para Camara Sumergible'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083Y5NPQJ/?tag=tolees-21'
 descuento: '40.07'
 average: '19.7'

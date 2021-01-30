@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Tommee Tippee 42302241 - Bolsas para conservar la leche'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0085QD6MU/?tag=tolees-21'
 descuento: '28.93'
 average: '7.1'

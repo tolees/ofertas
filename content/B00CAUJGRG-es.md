@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Estee Lauder 53381 - Desmaquillante'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CAUJGRG/?tag=tolees-21'
 descuento: '38.10'
 average: '17.95'

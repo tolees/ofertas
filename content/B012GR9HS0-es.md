@@ -16,6 +16,7 @@ comparePrice: 15.96 EUR
 prodname: 'Buff Solid Gorro Lana Merino Lightweight  Unisex Adulto  White  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B012GR9HS0/?tag=tolees-21'
 descuento: '37.47'
 average: '9.98'

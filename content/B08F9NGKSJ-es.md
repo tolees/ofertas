@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Auriculare/Auriculares Auriculares Cableados En El Ruido del Oído Aislando Auriculares Deportivos con Micrófono Incorporado y Control de Volumen Compatible con iPhone 8/8 Plus/X/XS/XR/11/11Pro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08F9NGKSJ/?tag=tolees-21'
 descuento: '30.45'
 average: '15.99'

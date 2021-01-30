@@ -16,6 +16,7 @@ comparePrice: 5.14 EUR
 prodname: 'Legrand 92012 Caja de conexiones eléctricas  90x90x50 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001Z62EPC/?tag=tolees-21'
 descuento: '27.43'
 average: '3.73'

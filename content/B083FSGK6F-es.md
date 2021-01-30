@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'BRIKSMAX Kit de Iluminación Led para Lego Star Wars Interceptor Tie Black Ace Compatible con Ladrillos de Construcción Lego Modelo 75242  Juego de Legos no Incluido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083FSGK6F/?tag=tolees-21'
 descuento: '40.01'
 average: '29.99'

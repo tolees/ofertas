@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'AUELEK Linterna LED  P50 Linterna LED Alta Potencia 5 Modos/ 1200 LM/Zoom / IPX6 Impermeable/ 4200mAh 18650 Batería Recargable para Ciclismo  Camping  Montañismo  Caza  Pesca  Outdoor Activities'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082WX6SRZ/?tag=tolees-21'
 descuento: '50.69'
 average: '14.4'

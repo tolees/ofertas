@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'PUMA TARRENZ SB PURETEX  Zapatillas Unisex Adulto  Black Black  42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFX964C/?tag=tolees-21'
 descuento: '32.02'
 average: '61.15'

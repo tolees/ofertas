@@ -16,6 +16,7 @@ comparePrice: 26.14 EUR
 prodname: 'Soehnle Page Evolution - Báscula de Cocina  Color Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0053CJP4C/?tag=tolees-21'
 descuento: '27.35'
 average: '21.337999999999997'

@@ -16,6 +16,7 @@ comparePrice: 959.0 EUR
 prodname: 'Tamron A0A007S SP 24-70 mm F/2.8 Di USD - Objetivo para Sony/Minolta  Distancia Focal 24-70mm  Apertura f/2.8  Macro  diámetro: 82mm  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007VAZBCE/?tag=tolees-21'
 descuento: '34.05'
 average: '597.3857142857142'

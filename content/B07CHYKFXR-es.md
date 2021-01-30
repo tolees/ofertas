@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'El Naturalista NG24 Lux Suede YUGEN  Botas Chelsea para Hombre  Marrón  Camel Camel   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CHYKFXR/?tag=tolees-21'
 descuento: '72.24'
 average: '31.92'

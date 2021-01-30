@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Mousehouse Gifts Juguete de Madera con Figuras de Animales saltadores y Martillo para niños y niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NOQ5SA4/?tag=tolees-21'
 descuento: '27.79'
 average: '12.99'

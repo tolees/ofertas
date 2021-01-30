@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Pastillas limpiadoras para dentaduras Y-Kelin  90 tabletas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FM2V1SC/?tag=tolees-21'
 descuento: '27.48'
 average: '10.87'

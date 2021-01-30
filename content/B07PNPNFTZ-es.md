@@ -16,6 +16,7 @@ comparePrice: 125.0 EUR
 prodname: 'Mocasines Piel Florentic Hombre Suela Goma Castellanisimos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PNPNFTZ/?tag=tolees-21'
 descuento: '49.61'
 average: '62.99'

@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'Nike Md Runner 2 - Zapatillas de correr para Hombre  Negro  Negro/Blanco/Gris oscuro   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PYDTWL6/?tag=tolees-21'
 descuento: '49.99'
 average: '42.874'

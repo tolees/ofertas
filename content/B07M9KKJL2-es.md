@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Senston Anti Slip Sobregrip Racket Overgrip Antideslizante Tenis Bádminton Raqueta Grip'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M9KKJL2/?tag=tolees-21'
 descuento: '43.78'
 average: '8.99'

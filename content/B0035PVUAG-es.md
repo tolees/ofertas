@@ -16,6 +16,7 @@ comparePrice: 271.04 EUR
 prodname: 'Bosch Professional GST 150 CE - Sierra de calar  780 W  500 – 3100 cpm  profundidad de corte 150 mm  en maletín '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0035PVUAG/?tag=tolees-21'
 descuento: '38.90'
 average: '154.7216666666667'

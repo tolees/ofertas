@@ -16,6 +16,7 @@ comparePrice: 389.99 EUR
 prodname: 'AOC Q2781PQ - Monitor de 27" QHD  IPS  resolución 2560 x 1440 Pixels  4 ms  Flickerfree  Sin Bordes  HDMI  Displayport '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GTOTV8C/?tag=tolees-21'
 descuento: '27.52'
 average: '278.005'

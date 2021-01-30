@@ -16,6 +16,7 @@ comparePrice: 305.99 EUR
 prodname: 'SanDisk Ultra II - Disco Duro sólido Interno SSD de 960 GB  SATA III  2.5"  550 MB/s de Lectura   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00M8ABHVQ/?tag=tolees-21'
 descuento: '25.68'
 average: '250.18333333333334'

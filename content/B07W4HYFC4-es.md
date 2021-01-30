@@ -16,6 +16,7 @@ comparePrice: 98.57 EUR
 prodname: 'Tommy Hilfiger Hombre Denton Th Flex Satin Chino Gmd Loose Fit Jeans  Faded Indigo  W33/L34'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W4HYFC4/?tag=tolees-21'
 descuento: '75.84'
 average: '23.81'

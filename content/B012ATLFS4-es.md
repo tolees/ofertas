@@ -16,6 +16,7 @@ comparePrice: 16.26 EUR
 prodname: 'KabelDirekt 12cm Cable 3.5mm Jack   Cable de Adaptador 3.5mm Jack  Conector Macho a Conector Hembra  para Auriculares   PRO Series'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B012ATLFS4/?tag=tolees-21'
 descuento: '58.61'
 average: '6.73'

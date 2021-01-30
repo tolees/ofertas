@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Starlink Co-Op Pack'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FD7NSFV/?tag=tolees-21'
 descuento: '50.25'
 average: '6.616666666666666'

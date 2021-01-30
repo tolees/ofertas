@@ -16,6 +16,7 @@ comparePrice: 2.89 EUR
 prodname: 'QIYUN.Z Mujeres del Lazo De La Cintura De Algodon Pantalones Cortos De Playa Al Aire Libre Ocasionales De Los Deportes Pantalones Cortos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018VIQ85S/?tag=tolees-21'
 descuento: '31.14'
 average: '1.99'

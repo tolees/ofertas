@@ -16,6 +16,7 @@ comparePrice: 16.12 EUR
 prodname: 'Lowepro POKROWIEC DASHPOINT 10 Slate Grey'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008OQUY5S/?tag=tolees-21'
 descuento: '57.20'
 average: '6.9'

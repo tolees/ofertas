@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Clarks Bay Rosie  Sandalia con Pulsera para Mujer  Gris  Grey Snake Grey Snake   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TMWZ1S5/?tag=tolees-21'
 descuento: '52.78'
 average: '37.75'

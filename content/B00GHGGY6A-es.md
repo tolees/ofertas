@@ -16,6 +16,7 @@ comparePrice: 189.95 EUR
 prodname: 'Gardena THS Li-18/42 Tijeras Cortasetos  Incluye batería y Cargador  hasta 3 m'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GHGGY6A/?tag=tolees-21'
 descuento: '26.92'
 average: '137.98285714285714'

@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'ghd curve classic wave - Rizador de pelo profesional para ondas suaves y glamurosas  tecnología ultra-zone  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083ZKJPL1/?tag=tolees-21'
 descuento: '33.52'
 average: '129.495'

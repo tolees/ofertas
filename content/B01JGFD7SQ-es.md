@@ -16,6 +16,7 @@ comparePrice: 9.0 EUR
 prodname: 'Bourjois Boite Ronde Sombra de ojos Tono 9 Lunaire - 16 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JGFD7SQ/?tag=tolees-21'
 descuento: '77.78'
 average: '2.3575'

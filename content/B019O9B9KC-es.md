@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Under Armour UA TAC Performance Polo  Hombre  Negro  Black/Black 001   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B019O9B9KC/?tag=tolees-21'
 descuento: '75.24'
 average: '13.62'

@@ -16,6 +16,7 @@ comparePrice: 40.99 EUR
 prodname: 'Lixada Esterilla de Yoga Antideslizante TPE Insípido con Línea de Posición Correa y Bolsa para Pilates Fitness Culturismo 183 * 61 * 0.6cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W9L3KXH/?tag=tolees-21'
 descuento: '36.59'
 average: '25.99'

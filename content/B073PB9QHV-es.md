@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Filamento PLA Plus de la impresora SUNLU 3D  filamento PLA de 1.75 mm  filamento de impresión 3D de bajo olor  precisión dimensional +/- 0.02 mm  filamento 3D del carrete 3D azul PLA +'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073PB9QHV/?tag=tolees-21'
 descuento: '52.51'
 average: '18.99'

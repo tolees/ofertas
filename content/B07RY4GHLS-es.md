@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Funda con Cuerda para Xiaomi Redmi Note 5 Silicona Transparente  Ultrafina Suave TPU Carcasa de movil con Colgante [Moda y Practico] [Anti-rasguños Anti-Choque] - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RY4GHLS/?tag=tolees-21'
 descuento: '66.74'
 average: '2.99'

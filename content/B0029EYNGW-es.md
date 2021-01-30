@@ -16,6 +16,7 @@ comparePrice: 7.45 EUR
 prodname: 'Trixie Alfombrilla Bandeja Gato  PVC  37x45 cm  Antracita'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0029EYNGW/?tag=tolees-21'
 descuento: '42.82'
 average: '4.26'

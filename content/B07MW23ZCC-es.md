@@ -16,6 +16,7 @@ comparePrice: 17.59 EUR
 prodname: 'EBTOOLS Sistema de Detección de Aparcamiento de Reserva Inversa de Transmisión de Voz en Inglés de Automóvil con Sensor de 4 Radares azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MW23ZCC/?tag=tolees-21'
 descuento: '55.14'
 average: '7.89'

@@ -16,6 +16,7 @@ comparePrice: 15.53 EUR
 prodname: 'Earth Rated - Pack de bolsas para recoger excrementos de perro   Sin Olor   18 Rollos  270 unidades '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LAI9OM6/?tag=tolees-21'
 descuento: '27.11'
 average: '12.723333333333334'

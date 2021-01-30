@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'PUMA ESS Logo TR Op SRL Pantalones  Hombre  Black  2XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DPGM8RL/?tag=tolees-21'
 descuento: '39.95'
 average: '23.99'

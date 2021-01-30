@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Qishare 2 Pares de Calcetines Antideslizantes para Hombres y Mujeres  Ideales para Yoga  Hospital para Ancianos  Pilates  Embarazo de Maternidad  Barra  trampolín  Zumba  Tai chi y hogar  M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VSM33W9/?tag=tolees-21'
 descuento: '55.03'
 average: '8.99'

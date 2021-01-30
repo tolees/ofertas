@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'MARTINELLI Náutico de Piel HANS 1360'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VWX3BHL/?tag=tolees-21'
 descuento: '40.70'
 average: '53.32333333333334'

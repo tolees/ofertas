@@ -16,6 +16,7 @@ comparePrice: 62.6 EUR
 prodname: 'Eukanuba Working & Endurance - Comida seca para perros adultos  para perros de trabajo con altas necesidades de energía y nutrientes  para un pico de energía sostenido  15 kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000VJW2L0/?tag=tolees-21'
 descuento: '45.70'
 average: '33.99'

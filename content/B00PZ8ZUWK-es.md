@@ -16,6 +16,7 @@ comparePrice: 51.49 EUR
 prodname: 'Nike MD Runner 2  Zapatillas de Running Mujer  Negro  Black / Black-White   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PZ8ZUWK/?tag=tolees-21'
 descuento: '25.25'
 average: '47.31'

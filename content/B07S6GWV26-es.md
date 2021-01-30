@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Under Armour UA Mojo  Zapatillas de Running para Hombre  Verde  Gravity Green/Summit White/White   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S6GWV26/?tag=tolees-21'
 descuento: '30.01'
 average: '38.46'

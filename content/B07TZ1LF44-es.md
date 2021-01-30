@@ -16,6 +16,7 @@ comparePrice: 24.0 EUR
 prodname: 'Kipling Creativity S  Cartera para Mujer  Verde  Light Aloe   14.5x9.5x5 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZ1LF44/?tag=tolees-21'
 descuento: '40.00'
 average: '14.4'

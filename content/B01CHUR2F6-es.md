@@ -16,6 +16,7 @@ comparePrice: 16.64 EUR
 prodname: 'Wilkinson Sword Hydro – Maquinilla de afeitar con 8 recambios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CHUR2F6/?tag=tolees-21'
 descuento: '41.95'
 average: '9.66'

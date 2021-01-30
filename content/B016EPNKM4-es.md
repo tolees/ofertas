@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Nike MD Runner 2  Zapatillas para Niños  Multicolor Negro 000  33.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016EPNKM4/?tag=tolees-21'
 descuento: '50.12'
 average: '19.95'

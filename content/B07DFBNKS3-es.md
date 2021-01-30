@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Funko- Pop Movies: The Lost Boys-Sam Emerson  Multicolor  Standard  21779 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFBNKS3/?tag=tolees-21'
 descuento: '66.56'
 average: '5.464285714285714'

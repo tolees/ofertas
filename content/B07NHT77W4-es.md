@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Jack & Jones Jcobullhead Crew Neck suéter  Multicolor  Cherry Tomato Fit: Knit Fit   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NHT77W4/?tag=tolees-21'
 descuento: '73.65'
 average: '13.387500000000001'

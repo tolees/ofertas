@@ -16,6 +16,7 @@ comparePrice: 699.99 EUR
 prodname: 'CORSEE Kit Cámaras de Vigliancia Seguridad Vigilancia Inalámbrica Sistema [1080P 8CH HD NVR+4 Piezas 2.0MP Cámara] CCTV Kit de Videovigliancia  con 1TB HDD，HD Visión Nocturna y Detección de Movimiento'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M06YYXG/?tag=tolees-21'
 descuento: '58.57'
 average: '289.99'

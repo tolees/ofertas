@@ -16,6 +16,7 @@ comparePrice: 199.89 EUR
 prodname: '19   Anillo de luz LED con trípode Aro de luz Regulable10colores 23 Niveles de brillo 55W RGB FlashRing Light para maquillaje/Fotografía/VideoYouTube/Vlog/TIK Tok Soporte telefónico ipda  cámara'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087PF8YYT/?tag=tolees-21'
 descuento: '29.97'
 average: '139.99'

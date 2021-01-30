@@ -16,6 +16,7 @@ comparePrice: 14.7 EUR
 prodname: 'WELEDA Acondicionador Reparador con Avena  1x 200 ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ANYAQTI/?tag=tolees-21'
 descuento: '40.48'
 average: '8.636666666666667'

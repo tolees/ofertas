@@ -16,6 +16,7 @@ comparePrice: 94.9 EUR
 prodname: 'Tommy Hilfiger Flatform Runner Colour Sneaker  Zapatillas para Mujer  Blanco  White Ybs   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V5QS1PM/?tag=tolees-21'
 descuento: '58.48'
 average: '34.495'

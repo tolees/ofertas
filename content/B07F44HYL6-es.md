@@ -16,6 +16,7 @@ comparePrice: 16.03 EUR
 prodname: 'BASICFIL PET 1.75mm  500 gr filamento de impresión 3D  Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F44HYL6/?tag=tolees-21'
 descuento: '31.69'
 average: '10.95'

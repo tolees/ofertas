@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Ballery Almohadillas de Lactancia  12 Piezas Discos de Lactancia Lavables de Bambú  con Bolsa para Lavandería y Bolsa de Viaje'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y7VJHFS/?tag=tolees-21'
 descuento: '50.03'
 average: '9.99'

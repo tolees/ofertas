@@ -16,6 +16,7 @@ comparePrice: 12.71 EUR
 prodname: 'Pop Addams Family Wednesday Vinyl Figure'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T1FCC5D/?tag=tolees-21'
 descuento: '37.06'
 average: '6.481000000000002'

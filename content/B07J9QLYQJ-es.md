@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Asics Gel-Odyssey  Zapatillas de Cross para Hombre  Negro Black 001  42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J9QLYQJ/?tag=tolees-21'
 descuento: '44.04'
 average: '55.96'

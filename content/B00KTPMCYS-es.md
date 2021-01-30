@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'BaByliss iPro Large  Styler Iónico  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KTPMCYS/?tag=tolees-21'
 descuento: '53.16'
 average: '37.156666666666666'

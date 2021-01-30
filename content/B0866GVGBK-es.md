@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'GHONLZIN Ventilador Sin Cuchilla USB Portátil  2020 Nuevo Mini Cuello Ventilador de Rechargeable  3 Velocidades y Cabeza Ajustable para Oficina  Deportes al Aire Libre  Rosado '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0866GVGBK/?tag=tolees-21'
 descuento: '30.01'
 average: '20.99'

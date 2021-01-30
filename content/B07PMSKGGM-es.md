@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'TACKLIFE Humidímetro Digital  Medidor de Humedad  Termómetro Higrómetro Digital  Mide la Humedad de Materiales de Construcción  Humedad de la Madera  Calibración Manual  etc. - MWM03'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PMSKGGM/?tag=tolees-21'
 descuento: '39.41'
 average: '22.418571428571425'

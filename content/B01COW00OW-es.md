@@ -16,6 +16,7 @@ comparePrice: 7.87 EUR
 prodname: 'A Little Lovely Company LTPP010 - Lámpara en forma de pera  color rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01COW00OW/?tag=tolees-21'
 descuento: '40.66'
 average: '5.069999999999999'

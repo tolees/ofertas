@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'PUMA Storm Pulse  Zapatillas Unisex Adulto  Black-Castlerock  45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFYZV4H/?tag=tolees-21'
 descuento: '74.31'
 average: '23.11'

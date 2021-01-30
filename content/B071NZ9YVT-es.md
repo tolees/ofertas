@@ -16,6 +16,7 @@ comparePrice: 20.56 EUR
 prodname: 'PUMA Iconic Racer Back Bra 1P Ropa Interior  Mujer  Gris  Extra-Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071NZ9YVT/?tag=tolees-21'
 descuento: '27.14'
 average: '14.98'

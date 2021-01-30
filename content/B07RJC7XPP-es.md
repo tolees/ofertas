@@ -16,6 +16,7 @@ comparePrice: 105.0 EUR
 prodname: 'Legendarte Cuadro Lienzo  Impresión Digital - El Gran Árbol  Te Raau Rahi  Paul Gauguin  cm. 60x80 - Decoración Pared'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RJC7XPP/?tag=tolees-21'
 descuento: '85.76'
 average: '14.95'

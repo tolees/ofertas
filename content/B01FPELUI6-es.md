@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: '"6 Especialidades de Cerveza Alemana" Colección de la mejor cerveza alemana. Una de las mejores ideas de regalo para hombres  Cumpleaños  Navidades  Reyes  Aniversario '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FPELUI6/?tag=tolees-21'
 descuento: '37.59'
 average: '24.566666666666666'

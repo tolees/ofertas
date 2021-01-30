@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Lotus Reloj Analógico para Mujer de Cuarzo con Correa en Cuero 18667/4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QXTH83S/?tag=tolees-21'
 descuento: '34.12'
 average: '45.46'

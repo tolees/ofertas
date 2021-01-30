@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Let S Sing 11 - Edición Estándar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GVYD7RG/?tag=tolees-21'
 descuento: '33.08'
 average: '26.76'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'ieGeek Cámara de Vigilancia WiFi Interior  Cámara IP WiFi 1080P HD  Detección Humana  Grabacion Continua  Audio de 2 Vías  FHD  Sensor de Movimiento  Vigilabebes Audio  Monitor para Bebe/Perros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VJFXNTC/?tag=tolees-21'
 descuento: '52.01'
 average: '32.81352941176471'

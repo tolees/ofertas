@@ -16,6 +16,7 @@ comparePrice: 14.39 EUR
 prodname: 'Botones pres.sport 15mm lt. plat.+herra.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000QNWW84/?tag=tolees-21'
 descuento: '40.86'
 average: '8.950000000000001'

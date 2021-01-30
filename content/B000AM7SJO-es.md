@@ -16,6 +16,7 @@ comparePrice: 18.28 EUR
 prodname: 'Cullmann Alpha 1000 - Trípode Completo  hasta 106 cm   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000AM7SJO/?tag=tolees-21'
 descuento: '41.25'
 average: '10.74'

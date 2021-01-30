@@ -16,6 +16,7 @@ comparePrice: 3.99 EUR
 prodname: '700 Pegatinas de Huellas de Animal con Patrol'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BYBCNDA/?tag=tolees-21'
 descuento: '25.06'
 average: '4.58'

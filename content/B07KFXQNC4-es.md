@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'PUMJV|#Puma Vista Zapatillas Unisex adulto  Gris  Gray Violet-Puma White-Calypso Coral 09   43 EU  9 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFXQNC4/?tag=tolees-21'
 descuento: '44.57'
 average: '30.79'

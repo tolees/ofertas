@@ -16,6 +16,7 @@ comparePrice: 42.03 EUR
 prodname: 'McFarlane Nave Espacial y Garaje Set de construccion Rick & Morty  Multicolor  Large  12884-0 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06ZYC944Y/?tag=tolees-21'
 descuento: '40.64'
 average: '24.95'

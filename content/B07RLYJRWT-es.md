@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'WERNNSAI Juego Cumpleaños Pancartas - Vídeo Juego Suministros para la Fiesta Feliz cumpleaños Guirnalda para Muchachos Niños Geeks de Jugadores Temas de Juego Decoraciones de Fiesta Ensamblado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RLYJRWT/?tag=tolees-21'
 descuento: '60.03'
 average: '7.99'

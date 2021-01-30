@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Panegy - 4 pares Calcetines de Dedos para Hombres Calcetines Largos de Algodón Deportivos para Running Ciclismo - 39-45'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DHDWFPG/?tag=tolees-21'
 descuento: '27.29'
 average: '15.99'

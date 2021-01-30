@@ -16,6 +16,7 @@ comparePrice: 17.95 EUR
 prodname: 'Funko - Figurine Smallfoot - Stonekeeper Pop 10cm - 0889698310079'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFDW2RG/?tag=tolees-21'
 descuento: '55.49'
 average: '7.99'

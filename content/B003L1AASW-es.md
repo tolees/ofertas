@@ -16,6 +16,7 @@ comparePrice: 12.9 EUR
 prodname: 'Hawaiian Tropic - Protective Dry Oil Spray - Aceite bronceador - 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003L1AASW/?tag=tolees-21'
 descuento: '38.37'
 average: '8.101666666666667'

@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'LE CREUSET Zen Tetera  Acero Inoxidable  Rojo  Cereza   1 6 L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000VB0C6U/?tag=tolees-21'
 descuento: '28.24'
 average: '61.0'

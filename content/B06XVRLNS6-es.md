@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Nike Benassi JDI  Mules para Hombre  Blanco  White/Black/Black 100   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XVRLNS6/?tag=tolees-21'
 descuento: '60.66'
 average: '11.01'

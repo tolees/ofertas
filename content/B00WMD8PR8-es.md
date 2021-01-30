@@ -16,6 +16,7 @@ comparePrice: 16.95 EUR
 prodname: 'Scholl Velvet Smooth Recambios para Lima Pies Durezas Regulares - 2 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00WMD8PR8/?tag=tolees-21'
 descuento: '55.63'
 average: '7.52'

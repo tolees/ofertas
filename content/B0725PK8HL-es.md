@@ -16,6 +16,7 @@ comparePrice: 10.95 EUR
 prodname: 'Calcetines de Deporte Low Cut Pack de 1  Azul  EU 43-47 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0725PK8HL/?tag=tolees-21'
 descuento: '45.66'
 average: '5.95'

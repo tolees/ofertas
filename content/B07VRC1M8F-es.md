@@ -16,6 +16,7 @@ comparePrice: 98.16 EUR
 prodname: 'Tommy Hilfiger Organic Cotton Silk V Neck Pantalones  Rosa  Pink Grapefruit Heather TY8   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VRC1M8F/?tag=tolees-21'
 descuento: '71.18'
 average: '28.29'

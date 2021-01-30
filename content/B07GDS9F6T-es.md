@@ -16,6 +16,7 @@ comparePrice: 16.0 EUR
 prodname: 'VARLION Funda SUMMUM Pro Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GDS9F6T/?tag=tolees-21'
 descuento: '68.81'
 average: '4.99'

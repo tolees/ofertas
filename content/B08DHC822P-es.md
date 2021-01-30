@@ -16,6 +16,7 @@ comparePrice: 19.94 EUR
 prodname: 'YQHbe Caja de Almacenamiento de M-á-scara Desechables  Bolsa PortáTil de Almacenamiento de M@Scarillas Cubierta del Caso de La Cara ProteccióN Funda Organizador de Almacenaje PP'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DHC822P/?tag=tolees-21'
 descuento: '44.98'
 average: '10.97'

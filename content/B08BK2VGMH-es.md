@@ -16,6 +16,7 @@ comparePrice: 19.98 EUR
 prodname: 'Riñonera Running  Riñonera Deportiva Mujer Hombre Impermeable con Correa Elástica Ajustable  Cinturon Running Adecuado para Correr  Fitness  Deportes al Aire Libre  Ciclismo  Viajes  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BK2VGMH/?tag=tolees-21'
 descuento: '50.05'
 average: '9.98'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Z-Man Games-Más allá de Baker Street-Español  Color  ZM7670ES '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LC54KN1/?tag=tolees-21'
 descuento: '30.64'
 average: '21.28'

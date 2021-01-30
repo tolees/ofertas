@@ -16,6 +16,7 @@ comparePrice: 62.22 EUR
 prodname: 'Vans Ward Canvas  Zapatillas para Hombre Gris  Pewter/White 4wv  41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076WGHX51/?tag=tolees-21'
 descuento: '27.69'
 average: '44.99'

@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'TOPELEK Luz de Lectura Recargable con 60H de Autonomía  Lampara Lectura 7 LEDs con 3 Brillos y 3 Colores de Luz  Gran Área de Alumbrado y Cuello 360º Flexible para Cama  Libro  E-book  Tablet y PC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HNHG84W/?tag=tolees-21'
 descuento: '36.38'
 average: '13.99'

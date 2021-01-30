@@ -16,6 +16,7 @@ comparePrice: 25.25 EUR
 prodname: 'Marca Amazon - Presto! Pañuelos de 3 capas - 12 cajas  12 x 90 pañuelos '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077XHPGTW/?tag=tolees-21'
 descuento: '33.86'
 average: '16.220000000000002'

@@ -16,6 +16,7 @@ comparePrice: 7.1 EUR
 prodname: 'oodji Ultra Mujer Calcetines con Elástico Doble  Pack de 6   Multicolor  ES 38-40 / M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C7HWXJT/?tag=tolees-21'
 descuento: '35.21'
 average: '4.6'

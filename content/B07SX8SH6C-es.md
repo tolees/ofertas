@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'Nike Free RN 5.0  Zapatillas de Running para Mujer  Morado Plum Chalk Metallic Gold Plati 501  35.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SX8SH6C/?tag=tolees-21'
 descuento: '25.00'
 average: '82.49'

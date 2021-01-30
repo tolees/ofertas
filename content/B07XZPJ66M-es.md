@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Hauck Sport Silla de paseo ultra ligera de 5 9kg  sistema de arnés de 5 puntos  respaldo reclinable  plegable  para bebes de 6 meses a 15kg  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XZPJ66M/?tag=tolees-21'
 descuento: '25.00'
 average: '52.49'

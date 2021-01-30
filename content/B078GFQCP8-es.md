@@ -16,6 +16,7 @@ comparePrice: 4.95 EUR
 prodname: 'L Oreal Paris Stylista Big Hair Spray - 150 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078GFQCP8/?tag=tolees-21'
 descuento: '50.51'
 average: '2.45'

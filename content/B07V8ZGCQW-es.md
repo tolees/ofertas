@@ -16,6 +16,7 @@ comparePrice: 2.95 EUR
 prodname: 'L Oreal Paris Men Expert Hydra Sensitive Gel de Ducha Calmante para Hombre - 300 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V8ZGCQW/?tag=tolees-21'
 descuento: '66.10'
 average: '1.0'

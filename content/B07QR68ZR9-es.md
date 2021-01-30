@@ -16,6 +16,7 @@ comparePrice: 42.09 EUR
 prodname: 'Lámpara colgante vintage  E27 Lámparas de techo Lámpara Jaula de hierro Accesorio Iluminación para el hogar Plafonnier 90-250V  Bombilla no incluida   4# '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QR68ZR9/?tag=tolees-21'
 descuento: '77.45'
 average: '9.49'

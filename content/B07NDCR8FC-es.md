@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Desigual 19WAYA01 - Cartera para mujer de Sintético Mujer Rojo Rojo  GRANATE OSCURO 3099  1x15.5x22.5 cm  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDCR8FC/?tag=tolees-21'
 descuento: '50.08'
 average: '14.95'

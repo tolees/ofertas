@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Vans Ward Hi  Zapatillas para Hombre  Verde   Suede/Canvas  Beech/White Uzh   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZQS8Y3/?tag=tolees-21'
 descuento: '34.06'
 average: '52.75'

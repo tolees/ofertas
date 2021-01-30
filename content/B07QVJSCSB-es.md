@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'KEXIN 64GB Memoria USB 2.0 Llave Pendrive 64GB Memoria Almacenamiento Externo 2.0 Memoria Flash USB para PC Tableta  Regalo USB Corazón Rosa '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QVJSCSB/?tag=tolees-21'
 descuento: '38.20'
 average: '14.71'

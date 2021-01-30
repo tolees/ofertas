@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Logitech M350 PEBBLE Ratón Inalámbrico  Bluetooth o 2.4 GHz con Receptor Unifying  Ratón con Clic Silencioso para Portátil/Notebook/PC/Mac/iPad OS  Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VCFS1WM/?tag=tolees-21'
 descuento: '26.55'
 average: '19.189999999999998'

@@ -16,6 +16,7 @@ comparePrice: 39.98 EUR
 prodname: 'K9CK Luces LED para Lego Technic Coche de Rally 42077  Kit de Iluminación Luz Compatible con Bloques de Construcción  NO Incluido en el Modelo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083LP34JN/?tag=tolees-21'
 descuento: '50.00'
 average: '19.99'

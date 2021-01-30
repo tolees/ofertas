@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Case Logic CPL102K - Bolsa para cámara  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BQYOKG4/?tag=tolees-21'
 descuento: '44.65'
 average: '7.19'

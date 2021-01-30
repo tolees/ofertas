@@ -16,6 +16,7 @@ comparePrice: 27.0 EUR
 prodname: 'Folconauto Simulation Penis Plush Toy-Soft Stuffed Creative Cushion Boyfriend Girl Pillow Gift para Office Chair Bed Pillows-30 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081VHQ8FF/?tag=tolees-21'
 descuento: '49.67'
 average: '13.59'

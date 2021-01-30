@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'adidas Tiro 19 Cotton Pant Pantalones  Hombre  Tech Ink/White  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WC1GL7Y/?tag=tolees-21'
 descuento: '42.04'
 average: '28.95'

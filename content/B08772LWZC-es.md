@@ -16,6 +16,7 @@ comparePrice: 38.9 EUR
 prodname: 'fgdjfhsdfgsdfh Negro SFR1M44-U100K 5V 3.5 1.44MB 1000 Unidad de Disquete a emulador USB Simulación Enchufe Simple para Teclado Musical - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08772LWZC/?tag=tolees-21'
 descuento: '40.00'
 average: '23.34'

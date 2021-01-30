@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'Skechers Litebeams-Gleam N dream  Zapatillas para Niñas  Azul  Navy/Multi Nvmt   34 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0779JLZV2/?tag=tolees-21'
 descuento: '28.92'
 average: '31.95'

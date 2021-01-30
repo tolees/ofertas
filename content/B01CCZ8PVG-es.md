@@ -16,6 +16,7 @@ comparePrice: 16.69 EUR
 prodname: 'Urban Classics Canvas Belt Cinturón  Charcoal  Talla Única Unisexo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CCZ8PVG/?tag=tolees-21'
 descuento: '31.82'
 average: '10.826666666666668'

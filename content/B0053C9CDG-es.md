@@ -16,6 +16,7 @@ comparePrice: 15.42 EUR
 prodname: 'The Hulk [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0053C9CDG/?tag=tolees-21'
 descuento: '51.95'
 average: '7.41'

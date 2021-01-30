@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Lacoste Lerond BL 2 CAM  Zapatillas para Hombre  Negro  Black   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MXTSP38/?tag=tolees-21'
 descuento: '54.12'
 average: '39.0'

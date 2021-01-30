@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'L Oreal Paris Infalible More than Concealer  Corrector Cobertura Completa  333 Cedar/Cedre - 11  ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MD5B8YL/?tag=tolees-21'
 descuento: '27.41'
 average: '9.4'

@@ -16,6 +16,7 @@ comparePrice: 23.77 EUR
 prodname: 'memumi Funda para Samsung Galaxy S20 5G Case 0.3mm Ultra Delgado Estuche Rígido PP Mate Protectora Carcasa Case para Samsung Galaxy S20 6.2" Funda con Anti-Huellas  S20 Negro Mate '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083TXDXF7/?tag=tolees-21'
 descuento: '46.28'
 average: '12.77'

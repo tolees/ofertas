@@ -16,6 +16,7 @@ comparePrice: 1249.99 EUR
 prodname: 'Panasonic Lumix DMC-FZ2000- Cámara digital híbrida de 20.1 MP  Zoom óptico 20x  Objetivo LEICA  Wi-Fi  Visor OLED  Grabación de Vídeo en 4K  Sensor MOS -Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LXXKKNE/?tag=tolees-21'
 descuento: '36.08'
 average: '785.466'

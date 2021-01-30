@@ -16,6 +16,7 @@ comparePrice: 34.7 EUR
 prodname: 'Mesa para Niños en la Asiento de Coche lenbest  Bandeja de Viaje Snack  Tablero Impermeable del Coche - 40x32 cm  Bandeja para Coche  Cochecito Avión  Juego de Papel de Dibujo Educativo Extra '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FM6SKMG/?tag=tolees-21'
 descuento: '33.75'
 average: '23.75'

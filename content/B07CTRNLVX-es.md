@@ -16,6 +16,7 @@ comparePrice: 8.5 EUR
 prodname: 'FIND - Sunrise dance - Paleta de sombras de ojos de 10 tonos n.2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CTRNLVX/?tag=tolees-21'
 descuento: '55.18'
 average: '5.125000000000001'

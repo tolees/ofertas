@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Fossil Pulsera de Mujer con Acero Inoxidable  ágata Redonda'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N9UQ9BD/?tag=tolees-21'
 descuento: '50.00'
 average: '19.5'

@@ -16,6 +16,7 @@ comparePrice: 17.0 EUR
 prodname: 'The Elder Scrolls Online: Morrowind'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MUQCEXO/?tag=tolees-21'
 descuento: '41.47'
 average: '9.95'

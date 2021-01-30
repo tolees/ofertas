@@ -16,6 +16,7 @@ comparePrice: 151.25 EUR
 prodname: 'Teka 42080015 Termo Eléctrico  Blanco  15 l'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0159AYF1U/?tag=tolees-21'
 descuento: '41.90'
 average: '81.92'

@@ -16,6 +16,7 @@ comparePrice: 28.81 EUR
 prodname: 'Vans Filmore Decon  Zapatillas para Mujer  Verde   Suede  Grape Leaf N3o   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZQL5W4/?tag=tolees-21'
 descuento: '27.46'
 average: '22.85'

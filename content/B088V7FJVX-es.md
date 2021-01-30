@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Aussie 3 Minute Miracle Reconstructor  Tratamiento Reparación 3 x 250 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088V7FJVX/?tag=tolees-21'
 descuento: '33.35'
 average: '12.996666666666666'

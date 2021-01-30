@@ -16,6 +16,7 @@ comparePrice: 239.0 EUR
 prodname: 'VS Venta-stock Consola/Mueble recibidor de 3C en Color Blanco con Patas de Madera Maciza'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017NMOEPE/?tag=tolees-21'
 descuento: '46.03'
 average: '128.99'

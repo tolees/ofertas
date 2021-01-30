@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'PUMA Ralph Sampson Lo  Zapatillas Unisex Adulto  Negro  Puma Black-Puma Black-Faded Denim 05   38.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG5JTXT/?tag=tolees-21'
 descuento: '60.08'
 average: '44.655'

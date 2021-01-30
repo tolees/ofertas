@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'GC Pro Cargador para Portátil Lenovo B560 B570 G530 G550 G560 G575 G580 G580a G585 IdeaPad Z560 Z570 P580 Ordenador Adaptador de Corriente  20V 3.25A 65W '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WHRF4YC/?tag=tolees-21'
 descuento: '31.21'
 average: '19.95'

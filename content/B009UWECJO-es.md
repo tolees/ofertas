@@ -16,6 +16,7 @@ comparePrice: 28.21 EUR
 prodname: 'Glenfarclas - Single Highland Malt Miniature Gift Set'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009UWECJO/?tag=tolees-21'
 descuento: '66.18'
 average: '10.855'

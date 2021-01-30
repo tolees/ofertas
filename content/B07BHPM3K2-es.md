@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Tommy Hilfiger Reloj Analógico para Mujer de Cuarzo con Correa en Cuero 1781919'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BHPM3K2/?tag=tolees-21'
 descuento: '27.89'
 average: '68.0091304347826'

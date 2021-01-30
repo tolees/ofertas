@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Kipling IAKA L Wristlet  Bolsos para Mujer  Morado  Active Lilac Bl   28x21.5x1 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DKGD4NF/?tag=tolees-21'
 descuento: '40.00'
 average: '27.0'

@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Adidas Cloudfoam Pure  Zapatillas para Mujer  Blanco  Footwear White/Footwear White/Core Black 0   37 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073RKB1MY/?tag=tolees-21'
 descuento: '29.99'
 average: '48.97'

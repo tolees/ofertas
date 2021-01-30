@@ -16,6 +16,7 @@ comparePrice: 94.9 EUR
 prodname: 'Tommy Hilfiger Tommy Jeans Lifestyle Runner  Zapatillas para Hombre  Blanco  White Ybs   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V7XV7MM/?tag=tolees-21'
 descuento: '65.73'
 average: '38.9775'

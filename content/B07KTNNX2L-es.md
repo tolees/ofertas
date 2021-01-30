@@ -16,6 +16,7 @@ comparePrice: 2.7 EUR
 prodname: 'Evax Liberty Compresas Super Alas - 10 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KTNNX2L/?tag=tolees-21'
 descuento: '62.96'
 average: '1.0'

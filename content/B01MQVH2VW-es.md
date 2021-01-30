@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Anpro Gran Cometa para Niños y Adultos- Fácil de Volar con Viento Fuerte o una Suave Brisa Velas Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MQVH2VW/?tag=tolees-21'
 descuento: '38.63'
 average: '11.114999999999998'

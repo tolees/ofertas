@@ -16,6 +16,7 @@ comparePrice: 17.9 EUR
 prodname: 'SPC Chilly Radio FM y Am Color Negro con asa de sujeción'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GZQLCVV/?tag=tolees-21'
 descuento: '50.00'
 average: '8.95'

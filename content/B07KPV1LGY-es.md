@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Brazalete Deportivo  Brazalete Running Armband Movil Soporte para iPhone XS MAX/XS/XR/8 Plus/7 Plus  Samsung S9 S8 S7 S6 Edge  Huawei P20 P10 P9 Lite Teléfono Debajo de 6.0 Pulgada'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KPV1LGY/?tag=tolees-21'
 descuento: '45.48'
 average: '11.99'

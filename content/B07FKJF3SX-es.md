@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Darksiders III - Edición Estándar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FKJF3SX/?tag=tolees-21'
 descuento: '82.31'
 average: '12.549999999999999'

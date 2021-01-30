@@ -16,6 +16,7 @@ comparePrice: 6.95 EUR
 prodname: 'Funko- Pocket Pop Avengers Infinity War PPK 4 Figura de Vinilo  Multicolor  27303-PDQ '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079RLFZT7/?tag=tolees-21'
 descuento: '38.13'
 average: '4.57'

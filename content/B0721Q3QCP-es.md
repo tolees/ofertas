@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Vibram Fivefingers Vi-b  Zapatillas de Deporte para Mujer  Rosa  Pale Mauve Pale Mauve   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0721Q3QCP/?tag=tolees-21'
 descuento: '29.18'
 average: '55.95'

@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Microsoft Office Professional PLUS 2019 - Digital Download - Digital Licence'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JGLX5QL/?tag=tolees-21'
 descuento: '40.04'
 average: '12.067499999999999'

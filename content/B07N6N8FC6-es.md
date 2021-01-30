@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Tommy Hilfiger BB Cap Gorra de béisbol   Pink Tf6   Talla única  Talla del Fabricante: OS  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N6N8FC6/?tag=tolees-21'
 descuento: '39.97'
 average: '17.95'

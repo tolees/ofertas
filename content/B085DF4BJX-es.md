@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'ADOVEL Orinal Infantil  Orinal Bebe  WC Niños para Bebé Aprende Entrenamiento Pote Más de 18 meses  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085DF4BJX/?tag=tolees-21'
 descuento: '28.29'
 average: '35.85'

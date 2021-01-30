@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Portarrollos Baño Adhesivo  DIAOPROTECT Portarrollos Para Papel Higiénico  Porta Papel Higiénico de 304 Acero Inoxidable de 3M Pegamento Fuerte para Baño Cocina Retaurante  Plata '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KQTLS9G/?tag=tolees-21'
 descuento: '47.64'
 average: '10.99'

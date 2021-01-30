@@ -16,6 +16,7 @@ comparePrice: 84.95 EUR
 prodname: 'Under Armour Men s Charged Bandit 5 Laufschuhe  Zapatillas de Running para Hombre  Azul  Versa Blue/Orange Spark/Water  404  404   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NNTMYZ7/?tag=tolees-21'
 descuento: '29.41'
 average: '59.97'

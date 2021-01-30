@@ -16,6 +16,7 @@ comparePrice: 16.88 EUR
 prodname: 'Suhctup Funda Compatible con Huawei P20 Lite 2019 Carcasa Transparente Dibujo Diseño Flor [Protección Caídas] Ultra-Delgado Flexible Silicona TPU Estuche Cover para Huawei Nova 5i Mandala 8'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086QFXNN4/?tag=tolees-21'
 descuento: '46.80'
 average: '8.98'

@@ -16,6 +16,7 @@ comparePrice: 30.66 EUR
 prodname: 'Memoria Flash USB 128MB 10 Piezas Pen Drives - Pequeña Capacidad Económico Pendrive Almacenamiento de Datos Externo - Datarm Mini Metal Portatil Azul USB 2.0 Flash Drive para Música/Fotos/Vídeo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075L8LMWP/?tag=tolees-21'
 descuento: '31.54'
 average: '20.99'

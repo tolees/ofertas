@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Borderlands 3 - Edición Estándar  Windows  Disc'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QLN52MZ/?tag=tolees-21'
 descuento: '66.69'
 average: '29.93333333333333'

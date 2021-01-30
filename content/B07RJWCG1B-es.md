@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance 997h  Zapatillas para Hombre  Rojo  Red/Navy Hbj   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RJWCG1B/?tag=tolees-21'
 descuento: '30.01'
 average: '62.99'

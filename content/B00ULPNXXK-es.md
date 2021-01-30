@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'The North Face Hedgehog Fastpack GTX  Botas para Hombre  Negro  TNF Black/High Rise Grey   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ULPNXXK/?tag=tolees-21'
 descuento: '45.01'
 average: '76.99'

@@ -16,6 +16,7 @@ comparePrice: 133.9 EUR
 prodname: 'ZunBo Electroestimulador Muscular Abdominales Cinturón Masajeador Eléctrico Cinturón con USB Abdomen/Brazo/Piernas/Cintura Entrenador Hombre/Mujer  6 Modos de Simulación 10 Niveles Diferentes para'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QBPWLTN/?tag=tolees-21'
 descuento: '74.68'
 average: '33.9'

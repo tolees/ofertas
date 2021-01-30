@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Pepe Jeans James Pantalones  Azul  Blueing 565   W32/L30 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NCBM1HV/?tag=tolees-21'
 descuento: '40.50'
 average: '53.49'

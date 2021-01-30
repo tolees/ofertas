@@ -16,6 +16,7 @@ comparePrice: 70.99 EUR
 prodname: 'HyperX Fury HX432C16FB3A/8 Memoria DIMM DDR4 8GB 3200MHz CL16 1Rx8 RGB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WJJFV9Z/?tag=tolees-21'
 descuento: '38.02'
 average: '43.663333333333334'

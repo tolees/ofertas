@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'Sony WHCH710NB - Auriculares inalámbricos Noise Cancelling  Batería 35 h  Carga rápida  Llamadas Manos Libres  diseño Compacto Alrededor de la Oreja  óptimo para Trabajar en casa   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B086LLYK4S/?tag=tolees-21'
 descuento: '28.00'
 average: '107.148611111109'
@@ -27,10 +28,10 @@ Tienes [Sony WHCH710NB - Auriculares inalámbricos Noise Cancelling  Batería 35
 
 🔎:
 
+- Opción de conexión por cable
+- Noise Cancelling dual
+- Carga rápida (10 min. de carga equivalen a 90 min. de uso)
 - Hasta 35 h de batería
 - Diseño compacto
-- Opción de conexión por cable
-- Carga rápida (10 min. de carga equivalen a 90 min. de uso)
-- Noise Cancelling dual
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B086LLYK4S/?tag=tolees-21)

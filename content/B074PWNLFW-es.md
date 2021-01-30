@@ -16,6 +16,7 @@ comparePrice: 22.49 EUR
 prodname: 'DURAGADGET Cable De Audio Monitor ASUS VX229H  VX239H  VX239W / Benq GL2460HM  GW2470HM  Zowie XL2411 - con Conexión de 3.5mm Y Bañado En Oro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074PWNLFW/?tag=tolees-21'
 descuento: '33.35'
 average: '14.99'

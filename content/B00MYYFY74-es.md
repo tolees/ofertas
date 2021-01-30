@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Sennheiser Momentum in-Ear G  Auriculares  3.5 mm  1/8"  Alámbrico  30 x 17 x 14.3  Negro/Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MYYFY74/?tag=tolees-21'
 descuento: '51.22'
 average: '48.29'

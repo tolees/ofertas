@@ -16,6 +16,7 @@ comparePrice: 549.0 EUR
 prodname: 'Apple Watch Series 5  GPS + Cellular  40 mm  Aluminio en Gris Espacial - Correa Deportiva Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XS7RQ5R/?tag=tolees-21'
 descuento: '33.59'
 average: '476.6475'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Trust GXT 310C Radius - Auriculares Gaming Multi-Plataforma  Color Camuflaje Jungla'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075DCP9JG/?tag=tolees-21'
 descuento: '41.91'
 average: '18.07888888888889'

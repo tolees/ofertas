@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Boy s Energy Lights Trainers  White  White   5 UK  38 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FTYPXZ8/?tag=tolees-21'
 descuento: '37.60'
 average: '30.265'

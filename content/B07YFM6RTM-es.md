@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Auriculares Diadema Bluetooth Inalambricos  Cascos Estéreo Inalámbricos Bluetooth Plegables con Buena Iluminación GRB  Graves Profundos & Cancelación de Ruido para Moviles  TV  PC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YFM6RTM/?tag=tolees-21'
 descuento: '47.51'
 average: '20.99'

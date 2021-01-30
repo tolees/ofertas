@@ -16,6 +16,7 @@ comparePrice: 58.99 EUR
 prodname: 'Princess 201852 Exprimidor Champion Juicer – Brazo de palanca extrafuerte profesional – Motor potente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WVB2HRD/?tag=tolees-21'
 descuento: '35.16'
 average: '39.763999999999996'

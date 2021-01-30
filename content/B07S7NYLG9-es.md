@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Hamaca portátil para acampar - Hamaca de árbol para exteriores e interior / doble con insecto insecticida  2 correas colgantes  hamacas ligeras de paracaídas de nylon para mochileros  viajes  patio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S7NYLG9/?tag=tolees-21'
 descuento: '42.87'
 average: '19.99'

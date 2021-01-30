@@ -16,6 +16,7 @@ comparePrice: 42.66 EUR
 prodname: 'Asterix & Obelix XXL3: The Crystal Menhir - Limited Edition'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X431KNR/?tag=tolees-21'
 descuento: '33.92'
 average: '31.03'

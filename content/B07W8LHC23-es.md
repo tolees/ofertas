@@ -16,6 +16,7 @@ comparePrice: 15.8 EUR
 prodname: 'Gliss - Champú Long&Sublime - 400ml - Schwarzkopf : pack de 4 = 1600ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W8LHC23/?tag=tolees-21'
 descuento: '33.54'
 average: '10.5'

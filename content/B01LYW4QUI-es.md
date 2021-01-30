@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Amor bolas para entrenamiento del suelo pélvico Sex Ø30 mm doble bolas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LYW4QUI/?tag=tolees-21'
 descuento: '45.02'
 average: '10.99'

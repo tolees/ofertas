@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'adidas ZX Flux J  Zapatillas Unisex Niños  Blanco  Footwear White/Footwear White/Footwear White 0   30 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00YNPHS8A/?tag=tolees-21'
 descuento: '62.29'
 average: '26.38'

@@ -16,6 +16,7 @@ comparePrice: 19.94 EUR
 prodname: 'HUHUDAY Abrelatas  Herramienta De Barra para Abridor De Latas Go Swing  Abrelatas Manual De Seguridad FáCil con FuncióN De Bloqueo  Sin Bordes Afilados  Sin Bordes Afilados'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CHG51ZC/?tag=tolees-21'
 descuento: '40.12'
 average: '11.94'

@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee Scarlett High Jeans  Negro  Black Rinse Ae47   31W / 31L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074RW83DL/?tag=tolees-21'
 descuento: '30.02'
 average: '62.95'

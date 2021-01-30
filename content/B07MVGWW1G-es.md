@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Kipling - Hiphurray Packable  Bolsos totes Mujer  Morado  Plum Light   39x43x1 cm  B x H T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVGWW1G/?tag=tolees-21'
 descuento: '39.69'
 average: '17.49'

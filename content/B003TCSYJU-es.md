@@ -16,6 +16,7 @@ comparePrice: 7.5 EUR
 prodname: 'Chupa Chups Original  Caramelo con Palo de Sabores Variados  Mega Chups de 10 unidades de 12 gr.  Total 120 gr. '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003TCSYJU/?tag=tolees-21'
 descuento: '53.33'
 average: '3.5'

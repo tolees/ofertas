@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Timorn 1/4"de liberación rápida magnético Destornillador bit Titular Extensión Hex Shank Handle'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MRZCDFH/?tag=tolees-21'
 descuento: '33.35'
 average: '11.99'

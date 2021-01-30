@@ -16,6 +16,7 @@ comparePrice: 12.49 EUR
 prodname: 'Bronchotos Pediátrico – Jarabe tos seca y productiva. Niños partir de 1 año. Sin Lactosa. Sin Gluten. Sabor fresa.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KXBXFKR/?tag=tolees-21'
 descuento: '45.24'
 average: '7.372'

@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Columbia Ivo Trail  Zapatillas para Hombre  Gris  Monument  Golden Yellow 036   44.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S31NQC5/?tag=tolees-21'
 descuento: '61.03'
 average: '38.97'

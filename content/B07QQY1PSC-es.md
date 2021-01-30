@@ -16,6 +16,7 @@ comparePrice: 19.82 EUR
 prodname: 'Funda para Xiaomi Mi A2 Lite - Carcasa Completa Anti-Shock [360°] Full Body Protección [Silicona TPU Frente] y [Duro PC Back] para Xiaomi Mi A2 Lite - Cover Doble [Transparente]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QQY1PSC/?tag=tolees-21'
 descuento: '54.64'
 average: '8.99'

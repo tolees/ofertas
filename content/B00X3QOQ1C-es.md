@@ -16,6 +16,7 @@ comparePrice: 8.0 EUR
 prodname: 'Tefal K2060114 - Cucharón termoresistente  plástico  negro/rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X3QOQ1C/?tag=tolees-21'
 descuento: '30.12'
 average: '5.59'

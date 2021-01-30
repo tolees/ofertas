@@ -16,6 +16,7 @@ comparePrice: 14.76 EUR
 prodname: 'Joma Record Pantalones cortos  Hombre  Rojo  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00W3RMQDW/?tag=tolees-21'
 descuento: '25.54'
 average: '10.656666666666666'

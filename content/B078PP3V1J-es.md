@@ -16,6 +16,7 @@ comparePrice: 229.99 EUR
 prodname: 'Acer ED3 Monitor  69 cm  27"   Curved 1800R ZeroFrame  144Hz G-SYNC Compatible/Adaptive Sync 4ms 100M:1 A cm  250nits Va LeD DVI HDMI  DP Audio out EURO/UK EmEA  White  EcoDisplay  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078PP3V1J/?tag=tolees-21'
 descuento: '41.31'
 average: '178.99200000000002'

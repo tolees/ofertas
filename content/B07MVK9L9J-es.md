@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Kipling - Baroe  Monederos Mujer  Rosa  Metallic Rose   20.5x10x7.5 cm  B x H T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVK9L9J/?tag=tolees-21'
 descuento: '39.69'
 average: '17.49'

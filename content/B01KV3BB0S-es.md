@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Sennheiser GSP 300 - Microauricular Cerrado para Gaming  Color Negro y Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KV3BB0S/?tag=tolees-21'
 descuento: '28.28'
 average: '72.8526315789474'

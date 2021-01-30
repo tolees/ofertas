@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Beholder CE'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XC2P6LT/?tag=tolees-21'
 descuento: '28.04'
 average: '29.263333333333332'

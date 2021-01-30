@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'MEOMY Licuadora Prensado en Frio  Licuadora Frutas Verduras con Espiral de Cerámica y Modos de Doble Jugo  Extractor de zumos con Función inversa  Motor Silencioso  Limpieza Fácil con Cepillo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y5DC8N7/?tag=tolees-21'
 descuento: '40.00'
 average: '95.99'

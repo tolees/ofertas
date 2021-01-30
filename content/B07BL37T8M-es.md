@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'New Balance Fresh Foam Zante Pursuit  Zapatillas de Running para Hombre  Azul  Deep Ozone Blue/Eclipse Do   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BL37T8M/?tag=tolees-21'
 descuento: '50.00'
 average: '66.0'

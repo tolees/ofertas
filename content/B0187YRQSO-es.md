@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'Pandora Abalorios Mujer plata - 791443ENMX'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0187YRQSO/?tag=tolees-21'
 descuento: '30.61'
 average: '34.0'

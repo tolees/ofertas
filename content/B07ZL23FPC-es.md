@@ -16,6 +16,7 @@ comparePrice: 3.48 EUR
 prodname: 'Old Spice Wolfthorn Desodorante En Barra Para Hombres 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZL23FPC/?tag=tolees-21'
 descuento: '71.26'
 average: '1.0'

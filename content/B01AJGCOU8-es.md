@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Teenloveme Mujer cinco dedos calcetines  calcetines invisibles mujer calcetines cortos con silicona antideslizante  6 pares'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AJGCOU8/?tag=tolees-21'
 descuento: '39.41'
 average: '19.99'

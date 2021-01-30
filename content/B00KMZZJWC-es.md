@@ -16,6 +16,7 @@ comparePrice: 70.26 EUR
 prodname: 'MICHELIN 9519 Compresor de aire portatil programable  12 V'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KMZZJWC/?tag=tolees-21'
 descuento: '28.85'
 average: '48.807500000000005'

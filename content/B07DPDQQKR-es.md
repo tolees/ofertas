@@ -16,6 +16,7 @@ comparePrice: 35.5 EUR
 prodname: 'Cargador Mando para Switch 4 en 1 Estación de Carga para Switch Joy-Con Indicador LED y 1 m Cable USB Tipo C'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DPDQQKR/?tag=tolees-21'
 descuento: '53.94'
 average: '16.345'

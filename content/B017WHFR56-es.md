@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Columbia Zero Rules Polo con Protección Solar 30  Hombre  Gris  Tiburón Heather   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017WHFR56/?tag=tolees-21'
 descuento: '58.90'
 average: '19.823999999999998'

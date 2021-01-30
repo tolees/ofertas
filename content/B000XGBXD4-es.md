@@ -16,6 +16,7 @@ comparePrice: 229.0 EUR
 prodname: 'WMF 07.9265.9990 Perfect Olla Rápida  Acero Inoxidable  Compatible con inducción  Diámetro 22 cm  2 piezas  4.5 y 3 litros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000XGBXD4/?tag=tolees-21'
 descuento: '27.52'
 average: '161.374'

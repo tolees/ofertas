@@ -16,6 +16,7 @@ comparePrice: 9.63 EUR
 prodname: 'Bourjois Velvet Barra de Labios Líquida Tono 13 Fu n chsia - 7.7ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015WSEBTA/?tag=tolees-21'
 descuento: '52.75'
 average: '4.55'

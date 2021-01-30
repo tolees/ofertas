@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Grand Line Cubiertas Impermeables para La Lluvia con Forro Protectores Diseñados para Hombres y Mujeres'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F6ZFXBX/?tag=tolees-21'
 descuento: '47.85'
 average: '11.99'

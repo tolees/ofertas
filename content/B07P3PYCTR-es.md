@@ -16,6 +16,7 @@ comparePrice: 21.83 EUR
 prodname: 'Goodthreads Standard-Fit Long-Sleeve Stretch Oxford Shirt  All Hours  button-down-shirts  Azul claro  Medium Tall'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P3PYCTR/?tag=tolees-21'
 descuento: '62.35'
 average: '8.22'

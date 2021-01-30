@@ -16,6 +16,7 @@ comparePrice: 73.5 EUR
 prodname: 'ASUS PB LGA1151 B250 Mining Expert 2DDR4 32GB HDMI 18 X PCIEXPRESS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075D7R8DL/?tag=tolees-21'
 descuento: '45.59'
 average: '32.34'

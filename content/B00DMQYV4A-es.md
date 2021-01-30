@@ -16,6 +16,7 @@ comparePrice: 42.29 EUR
 prodname: 'Yosoo C Forma Decoración Levitación Magnética Flotante Mapa del Mundo Globo Luz LED'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DMQYV4A/?tag=tolees-21'
 descuento: '51.08'
 average: '18.81421052631579'

@@ -16,6 +16,7 @@ comparePrice: 20.88 EUR
 prodname: 'Doosl Tableta de Escritura LCD  Tableta para Escribir y Hacer Bocetos de 8 5 Pulgadas - Tableta de Escritura Mini Pad Tableta de Dibujo para uso en la Escuela  el Hogar  la Oficina y los Viajes - Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z7H34VY/?tag=tolees-21'
 descuento: '33.52'
 average: '13.737142857142858'

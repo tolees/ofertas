@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Pez Payaso Hinchable Bestway'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006I31QCY/?tag=tolees-21'
 descuento: '43.82'
 average: '5.59'

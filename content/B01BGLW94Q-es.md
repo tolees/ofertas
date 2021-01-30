@@ -16,6 +16,7 @@ comparePrice: 44.0 EUR
 prodname: 'Biotherm Aquasource Crème SPF15 Tratamiento Facial - 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BGLW94Q/?tag=tolees-21'
 descuento: '36.48'
 average: '29.946666666666665'

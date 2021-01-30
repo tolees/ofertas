@@ -16,6 +16,7 @@ comparePrice: 66.61 EUR
 prodname: 'Oxímetro de pulso para dispositivo de medición de oxígeno del dedo  Pulse Oximetro el dispositivo de medición de dedo mide la frecuencia del pulso de saturación de oxígeno  oxímetro con pantalla OLED'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085XRW6NX/?tag=tolees-21'
 descuento: '60.98'
 average: '25.99'

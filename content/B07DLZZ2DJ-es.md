@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Kindle Luces  Toolove Lámpara de Lectura LED Recargable USB  Libro Luz LED Plegable con Clip para Libros  Revistas  eReader  eBook  Tableta  Kindle  iPad  Viajes  etc.  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DLZZ2DJ/?tag=tolees-21'
 descuento: '52.20'
 average: '10.99'

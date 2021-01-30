@@ -16,6 +16,7 @@ comparePrice: 14.89 EUR
 prodname: 'Natural History Museum The Linterna con proyector de imágenes de Dinosaurios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0079FCBBK/?tag=tolees-21'
 descuento: '28.34'
 average: '10.62'

@@ -16,6 +16,7 @@ comparePrice: 34.59 EUR
 prodname: 'Clarifex  Gel y jabón -  50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GX8UG7A/?tag=tolees-21'
 descuento: '33.33'
 average: '23.06'

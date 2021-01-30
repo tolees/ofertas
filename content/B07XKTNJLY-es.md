@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'PUMA Fundamentals Sports Bag S Bolsa Deporte  Unisex-Adult  Dark Denim  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XKTNJLY/?tag=tolees-21'
 descuento: '27.33'
 average: '20.403333333333332'

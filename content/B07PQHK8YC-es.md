@@ -16,6 +16,7 @@ comparePrice: 14.54 EUR
 prodname: 'Piz Buin Allergy Protector Solar en Spray  SPF 50+  Protección Muy Alta para Pieles Sensibles - 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PQHK8YC/?tag=tolees-21'
 descuento: '27.44'
 average: '12.736'

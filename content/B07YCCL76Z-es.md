@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Mydours Reposamuñecas para Teclado  Ergonómico Cojín de Muñeca Apoyo con Espuma de Memoria para Ordenador/Notebook/Laptop'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YCCL76Z/?tag=tolees-21'
 descuento: '56.69'
 average: '12.99'

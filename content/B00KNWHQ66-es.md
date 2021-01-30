@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Orlane Oligo Vit-A-Min Démaquillant Vitalisant 250 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KNWHQ66/?tag=tolees-21'
 descuento: '46.37'
 average: '16.09'

@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'molis&co. Saco de Dormir para bebé. Ideal para Verano. 0-6 Meses. 0.5 TOG. Súper Suave y Ligero. Estampado safari en tonos amarillos y verdes. Unisex. Muselina Premium.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FW19VT4/?tag=tolees-21'
 descuento: '33.44'
 average: '29.95'

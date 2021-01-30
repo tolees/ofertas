@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Videocámara Camara de Video Ultra HD 2.7K 30MP 18X Zoom Digital Videocamara Cámara con Micrófono y Control Remoto Cámara de Video con Pantalla Táctil de 3.0 Pulgadas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083FD8QKL/?tag=tolees-21'
 descuento: '50.05'
 average: '99.89'

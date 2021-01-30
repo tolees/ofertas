@@ -16,6 +16,7 @@ comparePrice: 11.85 EUR
 prodname: 'Palette Intense Cream Coloration Intensive Coloración del Cabello 8.1 Rubio Claro Ceniza - Pack de 3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071X9FDFJ/?tag=tolees-21'
 descuento: '41.01'
 average: '7.41'

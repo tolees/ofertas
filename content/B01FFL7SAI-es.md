@@ -16,6 +16,7 @@ comparePrice: 76.41 EUR
 prodname: 'Under Armour Heatgear - Pantalones Cortos de compresión para Hombre  Hombre  1289566-100001  White/Graphite  XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FFL7SAI/?tag=tolees-21'
 descuento: '59.65'
 average: '30.83'

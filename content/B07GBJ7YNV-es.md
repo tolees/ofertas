@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'Pulsar Reloj cronografo para Hombre de Cuarzo con Correa en Piel PM3120X1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GBJ7YNV/?tag=tolees-21'
 descuento: '45.54'
 average: '89.23833333333333'

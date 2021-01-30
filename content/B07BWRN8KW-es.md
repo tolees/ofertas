@@ -16,6 +16,7 @@ comparePrice: 25.65 EUR
 prodname: 'Homyl 1.44mb 3.5"USB Unidad de Disquete Externa con Interfaz USB Accesorios de Electronico de Consumo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BWRN8KW/?tag=tolees-21'
 descuento: '44.44'
 average: '14.25'

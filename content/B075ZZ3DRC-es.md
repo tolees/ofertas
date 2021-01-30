@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Nike Air Zoom Pegasus 35  Zapatillas de Running para Hombre  Negro  Black/White-Gunsmoke-Oil Grey 001   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075ZZ3DRC/?tag=tolees-21'
 descuento: '25.02'
 average: '86.495'

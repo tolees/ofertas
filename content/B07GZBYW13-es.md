@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Mini pizarra  RATEL 20 Pack pizarra pequeña de madera Rectángulo pequeño lugar tarjetas con soporte de caballete Los carteles decorativos para alimentos colocan tarjetas para bodas  fiestas  buffet'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GZBYW13/?tag=tolees-21'
 descuento: '35.31'
 average: '10.99'

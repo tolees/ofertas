@@ -16,6 +16,7 @@ comparePrice: 11.5 EUR
 prodname: 'Jayron JR-LT002 LED Sensor de cuerpo humano Sensor infrarrojo Lámpara de luz nocturna  Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2V8CHM/?tag=tolees-21'
 descuento: '33.39'
 average: '7.66'

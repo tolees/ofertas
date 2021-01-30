@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Asics Kanmei  Zapatillas de Running para Hombre  Azul  Directoire Blue/Peacoat/Energy Green   44.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071NWMVVZ/?tag=tolees-21'
 descuento: '60.01'
 average: '23.99'

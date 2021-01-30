@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Fantasy Flight Games- Caja de Inicio para Dos Jugadores  colección Destiny  FFSWD08 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075MD5KTP/?tag=tolees-21'
 descuento: '46.68'
 average: '15.99'

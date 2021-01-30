@@ -16,6 +16,7 @@ comparePrice: 74.99 EUR
 prodname: 'Fila Orbit Low  Zapatillas para Hombre  Blanco  White 1010263-98f   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PH4WRZH/?tag=tolees-21'
 descuento: '49.99'
 average: '37.5'

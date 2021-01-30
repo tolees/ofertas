@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Qwinto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0151S3USO/?tag=tolees-21'
 descuento: '69.65'
 average: '6.319999999999999'

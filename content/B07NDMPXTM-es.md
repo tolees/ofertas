@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'G-STAR RAW Core Round Neck suéter  Negro  Dk Black 6484   XX-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDMPXTM/?tag=tolees-21'
 descuento: '36.09'
 average: '35.8'

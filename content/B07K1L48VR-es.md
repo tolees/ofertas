@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'adidas Tiro19 3/4 Pnt Pantalones de Deporte  Hombre  Black/White  XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K1L48VR/?tag=tolees-21'
 descuento: '41.20'
 average: '23.49'

@@ -16,6 +16,7 @@ comparePrice: 11.95 EUR
 prodname: 'LOL Surprise Pijamas de Manga Corta para niñas Dolls Multicolor 5-6 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R49VF6K/?tag=tolees-21'
 descuento: '33.47'
 average: '7.95'

@@ -16,6 +16,7 @@ comparePrice: 78.0 EUR
 prodname: 'Calvin Klein Top Hoodie Full Zip Capucha  Negro  Black 001   Talla única  Talla del Fabricante: X-Small  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XD4S19N/?tag=tolees-21'
 descuento: '35.45'
 average: '50.35'

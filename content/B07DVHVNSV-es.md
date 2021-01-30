@@ -16,6 +16,7 @@ comparePrice: 115 EUR
 prodname: 'New Balance M1400V6  Zapatillas de Running para Hombre  Negro  Black/Green Black/Green   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DVHVNSV/?tag=tolees-21'
 descuento: '40.00'
 average: '69'

@@ -16,6 +16,7 @@ comparePrice: 88.81 EUR
 prodname: 'Guerlain - Eau de parfum homme l eau boisée 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M7R92YC/?tag=tolees-21'
 descuento: '53.18'
 average: '41.58'

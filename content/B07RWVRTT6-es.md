@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Diesel ShoesDiscover-me OderzoHombreCarterasMulticolor  Black/White/Blue  1x22x18 centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RWVRTT6/?tag=tolees-21'
 descuento: '57.27'
 average: '29.383333333333333'

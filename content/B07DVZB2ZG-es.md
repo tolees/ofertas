@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Columbia Caldorado III  Zapatillas de Running para Asfalto para Mujer  Azul  Slate Grey  Dar 099   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DVZB2ZG/?tag=tolees-21'
 descuento: '72.48'
 average: '35.77'

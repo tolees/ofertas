@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Under Armour Launch Compression Pantalones Cortos  Mujer  Negro  LG'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QWM88DB/?tag=tolees-21'
 descuento: '51.60'
 average: '15.21'

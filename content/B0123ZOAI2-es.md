@@ -16,6 +16,7 @@ comparePrice: 269.0 EUR
 prodname: 'Yamaha WX- 030 - Altavoz de streaming con conexión Bluetooth  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0123ZOAI2/?tag=tolees-21'
 descuento: '32.05'
 average: '182.78'

@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Awroutdoor Dardos de Acero 12 Piezas Dardos con Puntas Acero  Barrilles Acero de Latón  Ejes de Aluminio  Aletas de Estilo  Plumas y 12 Acero Puntos Dardos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PNTVD29/?tag=tolees-21'
 descuento: '28.01'
 average: '17.656666666666666'

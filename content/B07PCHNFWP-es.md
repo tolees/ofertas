@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'KOOTION Pendrive 64GB 3.0 Memoria USB Stick Flash Drive Pen Drive para Ordenador  Computadora  Portátil  y Auto  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PCHNFWP/?tag=tolees-21'
 descuento: '47.69'
 average: '10.98'

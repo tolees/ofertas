@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Masajeador personal de varita recargable  masajeador eléctrico de cuerpo completo actualizado Xingnuo  potente magia de mano  vibración perfecta en el hombro hacia atrás'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z5P3ZKC/?tag=tolees-21'
 descuento: '39.30'
 average: '16.99'

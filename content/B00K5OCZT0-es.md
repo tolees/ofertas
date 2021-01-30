@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Vans Atwood  Zapatillas Unisex Niños  Rojo  Canvas Oxblood/Black   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00K5OCZT0/?tag=tolees-21'
 descuento: '40.02'
 average: '26.99'

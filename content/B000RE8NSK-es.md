@@ -16,6 +16,7 @@ comparePrice: 7.5 EUR
 prodname: 'Brabantia 363665 - Cuchara de Servir Antiadherente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000RE8NSK/?tag=tolees-21'
 descuento: '28.13'
 average: '5.39'

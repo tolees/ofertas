@@ -16,6 +16,7 @@ comparePrice: 189.0 EUR
 prodname: 'Kickers Takiko  Botas Slouch para Mujer  Marrón  Marron 9   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MBQX5C6/?tag=tolees-21'
 descuento: '65.63'
 average: '43.8175'

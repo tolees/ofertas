@@ -16,6 +16,7 @@ comparePrice: 102.84 EUR
 prodname: 'Crucial Ballistix BL2K8G36C16U4W 3600 MHz  DDR4  DRAM  Memoria Gamer para Ordenadores de sobremesa  16GB  8GB x2   CL16  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083TRX7FX/?tag=tolees-21'
 descuento: '25.88'
 average: '76.22'

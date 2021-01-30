@@ -16,6 +16,7 @@ comparePrice: 20.01 EUR
 prodname: '8 Piezas Latas Pequeñas Rectangulares de Metal con Latas de Bisagras  Mini Portátil Caja de Almacenaje Pequeña Caja de Lata Vacía para Abalorios  Monedas  Joyas  Dulces  95 x 62 x 20 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BRDZ8HR/?tag=tolees-21'
 descuento: '38.08'
 average: '12.39'

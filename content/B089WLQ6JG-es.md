@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Auriculares Inalámbricos Auriculares Bluetooth 5.0  Auriculares con Reducción de Ruido estéreo 3D  Auricular Inalambrico Impermeables IPX7 Micrófono Incorporado y Cajas de Carga'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089WLQ6JG/?tag=tolees-21'
 descuento: '27.46'
 average: '16.323333333333334'

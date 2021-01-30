@@ -16,6 +16,7 @@ comparePrice: 43.26 EUR
 prodname: 'Scottonelle - Papel higiénico de 14 paquetes  6 rollos por paquete'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q6Y5SC7/?tag=tolees-21'
 descuento: '25.57'
 average: '32.2'

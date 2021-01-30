@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'ELFINA Spaire Espejo Maquillaje/Afeitado Aumento con Luz  Espejo Aumento LED Cosmético con Ampliación 10X y Poderoso Ventosa  Rotación 360°  con Una Pequeña Bolsa como Regalo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071V7RHLF/?tag=tolees-21'
 descuento: '25.01'
 average: '24.57333333333333'

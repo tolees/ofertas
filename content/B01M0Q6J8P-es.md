@@ -16,6 +16,7 @@ comparePrice: 28.88 EUR
 prodname: '14.4V 2600mAh Bateria de laptop L12L4E01 L12S4E01 L12M4E01 para Lenovo G400s G410s G500s G510s G40 G50 Z40-70 Z50 Z710 Medion AKoya S4217T Medion MD98599 MD98711 MD98712'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M0Q6J8P/?tag=tolees-21'
 descuento: '27.70'
 average: '21.38'

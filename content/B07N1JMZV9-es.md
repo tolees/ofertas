@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'Clarks Un Elda Mid  Botas Slouch para Mujer  Negro  Black Combi Black Combi   35.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1JMZV9/?tag=tolees-21'
 descuento: '82.53'
 average: '30.334'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Docena de juguetes para el sexo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004KSN2K8/?tag=tolees-21'
 descuento: '37.53'
 average: '25.293333333333333'

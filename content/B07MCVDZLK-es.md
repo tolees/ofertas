@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Gant 3-Pack Trunk Seasonal Solid Calzoncillos  Negro  Black 5   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MCVDZLK/?tag=tolees-21'
 descuento: '42.29'
 average: '23.08'

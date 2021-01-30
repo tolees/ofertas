@@ -16,6 +16,7 @@ comparePrice: 34.9 EUR
 prodname: 'Kit de blanqueamiento dental White First - teeth whitening y dientes postizos - Kit de blanqueamiento dental con gel de blanqueamiento de 20 mL  fresa '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077H7ZCGR/?tag=tolees-21'
 descuento: '42.98'
 average: '19.9'

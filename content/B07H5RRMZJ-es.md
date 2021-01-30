@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'Geographical Norway Agada Men 068 - Size XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H5RRMZJ/?tag=tolees-21'
 descuento: '33.61'
 average: '79.0'

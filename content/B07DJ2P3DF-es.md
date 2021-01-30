@@ -16,6 +16,7 @@ comparePrice: 92.49 EUR
 prodname: 'New Balance 997H Core  Zapatillas para Hombre  Azul  Pigment   46.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DJ2P3DF/?tag=tolees-21'
 descuento: '38.37'
 average: '57.0'

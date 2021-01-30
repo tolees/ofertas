@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Masajeador facial de barra de oro  masajeador de bolsa de ojo oscuro  reafirmante antiarrugas  reduce las arrugas de los ojos  suaviza los poros  mejora la aspereza'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVZBB2V/?tag=tolees-21'
 descuento: '85.45'
 average: '1.89'

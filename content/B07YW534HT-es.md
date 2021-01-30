@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'SZBHS Adaptador USB C a USB 3.0 [4 unidades] Adaptador USB C a Micro USB  USB Tipo C Adaptador  OTG USB Tipo C Adaptador Portátil con llave  para Huawei Mate 20  Samsung Galaxy LG  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YW534HT/?tag=tolees-21'
 descuento: '33.36'
 average: '9.99'

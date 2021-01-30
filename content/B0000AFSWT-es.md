@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Converse Chuck Taylor All Star Ox  Zapatillas Unisex Adulto  Blanco  Optical White   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0000AFSWT/?tag=tolees-21'
 descuento: '40.01'
 average: '42.75142857142857'

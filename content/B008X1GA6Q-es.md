@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Maybelline New York The Colossal Go Extreme Radical Black Máscara de Pestañas Negra Volumen - 9.5 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008X1GA6Q/?tag=tolees-21'
 descuento: '34.48'
 average: '5.89'

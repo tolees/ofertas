@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Bandolera grande porta tablet Pepe Jeans Raw'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NCNJVGK/?tag=tolees-21'
 descuento: '28.83'
 average: '24.663999999999998'

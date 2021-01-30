@@ -16,6 +16,7 @@ comparePrice: 8.8 EUR
 prodname: 'Joma Combi Camisetas Equip. M/c  Hombre  Marino Oscuro  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H2CFJTL/?tag=tolees-21'
 descuento: '31.93'
 average: '5.9907692307692315'

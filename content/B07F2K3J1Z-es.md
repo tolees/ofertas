@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'PUMA Axis  Zapatillas Unisex Adulto  Black White  41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F2K3J1Z/?tag=tolees-21'
 descuento: '25.11'
 average: '30.633333333333333'

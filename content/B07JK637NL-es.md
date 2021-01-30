@@ -16,6 +16,7 @@ comparePrice: 8.9 EUR
 prodname: 'TAZA CERAMICA 3D 450 ML | PUÑO HULK'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JK637NL/?tag=tolees-21'
 descuento: '55.17'
 average: '3.99'

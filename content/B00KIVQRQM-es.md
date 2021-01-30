@@ -16,6 +16,7 @@ comparePrice: 28.64 EUR
 prodname: 'Dr Irena Eris Crema Contorno Ojos Anti-Arrugas 45+ - 15 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KIVQRQM/?tag=tolees-21'
 descuento: '25.63'
 average: '21.3'

@@ -16,6 +16,7 @@ comparePrice: 28.72 EUR
 prodname: 'Soporte de aluminio universal Zice para proyector  para techo o pared  capacidad de 5 kg  para cámara o mini proyector'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y1LK7LL/?tag=tolees-21'
 descuento: '65.22'
 average: '9.99'

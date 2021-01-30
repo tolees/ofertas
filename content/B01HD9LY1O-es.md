@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Instax Mini 70  Cámara instantánea analógica  ISO 800  0.37x  f 60 mm  1:12.7  Flash automático   Tamaño Único  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HD9LY1O/?tag=tolees-21'
 descuento: '25.59'
 average: '87.1125'

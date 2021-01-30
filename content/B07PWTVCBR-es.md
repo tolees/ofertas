@@ -16,6 +16,7 @@ comparePrice: 12.88 EUR
 prodname: 'Crema para los ojos  reduce las arrugas y las arrugas  reparadora hidratante  crema contra ojeras y bolsillos debajo de los ojos.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PWTVCBR/?tag=tolees-21'
 descuento: '58.15'
 average: '5.39'

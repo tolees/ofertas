@@ -16,6 +16,7 @@ comparePrice: 19.15 EUR
 prodname: 'Meilo Cuchillos de Cocina para niños Juego de Cuchillos de Cocina， Cuchillos de Cocina Seguros para niños  Cuchillos de Nailon para Chef 4 Unidades '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085Q1JFBS/?tag=tolees-21'
 descuento: '42.61'
 average: '10.99'

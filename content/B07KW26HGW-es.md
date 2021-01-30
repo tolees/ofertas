@@ -16,6 +16,7 @@ comparePrice: 88.32 EUR
 prodname: '2.7inch TFT Digital Resistente al Agua 5MP 1080P máximo de Pantalla Doble 16x Zoom Digital Videocámara HD268'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KW26HGW/?tag=tolees-21'
 descuento: '60.00'
 average: '35.33'

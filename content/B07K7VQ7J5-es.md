@@ -16,6 +16,7 @@ comparePrice: 284.9 EUR
 prodname: 'Britax Römer Kidfix² S Blue Marble'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K7VQ7J5/?tag=tolees-21'
 descuento: '31.16'
 average: '205.74666666666667'

@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Funda de cáscara dura mCover para los NUEVOS 14" Yoga 530  NO compatible con las antiguas series Yoga 520/510/500  computadoras portátiles  Yoga 530 14" Océano azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G3GWJ9F/?tag=tolees-21'
 descuento: '27.28'
 average: '23.99'

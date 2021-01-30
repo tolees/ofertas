@@ -16,6 +16,7 @@ comparePrice: 46.73 EUR
 prodname: 'Baoblaze Memory Match Game - Juegos De Memoria De Preescolar De Parejas De Dibujos Animados Coloridos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084X48MBB/?tag=tolees-21'
 descuento: '44.45'
 average: '25.96'

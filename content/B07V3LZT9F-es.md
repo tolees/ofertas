@@ -16,6 +16,7 @@ comparePrice: 132.3 EUR
 prodname: 'Love MoschinoJc4289pp0aMujerBolso de manoNegro  Black Quilted 6x15x21 Centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V3LZT9F/?tag=tolees-21'
 descuento: '67.57'
 average: '42.76'

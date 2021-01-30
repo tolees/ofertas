@@ -16,6 +16,7 @@ comparePrice: 31.81 EUR
 prodname: 'Karmin T70 - Maquina de cortar pelo/cabello profesional para hombre con cuchillas de ceramica  Inalámbrica  recargable con Display LED'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077MK3Q2M/?tag=tolees-21'
 descuento: '44.11'
 average: '21.29'

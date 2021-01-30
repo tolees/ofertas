@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Babyline Lion - Colchoneta ligera  unisex'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BHNJRFL/?tag=tolees-21'
 descuento: '47.37'
 average: '21.0'

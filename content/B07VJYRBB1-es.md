@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'LED Tira De TV  Diyife 2.5M 75 Leds Multicolor RetroiluminacióN con FR Remoto de TV 5050RGB Bias LluminacióN para HDTV de 40-60 Pulgadas  Alimentado por USB para TV/PC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VJYRBB1/?tag=tolees-21'
 descuento: '36.86'
 average: '11.171818181818182'

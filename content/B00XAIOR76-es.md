@@ -16,6 +16,7 @@ comparePrice: 2.92 EUR
 prodname: 'Instituto Español Piel Sana Loción Corporal - 500 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XAIOR76/?tag=tolees-21'
 descuento: '33.90'
 average: '1.93'

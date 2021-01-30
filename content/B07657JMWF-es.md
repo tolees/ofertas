@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'Auna Stealth Bar 60 Altavoz soundbar 2.1 Canales 80 W Negro - Barra de Sonido  2.1 Canales  80 W  80 W  8 ?  Inalámbrico y alámbrico  3.0+EDR '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07657JMWF/?tag=tolees-21'
 descuento: '25.00'
 average: '119.99'

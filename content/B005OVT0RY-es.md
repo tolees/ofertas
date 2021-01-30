@@ -16,6 +16,7 @@ comparePrice: 199 EUR
 prodname: 'BERING Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable 11939-078'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005OVT0RY/?tag=tolees-21'
 descuento: '35.72'
 average: '124.64'

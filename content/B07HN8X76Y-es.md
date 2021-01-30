@@ -16,6 +16,7 @@ comparePrice: 269.0 EUR
 prodname: 'Cecotec Conga Serie 1290  Robot Aspirador  1400 Pa  Tecnología iTech Gyro  App con Mapa  Aspira  Barre  Friega y Pasa la Mopa  7 Modos  3 Niveles de Fregado  Magnetic Stripe  Programable   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HN8X76Y/?tag=tolees-21'
 descuento: '64.31'
 average: '143.928'

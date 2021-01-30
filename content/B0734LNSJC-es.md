@@ -16,6 +16,7 @@ comparePrice: 11.05 EUR
 prodname: 'TAZA CERAMICA 325 ML CON CAJA | BATMAN LOGO'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0734LNSJC/?tag=tolees-21'
 descuento: '54.84'
 average: '4.99'

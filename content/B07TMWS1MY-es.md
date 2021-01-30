@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Hamble Loafer  Mocasines  Marrón  Tan Leather Tan Leather   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TMWS1MY/?tag=tolees-21'
 descuento: '50.03'
 average: '49.95'

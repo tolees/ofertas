@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'BAÑADOR DE Hombre QUORIMINEL ASSOR B Blanco XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089YF6RW7/?tag=tolees-21'
 descuento: '30.00'
 average: '20.3'

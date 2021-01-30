@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'Revlon Super Lustrous Brillo Labial  Super Natural '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CMU36GQ/?tag=tolees-21'
 descuento: '74.97'
 average: '1.99'

@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Operación Triunfo 2017'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FLY7VQR/?tag=tolees-21'
 descuento: '40.47'
 average: '10.916666666666668'

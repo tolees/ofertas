@@ -16,6 +16,7 @@ comparePrice: 45.42 EUR
 prodname: 'Vasos para beber 4 PACK-11OZ Restaurante de color acrílico Copas Party Bar Cerveza Jugo Irrompible Único Acampar Vaso de cumpleaños para té  café  whisky y leche  Combinación '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IGX4YOA/?tag=tolees-21'
 descuento: '60.50'
 average: '17.94'

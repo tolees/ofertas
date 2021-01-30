@@ -16,6 +16,7 @@ comparePrice: 13.47 EUR
 prodname: 'Walser Car Comfort 11652 Cubierta del Asiento del Coche Almohadillas de Asiento S-Race in Antracit/Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F2NRCMN/?tag=tolees-21'
 descuento: '29.92'
 average: '9.44'

@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'PLA Plus Filament 1.75mm  Tidy Winding 3D Printer Filament  Tangle-Free Filament  PLA Plus  PLA+  negro*2 and blanco Dimensional Accuracy +/- 0.02 mm  PLA Plus 1.5 KG 3.3lbs '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L3NNSZ3/?tag=tolees-21'
 descuento: '61.01'
 average: '23.39'

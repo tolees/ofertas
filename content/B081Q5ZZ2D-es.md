@@ -16,6 +16,7 @@ comparePrice: 95.95 EUR
 prodname: 'Depiladora de Luz Pulsada  ACTION 2 Modos Depilación Definitiva Profesional de IPL  990 000 Pulsaciones  la Depilación Permanente del Vello Visible para Hombres y Mujeres  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081Q5ZZ2D/?tag=tolees-21'
 descuento: '27.10'
 average: '69.95'

@@ -16,6 +16,7 @@ comparePrice: 5.38 EUR
 prodname: 'MagiDeal Kit Herramientas de Pintura Flor Pincel Sello de Esponja Establecidos Fuentes Arte DIY Niños - B'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XTV53K4/?tag=tolees-21'
 descuento: '44.42'
 average: '2.99'

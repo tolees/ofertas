@@ -16,6 +16,7 @@ comparePrice: 125.0 EUR
 prodname: 'The North Face Base Camp Duffel Bolsa de Deporte  Unisex Adulto  Rojo  TNF Red/TNF Black   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072WKC7Z6/?tag=tolees-21'
 descuento: '31.21'
 average: '85.99'

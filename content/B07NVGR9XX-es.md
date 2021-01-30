@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'ESR7Gears Termómetro de cocina de lectura instantánea 2-3s  Termómetro digital retroiluminado de lectura ultrarrápida para carne  larga sonda plegable  Calibrable e impermeable  Para cocina y parrilla'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NVGR9XX/?tag=tolees-21'
 descuento: '28.59'
 average: '12.656666666666666'

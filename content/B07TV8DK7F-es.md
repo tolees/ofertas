@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Tommy Hilfiger Th Baby Sock 3p Giftbox Newborn Calcetines  Multicolor  Tommy Original 085   Recién Nacido  Talla del fabricante: 11/14   Pack de 3  para Bebés'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TV8DK7F/?tag=tolees-21'
 descuento: '32.79'
 average: '8.73'

@@ -16,6 +16,7 @@ comparePrice: 219.9 EUR
 prodname: 'HoMedics BMSC-4600H-EU - Respaldo masajeador Shiatsu SensaTouch  tres programas  calor infrarrojo  cervical  color gris negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015GZJ8EC/?tag=tolees-21'
 descuento: '39.93'
 average: '132.09'

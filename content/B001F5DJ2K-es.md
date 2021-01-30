@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Harry Potter Scarf - Bufanda  accesorio de disfraz  Surtido: colores aleatorios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001F5DJ2K/?tag=tolees-21'
 descuento: '59.84'
 average: '3.61'

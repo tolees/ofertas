@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'SAMSONITE Laptop Bag 14.1"  Space Blue  -Network 3  Equipaje de Mano  0 cm  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076CKZQ93/?tag=tolees-21'
 descuento: '37.80'
 average: '35.90615384615385'

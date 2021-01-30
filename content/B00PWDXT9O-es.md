@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'Columbia Peakfreak Nomad Chukka WP Omni-Heat  Botas de Senderismo para Hombre  Negro  Black  Golden Rod 010   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PWDXT9O/?tag=tolees-21'
 descuento: '25.46'
 average: '81.99'

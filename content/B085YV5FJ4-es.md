@@ -16,6 +16,7 @@ comparePrice: 71.77 EUR
 prodname: 'Death Stranding  Código Digital '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085YV5FJ4/?tag=tolees-21'
 descuento: '36.78'
 average: '58.839999999999996'

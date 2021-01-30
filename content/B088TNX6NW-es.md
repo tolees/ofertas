@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Phipuds Webcam PC Full HD 1080P con Micrófono  Webcam Portátil para PC  Webcam USB 2.0  Streaming Cámara Reducción de Ruido para Videollamadas  Grabación  Conferencias con Clip Giratorio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088TNX6NW/?tag=tolees-21'
 descuento: '63.76'
 average: '28.99'

@@ -16,6 +16,7 @@ comparePrice: 28.14 EUR
 prodname: 'Dickies Men s No-Scratch Mechanic Belt Black Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006X4ERCO/?tag=tolees-21'
 descuento: '36.14'
 average: '18.095'

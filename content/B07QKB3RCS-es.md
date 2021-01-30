@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'LENBEST Cojín de Agua Inflable para Bebé  Alfombra Inflable con Agua  Juego de Esterilla de Agua de PVC  Estera Inflable del Agua del Bebé de Tortuga  con Martillo Inflable de Juguete - Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QKB3RCS/?tag=tolees-21'
 descuento: '28.59'
 average: '14.99'

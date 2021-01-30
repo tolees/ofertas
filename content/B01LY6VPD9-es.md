@@ -16,6 +16,7 @@ comparePrice: 99.18 EUR
 prodname: 'Hairfinity Acondicionador Unisex  Negro  Black   6 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LY6VPD9/?tag=tolees-21'
 descuento: '70.22'
 average: '29.94'

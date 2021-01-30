@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Wrangler Icons Jeans  Blue 6 Months 923  33W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TWNB6ZH/?tag=tolees-21'
 descuento: '78.01'
 average: '19.78'

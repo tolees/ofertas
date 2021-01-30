@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'Roccat Tyon - Ratón Gaming  Sensor Láser 8200 dpi  14 Teclas  Interruptor análogo de Pulgar  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LVQTCJ2/?tag=tolees-21'
 descuento: '32.41'
 average: '71.855'

@@ -16,6 +16,7 @@ comparePrice: 30.59 EUR
 prodname: 'Dilwe 7 en 1 Kit Herramientas de Guitarra Mantenimiento de Reparación de Limpieza'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DNTLNNN/?tag=tolees-21'
 descuento: '37.92'
 average: '18.99'

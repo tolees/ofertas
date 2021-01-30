@@ -16,6 +16,7 @@ comparePrice: 34.0 EUR
 prodname: 'Diesel UFSB-BRAS  Sujetador Deportivo para Mujer  Multicolor  Black/Racing Red E3976/0taxs   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S1VVXJV/?tag=tolees-21'
 descuento: '42.35'
 average: '15.755'

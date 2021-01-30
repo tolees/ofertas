@@ -16,6 +16,7 @@ comparePrice: 169.0 EUR
 prodname: 'Toshiba N300 HDEXR01ZNA51- Disco duro interno 4 TB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N9SN9ST/?tag=tolees-21'
 descuento: '25.44'
 average: '127.74272727272728'

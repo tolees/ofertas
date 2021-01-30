@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Equalizer Persistent  Zapatillas para Hombre  Negro  Black   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00L1UNL36/?tag=tolees-21'
 descuento: '40.03'
 average: '40.62200000000001'

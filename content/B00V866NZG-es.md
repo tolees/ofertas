@@ -16,6 +16,7 @@ comparePrice: 14.53 EUR
 prodname: 'Arregui TB-021-A Taburete Plegable de 21 cm de altura  azul  210X250X200'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00V866NZG/?tag=tolees-21'
 descuento: '54.65'
 average: '6.591428571428572'

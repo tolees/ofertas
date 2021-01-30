@@ -16,6 +16,7 @@ comparePrice: 64.0 EUR
 prodname: 'Vidal & Vidal Brazalete Rosado Original'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082YDK4MB/?tag=tolees-21'
 descuento: '50.00'
 average: '32.0'

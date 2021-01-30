@@ -16,6 +16,7 @@ comparePrice: 13.25 EUR
 prodname: 'Mars Gaming MKHA1 - Teclado gaming para PC  respuesta ultra-rápida  iluminación LED blanca  anti-ghosting  teposamuñecas extraíbles  teclas elevadas y extraíbles  base metálica  USB oro   color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XBO3O2S/?tag=tolees-21'
 descuento: '35.92'
 average: '11.094999999999999'

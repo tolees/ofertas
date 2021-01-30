@@ -16,6 +16,7 @@ comparePrice: 399.0 EUR
 prodname: 'Fleck DUO5 80 EU - Termo electrico Duo 80 litros  eficiencia B B M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EMZWAE2/?tag=tolees-21'
 descuento: '37.59'
 average: '257.66499999999996'

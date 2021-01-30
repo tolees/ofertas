@@ -16,6 +16,7 @@ comparePrice: 16.33 EUR
 prodname: 'Sharplace Juguete de Vehículo de Imitación Modelo de Barco de Vapor de Velocidad Asambleado Juego Educativo Aprendizaje de Ciencia para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G4CHQWW/?tag=tolees-21'
 descuento: '44.46'
 average: '9.07'

@@ -16,6 +16,7 @@ comparePrice: 10.1 EUR
 prodname: 'Haribo - Cerezas con azúcar super - Caramelo de goma - 1 kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XAPCFKA/?tag=tolees-21'
 descuento: '53.27'
 average: '4.596000000000001'

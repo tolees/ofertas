@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Princess 112380 Deshidratador de alimentos  seis niveles  temperatura ajustable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IYFMRPY/?tag=tolees-21'
 descuento: '41.63'
 average: '34.99'

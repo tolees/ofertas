@@ -16,6 +16,7 @@ comparePrice: 1495.0 EUR
 prodname: 'Keter -  Caseta de jardín exterior Fusion 7  5x9  Color marrón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TI7O4HG/?tag=tolees-21'
 descuento: '29.70'
 average: '1051.0'

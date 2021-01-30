@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Cartuchos de Filtro para Todos Los Filtros de Agua BRITA MAXTRA+ con Carbón Activo para Reducir la Cal  iTrunk Paquete de 4 Cartuchos de Resina de Intercambio de Iones de Carbón Activo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T536GKP/?tag=tolees-21'
 descuento: '36.01'
 average: '16.99'

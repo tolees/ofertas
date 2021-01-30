@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Vans Atwood Textile Suede  Zapatillas para Hombre  Negro   Outdoor  Black/White Ugv   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TQ8WD72/?tag=tolees-21'
 descuento: '51.71'
 average: '35.92'

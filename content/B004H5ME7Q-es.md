@@ -16,6 +16,7 @@ comparePrice: 21.0 EUR
 prodname: 'Clinique 35520 - Barra de labios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004H5ME7Q/?tag=tolees-21'
 descuento: '40.00'
 average: '12.6'

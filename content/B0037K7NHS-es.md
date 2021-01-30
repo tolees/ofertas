@@ -16,6 +16,7 @@ comparePrice: 11.45 EUR
 prodname: 'Zefal Z-Light Pack XS Bolsa Porta-Cámaras  Unisex  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0037K7NHS/?tag=tolees-21'
 descuento: '40.26'
 average: '7.52'

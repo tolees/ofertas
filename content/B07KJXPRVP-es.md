@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Guirnalda Luces Exterior  Kenlita Cadena de Luces 15m IP65 Impermeable  16pcs S14 E27 LED Filamento Bombilla Interior Guirnalda Luminosa para Fiesta Boda Jardín Decoración'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KJXPRVP/?tag=tolees-21'
 descuento: '30.00'
 average: '49.14'

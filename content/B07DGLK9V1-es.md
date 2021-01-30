@@ -16,6 +16,7 @@ comparePrice: 299.95 EUR
 prodname: 'Oral-B Genius 10000N Sensi Ultrathin - Cepillo Eléctrico  1 Negro Mango Conectado  6 Modos Blanqueado  Sensible  Encías  4 Cabezales  Funda de Viaje con Puerto USB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DGLK9V1/?tag=tolees-21'
 descuento: '47.50'
 average: '141.54250000000002'

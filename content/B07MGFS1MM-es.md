@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'Napapijri Moto Wint Pantalones  Negro  Black 041   42  Talla del Fabricante: 30  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MGFS1MM/?tag=tolees-21'
 descuento: '54.93'
 average: '53.63'

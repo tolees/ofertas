@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'LAST LEVEL- Funko Figura Pop Dragon Ball: Videl  Multicolor  Talla única  FFK36389 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HB3LJPK/?tag=tolees-21'
 descuento: '56.55'
 average: '7.8933333333333335'

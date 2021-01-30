@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Nike Pico 5  Gymnastics Shoe Unisex-Child  Deep Royal Blue/White  38.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V1Z5L9K/?tag=tolees-21'
 descuento: '50.03'
 average: '19.99'

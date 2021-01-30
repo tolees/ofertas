@@ -16,6 +16,7 @@ comparePrice: 2.5 EUR
 prodname: 'Brabantia Código Y Bolsas de Basura Formato Rollo  Blanco  20 L  20 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0745BJ2BR/?tag=tolees-21'
 descuento: '30.00'
 average: '1.75'

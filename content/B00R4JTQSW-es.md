@@ -16,6 +16,7 @@ comparePrice: 64.0 EUR
 prodname: 'Roca A5A3025C00 A5A2025C02 Monomando Mezclador Ducha  Modelo Victoria  Cromado  cromo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00R4JTQSW/?tag=tolees-21'
 descuento: '27.19'
 average: '47.870000000000005'

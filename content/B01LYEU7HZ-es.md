@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Skechers Women 12615 Low-Top Trainers  Black  Black Mesh/White Trim Bkw   7 UK  40 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LYEU7HZ/?tag=tolees-21'
 descuento: '29.95'
 average: '34.790000000000006'

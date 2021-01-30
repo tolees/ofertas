@@ -16,6 +16,7 @@ comparePrice: 34.0 EUR
 prodname: 'Vinilo decorativo Ropa Categoría Muebles Ventana Armario Decoración Etiqueta de la pared Etiqueta Mural'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BTMQ5NC/?tag=tolees-21'
 descuento: '50.29'
 average: '16.9'

@@ -16,6 +16,7 @@ comparePrice: 56.52 EUR
 prodname: 'Auriculares Bluetooth  Manos Libres Oreja Auricular inalámbrico Bluetooth V4.1 Auriculares con Reducción de Ruido  Manos libres Auriculares con Micrófono para Oficina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B4JQRGH/?tag=tolees-21'
 descuento: '38.09'
 average: '34.99'

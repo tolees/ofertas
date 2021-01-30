@@ -16,6 +16,7 @@ comparePrice: 22.28 EUR
 prodname: 'Wuree Doble Cara Brillo Negro Harry Potter Inspirado Feliz cumpleaños Cake Topper Asistente de Fiesta Suministros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HCMJ3G8/?tag=tolees-21'
 descuento: '59.65'
 average: '9.24'

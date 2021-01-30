@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Trust Preme - Presentador láser inalámbrico  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JRW0GGU/?tag=tolees-21'
 descuento: '33.15'
 average: '27.253333333333334'

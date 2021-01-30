@@ -16,6 +16,7 @@ comparePrice: 195 EUR
 prodname: 'WENGER Reloj Analogico para Unisex de Cuarzo con Correa en Cuero 01.1741.102'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y5W4DJ3/?tag=tolees-21'
 descuento: '45.19'
 average: '106.88'

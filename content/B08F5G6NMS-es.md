@@ -16,6 +16,7 @@ comparePrice: 3.94 EUR
 prodname: 'yaoyan Adaptador USB 3.1 Tipo C USB-C a Dual 2 Hub Hub para PC Laptop Tablet Macbook PromotionHot Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08F5G6NMS/?tag=tolees-21'
 descuento: '33.50'
 average: '2.62'

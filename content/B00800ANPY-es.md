@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'No Name -30 - Delantal de algodón  tamaño King Size  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00800ANPY/?tag=tolees-21'
 descuento: '47.40'
 average: '8.39'

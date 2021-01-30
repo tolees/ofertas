@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Quiksilver Mission V-Shoes For Men  Botas de Nieve para Hombre  Beige  Tan-Solid Tkd0   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072KLL8P6/?tag=tolees-21'
 descuento: '70.12'
 average: '38.79666666666667'

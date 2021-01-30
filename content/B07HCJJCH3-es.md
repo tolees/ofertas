@@ -16,6 +16,7 @@ comparePrice: 19.87 EUR
 prodname: 'P Prettyia 1 Par Cuernos Tornillos de Fijación Sonido para Vehículos Accesorio de Alimentación'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HCJJCH3/?tag=tolees-21'
 descuento: '44.44'
 average: '10.695'

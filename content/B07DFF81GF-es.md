@@ -16,6 +16,7 @@ comparePrice: 16.7 EUR
 prodname: 'Funko- 5 Star: Horror: Chucky  Multicolor  34011'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFF81GF/?tag=tolees-21'
 descuento: '53.17'
 average: '7.82'

@@ -16,6 +16,7 @@ comparePrice: 26.55 EUR
 prodname: 'Rodillo de cocina de acero inoxidable  Palo de amasar para panadería pastelería  La mejor fudge  tartas  galletas y pasta! by XENBORG'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TYPBV14/?tag=tolees-21'
 descuento: '60.00'
 average: '10.62'

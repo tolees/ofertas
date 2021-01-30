@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Limpiador de Oídos Limpia Cera Oidos Q grips Cera Oidos Kit de limpieza Para Oídos  Sistema Espiral Inteligente  con Mango y 16 Puntas Lavables  Seguro y Suave  Adecuado para Niños y Adultos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BYK12LK/?tag=tolees-21'
 descuento: '29.93'
 average: '9.325000000000001'

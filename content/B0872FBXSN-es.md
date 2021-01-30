@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'KN-95'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0872FBXSN/?tag=tolees-21'
 descuento: '41.00'
 average: '11.8'

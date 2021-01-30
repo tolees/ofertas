@@ -16,6 +16,7 @@ comparePrice: 230.0 EUR
 prodname: 'NIXON Reloj Cronógrafo para Hombre de Cuarzo con Correa en Tela A11642548'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IRKRWN2/?tag=tolees-21'
 descuento: '74.63'
 average: '103.15461538461538'

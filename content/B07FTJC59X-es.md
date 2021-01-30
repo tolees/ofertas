@@ -16,6 +16,7 @@ comparePrice: 55.85 EUR
 prodname: 'BONAI Bateria Externa Wireless 12000mAh 2 In 1 Cargador Inalámbrico + Cargador Móvil Portáti Power Bank para iPhone XR/XS/XS Max/X/8/8+  Samsung Galaxy S8/Note 8 y Todos Móviles con QI - Oro Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FTJC59X/?tag=tolees-21'
 descuento: '55.26'
 average: '25.32333333333333'

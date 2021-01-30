@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'Maybelline New York - Superstay Matte Ink  Tono 15 Lover + Tono 40 Believer  Pack de 2 Pintalabios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MXVM3FY/?tag=tolees-21'
 descuento: '30.12'
 average: '10.549999999999999'

@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Beurer IH55 Inhalador silencioso con membrana oscilante  color blanco  14.6 x 5.1 x 8.5 cm  228 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075LFHKN8/?tag=tolees-21'
 descuento: '31.27'
 average: '66.36999999999999'

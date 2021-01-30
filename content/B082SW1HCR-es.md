@@ -16,6 +16,7 @@ comparePrice: 33.86 EUR
 prodname: 'Ventilador Portátil Versátil de Escritorio Personal Batería 5200mAh con Trípode Flexible Ventilador USB Silencioso 360°Ajustable para Cochecito de Bebé  Cinta de Correr  etc.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082SW1HCR/?tag=tolees-21'
 descuento: '32.10'
 average: '22.99'

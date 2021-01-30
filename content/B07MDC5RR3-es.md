@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'E-MANIS Caja Joyero Caja de Joyas Estuche Rectangular para Guardar Joyas Pendientes Anillos y Collares Espejo y Cajones Tapa Elevable para Relojes  Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MDC5RR3/?tag=tolees-21'
 descuento: '30.47'
 average: '15.29'

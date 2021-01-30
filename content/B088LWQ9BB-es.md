@@ -16,6 +16,7 @@ comparePrice: 25.95 EUR
 prodname: 'KRY Ear Wax Remover  Limpiadores de oídos Soft Tips Herramienta eléctrica de selección de orejas para bebés adultos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088LWQ9BB/?tag=tolees-21'
 descuento: '29.36'
 average: '18.33'

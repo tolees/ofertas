@@ -16,6 +16,7 @@ comparePrice: 13.49 EUR
 prodname: 'bollé Schuss Máscaras  Unisex Adulto  Azul Mate  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F7YB1N9/?tag=tolees-21'
 descuento: '31.65'
 average: '9.22'

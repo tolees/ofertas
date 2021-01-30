@@ -16,6 +16,7 @@ comparePrice: 11.95 EUR
 prodname: 'Essie Tono Chloting Opt Hero 497 Colección de Otoño Esmalte de uñas - 52 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007IYDCV0/?tag=tolees-21'
 descuento: '73.22'
 average: '3.2'

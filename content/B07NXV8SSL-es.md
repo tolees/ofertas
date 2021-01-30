@@ -16,6 +16,7 @@ comparePrice: 88.9 EUR
 prodname: 'San Ignacio Navy Black Set de 3 sartenes + 4 recipientes herméticos + 3 Utensilios de Cocina  Aluminio Prensado  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NXV8SSL/?tag=tolees-21'
 descuento: '52.07'
 average: '40.64555555555555'

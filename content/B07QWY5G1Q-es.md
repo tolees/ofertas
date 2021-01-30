@@ -16,6 +16,7 @@ comparePrice: 119 EUR
 prodname: 'WMF Steak Profi Sartén Profesional de inducción antiadherente  28cm control rápido del calor  Sin PFOA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QWY5G1Q/?tag=tolees-21'
 descuento: '28.58'
 average: '83.99'

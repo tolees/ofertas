@@ -16,6 +16,7 @@ comparePrice: 5.95 EUR
 prodname: 'Chicco - Barra de alivio post picaduras mosquito para bebés  sin amoniaco ni alcohol  formula natural'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BYR8TWH/?tag=tolees-21'
 descuento: '26.05'
 average: '4.598571428571429'

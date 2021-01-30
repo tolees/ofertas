@@ -16,6 +16,7 @@ comparePrice: 10.75 EUR
 prodname: 'Suavinex – Loción hidratante Corporal para bebés. Apta para pieles Sensibles. Textura ligera y fácil absorción. 90% Ingredientes de Origen Natural  500ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003WF3GSS/?tag=tolees-21'
 descuento: '34.88'
 average: '8.875'

@@ -16,6 +16,7 @@ comparePrice: 10.8 EUR
 prodname: 'STANLEY 1-93-329 - Cinturón portaherramientas de Nylon'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000WCB51Y/?tag=tolees-21'
 descuento: '29.26'
 average: '7.632'

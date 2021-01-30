@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'SAFETYON Mosquitera Puerta Magnetica  100 x 220cm  Corredera Cortina Mosquitera Magnética para Puertas de Salón/Balcón/Corredor  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TXSP2PC/?tag=tolees-21'
 descuento: '25.21'
 average: '17.494545454545452'

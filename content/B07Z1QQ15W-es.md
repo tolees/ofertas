@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'NAPATEK Lámpara Escritorio LED  Lámpara De Mesa Para Cuidado De Los Ojos Con Cargador Inalámbrico  Aleación De Aluminio Lámpara De Luz Natural De Brillo Multinivel Con Control  Plateado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z1QQ15W/?tag=tolees-21'
 descuento: '48.00'
 average: '51.99'

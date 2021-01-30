@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Columbia Ivo Trail  Zapatillas para Hombre  Azul  Collegiate Navy 464   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JWXDW15/?tag=tolees-21'
 descuento: '39.99'
 average: '60'

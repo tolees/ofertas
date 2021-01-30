@@ -16,6 +16,7 @@ comparePrice: 46.33 EUR
 prodname: 'Blindecor Lira Estor Enrollable de Doble Capa  Noche y Día  Gris Antracita  120X180'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XGCDPLB/?tag=tolees-21'
 descuento: '31.30'
 average: '31.83'

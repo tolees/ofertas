@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Telémetro láser 40m  GALAX PRO Medidor Láser  Precisión ±2 mm  LCD Retroiluminación  Medición de distancia  Área Batería Incluida/MKL-C02'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SMQ6J8G/?tag=tolees-21'
 descuento: '56.01'
 average: '24.656666666666666'

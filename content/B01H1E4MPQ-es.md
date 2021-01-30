@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'LG OM5560 - Microcadena  500 W  con Bluetooth 4.0 y USB   Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01H1E4MPQ/?tag=tolees-21'
 descuento: '29.96'
 average: '180.73666666666668'

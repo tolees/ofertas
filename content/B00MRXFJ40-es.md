@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'INCREÍBLE Lima Pies Removedor De Piel Dura - MEJORES Archivos De Pie Para Durezas Pies MEGAFILE GENUINO Pedicura Removedor De Callos Talón Pelar Huevo De Pies Piedra Pomez Para Pies Ped Pedi'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MRXFJ40/?tag=tolees-21'
 descuento: '25.02'
 average: '11.21'

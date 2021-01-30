@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'JACK & JONES Jjeholmen Sweat Crew Neck Noos  Suéter para Hombre  Verde  Olive Night   Medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F6DNS6K/?tag=tolees-21'
 descuento: '40.02'
 average: '12.823333333333334'

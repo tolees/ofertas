@@ -16,6 +16,7 @@ comparePrice: 24 EUR
 prodname: 'L Oréal Expert Professionnel Liss Unlimited Serum 125 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DZHYB4G/?tag=tolees-21'
 descuento: '45.92'
 average: '12.98'

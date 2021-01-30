@@ -16,6 +16,7 @@ comparePrice: 72.99 EUR
 prodname: 'Russell Hobbs Retro - Tostadora Vintage  2 Ranuras Cortas y Anchas  para 2 Rebanadas  Acero Inoxidable  Crema  - ref. 21682-56'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01J9LPS4S/?tag=tolees-21'
 descuento: '36.58'
 average: '45.348888888888894'

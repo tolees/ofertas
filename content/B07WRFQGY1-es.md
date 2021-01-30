@@ -16,6 +16,7 @@ comparePrice: 59.44 EUR
 prodname: 'Eono by Amazon - Organizadores de Viaje de compresión expandibles  Impermeable Organizador para Maletas  Organizador de Equipaje  Cubos de Embalaje  Compression Packing Cubes  Púrpura  6 Set'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WRFQGY1/?tag=tolees-21'
 descuento: '61.32'
 average: '22.99'

@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Memoria USB 128GB  SAWAKE Flash Drive USB 3.0  Mini Pendrive LED Multicolor Brillando  Memory Stick Portátil con Cuerda para Windows 7/8/10/Vista/XP/unix/2000/ME Linux'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WT48H4H/?tag=tolees-21'
 descuento: '41.67'
 average: '15.16'

@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Kickers Atryo  Zapatillas para Hombre  Azul  Bleu Denim 5   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJ8RZ3F/?tag=tolees-21'
 descuento: '65.10'
 average: '20.59'

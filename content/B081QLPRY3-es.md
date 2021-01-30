@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'adidas Trefoil Tgh Mallas  Mujer  Rojo  Lush Red/White   34'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081QLPRY3/?tag=tolees-21'
 descuento: '29.98'
 average: '20.97'

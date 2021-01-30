@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Alargador de Cintura para Embarazadas. Adapta tu Ropa de Siempre a Ropa para Embarazo y Premama Extensión de Cintura Ajustable para Mujeres Embarazadas  3 Piezas  Negro  Azul y Caqui '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KZNB31Y/?tag=tolees-21'
 descuento: '45.25'
 average: '11.45'

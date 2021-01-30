@@ -16,6 +16,7 @@ comparePrice: 4.4 EUR
 prodname: 'Bourjois Contour Clubbing; Delineador de Ojos. Tono 63 Sea blue soon - 5 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GRF6HIA/?tag=tolees-21'
 descuento: '27.27'
 average: '3.2'

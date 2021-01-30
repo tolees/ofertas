@@ -16,6 +16,7 @@ comparePrice: 24.55 EUR
 prodname: 'HACR Bolsa Protectora desechable  50 Piezas por Bolsa  3 Protective Layers Against Dust and Droplets in The Air'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086JVY8GG/?tag=tolees-21'
 descuento: '30.79'
 average: '16.99'

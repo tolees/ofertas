@@ -16,6 +16,7 @@ comparePrice: 26.7 EUR
 prodname: 'Grborn Monitor de presión Arterial Portátil y Brazo doméstico Tipo de Banda esfigmomanómetro Pantalla LCD precisa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087NKZYBG/?tag=tolees-21'
 descuento: '43.86'
 average: '14.99'

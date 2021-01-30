@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Leathlux Funda Xiaomi Redmi 7A + 2 x Protector de Pantalla Xiaomi Redmi 7A Pro  Transparente TPU Silicona Funda + Cristal Vidrio Templado Protector de Pantalla y Caso Xiaomi Redmi 7A'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NNH97ZQ/?tag=tolees-21'
 descuento: '63.09'
 average: '7.01'

@@ -16,6 +16,7 @@ comparePrice: 74.95 EUR
 prodname: 'Skechers Skech-Air Stratus  Zapatillas para Hombre  Gris  Charcoal Textile/Synthetic/Black Trim Charcoal   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TTTRMQW/?tag=tolees-21'
 descuento: '42.16'
 average: '43.35'

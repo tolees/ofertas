@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'FMPC Carcasa con Cuerda Samsung Galaxy A50  Cristal TPU Silicona Transparente Ultrafina de movil Case con Colgante Funda Protector Airbag [Moda y Practico] Anti-rasguños Antichoque'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085CDJ6XT/?tag=tolees-21'
 descuento: '44.34'
 average: '8.9'

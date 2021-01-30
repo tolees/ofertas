@@ -16,6 +16,7 @@ comparePrice: 27.75 EUR
 prodname: 'Gillette Venus Swirl - Set Maquinilla para Mujer con 2 Recambios  Funda de Viaje y Gel de Depilación Satin Care  200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S37D3ZG/?tag=tolees-21'
 descuento: '25.23'
 average: '19.84125'

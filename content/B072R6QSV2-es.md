@@ -16,6 +16,7 @@ comparePrice: 25.17 EUR
 prodname: 'White Shark GP de 2028 PC USB Game Pad Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072R6QSV2/?tag=tolees-21'
 descuento: '57.21'
 average: '10.77'

@@ -16,6 +16,7 @@ comparePrice: 34.56 EUR
 prodname: 'Character World Disney Frozen Juego de Ropa de Cama Infantil para niña ☆ Disney Frozen 2 Anna & Elsa – 1 Funda de Almohada 40 x 60 + 1 Funda nórdica 100 x 135 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YHQLXFX/?tag=tolees-21'
 descuento: '29.80'
 average: '24.288636363636368'

@@ -16,6 +16,7 @@ comparePrice: 71.39 EUR
 prodname: 'Bosch Professional GBA 18V 2.0Ah litio  1 batería x 2.0 Ah  18 V  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00FAMADXW/?tag=tolees-21'
 descuento: '59.69'
 average: '28.78'

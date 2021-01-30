@@ -16,6 +16,7 @@ comparePrice: 9.5 EUR
 prodname: 'Max Factor CC Colour Corrector Sticks Correctores Tono Yellow - 19 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00K69TVZA/?tag=tolees-21'
 descuento: '32.63'
 average: '6.4'

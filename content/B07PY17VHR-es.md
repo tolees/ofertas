@@ -16,6 +16,7 @@ comparePrice: 93.04 EUR
 prodname: 'B Blesiya Kit de Mantenimiento Piscinas Masaje Jet Boquilla Accesorio Manualidad Vehículo Reparar Bricolaje - 2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PY17VHR/?tag=tolees-21'
 descuento: '44.44'
 average: '51.69'

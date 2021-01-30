@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'ZOEON Juegos de Recipientes para Alimentos  Apta para Lavavajillas y Microondas  Recipientes para Cereales Sin BPA  Set de 17'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MHRMY4T/?tag=tolees-21'
 descuento: '34.65'
 average: '16.99'

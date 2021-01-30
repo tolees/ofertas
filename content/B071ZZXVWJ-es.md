@@ -16,6 +16,7 @@ comparePrice: 11.7 EUR
 prodname: 'Tasty Bites Cheesy carne y queso de 140g para educar |  [Pack de 6]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071ZZXVWJ/?tag=tolees-21'
 descuento: '48.72'
 average: '6.996666666666666'

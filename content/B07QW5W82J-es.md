@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Surplex Rascador de silicona 3 en 1  kit de herramienta de rascador de silicona con 4 almohadillas reemplazables sellador herramienta para moldear el baño o la cocina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QW5W82J/?tag=tolees-21'
 descuento: '28.59'
 average: '9.99'

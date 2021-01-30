@@ -16,6 +16,7 @@ comparePrice: 13.0 EUR
 prodname: 'L Oréal Paris Barra de Labios Color Riche Creme 297 lntense'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008LTT8V4/?tag=tolees-21'
 descuento: '56.46'
 average: '5.21'

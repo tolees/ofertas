@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Zinger  Zapatillas para Hombre  Azul  Blue Leather/Yellow Trim BLYL   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P36SLJJ/?tag=tolees-21'
 descuento: '50.81'
 average: '31.95'

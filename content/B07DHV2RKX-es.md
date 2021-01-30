@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'AmazonBasics - Juego de ropa de cama con funda de edredón  de microfibra  230 x 220 cm  Morado  Purple Dusk '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DHV2RKX/?tag=tolees-21'
 descuento: '33.94'
 average: '17.17'

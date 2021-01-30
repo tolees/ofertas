@@ -16,6 +16,7 @@ comparePrice: 109 EUR
 prodname: 'Manfrotto MB MA-SB-C1 - Funda Avanzada para cámara'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M0GKF6Y/?tag=tolees-21'
 descuento: '59.03'
 average: '44.66'

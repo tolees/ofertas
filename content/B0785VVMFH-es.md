@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Gifts Treat Calentadores de oído  Unisex orejeras plegables de invierno Volver desgastado Elegante orejeras acogedoras Lana clásica de lana  Azul marino '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0785VVMFH/?tag=tolees-21'
 descuento: '50.05'
 average: '9.99'

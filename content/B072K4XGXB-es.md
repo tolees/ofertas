@@ -16,6 +16,7 @@ comparePrice: 17.86 EUR
 prodname: 'Decyam Comedero de Perros para ralentizar la Comida  Divertida búsqueda de alimento'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072K4XGXB/?tag=tolees-21'
 descuento: '49.66'
 average: '8.99'

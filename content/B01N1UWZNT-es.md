@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Gant Classic Leather Belt Cinturón  Negro  Black   130  Talla del fabricante: 115  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N1UWZNT/?tag=tolees-21'
 descuento: '64.96'
 average: '30.42'

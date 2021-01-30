@@ -16,6 +16,7 @@ comparePrice: 42.9 EUR
 prodname: 'Tommy Hilfiger Legging Tanga  Azul  Blue 416   Talla única  Talla del Fabricante: X-Small  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N6NKY6P/?tag=tolees-21'
 descuento: '37.09'
 average: '26.99'

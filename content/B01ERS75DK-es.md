@@ -16,6 +16,7 @@ comparePrice: 13.95 EUR
 prodname: 'Joma Drive Bermuda Deporte  Hombre  Royal  2XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ERS75DK/?tag=tolees-21'
 descuento: '35.56'
 average: '8.39'

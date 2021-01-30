@@ -16,6 +16,7 @@ comparePrice: 32.98 EUR
 prodname: 'TOUCHBeauty Masajeador facial con vibración  Masajeador Facial Iónico con sónico  SPA Dispositivo cosmético para tratamiento facial AG-1666'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PN7WHF9/?tag=tolees-21'
 descuento: '39.42'
 average: '19.98'

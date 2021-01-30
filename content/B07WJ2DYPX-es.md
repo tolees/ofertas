@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Ringke Fusion-X Diseñado para Funda Redmi Note 7  Funda Redmi Note 7 Pro Protección Resistente Impactos Carcasa para Xiaomi Redmi Note 7  Xiaomi Redmi Note 7 Pro  2019  - Camo Black'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WJ2DYPX/?tag=tolees-21'
 descuento: '43.78'
 average: '8.99'

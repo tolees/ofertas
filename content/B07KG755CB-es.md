@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Black+Decker BXMM1000E Picadora de Carne  1000 W  Acero Inoxidable  Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG755CB/?tag=tolees-21'
 descuento: '33.00'
 average: '53.59'

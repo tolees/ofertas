@@ -16,6 +16,7 @@ comparePrice: 39.87 EUR
 prodname: 'WinWonder Kit de Arcilla de Modelado 24 Colores de Arcilla de Bricolaje Secado al Aire Arcilla Mágica Ultraligera con Herramientas de Modelado no Pegajosas Gran Regalo para Niños y Adultos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YB1RZ8R/?tag=tolees-21'
 descuento: '37.55'
 average: '24.9'

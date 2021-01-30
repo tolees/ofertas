@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'JSVER Funda Blanda para Ordenador portátil 13-13.3 Pulgadas Funda Protectora para Portátiles Funda Sleeve en Fieltro para portátiles Macbook Air/Pro Retina 13.3 Pulgadas con Bolsa de ratón-Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MG8K69Q/?tag=tolees-21'
 descuento: '40.04'
 average: '5.99'

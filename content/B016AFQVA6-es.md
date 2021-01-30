@@ -16,6 +16,7 @@ comparePrice: 175.0 EUR
 prodname: 'Dormio Ortopédico - Colchón de Eliocel  Blanco  150 x 190 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016AFQVA6/?tag=tolees-21'
 descuento: '38.70'
 average: '107.27'

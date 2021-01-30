@@ -16,6 +16,7 @@ comparePrice: 2.99 EUR
 prodname: 'Cillit Bang Instant Power Limpiador para WC Lejía Higienizante - 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073HFQHQX/?tag=tolees-21'
 descuento: '66.56'
 average: '1.0'

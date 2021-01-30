@@ -16,6 +16,7 @@ comparePrice: 89 EUR
 prodname: 'Safety 1st TIMBA con cojín  White/Red Line  - Trona de madera con cojín  color blanco y rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076F4P3KK/?tag=tolees-21'
 descuento: '30.92'
 average: '61.48'

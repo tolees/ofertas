@@ -16,6 +16,7 @@ comparePrice: 109.0 EUR
 prodname: 'Kickers Layton  Botas Clasicas para Hombre  Marrón  Marron Kaki 93   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MS9P3X5/?tag=tolees-21'
 descuento: '72.84'
 average: '29.6'

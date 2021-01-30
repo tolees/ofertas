@@ -16,6 +16,7 @@ comparePrice: 13.41 EUR
 prodname: 'Legrand  050462 Bases y clavijas - Adaptador de enchufe con una toma de corriente en blanco y gris  potencia máxima de trabajo de 3680W y 16A a 230V'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00K3C6GMG/?tag=tolees-21'
 descuento: '62.79'
 average: '4.99'

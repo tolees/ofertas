@@ -16,6 +16,7 @@ comparePrice: 33.55 EUR
 prodname: 'Bestway 41113 - Unicornio de Fantasía Hinchable 224x164 cm Adultos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078XYFLWW/?tag=tolees-21'
 descuento: '40.54'
 average: '16.316666666666666'

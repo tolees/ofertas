@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Aigostar - Recipientes para envasar al vacío. Conservación y almacenamiento de alimentos. Pack de 2 unidades de distintos tamaños  material duradero de grado alimentario. Color azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082WVWB5J/?tag=tolees-21'
 descuento: '31.60'
 average: '12.99'

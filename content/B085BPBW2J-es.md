@@ -16,6 +16,7 @@ comparePrice: 13.9 EUR
 prodname: 'HIDARLING Bolsa Seca Impermeable con Correa Larga Ajustable  Viajes de Playa  natación  Rafting  Surf  Ciclismo  Senderismo  Acampada  Amarillo  10L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085BPBW2J/?tag=tolees-21'
 descuento: '28.78'
 average: '9.9'

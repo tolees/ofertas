@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Newskill Atami Speed Tamaño XL - Alfombrilla Gaming Profesional  Borde Cortado a Laser  Superficie Speed   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017SZWMBE/?tag=tolees-21'
 descuento: '45.11'
 average: '12.95'

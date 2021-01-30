@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Moulinex Multimoulinette Compact DJ300110 Picadora  0.25 l de capacidad  sistema de seguridad integrado  270 W  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00I96MAXC/?tag=tolees-21'
 descuento: '42.51'
 average: '24.08'

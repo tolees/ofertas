@@ -16,6 +16,7 @@ comparePrice: 445.28 EUR
 prodname: 'Bosch Professional 061123A000 Martillo perforador  peso de 3.6 kg  800 W  230 V'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0020RZT7U/?tag=tolees-21'
 descuento: '41.61'
 average: '259.99'

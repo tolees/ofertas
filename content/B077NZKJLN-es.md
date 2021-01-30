@@ -16,6 +16,7 @@ comparePrice: 28.4 EUR
 prodname: 'Inception  4K Ultra Hd+Blu Ray  [Italia] [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077NZKJLN/?tag=tolees-21'
 descuento: '60.81'
 average: '11.13'

@@ -16,6 +16,7 @@ comparePrice: 167.4 EUR
 prodname: 'Love MoschinoJc4253pp0aMujerShoppers y bolsos de hombroRosa  Powder 6x17x22 Centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V7WTXXF/?tag=tolees-21'
 descuento: '70.60'
 average: '49.21'

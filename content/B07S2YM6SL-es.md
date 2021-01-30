@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Inscrok Tira 12V Luces 5M 150 Leds Non Impermeab 5050 SMD RGB Tiras de LED Kit Completo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S2YM6SL/?tag=tolees-21'
 descuento: '50.02'
 average: '24.99'

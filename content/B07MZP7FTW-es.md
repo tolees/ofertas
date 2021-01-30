@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Gioseppo 56139  Botas Clasicas para Niños  Negro  Negro Negro   30 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZP7FTW/?tag=tolees-21'
 descuento: '69.21'
 average: '15.38'

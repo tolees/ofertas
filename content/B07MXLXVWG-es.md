@@ -16,6 +16,7 @@ comparePrice: 139.95 EUR
 prodname: 'GANT Kelly  Mocasines para Mujer  Negro  Black G00   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MXLXVWG/?tag=tolees-21'
 descuento: '48.49'
 average: '72.09'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Soporte Ordenador Portátil Laptop Stand - 7.9-17” Soporte para Portátil Plegable  Aluminio Atril Portátil Soporte PC  Soporte Portátil Mesa para MacBook Air/Lenovo/Otros Portátiles y Tableta  Plata '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BHH7Y8X/?tag=tolees-21'
 descuento: '64.01'
 average: '17.99'

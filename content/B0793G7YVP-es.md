@@ -16,6 +16,7 @@ comparePrice: 18.0 EUR
 prodname: 'Kit Cuidado de Barba Champú  Sérum  Bálsamo  Peine - Regalo Idear para hombres'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0793G7YVP/?tag=tolees-21'
 descuento: '44.50'
 average: '10.309999999999999'

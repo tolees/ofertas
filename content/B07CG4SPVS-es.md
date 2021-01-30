@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'ERAY Manguera Jardín Manguera Extensible 15M/50FT  Triple Núcleo de Látex  Pistola de 9 Patrones de Pulverización  Resistente y Anticongelante  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CG4SPVS/?tag=tolees-21'
 descuento: '30.01'
 average: '27.985'

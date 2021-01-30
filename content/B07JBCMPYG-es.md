@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Energy Urban Box 7 BassTube Altavoz portátil con Sonido 360º  Bluetooth y Tecnología True Wireless  30 W  Resistente al Agua  - Azul Marino'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JBCMPYG/?tag=tolees-21'
 descuento: '25.03'
 average: '63.44499999999999'

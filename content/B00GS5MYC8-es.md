@@ -16,6 +16,7 @@ comparePrice: 169.99 EUR
 prodname: 'Bosch ARM 34 - Cortacésped  1300 W  230 V  34 cm de anchura de corte  ref. 06008A6101 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GS5MYC8/?tag=tolees-21'
 descuento: '28.24'
 average: '139.6225'

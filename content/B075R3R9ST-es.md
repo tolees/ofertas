@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'New Balance Summit KOM Gore-Tex  Zapatillas de Running para Mujer  Azul  Petrol/Pigment GT   36.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075R3R9ST/?tag=tolees-21'
 descuento: '74.05'
 average: '36.33'

@@ -16,6 +16,7 @@ comparePrice: 67.49 EUR
 prodname: 'Asics B756Y 1990  Zapatillas de Deporte Unisex Adulto  Blanco  White   40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071Z3HPN8/?tag=tolees-21'
 descuento: '54.38'
 average: '30.79'

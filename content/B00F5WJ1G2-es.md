@@ -16,6 +16,7 @@ comparePrice: 10.0 EUR
 prodname: 'Salomon Soft Flask Botella de Agua Flexible  Unisex Adulto  Azul  150 ml/5oz'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00F5WJ1G2/?tag=tolees-21'
 descuento: '30.10'
 average: '6.9766666666666675'

@@ -16,6 +16,7 @@ comparePrice: 52.78 EUR
 prodname: 'perfk QT192 Tapa De La Cubierta Del Cilindro Maestro Del Freno Delantero De La Motocicleta De Aluminio Para -Touring 96-07  negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZRCV1VK/?tag=tolees-21'
 descuento: '63.55'
 average: '19.24'

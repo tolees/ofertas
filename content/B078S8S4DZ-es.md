@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'TEXTURAS HOME - Pack de 6 Paños de Cocina Rizo Algodón 100% MULTIESTAMPADO 45X45 cms'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078S8S4DZ/?tag=tolees-21'
 descuento: '38.41'
 average: '8.0'

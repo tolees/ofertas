@@ -16,6 +16,7 @@ comparePrice: 3.92 EUR
 prodname: 'Scottex Gigante Papel de Cocina - 1 Rollo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XDROZL2/?tag=tolees-21'
 descuento: '65.56'
 average: '1.35'

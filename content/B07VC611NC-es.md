@@ -16,6 +16,7 @@ comparePrice: 84.92 EUR
 prodname: 'PPXID - Zapatillas para Hombre Mokassin Slipper clásicas para el Conductor  Zapatillas de Estar por casa de Ante  Color Negro  Talla 44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VC611NC/?tag=tolees-21'
 descuento: '46.53'
 average: '45.41'

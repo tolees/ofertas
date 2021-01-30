@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Days Gone - Edición Especial'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1G3FKZ/?tag=tolees-21'
 descuento: '68.75'
 average: '48.7825'

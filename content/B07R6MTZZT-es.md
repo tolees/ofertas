@@ -16,6 +16,7 @@ comparePrice: 10.15 EUR
 prodname: 'VIÑAS DEL VERO TINTO CABERNET-MERLOT ROBLE  Vino tinto  Somontano'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R6MTZZT/?tag=tolees-21'
 descuento: '44.73'
 average: '5.61'

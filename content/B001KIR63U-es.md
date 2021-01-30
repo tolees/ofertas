@@ -16,6 +16,7 @@ comparePrice: 82.99 EUR
 prodname: 'Philips HD4419/20 - Plancha de Asar  2300 W  Doble superficie  Antiadherente  Apto Lavavajillas  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001KIR63U/?tag=tolees-21'
 descuento: '30.29'
 average: '57.85'

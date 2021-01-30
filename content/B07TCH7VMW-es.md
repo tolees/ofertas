@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Quiksilver Miz Kimitt-Polo De Manga Larga para Hombre  Navy Blazer  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TCH7VMW/?tag=tolees-21'
 descuento: '62.55'
 average: '18.72'

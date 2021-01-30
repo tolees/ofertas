@@ -16,6 +16,7 @@ comparePrice: 145.99 EUR
 prodname: 'Nixon Reloj Analógico para Hombre de Cuarzo con Correa en Cuero A1161-2534-00'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XFYX7FZ/?tag=tolees-21'
 descuento: '25.68'
 average: '108.5'

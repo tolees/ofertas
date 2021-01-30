@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'Lotus Reloj Analógico para Hombre de Cuarzo con Correa en Cuero 15974/2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JQ8HR5I/?tag=tolees-21'
 descuento: '47.34'
 average: '68.448'

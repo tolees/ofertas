@@ -16,6 +16,7 @@ comparePrice: 19.11 EUR
 prodname: 'Kitchen Craft Mini Salad Spinner Centrifuga de Esaladas Compacta  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000YJB8YE/?tag=tolees-21'
 descuento: '25.01'
 average: '14.33'

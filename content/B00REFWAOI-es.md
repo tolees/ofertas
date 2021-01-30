@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Reebok Classic Leather - Zapatillas de cuero para hombre  color negro  black / gum 2   talla 42'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00REFWAOI/?tag=tolees-21'
 descuento: '29.96'
 average: '50.675'

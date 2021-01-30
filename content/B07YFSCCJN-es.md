@@ -16,6 +16,7 @@ comparePrice: 56.0 EUR
 prodname: 'Masajeador Portátil  Eléctrica Recargable Massager  Impermeable  Carga por USB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YFSCCJN/?tag=tolees-21'
 descuento: '66.62'
 average: '18.69'

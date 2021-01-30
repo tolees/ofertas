@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'deAO Coches 2en1 para Montar y Desmontar Conjunto de 2 Vehículos Puzle de 55 Piezas Incluye Taladro Eléctrico Kit de Montaje con Luces y Sonidos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TXQH5ZZ/?tag=tolees-21'
 descuento: '67.84'
 average: '11.55'

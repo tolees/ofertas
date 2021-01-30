@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Flauno Sacacorchos Eléctrico Inalámbrico  Profesional Automatico Abrelatas de Vino  Abridor Botellas Recargable con Corta Cápsulas  Vertedor de Vino  Tapón de Vino Silicona de Vacío  Caja de Regalo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086VYPFTJ/?tag=tolees-21'
 descuento: '45.01'
 average: '32.99'

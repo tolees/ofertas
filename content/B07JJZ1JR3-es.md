@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Rhodesy Protector de Pantalla para GoPro HERO7 Silver/White  Vidrio Templado Película de Protección de Pantalla + Vidrio Templado Película Protectora de Lentes  Accesorios para GoPro HERO7 [2PCS]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JJZ1JR3/?tag=tolees-21'
 descuento: '50.03'
 average: '8.99'

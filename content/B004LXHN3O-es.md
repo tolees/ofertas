@@ -16,6 +16,7 @@ comparePrice: 6.05 EUR
 prodname: 'Rimmel London Exaggerate Automatic Lipliner. Perfilador de Labios Tono 063 Eastend Snob - 3 9 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004LXHN3O/?tag=tolees-21'
 descuento: '67.93'
 average: '3.62'

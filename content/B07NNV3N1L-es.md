@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Under Armour UA HOVR Rise  Zapatillas Deportivas para Interior para Hombre  Gris  Halo Gray/White/Black   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NNV3N1L/?tag=tolees-21'
 descuento: '53.26'
 average: '46.72'

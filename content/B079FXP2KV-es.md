@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Samsung Clear View Standing Cover - Funda para Galaxy S9  Púrpura'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079FXP2KV/?tag=tolees-21'
 descuento: '80.02'
 average: '9.97'

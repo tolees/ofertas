@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'adidas Real PES Suit Y Chándal  Unisex niños  Negro/Orfúos  152'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SN95JKR/?tag=tolees-21'
 descuento: '32.53'
 average: '53.97'

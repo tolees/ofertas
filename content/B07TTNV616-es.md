@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Go Walk Joy  Zapatillas para Mujer  Negro  Black Textile/Pink Trim Bkpk   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TTNV616/?tag=tolees-21'
 descuento: '29.99'
 average: '45.47'

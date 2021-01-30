@@ -16,6 +16,7 @@ comparePrice: 209.0 EUR
 prodname: 'Maxi-Cosi CabrioFix  Silla de auto  reclinable y seguro para bebé  0-12 meses  0-13 kg  Earth Brown  marrón '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MS3UDJU/?tag=tolees-21'
 descuento: '44.02'
 average: '116.00882352941177'

@@ -16,6 +16,7 @@ comparePrice: 38.95 EUR
 prodname: 'Calvin Klein Seductive Comfort-Customized Lift Sujetador  Negro  Black 001   70D para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0026JIKIM/?tag=tolees-21'
 descuento: '57.05'
 average: '24.377499999999998'

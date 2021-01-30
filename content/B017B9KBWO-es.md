@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Bresser FlipMe Despertador radio controlado - blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017B9KBWO/?tag=tolees-21'
 descuento: '72.57'
 average: '10.97'

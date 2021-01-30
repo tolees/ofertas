@@ -16,6 +16,7 @@ comparePrice: 249.99 EUR
 prodname: 'Paw Patrol Cama Infantil con Espacio de Almacenamiento Inferior  Madera  Azul  68.00x77.00x143.00 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FKF8T52/?tag=tolees-21'
 descuento: '56.20'
 average: '121.24833333333333'

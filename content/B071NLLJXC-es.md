@@ -16,6 +16,7 @@ comparePrice: 50.84 EUR
 prodname: 'Marvel Comics MAY172531 Figura de acción de Daredevil Netflix.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071NLLJXC/?tag=tolees-21'
 descuento: '31.18'
 average: '36.31413793103448'

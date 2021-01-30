@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Adidas Nizza  Zapatillas para Hombre  Negro  Core Black/Footwear White/Footwear White 0   44 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078MQ4VXJ/?tag=tolees-21'
 descuento: '42.13'
 average: '39.92'

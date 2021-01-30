@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Clarks Verona Rock  Botas Plisadas para Mujer  Marrón Oscuro  36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1JXKX4/?tag=tolees-21'
 descuento: '32.75'
 average: '47.04'

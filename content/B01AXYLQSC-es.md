@@ -16,6 +16,7 @@ comparePrice: 171.12 EUR
 prodname: 'Reloj para Hombre  Colección Epoca  Movimiento de Cuarzo  Solo Tiempo con Fecha  en Acero  PVD Oro - R8853118003'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AXYLQSC/?tag=tolees-21'
 descuento: '36.30'
 average: '114.0'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'QYD - Cargador original para portátil Lenovo Yoga pro 4 Yoga 900 Yoga 700 11 Yoga 700 14 Yoga 3 Pro Miix 700 Yoga 900-13ISK  65 W '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RQ58MZM/?tag=tolees-21'
 descuento: '42.51'
 average: '22.99'

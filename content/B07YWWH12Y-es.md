@@ -16,6 +16,7 @@ comparePrice: 27.31 EUR
 prodname: 'ISOPHO Alfombra de Playa Esterilla Playa  Manta Picnic Impermeable Manta de Picnic 210 X 200cm Manta de Playa con 4 Clavos Fijos  Alfombra de Picnic Bordes Reforzados para la Playa  Camping  y Picnic'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YWWH12Y/?tag=tolees-21'
 descuento: '30.47'
 average: '18.656666666666666'

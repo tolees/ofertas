@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'K NEX - Montaña Rusa Infinite Journey  347 piezas  41211-15407 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KK32LDU/?tag=tolees-21'
 descuento: '49.94'
 average: '20.0'

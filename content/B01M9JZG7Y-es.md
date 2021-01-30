@@ -16,6 +16,7 @@ comparePrice: 10.87 EUR
 prodname: 'POP! Vinilo - Lost: Kate Austen'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M9JZG7Y/?tag=tolees-21'
 descuento: '39.74'
 average: '6.55'

@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Altavoz Bluetooth con Luz Nocturna  Amouhom lámpara en el dormitorio  la luz nocturna táctil ajustable en el salón  es la primera opción para regalos de fiesta para niños o amigos.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HK65V5R/?tag=tolees-21'
 descuento: '43.34'
 average: '33.99'

@@ -16,6 +16,7 @@ comparePrice: 399.0 EUR
 prodname: 'Concord Soul - Silla de paseo plegable y multifuncional  Color Steel Grey'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079JZQBM9/?tag=tolees-21'
 descuento: '59.06'
 average: '163.37'

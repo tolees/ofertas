@@ -16,6 +16,7 @@ comparePrice: 239.0 EUR
 prodname: 'Diesel Reloj Cronógrafo para Hombre de Cuarzo con Correa en Silicona DZ4481'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078SKX7HY/?tag=tolees-21'
 descuento: '37.43'
 average: '165.84666666666666'

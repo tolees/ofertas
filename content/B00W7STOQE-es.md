@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'ROC KEOPS - Desodorante Roll On  Piel Normal  30 ml  x2 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00W7STOQE/?tag=tolees-21'
 descuento: '37.10'
 average: '8.8'

@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'TOJEAN Amor Maternal Colgantes Joyeria Mujer Plata de ley 925  Collares Mujer  Regalos Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P4CGT71/?tag=tolees-21'
 descuento: '50.02'
 average: '17.79'

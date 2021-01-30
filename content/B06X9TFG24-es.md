@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'AEG WX7-90A2B Limpiador de Ventanas  Batería hasta 90min  3 Indicadores LED carga  Cepillo Aspiradora de 29cm y 17cm  Función Rascador  Pulverizador de 250ml  Paño Microfibras  Depósito 110ml  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06X9TFG24/?tag=tolees-21'
 descuento: '33.27'
 average: '67.98'

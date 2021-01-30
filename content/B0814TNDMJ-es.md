@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'GRDE Power Bank 24000mAh  Cargador Portátil con Doble 2.1A Puertos  Carga Rápida Batería Externa  4 LED Indicadores para Teléfono  Tablet etc'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0814TNDMJ/?tag=tolees-21'
 descuento: '52.01'
 average: '23.99'

@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Converse Chuck Taylor CTAS Lift Ox Canvas  Zapatillas para Mujer  Negro  Black/White/White 001   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073C4KQMY/?tag=tolees-21'
 descuento: '25.00'
 average: '60.90777777777778'

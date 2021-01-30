@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Tuscany Silver Pendientes de mujer con plata de ley  925/1000  y ónice'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002VJJYYQ/?tag=tolees-21'
 descuento: '51.90'
 average: '38.0'

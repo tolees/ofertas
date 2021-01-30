@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Happilax Alfombrilla Perro y Gato en Silicona Antideslizante para comedero  Bebedero y arenero  Negro  48 x 30 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XK9Y7C5/?tag=tolees-21'
 descuento: '25.01'
 average: '14.99'

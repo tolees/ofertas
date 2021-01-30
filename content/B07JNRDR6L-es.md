@@ -16,6 +16,7 @@ comparePrice: 240 EUR
 prodname: 'Pinko 1G13F67080 Pantalone Mujer 44'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JNRDR6L/?tag=tolees-21'
 descuento: '59.58'
 average: '108.0'

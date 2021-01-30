@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Salomon ALPHACROSS Blast  Zapatillas de Trail Running para Hombre  Color: Azul  Ashley Blue/Ebony/Ashley Blue   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z5H6N6W/?tag=tolees-21'
 descuento: '29.46'
 average: '63.49'

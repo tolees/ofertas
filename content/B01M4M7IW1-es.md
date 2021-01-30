@@ -16,6 +16,7 @@ comparePrice: 5.95 EUR
 prodname: 'BRA Efficient Cazo de Cocina  Acero INOX  Nailon y Silicona  Naranja  33 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M4M7IW1/?tag=tolees-21'
 descuento: '57.98'
 average: '3.63'

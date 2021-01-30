@@ -16,6 +16,7 @@ comparePrice: 55 EUR
 prodname: 'New Balance 574v2 Core Velcro  Entrenadores Unisex Niños  Gris Grey  20 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0728NY2VB/?tag=tolees-21'
 descuento: '40.00'
 average: '33'

@@ -16,6 +16,7 @@ comparePrice: 9.8 EUR
 prodname: 'Naturtint. Tinte Sin Amoniaco. Ingredientes Vegetales. 10N Rubio Alba. 170ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00630TLAG/?tag=tolees-21'
 descuento: '56.22'
 average: '4.04'

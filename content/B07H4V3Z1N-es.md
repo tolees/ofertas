@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Osram Smart Encufe Controlable Con El Móvil  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H4V3Z1N/?tag=tolees-21'
 descuento: '40.67'
 average: '88.99'

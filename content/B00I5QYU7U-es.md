@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Elizabeth Arden Visible Difference Primer retexturizante uso diario 15 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00I5QYU7U/?tag=tolees-21'
 descuento: '40.00'
 average: '16.925'

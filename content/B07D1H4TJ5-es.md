@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Disney Baby 11520 - Hamaca mecedora'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D1H4TJ5/?tag=tolees-21'
 descuento: '47.94'
 average: '36.44'

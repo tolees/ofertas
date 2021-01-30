@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Relaxdays Set de cubertería de bambú  10x Cuchillo  Tenedor  Cuchara  Cucharilla  Soporte de madera  Reutilizable  Marrón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NVMGZZC/?tag=tolees-21'
 descuento: '48.74'
 average: '30.75'

@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'PUMA Vikky Platform Glitz Jr  Zapatillas para Niñas  Bridal Rose-Bridal Rose  39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFY2QQ4/?tag=tolees-21'
 descuento: '47.04'
 average: '26.785'

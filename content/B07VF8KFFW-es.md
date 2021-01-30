@@ -16,6 +16,7 @@ comparePrice: 119.9 EUR
 prodname: 'PremiumTech - HUB USB C HDMI 7 en 1 con Cable USB 3.1 y Cargador Inalambrico Wireless Integrado  Base Dock para Mac y portátiles Windows '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VF8KFFW/?tag=tolees-21'
 descuento: '45.87'
 average: '64.9'

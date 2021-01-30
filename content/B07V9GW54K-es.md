@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Jack & Jones Jorrafael Sweat Hood Capucha  Azul  Sea Moss Fit: Slim/Org   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V9GW54K/?tag=tolees-21'
 descuento: '70.42'
 average: '10.35'

@@ -16,6 +16,7 @@ comparePrice: 75 EUR
 prodname: 'Calvin Klein CK UP MINI REPORTERHombreShoppers y bolsos de hombroAzul  Navy  2x18x17 centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N5RHZTJ/?tag=tolees-21'
 descuento: '50.00'
 average: '35.805'

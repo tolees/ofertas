@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'Teslagrad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VGHK3HK/?tag=tolees-21'
 descuento: '35.62'
 average: '22.616923076923076'

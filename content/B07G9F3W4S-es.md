@@ -16,6 +16,7 @@ comparePrice: 24.46 EUR
 prodname: 'Cepillo Alisador de Pelo 3 en 1  3 cabezales  Cepillo Secador Rizador de Aire Electrico Cepillo Pelo con Tecnología Iónica'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G9F3W4S/?tag=tolees-21'
 descuento: '64.47'
 average: '8.69'

@@ -16,6 +16,7 @@ comparePrice: 6.3 EUR
 prodname: 'Result Esco Army - Gorra de invierno unisex Negro Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00B69FMM0/?tag=tolees-21'
 descuento: '33.33'
 average: '4.2'

@@ -16,6 +16,7 @@ comparePrice: 18.27 EUR
 prodname: 'Quiksilver Psychic Patterns - Gorra Trucker para Chicos 8-16 Cap  Niños  Black  1SZ'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0825MQTSF/?tag=tolees-21'
 descuento: '39.85'
 average: '10.99'

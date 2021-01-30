@@ -16,6 +16,7 @@ comparePrice: 114.99 EUR
 prodname: 'Logitech MX Master 2s Ratón inalámbrico  Múltiples Dispositivos  Bluetooth o 2.4GHz  Receptor USB Unifying  4000 DPI Seguimiento en Cualquier Superficie 7 Botones  PC/Mac/i Pad OS Flounder Gris oscuro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071KZS3MF/?tag=tolees-21'
 descuento: '33.67'
 average: '64.525'

@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'The Mind - Extreme'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZWBMCHW/?tag=tolees-21'
 descuento: '67.32'
 average: '6.86'

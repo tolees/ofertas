@@ -16,6 +16,7 @@ comparePrice: 1.55 EUR
 prodname: 'Vileda Style - Recambio para fregona'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00AW0ORX4/?tag=tolees-21'
 descuento: '35.48'
 average: '1.6033333333333333'

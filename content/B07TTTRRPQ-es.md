@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Skechers Skech-Air Dynamight  Zapatillas para Hombre  Azul  Black Knit/Synthetic/Black Trim BBK   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TTTRRPQ/?tag=tolees-21'
 descuento: '41.75'
 average: '34.92'

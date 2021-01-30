@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Aquabeads-79268 Template Sheets Set  multicolor  Epoch 79268    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SUZXCS4/?tag=tolees-21'
 descuento: '55.64'
 average: '6.65'

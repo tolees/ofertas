@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'Sena SMH5D-UNIV Kit de auriculares e intercomunicador Bluetooth para motos y scooters con micrófono universal  paquete doble  Dual Pack'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00RB6UQIW/?tag=tolees-21'
 descuento: '31.69'
 average: '170.1'

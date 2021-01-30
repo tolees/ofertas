@@ -16,6 +16,7 @@ comparePrice: 26.65 EUR
 prodname: 'Kidear Ropa Interior Kids Series de Algodón Suave Calzoncillos Surtidos de niños pequeños Paquete de 6   Estilo8  4-5 Años '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TRM837W/?tag=tolees-21'
 descuento: '40.00'
 average: '15.99'

@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Bourjois Rouge Edition Velvet Barra de Labios Líquida Tono 34 Belle amourose - 28 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B46FF9F/?tag=tolees-21'
 descuento: '66.23'
 average: '3.49'

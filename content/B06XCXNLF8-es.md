@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Baja: Edge Of Control'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XCXNLF8/?tag=tolees-21'
 descuento: '33.48'
 average: '19.946666666666665'

@@ -16,6 +16,7 @@ comparePrice: 24.89 EUR
 prodname: 'Zerodis Deshumidificador de Aire portátil 800ml  Mini Deshumidificador Portátil y Silencioso'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFXLCZB/?tag=tolees-21'
 descuento: '77.54'
 average: '5.59'

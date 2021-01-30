@@ -16,6 +16,7 @@ comparePrice: 2.02 EUR
 prodname: 'NANOCABLE 10.01.0500 - Cable USB 2.0 a Micro USB  Uso Principal en moviles y camaras Digitales  Tipo A/M-Micro B/M  Macho-Macho  Negro  0.8mts'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008OFEPBI/?tag=tolees-21'
 descuento: '49.01'
 average: '1.1257142857142857'

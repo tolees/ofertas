@@ -16,6 +16,7 @@ comparePrice: 199.95 EUR
 prodname: 'Biwond Thundersound Altavoces Autoamplificados 470W TS15” Bluetooth  USB/SD/AUX/Jack/  Micrófono inalámbrico  RMS 260W  Radio  LCD  Echo  Rec  – Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0767HFS6B/?tag=tolees-21'
 descuento: '30.01'
 average: '139.95'

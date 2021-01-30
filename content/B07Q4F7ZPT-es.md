@@ -16,6 +16,7 @@ comparePrice: 42.76 EUR
 prodname: 'Dockers by Gerli 44bn009  Zapatillas para Hombre  Gris  Dunkelgrau 220   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q4F7ZPT/?tag=tolees-21'
 descuento: '39.15'
 average: '26.02'

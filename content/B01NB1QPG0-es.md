@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'UEETEK Magnética flotante acuario vidrio limpiador cepillo removedor - talla S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NB1QPG0/?tag=tolees-21'
 descuento: '68.12'
 average: '9.705'

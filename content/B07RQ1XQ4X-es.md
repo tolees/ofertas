@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Tommy Hilfiger - Th Corporate Camera Bag  Bolsos bandolera Mujer  Multicolor  Barbados Cherry   7.5x0.1x17.5 cm  W x H L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RQ1XQ4X/?tag=tolees-21'
 descuento: '39.99'
 average: '59.95'

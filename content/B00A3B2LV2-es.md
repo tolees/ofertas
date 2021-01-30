@@ -16,6 +16,7 @@ comparePrice: 11.95 EUR
 prodname: 'Essie Esmalte de Uñas  Tono: 014 Fiji'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00A3B2LV2/?tag=tolees-21'
 descuento: '59.92'
 average: '4.79'

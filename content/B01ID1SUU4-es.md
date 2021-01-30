@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Ever-Pretty Vestidos de Cóctel A-línea Cuello en V sin Mangas Corte Imperio para Mujer Borgoña 40'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ID1SUU4/?tag=tolees-21'
 descuento: '42.51'
 average: '45.99'

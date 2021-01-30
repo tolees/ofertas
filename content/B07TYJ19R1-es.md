@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Mini Camara Espia Oculta Video Cámara  FREDI 1080P HD Cámara Portátil Interior/Camaras de Seguridad Pequeña Interior/Exterior/IR Visión Nocturna'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TYJ19R1/?tag=tolees-21'
 descuento: '65.01'
 average: '34.99'

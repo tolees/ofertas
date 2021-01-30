@@ -16,6 +16,7 @@ comparePrice: 80 EUR
 prodname: 'New Balance 373  Zapatillas para Hombre  Verde  Green/Black Green/Black   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PQTRR7N/?tag=tolees-21'
 descuento: '40.00'
 average: '48'

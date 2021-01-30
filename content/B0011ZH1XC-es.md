@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Nixon Reloj Analógico de Cuarzo para Hombre con Correa de Acero Inoxidable – A045-000 Gray'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0011ZH1XC/?tag=tolees-21'
 descuento: '29.28'
 average: '77.60454545454547'

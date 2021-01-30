@@ -16,6 +16,7 @@ comparePrice: 5.59 EUR
 prodname: 'Listerine  Enjuague Bucal Cuidado Total  Sabor Menta  500 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MA5SQUO/?tag=tolees-21'
 descuento: '33.81'
 average: '3.9060000000000006'

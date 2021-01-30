@@ -16,6 +16,7 @@ comparePrice: 260.0 EUR
 prodname: 'Versace 19V69 Funda Nórdico Y Almohada para Cama  Algodón-Poliéster  Dorado  Camas 1 35'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074DWXFG8/?tag=tolees-21'
 descuento: '81.10'
 average: '39.8275'

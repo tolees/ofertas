@@ -16,6 +16,7 @@ comparePrice: 10.98 EUR
 prodname: 'Oihxse Funda para Realme 5 Transparente  Estuche con Realme 5 Ultra-Delgado Silicona TPU Suave Protectora Carcasa Océano Animal Serie Bumper  C10 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086M7RYKH/?tag=tolees-21'
 descuento: '27.32'
 average: '7.98'

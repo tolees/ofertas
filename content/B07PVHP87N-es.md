@@ -16,6 +16,7 @@ comparePrice: 42.3 EUR
 prodname: 'Skechers BULKLIN LYNDALE  Men Low-Top Trainers  Black  Black Blk   7 UK  41 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PVHP87N/?tag=tolees-21'
 descuento: '34.89'
 average: '34.92'

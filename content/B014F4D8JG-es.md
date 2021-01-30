@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Hangqiao - Rallador de wasabi  ajo  gengibre  herramientas de cocina  acero inoxidable.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B014F4D8JG/?tag=tolees-21'
 descuento: '34.33'
 average: '4.59'

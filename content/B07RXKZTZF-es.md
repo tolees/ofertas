@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'Levi s 502 Regular Taper Jeans  Azul  Biologia ADV 0548   W30/L30  Talla del Fabricante: 30 30  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RXKZTZF/?tag=tolees-21'
 descuento: '71.97'
 average: '32.24'

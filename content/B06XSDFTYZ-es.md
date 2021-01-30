@@ -16,6 +16,7 @@ comparePrice: 17.01 EUR
 prodname: 'find. Utility_DC3086P Pantalones  Grau  Grey   38  Talla del fabricante: Small '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XSDFTYZ/?tag=tolees-21'
 descuento: '60.44'
 average: '6.73'

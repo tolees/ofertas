@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Nike Pico 5 TDV  Zapatillas Unisex Niños  Multicolor  Platinum Tint/White-Active Fuchsia   23.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VL4BSV9/?tag=tolees-21'
 descuento: '56.48'
 average: '11.373333333333333'

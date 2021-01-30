@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Columbia Ivo Trail  Zapatillas para Hombre  Marrón  Oatmeal  Light Brown 241   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RGM1YZP/?tag=tolees-21'
 descuento: '36.00'
 average: '63.99'

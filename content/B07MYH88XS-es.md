@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'ORNARTO Funda Huawei P30 Pro  Carcasa Silicona Transparente Protector TPU Airbag Anti-Choque Ultra-Delgado Anti-arañazos Case Caso para Teléfono Huawei P30 Pro 2019  6 47" Claro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MYH88XS/?tag=tolees-21'
 descuento: '66.69'
 average: '10.49'

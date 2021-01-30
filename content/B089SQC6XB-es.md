@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Kloius Niños de la Manera LED del Reloj Digital del Reloj del Deporte del silicón Reloj Pulsera Informática'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089SQC6XB/?tag=tolees-21'
 descuento: '25.06'
 average: '14.95'

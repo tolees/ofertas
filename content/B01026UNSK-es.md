@@ -16,6 +16,7 @@ comparePrice: 15.66 EUR
 prodname: 'Trespass - Zapatillas de Tela para el Colegio Modelo Gym Hero Unisex para Niños - Verano  35 EUR   Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01026UNSK/?tag=tolees-21'
 descuento: '44.44'
 average: '8.7'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'URCERI Mini Amoladora eléctrica batería  con 60pcs accesorios  batería recargable de 3.7V 2000 mAH  12000rpm  herramienta rotativa para DIY  pulido  grabado  etc.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L869ZXJ/?tag=tolees-21'
 descuento: '50.01'
 average: '20.32333333333333'

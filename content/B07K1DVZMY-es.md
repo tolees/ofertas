@@ -16,6 +16,7 @@ comparePrice: 6.95 EUR
 prodname: 'La Toja Selection - Pack Regalo Mujer - Gel de Baño Esencia de Orquídea 500ml + Gel de Ducha Exfoliante 200ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K1DVZMY/?tag=tolees-21'
 descuento: '42.45'
 average: '4.33'

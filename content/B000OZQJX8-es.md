@@ -16,6 +16,7 @@ comparePrice: 9.92 EUR
 prodname: 'Set pelotas playa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000OZQJX8/?tag=tolees-21'
 descuento: '29.54'
 average: '6.99'

@@ -16,6 +16,7 @@ comparePrice: 24.75 EUR
 prodname: 'Clarins - Crema Eclat du Jour - Hidratación  frescor  buena cara - 30 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00V88DXMU/?tag=tolees-21'
 descuento: '35.56'
 average: '15.95'

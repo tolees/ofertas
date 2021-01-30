@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Aroncent Gafa de Sol Polarizada con Clip de Metal Lente Irrompible contra UV400 para Carreras  Conducción  Golf  y Mucho Más Deportes Exteriores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M999MUH/?tag=tolees-21'
 descuento: '60.74'
 average: '10.99'

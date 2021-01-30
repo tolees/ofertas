@@ -16,6 +16,7 @@ comparePrice: 28.03 EUR
 prodname: 'Longspeed Nuevo Fashion 1.54    3.0 Smart Wrist Watch Phone Mate para teléfonos celulares'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089SXL8VL/?tag=tolees-21'
 descuento: '35.00'
 average: '18.22'

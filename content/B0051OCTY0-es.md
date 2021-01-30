@@ -16,6 +16,7 @@ comparePrice: 80.66 EUR
 prodname: 'Westinghouse Lighting Vegas Ventilador de Techo E27  Acabado en aluminio cepillado con aspas reversibles en arce claro/plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0051OCTY0/?tag=tolees-21'
 descuento: '26.16'
 average: '59.56'

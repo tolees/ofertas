@@ -16,6 +16,7 @@ comparePrice: 186.34 EUR
 prodname: 'Epson Workforce WF-2850 - Impresora Multifunción Color'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WL7BB43/?tag=tolees-21'
 descuento: '49.07'
 average: '87.49333333333333'

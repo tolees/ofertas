@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'DC Shoes Pure High-Top WC TX Se  Zapatillas de Skateboard para Hombre  Rojo  Grey/Grey/White Xssw   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07STVFYPH/?tag=tolees-21'
 descuento: '50.06'
 average: '44.95'

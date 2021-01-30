@@ -16,6 +16,7 @@ comparePrice: 184.88 EUR
 prodname: 'Diesel Reloj Hombre de Analogico con Correa en Cuero DZ4343'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NTN8VUQ/?tag=tolees-21'
 descuento: '27.26'
 average: '134.48'

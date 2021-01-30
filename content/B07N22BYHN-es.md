@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Sennheiser HD 100 - Auriculares supraurales  Ligeros y Plegables  Color Negro  Único'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N22BYHN/?tag=tolees-21'
 descuento: '49.67'
 average: '21.16'

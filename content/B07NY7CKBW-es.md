@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Superdry Core Sport Graphic tee Top de Deporte  Gris  Light Grey Marl 41q   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NY7CKBW/?tag=tolees-21'
 descuento: '62.35'
 average: '11.29'

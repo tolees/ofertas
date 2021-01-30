@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Young & Ming universal bolsa de viaje cable organizador electrónica accesorios bolsa de transporte caja para cable  Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BK177ZR/?tag=tolees-21'
 descuento: '25.01'
 average: '15.19'

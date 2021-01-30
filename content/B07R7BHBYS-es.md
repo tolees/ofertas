@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'JACK & JONES JFWORCA Leather 19 STS  Chukka Boots para Hombre  Marrón Cognac Cognac   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R7BHBYS/?tag=tolees-21'
 descuento: '56.83'
 average: '43.17'

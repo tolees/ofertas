@@ -16,6 +16,7 @@ comparePrice: 639.0 EUR
 prodname: 'Black Shark 2 8GB+128GB Azul con Switch Kit  Black Shark Soporte Original Gamepad 2.0 + Mandos de Gamepad Versiones Izquierda/Derecha  Dual SIM  Snapdragon 855  Nuevo  Móvil  Teléfono de Juego'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WRK42J2/?tag=tolees-21'
 descuento: '33.49'
 average: '447.2952727272726'

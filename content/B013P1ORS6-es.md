@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'Gigaset PRO SL750H. Teléfono inalámbrico para conectar a centralita'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013P1ORS6/?tag=tolees-21'
 descuento: '37.48'
 average: '85.48333333333332'

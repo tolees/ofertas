@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Funda para iPhone X/XS  ZHIKE Diseño de una Sola Pieza Funda de Adsorción Magnética Súper Delgada de Vidrio Templado con Cubierta Magnética Incorporada Cobertura de Pantalla Completa  Negro Claro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H2SKGSZ/?tag=tolees-21'
 descuento: '26.97'
 average: '18.98'

@@ -16,6 +16,7 @@ comparePrice: 20.6 EUR
 prodname: 'Mini Altavoz con Forma de Coche Colorido LED Luz de Flash Bluetooth para Coche Altavoces inalámbricos TF Tarjeta FM Radio Manos Libres Subwoofer ML63 - Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KT45DTL/?tag=tolees-21'
 descuento: '33.01'
 average: '13.8'

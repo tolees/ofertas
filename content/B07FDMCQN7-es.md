@@ -16,6 +16,7 @@ comparePrice: 103.43 EUR
 prodname: 'Millet Ld Seneca Tecno polar mujer  111573_99152  rosa  small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FDMCQN7/?tag=tolees-21'
 descuento: '54.00'
 average: '48.614999999999995'

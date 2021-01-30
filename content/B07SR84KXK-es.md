@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Death Stranding - Collector s Edition [Importación francesa]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SR84KXK/?tag=tolees-21'
 descuento: '26.96'
 average: '173.03'

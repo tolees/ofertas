@@ -16,6 +16,7 @@ comparePrice: 31.64 EUR
 prodname: 'HandFan Ventilador de Mano Recargable Cargo Base 2600mAh batería 4 Modos Mudo estupendo pequeño Escritorio del USB del Ventilador del Viento Naturaleza 22H Tiempo de Trabajo para el hogar/Viajes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P2YS5ZR/?tag=tolees-21'
 descuento: '33.66'
 average: '20.99'

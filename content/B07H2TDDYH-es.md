@@ -16,6 +16,7 @@ comparePrice: 20.18 EUR
 prodname: 'vidaXL Alfombra Redonda 90cm Yute Trenzado Decoración Casa y Hogar Moquetas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H2TDDYH/?tag=tolees-21'
 descuento: '40.54'
 average: '12.0'

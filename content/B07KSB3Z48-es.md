@@ -16,6 +16,7 @@ comparePrice: 17.46 EUR
 prodname: 'EMS Hips Electroestimulador Muscular  Masajeador Inalámbrico de Cadera  para Adelgazar de Cadera/Pierna/Cintura/Cuerpo Estimulador Muscular Ejercitar Gluteos naranja '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KSB3Z48/?tag=tolees-21'
 descuento: '25.60'
 average: '12.99'

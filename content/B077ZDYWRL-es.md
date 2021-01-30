@@ -16,6 +16,7 @@ comparePrice: 219.99 EUR
 prodname: 'Auna iTuner 320 - Radio con Internet  Sintonizador HiFi Digital  Spotify Connect  Controlada por aplicación  Dab/Dab  FM RDS  WLAN  WiFi  Pantalla TFT de 8 cm  Mando a Distancia  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077ZDYWRL/?tag=tolees-21'
 descuento: '36.37'
 average: '139.99'

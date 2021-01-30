@@ -16,6 +16,7 @@ comparePrice: 2.45 EUR
 prodname: 'Wurko - Colador Manga Tipo Cono Plástico 12 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B019H2HLH6/?tag=tolees-21'
 descuento: '60.41'
 average: '0.97'

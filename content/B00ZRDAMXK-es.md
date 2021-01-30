@@ -16,6 +16,7 @@ comparePrice: 73.16 EUR
 prodname: 'Purina Pro Plan Small & Mini Puppy  Salmón para cachorros de piel sensible  4 x 3 Kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ZRDAMXK/?tag=tolees-21'
 descuento: '60.14'
 average: '34.79333333333334'

@@ -16,6 +16,7 @@ comparePrice: 38.99 EUR
 prodname: '4 Piezas 64GB USB 3.0 ENUODA Pendrive Pivote Memorias Giratoria Plegable Diseño de Cierre  4 Colores Mezclados: Azul Negro Rojo Violeta '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R7KSGTQ/?tag=tolees-21'
 descuento: '39.50'
 average: '24.29'

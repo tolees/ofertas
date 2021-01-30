@@ -16,6 +16,7 @@ comparePrice: 10.0 EUR
 prodname: 'Funko Pop Movies: Us-Pluto w/Mask Chase  Stlyes May Vary  Figura Coleccionable  Multicolor  44315 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RN8DJRB/?tag=tolees-21'
 descuento: '40.10'
 average: '5.99'

@@ -16,6 +16,7 @@ comparePrice: 105 EUR
 prodname: 'Lacoste Carnaby EVO 319 3 SMA  Zapatillas para Hombre  Negro Black 02h  45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9SZ7ZQ/?tag=tolees-21'
 descuento: '56.24'
 average: '45.95'

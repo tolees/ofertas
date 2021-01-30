@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Funko- Pop Potter-Dumbledore w/Baby Harry Figura Coleccionable  Multicolor  48067 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZZP77TJ/?tag=tolees-21'
 descuento: '33.18'
 average: '12.23'

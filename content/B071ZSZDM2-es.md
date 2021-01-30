@@ -16,6 +16,7 @@ comparePrice: 22.0 EUR
 prodname: '150 UD de 10 ml de monodosis aceite de oliva virgen extra'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071ZSZDM2/?tag=tolees-21'
 descuento: '45.45'
 average: '12.0'

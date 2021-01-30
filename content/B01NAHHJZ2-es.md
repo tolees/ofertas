@@ -16,6 +16,7 @@ comparePrice: 15.4 EUR
 prodname: 'find. 17AMZ025 camisetas mujer fiesta   Rosa  Old Rose   42  Talla del fabricante: Large '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NAHHJZ2/?tag=tolees-21'
 descuento: '57.14'
 average: '6.6'

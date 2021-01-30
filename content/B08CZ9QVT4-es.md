@@ -16,6 +16,7 @@ comparePrice: 18.63 EUR
 prodname: 'UniqueMe [3 Pack] Protector de Pantalla para Xiaomi Redmi 9  Vidrio Templado [9H Dureza] HD Film Cristal Templado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CZ9QVT4/?tag=tolees-21'
 descuento: '67.85'
 average: '5.99'

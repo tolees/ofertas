@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'PUMA Smash v2 L V Inf  Zapatillas Unisex Niños  Peacoat White-High Risk Red  26 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG5CTZP/?tag=tolees-21'
 descuento: '43.27'
 average: '16.99'

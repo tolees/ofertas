@@ -16,6 +16,7 @@ comparePrice: 139.95 EUR
 prodname: 'HUGO Henfords Pantalones  Negro  Charcoal 010   94 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PPWHR8T/?tag=tolees-21'
 descuento: '53.18'
 average: '54.065714285714286'

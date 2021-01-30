@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Merrell Terran Cross II  Sandalia con Pulsera para Mujer  Azul  Thistle   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZW49G2/?tag=tolees-21'
 descuento: '70.85'
 average: '27.69'

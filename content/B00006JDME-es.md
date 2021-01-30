@@ -16,6 +16,7 @@ comparePrice: 9.9 EUR
 prodname: 'Hama 070055 - Filtro ultravioleta  color neutro  55 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00006JDME/?tag=tolees-21'
 descuento: '35.45'
 average: '6.923333333333333'

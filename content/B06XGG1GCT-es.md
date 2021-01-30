@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Funko Pop! - Warden Figura de Vinilo  seria The Elder Scrolls Online  ESO  Morrowind  14331 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XGG1GCT/?tag=tolees-21'
 descuento: '43.64'
 average: '8.99'

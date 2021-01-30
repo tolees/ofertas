@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Adaptador Bluetooth Transmisor Receptor  2 en 1 Bluetooth 5.0 Inalámbrico Portátil  RCA & 3.5mm AUX  Baja Latencia Audio Estéreo para TV  PC  Audio  Música Inalámbrico en Coche'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZJFC1L4/?tag=tolees-21'
 descuento: '55.01'
 average: '17.99'

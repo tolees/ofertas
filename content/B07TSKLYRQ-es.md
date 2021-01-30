@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Skechers Boys  GRAVLEN Metro-Trek Hi-Top Trainers  Black  Black Synthetic/Black & Orange Trim Blk   4 UK  37 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TSKLYRQ/?tag=tolees-21'
 descuento: '61.49'
 average: '21.16'

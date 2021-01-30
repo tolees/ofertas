@@ -16,6 +16,7 @@ comparePrice: 11.9 EUR
 prodname: 'Bella Aurora Gel Exfoliante Facial Anti-Manchas | Limpia la Piel en Profundidad | Peeling Facial Enzimático para la Cara  75 ml  4098310 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LPLKI8M/?tag=tolees-21'
 descuento: '50.00'
 average: '6.783333333333333'

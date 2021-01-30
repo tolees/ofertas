@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Piz Buin - Protector Solar  Allergy Spray SPF 15 - Loción 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RWSFGK7/?tag=tolees-21'
 descuento: '29.35'
 average: '7.03'

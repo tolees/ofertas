@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'KangaROOS Raceyard Ev  Zapatillas Unisex Adulto  Naranja  Neon Orange/Jet Black 7950   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S3BL2WR/?tag=tolees-21'
 descuento: '50.19'
 average: '17.41'

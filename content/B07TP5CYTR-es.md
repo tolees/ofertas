@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Vans Ward Suede/Canvas  Zapatillas para Hombre  Negro   Otw Scatter  Obsidian/White Sym   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TP5CYTR/?tag=tolees-21'
 descuento: '51.80'
 average: '36.15'

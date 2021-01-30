@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'KFD 65W Adaptador Cargador portátil para Intel NUC NUC8i5BEK NUC7I3BNK Mini PC  MSI Cubi N 8GL Ordenador de sobremesa  MSI Modern 14 A10RB-663XES  MEDION Ultrafino S6445 MD61389 E6421 E6424 19V 3 42A'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00V9UQOFA/?tag=tolees-21'
 descuento: '57.79'
 average: '18.99'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Pro Breeze Calefactor Eléctrico Cerámico 500W - con Termostato Ajustable  Bajo Consumo y Protección contra Sobrecalentamiento - Calentador de Cerámica PTC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0778JZRRS/?tag=tolees-21'
 descuento: '45.01'
 average: '21.99'

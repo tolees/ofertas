@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: '[3 Piezas] Protector de Pantalla para Huawei Mate 20 Lite  Cristal Templado [Fácil de instalar] [Sin Burbujas] [3D-Touch/9H Dureza][Anti-Rasguños] - para Huawei Mate 20 Lite - Transparente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PDBDYNP/?tag=tolees-21'
 descuento: '66.71'
 average: '5.95'

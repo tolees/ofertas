@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Vans Ward Platform Canvas Zapatillas Mujer  Negro  Canvas  Black/White 187   35 EU  3 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C8YCQB8/?tag=tolees-21'
 descuento: '31.05'
 average: '51.93599999999999'

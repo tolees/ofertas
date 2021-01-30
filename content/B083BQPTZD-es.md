@@ -16,6 +16,7 @@ comparePrice: 153.99 EUR
 prodname: 'MENGH Teppich Küche 140x140cm  Schlafzimmer Teppiche Farbecht Pflegeleicht für Wohnzimmer Schlafzimmer Oder Kinderzimmer Blau'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083BQPTZD/?tag=tolees-21'
 descuento: '74.68'
 average: '38.99'

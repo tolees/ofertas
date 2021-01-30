@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers GO Run 400 V2  Zapatillas para Hombre  Negro  Textil Negro/Sintético/Borde Gris Bkgy   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XMGB9PV/?tag=tolees-21'
 descuento: '47.96'
 average: '35.0'

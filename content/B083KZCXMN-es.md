@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Riñonera Pepe Jeans Sail Pequeña  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083KZCXMN/?tag=tolees-21'
 descuento: '30.20'
 average: '17.45'

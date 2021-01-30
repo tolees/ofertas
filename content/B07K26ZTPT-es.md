@@ -16,6 +16,7 @@ comparePrice: 65 EUR
 prodname: 'Hurley M Phantom Bird 18  Bañadores  Hombre  Azul  Blue Fury   34'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K26ZTPT/?tag=tolees-21'
 descuento: '40.98'
 average: '38.36'

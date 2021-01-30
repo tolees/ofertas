@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Easton Marlowe 6 PR Calcetines Estampados Hombre - 6pk #11  mixed - bright colors  43-46 EU shoe size'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M7TAU9X/?tag=tolees-21'
 descuento: '66.68'
 average: '19.99'

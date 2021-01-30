@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'HUMTUS Calentadores de Manos Recargables Cargador USB de 5200mAh Tipo C con Pantalla LCD Calentadores de Manos Eléctrico Reutilizable con Calefacción Lateral Doble Regalo para Todo el Invierno'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZV724LG/?tag=tolees-21'
 descuento: '26.68'
 average: '21.99'

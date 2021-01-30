@@ -16,6 +16,7 @@ comparePrice: 103.0 EUR
 prodname: 'Trixie 13171 - Rejilla Seguridad para Coche  Ancho: 96–163 cm  Altura: 34–48 cm  Plata/Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DMSA9SU/?tag=tolees-21'
 descuento: '44.81'
 average: '53.184'

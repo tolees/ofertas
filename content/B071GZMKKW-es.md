@@ -16,6 +16,7 @@ comparePrice: 32.9 EUR
 prodname: 'TATAY Urban Food Prime Gris - Bolsa térmica Porta Alimentos con 2 tápers incluidos  4 7 litros de capacidad  Tela  Gris  11 x 25.5 x 24.5 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071GZMKKW/?tag=tolees-21'
 descuento: '39.24'
 average: '19.99'

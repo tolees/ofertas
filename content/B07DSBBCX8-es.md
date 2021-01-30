@@ -16,6 +16,7 @@ comparePrice: 14.71 EUR
 prodname: '1 Unidad de Etiqueta Protectora de Raqueta de Tenis para Prácticas y Entrenamientos Hecho de Poliéster - Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DSBBCX8/?tag=tolees-21'
 descuento: '44.46'
 average: '7.17'

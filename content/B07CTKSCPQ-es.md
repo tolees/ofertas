@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'BONAI Pila Recargable 9V Bateria Lithium 600mAh 7.4V 1200 Cycles 4 Piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CTKSCPQ/?tag=tolees-21'
 descuento: '42.51'
 average: '22.99'

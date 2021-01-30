@@ -16,6 +16,7 @@ comparePrice: 39.35 EUR
 prodname: 'Ordate Bolsas de Basura con 9 Rollos  40 L  Color Azul  Verde  Rosa  180 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FNJ5CFT/?tag=tolees-21'
 descuento: '44.12'
 average: '21.99'

@@ -16,6 +16,7 @@ comparePrice: 93.11 EUR
 prodname: 'Monix Mineral Lote de Sartenes  Aluminio Forjado con Antiadhrente Quantanium Reforzado con partículas de Titanio y sin PFOA  Gris  18-22-26'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078GMZDJG/?tag=tolees-21'
 descuento: '30.20'
 average: '64.99'

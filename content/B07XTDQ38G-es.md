@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Bolsas de Aseo Transparente  Opret 2 Pcs Neceser de Viaje Avión Impermeable PVC Cosmético Organizador para Hombre y Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XTDQ38G/?tag=tolees-21'
 descuento: '43.78'
 average: '8.99'

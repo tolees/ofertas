@@ -16,6 +16,7 @@ comparePrice: 10.49 EUR
 prodname: 'SONAX 02212410-544 Xtreme Limpia Tapices  500 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003AW3C7I/?tag=tolees-21'
 descuento: '34.22'
 average: '6.9'

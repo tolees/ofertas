@@ -16,6 +16,7 @@ comparePrice: 71.99 EUR
 prodname: 'Monster Energy Supercross – The Official Videogame 3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZTXYZCK/?tag=tolees-21'
 descuento: '30.56'
 average: '49.99'

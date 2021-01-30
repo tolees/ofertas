@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance 574v2  Entrenadores para Hombre  Azul  Deep Ozone Blue Deep Ozone Blue   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DVLB49Z/?tag=tolees-21'
 descuento: '43.34'
 average: '47.26'

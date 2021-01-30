@@ -16,6 +16,7 @@ comparePrice: 39.94 EUR
 prodname: 'B Blesiya Nuevo Traje Negro De PC para PC con Cubierta Trasera para HP 15-BS 15T-BS 15Z-BW'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086ZPSJB7/?tag=tolees-21'
 descuento: '44.44'
 average: '22.19'

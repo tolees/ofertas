@@ -16,6 +16,7 @@ comparePrice: 9.2 EUR
 prodname: 'Máscara exfoliante de lavado contra puntos negros  de la marca Pure Active 3 in1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NAN5FZG/?tag=tolees-21'
 descuento: '54.35'
 average: '5.449999999999999'

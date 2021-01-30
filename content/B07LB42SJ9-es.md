@@ -16,6 +16,7 @@ comparePrice: 41.0 EUR
 prodname: 'Calvin Klein Plunge Sujetador con Push-up  Rosa  Nymph s Thigh 2nt   C  Talla del Fabricante: 0C34  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LB42SJ9/?tag=tolees-21'
 descuento: '56.27'
 average: '17.93'

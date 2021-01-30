@@ -16,6 +16,7 @@ comparePrice: 39 EUR
 prodname: 'Lorus Reloj Analógico para Hombre de Cuarzo con Correa en Cuero RH937JX9'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CHW9XH3/?tag=tolees-21'
 descuento: '37.69'
 average: '24.3'

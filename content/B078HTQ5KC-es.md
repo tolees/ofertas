@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Fila Leggings Flex 2.0 negro talla: M  Medium '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078HTQ5KC/?tag=tolees-21'
 descuento: '27.50'
 average: '29.0'

@@ -16,6 +16,7 @@ comparePrice: 74.9 EUR
 prodname: 'Tommy Hilfiger Essential Long Lace Sneaker  Zapatillas para Hombre  Azul  Desert Sky Dw5   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V7XT4NK/?tag=tolees-21'
 descuento: '35.31'
 average: '48.45'

@@ -16,6 +16,7 @@ comparePrice: 2.9 EUR
 prodname: 'Gilde Handwerk Fieltro Juego de manteles  trébol  Gris Oscuro  Medio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CQY8EG4/?tag=tolees-21'
 descuento: '65.52'
 average: '1.0'

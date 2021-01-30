@@ -16,6 +16,7 @@ comparePrice: 214.99 EUR
 prodname: 'HOMCOM Coberizo de Madera de Jardín Caseta para Herramientas 190x79x49 cm Armario de Madera Maciza de Almacenamiento en Patio Gabinete Terraza'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0792QKHHD/?tag=tolees-21'
 descuento: '32.79'
 average: '144.49'

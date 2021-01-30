@@ -16,6 +16,7 @@ comparePrice: 7.33 EUR
 prodname: 'Caja de Joyería Forma de Corazón Anillos Plásticos Rosada Chica Presente Niños - 12pcs #3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M0AS4GN/?tag=tolees-21'
 descuento: '45.43'
 average: '4.0'

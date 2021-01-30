@@ -16,6 +16,7 @@ comparePrice: 10.87 EUR
 prodname: 'Veet Bandas de Cera Depilatoria -Easy Gelwax  Pieles Normales 20 bandas  Pack de 3uds '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D51Y7GY/?tag=tolees-21'
 descuento: '34.13'
 average: '7.18'

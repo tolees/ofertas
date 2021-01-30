@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Hot Chocolate Design Chocolaticas Unicorn Tacon Mary Jane para Mujeres Multicolor HCD 37'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LOJU07S/?tag=tolees-21'
 descuento: '77.01'
 average: '22.99'

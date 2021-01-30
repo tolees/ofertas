@@ -16,6 +16,7 @@ comparePrice: 20.95 EUR
 prodname: 'Paw Patrol Impermeable para niños La Patrulla Canina Azul 12-18 Meses'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MTKKCT3/?tag=tolees-21'
 descuento: '38.19'
 average: '12.95'

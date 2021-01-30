@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Under Armour Sportstyle Graphic Muscle SL Tanque  Mujer  Blanco  LG'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GWYMKNC/?tag=tolees-21'
 descuento: '38.58'
 average: '15.97'

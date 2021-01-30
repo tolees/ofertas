@@ -16,6 +16,7 @@ comparePrice: 19.39 EUR
 prodname: 'Cumlaude Rilastil Sunlaude Spf50 y Compacto Medium - 10 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NGK6PKK/?tag=tolees-21'
 descuento: '38.37'
 average: '11.95'

@@ -16,6 +16,7 @@ comparePrice: 4.66 EUR
 prodname: 'Libertroy DC-DC Step Down Converter 5-36V to 1.25-32V 5A Buck Voltage Regulator with Digital LED Display Voltage Converter - Blue'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V51YBFJ/?tag=tolees-21'
 descuento: '31.97'
 average: '3.17'

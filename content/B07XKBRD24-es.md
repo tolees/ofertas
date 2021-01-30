@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Uno  Zapatillas para Hombre  Negro  Black PU/Mesh/Red Trim BKRD   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XKBRD24/?tag=tolees-21'
 descuento: '52.55'
 average: '33.19'

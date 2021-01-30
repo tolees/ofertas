@@ -16,6 +16,7 @@ comparePrice: 57.28 EUR
 prodname: 'Epson C13T70124010 - Cartucho de tinta  cian  Ya disponible en Amazon Dash Replenishment'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005FJSVHK/?tag=tolees-21'
 descuento: '27.90'
 average: '42.71'

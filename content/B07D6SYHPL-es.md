@@ -16,6 +16,7 @@ comparePrice: 450.0 EUR
 prodname: 'MODAUTO Estructura para Videojuego  Estructura Simulador de Conducción con Asiento SemiBaquet Ajustable  de Tela  Modelo N810B-N300  Color Negro y Costura Roja'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D6SYHPL/?tag=tolees-21'
 descuento: '40.00'
 average: '275.0'

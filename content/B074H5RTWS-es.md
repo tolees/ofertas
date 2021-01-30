@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Nike Y Nk Gmsk-GFX Sports Bag  Unisex niños  Black/Black/ Rush Pink   MISC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074H5RTWS/?tag=tolees-21'
 descuento: '33.48'
 average: '5.98'

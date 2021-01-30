@@ -16,6 +16,7 @@ comparePrice: 17.5 EUR
 prodname: 'Diadermine - Hydralist Crema Hidratante de Día - Textura sedosa y sensación refrescante no grasa - 2 unidades de 50ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N3XJ6G4/?tag=tolees-21'
 descuento: '48.86'
 average: '8.883333333333333'

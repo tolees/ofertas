@@ -16,6 +16,7 @@ comparePrice: 163.74 EUR
 prodname: 'Versa 21330009 Set 2 Taburetes de Bar Rústicos con Asiento Fijo de Madera de Olmo Natural y Patas de Metal en Color Negro 65 x 42 x 50 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086MHSF2R/?tag=tolees-21'
 descuento: '39.20'
 average: '99.56'

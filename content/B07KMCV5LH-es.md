@@ -16,6 +16,7 @@ comparePrice: 110 EUR
 prodname: 'Clarks Un Rio Lace  Zapatillas para Mujer  Negro  Black Leather Black Leather   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KMCV5LH/?tag=tolees-21'
 descuento: '36.44'
 average: '69.755'

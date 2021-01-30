@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Puma Flyer Runner  Zapatillas de Running Unisex Adulto  Azul  Rhubarb White   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFZ7WY7/?tag=tolees-21'
 descuento: '36.50'
 average: '31.72'

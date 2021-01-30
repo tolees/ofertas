@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'YUNTAB Nemo Cámara Panorámica Portátil 360 grados 1080P Wifi Cámara deportiva 210-Grado Ultra Gran Angular 720 °Ángulo Vista Tarjeta SD Hasta 128GB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074PN11CB/?tag=tolees-21'
 descuento: '58.19'
 average: '45.99'

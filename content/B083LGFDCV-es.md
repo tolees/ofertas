@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: '100pcs Discos de Madera Rebanada SEELOK Rodajas de Madera Círculos con 100 pcs Argollas para Llaveros Pedazo de Madera Redondo Madera Manualidades Formas para Pintura Escritura Tallado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083LGFDCV/?tag=tolees-21'
 descuento: '51.35'
 average: '14.59'

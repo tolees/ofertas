@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'Memorias USB 5 Piezas 32GB USB 2.0 Stick Flash Drive Pendrives Almacenamiento Datos por SIMMAX  32GB Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F5TVZ9C/?tag=tolees-21'
 descuento: '40.55'
 average: '21.99'

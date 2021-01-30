@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Wrangler Texas Contrast Hombre Jeans  Azul  Mistral Green 156   33W / 30L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TXXC5VZ/?tag=tolees-21'
 descuento: '49.99'
 average: '39.98'

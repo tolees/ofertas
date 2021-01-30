@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: '[2 pack] Funda Apple Watch 44mm Series 4/Series 5  Protector Pantalla iWatch 4 case Protección Completo Anti-Rasguños Ultra Transparente Funda Suave TPU  para Nueva Apple Watch Series 4/Series 5 44mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X3SSW51/?tag=tolees-21'
 descuento: '55.08'
 average: '8.98'

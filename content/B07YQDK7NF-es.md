@@ -16,6 +16,7 @@ comparePrice: 5.5 EUR
 prodname: 'Gliss - Champú Reparación Total para Cabellos Secos - 650ml - Schwarzkopf'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YQDK7NF/?tag=tolees-21'
 descuento: '28.18'
 average: '3.95'

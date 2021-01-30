@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'WOSTOO Luces Bicicleta  Luces De Bicicleta Faro y Luz Trasera Roja Recargable USB  Impermeable con 5 Modes Luces y reflectores  Luz LED Bicicleta para Carretera y Montaña - Seguridad para la Noche'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PK14NY3/?tag=tolees-21'
 descuento: '45.48'
 average: '13.823333333333332'

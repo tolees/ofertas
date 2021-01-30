@@ -16,6 +16,7 @@ comparePrice: 16.0 EUR
 prodname: 'Apolyne Portable Juego de Mesa Portátil Ping Pongtable  Unisex niños  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MZBGAX6/?tag=tolees-21'
 descuento: '31.25'
 average: '15.48'

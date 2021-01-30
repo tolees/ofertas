@@ -16,6 +16,7 @@ comparePrice: 199.79 EUR
 prodname: 'DragonSwordlinsu COOSUN - Panel de cortina transparente para ventana de dormitorio  sala de estar  decoración del hogar  140 x 213 cm  2 paneles'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JG158KQ/?tag=tolees-21'
 descuento: '81.04'
 average: '37.89'

@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'American Tourister Holiday Heat - Upright Equipaje de Mano  55 cm  42 l  Azul  Denim Blue '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CRJXCX9/?tag=tolees-21'
 descuento: '34.88'
 average: '51.21'

@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'TW1000 Hub USB C 6-en-1  Adaptador MacBook Pro/MacBook Air con Thunderbolt 3 100W PD  4K HDMI  2 Puertos USB 3.0  1 Lector de Tarjetas SD y 1 TF'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZGJ1HX8/?tag=tolees-21'
 descuento: '65.72'
 average: '23.99'

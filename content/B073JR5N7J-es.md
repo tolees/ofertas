@@ -16,6 +16,7 @@ comparePrice: 35.44 EUR
 prodname: 'find. Cazadora Acolchada Hombre  Azul  Navy   54  Talla del fabricante: X-Large '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073JR5N7J/?tag=tolees-21'
 descuento: '61.91'
 average: '13.5'

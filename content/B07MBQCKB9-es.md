@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'Pop Vinilo: Games: Fortnite: Loot Llama 10"'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MBQCKB9/?tag=tolees-21'
 descuento: '47.50'
 average: '26.793'

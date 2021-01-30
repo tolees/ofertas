@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'Aodoor Microfibra De Coche  2 Unidades Chenille Limpieza del Coche Mitt Cepillo Guante  Guante Microfibra de Limpieza Lavado para Coche Cocina Hogar  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GJK03BU/?tag=tolees-21'
 descuento: '54.07'
 average: '14.989999999999998'

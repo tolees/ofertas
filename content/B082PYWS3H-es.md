@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Samsung A71 - Carcasa de silicona  color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082PYWS3H/?tag=tolees-21'
 descuento: '58.90'
 average: '12.29'

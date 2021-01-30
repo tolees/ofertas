@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Calcetines de Compresión 1 par  Blanco sólido  EU 39-42 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QC1R9VR/?tag=tolees-21'
 descuento: '62.58'
 average: '14.95'

@@ -16,6 +16,7 @@ comparePrice: 40.76 EUR
 prodname: 'Antimosquitos Repelente Ultrasónico de Control de Plagas Repelente Ultrasonidos Control de Plagas para Interiores para Cucarachas Roedores Moscas Hormigas  Arañas Ratones-No Tóxico Paquete de 2 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MGFY8XX/?tag=tolees-21'
 descuento: '48.50'
 average: '20.99'

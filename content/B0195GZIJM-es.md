@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Funko POP! Marvel Deadpool Two Swords - Figurina de vinilo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0195GZIJM/?tag=tolees-21'
 descuento: '33.96'
 average: '9.48'

@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Leathlux Funda Xiaomi Redmi Note 7 + [2 Pack] Cristal Templado Protector de Pantalla  Ultra Fina Silicona Transparente TPU Carcasa Protector Airbag Anti-Choque Anti-arañazos Cover Xiaomi Redmi Note 7'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJX5GZC/?tag=tolees-21'
 descuento: '63.19'
 average: '7.79'

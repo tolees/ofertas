@@ -16,6 +16,7 @@ comparePrice: 12.16 EUR
 prodname: 'Hellmann s Salsa Patatas Deluxe Bocabajo - Pack de 8 x 250 ml  Total: 2000 ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MRKS5RM/?tag=tolees-21'
 descuento: '34.21'
 average: '8.98'

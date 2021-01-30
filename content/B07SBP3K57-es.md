@@ -16,6 +16,7 @@ comparePrice: 74.95 EUR
 prodname: 'Under Armour Men s Remix 2.0 Laufschuhe  Zapatillas de Running para Hombre  Blanco  White/Versa Blue/Versa Blue  104  104   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SBP3K57/?tag=tolees-21'
 descuento: '29.33'
 average: '52.97'

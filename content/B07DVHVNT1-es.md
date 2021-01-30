@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'New Balance M890v7  Zapatillas de Running para Hombre  Verde  Green Green   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DVHVNT1/?tag=tolees-21'
 descuento: '53.70'
 average: '55.56'

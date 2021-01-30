@@ -16,6 +16,7 @@ comparePrice: 4.74 EUR
 prodname: 'Aluminio Pequeños joyeros Hobby Abrazadera en la mesa Banco Vise Mini herramienta Vice Muliti-Funcional Craft Mould Fixed Repair Tool-Silver-1 Tamaño'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S7CWWGL/?tag=tolees-21'
 descuento: '29.96'
 average: '3.32'

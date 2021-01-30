@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Organizador Cables  Cubre Cables de 2 x 1.5m  Flexible Funda Organizador Cables  Organizador de Cables Mesa  Recoge Cables para Office y PC Escritorio  2 Pack '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VX6WNY3/?tag=tolees-21'
 descuento: '35.02'
 average: '11.47'

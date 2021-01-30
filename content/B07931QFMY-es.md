@@ -16,6 +16,7 @@ comparePrice: 16.95 EUR
 prodname: 'Mr; Wonderful Woa08921Es Vela Con Mensaje "Eres La Coincidencia Más Genial De Mi Vida"  Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07931QFMY/?tag=tolees-21'
 descuento: '49.97'
 average: '8.48'

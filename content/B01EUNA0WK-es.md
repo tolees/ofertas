@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Bright Starts  Disney Baby Hamaca Minnie Garden Delights'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EUNA0WK/?tag=tolees-21'
 descuento: '30.20'
 average: '83.75'

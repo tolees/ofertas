@@ -16,6 +16,7 @@ comparePrice: 19.52 EUR
 prodname: 'LXHGrowH Funda Realme 6  Fundas Duro PC Cristal Templado Anti-arañazos Espalda Armadura  Anti-Shock TPU Silicona Gel Protector Bumper Caso Cover Carcasa para Realme 6  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08C4VY9WS/?tag=tolees-21'
 descuento: '59.07'
 average: '7.99'

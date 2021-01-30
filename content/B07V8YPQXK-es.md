@@ -16,6 +16,7 @@ comparePrice: 94.9 EUR
 prodname: 'Tommy Hilfiger - Seasonal Crossover  Bolsos bandolera Mujer  Negro  Black   1x1x1 cm  W x H L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V8YPQXK/?tag=tolees-21'
 descuento: '63.46'
 average: '34.995000000000005'

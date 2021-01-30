@@ -16,6 +16,7 @@ comparePrice: 6.15 EUR
 prodname: 'Asiento del automóvil Asiento trasero Protector de la cubierta Asiento trasero Organizador para niños Kick Mat Mud Clean Asiento trasero Kick Guard Protector de asiento'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VKYSPQ5/?tag=tolees-21'
 descuento: '34.96'
 average: '4.0'

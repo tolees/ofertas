@@ -16,6 +16,7 @@ comparePrice: 71.24 EUR
 prodname: 'Asics Gel-Lyte PS  Zapatillas Unisex Niños  Negro  Black/Black 001   30 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZB2PN9/?tag=tolees-21'
 descuento: '71.20'
 average: '21.273999999999997'

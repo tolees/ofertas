@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Tristar KA-5215 Calefactor eléctrico  mica  – 3 ajustes – Termostato ajustable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TFDDVV4/?tag=tolees-21'
 descuento: '66.61'
 average: '41.08'

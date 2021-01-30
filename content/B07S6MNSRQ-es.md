@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Carpeta de Archivos Desplegable 13 bolsillos Organizador de Archivos Expandible de Plástico A4 Carpeta de Acordeón Soporte de Documentos Portátil Almacenamiento para el hogar/oficina/escuela con asa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S6MNSRQ/?tag=tolees-21'
 descuento: '53.35'
 average: '14.656666666666666'

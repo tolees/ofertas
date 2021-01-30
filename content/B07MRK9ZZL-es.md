@@ -16,6 +16,7 @@ comparePrice: 100 EUR
 prodname: 'Lacoste Hh9553 Pantalones  Beige  Viennois 02s   48  Talla del Fabricante: 48/32  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MRK9ZZL/?tag=tolees-21'
 descuento: '48.93'
 average: '54.016666666666666'

@@ -16,6 +16,7 @@ comparePrice: 102.6 EUR
 prodname: 'Manfrotto Advanced Tri - Funda para cámara DSLR  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00FM2XP2G/?tag=tolees-21'
 descuento: '32.63'
 average: '69.12'

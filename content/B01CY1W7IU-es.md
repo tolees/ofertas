@@ -16,6 +16,7 @@ comparePrice: 149 EUR
 prodname: 'HUION Inalámbrico Tableta Gráfica  WH1409 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CY1W7IU/?tag=tolees-21'
 descuento: '46.25'
 average: '114.545'

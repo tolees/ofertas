@@ -16,6 +16,7 @@ comparePrice: 75.3 EUR
 prodname: 'Catan - Erweiterung Seefahrer: Für 3 - 4 Spieler ab 10 Jahren'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00S5R2JJU/?tag=tolees-21'
 descuento: '71.75'
 average: '21.279999999999998'

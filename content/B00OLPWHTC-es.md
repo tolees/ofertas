@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Campingaz CP250 - Cartucho de Gas  color Azul   4 x 220 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OLPWHTC/?tag=tolees-21'
 descuento: '45.77'
 average: '5.585'

@@ -16,6 +16,7 @@ comparePrice: 9.2 EUR
 prodname: 'Pantalla HD Mini cámara Digital Recargable Niños Dibujos Animados Cute Camera Toys Accesorios de fotografía al Aire Libre para Regalo de cumpleaños Infantil - Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WY3WHX1/?tag=tolees-21'
 descuento: '33.48'
 average: '6.12'

@@ -16,6 +16,7 @@ comparePrice: 4.57 EUR
 prodname: 'Wolfcraft 2459000 2459000-1 Llave de Brida Universal para amoladoras angulares Distancia Entre pivotes Variable 30  35 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002OHKHKK/?tag=tolees-21'
 descuento: '25.60'
 average: '3.4'

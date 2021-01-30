@@ -16,6 +16,7 @@ comparePrice: 8.4 EUR
 prodname: 'Youngdo 1 Par Muñequeras Deportivas Ajustables más Anchas y Gruesas Soportes de muñeca para Izquierda y Derecha para Padel  Deportes  Trabajo  Uso Diario  Dolores de Muñecas Negro  SM/MD  12.7-18 CM  '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073XLWQNV/?tag=tolees-21'
 descuento: '28.69'
 average: '8.99'

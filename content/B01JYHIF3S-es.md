@@ -16,6 +16,7 @@ comparePrice: 5.55 EUR
 prodname: 'Loverly gatos adhesivo decorativo para pared casa de vinilo extraíble papel pintado de salón dormitorio cocina arte imagen PVC Murales de ventana puerta decoración + 3d rana coche adhesivo regalo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JYHIF3S/?tag=tolees-21'
 descuento: '60.36'
 average: '2.2'

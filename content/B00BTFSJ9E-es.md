@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Belkin - Cargador doméstico  5V  1A  compatible con Phone 11  11 Pro/Pro Max  XS  XS Max  XR  X  SE  8/8 Plus y otros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BTFSJ9E/?tag=tolees-21'
 descuento: '40.02'
 average: '14.99'

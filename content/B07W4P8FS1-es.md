@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'UMI by Amazon Escobilla de Baño con Soporte Juego de Cepillo de Limpieza para Inodoro con Mango Cómodo Cepillo para Inodoro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W4P8FS1/?tag=tolees-21'
 descuento: '25.02'
 average: '11.99'

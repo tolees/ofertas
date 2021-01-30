@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'Odoland Vajilla de Acero Inoxidable 13 en 1  con Placa  Tenedor  Cuchara  Cuchillo y Bolsa de Red  Kits de Cocina para 2 Persona  Kit de Picnic  Juego de Picnic'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T1GJSXP/?tag=tolees-21'
 descuento: '29.04'
 average: '21.99'

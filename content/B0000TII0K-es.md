@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Timex Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable T20031PF'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0000TII0K/?tag=tolees-21'
 descuento: '26.68'
 average: '43.26'

@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Tommy Hilfiger Eton Trifold  Catera para Hombre  Black 2  OneSize'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X0W9SGW/?tag=tolees-21'
 descuento: '28.68'
 average: '49.85'

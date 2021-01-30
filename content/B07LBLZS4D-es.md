@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Rieker B5124-14  Zapatillas para Hombre  Azul  Navy/Pazifik/Mogano 14   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBLZS4D/?tag=tolees-21'
 descuento: '73.65'
 average: '18.43'

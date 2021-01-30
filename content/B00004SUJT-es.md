@@ -16,6 +16,7 @@ comparePrice: 69.6 EUR
 prodname: 'HP 23 - Cartucho de impresión - 1 x Amarillo  Cian  Magenta - 649 páginas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00004SUJT/?tag=tolees-21'
 descuento: '32.11'
 average: '51.125'

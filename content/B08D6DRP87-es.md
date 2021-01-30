@@ -16,6 +16,7 @@ comparePrice: 4.99 EUR
 prodname: 'Primewire - 0 25m Cable de Red Cat 8 - Gigabit Ethernet Cable LAN 40000 Mbit S - Revestido de Tela - Cat.8 Cable Crudo con Conector RJ 45 - S FTP blindaje Pimf - Switch Router Modem Access Point'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08D6DRP87/?tag=tolees-21'
 descuento: '30.06'
 average: '3.49'

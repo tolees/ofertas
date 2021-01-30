@@ -16,6 +16,7 @@ comparePrice: 199.95 EUR
 prodname: 'Bose SoundSport Free - Auriculares intraurales inalámbricos  Naranja  Bright Orange/Azul Marino '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076SDS2MD/?tag=tolees-21'
 descuento: '34.28'
 average: '140.7'

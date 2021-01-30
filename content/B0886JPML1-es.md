@@ -16,6 +16,7 @@ comparePrice: 20.1 EUR
 prodname: 'aZengear Calcetines de Compresión para Hombres y Mujeres - Medias de Compresion para Deporte - Maratones - Enfermeras - Estrés Tibial Interior - Durante Embarazo  S/M  35-42   Blanco/Gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0886JPML1/?tag=tolees-21'
 descuento: '25.47'
 average: '14.98'

@@ -16,6 +16,7 @@ comparePrice: 159.6 EUR
 prodname: 'Sneaky Steve Cumberland  Botas Chelsea para Hombre  Braun  Brown 521515   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FSF1DZ8/?tag=tolees-21'
 descuento: '57.15'
 average: '69.48655172413795'

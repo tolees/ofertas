@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Caja organizadora Ivosmart con 24 secciones de terciopelo y tapa de vidrio para guardar joyas  con exhibidor de anillos o bandeja para aretes.  cartón  Gris  24 Section  Grey '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FWCYE9I/?tag=tolees-21'
 descuento: '66.69'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Plumas de Ganso  250 pcs Blanco Natural Plumas de Gallo Manualidades Decoración para Disfraces Hats  Hogar Bricolaje  Ropa Casa Fiesta  accesorio de disfraz '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BXC927T/?tag=tolees-21'
 descuento: '60.76'
 average: '10.065000000000001'

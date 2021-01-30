@@ -16,6 +16,7 @@ comparePrice: 59.18 EUR
 prodname: 'OFERTAS DEL DÍA - 180 Cosmetics - El paquete "potenciador de vitamina C" - Pure Hyaluronic Acid Serum + Vitamin C + Pure Hyaluronic Acid Serum + Vitamin C FORTE. ¡DOS PRODUCTOS ASOMBROSOS A UN PRECIO INCREÍBLE!'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NNIBJVA/?tag=tolees-21'
 descuento: '50.51'
 average: '29.29'

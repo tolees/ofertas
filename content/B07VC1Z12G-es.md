@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Hackett Army Polo  Beige  837chalk 837   L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VC1Z12G/?tag=tolees-21'
 descuento: '70.30'
 average: '35.64'

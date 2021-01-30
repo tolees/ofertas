@@ -16,6 +16,7 @@ comparePrice: 78.0 EUR
 prodname: 'Zapatillas New Balance GS574 Lifestyle Cordon  39 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BQYKNLN/?tag=tolees-21'
 descuento: '50.00'
 average: '39.0'

@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Samsung SAEPTA12EW - Transformador  cable micro USB  color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MN26FWU/?tag=tolees-21'
 descuento: '76.79'
 average: '5.79'

@@ -16,6 +16,7 @@ comparePrice: 37.0 EUR
 prodname: 'KiplingTopsMujerCarterasNegro  Charcoal  7.5x10x2.5 Centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TTP9V2G/?tag=tolees-21'
 descuento: '58.89'
 average: '15.21'

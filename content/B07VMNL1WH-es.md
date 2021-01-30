@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Tommy Hilfiger Tjw Tommy Classics tee Ropa Deportiva de Punto  Rosa  Pink Daisy TOU   36  Talla del Fabricante: Small  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VMNL1WH/?tag=tolees-21'
 descuento: '51.72'
 average: '14.0'

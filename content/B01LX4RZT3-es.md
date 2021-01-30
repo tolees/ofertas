@@ -16,6 +16,7 @@ comparePrice: 56.99 EUR
 prodname: 'PLAYMOBIL-Escaladores con Refugio  Multicolor  Sin tañosllaños  9126 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LX4RZT3/?tag=tolees-21'
 descuento: '34.18'
 average: '39.35000000000001'

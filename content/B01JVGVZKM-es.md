@@ -16,6 +16,7 @@ comparePrice: 51.66 EUR
 prodname: 'Juego de pinceles con estuche de viaje: 5 cepillos de mango corto de bambú. Perfecto para acuarela  óleo  entintado  pintura facial  pinceles creativos y suministros para manualidades.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JVGVZKM/?tag=tolees-21'
 descuento: '34.79'
 average: '33.69'

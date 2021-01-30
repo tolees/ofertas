@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Toallas refrigerantes de toalla  toalla fría  toalla  juego de toallas de bambú  toalla de microfibra  toalla de playa  gimnasio  100 x 30 cm  Azul  púrpura  gris.  100x30cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086KZGGDM/?tag=tolees-21'
 descuento: '53.37'
 average: '12.99'

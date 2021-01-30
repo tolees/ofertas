@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Eddie Bauer - Pantalones Mujer  Color Marfil  Talla 38/30  US: 8 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005RXEVGY/?tag=tolees-21'
 descuento: '86.45'
 average: '9.055'

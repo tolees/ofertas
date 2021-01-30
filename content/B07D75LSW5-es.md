@@ -16,6 +16,7 @@ comparePrice: 80 EUR
 prodname: 'R REDONDO IGLESIAS DESDE 1920 Cuchillos de Cocina Profesionales - 24 Piezas - 100% Made in Germany'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D75LSW5/?tag=tolees-21'
 descuento: '50.12'
 average: '59.95'

@@ -16,6 +16,7 @@ comparePrice: 3.99 EUR
 prodname: 'Gorra de béisbol para niños Gorra de béisbol Gorra de béisbol Plegable Suave Protección Solar Gorra de Pescador Playa Al Aire Libre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CNWLK1C/?tag=tolees-21'
 descuento: '52.63'
 average: '1.89'

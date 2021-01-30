@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'KiplingAbanu MultiMujerBolsos bandoleraMulticolor  Speckled 19x13x8 Centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TTPDRZ8/?tag=tolees-21'
 descuento: '56.54'
 average: '31.235'

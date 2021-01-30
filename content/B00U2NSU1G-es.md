@@ -16,6 +16,7 @@ comparePrice: 21.9 EUR
 prodname: 'Bruguer - Esmalte Acrlico Satinado Laca Acrylic Blanco Permanente 750 Ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00U2NSU1G/?tag=tolees-21'
 descuento: '36.53'
 average: '13.9'

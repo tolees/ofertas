@@ -16,6 +16,7 @@ comparePrice: 160.0 EUR
 prodname: 'CAMPER  Peu Cami  Damen Sneakers  Grau  Lt. Pastel Grey   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HZSINRC/?tag=tolees-21'
 descuento: '46.91'
 average: '84.95'

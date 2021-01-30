@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Capturadora de vídeo HDMI USB 2.0 Caja de captura de video HDMI HD 1080P Transmisión en vivo para videocámara de DVD Grabación de cámara  Grabber gráfico para juegos  transmisión  videoconferencia'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DR3ZR6V/?tag=tolees-21'
 descuento: '31.07'
 average: '19.99'

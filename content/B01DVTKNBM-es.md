@@ -16,6 +16,7 @@ comparePrice: 22.95 EUR
 prodname: 'Weider Protein Pancake Mix Vainilla. Tortitas de harina de avena integral  enriquecidas con proteinas. Sabor Vainilla - 600 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DVTKNBM/?tag=tolees-21'
 descuento: '35.99'
 average: '14.182500000000001'

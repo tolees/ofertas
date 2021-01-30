@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Under Armour Mid Keyhole Sujetador Deportivo  Mujer  Gris  Level Purple/Nocturne Purple/Metallic Silver 014   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J37QSNH/?tag=tolees-21'
 descuento: '51.18'
 average: '13.67'

@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Jvchengxi Funda Protectora para Galaxy Watch Active  Cubierta Protectora de Marco Resistente a los rasguños TPU Protector de Pantalla de Cobertura Total para Galaxy Watch Active 40mm  Negro/Oro Rosa '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RWCKL3N/?tag=tolees-21'
 descuento: '40.03'
 average: '8.99'

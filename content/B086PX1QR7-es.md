@@ -16,6 +16,7 @@ comparePrice: 29.98 EUR
 prodname: 'Fundas Transparentes Flexibles: ¡Mantén Tu Gran Estilo En Cada Sesión! ḔxtêṈṧióṈ Dêl ḔxtêṈṧôr Dêl PêṈê PêṈê Ḁmpliḁdôrêṧ ḾḁṈgḁṧ Cùbiêrtḁ PêṈiṧêxtêṈdêrṧ'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086PX1QR7/?tag=tolees-21'
 descuento: '60.01'
 average: '11.99'

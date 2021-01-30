@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'PUMA Cali PS  Zapatillas para Niñas  Black-Milky Blue  30 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFZRYHR/?tag=tolees-21'
 descuento: '30.71'
 average: '48.47'

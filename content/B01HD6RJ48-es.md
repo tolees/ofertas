@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Salomon Evasion 2 Aero  Zapatillas de Senderismo para Hombre  Negro  Black/Magnet/Alloy   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HD6RJ48/?tag=tolees-21'
 descuento: '32.21'
 average: '60.98'

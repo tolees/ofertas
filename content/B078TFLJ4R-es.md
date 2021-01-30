@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'VICTSING Altavoz Bluetooth Portátil  Altavoz inalámbrico con 18 Horas de Emisión Continua  360 ° Sonido Envolvente Estéreo con HD Sonido y Subwoofer. Bluetooth V4.2 y Micrófono Incorporado-Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078TFLJ4R/?tag=tolees-21'
 descuento: '36.14'
 average: '21.916956521739127'

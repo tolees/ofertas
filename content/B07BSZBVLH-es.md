@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Wangel Adhesivo 7 Gancho Barra Soportes y Organizadores para Utensilios de Cocina  Pegamento Patentado + Autoadhesivo  Aluminio  Acabado Mate  40CM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BSZBVLH/?tag=tolees-21'
 descuento: '30.45'
 average: '15.99'

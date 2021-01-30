@@ -16,6 +16,7 @@ comparePrice: 7.0 EUR
 prodname: 'Rimmel London  Pintalabios - 18 gr. 420 Berry Seductive  34666744420 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B019ZN60QK/?tag=tolees-21'
 descuento: '32.43'
 average: '4.2057142857142855'

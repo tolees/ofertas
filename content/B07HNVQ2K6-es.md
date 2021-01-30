@@ -16,6 +16,7 @@ comparePrice: 14.93 EUR
 prodname: 'V2000 Auriculares 7.1 Canales 3.5mm Jack Bass Estéreo con Efecto de Sonido para Juegos de Auriculares con micrófono para computadora PC Laptop Gamer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HNVQ2K6/?tag=tolees-21'
 descuento: '32.02'
 average: '10.15'

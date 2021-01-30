@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'Lámpara de esterilización UV Lámpara germicida ultravioleta portátil Índice Antibacteriano 99% De Esterilización Lámpara de desinfección germicida de mano para el Hogar Hotel Coche Mascota Viaje Baño'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086QYXDDT/?tag=tolees-21'
 descuento: '25.91'
 average: '22.96'

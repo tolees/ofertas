@@ -16,6 +16,7 @@ comparePrice: 20.84 EUR
 prodname: 'LEADSTAR 6FT Juego De Paracaídas de Color para Niños Arco Iris Juegos Actividades Deportivas Fiestas Ejercicios en Grupo Al Aire Libre  2m '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072BY33PC/?tag=tolees-21'
 descuento: '47.26'
 average: '10.99'

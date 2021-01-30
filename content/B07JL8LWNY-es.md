@@ -16,6 +16,7 @@ comparePrice: 40.55 EUR
 prodname: 'dreamlock vehículo articulado retrofriction de construcción 199 pcs 5804 AZ'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JL8LWNY/?tag=tolees-21'
 descuento: '39.75'
 average: '24.395'

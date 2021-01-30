@@ -16,6 +16,7 @@ comparePrice: 13.49 EUR
 prodname: '10 Unids Lavado Facial Soplo Limpiador de Cara Esponjas de Limpieza y Cuidado de Piel - Amarillo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KK12JXL/?tag=tolees-21'
 descuento: '33.36'
 average: '8.99'

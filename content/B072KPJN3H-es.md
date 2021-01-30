@@ -16,6 +16,7 @@ comparePrice: 150 EUR
 prodname: 'Salewa WS Ultra Train 2  Zapatillas de Running para Asfalto para Mujer  Azul  Capri/Poseidon 3395   36.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072KPJN3H/?tag=tolees-21'
 descuento: '59.25'
 average: '61.13'

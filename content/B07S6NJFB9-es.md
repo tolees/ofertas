@@ -16,6 +16,7 @@ comparePrice: 74.95 EUR
 prodname: 'PUMA NRGY Neko Knit  Zapatillas de Running para Hombre  Azul  Dark Denim/Castlerock   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S6NJFB9/?tag=tolees-21'
 descuento: '43.84'
 average: '42.09'

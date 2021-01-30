@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Cámara IP HD IP66 Impermeable Cámara Bullet con IR Vision Nocturna Cámara de Seguridad para el Hogar  Bebe  Ancianosal  Aire Libre 1MP 720P '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P3Z76CD/?tag=tolees-21'
 descuento: '63.36'
 average: '8.79'

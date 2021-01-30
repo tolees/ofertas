@@ -16,6 +16,7 @@ comparePrice: 27.82 EUR
 prodname: 'STOBOK - Adhesivos de papel de colores para manualidades para niños  tamaño A4  100 unidades  mezcla de 20 colores '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R57QKJ3/?tag=tolees-21'
 descuento: '25.02'
 average: '20.86'

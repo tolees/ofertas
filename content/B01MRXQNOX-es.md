@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Maybelline Pintalabios Larga Duración Superstay 24H Tono 183 Pink Color Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MRXQNOX/?tag=tolees-21'
 descuento: '31.49'
 average: '8.9'

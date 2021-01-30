@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Helly Hansen KOS Polo  Hombre  Azul  Azul Navy 597   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KQW6VS5/?tag=tolees-21'
 descuento: '68.26'
 average: '20.63'

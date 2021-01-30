@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'PUMA CB Retro Suit Woven Cl Chándal  Hombre  Black-Palace Blue  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XBSSF2H/?tag=tolees-21'
 descuento: '25.00'
 average: '52.46'

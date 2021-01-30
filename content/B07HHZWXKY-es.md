@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'LOMVUM 20V 2 0Ah Batería de Litio Adecuado para 8720T'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HHZWXKY/?tag=tolees-21'
 descuento: '87.00'
 average: '25.99'

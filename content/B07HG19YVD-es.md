@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Zenph Tiendas de campaña Familiares  Tienda de campaña instantánea Impermeable a Prueba de Lluvia para 2 Personas  automático  emergente  Carpa  Verano al Aire Libre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HG19YVD/?tag=tolees-21'
 descuento: '33.34'
 average: '74.99'

@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Carterón Pepe Jeans Treval'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071WK5VYR/?tag=tolees-21'
 descuento: '30.03'
 average: '34.95'

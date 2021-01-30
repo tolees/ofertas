@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'BÉABA - Babycook Duo  Robot de cocina 4 en 1  Néon'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B019FKEZBK/?tag=tolees-21'
 descuento: '29.65'
 average: '138.16000000000003'

@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'New Balance 800 Middle Distance  Zapatillas de Atletismo para Hombre  Turquesa  Neon Emerald/Black G6   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B73BTB8/?tag=tolees-21'
 descuento: '47.99'
 average: '67.61'

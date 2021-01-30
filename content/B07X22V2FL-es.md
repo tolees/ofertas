@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Amzdeal Trípode Cámara  Trípode de Aluminio Portátil  164cm Monopie  con Bolsa de Transporte，Viaje Trípode con 360°Rótula de Bola Panorámica para Nikon Canon Sony Samsung Olympus Panasonic'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X22V2FL/?tag=tolees-21'
 descuento: '37.50'
 average: '49.99'

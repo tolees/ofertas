@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Valencia F.C. - Pulsera Valencia Club De Fútbol Fashion Negra Junior para Mujer Y Niño'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DRK1M3H/?tag=tolees-21'
 descuento: '66.64'
 average: '5.0'

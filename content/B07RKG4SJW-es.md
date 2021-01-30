@@ -16,6 +16,7 @@ comparePrice: 6.8 EUR
 prodname: 'MILAN Portatodo Mini Net&Lit Rosa Estuches  20 cm  Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RKG4SJW/?tag=tolees-21'
 descuento: '50.00'
 average: '3.4'

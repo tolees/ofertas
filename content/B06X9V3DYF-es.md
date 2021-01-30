@@ -16,6 +16,7 @@ comparePrice: 50.01 EUR
 prodname: 'Skechers Elite Flex  Zapatillas para Hombre  Azul  Navy/Orange   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06X9V3DYF/?tag=tolees-21'
 descuento: '38.95'
 average: '30.53'

@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'adidas Adi Sock 18 Calcetines  Unisex Adulto  Black/Power Red  46-48'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0779CSNRT/?tag=tolees-21'
 descuento: '34.44'
 average: '8.49'

@@ -16,6 +16,7 @@ comparePrice: 66.99 EUR
 prodname: 'E.INFINITY Aretes de Perlas para Mujer  Plata Esterlina 925 AAA Joya de Pendiente de Perla Cultivada de Agua Dulce Colgante  Silver Entre 8 00 y 8 40 mm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QGPF1QC/?tag=tolees-21'
 descuento: '83.59'
 average: '10.99'

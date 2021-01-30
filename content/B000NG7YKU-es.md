@@ -16,6 +16,7 @@ comparePrice: 190.08 EUR
 prodname: 'Casio Reloj Analógico-Digital para Hombre de Cuarzo con Correa en Resina Sport-Laufuhren CHF-100-2AVER'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000NG7YKU/?tag=tolees-21'
 descuento: '49.49'
 average: '96.0'

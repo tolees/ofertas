@@ -16,6 +16,7 @@ comparePrice: 5.37 EUR
 prodname: 'Jimten Sifón para fregadero  curvo extensible  salida horizontal'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00U1OJ6NW/?tag=tolees-21'
 descuento: '47.11'
 average: '2.84'

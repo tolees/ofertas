@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Decdeal Grifos de Cocina/Baño Extraíbles con 3 Modos de Rociado Grifo Giratorio de 360 ° con Arco Alto de una Sola Manija Mezclador de Agua Fría y Caliente Grifo de Agua  Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZCX3CB3/?tag=tolees-21'
 descuento: '40.01'
 average: '43.32333333333334'

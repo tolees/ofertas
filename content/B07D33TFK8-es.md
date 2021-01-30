@@ -16,6 +16,7 @@ comparePrice: 9.59 EUR
 prodname: 'Sonew 20 Unids Flequillo Pasteles Mágicos Pegamento Cabello Cinta Mágica Fringe Cintas de Pelo Herramienta de Decoraciones'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D33TFK8/?tag=tolees-21'
 descuento: '39.62'
 average: '3.6900000000000004'

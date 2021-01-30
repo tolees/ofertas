@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Fossil Pulsera para Hombre JF03171040'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V8GNSBF/?tag=tolees-21'
 descuento: '70.00'
 average: '20.7'

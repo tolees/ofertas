@@ -16,6 +16,7 @@ comparePrice: 6.9 EUR
 prodname: 'Rimmel London Fresher Skin Base de Maquillaje Tono 101 Classic Ivory - 104 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XPJ32RC/?tag=tolees-21'
 descuento: '61.01'
 average: '2.69'

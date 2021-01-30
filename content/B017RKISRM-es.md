@@ -16,6 +16,7 @@ comparePrice: 1263.71 EUR
 prodname: 'KS Tools 714.0241 Composición de 241 herramientas 4 cajones para carro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017RKISRM/?tag=tolees-21'
 descuento: '29.41'
 average: '892.01'

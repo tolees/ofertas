@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Skechers Arch FIT  Zapatillas para Hombre  Negro Negro Negro Textil Borde Sintético BBK  41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VFJRRW9/?tag=tolees-21'
 descuento: '51.56'
 average: '40.325'

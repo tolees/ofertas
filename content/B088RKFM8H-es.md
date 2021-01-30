@@ -16,6 +16,7 @@ comparePrice: 24.0 EUR
 prodname: 'Dispensador Automático de Jabón o hidroalcoholico  Sensor de Movimiento por Infrarrojos  Base Impermeable  Interruptor Ajustable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088RKFM8H/?tag=tolees-21'
 descuento: '37.50'
 average: '15.0'

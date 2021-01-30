@@ -16,6 +16,7 @@ comparePrice: 99 EUR
 prodname: 'Sennheiser CX 6.00BT - Auriculares inalámbricos intraurales  color negro y azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077Y3GCD4/?tag=tolees-21'
 descuento: '30.85'
 average: '68.46'

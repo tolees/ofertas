@@ -16,6 +16,7 @@ comparePrice: 58.0 EUR
 prodname: 'ASUS DSL-AC51 - Módem Router ADSL/VDSL AC750 Dual Band  2 Puertos Gigabit  Control Parental  ASUS Router App '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077BSHVCB/?tag=tolees-21'
 descuento: '38.88'
 average: '41.3325'

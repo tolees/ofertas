@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'PUMA St Runner V2 NL  Zapatillas Unisex Adulto  Rosa  Rosewater White/Gray Violet   47 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S8PWT1T/?tag=tolees-21'
 descuento: '50.12'
 average: '27.41'

@@ -16,6 +16,7 @@ comparePrice: 499.0 EUR
 prodname: 'HKC AT24A-DE All-in-One-PC 24 Pulgadas Full HD - 4 GB RAM  64 GB SSD  Intel® Apollo Lake N3350 Dual-Core 1.1GHz  Intel® HD Graphics 500  Windows 10 Home  WiFi  Bluetooth  USB  HDMI'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RS2NW58/?tag=tolees-21'
 descuento: '35.87'
 average: '319.99'

@@ -16,6 +16,7 @@ comparePrice: 4.5 EUR
 prodname: 'LLaveros Llaves Diseño Cruz 6 Agujeros Clave Transversal Servicio Utilidad Tren Ascensor Armario Eléctrico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GNJPSQC/?tag=tolees-21'
 descuento: '35.78'
 average: '2.6925000000000003'

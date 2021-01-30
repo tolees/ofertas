@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'San Ignacio Q3519 Cuchillo chuletero 11 cm con Mango de Puntos colección Yeste  Acero Inoxidable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087DMWY18/?tag=tolees-21'
 descuento: '25.02'
 average: '11.99'

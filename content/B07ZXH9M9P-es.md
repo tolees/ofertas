@@ -16,6 +16,7 @@ comparePrice: 33.98 EUR
 prodname: 'Weekend Peninsula 5 Pares Calcetines Running Deportivos Hombres Mujer  Calcetines Cortos Tobilleros Hombre Mujer Invisibles Bajos Antiampollas  EU 43-46  5X #Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZXH9M9P/?tag=tolees-21'
 descuento: '52.97'
 average: '15.98'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Ibergrif M11050 Roma  Grifo Baño Clásico  Mezclador Monomando para Lavabo  Cromo  Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081HDNDNR/?tag=tolees-21'
 descuento: '27.78'
 average: '21.66'

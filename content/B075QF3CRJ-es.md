@@ -16,6 +16,7 @@ comparePrice: 14.0 EUR
 prodname: 'iiniim S-XL Hombre Suspensorio Atlético Defensor Atractivo Bragas Ropa Interior Calzoncillos para Los Hombres Blanco M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075QF3CRJ/?tag=tolees-21'
 descuento: '46.50'
 average: '7.49'

@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Merrell Waterpro Maipo 2  Zapatillas Impermeables para Mujer  Negro  Black   38.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DYQ21ZR/?tag=tolees-21'
 descuento: '34.01'
 average: '65.99'

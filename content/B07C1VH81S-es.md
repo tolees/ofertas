@@ -16,6 +16,7 @@ comparePrice: 14.2 EUR
 prodname: 'Plameca - Plan 21 Garcinia Activ 60 Cápsulas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C1VH81S/?tag=tolees-21'
 descuento: '27.68'
 average: '10.27'

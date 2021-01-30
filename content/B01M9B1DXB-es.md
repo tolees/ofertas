@@ -16,6 +16,7 @@ comparePrice: 13.39 EUR
 prodname: 'Gel separador y corrector de los dedos de los pies para bailarines  yogis y atletas  tratamiento para juanetes  martillo y Hallux Valgus'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M9B1DXB/?tag=tolees-21'
 descuento: '47.05'
 average: '10.24'

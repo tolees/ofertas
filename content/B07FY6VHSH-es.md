@@ -16,6 +16,7 @@ comparePrice: 34.9 EUR
 prodname: 'Champion The Curvy Sujetador Deportivo   Blanc/Noir 8ml   X-Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FY6VHSH/?tag=tolees-21'
 descuento: '58.88'
 average: '15.785'

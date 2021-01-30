@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'YWCKING Macbook Pro 85W Cargador  MagSafe 2 Cargador Compatible con MacBook Pro 13"y 15" 17"Pulgadas 2012 2013 2014 2015  Funciona con 85W y 60W y 45W'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CXSRK6L/?tag=tolees-21'
 descuento: '61.44'
 average: '26.99'

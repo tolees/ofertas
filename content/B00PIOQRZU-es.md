@@ -16,6 +16,7 @@ comparePrice: 10.7 EUR
 prodname: 'abril et nature bain shampoo Color 250 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PIOQRZU/?tag=tolees-21'
 descuento: '42.06'
 average: '6.2'

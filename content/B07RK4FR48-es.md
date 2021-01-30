@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Nike Pico 5  PSV   Zapatillas de Tenis Unisex Niños  Blanco  White/White/Pure Platinum 100   32 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RK4FR48/?tag=tolees-21'
 descuento: '63.30'
 average: '17.51'

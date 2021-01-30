@@ -16,6 +16,7 @@ comparePrice: 4.19 EUR
 prodname: 'Eminent EM3563 - Auriculares de Diadema Abiertos  con Micrófono   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002V91TYO/?tag=tolees-21'
 descuento: '46.30'
 average: '2.25'

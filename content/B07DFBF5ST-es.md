@@ -16,6 +16,7 @@ comparePrice: 16.5 EUR
 prodname: 'Funko Vynl Star Wars Darth Vader+Stormtrooper'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFBF5ST/?tag=tolees-21'
 descuento: '38.91'
 average: '13.493333333333334'

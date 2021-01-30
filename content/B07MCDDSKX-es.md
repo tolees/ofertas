@@ -16,6 +16,7 @@ comparePrice: 169.95 EUR
 prodname: 'GANT Johanna  Botas Chelsea para Mujer  Negro  Black G00   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MCDDSKX/?tag=tolees-21'
 descuento: '43.10'
 average: '90.6'

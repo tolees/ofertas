@@ -16,6 +16,7 @@ comparePrice: 3.85 EUR
 prodname: 'L Óreal Paris Elvive Nutri Gloss  Champú - 370ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LNOPGF0/?tag=tolees-21'
 descuento: '29.87'
 average: '2.7'

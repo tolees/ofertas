@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Garnier Skin Active - BB Cream Clásica  Crema Hidratante Todo en 1 para Pieles Normales  SPF15 con Vitamina C  Tono Medio  50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007OWXTCI/?tag=tolees-21'
 descuento: '38.19'
 average: '7.231666666666667'

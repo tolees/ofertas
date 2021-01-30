@@ -16,6 +16,7 @@ comparePrice: 26.03 EUR
 prodname: 'Coronas Perforadoras  Meterk 17 PCS Sierras Perforadoras  13 Discos: 19 mm-152 mm  Perforar en Madera  PVC Y Plástico Ideal para Taladro Batería  Taladro Percutor etc.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LF7PCSX/?tag=tolees-21'
 descuento: '38.57'
 average: '15.99'

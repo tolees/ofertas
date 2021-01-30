@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Edge Entertainment- Bomb Squad - Español  Color  EETMBS01 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H3ZXLYL/?tag=tolees-21'
 descuento: '44.73'
 average: '22.665'

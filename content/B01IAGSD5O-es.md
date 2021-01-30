@@ -16,6 +16,7 @@ comparePrice: 93.59 EUR
 prodname: 'Crucial MX300 CT275MX300SSD1 - Disco Duro sólido Interno SSD de 275 GB  3D NAND  SATA  2.5 Pulgadas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IAGSD5O/?tag=tolees-21'
 descuento: '32.63'
 average: '63.05'

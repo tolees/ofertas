@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'wirarpa Bragas Mujer Algodón de Cintura Alta Ropa Interior Pack de 5 Talla 48 50'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RP7KCPB/?tag=tolees-21'
 descuento: '30.56'
 average: '23.656666666666666'

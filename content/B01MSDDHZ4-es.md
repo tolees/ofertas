@@ -16,6 +16,7 @@ comparePrice: 219.0 EUR
 prodname: 'Licuadora para Frutas y Verduras de Prensado en Frío  Extractor de Jugos  Multifunciones  Boquilla Extra Grande  1 Litro  60 RPM  400 W  Libre de BPA  Acero Inoxidable  Gris. H.Koenig_GSX22'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MSDDHZ4/?tag=tolees-21'
 descuento: '54.34'
 average: '99.99'

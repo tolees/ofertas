@@ -16,6 +16,7 @@ comparePrice: 165.0 EUR
 prodname: 'CAMPER  Pelotas XL  Herren Sneakers  Schwarz  Black   45 EU  11 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0044DXVCI/?tag=tolees-21'
 descuento: '40.00'
 average: '86.625'

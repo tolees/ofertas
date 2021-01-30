@@ -16,6 +16,7 @@ comparePrice: 6.87 EUR
 prodname: 'Beter - Pinzas con punta roma recta - 10.4 cm - 1 unidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00U8QYRUU/?tag=tolees-21'
 descuento: '31.30'
 average: '4.993333333333333'

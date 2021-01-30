@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: '14 Piezas Perilla Estrella Negro M9 Tornillo Perilla de baquelita Apriete Rosca hembra Perilla Cabeza de estrella Rosca macho Rosca de repuesto Perilla moleteada Pestillo para máquinas herramientas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085G7FCY1/?tag=tolees-21'
 descuento: '50.85'
 average: '11.79'

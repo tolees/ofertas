@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Set M Playlife de caza AMG 500 con figura y accesorios  Dickie 3834002 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BJ1PMJQ/?tag=tolees-21'
 descuento: '39.88'
 average: '15.0'

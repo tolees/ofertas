@@ -16,6 +16,7 @@ comparePrice: 20.28 EUR
 prodname: 'Suhctup Transparente Funda Compatible con Xiaomi Redmi S2/Y2 Carcasa Protectora de TPU Ultradelgada Flor y Calavera Diseño Anti-Choques Resistente Case Cover para Xiaomi Redmi S2/Y2 10 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0868N8RPL/?tag=tolees-21'
 descuento: '60.65'
 average: '7.98'

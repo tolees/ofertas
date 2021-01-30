@@ -16,6 +16,7 @@ comparePrice: 43.33 EUR
 prodname: 'LEDKIA LIGHTING Lámpara de Mesa Dayad Blanco Mate'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CZSR3FM/?tag=tolees-21'
 descuento: '38.84'
 average: '26.5'

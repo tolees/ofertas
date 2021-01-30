@@ -16,6 +16,7 @@ comparePrice: 23.0 EUR
 prodname: 'Under Armour Men s Heathered Blitzing 3.0 Gorra  Hombre  Gris  035   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0719JW2BK/?tag=tolees-21'
 descuento: '47.87'
 average: '15.017777777777779'

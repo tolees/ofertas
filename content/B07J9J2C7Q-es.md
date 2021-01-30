@@ -16,6 +16,7 @@ comparePrice: 919.9 EUR
 prodname: 'MSI GeForce RTX 2080 SEA HAWK EK X - Tarjeta gráfica Enthusiast  8 GB GDDR6  256-bit  Multi-GPU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J9J2C7Q/?tag=tolees-21'
 descuento: '55.00'
 average: '735.598'

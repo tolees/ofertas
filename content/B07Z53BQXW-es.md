@@ -16,6 +16,7 @@ comparePrice: 37.73 EUR
 prodname: 'Ropa de cama impresa  microfibra suave y transpirable Ropa de cama impresa Funda de edredón Funda de almohada Funda nórdica  patrón de plumas  paquete King: pillowcase 51*92*2 quilt cover 264*228 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z53BQXW/?tag=tolees-21'
 descuento: '58.15'
 average: '15.79'

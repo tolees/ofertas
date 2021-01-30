@@ -16,6 +16,7 @@ comparePrice: 39.46 EUR
 prodname: 'Purina Gourmet Perle Delicias en Salsa comida para gato con Salmon y Atun 12 x [4 x 85 g]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B97DVVP/?tag=tolees-21'
 descuento: '44.30'
 average: '21.316666666666666'

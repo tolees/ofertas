@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Gioseppo 56898  Zapatillas para Mujer  Plateado Plomo  41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZPDRT3/?tag=tolees-21'
 descuento: '32.26'
 average: '44.0'

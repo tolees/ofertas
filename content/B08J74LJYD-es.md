@@ -16,6 +16,7 @@ comparePrice: 4.93 EUR
 prodname: 'DEtasyXworld Bolsa para portátil de 13 Pulgadas Bolsa Repelente de protección a Prueba de Golpes Bolsa para computadora portátil y Tableta Funda para Macbook-Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08J74LJYD/?tag=tolees-21'
 descuento: '33.47'
 average: '3.28'

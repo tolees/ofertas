@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Magic Wand Massager James love Masajeador Eléctrica Recargable Con 20 patrones de vibración y 8 velocidades - Carga por USB  Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q2PPP83/?tag=tolees-21'
 descuento: '33.26'
 average: '25.69'

@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Gant Preptown  Zapatillas para Mujer  Rosa  Blossom Pink G583   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TYQN5TV/?tag=tolees-21'
 descuento: '46.14'
 average: '32.29'

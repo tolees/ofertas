@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'DoGeek Zapato Seguridad Calzado Seguridad Hombre con Punta de Acero  Antideslizante Transpirables  Unisex  Azul  37'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085NV4VM8/?tag=tolees-21'
 descuento: '34.79'
 average: '29.99'

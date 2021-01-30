@@ -16,6 +16,7 @@ comparePrice: 179.95 EUR
 prodname: 'adidas Ultraboost 19 W  Zapatillas de Running para Mujer  Blanco  FTWR White/FTWR White/Real Blue FTWR White/FTWR White/Real Blue   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RHQ2TQH/?tag=tolees-21'
 descuento: '39.71'
 average: '108.49'

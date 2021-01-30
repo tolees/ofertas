@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Clinique 18441 - Loción anti-imperfecciones'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000WZAL5M/?tag=tolees-21'
 descuento: '34.82'
 average: '18.25'

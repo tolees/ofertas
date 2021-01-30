@@ -16,6 +16,7 @@ comparePrice: 54.0 EUR
 prodname: 'Skechers On-The-go 600-Foxy  Sandalia con Pulsera para Mujer  Gris  Grey Gry   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075Y3Y1KF/?tag=tolees-21'
 descuento: '38.89'
 average: '29.975'

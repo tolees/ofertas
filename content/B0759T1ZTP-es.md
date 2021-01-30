@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'TUXWANG Bol de Acero Inoxidable Ensaladera de Acero Inoxidable Acero Inoxidable Bol Set 5in1 de Acero Inoxidable con Tapa y Medidas graduadas  apilable para un Almacenamiento mínimo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0759T1ZTP/?tag=tolees-21'
 descuento: '25.01'
 average: '32.24'

@@ -16,6 +16,7 @@ comparePrice: 87.7 EUR
 prodname: 'HP 940 - Cabezal de impresión Original HP 940 Magenta y Cian para HP OfficeJet Pro 8000  8500 series  8500A  8500A Plus'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001OBTA2S/?tag=tolees-21'
 descuento: '25.90'
 average: '64.99'

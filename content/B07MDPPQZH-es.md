@@ -16,6 +16,7 @@ comparePrice: 36.0 EUR
 prodname: 'Alcachofa de ducha alta presión  Super bajo consumo de agua Niquel pulido  latón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MDPPQZH/?tag=tolees-21'
 descuento: '36.69'
 average: '22.79'

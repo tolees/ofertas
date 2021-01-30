@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'SKY LIGHT Cacerola Aluminio 24cm / 5.2L con Tapa de Vidrio  Embalaje Caja de Regalo  sin PFOA  Todas Las Luces Incluyendo inducción  aptas para lavavajillas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VP48NGB/?tag=tolees-21'
 descuento: '52.23'
 average: '42.99'

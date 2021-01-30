@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'The Indian Face Windsurf Gorra Born to Windsurf Hombre y Mujer  Color Azul y Blanca'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q3GBHPD/?tag=tolees-21'
 descuento: '70.00'
 average: '12.0'

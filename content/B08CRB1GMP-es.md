@@ -16,6 +16,7 @@ comparePrice: 2.35 EUR
 prodname: 'Yoga portátil Pilates Mat Bolsa de Nylon Carrier Mesh Center Correa Ajustable Llevar Almacenamiento Tipo de Rodadura Bolsas comprimidas al vacío - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CRB1GMP/?tag=tolees-21'
 descuento: '33.62'
 average: '1.56'

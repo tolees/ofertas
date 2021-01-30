@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Nutribullet NB5-0628-G - Extractor de nutrientes con recetario en español  base motor de alta capacidad  500 W  20.000 rpm  incluye varios accesorios  color verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089KNDBY7/?tag=tolees-21'
 descuento: '39.50'
 average: '48.34'

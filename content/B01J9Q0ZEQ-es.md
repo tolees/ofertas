@@ -16,6 +16,7 @@ comparePrice: 169.0 EUR
 prodname: 'Fujifilm Instax Share SP-2 - Impresora para smartphone  Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01J9Q0ZEQ/?tag=tolees-21'
 descuento: '41.42'
 average: '96.99666666666667'

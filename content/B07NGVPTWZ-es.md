@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'IMC Toys- GOLOSINI S Juguete  Color variado  Talla unica  China 1    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NGVPTWZ/?tag=tolees-21'
 descuento: '62.51'
 average: '9.558'

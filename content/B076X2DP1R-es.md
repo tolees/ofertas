@@ -16,6 +16,7 @@ comparePrice: 179.9 EUR
 prodname: 'H.Koenig Sopera Eléctrica y Licuadora  Máquina para hacer Sopas  Batidos  o Salsas  1.7 Litros  900 W  7 Velocidades  3 Temperaturas  Acero Inoxidable  MXC36  Blanco  Rojo y Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076X2DP1R/?tag=tolees-21'
 descuento: '50.03'
 average: '89.9'

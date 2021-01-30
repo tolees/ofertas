@@ -16,6 +16,7 @@ comparePrice: 22.77 EUR
 prodname: 'memumi Delgado Funda Compatible con iPhone 11 Pro MAX Ultra Slim 0.3mm Carcasa para iPhone 11 Pro MAX Phone Case MAX Pro Funda con Diseño Minimalista Anti-Rasguño  Blanco Mate Translúcido '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WSMYYR9/?tag=tolees-21'
 descuento: '43.92'
 average: '12.77'

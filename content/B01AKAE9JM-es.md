@@ -16,6 +16,7 @@ comparePrice: 127.14 EUR
 prodname: 'Kingston DataTraveler 2000 DT2000/32GB - Memoria USB 3.0 de 32 GB cifrada con Teclado  Tipo Llave'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AKAE9JM/?tag=tolees-21'
 descuento: '29.97'
 average: '89.03'

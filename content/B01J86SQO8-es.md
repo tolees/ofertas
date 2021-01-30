@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Everlast Locker - Pantalones cortos de baloncesto para hombre  Todo el año  Hombre  color negro/rojo  tamaño XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01J86SQO8/?tag=tolees-21'
 descuento: '37.52'
 average: '14.99'

@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'New Balance Mrl420  Zapatillas de Running para Hombre  Negro  Black   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072Y7XYZ3/?tag=tolees-21'
 descuento: '68.77'
 average: '38.92'

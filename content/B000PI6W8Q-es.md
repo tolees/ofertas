@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Converse AS Ox Can 1Q112 - Zapatillas de lona unisex  Marron  37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000PI6W8Q/?tag=tolees-21'
 descuento: '48.92'
 average: '33.91625'

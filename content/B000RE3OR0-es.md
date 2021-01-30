@@ -16,6 +16,7 @@ comparePrice: 4.5 EUR
 prodname: 'Brabantia 365164 - Prensapurés  Nylon  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000RE3OR0/?tag=tolees-21'
 descuento: '33.56'
 average: '2.99'

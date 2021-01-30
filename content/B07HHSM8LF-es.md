@@ -16,6 +16,7 @@ comparePrice: 299.99 EUR
 prodname: 'Jump Force - Collector s Edition'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HHSM8LF/?tag=tolees-21'
 descuento: '56.68'
 average: '135.44500000000002'

@@ -16,6 +16,7 @@ comparePrice: 23.74 EUR
 prodname: 'Khanomak de Mujeres de Manga Larga de Punto Abierto Frente Cardigan  Malva  Pequeño '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFN7CBD/?tag=tolees-21'
 descuento: '83.19'
 average: '3.99'

@@ -16,6 +16,7 @@ comparePrice: 799.99 EUR
 prodname: 'Msi Infinite s 8rb-015xes - Ordenador de sobremesa  Intel Core i5-8400  8 GB de ram  HDD de 1 TB  nvidia geforce GTX 1050ti  sin Sistema operativo  Negro.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PQQP89M/?tag=tolees-21'
 descuento: '25.00'
 average: '599.99'

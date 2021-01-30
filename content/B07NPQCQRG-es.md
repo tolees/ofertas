@@ -16,6 +16,7 @@ comparePrice: 16.35 EUR
 prodname: 'Outgeek Luz De Cadena  20 Luces de Bombillas LED luz de luz en Forma de Pollito Inicio Cadena de luz para Día de la Madre la Boda Fiesta de Cumpleaños Decoración'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NPQCQRG/?tag=tolees-21'
 descuento: '32.78'
 average: '10.99'

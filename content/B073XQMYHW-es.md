@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'FIRENZE ARTEGIANI.Cartera de Mujer Piel auténtica.Cartera Piel bovino con Pelo Natural de Potro Animal Print Leopardo Made IN Italy. Vera Pelle Italiana. 19x10x2 cm. Color: Leopardo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073XQMYHW/?tag=tolees-21'
 descuento: '78.59'
 average: '15.05'

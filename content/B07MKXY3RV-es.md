@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Automático Dispensador de Pasta de Dientes y Conjunto de Portacepillos de Dientes con Montaje en la Pared - Manos Libres 2 Exprimidores de Pasta de Dientes - Apto para Niños y Adultos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MKXY3RV/?tag=tolees-21'
 descuento: '57.54'
 average: '16.98'

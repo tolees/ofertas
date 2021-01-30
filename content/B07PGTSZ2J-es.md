@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Lenovo D24f - Monitor de 23.6"  Pantalla Full HD  1920 x 1080 pixeles  tiempo de respuesta de 3ms   Color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PGTSZ2J/?tag=tolees-21'
 descuento: '40.00'
 average: '135.02499999999998'

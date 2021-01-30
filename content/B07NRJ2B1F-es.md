@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'HANMUN Kid Electronic Musical Microphone Toys Toddler Karaoke Voice Change Toy con grabación'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NRJ2B1F/?tag=tolees-21'
 descuento: '43.35'
 average: '16.99'

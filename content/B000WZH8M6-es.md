@@ -16,6 +16,7 @@ comparePrice: 22.5 EUR
 prodname: 'Clinique -Mild With Dish Jabón Facial  100 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000WZH8M6/?tag=tolees-21'
 descuento: '38.89'
 average: '14.483333333333333'

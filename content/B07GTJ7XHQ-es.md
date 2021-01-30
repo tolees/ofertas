@@ -16,6 +16,7 @@ comparePrice: 20.18 EUR
 prodname: 'Ferilinso Protector de Lente de cámara para Huawei Mate 20 Pro/Huawei Mate 20 X  [4 Pack] Película de protección de Vidrio Templado sin Burbujas（Claro）'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GTJ7XHQ/?tag=tolees-21'
 descuento: '60.46'
 average: '7.98'

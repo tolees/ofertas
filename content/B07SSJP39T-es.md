@@ -16,6 +16,7 @@ comparePrice: 139.95 EUR
 prodname: 'adidas Terrex Agravic Flow W  Zapatillas de Cross para Mujer  Gris  Ash Grey S18/Core Black/Glow Green Ash Grey S18/Core Black/Glow Green   44 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SSJP39T/?tag=tolees-21'
 descuento: '72.58'
 average: '38.37'

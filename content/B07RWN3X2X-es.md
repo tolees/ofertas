@@ -16,6 +16,7 @@ comparePrice: 105.0 EUR
 prodname: 'American Tourister Matchup Equipaje de Mano  55 centimetros  42 l  Azul  City Map Blue '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RWN3X2X/?tag=tolees-21'
 descuento: '43.81'
 average: '59.0'

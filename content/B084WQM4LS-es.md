@@ -16,6 +16,7 @@ comparePrice: 23.73 EUR
 prodname: 'LFDZ XIDU PhilPad XT133A Funda Soporte Cuero con Slim PU Funda Caso Case para XIDU PhilPad XT133A 13.3" Windows Tablet Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084WQM4LS/?tag=tolees-21'
 descuento: '32.62'
 average: '15.99'

@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Beurer EM28 Electroestimulador para Muñeca Antebrazo Tens  Negro  Electroestimulador con Clip  2 Electrodos por Contacto Agua'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H7TDWHJ/?tag=tolees-21'
 descuento: '39.90'
 average: '32.49'

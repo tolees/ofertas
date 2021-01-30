@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Adidas Falcon W  Sneaker Womens  Footwear White/Footwear White/Crystal White  41 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GXLPMTN/?tag=tolees-21'
 descuento: '30.42'
 average: '69.55'

@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Buff R-Jayla Cinta de Cabeza Fastwick  Mujer  Rose Pink  Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KGPJRQD/?tag=tolees-21'
 descuento: '25.02'
 average: '11.21'

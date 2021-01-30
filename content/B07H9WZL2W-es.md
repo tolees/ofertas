@@ -16,6 +16,7 @@ comparePrice: 36.03 EUR
 prodname: 'Wimypet Refuerzo de Coche para Perros  Fundas de Asiento de Perro a Prueba de Agua Manta de Auto para Mascotas con Cinturón de Seguridad para Perro 68 x 57 x 33 CM '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H9WZL2W/?tag=tolees-21'
 descuento: '41.74'
 average: '20.32333333333333'

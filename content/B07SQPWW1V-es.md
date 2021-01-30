@@ -16,6 +16,7 @@ comparePrice: 33.99 EUR
 prodname: 'lenbest Mesa Coche para Niños  Mesa para Niños en la Asiento de Coche  Tablero Impermeable del Coche - 40x32 cm  Bandeja para Coche  Cochecito  Avión  Juego de Papel de Dibujo Educativo Extra '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SQPWW1V/?tag=tolees-21'
 descuento: '32.36'
 average: '25.49'

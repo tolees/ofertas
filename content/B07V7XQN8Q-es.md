@@ -16,6 +16,7 @@ comparePrice: 94.9 EUR
 prodname: 'Tommy Hilfiger Causal Tommy Jeans Sneaker  Zapatillas para Hombre  Negro  Black Bds   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V7XQN8Q/?tag=tolees-21'
 descuento: '62.46'
 average: '35.63'

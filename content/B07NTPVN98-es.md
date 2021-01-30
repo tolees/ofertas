@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Sally Hansen Airbrush Legs Maquillaje para piernas Loción Tono 002 Claro - 118 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NTPVN98/?tag=tolees-21'
 descuento: '39.80'
 average: '9.33'

@@ -16,6 +16,7 @@ comparePrice: 224.59 EUR
 prodname: 'OCDAY 2 DIN Radio Coche con Navegación 7 Pulgadas 2 DIN Radio Win CE Sistema Mapa de 8GB Gratis  Mirror Link USB/TF / FM/Am / RDS Radio/Aux in/Control de Volante/Cámara de Marcha atrás de Apoyo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H3SZSZY/?tag=tolees-21'
 descuento: '55.48'
 average: '99.99'

@@ -16,6 +16,7 @@ comparePrice: 15.0 EUR
 prodname: 'HUAWEI Smart View Flip Case 16 2 cm  6.39"  Folio Negro - Fundas para teléfonos móviles  Folio  Mate 20 Pro  16 2 cm  6.39"   Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HWK9GJ1/?tag=tolees-21'
 descuento: '33.33'
 average: '10.9'

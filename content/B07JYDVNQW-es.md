@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Tommy Jeans Mujer LOW RISE SKINNY SOPHIE FRSBK Straight Jeans  Negro  Fresno Bk Str 911   W32/L32'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JYDVNQW/?tag=tolees-21'
 descuento: '45.79'
 average: '56.239999999999995'

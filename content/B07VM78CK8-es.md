@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Verdadero Auricular inalámbrico Bluetooth Auriculares estéreo TWS-I7 Micrófono Incorporado con Llamadas estéreo  emparejamiento automático en un Solo Paso  3 Horas de reproducción'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VM78CK8/?tag=tolees-21'
 descuento: '60.52'
 average: '15.79'

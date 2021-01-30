@@ -16,6 +16,7 @@ comparePrice: 83.8 EUR
 prodname: 'SIMBR General - 30 unidades KN-95 N-95 FFP2 PM2.5 respirable boca elástica suave protección ma-Sk salud protegida contra polvo Ffp2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086GRZFX8/?tag=tolees-21'
 descuento: '31.98'
 average: '57.0'

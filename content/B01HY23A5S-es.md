@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee Rider Tonal Jeans  Noir  Black Rinse 47   31W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HY23A5S/?tag=tolees-21'
 descuento: '51.31'
 average: '45.620000000000005'

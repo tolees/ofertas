@@ -16,6 +16,7 @@ comparePrice: 43.99 EUR
 prodname: 'Remington Keratin Protect CI83V6  Rizador Barril de 19 - 28 mm  Cerámica Avanzada con Queratina y Aceite de Almendras  Hasta 210º C  Pantalla Digital'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073ZDGXJB/?tag=tolees-21'
 descuento: '38.62'
 average: '32.660000000000004'

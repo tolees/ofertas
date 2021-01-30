@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'J.Endéar Pulsera Forma de Inicial A  Plata de Ley 925 Circonita Cúbica Pulseras Iniciales  Regalo de Amistad 24cm Trenzado Hecho a Mano Ajustable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V6WB9KB/?tag=tolees-21'
 descuento: '70.02'
 average: '14.99'

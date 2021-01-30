@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Superga 2750 COTU Classic  Zapatillas de Gimnasia Unisexo  Verde  Green Aqua   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N41UR0A/?tag=tolees-21'
 descuento: '71.17'
 average: '17.01'

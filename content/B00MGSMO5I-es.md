@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Clips 539-6004-94 - Reloj de Pulsera Hombre  Caucho  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MGSMO5I/?tag=tolees-21'
 descuento: '69.43'
 average: '14.4'

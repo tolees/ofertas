@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'Philips S5630/45 - Afeitadora electrica  uso en seco y en humedo  60 min bateria  recortador precision  nariz  turbo+'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WGZPG2Q/?tag=tolees-21'
 descuento: '29.99'
 average: '84.24285714285715'

@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Krups KH442D 2slice s  720W Acero inoxidable - Tostador  2 rebanada s   Acero inoxidable  720 W '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MIKJ4MU/?tag=tolees-21'
 descuento: '28.85'
 average: '42.68'

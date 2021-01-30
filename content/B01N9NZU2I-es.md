@@ -16,6 +16,7 @@ comparePrice: 76.79 EUR
 prodname: 'Cecotec Aspirador Trineo Conga Turbociclonic. Aspirador sin bolsa  capacidad 3 l 10 fases de filtración  5 ciclones doble filtro HEPA  4 accesorios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N9NZU2I/?tag=tolees-21'
 descuento: '41.27'
 average: '42.196'

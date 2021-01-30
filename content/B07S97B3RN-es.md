@@ -16,6 +16,7 @@ comparePrice: 29.25 EUR
 prodname: 'adidas Lock Up tee T-Shirt  Mujer  Scarlet  36'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S97B3RN/?tag=tolees-21'
 descuento: '48.82'
 average: '14.97'

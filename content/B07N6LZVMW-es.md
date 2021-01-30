@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Tommy Hilfiger Tommy Fun Square Bufanda   Multi 0hi   Talla única  Talla del fabricante: OS  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N6LZVMW/?tag=tolees-21'
 descuento: '54.89'
 average: '22.525'

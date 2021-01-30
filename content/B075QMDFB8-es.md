@@ -16,6 +16,7 @@ comparePrice: 567.49 EUR
 prodname: 'Grohe Rainshower 310 SmartActive CUBE - Juego de alcachofa con dos tipos de chorro. Cabeza de ducha de 310 mm  montaje en pared  brazo de ducha de 400 mm  26479000 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075QMDFB8/?tag=tolees-21'
 descuento: '33.02'
 average: '380.12'

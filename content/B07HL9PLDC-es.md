@@ -16,6 +16,7 @@ comparePrice: 54.89 EUR
 prodname: 'READ Reloj para Hombre  Reloj de Cuarzo  Marca de fábrica Superior  Relojes de Pulsera ultrafinos  Gold-Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HL9PLDC/?tag=tolees-21'
 descuento: '65.60'
 average: '18.88'

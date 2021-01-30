@@ -16,6 +16,7 @@ comparePrice: 47.37 EUR
 prodname: 'Naturalia Somier Dreams  Tubo de Acero y láminas de chopo  105 X 180 Cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NCRDTCS/?tag=tolees-21'
 descuento: '27.32'
 average: '34.815'

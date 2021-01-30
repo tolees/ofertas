@@ -16,6 +16,7 @@ comparePrice: 219.99 EUR
 prodname: 'MiMiya Inoxidable Completo 6 Pisos Deshidratador de Alimentos  con Temporizador  Pantalla LCD  Temperatura Regulable Deshidratador de Frutas  Vegetales  Carne y Hierbas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QXNLQTC/?tag=tolees-21'
 descuento: '31.82'
 average: '159.99'

@@ -16,6 +16,7 @@ comparePrice: 16.8 EUR
 prodname: 'Finocam - Agenda 2020 1 día página Espiral Futura Gris Oscuro español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TGX39F8/?tag=tolees-21'
 descuento: '30.06'
 average: '11.75'

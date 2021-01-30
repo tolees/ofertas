@@ -16,6 +16,7 @@ comparePrice: 45.95 EUR
 prodname: 'seQoya - Colorado | Reloj de Madera con Esfera de Madera y Correa de Piel ecológica simulando Madera Estampada | Reloj Hombre y Mujer | Diseño único y Original'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BVY4XM1/?tag=tolees-21'
 descuento: '78.35'
 average: '16.700000000000003'

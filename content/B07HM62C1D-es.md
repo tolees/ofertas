@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Easton Marlowe 6 PR Calcetines Estampados Hombre Argyle - 6pk #2-10  argyle - azul  39-42 EU shoe size'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HM62C1D/?tag=tolees-21'
 descuento: '76.69'
 average: '14.79'

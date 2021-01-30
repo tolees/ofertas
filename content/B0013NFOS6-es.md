@@ -16,6 +16,7 @@ comparePrice: 4.55 EUR
 prodname: 'NUK First Choice+ - Pack de 2 tetinas de látex  talla M  0-6 meses'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0013NFOS6/?tag=tolees-21'
 descuento: '28.57'
 average: '4.609999999999999'

@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'MaxHold Sistema de vacío -Soportes de Pared para portarrollos de Cocina - Portarrollos de Papel de Cocina- Acero Inoxidable - sin taladrar-Almacenamiento de Cocina y baño'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017U23WEG/?tag=tolees-21'
 descuento: '46.17'
 average: '13.99'

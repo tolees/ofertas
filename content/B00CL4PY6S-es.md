@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Atosa - Disfraz de payaso para mujer  talla 34  15670 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CL4PY6S/?tag=tolees-21'
 descuento: '50.75'
 average: '9.8'

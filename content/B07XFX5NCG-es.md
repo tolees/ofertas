@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'PUMA ESS+ Drapy Pants Chándal  Mujer  Black  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XFX5NCG/?tag=tolees-21'
 descuento: '33.12'
 average: '26.72'

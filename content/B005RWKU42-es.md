@@ -16,6 +16,7 @@ comparePrice: 43.05 EUR
 prodname: 'Eurohike Bbq plegable que acampa que cocina comiendo parrillas del Bbq un color  Plata  Talla Ãšnica'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005RWKU42/?tag=tolees-21'
 descuento: '40.77'
 average: '25.5'

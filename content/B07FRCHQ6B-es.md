@@ -16,6 +16,7 @@ comparePrice: 55.99 EUR
 prodname: 'HOMIEE Bolsa para Portátil  Maletín Portátil 15 Pulgadas，Bolso Bandolera  Maletín para Portátli de 15 6 Pulgadas  Multifuncional Portátil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FRCHQ6B/?tag=tolees-21'
 descuento: '50.01'
 average: '27.99'

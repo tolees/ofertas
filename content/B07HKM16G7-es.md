@@ -16,6 +16,7 @@ comparePrice: 66.42 EUR
 prodname: 'Under Armour UA W Charged Rogue  Zapatillas de Running para Mujer  Gris  Downpour Gray/Coral Dust/Coral Dust  401  401   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HKM16G7/?tag=tolees-21'
 descuento: '39.85'
 average: '39.95'

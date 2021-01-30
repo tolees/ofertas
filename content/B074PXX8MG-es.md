@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'Hugo BOSS Reloj Multiesfera para Hombre de Cuarzo con Correa en Cuero 1513515'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074PXX8MG/?tag=tolees-21'
 descuento: '30.00'
 average: '174.3'

@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Brabantia NewIcon Cubo de basura de pedal  Acero Inoxidable  Mineral Infinite Grey  12 litros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y2YHWKQ/?tag=tolees-21'
 descuento: '29.35'
 average: '48.75'

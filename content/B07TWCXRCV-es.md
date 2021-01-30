@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Fertuo Funda para Xiaomi Redmi 7A  Carcasa Libro con Tapa de Cuero Piel con Ranuras de Tarjeta  Soporte  Cierre Magnético [Dibujos de Mandala] Flip Cover Case para Xiaomi Redmi 7A  Oro Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TWCXRCV/?tag=tolees-21'
 descuento: '33.37'
 average: '5.99'

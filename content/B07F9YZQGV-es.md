@@ -16,6 +16,7 @@ comparePrice: 67.21 EUR
 prodname: 'LEDMO tira led 12v 600leds 3000K blanco cálido SMD2835 5M tiras led IP65 impermeable led strip 15LM/LED cinta led ancho 8mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F9YZQGV/?tag=tolees-21'
 descuento: '80.67'
 average: '12.99'

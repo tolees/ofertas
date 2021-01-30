@@ -16,6 +16,7 @@ comparePrice: 16.4 EUR
 prodname: 'Té de hierbas chino Flor Fruta Té Rosa Té Conservado Seda Dorada Crisantemo Embotellado Nuevo Perfumado Té Cuidado de la salud Flores Té Comida verde saludable ...  75g de té Kuding '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TXSV2KY/?tag=tolees-21'
 descuento: '50.00'
 average: '8.2'

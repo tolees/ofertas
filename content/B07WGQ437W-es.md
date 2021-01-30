@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Desigual Foul Galaxy Bufanda  Rojo  Red Ocre 3069   Talla Única  talla del fabricante: U  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WGQ437W/?tag=tolees-21'
 descuento: '50.08'
 average: '14.95'

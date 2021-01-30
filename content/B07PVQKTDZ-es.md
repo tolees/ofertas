@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'Under Armour UA HOVR Sonic 3  Zapatillas Ligeras para Correr  de Alto Rendimiento para Hombre  Negro  Black/White/Jet Gray   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PVQKTDZ/?tag=tolees-21'
 descuento: '54.66'
 average: '54.39'

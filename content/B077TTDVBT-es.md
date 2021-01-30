@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Reebok Work N Cushion 3.0  Zapatillas para Mujer  Negro  Black 0   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077TTDVBT/?tag=tolees-21'
 descuento: '40.00'
 average: '27.575'

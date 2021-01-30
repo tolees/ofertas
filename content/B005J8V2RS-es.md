@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Levi s Free  Cinturón Unisex adulto  Negro  Black   110 cm  Talla del fabricante: 110 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005J8V2RS/?tag=tolees-21'
 descuento: '32.00'
 average: '23.8'

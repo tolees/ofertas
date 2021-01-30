@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Pop! Vinilo: Big Bang Theory S2: Stuart'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N5WR2GF/?tag=tolees-21'
 descuento: '37.30'
 average: '9.42'

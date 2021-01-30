@@ -16,6 +16,7 @@ comparePrice: 6.6 EUR
 prodname: 'Wolfcraft 2425000 2425000-1 portabroca con depósito y Tope de Profundidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0002YYVFY/?tag=tolees-21'
 descuento: '47.42'
 average: '3.47'

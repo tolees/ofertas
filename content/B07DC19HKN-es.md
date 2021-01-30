@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'PUMA Cali-0 Zapatillas deportivas de piel Unisex adulto  Negro  Puma Black-Puma Black-Puma White    37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DC19HKN/?tag=tolees-21'
 descuento: '66.54'
 average: '33.44'

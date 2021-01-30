@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'adidas Falcon W  Running Shoe Womens  Footwear White Footwear White Crystal White  42 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GXMTZQJ/?tag=tolees-21'
 descuento: '33.52'
 average: '64.72500000000001'

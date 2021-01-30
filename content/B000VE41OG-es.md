@@ -16,6 +16,7 @@ comparePrice: 90.58 EUR
 prodname: 'Casio WAVE CEPTOR Reloj Radiocontrolado  Negro  para Hombre  con Correa de Resina  WV-59E-1AVEF'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000VE41OG/?tag=tolees-21'
 descuento: '51.42'
 average: '44.074'

@@ -16,6 +16,7 @@ comparePrice: 15.31 EUR
 prodname: 'Cubre escayolas brazo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IS5EKLO/?tag=tolees-21'
 descuento: '43.83'
 average: '8.6'

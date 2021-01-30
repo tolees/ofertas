@@ -16,6 +16,7 @@ comparePrice: 54.14 EUR
 prodname: 'JewelryWe Par de Alianzas de Boda Anillos de Compromiso Originales  Acero de Tungsteno Anillos de Eternidad Raya Dorada Pulidos  Regalo de San Valentín'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00QWH81NS/?tag=tolees-21'
 descuento: '66.77'
 average: '17.99'

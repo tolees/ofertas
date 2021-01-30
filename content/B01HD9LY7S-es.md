@@ -16,6 +16,7 @@ comparePrice: 129 EUR
 prodname: 'Fujifilm Instax Mini 70 - Cámara analógica instantánea  ISO 800  0.37x  60 mm  1:12.7  Flash automático  Modo autorretrato  exposición automática  Temporizador  Modo Macro   Rojo pasión'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HD9LY7S/?tag=tolees-21'
 descuento: '30.28'
 average: '96.94'

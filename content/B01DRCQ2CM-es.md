@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Operación Soldados de Juguete DVD 1991 Toy Soldiers'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DRCQ2CM/?tag=tolees-21'
 descuento: '49.75'
 average: '6.996666666666667'

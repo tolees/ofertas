@@ -16,6 +16,7 @@ comparePrice: 12.0 EUR
 prodname: 'Casio Collection Despetador TQ140  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000NG8ZK8/?tag=tolees-21'
 descuento: '33.33'
 average: '8.0'

@@ -16,6 +16,7 @@ comparePrice: 200.0 EUR
 prodname: 'INTEY Silla Gaming  Silla de Oficina Ergonómica  PU y Ajustables Apoyabrazos  Reposacabezas y Soporte Lumbar  Carga Máx.125kg - Amarillo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G8BJ3L1/?tag=tolees-21'
 descuento: '31.00'
 average: '133.65666666666667'

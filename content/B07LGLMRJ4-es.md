@@ -16,6 +16,7 @@ comparePrice: 1.75 EUR
 prodname: 'Evax Fina y Segura Super/Maxi Compresas Con Alas - 11 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LGLMRJ4/?tag=tolees-21'
 descuento: '42.86'
 average: '1.1183333333333332'

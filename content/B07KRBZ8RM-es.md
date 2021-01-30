@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'PEKITAS Lote 2 Unidades Barrera Protector de Espuma Para Cama Para Bebés Niños Fabricado En España Longitud 100 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KRBZ8RM/?tag=tolees-21'
 descuento: '66.83'
 average: '9.95'

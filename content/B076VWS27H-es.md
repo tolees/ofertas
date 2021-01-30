@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'KHOMO Funda iPad Air 3 10.5  2019  / iPad Pro 10.5  2017  Carcasa Trasera Ultra Delgada y Ligera Compatible con Teclado y Apple Pencil 1 - Piel Marrón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076VWS27H/?tag=tolees-21'
 descuento: '33.67'
 average: '13.26'

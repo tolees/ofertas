@@ -16,6 +16,7 @@ comparePrice: 101.5 EUR
 prodname: 'Chanel Chance Eau Tendre Edp Vapo 50 Ml - 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MFH5W4J/?tag=tolees-21'
 descuento: '25.91'
 average: '75.2'

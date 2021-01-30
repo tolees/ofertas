@@ -16,6 +16,7 @@ comparePrice: 25.69 EUR
 prodname: 'OfficeWorld 502 XL Reemplazo para Epson 502 502XL Cartuchos de tinta Compatiable con Epson Expression Home XP-5100 XP-5105 Workforce WF-2860 WF-2865 1 Negro  1 Cian  1 Magenta  1 Amarillo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082SLX2TY/?tag=tolees-21'
 descuento: '30.56'
 average: '20.665'

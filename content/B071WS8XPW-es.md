@@ -16,6 +16,7 @@ comparePrice: 13.73 EUR
 prodname: 'Prozis Creatine Creapure  Sabor Lemon-Lime - 300 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071WS8XPW/?tag=tolees-21'
 descuento: '29.86'
 average: '9.63'

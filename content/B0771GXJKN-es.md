@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Landove Estampado de animales de manga larga para Bebé-Niñas 0 - 3 Meses bebè'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0771GXJKN/?tag=tolees-21'
 descuento: '80.58'
 average: '6.99'

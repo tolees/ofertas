@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Funko Vinyl: Disney: Dumbo: Pop 1 Fireman Figura de Vinilo  Multicolor  Talla única  34216 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KPS9H5G/?tag=tolees-21'
 descuento: '62.70'
 average: '9.139512195121954'

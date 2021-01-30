@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Zak Storm Playset Maritoga  Bandai 41580 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077PX1N6Z/?tag=tolees-21'
 descuento: '70.94'
 average: '11.62'

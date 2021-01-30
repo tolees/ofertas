@@ -16,6 +16,7 @@ comparePrice: 1.73 EUR
 prodname: 'Multifunción Pulsera Deportiva Podómetro Monitor de Actividad LCD Reloj electrónico Reloj de Pulsera de Silicona Reloj de Salud - Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DKRZGWS/?tag=tolees-21'
 descuento: '33.53'
 average: '1.15'

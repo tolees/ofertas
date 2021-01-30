@@ -16,6 +16,7 @@ comparePrice: 24.9 EUR
 prodname: 'BaByliss Diamond Slim ST325E - Plancha de pelo con placas flotantes  temperatura hasta 230° C  voltaje dual 100/240 V y bloqueo de placas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KSQPZ2Y/?tag=tolees-21'
 descuento: '36.83'
 average: '15.73'

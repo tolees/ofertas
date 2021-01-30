@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Taurus Geyser Eco 3000 Plancha Vapor  W  Suela anodizada ultradesliante  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079XD1G5R/?tag=tolees-21'
 descuento: '28.38'
 average: '45.935'

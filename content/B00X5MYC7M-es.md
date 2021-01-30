@@ -16,6 +16,7 @@ comparePrice: 44.0 EUR
 prodname: 'Desigual Dark Fresh 100ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X5MYC7M/?tag=tolees-21'
 descuento: '68.14'
 average: '13.309285714285714'

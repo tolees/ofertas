@@ -16,6 +16,7 @@ comparePrice: 36.0 EUR
 prodname: 'Akileine NOK - Crema anti rozamientos Anti-rozaduras  para ampollas e irritación - Pack 3 x 75ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VFXDJK4/?tag=tolees-21'
 descuento: '43.39'
 average: '20.38'

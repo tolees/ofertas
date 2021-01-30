@@ -16,6 +16,7 @@ comparePrice: 245 EUR
 prodname: 'Adidas Adipower Light 1.9 Palas  Mujer  Rosa  360'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L8YCH4M/?tag=tolees-21'
 descuento: '51.04'
 average: '130.83333333333334'

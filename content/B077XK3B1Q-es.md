@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Under Armour HG Armour 2.0 Comp Short Pantalónes Cortos  Hombre  Azul  Royal/Academy 401   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077XK3B1Q/?tag=tolees-21'
 descuento: '32.15'
 average: '18.99'

@@ -16,6 +16,7 @@ comparePrice: 5.99 EUR
 prodname: 'OurLeeme Cepillos para uñas  Nail Art Esponja Cepillo Cabeza 6 UNIDS Reutilizable Nail Art UV Gel Blooming Dotting Pintura Cepillo Esponja Cabezas de repuesto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FCK3BDH/?tag=tolees-21'
 descuento: '50.75'
 average: '2.95'

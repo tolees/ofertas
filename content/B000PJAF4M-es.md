@@ -16,6 +16,7 @@ comparePrice: 9.42 EUR
 prodname: 'Draper 90086 - Lote de rollos de cinta aislante  10 m x 19 mm  6 unidades   varios colores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000PJAF4M/?tag=tolees-21'
 descuento: '28.66'
 average: '7.574999999999999'

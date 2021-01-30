@@ -16,6 +16,7 @@ comparePrice: 26.5 EUR
 prodname: 'Lavacabezas hinchable con tubo de drenaje  Blanco  Mobiclinic'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00I4SQ8LA/?tag=tolees-21'
 descuento: '36.26'
 average: '16.89'

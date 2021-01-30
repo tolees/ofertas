@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Reebok REAGO Pulse  Zapatillas de Deporte Interior para Hombre  Multicolor  Crushed Cobalt/Collegiate Navy/Wht/Cold 000   44 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P2HM5MG/?tag=tolees-21'
 descuento: '65.70'
 average: '26.74'

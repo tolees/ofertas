@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'HUGO Abaco  Pantalones cortos Hombre  Negro  Black 001   X-Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NC3Q52Z/?tag=tolees-21'
 descuento: '68.64'
 average: '25.07'

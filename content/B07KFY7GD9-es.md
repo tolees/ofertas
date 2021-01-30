@@ -16,6 +16,7 @@ comparePrice: 34.1 EUR
 prodname: 'PUMA Aeon Play Wn s  Zapatillas para Mujer  Black  37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFY7GD9/?tag=tolees-21'
 descuento: '35.04'
 average: '22.775'

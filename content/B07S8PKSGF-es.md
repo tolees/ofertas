@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'PUMA Zone XT Wns  Zapatillas Deportivas para Interior para Mujer  Rosa  Ignite Pink White 03   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S8PKSGF/?tag=tolees-21'
 descuento: '43.78'
 average: '44.95'

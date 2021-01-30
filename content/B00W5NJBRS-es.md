@@ -16,6 +16,7 @@ comparePrice: 10.49 EUR
 prodname: 'Protefix - Almohadillas Adhesivas para Protesis Dentales'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00W5NJBRS/?tag=tolees-21'
 descuento: '33.75'
 average: '6.95'

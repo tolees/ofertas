@@ -16,6 +16,7 @@ comparePrice: 18.61 EUR
 prodname: '50x Palos de Madera  Cuadrados de Madera para Hacer Bastón de Maletero Manualidades - 60mm 50Pack'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X3YKGMS/?tag=tolees-21'
 descuento: '44.44'
 average: '10.34'

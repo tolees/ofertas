@@ -16,6 +16,7 @@ comparePrice: 9.52 EUR
 prodname: 'Sunburst Snacks Sunburst cacahuetes tostados y salados mar  no transgénica y no aromatizantes  aditivos ni conservantes  500 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00I7P2REM/?tag=tolees-21'
 descuento: '28.78'
 average: '6.78'

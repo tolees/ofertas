@@ -16,6 +16,7 @@ comparePrice: 37.99 EUR
 prodname: 'Tomshine Lámpara de Mesa  Lámpara Mesita de Noche  Madera maciza minimalista y Pantalla de telaperfecto para Dormitorio  Sala de Estar  Cafetería  Habitación de Bebé'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077T1M3DS/?tag=tolees-21'
 descuento: '39.48'
 average: '22.99'

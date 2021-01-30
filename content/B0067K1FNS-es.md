@@ -16,6 +16,7 @@ comparePrice: 5.5 EUR
 prodname: 'Rimmel London Lasting Finish Barra De Labios Tono 128 Starry-Eyed - 18 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0067K1FNS/?tag=tolees-21'
 descuento: '34.55'
 average: '3.6'

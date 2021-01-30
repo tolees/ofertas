@@ -16,6 +16,7 @@ comparePrice: 33.9 EUR
 prodname: 'EMPIRE GAMING Teclado de PC Empire K300 QWERTY– 105 Teclas Semi-mecánicas con 19 Teclas Anti-gosthing 12 accesos directos Multimedia Retroiluminación LED RGB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GXWTGG6/?tag=tolees-21'
 descuento: '47.20'
 average: '17.4'

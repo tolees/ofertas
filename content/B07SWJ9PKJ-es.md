@@ -16,6 +16,7 @@ comparePrice: 98.99 EUR
 prodname: 'Cozime Vigilabebés Inalámbrico  Bebé Monitor Inteligente Pantalla LCD 3.5"  Cámara Vigilancia Bebes Visión Nocturna  Intercomunicador Bidireccional  Monitor de Temperatura  Canciones de Cuna'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SWJ9PKJ/?tag=tolees-21'
 descuento: '39.40'
 average: '59.99'

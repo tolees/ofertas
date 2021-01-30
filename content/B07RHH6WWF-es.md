@@ -16,6 +16,7 @@ comparePrice: 19.09 EUR
 prodname: 'El clip del oído de las Estrellas  Ninguna Perforación Geométrica Cuelga la mini Joyería Libre de la Alergia para las Mujeres'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RHH6WWF/?tag=tolees-21'
 descuento: '79.10'
 average: '3.99'

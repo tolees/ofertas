@@ -16,6 +16,7 @@ comparePrice: 9.84 EUR
 prodname: 'Pattex No Más Clavos Original  adhesivo de montaje resistente  pegamento extrafuerte para madera  metal y más  adhesivo blanco instantáneo  1 cartucho x 370 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CWKFZAQ/?tag=tolees-21'
 descuento: '29.88'
 average: '6.9'

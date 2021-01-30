@@ -16,6 +16,7 @@ comparePrice: 15.0 EUR
 prodname: 'Dishonored: La Muerte Del Forastero'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0721C6BTZ/?tag=tolees-21'
 descuento: '25.00'
 average: '14.163333333333332'

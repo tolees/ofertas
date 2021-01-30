@@ -16,6 +16,7 @@ comparePrice: 119.9 EUR
 prodname: 'Micrófono Gaming Voice USB de escritorio  Luz LED  Micrófono Compatible con PC/Windows/Mac/PS4   para Radio  Skype  YouTube  Juegos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFV1P2B/?tag=tolees-21'
 descuento: '83.40'
 average: '19.9'

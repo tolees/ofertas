@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Chantelle DE Pyramide Sujetador con Aros  Negro  Schwarz 11   95E  Talla del Fabricante: 80E  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B1C66KH/?tag=tolees-21'
 descuento: '35.88'
 average: '44.85'

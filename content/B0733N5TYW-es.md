@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Neatec EUM12B - Escoba y limpaidor porttil profesional Insecticida con accesorios  azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0733N5TYW/?tag=tolees-21'
 descuento: '33.34'
 average: '79.99'

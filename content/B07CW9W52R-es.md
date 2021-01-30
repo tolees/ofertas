@@ -16,6 +16,7 @@ comparePrice: 15.0 EUR
 prodname: 'Science In Sport SiS Go Gel Energía Isotónica  Varieta Gusto 7 X 60ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CW9W52R/?tag=tolees-21'
 descuento: '44.00'
 average: '8.4'

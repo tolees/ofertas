@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'ANLAN Electroestimulador Muscular Abdominales  EMS Estimulador  Abdomen/Brazo/Piernas Entrenador Muscular con USB Recargable  6 Modos y 10 Niveles de Intensidad  Hombres/Mujeres '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MHMTTNR/?tag=tolees-21'
 descuento: '35.69'
 average: '28.86272727272727'

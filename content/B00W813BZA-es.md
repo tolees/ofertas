@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Sogo ASP-SS-16006 - Aspirador de Mano con 11 Accesorios  800 W  0.8 litros  Plástico  Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00W813BZA/?tag=tolees-21'
 descuento: '38.40'
 average: '36.9'

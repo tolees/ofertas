@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'POP! Vinilo - Movies: Beetlejuice'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004GFR4X6/?tag=tolees-21'
 descuento: '44.96'
 average: '8.233333333333333'

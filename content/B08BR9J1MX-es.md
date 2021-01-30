@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Beforya Paris** – Pendientes largos Square – * Moonlight * – Plata de ley 925 – Pendientes con Swarovski® – Bonitos pendientes para mujer con caja de regalo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BR9J1MX/?tag=tolees-21'
 descuento: '40.01'
 average: '29.99'

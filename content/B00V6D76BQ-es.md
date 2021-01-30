@@ -16,6 +16,7 @@ comparePrice: 14.74 EUR
 prodname: 'YARDLEY English Rose Talco perfumado 200 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00V6D76BQ/?tag=tolees-21'
 descuento: '33.92'
 average: '9.74'

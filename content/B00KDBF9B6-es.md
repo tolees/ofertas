@@ -16,6 +16,7 @@ comparePrice: 15.92 EUR
 prodname: 'whiskas Dentabites de 40g para higiene oral de uso diario para gatos  Pack de 8 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KDBF9B6/?tag=tolees-21'
 descuento: '49.75'
 average: '9.3825'

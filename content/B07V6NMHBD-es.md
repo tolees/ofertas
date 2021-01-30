@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Almohadilla De Cuna Impermeable  Cama para Incontinencia  Colchón Bebé Lavables Cama para Bebés Colchón Pañales Cambiador Pad Almohadilla Impermeable para Niños Adultos Y Mascotas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V6NMHBD/?tag=tolees-21'
 descuento: '37.75'
 average: '12.45'

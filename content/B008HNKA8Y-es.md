@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Los Vengadores  3D + Blu-ray  [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008HNKA8Y/?tag=tolees-21'
 descuento: '60.10'
 average: '12.096666666666666'

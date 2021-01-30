@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'Juego de 2 maletas rígidas 55-69 Movom Turbo Rojas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NCMRV1H/?tag=tolees-21'
 descuento: '46.41'
 average: '63.90666666666667'

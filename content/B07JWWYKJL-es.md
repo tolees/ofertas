@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Columbia Ivo Trail  Zapatillas para Hombre  Verde  Peatmoss  Rich 213   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JWWYKJL/?tag=tolees-21'
 descuento: '32.01'
 average: '67.98'

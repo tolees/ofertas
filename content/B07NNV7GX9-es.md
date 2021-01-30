@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Under Armour UA Charged Impulse  Zapatillas de Running para Hombre  Blanco  White/Halo Gray/Academy   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NNV7GX9/?tag=tolees-21'
 descuento: '40.26'
 average: '41.79'

@@ -16,6 +16,7 @@ comparePrice: 10.0 EUR
 prodname: 'Funko- Pop Marvel: Fantastic Four-Invisible Girl Collectible Toy  Multicolor  44986 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TYQ231F/?tag=tolees-21'
 descuento: '33.30'
 average: '8.412857142857142'

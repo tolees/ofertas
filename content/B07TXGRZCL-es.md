@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Rizador de Pelo 6 en 1 Profesional  con Conos Temperatura Ajustable Cerámicas de Turmalinas Intercambiables Planchas rizadoras no Dañar el Pelo  con Guante Hurquilla'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TXGRZCL/?tag=tolees-21'
 descuento: '25.01'
 average: '26.24'

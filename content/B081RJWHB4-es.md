@@ -16,6 +16,7 @@ comparePrice: 25.39 EUR
 prodname: 'Dinosaurio Luz Nocturna Infantil  Juguete Dinosaurio para chicos  16 Cambio de Color Lámpara de Noche de Ilusión óptica 3D  Dormitorio Decoración Regalo de Cumpleaños para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081RJWHB4/?tag=tolees-21'
 descuento: '37.02'
 average: '15.99'

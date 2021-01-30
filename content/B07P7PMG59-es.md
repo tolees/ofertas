@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Labanema Moto G7 Power Funda  [Heavy Duty] [Doble Capa] [Protección Pesada] Híbrida Resistente Case Protectora y Robusta para Motorola Moto G7 Power（No es Compatible con Moto G7 Play）- Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P7PMG59/?tag=tolees-21'
 descuento: '70.39'
 average: '8.88'

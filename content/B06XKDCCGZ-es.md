@@ -16,6 +16,7 @@ comparePrice: 57.99 EUR
 prodname: 'Epson DURABrite Ultra Ink  Cartucho de Tinta para Impresoras  35XL  Negro  Ya disponible en Amazon Dash Replenishment'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XKDCCGZ/?tag=tolees-21'
 descuento: '41.18'
 average: '34.11'

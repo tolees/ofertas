@@ -16,6 +16,7 @@ comparePrice: 38.99 EUR
 prodname: 'Aigital 300Mbps Repetidor WiFi Router inalámbrico Long Range Booster con 2 Puert Ethernet Fast  Configuración Fácil  2.4GHz Compatible con Todos los Routers WLAN habituales'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GTFMB53/?tag=tolees-21'
 descuento: '48.73'
 average: '20.29'

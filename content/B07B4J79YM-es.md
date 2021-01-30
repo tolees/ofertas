@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Nixon Reloj Analógico para Mujer de Cuarzo con Correa en Policarbonato A1215-309-00'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B4J79YM/?tag=tolees-21'
 descuento: '30.40'
 average: '46.800000000000004'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'HP C2710 Wireless Keyboard Combo M7P30AA AB9 - Teclado Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01INNQE46/?tag=tolees-21'
 descuento: '27.51'
 average: '28.39'

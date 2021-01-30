@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'FORMIZON 600 Piezas Plumas de Colores  Plumas de la Decoración  8-12cm  para Manualidades  Arte de DIY  Bodas  Decoración de Fiestas  Mezcla de Colores .'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T1B8WY1/?tag=tolees-21'
 descuento: '25.01'
 average: '14.99'

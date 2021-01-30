@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Levi s 502 Regular Taper Jeans  Azul  Stonewash 95978 0182   31W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079QGBZHY/?tag=tolees-21'
 descuento: '47.93'
 average: '47.55833333333334'

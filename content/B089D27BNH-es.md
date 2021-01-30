@@ -16,6 +16,7 @@ comparePrice: 43.99 EUR
 prodname: 'TACKLIFE Juego de Llaves Combinadas - 16 Piezas  7-22mm  Llaves Combinadas Profesionales Métricas  Material CV  con Rollo de Herramienta - HCW2A'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089D27BNH/?tag=tolees-21'
 descuento: '31.83'
 average: '29.99'

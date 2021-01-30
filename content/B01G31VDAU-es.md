@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'SueH Design Juego de Manteles Individuales de 8 Unidades Gris en PVC 45 * 30 CM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01G31VDAU/?tag=tolees-21'
 descuento: '40.01'
 average: '16.99'

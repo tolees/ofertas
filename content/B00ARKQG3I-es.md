@@ -16,6 +16,7 @@ comparePrice: 10.54 EUR
 prodname: 'The Wet Brush Cepillo Viva Violet - 144 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ARKQG3I/?tag=tolees-21'
 descuento: '53.04'
 average: '4.95'

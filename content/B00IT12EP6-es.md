@@ -16,6 +16,7 @@ comparePrice: 84.96 EUR
 prodname: 'Clarins - Crema Alta Exigencia día SPF20 - Todas pieles - 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IT12EP6/?tag=tolees-21'
 descuento: '36.15'
 average: '54.25'

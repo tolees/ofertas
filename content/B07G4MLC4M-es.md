@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Pop! Avengers Infinity War - Figura de Vinilo Groot with Stormbreaker'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G4MLC4M/?tag=tolees-21'
 descuento: '48.28'
 average: '8.375'

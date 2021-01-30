@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Marea: El Azogue'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PML382R/?tag=tolees-21'
 descuento: '42.89'
 average: '7.99'

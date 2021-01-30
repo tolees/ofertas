@@ -16,6 +16,7 @@ comparePrice: 17.85 EUR
 prodname: 'Superga 2750-cotcontrastu  Zapatillas de Gimnasia Unisex Adulto  Blanco  White/Pink Extase A0e   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TYQDKQ5/?tag=tolees-21'
 descuento: '40.56'
 average: '17.048333333333336'

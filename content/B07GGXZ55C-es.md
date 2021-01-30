@@ -16,6 +16,7 @@ comparePrice: 669 EUR
 prodname: 'Amplificador de Señal Celular Teléfonos Móviles 4G LTE 2600MHz Repetidor de Señal Booster con Panel y Yagi Antena Kit para Casa/Ufficio Uso'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GGXZ55C/?tag=tolees-21'
 descuento: '71.62'
 average: '189.89'

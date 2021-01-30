@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Romika Laser 20002 70 000 - Zapatillas de lona estilo mocasín unisex  Azul  Blau  blau 500    36'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000XULK5Q/?tag=tolees-21'
 descuento: '61.60'
 average: '15.36'

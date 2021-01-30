@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Haofy Bombillas Sensor de Luz LED 7W E26/E27 Bombillas Lámpara de Lluminación  12w 3 Pieza '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DVJFQ3Y/?tag=tolees-21'
 descuento: '59.69'
 average: '12.09'

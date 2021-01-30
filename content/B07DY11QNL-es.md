@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Casio G-SHOCK Reloj Digital  Reloj radiocontrolado y solar  20 BAR  Negro  para Hombre  DW-5600BBMA-1ER'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DY11QNL/?tag=tolees-21'
 descuento: '42.19'
 average: '62.455'

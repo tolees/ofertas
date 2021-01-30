@@ -16,6 +16,7 @@ comparePrice: 24.0 EUR
 prodname: 'LolaPix Caja Merienda Unicornio Vuelta al Cole Personalizada con Nombre/Curso. Varios Diseños a Elegir'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G9NJ8T3/?tag=tolees-21'
 descuento: '29.38'
 average: '16.95'

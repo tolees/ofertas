@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Tommy Hilfiger High Cleated Flag Sneaker  Zapatillas para Mujer  Blanco  White Ybs   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V2J3LDZ/?tag=tolees-21'
 descuento: '64.73'
 average: '35.23'

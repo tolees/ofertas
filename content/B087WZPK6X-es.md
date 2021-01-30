@@ -16,6 +16,7 @@ comparePrice: 46.39 EUR
 prodname: 'Pretty See 100Pcs Tamaño de Cara Libre desechable Azul 3-PLY'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087WZPK6X/?tag=tolees-21'
 descuento: '39.69'
 average: '27.98'

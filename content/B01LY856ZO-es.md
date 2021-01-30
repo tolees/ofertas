@@ -16,6 +16,7 @@ comparePrice: 241.5 EUR
 prodname: 'Teka | Placa de Vitrocerámica | Modelo TB6315 | 3 zonas Touch Control | 60CM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LY856ZO/?tag=tolees-21'
 descuento: '38.30'
 average: '151.68960000000004'

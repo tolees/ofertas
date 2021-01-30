@@ -16,6 +16,7 @@ comparePrice: 470.0 EUR
 prodname: 'Amaco Cinta de Correr Semi Profesional 2 HP. 20 Programas con Masaje  Plegable Función Música'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XC465DS/?tag=tolees-21'
 descuento: '34.68'
 average: '307.0'

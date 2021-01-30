@@ -16,6 +16,7 @@ comparePrice: 599 EUR
 prodname: 'LG 27UK850-W - Monitor 4K UHD de 68 6 cm  27"  con Panel IPS  3840 x 2160 píxeles  16:9  350 cd/m²  sRGB >99%  1000:1  5 ms  60 Hz  Color Negro y Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0798QM8BP/?tag=tolees-21'
 descuento: '52.26'
 average: '420.735'

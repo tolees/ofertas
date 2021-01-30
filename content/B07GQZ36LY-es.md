@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Piy Painting Cuadro en Lienzo en Orquidea Elegante La Flor Pinturas murales Decoración Impresiones de Lienzo Arte de Marco Listo para Colgar Sala de Estar Decoración 30x30cmx2.5cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GQZ36LY/?tag=tolees-21'
 descuento: '40.03'
 average: '29.983333333333334'

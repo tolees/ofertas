@@ -16,6 +16,7 @@ comparePrice: 32.9 EUR
 prodname: 'Stanley XTHT0-42495 Nivel Torpedo FatMax 23cm base magnética'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TAK0V6O/?tag=tolees-21'
 descuento: '45.44'
 average: '18.386'

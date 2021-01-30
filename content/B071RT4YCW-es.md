@@ -16,6 +16,7 @@ comparePrice: 470.0 EUR
 prodname: 'Piquadro Coleos Trolley para portátil  Negro  Nero '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071RT4YCW/?tag=tolees-21'
 descuento: '61.23'
 average: '182.2'

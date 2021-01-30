@@ -16,6 +16,7 @@ comparePrice: 10.0 EUR
 prodname: 'Sony MDR-EX15LP - Auriculares In-Ear  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00I3LUR42/?tag=tolees-21'
 descuento: '30.20'
 average: '6.98'

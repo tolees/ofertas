@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Pro Breeze Ventilador de Torre Oscilante 45W. con Temporizador y Mando a Distancia. Oscilación de 80°  3 Modos de Funcionamiento y Altura 100 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078Y77XMM/?tag=tolees-21'
 descuento: '30.00'
 average: '72.39'

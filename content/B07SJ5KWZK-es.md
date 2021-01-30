@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: '5 Unids Niños Juego de Vajilla Diseño de Dibujos Animados Para Niños Suministros de Alimentación Fibra de Bambú Natural Bebé Placa de Cena Tazón Tenedor Cuchara Taza Jirafa '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SJ5KWZK/?tag=tolees-21'
 descuento: '61.70'
 average: '6.89'

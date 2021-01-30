@@ -16,6 +16,7 @@ comparePrice: 55.99 EUR
 prodname: 'Mini cámara espía Oculta Diseño de Cargador USB Full HD 1080P con cámara WiFi para vigilancia de Seguridad doméstica con visión remota/detección de Movimiento/grabación en Bucle Uso Plug-and-Play'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084M1JG4W/?tag=tolees-21'
 descuento: '46.44'
 average: '29.99'

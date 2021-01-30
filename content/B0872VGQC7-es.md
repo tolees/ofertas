@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Webcam Full HD 1080p  Cámara Web USB con Micrófono Incorporado  Plug & Play/Ajustable  para PC/Computadora Portátil para Transmisión en Vivo  Videollamadas  Grabación de Video  Videoconferencia'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0872VGQC7/?tag=tolees-21'
 descuento: '42.86'
 average: '39.99'

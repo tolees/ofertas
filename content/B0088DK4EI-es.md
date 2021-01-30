@@ -16,6 +16,7 @@ comparePrice: 41.09 EUR
 prodname: 'D-Link DWR-730 - Router móvil 3G para SIM de Datos  HSPA+  MiFi 3G  WiFi N hasta 150 MBps  WPS  batería 2000 mAh  WPA2  LCD  Negro y Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0088DK4EI/?tag=tolees-21'
 descuento: '36.51'
 average: '32.65'

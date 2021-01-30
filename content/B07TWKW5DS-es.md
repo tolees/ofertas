@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'FORMIZON 20 Pcs Globos de Papel de Aluminio  Globos de Corazón Oro Rosa  Globos en Forma de Corazón para la Decoración del Partido  Cumpleaños  Decoración de Helio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TWKW5DS/?tag=tolees-21'
 descuento: '42.13'
 average: '10.99'

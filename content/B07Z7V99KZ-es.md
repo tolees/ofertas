@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'IXROAD Cámara Deportiva 4K WiFi 24MP Camara Acuatica Sumergible Agua de 40M con Gyro Anti-Vibración Pantalla Táctil Control Remoto 2 Baterías 1350mAh y Múltiples Accesorios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z7V99KZ/?tag=tolees-21'
 descuento: '40.00'
 average: '89.99'

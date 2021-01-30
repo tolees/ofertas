@@ -16,6 +16,7 @@ comparePrice: 24.29 EUR
 prodname: 'Idocolrs - Funda transparente para Airpods 1 y 2 Kawaii  diseño de dinosaurio  ballena  gato  jirafa  abeja'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083J7L1QW/?tag=tolees-21'
 descuento: '48.58'
 average: '12.49'

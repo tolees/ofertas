@@ -16,6 +16,7 @@ comparePrice: 35.75 EUR
 prodname: 'Remescar - Mirada cansada - Crema para los ojos hinchados o cansados - Crema de ojos antienvejecimiento para líneas de expresión y arrugas finas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07845CZYY/?tag=tolees-21'
 descuento: '41.37'
 average: '20.0'

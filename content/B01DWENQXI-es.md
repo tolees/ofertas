@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Samsung WMN550M/XC Mini Soporte de Pared  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DWENQXI/?tag=tolees-21'
 descuento: '46.86'
 average: '31.35'

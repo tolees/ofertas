@@ -16,6 +16,7 @@ comparePrice: 35.73 EUR
 prodname: 'Alienwork Reloj Unisex Relojes Hombre Mujer Acero Inoxidable Banda de Malla Metálica Oro Rosa Analógicos Cuarzo Calendario Fecha Blanco Impermeable Ultra-Delgada Slim'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D1GD8GP/?tag=tolees-21'
 descuento: '55.86'
 average: '15.77'

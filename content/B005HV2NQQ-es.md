@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Crocs Baya Flip  Unisex Adulto Sandalia  Negro  Black   37-38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005HV2NQQ/?tag=tolees-21'
 descuento: '33.94'
 average: '17.17'

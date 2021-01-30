@@ -16,6 +16,7 @@ comparePrice: 37.0 EUR
 prodname: 'Rochas Eau De Rochas Body Lotion 500 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CZN40EQ/?tag=tolees-21'
 descuento: '59.73'
 average: '16.4'

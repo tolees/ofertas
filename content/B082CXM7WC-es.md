@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'NETVIP WiFi Repetidor de Red WiFi Amplificador 300Mbps Extensor WiFi Booster de Rango Inalámbrico Modo Wireless-N 2.4GHz Universal Dos Antenas  Fácil de Usar Compatible con Enrutador Inalámbrico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082CXM7WC/?tag=tolees-21'
 descuento: '50.01'
 average: '20.24'

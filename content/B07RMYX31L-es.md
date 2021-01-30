@@ -16,6 +16,7 @@ comparePrice: 10.66 EUR
 prodname: 'Luz de la guirnalda del pelo del LED  corona duradera de la flor de HeadbandRose de la guirnalda del Headwear para el festival y la decoración del viaje  3 # '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RMYX31L/?tag=tolees-21'
 descuento: '48.50'
 average: '5.49'

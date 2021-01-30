@@ -16,6 +16,7 @@ comparePrice: 259.99 EUR
 prodname: 'Lenovo LEGION Y25f - Monitor de 24.5"  Pantalla Full HD  LED  1920 x 1080 pixeles  tiempo de respuesta de 1 ms  320 cd/m2  FreeSync   Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078X5PPFR/?tag=tolees-21'
 descuento: '30.77'
 average: '181.2125'

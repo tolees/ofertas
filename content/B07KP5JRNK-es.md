@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Espejo de Maquillaje de Doble Cara con Luces LED  Espejo Maquillaje de Aumento 1x/7x con Rotación de 360°  Pantalla Táctil Ajustable de Brillo  Recargable  Espejo iluminador Portátil para Viajes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KP5JRNK/?tag=tolees-21'
 descuento: '33.34'
 average: '23.847142857142853'

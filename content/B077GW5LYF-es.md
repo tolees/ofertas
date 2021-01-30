@@ -16,6 +16,7 @@ comparePrice: 15.73 EUR
 prodname: 'find. Sandalia de Tiras con Tacón Mujer  Violeta  Lilac   41'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077GW5LYF/?tag=tolees-21'
 descuento: '55.24'
 average: '7.04'

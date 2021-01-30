@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'United Colors of Benetton Colors B2 Pantalones  Gris  Grigio Melange 501   82  Talla del Fabricante: 1Y  para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MRKTTVW/?tag=tolees-21'
 descuento: '67.22'
 average: '6.54'

@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Bálsamo de labios  Lip Balm  Cuidado De Labios  Barra de Labios  Acondicionador de labios  Hidratación de larga duración  Poderoso Relleno Serum Lip Gloss  Mejora la elasticidad de los labios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZCYTRXX/?tag=tolees-21'
 descuento: '42.32'
 average: '14.99'

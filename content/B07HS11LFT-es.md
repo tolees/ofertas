@@ -16,6 +16,7 @@ comparePrice: 339.9 EUR
 prodname: 'ASUS ROG Maximus XI Hero  Wi-Fi  - Placa base Gaming ATX Intel de 8a y 9a gen. LGA 1151 con disipador M.2  Aura Sync RGB LED  DDR4 4400 MHz  Wi-Fi 802.11ac  Dos M.2  SATA 6 Gb/s y USB 3.1 Gen. 2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HS11LFT/?tag=tolees-21'
 descuento: '38.51'
 average: '270.94'

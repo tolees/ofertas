@@ -16,6 +16,7 @@ comparePrice: 34.9 EUR
 prodname: 'DIM Sublim Dentelle Sujetador  Negro  Black   90B para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01C45ZWOM/?tag=tolees-21'
 descuento: '74.21'
 average: '15.655'

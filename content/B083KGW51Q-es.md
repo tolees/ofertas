@@ -16,6 +16,7 @@ comparePrice: 51.0 EUR
 prodname: 'Silla de Cocina/Comedor de diseño nórdico-Scandi  Inspiración Silla Tower - Turquesa 90094'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083KGW51Q/?tag=tolees-21'
 descuento: '62.75'
 average: '19.0'

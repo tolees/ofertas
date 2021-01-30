@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Adidas Falcon Zapatillas de Running Hombre  Gris  Grey Six/Ftwr White/Core Black Grey Six/Ftwr White/Core Black   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2V4QRB/?tag=tolees-21'
 descuento: '29.95'
 average: '34.99'

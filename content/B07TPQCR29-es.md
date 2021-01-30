@@ -16,6 +16,7 @@ comparePrice: 8.5 EUR
 prodname: 'Philips Avent SCF349/21 - Pack de 2 chupetes Ultra Air  tetina extrafirme para 18m+  apta para la piel sensible  con estuche de esterilización  color verde y naranja'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TPQCR29/?tag=tolees-21'
 descuento: '48.24'
 average: '4.4'

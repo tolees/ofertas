@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Scholl Plantillas GelActiv para Zapato Abierto + Crema de Pies para Durezas - 2 plantillas + Crema 60ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083KLYM61/?tag=tolees-21'
 descuento: '25.05'
 average: '14.99'

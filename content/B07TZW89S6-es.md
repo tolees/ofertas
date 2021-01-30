@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'KiplingAbanu MultiMujerBolsos bandoleraRojo  Metallic Rust 19x13x8 Centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZW89S6/?tag=tolees-21'
 descuento: '54.41'
 average: '29.56'

@@ -16,6 +16,7 @@ comparePrice: 137.05 EUR
 prodname: 'Casio Reloj de Pulsera BG-6903-1ER'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BFN2DMY/?tag=tolees-21'
 descuento: '61.89'
 average: '52.23'

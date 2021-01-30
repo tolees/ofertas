@@ -16,6 +16,7 @@ comparePrice: 47.55 EUR
 prodname: 'Dek - Deportivas de Cordones Dakota para Chico Hombre  39 EU   Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JDX9D1H/?tag=tolees-21'
 descuento: '33.33'
 average: '31.7'

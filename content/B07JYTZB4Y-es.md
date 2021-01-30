@@ -16,6 +16,7 @@ comparePrice: 41.95 EUR
 prodname: 'Tommy Hilfiger Brooklyn Short Light Twill Belt Pantalones Cortos  Azul  Sky CAPTAIN403   W32  Talla del Fabricante: NI32  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JYTZB4Y/?tag=tolees-21'
 descuento: '41.72'
 average: '24.45'

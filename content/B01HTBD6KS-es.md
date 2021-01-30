@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'HAMSWAN Termómetro de Frente  Sin Contacto  Termómetro Digital Infrarrojos para Bebe  Niños  Adultos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HTBD6KS/?tag=tolees-21'
 descuento: '75.05'
 average: '49.89'

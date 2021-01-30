@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Skechers Men s DYNAMIGHT 2.0-FALLFORD Trainers  Grey  Charcoal/Black Ccbk   9.5  44 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NPD8W4Z/?tag=tolees-21'
 descuento: '27.30'
 average: '34.535000000000004'

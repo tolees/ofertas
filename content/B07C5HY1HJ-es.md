@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Polaroid Originals - 9008 - Nuevo One Step 2 ViewFinder - Cámaras Instantáneas i-Type - Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C5HY1HJ/?tag=tolees-21'
 descuento: '30.80'
 average: '78.1635294117647'

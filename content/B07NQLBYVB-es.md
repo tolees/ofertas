@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Maleta infantil ruedas multidireccionales Minnie Super Helpers'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NQLBYVB/?tag=tolees-21'
 descuento: '40.00'
 average: '39.0'

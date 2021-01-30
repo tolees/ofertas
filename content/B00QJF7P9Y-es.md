@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Sorel Newbie  Botas para Mujer  Marrón  Silver Sage 103   40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00QJF7P9Y/?tag=tolees-21'
 descuento: '30.04'
 average: '69.95'

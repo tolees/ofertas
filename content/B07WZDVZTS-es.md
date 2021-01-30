@@ -16,6 +16,7 @@ comparePrice: 88.73 EUR
 prodname: 'Kafuty 4G Lector de Libros Electrónicos Portátil Tinta Electrónica de 6 Pulgadas Resolución de Pantalla 800 x 600'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WZDVZTS/?tag=tolees-21'
 descuento: '25.85'
 average: '65.21'

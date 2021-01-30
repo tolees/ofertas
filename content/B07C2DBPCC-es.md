@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'MaGeek® [Pack de 5] 0 3m Cables Micro USB Sincroniza y Carga para Samsung  HTC  Sony  Motorola  LG  Google  Nokia etc. 5 Colores '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C2DBPCC/?tag=tolees-21'
 descuento: '33.36'
 average: '9.99'

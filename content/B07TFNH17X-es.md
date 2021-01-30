@@ -16,6 +16,7 @@ comparePrice: 57.49 EUR
 prodname: 'Crystals&Stones Mujer plata de ley 925 plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TFNH17X/?tag=tolees-21'
 descuento: '90.00'
 average: '5.75'

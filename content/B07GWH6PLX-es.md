@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Nobleza - Rascador de cartón para Gatos. Alfombrilla con Catnip.  38.2 * 24.5 * 4  cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GWH6PLX/?tag=tolees-21'
 descuento: '47.09'
 average: '8.99'

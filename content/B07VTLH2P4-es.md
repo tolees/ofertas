@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'JUMPER Monitor de Presión Arterial  Brazo Superior con 2 Usuarios  Pantalla Grande Brazalete Ajustable  Admite 2 Modos de Carga  Registros de aAplicaciones  Memoria de 198 Lecturas Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VTLH2P4/?tag=tolees-21'
 descuento: '33.34'
 average: '39.99'

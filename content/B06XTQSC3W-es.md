@@ -16,6 +16,7 @@ comparePrice: 29.94 EUR
 prodname: 'Paternina Verdejo D.O. Rueda Vino blanco - 6 botellas x 750 ml - 4500 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XTQSC3W/?tag=tolees-21'
 descuento: '31.86'
 average: '20.4'

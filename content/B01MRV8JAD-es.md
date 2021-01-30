@@ -16,6 +16,7 @@ comparePrice: 12.91 EUR
 prodname: 'Pinzas de Cocina  GWCLEO Pinzas para Barbacoa en Acero Inox y Silicona  Pinzas para Ensalada y Servir con Consejos sin Rasguños y Mangos de Cojín de Silicona Anti-Deslizante Negro  9 y 12 Pulgadas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MRV8JAD/?tag=tolees-21'
 descuento: '35.79'
 average: '8.426666666666666'

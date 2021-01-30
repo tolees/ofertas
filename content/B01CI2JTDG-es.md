@@ -16,6 +16,7 @@ comparePrice: 315.81 EUR
 prodname: 'Krups VB7008 5L Dispensador de cerveza de barril - Tirador de cerveza  5 38 kg  300 x 452 x 494 mm  61 W  Poder '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CI2JTDG/?tag=tolees-21'
 descuento: '26.98'
 average: '230.61'

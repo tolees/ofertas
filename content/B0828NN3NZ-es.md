@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Pincel de Pintura Set de Pinceles Cepillos de Pintura Profesional Art Multi-Forma Nylon Pincel de Pintura para Acrílico Acuarela Óleo Pincel de Crafts Pintura Artesanal de Roca y Rostro  12 Piezas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0828NN3NZ/?tag=tolees-21'
 descuento: '33.35'
 average: '11.99'

@@ -16,6 +16,7 @@ comparePrice: 665.5 EUR
 prodname: 'Zeno Watch Basel 3554-a1 - Reloj analógico automático para Hombre con Correa de Piel  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0087BLUIK/?tag=tolees-21'
 descuento: '45.78'
 average: '508.395'

@@ -16,6 +16,7 @@ comparePrice: 7.72 EUR
 prodname: 'Emblema Piaggio. 6 de Esquina Cascada para Vespa PX T5 etc. – Aluminio  Autoadhesivo  31 x 36 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GIWJBLW/?tag=tolees-21'
 descuento: '31.61'
 average: '5.28'

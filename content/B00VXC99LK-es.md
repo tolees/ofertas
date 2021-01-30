@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-STAR RAW 3301 Straight Classic Jeans  Azul  Dk Aged 4639-89   28W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VXC99LK/?tag=tolees-21'
 descuento: '34.98'
 average: '45.05388888888889'

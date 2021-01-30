@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'CONFU Quitapelusas Eléctrico Recargable USB adecuado para todas las Prendas Ropas Elimina Pelusas y Bolitas de Manera Rápida y Efectiva'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H4N3PTC/?tag=tolees-21'
 descuento: '57.51'
 average: '16.99'

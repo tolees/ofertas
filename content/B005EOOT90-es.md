@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Turtle Beach Ear Force XL - Auriculares de diadema cerrados USB  con micrófono  control remoto integrado  USB   negro y verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005EOOT90/?tag=tolees-21'
 descuento: '80.15'
 average: '12.325000000000001'

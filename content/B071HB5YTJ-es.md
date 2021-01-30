@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Panasonic SC-HTB488 - Barra De Sonido Cine  2.1 Canales 200 W  Subwoofer Inalámbrico  Dolby Digital  HDMI  Bluetooth  Entrada Audio Digital  Montable En Pared -Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071HB5YTJ/?tag=tolees-21'
 descuento: '31.00'
 average: '165.5723076923077'

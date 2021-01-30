@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Monitor Táctil 7 pulgadas para Raspberry Pi 4B  Pantalla Tátcil HDMI HD LCD 1024X600 para pantalla Raspberry Pi 4 Modelo B 3 2B ETEPON  Versión Actualizada '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X37HMVB/?tag=tolees-21'
 descuento: '33.34'
 average: '67.32333333333332'

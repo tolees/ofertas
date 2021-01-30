@@ -16,6 +16,7 @@ comparePrice: 73.28 EUR
 prodname: 'Salewa WS Speed Beat GTX  Zapatillas de Running para Asfalto para Mujer  Verde  Shaded Spruce/Fluo Coral 8631   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DW8MZDM/?tag=tolees-21'
 descuento: '59.80'
 average: '29.46'

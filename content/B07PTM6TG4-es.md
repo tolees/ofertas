@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Kipling - Duo Pouch  2 x Monederos Mujer  Multicolor  Camo Large   20x14x1 cm  B x H T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PTM6TG4/?tag=tolees-21'
 descuento: '50.00'
 average: '14.5'

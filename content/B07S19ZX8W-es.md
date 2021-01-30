@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'PUMA Cali Mujer Blanco 369155 12'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S19ZX8W/?tag=tolees-21'
 descuento: '36.62'
 average: '57.04'

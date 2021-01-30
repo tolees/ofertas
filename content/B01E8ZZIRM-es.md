@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-STAR RAW 3301 Low Waist Super Skinny Jeans Ajustados  Azul  dk Aged 6553-89   31W / 36L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01E8ZZIRM/?tag=tolees-21'
 descuento: '40.00'
 average: '60.980000000000004'

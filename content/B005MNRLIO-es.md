@@ -16,6 +16,7 @@ comparePrice: 42.34 EUR
 prodname: 'APC Surge Arrest Essential - PL5B-DE - Regleta con protección contra subidas y picos de tensión compatible con PLC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005MNRLIO/?tag=tolees-21'
 descuento: '38.59'
 average: '26.634444444444448'

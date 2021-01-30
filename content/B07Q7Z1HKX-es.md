@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Erasky Memoria USB De 64GB Pendrive Flash Drive Aluminio USB 2.0 Impermeable con Anillo Colgante  64GB '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q7Z1HKX/?tag=tolees-21'
 descuento: '46.83'
 average: '10.48'

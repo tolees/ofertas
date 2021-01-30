@@ -16,6 +16,7 @@ comparePrice: 46.99 EUR
 prodname: 'Naruto Ultimate Ninja Storm Trilogy'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJFXJ3B/?tag=tolees-21'
 descuento: '36.71'
 average: '31.669999999999998'

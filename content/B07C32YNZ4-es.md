@@ -16,6 +16,7 @@ comparePrice: 125.3 EUR
 prodname: 'Mascarilla facial con Ácido Hialurónico. Máscara de tejido con sello alemán Dermatest „Muy bueno“. Tratamiento de hidratación intensa para el rostro. konivéo 14 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C32YNZ4/?tag=tolees-21'
 descuento: '47.41'
 average: '65.9'

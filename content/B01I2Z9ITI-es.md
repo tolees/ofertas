@@ -16,6 +16,7 @@ comparePrice: 10.0 EUR
 prodname: 'Arganour Jojoba Oil 100% Pure Aceite Corporal - 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01I2Z9ITI/?tag=tolees-21'
 descuento: '38.70'
 average: '6.13'

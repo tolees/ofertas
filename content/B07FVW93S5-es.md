@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'PAMEX - Cubo Galvanizado 5L con Abridor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FVW93S5/?tag=tolees-21'
 descuento: '53.58'
 average: '3.69'

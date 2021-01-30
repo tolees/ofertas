@@ -16,6 +16,7 @@ comparePrice: 41.95 EUR
 prodname: 'Charles Wilson Paquete 5 Camisetas Cuello Redondo Lisas  Small  Additions '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KVDPOXS/?tag=tolees-21'
 descuento: '28.61'
 average: '29.95'

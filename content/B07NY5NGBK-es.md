@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'JASHKE Disfraz Dinosaurio Inflable Adulto Traje Dinosaurio Disfraz Trex Disfraces Hombre Divertidas Traje'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NY5NGBK/?tag=tolees-21'
 descuento: '28.58'
 average: '46.32333333333334'

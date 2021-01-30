@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Naipo Masajeador de Piernas Compression para Pierna Inalámbrico Masaje Pie Presoterapiacon con Controlador de Mano para Casa  Oficina y Viaje'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FYDY6DX/?tag=tolees-21'
 descuento: '37.50'
 average: '73.87888888888888'

@@ -16,6 +16,7 @@ comparePrice: 62.99 EUR
 prodname: 'Juguete Sorpresas De Joyería Azul Seguros Y Cómodos De 3 Piezas Con Campana Y Cadena Para Parejas Principiantes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089NQ8CF3/?tag=tolees-21'
 descuento: '58.09'
 average: '26.4'

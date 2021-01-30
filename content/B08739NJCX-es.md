@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Anillo de Luz LED Fotografia de Escritorio  8" Ring Light con Soporte Giratorio de teléfono  Movil Trípode y Wireless Control Remoto  Aro de Luz para Selfie  Maquillaje  Youtube  TIK Tok etc'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08739NJCX/?tag=tolees-21'
 descuento: '26.33'
 average: '13.99'

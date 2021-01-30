@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Quiksilver Everyday Ev Sr Pantalones Cortos  Hombre  Negro  Black   30'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KJYFV7B/?tag=tolees-21'
 descuento: '30.11'
 average: '29.539999999999996'

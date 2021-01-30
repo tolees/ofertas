@@ -16,6 +16,7 @@ comparePrice: 5.5 EUR
 prodname: '4 x Herramienta Coche Car Puerta Palanca Reparación Instalación'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DMZX0QG/?tag=tolees-21'
 descuento: '27.45'
 average: '4.292'

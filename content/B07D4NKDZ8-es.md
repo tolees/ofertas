@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'La Toja Selection - Sales de Baño con Minerales Termales del Manantial - 250gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D4NKDZ8/?tag=tolees-21'
 descuento: '30.04'
 average: '6.79'

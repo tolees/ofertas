@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Star Wars-Funko Pop Figura de Vinilo Death Star Droid  colección Rogue One  Multicolor 14877'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0713YYVX4/?tag=tolees-21'
 descuento: '40.03'
 average: '8.976666666666667'

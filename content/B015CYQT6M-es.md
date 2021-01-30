@@ -16,6 +16,7 @@ comparePrice: 7.0 EUR
 prodname: 'Astor SkinMatch Concealer Corrector'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015CYQT6M/?tag=tolees-21'
 descuento: '55.43'
 average: '3.12'

@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Adidas Lite Racer RBN  Zapatillas de Deporte para Mujer  Blanco  Ftwbla/Ftwbla/Grinat 000   36 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L72ZFVK/?tag=tolees-21'
 descuento: '50.03'
 average: '32.48'

@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Flysee Eléctrica Juguete Pez para Gato，Peluche de Juguete eléctrico de simulación Fish Fish con Carga USB，Mascotas Interactivo de Felpa Pez para morder  Masticar  patear y Dormir'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FFG2HNS/?tag=tolees-21'
 descuento: '40.24'
 average: '8.701764705882354'

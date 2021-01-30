@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Pandiki Reemplazo para HP Pavilion dv6000 dv6500 18.5V 3.5A Adaptador de CA de 65 W Notebook Fuente de alimentación del Cargador del Ordenador portátil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TSDSPP5/?tag=tolees-21'
 descuento: '33.67'
 average: '9.28'

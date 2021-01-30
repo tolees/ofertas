@@ -16,6 +16,7 @@ comparePrice: 18.59 EUR
 prodname: 'JOYUE 40 Pcs Bolsas de Fiesta Dinosaurios  Bolsas de Papel de Caramelos  Bolsa de Regalo Ambiental con 72 Pegatinas de Dinosaurios  Bolsas de Kraft Colores para Niños Suministros Fiesta de Cumpleaños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DCRC3J5/?tag=tolees-21'
 descuento: '30.12'
 average: '12.99'

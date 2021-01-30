@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Levi s LEVIS FOOTWEAR AND ACCESSORIES Calypso Cinturón  Beige  Écru 21   80 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SQRTQXG/?tag=tolees-21'
 descuento: '40.88'
 average: '23.65'

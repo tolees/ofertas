@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'Columbia Vitesse  Zapatillas de Deporte para Mujer  Rojo  Juicy/White 608   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RHQ8K8V/?tag=tolees-21'
 descuento: '53.83'
 average: '49.324999999999996'

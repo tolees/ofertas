@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Auriculares inalámbricos Tribit FlyBuds - 5.0 Auriculares Bluetooth con 30 Horas de Tiempo de Juego  IPX5 Auriculares inalámbricos a Prueba de Agua con micrófono Incorporado Control de Toque'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SM8YSGQ/?tag=tolees-21'
 descuento: '60.01'
 average: '42.49'

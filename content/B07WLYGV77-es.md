@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'BaByliss MEN T881E Barbero eléctrico  recortadora de barba masculino  uso con/sin cable  23 longitudes de 0.5 a 12 mm y 60 minutos de autonomía  neceser.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WLYGV77/?tag=tolees-21'
 descuento: '33.89'
 average: '32.99'

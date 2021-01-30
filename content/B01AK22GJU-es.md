@@ -16,6 +16,7 @@ comparePrice: 22.0 EUR
 prodname: 'NIKE Swoosh - Diadema para Mujer  Mujer  N.JN.D6.010.OS  Blanco/Negro  Talla única Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AK22GJU/?tag=tolees-21'
 descuento: '27.27'
 average: '14.316666666666666'

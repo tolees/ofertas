@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Calvin Klein CK Essential Tipping Slim Polo  Blanco  Bright White/Black Yaf   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VD3G7LV/?tag=tolees-21'
 descuento: '51.49'
 average: '28.62'

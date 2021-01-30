@@ -16,6 +16,7 @@ comparePrice: 29.69 EUR
 prodname: 'Valily Anillo Superman Plata Acero Inoxidable Joyería de Superhéroes Regalo para Hombre Mujer Talla 27'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V42V6MS/?tag=tolees-21'
 descuento: '52.88'
 average: '13.99'

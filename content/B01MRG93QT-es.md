@@ -16,6 +16,7 @@ comparePrice: 26.2 EUR
 prodname: 'Jata Hogar Mod. 773 Balanza de Cocina de Gran precisión  Capacidad 3kg  0 W  3 litros  0 Decibeles  Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MRG93QT/?tag=tolees-21'
 descuento: '30.42'
 average: '18.23'

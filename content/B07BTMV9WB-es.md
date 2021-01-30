@@ -16,6 +16,7 @@ comparePrice: 21.93 EUR
 prodname: 'Autan - Spray Family Care repelente de insectos y antimosquitos tigre y comunes  pack con 2 envases de 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BTMV9WB/?tag=tolees-21'
 descuento: '41.68'
 average: '12.79'

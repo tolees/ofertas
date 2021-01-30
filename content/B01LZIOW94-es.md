@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Sigma 09162 Ciclocomputador  Negro  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZIOW94/?tag=tolees-21'
 descuento: '27.46'
 average: '25.653333333333332'

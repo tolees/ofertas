@@ -16,6 +16,7 @@ comparePrice: 349.0 EUR
 prodname: 'HP Pavilion  Monitor  1  Plata Mineral'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077Y7T7KH/?tag=tolees-21'
 descuento: '26.93'
 average: '281.90071428571423'

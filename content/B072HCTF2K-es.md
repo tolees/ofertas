@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'SELECTED HOMME Shddome Crew Neck Noos suéter  Azul  Dark Sapphire   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072HCTF2K/?tag=tolees-21'
 descuento: '32.48'
 average: '27.0'

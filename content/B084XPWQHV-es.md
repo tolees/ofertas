@@ -16,6 +16,7 @@ comparePrice: 127.99 EUR
 prodname: 'Bergner PK1783 3 Piezas Ø20/Ø24/Ø28 sartenes de Aluminio Forjado  inducción  en Negro + Set 3pc Utensilios de Cocina en Nylon'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084XPWQHV/?tag=tolees-21'
 descuento: '53.91'
 average: '58.99'

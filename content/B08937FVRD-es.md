@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Raniaco Rallador & Rallador de Queso - Rallador de Cocina Ralladores Acero Inoxidable para Queso  Limón  Ajo  Zester de Cítricos con Cubierta Protectora Suave  Base de Goma de Mano Larga'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08937FVRD/?tag=tolees-21'
 descuento: '63.67'
 average: '7.980000000000001'

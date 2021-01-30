@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Lacoste Ah3467 suéter  Azul Farine-Marine Multicolore M65  X-Small  Talla del Fabricante: 2  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G7DQ95W/?tag=tolees-21'
 descuento: '48.71'
 average: '56.42'

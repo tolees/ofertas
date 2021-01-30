@@ -16,6 +16,7 @@ comparePrice: 0.21 EUR
 prodname: 'Nuevo 8 Cnady Colors Stylus Pen Crystal 2 in1 Pantalla táctil Stylus Ballpoint Pen para iPhone iPad Samsung Galaxy Tablet Teléfono para PC - Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TMPYF8Q/?tag=tolees-21'
 descuento: '33.33'
 average: '0.14'

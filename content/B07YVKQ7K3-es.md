@@ -16,6 +16,7 @@ comparePrice: 62.99 EUR
 prodname: 'Pack 1-2: Star Trek Discovery  BD  [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YVKQ7K3/?tag=tolees-21'
 descuento: '50.01'
 average: '34.919999999999995'

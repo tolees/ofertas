@@ -16,6 +16,7 @@ comparePrice: 194.0 EUR
 prodname: 'Versace Jeans CoutureMarsupioMujerBolso de manoAzul  Blu 285  9x15x24 centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NLKVTCJ/?tag=tolees-21'
 descuento: '62.57'
 average: '101.22999999999999'

@@ -16,6 +16,7 @@ comparePrice: 32 EUR
 prodname: 'Calvin Klein Unlined Bralette Sujetador sin Aros  Negro  Black 001   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078WVRFGL/?tag=tolees-21'
 descuento: '40.66'
 average: '18.99'

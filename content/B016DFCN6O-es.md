@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'URAQT Cartera Delgada De Cuero  Delgado Minimalista Carteras Del Bolsillo Del Frente Para Los Hombres Tarjeta De Crédito Caso  Bloqueo Del RFID  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016DFCN6O/?tag=tolees-21'
 descuento: '44.49'
 average: '4.99'

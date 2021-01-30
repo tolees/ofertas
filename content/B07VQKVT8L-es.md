@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'HJ Dispensador de Jabón Automático de Acero Inoxidable  Sensor de Movimiento por Infrarrojos  Base Impermeable  Interruptor Ajustable  para Baño  Cocinas  Hotel  Jabón Líquido  Champú  Loción  etc.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VQKVT8L/?tag=tolees-21'
 descuento: '25.01'
 average: '14.99'

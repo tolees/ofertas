@@ -16,6 +16,7 @@ comparePrice: 92.98 EUR
 prodname: 'Valeton Dapper Mini Stage Session Gigging Gear Overdrive Distortion Chorus Delay Guitar Pedal multiefectos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XR9TVPG/?tag=tolees-21'
 descuento: '51.04'
 average: '45.52'

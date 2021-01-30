@@ -16,6 +16,7 @@ comparePrice: 40.31 EUR
 prodname: 'DELIMIRA Mujer Sujetador Deportivo Talla Grande de Alto Impacto Copas Moldeadas con Aros Beige ES:100C  EU 85C '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L6CCH73/?tag=tolees-21'
 descuento: '35.52'
 average: '25.99'

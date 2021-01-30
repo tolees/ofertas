@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Cressi Kangaroo Dry Pouch Bolsa Impermeable para Teléfono móvil y para Objetos  Rosa Claro  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P9S61CS/?tag=tolees-21'
 descuento: '34.97'
 average: '13.0'

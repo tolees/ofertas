@@ -16,6 +16,7 @@ comparePrice: 26.17 EUR
 prodname: 'Jack & Jones Jjikenso Jjchino Shorts AKM 432 STS Pantalones Cortos  Vajilla  S para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085XJ9KBN/?tag=tolees-21'
 descuento: '43.29'
 average: '14.84'

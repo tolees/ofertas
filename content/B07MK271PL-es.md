@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'steanum Cargador Inalámbrico Coche  Qi 10W Carga Rápida Gravedad Cargador Inalámbrico Coche Soporte Móvi del Aire con Galaxy s9/s9+/s8/8+/7/6  7.5W Compatible para iPhone 11/11Pro/XS/XS Max/XR/X/8/8+'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MK271PL/?tag=tolees-21'
 descuento: '43.49'
 average: '25.99'

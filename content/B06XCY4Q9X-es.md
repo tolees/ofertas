@@ -16,6 +16,7 @@ comparePrice: 5.06 EUR
 prodname: 'Caja Lata del Almacenaje Caramelo Organizador de Galletas Té Forma de Huevo Pascua Metal - #5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XCY4Q9X/?tag=tolees-21'
 descuento: '44.47'
 average: '2.81'

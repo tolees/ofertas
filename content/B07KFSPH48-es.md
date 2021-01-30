@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Adidas RUNFALCON  Zapatillas de Trail Running para Hombre  Blanco  Ftwbla/Ftwbla/Ftwbla 000   45 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFSPH48/?tag=tolees-21'
 descuento: '29.95'
 average: '34.99'

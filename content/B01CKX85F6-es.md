@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'WER Doberman Alarma casa Alarma Hogar de Seguridad SE-0137 para Ventana/Puerta Kit de Alarma'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CKX85F6/?tag=tolees-21'
 descuento: '50.02'
 average: '15.489999999999998'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Cepillo Alisador de Pelo  Abody Cepillo Iónico con 4 Niveles de Temperatura  Anti-escaldadura  Calentamiento Rápido PTC  Apagado Automático  Doble Voltaje con Guante y 2 clips '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y3P12KN/?tag=tolees-21'
 descuento: '60.01'
 average: '24.985'

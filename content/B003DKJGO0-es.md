@@ -16,6 +16,7 @@ comparePrice: 16.5 EUR
 prodname: 'L Oréal Paris Máscara de Pestañas  Volume Million Lashes  Color Negro - 10.7 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003DKJGO0/?tag=tolees-21'
 descuento: '42.48'
 average: '8.72'

@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Women s Ultra Flex Statements-12841 Trainers  Black  Black/Grey   4 UK 37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074BYFLP3/?tag=tolees-21'
 descuento: '29.95'
 average: '45.5'

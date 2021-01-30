@@ -16,6 +16,7 @@ comparePrice: 24.46 EUR
 prodname: 'BATMAN ANIMATED SERIES'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IH1Q2KA/?tag=tolees-21'
 descuento: '42.76'
 average: '14.0'

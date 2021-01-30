@@ -16,6 +16,7 @@ comparePrice: 42.2 EUR
 prodname: 'InnoTi Bandas Elásticas de Musculación y Fitness - Gomas Elásticas para Crossfit y Gimnasio en Casa - Set de Tubos de Resistencia de Latex - Asas y Cintas de Tobillos Acolchadas y Anclaje de Puerta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081H9BWPY/?tag=tolees-21'
 descuento: '29.38'
 average: '23.2'

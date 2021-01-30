@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Polti Vaporella Simply VS20.20 Plancha Generadora de Vapor con Bomba de 6.5 Bar  Gris/Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FZL78LD/?tag=tolees-21'
 descuento: '35.25'
 average: '91.33333333333333'

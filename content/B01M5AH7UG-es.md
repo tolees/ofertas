@@ -16,6 +16,7 @@ comparePrice: 74.99 EUR
 prodname: 'New Balance ML373  Zapatillas para Hombre  Azul  Navy   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M5AH7UG/?tag=tolees-21'
 descuento: '42.19'
 average: '51.85'

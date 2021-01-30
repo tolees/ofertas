@@ -16,6 +16,7 @@ comparePrice: 13.95 EUR
 prodname: 'L Oréal Brilliant Signature 311 Be Brilliant Brillo Duradero Rojo 30 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZH57YTH/?tag=tolees-21'
 descuento: '49.96'
 average: '6.98'

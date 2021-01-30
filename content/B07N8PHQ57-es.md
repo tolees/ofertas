@@ -16,6 +16,7 @@ comparePrice: 74.99 EUR
 prodname: 'Lacoste Riberac 119 Jr  Zapatillas Unisex Niños  Blanco  White 737cuj0020wn1   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N8PHQ57/?tag=tolees-21'
 descuento: '50.74'
 average: '38.105000000000004'

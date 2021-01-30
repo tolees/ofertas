@@ -16,6 +16,7 @@ comparePrice: 169.99 EUR
 prodname: 'LOBKIN Bluetooth Wireless Earbuds  Latest Bluetooth 5.0 Deep Bass Dual-Microphone True Wireless Sports Earbuds with Easy Pair Tech and Portable Case  Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MLCC3S5/?tag=tolees-21'
 descuento: '82.36'
 average: '29.615'

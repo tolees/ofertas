@@ -16,6 +16,7 @@ comparePrice: 219.0 EUR
 prodname: 'Pulsar Reloj de Pulsera PZ4035X1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BDL4Z5K/?tag=tolees-21'
 descuento: '53.74'
 average: '101.3'

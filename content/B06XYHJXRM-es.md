@@ -16,6 +16,7 @@ comparePrice: 33.95 EUR
 prodname: 'Montse Interiors Juego de sábanas Estampado Colores  Piezas Construcción L  para cama de 90x190/200 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XYHJXRM/?tag=tolees-21'
 descuento: '41.24'
 average: '19.95'

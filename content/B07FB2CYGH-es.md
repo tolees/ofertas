@@ -16,6 +16,7 @@ comparePrice: 16.97 EUR
 prodname: 'Eucerin Filtro solar corporal - 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FB2CYGH/?tag=tolees-21'
 descuento: '60.46'
 average: '6.71'

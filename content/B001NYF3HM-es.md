@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Reebok Classic Leather Zapatillas  Mujer  Blanco  38.5 EU / 5.5 UK / 8 US'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001NYF3HM/?tag=tolees-21'
 descuento: '64.47'
 average: '35.93'

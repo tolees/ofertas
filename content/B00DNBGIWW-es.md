@@ -16,6 +16,7 @@ comparePrice: 51.99 EUR
 prodname: 'SELECT Trainigsjacke Ultimate Trainingsjacke - Soft Shell para niño  Color Azul  Talla 10 años  140 cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DNBGIWW/?tag=tolees-21'
 descuento: '72.13'
 average: '14.49'

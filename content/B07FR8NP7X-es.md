@@ -16,6 +16,7 @@ comparePrice: 269.39 EUR
 prodname: 'Imperial Confort Copenhague - Colchón doble Acolchado Viscoelástico + Grafeno - Máxima adaptabilidad y Confort - Altura 25 cm  135x200 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FR8NP7X/?tag=tolees-21'
 descuento: '45.35'
 average: '147.21'

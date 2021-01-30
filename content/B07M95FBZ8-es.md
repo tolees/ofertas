@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee Scarlett Pantalones  Rosa  Cameo Pink 94   W27/L31 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M95FBZ8/?tag=tolees-21'
 descuento: '91.77'
 average: '10.234'

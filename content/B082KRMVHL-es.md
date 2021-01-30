@@ -16,6 +16,7 @@ comparePrice: 79.98 EUR
 prodname: 'K9CK Juego de Luces para Lego Technic Land Rover Defender 42110  Led Faro Kit de Iluminación Compatible con Modelo Lego - Versión RC  NO Incluido en el Modelo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082KRMVHL/?tag=tolees-21'
 descuento: '50.00'
 average: '39.99'

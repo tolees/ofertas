@@ -16,6 +16,7 @@ comparePrice: 100 EUR
 prodname: 'POC POCito Retina Máscaras Nieve  Unisex niños  Rosa  Fluorescent Pink   One Size'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GTNIKMG/?tag=tolees-21'
 descuento: '29.05'
 average: '70.95'

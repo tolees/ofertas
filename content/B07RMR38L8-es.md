@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'JACK & JONES Jcomondo Sweat Hood Capucha  Gris Light Grey Melange  Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RMR38L8/?tag=tolees-21'
 descuento: '40.15'
 average: '17.04'

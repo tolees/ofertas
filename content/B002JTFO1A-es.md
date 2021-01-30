@@ -16,6 +16,7 @@ comparePrice: 17.25 EUR
 prodname: 'Lancome Hypnose Drama - Rímel negro 6.5 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002JTFO1A/?tag=tolees-21'
 descuento: '44.93'
 average: '9.5'

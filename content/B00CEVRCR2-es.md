@@ -16,6 +16,7 @@ comparePrice: 599.0 EUR
 prodname: 'Vanguard Endeavor HD 82A - Telescopio Terrestre ED  Angular 82 mm  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CEVRCR2/?tag=tolees-21'
 descuento: '36.16'
 average: '382.42'

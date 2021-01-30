@@ -16,6 +16,7 @@ comparePrice: 34.93 EUR
 prodname: 'LEDKIA LIGHTING Lámpara de Techo Orientable Ates 4 Focos Negro Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BNKSKP5/?tag=tolees-21'
 descuento: '28.57'
 average: '24.95'

@@ -16,6 +16,7 @@ comparePrice: 2427.23 EUR
 prodname: 'Explore Scientific Deep Sky Astro - Cámara de Fotos a Color'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WC4P9GX/?tag=tolees-21'
 descuento: '48.76'
 average: '1932.546'

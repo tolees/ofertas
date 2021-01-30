@@ -16,6 +16,7 @@ comparePrice: 11.09 EUR
 prodname: 'Magic Studio Matte Vs Metallic Lip Colors  Talla Única  Pack de 1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y8PDZRG/?tag=tolees-21'
 descuento: '37.33'
 average: '6.95'

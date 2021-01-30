@@ -16,6 +16,7 @@ comparePrice: 38.08 EUR
 prodname: 'HongHu Vocaloid MIKU Peluca larga y recta con lado Doble peluca de cola de caballo Anime Cosplay Pelucas de fiesta de pelo completo Destaque de gradiente Azul marino'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KP98ZY1/?tag=tolees-21'
 descuento: '57.88'
 average: '16.04'

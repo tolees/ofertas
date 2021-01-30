@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Maidenform Love The Lift Push-up and In Strapless Sujetador  Negro  Black Xbk   95B  Talla del Fabricante: 36B  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077YMLXDD/?tag=tolees-21'
 descuento: '34.63'
 average: '32.65'

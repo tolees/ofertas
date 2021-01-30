@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'POP! Vinilo - Seraph of the End: Ferid Bathory'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NCEJ1YA/?tag=tolees-21'
 descuento: '40.03'
 average: '8.99'

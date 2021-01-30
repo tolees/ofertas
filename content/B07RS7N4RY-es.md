@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Calvin Klein - Revealed 2g Mini Reporter  Organizadores de bolsos Hombre  Verde  Dark Olive   0.1x0.1x0.1 cm  W x H L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RS7N4RY/?tag=tolees-21'
 descuento: '70.34'
 average: '28.99666666666667'

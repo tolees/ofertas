@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'Kärcher Aspirador Multiuso Wd 3 Baterías Premium  67 W  17 litros  Sin batería y con control de encendido  Metal  Negro  Amarillo  Model nuevo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077ZL6FYH/?tag=tolees-21'
 descuento: '51.06'
 average: '58.80166666666667'

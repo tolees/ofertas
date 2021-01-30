@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'JORLAI 33/45/78 Tocadiscos con Pantalla LCD Radio FM Am Reproductor de Vinilo con Grabación Bluetooth USB / SD y Reproductor de MP3 Salida de Línea AUX RCA para Altavoz Externo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078XB9HT9/?tag=tolees-21'
 descuento: '49.34'
 average: '75.99'

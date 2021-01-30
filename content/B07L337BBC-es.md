@@ -16,6 +16,7 @@ comparePrice: 62.49 EUR
 prodname: 'Asics Patriot 11  Zapatillas de Running para Hombre  Negro  Black/White 001   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L337BBC/?tag=tolees-21'
 descuento: '28.76'
 average: '42.67666666666667'

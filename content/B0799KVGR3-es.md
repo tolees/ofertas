@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'BOSS Jeeko sz40 10207238 01  Cinturón Hombre  Negro  Black 1   85'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0799KVGR3/?tag=tolees-21'
 descuento: '70.32'
 average: '21.486666666666668'

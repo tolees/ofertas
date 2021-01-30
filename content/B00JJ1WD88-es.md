@@ -16,6 +16,7 @@ comparePrice: 37.65 EUR
 prodname: 'Coleman 16Qt Nevera Rígida  Unisex Adulto  Azul  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JJ1WD88/?tag=tolees-21'
 descuento: '25.76'
 average: '31.436666666666667'

@@ -16,6 +16,7 @@ comparePrice: 47.78 EUR
 prodname: 'Philips SHB-3175BK/00 BASS+ Auriculares Wireless  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P9W1S8H/?tag=tolees-21'
 descuento: '32.59'
 average: '31.864285714285714'

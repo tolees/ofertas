@@ -16,6 +16,7 @@ comparePrice: 16.32 EUR
 prodname: 'Wella Sp Volumize Shampoo Champú - 250 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0039NSI1I/?tag=tolees-21'
 descuento: '38.85'
 average: '10.379999999999999'

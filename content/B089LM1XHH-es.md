@@ -16,6 +16,7 @@ comparePrice: 3.98 EUR
 prodname: 'Firoya 50pcs Lila  Triple Capa Transpirable Cómodo para la Salud Facial'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089LM1XHH/?tag=tolees-21'
 descuento: '25.13'
 average: '2.98'

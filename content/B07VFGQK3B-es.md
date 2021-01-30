@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'EXTRASTAR Repetidor WiFi 300Mbps Extensor de Red WiFi Amplificador Enrutador Inalámbrico 2.4G   Puerto LAN/WAN Ethernet  2 Antenas con Enchufe '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VFGQK3B/?tag=tolees-21'
 descuento: '40.97'
 average: '13.582857142857142'

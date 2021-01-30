@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Lúdilo Guinness World Records Challenges  80351 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074FXRW4R/?tag=tolees-21'
 descuento: '68.17'
 average: '12.181818181818183'

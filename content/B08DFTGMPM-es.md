@@ -16,6 +16,7 @@ comparePrice: 5.07 EUR
 prodname: '50 colores 100 colores hilo de punto de cruz hilo de bordado de algodón poliéster hilo de color arco iris bordado a mano hilo trenzado - colorido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DFTGMPM/?tag=tolees-21'
 descuento: '33.53'
 average: '3.37'

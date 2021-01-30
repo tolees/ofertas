@@ -16,6 +16,7 @@ comparePrice: 7.19 EUR
 prodname: 'MOLDE ESPELTA BLANCO BLAND BIO'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UMZT4XW/?tag=tolees-21'
 descuento: '34.49'
 average: '4.71'

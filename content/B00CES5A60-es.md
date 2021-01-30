@@ -16,6 +16,7 @@ comparePrice: 129.98 EUR
 prodname: 'Logitech C930e Business Webcam  Video-Llamadas Full HD 1080p/30fps  Corrección y Enfoque Automáticos  Zoom 4X  Tapa de Privacidad  Skype Business  WebEx  Lync  Cisco  PC/Mac/Portátil/Macbook/Chrome'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CES5A60/?tag=tolees-21'
 descuento: '30.77'
 average: '83.41666666666666'

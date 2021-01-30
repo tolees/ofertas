@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Mansso Cámara para Niños con Tarjeta TF 16GB Cámara Digitale Selfie para Niños Video cámara Infantil con Pantalla de 2 Pulgadas HD 1080P Doble Objetivo a Prueba de Golpes Carcasa de Silicona'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YXWDVTL/?tag=tolees-21'
 descuento: '48.34'
 average: '37.99'

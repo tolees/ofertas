@@ -16,6 +16,7 @@ comparePrice: 12.98 EUR
 prodname: 'Oihxse Compatible con Motorola Moto G6 Plus Silicona Funda Transparente Gel TPU Flexible Protectora Carcasa Dibujos Elefante Patrón Ultra Thin Estuche Cover Case D2 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088W5SVYB/?tag=tolees-21'
 descuento: '38.52'
 average: '7.98'

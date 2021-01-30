@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Vans Old Skool Platform  Zapatillas para Mujer  Negro  Black/Black Bka   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XHKJRYQ/?tag=tolees-21'
 descuento: '26.56'
 average: '62.42'

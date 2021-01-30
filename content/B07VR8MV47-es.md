@@ -16,6 +16,7 @@ comparePrice: 31.52 EUR
 prodname: 'Skechers GO Walk Lite  Zapatillas para Mujer  Beige Natural Textile Trim Nat  39.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VR8MV47/?tag=tolees-21'
 descuento: '34.39'
 average: '20.68'

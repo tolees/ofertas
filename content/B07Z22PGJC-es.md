@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Panasonic ES-RW31-K503 - Afeitadora y recortadora para hombre  2 en 1  hojas precisión nanométrica  cabezal giratorio flexible  lavable  hojas dobles  luz de carga  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z22PGJC/?tag=tolees-21'
 descuento: '36.59'
 average: '24.73'

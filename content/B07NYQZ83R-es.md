@@ -16,6 +16,7 @@ comparePrice: 121.99 EUR
 prodname: 'San Ignacio Professional Chef Copper Cocina  Set 3 sartenes + 4 cuchillos + 3 utensilios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NYQZ83R/?tag=tolees-21'
 descuento: '58.20'
 average: '67.57'

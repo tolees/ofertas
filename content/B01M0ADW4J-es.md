@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Brabantia Newicon Cubo de Basura con Pedal  Acero Inoxidable  Amarillo  3 l'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M0ADW4J/?tag=tolees-21'
 descuento: '28.26'
 average: '19.419999999999998'

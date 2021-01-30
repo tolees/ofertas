@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'Fiambreras de Plástico Nuobk 5 Piezas Contenedores Plástico para Comida con Tapas Smart Lock Conjunto apilable de 5 piezas aptas para Microondas  Congelador y Lavavajillas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HF5C4SB/?tag=tolees-21'
 descuento: '45.18'
 average: '16.656666666666666'

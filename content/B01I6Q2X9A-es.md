@@ -16,6 +16,7 @@ comparePrice: 45.98 EUR
 prodname: 'Casa de perro suave de productos para animales de cama del perro del refugio casa del animal doméstico del gato del perrito lavable  M  Marrón '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01I6Q2X9A/?tag=tolees-21'
 descuento: '43.48'
 average: '25.615'

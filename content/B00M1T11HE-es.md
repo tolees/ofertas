@@ -16,6 +16,7 @@ comparePrice: 7.14 EUR
 prodname: 'Yazilind deslumbrante Ba?ado En Plata corte rojoondo champ¨¢n Pendientes Circonita garra larga noble colgantes con c¨²bico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00M1T11HE/?tag=tolees-21'
 descuento: '64.99'
 average: '2.5'

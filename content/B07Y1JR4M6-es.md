@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'AUTLEAD C5 - Compresor Aire Coche  12V Compresor de Aire Portátil  Compresor Ruedas Coche con Apagado Automático  Luz LED  Manómetro  4 Adaptadores de Boquilla'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y1JR4M6/?tag=tolees-21'
 descuento: '50.01'
 average: '29.389999999999997'

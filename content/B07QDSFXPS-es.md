@@ -16,6 +16,7 @@ comparePrice: 55.99 EUR
 prodname: 'MTNG Collection 58640  Botas Altas para Mujer  Negro  Antil Negro C35442   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QDSFXPS/?tag=tolees-21'
 descuento: '59.40'
 average: '22.73'

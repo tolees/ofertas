@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'New Balance WX624WB4  Zapatillas para Mujer  Blanco  white/blue   41 EU  7.5 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013WGG2GO/?tag=tolees-21'
 descuento: '54.19'
 average: '32.07'

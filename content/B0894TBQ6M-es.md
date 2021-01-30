@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'REDSTORM Espejo Con Luz De Mano Para Maquillaje  Aumentos 10X  Espejo Compacto Portátil Ligero  Espejo Pequeño Con Luz LED Natural  Espejo Portátil Para Viajar y Bolsos.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0894TBQ6M/?tag=tolees-21'
 descuento: '25.02'
 average: '11.99'

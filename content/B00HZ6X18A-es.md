@@ -16,6 +16,7 @@ comparePrice: 13.2 EUR
 prodname: 'MUSTELA LECHE SOLAR ROSTRO 50+ 40 ML'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HZ6X18A/?tag=tolees-21'
 descuento: '47.35'
 average: '6.95'

@@ -16,6 +16,7 @@ comparePrice: 58.32 EUR
 prodname: 'Grohe - Cartucho 46mm  con discos cerámicos y limitador eco  Ref. 46048000 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000P0BCNY/?tag=tolees-21'
 descuento: '57.53'
 average: '25.60333333333333'

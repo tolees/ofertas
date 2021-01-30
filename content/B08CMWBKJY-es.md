@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'PROZOR HDMI Splitter 1X2 HDMI Switch 4Kx2K HD 2160P con Cable USB de Alimentación 1 Entrada 2 Salidas Distributor de Señal Soportar Full HD 3D HDCP1.4 UHD para HDTV PC DVD PS3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CMWBKJY/?tag=tolees-21'
 descuento: '37.52'
 average: '9.99'

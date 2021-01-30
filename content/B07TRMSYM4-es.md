@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Levi s Plus Size Pl 501 Original Short Pantalones Cortos  Gris  Eat Your Words Plus 0002   Talla Única  Talla del Fabricante: 18  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TRMSYM4/?tag=tolees-21'
 descuento: '50.00'
 average: '27.5'

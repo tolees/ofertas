@@ -16,6 +16,7 @@ comparePrice: 189.0 EUR
 prodname: 'Daniel Wellington 0106DW Reloj Analógico para Hombre de Cuero Marrón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BKQT5RC/?tag=tolees-21'
 descuento: '63.16'
 average: '77.63333333333334'

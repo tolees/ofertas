@@ -16,6 +16,7 @@ comparePrice: 7.68 EUR
 prodname: 'Imation I18646 - Pack de CD-R vírgenes  25 unidades  80 minutos '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GONJGIS/?tag=tolees-21'
 descuento: '29.69'
 average: '5.4'

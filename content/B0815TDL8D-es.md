@@ -16,6 +16,7 @@ comparePrice: 45.34 EUR
 prodname: 'Luz de noche  lámpara de noche Smart Touch  Luz blanca cálida regulable de 3 niveles y seis colores que cambian de color RGB   DT-2 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0815TDL8D/?tag=tolees-21'
 descuento: '55.91'
 average: '19.99'

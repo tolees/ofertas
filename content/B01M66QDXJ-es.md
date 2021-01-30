@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Badabulle B022002 - Anillo de baño plegable montaña'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M66QDXJ/?tag=tolees-21'
 descuento: '28.26'
 average: '20.7'

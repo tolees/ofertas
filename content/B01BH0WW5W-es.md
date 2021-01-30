@@ -16,6 +16,7 @@ comparePrice: 29.5 EUR
 prodname: 'S&R 25 Discos de corte 125 Metal y Acero INOX .Set de 25 disco para amoladora 125'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BH0WW5W/?tag=tolees-21'
 descuento: '32.54'
 average: '19.9'

@@ -16,6 +16,7 @@ comparePrice: 99 EUR
 prodname: '2020 Neuf Appareil Photo pour Enfants Appareil Photo/Vidéo 1080p HD Appareil Photo Numérique pour Enfants Avec Flash écran LCD 2 Pouces/Carte de 32G Rosa-4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082F9S3FT/?tag=tolees-21'
 descuento: '39.40'
 average: '59.99'

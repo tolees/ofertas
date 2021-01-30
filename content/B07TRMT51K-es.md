@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Levi s Graphic Sport Capucha  Gris  Hoodie T3 90 s Serif Forged Iron 0127   2XS para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TRMT51K/?tag=tolees-21'
 descuento: '37.16'
 average: '43.99'

@@ -16,6 +16,7 @@ comparePrice: 97.96 EUR
 prodname: 'adidas I-5923  Zapatillas de Gimnasia para Hombre  Blanco Raw Crystal FTWR White  42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K12HYWB/?tag=tolees-21'
 descuento: '48.96'
 average: '50'

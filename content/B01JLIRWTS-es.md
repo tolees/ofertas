@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Hugo Boss Orange 1513408 - Reloj de pulsera para hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JLIRWTS/?tag=tolees-21'
 descuento: '51.16'
 average: '69.82'

@@ -16,6 +16,7 @@ comparePrice: 35.7 EUR
 prodname: 'L Oreal Men Expert Pure Charcoal  Gel Limpiador Anti-Imperfecciones con Carbón Purificante  1 Paquete de 6 Unidades x 100 ml - Total: 600 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SVMYQLJ/?tag=tolees-21'
 descuento: '65.35'
 average: '12.37'

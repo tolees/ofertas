@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Cargador rápido modular Samsung – 2 amperios con cable de datos micro USB/cable de carga para modelos Samsung Modelos con puerto de carga micro USB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00V0HI4PK/?tag=tolees-21'
 descuento: '26.62'
 average: '9.99'

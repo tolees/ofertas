@@ -16,6 +16,7 @@ comparePrice: 79 EUR
 prodname: 'Reloj Viceroy - Chicos 401055-05'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MUEEM3B/?tag=tolees-21'
 descuento: '50.00'
 average: '47.4'

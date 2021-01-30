@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Fossil Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero FS5210IE'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K28QLNH/?tag=tolees-21'
 descuento: '40.00'
 average: '77.4'

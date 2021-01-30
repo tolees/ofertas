@@ -16,6 +16,7 @@ comparePrice: 30.27 EUR
 prodname: 'SWIHELP Organizadores para Coche  2 Pack Kick Mats de Coche Organizador para Asientos de Coches  Universal Multi-Bolsillo Protector Trasero del Asiento de Coche para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W6Q4G5H/?tag=tolees-21'
 descuento: '54.77'
 average: '13.69'

@@ -16,6 +16,7 @@ comparePrice: 160.37 EUR
 prodname: 'Casio Reloj Analógico-Digital para Hombre de Cuarzo con Correa en Resina GA-2000-3AER'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RRR54LX/?tag=tolees-21'
 descuento: '39.02'
 average: '97.8'

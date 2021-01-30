@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'iMagicBox- Street Edition  Cife Spain 41374 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079NN9NR1/?tag=tolees-21'
 descuento: '57.60'
 average: '17.965'

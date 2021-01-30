@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'LEXIBOOK Powerman: el Robot Educativo Inteligente para Jugar y Aprender  Baila  Canta  Cuenta Chistes  Mando a distanc Distancia  Color Blanco  ROB50ES '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HXH7DYD/?tag=tolees-21'
 descuento: '40.01'
 average: '34.40857142857143'

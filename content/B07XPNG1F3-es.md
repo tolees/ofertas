@@ -16,6 +16,7 @@ comparePrice: 119.84 EUR
 prodname: 'Jevogh GR28D Parte de Repuesto para Coche'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XPNG1F3/?tag=tolees-21'
 descuento: '77.72'
 average: '26.7'

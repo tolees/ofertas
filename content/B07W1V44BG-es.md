@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Ultra Flex Candy Cravings  Zapatillas para Mujer  Blanco Blanco Blanco Malla Ribete Wht  37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W1V44BG/?tag=tolees-21'
 descuento: '64.30'
 average: '23.265'

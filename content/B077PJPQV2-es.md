@@ -16,6 +16,7 @@ comparePrice: 314.99 EUR
 prodname: 'AMD E1-7010 - 4GB - 1TB -  DVD Supermulti - Teclado y Ratón USB  - Windows 10'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077PJPQV2/?tag=tolees-21'
 descuento: '37.43'
 average: '219.01222222222225'

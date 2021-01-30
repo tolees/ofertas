@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'TBS Globek  Mocasines para Hombre  Negro  45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004JNXLX2/?tag=tolees-21'
 descuento: '44.23'
 average: '71.94'

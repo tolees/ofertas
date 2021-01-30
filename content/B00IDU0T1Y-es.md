@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Sabrent Adaptador de Cable de Impresora USB a Paralelo IEEE 1284  CB-CN36 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IDU0T1Y/?tag=tolees-21'
 descuento: '33.36'
 average: '9.99'

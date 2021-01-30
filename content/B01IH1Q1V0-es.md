@@ -16,6 +16,7 @@ comparePrice: 26.66 EUR
 prodname: 'Batman Animated Series New Batman Adventures Catwoman Action Figure'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IH1Q1V0/?tag=tolees-21'
 descuento: '43.74'
 average: '15.0'

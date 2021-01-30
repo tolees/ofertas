@@ -16,6 +16,7 @@ comparePrice: 32.95 EUR
 prodname: 'Mobiclinic  Mezquita  Andador para ancianos  mayores  adultos o minusválidos  ayuda para caminar  regulable en altura  aluminio  ligero  plegable  sin ruedas  empuñaduras ergonómicas  gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071CX5YD4/?tag=tolees-21'
 descuento: '31.71'
 average: '22.5'

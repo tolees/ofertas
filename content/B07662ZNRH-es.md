@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'BOSS Schino-Slim D Pantalones  Azul  Open Blue 463   W33/L34 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07662ZNRH/?tag=tolees-21'
 descuento: '50.03'
 average: '49.95'

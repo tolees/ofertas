@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Hama 00101219 maletines para portátil 43 9 cm  17.3"  Maletín Negro - Funda  Maletín  43 9 cm  17.3"   Tirante para Hombro  1 14 kg  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HS3GQAU/?tag=tolees-21'
 descuento: '26.61'
 average: '36.24'

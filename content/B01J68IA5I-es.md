@@ -16,6 +16,7 @@ comparePrice: 80.99 EUR
 prodname: '[casa.pro] Set de 2 tumbonas plegables 190cm beige con parasol hamaca de acero para playa  jardín y piscina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01J68IA5I/?tag=tolees-21'
 descuento: '26.18'
 average: '59.89'

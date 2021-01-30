@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Controlador Cepillo  24V 350W Controlador para Bicicletas Eléctricas  Patinete Eléctrico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YGNQ251/?tag=tolees-21'
 descuento: '30.01'
 average: '14.69'

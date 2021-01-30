@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Pasito a Pasito Canastilla Acolchada Ines - Bolsa  unisex  color gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075DC3LR4/?tag=tolees-21'
 descuento: '37.55'
 average: '48.325'

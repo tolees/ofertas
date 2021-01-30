@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'AGPTEK Portátil Ventilador de Mano Silencioso con Luz de Color y Batería Recargable de 2600mAh para Oficina  Viajes  Ejercicio al Aire Libre  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QWRZZVX/?tag=tolees-21'
 descuento: '25.01'
 average: '14.99'

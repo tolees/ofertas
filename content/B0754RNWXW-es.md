@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Salomon Agile Mid Tight W Mallas 3/4 para Running  Mezcla de sintéticos  Mujer  Negro  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0754RNWXW/?tag=tolees-21'
 descuento: '33.02'
 average: '33.49'

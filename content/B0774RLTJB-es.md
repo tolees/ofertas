@@ -16,6 +16,7 @@ comparePrice: 21.85 EUR
 prodname: 'Pop Booster Gold & Blue Beetle Vinyl Figure 2 Pack'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0774RLTJB/?tag=tolees-21'
 descuento: '29.15'
 average: '15.48'

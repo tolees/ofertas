@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Kipling - New Hiphurray L Fold  Bolsos totes Mujer  Blanco  Lively White   0.1x45x49.5 cm  B x H T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BHBNWCD/?tag=tolees-21'
 descuento: '60.93'
 average: '15.59'

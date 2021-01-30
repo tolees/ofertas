@@ -16,6 +16,7 @@ comparePrice: 7.09 EUR
 prodname: 'WIDMANN 23945 Hinchable Rock Guitarra  One Size'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00O1XD98W/?tag=tolees-21'
 descuento: '76.16'
 average: '1.69'

@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'BOSS Schino-Slim D Pantalones  Rojo  Medium Red 615   W42/L34  Talla del Fabricante: 4234  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S1VZXJ4/?tag=tolees-21'
 descuento: '64.84'
 average: '35.14'

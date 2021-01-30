@@ -16,6 +16,7 @@ comparePrice: 38.9 EUR
 prodname: 'Bosch TWK3A011 Hervidor de Agua  1.7 litros  2400 W  Color Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008WK1PCC/?tag=tolees-21'
 descuento: '26.74'
 average: '25.098'

@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Go Walk 5 Prized  Zapatillas para Mujer  Negro  Black Textile/Trim Bkpk   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N14DMWQ/?tag=tolees-21'
 descuento: '31.21'
 average: '48.12'

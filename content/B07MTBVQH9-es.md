@@ -16,6 +16,7 @@ comparePrice: 47.63 EUR
 prodname: 'iMucci - Juego de Accesorios de baño con dispensador de jabón y loción para Cepillo de Dientes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MTBVQH9/?tag=tolees-21'
 descuento: '47.53'
 average: '24.99'

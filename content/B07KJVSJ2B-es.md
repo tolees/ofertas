@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Columbia Conspiracy V Outdry  Zapatillas de Senderismo para Mujer  Gris  Monument  Black 036   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KJVSJ2B/?tag=tolees-21'
 descuento: '71.88'
 average: '33.74'

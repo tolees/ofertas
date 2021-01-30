@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Merrell Nova GTX  Zapatillas de Running para Asfalto para Hombre  Negro  Black   44.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DYH6JZY/?tag=tolees-21'
 descuento: '37.14'
 average: '88.0'

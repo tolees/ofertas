@@ -16,6 +16,7 @@ comparePrice: 21.17 EUR
 prodname: 'Fast & Furious 8 [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071R3FYRG/?tag=tolees-21'
 descuento: '33.92'
 average: '13.99'

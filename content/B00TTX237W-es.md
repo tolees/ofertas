@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Farmalas Tobilleras  rodilleras  férulas y cabestrillos 1 Unidad 100 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TTX237W/?tag=tolees-21'
 descuento: '25.13'
 average: '14.9'

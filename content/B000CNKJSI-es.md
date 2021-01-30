@@ -16,6 +16,7 @@ comparePrice: 22.03 EUR
 prodname: 'Jaguar Blue - Agua de toilette  100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000CNKJSI/?tag=tolees-21'
 descuento: '26.92'
 average: '18.77'

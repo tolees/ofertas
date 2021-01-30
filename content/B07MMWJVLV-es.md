@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Wrangler High Rise Skinny Jeans  Azul  Blue Black 51l   26W / 32L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MMWJVLV/?tag=tolees-21'
 descuento: '84.39'
 average: '13.100000000000001'

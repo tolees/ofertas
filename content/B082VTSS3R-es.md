@@ -16,6 +16,7 @@ comparePrice: 5.95 EUR
 prodname: 'Dodot Splashers Pañales Bañadores Desechables  No se Hinchan y Fácil de Quitar  Talla 4  9-15 kg - 11 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082VTSS3R/?tag=tolees-21'
 descuento: '25.21'
 average: '5.033333333333333'

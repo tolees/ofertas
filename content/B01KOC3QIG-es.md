@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Beurer MP 55 Máquina para Callos Recargable  Eliminador de Durezas  Blanco  Rosa  16 8 x 7 3 x 5 0 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KOC3QIG/?tag=tolees-21'
 descuento: '29.88'
 average: '34.49'

@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Pop! The Predator - Figura de Vinilo Predator Hound X6   color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFDK1ZR/?tag=tolees-21'
 descuento: '56.11'
 average: '7.5'

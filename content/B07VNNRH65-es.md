@@ -16,6 +16,7 @@ comparePrice: 58.9 EUR
 prodname: 'Calvin Klein Medium Drawstring Bañador  Rojo  High Risk XBG   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VNNRH65/?tag=tolees-21'
 descuento: '37.86'
 average: '36.6'

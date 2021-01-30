@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Funko-Disney: Aladdin: Abu Pop Vinilo  Multicolor  9 cm  24923 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076FCRHMS/?tag=tolees-21'
 descuento: '30.47'
 average: '10.246666666666666'

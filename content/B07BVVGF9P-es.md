@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Proficare BHT 3015 - Set de Cortapelo  afeitadora corporal  recortador de precisión  cortador oido y nariz  batería recargable  azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BVVGF9P/?tag=tolees-21'
 descuento: '37.37'
 average: '24.81'

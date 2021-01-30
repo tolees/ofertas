@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Hackett London Coral Swim Trim Polo  Amarillo  022fresh Yellow 022   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VJHW8YD/?tag=tolees-21'
 descuento: '60.00'
 average: '38.0'

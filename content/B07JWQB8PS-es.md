@@ -16,6 +16,7 @@ comparePrice: 32.1 EUR
 prodname: 'Pepe Jeans Pixlette High Pg201164 Jeans   Black Wiser Wash Denim Wv9   4-5 años  Talla del Fabricante: 104/4 años  para Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JWQB8PS/?tag=tolees-21'
 descuento: '40.40'
 average: '19.13'

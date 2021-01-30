@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'HOMYBABY Ganchos Carrito Bebé  2 pcs  | Diseño Antideslizante y Antivuelco | Velcro  Nylon  Mosquetón de Alta Resistencia | Enganches Carro Bebe para Colgar Bolsas y Bolsos del Cochecito | Universal'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N8KVKTF/?tag=tolees-21'
 descuento: '53.61'
 average: '6.49'

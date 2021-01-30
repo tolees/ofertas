@@ -16,6 +16,7 @@ comparePrice: 169.39 EUR
 prodname: 'Crucial Ballistix Sport LT BLS2K16G4D30AESC 3000 MHz  DDR4  DRAM  Memoria Gamer Kit para ordenadores de sobremesa  32 GB  16 GB x 2   CL15  Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MD3WDLS/?tag=tolees-21'
 descuento: '25.62'
 average: '125.49'

@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Jocca 5529 Freidora sin aceite  1500 W  Acero inoxidable  Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FMD0CMU/?tag=tolees-21'
 descuento: '28.10'
 average: '72.8'

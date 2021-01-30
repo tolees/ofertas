@@ -16,6 +16,7 @@ comparePrice: 7.49 EUR
 prodname: 'Intex 56640EU - Manguitos hinchables Licencia Frozen'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MU4RFF7/?tag=tolees-21'
 descuento: '75.57'
 average: '2.1220000000000003'

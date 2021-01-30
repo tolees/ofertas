@@ -16,6 +16,7 @@ comparePrice: 8.18 EUR
 prodname: 'Salki - Pistola Ec-360 8500360'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CWKGZ4G/?tag=tolees-21'
 descuento: '28.73'
 average: '5.83'

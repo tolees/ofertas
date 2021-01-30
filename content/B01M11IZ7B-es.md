@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Scottex Sensitive Papel Higiénico - 18 Rollos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M11IZ7B/?tag=tolees-21'
 descuento: '31.63'
 average: '6.83'

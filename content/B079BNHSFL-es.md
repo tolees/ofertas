@@ -16,6 +16,7 @@ comparePrice: 699.98 EUR
 prodname: 'XP-Pen 16 Pro HD IPS Tableta Gráfica con Pantalla con Teclas Express y Soporte ajustable Viene con el Último Software de Dibujo de OpenCanvas 7 o ArtRage 5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079BNHSFL/?tag=tolees-21'
 descuento: '34.43'
 average: '445.77666666666664'

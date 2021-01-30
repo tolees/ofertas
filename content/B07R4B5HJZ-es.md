@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s Big Box Tab Beanie Gorro de Punto  Azul  Navy Blue 17   Talla única  Talla del Fabricante: UN  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R4B5HJZ/?tag=tolees-21'
 descuento: '27.88'
 average: '16.68'

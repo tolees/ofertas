@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'New Super Mario Bros 2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008AJEGBC/?tag=tolees-21'
 descuento: '34.79'
 average: '35.71272727272728'

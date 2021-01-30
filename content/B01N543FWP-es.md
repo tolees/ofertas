@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Novex Mis Rizos  Capilar  - 400g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N543FWP/?tag=tolees-21'
 descuento: '52.22'
 average: '3.34'

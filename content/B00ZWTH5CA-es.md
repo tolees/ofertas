@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Bolsa Termica Comida Trabajo Porta Alimentos Isotermica Iris Neveras Portatil Desayuno Almuerzo Pequeñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ZWTH5CA/?tag=tolees-21'
 descuento: '30.78'
 average: '16.99'

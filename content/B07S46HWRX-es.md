@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Amzdeal Mesa de Luz Dibujo A3  Tablero de Luz con Brillo Ajustable  Tableta de Luz de Carga USB para Trazar Dibujos  Dibujo  Animación'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S46HWRX/?tag=tolees-21'
 descuento: '30.00'
 average: '48.99'

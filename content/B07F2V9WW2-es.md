@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Newseego Ajustador de Cinturón de Seguridad para el Coche  Clips para Cinturón de Seguridad para relajar el Cuello del Hombro  le da una Experiencia Cómoda y Segura  2 Unidades  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F2V9WW2/?tag=tolees-21'
 descuento: '42.89'
 average: '7.99'

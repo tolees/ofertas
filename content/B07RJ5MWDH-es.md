@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Levi s Tumbled Belt Cinturón  Marrón  Medium Brown 27   105 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RJ5MWDH/?tag=tolees-21'
 descuento: '50.00'
 average: '27.5'

@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'SAFETYON Accesorios para iRobot Roomba Serie 600 - Roomba Recambios de 16 Piezas de Cepillos y Filtros  Roomba Repuestos para 605 610 616 620 625 630 631 632 639 650 651 660 670 680 681 691'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XL1ZDHN/?tag=tolees-21'
 descuento: '48.59'
 average: '20.451538461538462'

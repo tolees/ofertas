@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'ENKEEO - 2 pcs Bastones Trekking Fibra de Carbono Duradero 3 Tramos Extensibles Empuñaduras de EVA contra Golpe Senderismo/Viajar/Aire Libre etc.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01I0WAS1K/?tag=tolees-21'
 descuento: '28.27'
 average: '32.99'

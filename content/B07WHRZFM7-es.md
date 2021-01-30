@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'GC Pro Cargador para Portátil ASUS F553 F553M F553MA R540L R540S X540S X553 X553M X553MA ZenBook UX303L Ordenador Adaptador de Corriente  19V 3.42A 65W '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WHRZFM7/?tag=tolees-21'
 descuento: '33.39'
 average: '19.95'

@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'The Indian Face Escalada Gorra Born to Climb Hombre y Mujer  Color Verde y Beige'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q5GPDTB/?tag=tolees-21'
 descuento: '40.00'
 average: '24.0'

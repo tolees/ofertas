@@ -16,6 +16,7 @@ comparePrice: 48.11 EUR
 prodname: 'Intenso 3533491 - Memoria USB de 128 GB  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00YMZBNLO/?tag=tolees-21'
 descuento: '63.17'
 average: '18.762'

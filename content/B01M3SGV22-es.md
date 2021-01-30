@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'TOPLUS Cadena de luces LED Blanco Cálido  10m 100 Leds  IP65 Impermeable  Alambre de Cobre para Decoración  Conexión USB  5V'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M3SGV22/?tag=tolees-21'
 descuento: '33.36'
 average: '8.19'

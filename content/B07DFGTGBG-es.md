@@ -16,6 +16,7 @@ comparePrice: 14.38 EUR
 prodname: 'Funko- Pop Vinyl: LOTR/Hobbit: Boromir Lord of The Rings Figura de Vinilo  Multicolor  Estándar  33249 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFGTGBG/?tag=tolees-21'
 descuento: '30.81'
 average: '9.27375'

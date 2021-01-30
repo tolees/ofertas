@@ -16,6 +16,7 @@ comparePrice: 38.99 EUR
 prodname: 'BEYIMEI Tarjeta de expansión Pci Express 3.0  Tarjeta USB 3.1 Tarjeta Pci-E Adaptador USB Pcie Tipo de Refuerzo E Usb3.1 Gen2 10 Gbps Tarjeta de expansión Usb2.0  Tarjeta de expansión USB3.1-Type-E'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TDCZXRJ/?tag=tolees-21'
 descuento: '28.21'
 average: '28.99'

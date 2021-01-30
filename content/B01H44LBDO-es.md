@@ -16,6 +16,7 @@ comparePrice: 17.95 EUR
 prodname: 'Universo DC - Robin Carrie Kelley vinyl pop heroes The dark knight returns  10 cm  Funko FUNVPOP9769 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01H44LBDO/?tag=tolees-21'
 descuento: '37.94'
 average: '9.243333333333334'

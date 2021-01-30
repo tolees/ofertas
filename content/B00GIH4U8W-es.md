@@ -16,6 +16,7 @@ comparePrice: 125.71 EUR
 prodname: 'RockJam RJEG01 - Paquete completo de guitarra eléctrica'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GIH4U8W/?tag=tolees-21'
 descuento: '43.62'
 average: '97.19'

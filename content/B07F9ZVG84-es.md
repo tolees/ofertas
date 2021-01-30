@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'GREAT ART Foto Mural Mapa del Mundo Vintage 336 x 238 cm - Papel Pintado 8 Piezas incluye Pasta para pegar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F9ZVG84/?tag=tolees-21'
 descuento: '58.42'
 average: '49.9'

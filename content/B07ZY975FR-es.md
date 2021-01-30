@@ -16,6 +16,7 @@ comparePrice: 7.69 EUR
 prodname: 'Bruni Película Protectora Compatible con Fossil Sport 41 mm Protector Película  Claro Lámina Protectora  2X '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZY975FR/?tag=tolees-21'
 descuento: '52.02'
 average: '3.69'

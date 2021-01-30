@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Cable iPhone [Apple Certificado] IQIYI 1M Cable de Carga y Sincronización para iPhone 7/7 Plus SE/6s/6/6 Plus/6s Plus iPhone 5/iPad Air 2 /iPad Mini 3/ iPod 5/iPod Nano 7.Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0722XYX6C/?tag=tolees-21'
 descuento: '31.13'
 average: '6.88'

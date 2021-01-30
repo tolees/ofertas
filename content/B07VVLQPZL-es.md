@@ -16,6 +16,7 @@ comparePrice: 249.99 EUR
 prodname: 'Garmin Vivomove 3 sport 44 - Reloj inteligente  color gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VVLQPZL/?tag=tolees-21'
 descuento: '31.90'
 average: '170.25'

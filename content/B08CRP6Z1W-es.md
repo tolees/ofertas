@@ -16,6 +16,7 @@ comparePrice: 19.78 EUR
 prodname: 'ZZZXX Pintar por Numeros Niños Chicas Sexy Niños Pintura por Números con Pinceles Y Pinturas Decoraciones para El Hogar  16 * 20 Pulgadas  Sin Marco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CRP6Z1W/?tag=tolees-21'
 descuento: '34.33'
 average: '12.99'

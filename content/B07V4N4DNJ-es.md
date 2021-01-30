@@ -16,6 +16,7 @@ comparePrice: 94.9 EUR
 prodname: 'Tommy Hilfiger Flatform Runner Colour Sneaker  Zapatillas para Mujer  Rojo  RWB 0kp   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V4N4DNJ/?tag=tolees-21'
 descuento: '55.23'
 average: '36.895'

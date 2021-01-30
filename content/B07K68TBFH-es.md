@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Multiherramienta de Alicates Multiusos 18 en 1，Herramienta Multifuncional para Actividades Exteriores/Camping/Senderismo/Caza/Pesca/Reparación diaria'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K68TBFH/?tag=tolees-21'
 descuento: '61.52'
 average: '11.54'

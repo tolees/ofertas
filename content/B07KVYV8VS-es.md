@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'Salomon XA Discovery GTX  Zapatillas de Trail Running para Hombre  Verde Trekking Green Lime Green Black  42 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KVYV8VS/?tag=tolees-21'
 descuento: '58.99'
 average: '53.29'

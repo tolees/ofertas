@@ -16,6 +16,7 @@ comparePrice: 65.9 EUR
 prodname: 'find. Arthur HS01 Botas Clasicas  Negro  Smart Black Smart Black   45'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07THKWV9W/?tag=tolees-21'
 descuento: '83.69'
 average: '10.75'

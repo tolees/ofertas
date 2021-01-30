@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'TACKLIFE T8 ARRANCADOR DE Coches de hasta 6500cc  Gasolina  y 5500cc  diésel  - 800A/18000mAh Arrancador de Batería de Coche con Pinzas Inteligentes  Pantalla LCD  USB de Carga Rápida  Luz LED'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NRCM1BR/?tag=tolees-21'
 descuento: '36.25'
 average: '72.6746153846154'

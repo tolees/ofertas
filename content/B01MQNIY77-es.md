@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Pioneer SE-MS5T-R - Auriculares de tipo diadema  HiRes  power bass  micrófono  control de Smartphone   colo Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MQNIY77/?tag=tolees-21'
 descuento: '31.74'
 average: '41.53333333333334'

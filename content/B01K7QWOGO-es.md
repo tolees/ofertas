@@ -16,6 +16,7 @@ comparePrice: 2.86 EUR
 prodname: 'Vernel Cielo Azul Suavizante Concentrado - 57 Dosis'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K7QWOGO/?tag=tolees-21'
 descuento: '65.03'
 average: '1.88875'

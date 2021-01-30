@@ -16,6 +16,7 @@ comparePrice: 300.51 EUR
 prodname: 'Seiko Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable SUT323P1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074T34GFN/?tag=tolees-21'
 descuento: '53.34'
 average: '139.17000000000002'

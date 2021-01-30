@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Asics Patriot 10  Zapatillas de Running para Mujer  Rosa  Baked Pink/Steel Blue 700   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K6ZRNZM/?tag=tolees-21'
 descuento: '47.52'
 average: '31.49'

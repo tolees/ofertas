@@ -16,6 +16,7 @@ comparePrice: 39.22 EUR
 prodname: 'Optimum Nutrition Pro BCAA Suplemento para Deportistas  Sabor de Melocotón y Mango - 390 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X3N4BVK/?tag=tolees-21'
 descuento: '46.48'
 average: '20.99'

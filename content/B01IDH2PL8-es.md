@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'WandSticker4U - Adhesivo decorativo para pared o ventana  diseño de mariposas  multicolor  para habitación de bebé o infantil  para muebles  puertas  cocina o pasillo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IDH2PL8/?tag=tolees-21'
 descuento: '76.21'
 average: '3.09'

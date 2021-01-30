@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Levi s Housemark Polo  Multicolor  Raven Stripe Mineral Black/Fog 0111   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TLFK9XV/?tag=tolees-21'
 descuento: '30.02'
 average: '34.99'

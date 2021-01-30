@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'adidas X_PLR J  Zapatillas Unisex Niños  Blanco  Footwear White/Footwear White/Footwear White 0   35.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078T57KVV/?tag=tolees-21'
 descuento: '41.26'
 average: '38.15'

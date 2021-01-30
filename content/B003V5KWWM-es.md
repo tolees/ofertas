@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Australian Gold  Aceite corporal acelerador del bronceado - 237 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003V5KWWM/?tag=tolees-21'
 descuento: '28.82'
 average: '14.53'

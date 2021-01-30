@@ -16,6 +16,7 @@ comparePrice: 45.98 EUR
 prodname: 'Bosch Professional GLI 12V-80 - Linterna a batería  sin batería  12 V  80 lúmenes  en caja '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0012RW0VC/?tag=tolees-21'
 descuento: '48.02'
 average: '32.325'

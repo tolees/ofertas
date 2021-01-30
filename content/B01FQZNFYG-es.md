@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'Artistry Set de Niré: brochas de maquillaje veganas con estuche de brochas  esponja Niré Beauty y cepillo limpiador de brochas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FQZNFYG/?tag=tolees-21'
 descuento: '25.01'
 average: '39.87076923076924'

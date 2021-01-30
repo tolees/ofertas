@@ -16,6 +16,7 @@ comparePrice: 80.94 EUR
 prodname: 'perfk LED Luz de Navegación 12V para Barcos Bombilla  Accesorios Náuticos  para Iluminación Marinos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083DC5ZRR/?tag=tolees-21'
 descuento: '37.50'
 average: '50.59'

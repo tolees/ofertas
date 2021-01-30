@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance 574v2 entrenadores Hombre  Negro  Black Black   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DVHFPDL/?tag=tolees-21'
 descuento: '41.59'
 average: '52.575'

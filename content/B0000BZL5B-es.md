@@ -16,6 +16,7 @@ comparePrice: 100.91 EUR
 prodname: 'B+W Circular MRC - Filtro polarizador para  58 mm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0000BZL5B/?tag=tolees-21'
 descuento: '40.16'
 average: '60.38'

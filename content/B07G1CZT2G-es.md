@@ -16,6 +16,7 @@ comparePrice: 399.99 EUR
 prodname: 'AUNA Connect System Equipo estéreo - Equipo de música  Radio por Internet/Dab+/FM  80 W  CD  USB  Bluetooth  Spotify Connect  Mando  Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G1CZT2G/?tag=tolees-21'
 descuento: '60.00'
 average: '159.99'

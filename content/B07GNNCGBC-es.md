@@ -16,6 +16,7 @@ comparePrice: 169.99 EUR
 prodname: 'i-eX Puf para Videojuegos y reposapiés  Negro  91cm x 88cm  Grande  Cuero sintético  Reclinable ergonómico para Videojuegos  Silla para Videojuegos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GNNCGBC/?tag=tolees-21'
 descuento: '41.18'
 average: '99.99'

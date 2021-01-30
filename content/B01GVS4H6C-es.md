@@ -16,6 +16,7 @@ comparePrice: 169.99 EUR
 prodname: 'KLARSTEIN Biggie Digital - Conservadora  Olla eléctrica  Pasteurizadora  Dispensador de bebidas  Temperatura regulable  Temporizador  Indicador digital  Acero inox  Plateado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GVS4H6C/?tag=tolees-21'
 descuento: '29.41'
 average: '119.99'

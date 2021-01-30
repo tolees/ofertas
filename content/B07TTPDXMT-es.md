@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'Kipling KiplingTotepackMujerBolsos maletínGris  D Carbon Light  57x37x18 Centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TTPDXMT/?tag=tolees-21'
 descuento: '56.55'
 average: '21.29'

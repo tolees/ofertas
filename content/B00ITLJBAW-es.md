@@ -16,6 +16,7 @@ comparePrice: 14.18 EUR
 prodname: 'Quasar FOBOS - Ratón  Óptico  USB  3200 DPI  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ITLJBAW/?tag=tolees-21'
 descuento: '76.30'
 average: '3.36'

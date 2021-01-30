@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Forestry 2017'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ALCE9TY/?tag=tolees-21'
 descuento: '37.75'
 average: '18.67'

@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Skechers Elite Flex  Zapatillas para Hombre  Gris  Charcoal Premium Wool/Synthetic/Metal/Trim Ccl   45.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P49HBXG/?tag=tolees-21'
 descuento: '73.26'
 average: '26.73'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Match Mujer Sujetador Deportivo Racerback de Doble Capa con Relleno Sin Costura Sin Aros para Yoga Gimnasio Aptitud Fitness Azul L 90D 95A 95B 95C  '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077TLYT2X/?tag=tolees-21'
 descuento: '67.52'
 average: '12.99'

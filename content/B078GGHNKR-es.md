@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Tommy Hilfiger Brazilian Braguita brasileña  Gris  Grey Heather 004   36  Talla del Fabricante: 34 X Small  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078GGHNKR/?tag=tolees-21'
 descuento: '39.75'
 average: '11.99'

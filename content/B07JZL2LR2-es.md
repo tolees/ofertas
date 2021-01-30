@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'adidas Tastigo19 SHO Pantalones Cortos de Deporte  Hombre  Raw Khaki/Shock Red  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JZL2LR2/?tag=tolees-21'
 descuento: '33.42'
 average: '19.94'

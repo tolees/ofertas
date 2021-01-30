@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'PRIXTON - Reloj Inteligente Hombre/Mujer-Reloj Smartwatch Hombre/Mujer: GPS  SIM  Pulsómetro | SW36'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PDFF5VZ/?tag=tolees-21'
 descuento: '28.59'
 average: '51.758'

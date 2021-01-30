@@ -16,6 +16,7 @@ comparePrice: 51.96 EUR
 prodname: 'Hollister Wave D Edp 100 Vapo Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GONK8JE/?tag=tolees-21'
 descuento: '67.76'
 average: '20.441666666666666'

@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Quantum Abacus Juego de Mesa magnético  tamaño Compacto de Viaje : Ajedrez - Piezas magnéticas  Tablero Plegable  20x20x2cm  Mod. SC5477  DE '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DRRIVOE/?tag=tolees-21'
 descuento: '33.35'
 average: '11.99'

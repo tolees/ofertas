@@ -16,6 +16,7 @@ comparePrice: 55.99 EUR
 prodname: 'INTEY 3 N1 Detector de Pared  Metal Stud Pinpoint  Madera y AC Cable  Detector de Metales Detector Escáner de Pared Clásico Rojo y Multifuncional  Retroiluminación LCD  Indicación de Distancia'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KW4C1PG/?tag=tolees-21'
 descuento: '67.87'
 average: '17.99'

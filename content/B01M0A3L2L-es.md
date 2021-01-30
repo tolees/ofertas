@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'New Balance 410 m  Zapatillas para Mujer  Plateado  Silver Mink/Black Blue   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M0A3L2L/?tag=tolees-21'
 descuento: '44.36'
 average: '41.099999999999994'

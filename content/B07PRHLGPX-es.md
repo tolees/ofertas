@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: '100 Etiquetas Termoadhesivas Personalizadas con Icono para marcar la ropa.  Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PRHLGPX/?tag=tolees-21'
 descuento: '37.52'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Napapijri TALY 2 LS Polo  Gris  Med Grey Mel 160   L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MGFRK3G/?tag=tolees-21'
 descuento: '50.00'
 average: '39.5'

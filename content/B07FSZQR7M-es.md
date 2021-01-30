@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Clarks Glove Puppet  Mocasines para Mujer  Naranja  Orange Nubuck-   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FSZQR7M/?tag=tolees-21'
 descuento: '56.85'
 average: '29.296'

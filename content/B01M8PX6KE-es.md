@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Sándalo Pulsera de Cuentas Tibetano Budista Buda Meditación Hombres Elástico Pulsera de Perlas de 8 mm Mala Oración'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M8PX6KE/?tag=tolees-21'
 descuento: '68.21'
 average: '6.99'

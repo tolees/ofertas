@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Maybelline New York Fit Me Blush Colorete en Polvo Mate  para Todo Tipo de Pieles  Tono 25 Pink'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PDM537M/?tag=tolees-21'
 descuento: '25.03'
 average: '5.99'

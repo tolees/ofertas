@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Reebok F/S Hi  Zapatillas Altas para Mujer  Blanco  INT-White/Silver   40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000X1MNME/?tag=tolees-21'
 descuento: '50.03'
 average: '54.47'

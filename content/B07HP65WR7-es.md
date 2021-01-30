@@ -16,6 +16,7 @@ comparePrice: 8.9 EUR
 prodname: 'Slimming Essence  Crema anticelulítica  60ml Adelgazante Eliminación de celulitis Cremas para la pérdida de peso Pierna Cuerpo Cintura Quemador de grasa Crema'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HP65WR7/?tag=tolees-21'
 descuento: '36.07'
 average: '5.69'

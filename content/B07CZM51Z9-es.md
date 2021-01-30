@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Under Armour Sportstyle Wind Parte Superior del Calentamiento  Hombre  Negro  LG'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZM51Z9/?tag=tolees-21'
 descuento: '54.70'
 average: '23.86'

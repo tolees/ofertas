@@ -16,6 +16,7 @@ comparePrice: 11.24 EUR
 prodname: 'WIDMANN 7083U - Ametralladora de juguete con sonido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004I6AKT8/?tag=tolees-21'
 descuento: '55.60'
 average: '4.99'

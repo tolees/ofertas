@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Linterna LED Vander con foco ajustable  linterna de mano superbrillante de 2000 lúmenes  linterna con zoom y resistente al agua para acampar al aire libre + baterías 18650  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YD7SMHM/?tag=tolees-21'
 descuento: '47.09'
 average: '8.99'

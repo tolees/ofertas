@@ -16,6 +16,7 @@ comparePrice: 14.84 EUR
 prodname: 'DURAGADGET Cable De Audio Compatible con Portátil Acer SF514-52T Swift 5  LG gram 15Z990-V  LG gram 14Z990-V - con Conexión de 3.5mm Y Bañado En Oro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VGL6SMV/?tag=tolees-21'
 descuento: '33.36'
 average: '9.89'

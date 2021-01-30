@@ -16,6 +16,7 @@ comparePrice: 3.67 EUR
 prodname: 'Unidad Flash USB 2.0 Memoria USB Stick USB Pen Memory Stick Flash Drives de Alta Velocidad - 64m'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F5N1N8C/?tag=tolees-21'
 descuento: '44.41'
 average: '2.04'

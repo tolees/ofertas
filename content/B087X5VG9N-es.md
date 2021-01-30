@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Suhctup Funda Transparent Compatible para Huawei P Smart Z/Y9 Prime 2019 Carcasa Protectora [Antigolpes] Silicona TPU Bumper Cojín de Aire de Cuatro Esquinas Protector Gel para Huawei P Smart Z A2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087X5VG9N/?tag=tolees-21'
 descuento: '47.15'
 average: '8.98'

@@ -16,6 +16,7 @@ comparePrice: 10.78 EUR
 prodname: 'B Blesiya Trompetas Cornetas Válvula Deslice El Anillo De Tiro para Reparar La Pieza De Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D315GYF/?tag=tolees-21'
 descuento: '44.43'
 average: '5.99'

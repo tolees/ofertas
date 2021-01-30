@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'AmazonBasics - Protector de colchón de moletón impermeable para cuna 70 x 140 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00V3HKULS/?tag=tolees-21'
 descuento: '69.98'
 average: '4.8'

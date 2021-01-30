@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Clarks Blake Jewel  Sandalia con Pulsera para Mujer  Negro  Black Leather-   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FQTYMQZ/?tag=tolees-21'
 descuento: '43.89'
 average: '39.79'

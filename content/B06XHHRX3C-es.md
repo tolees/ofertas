@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Naipo Respaldo de Masaje Shiatsu Asiento Masajeador para la Espalda y Caderas con Amasamiento Intenso  Masaje Vibratorio  Función Calor en Casa  Oficina o Coche  Básico '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XHHRX3C/?tag=tolees-21'
 descuento: '30.00'
 average: '71.99'

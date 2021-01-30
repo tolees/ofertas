@@ -16,6 +16,7 @@ comparePrice: 199.95 EUR
 prodname: 'MyKronoz MKZESPORT - Reloj de Actividad y sueño  notificaciones  Pantalla táctil  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M4N16YM/?tag=tolees-21'
 descuento: '55.35'
 average: '89.27'

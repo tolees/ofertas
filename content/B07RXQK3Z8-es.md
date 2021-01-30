@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Lacoste - Polo de Manga Corta para Mujer Fairground Pink  3 dh . 34 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RXQK3Z8/?tag=tolees-21'
 descuento: '40.01'
 average: '59.98'

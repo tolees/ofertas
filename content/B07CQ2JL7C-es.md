@@ -16,6 +16,7 @@ comparePrice: 21.6 EUR
 prodname: 'Brillante Benefit Legumbres  Chía  Verduras  250G - [Pack De 16] - Total 4 Kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CQ2JL7C/?tag=tolees-21'
 descuento: '25.93'
 average: '17.866666666666667'

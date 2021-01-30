@@ -16,6 +16,7 @@ comparePrice: 48.05 EUR
 prodname: 'Caterpillar Haycox  Zapatillas para Hombre  Marrón  Beaned 0   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005B2ZTW6/?tag=tolees-21'
 descuento: '27.24'
 average: '34.96'

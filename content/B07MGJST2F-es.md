@@ -16,6 +16,7 @@ comparePrice: 135.0 EUR
 prodname: 'Saucony Kinvara 10  Zapatillas de Running para Hombre  Amarillo  Amarillo 37   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MGJST2F/?tag=tolees-21'
 descuento: '41.48'
 average: '75.92800000000001'

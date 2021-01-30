@@ -16,6 +16,7 @@ comparePrice: 45.13 EUR
 prodname: 'LAMURO Kit para Colgantes Columpios de árboles Correas Negras Resistentes de 10 pies Ganchos de Colgar de Metal y 2 mosquetones'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BF4K1YF/?tag=tolees-21'
 descuento: '46.40'
 average: '24.19'

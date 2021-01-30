@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'WMF Profi Plus - Sartén con tapa  cromargan 18/10 acero inoxidable 26 cm  Diseñado y fabricado en Alemania '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HF0NVP4/?tag=tolees-21'
 descuento: '26.51'
 average: '97.11571428571428'

@@ -16,6 +16,7 @@ comparePrice: 999.0 EUR
 prodname: 'Delonghi ESAM 5500.M Máquina De Espresso Automática  1350 W  1.8 Litros  Acero Inoxidable  Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0012VI7QU/?tag=tolees-21'
 descuento: '50.72'
 average: '427.04333333333335'

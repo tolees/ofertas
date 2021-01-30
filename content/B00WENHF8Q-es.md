@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Case Logic HDC11K - Funda rígida para disco duro de 2.5"  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00WENHF8Q/?tag=tolees-21'
 descuento: '50.05'
 average: '5.704285714285715'

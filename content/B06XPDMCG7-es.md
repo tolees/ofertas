@@ -16,6 +16,7 @@ comparePrice: 329.95 EUR
 prodname: 'Bose SoundLink Revolve+ - Altavoz portátil con Bluetooth  Color Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XPDMCG7/?tag=tolees-21'
 descuento: '30.60'
 average: '229.0'

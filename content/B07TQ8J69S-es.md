@@ -16,6 +16,7 @@ comparePrice: 13.88 EUR
 prodname: 'IPOTCH Toy Magic Iron Memory Memory Shaped Memory Wire Pocket Tool Herramienta para El Alumno'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TQ8J69S/?tag=tolees-21'
 descuento: '33.36'
 average: '9.25'

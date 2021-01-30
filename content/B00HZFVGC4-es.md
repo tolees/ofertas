@@ -16,6 +16,7 @@ comparePrice: 21.21 EUR
 prodname: 'SHIMANO Adaptador SM-RTAD05 Center-Lock / 6 Agujeros 2016 Accesorios Frenos de Disco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HZFVGC4/?tag=tolees-21'
 descuento: '38.71'
 average: '13.0'

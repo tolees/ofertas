@@ -16,6 +16,7 @@ comparePrice: 10.95 EUR
 prodname: 'Softee Equipment 0024103 Juego Pesas  Verde  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00H2J30HC/?tag=tolees-21'
 descuento: '45.66'
 average: '5.95'

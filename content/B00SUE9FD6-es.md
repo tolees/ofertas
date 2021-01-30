@@ -16,6 +16,7 @@ comparePrice: 74.95 EUR
 prodname: 'Tuc Tuc 6550 - Mini saco  niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SUE9FD6/?tag=tolees-21'
 descuento: '41.99'
 average: '43.48'

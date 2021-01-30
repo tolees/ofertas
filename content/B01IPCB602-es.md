@@ -16,6 +16,7 @@ comparePrice: 29.28 EUR
 prodname: 'Marvel bpwfa-100 Vengadores mesa juego para 16'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IPCB602/?tag=tolees-21'
 descuento: '53.18'
 average: '14.870000000000001'

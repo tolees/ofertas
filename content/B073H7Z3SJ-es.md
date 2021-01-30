@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'L Oréal Paris Infallible Lip Liner  rojo 701 Stay Ultraviolet'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073H7Z3SJ/?tag=tolees-21'
 descuento: '29.95'
 average: '6.97'

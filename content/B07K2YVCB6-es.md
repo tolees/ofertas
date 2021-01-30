@@ -16,6 +16,7 @@ comparePrice: 36.05 EUR
 prodname: 'Toyvian Casa de muñecas de Madera de Bricolaje Kit en Miniatura Estrellas Que Muestran la decoración de Juguetes para niños en casa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2YVCB6/?tag=tolees-21'
 descuento: '62.22'
 average: '13.62'

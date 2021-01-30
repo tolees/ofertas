@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Disney  Elsa Travel Frozen2 Classic - Disfraz de Elsa Travel  Multicolor  XL  9-10 años '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SN2TSPY/?tag=tolees-21'
 descuento: '29.37'
 average: '17.65'

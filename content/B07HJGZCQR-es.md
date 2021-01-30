@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Pop! Stranger Things S2 - Figura de Vinilo Eleven  Snowball Dance '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HJGZCQR/?tag=tolees-21'
 descuento: '48.28'
 average: '8.25'

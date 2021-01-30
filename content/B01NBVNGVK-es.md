@@ -16,6 +16,7 @@ comparePrice: 38.49 EUR
 prodname: 'Campingaz 2000031416 Barbacoa Universal  Negro  105 x 61 x 122 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NBVNGVK/?tag=tolees-21'
 descuento: '27.41'
 average: '27.94'

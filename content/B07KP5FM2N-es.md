@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'adidas Pro Suit 3S Traje de baño  FR : 4XL  Taille Fabricant : 50   Negro  Black/Carbon   4XL  Talla del Fabricante: 50 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KP5FM2N/?tag=tolees-21'
 descuento: '28.81'
 average: '28.44'

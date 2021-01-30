@@ -16,6 +16,7 @@ comparePrice: 25.1 EUR
 prodname: 'Jumanji: Bienvenidos A La Jungla  4K UHD + BD  [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B5W7DFP/?tag=tolees-21'
 descuento: '58.53'
 average: '10.41'

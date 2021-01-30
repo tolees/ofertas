@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Lee Extreme Motion Short Pantalones Cortos  Azul  Navy 09   58  Talla del Fabricante: 34  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VBGL63T/?tag=tolees-21'
 descuento: '58.98'
 average: '20.49'

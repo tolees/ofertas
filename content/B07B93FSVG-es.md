@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Clarks Original Desert - Botas para Hombre  Marrón  Beeswax Leather   39.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B93FSVG/?tag=tolees-21'
 descuento: '40.04'
 average: '83.95'

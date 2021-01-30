@@ -16,6 +16,7 @@ comparePrice: 42.99 EUR
 prodname: 'San Ignacio Set de Cuchillos Chuleteros Acero Inoxidable  Negro  6'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C53HFSR/?tag=tolees-21'
 descuento: '66.22'
 average: '14.52'

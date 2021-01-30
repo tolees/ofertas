@@ -16,6 +16,7 @@ comparePrice: 84.9 EUR
 prodname: 'Mondial A10 Placa de Calefacción  1500 W  Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076QBHTZL/?tag=tolees-21'
 descuento: '36.89'
 average: '62.0125'

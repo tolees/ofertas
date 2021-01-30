@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Under Armour Qualifier Coldgear Tight Legging  Hombre  Negro  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9HLNM1/?tag=tolees-21'
 descuento: '48.90'
 average: '45.99'

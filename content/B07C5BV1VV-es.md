@@ -16,6 +16,7 @@ comparePrice: 13.8 EUR
 prodname: 'Khanomak - Top Informal de Manga Corta  con Cuello en V - Medium - Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C5BV1VV/?tag=tolees-21'
 descuento: '71.09'
 average: '3.99'

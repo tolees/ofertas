@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Alicates Multiusos Plegables Profesionales Herramienta multiuso de primera calidad  Plateado '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YCNLJCK/?tag=tolees-21'
 descuento: '47.51'
 average: '20.99'

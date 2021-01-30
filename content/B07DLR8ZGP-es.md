@@ -16,6 +16,7 @@ comparePrice: 5.9 EUR
 prodname: 'Béaba - Vaso silicona  unisex  color azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DLR8ZGP/?tag=tolees-21'
 descuento: '50.00'
 average: '2.95'

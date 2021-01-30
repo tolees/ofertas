@@ -16,6 +16,7 @@ comparePrice: 105.0 EUR
 prodname: 'Kipling ART M Bolsa de tela y playa  58 cm  26 liters  Negro  Powder Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DRM3ZQY/?tag=tolees-21'
 descuento: '48.13'
 average: '57.27333333333333'

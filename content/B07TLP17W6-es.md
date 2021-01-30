@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Clarks Couture Bloom  Bailarinas para Mujer  Verde  Fuchsia Fuchsia   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TLP17W6/?tag=tolees-21'
 descuento: '57.20'
 average: '29.94'

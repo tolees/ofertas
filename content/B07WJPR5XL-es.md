@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers DARLOW REMEGO  Zapatillas para Hombre  Lona Chocolate Marrón Chocolate  42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WJPR5XL/?tag=tolees-21'
 descuento: '65.35'
 average: '25.645'

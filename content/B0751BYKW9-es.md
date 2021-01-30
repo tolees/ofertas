@@ -16,6 +16,7 @@ comparePrice: 21.18 EUR
 prodname: 'Urvoix - Funda para Samsung Galaxy S8  función atril  piel sintética  con ranuras para tarjetas  correa de muñeca  cierre magnético para Galaxy S8  no compatible con S8 Plus '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0751BYKW9/?tag=tolees-21'
 descuento: '62.56'
 average: '7.93'

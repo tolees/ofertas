@@ -16,6 +16,7 @@ comparePrice: 23.3 EUR
 prodname: 'SUNNSEAN Banda para la Cabeza Diadema con Botones  Color Liso  Deportes  Set 1+10 pcs'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DG4V8CH/?tag=tolees-21'
 descuento: '67.85'
 average: '15.395000000000001'

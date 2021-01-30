@@ -16,6 +16,7 @@ comparePrice: 21.11 EUR
 prodname: 'Levi s Cabazon Cinturón  Negro  R Black 59   90 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JHB7WV4/?tag=tolees-21'
 descuento: '36.67'
 average: '13.37'

@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Only onlGEENA XO L/S PULLOVER KNT NOOS  Suéter para Mujer  Rojo  High Risk Red   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N3S4J3A/?tag=tolees-21'
 descuento: '40.02'
 average: '13.19'

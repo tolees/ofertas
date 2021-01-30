@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'BlauBär Pulsera de Actividad Inteligente  El Ganador 2020  | Un Reloj Cuenta Pasos  Deportivo | Podometro Mujer y Hombre | Smart Band Contador de Pasos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08D11M4CB/?tag=tolees-21'
 descuento: '57.16'
 average: '29.99'

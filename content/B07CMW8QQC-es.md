@@ -16,6 +16,7 @@ comparePrice: 41.99 EUR
 prodname: 'Barra de Sonido Bluetooth  Estink 20W Altavoz de Inalámbric Estéreo con Entrada AUX para PC  Laptop  Smartphones  Tablets  MP3 y TV（Negro）'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CMW8QQC/?tag=tolees-21'
 descuento: '28.58'
 average: '38.87888888888889'

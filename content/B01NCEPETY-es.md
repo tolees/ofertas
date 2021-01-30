@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Funko Pop! - Vinyl The Dark Tower: The Man in Black  12704 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NCEPETY/?tag=tolees-21'
 descuento: '33.62'
 average: '9.95'

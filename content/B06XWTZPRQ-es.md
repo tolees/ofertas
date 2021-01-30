@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance WL574EB  Zapatillas Mujer  Azul  WL574EN   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XWTZPRQ/?tag=tolees-21'
 descuento: '44.50'
 average: '49.33473684210527'

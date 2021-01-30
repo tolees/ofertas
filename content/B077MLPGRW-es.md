@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'PUMA NRGY Comet  Zapatillas de Running Unisex-Adulto  Negro Black White  42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077MLPGRW/?tag=tolees-21'
 descuento: '44.49'
 average: '38.275714285714294'

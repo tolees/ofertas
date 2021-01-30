@@ -16,6 +16,7 @@ comparePrice: 89.79 EUR
 prodname: 'Chung Shi 8200050  Botas Chukka Hombre  Negro  44.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00V92EVPS/?tag=tolees-21'
 descuento: '29.99'
 average: '60.04555555555556'

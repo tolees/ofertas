@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'GOLDGE 540 Pares Adhesivo Redondo Monedas  Lunares Adhesivo 10mm Cintas Autoadhesivo Puntos de Adhesiva  Negro 1080Piezas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087QCD43C/?tag=tolees-21'
 descuento: '25.03'
 average: '5.99'

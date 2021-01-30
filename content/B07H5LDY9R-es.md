@@ -16,6 +16,7 @@ comparePrice: 6.75 EUR
 prodname: 'Atomizador de Aftershave de Botella de Aerosol de Perfume de Viaje 6ml Rellenable - Dorado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H5LDY9R/?tag=tolees-21'
 descuento: '44.44'
 average: '3.75'

@@ -16,6 +16,7 @@ comparePrice: 46.99 EUR
 prodname: 'Sandisk SDCZ800-128G-G46 Memoria Flash Usb Sandisk Extreme Go  128 Gb  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N0YZVQE/?tag=tolees-21'
 descuento: '40.43'
 average: '31.369333333333334'

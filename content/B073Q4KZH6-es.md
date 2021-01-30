@@ -16,6 +16,7 @@ comparePrice: 220.0 EUR
 prodname: 'Nixon Reloj Analogico para Hombre de Cuarzo con Correa en Acero Inoxidable A1176-001-00'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073Q4KZH6/?tag=tolees-21'
 descuento: '54.47'
 average: '108.01333333333334'

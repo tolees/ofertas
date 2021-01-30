@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'mfavour Cajas giratorias para Relojes con Motor silencioso  múltiples Modos de rotación  Caja de Reloj con Cuerda automática  Funciona con Pilas o Adaptador de CA  Madera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0841JY8TR/?tag=tolees-21'
 descuento: '50.01'
 average: '49.99'

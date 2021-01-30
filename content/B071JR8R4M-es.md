@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'HP OMEN 100 - Alfombrilla para ratón  Negra  360 mm x 300 mm x 4 mm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071JR8R4M/?tag=tolees-21'
 descuento: '41.70'
 average: '6.917272727272727'

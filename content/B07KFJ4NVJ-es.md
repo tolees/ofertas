@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Adidas Runfalcon Zapatillas de trail running Hombre  Blanco  Ftwbla/Ftwbla/Ftwbla 000   42 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFJ4NVJ/?tag=tolees-21'
 descuento: '31.95'
 average: '33.99'

@@ -16,6 +16,7 @@ comparePrice: 53.99 EUR
 prodname: 'BRIKSMAX Kit de Iluminación Led para Lego Jurassic World Transporte del T Rex Compatible con Ladrillos de Construcción Lego Modelo 75933  Juego de Legos no Incluido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083FRXYV3/?tag=tolees-21'
 descuento: '55.57'
 average: '25.79'

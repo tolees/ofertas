@@ -16,6 +16,7 @@ comparePrice: 1.95 EUR
 prodname: 'Sanex Zero% Sensitive Deo Roll-On 50 Ml 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YLGXNXV/?tag=tolees-21'
 descuento: '25.13'
 average: '1.46'

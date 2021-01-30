@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'WERNNSAI Conjunto de Suministros para la Fiesta Juego - Party Decoracion Chicos Cumpleaños Favors de Fiesta Servilletas Cubiertos Mantel Platos Pancartas Globos Tazas Sirve a 16 Invitados 169 Piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MMSTBRF/?tag=tolees-21'
 descuento: '40.01'
 average: '29.99'

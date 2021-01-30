@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Kappa Follow OC XL  Zapatillas para Hombre  Blanco  White/Grey 1016   48 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBNRVSB/?tag=tolees-21'
 descuento: '33.56'
 average: '23.22'

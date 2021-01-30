@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Clarks Emery Sky T  Zapatillas para Niños  Azul  Navy Leather Navy Leather   24 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MWPFVXT/?tag=tolees-21'
 descuento: '36.34'
 average: '31.8'

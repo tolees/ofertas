@@ -16,6 +16,7 @@ comparePrice: 329.0 EUR
 prodname: 'Citizen Reloj Analógico para Hombre de Cuarzo con Correa en Titanio CA4010-58E'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NQ0KW5E/?tag=tolees-21'
 descuento: '36.60'
 average: '208.6'

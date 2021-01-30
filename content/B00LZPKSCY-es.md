@@ -16,6 +16,7 @@ comparePrice: 15.0 EUR
 prodname: 'Braun 80 Face - Set de 2 recambios de cepillo facial de limpieza para depiladora facial  color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LZPKSCY/?tag=tolees-21'
 descuento: '53.67'
 average: '6.465'

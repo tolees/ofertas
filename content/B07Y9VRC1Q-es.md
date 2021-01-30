@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'edc by Esprit 129cc2i004 suéter  Naranja  Rust Orange 5 814   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y9VRC1Q/?tag=tolees-21'
 descuento: '36.85'
 average: '31.57'

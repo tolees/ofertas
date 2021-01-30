@@ -16,6 +16,7 @@ comparePrice: 15.98 EUR
 prodname: 'New Soul Protector de Asientos de Coche para Bebé Universal Antideslizante Impermeable Funda para Asiento de Coche Base Schoner en Forma Universal Dispositivo  1pc '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DDFSLXP/?tag=tolees-21'
 descuento: '50.25'
 average: '11.96'

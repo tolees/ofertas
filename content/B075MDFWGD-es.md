@@ -16,6 +16,7 @@ comparePrice: 40.38 EUR
 prodname: 'Cutícula Clipper  Kemei Cuticle Nippers 6PCS Profesional Cuticle Remover Kit Nail Clipper Trimmer Cutter para cutícula overgrown / Uñas encarnadas Pedicura y manicura Trimmer Corrector Fixer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075MDFWGD/?tag=tolees-21'
 descuento: '60.43'
 average: '15.58'

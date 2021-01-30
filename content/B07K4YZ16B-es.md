@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Conjunto de luces Lightailing para  James Bond Aston Martin DB5  Modelo de Construcción de Bloques - Kit de luz LED compatible con Lego 10262  NO incluido en el modelo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K4YZ16B/?tag=tolees-21'
 descuento: '41.68'
 average: '34.99'

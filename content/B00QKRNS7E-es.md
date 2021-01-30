@@ -16,6 +16,7 @@ comparePrice: 9.9 EUR
 prodname: 'Seconde Chance'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00QKRNS7E/?tag=tolees-21'
 descuento: '45.96'
 average: '5.35'

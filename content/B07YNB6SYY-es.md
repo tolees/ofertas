@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Philips Reloj Despertador Digital PR702/12 con Cargador inalámbrico  Cargador inalámbrico  Temporizador de Reposo  Alarma  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YNB6SYY/?tag=tolees-21'
 descuento: '38.79'
 average: '57.620000000000005'

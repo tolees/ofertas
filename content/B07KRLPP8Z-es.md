@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'New Balance 500  Zapatillas para Mujer  Plateado  Metallic Silver Metallic Silver   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KRLPP8Z/?tag=tolees-21'
 descuento: '60.25'
 average: '30.65833333333333'

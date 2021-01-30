@@ -16,6 +16,7 @@ comparePrice: 78.82 EUR
 prodname: 'adidas Gazelle  Zapatillas para Hombre  Azul  Hi/Res Aqua/Footwear White/Footwear White 0   43 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RKXZLWH/?tag=tolees-21'
 descuento: '39.76'
 average: '47.48'

@@ -16,6 +16,7 @@ comparePrice: 1.32 EUR
 prodname: 'Dodot Toallitas Básico de Recambio - 54 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K7QMOBO/?tag=tolees-21'
 descuento: '34.09'
 average: '0.8746153846153845'

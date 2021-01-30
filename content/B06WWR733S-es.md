@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Princess 127004 - Sandwich Toaster XXL para 4 sándwiches  placas con forma de caparazón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WWR733S/?tag=tolees-21'
 descuento: '36.64'
 average: '39.0'

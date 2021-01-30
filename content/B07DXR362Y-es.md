@@ -16,6 +16,7 @@ comparePrice: 23.0 EUR
 prodname: 'Quinua Real  Barrita de cereal  Coco  - 20 de 20 gr.  Total 400 gr. '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DXR362Y/?tag=tolees-21'
 descuento: '46.61'
 average: '11.835'

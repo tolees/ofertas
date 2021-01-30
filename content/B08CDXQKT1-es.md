@@ -16,6 +16,7 @@ comparePrice: 17.76 EUR
 prodname: 'Bolsas Reutilizables 40Pack bolsas congelación reutilizables hermeticas para Almacenamiento de Alimentos  Bolsas de conservación  Bolsas Reutilizables para Fruta Sándwiches Verduras  Sin BPA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CDXQKT1/?tag=tolees-21'
 descuento: '43.75'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Under Armour Men s Printed Blitzing 3.0 Gorra  Hombre  Rojo  Barn/Barn/Aruba Red 633   S/M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KH31FKY/?tag=tolees-21'
 descuento: '50.10'
 average: '12.97'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'LOL Surprise - Under Wraps  Modelo Surtido  1 Pieza'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CL9KDPV/?tag=tolees-21'
 descuento: '69.99'
 average: '12.00875'

@@ -16,6 +16,7 @@ comparePrice: 48.99 EUR
 prodname: 'Irrigador Dental  Hieha Irrigador Bucal Portatil con Base de Carga Inalámbrica  300ml Irrigador Profesional con 4 Modes & 4 Boquillas Ideal para Cuidado Familiar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y9X5Y5Z/?tag=tolees-21'
 descuento: '40.82'
 average: '28.99'

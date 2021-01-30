@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Taurus Unlimited 25.6 Lithium - Aspirador escoba 3 en 1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016ICEZOK/?tag=tolees-21'
 descuento: '42.35'
 average: '64.29666666666667'

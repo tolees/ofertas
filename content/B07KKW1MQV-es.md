@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'adidas D2m tee 3s T-Shirt  Hombre  Black  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KKW1MQV/?tag=tolees-21'
 descuento: '30.02'
 average: '14.36'

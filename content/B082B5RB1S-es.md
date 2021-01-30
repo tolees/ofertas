@@ -16,6 +16,7 @@ comparePrice: 15.43 EUR
 prodname: '2 Piezas De Perfume Original Para Mujer Perfume De Encaje De Fragancia De Flores De Larga Duración 50 Ml Regalo De Vacaciones De Cumpleaños Clásico De Eternidad 02 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082B5RB1S/?tag=tolees-21'
 descuento: '33.96'
 average: '10.19'

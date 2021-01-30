@@ -16,6 +16,7 @@ comparePrice: 52.8 EUR
 prodname: 'Maxxis Minion Dhr II Neumático  Unisex  Negro  29x2 30  58-622 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CNLXL0A/?tag=tolees-21'
 descuento: '28.05'
 average: '37.99'

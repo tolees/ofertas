@@ -16,6 +16,7 @@ comparePrice: 39 EUR
 prodname: 'Geographical Norway Polar Hombre Upload Taupe M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081CDJ4KQ/?tag=tolees-21'
 descuento: '30.00'
 average: '27.3'

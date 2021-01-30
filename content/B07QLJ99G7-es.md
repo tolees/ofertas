@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'BOSS Passenger Polo  Amarillo  Medium Yellow 723   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QLJ99G7/?tag=tolees-21'
 descuento: '40.95'
 average: '47.21'

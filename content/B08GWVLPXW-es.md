@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Aerku Cámara Trasera Lente Protector de Pantalla para Samsung Galaxy Z Fold 2[3 Piezas] [Cobertura Completa] HD Sin Burbujas Cristal Templado Cámara Protector para Galaxy Z Fold 2[Transparente]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08GWVLPXW/?tag=tolees-21'
 descuento: '58.92'
 average: '6.98'

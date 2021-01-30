@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Mizuno Morelia Neo CL AG Zapatillas  Hombre  Azul  40'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LFGUA4I/?tag=tolees-21'
 descuento: '66.64'
 average: '20.0'

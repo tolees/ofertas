@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Widamin 6Pack  Protector de Pantalla para Mi Band 5  TPU Suave de Cobertura Completa Protector Pantalla  [De Alta Definición]  Protector Compatible con Xiaomi Mi Band 5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B5PJLN9/?tag=tolees-21'
 descuento: '26.70'
 average: '6.59'

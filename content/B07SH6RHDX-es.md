@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Laminas Para Ventanas Aislantes Vinilo Para Ventana Efecto Espejo Privacidad Autoadhesivo Laminas Para Ventanas Cortina Proteccion Solar Anti 98% UV  ProteccióN De Privacidad 44.5*200 CM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SH6RHDX/?tag=tolees-21'
 descuento: '35.27'
 average: '12.94'

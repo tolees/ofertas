@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'TK.DILIGARM Look At You Becoming A Medical Coder and Shit Coffee Mug  Programmer Mug - Funny Programming Gift for Men and Women - Gag Coffee Cup for Computer Coding - Best Themed Gift Idea for Coders'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MKL65JN/?tag=tolees-21'
 descuento: '45.02'
 average: '10.99'

@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Pepe Jeans Kenton Sport  Zapatillas para Hombre  Azul Marino 595  43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VH14Z9V/?tag=tolees-21'
 descuento: '40.02'
 average: '38.99'

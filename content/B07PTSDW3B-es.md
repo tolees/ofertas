@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Autan Family Care Aerosol  Repelente de Mosquitos e Insectos - 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PTSDW3B/?tag=tolees-21'
 descuento: '29.90'
 average: '4.990833333333334'

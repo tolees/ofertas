@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'iGutech Planchas de Pelo de Vapor Plancha de pelo de cerámica turmalina y spray  acción iónica con ajustes de temperatura  anti escaldadura'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G41BYY6/?tag=tolees-21'
 descuento: '45.80'
 average: '49.35'

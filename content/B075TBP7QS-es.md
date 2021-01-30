@@ -16,6 +16,7 @@ comparePrice: 20.14 EUR
 prodname: 'Badger Protector solar para bebé SP30 | 1 x 87 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075TBP7QS/?tag=tolees-21'
 descuento: '26.61'
 average: '15.703333333333333'

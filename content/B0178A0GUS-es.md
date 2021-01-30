@@ -16,6 +16,7 @@ comparePrice: 64.9 EUR
 prodname: 'Microsoft – Wireless Desktop 3050  Ratón y teclado  QWERTY español  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0178A0GUS/?tag=tolees-21'
 descuento: '27.60'
 average: '45.59'

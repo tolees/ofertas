@@ -16,6 +16,7 @@ comparePrice: 9.63 EUR
 prodname: 'Bourjois Velvet Barra de Labios Líquida Tono 32 Trop brunché - 28 gr  29101273032 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079CFV6XH/?tag=tolees-21'
 descuento: '89.62'
 average: '2.203333333333333'

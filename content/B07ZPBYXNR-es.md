@@ -16,6 +16,7 @@ comparePrice: 114.0 EUR
 prodname: 'Safety 1st Road Fix Silla Coche Grupo 2 3 Isofix  crece con el niño 3-12 años  15-36 kg   Protección lateral segura  Ajuste fácil y seguro  color Pixel Black'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZPBYXNR/?tag=tolees-21'
 descuento: '44.08'
 average: '63.75'

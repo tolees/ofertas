@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'Eyoyo Cámara Monitor E5 5 Pulgadas 4K HDMI 1920x1080 Mini Field Monitor DSLR Campo Video IPS Monitor para Sony A6 A7 GH4 GH5  Canon 5D Nikon Zhiyun Estabilizador Gimbals  E5 1920x1080 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GDKN1VC/?tag=tolees-21'
 descuento: '28.57'
 average: '105.49'

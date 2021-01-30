@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Hackett London Hibiscus Pantalones Cortos  Naranja  1audeep Coral 1au   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VG992YL/?tag=tolees-21'
 descuento: '52.91'
 average: '44.93333333333334'

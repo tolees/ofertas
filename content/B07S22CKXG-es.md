@@ -16,6 +16,7 @@ comparePrice: 137.7 EUR
 prodname: 'Love Moschino Jc4010pp1a  Carteras de Mano con Asa para Mujer  Marfil  Avorio   4x13x22 centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S22CKXG/?tag=tolees-21'
 descuento: '45.08'
 average: '80.47666666666667'

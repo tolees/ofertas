@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Helly Hansen Classic Duffel Bag Bolsa Deportiva versátil y Duradera  Unisex Adulto  Negro  M  70 litros '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073RQ1Q6F/?tag=tolees-21'
 descuento: '50.00'
 average: '54.134'

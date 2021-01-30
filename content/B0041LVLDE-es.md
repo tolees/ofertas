@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Advance Veterinary Diets Advance Veterinary Canine Renal Failure 3Kg  3 kg  3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0041LVLDE/?tag=tolees-21'
 descuento: '36.01'
 average: '16.04'

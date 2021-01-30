@@ -16,6 +16,7 @@ comparePrice: 8.54 EUR
 prodname: 'Wrangler 5 Pocket Short Pantalones Cortos  Verde  Lagoon 42c   W29 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JXHD937/?tag=tolees-21'
 descuento: '32.67'
 average: '6.615'

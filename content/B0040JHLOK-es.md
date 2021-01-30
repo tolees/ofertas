@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Bburago 15631204 - Garaje de Ferrari con dos coches  escala 01:43  [importado de Alemania]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0040JHLOK/?tag=tolees-21'
 descuento: '44.77'
 average: '24.85'

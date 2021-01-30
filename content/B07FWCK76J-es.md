@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Crocs Crocband Rain Boot Kids  Botas de Agua Unisex Niños  Verde  Neo Mint/Light Grey 3to   23/24 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FWCK76J/?tag=tolees-21'
 descuento: '39.35'
 average: '25.81'

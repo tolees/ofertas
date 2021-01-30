@@ -16,6 +16,7 @@ comparePrice: 46.98 EUR
 prodname: 'Jean Paul Gaultier Scandal a Paris Edt Vapo 50 ml - 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QGPQ7JF/?tag=tolees-21'
 descuento: '36.36'
 average: '29.9'

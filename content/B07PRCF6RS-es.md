@@ -16,6 +16,7 @@ comparePrice: 24.0 EUR
 prodname: 'Kipling - Creativity S  Monederos Mujer  Multicolor  Camo Large   14.5x9.5x5 cm  B x H T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PRCF6RS/?tag=tolees-21'
 descuento: '51.37'
 average: '11.74'

@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'New Balance Hombre Fresh Foam Arishi v3 Scarpe Running  Negro  Black/White   44.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RGV149V/?tag=tolees-21'
 descuento: '47.00'
 average: '45.05'

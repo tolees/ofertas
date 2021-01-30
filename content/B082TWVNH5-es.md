@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'ValueHall Coronas Perforadoras 19 PCS Juego de Coronas Perforadoras 19 mm-127 mm Sierras Perforadoras Herramientas de Acero al Carbono Perforar en Madera V7090'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082TWVNH5/?tag=tolees-21'
 descuento: '35.73'
 average: '17.99'

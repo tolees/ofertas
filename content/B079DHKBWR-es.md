@@ -16,6 +16,7 @@ comparePrice: 66.38 EUR
 prodname: 'Casio Reloj Digital para Hombre de Cuarzo con Correa en Resina AE-1400WH-1AVEF'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079DHKBWR/?tag=tolees-21'
 descuento: '51.82'
 average: '31.98'

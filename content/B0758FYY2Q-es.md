@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'BOSS Prime Polo  Azul  Dark Blue 402   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0758FYY2Q/?tag=tolees-21'
 descuento: '40.03'
 average: '41.95'

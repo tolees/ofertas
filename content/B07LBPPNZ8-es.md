@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Adidas Drive 1.9 Palas  Adultos Unisex  Rojo  375'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBPPNZ8/?tag=tolees-21'
 descuento: '46.23'
 average: '35.14900000000001'

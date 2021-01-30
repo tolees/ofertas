@@ -16,6 +16,7 @@ comparePrice: 112.28 EUR
 prodname: 'Honeywell Home Wi-Fi C2 Cámara Seguridad  angular 145° en 1080p HD y visión nocturna'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0765B8YMB/?tag=tolees-21'
 descuento: '33.89'
 average: '77.81666666666666'

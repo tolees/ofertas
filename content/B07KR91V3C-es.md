@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance 997h  Zapatillas para Hombre  Negro  Black/White Black/White   38.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KR91V3C/?tag=tolees-21'
 descuento: '53.69'
 average: '36.68'

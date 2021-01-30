@@ -16,6 +16,7 @@ comparePrice: 40.44 EUR
 prodname: 'Leiyer - Auriculares Bluetooth'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S7NK5VR/?tag=tolees-21'
 descuento: '38.58'
 average: '24.84'

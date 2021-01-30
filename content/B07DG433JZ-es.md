@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Aicook Palomitero  Máquina de Palomitas con Plato Calentamiento Antiadherente  Almacenamiento Conveniente  Silencioso & Rápido  5 Litros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DG433JZ/?tag=tolees-21'
 descuento: '51.28'
 average: '44.342000000000006'

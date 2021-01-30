@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Napapijri Elbas 3 Polo  Azul  Ultramarine BLU Bb41   XXL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VCCJVLD/?tag=tolees-21'
 descuento: '54.25'
 average: '26.99'

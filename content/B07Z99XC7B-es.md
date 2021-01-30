@@ -16,6 +16,7 @@ comparePrice: 7.69 EUR
 prodname: 'SOOPSON Alfombrilla para ratón Gaming Alfombrilla de Gel ratón para Ordenador y portátil precisión y Velocidad Mejorada en Sakura Magic Array Alfombrilla para ratón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z99XC7B/?tag=tolees-21'
 descuento: '83.49'
 average: '1.27'

@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Adidas YATRA  Zapatillas de Deporte para Mujer  Multicolor  Multicolor 000   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MW3FY2C/?tag=tolees-21'
 descuento: '49.99'
 average: '27.48'

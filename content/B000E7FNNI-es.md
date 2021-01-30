@@ -16,6 +16,7 @@ comparePrice: 69.78 EUR
 prodname: 'K&N RC-4650DR funda para filtro de aire Coche y Moto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000E7FNNI/?tag=tolees-21'
 descuento: '54.59'
 average: '31.69'

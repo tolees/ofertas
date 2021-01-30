@@ -16,6 +16,7 @@ comparePrice: 42.68 EUR
 prodname: 'Shock Absorber Ultimate Run Bra Sujetador Deportivo  Multicolor  Gris-Vert D eau 0bz   95E para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X2Z6DRH/?tag=tolees-21'
 descuento: '32.05'
 average: '29.0'

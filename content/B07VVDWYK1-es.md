@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Ultra Groove Pure Vision  Zapatillas para Mujer  Blanco Malla Multi Trim Wmlt  40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VVDWYK1/?tag=tolees-21'
 descuento: '50.48'
 average: '33.98444444444445'

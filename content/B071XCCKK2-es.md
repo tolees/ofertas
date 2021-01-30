@@ -16,6 +16,7 @@ comparePrice: 160.0 EUR
 prodname: 'Nautica Reloj Analogico para Hombre de Cuarzo con Correa en Silicona NAPFRB004'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071XCCKK2/?tag=tolees-21'
 descuento: '50.79'
 average: '78.73'

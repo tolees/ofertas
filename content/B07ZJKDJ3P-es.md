@@ -16,6 +16,7 @@ comparePrice: 5.24 EUR
 prodname: 'ngzhongtu Smart Band Watch Bracelet Fitness Tracker Podómetro Monitor de Ritmo cardíaco Pulsera Impermeable - Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZJKDJ3P/?tag=tolees-21'
 descuento: '32.06'
 average: '3.56'

@@ -16,6 +16,7 @@ comparePrice: 6.9 EUR
 prodname: 'Schmetz - Aguja para máquina de Coser'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001VB7I8Y/?tag=tolees-21'
 descuento: '36.96'
 average: '4.35'

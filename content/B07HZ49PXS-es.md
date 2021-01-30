@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'Petusco - Ana Blanco y Azul Piel de Vacuno tipo grano y grabado logotipo + detalle serpiente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HZ49PXS/?tag=tolees-21'
 descuento: '37.39'
 average: '72.0'

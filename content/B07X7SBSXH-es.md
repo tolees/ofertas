@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Veomed® Corrector de Postura Espalda Professional  M/L  Aliviar Dolor y Mejorar Postura Hombro y Cuello'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X7SBSXH/?tag=tolees-21'
 descuento: '45.93'
 average: '11.89'

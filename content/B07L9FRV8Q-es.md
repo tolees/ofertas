@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Under Armour Speed Stride Capri Legging  Mujer  Negro  SM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9FRV8Q/?tag=tolees-21'
 descuento: '52.24'
 average: '21.49'

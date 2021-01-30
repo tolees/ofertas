@@ -16,6 +16,7 @@ comparePrice: 8.49 EUR
 prodname: 'Wilkinson Sword Pack Intuition Sensitive Care - Maquinilla depilatoria y enjabonadora femenina Intuition + 3 cuchillas autoadaptables con cintas de seda hidratantes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XBWK118/?tag=tolees-21'
 descuento: '29.92'
 average: '7.196666666666667'

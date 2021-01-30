@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Levi s 501 Long Pantalones Cortos  Azul  Montgomery Stone Wash Short 0012   W31  Talla del Fabricante: 31  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KF6ZBJW/?tag=tolees-21'
 descuento: '60.09'
 average: '21.95'

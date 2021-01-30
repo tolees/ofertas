@@ -16,6 +16,7 @@ comparePrice: 8.05 EUR
 prodname: 'Enjuague Bucal - Oraldine Perio clorhexidina 0.2% - 400ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00M75BTQK/?tag=tolees-21'
 descuento: '31.55'
 average: '5.2'

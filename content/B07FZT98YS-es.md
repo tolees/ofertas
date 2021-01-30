@@ -16,6 +16,7 @@ comparePrice: 10.01 EUR
 prodname: 'Alomejor Almohadilla de Hombro autocalefactable  Soporte magnético de Doble Hombro para Envolver Lesiones y Alivio del Dolor  Productos de Salud  Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FZT98YS/?tag=tolees-21'
 descuento: '43.16'
 average: '5.69'

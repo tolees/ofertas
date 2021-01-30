@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Sesderma Repaskin Protector Solar Facial SPF 50 Tacto Seda - 50 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y59YHWB/?tag=tolees-21'
 descuento: '50.10'
 average: '12.45'

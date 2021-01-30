@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'adidas Falcon  Zapatillas de Running para Mujer  Rosa Magrea Ftwbla Gritre 000  36 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K36DMSW/?tag=tolees-21'
 descuento: '30.03'
 average: '34.95'

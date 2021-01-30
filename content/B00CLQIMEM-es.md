@@ -16,6 +16,7 @@ comparePrice: 45.9 EUR
 prodname: 'SHIMANO DEORE 9V. Shadow Cambio  Multicolor  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CLQIMEM/?tag=tolees-21'
 descuento: '27.04'
 average: '33.49'

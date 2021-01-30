@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'COOLJOY Juguete de Excavadora  Excavadora Camión  Camión del Juguete del Excavador para Niños  con Luces y Sonido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WG1KB99/?tag=tolees-21'
 descuento: '26.68'
 average: '21.99'

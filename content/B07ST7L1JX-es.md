@@ -16,6 +16,7 @@ comparePrice: 313.39 EUR
 prodname: 'HP EliteDisplay E223d - Monitor Docking de 21.5" Ajustable en Altura  FHD antirreflejo  1920 x 1080  IPS LED  250cd/m  5 ms  16:9  HDMI  DisplayPort 1.2  1 x USB-C  5 x USB 3.1  RJ-45 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ST7L1JX/?tag=tolees-21'
 descuento: '33.21'
 average: '209.3'

@@ -16,6 +16,7 @@ comparePrice: 175.0 EUR
 prodname: 'Scuderia Ferrari Reloj Analógico para Hombre de Cuarzo con Correa en Cuero 830523'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G4SRQTV/?tag=tolees-21'
 descuento: '36.39'
 average: '114.24000000000001'

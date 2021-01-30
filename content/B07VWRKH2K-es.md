@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'flintronic Portefeuille en Cuir  Rosé Etui RFID Blocage Porte Carte de Crédit  Zip Porte-Monnaie  Coffret Cadeau （1 Porte-clé Inclus）'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VWRKH2K/?tag=tolees-21'
 descuento: '42.52'
 average: '11.59'

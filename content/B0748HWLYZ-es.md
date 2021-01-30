@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'TACKLIFE Encendedor  ELY02 220mAh Encendedor Eléctrico con el Arco USB sin Llama  Encender Más de 400 Veces  360°Cuello Fexible Múltiples Usos  Encender Los Candelas  Combustibles Sólidos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0748HWLYZ/?tag=tolees-21'
 descuento: '31.27'
 average: '10.99'

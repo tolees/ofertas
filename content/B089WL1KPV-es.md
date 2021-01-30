@@ -16,6 +16,7 @@ comparePrice: 140.78 EUR
 prodname: 'MERIGLARE 2 Piezas De Viaje Frasco Vacío Olla Muestra De Maquillaje Crema Loción Envase Cosmético - 10g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089WL1KPV/?tag=tolees-21'
 descuento: '37.50'
 average: '87.99'

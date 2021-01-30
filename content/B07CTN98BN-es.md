@@ -16,6 +16,7 @@ comparePrice: 6.0 EUR
 prodname: 'FIND - Deep Forest - Trío de sombras de ojos  n.10  n.11  n.12 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CTN98BN/?tag=tolees-21'
 descuento: '51.67'
 average: '3.7'

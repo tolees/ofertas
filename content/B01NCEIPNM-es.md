@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'BRITA Marella blanca – Jarra de Agua Filtrada con 1 cartucho MAXTRA+  Filtro de agua BRITA que reduce la cal y el cloro  Agua filtrada para un sabor óptimo  2.4L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NCEIPNM/?tag=tolees-21'
 descuento: '25.00'
 average: '15.0'

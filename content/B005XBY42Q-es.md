@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Helly Hansen Calshot Trunk  Bañador para Hombre  Azul  Azul Navy 597   Medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005XBY42Q/?tag=tolees-21'
 descuento: '50.03'
 average: '19.99'

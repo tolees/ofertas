@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Sierra Circular  GALAX PRO 1400W 5500RPM Sierra Eléctrica  Guía Laser  Hoja 185mm  Corte 62mm  90°   46mm  45°   Guía de Metal  Motor de Cobre Puro  Madera  Metal Delgado  Plástico/GP76321L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QLC1W7J/?tag=tolees-21'
 descuento: '37.50'
 average: '54.99'

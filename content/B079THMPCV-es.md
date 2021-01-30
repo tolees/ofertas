@@ -16,6 +16,7 @@ comparePrice: 38.62 EUR
 prodname: 'Multipower 50g Protein Shake  Sabor Strawberry - 12 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079THMPCV/?tag=tolees-21'
 descuento: '74.11'
 average: '8.93'

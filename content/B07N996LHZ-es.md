@@ -16,6 +16,7 @@ comparePrice: 1599 EUR
 prodname: 'ASUS ROG Strix GL704GM-EV009 - Portátil Gaming  17.3" FHD  Intel Core i7-8750H  16 GB RAM  1TB HDD y 256 GB SSD  GeForce GTX1060 6 GB  Sin sistema op  Negro Gunmetal-Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N996LHZ/?tag=tolees-21'
 descuento: '37.46'
 average: '999.99'

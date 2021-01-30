@@ -16,6 +16,7 @@ comparePrice: 29 EUR
 prodname: 'Beurer IL11 - Lámpara por infrarrojos compacta  100 W  5 niveles inclinación  alivio para dolores musculares  cervicales  mejora la circulación sanguínea  color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000KKEFVK/?tag=tolees-21'
 descuento: '38.28'
 average: '18.4'

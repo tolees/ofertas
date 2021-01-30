@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Calvin Klein Hombre - Pack de 3 bóxers de tiro medio - Cotton Stretch  Azul  Med Blue/ Sweetheart/ Charcoal H Wdk   XS   Pack de 3 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBVM9JS/?tag=tolees-21'
 descuento: '31.59'
 average: '27.33'

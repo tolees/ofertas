@@ -16,6 +16,7 @@ comparePrice: 11.55 EUR
 prodname: 'LA Lakers - Bandera oficial  Talla Única   Azul/Naranja '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B1YVL5W/?tag=tolees-21'
 descuento: '33.33'
 average: '7.7'

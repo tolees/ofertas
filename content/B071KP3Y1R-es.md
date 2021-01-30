@@ -16,6 +16,7 @@ comparePrice: 46.0 EUR
 prodname: 'Tommy Hilfiger Demi Lift Sujetador  Negro  Black 001   70DD  Talla del Fabricante: DD32  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071KP3Y1R/?tag=tolees-21'
 descuento: '50.26'
 average: '22.88'

@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'SONARIN Silla Asiento de mesa para bebé trona de mesa portátil para el hogar y los viajes con bolsa de transporte Gancho fácil en la mesa Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YG284RQ/?tag=tolees-21'
 descuento: '55.84'
 average: '52.99'

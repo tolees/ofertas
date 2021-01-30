@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Tommy Hilfiger Rosha Pull On Cropped Pant Pantalones  Azul  Sky Captain 403   W34  Talla del Fabricante: 4  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JYVVJNY/?tag=tolees-21'
 descuento: '55.14'
 average: '72.36'

@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Reebok Classic Leather  Zapatillas de Deporte para Hombre  Blanco  White/Gum 2   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X7LSJIE/?tag=tolees-21'
 descuento: '34.62'
 average: '62.9'

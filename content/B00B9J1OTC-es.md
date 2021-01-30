@@ -16,6 +16,7 @@ comparePrice: 48.4 EUR
 prodname: 'Roca A5A6125C00 A5A3125C00 Monomando Lavabo  Colección Victoria-N  Cromado  Cromo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00B9J1OTC/?tag=tolees-21'
 descuento: '32.85'
 average: '33.527499999999996'

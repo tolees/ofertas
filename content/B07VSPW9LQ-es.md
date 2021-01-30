@@ -16,6 +16,7 @@ comparePrice: 178.99 EUR
 prodname: 'jerryvon Cocina Infantil Madera Pequeña Portatil con Accesorios Grifo de Agua Little Chef Juego de Imitación para Niñas Niños 2 3 4 5 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VSPW9LQ/?tag=tolees-21'
 descuento: '56.99'
 average: '76.99'

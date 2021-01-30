@@ -16,6 +16,7 @@ comparePrice: 200.0 EUR
 prodname: 'Moma Bikes Patinete Electrico Plegable Infantil Scooter 120W  Ruedas 6" 12km/h'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VXE5P5C/?tag=tolees-21'
 descuento: '40.01'
 average: '119.98'

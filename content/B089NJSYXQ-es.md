@@ -16,6 +16,7 @@ comparePrice: 10.43 EUR
 prodname: 'Cuerda de saltar Focuses sin enredos de velocidad rápida con rodamientos de bolas  cuerda de saltar ajustable de acero con espuma viscoelástica asas cómodas para fitness'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089NJSYXQ/?tag=tolees-21'
 descuento: '31.16'
 average: '7.18'

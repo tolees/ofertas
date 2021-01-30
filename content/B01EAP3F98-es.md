@@ -16,6 +16,7 @@ comparePrice: 41.99 EUR
 prodname: 'Lonsdale Pantalones de entrenamiento de boxeo para hombre  pantalones de deporte gris oscuro X-Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EAP3F98/?tag=tolees-21'
 descuento: '50.01'
 average: '20.99'

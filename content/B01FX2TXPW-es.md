@@ -16,6 +16,7 @@ comparePrice: 113.88 EUR
 prodname: 'LIERAS Grifos de cocina Girar Primavera Canalon Extraer Chrome Pulido Mezclador de bar grifos lavabos monomando grifo del fregadero de la cocina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FX2TXPW/?tag=tolees-21'
 descuento: '50.84'
 average: '52.61333333333333'

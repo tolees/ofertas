@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Terminator Salvation  4K Ultra HD + BD  [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YMHB1S1/?tag=tolees-21'
 descuento: '51.90'
 average: '12.493333333333334'

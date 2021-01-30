@@ -16,6 +16,7 @@ comparePrice: 239.0 EUR
 prodname: 'Chicco Miinimo2 Silla de paseo ultracompacta y ligera  solo 6 kg  color negro  Pure Black Special Edition '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G38BVRK/?tag=tolees-21'
 descuento: '41.42'
 average: '140.0'

@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Columbia Youth Rope Tow III Waterproof  Botas de Nieve para Niñas  Gris  Ti Grey SteelRed Canyon   33 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078T8ZKZL/?tag=tolees-21'
 descuento: '67.30'
 average: '26.445'

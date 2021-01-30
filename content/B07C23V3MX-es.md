@@ -16,6 +16,7 @@ comparePrice: 42.8 EUR
 prodname: 'WILBEST Exprimidor Limón Manual  Exprimidor Manual de Aleación de Zinc  Prensa de Mano Jugo de Clip Fruta para Limón y Naranjas ect  Alta Calidad - Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C23V3MX/?tag=tolees-21'
 descuento: '62.64'
 average: '15.99'

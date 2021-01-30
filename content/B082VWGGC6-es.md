@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Auriculares-Micrófono-Cascos-Cable-Alambricos  LUDOS Turbo Auriculares con Micrófono y Graves  Headphones con Ergonómicos y Modernos  con Nueva Espuma Viscoelástica  Cable Duradero Earphones'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082VWGGC6/?tag=tolees-21'
 descuento: '50.10'
 average: '14.97'

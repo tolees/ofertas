@@ -16,6 +16,7 @@ comparePrice: 4.95 EUR
 prodname: 'Rimmel London Magnifeyes Mono Sombra de Ojos Tono 1 Gold Record - 22 2 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GZZDX5C/?tag=tolees-21'
 descuento: '39.39'
 average: '3.0'

@@ -16,6 +16,7 @@ comparePrice: 48.99 EUR
 prodname: 'Eono Essentials - Soporte con Total Movimiento para Monitor de sobremesa con Pantalla de 15–27 Pulgadas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DW7FZRD/?tag=tolees-21'
 descuento: '29.80'
 average: '41.69'

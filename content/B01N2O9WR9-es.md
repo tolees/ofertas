@@ -16,6 +16,7 @@ comparePrice: 189.9 EUR
 prodname: 'SJCAM SJ6 Legend  Cámara deportiva 4K de 16 MP  procesador Novatek 96660  WiFi  pantalla táctil de 2.0    color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N2O9WR9/?tag=tolees-21'
 descuento: '26.28'
 average: '139.99'

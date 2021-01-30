@@ -16,6 +16,7 @@ comparePrice: 5.15 EUR
 prodname: 'A1SONIC Juego de 2 Fundas de cojín Decorativas de Seda para sofá  diseño étnico Indio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T3FZ7Z1/?tag=tolees-21'
 descuento: '28.16'
 average: '3.7'

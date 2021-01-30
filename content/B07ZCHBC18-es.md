@@ -16,6 +16,7 @@ comparePrice: 25.18 EUR
 prodname: 'NEEGO Juego de Pingüinos Trampa de Pingüinos - Peligro de Pingüinos Desafío de Selección de Hielo Juego de Diversión Familiar para Niños Guardar la Trampa de Pingüinos Rompehielos Juego  Pequeño '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZCHBC18/?tag=tolees-21'
 descuento: '48.41'
 average: '12.99'

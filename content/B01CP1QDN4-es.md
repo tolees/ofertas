@@ -16,6 +16,7 @@ comparePrice: 16.9 EUR
 prodname: 'Sierra de Mano Plegable TIBURÓN GRÜNTEK. Serrucho de poda y jardineria dentado japones'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CP1QDN4/?tag=tolees-21'
 descuento: '40.89'
 average: '9.99'

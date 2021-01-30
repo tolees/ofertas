@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Lotus Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero 18630/4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MDDLXYH/?tag=tolees-21'
 descuento: '35.96'
 average: '65.395'

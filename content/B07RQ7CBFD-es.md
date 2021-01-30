@@ -16,6 +16,7 @@ comparePrice: 299.95 EUR
 prodname: 'Oral-B Genius 10000N - Cepillo Eléctrico Recargable con Tecnología de Braun  1 Mango Azul Orquídea Conectado con Inteligencia Artificial  2 Cabezales de Recambio y 1 Estuche de Viaje Smart'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RQ7CBFD/?tag=tolees-21'
 descuento: '63.58'
 average: '111.61666666666667'

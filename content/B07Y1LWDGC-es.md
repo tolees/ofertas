@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'LIGE Relojes para Hombre Impermeable Cuarzo Analógica Reloj Negro Simple Acero Inoxidable Reloj de Pulsera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y1LWDGC/?tag=tolees-21'
 descuento: '79.24'
 average: '26.99'

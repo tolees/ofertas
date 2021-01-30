@@ -16,6 +16,7 @@ comparePrice: 130 EUR
 prodname: 'Luz Solar Exterior 138 LED  Feob Luces Solares Exterior con Sensor de Movimiento Gran Ángulo 270° 2500mAh Lámpara Solar Exterior Inalámbrico Impermeable 3 Modos Inteligente Foco Solar para Jardín'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q2K8SV6/?tag=tolees-21'
 descuento: '78.50'
 average: '28.63'

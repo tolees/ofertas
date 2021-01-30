@@ -16,6 +16,7 @@ comparePrice: 664.99 EUR
 prodname: 'Epson WFDS570W - Escáner de Documentos en Color A4  Capacidad de USB  Blanco y Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LKWKAQK/?tag=tolees-21'
 descuento: '50.43'
 average: '331.16999999999996'

@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'Revlon Colorstay Delineador de Ojos Líquido   #252 Black Brown  2 5ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003HLKN9C/?tag=tolees-21'
 descuento: '47.80'
 average: '4.15'

@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Nixon Reloj Analogico para Mujer de Cuarzo con Correa en Cuero A1172-001-00'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076CQB6J8/?tag=tolees-21'
 descuento: '53.80'
 average: '45.74'

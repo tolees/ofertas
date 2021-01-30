@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Philips Avent SCD287/24 - Set de regalo natural dragon  1 biberón  2 chupetes  1 clip'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FLGDB6B/?tag=tolees-21'
 descuento: '30.02'
 average: '14.221428571428572'

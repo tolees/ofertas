@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'J.Rosée Pendientes Mujer aro de Plata de Ley 925 Pendientes Elegantes Artificial Colgar Pendientes Idea de Regalo para Mujeres Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DL64LLN/?tag=tolees-21'
 descuento: '85.73'
 average: '54.989999999999995'

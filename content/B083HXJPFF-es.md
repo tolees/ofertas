@@ -16,6 +16,7 @@ comparePrice: 4.54 EUR
 prodname: 'Ligas para Hombres 1 par de Liguero Individual Liguero Masculino Gancho Ajustable Liguero Calcetines Liguero elástico Alto Accesorios + Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083HXJPFF/?tag=tolees-21'
 descuento: '35.02'
 average: '2.95'

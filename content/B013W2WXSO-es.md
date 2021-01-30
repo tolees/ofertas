@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'OTG USB 2.0 Flash Drive Colourstone Micro USB 2.0 OTG Para Flash Drive androide verde Smartphones Tablets PCs 32 GB USB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013W2WXSO/?tag=tolees-21'
 descuento: '58.16'
 average: '7.123333333333333'

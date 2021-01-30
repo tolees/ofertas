@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Wowwee- Wildfire Mascota Interactiva  Color Rojo  3861 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HJLS7R3/?tag=tolees-21'
 descuento: '34.72'
 average: '12.99'

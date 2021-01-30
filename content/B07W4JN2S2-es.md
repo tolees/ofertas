@@ -16,6 +16,7 @@ comparePrice: 269.99 EUR
 prodname: 'ORICO Aluminio 3.5 Pulgadas 4 Bahías Gabinete Disco Duro Externo - Libre de Herramientas para USB 3.0 a SATA HDD/SSD - Soporte 64 TB - LED Indicador - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W4JN2S2/?tag=tolees-21'
 descuento: '25.93'
 average: '199.99'

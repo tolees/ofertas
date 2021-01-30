@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'RSPCA fleaaway Spot On solución para gatos  50 mg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TOGC72U/?tag=tolees-21'
 descuento: '50.80'
 average: '14.76'

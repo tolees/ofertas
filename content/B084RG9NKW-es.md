@@ -16,6 +16,7 @@ comparePrice: 4.03 EUR
 prodname: 'El más Nuevo Estuche de Soporte de Espejo Inteligente galvanizado Carcasa del teléfono móvil Sky Blue Sleep Smartphone Decoration - Sky Blue'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084RG9NKW/?tag=tolees-21'
 descuento: '33.50'
 average: '2.68'

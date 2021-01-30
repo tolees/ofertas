@@ -16,6 +16,7 @@ comparePrice: 27.76 EUR
 prodname: '5 Piezas Memorias USB 8GB Pendrive Práctico USB 2.0 Flash Drive 8 GB Almacenamiento Multicolor Pen Drive Giratorio Económico Conjunto de 5 Llaves USB con Cordones para la Empresa Oficina by FEBNISCTE'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013PH9D5M/?tag=tolees-21'
 descuento: '33.03'
 average: '18.8675'

@@ -16,6 +16,7 @@ comparePrice: 5.95 EUR
 prodname: 'Rimmel London Oh My Gloss Tint Brillo de Labios Tono 100 - 22 6 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MY5IZ6A/?tag=tolees-21'
 descuento: '46.22'
 average: '3.6388888888888893'

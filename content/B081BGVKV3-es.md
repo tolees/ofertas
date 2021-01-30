@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Asics Gel-Sonoma 5  Running Shoe Mens  Graphite Grey/Black  40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081BGVKV3/?tag=tolees-21'
 descuento: '30.00'
 average: '59.5'

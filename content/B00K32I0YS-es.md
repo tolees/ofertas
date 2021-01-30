@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'Nike Wmns Air Zoom Vomero 14  Zapatillas de Running para Mujer  Negro  Black/White/Thunder Grey 010   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00K32I0YS/?tag=tolees-21'
 descuento: '36.40'
 average: '69.95'

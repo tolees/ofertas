@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Gohepi 932XL 933XL Compatible con HP 932 XL 933 XL Cartuchos de tinta Reemplazo para HP Officejet 6600 6700 6100 7612 7110 7610 6700 premium Pack de 5  2 Negro 1 Cian 1 Magenta 1 Amarillo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KWQ5MQ8/?tag=tolees-21'
 descuento: '27.78'
 average: '19.046666666666667'

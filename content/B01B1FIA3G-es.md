@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'San Miguel Cerveza Sin Alcohol - Paquete de 24 x 250 ml - Total: 6000 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01B1FIA3G/?tag=tolees-21'
 descuento: '65.79'
 average: '10.26'

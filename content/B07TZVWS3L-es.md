@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Skechers Summits  Zapatillas para Mujer  Blanco  White Mesh/Silver Trim WSL   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZVWS3L/?tag=tolees-21'
 descuento: '29.99'
 average: '38.47'

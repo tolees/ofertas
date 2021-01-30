@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'TACKLIFE Alicates Multiusos Plegables  Profesionales  13 en 1 Multi-alicate  Acero Inoxidable 420 Grueso  Con una Bolsa de Nylon  para Reparar Muebles  Corte  Supervivencia Exterior - MPY07'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071NVJDGX/?tag=tolees-21'
 descuento: '43.50'
 average: '12.99'

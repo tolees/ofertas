@@ -16,6 +16,7 @@ comparePrice: 10.95 EUR
 prodname: 'Buff Crystal Cinta UV  Unisex Adulto  Multi  Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TCHT2D4/?tag=tolees-21'
 descuento: '49.95'
 average: '5.48'

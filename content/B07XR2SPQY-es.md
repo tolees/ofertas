@@ -16,6 +16,7 @@ comparePrice: 8.29 EUR
 prodname: 'Marca Amazon - FIND Shoe Boot Botas  Marrón  Chocolate Croc   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XR2SPQY/?tag=tolees-21'
 descuento: '25.57'
 average: '7.2299999999999995'

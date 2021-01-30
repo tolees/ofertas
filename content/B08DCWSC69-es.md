@@ -16,6 +16,7 @@ comparePrice: 25.96 EUR
 prodname: 'Ocobudbxw Rociador de Agua Aspersor Niños Diversión al Aire Libre Juguete Natación Fiesta Playa Jugar Regalos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DCWSC69/?tag=tolees-21'
 descuento: '50.00'
 average: '12.98'

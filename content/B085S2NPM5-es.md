@@ -16,6 +16,7 @@ comparePrice: 52.69 EUR
 prodname: 'Famus Mesa para computadora portátil de Madera  31.5x14.9x12.6 Pulgadas Mesa de Escritorio Plegable para computadora portátil Mesa para computadora portátil Multifuncional Escritorio para computadora'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085S2NPM5/?tag=tolees-21'
 descuento: '69.46'
 average: '16.09'

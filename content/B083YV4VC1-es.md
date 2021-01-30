@@ -16,6 +16,7 @@ comparePrice: 5.18 EUR
 prodname: 'Sujeciones de cable de nylon autoblocantes Manejo de cables Almacenamiento de cables Sujeción de cables Arnés de cables Sujetacables de cable 100 piezas-Negro-S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083YV4VC1/?tag=tolees-21'
 descuento: '34.94'
 average: '3.37'

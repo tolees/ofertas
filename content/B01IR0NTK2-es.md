@@ -16,6 +16,7 @@ comparePrice: 189.99 EUR
 prodname: 'Philips Airfryer HD9621/90 - Freidora sin Aceite  Tecnología TurboStar  1425 W  0 8 kg  Diseño Compacto  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IR0NTK2/?tag=tolees-21'
 descuento: '25.26'
 average: '130.65666666666667'

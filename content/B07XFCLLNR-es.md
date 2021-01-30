@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Ezfull Protector para Parabrisas  Protector de Parabrisas Magnético Cubierta de Parabrisas para Coche Protege de Rayos UV  Sol  Lluvia  Nieve  Funda Plegable Parabrisa Delantero Universal  183x147cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XFCLLNR/?tag=tolees-21'
 descuento: '48.02'
 average: '10.39'

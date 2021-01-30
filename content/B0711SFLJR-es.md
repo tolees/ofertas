@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Candado Fortlocks – Candado De Combinación De 4 Dígitos Para Casilleros  Ventanas  Estuches Y Cobertizos  Resistente  Combinación Reajustable  Resistente Al Agua Y A La Intemperie  1  plateado '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0711SFLJR/?tag=tolees-21'
 descuento: '60.03'
 average: '8.99'

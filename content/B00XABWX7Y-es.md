@@ -16,6 +16,7 @@ comparePrice: 7.28 EUR
 prodname: 'Dove Gel de Ducha - 600 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XABWX7Y/?tag=tolees-21'
 descuento: '53.30'
 average: '3.4'

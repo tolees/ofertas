@@ -16,6 +16,7 @@ comparePrice: 3.55 EUR
 prodname: 'ST-23 elástico ajustable Cabeza Casco de la correa de la correa para GoPro HD Hero / 1/2/3 de la cámara'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00FJ2OQWC/?tag=tolees-21'
 descuento: '35.77'
 average: '2.035'

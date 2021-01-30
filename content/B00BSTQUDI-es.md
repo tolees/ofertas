@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Lotus Reloj Analógico para Nios de Cuarzo con Correa en Acero Inoxidable 15833/1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BSTQUDI/?tag=tolees-21'
 descuento: '44.37'
 average: '53.35'

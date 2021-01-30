@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'HUTACT Militares Prismáticos Profesionales  Compacto de 10x50 Pequeños y Potentes  con Brújula y Medición de Dirección  Telémetro Incorporado  para Caza  Marina  Pesca  Observación de Aves'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JQ78ZS6/?tag=tolees-21'
 descuento: '36.88'
 average: '112.99'

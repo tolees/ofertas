@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Columbia Caldorado III  Zapatillas de Running para Asfalto para Hombre  Gris  Ti Grey Steel 033   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DVZB2C6/?tag=tolees-21'
 descuento: '51.14'
 average: '49.362857142857145'

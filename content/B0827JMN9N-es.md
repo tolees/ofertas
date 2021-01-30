@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'HGDGears Botella de Agua de Acero Inoxidable Botella Termica 500ml  Botella Sin Bpa & Eco Friendly  Doble Pared al vacío Mantiene Bebidas frías por 24h y Calientes por 12h  con Pincel de Botella'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0827JMN9N/?tag=tolees-21'
 descuento: '51.63'
 average: '14.99'

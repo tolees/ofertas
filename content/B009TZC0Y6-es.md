@@ -16,6 +16,7 @@ comparePrice: 28.9 EUR
 prodname: 'D-Link GO-SW-8G - Switch 8 Puertos  Gigabit Ethernet LAN RJ-45  Sin gestión  1000 Mbps por Puerto  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009TZC0Y6/?tag=tolees-21'
 descuento: '30.83'
 average: '20.494999999999997'

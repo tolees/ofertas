@@ -16,6 +16,7 @@ comparePrice: 135.0 EUR
 prodname: 'Merrell Zapatillas J73703 Smooth Black'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001FQFFTO/?tag=tolees-21'
 descuento: '46.03'
 average: '79.985'

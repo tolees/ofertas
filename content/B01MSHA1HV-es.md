@@ -16,6 +16,7 @@ comparePrice: 24.65 EUR
 prodname: 'Pediatopic Cuidado Corporal 500ml   loción emoliente e hidratante específica para pieles atópicas y/o altamente secas.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MSHA1HV/?tag=tolees-21'
 descuento: '26.98'
 average: '16.373333333333335'

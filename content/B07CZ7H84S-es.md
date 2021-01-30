@@ -16,6 +16,7 @@ comparePrice: 74.95 EUR
 prodname: 'Salomon RX Moc 4.0  Calzado de recuperación para Hombre  Azul  Poseidon/White/Taos Taupe   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZ7H84S/?tag=tolees-21'
 descuento: '29.30'
 average: '52.64333333333333'

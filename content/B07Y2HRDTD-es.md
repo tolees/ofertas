@@ -16,6 +16,7 @@ comparePrice: 25.25 EUR
 prodname: 'Simple Joys by Carter s Baby Girls - Juego de Toallas y paños de Cocina  8 Piezas   Multicolor  One Size'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y2HRDTD/?tag=tolees-21'
 descuento: '32.36'
 average: '17.08'

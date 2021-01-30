@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'adidas Entrada 18 JSY T-Shirt  Hombre  Bold Blue/White  2XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0779DFRFG/?tag=tolees-21'
 descuento: '29.30'
 average: '7.77'

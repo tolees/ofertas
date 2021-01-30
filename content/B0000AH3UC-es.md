@@ -16,6 +16,7 @@ comparePrice: 11.75 EUR
 prodname: 'KONG de Mantequilla de Cacahuete fácil Treat'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0000AH3UC/?tag=tolees-21'
 descuento: '36.17'
 average: '7.5'

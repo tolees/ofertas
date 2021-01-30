@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'AmazonBasics Cargador para pared USB de tipo C 3.0  65 W  1 puerto  EU/negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PBB81FC/?tag=tolees-21'
 descuento: '27.77'
 average: '20.825000000000003'

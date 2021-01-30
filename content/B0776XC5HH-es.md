@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Tommy Hilfiger Original Slim Fit Chino Pantalones  Beige  Kelp 373    Talla del fabricante: W28/L36  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0776XC5HH/?tag=tolees-21'
 descuento: '71.58'
 average: '29.713333333333335'

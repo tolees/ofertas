@@ -16,6 +16,7 @@ comparePrice: 24.76 EUR
 prodname: 'Lékué - Estuche de vapor  Con bandeja y kit principiantes en Español  Rojo  1 - 2 personas  650 ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DS7AMVO/?tag=tolees-21'
 descuento: '37.52'
 average: '22.384'

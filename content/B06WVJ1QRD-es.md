@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Safety 1st Travel Booster Trona de viaje portátil  Asiento de bebés blando y acolchado  trona plegable y portátil  Red Lines'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WVJ1QRD/?tag=tolees-21'
 descuento: '33.14'
 average: '19.99'

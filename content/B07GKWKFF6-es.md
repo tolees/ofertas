@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'FELiCON K109 Juegos De una Sola Mano Teclado Mecánico USB RGB LED Cableado con Retroiluminación 38 Teclas Teclado Ergonómico con Soporte De Mano para PC Ordenador  K109 / Interruptor Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GKWKFF6/?tag=tolees-21'
 descuento: '27.79'
 average: '25.99'

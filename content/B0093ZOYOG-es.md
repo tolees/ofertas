@@ -16,6 +16,7 @@ comparePrice: 14.75 EUR
 prodname: 'A.S. Création cenefa autoadhesivo Stick Ups lila 5 00 m x 0 10 m 901224'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0093ZOYOG/?tag=tolees-21'
 descuento: '30.98'
 average: '12.465'

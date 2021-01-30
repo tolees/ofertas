@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Tommy Hilfiger - Poppy Small Tote  Bolsos totes Mujer  Rojo  Barbados Cherry   1x1x1 cm  W x H L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V4RSLHN/?tag=tolees-21'
 descuento: '40.06'
 average: '41.9'

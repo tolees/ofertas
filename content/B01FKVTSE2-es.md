@@ -16,6 +16,7 @@ comparePrice: 21.82 EUR
 prodname: 'Paquete de 4 bloqueos de bloqueo de cadena de bloqueo de cadena SRAM  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FKVTSE2/?tag=tolees-21'
 descuento: '28.69'
 average: '15.56'

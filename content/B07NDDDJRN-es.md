@@ -16,6 +16,7 @@ comparePrice: 909.0 EUR
 prodname: 'Samsung Galaxy S10 - Smartphone de 6.1”  Dual SIM  128 GB  Negro  Prism Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDDDJRN/?tag=tolees-21'
 descuento: '29.60'
 average: '616.1102564102566'

@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Humidificador Ultrasónico Control Remoto Difusor de Aromaterapia Difusor de Aceites Esenciales con LED Purificador de Aire para en el Hogar Oficina Bebé Sp'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081YWWNJL/?tag=tolees-21'
 descuento: '26.60'
 average: '16.14'

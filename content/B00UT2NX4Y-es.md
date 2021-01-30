@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Tommy Hilfiger Bralette Corsetto  Negro  BLACK 990   34  talla del fabricante: SM  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UT2NX4Y/?tag=tolees-21'
 descuento: '36.49'
 average: '18.704285714285714'

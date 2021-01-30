@@ -16,6 +16,7 @@ comparePrice: 13.63 EUR
 prodname: 'Sunburst Snacks Sunburst maní y miel de chile asado  NO OGM  sin conservantes  saborizantes o aceites  500G'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00I7P2RUG/?tag=tolees-21'
 descuento: '40.21'
 average: '8.15'

@@ -16,6 +16,7 @@ comparePrice: 14.89 EUR
 prodname: '50 Ml Perfume De Mujer Elegante Original  Fragancia De Flores Fabulosas Frutas Señora Perfume Eternity Euphoria'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082CV93BS/?tag=tolees-21'
 descuento: '32.24'
 average: '10.09'

@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Nike Revolution 5  Zapatillas de Atletismo para Hombre  Multicolor  Gridiron/Mountain Blue/Black/Vast Grey 009   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NLCF26R/?tag=tolees-21'
 descuento: '36.40'
 average: '34.95'

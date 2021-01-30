@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'BaByliss AS136E Cepillo de aire 1000W  iónico  4 accesorios  pala para alisar  cabezal pre-secado  cabezal cónico para ondular y cepillo térmico de 50 mm para moldear  3 velocidades y temperaturas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W72TXTR/?tag=tolees-21'
 descuento: '42.79'
 average: '61.35428571428572'

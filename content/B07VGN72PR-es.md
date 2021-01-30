@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Desigual Foul Jirafa Bufanda  Multicolor  Multicolor Fucsia 9021   Talla única  Talla del fabricante: U  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VGN72PR/?tag=tolees-21'
 descuento: '51.21'
 average: '24.37'

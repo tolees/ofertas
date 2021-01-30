@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'GoPro ABSSC-001 Casey - Estuche Impermeable  para Cámara + Soportes + Accesorios   Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ZHDRHMO/?tag=tolees-21'
 descuento: '33.14'
 average: '45.345'

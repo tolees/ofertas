@@ -16,6 +16,7 @@ comparePrice: 3.6 EUR
 prodname: 'Giorgi Sublime Cream Antiencrespamiento Melena Bajo Control 150 Ml - 150 Mililitros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G89ZX9C/?tag=tolees-21'
 descuento: '34.44'
 average: '2.8866666666666667'

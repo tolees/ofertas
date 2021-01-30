@@ -16,6 +16,7 @@ comparePrice: 87.49 EUR
 prodname: 'New Balance 574v2 Core  Zapatillas para Mujer  Azul  Navy   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NQGG8FR/?tag=tolees-21'
 descuento: '29.35'
 average: '61.81'

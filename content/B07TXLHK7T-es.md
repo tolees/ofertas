@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Funko- Pop Animation: Speed Racer X Collectible Toy  Multicolor  45100 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TXLHK7T/?tag=tolees-21'
 descuento: '59.00'
 average: '7.08'

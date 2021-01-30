@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: '26mm+28mm Grass Strimmer Trimmer Cepillo Cortador Tubo Manija De Mano De Mano Soporte De Fijación Fijar Abrazadera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LCZB21G/?tag=tolees-21'
 descuento: '38.60'
 average: '8.59'

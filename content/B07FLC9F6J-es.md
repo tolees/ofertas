@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Superdry Label Ziphood suéter  Gris  Flint Grey Grit Xje   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FLC9F6J/?tag=tolees-21'
 descuento: '37.55'
 average: '49.95'

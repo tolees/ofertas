@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Quiksilver Everyday Shorts  Hombre  Safety Yellow  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KK3GWNF/?tag=tolees-21'
 descuento: '43.35'
 average: '16.99'

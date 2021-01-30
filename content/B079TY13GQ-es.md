@@ -16,6 +16,7 @@ comparePrice: 53.1 EUR
 prodname: 'Saco PRIMAVERA/VERANO ENTRETIEMPO para CUCO/CAPAZO Impermeable modelo 101'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079TY13GQ/?tag=tolees-21'
 descuento: '52.92'
 average: '25.0'

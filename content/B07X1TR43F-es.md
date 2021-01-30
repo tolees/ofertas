@@ -16,6 +16,7 @@ comparePrice: 35.19 EUR
 prodname: 'Wonderbra Glamour Raffine Triangle Padde Sujetador de triángulo  Marrón  Bronze Poudre 0bq   95D para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X1TR43F/?tag=tolees-21'
 descuento: '43.31'
 average: '19.95'

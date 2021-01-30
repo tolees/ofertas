@@ -16,6 +16,7 @@ comparePrice: 25.94 EUR
 prodname: 'Quiksilver Dye Check 15" Bañador  Niños  Azul  Caribbean Sea   L/14'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08285HCVM/?tag=tolees-21'
 descuento: '25.06'
 average: '19.44'

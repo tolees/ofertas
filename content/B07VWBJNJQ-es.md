@@ -16,6 +16,7 @@ comparePrice: 19.97 EUR
 prodname: 'Recambios Cepillo Compatible  Aiemok 16 Cabezales de cepillo incluidos 4 Floss Action  4 Precision Clean  4 3D White y 4 Cross Action  Cabezal de recambio para cepillo de dientes eléctrico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VWBJNJQ/?tag=tolees-21'
 descuento: '36.20'
 average: '10.8875'

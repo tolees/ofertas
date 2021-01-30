@@ -16,6 +16,7 @@ comparePrice: 18.71 EUR
 prodname: 'Elizabeth Arden Visible Difference hydrating complex cream 75ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001B1QSF8/?tag=tolees-21'
 descuento: '27.85'
 average: '16.625'

@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'TRIXIE Set Comed.Cerám+Pie  2x1.6 l  ø20 cm  Blco/Ng'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0029EPWQW/?tag=tolees-21'
 descuento: '26.10'
 average: '16.99'

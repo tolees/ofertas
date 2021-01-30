@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Reebok Classic Nylon - Zapatillas de Entrenamiento Mujer  Negro  Black / White   35.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0000ASCU1/?tag=tolees-21'
 descuento: '50.34'
 average: '31.37666666666667'

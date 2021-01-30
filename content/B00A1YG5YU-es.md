@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Wrangler Texas Contrast Hombre Jeans  Azul  Night Break 37W   30W / 34L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00A1YG5YU/?tag=tolees-21'
 descuento: '61.10'
 average: '34.99'

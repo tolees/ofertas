@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Juego de sabanas Invierno Tejido CORALINA SAVA Azul Cama de 90 x 190/200 - Color Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z4XXWF5/?tag=tolees-21'
 descuento: '41.83'
 average: '34.9'

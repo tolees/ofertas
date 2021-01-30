@@ -16,6 +16,7 @@ comparePrice: 8.72 EUR
 prodname: 'Slumberzzz - Pantuflas/Zapatillas de Estar por casa para Mujer  36-37 EU   Magenta '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GTTQZX2/?tag=tolees-21'
 descuento: '51.83'
 average: '4.2'

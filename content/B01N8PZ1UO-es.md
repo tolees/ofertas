@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Dockers by Gerli 30st027-790200  Zapatillas para Hombre  Gris  Grau 200   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N8PZ1UO/?tag=tolees-21'
 descuento: '26.63'
 average: '29.31'

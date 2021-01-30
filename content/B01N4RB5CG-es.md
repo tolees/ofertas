@@ -16,6 +16,7 @@ comparePrice: 179.99 EUR
 prodname: 'Panasonic SCUX100EK Home Audio Mini System Microcadena  Home Audio Mini System  USB  Bluetooth  Acabado Mate  Estereo  MAX JukeBox  300 W  De 2 Vías  13 cm  DJ  Subwoofers De 13 cm  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N4RB5CG/?tag=tolees-21'
 descuento: '33.36'
 average: '116.47'

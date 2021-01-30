@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Tarjetero Pepe Jeans Half vertical Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YVKWWCN/?tag=tolees-21'
 descuento: '46.95'
 average: '26.52'

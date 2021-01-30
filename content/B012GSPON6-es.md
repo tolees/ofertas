@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Original Buff - Knitted & Polar Hat Solid Unisex Adulto  talla unica  color savva cream'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B012GSPON6/?tag=tolees-21'
 descuento: '41.07'
 average: '16.975'

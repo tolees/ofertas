@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Reloj LIGE para Hombre Deporte Cronógrafo Analógico Cuarzo Impermeable Relojes de Pulsera con Correa de Acero Inoxidable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VVW9P8Z/?tag=tolees-21'
 descuento: '45.38'
 average: '19.11'

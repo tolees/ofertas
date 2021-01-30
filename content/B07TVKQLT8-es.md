@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Wrangler Texas Contrast Hombre Pantalones  Beige  Sand 58n   44W / 34L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TVKQLT8/?tag=tolees-21'
 descuento: '44.77'
 average: '44.16'

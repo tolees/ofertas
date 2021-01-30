@@ -16,6 +16,7 @@ comparePrice: 74.95 EUR
 prodname: 'Under Armour UA Remix 2.0  Zapatillas de Running  Deportivas para Hombre  Marrón  Cedar Brown/Black/Black  200  200   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PY4HQF3/?tag=tolees-21'
 descuento: '53.12'
 average: '35.46'

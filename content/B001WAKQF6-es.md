@@ -16,6 +16,7 @@ comparePrice: 130.8 EUR
 prodname: 'Skagen Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable 358XSSLBC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001WAKQF6/?tag=tolees-21'
 descuento: '50.31'
 average: '65.0'

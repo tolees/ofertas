@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Nixon A045511-00 - Reloj analógico de cuarzo para hombre con correa de acero inoxidable  color dorado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00108WPFE/?tag=tolees-21'
 descuento: '33.21'
 average: '65.59846153846155'

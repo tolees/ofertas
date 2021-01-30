@@ -16,6 +16,7 @@ comparePrice: 4.94 EUR
 prodname: '1 par de imán Pierde peso Nueva tecnología Adelgazamiento saludable Adelgazamiento del anillo Etiqueta de silicona Masaje de pies Pies Pérdida Peso Reducir - Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XRK35Q8/?tag=tolees-21'
 descuento: '35.02'
 average: '3.21'

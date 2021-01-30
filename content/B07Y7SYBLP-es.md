@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Carcasa de silicona transparente y ultrafina para Samsung Galaxy S10  antihuellas  antiarañazos  diseño de Halloween 5 Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y7SYBLP/?tag=tolees-21'
 descuento: '47.39'
 average: '9.99'

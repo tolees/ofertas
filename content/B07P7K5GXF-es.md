@@ -16,6 +16,7 @@ comparePrice: 2.01 EUR
 prodname: 'Libartly Translúcido Color sólido Hilado de Vidrio Ventana Transparente Cenefa Cortina Hogar Dormitorio Decoración de Bodas 100 cm x 200 cm  en Varilla '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P7K5GXF/?tag=tolees-21'
 descuento: '31.84'
 average: '1.37'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Lepfun P3000 1 pcs Correa Protector Deportiva Ajustable de Rodilla para Gimnasio Bádminton Baloncesto deporte al aire - Negro  Small/Medium '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XKDTWSC/?tag=tolees-21'
 descuento: '30.02'
 average: '13.99'

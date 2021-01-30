@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'caja del anillo LED - ALLEU caja joyero de para compromiso y boda  negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071L4JY5X/?tag=tolees-21'
 descuento: '30.02'
 average: '13.99'

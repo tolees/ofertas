@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'JOOMFEEN Cargador de Coche Qualcomm Quick Charge 3.0+2.4A 30W Carga Rapida Doble Puertos USB Adaptador Cargador Coche con 3ft Cable para iPhone XS  XR  X  8  8 Plus  7  7 Plus  6s  6s Plus'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XTCSLPD/?tag=tolees-21'
 descuento: '52.02'
 average: '11.99'

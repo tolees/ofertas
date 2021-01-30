@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Onitsuka Tiger Mexico 66  Zapatillas de Entrenamiento Unisex Adulto  Negro  Black/Black   44.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HROILCA/?tag=tolees-21'
 descuento: '29.50'
 average: '63.45'

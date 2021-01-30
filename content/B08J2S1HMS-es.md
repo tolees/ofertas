@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Bluelucon lenceria mujer 4 Cajas De Almacenamiento Cajas De Almacenamiento Bolsas De Almacenamiento / 5 Correas De Ajuste para Aliviar El Dolor De OíDo  B '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08J2S1HMS/?tag=tolees-21'
 descuento: '80.00'
 average: '8.969999999999999'

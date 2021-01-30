@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Rubie s 620019-L Avengers - Disfraz Capitán América para Niño  Talla L   8-10 años '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HA4YCM6/?tag=tolees-21'
 descuento: '49.98'
 average: '15.0'

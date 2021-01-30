@@ -16,6 +16,7 @@ comparePrice: 44.72 EUR
 prodname: 'Zzkko Animal Licorne Sacs à Dos College School Book Sac de Voyage Randonnée Camping Sac à Dos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DGK2R8X/?tag=tolees-21'
 descuento: '32.51'
 average: '30.18'

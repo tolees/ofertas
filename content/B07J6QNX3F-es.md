@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Los SIMS 4 y Perros y Gatos Colección'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J6QNX3F/?tag=tolees-21'
 descuento: '40.01'
 average: '30.325454545454544'

@@ -16,6 +16,7 @@ comparePrice: 6.41 EUR
 prodname: 'BRA Prior Pincel de Cocina Apta para el Contacto con los Alimentos  Acero INOX  Nailon y Silicona  Verde  28.5 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076TGJX38/?tag=tolees-21'
 descuento: '58.03'
 average: '2.69'

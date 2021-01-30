@@ -16,6 +16,7 @@ comparePrice: 179.95 EUR
 prodname: 'GANT Fay  Botas de Motorista para Mujer  Braun Tobacco Brown G42  36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MCDDWGK/?tag=tolees-21'
 descuento: '84.29'
 average: '28.27'

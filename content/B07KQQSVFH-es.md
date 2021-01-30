@@ -16,6 +16,7 @@ comparePrice: 109.95 EUR
 prodname: 'SALOMON Alphacross GTX  Zapatillas de Trail Running para Hombre  Negro  Black/Ebony/Black   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KQQSVFH/?tag=tolees-21'
 descuento: '30.89'
 average: '72.38199999999999'

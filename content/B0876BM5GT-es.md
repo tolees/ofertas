@@ -16,6 +16,7 @@ comparePrice: 39.6 EUR
 prodname: 'Mampara de Protección para mostradores  Policarbonato/Metacrilato Compacto 3-4 mm  Varias medidas  60cm x 40cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0876BM5GT/?tag=tolees-21'
 descuento: '45.71'
 average: '21.5'

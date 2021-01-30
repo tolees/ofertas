@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Cascos Bluetooth inalámbricos  Hisonic Auriculares inalámbrica Bluetooth de Diadema Auricular Deporte Plegable con Micrófono y Almohadillias de protección  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XHXS2PH/?tag=tolees-21'
 descuento: '40.01'
 average: '17.99'

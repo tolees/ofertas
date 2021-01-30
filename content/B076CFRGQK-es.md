@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'Samsonite 93057-1820 maletines para portátil 39 6 cm  15.6"  Maletín Azul - Funda  Maletín  39 6 cm  15.6"   600 g  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076CFRGQK/?tag=tolees-21'
 descuento: '28.39'
 average: '37.575714285714284'

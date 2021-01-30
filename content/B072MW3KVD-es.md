@@ -16,6 +16,7 @@ comparePrice: 2105.59 EUR
 prodname: 'Apple iMac  27 pulgadas   pantalla Retina 5k  procesador Intel Core i5 de cuatro núcleos a 3 4 GHz   Modelo Anterior '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072MW3KVD/?tag=tolees-21'
 descuento: '28.76'
 average: '1538.985714285714'

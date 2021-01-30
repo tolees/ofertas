@@ -16,6 +16,7 @@ comparePrice: 9.9 EUR
 prodname: 'LvShui Stranger Things Samsung Galaxy A9 Stae Pro Funda Suave Carcasa Silicona Case Cover Series de Televisión Populares para Samsung Galaxy A9 Stae Pro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CXXVC78/?tag=tolees-21'
 descuento: '49.60'
 average: '4.99'

@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Panasonic KX-TGJ310SPB - Teléfono Fijo Inalámbrico  LCD color  Agenda de 250 Números  Bloqueo de Llamadas  Modo ECO Plus  Modo No Molestar   Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ZXI5FMC/?tag=tolees-21'
 descuento: '51.63'
 average: '29.0'

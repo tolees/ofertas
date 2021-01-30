@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'MSI Clutch GM50 - Ratón para Gaming  Sensor óptico PMW-3330  ergonómico  Teclas OMRON  USB   Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N6QWSPL/?tag=tolees-21'
 descuento: '33.34'
 average: '39.99'

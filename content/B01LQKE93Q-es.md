@@ -16,6 +16,7 @@ comparePrice: 15.07 EUR
 prodname: 'SD toys Juego de Tronos Jarra de Cerveza 3D Rotating Lannister'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LQKE93Q/?tag=tolees-21'
 descuento: '33.64'
 average: '11.816666666666666'

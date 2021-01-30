@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'SATECHI Adaptador Multi-Puertos Tipo-C Delgado con Ethernet – 4K HDMI  Gigabit Ethernet  Cargador USB-C PD – Compatible con 2020/2019/2018 MacBook Pro  2020/2018 MacBook Air  Microsoft Laptop 3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083XGRGR6/?tag=tolees-21'
 descuento: '28.75'
 average: '58.49'

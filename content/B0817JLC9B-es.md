@@ -16,6 +16,7 @@ comparePrice: 13.95 EUR
 prodname: 'Columbia Tech Shade Hat Gorra  Unisex Adulto  Gris  City Grey   One Size  Adjustable '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0817JLC9B/?tag=tolees-21'
 descuento: '28.67'
 average: '11.95'

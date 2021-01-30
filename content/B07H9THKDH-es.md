@@ -16,6 +16,7 @@ comparePrice: 149 EUR
 prodname: 'Apple Funda Leather Folio  para el iPhone XS Max  - Azul cabo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H9THKDH/?tag=tolees-21'
 descuento: '77.43'
 average: '33.63'

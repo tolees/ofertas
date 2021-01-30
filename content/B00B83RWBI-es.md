@@ -16,6 +16,7 @@ comparePrice: 259.0 EUR
 prodname: 'Gigandet Reloj de Hombre Automático Sea Ground Vintage Reloj de Buceo Analógico Correa de Acero Negro Plata G2-007'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00B83RWBI/?tag=tolees-21'
 descuento: '27.03'
 average: '189.0'

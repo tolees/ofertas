@@ -16,6 +16,7 @@ comparePrice: 199.95 EUR
 prodname: 'Adidas Terrex Free Hiker  Zapatillas de Deporte para Hombre  Multicolor  Negbás/Grisei/Naract 000   44 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P4WPMNJ/?tag=tolees-21'
 descuento: '35.01'
 average: '129.95'

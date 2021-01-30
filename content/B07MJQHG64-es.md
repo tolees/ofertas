@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Memoria flash USB 2 en 1 de Escomdp Memorias de animales Unidad de memoria USB pendrive Almacenamiento memoria expandible externa para todos los teléfonos inteligentes  computadoras portátiles  32 GB '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MJQHG64/?tag=tolees-21'
 descuento: '85.40'
 average: '12.99'

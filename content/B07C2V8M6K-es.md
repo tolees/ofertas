@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Brica by Munchkin Espejo de coche Baby In-Sight Luciérnagas  4 melodías para entretener y 4 melodías relajantes  sincronizadas con espectáculo de luciérnagas y luces LEDluciérnaga'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C2V8M6K/?tag=tolees-21'
 descuento: '28.00'
 average: '43.19'

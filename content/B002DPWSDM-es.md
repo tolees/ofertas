@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Reebok CL LTHR 3912 - Zapatillas de cuero nobuck unisex  Negro  Int / Black   35.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002DPWSDM/?tag=tolees-21'
 descuento: '64.42'
 average: '35.95'

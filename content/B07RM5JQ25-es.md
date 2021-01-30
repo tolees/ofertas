@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'HyAdierTech Cucharas Siliconas Bebé  2 Piezas Cucharillas de Silicona Suaves de Bebe  Utensilios de la Serie de Entrenamiento Cuchara para Bebés Antideslizante Facilidad Manija'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RM5JQ25/?tag=tolees-21'
 descuento: '56.29'
 average: '6.99'

@@ -16,6 +16,7 @@ comparePrice: 27.5 EUR
 prodname: 'Clarins 72176 - Desmaquillante'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015NM9ZMI/?tag=tolees-21'
 descuento: '42.18'
 average: '15.9'

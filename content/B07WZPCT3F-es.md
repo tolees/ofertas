@@ -16,6 +16,7 @@ comparePrice: 15.0 EUR
 prodname: 'Eastpak BENCHMARK SINGLE Estuches   21 cm  Azul  Nep Gulf '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WZPCT3F/?tag=tolees-21'
 descuento: '32.27'
 average: '10.16'

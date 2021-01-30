@@ -16,6 +16,7 @@ comparePrice: 9.0 EUR
 prodname: 'Rimmel London Stay Satin Liquid Lip Colour Barra De Labios  Tono 800 Rad  21 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D8WGSPK/?tag=tolees-21'
 descuento: '58.00'
 average: '3.78'

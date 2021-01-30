@@ -16,6 +16,7 @@ comparePrice: 7.37 EUR
 prodname: 'Altavoz inalámbrico portátil A10 Caja de Sonido estéreo con micrófono Manos Libres/Tarjeta TF Reproducción de música/Control de Volumen-Gris Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CVM66DT/?tag=tolees-21'
 descuento: '33.51'
 average: '4.9'

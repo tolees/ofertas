@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'LAST LEVEL- Funko Figura Pop Zoolander: Hansel  Multicolor  FFK36430 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HB88HYN/?tag=tolees-21'
 descuento: '38.12'
 average: '9.87'

@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Men s Status 2.0-Mosent Moccasins  Blue  Blue Blu   6.5 UK  40 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZXCYJS/?tag=tolees-21'
 descuento: '29.99'
 average: '48.019999999999996'

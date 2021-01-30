@@ -16,6 +16,7 @@ comparePrice: 10.77 EUR
 prodname: 'Moliies BENETECH GM1311 Digital Food Thermometer Küche Speiseöl Süßigkeiten Wasser BBQ Fleischofen Temperatur Edelstahl Sonde Test'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K6JVBRK/?tag=tolees-21'
 descuento: '39.00'
 average: '6.57'

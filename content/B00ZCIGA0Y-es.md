@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Gucci - Bamboo - Eau de Parfum para mujer - 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ZCIGA0Y/?tag=tolees-21'
 descuento: '33.94'
 average: '58.79'

@@ -16,6 +16,7 @@ comparePrice: 40.62 EUR
 prodname: 'Calvin Klein 3p Low Rise Trunk Calcetines  Multicolor  White/Red/Navy   XL  Pack de 3  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0052SUBX6/?tag=tolees-21'
 descuento: '26.27'
 average: '29.689999999999998'

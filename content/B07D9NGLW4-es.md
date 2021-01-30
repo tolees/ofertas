@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'Cerdá-2400000410 Paraguas  Color  Rosa 001   One Size  Tamaño del Fabricante:Única   2400000410-001 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D9NGLW4/?tag=tolees-21'
 descuento: '35.85'
 average: '5.1'

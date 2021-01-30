@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'PUMA King Pro IT  Zapatillas de fútbol Unisex Adulto  Negro Black White  39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG5XMZZ/?tag=tolees-21'
 descuento: '76.90'
 average: '23.09'

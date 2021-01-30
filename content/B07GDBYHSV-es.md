@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Juguete Gato Pelota - Carga USB Bola Giratoria Automática - Batería Recargable Incorporada ＆ Con Pluma Desmontable - Para Ejercicio Animal Doméstico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GDBYHSV/?tag=tolees-21'
 descuento: '43.38'
 average: '16.98'

@@ -16,6 +16,7 @@ comparePrice: 169.0 EUR
 prodname: 'HP Color Laser 150a - Impresora láser  18 ppm/4 ppm  Bandeja de Salida de 50 Hojas  LED  USB 2.0 de Alta Velocidad   Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RRYTQGK/?tag=tolees-21'
 descuento: '27.87'
 average: '133.18'

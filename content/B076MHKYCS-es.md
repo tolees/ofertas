@@ -16,6 +16,7 @@ comparePrice: 53.99 EUR
 prodname: 'Under NY Sky Delantal de Peluquero - Resistente al Agua y Tinte Colorante - Lona Oxford Negra - Bolsillos con Cremallera - Cierre Sin Amarras - Hombres  Mujeres  Barbero  Peluquero  Colorista  Salón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076MHKYCS/?tag=tolees-21'
 descuento: '44.45'
 average: '29.99'

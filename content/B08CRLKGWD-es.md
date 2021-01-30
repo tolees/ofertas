@@ -16,6 +16,7 @@ comparePrice: 1.62 EUR
 prodname: 'Panamar USB portátil 3.1 Tipo-C Macho a USB 3.0 A Hembra Convertidor Adaptador de Cable USB Carcasa Duradera de aleación de Aluminio Ultra Claro-Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CRLKGWD/?tag=tolees-21'
 descuento: '33.33'
 average: '1.08'

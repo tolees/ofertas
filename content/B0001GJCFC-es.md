@@ -16,6 +16,7 @@ comparePrice: 87.87 EUR
 prodname: 'B+W Clear Haze SC 010 - Filtro UV de 95 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0001GJCFC/?tag=tolees-21'
 descuento: '60.46'
 average: '52.449999999999996'

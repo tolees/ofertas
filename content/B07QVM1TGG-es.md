@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: '40 Piezas Pinzas Para el Cabello para Bebés niñas Clip de Pelo del Bowknot de Cinta de Grosgrain Suave para niños pequeños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QVM1TGG/?tag=tolees-21'
 descuento: '50.05'
 average: '4.99'

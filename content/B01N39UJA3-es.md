@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Jakks Pacific Iconic - Manos -Disfraz'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N39UJA3/?tag=tolees-21'
 descuento: '33.34'
 average: '19.99'

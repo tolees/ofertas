@@ -16,6 +16,7 @@ comparePrice: 13.55 EUR
 prodname: 'find.  Zapatillas con Plataforma Mujer  Azul  Light Blue   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06X9BHYYC/?tag=tolees-21'
 descuento: '53.80'
 average: '6.609999999999999'

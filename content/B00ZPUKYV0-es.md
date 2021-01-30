@@ -16,6 +16,7 @@ comparePrice: 32.5 EUR
 prodname: 'Roca A816850001 Portarrollo sin tapa  Posibilidad de instalación mediante tornillería o adhesivo   Cromado  16 3 x 6 2 x 4 5 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ZPUKYV0/?tag=tolees-21'
 descuento: '25.78'
 average: '24.12'

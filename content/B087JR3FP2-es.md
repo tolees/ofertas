@@ -16,6 +16,7 @@ comparePrice: 9.92 EUR
 prodname: 'Agger 1PC 800ml Gel Duradero Bolas Cargando Botellas con Cuentas de plástico 10000PCS 7-8mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087JR3FP2/?tag=tolees-21'
 descuento: '48.79'
 average: '5.08'

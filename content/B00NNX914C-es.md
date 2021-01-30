@@ -16,6 +16,7 @@ comparePrice: 49.94 EUR
 prodname: 'Blend Jeans - Noos Cirrus - Parte de arriba para hombre  Blau  Fane 76119-L34   W29/L30  29 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NNX914C/?tag=tolees-21'
 descuento: '43.67'
 average: '25.045'

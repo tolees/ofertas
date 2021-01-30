@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Levi s Original Batwing  Multicolor  Hm Patch Polo Riverside/White/Mello 0010   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TPPPTJF/?tag=tolees-21'
 descuento: '50.00'
 average: '27.5'

@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Sift Lace  Zapatillas para Mujer  Gris  Grey Snake Grey Snake   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TQVSVYT/?tag=tolees-21'
 descuento: '54.98'
 average: '45.0'

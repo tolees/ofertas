@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'ADIDAS X PLR  Zapatillas para Hombre  Negro  Core Black/Trace Grey Metallic/Core Black 0   40 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072MZC88F/?tag=tolees-21'
 descuento: '49.82'
 average: '45.14'

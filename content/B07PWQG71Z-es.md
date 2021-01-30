@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Nike Air MAX Graviton  Zapatillas para Hombre  Negro  Black/White 001   45.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PWQG71Z/?tag=tolees-21'
 descuento: '65.99'
 average: '34.01'

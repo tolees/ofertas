@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'New Balance Draft  Zapatillas para Correr de Carretera para Mujer  Bali Blue  36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RDP3N2T/?tag=tolees-21'
 descuento: '38.20'
 average: '37.08'

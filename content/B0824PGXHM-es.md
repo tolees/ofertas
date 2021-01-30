@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Young & Ming Funda para Xiaomi Redmi Note 8T   3 Pack  Transparente TPU Silicona Carcasa Delgado Antigolpes Resistente  Unicornio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0824PGXHM/?tag=tolees-21'
 descuento: '31.44'
 average: '8.22'

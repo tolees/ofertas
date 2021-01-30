@@ -16,6 +16,7 @@ comparePrice: 48.87 EUR
 prodname: 'Real Madrid CF- Bolsa deporte  Color negro  Safta 711924553 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVLC24Y/?tag=tolees-21'
 descuento: '41.33'
 average: '28.67'

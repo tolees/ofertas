@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Casco Moto Modular SPEEDWAY con ECE y DOT Homologado - OSMA Casco de Moto Scooter para Mujer Hombre Adultos con Doble Visera -Negro Mate y Blanco  NEGRO-MATE  S '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YZGV11X/?tag=tolees-21'
 descuento: '30.30'
 average: '69.0'

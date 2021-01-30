@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'relaxdays Especiero con 16 botes para especias  4 estantes  360º  Tapas con dosificadores  Acero inoxidable  Plateado  plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZQ5VDMD/?tag=tolees-21'
 descuento: '41.82'
 average: '34.9'

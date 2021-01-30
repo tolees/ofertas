@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Luchild Dummy Clips Baby Pacifier Holder Made from Food Grade Silicone and Natural Wood Pacifier Clips Fit All Dummies & Soothers  4-Pack '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FHYZGQP/?tag=tolees-21'
 descuento: '35.74'
 average: '8.99'

@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'VLIKE Estación meteorológica con 2PCS sensores Estación meteorológica al Aire Libre Radio Control Reloj Círculo Pantalla Temperatura y Humedad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QLBS91X/?tag=tolees-21'
 descuento: '41.12'
 average: '52.99'

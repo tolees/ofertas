@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Philips SB300B/00 - Altavoz Bluetooth portátil inalámbrico  Luces LED  a Prueba de Agua IPX7 y Golpes  LED Multicolor   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IJZQXT4/?tag=tolees-21'
 descuento: '51.01'
 average: '26.413333333333334'

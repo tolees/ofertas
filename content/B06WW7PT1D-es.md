@@ -16,6 +16,7 @@ comparePrice: 47.25 EUR
 prodname: 'Goonies / Gremlins / Gremlins 2 [Edizione: Stati Uniti] [Italia] [DVD]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WW7PT1D/?tag=tolees-21'
 descuento: '52.42'
 average: '22.48'

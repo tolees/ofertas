@@ -16,6 +16,7 @@ comparePrice: 16.88 EUR
 prodname: 'Funda Transparente Compatible para Mi Note 10/Note 10 Pro Carcasa Suave Silicona TPU Gel Dibujos Animal Ultra Fina Anti Choques y Anti Arañazos Clear Bumper Case Cover para Mi Note 10/Note 10 Pro A6'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0872T6GDW/?tag=tolees-21'
 descuento: '52.73'
 average: '7.98'

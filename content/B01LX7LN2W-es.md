@@ -16,6 +16,7 @@ comparePrice: 2.08 EUR
 prodname: 'Lindt Excellence Tableta de Chocolate Suave 70% - 100 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LX7LN2W/?tag=tolees-21'
 descuento: '42.31'
 average: '1.2'

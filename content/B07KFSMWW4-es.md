@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Adidas Grand Court  Zapatillas de Tenis para Hombre  Blanco  Ftwbla/Negbás/Ftwbla 000   38 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFSMWW4/?tag=tolees-21'
 descuento: '58.83'
 average: '28.8'

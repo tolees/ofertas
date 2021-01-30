@@ -16,6 +16,7 @@ comparePrice: 42.99 EUR
 prodname: 'Bergner Infinity Chef Sartén de Inducción  Aluminio Forjado  Bronce  16 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M740ITK/?tag=tolees-21'
 descuento: '53.50'
 average: '19.99'

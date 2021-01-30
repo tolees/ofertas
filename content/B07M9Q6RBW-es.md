@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'laamei Visillos Bordado para Ventanas Voile Cortina Translúcidas con Bordado Floral Decoración para Ventanas Habitaciones Dormitorios Salones  1 Pieza Gris/140cmx225cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M9Q6RBW/?tag=tolees-21'
 descuento: '37.52'
 average: '12.49'

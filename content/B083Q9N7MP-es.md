@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Lámpara Proyector  Amouhom Proyector Estrellas & Océano 2 in 1 Lámpara de Nocturna con Rotación y Música  Temporización  Remoto y Bluetooth 10 Modos Luz de la Noche Perfecto Regalo Navida'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083Q9N7MP/?tag=tolees-21'
 descuento: '51.12'
 average: '45.32333333333334'

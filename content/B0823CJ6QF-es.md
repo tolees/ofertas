@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Tokyo Mirage'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0823CJ6QF/?tag=tolees-21'
 descuento: '33.79'
 average: '50.391111111111115'

@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'BY BENYAR Reloj Casual de Cuarzo para Hombre  con Correa de Piel  cronógrafo  Resistente al Agua  con Fecha  analógico  Deportivo  Militar  Reloj de Pulsera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TBQ26Q2/?tag=tolees-21'
 descuento: '81.50'
 average: '36.99'

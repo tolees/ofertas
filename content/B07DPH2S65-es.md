@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'POWER DOUGH  Multicolor  Canal Toys Amazon ES1 DP016 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DPH2S65/?tag=tolees-21'
 descuento: '68.08'
 average: '9.620000000000001'

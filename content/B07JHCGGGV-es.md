@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Columbia Redmond V2 Mid  Botas de Senderismo Impermeables para Hombre  Marrón  Cordovan  Baker 231   43.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JHCGGGV/?tag=tolees-21'
 descuento: '44.66'
 average: '55.33'

@@ -16,6 +16,7 @@ comparePrice: 25.4 EUR
 prodname: 'Cinturón de Cintura para Correr - HAISSKY Deportiva Ajustable para Entrenamiento físico para Hombres y Mujeres con 3 Bolsillos y cinturón elástico Apto para iPhone y Otros teléfonos celulares'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BHZXHW1/?tag=tolees-21'
 descuento: '56.73'
 average: '10.99'

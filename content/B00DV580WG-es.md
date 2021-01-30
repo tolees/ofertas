@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Superga Classic  Zapatillas Unisex Adulto  Azul  Blue Shadow C57   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DV580WG/?tag=tolees-21'
 descuento: '49.15'
 average: '30.0'

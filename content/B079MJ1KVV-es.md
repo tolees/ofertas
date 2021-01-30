@@ -16,6 +16,7 @@ comparePrice: 37.5 EUR
 prodname: 'Metaltex Aquatex Copper - Escurreplatos con Bandeja  Color Cobre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079MJ1KVV/?tag=tolees-21'
 descuento: '46.69'
 average: '19.99'

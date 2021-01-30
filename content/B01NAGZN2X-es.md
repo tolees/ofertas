@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Pulsera Hombre Acero Inoxidable Silicona Punk Rock Brazalete Biker Chulo con Rayas Regalo Pascua/ Cumpleaños/ San Valentín'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NAGZN2X/?tag=tolees-21'
 descuento: '47.64'
 average: '10.49'

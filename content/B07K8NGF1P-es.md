@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Manta de Bebé Terciopelo Tacto Seda o Visón 440gr/m2  80x130  TOPITOS Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K8NGF1P/?tag=tolees-21'
 descuento: '40.10'
 average: '11.95'

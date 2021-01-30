@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'AUKEY Batería Externa de 5000 mAh  Cargadores portátiles compactos  Cargador de batería para iPhone X/8 Plus  Samsung S9/Note8  iPad  Auriculares Bluetooth  Pulsera de Actividad y más  Rosa '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KN8RWPJ/?tag=tolees-21'
 descuento: '52.41'
 average: '9.99'

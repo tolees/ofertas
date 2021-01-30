@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'POWER GUIDANCE Escalera de Velocidad Escalera de Agilidad 6m para Fútbol Baloncesto Tenis Fitness Entrenamiento  10 Conos Bolsa de Transporte '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QV1V4TJ/?tag=tolees-21'
 descuento: '25.01'
 average: '24.32333333333333'

@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee Daren Zip Fly Jeans  Azul  Dark Diamond Ft   28W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JMCY9K9/?tag=tolees-21'
 descuento: '32.20'
 average: '46.61'

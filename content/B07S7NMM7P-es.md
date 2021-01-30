@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'DONPEREGRINO 55cm Maleta Cabina Avión con Candado TSA y USB de Carga  Maleta de Viaje Equipaje de Mano Full Forrada con 4 Doble-Ruedas 360° Giratorias'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S7NMM7P/?tag=tolees-21'
 descuento: '47.51'
 average: '40.656666666666666'

@@ -16,6 +16,7 @@ comparePrice: 14.9 EUR
 prodname: 'Spiuk Profit Cold&Rain Calcetines  Hombre  Negro  40/43'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MR0VHIW/?tag=tolees-21'
 descuento: '40.60'
 average: '8.85'

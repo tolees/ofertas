@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'ETEREAUTY Rosa de Oro de 24 Quilates para Siempre  Rosa chapada en Oro Eterno con Exquisito Titular y Tarjeta de Regalo  Regalo de Mujer para el día de la Madre  Aniversario  cumpleaños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KCLTRLL/?tag=tolees-21'
 descuento: '41.31'
 average: '26.99'

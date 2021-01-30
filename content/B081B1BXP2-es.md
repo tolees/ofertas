@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Fidech Masajeador Portátil  10 Modos de Frecuencia  Silicona Suave  Por Favor  Elija el Entregado por Amazon'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081B1BXP2/?tag=tolees-21'
 descuento: '25.01'
 average: '16.23'

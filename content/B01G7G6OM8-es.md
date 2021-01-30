@@ -16,6 +16,7 @@ comparePrice: 13.62 EUR
 prodname: 'Freedog FD6000018 - Zapatos/Deportivas  para Perro  Color Tejano'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01G7G6OM8/?tag=tolees-21'
 descuento: '26.58'
 average: '10.0'

@@ -16,6 +16,7 @@ comparePrice: 190.0 EUR
 prodname: 'Asics Gel-Kayano 26 LS  Zapatillas de Running para Hombre  Gris  Graphite Grey/Piedmont Grey 020   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L32WY5Q/?tag=tolees-21'
 descuento: '47.90'
 average: '98.99'

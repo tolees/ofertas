@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'azorex Mini Enfriador Portátil USB Aire Acondicionado Climatizador con 3 en 1 Ventilador Purificador Humidificador Ajustable para Oficina Dormitorio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CD2PZG5/?tag=tolees-21'
 descuento: '33.34'
 average: '19.99'

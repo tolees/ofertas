@@ -16,6 +16,7 @@ comparePrice: 33.98 EUR
 prodname: 'Joma Academy Chandal Caballero  Hombre  Royal/Marino  2XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FKMSWX9/?tag=tolees-21'
 descuento: '32.34'
 average: '24.6775'

@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'SALOMON Brigade Casco de esquí y Snowboard para Hombre  con Sistema de Audio  Carcasa ABS  Tecnología Smart  Circunferencia  Negro  All Black   M  56-59 cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CD9MQJ8/?tag=tolees-21'
 descuento: '35.00'
 average: '77.99'

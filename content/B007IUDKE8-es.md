@@ -16,6 +16,7 @@ comparePrice: 71.0 EUR
 prodname: 'Stendhal Recette Merveilleuse Crema Revitalisante Jour Ultra 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007IUDKE8/?tag=tolees-21'
 descuento: '47.89'
 average: '37.0'

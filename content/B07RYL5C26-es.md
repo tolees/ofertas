@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance 997h  Zapatillas para Mujer  Azul  Navy/Pink HAO   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RYL5C26/?tag=tolees-21'
 descuento: '52.94'
 average: '42.35'

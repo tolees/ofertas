@@ -16,6 +16,7 @@ comparePrice: 22.95 EUR
 prodname: 'PUMA COURTFLEX V2 V INF  Zapatillas Unisex niños  Azul  Peacoat/High Risk Red 01   24 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S6NTTDY/?tag=tolees-21'
 descuento: '56.34'
 average: '10.02'

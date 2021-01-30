@@ -16,6 +16,7 @@ comparePrice: 29.6 EUR
 prodname: 'Auriculares Bluetooth  Auriculares inalámbricos Bluetooth In-Ear Mini Auriculares Auriculares emparejamiento automático emergente Deportivos para Android/iPhone Apple Airpods'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084YRTMXJ/?tag=tolees-21'
 descuento: '33.21'
 average: '19.77'

@@ -16,6 +16,7 @@ comparePrice: 16.84 EUR
 prodname: 'UTG Picatynny/Weaver Schiene Model 500 Shotgun Top Rail Mount - Mira de Arma para Caza  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001WIYQNG/?tag=tolees-21'
 descuento: '33.14'
 average: '16.042857142857144'

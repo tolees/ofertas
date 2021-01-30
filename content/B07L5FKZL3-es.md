@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Viking Alvdal Mid R GTX  Zapatillas Altas Unisex Niños  Negro  Black/Charcoal 277   20 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L5FKZL3/?tag=tolees-21'
 descuento: '85.45'
 average: '13.09'

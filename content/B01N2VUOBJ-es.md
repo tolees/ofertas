@@ -16,6 +16,7 @@ comparePrice: 105.99 EUR
 prodname: 'HyperX Impact DDR4 HX426S15IB2K2/16 Memoria RAM 2666MHz CL15 SODIMM 16GB Kit  2x8GB '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N2VUOBJ/?tag=tolees-21'
 descuento: '25.65'
 average: '78.8'

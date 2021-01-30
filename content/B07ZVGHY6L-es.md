@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: '3W GRT Leggings mujer fitness Mallas Deportivas de Mujer Pantalones elásticos de yoga con bolsillos laterales polainas de yoga Fitness Yoga  Negro&Gris-331  XL '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZVGHY6L/?tag=tolees-21'
 descuento: '41.39'
 average: '16.99'

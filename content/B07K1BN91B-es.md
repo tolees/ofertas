@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'adidas Tastigo19 SHO Pantalones Cortos de Deporte  Hombre  Active Green/hi-Res Yellow  910Y'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K1BN91B/?tag=tolees-21'
 descuento: '43.21'
 average: '17.01'

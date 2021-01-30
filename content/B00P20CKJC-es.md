@@ -16,6 +16,7 @@ comparePrice: 3.95 EUR
 prodname: 'VATI Hojas desprendibles Kill Geniales Diseño Sticker Decal la Piel del Vinilo de Arte Negro para Apple Macbook Pro Aire Mac 13"15" Pulgadas / 13 Unibody 15"Pulgadas portátil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00P20CKJC/?tag=tolees-21'
 descuento: '25.32'
 average: '2.95'

@@ -16,6 +16,7 @@ comparePrice: 1.35 EUR
 prodname: 'Sonline Nail 2 X acero inoxidable del arte del clavo de las pinzas de herramientas Piedras Gems pestanas herramienta Picking Acrilico Gel Arte'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00YTPLUD8/?tag=tolees-21'
 descuento: '51.85'
 average: '0.8833333333333334'

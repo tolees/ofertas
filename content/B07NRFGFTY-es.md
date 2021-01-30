@@ -16,6 +16,7 @@ comparePrice: 7.17 EUR
 prodname: 'Fa - Desodorante Roll-On Sport - Anti Transpirable y fiable contra el olor corporal - 3 uds de 50ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NRFGFTY/?tag=tolees-21'
 descuento: '58.16'
 average: '3.0'

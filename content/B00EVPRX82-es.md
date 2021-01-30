@@ -16,6 +16,7 @@ comparePrice: 14.62 EUR
 prodname: 'Calvin Klein Bottoms UP-Thong Tanga  Blanco  White 100   Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EVPRX82/?tag=tolees-21'
 descuento: '38.51'
 average: '9.24'

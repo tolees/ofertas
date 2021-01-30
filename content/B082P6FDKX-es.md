@@ -16,6 +16,7 @@ comparePrice: 99 EUR
 prodname: 'Canadian Peak BONETEAK rol Unisex Marino  L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082P6FDKX/?tag=tolees-21'
 descuento: '40.00'
 average: '59.4'

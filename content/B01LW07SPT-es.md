@@ -16,6 +16,7 @@ comparePrice: 13.95 EUR
 prodname: 'L Oréal Paris Barra De Labios Color Riche 641 Beige Boudo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LW07SPT/?tag=tolees-21'
 descuento: '29.03'
 average: '9.036666666666667'

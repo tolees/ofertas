@@ -16,6 +16,7 @@ comparePrice: 23.9 EUR
 prodname: 'DISFRAZ SHERIFF CHICA TALLA M-L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01G0QBL8M/?tag=tolees-21'
 descuento: '50.71'
 average: '11.78'

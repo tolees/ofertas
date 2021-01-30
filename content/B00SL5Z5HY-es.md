@@ -16,6 +16,7 @@ comparePrice: 18.5 EUR
 prodname: 'Lékué Molde de Silicona Pan Redondo  Marrón  Centimeters'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SL5Z5HY/?tag=tolees-21'
 descuento: '28.38'
 average: '13.25'

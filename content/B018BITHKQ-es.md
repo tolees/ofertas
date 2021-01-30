@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'COMPRESSPORT Ultraligh Visera  Unisex  Negro  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018BITHKQ/?tag=tolees-21'
 descuento: '58.36'
 average: '12.323333333333332'

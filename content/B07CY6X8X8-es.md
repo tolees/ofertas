@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'Scottex - Toallitas Íntimas - 16 packs de 25 toallitas - Total: 400 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CY6X8X8/?tag=tolees-21'
 descuento: '41.39'
 average: '19.158888888888892'

@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Parasol Coche Bebe Infantil Lateral cortinilla  Accesorio Coche ventanilla Trasera  Cortina Interior Lamina Cubre Sol niño  protección Rayos UV  colocación electrostática Autoadhesivo  DINOSAURIO '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SB4WJYJ/?tag=tolees-21'
 descuento: '35.15'
 average: '5.83'

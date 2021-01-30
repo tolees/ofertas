@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Vans ISO 1.5  Zapatillas Unisex Adulto  Azul  Mesh   36.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078W1L8BY/?tag=tolees-21'
 descuento: '66.03'
 average: '34.04285714285714'

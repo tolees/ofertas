@@ -16,6 +16,7 @@ comparePrice: 38.99 EUR
 prodname: 'Cecotec Ready Warm 6600 Turbo Convection Plus - Convector Potente  Termostato Regulable  4 Modos  Turboventilador  Soporte de pie  Protección sobrecalentamiento  Silencioso  Calor 360º  2000 W'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JNKWHQ9/?tag=tolees-21'
 descuento: '33.88'
 average: '26.8875'

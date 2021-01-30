@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Mardozon Correas para Xiaomi Mi Band 3  14 Piezas Pulsera de Doble Color Silicona de Recambio Brazalete Extensibles Coloridos Reemplazo Wireless Inteligente para Mi Banda 3  14 Colors '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MPT4GQG/?tag=tolees-21'
 descuento: '42.22'
 average: '11.55'

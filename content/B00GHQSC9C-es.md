@@ -16,6 +16,7 @@ comparePrice: 78.53 EUR
 prodname: 'Orphelia OR53172181 - Reloj de Pulsera Mujer  Piel'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GHQSC9C/?tag=tolees-21'
 descuento: '50.34'
 average: '39'

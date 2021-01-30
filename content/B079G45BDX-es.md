@@ -16,6 +16,7 @@ comparePrice: 42.65 EUR
 prodname: 'find. Botín de Ante con Tacón Mujer  Beige  Taupe Taupe   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079G45BDX/?tag=tolees-21'
 descuento: '57.80'
 average: '18'

@@ -16,6 +16,7 @@ comparePrice: 229.9 EUR
 prodname: 'Lenovo UltraDock - Base de conexión para Tablet  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00FC1V61E/?tag=tolees-21'
 descuento: '34.13'
 average: '143.22'

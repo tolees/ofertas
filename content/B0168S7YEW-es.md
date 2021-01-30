@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Belle Azul - PURE SWISS - Sérum Facial de Ácido Hialurónico Puro de Alta Calidad Suiza  Con Vitamina C y Células Madre de Argán  30ML'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0168S7YEW/?tag=tolees-21'
 descuento: '43.48'
 average: '16.9'

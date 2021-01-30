@@ -16,6 +16,7 @@ comparePrice: 4.56 EUR
 prodname: 'IBILI - Cortador Ondulado para Verduras'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CPPWYYS/?tag=tolees-21'
 descuento: '37.50'
 average: '2.85'

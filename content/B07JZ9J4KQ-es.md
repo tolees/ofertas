@@ -16,6 +16,7 @@ comparePrice: 20.69 EUR
 prodname: 'Calzoncillos de Hombre  Espalda Ahueca hacia Fuera la Ropa Interior Panties Briefs M-Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JZ9J4KQ/?tag=tolees-21'
 descuento: '72.50'
 average: '5.69'

@@ -16,6 +16,7 @@ comparePrice: 12.6 EUR
 prodname: 'VIPITH Máscara facial de gasa transpirable desechable  antipolvo con bucle elástico y 3 capas de protección  apto para salón  pintura  jardín  empaquetado individual  10 paquetes  azul   azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085GC7SMY/?tag=tolees-21'
 descuento: '45.48'
 average: '7.42'

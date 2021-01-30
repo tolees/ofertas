@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'biManán - beSLIM - Sustitutivos para Adelgazar - Plan de Emergencia 3 días - 15 batidos 660 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ETTACHS/?tag=tolees-21'
 descuento: '38.37'
 average: '22.18'

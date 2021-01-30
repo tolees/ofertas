@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'L Oreal Paris Volume Million Lashes Feline - Mascara  Negro  Feline Black   - 9.2 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B014AH8HMQ/?tag=tolees-21'
 descuento: '67.96'
 average: '4.79'

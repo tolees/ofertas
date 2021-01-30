@@ -16,6 +16,7 @@ comparePrice: 41.99 EUR
 prodname: 'Gigantosaurus'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0849CVHPS/?tag=tolees-21'
 descuento: '39.30'
 average: '25.49'

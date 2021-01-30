@@ -16,6 +16,7 @@ comparePrice: 17.5 EUR
 prodname: 'Piz Buin - Protección Solar  After Sun Loción Hidratante  Calmante y Refrescante After Sun - Bote 400 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BF7RZGO/?tag=tolees-21'
 descuento: '45.14'
 average: '9.6'

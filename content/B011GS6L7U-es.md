@@ -16,6 +16,7 @@ comparePrice: 87.39 EUR
 prodname: 'Devolo dLAN 500 duo Sarter KIT- Kit de inicio de adaptador de comunicación por línea eléctrica PLC  500 Mbps  2 adaptadores  2 puertos LAN  enchufe LAN  carcasa compacta   blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B011GS6L7U/?tag=tolees-21'
 descuento: '37.27'
 average: '54.82'

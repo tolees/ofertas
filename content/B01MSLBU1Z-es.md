@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'HP Cable Adaptador HDMI a VGA - Adaptador para Cable  HDMI  VGA  Male Connector/Female Connector  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MSLBU1Z/?tag=tolees-21'
 descuento: '25.41'
 average: '22.508333333333333'

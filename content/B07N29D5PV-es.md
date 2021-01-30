@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Maleta de cabina rígida 55cm Movom Trafalgar Roja'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N29D5PV/?tag=tolees-21'
 descuento: '30.09'
 average: '51.965'

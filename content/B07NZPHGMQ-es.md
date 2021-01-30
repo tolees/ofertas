@@ -16,6 +16,7 @@ comparePrice: 38.29 EUR
 prodname: '3D Antifaz para Dormir  METALBAY Ojos Máscara de Poliéster con Velcro Ajustable Ultra Ligero y Anti-luz para Viaje  Oficina y Hogar  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NZPHGMQ/?tag=tolees-21'
 descuento: '79.13'
 average: '7.99'

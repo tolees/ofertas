@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'AmazonBasics - Perchero de pared  8 ganchos modernos  Nogal  2 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L36MCHV/?tag=tolees-21'
 descuento: '30.01'
 average: '20.99'

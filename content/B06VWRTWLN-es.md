@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Lock S Quest'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06VWRTWLN/?tag=tolees-21'
 descuento: '45.57'
 average: '10.076666666666666'

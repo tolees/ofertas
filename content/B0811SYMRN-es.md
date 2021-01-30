@@ -16,6 +16,7 @@ comparePrice: 3.93 EUR
 prodname: 'ZZSNT Walk-Hero Ajustable  Transpirable  elástico  Anti-esguince  Tobillo  Manga  Soporte  Protector  Deportes  Baloncesto Right Foot M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0811SYMRN/?tag=tolees-21'
 descuento: '39.44'
 average: '2.38'

@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Tommy Hilfiger Basic Badge Regular LS Polo  Azul  Blue Dw5   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RLNWTK1/?tag=tolees-21'
 descuento: '51.06'
 average: '38.635000000000005'

@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'PUMA Vikky v2 Mid WTR  Zapatillas Altas para Mujer  Overcast-Rose Gold White  38.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFXMDRC/?tag=tolees-21'
 descuento: '67.83'
 average: '23.189999999999998'

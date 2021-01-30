@@ -16,6 +16,7 @@ comparePrice: 34.5 EUR
 prodname: 'find. Edwin Mocasines  Hombres  Azul  Blue   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J2CV72M/?tag=tolees-21'
 descuento: '28.99'
 average: '25.825'

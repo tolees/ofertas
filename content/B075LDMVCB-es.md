@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Memoria Flash USB 512MB 10 Piezas Pequeña Capacidad Pen Drives - Portatil Metal Económico Pendrive Almacenamiento de Datos Externo - Datarm Mini Llaves USB Plata USB 2.0 Flash Drive por Conferencia'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075LDMVCB/?tag=tolees-21'
 descuento: '34.30'
 average: '22.99'

@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Skechers Uno- Stacre  Zapatillas para Hombre  Marfil  Off/White Leather/PU/Mesh/Trim Ofwt   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NZY5B5W/?tag=tolees-21'
 descuento: '58.24'
 average: '35.055'

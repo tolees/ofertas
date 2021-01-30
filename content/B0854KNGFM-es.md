@@ -16,6 +16,7 @@ comparePrice: 8.95 EUR
 prodname: 'Tamaño portátil Fragancia fresca Perfume original Perfume Mujer Perfume Mujer Hombre Parfum Fragancia fresca Perfume XS1280B - Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0854KNGFM/?tag=tolees-21'
 descuento: '34.97'
 average: '5.82'

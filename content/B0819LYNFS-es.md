@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Meeter Funda Xiaomi Redmi 8A  7 x Unidades Carcasas Ultra Fina Silicona TPU de Alta Resistencia y Flexibilidad Caso Colores  Negro+Rojo+Azul Oscuro+Rosa+Lavanda+Amarillo+Verde '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0819LYNFS/?tag=tolees-21'
 descuento: '39.49'
 average: '5.44'

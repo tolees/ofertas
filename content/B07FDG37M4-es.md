@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Jabra Talk 30 - Auricular Bluetooth Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FDG37M4/?tag=tolees-21'
 descuento: '61.07'
 average: '34.725'

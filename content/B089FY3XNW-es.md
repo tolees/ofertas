@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'morpilot Correa de Perro  Correa de Nylon Resistente para Perros  Correa Adiestramiento Cuerda Ajustable con Mango Suave  Correa para Perro Grande Mediano Pequeño  Talla S + Bolsa de Basura'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089FY3XNW/?tag=tolees-21'
 descuento: '28.59'
 average: '9.99'

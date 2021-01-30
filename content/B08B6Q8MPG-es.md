@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'Control Sensual Mousse Bora Bora - Mousse de masaje corporal con efecto chispeante con sonido y aroma a notas florales y frutales - 125 ml - Compatible con preservativo - Hipoalergénico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B6Q8MPG/?tag=tolees-21'
 descuento: '25.02'
 average: '9.71'

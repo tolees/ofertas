@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'JVC HA-FX10-B-E - Auriculares In-Ear  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VEEZ19G/?tag=tolees-21'
 descuento: '38.49'
 average: '6.794444444444444'

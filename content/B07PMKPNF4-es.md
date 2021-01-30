@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Aibrou Pijamas Hombre Verano Corto de 100% Algodón Conjuntos de Pijamas para Hombre Mangas Cortas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PMKPNF4/?tag=tolees-21'
 descuento: '60.01'
 average: '19.99'

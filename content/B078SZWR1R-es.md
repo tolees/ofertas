@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Joseph Joseph Index 3 piezas Juego de tabla de cortar  madera de bambú  35 x 9 5 x 29 5 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078SZWR1R/?tag=tolees-21'
 descuento: '29.96'
 average: '63.03'

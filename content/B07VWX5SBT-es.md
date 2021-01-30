@@ -16,6 +16,7 @@ comparePrice: 24.82 EUR
 prodname: 'Teclado para Juegos  Teclados Profesionales con Cable USB De Una/Una Mano con Soporte para La Mano Luz De Fondo Colorida Teclados Mecánicos para Juegos De Manos para Comer Artefactos De Pollo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VWX5SBT/?tag=tolees-21'
 descuento: '40.01'
 average: '14.89'

@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Suecos Alma  Zapatillas de Deporte Unisex Adulto  Blanco  White   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ELRLUJ2/?tag=tolees-21'
 descuento: '34.09'
 average: '44.53333333333333'

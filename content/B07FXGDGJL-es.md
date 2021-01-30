@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: '12W Lámpara de baño LED  Lámpara de espejo Aplique de Baño LED 50CM 6000K Luz Blanca para Espejo Muebles de Maquillaje Aparato Montado en la Pared'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FXGDGJL/?tag=tolees-21'
 descuento: '56.53'
 average: '19.99'

@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Armani Exchange Icon Tracksuit Bottom Pantalones de Deporte  Gris  Bc09 Grey 3930   46  Talla del Fabricante: X-Small  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SRWQJ4X/?tag=tolees-21'
 descuento: '78.38'
 average: '21.62'

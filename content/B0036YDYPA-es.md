@@ -16,6 +16,7 @@ comparePrice: 11.36 EUR
 prodname: 'Revlon Proyou White Hair Shampoo Champú - 350 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0036YDYPA/?tag=tolees-21'
 descuento: '38.47'
 average: '6.224444444444445'

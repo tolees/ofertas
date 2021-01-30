@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'Samsung S22F350FHU - Monitor LED de 21.5 pulgadas  FullHD  1000:1  200 cd/m²  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BCEZWBE/?tag=tolees-21'
 descuento: '32.01'
 average: '81.75193548387097'

@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Buff Aralia Cinta de Cabeza Coolnet  Mujer  Multi  Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KGGC5TC/?tag=tolees-21'
 descuento: '26.76'
 average: '10.556666666666667'

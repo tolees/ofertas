@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'FNBK Funda para Samsung Galaxy S20 Plus  Silicona TPU pintada Funda ultrafina Funda para parachoques  cubierta a prueba de golpes Funda Funda de silicona de gel suave para Galaxy S20 Plus Cachorro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085NG3L2Y/?tag=tolees-21'
 descuento: '53.89'
 average: '5.99'

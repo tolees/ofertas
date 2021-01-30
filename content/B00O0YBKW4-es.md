@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Levi s BIG BEND Cinturón  Negro  Regular Black 59   95 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00O0YBKW4/?tag=tolees-21'
 descuento: '39.11'
 average: '27.4'

@@ -16,6 +16,7 @@ comparePrice: 50 EUR
 prodname: 'SALOMON XA Short  Mujer  Gris  Urban Chic   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F2KV6FN/?tag=tolees-21'
 descuento: '53.08'
 average: '23.46'

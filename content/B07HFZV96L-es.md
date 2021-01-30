@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'New Balance Solvi h  Zapatillas de Running para Hombre  Azul  Blue Blue   46.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HFZV96L/?tag=tolees-21'
 descuento: '49.42'
 average: '60.7'

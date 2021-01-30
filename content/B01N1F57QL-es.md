@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'L Oréal Paris Colorista Coloración Temporal Colorista Spray - Grey Hair'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N1F57QL/?tag=tolees-21'
 descuento: '69.94'
 average: '2.39'

@@ -16,6 +16,7 @@ comparePrice: 7.53 EUR
 prodname: 'Máquina de molienda en seco Placa de molienda Manual Especial Placa de Lanzamiento Manual Placa de Empuje Manual Aspirador Cabezal de molienda  Rojo Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FC6M6F9/?tag=tolees-21'
 descuento: '33.47'
 average: '5.01'

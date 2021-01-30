@@ -16,6 +16,7 @@ comparePrice: 120 EUR
 prodname: 'Hackett London Archive Colour Block Polo  Multicolor  Red/Navy 2a2   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JC7WCGR/?tag=tolees-21'
 descuento: '77.60'
 average: '26.88'

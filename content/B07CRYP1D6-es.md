@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Pop Vinyl - G Dota 2 S1 Phantom Assasin with Sword'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CRYP1D6/?tag=tolees-21'
 descuento: '40.29'
 average: '8.95'

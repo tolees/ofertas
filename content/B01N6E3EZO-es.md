@@ -16,6 +16,7 @@ comparePrice: 1299.99 EUR
 prodname: 'Lenovo Ideacentre AIO 910-27ISH - Ordenador de sobremesa 27" FullHD  Intel Core i5-6400T  8GB RAM  1TB HDD  Nvidia GT940A-2GB  Windows  Plateado - Teclado QWERTY Español + Ratón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N6E3EZO/?tag=tolees-21'
 descuento: '25.18'
 average: '973.39'

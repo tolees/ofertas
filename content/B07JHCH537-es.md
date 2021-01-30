@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Columbia Redmond V2  Zapatillas de Senderismo para Hombre  Marrón  Saddle/Canyon Gold 269   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JHCH537/?tag=tolees-21'
 descuento: '35.63'
 average: '51.49'

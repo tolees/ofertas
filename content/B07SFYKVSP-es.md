@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Levi s Woodward L  Zapatillas para Hombre  Azul  Navy Blue 17   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SFYKVSP/?tag=tolees-21'
 descuento: '55.22'
 average: '26.87'

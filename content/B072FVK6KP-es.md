@@ -16,6 +16,7 @@ comparePrice: 55 EUR
 prodname: 'New Balance 574v2 Core Velcro  Zapatillas Unisex Niños  Azul Navy Grey GV  23 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072FVK6KP/?tag=tolees-21'
 descuento: '40.00'
 average: '33.975'

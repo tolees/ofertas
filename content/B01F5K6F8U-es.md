@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Nixon Reloj Mujer de Analogico con Correa en Chapado en Acero Inoxidable A11302195-00'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01F5K6F8U/?tag=tolees-21'
 descuento: '44.61'
 average: '55.39'

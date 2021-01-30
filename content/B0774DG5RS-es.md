@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'SYMALL Mujer Ropa Interior Hueco Encaje Malla Bodystockings Body Lencería Sexy de Noche Lencería Abierta en Un Solo Paso'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0774DG5RS/?tag=tolees-21'
 descuento: '90.05'
 average: '1.99'

@@ -16,6 +16,7 @@ comparePrice: 30.31 EUR
 prodname: 'PUMA Prime Street Large Shopper Bandolera  Mujeres  Bridal Rose  OSFA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QF99LZX/?tag=tolees-21'
 descuento: '34.05'
 average: '19.99'

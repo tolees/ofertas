@@ -16,6 +16,7 @@ comparePrice: 215.62 EUR
 prodname: 'HP 27fh - Monitor de 27" FullHD  1920x1080  panel IPS  16:9  HDMI 1.4  Altura ajustable  5 ms  75 Hz  Low Blue Light  AMD FreeSync  Antirreflectante   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HHB4V52/?tag=tolees-21'
 descuento: '28.23'
 average: '161.65090909090912'

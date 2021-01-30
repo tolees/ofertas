@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Columbia Meadows Omni  Botas Bajas para Mujer  Blanco Roto  Heat-Sea Salt  Rosew   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KPKH5WH/?tag=tolees-21'
 descuento: '83.01'
 average: '26.97'

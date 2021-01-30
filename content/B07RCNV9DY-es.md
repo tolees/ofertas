@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Columbia Powder Lite Forro Polar  Mujer  Color: Azul  Nocturnal   Talla: L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RCNV9DY/?tag=tolees-21'
 descuento: '39.18'
 average: '54.73'

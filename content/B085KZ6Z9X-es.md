@@ -16,6 +16,7 @@ comparePrice: 7.0 EUR
 prodname: 'GreceMonday No FFP3 -FFP2 Protección facial desechable antipolvo  antivaho y antipolución'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085KZ6Z9X/?tag=tolees-21'
 descuento: '71.43'
 average: '2.0'

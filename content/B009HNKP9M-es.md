@@ -16,6 +16,7 @@ comparePrice: 12.67 EUR
 prodname: 'Rayen 6061 - Funda para aire acondicionado  con doble sistema de ajuste  90 x 55 x 30 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009HNKP9M/?tag=tolees-21'
 descuento: '30.94'
 average: '9.1175'

@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Salomon ALPHACROSS W  Zapatillas de Trail Running para Mujer  Verde  Burnt Olive/White/Gum1a   37 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KQG44NZ/?tag=tolees-21'
 descuento: '53.82'
 average: '49.995000000000005'

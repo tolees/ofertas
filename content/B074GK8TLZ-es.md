@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'CUADERNO DE DIBUJO ZenART B5  18x24 cm  – Cubierta de Cuero Durable  160 Páginas en Blanco de Papel Liso de Marfil Libres de Ácido 120 gsm  Bolsillo Interno  2 Marcadores y Banda Elástica'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074GK8TLZ/?tag=tolees-21'
 descuento: '44.09'
 average: '13.95'

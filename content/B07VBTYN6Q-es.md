@@ -16,6 +16,7 @@ comparePrice: 31.62 EUR
 prodname: 'Eono Essentials Toalla de Microfibra para Llevar al Gimnasio  a la Playa  de Camping  de Viaje  de Natacion  o de Vacaciones. Secado rápido  Superabsorbente  Ultracompacta  Naranja  200x100cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VBTYN6Q/?tag=tolees-21'
 descuento: '36.78'
 average: '19.99'

@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Lacoste Carnaby EVO 419 2 SFA  Zapatillas para Mujer  Blanco  White/Pink B53   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9T1QQ7/?tag=tolees-21'
 descuento: '52.19'
 average: '47.33'

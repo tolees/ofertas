@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'Goliath 50400 - Juego Rummikub Original - Clásico  Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004APWJJ6/?tag=tolees-21'
 descuento: '37.51'
 average: '21.770476190476188'

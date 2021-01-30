@@ -16,6 +16,7 @@ comparePrice: 13.44 EUR
 prodname: 'AmazonBasics - Cable USB 2.0 de tipo A a tipo B  1 8 m '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NH11KIK/?tag=tolees-21'
 descuento: '59.15'
 average: '5.49'

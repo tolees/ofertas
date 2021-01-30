@@ -16,6 +16,7 @@ comparePrice: 17.18 EUR
 prodname: 'WOSTOO Calcetines de Hombre Invierno  Calcetines de Lana 5 Pares algodón Engrosamiento Largo de Lana Tejida Gruesa Cálida y Suave para Invierno'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KYLR7YT/?tag=tolees-21'
 descuento: '47.67'
 average: '8.49'

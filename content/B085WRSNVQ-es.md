@@ -16,6 +16,7 @@ comparePrice: 4.96 EUR
 prodname: 'NOBRAND Baumwolle Seil Korb  Wäschekorb Baumwollseilkorb Geflochtene Körbe  Haltbar mit Griff Spielzeug Storage-Home Vorratsdosen aus Baumwolle Seil zur Organisation Von Wäsch Aufbewahrungskorb'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085WRSNVQ/?tag=tolees-21'
 descuento: '36.29'
 average: '3.7600000000000002'

@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'SanDisk SDSDUNC-064G-GN6IN Ultra Tarjeta de Memoria SDXC de 64 GB  hasta 80 MB/s  Clase 10 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0143IIP4W/?tag=tolees-21'
 descuento: '30.57'
 average: '12.575'

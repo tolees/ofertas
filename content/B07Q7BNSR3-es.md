@@ -16,6 +16,7 @@ comparePrice: 14.93 EUR
 prodname: 'Pediatopic Sun Facial 50ml  Protector solar para pieles infantiles  atópicas y sensibles'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q7BNSR3/?tag=tolees-21'
 descuento: '28.13'
 average: '10.73'

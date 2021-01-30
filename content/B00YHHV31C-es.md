@@ -16,6 +16,7 @@ comparePrice: 22.0 EUR
 prodname: 'Oralteck - Esterilizador por UV y Ozono. UV Sanitizer. Multiples usos: Dentaduras  Mascarillas  Audifonos  Llaves  Joyas  Relojes  Etc.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00YHHV31C/?tag=tolees-21'
 descuento: '55.00'
 average: '11.4'

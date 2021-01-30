@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Hummel Slimmer Stadil Tonal Low  Zapatillas Unisex Adulto  Blanco  White 9001   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MPYHBHD/?tag=tolees-21'
 descuento: '67.11'
 average: '21.990000000000002'

@@ -16,6 +16,7 @@ comparePrice: 11.42 EUR
 prodname: 'Savic Paleta Gato Macro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B010VER20U/?tag=tolees-21'
 descuento: '86.95'
 average: '1.49'

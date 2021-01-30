@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Tommy Hilfiger Tommy Jute City Sneaker  Zapatillas para Mujer  Azul  Midnight 403   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JQR9M1Y/?tag=tolees-21'
 descuento: '69.53'
 average: '30.810000000000002'

@@ -16,6 +16,7 @@ comparePrice: 26.26 EUR
 prodname: 'Skechers DARLOW REMEGO  Zapatillas para Hombre  Tela Vaquera Azul  41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XGLCJ28/?tag=tolees-21'
 descuento: '38.69'
 average: '20.486666666666668'

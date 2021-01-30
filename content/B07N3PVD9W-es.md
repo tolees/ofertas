@@ -16,6 +16,7 @@ comparePrice: 9.9 EUR
 prodname: 'Gliss - Mascarilla Ultimate Oil Elixir - 2 uds de 300ml - Schwarzkopf'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N3PVD9W/?tag=tolees-21'
 descuento: '36.36'
 average: '4.9'

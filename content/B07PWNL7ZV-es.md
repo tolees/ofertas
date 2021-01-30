@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Under Armour UA Charged Rogue 2  Zapatillas para Correr  Calzado cómodo para Hombre  Negro  Black/Halo Gray/White   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PWNL7ZV/?tag=tolees-21'
 descuento: '61.10'
 average: '31.1'

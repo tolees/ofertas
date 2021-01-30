@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Muñequera Tunel Carpiano  Férula Muñequera con Correa Ajustable y Férula Metálica  Aliviar el Dolor de Tendinitis  Lesiones  Artritis  Fracturas  Esguinces  1 Pieza  Universal'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S3V98ZX/?tag=tolees-21'
 descuento: '45.94'
 average: '12.756666666666668'

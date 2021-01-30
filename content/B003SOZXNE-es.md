@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Stagg SGC6 Instrumento Cable  6m  de calidad Teléfono Plug-Phone  Derecho - Estándar  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003SOZXNE/?tag=tolees-21'
 descuento: '45.59'
 average: '8.7'

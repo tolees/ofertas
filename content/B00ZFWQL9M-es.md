@@ -16,6 +16,7 @@ comparePrice: 6.7 EUR
 prodname: 'Flower 10723 Abono líquido orquídeas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ZFWQL9M/?tag=tolees-21'
 descuento: '32.99'
 average: '4.84'

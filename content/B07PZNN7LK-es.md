@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Ufesa Velvet Pro 2400 - Secador Profesional con tecnología iónica  difusor y concentrador  Negro/Cobre  2400W'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PZNN7LK/?tag=tolees-21'
 descuento: '37.12'
 average: '22.0'

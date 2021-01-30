@@ -16,6 +16,7 @@ comparePrice: 17.16 EUR
 prodname: 'Botones de Resina Botones Costura 285 Piezas Colores y formas surtidos Botones de Manualidades en Caja de Plástico para Costura Manualidades Scrapbooking y Adornos Hechos a Mano'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DQDFMFB/?tag=tolees-21'
 descuento: '38.29'
 average: '10.59'

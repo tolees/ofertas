@@ -16,6 +16,7 @@ comparePrice: 7.19 EUR
 prodname: 'Snazaroo - Pintura facial y corporal  18 ml  color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000H6W2GW/?tag=tolees-21'
 descuento: '33.94'
 average: '4.75'

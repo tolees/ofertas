@@ -16,6 +16,7 @@ comparePrice: 39.04 EUR
 prodname: 'Exerz Huchas Globo Diámetro 16 CM/Caja De Dinero Alcancía  Aspecto Metal Apariencia Contemporáneo -Mapa de Ingles - Mapa Destacado Físico  Educativo  Decorativo. Escuela  Hogar - Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R9KR1GY/?tag=tolees-21'
 descuento: '38.55'
 average: '23.99'

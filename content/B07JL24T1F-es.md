@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Under Armour Undeniable 2.0 Bolsa de equipaje  Unisex adulto  Gris  OSFA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JL24T1F/?tag=tolees-21'
 descuento: '48.12'
 average: '14.190000000000001'

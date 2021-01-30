@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Mini-Concentrador USB 3.0 Giratorio de Aluminio Sabrent Premium con 4 Puertos [90°/180° Grados de rotación]  HB-umn4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LRYUJQS/?tag=tolees-21'
 descuento: '58.86'
 average: '6.835454545454546'

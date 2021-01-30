@@ -16,6 +16,7 @@ comparePrice: 19.74 EUR
 prodname: 'Nike U Nk H86 Cap Metal Swoosh Hat  Unisex Adulto  Negro  Black/Metallic Silver   Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077SWWTRG/?tag=tolees-21'
 descuento: '62.26'
 average: '11.3225'

@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Calvin Klein - Ck Signature Ep Mini 6cc W/Coin  Carteras Hombre  Negro  Blackwhite Black   1x1x1 cm  W x H L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V8XFR8C/?tag=tolees-21'
 descuento: '59.50'
 average: '28.31'

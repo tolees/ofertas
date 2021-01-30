@@ -16,6 +16,7 @@ comparePrice: 6.85 EUR
 prodname: 'DeLOCK 65508 Adaptador de Cable HDMI Negro - Adaptador para Cable  HDMI  HDMI  Male Connector/Male Connector  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00F9XBELC/?tag=tolees-21'
 descuento: '34.31'
 average: '4.996666666666667'

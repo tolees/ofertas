@@ -16,6 +16,7 @@ comparePrice: 169.99 EUR
 prodname: 'JIMMY Xiaomi JV71 Aspirador sin Cable  Aspirador Escoba  Aspirador sin Bolsa Potente 4 en 1  Potencia de succión de 18 000 Pa  batería Desmontable  Autonomía hasta 45 min  Ruido Bajo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YZ2R95J/?tag=tolees-21'
 descuento: '41.18'
 average: '99.99'

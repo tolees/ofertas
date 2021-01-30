@@ -16,6 +16,7 @@ comparePrice: 128.99 EUR
 prodname: 'Homfa Mesa Ordenador Mesa Escritorio de Estilo Industrial para Oficina Estudio Salón con Marco de Hierro 4 Estantes Vintage 120x60x76.5cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08C9K8DJK/?tag=tolees-21'
 descuento: '25.58'
 average: '117.49'

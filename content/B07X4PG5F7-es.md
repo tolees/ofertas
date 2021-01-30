@@ -16,6 +16,7 @@ comparePrice: 26.46 EUR
 prodname: 'Eastpak Springer Riñonera  23 cm  2 L  Gris  Melange Print V '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X4PG5F7/?tag=tolees-21'
 descuento: '48.98'
 average: '13.5'

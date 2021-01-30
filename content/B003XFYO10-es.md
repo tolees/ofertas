@@ -16,6 +16,7 @@ comparePrice: 140.76 EUR
 prodname: 'Kyocera Mita 1T02KVCNL0 - Cartuchos de tóner  color cian'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003XFYO10/?tag=tolees-21'
 descuento: '37.62'
 average: '87.8'

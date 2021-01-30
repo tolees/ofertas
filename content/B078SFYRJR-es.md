@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Michael Kors Reloj Analogico para Unisex de Cuarzo con Correa en Cuero MKT4025'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078SFYRJR/?tag=tolees-21'
 descuento: '40.00'
 average: '163.181724137931'

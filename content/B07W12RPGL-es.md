@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Reparación de Relojes 149 Piezas  Herramientas para Relojero ETEPON'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W12RPGL/?tag=tolees-21'
 descuento: '42.45'
 average: '17.2375'

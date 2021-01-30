@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'MTNG Attitude 84361  Zapatillas para Hombre  Verde  Pila Kaky C42838   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QD2ND6F/?tag=tolees-21'
 descuento: '30.56'
 average: '25.07'

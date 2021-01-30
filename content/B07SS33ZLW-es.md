@@ -16,6 +16,7 @@ comparePrice: 14.84 EUR
 prodname: 'DURAGADGET Cable De Audio Compatible con Portátil Samsung Notebook 7 13"  Samsung Notebook 7 15"  Samsung Notebook 7 15"  Samsung Notebook 7 Force - con Conexión de 3.5mm Y Bañado En Oro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SS33ZLW/?tag=tolees-21'
 descuento: '33.36'
 average: '9.89'

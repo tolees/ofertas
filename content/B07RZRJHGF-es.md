@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Lacoste - Polo de Manga Corta para Mujer King  pq8 . 34 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RZRJHGF/?tag=tolees-21'
 descuento: '40.01'
 average: '59.98'

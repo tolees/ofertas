@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'INTEY Faja Reductora Adelgazante Neopreno Faja Lumbar de Trabajo Ajustable Ayuda a Reducir Cintura y Abdomen  Faja Deportiva Lumbar y Abdominal para Hacer para Mujer y Hombre  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MBFGGXZ/?tag=tolees-21'
 descuento: '56.69'
 average: '12.99'

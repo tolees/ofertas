@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'PUMA BND Long Tight Mallas Deporte  Hombre  Black  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QB85K2B/?tag=tolees-21'
 descuento: '38.84'
 average: '27.49'

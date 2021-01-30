@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Kärcher WD2 - Aspirador seco y húmedo 1000 W  depósito plástico de 12 l  versión española [enchufe inglés]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GFLG7OG/?tag=tolees-21'
 descuento: '35.88'
 average: '48.455'

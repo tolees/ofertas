@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Parfois - Bandolera Con Asa De Cadena - Mujeres - Tallas M - Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZF11PB/?tag=tolees-21'
 descuento: '49.98'
 average: '13'

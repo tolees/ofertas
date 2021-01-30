@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'Sharp DR-P355 Radio despertador Digital Estéreo Dab/Dab+ y Fm con Rds  Alarma con Función despertador y Repetición  Carcasa de Madera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HSBX5SS/?tag=tolees-21'
 descuento: '35.46'
 average: '70.99'

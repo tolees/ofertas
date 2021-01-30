@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'seQoya - Crooked | Reloj de Madera con Esfera de Madera y Correa de Piel ecológica simulando Madera Estampada | Reloj Hombre y Mujer | Diseño único y Original'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BVW9QW3/?tag=tolees-21'
 descuento: '75.09'
 average: '16.95'

@@ -16,6 +16,7 @@ comparePrice: 49.11 EUR
 prodname: 'Lotus Watches Reloj Análogo clásico para Hombre de Cuarzo con Correa en Cuero 18498/2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077QLCWLV/?tag=tolees-21'
 descuento: '27.45'
 average: '36.95'

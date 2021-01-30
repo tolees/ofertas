@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'L Oreal Paris - Cil Architecte 4D  Máscara de Pestañas  Efecto Pestañas Postizas Waterproof'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005JATI1S/?tag=tolees-21'
 descuento: '56.59'
 average: '6.49'

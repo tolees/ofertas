@@ -16,6 +16,7 @@ comparePrice: 139.95 EUR
 prodname: 'HUGO Henfords Pantalones  Azul  Dark Blue 401   106 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DH2DH5B/?tag=tolees-21'
 descuento: '53.08'
 average: '59.462'

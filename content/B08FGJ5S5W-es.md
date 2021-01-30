@@ -16,6 +16,7 @@ comparePrice: 12.5 EUR
 prodname: 'Max Power Digital Funda para móvil Xiaomi Mi A2  5.99"  con Soporte Anillo Metálico - Carcasa Híbrida Antigolpes Resistente  Xiaomi Mi A2  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FGJ5S5W/?tag=tolees-21'
 descuento: '44.40'
 average: '6.95'

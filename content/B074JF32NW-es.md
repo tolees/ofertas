@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Air Wick Essential Mist - Aparato y recambio de ambientador difusor  esencia para casa con aroma a Explosión Cítrica  pack de 1 aparato y 1 recambio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074JF32NW/?tag=tolees-21'
 descuento: '26.95'
 average: '10.34142857142857'

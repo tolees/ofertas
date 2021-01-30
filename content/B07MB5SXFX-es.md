@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'FANDINIER Cartera hombre  billeteras hombre cartera hombre pequeña  Cartera Piel Hombre con Clip y RFID Bloqueo para Varias Tarjetas personales con Caja de Regalo  Negro y Naranja '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MB5SXFX/?tag=tolees-21'
 descuento: '30.02'
 average: '13.99'

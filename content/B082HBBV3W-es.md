@@ -16,6 +16,7 @@ comparePrice: 81.99 EUR
 prodname: 'ART VVIES Wandbild Leinwand mit Haken 24x24 Zoll Küche Schafe springen fröhlich Frühling Emotion Licht Holz für Hauptdekorationen gerahmt'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082HBBV3W/?tag=tolees-21'
 descuento: '56.10'
 average: '35.99'

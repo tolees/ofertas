@@ -16,6 +16,7 @@ comparePrice: 17.98 EUR
 prodname: 'Báscula Digital para Equipaje  Buluri Bascula Maletas Báscula Electrónica Portátil para Maletas Equipaje LCD Balanza Báscula 110 lb/50 kg con Función de Tara Balanza Báscula Dinamometro Equipaje'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DGN86YP/?tag=tolees-21'
 descuento: '50.11'
 average: '8.97'

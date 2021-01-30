@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Frozen 2 Classic Disfraz Anna Travel  M  Multicolor   Rubie S 300289-M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SNYH42M/?tag=tolees-21'
 descuento: '31.01'
 average: '17.24'

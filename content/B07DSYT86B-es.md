@@ -16,6 +16,7 @@ comparePrice: 24.01 EUR
 prodname: 'ISDIN FOTOPROTECTOR PEDIATRICS EXTREM SPF50+ LOCION SPRAY 200 ML'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DSYT86B/?tag=tolees-21'
 descuento: '28.99'
 average: '17.475'

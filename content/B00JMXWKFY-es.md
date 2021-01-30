@@ -16,6 +16,7 @@ comparePrice: 233.41 EUR
 prodname: 'Brother LT320CL - Bandeja Adicional de 500 Hojas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JMXWKFY/?tag=tolees-21'
 descuento: '26.73'
 average: '171.01'

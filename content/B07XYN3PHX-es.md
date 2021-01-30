@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'FMPC Funda Compatible con Samsung Galaxy J4 2018  Caso Carcasa Samsung Galaxy J4 2018 Slim Fit 360 Grados 3 in 1 Todo Incluido Protección Cover Anti-Rasguño con HD Protector de Pantalla-Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XYN3PHX/?tag=tolees-21'
 descuento: '66.69'
 average: '9.99'

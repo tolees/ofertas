@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'Imetec Bellissima Face Cleansing Pro Spazzola para la limpieza del rostro  tecnología sónica para la limpieza del rostro  cabezales intercambiables para un tratamiento facial personalizado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VJSOZE4/?tag=tolees-21'
 descuento: '57.99'
 average: '57.489999999999995'

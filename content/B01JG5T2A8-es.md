@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Sisley Crema para el cuello  la fórmula enriquecida - 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JG5T2A8/?tag=tolees-21'
 descuento: '37.00'
 average: '81.9'

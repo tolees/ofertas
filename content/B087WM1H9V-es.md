@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'FirstE Altavoz Portatil Bluetooth Luces LED Cambian Color  Impermeable IPX7 Flotante Altavoces Piscina Construido en Micrófono Sonido Estéreo Altavoz Inalámbrico para Bañera de Hidromasaje SPA Ducha'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087WM1H9V/?tag=tolees-21'
 descuento: '25.01'
 average: '29.99'

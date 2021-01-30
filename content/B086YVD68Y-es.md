@@ -16,6 +16,7 @@ comparePrice: 35.32 EUR
 prodname: 'Mono de bebé Promini para bebé de una pieza  con texto en inglés "If You Think I m Cute You Should See My Auntie"'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086YVD68Y/?tag=tolees-21'
 descuento: '61.33'
 average: '13.66'

@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Darlow Remego  Zapatillas para Hombre  Negro  Black Canvas Black   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WJPW1WF/?tag=tolees-21'
 descuento: '52.79'
 average: '33.02'

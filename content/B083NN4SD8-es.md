@@ -16,6 +16,7 @@ comparePrice: 5.04 EUR
 prodname: 'Cómoda Manta de Franela súper Suave y cálida Tamaño Grande Color sólido Sofá para el hogar Ropa de Cama Manta para Oficina 45x65cm - Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083NN4SD8/?tag=tolees-21'
 descuento: '33.53'
 average: '3.35'

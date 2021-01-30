@@ -16,6 +16,7 @@ comparePrice: 500 EUR
 prodname: 'KLIMTM Esports Silla Gaming Ergonómica + con Soporte Lumbar y Cervical + Reclinable + Silla de Escritorio Ajustable + Piel Sintética y Materiales Premium + Silla Gamer Negra [Nueva VERSIÓN 2020]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F38CB8N/?tag=tolees-21'
 descuento: '47.51'
 average: '262.43'

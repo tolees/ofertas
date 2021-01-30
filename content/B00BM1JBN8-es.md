@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'BaByliss Multigroom 8 en 1 E835E - Cortapelos multifunción cabello y barba  cabezal de afeitado hombre  cabezal para nariz y orejas  cuchilla de precisión  40 min autonomía'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BM1JBN8/?tag=tolees-21'
 descuento: '30.66'
 average: '34.06666666666666'

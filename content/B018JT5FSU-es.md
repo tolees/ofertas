@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Levi s Levis 200SF Brief 2P  Calzoncillos para Hombre  Negro  Jet Black   Medium  Tamaño del fabricante:020 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018JT5FSU/?tag=tolees-21'
 descuento: '37.00'
 average: '12.6'

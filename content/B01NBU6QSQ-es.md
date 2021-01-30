@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'Hidrolimpiadora Nilfisk C 120 Bares  Incluye Limpiador para Suelos '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NBU6QSQ/?tag=tolees-21'
 descuento: '43.06'
 average: '102.175'

@@ -16,6 +16,7 @@ comparePrice: 14.09 EUR
 prodname: 'Forticoll Colágeno Piel y Cabello-Complemento alimenticio en polvo- 270 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01H051CYU/?tag=tolees-21'
 descuento: '36.98'
 average: '10.87'

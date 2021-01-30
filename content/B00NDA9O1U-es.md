@@ -16,6 +16,7 @@ comparePrice: 929.0 EUR
 prodname: 'Compex SP 6.0. - Electroestimulador  Negro  23 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NDA9O1U/?tag=tolees-21'
 descuento: '30.14'
 average: '642.356'

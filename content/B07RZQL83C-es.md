@@ -16,6 +16,7 @@ comparePrice: 35.82 EUR
 prodname: 'Facial Massager Moon Gua Sha  PRETTY SEE masajeador facial   máquina de estiramiento facial  antienvejecimiento  micro-vibración  modos de luz azul y roja'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RZQL83C/?tag=tolees-21'
 descuento: '38.61'
 average: '21.99'

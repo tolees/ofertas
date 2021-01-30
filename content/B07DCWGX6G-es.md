@@ -16,6 +16,7 @@ comparePrice: 449.0 EUR
 prodname: 'WMF 778046380 Vario Cuisine-Batería de Cocina de 4 Piezas con termómetro Integrado  Acero Inoxidable  1.9 litros  Cromargan'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DCWGX6G/?tag=tolees-21'
 descuento: '50.00'
 average: '224.5'

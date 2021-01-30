@@ -16,6 +16,7 @@ comparePrice: 13.45 EUR
 prodname: 'Fairy Taill & Glitter Fee 100 Unidades Mezcla Cristal Murmeln 16 mm Cristal Piedras Murmel Vasen-Füllungen Azul Dorado Rojo Verde Murmeln Glitzersteine Dekoschalen Murmelspiel Vidrio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SVGYL91/?tag=tolees-21'
 descuento: '29.74'
 average: '9.45'

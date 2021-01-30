@@ -16,6 +16,7 @@ comparePrice: 25.09 EUR
 prodname: 'Sourcingmap A13051000UX0426 - Pack de 10 cables marcadores  cuarzo  1.5 mm  color amarillo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GMNINLW/?tag=tolees-21'
 descuento: '54.13'
 average: '11.51'

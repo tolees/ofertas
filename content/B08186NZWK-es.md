@@ -16,6 +16,7 @@ comparePrice: 5.99 EUR
 prodname: 'siismi 2 Pares Plantillas de Tacón Alto de Silicona  3/4 Plantillas de Gel Autoadhesivas con Soporte de Arco  Alivio del Dolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08186NZWK/?tag=tolees-21'
 descuento: '40.40'
 average: '3.57'

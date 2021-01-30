@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'SueH Design Juego de Manteles Individuales de 8 Unidades en PVC 45 * 30 CM Rayas Naranja Y Marroon'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01G31WK8O/?tag=tolees-21'
 descuento: '43.35'
 average: '16.99'

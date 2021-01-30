@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Skechers Sepulveda Blvd-A La Mode  Zapatillas sin Cordones para Mujer  Morado  Lilac Microfiber/Off White Trim Lila   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H5WLY2F/?tag=tolees-21'
 descuento: '54.68'
 average: '27.17'

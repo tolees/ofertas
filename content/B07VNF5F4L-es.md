@@ -16,6 +16,7 @@ comparePrice: 259.99 EUR
 prodname: 'Robot aspirador con función WLAN  Dcenta diseño extremadamente plano  potencia de succión 1300 Pa  funcionamiento silencioso  robot aspirador de carga automática  para suelos duros y alfombras'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VNF5F4L/?tag=tolees-21'
 descuento: '55.39'
 average: '140.43444444444447'

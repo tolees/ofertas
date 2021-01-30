@@ -16,6 +16,7 @@ comparePrice: 38.99 EUR
 prodname: 'Mr.Ho Terciopelo Almohada para el Reposacabezas del Coche  Cojín Cervical con Soporte de Cuello para el Asiento del Coche con Espuma de Memoria para Conducir -  con Cubierta Extraíble-Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XPGQ9SK/?tag=tolees-21'
 descuento: '48.73'
 average: '19.99'

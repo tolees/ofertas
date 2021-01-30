@@ -16,6 +16,7 @@ comparePrice: 14.38 EUR
 prodname: 'non-brand 10 Pedazos de Protector de Borde de Seguridad Flexible  Antideslizante Accesorios de DIY - marrón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D6SG9BK/?tag=tolees-21'
 descuento: '44.44'
 average: '7.99'

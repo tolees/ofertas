@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Puma Rebound Layup LO SL Negro 369866 04'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TP46KBJ/?tag=tolees-21'
 descuento: '54.92'
 average: '29.3'

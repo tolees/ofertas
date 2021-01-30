@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Diyife Báscula Digital de Cocina  0.01g/500g Báscula Electrónica de Cocción de Alimentos con Pantalla LCD Báscula de Pesaje de Plataforma de Acero Inoxidable Báscula para Hornear y Cocinar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082VT2X4L/?tag=tolees-21'
 descuento: '55.82'
 average: '12.27'

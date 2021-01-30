@@ -16,6 +16,7 @@ comparePrice: 33.79 EUR
 prodname: 'FTVOGUE SOS - Reloj inteligente para niños y niñas  con GPS y rastreador de actividad English-pink'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H6MYTBP/?tag=tolees-21'
 descuento: '63.33'
 average: '12.39'

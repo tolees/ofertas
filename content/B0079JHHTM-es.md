@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Arena Classic Gorro de Natación  Unisex Adulto  Azul  Denim/Silver   Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0079JHHTM/?tag=tolees-21'
 descuento: '28.61'
 average: '4.99'

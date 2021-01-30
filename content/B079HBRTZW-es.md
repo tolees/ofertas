@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Kingston SDCS/32GBSP - MicroSD Canvas Select velocidades de UHS-I Clase 10 de hasta 80 MB/s Lectura  sin Adaptador SD '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079HBRTZW/?tag=tolees-21'
 descuento: '54.05'
 average: '7.859999999999999'

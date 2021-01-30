@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Under Armour UA TAC Patrol Pant II Pantalones  Hombre  Negro  Ultimate Black/Ultimate Black 008   40W / 32L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077XKXBWM/?tag=tolees-21'
 descuento: '52.36'
 average: '40.49'

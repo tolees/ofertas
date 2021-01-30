@@ -16,6 +16,7 @@ comparePrice: 18.95 EUR
 prodname: 'Disney Frozen - El reino del hielo Bañador de dos piezas para niña Frozen Azul 6 - 12 Meses'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BNJ1SGJ/?tag=tolees-21'
 descuento: '58.05'
 average: '7.95'

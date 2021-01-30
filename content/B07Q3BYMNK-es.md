@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Ferilinso Cristal Templado para Xiaomi Mi 9 Lite  Redmi Note 8  Redmi 7  Redmi S3 Protector de Pantalla [4 Pack] Protector de Pantalla Screen Protector'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q3BYMNK/?tag=tolees-21'
 descuento: '63.09'
 average: '7.5'

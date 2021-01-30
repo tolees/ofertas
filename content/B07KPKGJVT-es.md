@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'KHOMO iPad Pro 11 Funda Dual Ultra Delgada y Ligera con Smart Cover Protección Delantera y Trasera para Nuevo Apple iPad Pro 11-2018 - Verde Menta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KPKGJVT/?tag=tolees-21'
 descuento: '40.67'
 average: '10.08'

@@ -16,6 +16,7 @@ comparePrice: 35.21 EUR
 prodname: 'Mono de bebé Promini para bebé de una sola pieza  tías Little Prince  el mejor regalo para bebé'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086YS3DS8/?tag=tolees-21'
 descuento: '61.32'
 average: '13.62'

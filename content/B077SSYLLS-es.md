@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Puma Liga Baselayer Short Tight Pantalones Cortos  Hombre  Blanco White  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077SSYLLS/?tag=tolees-21'
 descuento: '38.70'
 average: '18.36'

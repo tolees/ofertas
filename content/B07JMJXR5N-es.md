@@ -16,6 +16,7 @@ comparePrice: 45.9 EUR
 prodname: 'Safta - f.c; barcelona oficial bolsa de deporte.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JMJXR5N/?tag=tolees-21'
 descuento: '50.26'
 average: '22.83'

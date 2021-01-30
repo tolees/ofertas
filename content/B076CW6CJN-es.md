@@ -16,6 +16,7 @@ comparePrice: 169.0 EUR
 prodname: 'Astro Gaming A20 - Auriculares Gaming Inalámbricos  Astro Audio  Transductores 40 mm  Dolby Atmos/Windows Sonic 3D  5GHz  Batería Larga 15 h  Microfóno Volteable para Silenciar  PC/Mac/PS4  Gris/Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076CW6CJN/?tag=tolees-21'
 descuento: '26.04'
 average: '120.26199999999999'

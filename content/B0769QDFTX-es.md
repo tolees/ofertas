@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Kalokelvin Picadora Manual de Verdura Cortador de Verduras de Acero Inoxidable para Picar Verduras Frutas Carne Cebolla Jengibre Ajo Ensalada Hacer Comida Suave a Bebé Pequeños（750ML）'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0769QDFTX/?tag=tolees-21'
 descuento: '32.56'
 average: '12.55'

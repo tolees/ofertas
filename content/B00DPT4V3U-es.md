@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Belkin MixIt - Cable Micro-USB de Carga y sincronización  para Smartphones y tabletas  2 m  Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DPT4V3U/?tag=tolees-21'
 descuento: '78.08'
 average: '2.09'

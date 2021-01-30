@@ -16,6 +16,7 @@ comparePrice: 57.49 EUR
 prodname: 'Converse Chuck Taylor All Star  Zapatillas de Lona Infantil  Blanco  35 EU  2.5 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0036GT4RA/?tag=tolees-21'
 descuento: '26.80'
 average: '34.019999999999996'

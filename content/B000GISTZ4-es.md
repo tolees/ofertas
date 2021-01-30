@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Optimum Nutrition ON Gold Standard 100% Whey Proteína en Polvo Suplementos Deportivos con Glutamina y Aminoacidos Micronizados Incluyendo BCAA  Helado de Vainilla  30 Porciones  900 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000GISTZ4/?tag=tolees-21'
 descuento: '31.07'
 average: '24.575999999999997'

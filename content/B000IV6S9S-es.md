@@ -16,6 +16,7 @@ comparePrice: 5.58 EUR
 prodname: 'StarTech.com USBMBADAPT - Cable Adaptador Extensor USB 2.0 a IDC 4 Pines  15 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000IV6S9S/?tag=tolees-21'
 descuento: '45.16'
 average: '5.64'

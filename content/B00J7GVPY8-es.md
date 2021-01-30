@@ -16,6 +16,7 @@ comparePrice: 154.0 EUR
 prodname: 'Zwilling Plus Asador  Acero Inoxidable  1 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00J7GVPY8/?tag=tolees-21'
 descuento: '59.47'
 average: '63.449999999999996'

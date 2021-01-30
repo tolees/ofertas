@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'PUMA ICRA Trainer SD Jr  Zapatillas Unisex Niños  Peacoat-Gray Violet-Nrgy Yellow White  36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG6MPR5/?tag=tolees-21'
 descuento: '40.10'
 average: '23.93'

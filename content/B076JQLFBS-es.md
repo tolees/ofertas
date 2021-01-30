@@ -16,6 +16,7 @@ comparePrice: 10.94 EUR
 prodname: 'Wella Eimi Laca Extrafuerte - 300 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076JQLFBS/?tag=tolees-21'
 descuento: '30.44'
 average: '7.61'

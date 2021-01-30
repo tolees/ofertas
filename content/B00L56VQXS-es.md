@@ -16,6 +16,7 @@ comparePrice: 6.75 EUR
 prodname: 'Verdeo Verdejo  Vino Blanco. DO Rueda - 750ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00L56VQXS/?tag=tolees-21'
 descuento: '40.74'
 average: '4.0'

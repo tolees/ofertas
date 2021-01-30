@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Ultra Flex 2.0 Kelmer  Zapatillas para Hombre  Azul  Navy Engineered Mesh/Synthetic/Trim Nvy   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NTZLTKR/?tag=tolees-21'
 descuento: '51.29'
 average: '31.64'

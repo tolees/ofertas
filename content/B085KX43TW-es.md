@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'YMing Velas Aromaticas  Velas de Te  Set de Regalo de Velas Candelitas Altamente Perfumadas para Yoga  Meditación  Relajación  Higo Mediterráneo  Limón  Primavera  Lavanda  - Paquete de 48'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085KX43TW/?tag=tolees-21'
 descuento: '30.88'
 average: '15.89'

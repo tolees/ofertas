@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'ECHTPower Plancha Vertical Vapor  Plancha de Ropa Horizontal & Vertical 2 en 1  Calienta en 25s  Tanque de Agua Desmontable  Protección Segura  Portátil para Casa y Viaje  con Cepillo y Vaso de Medir'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z35W9DK/?tag=tolees-21'
 descuento: '30.01'
 average: '27.99'

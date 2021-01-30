@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'PUMA Nova 2 WN S  Zapatillas Deportivas para Mujer  Negro Black/Mist Green  39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SBVL9H3/?tag=tolees-21'
 descuento: '71.13'
 average: '25.97'

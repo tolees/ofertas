@@ -16,6 +16,7 @@ comparePrice: 30.97 EUR
 prodname: 'Hombre Digital Relojes  digitaluhr Negro Classic Casual Relojes con multifunción Cronógrafo Reloj Deportivo Business Fashion Quartz reloj de pulsera para hombres'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DCQWRJR/?tag=tolees-21'
 descuento: '64.51'
 average: '10.99'

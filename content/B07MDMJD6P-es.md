@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Cocoda Soporte para Echo Dot 3.ª Generación  Solución de Ahorrar Espacio para Asistentes de Voz Doméstico  Inteligentes Dot Accesorios con Gestión de Cables  2 Unidades Sin Desorden de Cables'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MDMJD6P/?tag=tolees-21'
 descuento: '40.02'
 average: '15.656666666666666'

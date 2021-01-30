@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Suunto SS022154000 Monitores de Actividad  Unisex Adulto  Negro  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EB7Q9YS/?tag=tolees-21'
 descuento: '25.64'
 average: '64.17666666666666'

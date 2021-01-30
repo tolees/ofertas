@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Kirkland Signature Calcium  600 mg+D3  500-Count Tablets'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002RL8FBQ/?tag=tolees-21'
 descuento: '61.44'
 average: '26.99'

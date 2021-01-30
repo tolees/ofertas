@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'BLACK+DECKER BDCHD18K-QW - Taladro percutor 18V  2 velocidades  incluye batería de litio 1.5Ah y maletín'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01D9WA43I/?tag=tolees-21'
 descuento: '27.72'
 average: '82.758'

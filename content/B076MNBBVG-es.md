@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Toalla de Microfibra Sternitz- Compacta - Absorbente - Secado Rápido Natación  Gym  Running  Ciclismo  Senderismo  Yoga  Pilates  etc. - Microfiber Towel  Aqua  80cm x 180cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076MNBBVG/?tag=tolees-21'
 descuento: '35.02'
 average: '12.99'

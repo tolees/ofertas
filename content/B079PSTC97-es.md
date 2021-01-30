@@ -16,6 +16,7 @@ comparePrice: 128.94 EUR
 prodname: 'Adidas by Nixon Reloj Mujer de Digital con Correa en Acero Inoxidable Z01-513-00'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079PSTC97/?tag=tolees-21'
 descuento: '37.18'
 average: '81.0'

@@ -16,6 +16,7 @@ comparePrice: 9.15 EUR
 prodname: 'DB15 Adaptador de conector de 15 pines adaptador de puerto a conector de terminal módulo de señal con funda Female Connector With Nut'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DNBLLRB/?tag=tolees-21'
 descuento: '30.38'
 average: '6.37'

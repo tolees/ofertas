@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Zuzpao Bolsas de Vacio  2 Rollos para sellar al vacío sin BPA  28 cm x 6 m  11"× 20    y 20cm x 6 m  8" × 20   Bolsas de Alimentos Envasados con Certificación de la FDA  Sous Vide Cocina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SRPD234/?tag=tolees-21'
 descuento: '61.56'
 average: '9.254999999999999'

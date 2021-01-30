@@ -16,6 +16,7 @@ comparePrice: 38.99 EUR
 prodname: 'EXERZ Juego de 5 Lienzos preestirados/Paquete de 5 Lienzos Enmarcados / 40 x 30cm 280GSM / Pre-Estirado 100% Algodón/Color Blanco/Triple Preparado/Libre de Acido/Hebra Media / 1 7 cm de Espesor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0758BMRHY/?tag=tolees-21'
 descuento: '30.78'
 average: '21.549999999999997'

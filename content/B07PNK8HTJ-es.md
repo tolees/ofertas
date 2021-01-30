@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'New Balance 373  Zapatillas para Mujer  Gris  Grey Grey   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PNK8HTJ/?tag=tolees-21'
 descuento: '55.61'
 average: '35.51'

@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Wrangler Boyfriend Short Pantalones cortos  Gris  Icy Grey 28c   Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FYSMR3D/?tag=tolees-21'
 descuento: '72.77'
 average: '13.6'

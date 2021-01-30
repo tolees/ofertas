@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Tommy Hilfiger Essential Craft Vulc  Zapatillas para Hombre  Azul  Midnight 403   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JYNT13R/?tag=tolees-21'
 descuento: '55.01'
 average: '35.089999999999996'

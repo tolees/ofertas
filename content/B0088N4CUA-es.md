@@ -16,6 +16,7 @@ comparePrice: 25.43 EUR
 prodname: 'Skip Hop 2467 - Mochilas para pañales'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0088N4CUA/?tag=tolees-21'
 descuento: '44.44'
 average: '14.13'

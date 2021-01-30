@@ -16,6 +16,7 @@ comparePrice: 52.47 EUR
 prodname: 'NWOUIIAY Cargador de coche de carga 6 A/12 V Multi protecciones de carga automática cargador inteligente cargador de coche con pantalla LCD para coche moto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082M3YSZT/?tag=tolees-21'
 descuento: '54.64'
 average: '23.8'

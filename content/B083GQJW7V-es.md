@@ -16,6 +16,7 @@ comparePrice: 11.0 EUR
 prodname: '2 piezas de Cubierta de Cinturón de Seguridad para Bebé Almohadilla de la Entrepierna Fundas de Cojín Universal para Cochecito  entrepierna '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083GQJW7V/?tag=tolees-21'
 descuento: '33.73'
 average: '7.29'

@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Dulceida Mucho Amor Velvet - Funda para portátil de 15"  Color Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HF59CN4/?tag=tolees-21'
 descuento: '66.78'
 average: '10.378571428571428'

@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Be Natural  Juego de champú y acondicionador - 3 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RR2SRND/?tag=tolees-21'
 descuento: '38.49'
 average: '7.99'

@@ -16,6 +16,7 @@ comparePrice: 214.0 EUR
 prodname: 'Agatha Ruiz De La Prada Happy Agatha Juego de Maletas  66 cm  95 litros  Fucsia'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DCJ1TJL/?tag=tolees-21'
 descuento: '47.07'
 average: '113.28'

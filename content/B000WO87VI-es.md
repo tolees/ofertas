@@ -16,6 +16,7 @@ comparePrice: 19.15 EUR
 prodname: 'Bormioli Rocco 6238002 Plato Hondo Parma Cuadrado  23 Cm  Bormioli Rocco  Blanco  pack de 6'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000WO87VI/?tag=tolees-21'
 descuento: '52.95'
 average: '9.01'

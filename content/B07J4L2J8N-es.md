@@ -16,6 +16,7 @@ comparePrice: 229.99 EUR
 prodname: 'Misfit Smartwatch MIS7104'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J4L2J8N/?tag=tolees-21'
 descuento: '59.17'
 average: '121.94500000000001'

@@ -16,6 +16,7 @@ comparePrice: 21.7 EUR
 prodname: 'Verbatim Store  N  Go - Memoria USB 3.0  Ultra Velocidad de 128 GB  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BXEIUQS/?tag=tolees-21'
 descuento: '30.92'
 average: '15.443333333333333'

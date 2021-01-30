@@ -16,6 +16,7 @@ comparePrice: 23.8 EUR
 prodname: 'Neptune Juego De Tronos - Espada Réplica Aguja de Arya Stark  Multicolor  71 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HGBDP27/?tag=tolees-21'
 descuento: '43.32'
 average: '21.266666666666666'

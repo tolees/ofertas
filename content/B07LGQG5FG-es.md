@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Salomon out Day 20+4 Mochila  Capacidad 24 L  Mujer  Azul  Canton   S/M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LGQG5FG/?tag=tolees-21'
 descuento: '30.01'
 average: '69.99'

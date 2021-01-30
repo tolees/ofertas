@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'SAMSUNG Wallet Cover Galaxy A9 Pink'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JMF44VN/?tag=tolees-21'
 descuento: '74.58'
 average: '7.6'

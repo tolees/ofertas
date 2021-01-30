@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Jeanne Piaubert Suprem`Advance Premium Sérum 30 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EU82YMK/?tag=tolees-21'
 descuento: '40.93'
 average: '105.21000000000001'

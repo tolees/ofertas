@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Skechers Men s Stamina Cutback Trainers  Azul  Navy Leather/White Mesh/Trim NVW   6  39.5 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NXVN6PH/?tag=tolees-21'
 descuento: '40.03'
 average: '43.345'

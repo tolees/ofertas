@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Cartera Pepe Jeans Fair Vertical con Cierre de Clic Camel'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YBGMDQ9/?tag=tolees-21'
 descuento: '28.33'
 average: '27.95'

@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Under Armour Heatgear Armour Sujetador Deportivo  Mujer  Negro  Black-001   34A'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074JJHMB7/?tag=tolees-21'
 descuento: '62.05'
 average: '22.866666666666667'

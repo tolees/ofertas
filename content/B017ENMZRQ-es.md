@@ -16,6 +16,7 @@ comparePrice: 10.17 EUR
 prodname: 'Omega PCS71906OG05G - Altavoces  color verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017ENMZRQ/?tag=tolees-21'
 descuento: '26.94'
 average: '6.9399999999999995'

@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'InnoBeta Fountain Humidificador Ultrasónica 3 0Litro Bebé de Vapor Frío con Control Remoto y Higrómetro  Minutero  Boquilla 360°  Apagado Automático  para el Hogar la Habitación para Bebés Hasta 40㎡ '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LXXMILJ/?tag=tolees-21'
 descuento: '33.34'
 average: '43.99'

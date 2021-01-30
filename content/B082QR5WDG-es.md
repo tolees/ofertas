@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Pulsera de Actividad Inteligente  IP68 Impermeable Reloj Inteligente Pulsera Actividad Inteligente para Deporte  Reloj de Fitness con Podómetro Smartwatch-BL9'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082QR5WDG/?tag=tolees-21'
 descuento: '31.32'
 average: '67.99'

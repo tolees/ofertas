@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Adidas 3MC  Zapatillas de Skateboarding para Hombre  Azul  Maruni/Maruni/Ftwbla 000   38 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FTXTMMN/?tag=tolees-21'
 descuento: '37.63'
 average: '40.51'

@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Energy Sport CAM Play  Full HD 1080p 30fps  5MP  Accesorios Deportivos  Waterproof '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00J21SQZO/?tag=tolees-21'
 descuento: '60.12'
 average: '19.9'

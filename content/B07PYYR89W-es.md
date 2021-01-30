@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Under Armour Men s Charged Engage Hallenschuhe  Zapatillas Deportivas para Interior para Hombre  Negro  Black/Black/White  001  001   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PYYR89W/?tag=tolees-21'
 descuento: '53.35'
 average: '39.292500000000004'

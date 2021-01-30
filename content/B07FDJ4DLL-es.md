@@ -16,6 +16,7 @@ comparePrice: 46.74 EUR
 prodname: 'Afeitadora eléctrica para mujer  depilación facial para mujeres  resistente al agua  para labios  barbilla  bigote  pelo corporal en las piernas y axilas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FDJ4DLL/?tag=tolees-21'
 descuento: '81.22'
 average: '8.78'

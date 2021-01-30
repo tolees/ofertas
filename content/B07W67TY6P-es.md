@@ -16,6 +16,7 @@ comparePrice: 54.5 EUR
 prodname: 'Feline 7.0'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W67TY6P/?tag=tolees-21'
 descuento: '50.00'
 average: '40.875'

@@ -16,6 +16,7 @@ comparePrice: 55.95 EUR
 prodname: 'Under Armour Breathe Lace Zapatillas Mujer  Blanco  White 104   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HKNMP1G/?tag=tolees-21'
 descuento: '42.90'
 average: '31.95'

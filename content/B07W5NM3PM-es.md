@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Lomogo Funda Galaxy 10 5G  Cartera Funda de Cuero Ranuras para Tarjetas Cierre Magnetico Soporte Plegable Carcasa Antigolpes para Samsung Galaxy S10 5G - LOHHA080279 Morado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W5NM3PM/?tag=tolees-21'
 descuento: '60.13'
 average: '7.97'

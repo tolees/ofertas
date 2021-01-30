@@ -16,6 +16,7 @@ comparePrice: 6.52 EUR
 prodname: '100pcs / Set Hoja conductora Profesional 2.5x0.5CM Pestaña de Soldadura Adecuada para Celdas de batería Recargable 18650 Plata - Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084RBLGTP/?tag=tolees-21'
 descuento: '34.97'
 average: '4.24'

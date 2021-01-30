@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'Jojoin Agua Dibujo Pintura 100x100 cm  Alfombra de Agua Doodle para niño  4 Pluma Solo Necesita Llenar de Agua Pura  ect...  Impreso Fórmula Matemática y Respuesta Ejercitar Habilidad Informática'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VVWWHS5/?tag=tolees-21'
 descuento: '35.50'
 average: '22.656666666666666'

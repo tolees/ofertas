@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Kalokelvin Fregona Giratoria  Juego de Fregona  Cubo con Ruedas y Fregona de Microfibra Set de Limpieza  Fácil de Escurrir y Limpiar  Color Rojo y Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFHS667/?tag=tolees-21'
 descuento: '40.01'
 average: '34.99'

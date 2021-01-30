@@ -16,6 +16,7 @@ comparePrice: 39.55 EUR
 prodname: 'Macadamia 54999 - Cuidado capilar  1000 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004KD1V4C/?tag=tolees-21'
 descuento: '57.70'
 average: '19.992857142857144'

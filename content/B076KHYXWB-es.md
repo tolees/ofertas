@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'ORICO - Soporte para Monitor de computadora portátil  Soporte de Pantalla de Monitor de Aluminio para Monitor/computadora portátil/Tableta/Apple Metal Silver  tamaño 40 * 21 * 4.5CM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076KHYXWB/?tag=tolees-21'
 descuento: '30.01'
 average: '27.99'

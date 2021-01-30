@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Vans Ward  Zapatillas para Niñas  Rosa   Canvas  Chalk Pink Vuz   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZQL5SW/?tag=tolees-21'
 descuento: '35.00'
 average: '29.25'

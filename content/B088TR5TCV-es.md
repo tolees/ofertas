@@ -16,6 +16,7 @@ comparePrice: 9.0 EUR
 prodname: 'Time COVER 2 Mascarillas Reutilizables con 10 Filtros  Mascarillas Lavable de Algodón Suave y semicara  Reutilizable  Lavable  Unisex  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088TR5TCV/?tag=tolees-21'
 descuento: '50.00'
 average: '3.315'

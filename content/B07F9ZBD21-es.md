@@ -16,6 +16,7 @@ comparePrice: 45.95 EUR
 prodname: 'Joma Caballero Chandal Capucha Essential  Hombre  Blanco/Negro  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F9ZBD21/?tag=tolees-21'
 descuento: '49.97'
 average: '22.99'

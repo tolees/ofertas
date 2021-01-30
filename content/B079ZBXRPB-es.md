@@ -16,6 +16,7 @@ comparePrice: 75.2 EUR
 prodname: 'BRA Efficient Iron Parrilla Redonda con Rayas  Fabricada En Hierro Fu'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079ZBXRPB/?tag=tolees-21'
 descuento: '40.82'
 average: '44.5'

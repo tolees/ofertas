@@ -16,6 +16,7 @@ comparePrice: 399.0 EUR
 prodname: 'Bowers & Wilkins PX - Auriculares inalámbricos con cancelación de ruido y Bluetooth  cerrado supraural  color  Gris  Space Grey '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07574TYWW/?tag=tolees-21'
 descuento: '33.34'
 average: '222.78500000000003'

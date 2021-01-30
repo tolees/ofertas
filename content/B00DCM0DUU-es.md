@@ -16,6 +16,7 @@ comparePrice: 449.0 EUR
 prodname: 'Fujifilm XF 27mm f/2.8 - Objetivo  Apertura f/16-2.8  MILC  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DCM0DUU/?tag=tolees-21'
 descuento: '34.22'
 average: '293.2866666666667'

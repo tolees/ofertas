@@ -16,6 +16,7 @@ comparePrice: 4.6 EUR
 prodname: 'Collistar Sensitive Skin Espuma de Afeitar - 250 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XDXBCBW/?tag=tolees-21'
 descuento: '56.74'
 average: '1.99'

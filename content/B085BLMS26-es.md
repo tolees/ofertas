@@ -16,6 +16,7 @@ comparePrice: 51.99 EUR
 prodname: 'YIMINYUER Cómodas alfombras para niños Juego para niños Ejercicio para colchonetas Muebles para Jugar Juego Modernización de EVA Blanco Azul Verde R01R07R08G301020'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085BLMS26/?tag=tolees-21'
 descuento: '33.78'
 average: '34.43'

@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'ieGeek Autoradio Bluetooth Estéreo RDS 60W * 4 Sistema de Radio Llamada Manos LibresFM/Am  luz de botón de 7 Colores  Pantalla de Reloj  Soporte Dual USB/FM/BT/AUX/SD con Control Remoto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WKLX254/?tag=tolees-21'
 descuento: '41.67'
 average: '36.49'

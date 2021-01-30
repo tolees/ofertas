@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Desigual - Bag Clio Yakarta Mini Women  Shoppers y bolsos de hombro Mujer  Blanco  Crudo   16.5x31.5x33 cm  B x H T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GT2MLYZ/?tag=tolees-21'
 descuento: '32.11'
 average: '43.03'

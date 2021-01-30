@@ -16,6 +16,7 @@ comparePrice: 18.83 EUR
 prodname: 'Alminatur Papilla de Multicereales con Plátano a Partir de los 6 Meses Paquete de 7 x 250 g- Total: 1.75 kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CTPNGJC/?tag=tolees-21'
 descuento: '45.83'
 average: '12.91'

@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Calvin Klein Reloj Analógico para Hombre de Cuarzo con Correa en Cuero K8Q311C1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CYRZK73/?tag=tolees-21'
 descuento: '35.72'
 average: '138.74666666666667'

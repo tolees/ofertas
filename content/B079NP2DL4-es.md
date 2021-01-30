@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Macallan Triple Cask 15 Años Single Malt Whisky Escoces  43% - 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079NP2DL4/?tag=tolees-21'
 descuento: '52.37'
 average: '47.15'

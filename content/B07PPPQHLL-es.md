@@ -16,6 +16,7 @@ comparePrice: 45.08 EUR
 prodname: 'Fortnite Set de juego con 2 Figuras  multicolor  Jazwares FNT0115 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PPPQHLL/?tag=tolees-21'
 descuento: '35.78'
 average: '28.95'

@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Kripton Halley  Zapatillas Unisex Niños  Azul  Marino   23 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CR6D92U/?tag=tolees-21'
 descuento: '84.91'
 average: '4.52'

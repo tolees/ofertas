@@ -16,6 +16,7 @@ comparePrice: 88.99 EUR
 prodname: 'BRIKSMAX Kit de Iluminación Led para Lego La casa del árbol Ideas Compatible con Ladrillos de Construcción Lego Modelo 21318  Juego de Legos no Incluido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YXK8Q1R/?tag=tolees-21'
 descuento: '33.71'
 average: '58.99'

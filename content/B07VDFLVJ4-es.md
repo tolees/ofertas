@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Flex Advantage 3.0 Landess  Zapatillas para Hombre  Gris  Charcoal Knit/Synthetic/Trim Char   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VDFLVJ4/?tag=tolees-21'
 descuento: '40.03'
 average: '41.95'

@@ -16,6 +16,7 @@ comparePrice: 20.9 EUR
 prodname: 'Thermaltake Riing 14 LED - Ventilador de 140 mm  Color Naranja'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0116JAU3K/?tag=tolees-21'
 descuento: '50.81'
 average: '10.28'

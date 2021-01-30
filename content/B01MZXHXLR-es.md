@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'DURAGADGET Bandolera para Videocámara Sony Handycam FDR-AX33 4KUHD - con Compartimentos Interiores Y Correa De Hombro Ajustable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MZXHXLR/?tag=tolees-21'
 descuento: '33.34'
 average: '21.99'

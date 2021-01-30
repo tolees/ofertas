@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Fossil Reloj Analógico para Hombre de Cuarzo con Correa en Cuero FS5540'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q2YN89Z/?tag=tolees-21'
 descuento: '29.95'
 average: '70.975'

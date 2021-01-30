@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'GlobaLink Espejo Antivaho Redondo Espejo Ideal para Afeitar Maquillaje Cosméticos Ducha Cuarto de Baño Pared con Gancho Fijación Adhesiva Agente Anti-Niebla Color Plateado Acero Inoxidable Regalo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MBX766L/?tag=tolees-21'
 descuento: '34.63'
 average: '16.74'

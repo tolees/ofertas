@@ -16,6 +16,7 @@ comparePrice: 8.95 EUR
 prodname: 'Puma Phase Gym Sack Bolsa De Cuerdas  Unisex Adulto  Black/Sweet Lavender  OSFA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JGBHXFN/?tag=tolees-21'
 descuento: '33.07'
 average: '5.99'

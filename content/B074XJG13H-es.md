@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Sharplace 2 Pares CW CCW Piezas de Recambio Portátiles para Hubsan H501S RC Drone Quadcopter - Oro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074XJG13H/?tag=tolees-21'
 descuento: '44.46'
 average: '7.77'

@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Nike Wmns Free RN 5.0  Zapatillas de Atletismo para Mujer  Multicolor  Black/White/Anthracite/Volt 000   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HB6ZCZ7/?tag=tolees-21'
 descuento: '47.04'
 average: '58.26'

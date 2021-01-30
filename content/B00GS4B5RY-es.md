@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'Festina Chrono Sport Cronógrafo para hombres Carcasa Maciza'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GS4B5RY/?tag=tolees-21'
 descuento: '36.44'
 average: '137.85'

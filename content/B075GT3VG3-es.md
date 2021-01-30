@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Pendrive 4GB 5 Piezas Memorias USB  Portátil Rotatorio USB 2.0 Flash Drive 4 GB Pen Drives  Metal Llavero Memoria Externo Stick 4 Giga Almacenamiento de Datos  Plata Azul Rojo Negro Oro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075GT3VG3/?tag=tolees-21'
 descuento: '25.01'
 average: '17.99'

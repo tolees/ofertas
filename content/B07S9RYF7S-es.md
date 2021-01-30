@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'PUMA Flyer Runner  Zapatillas de Running Unisex Adulto  Negro Black/High Risk Red 23  45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S9RYF7S/?tag=tolees-21'
 descuento: '34.87'
 average: '32.53'

@@ -16,6 +16,7 @@ comparePrice: 219.99 EUR
 prodname: 'Auna Melodia Radio Dab Bluetooth  minicadena con Reproductor de CD  Dab+/FM  Alarma  AUX  Elegante diseño  Mando a Distancia  - Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N3U0KXN/?tag=tolees-21'
 descuento: '55.91'
 average: '96.99'

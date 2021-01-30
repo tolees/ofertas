@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'adidas Outline TRF tee T-Shirt  Hombre  White  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S84XLBY/?tag=tolees-21'
 descuento: '50.09'
 average: '13.97'

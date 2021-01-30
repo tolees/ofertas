@@ -16,6 +16,7 @@ comparePrice: 21.0 EUR
 prodname: 'Pisen Ultrafino Banco de la energía  10000 mAh de Capacidad con Smart Salida 2 4 A Alta Velocidad de Carga para iPhone  iPad  iPod  Samsung Galaxy Y Más'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076LJHZVD/?tag=tolees-21'
 descuento: '25.00'
 average: '15.75'

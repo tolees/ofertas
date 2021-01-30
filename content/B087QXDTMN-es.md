@@ -16,6 +16,7 @@ comparePrice: 185.99 EUR
 prodname: 'Kingston KC2500 NVMe PCIe SSD -SKC2500M8/500G M.2 2280  500 GB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087QXDTMN/?tag=tolees-21'
 descuento: '36.17'
 average: '118.71'

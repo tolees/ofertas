@@ -16,6 +16,7 @@ comparePrice: 42.99 EUR
 prodname: 'CASEBOT Funda para Kindle Oasis  2019/2017  10.ª y 9.ª Generación  - Carcasa de Cuero Genuino  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078GNWJ2W/?tag=tolees-21'
 descuento: '76.76'
 average: '9.99'

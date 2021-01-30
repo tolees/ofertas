@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'KHOMO Carcasa Funda Trasera Semi Transparente para Apple iPad 9.7 2018  2017  Air 1 - Compatible con Smart Cover - Rosa Arena'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D6S4KVX/?tag=tolees-21'
 descuento: '26.02'
 average: '8.13'

@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Rage 2 Collectors Edition'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GBJF2W6/?tag=tolees-21'
 descuento: '53.88'
 average: '64.9875'

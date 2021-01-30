@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Jazmiu - Sombrero unisex divertido con dibujos de frutas  sombrero de pescador para actividades al aire libre  reversible Ba Blanco Taille unique'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083PVF5GB/?tag=tolees-21'
 descuento: '57.22'
 average: '2.99'

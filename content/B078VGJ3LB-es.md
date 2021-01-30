@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Sony WI-C300W - Auriculares Inalámbricos  Bluetooth  NFC  Manos Libres   Color Blanco  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078VGJ3LB/?tag=tolees-21'
 descuento: '66.83'
 average: '25.323333333333334'

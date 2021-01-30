@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Funda iPhone X  Funda iPhone XS Libro  Carcasa iPhone X con Cierre Magnético  Tarjetero y Suporte  Cubierta Plegable Cartera  iPhone 10 Flip Cover Case  Tipo Étui Piel Protección Completa. Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LGJ51HR/?tag=tolees-21'
 descuento: '61.13'
 average: '13.99'

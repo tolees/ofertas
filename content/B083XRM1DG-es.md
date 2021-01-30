@@ -16,6 +16,7 @@ comparePrice: 24.48 EUR
 prodname: 'Enchufe de sincronización wifi Enchufe inalámbrico Puertos de salida de control inteligente Enchufe de control remoto Interruptor de temporización de la regleta eléctrica Asistente de inicio/Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083XRM1DG/?tag=tolees-21'
 descuento: '35.01'
 average: '15.91'

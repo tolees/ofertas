@@ -16,6 +16,7 @@ comparePrice: 40.99 EUR
 prodname: 'Diablo 3 - Ultimate Evil Edition'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KHZW3YO/?tag=tolees-21'
 descuento: '51.26'
 average: '17.06875'

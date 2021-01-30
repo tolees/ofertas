@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'adidas Galaxy 4  Zapatillas de Entrenamiento para Hombre  Negro  Core Black/Core Black/Footwear White 0   42 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M5B24CX/?tag=tolees-21'
 descuento: '50.05'
 average: '28.296666666666667'

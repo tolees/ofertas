@@ -16,6 +16,7 @@ comparePrice: 68.9 EUR
 prodname: 'Bosch MFQ3540 Batidora y Amasadora con Accesorios  450 W  5 Velocidades y Función Turbo  Color Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000IYEMYI/?tag=tolees-21'
 descuento: '34.76'
 average: '44.755833333333335'

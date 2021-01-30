@@ -16,6 +16,7 @@ comparePrice: 79 EUR
 prodname: 'Superga 2790-COTROPEW  Zapatillas Mujer  Blanco  901 White   37 EU  4 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00Y0UCQV2/?tag=tolees-21'
 descuento: '43.32'
 average: '44.78'

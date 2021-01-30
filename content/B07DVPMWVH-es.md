@@ -16,6 +16,7 @@ comparePrice: 45.6 EUR
 prodname: 'YspgArt66 - Lienzo Decorativo para Pared  5 Piezas   diseño de los Vengadores de Marvel'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DVPMWVH/?tag=tolees-21'
 descuento: '50.02'
 average: '22.79'

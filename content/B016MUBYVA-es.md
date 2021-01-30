@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Los Vengadores  Temporada 6 Vol 1    The Avengers TV [DVD]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016MUBYVA/?tag=tolees-21'
 descuento: '40.07'
 average: '17.95'

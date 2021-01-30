@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Bonsenkitchen Termómetro Digital de Cocina para Carne Barbacoa Comida Liquidos Aceite  Termometro Alimentos con Pantalla LCD para Lectura Instantánea  Sonda Larga °C/°F Conmutable Negro ST8730'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F3ZGBWY/?tag=tolees-21'
 descuento: '38.49'
 average: '7.649090909090909'

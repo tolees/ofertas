@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Jocel JAQ013033 Calentador de cuarzo  800 W  Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075TBJ4QY/?tag=tolees-21'
 descuento: '49.80'
 average: '9.99'

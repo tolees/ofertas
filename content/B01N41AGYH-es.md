@@ -16,6 +16,7 @@ comparePrice: 39.97 EUR
 prodname: 'Biwond S10 Dual SIM+Camara+Bluetooth+Radio Flip SeniorPhone Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N41AGYH/?tag=tolees-21'
 descuento: '37.58'
 average: '24.95'

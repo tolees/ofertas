@@ -16,6 +16,7 @@ comparePrice: 58.0 EUR
 prodname: 'Casio Reloj Unisex HS-80TW-1EF'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001JJ8ZLC/?tag=tolees-21'
 descuento: '34.50'
 average: '37.99'

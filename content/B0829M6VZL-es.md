@@ -16,6 +16,7 @@ comparePrice: 3.31 EUR
 prodname: 'Moliies USB 2.0 A Hembra A RS232 DB9 Hembra Convertidor de Adaptador de Cable en Serie Construido con adaptadores confiables FTDI Chipset Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0829M6VZL/?tag=tolees-21'
 descuento: '35.05'
 average: '2.15'

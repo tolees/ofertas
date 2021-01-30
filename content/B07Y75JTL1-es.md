@@ -16,6 +16,7 @@ comparePrice: 28.89 EUR
 prodname: 'Pantuflas de invierno para hombre y mujer  con espuma viscoelástica  cómodas  antideslizantes  para interior y exterior  color  talla 44/45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y75JTL1/?tag=tolees-21'
 descuento: '37.73'
 average: '17.99'

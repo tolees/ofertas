@@ -16,6 +16,7 @@ comparePrice: 90 EUR
 prodname: 'New Balance Fresh Foam Roav   Zapatillas de Running para Hombre  Azul  Vintage Indigo Vintage Indigo   44.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DVS8BZC/?tag=tolees-21'
 descuento: '50.00'
 average: '45.0'

@@ -16,6 +16,7 @@ comparePrice: 6 EUR
 prodname: 'Rimmel London 3 The Only One Lipstick Barra De Labios Mate Tono 810 - 19 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015CMH0HG/?tag=tolees-21'
 descuento: '66.50'
 average: '2.01'

@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'L.A. Noire'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075V3RGV6/?tag=tolees-21'
 descuento: '25.36'
 average: '19.9'

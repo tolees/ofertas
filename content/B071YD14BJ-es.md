@@ -16,6 +16,7 @@ comparePrice: 71.73 EUR
 prodname: 'Cowboy Bebop Blu-Ray Edición Coleccionistas [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071YD14BJ/?tag=tolees-21'
 descuento: '36.51'
 average: '42.31666666666666'

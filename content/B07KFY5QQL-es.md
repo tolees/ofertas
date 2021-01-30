@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'PUMA LQDCELL Tension  Zapatillas Deportivas para Interior para Hombre  Negro Black White  47 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFY5QQL/?tag=tolees-21'
 descuento: '65.11'
 average: '34.87'

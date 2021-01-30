@@ -16,6 +16,7 @@ comparePrice: 13.42 EUR
 prodname: 'HUIJ Aspiradora  Aspiradoras de Mano para Piscinas  Aspiradora de Chorro de Piscina portátil para bañera de hidromasaje de Fuente de SPA de Piscina  para Hojas  Tierra y Arena y Limo  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BR4M1WV/?tag=tolees-21'
 descuento: '62.74'
 average: '5.0'

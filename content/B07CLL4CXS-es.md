@@ -16,6 +16,7 @@ comparePrice: 14.5 EUR
 prodname: 'Puig  Agua Fresca - 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CLL4CXS/?tag=tolees-21'
 descuento: '29.79'
 average: '10.235'

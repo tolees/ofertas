@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'adidas CLAS BP Bos Mochilla de Deporte  Unisex Adulto  Real Magenta/Tech Ink/Tech Ink  NS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S2ZLRDR/?tag=tolees-21'
 descuento: '30.30'
 average: '19.259999999999998'

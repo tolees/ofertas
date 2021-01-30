@@ -16,6 +16,7 @@ comparePrice: 149.95 EUR
 prodname: 'Altavoz Autoamplificado 400W 12" ThunderSound Biwond'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0769XTKP7/?tag=tolees-21'
 descuento: '33.34'
 average: '99.95'

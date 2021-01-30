@@ -16,6 +16,7 @@ comparePrice: 170.39 EUR
 prodname: 'Alpina 240271000/A18 Motosierra de gasolina AC 27 T  26.9 cc  Blanco  Espada de 25 cm  10" '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YL6PLQT/?tag=tolees-21'
 descuento: '25.03'
 average: '127.74'

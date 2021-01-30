@@ -16,6 +16,7 @@ comparePrice: 2.13 EUR
 prodname: 'Bonka Café molido de tueste natural y cultivo sostenible - Paquete de Café molido de 250 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K7R48US/?tag=tolees-21'
 descuento: '53.05'
 average: '1.3705882352941174'

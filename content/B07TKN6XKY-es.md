@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Clarks C MOCC Boat  Mocasines para Mujer  Blanco  White Leather White Leather   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TKN6XKY/?tag=tolees-21'
 descuento: '50.31'
 average: '44.7'

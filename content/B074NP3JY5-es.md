@@ -16,6 +16,7 @@ comparePrice: 15.0 EUR
 prodname: '1 Unid UV Gel Nail Art Pincel de Pintura Con Mango de Madera de Pelo de Nylon Cepillo Pro Nail Art Tools 4 #'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074NP3JY5/?tag=tolees-21'
 descuento: '60.07'
 average: '5.99'

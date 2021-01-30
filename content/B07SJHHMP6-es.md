@@ -16,6 +16,7 @@ comparePrice: 175.89 EUR
 prodname: 'Pala de Pádel Masai | Black Crown | Nivel: Avanzado  Competición  Profesional | Potencia 90%  Control 80%'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SJHHMP6/?tag=tolees-21'
 descuento: '34.65'
 average: '117.45'

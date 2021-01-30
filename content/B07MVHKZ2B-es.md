@@ -16,6 +16,7 @@ comparePrice: 42 EUR
 prodname: 'Napapijri Semiury WOM Gorro de Punto  Morado  Purple Wine V01   Única  Talla del Fabricante: OS  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVHKZ2B/?tag=tolees-21'
 descuento: '30.00'
 average: '29.4'

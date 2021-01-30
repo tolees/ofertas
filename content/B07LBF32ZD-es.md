@@ -16,6 +16,7 @@ comparePrice: 41.0 EUR
 prodname: 'Calvin Klein Plunge Sujetador con Push-up  Negro  Black 001   C  Talla del Fabricante: 0C32  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBF32ZD/?tag=tolees-21'
 descuento: '47.32'
 average: '21.6'

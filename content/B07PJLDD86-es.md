@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'FREDI Cámara espía HD 1080P WiFi Cámara Videocámara Oculta Mini Cámara de vigilancia inalámbrica Seguridad para Interiores Visión Nocturna'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PJLDD86/?tag=tolees-21'
 descuento: '50.01'
 average: '49.99'

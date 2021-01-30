@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'G-Star Raw 3301 Straight  Jeans Dritto Uomo  Nero  antic charcoal B479-A800   W36/L38'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RH1L2V8/?tag=tolees-21'
 descuento: '50.02'
 average: '59.95'

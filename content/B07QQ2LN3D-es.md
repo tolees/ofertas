@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Funko- Pop Disney: Frozen 2-Young Elsa Figura coleccionable  Multicolor  40888 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QQ2LN3D/?tag=tolees-21'
 descuento: '30.02'
 average: '9.045588235294117'

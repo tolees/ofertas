@@ -16,6 +16,7 @@ comparePrice: 15.58 EUR
 prodname: 'Piccalilly Body de manga larga para bebé  suave  algodón orgánico  estampado de búho verde Verde verde 2 mes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z6BKTLL/?tag=tolees-21'
 descuento: '42.49'
 average: '9.095'

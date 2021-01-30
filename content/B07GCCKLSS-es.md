@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Tommee Tippee Doudou  Gerry la Jirafa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GCCKLSS/?tag=tolees-21'
 descuento: '33.36'
 average: '9.99'

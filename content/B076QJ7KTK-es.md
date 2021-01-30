@@ -16,6 +16,7 @@ comparePrice: 67.5 EUR
 prodname: 'Mark Maddox Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable MM0101-55'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076QJ7KTK/?tag=tolees-21'
 descuento: '44.44'
 average: '37.5'

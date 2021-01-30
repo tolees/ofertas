@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Controladora DMX Lixada 192 Canales DMX 512 Consola para Iluminación de Escenario Equipo DJ Disco Fiesta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z4DC7C7/?tag=tolees-21'
 descuento: '30.01'
 average: '41.59'

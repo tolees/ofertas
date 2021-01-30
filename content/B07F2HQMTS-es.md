@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'ENKEEO Mini Bomba de Aire de Mano  Bomba de Bicicleta  140 PSI  Ligero y Flexible  con Válvulas Presta y Schrader  Kit de Montaje Incluido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F2HQMTS/?tag=tolees-21'
 descuento: '63.35'
 average: '10.99'

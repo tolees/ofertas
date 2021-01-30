@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Under Armour UA GS Assert 8  Zapatillas de Running Unisex Adulto  Negro  Black/Steel/X-Ray   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PWNKXTK/?tag=tolees-21'
 descuento: '63.33'
 average: '20.15'

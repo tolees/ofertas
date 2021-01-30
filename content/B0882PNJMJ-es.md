@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Syxinn Compatible con Correa de Reloj Gear S3 Frontier/Classic/Galaxy Watch 46mm Reemplazo de Banda de Silicona Suave Deportiva Pulsera de Repuesto para Gear S3/Moto 360 2nd Gen 46mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0882PNJMJ/?tag=tolees-21'
 descuento: '30.01'
 average: '21.99'

@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Altavoz Bluetooth - Hey You! Turn me on  Eng '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9JJDDC/?tag=tolees-21'
 descuento: '49.98'
 average: '14.98'

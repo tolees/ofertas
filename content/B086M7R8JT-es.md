@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Amzdeal Máscara de buceo - Máscara de snorkel Plegable completa-mascarilla antifugas-sello de silicona a prueba   vista panorámica HD de 180 ° Compatible con soporte para cámara  L/XL '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086M7R8JT/?tag=tolees-21'
 descuento: '40.01'
 average: '23.99'

@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'PUMA King Hero FG  Zapatillas de fútbol Unisex Adulto  Negro Black White  39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFZZ3VF/?tag=tolees-21'
 descuento: '75.97'
 average: '16.81'

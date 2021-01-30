@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'VEOMED® Dispositivo Anti Ronquidos eficaz | Stop Ronquidos | Dejar de roncar | Ronquido Stop | Dispositivo de protección antironquidos de primera calidad | Dilatador nasal | apnea del sueño  2 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X6RYZSZ/?tag=tolees-21'
 descuento: '45.05'
 average: '10.99'

@@ -16,6 +16,7 @@ comparePrice: 22.67 EUR
 prodname: 'Luz LED sumergible  luces LED multicolores con control remoto RGB  luz subacuática impermeable con batería AAA  INCLUIDA  para jarrones base  estanque  fiesta  piscina y Halloween  1 paquete'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073M7XD7M/?tag=tolees-21'
 descuento: '38.29'
 average: '13.99'

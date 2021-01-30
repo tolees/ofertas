@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'BaByliss AS81E - Cepillo de aire caliente  800 W  cabezal cerámico de 38 mm para volumen y cabezal de 20 mm para puntas y flequillo  2 velocidades/temperaturas + aire frío'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EA5H0BW/?tag=tolees-21'
 descuento: '42.37'
 average: '19.105'

@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'Sennheiser Game Zero - Auriculares de Diadema Cerrados Gaming  reducción de Ruido  Importado  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JQDOANK/?tag=tolees-21'
 descuento: '26.92'
 average: '159.394'

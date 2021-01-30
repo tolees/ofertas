@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Powerlegs – Ejercita Tus Piernas Sin Esfuerzo Con Mando A Distancia Incluido - Alivia El Dolor y Mejora La Circulacion - Ejercitador De Piernas Pasivo - Mueve Tus Piernas - Mueve Tu Corazón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JN8LBYQ/?tag=tolees-21'
 descuento: '25.13'
 average: '149.0'

@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Superga 2750 COTU Classic  Zapatillas Unisex Adulto  Verde  Green Sherwood 102   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DV55B3C/?tag=tolees-21'
 descuento: '60.31'
 average: '25.006666666666668'

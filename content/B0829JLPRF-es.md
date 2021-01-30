@@ -16,6 +16,7 @@ comparePrice: 56.79 EUR
 prodname: 'Guess GUESSTangey Girlfriend CarryallMujerNegroTaglia Unica'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0829JLPRF/?tag=tolees-21'
 descuento: '31.06'
 average: '62.482000000000006'

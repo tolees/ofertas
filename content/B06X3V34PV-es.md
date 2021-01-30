@@ -16,6 +16,7 @@ comparePrice: 42.86 EUR
 prodname: 'Bosch Professional 2608615065 Bosch 2608615065-Disco de Diamante Standard Universal: 230mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06X3V34PV/?tag=tolees-21'
 descuento: '52.26'
 average: '19.69571428571429'

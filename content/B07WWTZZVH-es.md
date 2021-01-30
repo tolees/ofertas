@@ -16,6 +16,7 @@ comparePrice: 9.9 EUR
 prodname: 'oodji Ultra Mujer Mallas de Punto con Inscripción  Rojo  ES 42 / L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WWTZZVH/?tag=tolees-21'
 descuento: '29.29'
 average: '7.0'

@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'Rubie s - Disfraz Avengers  Capitan America  Talla M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L91KW5D/?tag=tolees-21'
 descuento: '41.39'
 average: '32.23'

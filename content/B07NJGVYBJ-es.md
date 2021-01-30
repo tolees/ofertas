@@ -16,6 +16,7 @@ comparePrice: 6.5 EUR
 prodname: 'Brabantia Tasty + Pincel repostería de silicona  color fir green'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJGVYBJ/?tag=tolees-21'
 descuento: '30.00'
 average: '4.55'

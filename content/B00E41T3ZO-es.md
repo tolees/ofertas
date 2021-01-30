@@ -16,6 +16,7 @@ comparePrice: 165.0 EUR
 prodname: 'CAMPER Pelotas Ariel - Oxford Hombre  Marrone  dark brown   39'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00E41T3ZO/?tag=tolees-21'
 descuento: '32.12'
 average: '97.66799999999999'

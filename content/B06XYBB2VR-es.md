@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'AUKEY Hub USB C 3 Porte USB 3.0 e Lettori di Scheda SD & Micro SD Adattatore USB C per MacBook Pro 2017/2016  Google Chromebook Pixel  DELL XPS 13  ASUS ZenBook e Altri dispositivi USB C'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XYBB2VR/?tag=tolees-21'
 descuento: '41.20'
 average: '13.489999999999998'

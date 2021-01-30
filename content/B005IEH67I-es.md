@@ -16,6 +16,7 @@ comparePrice: 13.75 EUR
 prodname: 'Bourjois Healthy Mix Serum Base de Maquillaje Tono 53 Light Beige  - 30 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005IEH67I/?tag=tolees-21'
 descuento: '35.27'
 average: '8.895714285714286'

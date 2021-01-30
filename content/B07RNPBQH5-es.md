@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'HBselect Sostén De Lactancia Sin Costuras Set 3 pcs Multicolor Sujetador de Maternidad Sujetadores para Premamá Multicolor Sostén Embarazada'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RNPBQH5/?tag=tolees-21'
 descuento: '35.50'
 average: '19.99'

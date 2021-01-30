@@ -16,6 +16,7 @@ comparePrice: 11.86 EUR
 prodname: 'find. Kitten Heel Sling Back Mary Jane  Negro Black  39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HPSQ82P/?tag=tolees-21'
 descuento: '28.08'
 average: '8.53'

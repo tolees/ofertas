@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: '5200mAh 593553-001 Batería del ordenador portátil para HP Pavilion DV6-3000 DV6-4000 DV6-6000 DV7-4000 DV7-5000 DV7-6000  G4 G6 G7 G4-1000 G6-1000 COMPAQ Presario CQ32 CQ42 CQ56 CQ62 CQ72 593554-001'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PVHTZ8B/?tag=tolees-21'
 descuento: '30.78'
 average: '17.99'

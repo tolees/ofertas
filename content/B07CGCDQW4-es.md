@@ -16,6 +16,7 @@ comparePrice: 247.98 EUR
 prodname: 'JBL Xtreme 2 - Altavoz BT portátil resistente al agua  IPX7  con manos libres  JBL Connect+  Color verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CGCDQW4/?tag=tolees-21'
 descuento: '26.12'
 average: '183.2'

@@ -16,6 +16,7 @@ comparePrice: 6 EUR
 prodname: 'Luengo - Garbanzo Blanco Lechoso En Paquetes De 1 Kg - [Pack de 2]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MRENW1V/?tag=tolees-21'
 descuento: '28.00'
 average: '4.32'

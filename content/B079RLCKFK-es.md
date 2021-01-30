@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Sorel out N About Plus  Botas para Mujer  Marrón  Elk 286   39.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079RLCKFK/?tag=tolees-21'
 descuento: '53.88'
 average: '59.95'

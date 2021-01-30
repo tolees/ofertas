@@ -16,6 +16,7 @@ comparePrice: 153.66 EUR
 prodname: 'Tayg Trail-Box n. 59  500 x 410 x 770 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008ZCRLMK/?tag=tolees-21'
 descuento: '25.28'
 average: '114.82'

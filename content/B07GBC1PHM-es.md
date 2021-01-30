@@ -16,6 +16,7 @@ comparePrice: 19.14 EUR
 prodname: 'Cordel de Yute 2 Rollo 328 Pies de Cuerda de Cáñamo Natural Vintage de Cuerda de Cáñamo Para Bricolaje Artes Manualidades y Decoración Materiales para Jardinería  2*100 metros  marrón '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GBC1PHM/?tag=tolees-21'
 descuento: '47.81'
 average: '9.99'

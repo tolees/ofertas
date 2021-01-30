@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Lenor Unstoppables Fresh Perlas Impulsoras De Fragancia - 1 x 210 gr  15 lavados'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HYF7S6N/?tag=tolees-21'
 descuento: '42.92'
 average: '4.390000000000001'

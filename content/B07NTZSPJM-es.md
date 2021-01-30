@@ -16,6 +16,7 @@ comparePrice: 2.02 EUR
 prodname: 'loonBonnie Nueva Tela Grandes Arco broches para Las Mujeres Corbata de Boda del Banquete de Accesorios de Ropa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NTZSPJM/?tag=tolees-21'
 descuento: '49.50'
 average: '1.02'

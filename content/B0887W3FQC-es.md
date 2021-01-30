@@ -16,6 +16,7 @@ comparePrice: 8.36 EUR
 prodname: 'LNIEGE Por Rod del Carril de Soporte zócalo 2pcs Montaje de Techo Armario de Tubo Soporte'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0887W3FQC/?tag=tolees-21'
 descuento: '31.58'
 average: '5.72'

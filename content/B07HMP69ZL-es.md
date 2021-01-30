@@ -16,6 +16,7 @@ comparePrice: 87.12 EUR
 prodname: 'AmazonBasics – Balancín plegable con toldo  Beige'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HMP69ZL/?tag=tolees-21'
 descuento: '45.57'
 average: '49.5125'

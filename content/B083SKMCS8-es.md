@@ -16,6 +16,7 @@ comparePrice: 171.98 EUR
 prodname: 'TONGJI Vitrina de Acrílico Compatible con Lego 21319 Ideas - Central Perk  Vitrina A Prueba De Polvo  Modelo No Incluido '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083SKMCS8/?tag=tolees-21'
 descuento: '50.00'
 average: '85.99'

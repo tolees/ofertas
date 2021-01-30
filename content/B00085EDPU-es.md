@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Dyson Accesorio de Aspirador 908032-09 Flexi Crevice Tool  Cepillo Rincon  500 W  0 Decibelios  ABS  Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00085EDPU/?tag=tolees-21'
 descuento: '42.14'
 average: '29.052500000000002'

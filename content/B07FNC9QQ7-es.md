@@ -16,6 +16,7 @@ comparePrice: 20.85 EUR
 prodname: 'Syoss Champú Oleo 21  3 Pack  3 x 500 ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FNC9QQ7/?tag=tolees-21'
 descuento: '48.92'
 average: '10.65'

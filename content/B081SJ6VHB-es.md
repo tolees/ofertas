@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'adidas CON20 TR PNT Pantalones de Deporte  Hombre  Team Navy Blue/White  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081SJ6VHB/?tag=tolees-21'
 descuento: '31.97'
 average: '33.98'

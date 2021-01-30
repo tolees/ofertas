@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'YanBan Manija plástica estándar de la higiene oral de para Waterpik WP-100 WP-450 WP-660 WP900'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0721MFK2B/?tag=tolees-21'
 descuento: '57.02'
 average: '10.31'

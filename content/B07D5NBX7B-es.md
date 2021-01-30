@@ -16,6 +16,7 @@ comparePrice: 21.5 EUR
 prodname: 'Ordesa Omegakids Gummies Masticables- 54 Unidades - El Omega-3 para tus hijos  4 gominolas al día'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D5NBX7B/?tag=tolees-21'
 descuento: '25.58'
 average: '16.0'

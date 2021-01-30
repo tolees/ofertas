@@ -16,6 +16,7 @@ comparePrice: 34.0 EUR
 prodname: 'RioRiva En calcetines para hombre de envoltura de regalos con rayas de algodón 90%  bonito diseño de media pantorrilla  estilo colorido  #104-6P  XL: EU 47-50 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZF99FC3/?tag=tolees-21'
 descuento: '41.21'
 average: '19.99'

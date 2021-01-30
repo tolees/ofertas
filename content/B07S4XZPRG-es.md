@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'New Balance 373v2  Zapatillas para Hombre  Marfil  Off AC   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S4XZPRG/?tag=tolees-21'
 descuento: '39.44'
 average: '47.96'

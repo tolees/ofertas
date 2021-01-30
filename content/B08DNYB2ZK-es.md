@@ -16,6 +16,7 @@ comparePrice: 2.03 EUR
 prodname: 'Panamar Esponja Almacenamiento de desagüe Cesta para Colgar Verde Productos domésticos para el hogar Familia artículo Familiar de Uso Diario - Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DNYB2ZK/?tag=tolees-21'
 descuento: '33.50'
 average: '1.35'

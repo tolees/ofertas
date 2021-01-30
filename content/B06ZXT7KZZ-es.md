@@ -16,6 +16,7 @@ comparePrice: 7.49 EUR
 prodname: 'Bruni Película Protectora para Olympus TG-850 Protector Película  Claro Lámina Protectora  2X '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06ZXT7KZZ/?tag=tolees-21'
 descuento: '48.06'
 average: '3.89'

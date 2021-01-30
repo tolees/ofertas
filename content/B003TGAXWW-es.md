@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Intex - Juego de 6 Cartuchos de Filtro  Tipo de filtración: A '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003TGAXWW/?tag=tolees-21'
 descuento: '43.18'
 average: '17.04'

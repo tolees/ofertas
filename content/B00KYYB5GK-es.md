@@ -16,6 +16,7 @@ comparePrice: 4.6 EUR
 prodname: 'Palmolive - Aroma Gel Absolute Relax 500 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KYYB5GK/?tag=tolees-21'
 descuento: '50.43'
 average: '2.17'

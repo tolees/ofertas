@@ -16,6 +16,7 @@ comparePrice: 33.12 EUR
 prodname: 'Reloj para Hombre Impermeable Deportivo Reloj cronógrafo Top Marca Luxury LIGE Negocio Reloj Negro Caso Correa Reloj'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H6DBJ66/?tag=tolees-21'
 descuento: '26.69'
 average: '24.28'

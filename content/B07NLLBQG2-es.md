@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Antipodes Merino Saco de Dormir para bebé niño y niña - Invierno  Cualquier Temporada  Hecho de Lana y algodón – tamaño Universal  3 a 24 Meses  Gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NLLBQG2/?tag=tolees-21'
 descuento: '35.99'
 average: '64.0'

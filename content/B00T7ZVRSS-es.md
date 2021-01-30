@@ -16,6 +16,7 @@ comparePrice: 14.0 EUR
 prodname: 'Des Nems Sauce Grabuge'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00T7ZVRSS/?tag=tolees-21'
 descuento: '78.64'
 average: '2.99'

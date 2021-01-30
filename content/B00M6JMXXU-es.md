@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Amzdeal 135W Bombilla Fotografia Iluminación E27 220V 5500K Luz para Estudio Fotográfico o Video Estudio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00M6JMXXU/?tag=tolees-21'
 descuento: '45.01'
 average: '21.99'

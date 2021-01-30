@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Uten Batidoras Multifuncional  Máquina de Batidos de Elétrica de Acero Inocidable Picadora  Exprimidor  Batidora de Frutas y Verduras 4 en 1 con Botellas   220W  22 000 RPM/Minutos '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KQBMNNR/?tag=tolees-21'
 descuento: '62.51'
 average: '33.99'

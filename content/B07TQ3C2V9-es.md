@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Simpeak Ventilador Mini USB Silencioso de 3 Velocidades Mini Fan  360 Grados Rotation Fan USB Ventilador Portátil para Biblioteca  Oficina  Camping  Picnic  Excursiones Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TQ3C2V9/?tag=tolees-21'
 descuento: '31.27'
 average: '10.99'

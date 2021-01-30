@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Esprit Broome Fashion UW Bra Sujetador  Rosa  Blush 665   105D  Talla del Fabricante: 90 D  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QDB471G/?tag=tolees-21'
 descuento: '50.03'
 average: '9.99'

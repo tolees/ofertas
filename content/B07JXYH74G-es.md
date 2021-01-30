@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Tommy Hilfiger Formal Belt 3.5 Cinturón  Beige  100  Talla del fabricante:  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JXYH74G/?tag=tolees-21'
 descuento: '33.75'
 average: '31.26666666666667'

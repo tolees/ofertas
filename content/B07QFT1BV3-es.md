@@ -16,6 +16,7 @@ comparePrice: 23.14 EUR
 prodname: 'HoYiXi Funda para Nuevo Kindle 2019 Kindle Estuche 2019 Funda de Cuero Delgada con Auto Sueño/Estela Funcion Pintado Cover para Amazon de Kindle  10th Generation 2019 Release  - Noche Estrellada'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QFT1BV3/?tag=tolees-21'
 descuento: '30.90'
 average: '15.99'

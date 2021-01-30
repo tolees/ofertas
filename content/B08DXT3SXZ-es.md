@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Auriculares inalámbricos Bluetooth  Auriculares inalámbricos 3D estéreo HD  emparejamiento automático para Llamadas binaurales  con Estuche de Carga portátil para Dispositivos Bluetooth - Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DXT3SXZ/?tag=tolees-21'
 descuento: '25.01'
 average: '29.99'

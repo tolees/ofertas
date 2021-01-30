@@ -16,6 +16,7 @@ comparePrice: 62.45 EUR
 prodname: 'WOSAWE - Pantalones deportivos para hombre de secado rápido  Hombre  azul  US M Asiático XL '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GXCMD1Z/?tag=tolees-21'
 descuento: '48.07'
 average: '32.43'

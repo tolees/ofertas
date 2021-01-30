@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Michael Kors Reloj analogico para Hombre de Cuarzo con Correa en Acero Inoxidable MK8157'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0048CIH1A/?tag=tolees-21'
 descuento: '30.43'
 average: '208.0'

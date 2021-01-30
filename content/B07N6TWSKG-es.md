@@ -16,6 +16,7 @@ comparePrice: 40.58 EUR
 prodname: 'Tommy Hilfiger Fashion Mix Sneaker  Zapatillas para Hombre  White Ybs  44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N6TWSKG/?tag=tolees-21'
 descuento: '27.99'
 average: '35.09'

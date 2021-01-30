@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Adoric Termometro Digital Termometro Bebe Niños y Adultos Resistente al Agua  Pantalla LCD Señal acústia  sin Mercurio  sin Cristal  Color Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G9X9BK2/?tag=tolees-21'
 descuento: '33.34'
 average: '19.99'

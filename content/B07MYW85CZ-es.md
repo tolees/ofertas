@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'Triumph Amourette 300 W X Sujetador con Aros  Morado  95B  Talla del Fabricante: 80B  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MYW85CZ/?tag=tolees-21'
 descuento: '39.84'
 average: '27.04'

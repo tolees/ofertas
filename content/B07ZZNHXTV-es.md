@@ -16,6 +16,7 @@ comparePrice: 18.69 EUR
 prodname: 'Pop! Heroes: Batman Returns - Catwoman'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZZNHXTV/?tag=tolees-21'
 descuento: '53.40'
 average: '11.55'

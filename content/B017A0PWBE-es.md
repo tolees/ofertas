@@ -16,6 +16,7 @@ comparePrice: 34.27 EUR
 prodname: 'Norton Security Deluxe 2019 - Antivirus  PC/Mac/iOS/Android  5 dispositivos  1 año'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017A0PWBE/?tag=tolees-21'
 descuento: '47.51'
 average: '19.99'

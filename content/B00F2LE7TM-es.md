@@ -16,6 +16,7 @@ comparePrice: 104.95 EUR
 prodname: 'SOGO SS-5245 Heladera  Maquina de helado  Máquina para postres de frutas heladas de 150W  Con Libro de Recetas  Helados Sanos - Color Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00F2LE7TM/?tag=tolees-21'
 descuento: '52.37'
 average: '49.99'

@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Pepe Jeans Klein Archive Summer M  Zapatillas para Hombre  Blanco Factory White 801  43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VFWVBWV/?tag=tolees-21'
 descuento: '32.35'
 average: '54.05'

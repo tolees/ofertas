@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Easton Marlowe 6 PR Calcetines Lisos Negros Hombre  Algodón Peinado - 6pk #3-1  Negro - 39-42 talla de calzado UE'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B9FDM67/?tag=tolees-21'
 descuento: '46.68'
 average: '15.99'

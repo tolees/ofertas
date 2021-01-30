@@ -16,6 +16,7 @@ comparePrice: 82.14 EUR
 prodname: 'Tommy Hilfiger Buoy Print Regular Polo  Azul  Small  Talla del Fabricante:  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W5N32JQ/?tag=tolees-21'
 descuento: '60.00'
 average: '32.86'

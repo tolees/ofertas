@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'MaxKare Almohadilla Eléctrica Térmica de Grande Tamaño de  50 x 60cm  con Función de Apagado Automático 5 Grados de Calefacción Terapéuticos Franela Suave Alivio Muscular para Espalda Cuello Hombro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FL4MHHG/?tag=tolees-21'
 descuento: '26.68'
 average: '22.939999999999998'

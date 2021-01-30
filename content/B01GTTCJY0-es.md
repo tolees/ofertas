@@ -16,6 +16,7 @@ comparePrice: 113.32 EUR
 prodname: 'Kerbl Dolomit Tofana - Árbol de Pared para Gatos  168 x 75 cm   Color Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GTTCJY0/?tag=tolees-21'
 descuento: '27.42'
 average: '82.25'

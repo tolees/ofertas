@@ -16,6 +16,7 @@ comparePrice: 5.38 EUR
 prodname: 'Brocha de Madera de Nylon para Pintura de Acrílico de Aguada de Aceite de Acuarela 80 mm - 20mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9SB7DS/?tag=tolees-21'
 descuento: '44.42'
 average: '4.49'

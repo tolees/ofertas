@@ -16,6 +16,7 @@ comparePrice: 34.16 EUR
 prodname: 'adidas UNIFO LGE Balón de Fútbol  Men s  White/Black/Signal Green/Bright Cyan  4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081TMYN1N/?tag=tolees-21'
 descuento: '47.31'
 average: '23.17857142857143'

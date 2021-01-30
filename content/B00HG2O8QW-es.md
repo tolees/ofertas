@@ -16,6 +16,7 @@ comparePrice: 63.44 EUR
 prodname: 'Makita D-41517 - Estuche de llaves de vaso 9 piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HG2O8QW/?tag=tolees-21'
 descuento: '41.54'
 average: '37.09'

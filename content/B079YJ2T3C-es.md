@@ -16,6 +16,7 @@ comparePrice: 60.66 EUR
 prodname: 'Westinghouse Lighting One-Light Indoor Pendant Lámpara de Techo Integrado  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079YJ2T3C/?tag=tolees-21'
 descuento: '29.49'
 average: '43.942'

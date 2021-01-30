@@ -16,6 +16,7 @@ comparePrice: 125.0 EUR
 prodname: 'Tommee Tippee Closer to Nature - Sacaleches eléctrico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008HQU0JK/?tag=tolees-21'
 descuento: '64.01'
 average: '50.04666666666667'

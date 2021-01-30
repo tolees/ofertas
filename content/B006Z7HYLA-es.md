@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'IK Multimedia IPIRIGMIXIN - Mesa de mezclas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006Z7HYLA/?tag=tolees-21'
 descuento: '66.00'
 average: '34.0'

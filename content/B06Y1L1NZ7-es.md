@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Wrangler Arizona Jeans  Azul  Bright Stroke 1Q   31W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y1L1NZ7/?tag=tolees-21'
 descuento: '58.55'
 average: '37.28'

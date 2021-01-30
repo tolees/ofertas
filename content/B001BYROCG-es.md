@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Vacu Vin 38855626-Enfriador rápido  Estampado Color Platino Enfriador para Botellas de Cava  plástico y Gel  Plateado  cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001BYROCG/?tag=tolees-21'
 descuento: '53.81'
 average: '6.0'

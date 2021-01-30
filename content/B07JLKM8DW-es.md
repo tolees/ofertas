@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Tommy Hilfiger Reloj Analógico para Mujer de Cuarzo con Correa en Bañada en Oro 1781972'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JLKM8DW/?tag=tolees-21'
 descuento: '30.00'
 average: '97.3'

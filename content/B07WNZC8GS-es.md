@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'MEGALITH Relojes Hombre Relojes Grandes de Pulsera Militares Cronografo Diseñador Luminosos Impermeable Reloj Hombre Deportivos de Acero Inoxidable Analogicos Fecha'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WNZC8GS/?tag=tolees-21'
 descuento: '75.81'
 average: '31.44'

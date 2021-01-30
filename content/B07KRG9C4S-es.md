@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'adidas W E 3s Tight - Mallas  Mujer  Black/White  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KRG9C4S/?tag=tolees-21'
 descuento: '33.34'
 average: '22.47'

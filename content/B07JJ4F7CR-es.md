@@ -16,6 +16,7 @@ comparePrice: 28.9 EUR
 prodname: 'TACKLIFE Cinturón para Herramientas  Profesionales  Tela Impermeable  Tejido de Tres Capas  Costura de Cifrado  Con Tira Fluorescente  Acomodar los Martillos  Alicates  Cuchillos  Llaves  etc - PTB01'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JJ4F7CR/?tag=tolees-21'
 descuento: '55.05'
 average: '12.99'

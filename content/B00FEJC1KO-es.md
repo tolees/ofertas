@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Kit de Reparación Bestway Parche Extra Fuerte'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00FEJC1KO/?tag=tolees-21'
 descuento: '70.85'
 average: '2.9'

@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'L Oreal Paris Colorista Hair Make Up Metallic Blue'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BR5LHGT/?tag=tolees-21'
 descuento: '81.13'
 average: '1.6633333333333333'

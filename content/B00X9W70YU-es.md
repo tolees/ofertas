@@ -16,6 +16,7 @@ comparePrice: 9.65 EUR
 prodname: 'L Oréal Paris Sublime Mousse Coloración Permanente  Tono: 565 Rojizo Atrevido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X9W70YU/?tag=tolees-21'
 descuento: '36.89'
 average: '6.09'

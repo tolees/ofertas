@@ -16,6 +16,7 @@ comparePrice: 189.0 EUR
 prodname: 'Candy CDH30 Encimera Vitrocerámica Dominó Integrada  30 cm  2 zonas de cocción  3000 W'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B019LZNP38/?tag=tolees-21'
 descuento: '39.32'
 average: '114.71333333333332'

@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'KITCHENATICS Rejilla para Enfriar y Hornear de Acero Inoxidable  Parrilla para Horno para La Mayoría de Bandejas de Horno - Utensilios de Repostería Grado Comercial - 25 4 x 38 1 CM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DOJIFTQ/?tag=tolees-21'
 descuento: '30.25'
 average: '19.53'

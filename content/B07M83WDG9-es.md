@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'Napapijri Moto WINT Pantalones  Verde  Green Forest 2 GE3   48 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M83WDG9/?tag=tolees-21'
 descuento: '63.60'
 average: '43.32'

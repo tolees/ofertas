@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Famgizmo Soporte de Pared para TV 14-37 Pulgadas 35-94cm   Inclinable y Giratorio  Máx Vesa 200x200mm  Carga 45KG 99lbs   para Televisores de Pantalla Plana LED LCD Plasma 4K 3D '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NK7N58S/?tag=tolees-21'
 descuento: '38.48'
 average: '15.99'

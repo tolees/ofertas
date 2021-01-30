@@ -16,6 +16,7 @@ comparePrice: 70.92 EUR
 prodname: 'cámara Oculta del Altavoz del Bluetooth  cámara Nana inalámbrica de la Mini cámara de la niñera de la detección de Movimiento de la cámara espía 1080P con la visión Nocturna'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MC6F2HT/?tag=tolees-21'
 descuento: '25.28'
 average: '52.99'

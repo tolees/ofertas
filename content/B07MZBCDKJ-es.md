@@ -16,6 +16,7 @@ comparePrice: 179.9 EUR
 prodname: 'Britax Römer Cochecito de caña  HOLIDAY 2   6 meses a 3 años  hasta 15 kg   Cosmos Black'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZBCDKJ/?tag=tolees-21'
 descuento: '28.52'
 average: '128.59'

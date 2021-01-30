@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Seiko  QHP005A  Despertador analógico  Marrón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WP1WWXY/?tag=tolees-21'
 descuento: '27.08'
 average: '28.44'

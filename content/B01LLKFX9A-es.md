@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Osram 64210NBL Lámparas Halógenas Para Faros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LLKFX9A/?tag=tolees-21'
 descuento: '51.56'
 average: '11.62'

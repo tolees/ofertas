@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Corsair M65 Pro RGB - Ratón óptico para Juegos  retroiluminación RGB Multicolore  12000 dpi  con Cable   Color Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ELUFKTU/?tag=tolees-21'
 descuento: '35.72'
 average: '54.120000000000005'

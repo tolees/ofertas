@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Crazy pawn- Juego de Mesa Dentro del Laberinto  Multicolor  8436564810168 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077ZCHV7S/?tag=tolees-21'
 descuento: '34.03'
 average: '37.355555555555554'

@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Spike Volleyball  Versión Española '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MGJ6K5G/?tag=tolees-21'
 descuento: '50.08'
 average: '13.296666666666665'

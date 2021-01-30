@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'GORE WEAR R3 Mallas 3/4 de mujer  36  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075RG2GGF/?tag=tolees-21'
 descuento: '65.82'
 average: '20.49'

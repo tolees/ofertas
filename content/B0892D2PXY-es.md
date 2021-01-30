@@ -16,6 +16,7 @@ comparePrice: 9.73 EUR
 prodname: 'XILOSIN Blanco 30 del Pin Femenino a 5 Adaptador de Clavija Macho Longitud del Cable 11 cm Micro-USB para el iPhone'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0892D2PXY/?tag=tolees-21'
 descuento: '67.83'
 average: '3.13'

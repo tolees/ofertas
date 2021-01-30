@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Bosch MCM3201B MultiTalent3  Procesador de Alimentos  800 W  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015RJXRM6/?tag=tolees-21'
 descuento: '41.86'
 average: '76.9325'

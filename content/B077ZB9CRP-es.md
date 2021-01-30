@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'NV Compression Race and Recover Calentadores de Pantorrilla de compresión Negros - Calf Sleeves - Black - For Sports Recovery  Work  Flight - Running  Cycling  Blk/Blue  S-M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077ZB9CRP/?tag=tolees-21'
 descuento: '50.90'
 average: '12.27'

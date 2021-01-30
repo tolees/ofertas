@@ -16,6 +16,7 @@ comparePrice: 53.94 EUR
 prodname: 'Bishilin Acero Inoxidable 6Mm Wedding Anillos de Compromiso Parejas Juego Mujeres Talla 9 5 & Hombres Talla 22'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IBSU840/?tag=tolees-21'
 descuento: '50.06'
 average: '26.94'

@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Kickers Tyl  Botas Slouch para Mujer  Negro  Noir 81   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MHY76TH/?tag=tolees-21'
 descuento: '50.71'
 average: '48.8'

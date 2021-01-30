@@ -16,6 +16,7 @@ comparePrice: 159.3 EUR
 prodname: 'Love Moschino Jc4208pp0a  Bolsa de mensajero para Mujer  Rojo  Red   22x16x6 Centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V2H2V8X/?tag=tolees-21'
 descuento: '69.45'
 average: '48.67'

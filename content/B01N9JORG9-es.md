@@ -16,6 +16,7 @@ comparePrice: 8.91 EUR
 prodname: 'Olay Anti-Edad Firmeza & Efecto Lifting Crema Reafirmante de Noche - 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N9JORG9/?tag=tolees-21'
 descuento: '44.11'
 average: '4.98'

@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Vicloon Grifo Dispensador de bebidas de repuesto  Acero Inoxidable Barril Grifo espiga Grifo Dispensador de Cerveza - 16mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XDBCL13/?tag=tolees-21'
 descuento: '31.27'
 average: '10.99'

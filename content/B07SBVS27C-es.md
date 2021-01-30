@@ -16,6 +16,7 @@ comparePrice: 51.7 EUR
 prodname: 'PUMA Ignite Flash Evoknit  Zapatillas de Running para Hombre  Blanco White/Castlerock/Palace Blue  44.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SBVS27C/?tag=tolees-21'
 descuento: '48.39'
 average: '26.68'

@@ -16,6 +16,7 @@ comparePrice: 149.95 EUR
 prodname: 'Rollerblade Patines RB Cruiser  Adultos Unisex  Negro/Azul Gris  35'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NWVCX4V/?tag=tolees-21'
 descuento: '60.00'
 average: '59.98'

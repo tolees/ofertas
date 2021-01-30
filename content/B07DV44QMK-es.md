@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Columbia Wayfinder  Zapatillas de Senderismo para Mujer  Gris  Graphite  Jade Lime 053   40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DV44QMK/?tag=tolees-21'
 descuento: '39.99'
 average: '60.0'

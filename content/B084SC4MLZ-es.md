@@ -16,6 +16,7 @@ comparePrice: 9.13 EUR
 prodname: 'Dragon Ball Kame-Carpeta Anillas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084SC4MLZ/?tag=tolees-21'
 descuento: '54.55'
 average: '4.15'

@@ -16,6 +16,7 @@ comparePrice: 14.46 EUR
 prodname: 'Laken Unisex - Adultos Classic Aluminio Azul Claro 0 75 litros BPA Libre Botella de aluminio 0 75 litros PBA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NZV3JBG/?tag=tolees-21'
 descuento: '40.87'
 average: '8.55'

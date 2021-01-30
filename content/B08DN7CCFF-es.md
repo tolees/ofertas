@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'EKKONG Avion Planeador  Planos de Espuma  Aviones de Juguete para niños  Deportes Al Aire Libre Volar Juguete  4 Pcs  '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DN7CCFF/?tag=tolees-21'
 descuento: '40.02'
 average: '14.99'

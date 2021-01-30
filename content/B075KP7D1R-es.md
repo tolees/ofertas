@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'SanDisk Ultra Flair Memoria Flash USB 3.0 de 64 GB con hasta 150 MB/s de Velocidad de Lectura  Color Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075KP7D1R/?tag=tolees-21'
 descuento: '37.52'
 average: '11.478000000000002'

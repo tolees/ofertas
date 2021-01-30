@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'Salomon XA Pro 3D  Zapatillas de trail running para Hombre  Negro  Black/Magnet/Quiet Shade   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HD6T03G/?tag=tolees-21'
 descuento: '50.02'
 average: '64.95'

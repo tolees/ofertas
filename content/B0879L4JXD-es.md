@@ -16,6 +16,7 @@ comparePrice: 39.22 EUR
 prodname: 'KCatsy Webcam 1080P/720P/480P HD 12 MP función de embellecimiento cámara web con micrófono incorporado USB Plug & Play para Skype Broadcast Live Class Conference Video Camera computadora computadora PC Webcams negro negro 480P'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0879L4JXD/?tag=tolees-21'
 descuento: '49.72'
 average: '19.72'

@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'PUMA Vista Mid WTR  Zapatillas Altas Unisex Adulto  Taffy-Moss Green White  37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFZ6HJG/?tag=tolees-21'
 descuento: '63.49'
 average: '30.53'

@@ -16,6 +16,7 @@ comparePrice: 394.9 EUR
 prodname: 'D-Link DNR-312L - Dispositivo de Almacenamiento en Red  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MUIM6RK/?tag=tolees-21'
 descuento: '50.08'
 average: '207.97'

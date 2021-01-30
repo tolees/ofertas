@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Trona Evolutiva con bandeja Babify Evo/Nuevo Cojín + Respaldo Plus incluidos.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VRWSWQP/?tag=tolees-21'
 descuento: '33.72'
 average: '52.64666666666667'

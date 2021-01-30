@@ -16,6 +16,7 @@ comparePrice: 76.66 EUR
 prodname: 'Tommy Hilfiger Hilfiger Slim Polo  Rosa  Classic Pink   Medium  Talla del Fabricante:  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WBY37NW/?tag=tolees-21'
 descuento: '47.89'
 average: '39.95'

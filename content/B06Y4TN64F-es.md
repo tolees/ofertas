@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Doodle agua /Tablero de Escritura de Agua Mat  xhforever 4 Color Mat dibujo del agua; Magic Pen Doodle de juguete de regalo 29X19cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y4TN64F/?tag=tolees-21'
 descuento: '73.72'
 average: '4.99'

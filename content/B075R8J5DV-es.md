@@ -16,6 +16,7 @@ comparePrice: 32.95 EUR
 prodname: 'Pack: Pop! Marvel Vs. Capcom Infinite 2  -  Rocket Vs. Mega Man X'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075R8J5DV/?tag=tolees-21'
 descuento: '70.65'
 average: '13.624166666666667'

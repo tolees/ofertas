@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Shadows Awakening'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FRX55V3/?tag=tolees-21'
 descuento: '63.99'
 average: '18.0'

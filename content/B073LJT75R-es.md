@@ -16,6 +16,7 @@ comparePrice: 46.09 EUR
 prodname: 'Aliens Boxset Steelbook Blu-Ray [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073LJT75R/?tag=tolees-21'
 descuento: '32.91'
 average: '30.92'

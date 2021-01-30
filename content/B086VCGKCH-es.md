@@ -16,6 +16,7 @@ comparePrice: 27.16 EUR
 prodname: 'Enjoyee - Visera protectora para la cara  de plástico ligero  ajustable  transparente  para evitar la saliva  gotas  polen y polvo  azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086VCGKCH/?tag=tolees-21'
 descuento: '26.77'
 average: '19.89'

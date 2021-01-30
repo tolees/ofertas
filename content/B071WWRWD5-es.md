@@ -16,6 +16,7 @@ comparePrice: 17.09 EUR
 prodname: 'Fanola  Mascarilla hidratante y rejuvenecedora para la cara - 350 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071WWRWD5/?tag=tolees-21'
 descuento: '46.17'
 average: '10.549999999999999'

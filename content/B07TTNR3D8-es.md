@@ -16,6 +16,7 @@ comparePrice: 16.95 EUR
 prodname: 'Olay Total Effects 7 en 1 Crema Transformadora de Ojos - 15 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TTNR3D8/?tag=tolees-21'
 descuento: '49.97'
 average: '8.48'

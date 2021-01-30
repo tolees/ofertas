@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Pepe Jeans Finly Jeans  Negro  Black Denim Wl0   8 años  Talla del Fabricante: 8  para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CRCFWXK/?tag=tolees-21'
 descuento: '43.22'
 average: '31.23'

@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Lacoste Reloj Análogo clásico para Hombre de Cuarzo con Correa en Silicona 2010937'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073XCY3Y2/?tag=tolees-21'
 descuento: '36.11'
 average: '63.25'

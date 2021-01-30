@@ -16,6 +16,7 @@ comparePrice: 54.85 EUR
 prodname: 'Edge Entertainment- Caja de Inicio: La Llamada de Cthulhu  Color  EECHCT04 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088HV1HQL/?tag=tolees-21'
 descuento: '30.67'
 average: '38.03'

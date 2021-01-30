@@ -16,6 +16,7 @@ comparePrice: 156.06 EUR
 prodname: 'Festina Reloj Cronógrafo para Hombre de Cuarzo con Correa en Caucho F20376/1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D83J4SV/?tag=tolees-21'
 descuento: '27.27'
 average: '116.25999999999999'

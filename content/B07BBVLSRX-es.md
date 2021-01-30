@@ -16,6 +16,7 @@ comparePrice: 173.43 EUR
 prodname: 'Pendientes con forma de pera de ópalo y diamante en plata chapada en oro amarillo  piedra natal de octubre de 925'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BBVLSRX/?tag=tolees-21'
 descuento: '61.53'
 average: '66.71'

@@ -16,6 +16,7 @@ comparePrice: 261.89 EUR
 prodname: 'Luces LED de silicona Luces nocturnas Micro Paisaje LED Luces nocturnas Portátil USB de carga USB Inducción táctil Luces ambientales Luces de regalo  Color: azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087PBWW4C/?tag=tolees-21'
 descuento: '87.82'
 average: '31.9'

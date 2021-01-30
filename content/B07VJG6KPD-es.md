@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'YSense 20 Piezas de Pulsera Antimosquitos Impermeable Adjustable con Sustancias Natural No Tóxicas para Adultos y Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VJG6KPD/?tag=tolees-21'
 descuento: '32.03'
 average: '6.79'

@@ -16,6 +16,7 @@ comparePrice: 219.0 EUR
 prodname: 'Police Reloj Analógico para Hombre de Cuarzo con Correa en Cuero PL15048JSU.04'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0763PFGJ8/?tag=tolees-21'
 descuento: '52.48'
 average: '107.58916666666667'

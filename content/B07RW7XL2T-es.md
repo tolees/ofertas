@@ -16,6 +16,7 @@ comparePrice: 29.45 EUR
 prodname: 'AMX Cesta organizadora de Almacenamiento Plegable con Tapa en estanterías  gabinetes  escaleras  armarios  etc  Gris Oscuro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RW7XL2T/?tag=tolees-21'
 descuento: '42.31'
 average: '16.99'

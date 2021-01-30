@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Energy Lights  Entrenadores para Niñas  Rosa  Rose Gold   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M3Z1T8W/?tag=tolees-21'
 descuento: '39.31'
 average: '37.04'

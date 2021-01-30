@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'adidas Superstar C  Zapatillas de Baloncesto Unisex Niños  Blanco  Footwear White/Core Black/Footwear White 0   31 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GUZK4TU/?tag=tolees-21'
 descuento: '44.94'
 average: '33.01'

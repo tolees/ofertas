@@ -16,6 +16,7 @@ comparePrice: 32 EUR
 prodname: 'Nuk Thermo Rapid - Calientabiberón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0024FFSB0/?tag=tolees-21'
 descuento: '37.53'
 average: '19.32333333333333'

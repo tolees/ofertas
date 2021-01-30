@@ -16,6 +16,7 @@ comparePrice: 27.95 EUR
 prodname: 'Buff Lyne Calentador Tricot Y Polar  Hombre  Night Blue  Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FNXPQXQ/?tag=tolees-21'
 descuento: '33.85'
 average: '18.49'

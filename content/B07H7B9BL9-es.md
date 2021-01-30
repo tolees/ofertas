@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'NETVIP Repetidor WiFi 300Mbit/s Wireless WiFi Extensor Repetidor Señal WiFi Punto de Acceso  2.4GHz  300Mbit/s  Amplificador de Cobertura Repetidor WiFi Inalámbrico  WPS  Puerto Ethernet  EU Enchufe '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H7B9BL9/?tag=tolees-21'
 descuento: '26.68'
 average: '21.24'

@@ -16,6 +16,7 @@ comparePrice: 54.8 EUR
 prodname: 'Kempa Emotion Cazadora con Capucha  Hombre  Azur/Blanco  XXXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00V5LS8C0/?tag=tolees-21'
 descuento: '70.82'
 average: '15.99'

@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'DAM TEKKIWEAR. DMX222BK. Pulsera Inteligente Ak-Q8S Bluetooth con Pantalla A Color  Sumergible  Podómetro  Monitor Cardíaco Y De Presión Sanguínea. Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JNDLCDF/?tag=tolees-21'
 descuento: '62.80'
 average: '47.99'

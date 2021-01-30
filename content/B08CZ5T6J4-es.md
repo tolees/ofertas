@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'NWOUIIAY Batidora de Varillas Eléctrica 300W Batidora Amasadora con Ganchos y Batidores de Acero Inoxidable Batidora de Repostería con 5 Velocidades para Batir Huevo Leche y Masa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CZ5T6J4/?tag=tolees-21'
 descuento: '52.01'
 average: '23.99'

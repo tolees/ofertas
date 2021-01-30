@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Napapijri Eils SS Polo  Blanco  Bright White 002   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVBY9XF/?tag=tolees-21'
 descuento: '60.00'
 average: '26.55'

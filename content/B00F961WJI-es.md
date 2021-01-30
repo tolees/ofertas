@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'deAO Vehículo Correpasillos Camión de Construcción con Excavadora Manual Inlcuye 2 Extensiones Diferentes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00F961WJI/?tag=tolees-21'
 descuento: '33.34'
 average: '39.99'

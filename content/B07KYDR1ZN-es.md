@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'JASHKE Traje Inflable alienígena Mascota Cosplay Disfraces Artículos para Fiesta de cumpleaños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KYDR1ZN/?tag=tolees-21'
 descuento: '28.01'
 average: '35.99'

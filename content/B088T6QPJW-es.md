@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'SpringPear® 15 × 15 cm  5 9 × 5 9 pulgadas  Cuadrado 64 hojas plegables papel de origami de doble cara DIY para arte y proyectos de artesanía proyecto  color Flores de cerezo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088T6QPJW/?tag=tolees-21'
 descuento: '50.02'
 average: '11.99'

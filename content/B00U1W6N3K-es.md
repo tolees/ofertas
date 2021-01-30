@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Dickies Slim Fit Work Pantalones  Beige  Khaki KH    Tamaño del Fabricante:32/32  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00U1W6N3K/?tag=tolees-21'
 descuento: '56.38'
 average: '23.99'

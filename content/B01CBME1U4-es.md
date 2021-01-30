@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Funko - Pop! Vinilo Colección Dragonball Z - Figura Majin Buu  7429 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CBME1U4/?tag=tolees-21'
 descuento: '44.96'
 average: '9.775'

@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Yenks Case compatible con Samsung Galaxy S6 Carcasa de silicona ultrafina transparente funda Slim Fit TPU protector Halloween patrón Case Non-Slip Bumper Cover para Samsung Galaxy S6 5 Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y638HJZ/?tag=tolees-21'
 descuento: '47.39'
 average: '9.99'

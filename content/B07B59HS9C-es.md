@@ -16,6 +16,7 @@ comparePrice: 20.09 EUR
 prodname: 'Camin Sidra Natural de 6º - Paquete de 6 botellas de 70 - Total 420 cl'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B59HS9C/?tag=tolees-21'
 descuento: '36.68'
 average: '12.72'

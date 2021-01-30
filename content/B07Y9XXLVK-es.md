@@ -16,6 +16,7 @@ comparePrice: 155.0 EUR
 prodname: 'María Barceló Sneaker Alta Piel Rosa Mujer María Barceló'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y9XXLVK/?tag=tolees-21'
 descuento: '56.14'
 average: '67.99'

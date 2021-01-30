@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Under Armour Coldgear Leggings  Hombre  Negro  Black/Charcoal 001   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077ZXTSP1/?tag=tolees-21'
 descuento: '52.24'
 average: '21.49'

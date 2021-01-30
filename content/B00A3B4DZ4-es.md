@@ -16,6 +16,7 @@ comparePrice: 11.95 EUR
 prodname: 'Essie Esmalte de Uñas Nr. 67 Lady Like'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00A3B4DZ4/?tag=tolees-21'
 descuento: '59.92'
 average: '7.529999999999999'

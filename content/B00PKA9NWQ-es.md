@@ -16,6 +16,7 @@ comparePrice: 7.56 EUR
 prodname: 'Proraso - Aceite De Barba  Madera Y Especias  Alisar y Proteger 30 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PKA9NWQ/?tag=tolees-21'
 descuento: '67.20'
 average: '2.48'

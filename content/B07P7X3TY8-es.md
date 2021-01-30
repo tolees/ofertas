@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Asiento del coche Organizador Bolsa de almacenamiento de malla Net Trunk Soporte de almacenamiento Trasero Organizador Asiento trasero Bolsillos de malla  1 Pack '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P7X3TY8/?tag=tolees-21'
 descuento: '60.06'
 average: '3.99'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'VZATT Abridor de latas Manual  2020 Nueva Go Swing Topless Abridor de latas  Herramienta De Barra  Profesional Can Opener Sin Esfuerzo Abrelatas De Borde Liso para Fiesta Cocina Doméstica  8-19 Oz'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CDL3BD2/?tag=tolees-21'
 descuento: '45.12'
 average: '10.97'

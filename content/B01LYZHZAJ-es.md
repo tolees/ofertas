@@ -16,6 +16,7 @@ comparePrice: 2.74 EUR
 prodname: 'Handy Bag Bolsas de Basura 50L  Extra Resistentes  No Gotean  10 Bolsas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LYZHZAJ/?tag=tolees-21'
 descuento: '59.85'
 average: '1.1'

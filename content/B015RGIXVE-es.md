@@ -16,6 +16,7 @@ comparePrice: 94.95 EUR
 prodname: 'adidas Stan Smith Cf - Zapatillas de running Hombre  Blanc  Ftwr White/Ftwr White/Gold Met   EU 46  UK 11 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015RGIXVE/?tag=tolees-21'
 descuento: '38.94'
 average: '57.98'

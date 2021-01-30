@@ -16,6 +16,7 @@ comparePrice: 26.18 EUR
 prodname: 'Pour Moi? Illicit Underwired Bra Sujetador con Aros  Negro  Black Black   105D  Talla del Fabricante: 40D  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KMWVG5L/?tag=tolees-21'
 descuento: '66.20'
 average: '8.85'

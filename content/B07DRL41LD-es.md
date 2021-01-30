@@ -16,6 +16,7 @@ comparePrice: 9.9 EUR
 prodname: 'Ricatech PR22 - Radio análoga  vintage  nostálgica  canales AM/FM  liviana  Pequeña  portátil  altavoz de 1 voltio  funciona a batería  conector para auriculares de 3 5 mm  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DRL41LD/?tag=tolees-21'
 descuento: '36.87'
 average: '6.25'

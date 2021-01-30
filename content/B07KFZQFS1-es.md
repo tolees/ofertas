@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'PUMA King Hero FG  Botas de fútbol Unisex Adulto  Black White  41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFZQFS1/?tag=tolees-21'
 descuento: '55.61'
 average: '31.05'

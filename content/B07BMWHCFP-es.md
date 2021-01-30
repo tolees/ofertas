@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Skechers Flex Play-Early Start  Zapatillas para Niñas  Azul  Periwinkle/Pink Pwpk   22 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BMWHCFP/?tag=tolees-21'
 descuento: '48.51'
 average: '20.57'

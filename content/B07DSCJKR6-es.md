@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'LUCK Zapatillas de Ciclismo Extreme 3.0 MTB con Suela de Carbono y Triple Tira de Velcro de sujeción ademas de Puntera de Refuerzo.  Rojo  37 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DSCJKR6/?tag=tolees-21'
 descuento: '49.51'
 average: '49.99'

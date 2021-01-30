@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'SILLA DE PASEO RAPID PREMIUN GOLD ULTRALIGERA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BH1M91W/?tag=tolees-21'
 descuento: '33.56'
 average: '99.0'

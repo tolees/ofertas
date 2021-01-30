@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Toshiba THN-M203K0160EA Tarjeta de memoria  16 GB  MicroSDXC  Clase 10  UHS-I  100 MB/s  Negro   16gb  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078TPK9JF/?tag=tolees-21'
 descuento: '25.03'
 average: '4.945'

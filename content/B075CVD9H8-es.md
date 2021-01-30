@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: '50 Piezas Gomas de Pelo – ZWOOS Bandas del Pelo Cintas de Goma para El Cabello Pesado y Rizado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075CVD9H8/?tag=tolees-21'
 descuento: '36.71'
 average: '5.69'

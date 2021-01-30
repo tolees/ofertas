@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: '9H Nano Ceramic Coating  Tracffy Mr Fix Revestimiento Ceramico Coche  Super Hidrofóbico Pulido Car Coating  Anti Arañazos Coche Protección de Pintura'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GGSSPVJ/?tag=tolees-21'
 descuento: '50.03'
 average: '9.99'

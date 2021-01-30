@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'CAMPER Wabi  Damen Flache Hausschuhe  Grau  Dark Gray 061   35 EU  2 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01C7OW3PG/?tag=tolees-21'
 descuento: '30.79'
 average: '48.45'

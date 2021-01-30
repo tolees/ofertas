@@ -16,6 +16,7 @@ comparePrice: 339.0 EUR
 prodname: 'Seiko Reloj de Cuarzo para Hombre con Correa de Acero Inoxidable – SSC147P1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00B7MY5MO/?tag=tolees-21'
 descuento: '32.97'
 average: '227.24'

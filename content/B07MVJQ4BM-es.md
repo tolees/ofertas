@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Kipling - Arto  Bolsos bandolera Mujer  Morado  Dark Plum   29x26x4 cm  B x H T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVJQ4BM/?tag=tolees-21'
 descuento: '50.00'
 average: '34.5'

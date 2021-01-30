@@ -16,6 +16,7 @@ comparePrice: 3.99 EUR
 prodname: 'Wet n Wild  Máscara - 30 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QDLHB53/?tag=tolees-21'
 descuento: '41.35'
 average: '2.34'

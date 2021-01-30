@@ -16,6 +16,7 @@ comparePrice: 6.08 EUR
 prodname: '4 dígitos portátil Conveniente plástico + Metal Contador de Mano de Mano Manual Palm Clicker número de conteo de Golf/Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084M27CYD/?tag=tolees-21'
 descuento: '35.03'
 average: '3.95'

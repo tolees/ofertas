@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Superga 2750 COTU Classic  Zapatillas Unisex  Marrón  Brown Dk  Chocolate  35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00C8QJ1VI/?tag=tolees-21'
 descuento: '56.69'
 average: '22.92666666666667'

@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Garmin VivoSmart 3 - Monitor de actividad inteligente con sensor de frecuencia cardiaca en la muñeca y herramientas de fitness  Negro  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XNMZ9B9/?tag=tolees-21'
 descuento: '60.93'
 average: '43.957499999999996'

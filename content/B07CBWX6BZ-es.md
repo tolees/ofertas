@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Jack & Jones Jjipaul Jjflake AKM 542 Noos Pantalones  Verde  Olive Night Olive Night   W30/L32  Talla del Fabricante: 30  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CBWX6BZ/?tag=tolees-21'
 descuento: '40.01'
 average: '31.811739130434777'

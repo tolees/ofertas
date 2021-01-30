@@ -16,6 +16,7 @@ comparePrice: 60.5 EUR
 prodname: 'Parker Urban 1931596 - Pluma estilográfica  negro London Cab  plumín fino  recambio de tinta azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LYDCSND/?tag=tolees-21'
 descuento: '31.22'
 average: '41.61'

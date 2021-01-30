@@ -16,6 +16,7 @@ comparePrice: 40.76 EUR
 prodname: 'Bosch 2 608 628 403 - Fresas de disco para ranurar  8 mm  D1 32 mm  L 5 mm  G 51 mm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000XJ1JLC/?tag=tolees-21'
 descuento: '51.35'
 average: '19.83'

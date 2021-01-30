@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'FONCBIEN Alfombrilla De Ratón Gaming 220 × 220 Mm En Aluminio Mouse Pad con PU Doble Cara para Escritorio  Ordenador  Desktop  Pc  Laptop Rosa Rose  Rose '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DL32GHC/?tag=tolees-21'
 descuento: '26.66'
 average: '5.86'

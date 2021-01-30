@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'Lacoste Chaymon BL 1 CMA  Zapatillas para Hombre  Marrón  Dark Brown/Dark Brown   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DHT8LKV/?tag=tolees-21'
 descuento: '44.94'
 average: '68.95666666666666'

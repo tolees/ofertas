@@ -16,6 +16,7 @@ comparePrice: 9.79 EUR
 prodname: 'Dasket Set de Pinceles para Pincel de Pintura de acrílicos y óleos de Acuarela y 10 Piezas Juego de Pinceles de Pintura de Punta Redonda'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081VHCTXJ/?tag=tolees-21'
 descuento: '42.80'
 average: '5.6'

@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Pistola de Aire Caliente  AREWTEC 2000W Decapadora Professional  Temperatura Adjustable 80~600℃  Velocidad del Viento  300-500L/min   9 Acesorios para Raspar la Pintura  Deformar Tubos y Encoger PVC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RHN4GFF/?tag=tolees-21'
 descuento: '25.01'
 average: '26.99'

@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Calvin Klein - Moulded Washbag  Fundas de carnés Hombre  Verde  Dark Olive   0.1x0.1x0.1 cm  W x H L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RMLGLW2/?tag=tolees-21'
 descuento: '57.14'
 average: '21.794999999999998'

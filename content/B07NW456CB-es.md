@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'T-Shirt para Bebé Pack de 3 Niños Niñas Manga Corta Camisetas Algodón Tops Trajes 9-12 Meses'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NW456CB/?tag=tolees-21'
 descuento: '30.01'
 average: '20.99'

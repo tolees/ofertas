@@ -16,6 +16,7 @@ comparePrice: 62.99 EUR
 prodname: 'MP3 BENJIE 16GB 1.8" Reproductor de MP3 Pantalla Táctil Completa MP3 Bluetooth con Altavoz  FM Radio  Libro Electrónico  Reproductor de Video  Reloj Despertador  Admite hasta 128 GB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WRZGLR6/?tag=tolees-21'
 descuento: '44.45'
 average: '34.32333333333334'

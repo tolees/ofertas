@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Merrell Trail Glove 5  Zapatillas Deportivas para Interior para Mujer  Multicolor  Paloma   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DYQSKSR/?tag=tolees-21'
 descuento: '37.09'
 average: '75.49'

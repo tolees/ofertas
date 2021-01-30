@@ -16,6 +16,7 @@ comparePrice: 21.9 EUR
 prodname: 'Llave USB 16 GB Iron Man - Memoria Flash Drive 2.0 Original Marvel Avengers  Tribe FD016504'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MFPCHD6/?tag=tolees-21'
 descuento: '39.32'
 average: '13.6975'

@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Reloj Casio - Hombre GD-X6900MC-7ER'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B014TBJA10/?tag=tolees-21'
 descuento: '35.03'
 average: '96.8'

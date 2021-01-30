@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Vans Herren Shirt M Classic  White/Black  S  VGGGYB2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003XDU3IK/?tag=tolees-21'
 descuento: '30.17'
 average: '20.829999999999995'

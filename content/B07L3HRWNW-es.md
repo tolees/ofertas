@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'adidas Advantage  Zapatillas de Gimnasia para Hombre  Blanco  FTWR White/FTWR White/Green FTWR White/FTWR White/Green   38 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L3HRWNW/?tag=tolees-21'
 descuento: '37.11'
 average: '42.83'

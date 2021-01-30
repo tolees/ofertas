@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Puma Basket Satin EP Wn s  Zapatillas para Mujer  Negro Black White  40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077MTMNMV/?tag=tolees-21'
 descuento: '70.87'
 average: '26.2'

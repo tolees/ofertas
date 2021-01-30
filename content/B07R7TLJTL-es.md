@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Alapmk Diseñado Especialmente La Funda Protectora de Cuero de PU para 14" ASUS ZenBook 14 UX433FN Ordenador portátil Not fit ASUS ZenBook UX430UA UX410UA UX431FA  Galaxy'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R7TLJTL/?tag=tolees-21'
 descuento: '56.01'
 average: '21.99'

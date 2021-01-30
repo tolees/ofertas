@@ -16,6 +16,7 @@ comparePrice: 90 EUR
 prodname: 'New Balance 574 Core Zapatillas Hombre  Rojo  Burgundy   40 EU  6.5 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y2TRG8T/?tag=tolees-21'
 descuento: '61.22'
 average: '46.666666666666664'

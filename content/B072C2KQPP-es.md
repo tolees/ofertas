@@ -16,6 +16,7 @@ comparePrice: 31.28 EUR
 prodname: 'Party & Co. Original Adultos Juego de mesa de carreras - Juego de tablero  Juego de mesa de carreras  Adultos  45 min  Niño/niña  14 año s   01/08/2017  - [Idioma Aleman]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072C2KQPP/?tag=tolees-21'
 descuento: '36.19'
 average: '19.96'

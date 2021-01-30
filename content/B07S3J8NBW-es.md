@@ -16,6 +16,7 @@ comparePrice: 12.49 EUR
 prodname: 'Finish Todo en 1 Max Limón Pastillas para Lavavajillas - 50 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S3J8NBW/?tag=tolees-21'
 descuento: '27.14'
 average: '9.1'

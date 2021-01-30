@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Ewent EW1280 - Soporte para monitor con elvación regulable y cajón organizador'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MQOS8KA/?tag=tolees-21'
 descuento: '39.92'
 average: '14.662'

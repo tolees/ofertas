@@ -16,6 +16,7 @@ comparePrice: 21.25 EUR
 prodname: 'Dockers by Gerli 46fz001-706440  Zapatillas para Hombre  Beige  Tan 440   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WHD93LW/?tag=tolees-21'
 descuento: '25.69'
 average: '20.025'

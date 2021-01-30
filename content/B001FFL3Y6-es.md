@@ -16,6 +16,7 @@ comparePrice: 10.9 EUR
 prodname: 'Victory Endurance All Day Energy. Con 12 vitaminas  9 minerales y antioxidantes que provienen del Té Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001FFL3Y6/?tag=tolees-21'
 descuento: '30.37'
 average: '7.52'

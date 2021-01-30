@@ -16,6 +16,7 @@ comparePrice: 2.78 EUR
 prodname: 'Libertroy Sofisticado Motor óptico 2.4GHz 3D 1200dpi Ratón óptico con Cable Ultra Delgado 4 Colores Ratones USB PC portátil - Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WGPVXMQ/?tag=tolees-21'
 descuento: '32.01'
 average: '1.89'

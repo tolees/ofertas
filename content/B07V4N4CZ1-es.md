@@ -16,6 +16,7 @@ comparePrice: 74.9 EUR
 prodname: 'Tommy Hilfiger LowCut Essential Sneaker  Zapatillas para Mujer  Negro  Black Bds   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V4N4CZ1/?tag=tolees-21'
 descuento: '69.41'
 average: '25.355'

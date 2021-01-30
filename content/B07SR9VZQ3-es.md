@@ -16,6 +16,7 @@ comparePrice: 48.99 EUR
 prodname: 'Altavoz inalámbrico  Altavoces LED inalámbricos Bluetooth Barra de Sonido Admite Control de Volumen  Tarjeta TF  Altavoz portátil Recargable de 2000mAh incorporada para computadora. Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SR9VZQ3/?tag=tolees-21'
 descuento: '60.01'
 average: '19.59'

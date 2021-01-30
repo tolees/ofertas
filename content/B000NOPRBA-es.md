@@ -16,6 +16,7 @@ comparePrice: 12.4 EUR
 prodname: 'Shimano SMMAF180PSA - Adaptador Pinza Delant. Std M535 180 Mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000NOPRBA/?tag=tolees-21'
 descuento: '55.73'
 average: '5.49'

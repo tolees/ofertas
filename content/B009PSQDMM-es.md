@@ -16,6 +16,7 @@ comparePrice: 47.99 EUR
 prodname: 'deAO Camion Correpasillos Vehículo de Arrastre sin Pedales Tractor Bulldozer Pala Excavadora Manual con Almacenaminto Adicional y Bocina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009PSQDMM/?tag=tolees-21'
 descuento: '31.26'
 average: '29.525'

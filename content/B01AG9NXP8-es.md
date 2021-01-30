@@ -16,6 +16,7 @@ comparePrice: 8.82 EUR
 prodname: 'ZTOP 2 Pack USB Tipo A Macho a PS/2 Hembra para Teclado ratón convertidor  Verde '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AG9NXP8/?tag=tolees-21'
 descuento: '38.21'
 average: '5.45'

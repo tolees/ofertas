@@ -16,6 +16,7 @@ comparePrice: 45.14 EUR
 prodname: 'Rollo de 5 metros de Tira de Luz LED Directa a 220v. Color Blanco Calido  3000K . Impermeable. Corte cada 10cm. A++'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DKT96Y2/?tag=tolees-21'
 descuento: '33.65'
 average: '29.95'

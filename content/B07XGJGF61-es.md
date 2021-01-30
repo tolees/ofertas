@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Bolsa Isotermica Porta Alimentos  Luxuvee Bolsa Termica Porta Alimentos con Correa Ajustable para Adultos  Grande Bolsa Portaalimentos Termica para Picnic Acampar Pesca Trabajo de viaje  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XGJGF61/?tag=tolees-21'
 descuento: '30.01'
 average: '20.99'

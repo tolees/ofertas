@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Oxford 100430206 - Recambio hojas sueltas  4 taladros para archivo compatibles con Europeanbider  Tamaño A5  155 x 215 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XUA3Z8Q/?tag=tolees-21'
 descuento: '64.96'
 average: '2.8'

@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'DeLonghi EO12012W Horno de sobremesa con temporizador de apagado automático  Mecánico  1400 W  12 L  3 funciones  blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EUWJHUS/?tag=tolees-21'
 descuento: '51.00'
 average: '54.75875'

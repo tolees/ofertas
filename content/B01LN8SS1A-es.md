@@ -16,6 +16,7 @@ comparePrice: 346.06 EUR
 prodname: 'Britax Römer Evolva 123 SL SICT - Silla de coche  grupo 1/2/3  9-36 kg   color Black Marble'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LN8SS1A/?tag=tolees-21'
 descuento: '42.24'
 average: '195.23285714285714'

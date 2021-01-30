@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Adidas Continental 80 J  Zapatillas de Deporte Unisex Adulto  Negro  Negbás/Escarl/Maruni 000   38 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HGPHFJP/?tag=tolees-21'
 descuento: '37.72'
 average: '40.45'

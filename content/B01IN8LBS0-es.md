@@ -16,6 +16,7 @@ comparePrice: 479.99 EUR
 prodname: 'Braun Series 9 9296cc Wet&Dry  - Afeitadora Eléctrica para hombre para Barba  Recortadora de Precisión Extraíble  Recargable Inalámbrica  Clean&Charge  Cromo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IN8LBS0/?tag=tolees-21'
 descuento: '37.32'
 average: '303.89'

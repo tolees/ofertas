@@ -16,6 +16,7 @@ comparePrice: 91.14 EUR
 prodname: 'New Balance Fresh Foam Gobi m  Zapatillas de Running para Asfalto para Mujer  Blanco  White Agave White Agave   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DVQDFMV/?tag=tolees-21'
 descuento: '36.76'
 average: '57.64'

@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'Educa Borrás Mouse Infantil Baby Minnie  5 Puzzles progresivos de 3 a 5 Piezas  a Partir de 24 Meses  15612 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BHAHBEA/?tag=tolees-21'
 descuento: '42.16'
 average: '7.74'

@@ -16,6 +16,7 @@ comparePrice: 14.62 EUR
 prodname: 'Calvin Klein Bottoms UP-Bikini Ropa interior  Azul  Purity Print - Aurora Ri4   36 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EVPRTSG/?tag=tolees-21'
 descuento: '38.51'
 average: '8.99'

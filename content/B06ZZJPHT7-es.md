@@ -16,6 +16,7 @@ comparePrice: 7.79 EUR
 prodname: 'Bruni Película Protectora para Suunto Ambit3 Run Protector Película  Claro Lámina Protectora  2X '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06ZZJPHT7/?tag=tolees-21'
 descuento: '52.63'
 average: '3.69'

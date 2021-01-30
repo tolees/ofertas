@@ -16,6 +16,7 @@ comparePrice: 2.03 EUR
 prodname: 'ngzhongtu 4 Puertos HUB de Alta Velocidad Hi-Speed 4 Puertos USB 2.0 Multi HUB Splitter Expansion para PC de Escritorio Laptop Adapt - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YLLLTY1/?tag=tolees-21'
 descuento: '32.02'
 average: '1.38'

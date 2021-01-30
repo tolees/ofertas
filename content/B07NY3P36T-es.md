@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Superdry Orange Label Classic Jogger Pantalones de Deporte  Azul  Midnight Blue Feeder V6t   46  Talla del Fabricante: X-Small  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NY3P36T/?tag=tolees-21'
 descuento: '70.88'
 average: '23.29'

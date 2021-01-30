@@ -16,6 +16,7 @@ comparePrice: 7.22 EUR
 prodname: 'Rimmel London Match Perfection Foundation Base de Maquillaje Tono 101 Classic Ivory - 30 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015CMHBOS/?tag=tolees-21'
 descuento: '34.07'
 average: '4.544'

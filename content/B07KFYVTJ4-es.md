@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'PUMA Future 4.3 Netfit FG/AG  Botas de fútbol para Hombre  Glacial Blue-Nrgy Red  42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFYVTJ4/?tag=tolees-21'
 descuento: '36.51'
 average: '39.355'

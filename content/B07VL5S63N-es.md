@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'YAMAMAY® Traje de baño Push up - Mirage'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VL5S63N/?tag=tolees-21'
 descuento: '49.98'
 average: '14.98'

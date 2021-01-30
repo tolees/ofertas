@@ -16,6 +16,7 @@ comparePrice: 6.25 EUR
 prodname: 'Maybelline New York - Color Drama  Pintalabios  Tono 410'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MYYUFZK/?tag=tolees-21'
 descuento: '37.44'
 average: '3.91'

@@ -16,6 +16,7 @@ comparePrice: 12.6 EUR
 prodname: 'Marca Amazon - Happy Belly Café molido "Espresso Forte"  4 x 250g '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CTT5VM7/?tag=tolees-21'
 descuento: '27.78'
 average: '10.383333333333333'

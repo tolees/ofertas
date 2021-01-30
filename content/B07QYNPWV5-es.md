@@ -16,6 +16,7 @@ comparePrice: 48.0 EUR
 prodname: 'Speedo Minnie Placement con Espalda en U Bañador  Mujer  Minniestripe Red/Pink/Wht  28  UK 6 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QYNPWV5/?tag=tolees-21'
 descuento: '73.75'
 average: '18.296666666666667'

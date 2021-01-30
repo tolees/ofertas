@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Elli Collares de Tanque con Colgante Tortuga en plata de ley 925'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007WIB28C/?tag=tolees-21'
 descuento: '39.80'
 average: '18.0'

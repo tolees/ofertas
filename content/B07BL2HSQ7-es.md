@@ -16,6 +16,7 @@ comparePrice: 120 EUR
 prodname: 'New Balance Fresh Foam Zante Pursuit  Zapatillas de Running para Hombre  Verde  Mineral Green/Black MG   45.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BL2HSQ7/?tag=tolees-21'
 descuento: '50.00'
 average: '60'

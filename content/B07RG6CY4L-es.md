@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Tea Tree Essential Oil 100% puro y natural grado terapéutico: el mejor paquete de regalo para hombres y mujeres 120ml  4 oz '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RG6CY4L/?tag=tolees-21'
 descuento: '40.05'
 average: '17.98'

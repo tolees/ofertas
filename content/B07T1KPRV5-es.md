@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'San Ignacio Q2955 Cuchillo deshuesador 13.75cm acer inox TOLEDO  Inoxidable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T1KPRV5/?tag=tolees-21'
 descuento: '70.07'
 average: '2.99'

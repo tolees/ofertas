@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Triumph Body Make-Up - Sujetador sin Aros para Mujer  Color Blanco  White   Talla 90B'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007AAC9DE/?tag=tolees-21'
 descuento: '51.36'
 average: '17.0'

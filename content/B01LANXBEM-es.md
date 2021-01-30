@@ -16,6 +16,7 @@ comparePrice: 155.0 EUR
 prodname: 'Castellanisimos Mocasines de Piel Marron Hombre Antifaz Zapato Clasico Caballero'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LANXBEM/?tag=tolees-21'
 descuento: '56.77'
 average: '67.0'

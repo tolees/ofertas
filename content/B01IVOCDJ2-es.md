@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'AUKEY - Lámpara de escritorio tipo LED  6 W  Lámpara de lectura con 3 niveles de luminosidad  control táctil y protector de ojos  ángulo ajustable y cuello flexible  negro  LT-ST1 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IVOCDJ2/?tag=tolees-21'
 descuento: '59.12'
 average: '20.089999999999996'

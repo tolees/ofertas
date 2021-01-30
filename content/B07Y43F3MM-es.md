@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Parfois - Clutch - Bandolera Efecto Serpiente - Mujeres - Tallas M - Beige 1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y43F3MM/?tag=tolees-21'
 descuento: '38.48'
 average: '15.99'

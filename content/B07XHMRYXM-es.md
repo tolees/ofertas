@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'GUIFIER 12 Piezas Candelabros de Velas en Cristal Soporte para Portavelas para Velas Rojo Moteado LED de té Portavelas 2 67"H Candelita Candelero Rojo para Bodas  Fiestas y decoración del hogar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XHMRYXM/?tag=tolees-21'
 descuento: '31.78'
 average: '21.14'

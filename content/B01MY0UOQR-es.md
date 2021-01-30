@@ -16,6 +16,7 @@ comparePrice: 50.4 EUR
 prodname: 'Safety 1st Wall Fix Extending Barrera de seguridad extensible de 62 cm hasta 102 cm  barrera perros y niños  puerta con montaje a pared  color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MY0UOQR/?tag=tolees-21'
 descuento: '40.48'
 average: '30.0'

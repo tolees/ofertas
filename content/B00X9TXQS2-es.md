@@ -16,6 +16,7 @@ comparePrice: 17.0 EUR
 prodname: 'Garnier Delial BB Sun Crema Protector Solar con Color Especial Rostro y Escote IP50+ y con Vitamina E - 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X9TXQS2/?tag=tolees-21'
 descuento: '47.65'
 average: '9.1625'

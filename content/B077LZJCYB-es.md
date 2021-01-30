@@ -16,6 +16,7 @@ comparePrice: 20.98 EUR
 prodname: 'HelpCuisine infusor de te/infusionador/colador te/filtro te/infusores de te  hecho de silicona 100% alimentaria libre de BPA  infusor en forma de hombrecito  Juego de 2 infusores + caja de regalo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077LZJCYB/?tag=tolees-21'
 descuento: '42.95'
 average: '11.97'

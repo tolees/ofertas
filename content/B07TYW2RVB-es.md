@@ -16,6 +16,7 @@ comparePrice: 94.95 EUR
 prodname: 'Wrangler Icons Jeans  Blue 3 Years 10K  31W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TYW2RVB/?tag=tolees-21'
 descuento: '76.43'
 average: '22.38'

@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'FUNTOK Búho Espejo Kinders Chminken Face Paint Cara  Schminkf Soluble en Agua Blanca 12 Colores Schminkp Alette 1 Purpurina Plantillas Purpurina Cara Colores Basado Agua y No Tóxico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J65Z2LK/?tag=tolees-21'
 descuento: '27.08'
 average: '12.093'

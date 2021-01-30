@@ -16,6 +16,7 @@ comparePrice: 1.39 EUR
 prodname: 'Signal Frescor Explosivo Blanqueador -75 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N2W95BE/?tag=tolees-21'
 descuento: '28.06'
 average: '1.0'

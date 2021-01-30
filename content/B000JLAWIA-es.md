@@ -16,6 +16,7 @@ comparePrice: 74 EUR
 prodname: 'Thierry Mugler - A*MEN RUBBER R edt vapo 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000JLAWIA/?tag=tolees-21'
 descuento: '38.51'
 average: '45.5'

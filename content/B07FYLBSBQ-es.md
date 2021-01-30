@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Bandolera Pepe Jeans Bromley Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FYLBSBQ/?tag=tolees-21'
 descuento: '28.61'
 average: '21.665'

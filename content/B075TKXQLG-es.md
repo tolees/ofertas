@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'VOVEES Theia – Contorno ojos – Emulsión Gel – 30 ml – Ácido Hialurónico – Argan – Aloe Vera – Betaglucano – Jojoba'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075TKXQLG/?tag=tolees-21'
 descuento: '25.02'
 average: '22.42'

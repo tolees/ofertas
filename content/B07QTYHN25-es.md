@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'TATAFUN Máscaras de Superhéroe Suministros de Fiesta de Superhéroes  Máscaras de Cosplay de Superhéroe con Cuerda Elástica Máscaras de Ojos para Niños Mayores de 3 años 35 Piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QTYHN25/?tag=tolees-21'
 descuento: '52.41'
 average: '9.99'

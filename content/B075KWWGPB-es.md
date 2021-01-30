@@ -16,6 +16,7 @@ comparePrice: 38.99 EUR
 prodname: 'Mipelo MLT-D111S D111S Cartuchos de Tóner  2 Negro Reemplazo Compatible para Xpress M2026 M2026W M2070FW M2070W M2070 M2022 M2022W M2020 M2020W Impresora  1000 Páginas por MLT-D111S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075KWWGPB/?tag=tolees-21'
 descuento: '25.65'
 average: '28.99'

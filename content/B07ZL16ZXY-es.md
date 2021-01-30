@@ -16,6 +16,7 @@ comparePrice: 44.46 EUR
 prodname: 'perfk 14-42"LCD LED Soporte Flexible Estante De Hierro para TV Soporte De Pantalla Giratoria para Computadora'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZL16ZXY/?tag=tolees-21'
 descuento: '37.49'
 average: '27.79'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Qedertek Guirnaldas Luces Exterior Solar  Cadena de Bola Cristal Luz para Exterior  9M 50 LED  Guirnalda Luminosa Impermeable  Luces Decoración para Jardín  Casa  Bodas  Jardine  Blanco Calido '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BJY768G/?tag=tolees-21'
 descuento: '57.98'
 average: '15.271999999999998'

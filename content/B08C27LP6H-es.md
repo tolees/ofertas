@@ -16,6 +16,7 @@ comparePrice: 68.99 EUR
 prodname: 'Pro Indoor Mini Canasta de Baloncesto para Niños – 16 x 12 pulgadas – Canasta de Baloncesto para Puerta y Pared – 2 Pelotas de Goma y 1 Bomba de Aire – Regalos para Niños Tikitaka'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08C27LP6H/?tag=tolees-21'
 descuento: '66.68'
 average: '22.99'

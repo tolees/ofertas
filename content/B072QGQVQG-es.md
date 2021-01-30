@@ -16,6 +16,7 @@ comparePrice: 9.21 EUR
 prodname: 'Simple Joys by Carter s traje de baño de 2 piezas para bebés y niños pequeños  Orange Blue Ship  4T'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072QGQVQG/?tag=tolees-21'
 descuento: '25.08'
 average: '6.9'

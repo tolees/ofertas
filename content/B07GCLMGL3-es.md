@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'MVPOWER Bolsas de Basura de Jardín  Set de 3pcs x 300L  Gran Capacidad  de PE Material  Plegable  Resistente a la Corrosión y al Daño  para Hojas Plantas Podadas etc.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GCLMGL3/?tag=tolees-21'
 descuento: '32.01'
 average: '16.99'

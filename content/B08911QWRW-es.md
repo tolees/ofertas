@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'ELTD Webcam Cámara USB HD 1080P para videollamadas  Estudios  conferencias  grabaciones  Juegos para computadora portátil  con Clip Giratorio y micrófono Incorporado con cancelación de Ruido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08911QWRW/?tag=tolees-21'
 descuento: '26.71'
 average: '27.06111111111111'

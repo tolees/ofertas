@@ -16,6 +16,7 @@ comparePrice: 33.45 EUR
 prodname: 'Isdin Isdinceutics Tratamiento Antimanchas Pigment Expert + Night peel | Serum Corrector Despigmentante Facial y Peeling Exfoliante de Noche Monodosis 10 + 10 x 2ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GL786MT/?tag=tolees-21'
 descuento: '25.56'
 average: '24.9'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Smartwares FEX-15112 Extintor de Polvo seco  capacidad 1 kg  resistencia al fuego ABC  8A  34B  C   incluye soporte para pared  certificado BSI'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076ZVGZ6J/?tag=tolees-21'
 descuento: '25.21'
 average: '17.135384615384613'

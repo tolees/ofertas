@@ -16,6 +16,7 @@ comparePrice: 7.8 EUR
 prodname: 'Dremel SC407 Mandril y bandas de Lija EZ Speedclic  juego de accesorios para herramienta rotativa con 1 mandril y 2 bandas de lija 13 mm para eliminación material en aluminio  cobre  madera  plástico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0093HJOJO/?tag=tolees-21'
 descuento: '26.28'
 average: '5.75'

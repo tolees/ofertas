@@ -16,6 +16,7 @@ comparePrice: 51.86 EUR
 prodname: 'BSN Nitrix 2.0  240 g  180 Caps'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01E5KJY1Q/?tag=tolees-21'
 descuento: '46.91'
 average: '27.53'

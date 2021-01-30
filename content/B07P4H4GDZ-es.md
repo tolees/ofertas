@@ -16,6 +16,7 @@ comparePrice: 25.72 EUR
 prodname: 'Herbalgem Osteogem - 30 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P4H4GDZ/?tag=tolees-21'
 descuento: '44.60'
 average: '14.25'

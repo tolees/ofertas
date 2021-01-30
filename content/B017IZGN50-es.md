@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Elizabeth Arden Ceramide Time Complex Desmaquillante Facial Oil 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017IZGN50/?tag=tolees-21'
 descuento: '40.17'
 average: '17.95'

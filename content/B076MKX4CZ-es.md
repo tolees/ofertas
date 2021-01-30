@@ -16,6 +16,7 @@ comparePrice: 4.99 EUR
 prodname: 'Sticker Adhesivos para Macbook  Desprendibles Creativo Color Mapa La Ciudad Art Calcomanía Pegatina para MacBook Pro/Air 13 Pulgadas Portátil  F '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076MKX4CZ/?tag=tolees-21'
 descuento: '40.08'
 average: '2.99'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'HANPURE Adaptador USB Bluetooth 4.0 - Bluetooth 4.0 Dongle Compatible con Auriculares Bluetooth Mouse Teclado Impresoras PC para Windows 8 y 10  Conecta y Reproduce  Win7 / Vista/XP  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BFS94X4/?tag=tolees-21'
 descuento: '50.08'
 average: '9.98'

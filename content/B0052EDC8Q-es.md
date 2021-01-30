@@ -16,6 +16,7 @@ comparePrice: 17.25 EUR
 prodname: 'STERADENT - STERADENT 60+30 TRIPLE AC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0052EDC8Q/?tag=tolees-21'
 descuento: '47.19'
 average: '10.754'

@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'New Balance 500 Core  Zapatillas para Hombre  Azul Navy Navy  44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AZHO5XA/?tag=tolees-21'
 descuento: '39.52'
 average: '45.36'

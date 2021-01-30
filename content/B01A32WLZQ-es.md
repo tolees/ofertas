@@ -16,6 +16,7 @@ comparePrice: 68 EUR
 prodname: 'ZENBRE Parlante Bluetooth  Z3 10W Parlante Inalámbrico Portátil hasta 20 Horas de Reproducción  Parlante para Computadora Dual-Driver con potentes Graves Incluidos  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01A32WLZQ/?tag=tolees-21'
 descuento: '55.90'
 average: '29.99'

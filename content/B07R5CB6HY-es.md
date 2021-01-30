@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Belkin Thunderbolt 3 - Minibase Dock con Cable Integrado para Ordenadores Mac OS y con USB-C'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R5CB6HY/?tag=tolees-21'
 descuento: '40.20'
 average: '119.0'

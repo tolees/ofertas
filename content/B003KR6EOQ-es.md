@@ -16,6 +16,7 @@ comparePrice: 76.1 EUR
 prodname: 'Kyocera Tk-160 Tóner color negro 1T02LY0NL0 para Ecosys ECOSYS P2035d  FS-1120D'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003KR6EOQ/?tag=tolees-21'
 descuento: '26.47'
 average: '55.96'

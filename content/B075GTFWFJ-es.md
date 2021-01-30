@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Adidas VL Court 2.0 K  Zapatillas Unisex Niños  Blanco  Footwear White/Core Black/Footwear White 0   29 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075GTFWFJ/?tag=tolees-21'
 descuento: '30.06'
 average: '27.94'

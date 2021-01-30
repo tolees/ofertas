@@ -16,6 +16,7 @@ comparePrice: 62.49 EUR
 prodname: 'Adidas Daily 2.0  Zapatillas para Hombre  Negro  Black F34468   46 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVQNHK3/?tag=tolees-21'
 descuento: '44.41'
 average: '34.74'

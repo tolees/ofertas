@@ -16,6 +16,7 @@ comparePrice: 9.02 EUR
 prodname: 'PERIO Enjuagues Bucales 1 Unidad 150 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079LM9GLP/?tag=tolees-21'
 descuento: '46.45'
 average: '4.83'

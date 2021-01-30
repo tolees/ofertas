@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'adidas Fit 2pc 3s Traje de Baño  Mujer  Negro  Black   32'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KNWFWFY/?tag=tolees-21'
 descuento: '47.78'
 average: '20.86'

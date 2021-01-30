@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Converse Chuck Taylor Core Lea Ox  Zapatillas De Cuero Unisex Adulto  Negro  38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007PBGWMC/?tag=tolees-21'
 descuento: '26.72'
 average: '57.07666666666667'

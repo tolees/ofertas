@@ -16,6 +16,7 @@ comparePrice: 13.5 EUR
 prodname: 'Rayen 6151.01 Funda para Tabla de Planchar  Tejido de algodón  Espuma  Gris Claro Metalizado  115x38 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ESZ391K/?tag=tolees-21'
 descuento: '51.26'
 average: '6.58'

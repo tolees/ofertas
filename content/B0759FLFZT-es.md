@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'Casio Reloj de Pulsera BGS-100-7A1ER'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0759FLFZT/?tag=tolees-21'
 descuento: '40.67'
 average: '89.0'

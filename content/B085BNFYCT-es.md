@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'Kit de Iluminación para Fotografía: 3X Ventana de Luz  3X Fondos de Tela  1X Soporte de Fondo  12X Bombilla 45W  2X Trípode de Luz  1X Kit Soporte Jirafa  2X Bolsa Portátil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085BNFYCT/?tag=tolees-21'
 descuento: '25.00'
 average: '119.99'

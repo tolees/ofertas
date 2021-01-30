@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Flex Advantage 3.0 - Stally  Zapatillas Deportivas para Hombre  Negro  Black   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J6PWJRF/?tag=tolees-21'
 descuento: '34.31'
 average: '46.254999999999995'

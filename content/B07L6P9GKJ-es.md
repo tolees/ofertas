@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'FitFlop Lena  Mocasines para Mujer  Black  All Black 090   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L6P9GKJ/?tag=tolees-21'
 descuento: '50.01'
 average: '49.55'

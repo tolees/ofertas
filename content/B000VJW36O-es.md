@@ -16,6 +16,7 @@ comparePrice: 82.0 EUR
 prodname: 'Ferplast 66005017 - Estante para Fondo de Acuario  52 x 28 x 73 cm   Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000VJW36O/?tag=tolees-21'
 descuento: '29.84'
 average: '57.53'

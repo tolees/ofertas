@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Puma St Runner V2 Nl  Zapatillas de Cross Unisex adulto  Azul  Peacoat-Puma White 8   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZZ7HNR/?tag=tolees-21'
 descuento: '28.68'
 average: '37.825'

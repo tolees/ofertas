@@ -16,6 +16,7 @@ comparePrice: 326.9 EUR
 prodname: 'HP CF031A - Cartucho de tóner'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00455IKWQ/?tag=tolees-21'
 descuento: '66.35'
 average: '158.70999999999998'

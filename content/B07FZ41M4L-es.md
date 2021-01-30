@@ -16,6 +16,7 @@ comparePrice: 63.29 EUR
 prodname: 'Plancha de pelo  herramientas de estilo eléctrico de cerámica Cierre automático  Professional Classic Styler  Titanium Tecnología Iónica Negativa  Crear Rizos y Ondas Hermosos EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FZ41M4L/?tag=tolees-21'
 descuento: '80.42'
 average: '12.39'

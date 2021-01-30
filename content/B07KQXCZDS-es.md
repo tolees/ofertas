@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Helly Hansen KOS Polo  Hombre  Rojo  Rojo 147   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KQXCZDS/?tag=tolees-21'
 descuento: '38.46'
 average: '37.495000000000005'

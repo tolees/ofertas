@@ -16,6 +16,7 @@ comparePrice: 25.79 EUR
 prodname: 'Dihope - Medias de fútbol - para hombre 3*noir+3blanc Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DQPVC2L/?tag=tolees-21'
 descuento: '73.28'
 average: '6.89'

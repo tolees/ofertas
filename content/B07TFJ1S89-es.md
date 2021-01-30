@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'The North Face M Merak 1/4 Forro Polar  Hombre  Yellow/TNF  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TFJ1S89/?tag=tolees-21'
 descuento: '38.71'
 average: '55.16'

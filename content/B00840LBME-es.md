@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Novi Stars - ARI Roma muñeca  Bandai 516958 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00840LBME/?tag=tolees-21'
 descuento: '30.62'
 average: '15.95'

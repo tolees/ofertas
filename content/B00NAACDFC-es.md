@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'DKN Colchoneta Tri-Fold Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NAACDFC/?tag=tolees-21'
 descuento: '28.59'
 average: '32.32333333333334'

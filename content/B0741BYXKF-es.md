@@ -16,6 +16,7 @@ comparePrice: 13.89 EUR
 prodname: 'Haribo Ladrillo Helado - 1750 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0741BYXKF/?tag=tolees-21'
 descuento: '40.89'
 average: '8.136000000000001'

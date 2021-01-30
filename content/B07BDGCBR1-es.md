@@ -16,6 +16,7 @@ comparePrice: 45.44 EUR
 prodname: 'i-baby Protector Cuna Chichonera de Cuna y Cama para Bebé Cabeza 200cm Cojín de Barandillas Unicornio Rosa 3D Dibujos Animados  Unicorn '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BDGCBR1/?tag=tolees-21'
 descuento: '34.20'
 average: '29.9'

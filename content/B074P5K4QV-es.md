@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'CubicFun National Geographic Puzzle 3D Coliseo Romano Rompecabezas 3D Modelo Kit de Construcción con Folleto para Adultos Niños  131 Piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074P5K4QV/?tag=tolees-21'
 descuento: '30.02'
 average: '15.323333333333332'

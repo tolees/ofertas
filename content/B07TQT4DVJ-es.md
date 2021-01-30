@@ -16,6 +16,7 @@ comparePrice: 22.94 EUR
 prodname: 'Cadmus Pantalones Cortos de compresión para Mujer  de Cintura Alta  con Bolsillo  Mujer  Color 1 Paquete: 5 Rojo  tamaño Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TQT4DVJ/?tag=tolees-21'
 descuento: '29.86'
 average: '16.09'

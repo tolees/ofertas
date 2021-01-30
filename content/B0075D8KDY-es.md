@@ -16,6 +16,7 @@ comparePrice: 111.99 EUR
 prodname: 'Fiskars Bloque de cuchillos con 5 cuchillos  Ancho: 15 5 cm  Alto: 37 cm  Madera de abedul  Negro  Edge  1003099'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0075D8KDY/?tag=tolees-21'
 descuento: '26.33'
 average: '72.896'

@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'adidas Parma 16 Kinder Sport Shorts  Hombre  Black/White  5-6Y'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016REH7A8/?tag=tolees-21'
 descuento: '40.13'
 average: '8.95'

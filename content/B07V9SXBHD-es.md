@@ -16,6 +16,7 @@ comparePrice: 109.95 EUR
 prodname: 'CLUSE Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable CW0101203012'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V9SXBHD/?tag=tolees-21'
 descuento: '40.00'
 average: '65.97'

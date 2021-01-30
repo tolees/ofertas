@@ -16,6 +16,7 @@ comparePrice: 25.9 EUR
 prodname: 'Toalla para Adultos de Color sólido  Reutilizable y Lavable de 6 Piezas para Hombres y Mujeres  Gris-6 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08JPT5KNN/?tag=tolees-21'
 descuento: '89.23'
 average: '16.656'

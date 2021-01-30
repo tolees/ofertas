@@ -16,6 +16,7 @@ comparePrice: 52.89 EUR
 prodname: 'Bosch MSM6S50B ErgoMixx Style Batidora de mano con accesorios  750 W  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075S5NCYV/?tag=tolees-21'
 descuento: '26.26'
 average: '40.879'

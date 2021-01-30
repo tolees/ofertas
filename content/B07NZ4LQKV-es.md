@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Parasol de Coche  otumixx 2 Unidades Visera para Ventana lateral de Coche Reduce Calor Aislado y la Radiación UVA para Niño Bebé Mascotas Fácil Instalación Compatible con la mayoría de Coches 126x52cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NZ4LQKV/?tag=tolees-21'
 descuento: '53.87'
 average: '10.99'

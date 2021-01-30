@@ -16,6 +16,7 @@ comparePrice: 7.91 EUR
 prodname: '7 CM Electrostática Eliminación de lavandería Bolas limpias Reutilizable Lavandería natural Suavizante de telas Bolas de lana premium - Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KWVQ7H9/?tag=tolees-21'
 descuento: '34.01'
 average: '5.22'

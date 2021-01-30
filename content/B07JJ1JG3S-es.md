@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Ozone Neon X40 - OZNEONX40 - Ratón Gaming  7200 DPI  RGB  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JJ1JG3S/?tag=tolees-21'
 descuento: '37.87'
 average: '28.826666666666668'

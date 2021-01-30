@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Lisciani- LED Space Vehicle  65868 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079W3VTF9/?tag=tolees-21'
 descuento: '59.98'
 average: '7.333333333333333'

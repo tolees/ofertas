@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Adidas Swift Run J  Zapatillas de Gimnasia Unisex Niños  Blanco FTWR White  36 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JYLGH7J/?tag=tolees-21'
 descuento: '44.57'
 average: '36.0'

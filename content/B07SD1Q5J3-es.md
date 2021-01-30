@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'PUMA ST Activate JR  Zapatillas Unisex niños  Rosa  Bright Rose/Rosewater   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SD1Q5J3/?tag=tolees-21'
 descuento: '40.33'
 average: '20.605'

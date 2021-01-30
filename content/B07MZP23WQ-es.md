@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Funko- Pop Vinilo: Gears of War S3: Queen Myrrah Figura Coleccionable  Multicolor  39055 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZP23WQ/?tag=tolees-21'
 descuento: '62.70'
 average: '5.95'

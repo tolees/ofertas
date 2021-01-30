@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Maybelline New York City Bronzer Polvos Bronceadores Mate para Pieles Oscuras  Tono 300 Deep Cool'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HZGRVM4/?tag=tolees-21'
 descuento: '30.04'
 average: '5.59'

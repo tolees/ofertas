@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Medidor EMF  TACKLIFE Detector de Radiación  5HZ - 3500MHz con LCD Digital  Alarma de Luz y Sonido  para Probar Radiación de Campo Magnético  Campo Eléctrico y Temperatura Ambiente - MET01'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XKZ9HRQ/?tag=tolees-21'
 descuento: '39.41'
 average: '19.99'

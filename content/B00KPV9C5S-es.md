@@ -16,6 +16,7 @@ comparePrice: 10.75 EUR
 prodname: 'Jovi 8412027028851 - Estuche de 20 ceras  diseño oso mágico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KPV9C5S/?tag=tolees-21'
 descuento: '39.91'
 average: '6.46'

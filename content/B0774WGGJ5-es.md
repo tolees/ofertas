@@ -16,6 +16,7 @@ comparePrice: 17.98 EUR
 prodname: 'Pop Lobo Vinyl Figure'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0774WGGJ5/?tag=tolees-21'
 descuento: '44.44'
 average: '9.99'

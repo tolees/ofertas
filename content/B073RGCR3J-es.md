@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'KabelDirekt 1m Cable TV Sat  75 Ohm  HDTV  Conector F a Conector coaxial  Cable coaxial soporta HDTV  DVB-T2  DVB-C  DVB-S  TV y Radio  Pro Series'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073RGCR3J/?tag=tolees-21'
 descuento: '37.72'
 average: '9.8775'

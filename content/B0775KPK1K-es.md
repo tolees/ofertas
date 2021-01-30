@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Armani Exchange Double Stripe Polo  Blanco  White 1100   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0775KPK1K/?tag=tolees-21'
 descuento: '47.15'
 average: '35.705'

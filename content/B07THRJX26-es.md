@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Relojes Infantiles para niños  Reloj Deportivo Digital al Aire Libre a Prueba de Agua con Alarma/Cronómetro  Resistencia al Agua Reloj Infantil Aprendizaje para Niños  Verde '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07THRJX26/?tag=tolees-21'
 descuento: '63.07'
 average: '13.29'

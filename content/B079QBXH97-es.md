@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'hummel Pantalon Junior Corporate Fit Polyester'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079QBXH97/?tag=tolees-21'
 descuento: '61.75'
 average: '13.49'

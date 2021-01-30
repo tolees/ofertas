@@ -16,6 +16,7 @@ comparePrice: 125.17 EUR
 prodname: 'O PRO9 USB-C Hub  Opro9 concentrador Tipo C 10 en 1 con 3 Puertos USB 3.0  4K HDMI  VGA  USB-C Power Delivery  3.5 mm Audio Jack y Ethernet  portátil para Mac Pro y Otros portátiles Tipo C  Gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y7Y4NM4/?tag=tolees-21'
 descuento: '28.78'
 average: '89.15'

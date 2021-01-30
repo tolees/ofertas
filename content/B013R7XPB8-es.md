@@ -16,6 +16,7 @@ comparePrice: 9.06 EUR
 prodname: 'AmazonBasics - Bayeta de microfibra  6 unidades   color blanco  azul y amarillo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013R7XPB8/?tag=tolees-21'
 descuento: '44.26'
 average: '6.05'

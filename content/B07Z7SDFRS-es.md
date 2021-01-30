@@ -16,6 +16,7 @@ comparePrice: 6.81 EUR
 prodname: '6ml 12 colores Acrílico profesional Pinturas pintadas a mano Pintura de pared Color brillante Pintura textil Suministros de arte Pincel gratis - Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z7SDFRS/?tag=tolees-21'
 descuento: '33.48'
 average: '4.53'

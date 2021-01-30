@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'adidas Tiro19 2in1 SHO Sport Trousers  Hombre  Black/White  2XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K19RDDC/?tag=tolees-21'
 descuento: '41.96'
 average: '28.43'

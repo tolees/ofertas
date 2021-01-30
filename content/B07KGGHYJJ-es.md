@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Buff R-Grace Gorra Pack Run  Mujer  Multi  Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KGGHYJJ/?tag=tolees-21'
 descuento: '29.92'
 average: '20.99'

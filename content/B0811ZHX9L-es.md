@@ -16,6 +16,7 @@ comparePrice: 18.73 EUR
 prodname: 'Capitán América -Riñonera TPU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0811ZHX9L/?tag=tolees-21'
 descuento: '55.95'
 average: '8.25'

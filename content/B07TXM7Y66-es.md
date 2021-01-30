@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Gant Sundale  Zapatillas para Hombre  Azul  Marine G69   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TXM7Y66/?tag=tolees-21'
 descuento: '52.85'
 average: '38.665000000000006'

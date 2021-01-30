@@ -16,6 +16,7 @@ comparePrice: 21.03 EUR
 prodname: 'Bourjois Delice de Poudre Polvos Bronceadores Tono 001-113 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N4J42PR/?tag=tolees-21'
 descuento: '70.04'
 average: '6.245'

@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Nike Indy Light Bra Sports  Mujer  Black/ White   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BGBYZ7W/?tag=tolees-21'
 descuento: '25.25'
 average: '21.799999999999997'

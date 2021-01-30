@@ -16,6 +16,7 @@ comparePrice: 2.34 EUR
 prodname: 'Zestaw twist  n flex nielamliwa linijka 15 ekierka katomierz'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0029F4XZW/?tag=tolees-21'
 descuento: '38.46'
 average: '1.44'

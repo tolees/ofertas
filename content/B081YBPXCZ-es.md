@@ -16,6 +16,7 @@ comparePrice: 57.99 EUR
 prodname: 'Luces solares Luces con sensor de movimiento solar para exteriores  [42 LED / 3 Modos ] SEZAC Luces de seguridad inalámbricas a prueba de agua para el garaje del jardín Camino  paquete de 10 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081YBPXCZ/?tag=tolees-21'
 descuento: '37.94'
 average: '42.74'

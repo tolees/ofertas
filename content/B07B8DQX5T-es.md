@@ -16,6 +16,7 @@ comparePrice: 279.0 EUR
 prodname: 'FOREO UFO - Tratamiento de Mascarilla Inteligente  Color Rosa  Pearl Pink '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B8DQX5T/?tag=tolees-21'
 descuento: '55.93'
 average: '161.47'

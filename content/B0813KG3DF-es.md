@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'SHUIBIAN Kits de pintura diamante 5D  cuadro diamantes 5d  taladro completo diamante de imitación bordado de diamante para el hogar decoración de la pared 30 x 30 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0813KG3DF/?tag=tolees-21'
 descuento: '40.02'
 average: '11.99'

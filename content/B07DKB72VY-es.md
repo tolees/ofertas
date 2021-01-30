@@ -16,6 +16,7 @@ comparePrice: 43 EUR
 prodname: 'Kipling - Creativity Xl  Monederos Mujer  Gris  Metallic Stony '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DKB72VY/?tag=tolees-21'
 descuento: '50.00'
 average: '21.5'

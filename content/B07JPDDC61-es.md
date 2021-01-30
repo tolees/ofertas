@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'DAM TEKKIWEAR. DMZ009BK. Pulsera Inteligente Bluetooth Ak-Y2S Pantalla A Color  Monitor Cardíaco  O2 En Sangre  Notificaciones para iOS Y Android. Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JPDDC61/?tag=tolees-21'
 descuento: '69.00'
 average: '39.99'

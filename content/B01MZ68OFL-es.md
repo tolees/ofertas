@@ -16,6 +16,7 @@ comparePrice: 10.94 EUR
 prodname: 'LA ROCHE POSAY Agua Micelar Ultra Pieles Reactivas 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MZ68OFL/?tag=tolees-21'
 descuento: '31.90'
 average: '7.45'

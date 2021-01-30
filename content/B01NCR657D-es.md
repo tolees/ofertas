@@ -16,6 +16,7 @@ comparePrice: 70 EUR
 prodname: 'Wilson Roger Federer Raquetas  Unisex niños  Rojo/Negro  25'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NCR657D/?tag=tolees-21'
 descuento: '42.93'
 average: '38.49666666666667'

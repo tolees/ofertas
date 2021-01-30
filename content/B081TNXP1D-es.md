@@ -16,6 +16,7 @@ comparePrice: 32.95 EUR
 prodname: 'adidas Tights Mallas  Mujer  Black  44'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081TNXP1D/?tag=tolees-21'
 descuento: '29.98'
 average: '23.07'

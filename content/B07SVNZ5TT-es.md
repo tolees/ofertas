@@ -16,6 +16,7 @@ comparePrice: 16.0 EUR
 prodname: 'SD GAMES- Claim  Color  SDGCLAIM001 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SVNZ5TT/?tag=tolees-21'
 descuento: '25.31'
 average: '11.95'

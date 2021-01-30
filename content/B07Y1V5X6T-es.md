@@ -16,6 +16,7 @@ comparePrice: 55.99 EUR
 prodname: 'Purificador de Aire con Filtro HEPA  Filtración de 4 Etapas  Purificador Silencioso para el Hogar con 3 Velocidades de Ventilador y Función de Aromaterapia  Temporizador y Luz Nocturna Opcional'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y1V5X6T/?tag=tolees-21'
 descuento: '28.56'
 average: '47.217999999999996'

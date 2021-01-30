@@ -16,6 +16,7 @@ comparePrice: 19.0 EUR
 prodname: 'Qomolo Barbacoa Cepillo  3 En 1 BBQ Grill Cepillo con El Acero Inoxidable Cerdas De Alambre De Acero para Carbón Vegetal y Parrilla Eléctrica Barbacoas Al Aire Libre  Jardín  Camping y De Sobremesa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083FNVQCT/?tag=tolees-21'
 descuento: '31.63'
 average: '12.99'

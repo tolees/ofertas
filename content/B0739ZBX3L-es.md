@@ -16,6 +16,7 @@ comparePrice: 6.59 EUR
 prodname: 'CampTeck U6576 3m Cuerda Saltar de Velocidad Ajustable Acero Cable Jumping Rope con Rodamiento de Bolas para Fitness Ejercicio  Entrenamiento'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0739ZBX3L/?tag=tolees-21'
 descuento: '28.83'
 average: '4.8100000000000005'

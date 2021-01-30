@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'ThickTails Cepillo Alisador De Pelo Ionico - Con bolsa de viaje resistente al calor. Peine Alisador De Cabello con cable eléctrico con pantalla LED  más seguro que el hierro plano'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SNC6MVN/?tag=tolees-21'
 descuento: '50.01'
 average: '19.99'

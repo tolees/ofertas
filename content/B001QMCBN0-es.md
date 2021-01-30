@@ -16,6 +16,7 @@ comparePrice: 22.69 EUR
 prodname: 'Pimms Licores - 1000 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001QMCBN0/?tag=tolees-21'
 descuento: '25.96'
 average: '14.188'

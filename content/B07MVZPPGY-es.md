@@ -16,6 +16,7 @@ comparePrice: 153.91 EUR
 prodname: 'Reebok Forever FLOATRIDE Energy  Zapatillas de Trail Running para Hombre  Multicolor  Crushed Cobalt/Col Navy/SLR Gld/Wht/Pure 000   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVZPPGY/?tag=tolees-21'
 descuento: '64.28'
 average: '54.97'

@@ -16,6 +16,7 @@ comparePrice: 15.2 EUR
 prodname: 'ENERGETICS Pesas Mancuernas Neopreno  Unisex  Hantel Neopren  Rojo  Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JQIYPIA/?tag=tolees-21'
 descuento: '28.29'
 average: '10.9'

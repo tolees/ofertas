@@ -16,6 +16,7 @@ comparePrice: 70 EUR
 prodname: 'FIND Botín Liso con Cordones Hombre  Marrón  Brown Brown   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D44HP5B/?tag=tolees-21'
 descuento: '30.00'
 average: '49'

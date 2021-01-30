@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Joma Olimpia Pantalones Cortos  Hombre  Negro  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y2ZVZXD/?tag=tolees-21'
 descuento: '29.14'
 average: '16.053333333333335'

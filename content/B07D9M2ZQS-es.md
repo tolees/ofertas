@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Sensor de nivel de agua ultrasónico con pantalla LCD de temperatura líquida'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D9M2ZQS/?tag=tolees-21'
 descuento: '45.34'
 average: '32.79'

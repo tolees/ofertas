@@ -16,6 +16,7 @@ comparePrice: 176.5 EUR
 prodname: 'Smeg 770926334 Tostador  2000 W  Beige'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H2XMKLZ/?tag=tolees-21'
 descuento: '37.13'
 average: '105.42'

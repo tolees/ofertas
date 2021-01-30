@@ -16,6 +16,7 @@ comparePrice: 10.35 EUR
 prodname: 'Chicco Natural Sensation - Gel de baño Oso  300 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FH6S3K0/?tag=tolees-21'
 descuento: '42.03'
 average: '6.0'

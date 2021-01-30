@@ -16,6 +16,7 @@ comparePrice: 25.4 EUR
 prodname: 'Biotherm - Bruma Solaire Dry Touch SPF 30'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00J8N83FY/?tag=tolees-21'
 descuento: '38.58'
 average: '15.6'

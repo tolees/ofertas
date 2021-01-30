@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'adidas Duramo 8 M  Zapatillas de Running para Hombre  Multicolor  Hi-Res Red/Core Black/Core Black 0   42 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0784XCN4K/?tag=tolees-21'
 descuento: '52.14'
 average: '33.48'

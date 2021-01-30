@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'LIGE Relojes para Hombre Acero Inoxidable Impermeable Analógico Cuarzo Reloj Negocios Cronógrafo Moon Phase Reloj de Pulsera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YCY8GG3/?tag=tolees-21'
 descuento: '63.34'
 average: '32.99'

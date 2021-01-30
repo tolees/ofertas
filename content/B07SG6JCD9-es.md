@@ -16,6 +16,7 @@ comparePrice: 58.99 EUR
 prodname: 'Juego de Llaves de Vaso de Impacto 1/2" Meterk 20PCS con 3     5     10    Barras de Extensión 1/2"a 3/8" Adaptador de La Llave de Zócalo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SG6JCD9/?tag=tolees-21'
 descuento: '33.90'
 average: '38.99'

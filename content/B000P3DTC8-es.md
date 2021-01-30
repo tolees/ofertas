@@ -16,6 +16,7 @@ comparePrice: 9.7 EUR
 prodname: 'Wolfcraft 2133000 2133000-1 Juego compuesta Disco 75x10 mm  Copa 75 mm  cilindrico 28x60x90 mm  Cepillo Pincel diam. 25 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000P3DTC8/?tag=tolees-21'
 descuento: '43.30'
 average: '6.45'

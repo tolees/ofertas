@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Vaporizador Facial Profesional Sauna Facial Vaporizador，Hong Ren Ionic Humidifier for Face Care  Piel Hidratante  Limpieza Profunda de Poros Facial Steamer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081TBL9PD/?tag=tolees-21'
 descuento: '30.78'
 average: '17.99'

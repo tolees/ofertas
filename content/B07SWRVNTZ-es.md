@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Roxy Sugar Baby-Mochila Mediana para Mujer  Heritage Heather Gradient Lett  1SZ'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SWRVNTZ/?tag=tolees-21'
 descuento: '33.95'
 average: '23.77'

@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Blusea Piscina Perros y Gatos  Piscina Bañera Plegable PVC Antideslizante y Resistente al Desgaste  Drenaje Lateral en Espiral  Regalo  Adecuado para Interior Exterior'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T98KN5K/?tag=tolees-21'
 descuento: '33.35'
 average: '15.99'

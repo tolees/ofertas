@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'New Balance Fresh Foam Vero Racer m  Zapatillas de Running para Mujer  Negro  Black/Pink Black/Pink   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KWLD5B4/?tag=tolees-21'
 descuento: '61.41'
 average: '32.8'

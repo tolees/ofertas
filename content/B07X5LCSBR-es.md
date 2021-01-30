@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'G-STAR RAW Cadet  Zapatillas para Hombre  Marfil  Milk A940-111   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X5LCSBR/?tag=tolees-21'
 descuento: '35.68'
 average: '44.99'

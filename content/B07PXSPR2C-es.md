@@ -16,6 +16,7 @@ comparePrice: 10.95 EUR
 prodname: 'Terry White Brandy Blanco  36% - 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PXSPR2C/?tag=tolees-21'
 descuento: '40.18'
 average: '7.1'

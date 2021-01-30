@@ -16,6 +16,7 @@ comparePrice: 169.95 EUR
 prodname: 'GANT Malin  Botas Chelsea para Mujer  Rojo  Port Red G537   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MQFRJHL/?tag=tolees-21'
 descuento: '49.48'
 average: '96.26833333333333'

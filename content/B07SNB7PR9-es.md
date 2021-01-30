@@ -16,6 +16,7 @@ comparePrice: 6.18 EUR
 prodname: 'Hpybest - Cadena para chupete  cadena antipérdida  diseño de girasol  madera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SNB7PR9/?tag=tolees-21'
 descuento: '50.16'
 average: '3.08'

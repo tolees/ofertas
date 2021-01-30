@@ -16,6 +16,7 @@ comparePrice: 899.99 EUR
 prodname: 'mysticall Cinta de Correr Walking Pad Plegable A1  Cinta de Correr eléctrica 746W con instalación Libre de Ruido y Gratuita  Control de Velocidad de inducción de Pasos  Debajo del Escritorio 0-6km/h'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZDBNFG6/?tag=tolees-21'
 descuento: '50.00'
 average: '449.99'

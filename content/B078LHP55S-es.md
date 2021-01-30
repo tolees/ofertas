@@ -16,6 +16,7 @@ comparePrice: 5.99 EUR
 prodname: 'Maybelline New York - Color Sensational  Pintalabios Mate Hidratante  Tono 15 Smokey Taupe'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078LHP55S/?tag=tolees-21'
 descuento: '50.75'
 average: '2.95'

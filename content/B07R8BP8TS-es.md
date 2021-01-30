@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'KFD Cargador USB Tipo C 90W USB C Adaptador de Pared para MacBook Pro 13" 15" 2016 2017 2018 Surface Book 2 HP Spectre X360 Lenovo ThinkPad L390 MSI Prestige 15 A10SC-010 A10SC-011 DELL ASUS LG Acer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R8BP8TS/?tag=tolees-21'
 descuento: '46.16'
 average: '34.99'

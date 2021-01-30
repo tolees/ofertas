@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Navachi     Metal chapado en oro de 18 quilates redondo   rosa ópalo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074WB2JFH/?tag=tolees-21'
 descuento: '46.16'
 average: '13.46'

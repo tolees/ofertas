@@ -16,6 +16,7 @@ comparePrice: 69.74 EUR
 prodname: 'adidas Stan Smith J  Zapatillas de Deporte Unisex Niños  Blanco  Ftwbla/Ftwbla/Ftwbla   36 EU  3.5 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01C4CC3LU/?tag=tolees-21'
 descuento: '34.83'
 average: '46.11333333333334'

@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Ferilinso Funda para Xiaomi Redmi S3/ Redmi 7 Funda [Reforzar la versión con Cuatro Esquinas][Funda Protectora de la cámara] Funda Protectora de Silicona de Piel de Goma TPU a Prueba  Transparente '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q37QM1V/?tag=tolees-21'
 descuento: '47.09'
 average: '8.656666666666666'

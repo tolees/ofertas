@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'JACK & JONES Jjepaulos Polo SS Noos  Blanco  White Detail: Slim Fit   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079CDBSGJ/?tag=tolees-21'
 descuento: '35.02'
 average: '12.99'

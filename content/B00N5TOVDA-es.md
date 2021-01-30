@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Braun Face 831 Beauty Edition - Cepillo de limpieza facial y depiladora facial con espejo iluminado y neceser'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00N5TOVDA/?tag=tolees-21'
 descuento: '57.53'
 average: '39.59'

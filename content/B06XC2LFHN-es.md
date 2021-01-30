@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Funko Pop! - Dolores Abernathy Figura de Vinilo  seria Westworld  13525 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XC2LFHN/?tag=tolees-21'
 descuento: '33.36'
 average: '7.79'

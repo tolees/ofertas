@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'TEEHON Funda de Protección para Sombrilla  Funda Parasol con Barra Telescópica  Cubierta de Sombrilla 420D Oxford Resistente al Desgarro y Impermeable con Cremallera  Cordón y Bolsa de Almacenamiento'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VGS33YL/?tag=tolees-21'
 descuento: '26.93'
 average: '18.99'

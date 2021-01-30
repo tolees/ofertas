@@ -16,6 +16,7 @@ comparePrice: 62.9 EUR
 prodname: 'Thermaltake Riing Plus 20 RGB TT Premium Edition - Ventilador de Caja RGB de Alto Rendimiento con Software  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079MM2K5L/?tag=tolees-21'
 descuento: '52.31'
 average: '30.0'

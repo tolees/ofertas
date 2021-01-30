@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'Chicco Wellbeing - Set de regalo con biberón  chupete y clip de silicona  color azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01E3NP5TU/?tag=tolees-21'
 descuento: '46.02'
 average: '6.99'

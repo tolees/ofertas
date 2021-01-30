@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Pepe Jeans London Sinyu New Block  Zapatillas para Mujer   White 800   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZQPX5Q/?tag=tolees-21'
 descuento: '60.47'
 average: '35.54'

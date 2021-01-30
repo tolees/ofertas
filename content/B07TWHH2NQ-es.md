@@ -16,6 +16,7 @@ comparePrice: 10.0 EUR
 prodname: 'Funko- Pop Marvel: Fantastic Four-Silver Surfer Collectible Toy  Multicolor  44992 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TWHH2NQ/?tag=tolees-21'
 descuento: '33.30'
 average: '8.321333333333333'

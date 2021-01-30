@@ -16,6 +16,7 @@ comparePrice: 23.9 EUR
 prodname: 'Cecotec Tostadora Acero Steel&Toast 1L. 6 Niveles de Potencia  Capacidad para 2 Tostadas  3 Funciones  Tostar  Recalentar  Descongelar   Incluye Soporte Panecillos  con Bandeja Recogemigas  1000 W'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075WXB24M/?tag=tolees-21'
 descuento: '28.91'
 average: '19.30857142857143'

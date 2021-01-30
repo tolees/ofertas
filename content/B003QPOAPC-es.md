@@ -16,6 +16,7 @@ comparePrice: 64.02 EUR
 prodname: 'Samsung CLT-M4072S/ELS - Tóner  1000 páginas   magenta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003QPOAPC/?tag=tolees-21'
 descuento: '48.77'
 average: '32.57'

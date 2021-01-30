@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Relaxdays  Verde-Marrón  80 cm de Altura Palmera Hinchable para Fiesta Piscina  PVC  Adultos Unisex'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PQD54YW/?tag=tolees-21'
 descuento: '39.47'
 average: '12.1'

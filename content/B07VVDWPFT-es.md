@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Ultra Flex  Zapatillas para Mujer  Blanco Blanco Blanco Malla Ribete Wht  37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VVDWPFT/?tag=tolees-21'
 descuento: '40.80'
 average: '38.45'

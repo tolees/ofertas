@@ -16,6 +16,7 @@ comparePrice: 12.8 EUR
 prodname: 'JVL - Felpudo  Fibra de Coco y PVC  40 x 70 cm   Color marrón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003KNJBWM/?tag=tolees-21'
 descuento: '46.09'
 average: '6.9'

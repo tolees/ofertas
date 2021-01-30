@@ -16,6 +16,7 @@ comparePrice: 160.0 EUR
 prodname: 'ZU ELEMENTS Z170092051644C ALBERTINE Denim Jeans Mujer azul 3750 25'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BCKHK5C/?tag=tolees-21'
 descuento: '90.62'
 average: '15.01'

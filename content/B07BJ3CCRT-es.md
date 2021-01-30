@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Lámpara solar Luces Jardín 42 LED solares exterior foco led sensor de movimiento 2 Piezas 6000KImpermeable iluminación vial blanco luz del Inalámbricas camino  valla  Cubierta  Patio  garaje'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BJ3CCRT/?tag=tolees-21'
 descuento: '36.01'
 average: '31.99'

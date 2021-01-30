@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: '4 diademas Naruto con chapado en metal para cosplay  hoja de pueblo de arena Akatsuki Yahiko'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T8MVK97/?tag=tolees-21'
 descuento: '58.35'
 average: '7.41'

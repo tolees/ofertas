@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Abalorios para Hacer Collares  Abalorios para Hacer Pulseras  Vidrio de 3mm Perlas de Potro Hechas a Mano para Hacer Joyas Collares Pulseras Pendiente Bisutería Regalo DIY 7000-7500 Piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V4CQVFT/?tag=tolees-21'
 descuento: '37.33'
 average: '15.66'

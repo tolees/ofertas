@@ -16,6 +16,7 @@ comparePrice: 3.52 EUR
 prodname: 'Bionsan Harina de Trigo Sarraceno - 500 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082VV95JW/?tag=tolees-21'
 descuento: '65.91'
 average: '1.2'

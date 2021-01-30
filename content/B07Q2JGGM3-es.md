@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Tvird Máscara de Buceo  Máscara de Snorkel 180 ° Vista Panorámica  Anti-Vaho Anti-Fugas Mascara de Buceo Doble Vía Aérea  Correa Ajustable y Cámara Impermeable Extraíble L/XL-2020 Más Reciente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q2JGGM3/?tag=tolees-21'
 descuento: '47.01'
 average: '26.856666666666666'

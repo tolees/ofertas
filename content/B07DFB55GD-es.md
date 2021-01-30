@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Cowboy Bebop - Pack 2 Figuras Funko Pop - Edward & Ein'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFB55GD/?tag=tolees-21'
 descuento: '39.87'
 average: '8.99'

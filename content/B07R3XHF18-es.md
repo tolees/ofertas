@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'HALUM Cámara IP WiFi  1080P Home Security Vigilancia  cámara inalámbrica para Interiores con visión Nocturna HD  Audio de Dos vías  detección de Movimiento Pan/Tilt  para bebés  Padres y Mascotas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R3XHF18/?tag=tolees-21'
 descuento: '66.68'
 average: '19.99'

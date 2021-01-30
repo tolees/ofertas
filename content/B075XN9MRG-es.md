@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'Kenwood FDM301 Procesador de Alimentos  800 W  2.1 litros  Acero Inoxidable  2 Velocidades  Negro/Plateado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075XN9MRG/?tag=tolees-21'
 descuento: '33.61'
 average: '87.18'

@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Superdry VL Stitch Sequin Entry Hood Capucha  Gris  Grey Marl 07q   L  Talla del Fabricante:14  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TMNWGRB/?tag=tolees-21'
 descuento: '48.76'
 average: '40.99'

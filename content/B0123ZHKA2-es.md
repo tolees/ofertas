@@ -16,6 +16,7 @@ comparePrice: 10.0 EUR
 prodname: 'Compo Universal para Frutas  Verduras  Plantas aromáticas y de Interior  Apto para Agricultura ecológica  Substrato de Cultivo  20 L  56 x 32 x 8 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0123ZHKA2/?tag=tolees-21'
 descuento: '48.10'
 average: '5.19'

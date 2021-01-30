@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Watch Dogs 2 - Standard Edition'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ZIW34T4/?tag=tolees-21'
 descuento: '39.93'
 average: '16.62'

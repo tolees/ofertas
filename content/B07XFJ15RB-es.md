@@ -16,6 +16,7 @@ comparePrice: 42.99 EUR
 prodname: 'Arbily Auriculares Inalámbricos  Bluetooth 5.0 con Caja de Carga Sonido Estéreo HI-FI Cancelación de Ruido Control Táctil  Soporte Aptx Calidad de Sonido  para Correr Deportivo al Aire Libre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XFJ15RB/?tag=tolees-21'
 descuento: '76.76'
 average: '37.49'

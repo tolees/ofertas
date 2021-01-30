@@ -16,6 +16,7 @@ comparePrice: 11.9 EUR
 prodname: 'Max Factor Mastertouch Concealer  Corrector Tono 303-Ivory'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LI4KZYI/?tag=tolees-21'
 descuento: '51.26'
 average: '5.8'

@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'RHA 201044 MA750i  Intra-auriculares con aislamiento de ruido  mando de control y micrófono'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PMUXR6W/?tag=tolees-21'
 descuento: '60.84'
 average: '46.06'

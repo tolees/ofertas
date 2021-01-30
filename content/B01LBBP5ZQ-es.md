@@ -16,6 +16,7 @@ comparePrice: 3.35 EUR
 prodname: 'Ribeira Proteina Natural - Pechuga de Pavo al natural - 1 lata 160gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LBBP5ZQ/?tag=tolees-21'
 descuento: '25.37'
 average: '2.5'

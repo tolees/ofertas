@@ -16,6 +16,7 @@ comparePrice: 79.15 EUR
 prodname: 'ieGeek Reproductor de DVD rosso N'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZCGDLD/?tag=tolees-21'
 descuento: '26.28'
 average: '58.35'

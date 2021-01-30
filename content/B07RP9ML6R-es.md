@@ -16,6 +16,7 @@ comparePrice: 11.5 EUR
 prodname: 'HARRY POTTER Set Imanes  Multicolor  18 x 24 x 0  3 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RP9ML6R/?tag=tolees-21'
 descuento: '32.70'
 average: '7.74'

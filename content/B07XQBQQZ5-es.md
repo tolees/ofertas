@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Montse Interiors  S.L. Cuadrante o Cojín Decoración Rústico 45x45 + Relleno  Portofino Granate '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XQBQQZ5/?tag=tolees-21'
 descuento: '43.89'
 average: '8.95'

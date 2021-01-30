@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'Docooler Pulsera Inteligente Termómetro Medición de la Salud Monitor de sueño Presión Arterial Frecuencia cardíaca Reloj de Banda Inteligente Rastreador de Ejercicios a Prueba de Agua'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086HG1MPV/?tag=tolees-21'
 descuento: '27.60'
 average: '20.99'

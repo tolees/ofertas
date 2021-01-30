@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'ghd curve creative curl - Rizador con barril cónico para crear ondas surferas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G1CJC3T/?tag=tolees-21'
 descuento: '26.82'
 average: '130.24'

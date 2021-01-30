@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Casio SGW-1000-1AER - Reloj con correa de resina para hombre  color negro / gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B010PIT2GE/?tag=tolees-21'
 descuento: '29.22'
 average: '98.39'

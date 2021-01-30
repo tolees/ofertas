@@ -16,6 +16,7 @@ comparePrice: 22.57 EUR
 prodname: 'Grohe - Flexo de conexión flexible  para Zedra  color cromo  Ref.46322000 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004PU8RSI/?tag=tolees-21'
 descuento: '33.72'
 average: '14.96'

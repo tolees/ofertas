@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Puma PUMA UNISEX SNEAKER PLAIN 3P  Calcetines Unisex adulto  pack de 3  Azul  Navy 321   39/42  Talla del fabricante: 039 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074WDFJ83/?tag=tolees-21'
 descuento: '44.49'
 average: '6.0390000000000015'

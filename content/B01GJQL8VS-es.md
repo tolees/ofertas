@@ -16,6 +16,7 @@ comparePrice: 48.74 EUR
 prodname: 'Domoclip DOP156 para Máquina para hacer Yogurt y Queso Gris 1 2 L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GJQL8VS/?tag=tolees-21'
 descuento: '47.13'
 average: '36.18333333333334'

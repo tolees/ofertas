@@ -16,6 +16,7 @@ comparePrice: 2419.99 EUR
 prodname: 'HP EliteBook x360 1030 G3 - Ordenador Portátil Profesional 13.3" FullHD  Intel Core i5-8250  8GB RAM  256GB SSD  Intel Graphics  Windows 10 Pro  Plata - Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DB538QB/?tag=tolees-21'
 descuento: '37.46'
 average: '1616.852'

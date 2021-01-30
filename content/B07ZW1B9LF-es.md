@@ -16,6 +16,7 @@ comparePrice: 136.99 EUR
 prodname: 'Tommee Tippee Cuna Moisés para bebé Sleepee y base  verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZW1B9LF/?tag=tolees-21'
 descuento: '34.31'
 average: '89.99'

@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'CSL - Ventilador USB - Ventilador de Mesa Ventilador - Carcasa aspas de plastico- PC portátil - en Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KW1ZIFY/?tag=tolees-21'
 descuento: '35.74'
 average: '8.99'

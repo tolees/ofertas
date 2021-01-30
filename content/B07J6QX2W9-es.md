@@ -16,6 +16,7 @@ comparePrice: 46.27 EUR
 prodname: 'Hackett London Archive Ujk Clr Polo  Gris  Grey Marl 933   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J6QX2W9/?tag=tolees-21'
 descuento: '30.56'
 average: '35.06'

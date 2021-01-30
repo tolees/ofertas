@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Sunstech CDP10BK - Reproductor CD portátil con Bass Boost y protección Anti Vibraciones  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075V7CF9C/?tag=tolees-21'
 descuento: '25.36'
 average: '29.85'

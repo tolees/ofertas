@@ -16,6 +16,7 @@ comparePrice: 189.0 EUR
 prodname: 'VIBORA Tiger 2020'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CL4FM8J/?tag=tolees-21'
 descuento: '39.18'
 average: '114.95'

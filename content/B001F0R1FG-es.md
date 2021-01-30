@@ -16,6 +16,7 @@ comparePrice: 133.48 EUR
 prodname: 'HP CE505A 05A Cartucho de Tóner Original  1 unidad  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001F0R1FG/?tag=tolees-21'
 descuento: '34.08'
 average: '87.99'

@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Columbia Fairbanks Omni-Heat Bota de invierno para hombre   Negro Black  Rusty   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MQWI247/?tag=tolees-21'
 descuento: '55.07'
 average: '58.41'

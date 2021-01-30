@@ -16,6 +16,7 @@ comparePrice: 6.89 EUR
 prodname: 'N / A Pretyj Funda para UMIDIGI X  6.35"  con 3 Piezas Cristal Templado Protector de Pantalla  Suave TPU Transparente Silicona Anti-Rasguño Protectora  para UMIDIGI X  6.35"  Amor '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088TRWD1L/?tag=tolees-21'
 descuento: '58.06'
 average: '2.89'

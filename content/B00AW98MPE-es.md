@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Revlon ColorStay Corrector 24h  #050 Medium Deep  - 6.2ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00AW98MPE/?tag=tolees-21'
 descuento: '61.01'
 average: '5.975'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: '8-Bit Armies'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZL3TFT/?tag=tolees-21'
 descuento: '63.99'
 average: '17.585'

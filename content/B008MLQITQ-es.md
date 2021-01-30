@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Converse All Star Hi - Zapatillas unisex  Negro  Black   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008MLQITQ/?tag=tolees-21'
 descuento: '44.41'
 average: '32.8'

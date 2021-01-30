@@ -16,6 +16,7 @@ comparePrice: 16.13 EUR
 prodname: 'Geestock - Riñonera Rojo Red Medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MKTZQ6T/?tag=tolees-21'
 descuento: '32.36'
 average: '10.91'

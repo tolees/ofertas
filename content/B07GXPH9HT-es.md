@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'SOLEDI Fieltro Manualidades Tela no Tejido de Lana 41 Colores  Material para Costura y Artesanías de Bricolaje  20 * 30cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GXPH9HT/?tag=tolees-21'
 descuento: '35.02'
 average: '14.24'

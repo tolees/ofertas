@@ -16,6 +16,7 @@ comparePrice: 13.24 EUR
 prodname: 'Pantene Rizos Definidos Mascarilla  Hidrata para Conseguir unos Rizos Sedosos y Definidos - 300 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y5X87QQ/?tag=tolees-21'
 descuento: '43.96'
 average: '7.42'

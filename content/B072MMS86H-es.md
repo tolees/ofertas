@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'PraNaturals Manteca de Karité Hidratante 100% Orgánica 300ml  Protección UV para Todo Tipo de Piel - Reduce el Acné  Cicatrices  Estrías  Celulitis  Eczemas y Piel Seca - Hidrata y Repara Cabello'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072MMS86H/?tag=tolees-21'
 descuento: '35.02'
 average: '12.49'

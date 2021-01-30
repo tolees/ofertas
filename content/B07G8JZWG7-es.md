@@ -16,6 +16,7 @@ comparePrice: 5.75 EUR
 prodname: 'TRESemmé - Acondicionador Botanique Coco - 700 ml  Paquete de 1 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G8JZWG7/?tag=tolees-21'
 descuento: '33.04'
 average: '3.55'

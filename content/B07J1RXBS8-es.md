@@ -16,6 +16,7 @@ comparePrice: 24.45 EUR
 prodname: 'FitFitaly Rodillera Protectora Ortopédica para Ligamentos  Rótula y Menisco para Deporte - Regulable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J1RXBS8/?tag=tolees-21'
 descuento: '25.36'
 average: '18.9'

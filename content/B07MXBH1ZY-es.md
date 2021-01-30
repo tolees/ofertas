@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'LolaPix Cojin Personalizado San Valentin con Foto. Regalos San Valentin Personalizados. Impresión Total por Las 2 Caras hasta la Costura. Cojin San Valentin Relleno Incluido. 35X35. Bonita Vida'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MXBH1ZY/?tag=tolees-21'
 descuento: '29.98'
 average: '21.33'

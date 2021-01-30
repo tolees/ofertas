@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'TUBBZ Oficial Borderlands 3 Mercancías Pato psico Carácter Figurita'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TPYX1RD/?tag=tolees-21'
 descuento: '60.31'
 average: '9.933333333333334'

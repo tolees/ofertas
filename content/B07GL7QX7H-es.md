@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Fossil Reloj de Bolsillo Digital FTW6018'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GL7QX7H/?tag=tolees-21'
 descuento: '30.93'
 average: '222.03199999999998'

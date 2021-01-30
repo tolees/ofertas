@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'GRÜNTEK Tijera de podar jardin FALCON 215 mm Profesional y Ergonómicas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DBX4JYU/?tag=tolees-21'
 descuento: '34.23'
 average: '10.49'

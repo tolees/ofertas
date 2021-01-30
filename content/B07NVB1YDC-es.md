@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'modamoda de - cuero italiano de embrague T151 Pequeño Gamuza  Color:amarillento Brown'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NVB1YDC/?tag=tolees-21'
 descuento: '26.68'
 average: '21.99'

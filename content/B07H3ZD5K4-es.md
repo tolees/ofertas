@@ -16,6 +16,7 @@ comparePrice: 14.0 EUR
 prodname: '10XDIEZ Relleno COJIN 2 Unidades - Relleno Suave y Esponjoso Que no se deforma - para Combinar con Cualquier Funda de cojín  45x45cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H3ZD5K4/?tag=tolees-21'
 descuento: '47.14'
 average: '7.4'

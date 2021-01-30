@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Taurus Phoenix Sandwichera  800 W  2 Indicadores Luminosos  Placas Cuadradas Antiadherentes   1 Liter  0 Decibeles  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZ9CNNT/?tag=tolees-21'
 descuento: '31.70'
 average: '18.228'

@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'G-STAR RAW Rebel Cinturón  Multicolor  Sage/Antic Silver A542   120 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JD67YSS/?tag=tolees-21'
 descuento: '71.83'
 average: '17.562'

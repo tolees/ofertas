@@ -16,6 +16,7 @@ comparePrice: 12.0 EUR
 prodname: 'Pack de 6 cajas de almacenamiento de mascarillas + Llave de no contacto de regalo. Estuches de Almacenaje de Plástico Portátiles con Tapas  Clip de Almacenajede Máscara de Prevención Contaminación'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08G4VNZ1Z/?tag=tolees-21'
 descuento: '33.33'
 average: '8.0'

@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Levi s Graphic Sport Hoodie Capucha  Azul  Goodie Box Taba Baby Blue 0165   L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RZLJG47/?tag=tolees-21'
 descuento: '67.56'
 average: '24.215'

@@ -16,6 +16,7 @@ comparePrice: 91.01 EUR
 prodname: 'SIMREX X300C Mini Drone con cámara WiFi HD FPV Plegable RC Quadcopter RTF 4CH 2.4GHz Control Remoto sin Cabeza Control de altitud Super Easy Fly para Entrenamiento Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J51FGQ5/?tag=tolees-21'
 descuento: '56.06'
 average: '39.99'

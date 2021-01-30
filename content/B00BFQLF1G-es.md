@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Bisk 00414 Deco Toallero Anillo  16 x 6 x 18.5 cm Acabado latón Envejecido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BFQLF1G/?tag=tolees-21'
 descuento: '41.95'
 average: '17.41'

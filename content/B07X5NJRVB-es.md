@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Pnakqil Funda Xiaomi Redmi Note 6 Pro Rosa Ultrafina y Ligero Flexible Soft Carcasa Gel TPU Suave Silicona Case Antigolpes Protectora Cover para Teléfono Xiaomi Redmi Note6 Pro  Gato 01'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X5NJRVB/?tag=tolees-21'
 descuento: '30.43'
 average: '6.95'

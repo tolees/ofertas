@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Sennheiser CX 300S - Auriculares intraurales con control remoto inteligente universal  color rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N246ZPJ/?tag=tolees-21'
 descuento: '44.09'
 average: '27.9'

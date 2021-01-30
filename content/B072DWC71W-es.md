@@ -16,6 +16,7 @@ comparePrice: 13.59 EUR
 prodname: 'Ambielly calcetines de algodón calcetines térmicos Adulto Unisex Calcetines  706B '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072DWC71W/?tag=tolees-21'
 descuento: '26.56'
 average: '8.185'

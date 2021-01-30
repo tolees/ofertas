@@ -16,6 +16,7 @@ comparePrice: 21.23 EUR
 prodname: 'GreenBlue GB104 - Programador eléctrico digital diario semanal tipo carril DIN 16A 250V 240 programas  1 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JAIQETE/?tag=tolees-21'
 descuento: '35.19'
 average: '13.76'

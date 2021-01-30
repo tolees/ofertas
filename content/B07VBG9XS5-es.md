@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Calvin Klein Mid Rise Short  Azul  Da037 Light Blue Cut Hem 1aa   Talla Única  Talla del Fabricante: Ni30  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VBG9XS5/?tag=tolees-21'
 descuento: '60.00'
 average: '27.6'

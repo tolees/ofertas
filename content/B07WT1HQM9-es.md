@@ -16,6 +16,7 @@ comparePrice: 40.99 EUR
 prodname: 'AOQUSSQOA Mujer Trajes de baño de una Pieza con Volantes Trajes de baño con Cuello en V Monokinis Trajes de baño Estilo cambiante Traje de baño de Playa  EU 46-48  XL   Raya Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WT1HQM9/?tag=tolees-21'
 descuento: '48.79'
 average: '20.99'

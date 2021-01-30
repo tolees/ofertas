@@ -16,6 +16,7 @@ comparePrice: 76.45 EUR
 prodname: 'Patron Añejo Tequila - 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003ZIVZG2/?tag=tolees-21'
 descuento: '37.02'
 average: '50.983333333333334'

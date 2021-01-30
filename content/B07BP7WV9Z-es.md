@@ -16,6 +16,7 @@ comparePrice: 41.0 EUR
 prodname: 'Los Chicos del Maíz I-II-III Edición Digipack [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BP7WV9Z/?tag=tolees-21'
 descuento: '51.22'
 average: '18.963333333333335'

@@ -16,6 +16,7 @@ comparePrice: 23.97 EUR
 prodname: 'Eristoff Vodka Pack 3 x 1000 ml - Total: 3L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SSDQNGL/?tag=tolees-21'
 descuento: '25.20'
 average: '16.596666666666668'

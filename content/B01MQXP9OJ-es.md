@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'JACK & JONES Ww 420 Noos  Pantalones para Hombre  Negro  Black   W32/L32  Talla del fabricante: 32 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MQXP9OJ/?tag=tolees-21'
 descuento: '33.34'
 average: '19.14333333333333'

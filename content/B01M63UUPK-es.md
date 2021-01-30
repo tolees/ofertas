@@ -16,6 +16,7 @@ comparePrice: 10.29 EUR
 prodname: 'Air Wick Freshmatic Max Recambio Ambientador Oasis Turquesa - Paquete de 2 x 25 cl - Total: 0 5 l'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M63UUPK/?tag=tolees-21'
 descuento: '26.63'
 average: '7.238333333333333'

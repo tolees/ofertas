@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Transmisor Bluetooth con Pantalla Visual Transmisor Bluetooth y Receptor Bluetooth 2-en-1 USB Adaptador Bluetooth 5.0 para PC TV Coche Hogar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085SW6HJK/?tag=tolees-21'
 descuento: '44.14'
 average: '14.114999999999998'

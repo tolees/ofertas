@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'adidas Light ANK 3pp Socks  Unisex Adulto  Medium Grey Heather/White/Black  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S7CKS95/?tag=tolees-21'
 descuento: '25.03'
 average: '7.49'

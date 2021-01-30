@@ -16,6 +16,7 @@ comparePrice: 84.95 EUR
 prodname: 'Skechers On-the-go Joy Botas Altas Mujer  Negro  Black Suede/Textile Bbk   35 EU  2 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NW8PX3T/?tag=tolees-21'
 descuento: '74.62'
 average: '24.869999999999997'

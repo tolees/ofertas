@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'MLOTECH Funda Huawei Mate 20 Lite Funda Case + Cristal Templado Flip Clear View Translúcido Espejo Standing Cover Slim Fit Anti-Shock Anti-Rasguño Mirror 360°Protectora Cubierta Azul Cielo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JL3X2BT/?tag=tolees-21'
 descuento: '38.49'
 average: '10.49'

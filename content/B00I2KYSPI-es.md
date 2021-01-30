@@ -16,6 +16,7 @@ comparePrice: 9.98 EUR
 prodname: 'Nuk - Detergente líquido especialmente para biberones/tetinas 500 ml – líquido lavavajillas  especialmente diseñado para bebé accesorios. ligera  no para colorear. volumen: 500 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00I2KYSPI/?tag=tolees-21'
 descuento: '39.38'
 average: '6.05'

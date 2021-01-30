@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Cinturón de Calefacción Eléctrico para la Parte Inferior de la Espalda  Cinturón Lumbar Ajustable con 3 Niveles de Calentamiento  Aliviar Dolor de Espalda para Hombres y Mujeres'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WQXB1ZP/?tag=tolees-21'
 descuento: '54.01'
 average: '26.49'

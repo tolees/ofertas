@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Otterbox Symmetry - Funda Anti caídas Fina para iPhone XS  Lila'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FYGKD6D/?tag=tolees-21'
 descuento: '45.76'
 average: '18.98'

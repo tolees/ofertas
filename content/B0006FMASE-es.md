@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Converse Youths Chuck Taylor All Star Hi Zapatillas de tela  Unisex - Infantil  Negro  27'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0006FMASE/?tag=tolees-21'
 descuento: '30.67'
 average: '34.63'

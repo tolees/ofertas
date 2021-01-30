@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Only Frsfalcon Sweat Pants-Unit Pantalones de Deporte  Azul  Navy Blazer Navy Blazer   54  Talla del Fabricante: Large  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RYXV8L7/?tag=tolees-21'
 descuento: '44.68'
 average: '13.9'

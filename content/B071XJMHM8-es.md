@@ -16,6 +16,7 @@ comparePrice: 799.0 EUR
 prodname: 'Aquabot Bravo Limpiafondo Automático de Piscina  Amarillo  38x44x26 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071XJMHM8/?tag=tolees-21'
 descuento: '46.06'
 average: '431.0'

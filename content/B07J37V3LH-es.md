@@ -16,6 +16,7 @@ comparePrice: 40 EUR
 prodname: 'Under Armour Tech Polo  Hombre  Rojo  Beta Red/Pitch Gray 632   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J37V3LH/?tag=tolees-21'
 descuento: '35.13'
 average: '25.95'

@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'TUBBZ Skyrim Dovahkiin Collectible Duck'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WHMQH4C/?tag=tolees-21'
 descuento: '33.62'
 average: '9.95'

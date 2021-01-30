@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Chanclas/ADIDAS:Adilette Aqua 42 Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F71DBGG/?tag=tolees-21'
 descuento: '64.93'
 average: '6.676666666666667'

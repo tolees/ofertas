@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Levi s 501 High Rise Short Pantalones Cortos  Azul  Weak In The Knees 0013   W32  Talla del Fabricante: 32  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KF52WR2/?tag=tolees-21'
 descuento: '36.38'
 average: '29.505000000000003'

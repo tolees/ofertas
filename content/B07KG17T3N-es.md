@@ -16,6 +16,7 @@ comparePrice: 50.02 EUR
 prodname: 'PUMA NRGY Comet  Zapatillas de Running Unisex Adulto  Glacier Gray  46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG17T3N/?tag=tolees-21'
 descuento: '32.05'
 average: '29.485'

@@ -16,6 +16,7 @@ comparePrice: 11.0 EUR
 prodname: 'CANTU ARGAN OIL LEAVE-IN CONDITIONING REPAIR CREAM 453G'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00E1L8QIC/?tag=tolees-21'
 descuento: '45.55'
 average: '5.99'

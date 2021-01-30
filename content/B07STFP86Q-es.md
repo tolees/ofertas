@@ -16,6 +16,7 @@ comparePrice: 109.95 EUR
 prodname: 'adidas EQT Gazelle W  Zapatillas de Gimnasia para Mujer  Azul  Collegiate Navy/Silver Met./Solar Yellow Collegiate Navy/Silver Met./Solar Yellow   39 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07STFP86Q/?tag=tolees-21'
 descuento: '67.61'
 average: '35.61'

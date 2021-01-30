@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: '【2020 Nueva Versión】 CHORTAU Camara de Coche Retrovisor 7 Pulgadas de Pantalla Táctil Full HD 1080P  Cámara Frontal Gran Angular y Cámara Trasera Impermeable  con Sistema de Monitor de Marcha Atrás'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GZM3NMM/?tag=tolees-21'
 descuento: '53.85'
 average: '59.99'

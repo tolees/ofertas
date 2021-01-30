@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Cargador de Batería Coche  BUDDYGO Nueva Versión 8A 12V/24V Cargador Baterias Mantenimiento Automático Inteligente con Pantalla LCD y Múltiples Protecciones para Automóviles  Motos  ATVs  RVs  Barco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WYLDNR3/?tag=tolees-21'
 descuento: '44.03'
 average: '25.25'

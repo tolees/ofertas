@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Havaianas Origine III  Alpargatas Unisex Adulto  Verde  Green   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01L41EBDA/?tag=tolees-21'
 descuento: '30.00'
 average: '18.033333333333335'

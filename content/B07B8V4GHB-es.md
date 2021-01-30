@@ -16,6 +16,7 @@ comparePrice: 39.46 EUR
 prodname: 'Purina Gourmet Perle Delicias en Salsa comida para gato con Pollo y Buey 12 x [4 x 85 g]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B8V4GHB/?tag=tolees-21'
 descuento: '49.34'
 average: '19.99'

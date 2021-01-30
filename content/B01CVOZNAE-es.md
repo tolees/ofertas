@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'SAMSUNG TA20 Cargador Galaxy S7   Carga rápida  AFC 2 A  con Cable Micro USB de 1 5 m  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CVOZNAE/?tag=tolees-21'
 descuento: '34.63'
 average: '6.53'

@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Bimar Silente VPS40 - Ventilador de Pie Silencioso  Mado a distancia  4 Velocidades  Oscilación Automática  40 cm  Pantalla LCD  Temporizador 7 5h  Orientación y altura ajustable  Portatil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NQN625L/?tag=tolees-21'
 descuento: '29.30'
 average: '73.32333333333332'

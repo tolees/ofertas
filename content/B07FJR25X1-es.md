@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Hauck Rapid 4X Silla de paseo ligera desde nacimiento hasta 25 kg  Niños  Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FJR25X1/?tag=tolees-21'
 descuento: '32.00'
 average: '107.06333333333333'

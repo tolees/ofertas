@@ -16,6 +16,7 @@ comparePrice: 14.89 EUR
 prodname: 'TeléFono MóVil Con Botones Grandes  Chshe ™  L8Star Bm10 Mini Banda CuáDruple Desbloqueado TeléFono Bluetooth Dialer 2 Tarjeta De Baja RadiacióN TeléFono MóVil Simplificado para Personas Mayores Gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TCRXT6B/?tag=tolees-21'
 descuento: '32.84'
 average: '10.0'

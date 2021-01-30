@@ -16,6 +16,7 @@ comparePrice: 149 EUR
 prodname: 'TOUS BRIGHT - Pendientes amatista hidrotermal con base de nácar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TVV94P8/?tag=tolees-21'
 descuento: '53.69'
 average: '69.0'

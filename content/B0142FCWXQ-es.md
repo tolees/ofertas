@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Fantasy Flight Games- Star Wars X-Wing: ala-k  Edge Entertainment EDGSWX33 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0142FCWXQ/?tag=tolees-21'
 descuento: '49.92'
 average: '9.99'

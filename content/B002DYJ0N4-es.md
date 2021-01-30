@@ -16,6 +16,7 @@ comparePrice: 63.99 EUR
 prodname: 'Optimum Nutrition Suplemento Dietético en Polvo "Gold Standard 100% Caseina"  Sabor Vainilla - 1820 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002DYJ0N4/?tag=tolees-21'
 descuento: '28.13'
 average: '47.99'

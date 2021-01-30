@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Rocketbook Everlast Smart - Cuaderno reutilizable  Negro  Carta A4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071Y3MSRK/?tag=tolees-21'
 descuento: '36.38'
 average: '32.695'

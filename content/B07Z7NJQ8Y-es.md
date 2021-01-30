@@ -16,6 +16,7 @@ comparePrice: 78.9 EUR
 prodname: 'ZHENROG EMS Masajeador de Pie  Estimulador de Pie Recargable con Remoto Control 6 Modos15 Niveles Intensidad Ajustable para Mejorar la Circulación Sanguínea y Relajación del Dolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z7NJQ8Y/?tag=tolees-21'
 descuento: '63.37'
 average: '28.9'

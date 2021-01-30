@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Under Armour Rush Leggings Legging  Mujer  Negro  Black/Breathtaking Blue/Black 002   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R1ZFWV5/?tag=tolees-21'
 descuento: '63.76'
 average: '25.37'

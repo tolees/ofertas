@@ -16,6 +16,7 @@ comparePrice: 22.75 EUR
 prodname: '3 Pares Calcetines Running Para Hombre Mujer - Deporte Calcetines Cortos de Algodón Con Amortiguación Respirable Running Ciclismo  3 Pares Negro  EU 43-47 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08GX2PFL9/?tag=tolees-21'
 descuento: '42.90'
 average: '12.99'

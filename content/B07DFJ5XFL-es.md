@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Funko - Pop! Kingdom Hearts 3 - Figura de Vinilo Donald  Monsters Inc. '
 country: 'es'
 flag: '🇪🇸'
+brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B07DFJ5XFL/?tag=tolees-21'
 descuento: '37.74'
 average: '9.9575'
@@ -27,10 +28,10 @@ Tienes [Funko - Pop! Kingdom Hearts 3 - Figura de Vinilo Donald  Monsters Inc. ]
 
 ℹ️:
 
-- Funko Pop
-- Donald (Monsters Inc.)
-- Kingdom Hearts 3
 - Estatuas coleccionables
 - Vinilo.
+- Donald (Monsters Inc.)
+- Funko Pop
+- Kingdom Hearts 3
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07DFJ5XFL/?tag=tolees-21)

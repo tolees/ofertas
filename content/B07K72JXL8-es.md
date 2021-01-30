@@ -16,6 +16,7 @@ comparePrice: 60 EUR
 prodname: 'Asics Patriot 10  Zapatillas de Running para Hombre  Rojo  Classic Red/Steel Grey 600   43.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K72JXL8/?tag=tolees-21'
 descuento: '43.35'
 average: '34.49250000000001'

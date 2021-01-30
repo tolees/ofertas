@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'TACKLIFE Carrete para Manguera  30+2m PVC Manguera Enrollable de 1/2  Rotación de 180°  24 Bar  Retirar Automáticamente  Bloquear en Cualquier Posición  Boquilla Ajustable y Soporte - GHR2A'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076CD8CFM/?tag=tolees-21'
 descuento: '44.64'
 average: '88.57'

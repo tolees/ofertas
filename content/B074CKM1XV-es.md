@@ -16,6 +16,7 @@ comparePrice: 134.39 EUR
 prodname: 'CamelBak Sequoia Macuto de Senderismo  Mujer  Rojo  Olive Granite / Foam Green   22 l'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074CKM1XV/?tag=tolees-21'
 descuento: '40.00'
 average: '80.63'

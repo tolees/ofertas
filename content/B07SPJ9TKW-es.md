@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: '[Nueva versión de 136 LED] Luces solares para exteriores  SEZAC Luces solares para seguridad para exteriores Luces con sensor de movimiento solar para patio  garaje  camino  paquete de 4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SPJ9TKW/?tag=tolees-21'
 descuento: '70.92'
 average: '32.74'

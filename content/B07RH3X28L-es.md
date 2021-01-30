@@ -16,6 +16,7 @@ comparePrice: 84.9 EUR
 prodname: 'Tommy Hilfiger Formal Reversbile Adjustable 3.5 Cinturón  Negro  Black 0Gj    Talla del fabricante: 85  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RH3X28L/?tag=tolees-21'
 descuento: '78.21'
 average: '20.475'

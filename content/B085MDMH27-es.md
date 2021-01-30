@@ -16,6 +16,7 @@ comparePrice: 7.47 EUR
 prodname: 'Agger Bicicletas Pequeña Moto Motocicleta reparación alicates instalación de eliminación de Clip Conectar Enlace'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085MDMH27/?tag=tolees-21'
 descuento: '31.59'
 average: '5.11'

@@ -16,6 +16,7 @@ comparePrice: 16.95 EUR
 prodname: 'Buff R-Luminance Cinta De Pelo Ancha  Mujer  Pink  Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FTR18J4/?tag=tolees-21'
 descuento: '42.60'
 average: '9.73'

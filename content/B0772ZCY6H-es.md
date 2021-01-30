@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Columbia Canyon Point  Zapatillas de Senderismo para Hombre  Negro  Black  Mountain Red   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0772ZCY6H/?tag=tolees-21'
 descuento: '32.63'
 average: '53.89'

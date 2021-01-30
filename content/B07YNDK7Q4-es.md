@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Life Is Strange 2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YNDK7Q4/?tag=tolees-21'
 descuento: '65.47'
 average: '26.900000000000002'

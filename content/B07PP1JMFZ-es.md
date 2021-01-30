@@ -16,6 +16,7 @@ comparePrice: 12.06 EUR
 prodname: 'BE-TOOL 2000W AC controlador de velocidad del motor 50-220V Regulador de voltaje ajustable  regulador de velocidad del motor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PP1JMFZ/?tag=tolees-21'
 descuento: '28.44'
 average: '8.365'

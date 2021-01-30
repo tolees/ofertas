@@ -16,6 +16,7 @@ comparePrice: 23.0 EUR
 prodname: 'Fisen ColorPower Pro - Batería portátil  10000 mAh '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083G3LW9R/?tag=tolees-21'
 descuento: '25.00'
 average: '17.25'

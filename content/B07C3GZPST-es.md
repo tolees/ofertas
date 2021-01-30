@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Movaty Bote para café con cuchara  Café hermética  contenedor de café de acero inoxidable  aroma lata  bote  vacío lata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C3GZPST/?tag=tolees-21'
 descuento: '50.01'
 average: '17.99'

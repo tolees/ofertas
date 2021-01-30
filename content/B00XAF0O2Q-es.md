@@ -16,6 +16,7 @@ comparePrice: 5.0 EUR
 prodname: 'Astor Mattitude Powder Polvos Compactos Tono 1  14 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XAF0O2Q/?tag=tolees-21'
 descuento: '30.00'
 average: '3.5'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'ViVidLife Bolsa de Pañales  2 PCS Bolsa Pañales Impermeable Reutilizable Lavable Bolsa Organizador de Maquillaje  Viajes  Playa  Piscina  Gym con 2 Cremallera para Mamá Bebé'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XB7PP9V/?tag=tolees-21'
 descuento: '55.03'
 average: '8.99'

@@ -16,6 +16,7 @@ comparePrice: 177.99 EUR
 prodname: 'Inventor EVA II PRO 20 litros/día con R290  Deshumidificador  Secador De Ropa y Deshumidificación Inteligente para Máximo Ahorro de Energía – 2 Años de Garantía'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XGM6NFH/?tag=tolees-21'
 descuento: '26.97'
 average: '129.99'

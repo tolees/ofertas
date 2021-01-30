@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'KHOMO - Funda para iPad de 9 7 Pulgadas  2017 y 2018   Serie Dual Origami  Pantalla Horizontal y Vertical  Color Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D6SDYZC/?tag=tolees-21'
 descuento: '34.90'
 average: '9.99'

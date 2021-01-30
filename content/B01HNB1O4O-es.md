@@ -16,6 +16,7 @@ comparePrice: 20.77 EUR
 prodname: 'Odelay [Vinilo]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HNB1O4O/?tag=tolees-21'
 descuento: '36.40'
 average: '13.21'

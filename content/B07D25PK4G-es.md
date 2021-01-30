@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Bloomy Shop - Funda para Huawei MediaPad M5  10 8 Pulgadas  función de Encendido y Apagado automático '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D25PK4G/?tag=tolees-21'
 descuento: '27.59'
 average: '6.51'

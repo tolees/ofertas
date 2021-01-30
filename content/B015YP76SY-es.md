@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Beurer ME90-BT - Cardiómetro con Bluetooth  compatible con App"Cardio Expert"  color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015YP76SY/?tag=tolees-21'
 descuento: '59.80'
 average: '79.99'

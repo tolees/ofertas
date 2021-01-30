@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Tommy Hilfiger TH Jeans Flag 1p Calcetines  Hombre  Azul  Dark Navy 322   35/38'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CJ2JCBJ/?tag=tolees-21'
 descuento: '50.05'
 average: '4.99'

@@ -16,6 +16,7 @@ comparePrice: 22.12 EUR
 prodname: 'WowPrint - Bolsa de maquillaje para mujer  diseño de perezoso  portátil  para viaje'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L4GQQ46/?tag=tolees-21'
 descuento: '45.03'
 average: '12.16'

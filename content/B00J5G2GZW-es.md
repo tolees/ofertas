@@ -16,6 +16,7 @@ comparePrice: 9.19 EUR
 prodname: 'HARTMANN - TIRITAS PLASTIC 20 UN'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00J5G2GZW/?tag=tolees-21'
 descuento: '94.89'
 average: '0.47'

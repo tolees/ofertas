@@ -16,6 +16,7 @@ comparePrice: 190.0 EUR
 prodname: 'Braun BN0032BKBKG - Reloj análogico de cuarzo con correa de cuero para hombre  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004X4KW1Q/?tag=tolees-21'
 descuento: '49.56'
 average: '79.94888888888889'

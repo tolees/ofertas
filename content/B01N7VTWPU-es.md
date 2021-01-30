@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'CLUSE Correa de Reloj CLS053'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N7VTWPU/?tag=tolees-21'
 descuento: '33.39'
 average: '19.95'

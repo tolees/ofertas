@@ -16,6 +16,7 @@ comparePrice: 72.9 EUR
 prodname: 'Philips Plancha de vapor GC4567/80  2600 W  Ceramic  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GGCL14Y/?tag=tolees-21'
 descuento: '31.55'
 average: '49.9'

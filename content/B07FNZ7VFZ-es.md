@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'ERAY Luz Solar Exterior  Lámpara Solar 100 Leds con Sensor de Movimiento  Panel Solar Separado/ 700 Lúmenes/ IP44 Impermeable/ 2200mAh Batería Recargable  Luz de Seguridad para Jardín  Patio  Camino'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FNZ7VFZ/?tag=tolees-21'
 descuento: '26.01'
 average: '36.982000000000006'

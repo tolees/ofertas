@@ -16,6 +16,7 @@ comparePrice: 38.99 EUR
 prodname: 'Cepillo de Dientes Eléctrico  Homever Cepillo de Dientes Sónico con Soporte de Carga Inductivo Inalámbrico  3 Cabezales de Repuesto  5 Modos de Limpieza  IPX7 a Prueba de Agua  Carga Rápida'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q29FMGB/?tag=tolees-21'
 descuento: '38.47'
 average: '24.49'

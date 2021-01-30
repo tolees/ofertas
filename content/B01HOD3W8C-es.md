@@ -16,6 +16,7 @@ comparePrice: 13.45 EUR
 prodname: 'Champú de manteca de karité de Shea Moisture  379 ml .'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HOD3W8C/?tag=tolees-21'
 descuento: '33.46'
 average: '8.95'

@@ -16,6 +16,7 @@ comparePrice: 4.5 EUR
 prodname: 'Rimmel London Hide The Blemish Corrector Tono 001 Ivory - 4.5 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001V9LBFM/?tag=tolees-21'
 descuento: '31.33'
 average: '2.52'

@@ -16,6 +16,7 @@ comparePrice: 80 EUR
 prodname: 'New Balance 373  Zapatillas para Mujer  Azul  Navy Navy   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HG79GG9/?tag=tolees-21'
 descuento: '48.10'
 average: '34.875'

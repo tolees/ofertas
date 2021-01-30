@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Polly Super Conjunto para el supermercado Infantil Espana 31 Pc'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NU5T30U/?tag=tolees-21'
 descuento: '30.43'
 average: '6.95'

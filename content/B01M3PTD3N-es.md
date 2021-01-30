@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Ecus Kids  Colchón de minicuna Ecus Care 80x50 es el colchón de minicuna para bebé Antiasfixia que Ayuda a prevenir La Plagiocefalia'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M3PTD3N/?tag=tolees-21'
 descuento: '30.42'
 average: '68.88'

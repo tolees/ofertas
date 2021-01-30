@@ -16,6 +16,7 @@ comparePrice: 140 EUR
 prodname: 'Pala De Padel Head Stratos Pro Ltd'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077JXMQBB/?tag=tolees-21'
 descuento: '57.18'
 average: '61.370000000000005'

@@ -16,6 +16,7 @@ comparePrice: 17.89 EUR
 prodname: 'Schwarzkopf Professional BC Moisture Kick Shampoo Champú - 1000 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PIF4FLW/?tag=tolees-21'
 descuento: '44.21'
 average: '10.965'

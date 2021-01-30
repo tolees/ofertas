@@ -16,6 +16,7 @@ comparePrice: 48.98 EUR
 prodname: 'NEWYES Tableta de Escritura LCD a Color  Pizarra Digital  Tablet para Dibujar para Niños 8.5 Pulgadas  Rosa '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RT4CT4Z/?tag=tolees-21'
 descuento: '69.42'
 average: '14.98'

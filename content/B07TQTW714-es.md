@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'Superdry Classic Superstate S/s Polo  Azul  Eclipse Navy 98t   L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TQTW714/?tag=tolees-21'
 descuento: '40.01'
 average: '33.39'

@@ -16,6 +16,7 @@ comparePrice: 5.95 EUR
 prodname: 'NanoCable 10.99.0002 - Adaptador metálico de 3.5" para Instalar 2 Discos Duros de 2.5" en Ordenador  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MAZHS8Q/?tag=tolees-21'
 descuento: '34.79'
 average: '3.88'

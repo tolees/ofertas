@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Under Armour Coldgear Run Tight Leggings  Mujer  Negro  Black/Black/Reflective 001   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077XSZ1QT/?tag=tolees-21'
 descuento: '52.01'
 average: '35.99'

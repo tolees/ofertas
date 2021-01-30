@@ -16,6 +16,7 @@ comparePrice: 12.97 EUR
 prodname: 'Tahe Fitoxil Forte Plus Tratamiento Anticaída del Cabello para Cabellos Castigados con Proteínas de Soja  Aminoácidos  Biotina  Arginina y Células Madre Vegetales Activas  6 x 10 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HG3YXR8/?tag=tolees-21'
 descuento: '38.32'
 average: '8.0'

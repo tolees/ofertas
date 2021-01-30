@@ -16,6 +16,7 @@ comparePrice: 11.58 EUR
 prodname: 'Durex Natural Comfort Preservativos - 24 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LXK9ID4/?tag=tolees-21'
 descuento: '28.32'
 average: '8.3'

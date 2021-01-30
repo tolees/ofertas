@@ -16,6 +16,7 @@ comparePrice: 549.0 EUR
 prodname: 'Swiss Alpine Military by Grovana Hombre Reloj Chrono 10 ATM Silver 7047.9132sam'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C2KZR1T/?tag=tolees-21'
 descuento: '78.15'
 average: '120.86'

@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Diesel 00ST1N0CAND Pantalones Deportivos  Negro  Black    Tamaño del Fabricante:S  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EVGY84C/?tag=tolees-21'
 descuento: '38.35'
 average: '36.99'

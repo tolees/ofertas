@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Camper Uno  Zapatillas para Mujer  Blanco  White Natural 100   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0742P1ZJP/?tag=tolees-21'
 descuento: '44.58'
 average: '60.96'

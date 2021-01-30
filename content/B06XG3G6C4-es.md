@@ -16,6 +16,7 @@ comparePrice: 26.33 EUR
 prodname: 'Babimax Alicate Pelacables Automático Multifuncional Auto-Herramienta de Ajuste Desmontaje del Alambre 0.2- 6mm² para Cortar Cables'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XG3G6C4/?tag=tolees-21'
 descuento: '62.06'
 average: '9.99'

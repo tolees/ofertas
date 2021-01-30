@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'POP! Vinilo - Games: Street Fighter: Cammy'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LEJD10G/?tag=tolees-21'
 descuento: '40.56'
 average: '9.48'

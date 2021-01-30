@@ -16,6 +16,7 @@ comparePrice: 50.99 EUR
 prodname: 'FIFA 20 - Edición Legacy'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SXN53JY/?tag=tolees-21'
 descuento: '60.97'
 average: '28.59153846153846'

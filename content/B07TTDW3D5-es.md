@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Gant Prepville  Zapatillas para Hombre  Blanco  Off White G20   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TTDW3D5/?tag=tolees-21'
 descuento: '45.16'
 average: '49.33'

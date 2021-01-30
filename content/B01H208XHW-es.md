@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'God of War - Edición Estándar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01H208XHW/?tag=tolees-21'
 descuento: '62.99'
 average: '27.265555555555558'

@@ -16,6 +16,7 @@ comparePrice: 62.95 EUR
 prodname: 'Zwilling Kellnermesser Classic'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DL2YGBI/?tag=tolees-21'
 descuento: '42.78'
 average: '36.02'

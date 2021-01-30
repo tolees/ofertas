@@ -16,6 +16,7 @@ comparePrice: 25 EUR
 prodname: 'Vans Classic Patch Trucker - Gorra para hombre  Negro/Blanco  Black/White   Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001PGVY62/?tag=tolees-21'
 descuento: '50.00'
 average: '12.5'

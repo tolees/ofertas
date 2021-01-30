@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'PUMA Liga Casuals Jr Chándal  Unisex niños  Medium Gray Heather/Black  128'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078T6KQNB/?tag=tolees-21'
 descuento: '55.65'
 average: '15.5'

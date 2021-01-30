@@ -16,6 +16,7 @@ comparePrice: 13.45 EUR
 prodname: 'Mando Distancia Universal Para la Mayoría TV Televisores Samsung SIN INSTALACIÓN CPM315'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N9I93MF/?tag=tolees-21'
 descuento: '55.39'
 average: '6.0'

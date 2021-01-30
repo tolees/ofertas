@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Naipo Almohada de Masaje para Cuello y Espalda Shiatsu Cojín Masajeador de PU Negro con Función de Calor para Relajar las Contracturas y Dolores Musculares en Casa  Oficina y Coche 2 Años Garantía'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N6OZU2O/?tag=tolees-21'
 descuento: '38.58'
 average: '42.99'

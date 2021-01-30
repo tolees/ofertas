@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'Reloj Calvin Klein - Mujer K8E2M111'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071G45CWC/?tag=tolees-21'
 descuento: '55.84'
 average: '109.97'

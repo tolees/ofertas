@@ -16,6 +16,7 @@ comparePrice: 4.01 EUR
 prodname: 'Carcasa del teléfono Conejo Amarillo Resistente a los Golpes Carcasa Blanda Protección del teléfono móvil Accesorios para el vehículo del vehículo móvil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083HZK59J/?tag=tolees-21'
 descuento: '74.56'
 average: '1.02'

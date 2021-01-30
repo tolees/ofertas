@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Rugby 18 - Versión Española'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075V9YTKK/?tag=tolees-21'
 descuento: '67.15'
 average: '20.99'

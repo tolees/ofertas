@@ -16,6 +16,7 @@ comparePrice: 109.86 EUR
 prodname: 'Arcos 610000 - Afilador profesional  estuche '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005LR7EP6/?tag=tolees-21'
 descuento: '46.76'
 average: '58.49'

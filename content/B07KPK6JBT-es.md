@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Funko- Pop Vinilo: Kiss: Spaceman Figura Coleccionable  Multicolor  Estándar  28506 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KPK6JBT/?tag=tolees-21'
 descuento: '28.52'
 average: '10.857333333333333'

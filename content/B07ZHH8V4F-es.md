@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'QHOHQ Protector de Pantalla para Realme 5 Pro  [3 Piezas] [Dureza 9H] Sin Burbujas HD Transparente Anti-Arañazos Cristal Templado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZHH8V4F/?tag=tolees-21'
 descuento: '53.21'
 average: '7.95'

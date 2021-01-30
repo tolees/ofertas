@@ -16,6 +16,7 @@ comparePrice: 65.99 EUR
 prodname: 'K KYUER A42-G750 Batería para ASUS ROG G750J G750JH-DB71 T4106H G750JHA G750JM-DS71 G750JS-RS71 DS71 TS71 T4064H T4069H G750JW-DB71 NH71 T4091H T4016H G750JX-DB71 RB71 TB71 G750JZ-XS72 G75LM2H G750JZA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075F5C3TJ/?tag=tolees-21'
 descuento: '33.34'
 average: '43.99'

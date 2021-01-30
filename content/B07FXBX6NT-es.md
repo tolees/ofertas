@@ -16,6 +16,7 @@ comparePrice: 100.55 EUR
 prodname: 'Plantronics RIG 500 Pro Headset PC/Win 10 E+A 211223-05 RIG 500 Pro  PC/Juegos  BINAURAL  Diadema  Negro  Oro  ALÁMBRICO  1 3 M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FXBX6NT/?tag=tolees-21'
 descuento: '50.28'
 average: '66.80133333333335'

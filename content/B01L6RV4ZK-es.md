@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee Rider Contrast Jeans  Rinse  29W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01L6RV4ZK/?tag=tolees-21'
 descuento: '81.07'
 average: '19.526666666666667'

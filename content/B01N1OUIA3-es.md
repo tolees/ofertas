@@ -16,6 +16,7 @@ comparePrice: 76.82 EUR
 prodname: 'ALLPOWERS Panel Solar Baterías Cargador 18V 12V 18W Panel Módulo Solar mechero de Coche Mantenimiento de Batería para Coches  Caravana  Moto  Bote  Barco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N1OUIA3/?tag=tolees-21'
 descuento: '45.68'
 average: '41.376666666666665'

@@ -16,6 +16,7 @@ comparePrice: 84.95 EUR
 prodname: 'New Balance ML373  Zapatillas para Hombre  Verde  Olive OLV   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M4GIW6F/?tag=tolees-21'
 descuento: '44.84'
 average: '46.86'

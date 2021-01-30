@@ -16,6 +16,7 @@ comparePrice: 11.5 EUR
 prodname: 'La Toja - Bálsamo Protect 7  Sin alcohol y con micro aceites y sales minerales exclusivas  - 2 uds de 100ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NRFGFVP/?tag=tolees-21'
 descuento: '34.78'
 average: '7.5'

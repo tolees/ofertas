@@ -16,6 +16,7 @@ comparePrice: 293.9 EUR
 prodname: 'HP CE255X 55X Cartucho de Tóner Original de alto rendimiento  1 unidad  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002EDRK1S/?tag=tolees-21'
 descuento: '36.05'
 average: '195.2514285714286'

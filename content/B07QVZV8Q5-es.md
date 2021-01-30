@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Exprimidor Manual de Acero Inoxidable 304 con Recipiente de 300ML  Ø 12 5 cm  Citrus Juicer de Mano Portátil para Naranja Limón Lima Cítricos Pomelo  Apto para Lavavajillas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QVZV8Q5/?tag=tolees-21'
 descuento: '38.90'
 average: '21.99'

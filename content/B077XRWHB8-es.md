@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Under Armour Seamless Longline Sujetador Deportivo  Mujer  Negro  Black/Black/Black 001   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077XRWHB8/?tag=tolees-21'
 descuento: '44.31'
 average: '19.49'

@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'KFAWON Ring Pilates  Yoga Magic Fitness Circle -Equipo de Resistencia al Ejercicio para Esculpir los Muslos internos/externos Mujeres Workout Gym Entrenamiento en el hogar Pilates Circle Accesorios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086MXGLQV/?tag=tolees-21'
 descuento: '31.54'
 average: '13.0'

@@ -16,6 +16,7 @@ comparePrice: 3.23 EUR
 prodname: 'Gradiente de barro cristalino limo nube algodón barro - azul + verde - azul + verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W843RRF/?tag=tolees-21'
 descuento: '33.44'
 average: '2.15'

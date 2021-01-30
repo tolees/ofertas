@@ -16,6 +16,7 @@ comparePrice: 1.96 EUR
 prodname: 'Agerul Vinagre de Limpieza 1l'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LDXWHD7/?tag=tolees-21'
 descuento: '52.04'
 average: '0.94'

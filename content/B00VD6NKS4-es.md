@@ -16,6 +16,7 @@ comparePrice: 18.0 EUR
 prodname: 'Veopulse Veopulse – Soporte Magnético de Teléfono para Coche –&nbsp Rejilla de ventilación'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VD6NKS4/?tag=tolees-21'
 descuento: '61.28'
 average: '6.97'

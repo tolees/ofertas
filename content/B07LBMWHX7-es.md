@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Kappa Marabu  Zapatillas Unisex Adulto  Black Red 1120  36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBMWHX7/?tag=tolees-21'
 descuento: '43.37'
 average: '16.96'

@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'ASUS ROG Sica - Ratón óptico ambidiestro de 5000 DPI  color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01C4EE6L8/?tag=tolees-21'
 descuento: '56.11'
 average: '20.935'

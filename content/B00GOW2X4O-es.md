@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Silver HT - Funda universal gripcase con teclado   9"-10.1"   color azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GOW2X4O/?tag=tolees-21'
 descuento: '26.93'
 average: '34.88666666666666'

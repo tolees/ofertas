@@ -16,6 +16,7 @@ comparePrice: 28.89 EUR
 prodname: 'Pantuflas de Invierno para Hombre y Mujer  con Espuma viscoelástica  cómodas  Antideslizantes  para Interior y Exterior szlb.Gris Oscuro 40/41 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YRDMPG5/?tag=tolees-21'
 descuento: '37.73'
 average: '17.99'

@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Tristar RK-6117 - Arrocera  Capacidad 0.6 litros  Función para Mantener el Calor  Apagado Automático  incluye Taza Medidora  Espátula y Cuchara  300 W'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00RXQJDXY/?tag=tolees-21'
 descuento: '28.10'
 average: '16.035'

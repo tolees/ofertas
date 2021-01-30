@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Pablosky 714410  Zapatillas Unisex niño  Negro  Negro Negro   28 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QC89BCK/?tag=tolees-21'
 descuento: '60.35'
 average: '19.82'

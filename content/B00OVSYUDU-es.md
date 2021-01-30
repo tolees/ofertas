@@ -16,6 +16,7 @@ comparePrice: 16.0 EUR
 prodname: 'Camano 3003 Ca-Soft Sneaker 7 Paar Calcetines cortos  Blanco  white combi 01   35/38  35/38   Pack de 7  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OVSYUDU/?tag=tolees-21'
 descuento: '40.69'
 average: '9.49'

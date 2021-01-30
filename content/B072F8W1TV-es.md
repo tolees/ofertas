@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'FOREO Espada tratamiento de luz azul para acné Pink'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072F8W1TV/?tag=tolees-21'
 descuento: '25.00'
 average: '111.75'

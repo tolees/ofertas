@@ -16,6 +16,7 @@ comparePrice: 211.99 EUR
 prodname: 'HyperX Predator - Memoria RAM de 32 GB  DDR4  Kit 2 x 16 GB  2666 MHz  CL13  DIMM XMP  HX426C13PB3K2/32 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071ZZDMM6/?tag=tolees-21'
 descuento: '29.71'
 average: '168.27333333333334'

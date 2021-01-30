@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'WIFORT Dispensador de Jabón Automático  400ML Dispensador de Líquido Sin Contacto con Sensor de Infrarrojos  Interruptor Ajustable & Base Impermeable para Baño/Cocina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B3Z8Z1X/?tag=tolees-21'
 descuento: '26.09'
 average: '33.99'

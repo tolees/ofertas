@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Converse Chuck Taylor All Star Hi Top  Zapatillas Unisex Adulto  Rojo  Rojo   46.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005VS6DRK/?tag=tolees-21'
 descuento: '26.00'
 average: '60.56666666666666'

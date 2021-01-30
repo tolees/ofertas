@@ -16,6 +16,7 @@ comparePrice: 13.5 EUR
 prodname: 'Max Factor LipFinity Velvet Matte Pintalabios Tono 005 Matte Merlot'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GRZYDNH/?tag=tolees-21'
 descuento: '41.11'
 average: '7.95'

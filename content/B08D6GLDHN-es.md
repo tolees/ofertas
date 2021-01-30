@@ -16,6 +16,7 @@ comparePrice: 68.0 EUR
 prodname: 'Family Game classic Mini Consola - con 621 Videojuego de TV Salida HDMI'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08D6GLDHN/?tag=tolees-21'
 descuento: '35.32'
 average: '43.37692307692308'

@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'HOMCOM Banco de Pesas Multifuncional Tipo Banco de Musculación con Respaldo Ajustable Carga 150kg Acero 105x150x112cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YS578DC/?tag=tolees-21'
 descuento: '30.63'
 average: '110.99'

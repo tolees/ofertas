@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'LATEC Pulsera Actividad [Última Versión]  Pulsera de Actividad Inteligente Pantalla Color Reloj con Pulsómetro Impermeable IP68 Podómetroómetro-Pantalla Deslizante'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZQLZTD/?tag=tolees-21'
 descuento: '38.34'
 average: '37.35363636363636'

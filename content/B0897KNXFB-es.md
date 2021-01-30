@@ -16,6 +16,7 @@ comparePrice: 15.0 EUR
 prodname: 'NA Organizador de Maquillaje de lápiz Organizador de lápiz Labial acrílico  lápiz Labial cosméticos Almacenamiento Pantalla Soporte  9 Almacenamiento de Espacio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0897KNXFB/?tag=tolees-21'
 descuento: '33.40'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 22.05 EUR
 prodname: 'find. HWCAP0002  Pantalones Para Hombre  Beige  Tan   Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071JR8DTC/?tag=tolees-21'
 descuento: '59.18'
 average: '9'

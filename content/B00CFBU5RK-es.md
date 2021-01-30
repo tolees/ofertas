@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Nixon Reloj Analógico para Unisex de Cuarzo con Correa en Acero Inoxidable Recubierto A045-897-00'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CFBU5RK/?tag=tolees-21'
 descuento: '28.20'
 average: '70.28500000000001'

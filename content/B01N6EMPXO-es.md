@@ -16,6 +16,7 @@ comparePrice: 17.97 EUR
 prodname: 'Vitamaze® Vitamina B Complex con 180 tabletas veganas de dosis alta del para 6 meses de suministro B1  B2  B3  B5  B6  B7  B9  B12 Hecho en Alemania sin estearato de magnesio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N6EMPXO/?tag=tolees-21'
 descuento: '28.94'
 average: '12.77'

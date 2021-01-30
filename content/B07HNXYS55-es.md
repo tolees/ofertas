@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Sonew Buscador de Seguimiento de Mascotas Portátil USB Mini-Microchip RFID 134.2Khz  1 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HNXYS55/?tag=tolees-21'
 descuento: '29.00'
 average: '42.59'

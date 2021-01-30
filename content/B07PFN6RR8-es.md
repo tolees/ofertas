@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Columbia Street Elite Bolsa De Viaje Convertible  Unisex Adulto  Cool Grey  O/S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PFN6RR8/?tag=tolees-21'
 descuento: '33.04'
 average: '53.56'

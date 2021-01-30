@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Jian Ya Na - Funda de sofá Extensible de poliéster y Elastano  Funda de poliéster  Tejido elástico + 2 Fundas de Almohada para sofá en L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RYLM8XJ/?tag=tolees-21'
 descuento: '32.60'
 average: '33.7'

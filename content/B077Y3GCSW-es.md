@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Shantae: Half Genie Hero Ultimate Day One'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077Y3GCSW/?tag=tolees-21'
 descuento: '29.32'
 average: '41.625'

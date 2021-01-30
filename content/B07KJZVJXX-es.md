@@ -16,6 +16,7 @@ comparePrice: 179.99 EUR
 prodname: 'Sorel Madson Hiker Waterproof  Botas para Hombre  Marrón  Oatmeal  Quarry 241   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KJZVJXX/?tag=tolees-21'
 descuento: '50.03'
 average: '89.95'

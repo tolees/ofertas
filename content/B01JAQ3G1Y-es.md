@@ -16,6 +16,7 @@ comparePrice: 289.0 EUR
 prodname: 'Seiko Reloj Analógico Automático para Hombre con Correa de Acero Inoxidable – SRPA25K1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JAQ3G1Y/?tag=tolees-21'
 descuento: '26.14'
 average: '203.71818181818182'

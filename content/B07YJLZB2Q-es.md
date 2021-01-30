@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'FORMIZON Equilibrar Juego de Matemáticas  Juguete Animal Balanza  Juguete Educativo Niños Balanza de Equilibrio Números Tarjetas  Juego Divertido Regalo Educativo para Niñas Niños  Monos '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YJLZB2Q/?tag=tolees-21'
 descuento: '36.68'
 average: '18.99'

@@ -16,6 +16,7 @@ comparePrice: 29.48 EUR
 prodname: 'Fajiabao Ajedrez Magnetico Plegable con Tablero Ajedrez Plastico Juego de Ajedrez Portatil para Niños Infantil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CE5Q37W/?tag=tolees-21'
 descuento: '45.76'
 average: '15.99'

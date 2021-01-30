@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'MaxHold Sistema de vacío - Toalleros de aro - Acero Inoxidable - Almacenamiento de la Cocina&baño'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017Y0R3IU/?tag=tolees-21'
 descuento: '43.50'
 average: '12.99'

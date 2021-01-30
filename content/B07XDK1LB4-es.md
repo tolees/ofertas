@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Polarduck Soporte de Pared para TV de 23-55 pulgadas  Fijo Ultra Delgado Soporte TV para LED/LCD/Plasma/Curvada Televisores  VESA Máx. 400x400mm  Carga Máx. 60 kg  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XDK1LB4/?tag=tolees-21'
 descuento: '40.02'
 average: '11.99'

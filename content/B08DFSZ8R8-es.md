@@ -16,6 +16,7 @@ comparePrice: 12.98 EUR
 prodname: 'Kaishuai Alfombrilla de Ratón Grande Gaming Mouse Pad Impermeable con Base de Goma Antideslizante Patrón de Conejo de Hadas de -Textured Superficie para Gamers Ordenador  Laptop Trabajo de Oficina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DFSZ8R8/?tag=tolees-21'
 descuento: '42.45'
 average: '7.47'

@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Apple Smart Battery Case  for iPhone XR  - Black'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MX892VV/?tag=tolees-21'
 descuento: '33.56'
 average: '127.896'

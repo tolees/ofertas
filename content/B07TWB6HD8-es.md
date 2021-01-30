@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Levi s Graphic Sport Capucha  Blanco  Hoodie Filled Brw T2 White+ 0119   M para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TWB6HD8/?tag=tolees-21'
 descuento: '60.68'
 average: '34.656666666666666'

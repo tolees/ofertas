@@ -16,6 +16,7 @@ comparePrice: 9.89 EUR
 prodname: 'atFoliX Lámina Protectora de plástico Cristal compatible con Sony PSP-3004 Película Vidrio  9H Hybrid-Glass FX Protector Pantalla Vidrio templado de plástico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01D1YTL1U/?tag=tolees-21'
 descuento: '41.46'
 average: '5.79'

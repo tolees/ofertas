@@ -16,6 +16,7 @@ comparePrice: 33.0 EUR
 prodname: 'Davidoff Cool Water After Shave 75 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000VOLCZC/?tag=tolees-21'
 descuento: '54.55'
 average: '20.016666666666666'

@@ -16,6 +16,7 @@ comparePrice: 17.0 EUR
 prodname: 'Diadema de Flores Corona 5 piezas Corona de Flores Girasol Girasol Diadema Multi Color con Cinta Elástica Ajustable para Mujer o Niñas Actuaciones Fiestas Bodas Festivales'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085WRY88K/?tag=tolees-21'
 descuento: '29.47'
 average: '11.99'

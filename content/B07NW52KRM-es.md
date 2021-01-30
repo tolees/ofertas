@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Skechers Women s Skech-AIR Stratus-Sparkling W Trainers   Negro   Gray Heather Mesh & Suede/White Trim Bkhp     3.5  36.5 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NW52KRM/?tag=tolees-21'
 descuento: '34.10'
 average: '52.69'

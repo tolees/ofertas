@@ -16,6 +16,7 @@ comparePrice: 24.59 EUR
 prodname: 'secador de uñas 36W Anself 36 W Lámpara de uñas Inteligente de LED/UV con Pantalla LCD 3 Temporizadores Secadora de Uñas con Carga USB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJQYN98/?tag=tolees-21'
 descuento: '39.04'
 average: '17.99'

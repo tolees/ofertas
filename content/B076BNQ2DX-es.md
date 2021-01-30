@@ -16,6 +16,7 @@ comparePrice: 5.33 EUR
 prodname: 'Protector de pantalla de vidrio templado para iPhone 7 y 8  de Vibe - Irrompible  antigolpes  compatible con 3D Touch  grosor de 0 26 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076BNQ2DX/?tag=tolees-21'
 descuento: '28.33'
 average: '3.82'

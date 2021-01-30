@@ -16,6 +16,7 @@ comparePrice: 17.9 EUR
 prodname: 'Tommy Hilfiger Algodón Tanga de Cintura Elástica Distintiva con Inserción De Malla  Azul  Navy Blazer   32  Talla del Fabricante: X-Small  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XCGPP2V/?tag=tolees-21'
 descuento: '33.02'
 average: '11.39'

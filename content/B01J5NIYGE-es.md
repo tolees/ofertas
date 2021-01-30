@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Educa Borrás- Juego de Mesa  Color Variado  16988 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01J5NIYGE/?tag=tolees-21'
 descuento: '44.73'
 average: '13.79'

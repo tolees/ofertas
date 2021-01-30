@@ -16,6 +16,7 @@ comparePrice: 179.99 EUR
 prodname: 'Taurus Pulsar Turbo-948.969 Aspirador de Trineo sin bolsa con filtraje multiciclónico  Energy Eco System  Turbocyclone Sytem  2 litros  Filtro HEPA  800 W  78 decibeles  2 liters  Decibelios  Plástico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LB48NXE/?tag=tolees-21'
 descuento: '66.72'
 average: '60.49'

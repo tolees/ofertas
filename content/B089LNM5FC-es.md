@@ -16,6 +16,7 @@ comparePrice: 20.23 EUR
 prodname: 'Auriculares inalámbricos TW12 Bluetooth 5.0 True negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089LNM5FC/?tag=tolees-21'
 descuento: '29.31'
 average: '14.3'

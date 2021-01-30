@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'JDC Anclaje Al Suelo De Acero Endurecido De Alta Resistencia para Motocicleta - Sphere - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HKKGVCL/?tag=tolees-21'
 descuento: '33.34'
 average: '19.99'

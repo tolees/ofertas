@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Awroutdoor Push up Board  14 en 1 Equipo Multifuncional Plegable para Ejercicios en el hogar  Marco de Entrenamiento portátil Push-up  Utilizado para Hombres  Mujeres  Entrenamiento en el Hogar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0888K4SGK/?tag=tolees-21'
 descuento: '27.28'
 average: '23.99'

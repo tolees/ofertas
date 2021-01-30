@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Wrangler Logo Hoodie Capucha  Rojo  Bittersweet Red XBO   Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TWTG95W/?tag=tolees-21'
 descuento: '74.83'
 average: '16.35'

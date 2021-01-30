@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'Antony Morato Cintura In Pelle H.30mm Cinturón  Negro  NERO 9000   No Aplica  Talla del fabricante: Small  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VQSLDKT/?tag=tolees-21'
 descuento: '60.33'
 average: '19.62'

@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Funme USB Mini Ventilador de Escritorio Ventilador Silencioso de Dos Táctil Ventilador para Hogar Oficina - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RHH9SRP/?tag=tolees-21'
 descuento: '47.32'
 average: '9.223333333333333'

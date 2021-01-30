@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Kipling Abanu  Bolsos con Bandolera para Mujer  Blanco  White Metallic   20x13.5x7.5 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TSKW8HD/?tag=tolees-21'
 descuento: '36.25'
 average: '43.99'

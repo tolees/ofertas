@@ -16,6 +16,7 @@ comparePrice: 48.44 EUR
 prodname: 'Montblanc Emblem Intense Edt Vapo 100 Ml 1 Unidad 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UN4R3XA/?tag=tolees-21'
 descuento: '27.60'
 average: '35.07'

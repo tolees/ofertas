@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'LJP Funda Huawei Y9S  Funda Huawei Honor 9X  Antigolpes Doble Capa Duro PC + Suave Silicona TPU Bumper Case Carcasa para Huawei Y9S / Honor 9X  con 360 Anillo iman Soporte - Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089R6WD1D/?tag=tolees-21'
 descuento: '31.85'
 average: '7.49'

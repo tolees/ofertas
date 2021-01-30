@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Ganchos para Sillas de Paseo GKONGU Pack de 2 Ganchos Carrito Bebé  Ganchos de Cochecitos Giratorios Ganchos para Sostener Bolsas Cuando Está Tomando de Bebé Manos Extra para Los Padres'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004DWWRGG/?tag=tolees-21'
 descuento: '33.10'
 average: '8.69'

@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Baby Art 34120085 - Marco para fotos recuerdo del primer año con material para huella de mano o pie  madera  color blanco y gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0063PYMFU/?tag=tolees-21'
 descuento: '37.80'
 average: '27.99'

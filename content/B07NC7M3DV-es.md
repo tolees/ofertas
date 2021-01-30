@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'BATTLEFIELD 1 - Standard | Código Origin para PC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NC7M3DV/?tag=tolees-21'
 descuento: '75.04'
 average: '4.99'

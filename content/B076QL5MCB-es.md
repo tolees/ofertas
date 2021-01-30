@@ -16,6 +16,7 @@ comparePrice: 40.5 EUR
 prodname: 'Dewar s 15 Años Whisky Escocés - 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076QL5MCB/?tag=tolees-21'
 descuento: '36.05'
 average: '24.189999999999998'

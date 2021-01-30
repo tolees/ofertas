@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Triumph Amourette Charm W Sujetador con Aros  Azul  Peacock 1512   90B  Talla del Fabricante: 75B  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V3NXHRS/?tag=tolees-21'
 descuento: '40.26'
 average: '29.84'

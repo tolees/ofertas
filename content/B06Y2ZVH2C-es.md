@@ -16,6 +16,7 @@ comparePrice: 13.95 EUR
 prodname: 'Joma Miami Bermuda Deporte de Tenis  Hombre  Negro  2XL/3XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y2ZVH2C/?tag=tolees-21'
 descuento: '28.39'
 average: '9.99'

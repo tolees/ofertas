@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Leuzea carthamoides  Ecdysterone  Maral raíz 200mg Extracto de hierbas naturales  Resistencia y resistencia  Suplemento anabólico natural  60 tabletas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VPWFQ2H/?tag=tolees-21'
 descuento: '28.58'
 average: '19.99'

@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Skechers Ultra Flex-More Tranquility  Zapatillas para Mujer  Azul  Navy Mint Nvmt   36.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J6PN4TD/?tag=tolees-21'
 descuento: '67.47'
 average: '26.01'

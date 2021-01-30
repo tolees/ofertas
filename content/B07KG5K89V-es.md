@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'PUMA St Runner V2 Mesh  Zapatillas Unisex Adulto - Gris  Charcoal Gray  - 36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG5K89V/?tag=tolees-21'
 descuento: '59.67'
 average: '22.16'

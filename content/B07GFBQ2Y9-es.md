@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Canon Zoemini Pv-123 - Mini Impresora  Bluetooth  USB  314 x 600 PPP  Canon Mini Print  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GFBQ2Y9/?tag=tolees-21'
 descuento: '35.32'
 average: '83.06785714285716'

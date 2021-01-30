@@ -16,6 +16,7 @@ comparePrice: 49.96 EUR
 prodname: 'Brooks Defyance 9  Zapatillas de Gimnasia para Hombre  Gris  Charcoal/Silver/High Risk Red   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GEYGSJW/?tag=tolees-21'
 descuento: '26.12'
 average: '36.91'

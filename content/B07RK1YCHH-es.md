@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance Fresh Foam Roav  Zapatillas de Running para Mujer  Plateado  Moonbeam TG   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RK1YCHH/?tag=tolees-21'
 descuento: '49.97'
 average: '45.03'

@@ -16,6 +16,7 @@ comparePrice: 56.99 EUR
 prodname: 'BANLVS Smartwatch Niños  2019 Nuevo Reloj Inteligente Niños con Flashlight  IP67 LBS SOS  Cámara  Smartwatch con Ranura para Tarjeta SIM  Regalo Niño Niña de 3-12 Años Compatible con iOS/Android'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WK37ZZ1/?tag=tolees-21'
 descuento: '47.38'
 average: '34.104285714285716'

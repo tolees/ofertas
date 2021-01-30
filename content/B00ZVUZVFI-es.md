@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'WMF Gourmet-Set de 4 Boles  Acero Inoxidable Mate'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ZVUZVFI/?tag=tolees-21'
 descuento: '33.45'
 average: '33.07'

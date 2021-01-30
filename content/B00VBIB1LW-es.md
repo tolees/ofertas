@@ -16,6 +16,7 @@ comparePrice: 9.09 EUR
 prodname: 'PNY Attaché 4 - Memoria USB 3.0 de 16 GB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VBIB1LW/?tag=tolees-21'
 descuento: '56.11'
 average: '3.99'

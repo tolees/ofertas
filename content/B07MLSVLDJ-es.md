@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'Clarks Clarkdale Gobi  Botas Chelsea para Hombre  Grau  Taupe Suede Taupe Suede   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MLSVLDJ/?tag=tolees-21'
 descuento: '40.03'
 average: '78.16'

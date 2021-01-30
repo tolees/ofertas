@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'CMP Rigel - Zapatillas de senderismo Mujer  Gris  Grey-Fuxia-Ice 103Q   41 UE'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0160YHQDS/?tag=tolees-21'
 descuento: '29.98'
 average: '55.98'

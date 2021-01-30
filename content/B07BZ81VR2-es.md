@@ -16,6 +16,7 @@ comparePrice: 83.99 EUR
 prodname: 'TACKLIFE Carrete de Manguera de Aire  Enrollador de Manguera de Aire 15m+1.5m  Manguera 3/8"  2 Juegos de Tornillos  Rotación de 180 °  Soporte de Pared  Presión Máxima 24 Bar-GAHR2A'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BZ81VR2/?tag=tolees-21'
 descuento: '29.77'
 average: '58.99'

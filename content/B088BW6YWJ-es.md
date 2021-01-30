@@ -16,6 +16,7 @@ comparePrice: 8.92 EUR
 prodname: 'Dasket 35x25cm 30 Hojas de Papel de arroz Duradero Xuan Pintura Libro Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088BW6YWJ/?tag=tolees-21'
 descuento: '40.02'
 average: '5.35'

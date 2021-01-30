@@ -16,6 +16,7 @@ comparePrice: 129.9 EUR
 prodname: 'De longhi Dragon TRD40 0615 - Radiador de aceite  1500 w  función anti heladas  3 ajustes potencia  asa y ruedas  almacenamiento cable  blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00FU3IKS6/?tag=tolees-21'
 descuento: '26.94'
 average: '94.9'

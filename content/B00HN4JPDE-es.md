@@ -16,6 +16,7 @@ comparePrice: 1.37 EUR
 prodname: 'Anillo Rimous clásico ajustable con bonita flor tibetana color turquesa para mujeres de Yazilind'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HN4JPDE/?tag=tolees-21'
 descuento: '64.96'
 average: '0.48'

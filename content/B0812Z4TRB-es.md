@@ -16,6 +16,7 @@ comparePrice: 5.17 EUR
 prodname: 'Gancho de jardín de infantes Fibra de bambú Cuadrado pequeño 25 * 25 Regalos maternos e infantiles Toalla de saliva Toalla pequeña para niños + Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0812Z4TRB/?tag=tolees-21'
 descuento: '35.01'
 average: '3.36'

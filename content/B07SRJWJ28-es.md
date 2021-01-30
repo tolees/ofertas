@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'adidas Predator 19.3 FG  Zapatillas de Fútbol para Hombre  Verde  Legacy Green/Sand/Solar Yellow Legacy Green/Sand/Solar Yellow   39 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SRJWJ28/?tag=tolees-21'
 descuento: '33.84'
 average: '59.51'

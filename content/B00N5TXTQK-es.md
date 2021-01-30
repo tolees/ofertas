@@ -16,6 +16,7 @@ comparePrice: 83.54 EUR
 prodname: 'Bausch & Lomb - PureVision 2 Multifocales - Lentes de Contacto Para Presbicia'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00N5TXTQK/?tag=tolees-21'
 descuento: '58.12'
 average: '34.99'

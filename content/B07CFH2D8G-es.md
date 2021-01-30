@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Jack & Jones Jjidrake Jjchop AKM 574 F Noos Pantalones  Verde  Forest Night Forest Night   W32/L32  Talla del Fabricante: 32  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CFH2D8G/?tag=tolees-21'
 descuento: '34.01'
 average: '32.99'

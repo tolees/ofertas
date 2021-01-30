@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Bounder Verkona  Zapatillas para Hombre  Gris  White Mesh/Black Synthetic/Trim WBK   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TSQ8TLH/?tag=tolees-21'
 descuento: '47.67'
 average: '33.99'

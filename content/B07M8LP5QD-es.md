@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Bandas elasticas musculación con asas | Gomas elasticas fitness de 5 a 70kg libras | Pack de cintas elasticas para ejercicio en casa | Mujer y Hombre | Programa de entrenamiento gratuito incluido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M8LP5QD/?tag=tolees-21'
 descuento: '56.01'
 average: '21.99'

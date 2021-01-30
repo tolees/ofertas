@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Funda Xiaomi Redmi Note 8T 360 Grados Full Body Antishock Transparente Fundas Delantera Suave TPU y PC Trasera Doble Protectora Carcasa Cover para Xiaomi Redmi Note 8T'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08D36HWPL/?tag=tolees-21'
 descuento: '52.66'
 average: '8.99'

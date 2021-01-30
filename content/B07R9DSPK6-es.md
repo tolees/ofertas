@@ -16,6 +16,7 @@ comparePrice: 6.04 EUR
 prodname: 'Herbal Essences  Acondicionador - 1 Unidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R9DSPK6/?tag=tolees-21'
 descuento: '69.54'
 average: '1.84'

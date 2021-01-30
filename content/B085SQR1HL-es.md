@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Jack & Jones JJIARUBA JJSWIM Shorts AKM STS Bañador para Hombre  Amarillo neón  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085SQR1HL/?tag=tolees-21'
 descuento: '25.02'
 average: '11.99'

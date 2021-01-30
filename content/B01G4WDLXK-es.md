@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'VTech-80-190922 Oso de Tela Interactivo  Multicolor  3480-190922 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01G4WDLXK/?tag=tolees-21'
 descuento: '33.34'
 average: '19.99'

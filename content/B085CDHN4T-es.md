@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'FMPC Carcasa con Cuerda Samsung Galaxy A7 2018  Cristal TPU Silicona Transparente Ultrafina de movil Case con Colgante Funda Protector Airbag [Moda y Practico] Anti-rasguños Antichoque'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085CDHN4T/?tag=tolees-21'
 descuento: '70.23'
 average: '8.9'

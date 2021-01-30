@@ -16,6 +16,7 @@ comparePrice: 26.16 EUR
 prodname: 'HERSITY Mini Camiones de Construccion Metal 5 Vehículos de Juguete Juego de Coches Regalos para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083P1DLVP/?tag=tolees-21'
 descuento: '54.17'
 average: '11.99'

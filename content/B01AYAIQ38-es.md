@@ -16,6 +16,7 @@ comparePrice: 25.25 EUR
 prodname: 'Pyrex Classic Vidrio Fuente para Horno  4.69 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AYAIQ38/?tag=tolees-21'
 descuento: '44.95'
 average: '13.9'

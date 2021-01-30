@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Pepe Jeans Callen Chino Archive Pm211266 Pantalones   Sailor 580   W31/L34  Talla del Fabricante: W31/Long  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JGHTZQ9/?tag=tolees-21'
 descuento: '45.00'
 average: '35.575'

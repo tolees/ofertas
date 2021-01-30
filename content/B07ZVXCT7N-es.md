@@ -16,6 +16,7 @@ comparePrice: 299.99 EUR
 prodname: 'KKBSTR Repetidores de Señal de Móviles  Amplificador de Señal de Teléfono Celular Tri-Band 900/1800/2100MHz'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZVXCT7N/?tag=tolees-21'
 descuento: '26.67'
 average: '219.99'

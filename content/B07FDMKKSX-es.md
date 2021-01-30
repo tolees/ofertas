@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'Palladium Pampa Sport Cuff Wpr  Botas Clásicas para Hombre  Verde  Olive Night/Beluga J42   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FDMKKSX/?tag=tolees-21'
 descuento: '40.58'
 average: '71.28'

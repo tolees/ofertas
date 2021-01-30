@@ -16,6 +16,7 @@ comparePrice: 9.25 EUR
 prodname: 'Purina Dentalife golosina dental para Perro Grande  Pack de 4  piezas - Total 142 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MPZV80Z/?tag=tolees-21'
 descuento: '52.65'
 average: '4.38'

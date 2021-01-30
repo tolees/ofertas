@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Super Sand-83254 Arena cinética  Multicolor  Goliath 83254 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BUZZXCI/?tag=tolees-21'
 descuento: '39.55'
 average: '21.15'

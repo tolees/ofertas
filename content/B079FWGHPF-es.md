@@ -16,6 +16,7 @@ comparePrice: 35.25 EUR
 prodname: 'find. Botín de Ante con Tacón Western Mujer  Azul  Navy Navy   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079FWGHPF/?tag=tolees-21'
 descuento: '53.19'
 average: '16.5'

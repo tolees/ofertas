@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Status 2.0 Lorano  Náuticos para Hombre  Azul  Navy Canvas Nvy   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H4QVH6Y/?tag=tolees-21'
 descuento: '31.49'
 average: '44.5'

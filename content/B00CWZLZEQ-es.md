@@ -16,6 +16,7 @@ comparePrice: 18.25 EUR
 prodname: 'Titanlux - Esmalte-Laca poliuretano satinada Titanlak  Negro  750ML  ref. 011140134 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CWZLZEQ/?tag=tolees-21'
 descuento: '29.04'
 average: '12.95'

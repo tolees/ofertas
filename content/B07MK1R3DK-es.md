@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Napapijri Mana WINT Pantalones  Gris  DARK GREY SOLID 198   para Hombre  Tamaño del fabricante: 40 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MK1R3DK/?tag=tolees-21'
 descuento: '50.00'
 average: '49.5'

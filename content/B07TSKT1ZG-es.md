@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Kipling KiplingKiryasMujerMochilasRojo  Lively Red  32.5x44x12.5 Centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TSKT1ZG/?tag=tolees-21'
 descuento: '57.92'
 average: '33.24'

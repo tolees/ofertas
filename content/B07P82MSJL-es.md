@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Pop! Figura de Vinilo: Harry Potter S7 - Viktor Krum  Yule '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P82MSJL/?tag=tolees-21'
 descuento: '35.05'
 average: '8.486470588235292'

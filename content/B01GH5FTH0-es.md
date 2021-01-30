@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Under Armour Tech Polo  Hombre  Azul  Royal/Graphite 400   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GH5FTH0/?tag=tolees-21'
 descuento: '51.28'
 average: '19.24'

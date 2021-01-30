@@ -16,6 +16,7 @@ comparePrice: 7.15 EUR
 prodname: 'Vittoria MTB Lite-Box Camara  Unisex Adulto  Negro  26 x 1.95/2.125'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MMPGXUM/?tag=tolees-21'
 descuento: '32.17'
 average: '4.85'

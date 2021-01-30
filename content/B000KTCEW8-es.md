@@ -16,6 +16,7 @@ comparePrice: 2.99 EUR
 prodname: 'Duracell 2450 - Pila especial de botón de litio de 3 V  DL2450/CR2450  diseñada para uso en llaves con sensor magnético  básculas  elementos vestibles y dispositivos médicos  paquete de 1 unidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000KTCEW8/?tag=tolees-21'
 descuento: '25.08'
 average: '2.24'

@@ -16,6 +16,7 @@ comparePrice: 10.43 EUR
 prodname: 'Bellota 4539-24 Sierra Arco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00F2NKL4U/?tag=tolees-21'
 descuento: '71.24'
 average: '3'

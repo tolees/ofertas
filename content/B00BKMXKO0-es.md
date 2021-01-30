@@ -16,6 +16,7 @@ comparePrice: 23.18 EUR
 prodname: 'Revlon Style Masters Strong Sculpted Curls Tratamiento Capilar - 150 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BKMXKO0/?tag=tolees-21'
 descuento: '67.00'
 average: '7.65'

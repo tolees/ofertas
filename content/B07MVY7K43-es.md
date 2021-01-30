@@ -16,6 +16,7 @@ comparePrice: 165.4 EUR
 prodname: 'NOCO Boost XL GB50 1500 Amperios 12V UltraSafe Litio Arrancador de Batería de Coche para hasta 7L de Gasolina y 4.5L Diesel Motores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVY7K43/?tag=tolees-21'
 descuento: '34.71'
 average: '107.99'

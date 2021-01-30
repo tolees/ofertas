@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'MARTINELLI Zapato de Vestir de Piel Lenny 1384'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PSPNNH5/?tag=tolees-21'
 descuento: '42.97'
 average: '57.0'

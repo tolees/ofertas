@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'ISSA Mikro De FOREO Es El Cepilo De Dientes Infantil Eléctrico Y Delicado Para Los Niños Más Pequeños  0-5 Años   Bubble Blue  Delicados Filamentos De Silicona Medico  Usb Recargable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IRB853C/?tag=tolees-21'
 descuento: '40.40'
 average: '59.0'

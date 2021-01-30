@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee Luke Pants Jeans  Clean Black  34W / 36L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NZIHK2K/?tag=tolees-21'
 descuento: '50.72'
 average: '41.021818181818176'

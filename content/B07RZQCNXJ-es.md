@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Viedouce 2 Paquetes Delantales Cintura Corta Delantal Impermeable con 2 Bolsillos para Restaurante Chef Camarero Bartender Mitad Delantale de Cocina para Hombres Mujeres  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RZQCNXJ/?tag=tolees-21'
 descuento: '56.69'
 average: '12.99'

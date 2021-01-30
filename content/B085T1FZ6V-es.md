@@ -16,6 +16,7 @@ comparePrice: 469.99 EUR
 prodname: 'Acoolir Ventilador sin Aspas Silencioso de Viento Natural Saludable de Circulació 10 Velocidades Oscilación de 90° Temporizador de Sueño Inteligente Control Remoto de 6 m Seguro para Niños Silencio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085T1FZ6V/?tag=tolees-21'
 descuento: '42.55'
 average: '269.99'

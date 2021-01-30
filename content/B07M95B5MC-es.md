@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee 5 Pocket Wide Leg Corduroy  Pantalones para Mujer  Rosa  Cameo Pink 94   W29/L33'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M95B5MC/?tag=tolees-21'
 descuento: '87.80'
 average: '10.97'

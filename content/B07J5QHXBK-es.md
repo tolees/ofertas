@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Triumph Lace Spotlight W Sujetador con Aros  Negro  Black 0004   90C  Talla del Fabricante: 75  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J5QHXBK/?tag=tolees-21'
 descuento: '54.94'
 average: '18.0'

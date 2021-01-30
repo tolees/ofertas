@@ -16,6 +16,7 @@ comparePrice: 5.69 EUR
 prodname: 'XCYYOO [1-Pack]para Samsung Galaxy S8 Plus Protector de Pantalla  Cristal Vidrio Templado [Alta Definicion] [Cobertura Completa] Premium Protector Vidrio Templado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GZBRXGM/?tag=tolees-21'
 descuento: '81.90'
 average: '1.03'

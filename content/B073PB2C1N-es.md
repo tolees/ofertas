@@ -16,6 +16,7 @@ comparePrice: 8.95 EUR
 prodname: 'Bourjois Velvet The Lipstick Barra de Labios Tono 10  Magni-fig   2.3 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073PB2C1N/?tag=tolees-21'
 descuento: '58.55'
 average: '3.7579999999999996'

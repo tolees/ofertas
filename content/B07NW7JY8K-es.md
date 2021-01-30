@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Skechers Breathe-easy - Sole-full Zapatillas sin cordones Mujer  Negro  White Black Mesh/Lt.Pink Trim Blk   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NW7JY8K/?tag=tolees-21'
 descuento: '44.52'
 average: '33.26'

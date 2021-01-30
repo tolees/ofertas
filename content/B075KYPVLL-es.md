@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Apple Funda Leather Case  para el iPhone 8 Plus / iPhone 7 Plus  -  PRODUCT RED'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075KYPVLL/?tag=tolees-21'
 descuento: '65.45'
 average: '28.659999999999997'

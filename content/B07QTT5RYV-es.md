@@ -16,6 +16,7 @@ comparePrice: 15.9 EUR
 prodname: 'ERIK - Agenda Premium Frida Kahlo 2020  17 meses  '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QTT5RYV/?tag=tolees-21'
 descuento: '50.00'
 average: '7.95'

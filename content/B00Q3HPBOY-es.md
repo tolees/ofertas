@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Bella Aurora Hydra Rich Solution SPF 15 Crema Facial 24H Hidratante Intensiva Tratamiento Anti-Edad Mujer para Piel Normal o Seca  50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00Q3HPBOY/?tag=tolees-21'
 descuento: '27.44'
 average: '14.126666666666665'

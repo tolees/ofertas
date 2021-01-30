@@ -16,6 +16,7 @@ comparePrice: 8.92 EUR
 prodname: 'AYUN 1PC del arnés de Clip Asiento Seguro Hebilla Negro Seguro de la Cerradura del Coche de Seguridad Cerradura de la Correa para el bebé'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0876SRCJS/?tag=tolees-21'
 descuento: '48.88'
 average: '4.56'

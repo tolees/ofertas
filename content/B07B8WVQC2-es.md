@@ -16,6 +16,7 @@ comparePrice: 51.6 EUR
 prodname: 'PURINA ONE Bifensis Pienso para Gatos Esterilizados Salmón y Trigo 4 x 3 Kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B8WVQC2/?tag=tolees-21'
 descuento: '37.00'
 average: '36.806666666666665'

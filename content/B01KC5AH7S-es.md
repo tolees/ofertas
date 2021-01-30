@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Auriculares Inalámblicos  Auriculares Bluetooth in Ear con Mic Reducción Del Ruido Estéreo 3D HD  Auriculares Deportivos Bluetooth de Nivel IP7  30 Horas de Reproducción  Pantalla LCD y Control Tactil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KC5AH7S/?tag=tolees-21'
 descuento: '57.51'
 average: '33.99'

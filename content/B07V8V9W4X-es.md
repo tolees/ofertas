@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Tommy Hilfiger Corporate Premium Sneaker  Zapatillas para Hombre  Blanco  White Ybs   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V8V9W4X/?tag=tolees-21'
 descuento: '50.00'
 average: '49.95'

@@ -16,6 +16,7 @@ comparePrice: 24.49 EUR
 prodname: 'Rotho Berty  caja de arena alta con entrada superior  Plástico PP sin BPA  blanco y negro  57.2 x 39.3 x 40.4 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K4URY36/?tag=tolees-21'
 descuento: '31.44'
 average: '16.79'

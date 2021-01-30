@@ -16,6 +16,7 @@ comparePrice: 73.16 EUR
 prodname: 'Purina ProPlan Medium Puppy Derma pienso para perro cahorro Salmón  Paquete de 4 x 3kg  Total 12kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B8XTJPQ/?tag=tolees-21'
 descuento: '52.58'
 average: '34.69'

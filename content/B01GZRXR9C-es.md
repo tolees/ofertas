@@ -16,6 +16,7 @@ comparePrice: 24.9 EUR
 prodname: 'Atosa- Disfraz Mujer Charleston  Color Negro y Dorado  XS-S  16645 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GZRXR9C/?tag=tolees-21'
 descuento: '38.88'
 average: '15.22'

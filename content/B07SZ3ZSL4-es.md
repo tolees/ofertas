@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Armani Exchange Mujer Chic Small Shopping Tote  22 x 11 x 25 cm  color Azul  talla 22x11x25 cm  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SZ3ZSL4/?tag=tolees-21'
 descuento: '51.82'
 average: '57.81'

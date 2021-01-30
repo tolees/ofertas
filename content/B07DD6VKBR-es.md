@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Gormiti GRM05000  Hyperbeast Animal con Sonidos y Figura de Acción Articulada  modelo surtido  1 unidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DD6VKBR/?tag=tolees-21'
 descuento: '32.37'
 average: '16.9'

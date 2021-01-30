@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Pistola de Aire Caliente  GALAX PRO 2000W Dos Niveles de Temperaturay Tlujo de Aire Ajustables  Ⅰ: 350 ℃ 250L / min  Ⅱ: 550 ℃ 500L / min  con 4 Boquillas  Doble Protección'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QPQTX7D/?tag=tolees-21'
 descuento: '35.02'
 average: '16.49'

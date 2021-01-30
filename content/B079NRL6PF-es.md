@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'Bosch BGC05AAA1 GS05 Cleann n Serie | 2 Aspirador sin bolsa  700 W  color violeta y gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079NRL6PF/?tag=tolees-21'
 descuento: '39.95'
 average: '67.835'

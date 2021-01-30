@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'New Balance Fuel Core Sonic V2  Zapatillas de Running para Mujer  Rosa  Cashmere/Marblehead Cs2   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BL183DR/?tag=tolees-21'
 descuento: '50.00'
 average: '65.0'

@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Under Armour UA Ripple 2.0  Zapatillas de Running para Hombre  Negro  Black/White/Black  002  002   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HKLZJTB/?tag=tolees-21'
 descuento: '56.52'
 average: '28.26'

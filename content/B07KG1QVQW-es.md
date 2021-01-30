@@ -16,6 +16,7 @@ comparePrice: 149.95 EUR
 prodname: 'PUMA Speed Orbiter  Zapatillas de Running para Hombre  High Rise-Blue Turquoise  45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG1QVQW/?tag=tolees-21'
 descuento: '61.63'
 average: '57.53'

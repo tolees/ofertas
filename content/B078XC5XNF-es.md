@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Relojes Hombre Acero Inoxidable Impermeable Deportes analógico de Cuarzo Hombres Reloj LIGE Negocios Cronógrafo Calendario Negro Relojes Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078XC5XNF/?tag=tolees-21'
 descuento: '63.34'
 average: '32.99'

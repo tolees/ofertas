@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Scotch & Soda Mott-Classic Garment-dyed Twill Chino Pantalones   Olive 0456   W33/L36  Talla del Fabricante: 33/36  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MQ6M73Q/?tag=tolees-21'
 descuento: '77.65'
 average: '22.34'

@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Gran Chaparral Temp 1 + 2 [DVD]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06X9B2DPQ/?tag=tolees-21'
 descuento: '70.00'
 average: '24.0'

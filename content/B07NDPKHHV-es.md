@@ -16,6 +16,7 @@ comparePrice: 949.0 EUR
 prodname: 'MEDION X30 RGB - Ordenador de sobremesa gaming  Intel Core i5-9400  16GB RAM  1TB HDD + 256GB SSD  Nvidia GTX1050Ti-4GB  Windows 10  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDPKHHV/?tag=tolees-21'
 descuento: '38.88'
 average: '597.9585714285714'

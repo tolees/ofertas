@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Pendientes Metálicos Cuelgan Azul Dama Joyas Regalo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L3CKFLK/?tag=tolees-21'
 descuento: '28.01'
 average: '17.99'

@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'SPARES2GO Perillas de control universales negras para todas las marcas de horno  cocina y placa de cocina  paquete de 4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OHQ9NAQ/?tag=tolees-21'
 descuento: '49.96'
 average: '6.282857142857142'

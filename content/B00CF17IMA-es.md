@@ -16,6 +16,7 @@ comparePrice: 10.68 EUR
 prodname: 'STANLEY STST1-70720 - Organizador SortMaster  Negro  Transparente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CF17IMA/?tag=tolees-21'
 descuento: '34.55'
 average: '7.13'

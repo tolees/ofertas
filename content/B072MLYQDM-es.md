@@ -16,6 +16,7 @@ comparePrice: 960.0 EUR
 prodname: '32GB de memoria DDR4 SO-DIMM de Apple a 2.400 MHz  2 módulos de 16 GB '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072MLYQDM/?tag=tolees-21'
 descuento: '84.73'
 average: '152.18666666666667'

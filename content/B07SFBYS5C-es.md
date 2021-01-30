@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Homvik Mosquitera Universal Antimosquitos para Bebé Red Antiinsectos con Cremallera para Capazo Silla de Paseo Cuna de viaje Carrito Cochecito Etc.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SFBYS5C/?tag=tolees-21'
 descuento: '61.35'
 average: '11.29'

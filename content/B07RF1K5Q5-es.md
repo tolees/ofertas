@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'MODAUTO Alerón Trasero para Coche  Longitud 1.45cm  Ancho 45mm  Universal  Modelo F867BBK  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RF1K5Q5/?tag=tolees-21'
 descuento: '43.50'
 average: '16.95'

@@ -16,6 +16,7 @@ comparePrice: 41.44 EUR
 prodname: 'Calvin Klein Hombre - Pack de 3 bóxers de tiro medio - Cotton Stretch  Rojo  Minnow/Horoscope/Inferno Weu   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VKZRRQX/?tag=tolees-21'
 descuento: '68.29'
 average: '13.14'

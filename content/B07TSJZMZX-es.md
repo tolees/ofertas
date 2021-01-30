@@ -16,6 +16,7 @@ comparePrice: 66.99 EUR
 prodname: 'BRIKSMAX Kit de Iluminación Led para Lego Technic Grúa Todoterreno  Compatible con Ladrillos de Construcción Lego Modelo 42082  Juego de Legos no Incluido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TSJZMZX/?tag=tolees-21'
 descuento: '29.86'
 average: '44.318125'

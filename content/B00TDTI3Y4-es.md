@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'L Oréal Paris Perfilador de Cejas Brow Artist Genius Kit 001'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TDTI3Y4/?tag=tolees-21'
 descuento: '67.41'
 average: '6.1899999999999995'

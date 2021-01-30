@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Palladium Pampa Hi Mono U  Zapatillas Altas Unisex Adulto  Negro  Black 315   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078WCWHRP/?tag=tolees-21'
 descuento: '33.25'
 average: '46.69'

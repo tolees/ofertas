@@ -16,6 +16,7 @@ comparePrice: 749.0 EUR
 prodname: 'Zodiac TornaX OT 3200 – Robot limpiafondos de piscina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XWDK9ZR/?tag=tolees-21'
 descuento: '41.26'
 average: '509.6666666666667'

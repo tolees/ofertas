@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'TensCare Perfect Tens+ 12 electrodos – Electroestimulador para Alivio del dolor. 2 Canales  con programas Clínicamente Comprobados para aliviar el dolor de espalda  Artritis y Lumbalgia'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WP5GF22/?tag=tolees-21'
 descuento: '40.91'
 average: '43.37666666666667'

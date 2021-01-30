@@ -16,6 +16,7 @@ comparePrice: 43.99 EUR
 prodname: 'Taurus Greco 16 Elegance Ventilador de sobremesa portátil  sistema de oscilación  3 aspas/40 cm de diámetro  40 W  negro  200 Decibeles  3 Velocidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NSLW3JT/?tag=tolees-21'
 descuento: '29.76'
 average: '31.9'

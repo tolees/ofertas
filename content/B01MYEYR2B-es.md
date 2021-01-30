@@ -16,6 +16,7 @@ comparePrice: 199.95 EUR
 prodname: 'Beurer MG850 - Bastón de Masaje intenso con 2 intensidades  reequilibrador de fa scia  color nogal'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MYEYR2B/?tag=tolees-21'
 descuento: '27.49'
 average: '160.885'

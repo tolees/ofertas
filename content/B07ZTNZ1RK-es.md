@@ -16,6 +16,7 @@ comparePrice: 24.8 EUR
 prodname: 'Frozen Wind-Bolsa de Deporte'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZTNZ1RK/?tag=tolees-21'
 descuento: '59.88'
 average: '9.95'

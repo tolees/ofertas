@@ -16,6 +16,7 @@ comparePrice: 3.99 EUR
 prodname: 'GZ Caja De Almacenamiento De Máscara A Prueba De Polvo A Prueba De Agua Caja De Cubierta Facial Desechable  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CHGFS7L/?tag=tolees-21'
 descuento: '53.88'
 average: '1.84'

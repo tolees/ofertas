@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Kappa Rocket  Zapatillas Unisex Adulto  Negro  Black/White 1110   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015KKKGQ2/?tag=tolees-21'
 descuento: '45.21'
 average: '16.41'

@@ -16,6 +16,7 @@ comparePrice: 74.53 EUR
 prodname: 'Casio Smart Watch Armbanduhr LA670WEM-7EF'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07885BXMV/?tag=tolees-21'
 descuento: '55.86'
 average: '32.9'

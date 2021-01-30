@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Seiko Reloj con Correa de Acero para Hombre SNKK71K1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004JI83RQ/?tag=tolees-21'
 descuento: '30.81'
 average: '96.17'

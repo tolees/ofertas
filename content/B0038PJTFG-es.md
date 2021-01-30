@@ -16,6 +16,7 @@ comparePrice: 26.52 EUR
 prodname: 'Universal 00057-76.161.26 Cuchilla de repuesto para cortacésped de Metal para resultados de corte limpios  MBO026  accesorios McCulloch  Standard  53cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0038PJTFG/?tag=tolees-21'
 descuento: '45.06'
 average: '14.57'

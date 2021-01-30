@@ -16,6 +16,7 @@ comparePrice: 40.71 EUR
 prodname: 'Battle Snacks Battle Bites  12x62g  12 Unidades 740 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HGPZV8G/?tag=tolees-21'
 descuento: '60.35'
 average: '16.14'

@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Skechers Graceful-Get Connected  Zapatillas Mujer  Multicolor  NVPK Black Mesh/Trim   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B01LXRF82Z/?tag=tolees-21'
 descuento: '29.95'
 average: '34.99'

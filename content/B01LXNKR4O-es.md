@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Imetec CH 3000 - Picadora  4 Cuchillas de Acero Inoxidable  Recipiente de Gran Capacidad de 600 ml  18.000 rpm  Funcionamiento a Presión  1000 W'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LXNKR4O/?tag=tolees-21'
 descuento: '30.05'
 average: '41.9'

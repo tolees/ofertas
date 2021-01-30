@@ -16,6 +16,7 @@ comparePrice: 37.94 EUR
 prodname: 'SYROKAN - Sujetador Deportivo Máximo Soporte Sin Relleno para Mujer Púrpura nebuloso ES:95C  EU 80C '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081JBLP7Y/?tag=tolees-21'
 descuento: '36.74'
 average: '24.0'

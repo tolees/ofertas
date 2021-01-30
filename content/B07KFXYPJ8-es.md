@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'PUMJV|#Puma Defy Wn s Zapatillas Deportivas para Interior Mujer  Blanco  Puma White-Pink Alert 21   5  38 EU  EU  5 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFXYPJ8/?tag=tolees-21'
 descuento: '45.03'
 average: '49.45'

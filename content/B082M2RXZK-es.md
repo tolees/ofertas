@@ -16,6 +16,7 @@ comparePrice: 23.89 EUR
 prodname: 'Aigital Transmisor Receptor Bluetooth 5.0  2 en 1 Adaptador Bluetooth de Audio Soporte aptX Baja latencia en Modo TX  Adaptador RX  Jack Jack 3 5mm para TV PC MP3/MP4 Tablet Altavoz Estéreo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082M2RXZK/?tag=tolees-21'
 descuento: '28.88'
 average: '17.973333333333333'

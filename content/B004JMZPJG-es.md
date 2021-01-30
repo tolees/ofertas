@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Case Logic DCB306K SLR - Funda para cámara  nilón   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004JMZPJG/?tag=tolees-21'
 descuento: '59.35'
 average: '12.19'

@@ -16,6 +16,7 @@ comparePrice: 7.7 EUR
 prodname: 'Finocam Espiral You Floral  Agenda 2020  Mediano - E5-117 x 181 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T8HK35K/?tag=tolees-21'
 descuento: '50.00'
 average: '4.6'

@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'Jamara- Flyscout AHP+ Quadrocopter Brújula LED Camara Drone de Control Remoto  Color Negro  38540 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016D90IDA/?tag=tolees-21'
 descuento: '67.29'
 average: '52.33'

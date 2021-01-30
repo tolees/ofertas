@@ -16,6 +16,7 @@ comparePrice: 699.0 EUR
 prodname: 'H.Koenig MSX250 Cortafiambre 25 cm profesional precisión Disco de corte 250 mm Metal Acero inoxidable Jamon Carne Fiambre Pan Queso'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NVQNMVL/?tag=tolees-21'
 descuento: '50.07'
 average: '349.0'

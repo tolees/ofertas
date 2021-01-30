@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'KATOOM Cuerda de cañamo Natural de Hoja  arpillera con Hoja 20m Adorno de Multiuso para hogar fiastas y Bodas Material ecológico y Seguro marrón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PV8JXN6/?tag=tolees-21'
 descuento: '50.13'
 average: '9.97'

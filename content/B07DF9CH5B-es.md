@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Funko Marvel Comics Figura Pop de Prowler  Color Mulitcolor  33980 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DF9CH5B/?tag=tolees-21'
 descuento: '35.45'
 average: '8.575'

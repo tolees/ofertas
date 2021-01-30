@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'FKANT Batería Externa Movil  Power Bank 25000mAh Carga Rápida Cargador Portátil Universal con 2 Salidas USB 2.1A/1A Linterna LED 4 Indicadores Batería para iPhone Samsung Huawei y Otros Dispositivos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PP2RL4N/?tag=tolees-21'
 descuento: '48.59'
 average: '20.189999999999998'

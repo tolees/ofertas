@@ -16,6 +16,7 @@ comparePrice: 27.95 EUR
 prodname: 'Adidas CORE18 POLO Polo shirt  Hombre  Black/ White  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076HR4DSB/?tag=tolees-21'
 descuento: '28.62'
 average: '17.14894736842105'

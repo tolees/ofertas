@@ -16,6 +16,7 @@ comparePrice: 39.02 EUR
 prodname: 'FNTSIC - Bolsas de hombro ligeras de camuflaje para niños  naranja  Camo   Multicolor  - FTC021-3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RJSBKXN/?tag=tolees-21'
 descuento: '44.18'
 average: '21.78'

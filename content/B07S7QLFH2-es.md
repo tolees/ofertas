@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'PUMA Flyer Runner  Zapatillas para Correr de Carretera Unisex Adulto  Negro Black/High Risk Red  41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S7QLFH2/?tag=tolees-21'
 descuento: '29.93'
 average: '32.544000000000004'

@@ -16,6 +16,7 @@ comparePrice: 169.99 EUR
 prodname: 'Klarstein Winehouse Minibar - Vinoteca  Nevera de bebidas y tentempiés  17L  LED  Silenciosa  Temperatura de 8 a 18 °C  Bajo consumo  Doble cristal  Acero inox  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075QCWKNQ/?tag=tolees-21'
 descuento: '29.41'
 average: '119.99'

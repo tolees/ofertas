@@ -16,6 +16,7 @@ comparePrice: 219.0 EUR
 prodname: 'Samsonite Flux - Spinner 68/25 Expandable Equipaje de Mano  68 cm  95 litros  Azul  Navy Blue '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071CQ53RQ/?tag=tolees-21'
 descuento: '30.00'
 average: '153.3'

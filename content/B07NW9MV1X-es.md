@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Solar Fuse-brisk Escape Zapatillas Mujer  Black Leather/Mesh/Pink Trim Bkw   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NW9MV1X/?tag=tolees-21'
 descuento: '30.09'
 average: '48.9'

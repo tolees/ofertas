@@ -16,6 +16,7 @@ comparePrice: 20.7 EUR
 prodname: 'Nestlé Papillas NESTUM Cereales para bebé con galleta - 3 papillas de 650g -Total 1950g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DXX2L2C/?tag=tolees-21'
 descuento: '62.85'
 average: '7.69'

@@ -16,6 +16,7 @@ comparePrice: 10.95 EUR
 prodname: 'L Oréal Paris - Les Macarons  Pintalabios Mate Permanente Frambuesa  Tono 838 Berry Cherie - 30.5 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PY2RQZH/?tag=tolees-21'
 descuento: '38.36'
 average: '7.466666666666667'

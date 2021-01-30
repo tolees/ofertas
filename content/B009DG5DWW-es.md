@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Esi  Crema diurna facial - 50 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009DG5DWW/?tag=tolees-21'
 descuento: '65.08'
 average: '11.12'

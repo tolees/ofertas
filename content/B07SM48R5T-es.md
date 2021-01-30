@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: '128GB Pendrive RAOYI Memoria USB 3.0 Pen Drive 128GB Alta Velocidad para PC  Computadoras  Azul…'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SM48R5T/?tag=tolees-21'
 descuento: '33.34'
 average: '19.99'

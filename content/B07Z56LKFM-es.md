@@ -16,6 +16,7 @@ comparePrice: 6.0 EUR
 prodname: 'DULALA Peine Peluquería Cabello Belleza Peine Cepillo Negro Plástico Dentado Doble Cabeza Mujeres Viaje Plegable DIY Peine'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z56LKFM/?tag=tolees-21'
 descuento: '33.33'
 average: '3.56'

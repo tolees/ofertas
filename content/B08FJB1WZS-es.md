@@ -16,6 +16,7 @@ comparePrice: 6.48 EUR
 prodname: 'MAGIC SELECT 4Estuche para mascarillas/Caja para mascarillas  Multicolor   Rosa Verde Azul Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FJB1WZS/?tag=tolees-21'
 descuento: '38.43'
 average: '3.99'

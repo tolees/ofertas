@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'Revlon ColorStay Gel Envy Esmalte de Uñas de Larga Duración 11 7ml  Perfect Pair '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B012HL8FI8/?tag=tolees-21'
 descuento: '62.26'
 average: '3.0'

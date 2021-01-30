@@ -16,6 +16,7 @@ comparePrice: 114.45 EUR
 prodname: 'HP LaserJet Pro M102w - Impresora láser  USB 2.0  WiFi  22 ppm  memoria de 128 MB  doble cara '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JM2VSR0/?tag=tolees-21'
 descuento: '26.61'
 average: '85.99666666666667'

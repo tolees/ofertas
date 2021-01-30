@@ -16,6 +16,7 @@ comparePrice: 8.95 EUR
 prodname: 'Cayro - Collection Tabas  Juego de Mesa  511 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DMBYA1E/?tag=tolees-21'
 descuento: '25.36'
 average: '6.68'

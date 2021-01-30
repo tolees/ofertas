@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'G-STAR RAW Ladd Belt Cinturón  Marrón  Dk Cognac/antic Silver 8128   80 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MD15NQX/?tag=tolees-21'
 descuento: '66.03'
 average: '20.69333333333333'

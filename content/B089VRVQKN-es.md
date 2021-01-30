@@ -16,6 +16,7 @@ comparePrice: 6.5 EUR
 prodname: 'Viaje al Aire Libre Camping Hombre Bolsa de escombros Multifuncional Bolsa médica Pequeños Bolsillos portátiles Bolsa de Almacenamiento Catchall - ACU Color'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089VRVQKN/?tag=tolees-21'
 descuento: '33.54'
 average: '4.32'

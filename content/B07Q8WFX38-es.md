@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Calvin Klein J 4cm Adj.Monogram Canvas Belt Cinturón  Azul  Navy 411   105  Talla del fabricante: 90  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q8WFX38/?tag=tolees-21'
 descuento: '41.05'
 average: '24.22'

@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Sloggi Sloggi Basic Long - Braguita para mujer  color skin  talla ES : 52  Talla del fabricante : 22 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00QZFFW9I/?tag=tolees-21'
 descuento: '43.14'
 average: '8.5'

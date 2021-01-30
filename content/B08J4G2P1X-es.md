@@ -16,6 +16,7 @@ comparePrice: 5.37 EUR
 prodname: 'Molyflower Mini ratón óptico inalámbrico para Juegos de 2.4Ghz y Receptor USB para computadora portátil Pc - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08J4G2P1X/?tag=tolees-21'
 descuento: '33.52'
 average: '3.57'

@@ -16,6 +16,7 @@ comparePrice: 2.49 EUR
 prodname: 'Signal Cepillo Dental Esencial - 2 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MU2ZI2L/?tag=tolees-21'
 descuento: '59.84'
 average: '1.0'

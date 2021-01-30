@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Jack & Jones Jjestructure Knit Crew Neck Noos suéter  Negro  Black Black   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FNGNXMG/?tag=tolees-21'
 descuento: '40.01'
 average: '17.99'

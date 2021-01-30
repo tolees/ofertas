@@ -16,6 +16,7 @@ comparePrice: 160.0 EUR
 prodname: 'Clarks BatcombeAlpGTX  Botas de Motorista para Hombre  Marrón Dark Brown Nub  44.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MLST7G2/?tag=tolees-21'
 descuento: '71.68'
 average: '45.31'

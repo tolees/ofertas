@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'LD pañuelo seda Mujer Cuello Bufanda Mantón Elegante Regalo de Mujer 175 X 65cm  Rosa mariposa '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R9MTK6V/?tag=tolees-21'
 descuento: '40.64'
 average: '18.99'

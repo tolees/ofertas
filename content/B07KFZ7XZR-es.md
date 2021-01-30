@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Puma Icra Trainer Sd V Inf Zapatillas Unisex Niños  Azul  Peacoat-Gray Violet-Nrgy Yellow-Puma White 28   22 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFZ7XZR/?tag=tolees-21'
 descuento: '58.03'
 average: '12.57'

@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'Columbia Rainy Creek Gabardina Impermeable con Capucha  Mujer  Blanco  Stone   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RGR4H4H/?tag=tolees-21'
 descuento: '53.31'
 average: '74.7'

@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Clarks Blake Jewel  Sandalia con Pulsera para Mujer  Marrón  Tan-   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FR9SW1C/?tag=tolees-21'
 descuento: '46.48'
 average: '37.44'

@@ -16,6 +16,7 @@ comparePrice: 71.99 EUR
 prodname: 'Ibergrif M22115W-2 - Grifo Mezclador de Cocina Profesional con Ducha de Mano y Caño Flexible  Griferia para Fregadero Monomando Extensible Negro/Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081HFLBNN/?tag=tolees-21'
 descuento: '31.12'
 average: '49.59'

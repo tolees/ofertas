@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Kipling Imali  Carteras para Mujer  Verde  Light Aloe   19x10x1 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZ1NK7K/?tag=tolees-21'
 descuento: '40.00'
 average: '27.0'

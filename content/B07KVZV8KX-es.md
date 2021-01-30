@@ -16,6 +16,7 @@ comparePrice: 42.94 EUR
 prodname: 'Cámara DV180 16MP Mini vídeo Digital con 1 5" TFT Zoom Digital de 8X'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KVZV8KX/?tag=tolees-21'
 descuento: '59.99'
 average: '17.18'

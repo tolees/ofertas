@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Lee Extreme Motion Straight Jeans  Azul  Theo AC   31W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VBGLNMN/?tag=tolees-21'
 descuento: '44.76'
 average: '38.64'

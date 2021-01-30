@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'LeYi Funda Xiaomi Redmi Note 8 Silicona Purpurina Carcasa con HD Protectores de Pantalla  Transparente Cristal Bumper Telefono Gel TPU Fundas Case Cover para Movil Redmi Note 8 ZX Oro Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XLB14Z7/?tag=tolees-21'
 descuento: '62.45'
 average: '3'

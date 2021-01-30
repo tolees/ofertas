@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Revlon Ultra HD Gel Pintalabios  Tropical '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KHSUUYK/?tag=tolees-21'
 descuento: '72.56'
 average: '3.1658333333333335'

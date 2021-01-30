@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'SAMs Tierhausschuhe Disney Star Wars Trooper Hausschuhe'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016Y8PQTG/?tag=tolees-21'
 descuento: '50.04'
 average: '29.95'

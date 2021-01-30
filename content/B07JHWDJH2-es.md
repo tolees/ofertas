@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'Columbia 100MW Mid Outdry  Botas de Senderismo para Hombre  Negro  Shark  Deep Rus 011   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JHWDJH2/?tag=tolees-21'
 descuento: '69.74'
 average: '48.41'

@@ -16,6 +16,7 @@ comparePrice: 10.43 EUR
 prodname: 'AKYGA AK-CA-26 - Rejilla Protectora para Ventilador  120 mm   Color Acero'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TYNHPL8/?tag=tolees-21'
 descuento: '85.81'
 average: '1.48'

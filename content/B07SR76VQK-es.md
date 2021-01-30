@@ -16,6 +16,7 @@ comparePrice: 39.98 EUR
 prodname: 'Chok Idea Innovador Hebilla Piel Genuina Correa Compatible with Apple Watch 38mm 40mm Encubierto Hebilla Ensure Clean Fit Correa Replacment for iWatch Series 5 & 4 3/2/1 Apricot'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SR76VQK/?tag=tolees-21'
 descuento: '54.40'
 average: '17.922500000000003'

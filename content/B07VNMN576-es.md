@@ -16,6 +16,7 @@ comparePrice: 23.97 EUR
 prodname: 'G-STAR RAW Carnic Pantalones Cortos  Rosa  Langoustino Pink A505-b250   XL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VNMN576/?tag=tolees-21'
 descuento: '32.58'
 average: '16.16'

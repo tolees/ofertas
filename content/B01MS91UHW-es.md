@@ -16,6 +16,7 @@ comparePrice: 47.99 EUR
 prodname: 'Lancardo Reloj Deportivo de Energía Solar de Multifunción Dual Tiempo Pulsera Digital de Silicona Batería Integrada Impermeable de 50M para Actividad Deportes Exteriores para Hombre  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MS91UHW/?tag=tolees-21'
 descuento: '54.18'
 average: '20.656666666666666'

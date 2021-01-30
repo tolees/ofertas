@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'CORNERIA Easy-store Portacepillos De Diente - Soporte de Cepillo de Dientes con Ventosa  Desmontable Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077MYTPPM/?tag=tolees-21'
 descuento: '33.35'
 average: '13.99'

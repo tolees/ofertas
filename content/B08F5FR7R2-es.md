@@ -16,6 +16,7 @@ comparePrice: 1.5 EUR
 prodname: 'Dengc Cabeza Redonda Hueca Bala Suave eva Espuma Bala Bala 1 Paquete de 10'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08F5FR7R2/?tag=tolees-21'
 descuento: '33.33'
 average: '1.0'

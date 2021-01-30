@@ -16,6 +16,7 @@ comparePrice: 229.0 EUR
 prodname: 'Citizen Reloj Analógico para Hombre de Cuarzo con Correa en Titanio BM7430-89A'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DB17V5T/?tag=tolees-21'
 descuento: '33.44'
 average: '159.68'

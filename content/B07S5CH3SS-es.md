@@ -16,6 +16,7 @@ comparePrice: 110.7 EUR
 prodname: 'Love MoschinoJc4054pp1aMujerBolsos bandoleraMarfil  Avorio 5x13x20 centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S5CH3SS/?tag=tolees-21'
 descuento: '37.21'
 average: '71.15'

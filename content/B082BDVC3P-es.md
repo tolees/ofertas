@@ -16,6 +16,7 @@ comparePrice: 499.95 EUR
 prodname: 'Icons Corner Pack de 2 sillones IMS con Patas de Madera y pachtwork'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082BDVC3P/?tag=tolees-21'
 descuento: '84.00'
 average: '79.99'

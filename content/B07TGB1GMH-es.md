@@ -16,6 +16,7 @@ comparePrice: 50 EUR
 prodname: 'Limpiador de Poros y Puntos Negros - Microdermoabrasion - 2 Fuerzas de Aspiración  4 Boquillas 2 Microcristalinas  2 Extractores  1 Estuche  30 Filtros de Recambio  Cuidado de la Piel - Exfoliante'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TGB1GMH/?tag=tolees-21'
 descuento: '40.06'
 average: '29.97'

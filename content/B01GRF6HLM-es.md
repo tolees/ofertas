@@ -16,6 +16,7 @@ comparePrice: 6.5 EUR
 prodname: 'Bourjois Contour Clubbing; Delineador de Ojos. Tono 61 Denim pulse - 5 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GRF6HLM/?tag=tolees-21'
 descuento: '53.85'
 average: '2.37'

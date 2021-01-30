@@ -16,6 +16,7 @@ comparePrice: 4.05 EUR
 prodname: 'Funda Protectora para teléfono móvil de diseño Lindo Funda de Silicona Duradera Funda Protectora para teléfono móvil iPhone'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083HZ3RJR/?tag=tolees-21'
 descuento: '73.83'
 average: '1.06'

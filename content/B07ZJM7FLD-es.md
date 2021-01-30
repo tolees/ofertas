@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Tapa de WC TACKLIFE  TBTS03B Asiento de Inodoro en Forma de D con Liberación Rápida Tapa de Inodoro con Cierra Suave y Silencioso Fácil de Instalación y Limpieza'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZJM7FLD/?tag=tolees-21'
 descuento: '60.01'
 average: '31.990000000000002'

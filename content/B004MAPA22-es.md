@@ -16,6 +16,7 @@ comparePrice: 9.9 EUR
 prodname: 'Meinl ESSET - Huevo de percusión  4 piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004MAPA22/?tag=tolees-21'
 descuento: '27.27'
 average: '6.8'

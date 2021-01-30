@@ -16,6 +16,7 @@ comparePrice: 11.89 EUR
 prodname: '50ml Original Perfume Para Hombres  Perfume Estilo Líquido De Colonia  Perfume Duradero Para Caballeros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082D1J7FX/?tag=tolees-21'
 descuento: '37.01'
 average: '7.49'

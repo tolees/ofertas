@@ -16,6 +16,7 @@ comparePrice: 3.31 EUR
 prodname: 'Bebés Cochecito de bebé Cochecito Mosquitera Insecto Red de aislamiento Caja de seguridad Malla Buggy Cochecito Cubierta completa Red blanca 150 cm - Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084VHWZ14/?tag=tolees-21'
 descuento: '33.53'
 average: '2.2'

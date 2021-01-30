@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Leifheit Limpiacristales Professional  limpiaventanas con regleta de Goma para una Limpieza sin Huellas  rasqueta limpiacristales con Mango de Goma'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0029F1QES/?tag=tolees-21'
 descuento: '42.80'
 average: '19.82'

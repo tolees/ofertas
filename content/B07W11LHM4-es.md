@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Skechers MAX Cushioning Elite  Zapatillas para Hombre  Negro Textil Negro Azul Sintético Borde Bkbl  42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W11LHM4/?tag=tolees-21'
 descuento: '48.99'
 average: '45.88'

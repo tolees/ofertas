@@ -16,6 +16,7 @@ comparePrice: 44.9 EUR
 prodname: 'TP-Link TL-WA801ND V5.0 - Punto de acceso inalámbrico/Extensor de red WiFi  N a 300mbps  2 antenas  WPS  PoE pasivo   desmontable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004UBU8IE/?tag=tolees-21'
 descuento: '36.24'
 average: '25.623749999999998'

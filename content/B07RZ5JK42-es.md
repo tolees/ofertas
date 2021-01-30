@@ -16,6 +16,7 @@ comparePrice: 47.99 EUR
 prodname: 'BRIKSMAX Kit de Iluminación Led para Lego Star Wars TM Ataque del Caza Tie-Compatible con Ladrillos de Construcción Lego Modelo 75237  Juego de Legos no Incluido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RZ5JK42/?tag=tolees-21'
 descuento: '62.51'
 average: '21.29882352941176'

@@ -16,6 +16,7 @@ comparePrice: 74.99 EUR
 prodname: 'Lacoste Ziane BL 2 CFA  Zapatillas para Mujer  Blanco  White/White   35 1/2 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DHYDLZ4/?tag=tolees-21'
 descuento: '66.17'
 average: '25.37'

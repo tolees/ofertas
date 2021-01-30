@@ -16,6 +16,7 @@ comparePrice: 12.39 EUR
 prodname: 'Hummel Blade Plus Mini 9808 - Zapatillas de deporte  Unisex adulto  white/vintage indigo/pnk  111'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MZDNZKY/?tag=tolees-21'
 descuento: '32.28'
 average: '8.39'

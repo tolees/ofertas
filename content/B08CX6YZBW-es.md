@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'K&F Concept Bolsa de Filtros  Funda Portátil de Cámara  3 Filtro y 3 Mini-Adaptador  Protección y Portátil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CX6YZBW/?tag=tolees-21'
 descuento: '32.51'
 average: '26.99'

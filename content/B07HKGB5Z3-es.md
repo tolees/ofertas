@@ -16,6 +16,7 @@ comparePrice: 80 EUR
 prodname: 'Under Armour UA W Breathe Trainer x NM  Zapatillas de Deporte para Mujer  Gris  Downpour Gray 401   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HKGB5Z3/?tag=tolees-21'
 descuento: '30.00'
 average: '56'

@@ -16,6 +16,7 @@ comparePrice: 17.9 EUR
 prodname: 'Ravensburger-Juego de Aprendizaje  ¿Cuanto me Cuesta  24098 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0030MCYH2/?tag=tolees-21'
 descuento: '37.54'
 average: '12.18'

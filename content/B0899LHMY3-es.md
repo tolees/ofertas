@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'TrekPow Piscina Hinchable Rectangular  Piscina Inflable Familiar 305 x 183 x 56cm  2 Adultos + 3 Niños  Azul  3 Cámara de Aire Individuales  Piscina Duradera para Patio  Jardín  Fiesta al Aire Libre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0899LHMY3/?tag=tolees-21'
 descuento: '40.00'
 average: '86.24'

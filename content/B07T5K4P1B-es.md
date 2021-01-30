@@ -16,6 +16,7 @@ comparePrice: 47.71 EUR
 prodname: 'Toozey Reja Coche Perro Automóvil  SUV Universal - Rejilla Protectora con fijación para reposacabezas - Libro electrónico Ajustable y Gratuito'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T5K4P1B/?tag=tolees-21'
 descuento: '37.14'
 average: '31.497999999999998'

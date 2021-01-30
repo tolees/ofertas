@@ -16,6 +16,7 @@ comparePrice: 179.99 EUR
 prodname: 'Giochi Preziosi LLU93000 LOL Surprise - Sorpresa   color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PMN4NJD/?tag=tolees-21'
 descuento: '32.20'
 average: '120.055'

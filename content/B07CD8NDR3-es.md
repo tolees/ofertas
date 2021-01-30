@@ -16,6 +16,7 @@ comparePrice: 6.68 EUR
 prodname: 'Bullet - Reloj monitor de actividad/podómetro modelo Get-Fit  25.5 x 2.7 x 1.5 cm   Naranja '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CD8NDR3/?tag=tolees-21'
 descuento: '33.38'
 average: '4.45'

@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'seQoya · Volcano | Reloj de Piedra Hecho con mármol Negro con Esfera de mármol Negro y Correa de Piel ecológica | Reloj Hombre y Mujer | Diseño único y Original'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BVSFNXT/?tag=tolees-21'
 descuento: '50.03'
 average: '45.95'

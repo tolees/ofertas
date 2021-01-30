@@ -16,6 +16,7 @@ comparePrice: 349.0 EUR
 prodname: 'Diesel Reloj Cronógrafo para Hombre de Cuarzo con Correa en Piel DZ7415'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J419CHH/?tag=tolees-21'
 descuento: '48.42'
 average: '167.0'

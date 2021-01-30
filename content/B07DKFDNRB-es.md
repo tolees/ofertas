@@ -16,6 +16,7 @@ comparePrice: 79 EUR
 prodname: 'Kipling Gabbie S  Bolsos Bandolera para Mujer  Azul  Dynamic Blue   29x22x16.5 centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DKFDNRB/?tag=tolees-21'
 descuento: '50.00'
 average: '39.5'

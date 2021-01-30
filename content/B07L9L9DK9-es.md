@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Lacoste Masters 319 1 SMA  Zapatillas para Hombre  Blanco  Wht/Dk Grn 1r5   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9L9DK9/?tag=tolees-21'
 descuento: '51.57'
 average: '44.685'

@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'PanaCasa - Conjuntos de Mesa y 3 Sillas de Jardín Madera Ratán Mimbre al Aire Libre Terraza Patio Restaurante Marrón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JW91RQ3/?tag=tolees-21'
 descuento: '32.96'
 average: '148.0'

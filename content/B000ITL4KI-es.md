@@ -16,6 +16,7 @@ comparePrice: 2.97 EUR
 prodname: 'Gembird CC-PSU-1 - Cable de alimentación para CD/HDD/DVD  Y > 2x 4Pin Molex'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000ITL4KI/?tag=tolees-21'
 descuento: '33.67'
 average: '1.97'

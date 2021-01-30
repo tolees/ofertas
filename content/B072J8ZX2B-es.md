@@ -16,6 +16,7 @@ comparePrice: 35.75 EUR
 prodname: 'Remescar - Crema de ojos para patas de gallo - Crema de ojos clínicamente probada para reducir las patas de gallo - Crema de ojos antienvejecimiento para hombre y mujer - Resultados inmediatos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072J8ZX2B/?tag=tolees-21'
 descuento: '44.06'
 average: '20.0'

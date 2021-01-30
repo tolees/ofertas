@@ -16,6 +16,7 @@ comparePrice: 63.44 EUR
 prodname: 'Dellemade Sputnik - Lámpara de araña de 6 luces vintage para comedor  salón  cocina  oficina  cafetería  restaurante  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QNWHSQS/?tag=tolees-21'
 descuento: '78.36'
 average: '13.73'

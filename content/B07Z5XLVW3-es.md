@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Fidech Potente Masajeador Portátil  7 Modos de Vibración  Recargable USB Magnético  Silicona Suave'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z5XLVW3/?tag=tolees-21'
 descuento: '81.84'
 average: '14.865000000000002'

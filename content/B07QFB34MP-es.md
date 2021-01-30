@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Pablosky 334320  Merceditas para Niñas  Azul Azul Azul  24 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QFB34MP/?tag=tolees-21'
 descuento: '56.99'
 average: '17.2'

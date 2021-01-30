@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Columbia Drainmaker IV  Zapatillas de Senderismo para Mujer  Beige  Monument  White   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073RNN1BG/?tag=tolees-21'
 descuento: '62.65'
 average: '33.6'

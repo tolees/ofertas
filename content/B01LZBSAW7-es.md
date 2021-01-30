@@ -16,6 +16,7 @@ comparePrice: 114.0 EUR
 prodname: 'hummel Stadil RMX High Sneaker Hombres Zapatillas Casual - 46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZBSAW7/?tag=tolees-21'
 descuento: '30.01'
 average: '79.79'

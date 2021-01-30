@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Cubierta Webcam JEANGO 9pcs Ultradelgado Webcam Cover Slider Cubierta protectora de la cámara frontal Adecuado para teléfonos móviles tabletas computadoras portátiles 6 Negro 3 blanco 0.7mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083DLFN67/?tag=tolees-21'
 descuento: '36.40'
 average: '6.99'

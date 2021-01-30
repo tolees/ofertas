@@ -16,6 +16,7 @@ comparePrice: 8.92 EUR
 prodname: 'LNIEGE Clips Chupete Chupete Titular niños Superiores de la Calidad del bebé Chupete Chupete Clip'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088FLVXBP/?tag=tolees-21'
 descuento: '29.93'
 average: '6.25'

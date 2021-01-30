@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Columbia Klamath Range II Forro Polar con Media Cremallera  Hombre  Negro  Black   XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00473NVWU/?tag=tolees-21'
 descuento: '40.01'
 average: '18.32333333333333'

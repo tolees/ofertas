@@ -16,6 +16,7 @@ comparePrice: 8.0 EUR
 prodname: 'Max Factor Perfect Gel Shine;  Laca de Uñas  Tono 621 - 12 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TTNMXWJ/?tag=tolees-21'
 descuento: '50.12'
 average: '3.99'

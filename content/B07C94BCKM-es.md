@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Columbia Canyon Point  Zapatillas de Senderismo Impermeables para Hombre  Gris  Negro  Black  Squash   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C94BCKM/?tag=tolees-21'
 descuento: '35.60'
 average: '57.95'

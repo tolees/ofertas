@@ -16,6 +16,7 @@ comparePrice: 1.55 EUR
 prodname: 'LoveOlvidoE Soporte de plástico para Almacenamiento de batería para 3 PCS 18650 3.7 V con Cables de conexión Baterías universales Caja de protección'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KJW56YQ/?tag=tolees-21'
 descuento: '31.61'
 average: '1.06'

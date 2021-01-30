@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Frozen 2- Disney Muñeca Princesa Anna con Figuras de Olaf y el Reno Sven de Frozen II Set  Color replicas de la película  Talla Única  Glop Games 207164 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KXNVRR2/?tag=tolees-21'
 descuento: '64.37'
 average: '26.265'

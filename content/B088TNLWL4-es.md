@@ -16,6 +16,7 @@ comparePrice: 3.07 EUR
 prodname: 'Cabello colorido + Cepillo de dientes con mango de bambú Medio ambiente Arco iris de madera Cepillo de dientes de bambú Cuidado bucal Cerdas suaves Unisex'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088TNLWL4/?tag=tolees-21'
 descuento: '40.07'
 average: '1.84'

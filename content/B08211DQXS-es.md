@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'AIMIUVIE Smartwatch  Reloj Inteligente IP67 con Pulsómetro Podómetro Presión Arterial Oxígeno de Sangre  Sueño  Reloj Inteligente Deportivo para Mujer Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08211DQXS/?tag=tolees-21'
 descuento: '48.34'
 average: '30.99'

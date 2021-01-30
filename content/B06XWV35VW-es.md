@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance 574v2 Core  Zapatillas para Mujer  Negro  Black   43.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XWV35VW/?tag=tolees-21'
 descuento: '35.10'
 average: '56.91'

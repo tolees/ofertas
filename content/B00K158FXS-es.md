@@ -16,6 +16,7 @@ comparePrice: 51.83 EUR
 prodname: 'Casio Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable LTP-1260PD-1BEF'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00K158FXS/?tag=tolees-21'
 descuento: '43.95'
 average: '29.009999999999998'

@@ -16,6 +16,7 @@ comparePrice: 74.95 EUR
 prodname: 'PUMA NRGY Neko Knit  Zapatillas de Entrenamiento para Hombre  Black Black  39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079GXDWDL/?tag=tolees-21'
 descuento: '70.06'
 average: '26.383333333333333'

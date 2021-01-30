@@ -16,6 +16,7 @@ comparePrice: 200.0 EUR
 prodname: 'MODAUTO Soporte de Videojuego  Soporte de Juego de Carreras  Accesorio de Controlar de Juego  con Soporte de Volante y Cambios  Compatible con Logitech G29/G27  Modelo B  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WSJMCJ3/?tag=tolees-21'
 descuento: '40.02'
 average: '119.95'

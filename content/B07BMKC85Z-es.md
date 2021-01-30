@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Fantasy Flight Games- AT-RT  FFSWL04 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BMKC85Z/?tag=tolees-21'
 descuento: '46.25'
 average: '13.41'

@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Nilfisk 128470459 Accesorio Hidrolimpiadora  Negro  50 x 30 x 52 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IJ02ZVU/?tag=tolees-21'
 descuento: '35.00'
 average: '38.35'

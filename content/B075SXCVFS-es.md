@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Roffatide Rayado Tartán Costura Hebilla Plano Gorra Boinas Hombre Retro Chapelas Azul Oscuro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075SXCVFS/?tag=tolees-21'
 descuento: '42.13'
 average: '10.99'

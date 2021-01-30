@@ -16,6 +16,7 @@ comparePrice: 16.24 EUR
 prodname: 'Khanomak Slip Llano de la Alta Subida de la Mujer sobre el algodón Largo del Motorista Bermudas  Grande  la Marina de Guerra '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GRK5RP7/?tag=tolees-21'
 descuento: '75.43'
 average: '3.99'

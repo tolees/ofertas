@@ -16,6 +16,7 @@ comparePrice: 22.1 EUR
 prodname: 'BESTWAY 58424 - Cobertor Invierno para Piscina Desmontable 300x200 cm Ovalada'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TKGJQ66/?tag=tolees-21'
 descuento: '27.51'
 average: '16.560000000000002'

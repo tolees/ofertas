@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Clinique Pep Start Eye Cream 15ml crema para los ojos - Cremas para los ojos  15 ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01B9YSTXK/?tag=tolees-21'
 descuento: '30.40'
 average: '17.4'

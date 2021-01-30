@@ -16,6 +16,7 @@ comparePrice: 250.0 EUR
 prodname: 'Maclaren Triumph Silla de paseo - ligera  de los 6 meses hasta los 25 kg  Asiento multiposición  suspensión en las 4 ruedas  Capota extensible con UPF 50+'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078WWCS2X/?tag=tolees-21'
 descuento: '51.10'
 average: '139.92'

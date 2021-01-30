@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Mavala Científico K+ Endurecedor de Uñas Tratamiento para Evitar que las Uñas se Rompan o se Separen  5 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076DJRBFP/?tag=tolees-21'
 descuento: '37.34'
 average: '12.5'

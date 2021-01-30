@@ -16,6 +16,7 @@ comparePrice: 90.5 EUR
 prodname: 'Sisley Gel Nettoyant Gommant Pour Le Visage 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002AMUGOG/?tag=tolees-21'
 descuento: '39.76'
 average: '54.52'

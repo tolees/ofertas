@@ -16,6 +16,7 @@ comparePrice: 154.99 EUR
 prodname: 'Logitech MX900 - Teclado  Estándar  Inalámbrico  Bluetooth  QWERTY  Black  Ratón Incluido '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079Z3LK9G/?tag=tolees-21'
 descuento: '29.06'
 average: '109.95'

@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'Waternymph 2 in 1 Faucet Aerator with Adapter to Connect Garden Hose/Other 3/4’’ Thread Hose  Big Angle Swivel Kitchen Sink Aerator with Movable Lid to Cover the 3/4’’ Thread -Polished Chrome'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P7YR67R/?tag=tolees-21'
 descuento: '34.49'
 average: '18.99'

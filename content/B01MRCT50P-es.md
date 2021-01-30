@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Samsung Dream Silicone Cover  Funda para smartphone Samsung Galaxy S8  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MRCT50P/?tag=tolees-21'
 descuento: '65.42'
 average: '10.19'

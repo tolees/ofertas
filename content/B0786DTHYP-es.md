@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'New Balance Fresh Foam Gobi v3  Zapatillas de Running para Asfalto para Hombre  Azul  Petrol/Flame/Galaxy P3   40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0786DTHYP/?tag=tolees-21'
 descuento: '52.04'
 average: '51.935'

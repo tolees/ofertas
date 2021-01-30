@@ -16,6 +16,7 @@ comparePrice: 18.0 EUR
 prodname: 'Umbro Loyal Pantalones  Hombre  Azul Marino Oscuro  XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M58QUT3/?tag=tolees-21'
 descuento: '38.94'
 average: '13.326666666666668'

@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'Webcam 1080P  AUSDOM HD Cámara para Ordenador con Micrófono Estéreo y con Cancelación de Ruido  USB Web Cam Plug and Play para Skype  Compatible con Mac OS  Windows 10/8/7/XP'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PDQ95B9/?tag=tolees-21'
 descuento: '36.37'
 average: '37.44833333333333'

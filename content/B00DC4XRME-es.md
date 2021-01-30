@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Superga 2790Cotw Linea Up And Down  Zapatillas Unisex adulto  Blanco  901 White   39.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DC4XRME/?tag=tolees-21'
 descuento: '27.68'
 average: '49.9'

@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Orlane Corps Cuidado de Raffermissant Corps & Buste 250 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004EHROL8/?tag=tolees-21'
 descuento: '47.57'
 average: '36.7'

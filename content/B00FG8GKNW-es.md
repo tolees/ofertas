@@ -16,6 +16,7 @@ comparePrice: 34.85 EUR
 prodname: 'Ciroc Red Berry Vodka - 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00FG8GKNW/?tag=tolees-21'
 descuento: '28.41'
 average: '25.24'

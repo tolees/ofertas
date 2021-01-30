@@ -16,6 +16,7 @@ comparePrice: 19.42 EUR
 prodname: 'Rebel Heart Tour [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073XBNNB1/?tag=tolees-21'
 descuento: '38.26'
 average: '11.99'

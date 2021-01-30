@@ -16,6 +16,7 @@ comparePrice: 227.0 EUR
 prodname: 'De Longhi Molinillo de café Delonghi Dedica kg 521.M 150W acero inoxidable  150 W  Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KPN9K2A/?tag=tolees-21'
 descuento: '28.28'
 average: '162.8'

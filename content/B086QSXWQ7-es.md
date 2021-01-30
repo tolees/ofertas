@@ -16,6 +16,7 @@ comparePrice: 18.38 EUR
 prodname: 'MOSOTECH Organizador Cables  Cubre Cables de 2 x 3m  Flexible Funda Organizador Cables  Organizador de Cables Mesa  Recoge Cables para Office y PC Escritorio-Gris Ø2.2cm y Ø1.6cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086QSXWQ7/?tag=tolees-21'
 descuento: '31.34'
 average: '12.62'

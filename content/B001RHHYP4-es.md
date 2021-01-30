@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'AIM - Alfombrilla Gaming Profesional  Superficie de Tela Avanzada  Bordes Reforzados  Base de Caucho Natural con Agarre de Seguridad  Alta Comodidad  XL-Extra Grande   Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001RHHYP4/?tag=tolees-21'
 descuento: '50.25'
 average: '9.9'

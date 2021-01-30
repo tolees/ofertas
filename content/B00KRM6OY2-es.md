@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Amazon - Funda protectora para Kindle  7ª generación - modelo de 2014   Rojo cayena'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KRM6OY2/?tag=tolees-21'
 descuento: '30.81'
 average: '20.75'

@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Kipling Gabbie S  Bolsos Bandolera para Mujer  Rojo  Metallic Rust   29x22x16.5 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZ1MTLR/?tag=tolees-21'
 descuento: '50.08'
 average: '44.43'

@@ -16,6 +16,7 @@ comparePrice: 37.99 EUR
 prodname: 'IMC Toys - Bebés Llorones  Lady  96295 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079NN9NSG/?tag=tolees-21'
 descuento: '31.59'
 average: '32.415'

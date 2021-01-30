@@ -16,6 +16,7 @@ comparePrice: 199 EUR
 prodname: 'Seiko Reloj Analógico para Hombre de Energía Solar con Correa en Nailon PZ5089X1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P74JPDP/?tag=tolees-21'
 descuento: '50.51'
 average: '98.48'

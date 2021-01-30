@@ -16,6 +16,7 @@ comparePrice: 186.0 EUR
 prodname: '00119 XuanPad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VDLCRRY/?tag=tolees-21'
 descuento: '75.45'
 average: '45.66'

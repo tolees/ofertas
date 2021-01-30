@@ -16,6 +16,7 @@ comparePrice: 58.0 EUR
 prodname: 'Safety 1st Soft Dreams Cuna de viaje plegable y portatil  ideal para viajar  por bebés y ninos 0 meses - 3 anos  plegado compacto con bolsa de transporte  color Blue'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KL1DL2N/?tag=tolees-21'
 descuento: '51.14'
 average: '34.82'

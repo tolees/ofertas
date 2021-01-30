@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'AngLink Linterna de Buceo  2000 Lumens CREE XHP-50 LED Antorcha de Buceo  2 Modos Linterna de Buceo Recargable  350 Metros Buceo Linterna con 2 x 26650 Batería y Cargador'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WTL49QM/?tag=tolees-21'
 descuento: '57.15'
 average: '29.99'

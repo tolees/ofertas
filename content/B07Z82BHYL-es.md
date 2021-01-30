@@ -16,6 +16,7 @@ comparePrice: 17.98 EUR
 prodname: 'Oihxse Compatible con iPhone 7 Plus/iPhone 8 Plus Funda Silicona Transparente Suave Gel TPU Carcasa Ultra-Delgado Patrón Protector Caso para iPhone 7+ Plus/iPhone 8+ Plus Cover Bumper  Muerte '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z82BHYL/?tag=tolees-21'
 descuento: '55.62'
 average: '7.98'

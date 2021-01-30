@@ -16,6 +16,7 @@ comparePrice: 32.0 EUR
 prodname: 'CRZ YOGA Sujetador Deportivo Yoga para Mujer Ejercicio Fitness Ropa Interior Blanco M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077YC8W2T/?tag=tolees-21'
 descuento: '50.00'
 average: '16.994999999999997'

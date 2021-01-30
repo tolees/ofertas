@@ -16,6 +16,7 @@ comparePrice: 35 EUR
 prodname: 'Under Armour Favorite Legging WM Ar Leggings  Mujer  Gris  Pitch Gray Medium Heather/Black 012   XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZQ9X31/?tag=tolees-21'
 descuento: '57.89'
 average: '14.092500000000001'

@@ -16,6 +16,7 @@ comparePrice: 12.59 EUR
 prodname: 'BYJIN 50 Unids PM2.5 N95 Filtros de Máscara de Carbón Activado Máscaras faciales  4 Capas Filtros Protectores Filtros de mascarilla respiratoria para diversas Actividades Interiores y Exteriores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0848NPWJV/?tag=tolees-21'
 descuento: '36.54'
 average: '7.99'

@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Skechers Women 12615 Low-Top Trainers  Blue  Navy Mesh/Hot Pink Trim Nvhp   8 UK  41 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074L4KBXJ/?tag=tolees-21'
 descuento: '30.03'
 average: '34.95'

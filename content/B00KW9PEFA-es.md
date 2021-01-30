@@ -16,6 +16,7 @@ comparePrice: 36.0 EUR
 prodname: 'AUSONIA - 34400 NAVAJA INJERTADORA DE TRIÁNGULO CON HOJA DE ACERO Y MANGO DE MADERA DE 20 CM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KW9PEFA/?tag=tolees-21'
 descuento: '33.33'
 average: '24.0'

@@ -16,6 +16,7 @@ comparePrice: 52.57 EUR
 prodname: 'VNOX Banda de Boda de carburo de tungsteno de los Hombres de 6 mm con facetas de triángulo Superficie de Corte de Anillo de Compromiso de Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01I52VOZ4/?tag=tolees-21'
 descuento: '55.01'
 average: '23.65'

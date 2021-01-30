@@ -16,6 +16,7 @@ comparePrice: 14.75 EUR
 prodname: 'Regufibra | Potente prebiótico con aloe vera e inulina [10 mil millones UFC] | Regula el tránsito intestinal y mejora la digestión | Previene el estreñimiento | Depura y elimina toxinas | 60 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F71WLBT/?tag=tolees-21'
 descuento: '25.08'
 average: '11.05'

@@ -16,6 +16,7 @@ comparePrice: 25.65 EUR
 prodname: 'Botella Agua Acero Inoxidable 350/500/750ml  Botella Termica Reutilizable con Doble Aislamiento para Mantiene las bebidas frías por más de 24 horas  las bebidas calientes por 12 horas Libre de BPA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XHLNM9G/?tag=tolees-21'
 descuento: '49.36'
 average: '14.323333333333334'

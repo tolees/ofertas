@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'PartyWoo Globos Oro Rosas  Globos 44 Unidades de Globos Rosas Globos Fucsia Globos Dorados Globos Confeti Dorado y Globos Gigantes para Fiesta Princesas  Niña Fiesta  Incluye 4 Globo Gigante Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KZTDFRN/?tag=tolees-21'
 descuento: '28.62'
 average: '10.7'

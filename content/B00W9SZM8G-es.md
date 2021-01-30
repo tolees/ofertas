@@ -16,6 +16,7 @@ comparePrice: 15.5 EUR
 prodname: 'Calvin Klein Radiant Cotton-Bikini Lencería  Negro  Black 001   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00W9SZM8G/?tag=tolees-21'
 descuento: '35.55'
 average: '9.615'

@@ -16,6 +16,7 @@ comparePrice: 2.99 EUR
 prodname: 'Wet n Wild Power Outage 1 Step Wonder Gel Nail Color Esmalte para las Uñas - 7 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MCYBLG1/?tag=tolees-21'
 descuento: '66.56'
 average: '1.0'

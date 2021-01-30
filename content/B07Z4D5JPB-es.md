@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Funda compatible con Huawei Honor 10 funda ultrafina suave flexible de silicona TPU hanyhülle con Marmormuster Stoßfest Anti-amarillo Bumper Case para Huawei Honor 10 6 talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z4D5JPB/?tag=tolees-21'
 descuento: '47.39'
 average: '9.99'

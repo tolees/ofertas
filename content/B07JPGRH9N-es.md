@@ -16,6 +16,7 @@ comparePrice: 23.0 EUR
 prodname: 'Under Armour Men s Truckstop Beanie 2.0 Gorrita  Hombre  Rojo  OSFA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JPGRH9N/?tag=tolees-21'
 descuento: '39.74'
 average: '13.86'

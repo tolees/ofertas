@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Snailax Masajeador de mano eléctrico para masaje de percusión inalámbrico recargable con calor  masajeador portátil para aliviar el dolor SL482-ES'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RN3K7TH/?tag=tolees-21'
 descuento: '32.51'
 average: '26.99'

@@ -16,6 +16,7 @@ comparePrice: 24.85 EUR
 prodname: 'Super Mario Cuello Redondo Carta ImpresiÓN Manga Corta T-Shirt Sencillas Ocasionales Camisetas Adecuado para niños y niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PN82G3D/?tag=tolees-21'
 descuento: '60.00'
 average: '9.94'

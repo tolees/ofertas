@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'World Rally Championship 8  WRC 8  - Edición Coleccionista [Versión española]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WWXN91V/?tag=tolees-21'
 descuento: '28.03'
 average: '68.55'

@@ -16,6 +16,7 @@ comparePrice: 46.73 EUR
 prodname: 'Cámaras Espía Oculta HD 1080P 120°Gran Angular Grabadora de mini vídeo Cámara con visión nocturna por infrarrojos/detección de movimiento（No soporta wifi）'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PQRH898/?tag=tolees-21'
 descuento: '31.76'
 average: '31.89'

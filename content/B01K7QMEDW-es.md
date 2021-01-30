@@ -16,6 +16,7 @@ comparePrice: 1.6 EUR
 prodname: 'La Estrella Café Molido de tueste natural  50%  y torrefacto  50%  - Paquete de 250 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K7QMEDW/?tag=tolees-21'
 descuento: '37.50'
 average: '1.0'

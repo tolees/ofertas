@@ -16,6 +16,7 @@ comparePrice: 259.0 EUR
 prodname: 'Calvin Klein Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable K3M2262Y'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079FD82VV/?tag=tolees-21'
 descuento: '37.68'
 average: '160.35'

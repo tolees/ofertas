@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'KFD Adaptador 15V 4A 65W Cargador Portatil para Microsoft Surface Book  Surface Laptop  Surface Pro 6  Surface Go  Surface Pro 3 Pro 4 Pro 5 Modelo 1706 1800 1735 Tableta PC con 5V Puerto USB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JLNM2TQ/?tag=tolees-21'
 descuento: '52.32'
 average: '30.99'

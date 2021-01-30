@@ -16,6 +16,7 @@ comparePrice: 150 EUR
 prodname: 'Cat Footwear Colorado  Botas para Hombre  Beige  Honey   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009RJUPUA/?tag=tolees-21'
 descuento: '50.25'
 average: '74.63'

@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Jata TT610 Tostador Acero Inoxidable Tostador De Cuerpo De Dos Ranuras De 250 mm De Largo Y 30 mm De Ancho Centrado Automático Del Pan Bandeja Recogemigas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M7RW8MS/?tag=tolees-21'
 descuento: '30.08'
 average: '27.9'

@@ -16,6 +16,7 @@ comparePrice: 150 EUR
 prodname: 'BOSS Saturn_lowp_Meth  Zapatillas para Hombre  Gris  Light Grey 50   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K7VZB8X/?tag=tolees-21'
 descuento: '60.03'
 average: '52.45'

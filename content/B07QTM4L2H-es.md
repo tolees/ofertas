@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'Asics Gel-Cumulus 21 G-TX  Zapatillas de Running para Mujer  Azul  Mako Blue/Midnight 400   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QTM4L2H/?tag=tolees-21'
 descuento: '60.01'
 average: '59.99'

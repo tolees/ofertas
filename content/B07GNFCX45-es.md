@@ -16,6 +16,7 @@ comparePrice: 515.99 EUR
 prodname: 'HyperX Predator - Memoria RAM de 64 GB  DDR4  Kit 4 x 16 GB  3333 MHz  CL16  DIMM XMP  HX433C16PB3K4/64 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GNFCX45/?tag=tolees-21'
 descuento: '37.60'
 average: '321.97'

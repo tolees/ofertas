@@ -16,6 +16,7 @@ comparePrice: 222.21 EUR
 prodname: 'Guess Reloj de Pulsera W0289L1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00FB7Q4UC/?tag=tolees-21'
 descuento: '51.44'
 average: '108.568'

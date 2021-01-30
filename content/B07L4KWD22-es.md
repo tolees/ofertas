@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Swonuk Alfombra Inflable con Agua 66*50  Juego de Esterilla de Agua PVC Grueso  Adecuado para niños pequeños  es el Momento de diversión Juego Centro de Actividad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L4KWD22/?tag=tolees-21'
 descuento: '35.02'
 average: '12.589999999999998'

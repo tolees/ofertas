@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'adidas X 17.3 FG  Zapatillas de Fútbol para Hombre  Multicolor  Solar Yellow Legend Ink   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N4QFIZY/?tag=tolees-21'
 descuento: '50.01'
 average: '39.99'

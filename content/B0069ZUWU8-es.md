@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Dickies Original 874 Work Pant Pantalones  Marina Oscuro   Tamaño del Fabricante:42/34  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0069ZUWU8/?tag=tolees-21'
 descuento: '51.58'
 average: '25.022499999999997'

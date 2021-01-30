@@ -16,6 +16,7 @@ comparePrice: 28.26 EUR
 prodname: 'Canon BCI-3e 3 Cartuchos Multipack de tinta original Cian/Magenta/Amarillo para Impresora de Inyeccion de tinta Pixma iP3000-iP4000-iP4000R-iP5000'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000F39MZG/?tag=tolees-21'
 descuento: '68.90'
 average: '8.79'

@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'TOUS Anillo Mujer vermeil rosado  baño rosa de oro 18kt  talla 11 5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KXNRJN5/?tag=tolees-21'
 descuento: '30.00'
 average: '58.86666666666667'

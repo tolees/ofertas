@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'HUGO - Record ns Zip  Bolsa de tela y playa Hombre  Azul  Navy   5x21x16.5 cm  B x H T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V5VDBJ6/?tag=tolees-21'
 descuento: '79.86'
 average: '19.94'

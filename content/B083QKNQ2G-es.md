@@ -16,6 +16,7 @@ comparePrice: 4.68 EUR
 prodname: 'Asiento trasero Reposacabezas Creative Hook Organizador multifunción Gancho para colgar Asiento Reposacabezas Soporte para coche universal SUV/Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083QKNQ2G/?tag=tolees-21'
 descuento: '35.04'
 average: '3.04'

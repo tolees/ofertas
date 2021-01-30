@@ -16,6 +16,7 @@ comparePrice: 7.64 EUR
 prodname: 'Zuru - Bunch O Balloons Set globos 3 manojos x 35 globos  42717    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EYS249I/?tag=tolees-21'
 descuento: '54.19'
 average: '5.096'

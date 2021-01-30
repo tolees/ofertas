@@ -16,6 +16,7 @@ comparePrice: 10.95 EUR
 prodname: 'L Óreal Paris Les Chocolats Labial Líquido Mate - Tono Nude Amarronado 848 Dose of Cocoa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CGSYDZH/?tag=tolees-21'
 descuento: '55.34'
 average: '4.89'

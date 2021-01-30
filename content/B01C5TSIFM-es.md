@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Canon Dcc-1880 - Funda para Cámara Canon Powershot G7X MK II  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01C5TSIFM/?tag=tolees-21'
 descuento: '43.33'
 average: '17.0'

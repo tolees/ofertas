@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Lacoste Reloj Analógico para Hombre de Cuarzo con Correa en Silicona 2010951'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BXNNB4Q/?tag=tolees-21'
 descuento: '47.32'
 average: '75.155'

@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Hackett Aston Martin Racing T544 Polo  Negro  Blk/Multi 9eg   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QJ6W5SZ/?tag=tolees-21'
 descuento: '77.28'
 average: '33.25'

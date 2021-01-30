@@ -16,6 +16,7 @@ comparePrice: 112.24 EUR
 prodname: 'Asics Unisex Adults Gel-Kayano Trainer Evo Zapatillas de correr Adultos Unisex  Negro  Black/Black   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GKB90VC/?tag=tolees-21'
 descuento: '75.14'
 average: '27.9'

@@ -16,6 +16,7 @@ comparePrice: 10.9 EUR
 prodname: 'Bourjois Poudre De Java Polvos Tono  3.5gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EUZUNJO/?tag=tolees-21'
 descuento: '28.99'
 average: '7.74'

@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Funko- Pop Movie Daniel Craig 007-James Bond Figura Coleccionable  Multicolor  Talla única  35678 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HJC3KXB/?tag=tolees-21'
 descuento: '33.11'
 average: '10.0'

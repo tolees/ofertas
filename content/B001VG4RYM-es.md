@@ -16,6 +16,7 @@ comparePrice: 37.57 EUR
 prodname: 'Calvin Klein 3P Hip Brief  Calzoncillos para Hombre  3 unidades   Negro  Black   Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001VG4RYM/?tag=tolees-21'
 descuento: '31.33'
 average: '25.683333333333334'

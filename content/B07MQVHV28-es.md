@@ -16,6 +16,7 @@ comparePrice: 69 EUR
 prodname: 'Napapijri EISBERG Polo  Negro  Black 041   S para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MQVHV28/?tag=tolees-21'
 descuento: '60.41'
 average: '27.32'

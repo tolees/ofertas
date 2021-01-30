@@ -16,6 +16,7 @@ comparePrice: 37.99 EUR
 prodname: 'COFIT Cargador de Coche  2 USB Adaptador 3 Sockets Encendedor de Cigarrillos Splitter 70W 12V/24V para iPhone iPad Samsung GPS y Más'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CXG8S3Y/?tag=tolees-21'
 descuento: '52.65'
 average: '17.99'

@@ -16,6 +16,7 @@ comparePrice: 71.16 EUR
 prodname: 'Assassin s Creed: Rogue - Collector s Limited Edition [Importación Italiana]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MO7XFXQ/?tag=tolees-21'
 descuento: '34.23'
 average: '46.8'

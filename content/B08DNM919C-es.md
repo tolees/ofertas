@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'Pantalones Cortos Deportivos para Mujer Entrenamiento Yoga Verano para Hacer Ejercicio Trotar Gimnasio Pijamas Interior Casual Suelto Elástico con Banda Rojo S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DNM919C/?tag=tolees-21'
 descuento: '65.23'
 average: '15.99'

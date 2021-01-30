@@ -16,6 +16,7 @@ comparePrice: 27.55 EUR
 prodname: 'Mini tamaño pequeño gsm 1800/900 Rda8851 teléfono Celular móvil para niños Mayores Mayores para GT Star Mini teléfono Celular Bm50 Durable-Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BFH3RJK/?tag=tolees-21'
 descuento: '33.50'
 average: '18.32'

@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'BLACK+DECKER GW2500-QS - Aspirador  soplador y triturador de hojas  2500W  310 Km/h'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00U7GP3CW/?tag=tolees-21'
 descuento: '28.11'
 average: '66.41'

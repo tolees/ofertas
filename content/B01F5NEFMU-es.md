@@ -16,6 +16,7 @@ comparePrice: 13.2 EUR
 prodname: 'Yacel CELLUBLOCK. Anticelulítico Intensivo. Quemagrasa y Reduce líquidos. 200ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01F5NEFMU/?tag=tolees-21'
 descuento: '31.36'
 average: '9.06'

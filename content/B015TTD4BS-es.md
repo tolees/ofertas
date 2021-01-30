@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Bondage Play Dilatadores Uretra - 1 unidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015TTD4BS/?tag=tolees-21'
 descuento: '40.96'
 average: '14.73'

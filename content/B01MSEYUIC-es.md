@@ -16,6 +16,7 @@ comparePrice: 8.5 EUR
 prodname: 'Philips Avent SCF169/25 - Set de 2 chupetes Gama Safari  de 0 a 6 meses  diseño tigre o hipopótamo  para niño'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MSEYUIC/?tag=tolees-21'
 descuento: '38.94'
 average: '5.5275'

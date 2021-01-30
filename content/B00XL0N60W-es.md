@@ -16,6 +16,7 @@ comparePrice: 35.32 EUR
 prodname: 'Orbegozo TF 0123 Ventilador de sobremesa  25 W  Blanco y negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XL0N60W/?tag=tolees-21'
 descuento: '46.35'
 average: '18.95'

@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'TOUS Pulsera Good Vibes Mama de Plata Vermeil y shungitas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087G1J8XG/?tag=tolees-21'
 descuento: '30.30'
 average: '69.0'

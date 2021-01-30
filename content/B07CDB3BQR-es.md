@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'Corsair HS70 Wireless - Auriculares inalámbricos para juegos  sonido envolvente 7.1  con micrófono desmontable  para PC/PS4   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CDB3BQR/?tag=tolees-21'
 descuento: '27.28'
 average: '86.77571428571429'

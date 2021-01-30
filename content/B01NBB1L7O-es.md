@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Metal Earth- Tren Expresso Hogwarts  Harry Potter Series  Fascinations MMS440 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NBB1L7O/?tag=tolees-21'
 descuento: '50.03'
 average: '7.47'

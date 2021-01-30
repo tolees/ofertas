@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Helly Hansen Vanir Hegira HT  Zapatillas de Senderismo para Hombre  Azul  Electric Blue/Black/Nimbus Cloud/Glacier Blue 639   40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07THLSQB7/?tag=tolees-21'
 descuento: '54.26'
 average: '59.46'

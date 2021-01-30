@@ -16,6 +16,7 @@ comparePrice: 11.95 EUR
 prodname: 'Essie Esmalte de Uñas  48 Luxedo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00A3B3Q9I/?tag=tolees-21'
 descuento: '68.37'
 average: '3.78'

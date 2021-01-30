@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Pepe Jeans Kim suéter   Forest Green 682   Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZPL4RC/?tag=tolees-21'
 descuento: '43.46'
 average: '36.75'

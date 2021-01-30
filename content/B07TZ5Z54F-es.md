@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers D lux Walker  Zapatillas para Hombre  Azul  Black Leather/Mesh/White Trim BKW   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZ5Z54F/?tag=tolees-21'
 descuento: '51.27'
 average: '35.760000000000005'

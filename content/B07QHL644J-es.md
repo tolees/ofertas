@@ -16,6 +16,7 @@ comparePrice: 45.04 EUR
 prodname: 'Pablosky  Mocasines para niño para Niños  Marrón  24 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QHL644J/?tag=tolees-21'
 descuento: '26.73'
 average: '33.0'

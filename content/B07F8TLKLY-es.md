@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'CHICTRY Cola de Sirena Mujer para Nadar Bañador Ropa de Baño Mermaid Tail Disfraz de Sirena Adulto Cosplay Swimwear Azul Medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F8TLKLY/?tag=tolees-21'
 descuento: '34.11'
 average: '14.49'

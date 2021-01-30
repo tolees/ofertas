@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'Topcom RC-6430 – Walkie-talkie  alcance hasta 3 km  número de canales 6'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SDFFM0M/?tag=tolees-21'
 descuento: '62.71'
 average: '10.81'

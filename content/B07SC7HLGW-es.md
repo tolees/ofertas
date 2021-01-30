@@ -16,6 +16,7 @@ comparePrice: 66.16 EUR
 prodname: 'Cooko Decantador de Vino  Decantador de Aireación de Vino de Cristal Premium  Jarra de Vino Sin Plomo  Hecho a Mano Accesorios de Vino con 1200ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SC7HLGW/?tag=tolees-21'
 descuento: '59.22'
 average: '26.98'

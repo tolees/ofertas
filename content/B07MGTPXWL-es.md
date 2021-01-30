@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Funda para Motorola Moto G6 Play Carcasa Espejo Mirror Flip Caso Ultra Delgada Protector Shock Absorbing Caja del Teléfono Translucent Window View  Rose Gold  Motorola Moto G6 Play '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MGTPXWL/?tag=tolees-21'
 descuento: '42.22'
 average: '11.55'

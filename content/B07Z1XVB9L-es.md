@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'AUOPLUS Multi-Colores LED Luz Nocturna Infantil Lámpara Quitamieda de pared para Niños con Sensor Crepuscular Control Táctil luz de Ambiente para Habitación Bebé Dormitorio Sala Garaje Baño Pasillos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z1XVB9L/?tag=tolees-21'
 descuento: '63.35'
 average: '10.99'

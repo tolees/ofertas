@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Lee Rider Contrast Jeans  Blue Waters  28W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079K9ZYWP/?tag=tolees-21'
 descuento: '75.70'
 average: '20.32'

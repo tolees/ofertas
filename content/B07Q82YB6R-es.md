@@ -16,6 +16,7 @@ comparePrice: 4.98 EUR
 prodname: 'Universal Solar LLEVÓ el Coche Portavasos Estera Antideslizante Impermeable Pad Botella Bebidas Coaster Atmósfera Lámpara para Coche SUV Camión'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q82YB6R/?tag=tolees-21'
 descuento: '32.13'
 average: '3.38'

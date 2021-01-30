@@ -16,6 +16,7 @@ comparePrice: 38.99 EUR
 prodname: 'ROC Pro Renove - Crema Anti Edad  Unificante  Textura Rica  50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JPNYGNA/?tag=tolees-21'
 descuento: '50.35'
 average: '20.793333333333333'

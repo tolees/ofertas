@@ -16,6 +16,7 @@ comparePrice: 33.33 EUR
 prodname: 'King internacional acero inoxidable redondo Rado salero y pimentero con ver a través de tapa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0791FFK9M/?tag=tolees-21'
 descuento: '67.66'
 average: '10.78'

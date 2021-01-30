@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'Corsair K65 Lux RGB Teclado Mecánico Gaming  Cherry MX Red  Lineal y Rápido  Retroiluminación Multicolor LED RGB  Estructura de Aluminio Anodizado  QWERTY Español  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LOJ64HS/?tag=tolees-21'
 descuento: '28.57'
 average: '100.82333333333332'

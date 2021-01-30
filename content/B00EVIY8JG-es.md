@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Converse - Zapatillas para mujer  Blanco  EU 39.5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EVIY8JG/?tag=tolees-21'
 descuento: '43.31'
 average: '46.019999999999996'

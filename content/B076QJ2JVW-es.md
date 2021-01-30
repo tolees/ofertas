@@ -16,6 +16,7 @@ comparePrice: 6.93 EUR
 prodname: 'Moussel Classique Gel Moussant 900 Ml - 900 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076QJ2JVW/?tag=tolees-21'
 descuento: '40.84'
 average: '4.1'

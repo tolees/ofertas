@@ -16,6 +16,7 @@ comparePrice: 8.47 EUR
 prodname: 'Meizas Conjuntos de Bikinis para Mujer  Blanco  X-Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VTNWRR2/?tag=tolees-21'
 descuento: '38.13'
 average: '8.325'

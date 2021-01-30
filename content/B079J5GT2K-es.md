@@ -16,6 +16,7 @@ comparePrice: 125.99 EUR
 prodname: 'Asics Roadhawk FF 2  Zapatillas de Entrenamiento para Hombre  Azul  Race Blue/White 400   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079J5GT2K/?tag=tolees-21'
 descuento: '61.91'
 average: '75.95'

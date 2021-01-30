@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Women s Stamina-Classy Trail Trainers  Black  Black Suede/Mesh/White & Gum Trim BKW   6  39 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NW6CRCN/?tag=tolees-21'
 descuento: '31.95'
 average: '47.49666666666667'

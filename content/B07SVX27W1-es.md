@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'ORICO Funda para Disco Duro con Asa  Impermeable  Resistente al Desgaste Bolsa de Almacenamiento Digital（19 * 15 * 5cm）'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SVX27W1/?tag=tolees-21'
 descuento: '35.74'
 average: '8.99'

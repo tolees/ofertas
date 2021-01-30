@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Taurus Phoenix-Sandwichera  800 W  2 Indicadores Luminosos  Placas Grill antiadherentes   Blanco  1 Liter  0 Decibeles'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LYXOUMZ/?tag=tolees-21'
 descuento: '35.67'
 average: '17.165294117647058'

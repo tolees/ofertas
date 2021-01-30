@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Quiksilver Mission-Guantes para Snowboard/Esquí para Hombre  Black Matte Painting  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TCHBXN1/?tag=tolees-21'
 descuento: '31.34'
 average: '30.89'

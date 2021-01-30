@@ -16,6 +16,7 @@ comparePrice: 37.0 EUR
 prodname: 'Plantronics - Aps-11 - accesorio para auriculares'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002B7VE6Y/?tag=tolees-21'
 descuento: '52.73'
 average: '17.49'

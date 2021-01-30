@@ -16,6 +16,7 @@ comparePrice: 53.26 EUR
 prodname: 'Nike Todos  Zapatillas para Hombre  Negro  Black/White 002   44.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PHW1FVH/?tag=tolees-21'
 descuento: '44.14'
 average: '32.47'

@@ -16,6 +16,7 @@ comparePrice: 25.98 EUR
 prodname: 'El increible Hulk  2ª temporada  [DVD]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0053C9FGA/?tag=tolees-21'
 descuento: '61.70'
 average: '9.95'

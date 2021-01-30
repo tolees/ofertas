@@ -16,6 +16,7 @@ comparePrice: 23.09 EUR
 prodname: 'Adaptador WiFi USB WiFi Antena USB WiFi Adaptador AC1300Mbps WiFi Dongle 5ghz Adaptador USB 3.0 Dongle Dual Band 2.4GHz 5GHz para PC de Escritorio Compatible con Windows Mac OS 10.9-10.14'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08F7D1QNK/?tag=tolees-21'
 descuento: '30.75'
 average: '15.99'

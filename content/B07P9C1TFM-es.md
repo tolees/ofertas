@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'ORNARTO Case Mi9  MI9 Clear Protective Cover Anti-Shock Anti-Scratch Bumper Funda de silicona parachoques para Xiaomi Mi 9  2019  6 39  negro transparente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P9C1TFM/?tag=tolees-21'
 descuento: '66.69'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 2.12 EUR
 prodname: 'Bel Premium Bolas de Algodon  70 piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003ZOFRO2/?tag=tolees-21'
 descuento: '52.83'
 average: '1.0'

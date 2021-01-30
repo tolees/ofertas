@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Regalos Originales para Hombre y Mujer Sombrero Bluetooth - Bluetooth 5.0 Sombrero Bluetooth  Sombrero de Invierno con Auriculares Bluetooth Inalámbricos  Apto para Esquí  Ciclismo  Trotar  JC-2 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WC1CGVD/?tag=tolees-21'
 descuento: '33.34'
 average: '19.99'

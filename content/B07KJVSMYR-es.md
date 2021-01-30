@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Saucony Cohesion 12  Zapatillas de Running para Hombre  Negro Negro 10  44.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KJVSMYR/?tag=tolees-21'
 descuento: '40.67'
 average: '44.5'

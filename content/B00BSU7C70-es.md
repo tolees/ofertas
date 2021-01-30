@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Superga Classic  Zapatillas Unisex Adulto  Dark Chocolate  44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BSU7C70/?tag=tolees-21'
 descuento: '37.69'
 average: '29.966666666666665'

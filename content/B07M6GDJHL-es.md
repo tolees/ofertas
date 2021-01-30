@@ -16,6 +16,7 @@ comparePrice: 9.0 EUR
 prodname: 'Rimmel London Provocalips  Barra de labioss  Tono 780 Shore Thing  - 1 unidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M6GDJHL/?tag=tolees-21'
 descuento: '86.67'
 average: '1.2'

@@ -16,6 +16,7 @@ comparePrice: 11.82 EUR
 prodname: 'Máquina de Hacer Burbujas de Juguete Vibrante para baño Infantil - Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089R7KNTM/?tag=tolees-21'
 descuento: '33.50'
 average: '7.86'

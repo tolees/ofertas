@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Superga 2750 Cotu Classic  Zapatillas Unisex  Rosa  Dusty Rose   42 EU  8 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OOKR3BG/?tag=tolees-21'
 descuento: '36.37'
 average: '37.54'

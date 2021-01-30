@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Under Armour Waist Bag Riñonera  Unisex Adulto  Verde  OSFA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0814SR3ZY/?tag=tolees-21'
 descuento: '30.10'
 average: '17.84285714285714'

@@ -16,6 +16,7 @@ comparePrice: 239.99 EUR
 prodname: 'Naipo Mesa de Masaje Plegable de 2 Secciones Camilla Portátil y Profesional con Patas de Aluminio de Haya Alemán  Bolsa de Transporte  Reposacabezas y Apoyabrazos Desmontables Negro 213*90cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078J3C6WF/?tag=tolees-21'
 descuento: '45.84'
 average: '133.99'

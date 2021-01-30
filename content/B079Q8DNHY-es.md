@@ -16,6 +16,7 @@ comparePrice: 249.99 EUR
 prodname: 'KidKraft- Juguete de vías de tren y mesa  de madera  para niños  juego clásico de actividades ferroviarias con accesorios incluidos  120 piezas  My Own City Vehicle  Color Multicolor  18026 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079Q8DNHY/?tag=tolees-21'
 descuento: '30.00'
 average: '174.99'

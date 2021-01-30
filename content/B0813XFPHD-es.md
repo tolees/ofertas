@@ -16,6 +16,7 @@ comparePrice: 54.92 EUR
 prodname: 'adidas Duramo Lite 2.0  Zapatillas para Correr para Mujer  Dove Grey/FTWR White/Glory Pink  40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0813XFPHD/?tag=tolees-21'
 descuento: '45.39'
 average: '29.99'

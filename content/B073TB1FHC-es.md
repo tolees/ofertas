@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Gigaset E260 - Teléfono inalámbrico teclas grandes  Pantalla 1 8" Alto contraste  Números grandes  Agenda 120 contactos  Compatible con audifonos  Color Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073TB1FHC/?tag=tolees-21'
 descuento: '25.66'
 average: '32.28'

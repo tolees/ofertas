@@ -16,6 +16,7 @@ comparePrice: 12.9 EUR
 prodname: 'Newseego Compatible con el Protector de Lente de cámara Huawei P30 Pro [4 Pack] Protector de Vidrio Flexible Transparente - Alta definición con Borde Redondo 2.5D Protector [Anti-Scratch] - Clear'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PQFJYZC/?tag=tolees-21'
 descuento: '45.81'
 average: '6.99'

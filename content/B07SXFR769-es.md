@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'YMX BOXING Pelota Entrenamiento de Reflejos Boxeo - Banda Ajustable para la Cabeza  Bolas de Espuma Blanda Ligera - Mejor coordinación Mano/visión  la Velocidad de reacción - Deportes Ejercicio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SXFR769/?tag=tolees-21'
 descuento: '25.02'
 average: '11.99'

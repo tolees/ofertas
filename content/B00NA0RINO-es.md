@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Shaon KIENZLE - Reloj de cuarzo para hombres  color plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NA0RINO/?tag=tolees-21'
 descuento: '67.70'
 average: '44.9'

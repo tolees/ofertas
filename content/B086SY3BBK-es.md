@@ -16,6 +16,7 @@ comparePrice: 8.44 EUR
 prodname: '10 unidades de protección contra 4 capas de protección facial'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086SY3BBK/?tag=tolees-21'
 descuento: '54.03'
 average: '3.88'

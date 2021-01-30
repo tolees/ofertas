@@ -16,6 +16,7 @@ comparePrice: 52.9 EUR
 prodname: 'find. Zapato de Cordones Piel Grabada para Hombre  Negro  Black   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XGF9W6T/?tag=tolees-21'
 descuento: '57.84'
 average: '22.3'

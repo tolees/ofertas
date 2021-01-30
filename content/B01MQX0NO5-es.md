@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Crocs Freesail Chelsea Boot Women  Mujer Bota  Verde  Dark Camo Green   36-37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MQX0NO5/?tag=tolees-21'
 descuento: '61.96'
 average: '27.36'

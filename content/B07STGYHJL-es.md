@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Mr. Wonderful Bullet  Calendario  Talla Única  Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07STGYHJL/?tag=tolees-21'
 descuento: '50.03'
 average: '7.47'

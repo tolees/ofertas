@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Belkin Boost Up Bold - Cargador inalámbrico  para iPhone 11/11 Pro/Pro Max  XS/XS Max  XR  SE  Samsung S10/10+/10e  Note9  Huawei P30/P30 Pro  LG y otros  Airpods  - adaptador de corriente no incluido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KWFZ4Q2/?tag=tolees-21'
 descuento: '60.02'
 average: '11.204285714285714'

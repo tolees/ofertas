@@ -16,6 +16,7 @@ comparePrice: 5.25 EUR
 prodname: 'Doble llavero de pareja  2 piezas que encajan con figura de hombre y mujer  llavero abalorio para parejas  hecho de aleación'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0784GHNNX/?tag=tolees-21'
 descuento: '57.90'
 average: '3.4833333333333334'

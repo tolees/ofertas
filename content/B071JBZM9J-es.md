@@ -16,6 +16,7 @@ comparePrice: 13.35 EUR
 prodname: 'Garnier Protector Tacto Seco Bruma Seca FPS 50 - 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071JBZM9J/?tag=tolees-21'
 descuento: '36.33'
 average: '8.5'

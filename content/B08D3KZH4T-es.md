@@ -16,6 +16,7 @@ comparePrice: 1.5 EUR
 prodname: 'yaoyan Trampa de Red de Pesca portátil Cuenta Luminosa Cobre Spring Shoal Netting Fishnet Tackle Sin Necesidad de Gancho Herramienta de Pesca de Pescado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08D3KZH4T/?tag=tolees-21'
 descuento: '33.33'
 average: '1.0'

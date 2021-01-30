@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'POLPqeD Cámara Web HD Mini Computadora USB Cámara Micrófono Incorporado Webcam  Clip Giratorio Flexible  para Computadoras Portátiles  Computadoras de Escritorio  Juegos  Videoconferencias  B '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086VJKJ7N/?tag=tolees-21'
 descuento: '65.02'
 average: '10.49'

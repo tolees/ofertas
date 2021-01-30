@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'Do not feed the monkey - Collector´s Edition'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XB2N1C6/?tag=tolees-21'
 descuento: '34.99'
 average: '30.718'

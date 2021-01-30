@@ -16,6 +16,7 @@ comparePrice: 649.99 EUR
 prodname: 'HP 285 G3 - Ordenador de sobremesa profesional  AMD Ryzen 3-2200G  8GB RAM  256GB SSD  AMD Radeon Vega 8  Windows 10 Pro  Negro - teclado QWERTY estándar  inglés  y ratón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GL441GB/?tag=tolees-21'
 descuento: '41.69'
 average: '404.12125'

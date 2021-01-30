@@ -16,6 +16,7 @@ comparePrice: 64.03 EUR
 prodname: 'LifeProof Fre - Funda estanca y Anti caídas para Apple iPhone SE/5/5S  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00Z7SZI5C/?tag=tolees-21'
 descuento: '39.09'
 average: '39.0'

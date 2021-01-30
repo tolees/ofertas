@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'AmazonBasics - Cargador de pilas USB  color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QDZHPTQ/?tag=tolees-21'
 descuento: '38.49'
 average: '7.99'

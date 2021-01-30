@@ -16,6 +16,7 @@ comparePrice: 89 EUR
 prodname: 'Fred Perry M6000  Polo para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N5K42GQ/?tag=tolees-21'
 descuento: '47.67'
 average: '46.57'

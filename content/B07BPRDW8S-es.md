@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'Bulldog Skincare for Men Exfoliante facial original – 125 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BPRDW8S/?tag=tolees-21'
 descuento: '45.41'
 average: '7.07'

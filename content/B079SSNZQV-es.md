@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Desigual Sweat Daniela suéter   Negro 2000   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079SSNZQV/?tag=tolees-21'
 descuento: '47.54'
 average: '44.57'

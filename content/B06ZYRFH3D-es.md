@@ -16,6 +16,7 @@ comparePrice: 107.27 EUR
 prodname: 'Beko BWH50EUC - Termo eléctrico / calentador  50 litros  2000 W  color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06ZYRFH3D/?tag=tolees-21'
 descuento: '36.62'
 average: '67.99'

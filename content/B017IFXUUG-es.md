@@ -16,6 +16,7 @@ comparePrice: 1287.44 EUR
 prodname: 'DELL UltraSharp UP3216Q LED Display 80 cm  31.5"  4K Ultra HD Plana Negro - Monitor  80 cm  31.5"   3840 x 2160 Pixeles  4K Ultra HD  LED  8 ms  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017IFXUUG/?tag=tolees-21'
 descuento: '54.41'
 average: '1082.11'

@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Puma Turin Ii Zapatillas Unisex adulto  Azul  Peacoat-Puma White 5   42 EU  8 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DC1YXTV/?tag=tolees-21'
 descuento: '49.95'
 average: '27.5'

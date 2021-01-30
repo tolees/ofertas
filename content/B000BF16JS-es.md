@@ -16,6 +16,7 @@ comparePrice: 16.69 EUR
 prodname: 'Canon Cartucho de tinta Negro para MX850-MP500-MP530-MP600-MP600R-MP610-MP800-MP800R-MP810-MP830-iP4200-iP4200x-iP4300-iP4500-iP4500x-iP5200-iP5200R-iP5300-iP6600D-iP6700D-PRO9000-PRO9000MarkII'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000BF16JS/?tag=tolees-21'
 descuento: '64.17'
 average: '5.98'

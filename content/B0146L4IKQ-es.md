@@ -16,6 +16,7 @@ comparePrice: 73.0 EUR
 prodname: 'Clinique Smart Night - Crema antiarrugas  50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0146L4IKQ/?tag=tolees-21'
 descuento: '35.14'
 average: '47.35'

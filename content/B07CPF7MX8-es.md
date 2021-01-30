@@ -16,6 +16,7 @@ comparePrice: 36.51 EUR
 prodname: 'Cincuenta Sombras De Grey - Películas 1-3 [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CPF7MX8/?tag=tolees-21'
 descuento: '31.80'
 average: '25.34'

@@ -16,6 +16,7 @@ comparePrice: 9.6 EUR
 prodname: 'Lifestyle 2427 Pelador Vertical para Frutas  Verduras y Tomate  Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00YXOHIO0/?tag=tolees-21'
 descuento: '64.90'
 average: '3.37'

@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Under Armour UA Fast Left Chest 2.0 SS Deportiva De Manga Corta  Camisetas para Hombre  Blanco  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SKX6G5C/?tag=tolees-21'
 descuento: '48.12'
 average: '13.49'

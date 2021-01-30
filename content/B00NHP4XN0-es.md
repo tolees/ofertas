@@ -16,6 +16,7 @@ comparePrice: 29.5 EUR
 prodname: 'Calvin Klein 000NB1042A  Calzoncillos Para Hombre  Blanco  White 100   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NHP4XN0/?tag=tolees-21'
 descuento: '35.63'
 average: '18.99'

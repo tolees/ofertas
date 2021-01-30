@@ -16,6 +16,7 @@ comparePrice: 3.99 EUR
 prodname: 'Canson 406346 - Papel para dibujo  24 x 32 cm  1 unidad con 10 hojas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JMD0SQ2/?tag=tolees-21'
 descuento: '31.08'
 average: '2.75'

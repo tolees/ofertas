@@ -16,6 +16,7 @@ comparePrice: 36.54 EUR
 prodname: 'Bosch 2 607 002 566 - Set de 12+1 puntas de atornillar Robust Line  M extraduras - 25 mm  12+1tlg.  pack de 13 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0014GUOZK/?tag=tolees-21'
 descuento: '48.11'
 average: '18.96'

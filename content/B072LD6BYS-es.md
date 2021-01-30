@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: '3DS Miitopía'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072LD6BYS/?tag=tolees-21'
 descuento: '50.11'
 average: '24.22'

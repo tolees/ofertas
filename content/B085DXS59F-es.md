@@ -16,6 +16,7 @@ comparePrice: 23.76 EUR
 prodname: 'Jack & Jones JJIARUBA JJSWIMSHORTS AKM Jones STS Bañador para Hombre  Azul Marino  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085DXS59F/?tag=tolees-21'
 descuento: '45.33'
 average: '12.99'

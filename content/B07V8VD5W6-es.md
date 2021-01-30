@@ -16,6 +16,7 @@ comparePrice: 48.9 EUR
 prodname: 'Tommy Hilfiger Essential Retro Sneaker  Zapatillas para Hombre  Blanco  White Ybs   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V8VD5W6/?tag=tolees-21'
 descuento: '31.68'
 average: '33.41'

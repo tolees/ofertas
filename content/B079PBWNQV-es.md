@@ -16,6 +16,7 @@ comparePrice: 18 EUR
 prodname: 'Nike W Nk Dry Acdmy18 Top SS T-Shirt  Mujer  Tour Yellow/Anthracite/ Black   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079PBWNQV/?tag=tolees-21'
 descuento: '30.28'
 average: '12.55'

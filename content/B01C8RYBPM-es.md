@@ -16,6 +16,7 @@ comparePrice: 169.0 EUR
 prodname: 'Police Reloj Multiesfera para Hombre de Cuarzo con Correa en Plástico PL14541JSBN.02P'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01C8RYBPM/?tag=tolees-21'
 descuento: '47.17'
 average: '96.71000000000001'

@@ -16,6 +16,7 @@ comparePrice: 370.9 EUR
 prodname: 'HP CE390X - Cartucho de tóner'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004RUHPOS/?tag=tolees-21'
 descuento: '54.44'
 average: '178.5'

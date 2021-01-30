@@ -16,6 +16,7 @@ comparePrice: 35.4 EUR
 prodname: '2 Linterna LED Acampada portátil luz Intermitente Exteriores-Brillante Magnética'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DJ0J3MS/?tag=tolees-21'
 descuento: '40.99'
 average: '20.89'

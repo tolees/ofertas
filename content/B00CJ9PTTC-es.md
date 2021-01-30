@@ -16,6 +16,7 @@ comparePrice: 6.0 EUR
 prodname: 'TATAY 4431401 - Standard Escobilla De Baño Wc  PP  Blanco  12.00X12.00X38.00 Cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CJ9PTTC/?tag=tolees-21'
 descuento: '37.50'
 average: '3.0985714285714288'

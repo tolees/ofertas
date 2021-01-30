@@ -16,6 +16,7 @@ comparePrice: 404.5 EUR
 prodname: 'Bulova Marine Star 98B258 - Reloj de pulsera de diseño para hombre - Función de cronógrafo - Correa de goma - Resistente al agua - Esfera azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0129ZKAEO/?tag=tolees-21'
 descuento: '37.30'
 average: '253.61'

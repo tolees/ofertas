@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'AivaToba Cinturón Táctico para Hombres Cinturón de Seguridad Cobra Militar Resistente de Nylon con Hebilla Metálica de Liberación Rápida para Trabajo Policial Caza Ejército al aire Libre 125cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086X8FP5D/?tag=tolees-21'
 descuento: '45.47'
 average: '17.99'

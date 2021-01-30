@@ -16,6 +16,7 @@ comparePrice: 9.25 EUR
 prodname: 'WINMI para iPhone 12 Pro 6.1" Funda 360 Anillo iman Soporte extrafuerte protección contra Golpes Protectora Caso de Duro Cover Case para iPhone 12 Pro 6.1"-Oro Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08D11KFJ7/?tag=tolees-21'
 descuento: '34.92'
 average: '6.02'

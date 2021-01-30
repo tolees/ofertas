@@ -16,6 +16,7 @@ comparePrice: 519.0 EUR
 prodname: 'Tamron T62001 - Teleconvertidor 1.4X para Canon  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LCFBNSY/?tag=tolees-21'
 descuento: '37.85'
 average: '322.54'

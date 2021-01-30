@@ -16,6 +16,7 @@ comparePrice: 6.7 EUR
 prodname: 'Maybelline New York - Lash Sensational Intense Black  Máscara de Pestañas  Tono Negro Intenso - 9 5 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016C2APSG/?tag=tolees-21'
 descuento: '30.00'
 average: '5.295'

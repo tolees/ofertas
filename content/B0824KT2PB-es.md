@@ -16,6 +16,7 @@ comparePrice: 299.9 EUR
 prodname: 'BERGNER Gaming Chair con Sound System y Conexiones  55x83x84 cms  Juventud Unisex  Negro  84x83x55 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0824KT2PB/?tag=tolees-21'
 descuento: '60.32'
 average: '119.0'

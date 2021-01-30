@@ -16,6 +16,7 @@ comparePrice: 50.99 EUR
 prodname: 'Tomshine 16 pcs Luz Foco Empotrable al Suelo  IP67 Impermeable Alta Brillante para Escalera Patio Jardín Sauna Cuarto de Baño Blanco Cálido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NCNG0HM/?tag=tolees-21'
 descuento: '32.56'
 average: '34.39'

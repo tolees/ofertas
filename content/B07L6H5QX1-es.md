@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Jack & Jones Jjecorp Logo Sweat Hood Noos Capucha  Negro  Blackschwarz   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L6H5QX1/?tag=tolees-21'
 descuento: '40.01'
 average: '15.433076923076923'

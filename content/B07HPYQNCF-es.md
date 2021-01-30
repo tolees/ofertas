@@ -16,6 +16,7 @@ comparePrice: 154.02 EUR
 prodname: 'DlandHome Mueble de Consola 120 * 23 * 75cm Mesa Auxiliar con Estante de Almacenamiento de Madera y Metal para Salón/Pasillo/Entrada  Roble Gris & Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HPYQNCF/?tag=tolees-21'
 descuento: '47.97'
 average: '80.14'

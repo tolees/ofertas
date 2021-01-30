@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: '[Versión Nuevo]Dilatador Nasal Anti Ronquidos Dyroe  Nose Clip Silicona con Imán Mejora la Respiración Nariz Clip para Ayudar a Dormir Mejor Antironquidos para el Ejercicio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XNCLSK2/?tag=tolees-21'
 descuento: '33.36'
 average: '8.59'

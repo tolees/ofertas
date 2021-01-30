@@ -16,6 +16,7 @@ comparePrice: 37.99 EUR
 prodname: 'Belkin F2CU037btBLK - Adaptador de USB-C a VGA  Color Negro  Compatible con iPad Pro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B014FBQ00I/?tag=tolees-21'
 descuento: '27.17'
 average: '27.61'

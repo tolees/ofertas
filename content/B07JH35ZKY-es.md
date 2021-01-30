@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Columbia Redmond V2 Mid  Botas de Senderismo Impermeables para Mujer  Gris  Rojo  Steam  Daredevil   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JH35ZKY/?tag=tolees-21'
 descuento: '32.54'
 average: '65.72'

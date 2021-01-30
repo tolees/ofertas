@@ -16,6 +16,7 @@ comparePrice: 12.6 EUR
 prodname: 'Elifexir Minucell - Crema Anticelulítica Reductora Hidratante | Tensa y Remodela el Contorno Corporal | Reduce Celulitis y Piel de Naranja | Reductor + Hidratante | Reafirmante Corporal - 200ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00V6AM70E/?tag=tolees-21'
 descuento: '47.22'
 average: '7.92391304347826'

@@ -16,6 +16,7 @@ comparePrice: 159 EUR
 prodname: 'Canon EF-EOS M - Adaptador para Objetivos de cámaras Canon  Montura EF-M  Compatible con EOS M   Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008O0IE2Y/?tag=tolees-21'
 descuento: '44.92'
 average: '87.58'

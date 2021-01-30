@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'EZON Reloj Deportivo Digital con Monitor de frecuencia cardíaca Podómetro Contador de calorías Cronómetro Temporizador de Cuenta Regresiva  T043A11 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083QDB6X1/?tag=tolees-21'
 descuento: '58.97'
 average: '36.52'

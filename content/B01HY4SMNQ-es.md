@@ -16,6 +16,7 @@ comparePrice: 3.95 EUR
 prodname: 'Key chain Back To The Future - Llavero de Goma License Plate'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HY4SMNQ/?tag=tolees-21'
 descuento: '50.63'
 average: '1.95'

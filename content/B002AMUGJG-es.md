@@ -16,6 +16,7 @@ comparePrice: 110.5 EUR
 prodname: 'Sisley Phyto Corps Confort Extrême 150 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002AMUGJG/?tag=tolees-21'
 descuento: '40.43'
 average: '65.395'

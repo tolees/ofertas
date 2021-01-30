@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Diesel UMBX-DAMIENTHREEPACK  Calzoncillo para Hombre  Multicolor  Bright White/Black/Black E2892/0saya   L  Pack de 3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S55D6HJ/?tag=tolees-21'
 descuento: '45.40'
 average: '24.57'

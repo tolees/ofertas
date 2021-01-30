@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Skechers Men s STAMINA CUTBACK Trainers  Black  Black Leather/Pu/Mesh/Red Trim Bkrd   7.5  41.5 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NQS59LL/?tag=tolees-21'
 descuento: '41.54'
 average: '40.89666666666667'

@@ -16,6 +16,7 @@ comparePrice: 175.0 EUR
 prodname: 'Benro GoPlus Travel S1 Alum 4 Sect Twist'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HMVNV7I/?tag=tolees-21'
 descuento: '35.43'
 average: '112.99'

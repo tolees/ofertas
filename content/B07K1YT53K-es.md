@@ -16,6 +16,7 @@ comparePrice: 799.0 EUR
 prodname: 'Apple Watch Series 4  GPS + Cellular  con caja de 40 mm de acero inoxidable y pulsera Milanese Loop  ambas en negro espacial'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K1YT53K/?tag=tolees-21'
 descuento: '31.33'
 average: '479.3725'

@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Nike Revolution 5  GS   Zapatillas de Running para Niñas  Black Lemon Venom Laser Blue  36.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RKY8YY1/?tag=tolees-21'
 descuento: '30.00'
 average: '31.5'

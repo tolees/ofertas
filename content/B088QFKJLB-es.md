@@ -16,6 +16,7 @@ comparePrice: 34.08 EUR
 prodname: 'taquxinlaowan Caballo Palomino en el Desierto de Arena con Melena Rubia Ducha de Animales Salvajes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088QFKJLB/?tag=tolees-21'
 descuento: '41.14'
 average: '20.06'

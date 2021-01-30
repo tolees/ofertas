@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Peine alisador de barba rápido para hombres plancha de pelo profesional Profesional Peine de Peluquería Multifuncional Cepillo para Hombre Mujer  negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089KFDWQ7/?tag=tolees-21'
 descuento: '53.35'
 average: '30.59'

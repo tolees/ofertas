@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'PUMA Storm Adrenaline  Zapatillas Unisex Adulto  Black-Gray Violet  47 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFXK4VM/?tag=tolees-21'
 descuento: '55.45'
 average: '40.07'

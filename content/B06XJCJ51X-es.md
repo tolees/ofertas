@@ -16,6 +16,7 @@ comparePrice: 10.95 EUR
 prodname: 'Joma Tokio II Pantalones Cortos  Hombre  Multicolor  Amarillo/Azul Royal   6XS-5XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XJCJ51X/?tag=tolees-21'
 descuento: '27.03'
 average: '7.99'

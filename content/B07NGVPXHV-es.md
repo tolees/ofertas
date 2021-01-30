@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Primigi Pca 44112  Botas para Bebés  Marron E Scuro 4411344  20 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NGVPXHV/?tag=tolees-21'
 descuento: '78.63'
 average: '12.8'

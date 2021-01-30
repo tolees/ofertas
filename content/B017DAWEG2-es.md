@@ -16,6 +16,7 @@ comparePrice: 189.0 EUR
 prodname: 'BERING Reloj Analógico para Unisex Adultos de Cuarzo con Correa en Nailon 14240-507'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017DAWEG2/?tag=tolees-21'
 descuento: '39.90'
 average: '105.32615384615386'

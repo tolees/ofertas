@@ -16,6 +16,7 @@ comparePrice: 23.14 EUR
 prodname: 'Luchild Baberos para Bebés  Baberos de Alimentación de Silicona Impermeables para Niñas y Niños Pequeños Unisex  Babero Súper Suave y con un amplio bolsillo para recolector migas de alimentos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086C34SYL/?tag=tolees-21'
 descuento: '52.51'
 average: '10.99'

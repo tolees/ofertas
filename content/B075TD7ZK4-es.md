@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Aqua Moto Racing: Utopia - Versión Española'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075TD7ZK4/?tag=tolees-21'
 descuento: '50.11'
 average: '23.2075'

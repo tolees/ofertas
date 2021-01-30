@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: '【Oferta】 Tekhome Bluetooth para Coche  Receptor Bluetooth Jack 3.5  Manos Libres Bluetooth Coche sin Instalacion  Autoradio Bluetooth Coche  Adaptador Bluetooth  Radio Bluetooth para Coche  Negro.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075T9ZXK4/?tag=tolees-21'
 descuento: '43.35'
 average: '16.99'

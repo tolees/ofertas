@@ -16,6 +16,7 @@ comparePrice: 180.9 EUR
 prodname: 'Love Moschino Jc4260pp0a  Bolsa de mensajero para Mujer  Blanco  White Pu   10x18x27.5 Centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V5PQPVT/?tag=tolees-21'
 descuento: '28.65'
 average: '129.08'

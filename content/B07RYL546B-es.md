@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'New Balance 500  Zapatillas para Mujer  Rosa  Pink Hhe   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RYL546B/?tag=tolees-21'
 descuento: '34.01'
 average: '49.49'

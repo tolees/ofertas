@@ -16,6 +16,7 @@ comparePrice: 8.93 EUR
 prodname: 'Zapatillas/Botas de Estar por casa Suaves con Detalle de Lazo  36-41 EU   Azul eléctrico '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077KK4PGJ/?tag=tolees-21'
 descuento: '61.37'
 average: '3.45'

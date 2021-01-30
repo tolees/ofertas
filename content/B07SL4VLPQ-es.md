@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Smarten Zapatillas de Running Hombre Mujer Air Correr Deportes Calzado Verano Comodos Zapatillas Sport Pink 35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SL4VLPQ/?tag=tolees-21'
 descuento: '43.52'
 average: '33.88'

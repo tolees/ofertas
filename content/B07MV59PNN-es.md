@@ -16,6 +16,7 @@ comparePrice: 10.49 EUR
 prodname: 'TWBB Hombres Inicio Yoga Tie-up Pantalones cómodos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MV59PNN/?tag=tolees-21'
 descuento: '87.70'
 average: '1.29'

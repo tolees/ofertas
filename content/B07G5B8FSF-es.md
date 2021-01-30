@@ -16,6 +16,7 @@ comparePrice: 20.47 EUR
 prodname: 'Ronda Impermeable Bebé Niños Baño Libro Early Educational Toys - Animales bebés'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G5B8FSF/?tag=tolees-21'
 descuento: '44.46'
 average: '11.37'

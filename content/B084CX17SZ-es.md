@@ -16,6 +16,7 @@ comparePrice: 179.99 EUR
 prodname: 'Mellerware Robot Aspirador City Move. 1400 Pa  Tecnología iMovement Gyro  Aspira  Barre  Friega y Pasa la Mopa  7 Modos  160 min Autonomía  Programable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084CX17SZ/?tag=tolees-21'
 descuento: '25.00'
 average: '157.49'

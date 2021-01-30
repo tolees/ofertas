@@ -16,6 +16,7 @@ comparePrice: 98.99 EUR
 prodname: 'Vigilabebes con Camara  Bebé Monitor Inalambrico con 3 5" LCD Pantalla  Intercomunicador  Vision Nocturna  Monitoreo de Temperatura  Cancion de Cuna  Autoconecxion Rapido Sin Necesidad de Internet'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075WVCZLC/?tag=tolees-21'
 descuento: '39.40'
 average: '59.99'

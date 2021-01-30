@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'TW Steel VS2 Volante - Reloj Analógico de Pulsera con Movimiento de Cuarzo para Hombre  Caja Acero Inoxidable  Cristal Mineral  Correa Textil  Negro  48 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XCN6N49/?tag=tolees-21'
 descuento: '40.20'
 average: '119.0'

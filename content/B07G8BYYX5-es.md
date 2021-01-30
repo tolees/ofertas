@@ -16,6 +16,7 @@ comparePrice: 5.19 EUR
 prodname: 'TRESEMMÉ champú liso keratina bote 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G8BYYX5/?tag=tolees-21'
 descuento: '45.09'
 average: '5.195'

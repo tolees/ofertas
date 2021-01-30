@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance 997H h  Zapatillas para Hombre  Marfil  Off Hbp   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S4WG7BX/?tag=tolees-21'
 descuento: '52.40'
 average: '42.84'

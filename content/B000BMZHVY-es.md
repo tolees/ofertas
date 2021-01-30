@@ -16,6 +16,7 @@ comparePrice: 243.11 EUR
 prodname: 'HP Q6471A - Cartucho de tóner'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000BMZHVY/?tag=tolees-21'
 descuento: '79.43'
 average: '65.63666666666667'

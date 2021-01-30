@@ -16,6 +16,7 @@ comparePrice: 35.21 EUR
 prodname: 'Promini - Body para bebé con texto en inglés "Everyday I m Guzzling"'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086QNLB47/?tag=tolees-21'
 descuento: '58.08'
 average: '14.76'

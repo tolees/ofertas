@@ -16,6 +16,7 @@ comparePrice: 52.5 EUR
 prodname: 'Juego De Tronos Temporada 4 Blu-Ray Premium [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LM391CC/?tag=tolees-21'
 descuento: '52.42'
 average: '24.98'

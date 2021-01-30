@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Reebok FLEXAGON FIT  Zapatillas de Deporte para Mujer  Negro  Black/White/True Grey 0   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L1TC27G/?tag=tolees-21'
 descuento: '66.28'
 average: '28.066666666666666'

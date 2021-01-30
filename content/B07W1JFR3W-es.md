@@ -16,6 +16,7 @@ comparePrice: 8.48 EUR
 prodname: 'CUAgain Funda Compatible con Xiaomi Redmi 7A Silicona Unicornio 3D Dibujos Motivo Mate Kawaii Ultrafina One Piece Carcasa Case Antigolpes Bumper Protección Resistente Cover Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W1JFR3W/?tag=tolees-21'
 descuento: '52.95'
 average: '3.99'

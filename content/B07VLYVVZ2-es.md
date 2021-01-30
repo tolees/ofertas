@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'JACK & JONES Jcostanford Crew Neck Noos suéter  Marrón  Fudge Fit: Knit Fit   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VLYVVZ2/?tag=tolees-21'
 descuento: '54.10'
 average: '16.06'

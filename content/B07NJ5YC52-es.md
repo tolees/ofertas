@@ -16,6 +16,7 @@ comparePrice: 63.0 EUR
 prodname: 'Casio Reloj Digital para Hombre de Cuarzo con Correa en Resina WS-2000H-4AVEF'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJ5YC52/?tag=tolees-21'
 descuento: '64.40'
 average: '22.43'

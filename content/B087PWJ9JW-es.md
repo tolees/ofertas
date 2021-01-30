@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Termómetro sin contacto por infrarrojos JPD-FR202'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087PWJ9JW/?tag=tolees-21'
 descuento: '40.49'
 average: '59.5'

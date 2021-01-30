@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Kickers Kick Col  Botas Slouch Unisex Niños  Marrón  Camel 114   24 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZMP6L5/?tag=tolees-21'
 descuento: '80.24'
 average: '16.8'

@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Columbia Conspiracy V Outdry  Zapatillas de Senderismo para Hombre  Negro  Black  Lux 010   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0772ZHLPJ/?tag=tolees-21'
 descuento: '35.09'
 average: '77.89'

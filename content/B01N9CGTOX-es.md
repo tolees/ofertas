@@ -16,6 +16,7 @@ comparePrice: 24.98 EUR
 prodname: 'Bensimon Tennis Lacet Femme  Zapatillas Mujer  Beige  Beige Coquille   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N9CGTOX/?tag=tolees-21'
 descuento: '30.38'
 average: '17.39'

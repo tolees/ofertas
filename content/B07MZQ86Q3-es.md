@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Pepe Jeans Bretona suéter   Dulwich 594   Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZQ86Q3/?tag=tolees-21'
 descuento: '57.93'
 average: '31.55'

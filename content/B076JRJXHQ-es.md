@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Carcasa Funda Llave Remoto Mando 2 Botones para Opel Insignia Astra Zafira Vauxhall Holden Mokka con Llavero de Cuero KASER'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076JRJXHQ/?tag=tolees-21'
 descuento: '25.10'
 average: '8.98'

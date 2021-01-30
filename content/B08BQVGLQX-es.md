@@ -16,6 +16,7 @@ comparePrice: 33.13 EUR
 prodname: 'ZNE     14ct 3 Colores oro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BQVGLQX/?tag=tolees-21'
 descuento: '43.34'
 average: '18.77'

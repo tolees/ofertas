@@ -16,6 +16,7 @@ comparePrice: 312.07 EUR
 prodname: 'Lexar Tarjeta Lexar Professional 633x 1TB SDXC UHS-I'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P64KZLX/?tag=tolees-21'
 descuento: '30.73'
 average: '223.326'

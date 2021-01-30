@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'WESCO Sierra Circular 18V 4000RPM Sierra Recargable 2.0Ah de iones de litio Velocidades Variables Profundidad y Ángulo de Corte Ajustable 53mm  90 °   36mm  45 °   Hoja de 165mm WS2316'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XWXX9YD/?tag=tolees-21'
 descuento: '27.28'
 average: '74.32333333333332'

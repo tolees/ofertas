@@ -16,6 +16,7 @@ comparePrice: 33.0 EUR
 prodname: 'Kipling - Creativity L  Monederos Mujer  Negro  Powder Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DKGG18N/?tag=tolees-21'
 descuento: '50.18'
 average: '16.44'

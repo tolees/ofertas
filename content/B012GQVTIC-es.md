@@ -16,6 +16,7 @@ comparePrice: 189.99 EUR
 prodname: 'Capital Sports Adjustar Banco de entrenamiento adaptable  peso máximo soportado 300kg  varios niveles de apoyo ajustables  asiento regulable  cuero sintético alcochado 5cm  acero negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B012GQVTIC/?tag=tolees-21'
 descuento: '34.21'
 average: '124.99'

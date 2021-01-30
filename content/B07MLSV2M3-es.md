@@ -16,6 +16,7 @@ comparePrice: 160.0 EUR
 prodname: 'Clarks Un Tread UpGTX  Botas clásicas. para Hombre  Marrón  Dark Brown Lea Dark Brown Lea   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MLSV2M3/?tag=tolees-21'
 descuento: '63.28'
 average: '58.75'

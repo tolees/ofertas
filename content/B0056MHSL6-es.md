@@ -16,6 +16,7 @@ comparePrice: 4.99 EUR
 prodname: 'Pincho 400401 Soporte sombrilla  Rojo  32x18x8 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0056MHSL6/?tag=tolees-21'
 descuento: '66.53'
 average: '2.81'

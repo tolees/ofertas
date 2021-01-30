@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Rosa 24 K Chapado en Oro Rosa  La flor Rosa Artificial es un Regalo para la Novia y la Esposa  día de San Valentín  día de la Madre  Aniversario  Cumpleaños  Boda '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088ZWM2P5/?tag=tolees-21'
 descuento: '45.05'
 average: '10.99'

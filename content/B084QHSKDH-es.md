@@ -16,6 +16,7 @@ comparePrice: 22.9 EUR
 prodname: 'Snner Mascarilla de protección bucal OP con 3 Capas  10 Unidades '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084QHSKDH/?tag=tolees-21'
 descuento: '47.64'
 average: '11.99'

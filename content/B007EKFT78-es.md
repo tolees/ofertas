@@ -16,6 +16,7 @@ comparePrice: 17.55 EUR
 prodname: 'Buiten speel Pulpo Waterparty'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007EKFT78/?tag=tolees-21'
 descuento: '29.17'
 average: '12.43'

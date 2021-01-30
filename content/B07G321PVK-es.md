@@ -16,6 +16,7 @@ comparePrice: 5.95 EUR
 prodname: 'SoccerStarz SOC1059 Barcelona Lionel Messi-Home Kit  2019 Version /Figuras  Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G321PVK/?tag=tolees-21'
 descuento: '25.21'
 average: '5.404545454545454'

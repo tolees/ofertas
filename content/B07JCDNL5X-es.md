@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Columbia Trail Shaker Braga para El Cuello  Unisex Adulto  Collegiate Navy  O/S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JCDNL5X/?tag=tolees-21'
 descuento: '36.72'
 average: '12.65'

@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Pack Sileu Go: Copa menstrual Rose - Modelo de iniciación - Alternativa ecológica  natural a tampones y compresas - Talla S  Transparente  Flexibilidad Standard + Estuche de Flor Transparente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K4SMFMY/?tag=tolees-21'
 descuento: '46.34'
 average: '11.8'

@@ -16,6 +16,7 @@ comparePrice: 6.71 EUR
 prodname: 'Baño Stick Wall Hanging Slippers Rackhelf Hanger para uso doméstico - Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XGGX5MW/?tag=tolees-21'
 descuento: '35.02'
 average: '4.36'

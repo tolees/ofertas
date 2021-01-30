@@ -16,6 +16,7 @@ comparePrice: 11.6 EUR
 prodname: 'WELEDA Skin Food Original 75 Ml  1x 75 ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00A3M1TIW/?tag=tolees-21'
 descuento: '31.90'
 average: '11.275'

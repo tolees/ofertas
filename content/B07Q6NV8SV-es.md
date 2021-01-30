@@ -16,6 +16,7 @@ comparePrice: 21.97 EUR
 prodname: 'Dockers by Gerli 43st201  Botas Militar para Mujer  Marrón  Schoko 360   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q6NV8SV/?tag=tolees-21'
 descuento: '32.82'
 average: '14.76'

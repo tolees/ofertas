@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'NYK1 Champu Sin Sulfatos Y Acondicionador - Champu Sin Sulfatos Ni Parabenos ni Siliconas  500ml x2  Post Keratina Alisado Brasileño Tratamiento Keratina Y Un Cabello De Colores Champu Sin Sal'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LLT7AKG/?tag=tolees-21'
 descuento: '25.01'
 average: '29.970000000000002'

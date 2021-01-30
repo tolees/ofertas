@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Metronic 477201 - Radio portátil  AM  FM  pantalla LCD   roja'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004NG9SZU/?tag=tolees-21'
 descuento: '26.94'
 average: '19.72'

@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Adidas Altarun Cf K Zapatillas de Running Unisex Niños  Azul  Blue/Ftwr White/Blue   28'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GBFCKPW/?tag=tolees-21'
 descuento: '42.80'
 average: '19.99'

@@ -16,6 +16,7 @@ comparePrice: 6.5 EUR
 prodname: 'Brabantia Tasty + Espátula repostería de silicona  color fir green'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJHNGSY/?tag=tolees-21'
 descuento: '30.00'
 average: '4.766666666666667'

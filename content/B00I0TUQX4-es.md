@@ -16,6 +16,7 @@ comparePrice: 399.0 EUR
 prodname: 'Objetivo Olympus M.Zuiko Digital 14-42 mm F3.5-5.6 EZ  Zoom estándar  Adecuado para Todas Las cámaras MFT  Modelos Olympus OM-D & Pen  Serie G de Panasonic   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00I0TUQX4/?tag=tolees-21'
 descuento: '53.59'
 average: '185.19'

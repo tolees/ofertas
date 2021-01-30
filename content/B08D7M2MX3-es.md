@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'IWTTWY Compatible con Galaxy Note 20 Funda Transparente de Silicona TPU Suave Carcasa para Móvile Protección'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08D7M2MX3/?tag=tolees-21'
 descuento: '47.39'
 average: '9.99'

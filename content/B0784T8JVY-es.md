@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'PUMA Liga Casuals Chándal  Hombre  Negro  Puma Black-Puma White   3XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0784T8JVY/?tag=tolees-21'
 descuento: '44.94'
 average: '17.35333333333333'

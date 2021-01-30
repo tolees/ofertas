@@ -16,6 +16,7 @@ comparePrice: 4.79 EUR
 prodname: 'Philips 62093470 Iluminación de interior G24d-2 2  18 W  Blanco Neutro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000KPS20K/?tag=tolees-21'
 descuento: '27.77'
 average: '3.46'

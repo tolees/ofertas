@@ -16,6 +16,7 @@ comparePrice: 54.9 EUR
 prodname: 'Columbus Misti 60 L Saco de Dormir  Unisex Adulto  Amarillo  210 x 80/50 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MSIHWLC/?tag=tolees-21'
 descuento: '41.73'
 average: '31.99'

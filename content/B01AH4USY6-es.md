@@ -16,6 +16,7 @@ comparePrice: 28.9 EUR
 prodname: 'Cruzado Azul - M/L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AH4USY6/?tag=tolees-21'
 descuento: '44.01'
 average: '16.18'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Funda de almohada de seda marrón Ruwado | Funda de almohada | Cojín | Cojín - 40 cm x 40 cm *** Tejido a mano y hecho a mano por Cashmere India Artisans ***'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075Y3BD5B/?tag=tolees-21'
 descuento: '60.01'
 average: '19.99'

@@ -16,6 +16,7 @@ comparePrice: 14.5 EUR
 prodname: 'Bourjois Healthy Mix Powder Polvos Tono 03 Beige foncé / Dark beige  - 60 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077MNDNP6/?tag=tolees-21'
 descuento: '69.10'
 average: '6.74'

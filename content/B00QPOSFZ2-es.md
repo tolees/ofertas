@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Manta personalizada con tu foto. Manta polar"King Size" - 150 x 240 cm.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00QPOSFZ2/?tag=tolees-21'
 descuento: '39.00'
 average: '54.29'

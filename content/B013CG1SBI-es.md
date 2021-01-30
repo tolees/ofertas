@@ -16,6 +16,7 @@ comparePrice: 11.95 EUR
 prodname: 'Essie Nail Lacquer Número 93  Mezmerised 13 5 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013CG1SBI/?tag=tolees-21'
 descuento: '67.28'
 average: '3.91'

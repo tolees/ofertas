@@ -16,6 +16,7 @@ comparePrice: 37.95 EUR
 prodname: 'House Of Cards - Temporada 4 [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GK03FYQ/?tag=tolees-21'
 descuento: '73.78'
 average: '9.95'

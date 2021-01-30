@@ -16,6 +16,7 @@ comparePrice: 6.45 EUR
 prodname: 'KOKO Zhu Toy Kid s Gift Solar Flip Flap Dancing Flower Toy para el salpicadero del Coche Decoración Automatic Dancing Flower Sunflower'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZQ3PC84/?tag=tolees-21'
 descuento: '58.60'
 average: '2.67'

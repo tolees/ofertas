@@ -16,6 +16,7 @@ comparePrice: 53.8 EUR
 prodname: 'Emuca - Barra de armario abatible  perchero basculante  colgador abatible para armario  anchura regulable 830-1150mm  acabado color moka'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N4SBAAS/?tag=tolees-21'
 descuento: '43.03'
 average: '35.67'

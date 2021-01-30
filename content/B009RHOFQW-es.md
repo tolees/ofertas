@@ -16,6 +16,7 @@ comparePrice: 20.63 EUR
 prodname: 'Ghostbusters Silicone Tray'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009RHOFQW/?tag=tolees-21'
 descuento: '32.19'
 average: '13.99'

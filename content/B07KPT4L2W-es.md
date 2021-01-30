@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'LAST LEVEL- Funko Pack Figura Pop Warhammer 40K: Space Wolves Leader  Multicolor  FFK38327 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KPT4L2W/?tag=tolees-21'
 descuento: '28.52'
 average: '9.714285714285714'

@@ -16,6 +16,7 @@ comparePrice: 20.07 EUR
 prodname: 'FIND Tie Up Flat Espadrille Alpargata  Azul  Denim   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XL2GWSV/?tag=tolees-21'
 descuento: '27.95'
 average: '14.46'

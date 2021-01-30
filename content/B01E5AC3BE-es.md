@@ -16,6 +16,7 @@ comparePrice: 93.63 EUR
 prodname: 'BRA Tekna - Olla a presión rápida 4 litros de fácil uso  acero inoxidable 18/10  apta para todo tipo de cocinas  incluido inducción'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01E5AC3BE/?tag=tolees-21'
 descuento: '28.77'
 average: '60.91'

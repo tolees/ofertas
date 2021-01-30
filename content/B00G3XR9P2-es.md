@@ -16,6 +16,7 @@ comparePrice: 529.9 EUR
 prodname: 'Baby Jogger City Mini GT - Silla de paseo  Turquesa / Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00G3XR9P2/?tag=tolees-21'
 descuento: '43.57'
 average: '299.0'

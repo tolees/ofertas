@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Crocs Crocband Rain Boot Kids  Botas de Agua Unisex Niños  Azul  Bright Cobalt/Flame 4kd   30/31 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JFT6W3G/?tag=tolees-21'
 descuento: '57.85'
 average: '14.75'

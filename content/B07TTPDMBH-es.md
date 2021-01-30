@@ -16,6 +16,7 @@ comparePrice: 19.0 EUR
 prodname: 'Kipling Baroe S  Monederos para Mujer  Gris  Curiosity Grey   11.5x7x3 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TTPDMBH/?tag=tolees-21'
 descuento: '52.32'
 average: '9.701999999999998'

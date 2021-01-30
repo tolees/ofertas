@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Gentai 256GB/512GB/1024GB Tarjeta Micro SD Tabletas Tarjeta de memoria SDXC Clase 10 de alta velocidad con adaptador Micro SD  512GB '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FDRBWPJ/?tag=tolees-21'
 descuento: '53.59'
 average: '9.49'

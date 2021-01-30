@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'adidas Runfalcon  Zapatillas de Entrenamiento para Mujer  Rosa Magrea Ftwbla Gritre 000  39 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2MJ3GT/?tag=tolees-21'
 descuento: '35.96'
 average: '33.581999999999994'

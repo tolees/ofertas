@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Columbia Minx Slip III  Botas para Niños  Gris  Ti Grey Steel   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KPVCZL5/?tag=tolees-21'
 descuento: '69.31'
 average: '24.55'

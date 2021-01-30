@@ -16,6 +16,7 @@ comparePrice: 33.91 EUR
 prodname: 'Daewoo S0421164 Altavoces Bluetooth DBT-10 12W'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SYHLFWW/?tag=tolees-21'
 descuento: '52.85'
 average: '15.99'

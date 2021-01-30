@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Krups GVX242 Molinillo de café profesional con sistema de muelas con torno-molido y 17 ajustes de triturado  de más fino a más grueso  potencia 100 W  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000IWHXH8/?tag=tolees-21'
 descuento: '30.00'
 average: '46.156666666666666'

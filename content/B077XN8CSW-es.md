@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Under Armour Unstoppable Move Pant Pantalones  Hombre  Negro  Black/Charcoal/Black 001   XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077XN8CSW/?tag=tolees-21'
 descuento: '83.74'
 average: '13.01'

@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'PetSafe Drinkwell - Fuente para Mascotas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004MXJU5M/?tag=tolees-21'
 descuento: '30.44'
 average: '32.866'

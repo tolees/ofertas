@@ -16,6 +16,7 @@ comparePrice: 5.53 EUR
 prodname: 'Air Wick Ambientador Freshmatic Max Recambio Nenuco - 250 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MCRHD8T/?tag=tolees-21'
 descuento: '51.54'
 average: '2.68'

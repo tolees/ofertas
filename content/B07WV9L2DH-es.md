@@ -16,6 +16,7 @@ comparePrice: 58.99 EUR
 prodname: 'BRIKSMAX Kit de Iluminación Led para Lego Ideas Mujeres de la NASA Compatible con Ladrillos de Construcción Lego Modelo 21312  Juego de Legos no Incluido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WV9L2DH/?tag=tolees-21'
 descuento: '50.86'
 average: '33.190000000000005'

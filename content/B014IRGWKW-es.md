@@ -16,6 +16,7 @@ comparePrice: 469.0 EUR
 prodname: 'Emporio Armani Reloj Esqueleto para Hombre de Automático con Correa en Cuero AR1923'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B014IRGWKW/?tag=tolees-21'
 descuento: '38.78'
 average: '250.45'

@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Skechers Graceful-Get Connected  Zapatillas para Mujer  Gris  Pink   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076PX6ZS2/?tag=tolees-21'
 descuento: '45.05'
 average: '33.705'

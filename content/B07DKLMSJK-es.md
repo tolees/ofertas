@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'PUMA ESS Crew Sweat TR Big Logo Sweatshirt  Hombre  Gris  Medium Gray Heather   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DKLMSJK/?tag=tolees-21'
 descuento: '28.92'
 average: '31.95'

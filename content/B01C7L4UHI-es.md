@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'Capucha negra tela'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01C7L4UHI/?tag=tolees-21'
 descuento: '67.30'
 average: '2.6'

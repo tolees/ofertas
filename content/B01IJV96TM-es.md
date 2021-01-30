@@ -16,6 +16,7 @@ comparePrice: 21.48 EUR
 prodname: 'Targus THZ64307GL - Funda giratoria Universal SafeFit para Tablet de 7   a 8    Color Morado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IJV96TM/?tag=tolees-21'
 descuento: '33.61'
 average: '12.086666666666666'

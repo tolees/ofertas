@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Aigostar Doreen 30LYD - Envasadora al vacío para alimentos secos y húmedos  con cortador de bolsas  piloto indicador luminoso. Incluye bolsas y tubo para botes.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086KYB28Z/?tag=tolees-21'
 descuento: '41.34'
 average: '35.19'

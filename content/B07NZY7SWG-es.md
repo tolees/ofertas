@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'New Era ERA MLB Side Bolsa de Hombro  Unisex Adulto  Negro  Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NZY7SWG/?tag=tolees-21'
 descuento: '50.23'
 average: '9.95'

@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Men s RELVEN-VELTON-65659 Trainers  Black  Black BBK   7 UK 41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C9FCJDM/?tag=tolees-21'
 descuento: '35.50'
 average: '37.04'

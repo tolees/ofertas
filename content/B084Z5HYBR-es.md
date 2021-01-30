@@ -16,6 +16,7 @@ comparePrice: 119.69 EUR
 prodname: 'Juego de 3 Maletas rígidas con Barra Extensible y cómodas Asas  Maletas de Viaje con Ruedas  Ligeras. Topflight - Luz de Color Oro Rosa M + L + XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084Z5HYBR/?tag=tolees-21'
 descuento: '49.78'
 average: '60.11'

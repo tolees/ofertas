@@ -16,6 +16,7 @@ comparePrice: 66.12 EUR
 prodname: 'Optimum Nutrition ON Serious Mass proteina en polvo mass gainer alto en proteína  con vitaminas  creatina y glutamina  chocolate  16 porciones  5.45 kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000GIPJ0M/?tag=tolees-21'
 descuento: '35.42'
 average: '42.955'

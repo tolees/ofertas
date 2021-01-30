@@ -16,6 +16,7 @@ comparePrice: 6.95 EUR
 prodname: 'Brabantia 363702 - Espátula de Cocina Antiadherente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000RE8NSA/?tag=tolees-21'
 descuento: '25.32'
 average: '5.09'

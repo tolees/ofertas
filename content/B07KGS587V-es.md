@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'BILLABONG Walled Trucker Gorra de béisbol  Morado  Maroon 973   One Size  Tamaño del Fabricante:U  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KGS587V/?tag=tolees-21'
 descuento: '40.04'
 average: '14.99'

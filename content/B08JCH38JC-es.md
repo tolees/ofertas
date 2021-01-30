@@ -16,6 +16,7 @@ comparePrice: 9.52 EUR
 prodname: 'Ratón Vertical ergonómico inalámbrico de 2 4G  6 Botones  Ratones ópticos para Juegos de 1600 dpi con luz LED Colorida  ratón para Ordenador  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08JCH38JC/?tag=tolees-21'
 descuento: '33.51'
 average: '6.33'

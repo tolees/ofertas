@@ -16,6 +16,7 @@ comparePrice: 159.95 EUR
 prodname: 'TOSING 008 Micrófono de Karaoke Inalámbrico Bluetooth  Potencia de Volumen Más Alta 10W  Más Bajo  3-en-1 Máquina de Micrófono Portátil de Altavoz Portátil para iPhone/Android/iPad/PC  black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CQY3QLS/?tag=tolees-21'
 descuento: '75.00'
 average: '34.99'

@@ -16,6 +16,7 @@ comparePrice: 90.95 EUR
 prodname: 'Bra Prior -Set de 3 Sartenes  Aluminio Fundido con Antiadherente  Aptas para Todo Tipo de Cocinas Incluido Inducción + 2 Bra Safe 20-24-28 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FDHB6T2/?tag=tolees-21'
 descuento: '29.64'
 average: '61.39277777777778'

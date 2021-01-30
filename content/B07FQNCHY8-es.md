@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Adidas V Racer 2.0  Zapatillas de Deporte para Hombre  Blanco  Ftwbla/Negbás/Negbás 000   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FQNCHY8/?tag=tolees-21'
 descuento: '31.46'
 average: '37.66'

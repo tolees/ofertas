@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Vieta Pro Way – Auriculares inalámbricos  Bluetooth  radio FM  micrófono integrado  entrada Auxiliar  reproductor Micro SD  plegables  autonomía 40 horas  grana'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QQXP64V/?tag=tolees-21'
 descuento: '32.01'
 average: '24.990000000000002'

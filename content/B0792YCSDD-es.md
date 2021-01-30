@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Beautifive Espejo de Maquillaje  Espejo de Mano con Doble Cara de Aumento 1X/7X  Espejo de Vanidad con Soporte  Espejos Compactos para Viajar  Color Ámbar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0792YCSDD/?tag=tolees-21'
 descuento: '25.02'
 average: '11.99'

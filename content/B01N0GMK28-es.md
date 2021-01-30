@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Tibhar Tischtennisschläger Powercarbon XT neu azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N0GMK28/?tag=tolees-21'
 descuento: '44.45'
 average: '49.99'

@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Blind'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GVXJ52W/?tag=tolees-21'
 descuento: '40.18'
 average: '18.47'

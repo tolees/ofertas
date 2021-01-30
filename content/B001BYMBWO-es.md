@@ -16,6 +16,7 @@ comparePrice: 61.9 EUR
 prodname: 'Samsung CLT-C4092S/ELS - Cartucho Tóner  Color Cian'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001BYMBWO/?tag=tolees-21'
 descuento: '63.18'
 average: '24.86'

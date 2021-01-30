@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'ghd curve classic curl - Tenacilla profesional de 26mm  para crear rizos clásicos  tecnología ultra-zone  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083ZJQXB2/?tag=tolees-21'
 descuento: '33.52'
 average: '134.7425'

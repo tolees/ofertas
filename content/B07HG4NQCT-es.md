@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance Cm997hv1  Zapatillas para Hombre  Gris  Grey Grey   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HG4NQCT/?tag=tolees-21'
 descuento: '40.57'
 average: '53.49'

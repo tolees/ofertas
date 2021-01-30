@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'adidas Regi18 Pre Jkt Sport Jacket  Hombre  Power Red/Black  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KDKW1KK/?tag=tolees-21'
 descuento: '41.96'
 average: '28.99'

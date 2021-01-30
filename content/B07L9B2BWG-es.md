@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Under Armour Unstoppable Move Light FZ Parte Superior del Calentamiento  Hombre  Negro  SM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9B2BWG/?tag=tolees-21'
 descuento: '73.32'
 average: '22.68'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Beautural Espejo de Baño Mujer  Espejo Maquillaje con luz LED Aumento 10X  con Rótulo Giratorio Ajustable y Ventosa a Pilas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MRIJ0BO/?tag=tolees-21'
 descuento: '40.01'
 average: '22.5'

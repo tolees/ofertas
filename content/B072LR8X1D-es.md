@@ -16,6 +16,7 @@ comparePrice: 19.92 EUR
 prodname: 'Gola Stimson Velcro  Botas de fútbol para Niños  Plateado  Silver/Black/Orange   24 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072LR8X1D/?tag=tolees-21'
 descuento: '30.72'
 average: '14.346666666666668'

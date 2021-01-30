@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Columbia Redmond V2 Mid  Botas de Senderismo Impermeables para Hombre  Gris  Graphite  Red J 053   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JWWYKC8/?tag=tolees-21'
 descuento: '40.04'
 average: '62.17'

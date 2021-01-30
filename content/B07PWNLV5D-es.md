@@ -16,6 +16,7 @@ comparePrice: 72.12 EUR
 prodname: 'Under Armour UA W HOVR Sonic 3  Zapatillas de Running para Mujer  Azul  Rift Blue/White/Orange Spark   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PWNLV5D/?tag=tolees-21'
 descuento: '32.00'
 average: '49.04'

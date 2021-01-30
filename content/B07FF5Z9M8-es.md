@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Bestway 43185 - Helado Hinchable Pop Art 188x95 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FF5Z9M8/?tag=tolees-21'
 descuento: '37.62'
 average: '9.95'

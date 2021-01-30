@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Babymoov Kozii - Calienta leches'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CLBZNCX/?tag=tolees-21'
 descuento: '41.00'
 average: '35.34'

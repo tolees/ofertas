@@ -16,6 +16,7 @@ comparePrice: 14.9 EUR
 prodname: 'Fallout - Pop Sentry BOT 6"'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HB3LMB8/?tag=tolees-21'
 descuento: '32.89'
 average: '11.63'

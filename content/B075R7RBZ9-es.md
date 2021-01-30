@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Zapatillas New Balance – Lifestyle Retro 90s Negro/Rosa/Gris Talla: 45 5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075R7RBZ9/?tag=tolees-21'
 descuento: '45.00'
 average: '66.0'

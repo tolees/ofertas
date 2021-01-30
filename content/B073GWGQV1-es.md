@@ -16,6 +16,7 @@ comparePrice: 112.75 EUR
 prodname: 'Monederos Mujer Piel  Carteras Mujer RFID Gran Capacidad  Billetero Cuero Mujer  Billeteras Largas Cremallera Piel con 17 Ranuras para Tarjetas con Cremallera y Muñequeras'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073GWGQV1/?tag=tolees-21'
 descuento: '69.00'
 average: '34.95'

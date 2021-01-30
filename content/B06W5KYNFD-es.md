@@ -16,6 +16,7 @@ comparePrice: 84.99 EUR
 prodname: 'Braun Minipimer 3045 Batidora de Mano  pié metálico  2 velocidades  Campana antisalpicaduras  2 Accesorios  minipicadora 350 ml  700 W  600 milliliters  Metal  Blanco y Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06W5KYNFD/?tag=tolees-21'
 descuento: '41.29'
 average: '49.9'

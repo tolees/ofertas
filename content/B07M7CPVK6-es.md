@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Skechers Dynamight 2.0- Rayhill  Men s Trainers  Black  Black/Black   8 UK  42 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M7CPVK6/?tag=tolees-21'
 descuento: '49.99'
 average: '27.48'

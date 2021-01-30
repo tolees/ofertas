@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'DIGITNOW! Convertidor de captura de vídeo USB  Scart o VHS a DVD Digital Grabber Grabador   Capturadora Digitalizadora de vídeo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083FFN8YK/?tag=tolees-21'
 descuento: '34.01'
 average: '32.99'

@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'bugatti 321622513200  Botas Clasicas para Hombre  Negro  Schwarz 1000   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079FV8QM1/?tag=tolees-21'
 descuento: '31.27'
 average: '54.95'

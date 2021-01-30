@@ -16,6 +16,7 @@ comparePrice: 379.99 EUR
 prodname: 'Philips Smart Pro Compact FC8776/01 - Robot Aspirador  4 Modos de Limpieza  Alto Rendimiento en Suelos Duros  Sensores Infrarojos y Anticaida  120 min Autonomia  Diseño Slim'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AUBJTDW/?tag=tolees-21'
 descuento: '63.34'
 average: '238.99499999999998'

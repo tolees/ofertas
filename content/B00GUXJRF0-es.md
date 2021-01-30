@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Columbia Peakfreak Nomad  Botas de Senderismo para Hombre  Marrón  Cordovan  Cinnamon 231   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GUXJRF0/?tag=tolees-21'
 descuento: '45.99'
 average: '54'

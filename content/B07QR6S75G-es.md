@@ -16,6 +16,7 @@ comparePrice: 450.0 EUR
 prodname: 'Bulova Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable 97R102'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QR6S75G/?tag=tolees-21'
 descuento: '51.01'
 average: '221.85'

@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'motorola TLKR T92 H2O PMR - Walkie-Talkie  IP67  Resistente a la Intemperie  Alcance hasta 10 km   Color Negro y Amarillo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FDI6OKS/?tag=tolees-21'
 descuento: '43.34'
 average: '84.99'

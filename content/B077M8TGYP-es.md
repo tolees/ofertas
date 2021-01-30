@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'Puma Escaper SL Jr  Zapatillas de Running Unisex Niños  Blanco Soft Fluo Peach White  38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077M8TGYP/?tag=tolees-21'
 descuento: '48.96'
 average: '18.88'

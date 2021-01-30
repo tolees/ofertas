@@ -16,6 +16,7 @@ comparePrice: 75 EUR
 prodname: 'Levi s Graphic Sport Hoodie Capucha  Blanco  Photo Film BRW White+ 0143   Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RZ8H5NB/?tag=tolees-21'
 descuento: '50.00'
 average: '37.5'

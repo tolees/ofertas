@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'KiplingDuo PouchMujerMonederosVerde  Frozen Mint 20x14x1 Centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TSKWPK9/?tag=tolees-21'
 descuento: '26.76'
 average: '21.24'

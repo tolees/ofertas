@@ -16,6 +16,7 @@ comparePrice: 3.5 EUR
 prodname: 'Pantene 3 Minute Miracle Suave y Liso  Pelo Apagado y Encrespado - 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XVX4KCQ/?tag=tolees-21'
 descuento: '71.43'
 average: '1.0'

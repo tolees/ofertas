@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Queta Ei-Separator  Eiweiß-Eigelb-Filter-Separator  Küchen-Kochgerät-Sieb-Werkzeug  Others  amarillo  medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083L7NFRT/?tag=tolees-21'
 descuento: '34.53'
 average: '7.87'

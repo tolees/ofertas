@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Motorola Smart Nursery Dream Machine - Vigilabebés audio Wi-Fi y proyector de luces y sonidos con control de temperatura y humedad  color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MF9Y4W3/?tag=tolees-21'
 descuento: '75.81'
 average: '29.02'

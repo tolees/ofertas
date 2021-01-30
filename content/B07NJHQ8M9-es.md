@@ -16,6 +16,7 @@ comparePrice: 7.5 EUR
 prodname: 'Brabantia Tasty+ Sacacorchos  Terracotta Pink'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJHQ8M9/?tag=tolees-21'
 descuento: '30.00'
 average: '5.25'

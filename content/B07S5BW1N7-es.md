@@ -16,6 +16,7 @@ comparePrice: 153.9 EUR
 prodname: 'Love MoschinoJc4042pp1aMujerBolsos bandoleraNegro  Negro 9x14x34 centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S5BW1N7/?tag=tolees-21'
 descuento: '56.16'
 average: '67.47'

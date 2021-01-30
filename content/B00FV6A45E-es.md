@@ -16,6 +16,7 @@ comparePrice: 9.98 EUR
 prodname: 'Frozen Fiesta Cumpleaños Globos Olaf  58 x 104 cm  Anagram 2831601 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00FV6A45E/?tag=tolees-21'
 descuento: '34.87'
 average: '6.5'

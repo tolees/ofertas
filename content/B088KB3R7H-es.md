@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Remescar - Reparación Nocturna - Contorno De Ojos - Reduzca Las Bolsas Para Los Ojos Y Las Ojeras - Reduzca La Apariencia De Las Patas De Gallo - Crema De Noche Para Los Párpados Caídos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088KB3R7H/?tag=tolees-21'
 descuento: '28.58'
 average: '24.99'

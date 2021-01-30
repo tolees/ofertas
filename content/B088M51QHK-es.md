@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'McNory Ventilador Recargable portátil USB Mini Ventilador de Mano Plegable Cuello del Ventilador 3000mah Personal Ventilador de refrigeración con 3 Velocidad Blanca  Rosa '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088M51QHK/?tag=tolees-21'
 descuento: '25.02'
 average: '8.99'

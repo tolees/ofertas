@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Buffalo Corin  Zapatillas para Mujer  Rosa  Pink 001   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MM67KDL/?tag=tolees-21'
 descuento: '37.11'
 average: '62.824999999999996'

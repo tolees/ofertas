@@ -16,6 +16,7 @@ comparePrice: 10.86 EUR
 prodname: 'Wolfcraft 4351000 Pistola Selladora'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013SVXL5I/?tag=tolees-21'
 descuento: '37.85'
 average: '6.75'

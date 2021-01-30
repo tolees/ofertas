@@ -16,6 +16,7 @@ comparePrice: 12.9 EUR
 prodname: 'NYX Professional Makeup Paleta de correctores y contouring Conceal  Correct  Contour Palette  6 sombras  Textura cremosa  Tono: Light'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QHR588G/?tag=tolees-21'
 descuento: '34.50'
 average: '8.45'

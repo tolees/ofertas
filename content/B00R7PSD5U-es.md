@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'Citizen Reloj Analógico para Mujer de Cuarzo con Correa en Cuero FE1083-02A'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00R7PSD5U/?tag=tolees-21'
 descuento: '44.24'
 average: '66.05749999999999'

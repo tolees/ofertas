@@ -16,6 +16,7 @@ comparePrice: 699.0 EUR
 prodname: 'Huawei Matebook D 15 - Ordenador Portátil de 15. 6" FullHD  AMD Ryzen 5 3500u  8gb ram  256gb ssd  Colaboración Multipantalla  Windows 10 Home  Mystic Silver  Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08443VXLJ/?tag=tolees-21'
 descuento: '32.55'
 average: '670.55875'

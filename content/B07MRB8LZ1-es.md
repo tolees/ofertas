@@ -16,6 +16,7 @@ comparePrice: 78.84 EUR
 prodname: 'Nike Phantom Venom Academy FG  Zapatillas de Fútbol Unisex Adulto  Amarillo  Volt/Obsidian/Volt 717   38.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MRB8LZ1/?tag=tolees-21'
 descuento: '29.01'
 average: '55.97'

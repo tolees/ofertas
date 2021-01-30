@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'SUPORE Vivosmart HR Activity Tracker Correa de Reloj de Repuesto  Accesorios Correa de Reloj de Silicona Suave Ajustable Reemplazo diseñado para Vivosmart HR Smart Sport Reloj'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GWCCW84/?tag=tolees-21'
 descuento: '50.02'
 average: '14.99'

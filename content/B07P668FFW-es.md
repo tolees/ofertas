@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Munich Osaka  Zapatillas de Deporte para Mujer  Dorado  Dorado 391   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P668FFW/?tag=tolees-21'
 descuento: '26.59'
 average: '72.68'

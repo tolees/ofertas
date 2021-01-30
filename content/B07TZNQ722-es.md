@@ -16,6 +16,7 @@ comparePrice: 10.0 EUR
 prodname: 'Funko- Pop TV: Black Mirror-Doll w/Evil Chase  Styles May Vary  Collectible Toy  Multicolor  45366 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZNQ722/?tag=tolees-21'
 descuento: '40.10'
 average: '6.995'

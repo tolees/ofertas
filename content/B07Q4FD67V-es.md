@@ -16,6 +16,7 @@ comparePrice: 21.0 EUR
 prodname: 'Myprotein Vegan Protein Pancake Mix  1000g  1 Unidad 1000 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q4FD67V/?tag=tolees-21'
 descuento: '26.62'
 average: '15.41'

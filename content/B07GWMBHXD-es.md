@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'KuGi para Huawei Mate 20 Pro  dureza  HD  transparente  sin burbujas  de alta sensibilidad  fácil instalación  protector de pantalla de cristal templado para Huawei Mate 20 Pro Transparente.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GWMBHXD/?tag=tolees-21'
 descuento: '66.97'
 average: '6.59'

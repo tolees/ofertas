@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Bombilla de Filamento LED Demum 25 Piezas G40 Globo Bombillas 7W E12 Base Socket Holder  Impermeable IP44 para Guirnalda Luces Exterior [Clase de eficiencia energética E]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VHMC4FN/?tag=tolees-21'
 descuento: '50.03'
 average: '9.99'

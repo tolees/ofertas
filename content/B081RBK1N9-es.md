@@ -16,6 +16,7 @@ comparePrice: 75.99 EUR
 prodname: 'Pawhut Cueva Gato Cama para Gato de Forma de Cáscara Semi-Cerrado Casa para Gatos Interior Desmontable Fieltro 47x38x24cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081RBK1N9/?tag=tolees-21'
 descuento: '65.80'
 average: '25.99'

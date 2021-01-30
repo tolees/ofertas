@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'BOZHZO Piscina Luz LED Sumergible  Luces Sumergibles Impermeable IP68 16 color RGB  Iluminación 30-50 horas  Luz Subacuática para jardín/acuario/florero/bañera/piscina o spa/boda/fiesta （4 piezas）'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BCFT2XD/?tag=tolees-21'
 descuento: '35.01'
 average: '25.99'

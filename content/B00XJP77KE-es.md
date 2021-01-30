@@ -16,6 +16,7 @@ comparePrice: 5.29 EUR
 prodname: 'NIVEA Desmaquillador de Ojos Doble Acción  1 x 125 ml   líquido desmaquillante para el contorno de ojos sensible  limpieza facial rápida y suave'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XJP77KE/?tag=tolees-21'
 descuento: '45.18'
 average: '3.456666666666667'

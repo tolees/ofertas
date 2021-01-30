@@ -16,6 +16,7 @@ comparePrice: 1599.99 EUR
 prodname: 'ASUS ROG Strix G731GU-EV038T  Portátil Gaming de 17.3" FullHD Intel Core i7-9750H  16GB RAM  256 SSD + 1TB HDD  GTX 1660 6GB  Windows 10  Metal Negro - Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S43WLCY/?tag=tolees-21'
 descuento: '25.00'
 average: '1239.0425'

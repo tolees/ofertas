@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Vila 14053622 suéter  Multicolor  Golden Oak Golden Oak   40  Talla del Fabricante: Medium  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TLNWVQ3/?tag=tolees-21'
 descuento: '75.43'
 average: '7.37'

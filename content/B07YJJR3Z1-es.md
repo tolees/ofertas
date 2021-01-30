@@ -16,6 +16,7 @@ comparePrice: 33.98 EUR
 prodname: 'Incarpo - Zapatillas de Estar por casa para Hombre  con Memoria de Espuma  Tejido de Coral  Forro Polar Suave Forrado  Pantuflas Antideslizantes para Interior y Exterior  Color Marrón  Talla 40/41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YJJR3Z1/?tag=tolees-21'
 descuento: '39.49'
 average: '20.56'

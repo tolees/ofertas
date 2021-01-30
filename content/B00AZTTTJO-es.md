@@ -16,6 +16,7 @@ comparePrice: 140.35 EUR
 prodname: 'HP CN627AE 971XL Cartucho de Tinta Original de alto rendimiento  1 unidad  magenta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00AZTTTJO/?tag=tolees-21'
 descuento: '27.32'
 average: '102.0'

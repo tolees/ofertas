@@ -16,6 +16,7 @@ comparePrice: 24.85 EUR
 prodname: 'Applaws - Estaño para Gatos  24 x 70 g '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005QMV7MM/?tag=tolees-21'
 descuento: '36.78'
 average: '15.71'

@@ -16,6 +16,7 @@ comparePrice: 43.99 EUR
 prodname: 'Don Algodon DO015  Zapatillas para Mujer  Multicolor 015  38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PLT1PJ5/?tag=tolees-21'
 descuento: '29.55'
 average: '30.99'

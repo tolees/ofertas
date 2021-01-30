@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Philips Lighting Iron Man Linterna LED  0.3 W  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00R38ISL0/?tag=tolees-21'
 descuento: '26.63'
 average: '7.295'

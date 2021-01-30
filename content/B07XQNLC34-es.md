@@ -16,6 +16,7 @@ comparePrice: 287.04 EUR
 prodname: 'Fossil Smartwatch Pantalla táctil para Mujer de Connected con Correa en Piel FTW6054'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XQNLC34/?tag=tolees-21'
 descuento: '41.12'
 average: '197.77666666666667'

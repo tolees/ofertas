@@ -16,6 +16,7 @@ comparePrice: 39.98 EUR
 prodname: 'TOUCHBeauty Masajeador facial con modo sónico vibración  Infusión iónica Masajeador facial dispositivo  Limpieza Profunda  Cuidado Facial AG-1681A'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083J8XGHG/?tag=tolees-21'
 descuento: '60.03'
 average: '15.98'

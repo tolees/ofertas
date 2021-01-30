@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'D-Link DAP-1610 - Repetidor WiFi AC1200  1200 Mbps  Puerto de Red 10/100 Mbps  botón WPS  Antenas externas   Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078PKX4QK/?tag=tolees-21'
 descuento: '40.01'
 average: '24.785555555555558'

@@ -16,6 +16,7 @@ comparePrice: 45.02 EUR
 prodname: 'FLYFLY Artículos de Fiestas para Fanáticos de los Videojuegos Globo Decoraciones para Cumpleaños de Tema de Videojuegos con Globos Pancartas Adornos para Pasteles'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084TLRQJ1/?tag=tolees-21'
 descuento: '60.04'
 average: '17.99'

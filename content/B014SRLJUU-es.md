@@ -16,6 +16,7 @@ comparePrice: 507.99 EUR
 prodname: 'Garmin Montana 680T - Navegador GPS  10.2 cm  4"   272 x 480 Píxeles  TFT  Vertical  65536 Colores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B014SRLJUU/?tag=tolees-21'
 descuento: '32.09'
 average: '345.0'

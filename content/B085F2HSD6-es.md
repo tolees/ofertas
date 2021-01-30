@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Compuesto Pasta para afilado BACHER con acondicionador para el cuero 100g - Ultrafino'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085F2HSD6/?tag=tolees-21'
 descuento: '45.03'
 average: '8.24'

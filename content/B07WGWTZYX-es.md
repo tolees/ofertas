@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Auriculares Inalámbrico de Diadema  AUSDOM M09 Cascos Bluetooth 5.0  Cascos Inalambricos Plegable con Micrófono Incorporado  Ligero y Cómodo  Apoyo Tarjeta TF  Hi-Fi Estéreo para Moviles  TV  PC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WGWTZYX/?tag=tolees-21'
 descuento: '40.01'
 average: '30.025'

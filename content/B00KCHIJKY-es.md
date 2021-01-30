@@ -16,6 +16,7 @@ comparePrice: 49.94 EUR
 prodname: 'BLEND Jeans-Noos Cirrus Parte de Arriba  Blau  Fane 76119-L32   W29/ L32  29  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KCHIJKY/?tag=tolees-21'
 descuento: '32.28'
 average: '26.235'

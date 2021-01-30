@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'Optimum Nutrition ON 100% Plant Gold Standard  Proteina vegana en polvo  para masa muscular y musculacion  fuente de vitamina C y B12  Chocolate  19 porciones  684 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J4RH1TV/?tag=tolees-21'
 descuento: '44.88'
 average: '16.65'

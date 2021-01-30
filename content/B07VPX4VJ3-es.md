@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'bugatti 431846045059  Zapatillas para Mujer  Blanco  Blanco y Amarillo 2050  37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VPX4VJ3/?tag=tolees-21'
 descuento: '65.88'
 average: '23.87'

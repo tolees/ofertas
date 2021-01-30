@@ -16,6 +16,7 @@ comparePrice: 5.88 EUR
 prodname: 'Aprettysunny Tacón Alto Zapato'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y5FL54N/?tag=tolees-21'
 descuento: '51.02'
 average: '2.88'

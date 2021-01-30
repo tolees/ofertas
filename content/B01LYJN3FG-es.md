@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'On Paws ‘Sleep Well Lounger’ Marron  tamaño M  65 x 50 cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LYJN3FG/?tag=tolees-21'
 descuento: '43.76'
 average: '44.99'

@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'YAMAMAY® Pyjamas - Ultimi arrivi'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085YCP8NH/?tag=tolees-21'
 descuento: '54.99'
 average: '17.98'

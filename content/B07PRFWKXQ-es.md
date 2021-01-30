@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'K KYUER 27.74Wh 7300mAh EB-BT585ABE EB-BT585ABA Tablet Batería para Samsung Galaxy Tab A 10.1 2016 SM-T580 T580N SM-T585 T585N T585C SM-T587 T587P S-Pen SM-P580 P580N SM-P585 P585M P585Y with Tools'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PRFWKXQ/?tag=tolees-21'
 descuento: '42.51'
 average: '23.59'

@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Craft Lightcraft Alphalux Foco  100 W  LED  bajo Consumo  Larga Durabilidad  Apto para Interior y Exterior  Carcasa de Aluminio  protección Antipolvo y antisalpicaduras  - Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KTFE4EO/?tag=tolees-21'
 descuento: '49.96'
 average: '49.99'

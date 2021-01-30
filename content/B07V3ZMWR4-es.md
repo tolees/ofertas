@@ -16,6 +16,7 @@ comparePrice: 35.19 EUR
 prodname: 'SRJ2018 Playa Palmeras en Ocean Heaven Tumbonas Balcón Blanco Ventanasde Madera Verano Tropical de con Azul Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V3ZMWR4/?tag=tolees-21'
 descuento: '53.14'
 average: '16.49'

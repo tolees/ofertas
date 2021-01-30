@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Clarks Griffin Plaza  Botas Chelsea para Mujer  Gris  Taupe Snake Taupe Snake   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1JL3JN/?tag=tolees-21'
 descuento: '59.14'
 average: '28.58'

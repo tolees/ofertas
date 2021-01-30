@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Funko Pop- Pop Marvel: Avengers: Infinity War-Captain America Figura De Vinilo  Multicolor  Talla Única  26466 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079PQ7TQS/?tag=tolees-21'
 descuento: '46.63'
 average: '11.559999999999999'

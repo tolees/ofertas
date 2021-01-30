@@ -16,6 +16,7 @@ comparePrice: 279.0 EUR
 prodname: 'Michael Kors Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable MK8642'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G4Q69WQ/?tag=tolees-21'
 descuento: '34.78'
 average: '194.30399999999997'

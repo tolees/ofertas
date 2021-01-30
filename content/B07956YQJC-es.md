@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'adidas Lite Racer CLN K  Zapatillas de Deporte Unisex Adulto  Azul  Azutra/Rossho/Grasua 000   38 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07956YQJC/?tag=tolees-21'
 descuento: '26.61'
 average: '32.99'

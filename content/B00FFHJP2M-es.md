@@ -16,6 +16,7 @@ comparePrice: 79.15 EUR
 prodname: 'Black Diamond - Terminator  Color Black  Talla L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00FFHJP2M/?tag=tolees-21'
 descuento: '25.66'
 average: '58.84'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Betacaroteno [25.000 ui] 180 Cápsulas con Patentado Lyc-O-Beta - Con Aceite de Oliva Extra Virgen - Apoyo Natural Para el Bronceado  la Salud de los Ojos  la Piel  y el Sistema Inmunológico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PH3X8RV/?tag=tolees-21'
 descuento: '25.01'
 average: '14.99'

@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'TEENO Moviles Libres 4G 6.2 Pulgadas Telefonos 3GB RAM+32GB ROM Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081W7CDZS/?tag=tolees-21'
 descuento: '62.50'
 average: '74.99'

@@ -16,6 +16,7 @@ comparePrice: 26.92 EUR
 prodname: 'RECUR Mosasaurus Dinosaur Figurines Jurassic Toys - Pintado a Mano Real Feel Dinosaur Toy Collection Gift para niños Niño pequeño Niños Niños Juguete Educativo Dino'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08F2JBGV1/?tag=tolees-21'
 descuento: '25.74'
 average: '19.99'

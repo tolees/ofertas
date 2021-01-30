@@ -16,6 +16,7 @@ comparePrice: 5.49 EUR
 prodname: 'H&S Nutre & Cuida Champú Anticaspa - 540 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06ZYHQH38/?tag=tolees-21'
 descuento: '49.91'
 average: '2.75'

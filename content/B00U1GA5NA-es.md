@@ -16,6 +16,7 @@ comparePrice: 160.0 EUR
 prodname: 'INJUSA - Triciclo City Max Blanco para Bebés +6 Meses con Mango de Control Parental de Dirección'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00U1GA5NA/?tag=tolees-21'
 descuento: '32.52'
 average: '107.97'

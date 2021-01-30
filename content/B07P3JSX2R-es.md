@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Superdry Storm Hybrid Ziphood Capucha  Gris  Silver Heather Marl Udd   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P3JSX2R/?tag=tolees-21'
 descuento: '48.34'
 average: '61.99'

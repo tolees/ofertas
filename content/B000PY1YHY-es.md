@@ -16,6 +16,7 @@ comparePrice: 33.9 EUR
 prodname: 'Guerlain - Desodorante Spray Habit Rouge'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000PY1YHY/?tag=tolees-21'
 descuento: '35.75'
 average: '22.525'

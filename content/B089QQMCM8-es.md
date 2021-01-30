@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'adidas Duramo SL  Zapatillas Hombre  Escarl/FTWBLA/NEGBÁS  42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B089QQMCM8/?tag=tolees-21'
 descuento: '54.60'
 average: '24.95'
@@ -27,10 +28,10 @@ En este momento está [adidas Duramo SL  Zapatillas Hombre  Escarl/FTWBLA/NEGBÁ
 
 🔎:
 
-- Parte superior de malla
 - Zapatilla de running versátil
-- Diseño ligero
 - Horma clásica
+- Parte superior de malla
 - Cierre de cordones
+- Diseño ligero
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B089QQMCM8/?tag=tolees-21)

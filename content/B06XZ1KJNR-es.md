@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'Di4 Aspirojet Duo Limpiacristales 2 en 1 Exclusivo Cabezal Flexible- Accesorios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XZ1KJNR/?tag=tolees-21'
 descuento: '30.91'
 average: '42.24'

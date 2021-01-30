@@ -16,6 +16,7 @@ comparePrice: 22.1 EUR
 prodname: 'fanola Violet bleac de conmutación Powder – blondier polvo púrpura deshumidificación  500 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075GHMK95/?tag=tolees-21'
 descuento: '28.24'
 average: '15.86'

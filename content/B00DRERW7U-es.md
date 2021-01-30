@@ -16,6 +16,7 @@ comparePrice: 58.4 EUR
 prodname: 'BRA Efficient-Grill asador  Negro  28 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DRERW7U/?tag=tolees-21'
 descuento: '31.52'
 average: '39.99'

@@ -16,6 +16,7 @@ comparePrice: 94.99 EUR
 prodname: 'Braun Hogar SI 7066 Vi Plancha de vapor  2600 W  0.3 litros  eloxal  Violeta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WVLHJ65/?tag=tolees-21'
 descuento: '36.95'
 average: '59.89'

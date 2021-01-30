@@ -16,6 +16,7 @@ comparePrice: 5.99 EUR
 prodname: '6 Piezas Étnico Tribal Pulsera Pulseras Cuero para Hombre Mujer Amistad Trenzado Manual De Bohemia De Madera del Grano Pulseras Etnica Tibetana Ajustable Cáñamo Pulseras Hombres Mujeres Unisex'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VCRWFFX/?tag=tolees-21'
 descuento: '33.39'
 average: '4.99'

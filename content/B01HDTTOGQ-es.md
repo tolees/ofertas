@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Innovations Genuine Inflador de Co2  Unisex  Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HDTTOGQ/?tag=tolees-21'
 descuento: '37.46'
 average: '10.0'

@@ -16,6 +16,7 @@ comparePrice: 5.58 EUR
 prodname: 'perfk 1 pc Protector de Cables de Carga Animal Ardilla Rayada Cargador USB Anti Rotura Duradero'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H9MS3Q3/?tag=tolees-21'
 descuento: '37.46'
 average: '3.49'

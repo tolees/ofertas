@@ -16,6 +16,7 @@ comparePrice: 2.0 EUR
 prodname: 'Funda para Samsung Galaxy S10 Lite + [2 Pack] Cristal Templado Protector de Pantalla Suave TPU Transparente Gel Silicona Anti-caída Protectora Carcasa para Samsung Galaxy S10 Lite  6.7 Pulgadas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086PCT1TB/?tag=tolees-21'
 descuento: '50.00'
 average: '1.0'

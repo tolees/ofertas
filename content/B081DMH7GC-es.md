@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Colmanda Cerveza Abrebotellas  4 Piezas Forma de Pistola Creativa Abridor de Botellas Abridor de Botellas de Cerveza para Inicio Bar Fiesta Beber'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081DMH7GC/?tag=tolees-21'
 descuento: '40.02'
 average: '14.99'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Guzack Cinturón de Correr Chuangmeida Riñonera Cinturón Running Deportiva Belt Bolsa Impermeable Cintura Bolsa de Transporte para Correr  Ciclismo Viajar Senderismo y Bum Bag Bolsa  Azul Nuevo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QVPX64H/?tag=tolees-21'
 descuento: '56.69'
 average: '12.99'

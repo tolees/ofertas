@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'Concord Transformer Pro  Silla de coche grupo 1/2/3 Isofix  rojo  Bordeaux Red '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015P7UICM/?tag=tolees-21'
 descuento: '25.16'
 average: '119.0'

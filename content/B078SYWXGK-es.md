@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'Salomon Speedcross 4 GTX  Zapatillas de Trail Running para Hombre  Azul  Poseidon/Navy Blazer/Lime Green   44 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078SYWXGK/?tag=tolees-21'
 descuento: '45.37'
 average: '97.92'

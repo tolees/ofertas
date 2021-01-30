@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Columbia IVO Trail Breeze  Zapatillas Deportivas para Mujer  Negro  Black  White 010   38.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RJTBKC2/?tag=tolees-21'
 descuento: '52.96'
 average: '47.04'

@@ -16,6 +16,7 @@ comparePrice: 279.99 EUR
 prodname: 'Numark Party Mix Pro - Controlador de DJ con Luces Reactivas al Sonido  Altavoz Portátil de Larga Duración Recargable  Conectividad Bluetooth de Fácil Emparejamiento y Software de DJ para Mac/PC/iOS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077SQKDJF/?tag=tolees-21'
 descuento: '64.64'
 average: '191.095'

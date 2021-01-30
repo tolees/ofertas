@@ -16,6 +16,7 @@ comparePrice: 16.9 EUR
 prodname: 'bonmedico Kubo Codera Elástica  Coderas para Articulaciones para Hombre y Mujer para Tenista  Padel  Golfista'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ITRAVMM/?tag=tolees-21'
 descuento: '28.99'
 average: '12.45'

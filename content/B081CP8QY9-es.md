@@ -16,6 +16,7 @@ comparePrice: 7.47 EUR
 prodname: 'LNIEGE SMT SMD Teléfono Celular TF Micro SD Ranuras para Soporte de Ranura para Tarjeta de Memoria para Equipos Digitales portátiles'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081CP8QY9/?tag=tolees-21'
 descuento: '51.00'
 average: '3.66'

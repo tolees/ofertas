@@ -16,6 +16,7 @@ comparePrice: 46.82 EUR
 prodname: 'Ultrasport Rts flicka - Forro  Color Gris  Talla XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CIVUTLE/?tag=tolees-21'
 descuento: '69.03'
 average: '14.5'

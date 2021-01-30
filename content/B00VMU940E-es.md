@@ -16,6 +16,7 @@ comparePrice: 12.59 EUR
 prodname: 'El señor de los anillos  1978 BD [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VMU940E/?tag=tolees-21'
 descuento: '33.28'
 average: '8.4'

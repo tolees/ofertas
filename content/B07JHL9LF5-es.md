@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Columbia Nikiski 503  Botas Bajas para Mujer  Rojo  Rich Wine  Dare   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JHL9LF5/?tag=tolees-21'
 descuento: '71.53'
 average: '34.16'

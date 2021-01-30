@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'adidas Con18 PES Jkt Sport Jacket  Hombre  Azul  Azul/Blanco   2XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076HQVM6K/?tag=tolees-21'
 descuento: '40.00'
 average: '27.475'

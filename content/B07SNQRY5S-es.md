@@ -16,6 +16,7 @@ comparePrice: 180.0 EUR
 prodname: 'Asics Gel-Nimbus 22  Running Shoe Mens  Tuna Blue/Pure Silver  42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SNQRY5S/?tag=tolees-21'
 descuento: '50.03'
 average: '106.08'

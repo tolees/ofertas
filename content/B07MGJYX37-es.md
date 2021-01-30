@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'The North Face Mallas en Mezcla de algodón con Logotipo Grande  Niñas  TNF Medium Grey Heather  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MGJYX37/?tag=tolees-21'
 descuento: '50.00'
 average: '12.5'

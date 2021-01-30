@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'WEWAK Actualizado Dispensador Automático de Jabón Espuma 12 oz / 350 ml  Eléctrico con Batería sin Contacto  Dispensador de Jabón Manos Libres para Baño Cocina Inodoro Oficina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088NBGNMN/?tag=tolees-21'
 descuento: '33.34'
 average: '19.99'

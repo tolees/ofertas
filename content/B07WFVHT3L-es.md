@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'ieGeek Cámara de Vigilancia WiFi Interior  Detección Humana  Grabacion Continua  Audio de 2 Vías  Sensor de Movimiento'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WFVHT3L/?tag=tolees-21'
 descuento: '45.01'
 average: '32.99'

@@ -16,6 +16,7 @@ comparePrice: 12.31 EUR
 prodname: 'Rubbies - Disfraz de Thor para hombre  talla L  880946STD '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008U7O3XU/?tag=tolees-21'
 descuento: '28.35'
 average: '8.82'

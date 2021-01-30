@@ -16,6 +16,7 @@ comparePrice: 999.0 EUR
 prodname: 'LG 32UD99-W - Monitor 4K UHD de 80 cm  31 5"  con Panel IPS  3840 x 2160 píxeles  16:9  350 cd/m²  DCI-P3 >95%  1300:1  5 ms  60 Hz  Color Plata y Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N6ZKF1R/?tag=tolees-21'
 descuento: '73.87'
 average: '440.36'

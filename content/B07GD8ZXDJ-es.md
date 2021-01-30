@@ -16,6 +16,7 @@ comparePrice: 419.0 EUR
 prodname: 'Emporio Armani Smartwatch ART5007'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GD8ZXDJ/?tag=tolees-21'
 descuento: '39.14'
 average: '258.32'

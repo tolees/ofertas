@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Helly Hansen THE FORESTER  Botas de nieve para Hombre  Negro  Jet Black   46.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00M2WITNY/?tag=tolees-21'
 descuento: '55.95'
 average: '57.0'

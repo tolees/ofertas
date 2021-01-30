@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Merrell Siren Edge Q2  Zapatillas de Senderismo para Mujer  Gris  Rock   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001EEQXPW/?tag=tolees-21'
 descuento: '33.69'
 average: '62.99'

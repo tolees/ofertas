@@ -16,6 +16,7 @@ comparePrice: 76.66 EUR
 prodname: 'Tommy Hilfiger Tommy Tipped Slim Polo  Azul  Desert Sky   Large  Talla del Fabricante:  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W5MZB7G/?tag=tolees-21'
 descuento: '58.31'
 average: '31.96'

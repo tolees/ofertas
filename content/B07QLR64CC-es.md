@@ -16,6 +16,7 @@ comparePrice: 137.87 EUR
 prodname: 'DragonSwordlinsu COOSUN - Cortinas opacas para perros  oscurecimiento con aislamiento térmico de poliéster  ojales superiores para dormitorio  sala de estar  2 paneles  55 x 213 cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QLR64CC/?tag=tolees-21'
 descuento: '47.50'
 average: '72.38'

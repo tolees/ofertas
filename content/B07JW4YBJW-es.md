@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Hackett London Aston Martin Racing Tip Cllr Polo  Blanco  White 800   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JW4YBJW/?tag=tolees-21'
 descuento: '58.32'
 average: '39.6'

@@ -16,6 +16,7 @@ comparePrice: 30 EUR
 prodname: 'find. Floral Wide Leg Pantalones para Mujer  Negro  Black Mix   42  Talla del Fabricante: Large '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MZ025BN/?tag=tolees-21'
 descuento: '60.00'
 average: '12.0'

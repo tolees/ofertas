@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'MagiDeal Cubierta Protectora de Teclado de Silicona para HP 15.6 Pulgadas BF - Arcoiris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0788XQXKF/?tag=tolees-21'
 descuento: '42.92'
 average: '3.99'

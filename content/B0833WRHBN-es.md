@@ -16,6 +16,7 @@ comparePrice: 58.0 EUR
 prodname: '61w USB-C Power Adapter Mac Charger Compatible con Macbook Pro Mac Thunderbolt Charger de 13 Pulgadas Cargador de Pared Tipo C PD para el Nuevo Macbook Air 2019 Matebook iPad Pro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0833WRHBN/?tag=tolees-21'
 descuento: '40.21'
 average: '34.68'

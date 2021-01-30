@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'FLYLINKTECH 14.4V 4500mAh Ni-MH Aspiradoras de Repuesto Batería para iRobot Roomba 500 600 700 800 Series 530 531 532 535 536 540 550 552 560 570 580 595 620 650 660 760 770 780 790 870 980'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TVHBR6N/?tag=tolees-21'
 descuento: '36.96'
 average: '28.418571428571425'

@@ -16,6 +16,7 @@ comparePrice: 28.54 EUR
 prodname: 'Caja de almacenamiento universal para asiento de coche  ranura lateral para asiento de coche'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086C6WFNL/?tag=tolees-21'
 descuento: '26.42'
 average: '21.0'

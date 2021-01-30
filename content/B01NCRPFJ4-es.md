@@ -16,6 +16,7 @@ comparePrice: 26.12 EUR
 prodname: 'Carbón Activado Premium – Polvo 100 % orgánico – Sin aditivos químicos – blanqueador dental – Para blanqueamiento - Active Carbon Activated Charcoal - pasta de dientes - mascarilla puntos negros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NCRPFJ4/?tag=tolees-21'
 descuento: '50.61'
 average: '12.9'

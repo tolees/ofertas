@@ -16,6 +16,7 @@ comparePrice: 36.71 EUR
 prodname: 'Marshmallow Glitter  40 cm  3 litros  Verde Agua'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG9DR7L/?tag=tolees-21'
 descuento: '49.74'
 average: '18.45'

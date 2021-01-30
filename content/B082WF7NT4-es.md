@@ -16,6 +16,7 @@ comparePrice: 1.76 EUR
 prodname: '40g Bola de baño Tamaño pequeño Hogar Hotel Baño SPA Bubble Fizzer Bath Bomb - Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082WF7NT4/?tag=tolees-21'
 descuento: '33.52'
 average: '1.17'

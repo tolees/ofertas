@@ -16,6 +16,7 @@ comparePrice: 8.25 EUR
 prodname: 'Funko- Pocket Pop Fortnite Llavero de Vinilo con Anilla Black Knight  Multicolor  36953 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JV7V26R/?tag=tolees-21'
 descuento: '51.52'
 average: '4.0'

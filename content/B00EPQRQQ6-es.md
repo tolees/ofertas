@@ -16,6 +16,7 @@ comparePrice: 160.0 EUR
 prodname: 'Nixon Reloj Analógico para Hombre de Cuarzo con Correa en Cuero A105-1524-00'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EPQRQQ6/?tag=tolees-21'
 descuento: '30.94'
 average: '106.295'

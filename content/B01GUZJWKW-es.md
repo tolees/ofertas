@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Adidas Stan Smith  Zapatillas para Niñas  Blanco  Footwear White/Footwear White/Bold Pink 0   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GUZJWKW/?tag=tolees-21'
 descuento: '27.10'
 average: '40.06'

@@ -16,6 +16,7 @@ comparePrice: 4.71 EUR
 prodname: 'Tamaño A4 Niños Dibujo Molde de papel de placa de copia 3D para impresión 3D Plantillas de dibujo de pluma y Doodle XP El mejor regalo para niños - Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085CGNPQK/?tag=tolees-21'
 descuento: '35.03'
 average: '3.06'

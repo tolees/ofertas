@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'ELEVATED NYLON MINI CROSSOVERHombreMonederosAzul  Sky Captain  4x20.5x18.5 centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N5W6FSG/?tag=tolees-21'
 descuento: '50.00'
 average: '39.95'

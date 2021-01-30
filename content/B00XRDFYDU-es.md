@@ -16,6 +16,7 @@ comparePrice: 223.2 EUR
 prodname: 'Swiss Military 6-4251.04.007'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XRDFYDU/?tag=tolees-21'
 descuento: '52.96'
 average: '105.0'

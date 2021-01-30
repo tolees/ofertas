@@ -16,6 +16,7 @@ comparePrice: 4.69 EUR
 prodname: 'NOPNOG Cuidado de la Pintura del Coche rasguños reparación de Pintura Pluma  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D9FTHKK/?tag=tolees-21'
 descuento: '29.85'
 average: '2.856666666666667'

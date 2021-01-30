@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'GRIDINLUX. Batería de Cocina 22 Piezas. Incluye Accesorios  Materiales Calidad Premium. Resistente  Cerámica y Antiadherente  Utensilios  Set Cacerolas  Apta para todo tipo de Cocinas  Fácil limpieza'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y5B4Q7Q/?tag=tolees-21'
 descuento: '53.19'
 average: '137.0476923076923'

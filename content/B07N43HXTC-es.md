@@ -16,6 +16,7 @@ comparePrice: 109.0 EUR
 prodname: 'Tommy Hilfiger Pima Cotton Cashmere Crew Neck Suéter  Gris  Silver Fog Heather P9w   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N43HXTC/?tag=tolees-21'
 descuento: '36.18'
 average: '69.56'

@@ -16,6 +16,7 @@ comparePrice: 3.85 EUR
 prodname: '40G Tamaño pequeño Hogar Hotel Baño Baño Bola de sal Bomba Tipo de aromaterapia Limpiador corporal Regalo de bombas de baño hechas a mano - Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0851FQR4N/?tag=tolees-21'
 descuento: '35.06'
 average: '2.5'

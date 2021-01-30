@@ -16,6 +16,7 @@ comparePrice: 1269.0 EUR
 prodname: 'BenQ W1720 - Proyector DLP con auténtica resolucion 4K UHD HDR  2000 lumens  Rec709'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PP9WNYY/?tag=tolees-21'
 descuento: '43.66'
 average: '687.5'

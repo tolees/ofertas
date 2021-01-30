@@ -16,6 +16,7 @@ comparePrice: 190.0 EUR
 prodname: 'Head Pala de Padel Graphene Monster 2020'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085W3J8VG/?tag=tolees-21'
 descuento: '47.39'
 average: '99.95'

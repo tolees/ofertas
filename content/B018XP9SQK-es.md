@@ -16,6 +16,7 @@ comparePrice: 15.79 EUR
 prodname: 'Quamtrax Nutrition Avena Instantánea  Sabor Galleta Tradicional - 2000 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018XP9SQK/?tag=tolees-21'
 descuento: '30.65'
 average: '10.95'

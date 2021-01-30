@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'SanDisk SDCZ71-032G-B35 Memoria USB 2.0 de 32 GB Plateado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00C9Q6NM2/?tag=tolees-21'
 descuento: '31.37'
 average: '6.17'

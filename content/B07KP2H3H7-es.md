@@ -16,6 +16,7 @@ comparePrice: 14.0 EUR
 prodname: 'SALOMON Speed Pro 1 Par de Calcetines Tobilleros  Unisex Adulto  Gris Claro/Turquesa  Waterfall   M  39-41 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KP2H3H7/?tag=tolees-21'
 descuento: '52.21'
 average: '5.960000000000001'

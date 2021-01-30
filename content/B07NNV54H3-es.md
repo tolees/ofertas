@@ -16,6 +16,7 @@ comparePrice: 62.76 EUR
 prodname: 'Under Armour UA W Charged Intake 4  Zapatillas de Running para Mujer  Blanco  White/Rift Blue/Blue Haze   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NNV54H3/?tag=tolees-21'
 descuento: '31.71'
 average: '42.86'

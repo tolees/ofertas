@@ -16,6 +16,7 @@ comparePrice: 17.98 EUR
 prodname: 'PopHMN Kit de sushi  Kit de fabricación de sushi 5PCS Kit de fabricación de sushi de bambú para palillos familiares Cuchara de arroz Cortador de sushi Kit de enrollado de sushi  Estilo2 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0872VLVFK/?tag=tolees-21'
 descuento: '55.56'
 average: '7.99'

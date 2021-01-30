@@ -16,6 +16,7 @@ comparePrice: 27.95 EUR
 prodname: 'Dickie Toys- Toy Story 4 Buzz Volador RC por Cable  Multicolor  3153002 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QJC97DY/?tag=tolees-21'
 descuento: '26.08'
 average: '20.66'

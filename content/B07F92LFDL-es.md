@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Tommy Hilfiger Boys Slim Chino Ostw PD Pantalones  Azul  Sky Captain 420   116  Talla del Fabricante: 6  para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F92LFDL/?tag=tolees-21'
 descuento: '35.43'
 average: '38.68'

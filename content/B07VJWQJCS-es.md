@@ -16,6 +16,7 @@ comparePrice: 699.99 EUR
 prodname: 'Lenovo Legion Y27gq-20 27.0 " QHD TN G-Sync Pro Gaming Monitor 165 Hz 1 ms HDMI+DP 3 lados sin bordes Regulable en altura Pivot Stand - Metal negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VJWQJCS/?tag=tolees-21'
 descuento: '30.58'
 average: '485.9'

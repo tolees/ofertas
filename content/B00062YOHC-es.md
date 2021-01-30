@@ -16,6 +16,7 @@ comparePrice: 87.3 EUR
 prodname: 'K & N rc-1820 Universal cromado filtro Coche y Moto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00062YOHC/?tag=tolees-21'
 descuento: '62.63'
 average: '31.845'

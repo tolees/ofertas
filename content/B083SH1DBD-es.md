@@ -16,6 +16,7 @@ comparePrice: 91.98 EUR
 prodname: 'K9CK Vitrina para 21319 Ideas Friends Central Perk  Caja de Presentación Protegidas del Polvo Vehículos Vitrinas de Exposición Compatible con Bloques de construcción  NO Incluido en el Modelo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083SH1DBD/?tag=tolees-21'
 descuento: '50.00'
 average: '40.662972972972966'

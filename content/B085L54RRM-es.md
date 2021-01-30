@@ -16,6 +16,7 @@ comparePrice: 16.18 EUR
 prodname: 'B Blesiya Decoración De Paisaje De Vivarium Reptil Box Holder Adorno Plantas De Hojas De Bambú Falsas - S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085L54RRM/?tag=tolees-21'
 descuento: '44.44'
 average: '8.99'

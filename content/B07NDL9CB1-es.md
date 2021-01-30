@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Skechers Men s Dynamight 2.0-fallford Trainers  Negro  Black Leather/Mesh/Pu/Trim Blk   6.5 UK  40 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDL9CB1/?tag=tolees-21'
 descuento: '30.03'
 average: '33.910000000000004'

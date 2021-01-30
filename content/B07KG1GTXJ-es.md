@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Puma Persist Xt Knit Zapatillas Deportivas para Interior Hombre   Puma Black-Puma White 03   39 EU  6 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG1GTXJ/?tag=tolees-21'
 descuento: '35.86'
 average: '38.45'

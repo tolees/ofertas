@@ -16,6 +16,7 @@ comparePrice: 14.09 EUR
 prodname: 'Ushuaia Polynésie Aceite de ducha con  flor monoi y tiare para mujer  piel normal  pack de 3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EICDZIK/?tag=tolees-21'
 descuento: '61.67'
 average: '5.805'

@@ -16,6 +16,7 @@ comparePrice: 119.9 EUR
 prodname: 'Tommy Hilfiger - Th Core Mini Bucket  Bolsos bandolera Mujer  Negro  Black   10x21x20.5 cm  W x H L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RS6SH5Y/?tag=tolees-21'
 descuento: '29.98'
 average: '83.95'

@@ -16,6 +16,7 @@ comparePrice: 4.56 EUR
 prodname: 'Set 5 Transpirable En Verano Bandas Boca Nariz Protección Mujer y Hombre Lavables Reutilizables Másc de Adultos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08HWBXP5T/?tag=tolees-21'
 descuento: '42.32'
 average: '2.63'

@@ -16,6 +16,7 @@ comparePrice: 21.5 EUR
 prodname: 'JCKSimpleLife DIY Pintura por NúMeros Ciervo de Nieve Pintura Pinturas Dibujo con Pinceles Decoración navideña Decoraciones Regalos  sin Marco  40x50cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DHV54NB/?tag=tolees-21'
 descuento: '30.28'
 average: '14.99'

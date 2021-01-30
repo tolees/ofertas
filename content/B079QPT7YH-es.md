@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'McAfee Total Protection 2020 - Antivirus | 5 Dispositivos | Suscripción de 1 año | PC/Mac/Android/Smartphones| Código de activación por correo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079QPT7YH/?tag=tolees-21'
 descuento: '70.05'
 average: '20.95'

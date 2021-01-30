@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'Babolat Defiance Lite 2019  Adultos Unisex  Multicolor  Talla Unica'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M9NN2L4/?tag=tolees-21'
 descuento: '40.68'
 average: '76.235'

@@ -16,6 +16,7 @@ comparePrice: 106.6 EUR
 prodname: 'Samblo S9915 Senchi - Armario Bajo de Cocina con 2 Puertas  Blanco  34 x 60 x 80 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XSM3FP3/?tag=tolees-21'
 descuento: '55.02'
 average: '47.95'

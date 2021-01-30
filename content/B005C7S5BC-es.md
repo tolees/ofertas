@@ -16,6 +16,7 @@ comparePrice: 67.11 EUR
 prodname: 'Stargate Atlantis - Die komplette Kollektion [Alemania] [DVD]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005C7S5BC/?tag=tolees-21'
 descuento: '28.19'
 average: '49.15'

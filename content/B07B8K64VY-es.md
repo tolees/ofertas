@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Call It a Night mask'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B8K64VY/?tag=tolees-21'
 descuento: '30.03'
 average: '6.445'

@@ -16,6 +16,7 @@ comparePrice: 106.47 EUR
 prodname: 'Crucial CT2K8G3S160BM - Kit de Memoria para Mac de 16 GB  8 GB x 2  DDR3/DDR3L  1600 MT/s  PC3-12800  SODIMM  240-Pines '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008LTBJFW/?tag=tolees-21'
 descuento: '27.83'
 average: '83.835'

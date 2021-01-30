@@ -16,6 +16,7 @@ comparePrice: 21.32 EUR
 prodname: 'Urban Classics Ladies 3-Tone Tape Leggings  Multicolor  Black/firered/White/Navy 01320   36 Talla del Fabricante: X-Small  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078KHPHKG/?tag=tolees-21'
 descuento: '47.65'
 average: '11.16'

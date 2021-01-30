@@ -16,6 +16,7 @@ comparePrice: 9.35 EUR
 prodname: 'Zeen Paper Xuan - Papel de arroz  35 x 25 cm  30 hojas   color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088BVKRR7/?tag=tolees-21'
 descuento: '40.00'
 average: '5.61'

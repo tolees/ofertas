@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'L Oréal Paris Age Perfect Nutrición Intensa - Crema Rica Reparadora de Noche para Pieles Maduras y Desnutridas - 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QK6HK6V/?tag=tolees-21'
 descuento: '39.13'
 average: '10.183333333333334'

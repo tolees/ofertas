@@ -16,6 +16,7 @@ comparePrice: 64.5 EUR
 prodname: 'Clarins Multi Active Crema de Noche  Piel Normal a Seca - 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B019XUFSXQ/?tag=tolees-21'
 descuento: '53.61'
 average: '31.338'

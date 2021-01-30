@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'PUMA Liga Core Chándal  Hombre  Peacoat/White  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07968WCDS/?tag=tolees-21'
 descuento: '33.18'
 average: '9.99'

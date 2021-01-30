@@ -16,6 +16,7 @@ comparePrice: 48.99 EUR
 prodname: 'Morpilot Multímetro Digital  Verdadero RMS 6000 Cuenta Multímetro Avanzado  Mide Voltaje AC/DC  corriente AC/DC  Resistencia  Continuidad  Capacitancia  Frecuencia  Diodos  Temperatura  Azul 2 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081GJJJVM/?tag=tolees-21'
 descuento: '48.99'
 average: '24.99'

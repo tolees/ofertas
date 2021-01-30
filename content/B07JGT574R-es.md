@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Qshare - Utensilios para bebés  cucharas con estuche de viaje seguro  cuchara de entrenamiento para niños pequeños con agarre fácil y función flexible'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JGT574R/?tag=tolees-21'
 descuento: '50.03'
 average: '9.99'

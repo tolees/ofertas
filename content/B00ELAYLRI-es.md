@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'TRIXES Almohadilla de Gel para teclados y Alfombrilla para el ratón con Soporte para la muñeca en Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ELAYLRI/?tag=tolees-21'
 descuento: '30.79'
 average: '10.99'

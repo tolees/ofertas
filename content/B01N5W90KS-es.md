@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Samsung Clear View Standing  Funda para smartphone Samsung Galaxy S8 Plus  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N5W90KS/?tag=tolees-21'
 descuento: '28.92'
 average: '35.47'

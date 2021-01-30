@@ -16,6 +16,7 @@ comparePrice: 153.55 EUR
 prodname: 'Fellowes Metal 25 - Encuadernadora manual de espiral metálico  uso ocasional'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NSPD79A/?tag=tolees-21'
 descuento: '34.89'
 average: '94.88333333333334'

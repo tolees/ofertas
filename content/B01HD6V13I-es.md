@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Salomon Evasion 2 Aero  Zapatillas de Senderismo para Hombre  Marrón  Vintage Kaki/Bungee Cord/Honey   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HD6V13I/?tag=tolees-21'
 descuento: '28.86'
 average: '63.64'

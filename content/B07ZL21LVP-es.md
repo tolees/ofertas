@@ -16,6 +16,7 @@ comparePrice: 52.42 EUR
 prodname: 'Fossil Reloj Analogico para Mujer de Cuarzo con Correa en Cuero Genuino ES4727'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZL21LVP/?tag=tolees-21'
 descuento: '30.03'
 average: '36.68'

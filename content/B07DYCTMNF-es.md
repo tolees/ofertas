@@ -16,6 +16,7 @@ comparePrice: 6.53 EUR
 prodname: 'ORYX 5071005 Fiambrera para Tortillas Redonda  plástico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DYCTMNF/?tag=tolees-21'
 descuento: '45.79'
 average: '3.54'

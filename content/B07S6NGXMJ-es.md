@@ -16,6 +16,7 @@ comparePrice: 37.04 EUR
 prodname: 'PUMA Radiate XT Pattern WN S  Zapatillas Deportivas para Interior para Mujer  Negro Black/Green Glimmer  38.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S6NGXMJ/?tag=tolees-21'
 descuento: '36.66'
 average: '23.46'

@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Liderpapel Greening - Papel Fotocopiadora  A4  80 Gramos  Paquete de 500 Hojas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ZIRY2AE/?tag=tolees-21'
 descuento: '66.85'
 average: '2.98'

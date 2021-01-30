@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'ANWIKE Cámara Web con micrófono Dual  cámara Web Full HD 1080P con Enfoque automático. Streaming Computer Web Camera para portátiles USB y videollamadas de Escritorio  conferencias'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088H5DLQH/?tag=tolees-21'
 descuento: '40.01'
 average: '36.49'

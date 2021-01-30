@@ -16,6 +16,7 @@ comparePrice: 349.95 EUR
 prodname: 'Fitbit Ionic  El Smartwatch Deportivo  Azulado/Gris Plateado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074KBLR8Y/?tag=tolees-21'
 descuento: '54.29'
 average: '159.52777777777777'

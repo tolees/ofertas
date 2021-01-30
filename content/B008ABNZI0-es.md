@@ -16,6 +16,7 @@ comparePrice: 118.51 EUR
 prodname: 'StarTech.com USB110EXT2 - Extensor de 1 Puerto USB por Cable Ethernet  40 m de Alcance'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008ABNZI0/?tag=tolees-21'
 descuento: '32.46'
 average: '80.04'

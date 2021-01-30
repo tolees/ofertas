@@ -16,6 +16,7 @@ comparePrice: 33.95 EUR
 prodname: 'Dickie - Harry Potter - Coche Ford Anglia 1:24     3185002 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PMKY68T/?tag=tolees-21'
 descuento: '37.23'
 average: '21.31'

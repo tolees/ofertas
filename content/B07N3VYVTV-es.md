@@ -16,6 +16,7 @@ comparePrice: 11.9 EUR
 prodname: 'SYOSS - Oleo Intense Coloración Permanente Sin Amoníaco  - Tono 5.92 Rojo Intenso - 2 uds'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N3VYVTV/?tag=tolees-21'
 descuento: '30.25'
 average: '8.3'

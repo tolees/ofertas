@@ -16,6 +16,7 @@ comparePrice: 13.95 EUR
 prodname: 'PCCASE EP-500 Unidad de - Fuente de alimentación  500 W  220 V  50-60 Hz  5 A  12V +3.3V +5V +5Vsb 12V  20 A   Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B012OETUXM/?tag=tolees-21'
 descuento: '32.97'
 average: '9.35'

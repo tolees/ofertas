@@ -16,6 +16,7 @@ comparePrice: 31.25 EUR
 prodname: 'kinder Fluff - Protector de Nieve y Parasol para Coche  8 Bordes magnéticos con diseño Anti arañazos  Impermeable y Resistente al Viento  Protector de Parabrisas Grande '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZGKQSTJ/?tag=tolees-21'
 descuento: '40.48'
 average: '18.6'

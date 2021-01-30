@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Golvery Metal silbato de árbitro  entrenador silbato – acero inoxidable – extra alto con cordón para escuela deportes  Fútbol  fútbol  baloncesto y Lifeguard protección  8 de unidades …'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XPD5NJQ/?tag=tolees-21'
 descuento: '40.02'
 average: '11.99'

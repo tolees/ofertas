@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'Pioneer MVH-S110UB Autoradio  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H7RSGJB/?tag=tolees-21'
 descuento: '30.16'
 average: '47.66'

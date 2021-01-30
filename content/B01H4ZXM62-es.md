@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Russell Hobbs 23590-56 Plancha de vapor  2400 W  color azul y blanco  240 milliliters  Cerámica'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01H4ZXM62/?tag=tolees-21'
 descuento: '33.34'
 average: '20.434444444444445'

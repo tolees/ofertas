@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'adidas Superstar J Zapatillas de Gimnasia Unisex Niños  Blanco  Ftwr White/Ftwr White/Legend Marine   36 2/3 EU  4 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2CYHK1/?tag=tolees-21'
 descuento: '53.57'
 average: '32.48'

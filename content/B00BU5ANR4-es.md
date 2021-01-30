@@ -16,6 +16,7 @@ comparePrice: 11.56 EUR
 prodname: 'Medipaq Rodillera Protectora de Rótula y Ligamientos – Cinta Rotuliana con Compresión y 4x Imanes Potentes para el Alivio del Dolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BU5ANR4/?tag=tolees-21'
 descuento: '39.27'
 average: '7.02'

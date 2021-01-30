@@ -16,6 +16,7 @@ comparePrice: 33.99 EUR
 prodname: 'Aibesser - Juego de pistones de pintura al fuego para madera  73 unidades  con temperatura ajustable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RK6S5XC/?tag=tolees-21'
 descuento: '58.84'
 average: '13.99'

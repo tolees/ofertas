@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Energy Timeless Vision  Zapatillas para Mujer  Blanco Blanco Cuero Rojo Navy Trim Wml  41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07STXK232/?tag=tolees-21'
 descuento: '49.86'
 average: '35.07'

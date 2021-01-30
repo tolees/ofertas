@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Olimp Sport Nutrition Suplemento Alimenticio Vita-Min Multiple Sport - 60 Cápsulas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001FFCK3E/?tag=tolees-21'
 descuento: '29.57'
 average: '10.53'

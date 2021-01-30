@@ -16,6 +16,7 @@ comparePrice: 169.05 EUR
 prodname: 'Amazfit Stratos Reloj Inteligente Multideporte con VO2max  frecuencia cardíaca y Seguimiento de Actividad  GPS  Resistencia al Agua de 5 ATM  música sin teléfono  A1619  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CYH6H4Z/?tag=tolees-21'
 descuento: '25.56'
 average: '125.84'

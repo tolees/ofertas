@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Hama pp-245 - Reloj de pared digital  color negro  plástico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003PFBLOQ/?tag=tolees-21'
 descuento: '26.61'
 average: '25.68'

@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Razer Cynosa Chroma - Teclado Gaming con iluminación Razer Chroma con LED RGB  USB  Alámbrico  16 8 millones de opciones de color personalizables  ES Layout  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0781VZZBW/?tag=tolees-21'
 descuento: '31.25'
 average: '59.84375'

@@ -16,6 +16,7 @@ comparePrice: 249.95 EUR
 prodname: 'Cybex Silver Juno 2-Fix 517000953 Silla de Coche  Grupo 1  con Isofix  Negro  Pure Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZ3T6AV/?tag=tolees-21'
 descuento: '32.01'
 average: '169.95'

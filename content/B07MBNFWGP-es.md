@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Victoria Aire Nylon/Serraje PU  Zapatillas Unisex Adulto  Blanco  Blanco 20   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MBNFWGP/?tag=tolees-21'
 descuento: '49.78'
 average: '34.65'

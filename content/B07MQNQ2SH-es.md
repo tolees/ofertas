@@ -16,6 +16,7 @@ comparePrice: 16.9 EUR
 prodname: 'Cerdá 2200003935 Toalla Polyester Batman  Negro  70x140cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MQNQ2SH/?tag=tolees-21'
 descuento: '41.12'
 average: '9.95'

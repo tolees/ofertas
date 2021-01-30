@@ -16,6 +16,7 @@ comparePrice: 80.99 EUR
 prodname: 'Raclette Grill Parrilla Electrico per 8 Persone Portatil Barbacoa Electrica Plancha Cocina con 8 Mini Sartenes e 4 Espátulas de Madera Parrillas Electricas Control de Temperatura Pascua Variable 1300W'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XKZMM9C/?tag=tolees-21'
 descuento: '32.10'
 average: '54.99'

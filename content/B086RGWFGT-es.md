@@ -16,6 +16,7 @@ comparePrice: 29.42 EUR
 prodname: 'GHONLZIN Ajedrez para Niños  Ice Ball Battle Game Juego de Tablero de Ajedrez Interactivo para Padres e Hijos Juego Bumper Chess Juego de Escritorio para Niños  Niños  Adultos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086RGWFGT/?tag=tolees-21'
 descuento: '28.65'
 average: '19.474999999999998'

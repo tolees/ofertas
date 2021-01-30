@@ -16,6 +16,7 @@ comparePrice: 9.43 EUR
 prodname: 'ZOZOSEP Decoración para el hogar Colgante Adorno-Nube Linda y Gota de Lluvia Decoración Colgante 3D Nube estéreo y Gota de Lluvia Paño Suave para la Escena de la habitación del bebé'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZKD7JBG/?tag=tolees-21'
 descuento: '54.29'
 average: '4.31'

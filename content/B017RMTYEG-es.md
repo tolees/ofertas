@@ -16,6 +16,7 @@ comparePrice: 20.77 EUR
 prodname: 'PET MAGASIN - Huesos de Cuero Crudo Natural – Delicias masticables para Perros Altamente proteicas y Bajas en Grasa para los Dientes y el Comportamiento de los Perros sanos  10 Unidades  Medio '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017RMTYEG/?tag=tolees-21'
 descuento: '30.96'
 average: '13.863333333333333'

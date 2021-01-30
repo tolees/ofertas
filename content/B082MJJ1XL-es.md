@@ -16,6 +16,7 @@ comparePrice: 324.99 EUR
 prodname: 'Klarstein Beer Baron nevera de bebidas - 46 litros de volumen  eficiencia energética de clase A+  temperatura de 0 a 10 °C  panel táctil  estante de rejilla regulable  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082MJJ1XL/?tag=tolees-21'
 descuento: '35.39'
 average: '209.99'

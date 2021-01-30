@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Sebago Classic Dan  Náuticos para Hombre  Negro 902  39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P8PV2HC/?tag=tolees-21'
 descuento: '29.67'
 average: '139.95'

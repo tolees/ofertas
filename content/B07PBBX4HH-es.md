@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Funko- Pop Figura de Vinilo. Películas. Teen Wolf-Scott Coleccionable  Multicolor  41400 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PBBX4HH/?tag=tolees-21'
 descuento: '45.63'
 average: '8.975714285714286'

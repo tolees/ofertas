@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Tucano-Bolsa para Ordenador Hombre y Mujer con Bolsillo para Ordenador Portátil de 13 Pulgadas MacBook de 13"  iPad y Tableta Universal. Bolsa de Oficina y Universidad con Compartimento para PC.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076STWCPQ/?tag=tolees-21'
 descuento: '47.92'
 average: '25.796666666666667'

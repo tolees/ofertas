@@ -16,6 +16,7 @@ comparePrice: 78.0 EUR
 prodname: 'Le Coq Sportif COURTSTAR  Zapatillas para Hombre  Blanco  Optical White/Grey Denim Optical White/Grey Denim   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MK82DQD/?tag=tolees-21'
 descuento: '50.00'
 average: '39.0'

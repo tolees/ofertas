@@ -16,6 +16,7 @@ comparePrice: 55.95 EUR
 prodname: 'Keter -  Mini huerto en casa Raised Garden Ben con marcadores  Color marrón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004RHVJYS/?tag=tolees-21'
 descuento: '50.01'
 average: '26.525'

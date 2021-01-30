@@ -16,6 +16,7 @@ comparePrice: 120.95 EUR
 prodname: 'Honey Bear Cajón de efectivo de 16 pulgadas  5 compartimentos para billetes y 8 para monedas  compatible con impresoras de recibos/caja registradora de punto de venta de 12 V con interfaz RJ11  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VRKIZBI/?tag=tolees-21'
 descuento: '38.03'
 average: '74.95'

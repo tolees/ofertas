@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Piku Twit-Twoo - Trona para bebés con bandeja regulable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ISTNOO4/?tag=tolees-21'
 descuento: '27.55'
 average: '51.641666666666666'

@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Relaxdays - Aspersor Riego Regulable  78 metros cuadrados  Negro-Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CP7NGKY/?tag=tolees-21'
 descuento: '25.02'
 average: '11.99'

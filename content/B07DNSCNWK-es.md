@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Mars Gaming MH318 - Auriculares gaming  surround 7.1  iluminación RGB Flow  diadema de suspensión  drivers neodimio 50mm  tecnología SENSUS  micrófono de perfil bajo  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DNSCNWK/?tag=tolees-21'
 descuento: '33.14'
 average: '21.96'

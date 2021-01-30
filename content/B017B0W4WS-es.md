@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Tommy Hilfiger Bralette Sujetador Deportivo  Blanco  WHITE 100   40  talla del fabricante: LG  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017B0W4WS/?tag=tolees-21'
 descuento: '39.83'
 average: '17.99'

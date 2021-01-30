@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'VARLION Avant TI 8.8 Naranja 2020'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z3NNL3G/?tag=tolees-21'
 descuento: '53.05'
 average: '69.95'

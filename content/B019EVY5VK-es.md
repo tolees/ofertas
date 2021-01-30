@@ -16,6 +16,7 @@ comparePrice: 68.9 EUR
 prodname: 'Mobicool G30 AC/DC - Nevera termoeléctrica portátil  conexiones 12 / 230 V  29 litros de capacidad  con USB para carga de dispositivos  color rojo/gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B019EVY5VK/?tag=tolees-21'
 descuento: '30.57'
 average: '57.78'

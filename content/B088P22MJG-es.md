@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Slabo Lámina de Vidrio Premium para Amazon Fire HD 8 Tablet  2020  | HD 8 Plus Tablet  2020  Protectora Protector de Pantalla Templado Tempered Glass Claro dureza 9H'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088P22MJG/?tag=tolees-21'
 descuento: '45.50'
 average: '5.99'

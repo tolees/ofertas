@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'HBF Multicolor 50 Clips Pelo Niña Metal Pinzas Pelo Bebe Niña Patrón De Dibujos Animados Y Fruta Horquillas De Pelo Infantiles'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078Y1MM9S/?tag=tolees-21'
 descuento: '42.89'
 average: '7.99'

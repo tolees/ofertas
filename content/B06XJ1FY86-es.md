@@ -16,6 +16,7 @@ comparePrice: 199.9 EUR
 prodname: 'Corsair K95 RGB Platinum - Teclado mecánico Gaming  Cherry MX Brown  retroiluminación multicolor RGB  QWERTY Español   negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XJ1FY86/?tag=tolees-21'
 descuento: '31.61'
 average: '133.42000000000002'

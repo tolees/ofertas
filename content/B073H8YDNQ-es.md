@@ -16,6 +16,7 @@ comparePrice: 5.95 EUR
 prodname: 'Air Wick Ambientador Freshmatic Completo Life Scents Delicias de Verano nuevo aparato'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073H8YDNQ/?tag=tolees-21'
 descuento: '49.92'
 average: '2.98'

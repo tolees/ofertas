@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'Auriculares Inalambricos Bluetooth 5.0  Donerton IPX8 Impermeable Auriculares Bluetooth con 3500mAh Caja de Carga  Estéreo Mini Twins In-Ear Auriculares con micrófono  Pantalla LED & Control Tactil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081SBW6L5/?tag=tolees-21'
 descuento: '79.29'
 average: '29.24'

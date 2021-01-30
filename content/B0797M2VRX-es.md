@@ -16,6 +16,7 @@ comparePrice: 17.95 EUR
 prodname: 'Nike W Nk Dry Acdmy18 Top SS T-Shirt  Mujer  White/Black/ Black   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0797M2VRX/?tag=tolees-21'
 descuento: '30.08'
 average: '12.55'

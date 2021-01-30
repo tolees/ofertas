@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Tommy Hilfiger Simon Skinny Glfbst Jeans  Azul  Glen Fresh Blue Stretch 911   95  Talla del Fabricante: 80  para Bebés'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JZ4GKYZ/?tag=tolees-21'
 descuento: '44.96'
 average: '36.805'

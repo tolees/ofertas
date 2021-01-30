@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Eritritol 100 % natural 1 kg | Sustituto del azúcar con cero calorías'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BDTLL7W/?tag=tolees-21'
 descuento: '28.59'
 average: '12.32125'

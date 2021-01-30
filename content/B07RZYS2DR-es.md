@@ -16,6 +16,7 @@ comparePrice: 186.3 EUR
 prodname: 'Love MoschinoJc4089pp1aMujerBolsos totesPlateado  Argento 12x26x40 centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RZYS2DR/?tag=tolees-21'
 descuento: '42.59'
 average: '101.97333333333333'

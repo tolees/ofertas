@@ -16,6 +16,7 @@ comparePrice: 21.6 EUR
 prodname: 'Brillante Benefit Legumbres Quinoa Verduras 250G - [Pack De 16] - Total 4 Kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CQ47NSF/?tag=tolees-21'
 descuento: '25.93'
 average: '18.588571428571427'

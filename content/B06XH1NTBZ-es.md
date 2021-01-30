@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Tefal Actifry Original Snaking FZ711815 -  Freidoras sin aceite  hasta 1 kg de capacidad  con cocción homogénea  partes extraíbles aptas para lavavajillas  incluye accesorio snaking'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XH1NTBZ/?tag=tolees-21'
 descuento: '30.50'
 average: '139.0'

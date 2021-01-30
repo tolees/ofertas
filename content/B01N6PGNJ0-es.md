@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'dockers Alpha Original Skinny-Lite Pantalones  Marrón  New British Khaki   34W / 30L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N6PGNJ0/?tag=tolees-21'
 descuento: '36.89'
 average: '50.49'

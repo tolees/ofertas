@@ -16,6 +16,7 @@ comparePrice: 18.79 EUR
 prodname: 'PUMA Studio Q4 Tight Mallas Deporte  Mujer  Black  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QHL18C7/?tag=tolees-21'
 descuento: '25.49'
 average: '14.0'

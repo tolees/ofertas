@@ -16,6 +16,7 @@ comparePrice: 16.9 EUR
 prodname: 'BigBen RR15METRO - Radio despertador  pantalla LED de 2"  función siesta  con doble alarma y función snooze  altavoz integrado   diseño de Paris  multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LAZRVU0/?tag=tolees-21'
 descuento: '34.91'
 average: '11.0'

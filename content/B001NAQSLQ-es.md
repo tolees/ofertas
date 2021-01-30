@@ -16,6 +16,7 @@ comparePrice: 250.42 EUR
 prodname: 'K & N ha-4506-t powerlid Airbox Cover Moto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001NAQSLQ/?tag=tolees-21'
 descuento: '54.67'
 average: '113.52'

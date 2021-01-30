@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'E·Durable Soldador estaño 60W 220V Kit del Soldador 200 ℃ a 450℃ 5pcs Puntas Diferentes Alambre de Soldadura Soporte，Cortador，Pinzas，destornillador'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MW64Z9H/?tag=tolees-21'
 descuento: '47.64'
 average: '10.99'

@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Wrangler Icons Pantalones  Azul  Blue 6 Months 923   30W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TVKF3DH/?tag=tolees-21'
 descuento: '63.06'
 average: '30.1425'

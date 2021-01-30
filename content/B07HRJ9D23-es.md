@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Luxbon 36 Hilos de Coser de Colors Surtidas 250 Yardas Poliéster Conjunto de Hilos Costura para Bordado Tejido  Costura a Mano  Maquina Coser'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HRJ9D23/?tag=tolees-21'
 descuento: '33.36'
 average: '9.99'

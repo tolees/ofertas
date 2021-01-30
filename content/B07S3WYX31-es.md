@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Asics Gel-Bondi  Zapatillas de Running para Mujer  Multicolor  Breeze/Breeze 700   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S3WYX31/?tag=tolees-21'
 descuento: '66.96'
 average: '28.08'

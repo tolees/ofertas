@@ -16,6 +16,7 @@ comparePrice: 17.75 EUR
 prodname: 'Anne Moller ADN40 Belage Yeux Creme Antirides Contour Des Yeux Crema Ojos - 15 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016D55WPS/?tag=tolees-21'
 descuento: '59.49'
 average: '7.19'

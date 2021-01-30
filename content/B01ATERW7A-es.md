@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'The North Face Exploration CNVRT  Pantalones Convertibles  Hombre  Negro  TNF Black   30  REG '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ATERW7A/?tag=tolees-21'
 descuento: '46.54'
 average: '50.79'

@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'Eono Essentials Clear Toiletry Bag Bolsa de Equipaje de Viaje Make up Cosmetic Bag para Mujeres Hombre Kids Waterproof Wash Wash Bags Organizador Blue Two Pack'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D5RRPCP/?tag=tolees-21'
 descuento: '58.64'
 average: '11.99'

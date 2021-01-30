@@ -16,6 +16,7 @@ comparePrice: 60.73 EUR
 prodname: 'Under Armour UA W Charged Bandit 5  Zapatillas de Running para Mujer  Gris  Halo Gray/Purple Haze/White   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NNTMVL7/?tag=tolees-21'
 descuento: '28.75'
 average: '43.27'

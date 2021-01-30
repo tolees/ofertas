@@ -16,6 +16,7 @@ comparePrice: 23.86 EUR
 prodname: 'Banda Elástica Kit Bandas de Resistencia  10 / 15uds Cuerdas de Ejercicio Cintas de Látex para Entrenamiento   Color : 10pcs  '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077K34CLJ/?tag=tolees-21'
 descuento: '43.88'
 average: '13.39'

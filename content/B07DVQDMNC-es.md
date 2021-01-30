@@ -16,6 +16,7 @@ comparePrice: 180.0 EUR
 prodname: 'New Balance Rubix  Zapatillas de Running para Mujer  Blanc  40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DVQDMNC/?tag=tolees-21'
 descuento: '81.02'
 average: '34.42333333333333'

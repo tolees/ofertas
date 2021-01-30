@@ -16,6 +16,7 @@ comparePrice: 22.9 EUR
 prodname: 'Reposacabezas para coche  apto para tablets de 7 pulgadas  con funda de silicona  de la marca Wanpool'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074DVZ2T9/?tag=tolees-21'
 descuento: '28.82'
 average: '16.3'

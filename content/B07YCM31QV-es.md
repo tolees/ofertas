@@ -16,6 +16,7 @@ comparePrice: 9.79 EUR
 prodname: 'Dye Hair Comb  5 piezas Professional Hair Dying Tool Peluquería Gel Salon Coloring Brush Brush para tintes de cabello y usos de salón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YCM31QV/?tag=tolees-21'
 descuento: '29.62'
 average: '6.89'

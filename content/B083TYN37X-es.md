@@ -16,6 +16,7 @@ comparePrice: 10.18 EUR
 prodname: 'MarinoBIRD H6 Patrón Agrietado Auriculares Luminosos para Videojuegos Auriculares súper Bajos con micrófono Luz LED Colorida para PC para teléfono - Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083TYN37X/?tag=tolees-21'
 descuento: '33.50'
 average: '6.77'

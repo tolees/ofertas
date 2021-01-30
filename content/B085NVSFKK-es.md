@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'DoGeek Zapato Seguridad Camo Calzado Seguridad Hombre con Punta de Acero  Antideslizante Transpirables  Unisex  Negro  44'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085NVSFKK/?tag=tolees-21'
 descuento: '34.79'
 average: '29.99'

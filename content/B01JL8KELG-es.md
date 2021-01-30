@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Funko - POP! Bobble Colección Marvel - Figura Doctor Extraño  9744 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JL8KELG/?tag=tolees-21'
 descuento: '37.42'
 average: '9.38'

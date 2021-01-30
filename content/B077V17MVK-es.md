@@ -16,6 +16,7 @@ comparePrice: 22.9 EUR
 prodname: 'Kipling Creativity S  Cartera para Mujer  Marrón  True Beige   14.5x9.5x5 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077V17MVK/?tag=tolees-21'
 descuento: '26.33'
 average: '14.543333333333335'

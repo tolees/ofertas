@@ -16,6 +16,7 @@ comparePrice: 110.7 EUR
 prodname: 'Love MoschinoJc4248pp0aMujerCarteras de manoNegro  Black Calf 7x13x22 Centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V4M3WQC/?tag=tolees-21'
 descuento: '36.65'
 average: '65.18666666666667'

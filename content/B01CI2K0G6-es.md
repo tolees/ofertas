@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Moulinex PC300B Exprimidor eléctrico con doble  filtro regulador de pulpa  jarra transparente desmontable de 0.6 L  cono desmontables  apto para lavavajillas  25 W'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CI2K0G6/?tag=tolees-21'
 descuento: '33.31'
 average: '18.0'

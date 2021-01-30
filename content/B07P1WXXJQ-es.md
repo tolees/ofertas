@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Ombar Teclado Mecánico Gaming  105 Teclas y Switches Blue  con Cable y 8 Colores RGB Retroiluminado  Anti-Ghosting-Versión Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P1WXXJQ/?tag=tolees-21'
 descuento: '44.46'
 average: '37.0525'

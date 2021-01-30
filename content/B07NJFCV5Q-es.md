@@ -16,6 +16,7 @@ comparePrice: 56.08 EUR
 prodname: 'Casio Reloj Digital para Mujer de Cuarzo con Correa en Resina LWS-1000H-8AVEF'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJFCV5Q/?tag=tolees-21'
 descuento: '59.84'
 average: '25.71'

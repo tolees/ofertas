@@ -16,6 +16,7 @@ comparePrice: 30.02 EUR
 prodname: 'Silverline 633400 - Carretilla con caja plegable  25 kg '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002QRYDN0/?tag=tolees-21'
 descuento: '30.28'
 average: '20.77'

@@ -16,6 +16,7 @@ comparePrice: 32.63 EUR
 prodname: 'EC67-R11 Módulo CMOS Red de Internet Cámara de Video HD Cámara de vigilancia Cámara IP Cámara inalámbrica Cámara de Seguridad-Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FYC756F/?tag=tolees-21'
 descuento: '33.50'
 average: '21.7'

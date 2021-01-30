@@ -16,6 +16,7 @@ comparePrice: 52.18 EUR
 prodname: 'New Balance Fresh Foam Cruz Hoody Pack m  Zapatillas de Entrenamiento para Mujer  Negro  Schwarz/Weiß Schwarz/Weiß   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XRTS7W7/?tag=tolees-21'
 descuento: '36.95'
 average: '32.9'

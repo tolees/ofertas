@@ -16,6 +16,7 @@ comparePrice: 1399.99 EUR
 prodname: 'MSI Alpha 15 A3DDK-001XES - Ordenador Portátil Gaming de 15.6" 120Hz FullHD  AMD Ryzen 7-3750H  16GB RAM  512GB SSD  Radeon RX5500M-4GB  sin Sistema Operativo  negro - teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZRX5M3D/?tag=tolees-21'
 descuento: '33.64'
 average: '942.329166666667'

@@ -16,6 +16,7 @@ comparePrice: 10.95 EUR
 prodname: 'OrthoCare S.Fitness - Rodillera Soporte y compresión para vida diaria y deporte. Perfecta para correr  Crossfit  Halterofilia  Esquí y toda clase de deportes. UNISEX.  XL '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NAH31RX/?tag=tolees-21'
 descuento: '27.40'
 average: '7.283333333333333'

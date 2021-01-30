@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Helly Hansen Vancouver Jacket  Hombre  Black  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017XP1HOM/?tag=tolees-21'
 descuento: '54.09'
 average: '64.28'

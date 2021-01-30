@@ -16,6 +16,7 @@ comparePrice: 49.21 EUR
 prodname: 'Orbegozo WF 0242 Ventilador de pared  40 W  3 Velocidades  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007PRW9S2/?tag=tolees-21'
 descuento: '31.05'
 average: '33.620000000000005'

@@ -16,6 +16,7 @@ comparePrice: 13.89 EUR
 prodname: 'ysister Album de Fotos  Our Adventure Book  Álbum de Fotos Hecho a Mano DIY Family Scrapbook  Scrapbook  19 * 27 cm  80 Páginas  40 Hojas  para Aniversario Familiar Boda Cumpleaños Navidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0826NKLZ1/?tag=tolees-21'
 descuento: '28.44'
 average: '9.94'

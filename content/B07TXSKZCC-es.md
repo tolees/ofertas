@@ -16,6 +16,7 @@ comparePrice: 15.98 EUR
 prodname: 'PMFS Reloj Inteligente Relojes para niños Bambini para niñas niños Deporte Bracciale Pulsera Bambino Banda Inteligente Monitor de Fitness Reloj Inteligente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TXSKZCC/?tag=tolees-21'
 descuento: '58.32'
 average: '12.135'

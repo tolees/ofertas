@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'devolo Magic 2 LAN - Extensión PLC y Enchufe  2400 Mbps LAN'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GTD5SBC/?tag=tolees-21'
 descuento: '47.47'
 average: '41.97'

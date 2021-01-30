@@ -16,6 +16,7 @@ comparePrice: 138.0 EUR
 prodname: 'Dormio Zafiro - Colchón viscoelástico  Blanco  105 x 190 x 21 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016AFQA7K/?tag=tolees-21'
 descuento: '44.83'
 average: '93.25999999999999'

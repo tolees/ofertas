@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Mr. Wonderful 8436557692085 - Batería Externa de 10.000 mAh con diseño Batidos  Color Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KMP1BXS/?tag=tolees-21'
 descuento: '33.96'
 average: '23.08'

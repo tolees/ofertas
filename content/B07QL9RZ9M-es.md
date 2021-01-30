@@ -16,6 +16,7 @@ comparePrice: 19.45 EUR
 prodname: 'Targus Click-In 20 1 cm  7.9"  Folio Negro - Fundas para Tablets  Folio  Apple  iPad Mini 4  3  2  20 1 cm  7.9"   280 g  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QL9RZ9M/?tag=tolees-21'
 descuento: '40.41'
 average: '11.59'

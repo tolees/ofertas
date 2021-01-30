@@ -16,6 +16,7 @@ comparePrice: 16.0 EUR
 prodname: 'FOGAWA 380-400Pcs Cuentas de Madera Redondas Colores Kit Abalorios Madera Perlas de Madera Cuentas para Pulseras Bolas Madera Manualidades para Collares Joyas con Caja y Cuerdas 7 x 6mm 10 Colores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MTBLV21/?tag=tolees-21'
 descuento: '37.56'
 average: '9.99'

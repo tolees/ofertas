@@ -16,6 +16,7 @@ comparePrice: 53.76 EUR
 prodname: 'Öuesen LED 24W lámpara de techo resistente al agua moderna LED luz de techo Cuadrado delgada 2050lm Blanco frío 5000K para baño Dormitorio Cocina Sala de estar Comedor Balcón Pasillo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0785NXXKL/?tag=tolees-21'
 descuento: '29.33'
 average: '38.19'

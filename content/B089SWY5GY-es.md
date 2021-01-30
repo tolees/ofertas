@@ -16,6 +16,7 @@ comparePrice: 13.98 EUR
 prodname: 'Grborn Micrófono de sobremesa USB 360° Soporte de micrófono Ajustable micrófono de grabación de Voz Hablar para PC Mac con un Puerto USB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089SWY5GY/?tag=tolees-21'
 descuento: '50.00'
 average: '11.65'

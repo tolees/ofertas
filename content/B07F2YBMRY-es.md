@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Palladium Pallabrouse Baggy  Zapatillas Altas para Hombre  Negro  Black/Black 466   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F2YBMRY/?tag=tolees-21'
 descuento: '30.02'
 average: '62.95'

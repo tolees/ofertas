@@ -16,6 +16,7 @@ comparePrice: 10.0 EUR
 prodname: 'Funko- Pop Rocks-Def Leppard-Rick Allen Collectible Toy  Multicolor  40127 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TYQ65T8/?tag=tolees-21'
 descuento: '33.30'
 average: '6.67'

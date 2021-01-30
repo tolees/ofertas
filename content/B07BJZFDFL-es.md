@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'NOVECASA Pantalones Cortos Suana Deportivos Mujer de Neopreno Sauna Pants Alta Cintura para Sudoración Quema Grasa Adelgazante  2XL  Pantalones Cortos '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BJZFDFL/?tag=tolees-21'
 descuento: '39.28'
 average: '13.96'

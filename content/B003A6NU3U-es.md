@@ -16,6 +16,7 @@ comparePrice: 399.0 EUR
 prodname: 'Sigma DC - Objetivo para Nikon  17-50mm  f/2.8  estabilizador  77 mm   Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003A6NU3U/?tag=tolees-21'
 descuento: '26.09'
 average: '308.5627272727273'

@@ -16,6 +16,7 @@ comparePrice: 35.32 EUR
 prodname: 'Mono de bebé Promini para bebé  superhéroe futuro justo como mamá  body de bebé de una sola pieza  el mejor regalo para bebé'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086YVD68W/?tag=tolees-21'
 descuento: '61.33'
 average: '13.66'

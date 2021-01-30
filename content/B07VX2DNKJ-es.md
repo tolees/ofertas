@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Jojoin Agua Dibujo Pintura 120x90 cm  Alfombra de Agua Doodle  Esteras de Agua Doodle  1 x Caja  3 × Foca Animal  4 × Pluma Mágica  5 × Molde Animal  ect...'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VX2DNKJ/?tag=tolees-21'
 descuento: '51.44'
 average: '20.32333333333333'

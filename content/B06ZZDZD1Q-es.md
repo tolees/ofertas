@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'HAPPERS Puff Pelota Polipiel Indoor Fucsia'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06ZZDZD1Q/?tag=tolees-21'
 descuento: '37.43'
 average: '49.99'

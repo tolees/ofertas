@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Adidas Superstar Crib  Zapatillas Unisex Bebé  Multicolor  Blanco/Negro   18 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GHFGUSW/?tag=tolees-21'
 descuento: '29.99'
 average: '24.47'

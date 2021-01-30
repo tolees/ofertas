@@ -16,6 +16,7 @@ comparePrice: 96.9 EUR
 prodname: 'BCHE Electroestimulador Muscular Abdominales Masajeador Eléctrico Cinturón  10 Niveles & 6 Modos  Estimulador Muscular Ejercitar Abdomen/Brazo/Piernas/Cintura  Hombre/Mujer '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MQDBHBW/?tag=tolees-21'
 descuento: '72.24'
 average: '57.9'

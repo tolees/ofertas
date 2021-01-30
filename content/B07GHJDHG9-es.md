@@ -16,6 +16,7 @@ comparePrice: 21.22 EUR
 prodname: 'Espejo retrovisor para coche de bebé para interior  espejo de coche con ventosa  360 grados parte trasera del asiento trasero del coche espejo retrovisor para niños negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GHJDHG9/?tag=tolees-21'
 descuento: '52.92'
 average: '9.99'

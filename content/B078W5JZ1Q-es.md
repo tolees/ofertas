@@ -16,6 +16,7 @@ comparePrice: 109.0 EUR
 prodname: '9Tong Reloj Inteligente para Niños con GPS  Reloj Inteligente para Niños con Rastreador GPS y Soporte SIM gsm con Pantalla Táctil  Llamadas de Emergencia'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078W5JZ1Q/?tag=tolees-21'
 descuento: '62.39'
 average: '40.99'

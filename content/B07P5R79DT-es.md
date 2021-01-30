@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'WERNNSAI Mantel del Camión - 2 PCS 110 x 180cm Fiesta Mantel Desechable de Plástico Impreso  Artículos de Fiesta para Niños Muchachos Cumpleaños Construcción Decoraciones'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P5R79DT/?tag=tolees-21'
 descuento: '50.03'
 average: '7.99'

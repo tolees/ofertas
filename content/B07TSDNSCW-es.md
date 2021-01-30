@@ -16,6 +16,7 @@ comparePrice: 18.25 EUR
 prodname: 'Rivenbert Flotadores para Nadar  Manguitos inflables para niños  Mangas  tamaño Grande  Peso 15-30kg by'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TSDNSCW/?tag=tolees-21'
 descuento: '60.00'
 average: '7.3'

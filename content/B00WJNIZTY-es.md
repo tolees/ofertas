@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Philips Avent SCF551/05 - Vaso con boquilla de silicona para niño  válvula antigoteo  sin BPA  para 6 meses  200 ml  color verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00WJNIZTY/?tag=tolees-21'
 descuento: '40.06'
 average: '4.19'

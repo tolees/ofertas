@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'WMF Termo - Impulse Negro 0 35 L  acero inoxidable cromargan 18/10  1L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06VSVMY8M/?tag=tolees-21'
 descuento: '35.02'
 average: '13.269411764705884'

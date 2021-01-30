@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Nike Benassi JDI  Slide Sandal Mens  Black/Metallic Gold  40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07538WDGV/?tag=tolees-21'
 descuento: '57.65'
 average: '11.01'

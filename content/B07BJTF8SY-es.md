@@ -16,6 +16,7 @@ comparePrice: 74.99 EUR
 prodname: 'Philips Barbero con Sistema de aspiración SBT720/15 Set Recorte Facial  Negro  Plata  Normal'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BJTF8SY/?tag=tolees-21'
 descuento: '39.99'
 average: '51.60833333333333'

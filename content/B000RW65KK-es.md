@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Dyson - Kit de accesorios para aspiradora de mano'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000RW65KK/?tag=tolees-21'
 descuento: '53.00'
 average: '43.73666666666667'

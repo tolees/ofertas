@@ -16,6 +16,7 @@ comparePrice: 19.0 EUR
 prodname: 'Singer BSM 203 Quita pelusas  Plastic  Azul  Gris  Color Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000UGWRPA/?tag=tolees-21'
 descuento: '42.63'
 average: '11.19857142857143'

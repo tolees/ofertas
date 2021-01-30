@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Nike Downshifter 9  Zapatillas de Running para Hombre  Azul  Midnight Navy/Pure Platinum/Dk Obsidian/Black/White 401   38.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H81GSB1/?tag=tolees-21'
 descuento: '52.53'
 average: '28.48'

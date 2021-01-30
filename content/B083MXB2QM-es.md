@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Mardozon Pulseras para Xiaomi Mi Band 3/4  Impermeable Coloridos Transpirable  Material de TPU Correa para Xiaomi Mi Band 3 /Mi Band 4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083MXB2QM/?tag=tolees-21'
 descuento: '35.31'
 average: '10.99'

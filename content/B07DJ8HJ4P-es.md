@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Utensilios Cocina de Silicona - 10+1Piezas Menaje Cocina Utensilios - Utensilios de Cocina Antiadherente  Resistentes al Calor y Duradero'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DJ8HJ4P/?tag=tolees-21'
 descuento: '40.24'
 average: '10.75'

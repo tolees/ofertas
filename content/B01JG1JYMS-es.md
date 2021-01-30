@@ -16,6 +16,7 @@ comparePrice: 360.0 EUR
 prodname: 'Ingersoll Men s The Grafton Quartz Watch with Grey Dial and Black Leather Strap I00601'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JG1JYMS/?tag=tolees-21'
 descuento: '71.32'
 average: '103.24000000000001'

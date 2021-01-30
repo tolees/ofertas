@@ -16,6 +16,7 @@ comparePrice: 35.98 EUR
 prodname: 'Kit de Manicura Eléctrico  TOUCHBeauty Set Manicura pedicura  lima de uñas eléctrica  Taladro del Clavo Máquina con 5 accesorios para el cuidado de las uñas  Sistema de pulido para las uñas con luz UV'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MW4KZ1S/?tag=tolees-21'
 descuento: '52.81'
 average: '20.48'

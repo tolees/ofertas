@@ -16,6 +16,7 @@ comparePrice: 35.19 EUR
 prodname: 'Wonderbra Glamour Raffine Triangle Padde Sujetador de triángulo  Multicolor  Imprime Animal 0bs   95H para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X5YGFJH/?tag=tolees-21'
 descuento: '69.14'
 average: '11.66'

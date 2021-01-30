@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'SCSpecial 20 Unids Surtido Conjunto de Herramientas de Pintura Conjunto de Espuma de Pintura Redonda Conjunto de 4 Tamaños Esponja Cepillo para Niños Pintura Artesanía y Bricolaje'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J2DHX9D/?tag=tolees-21'
 descuento: '31.60'
 average: '12.99'

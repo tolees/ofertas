@@ -16,6 +16,7 @@ comparePrice: 96.06 EUR
 prodname: 'K&N 33-2059 Filtro de Aire Coche  Lavable y Reutilizable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00062YINW/?tag=tolees-21'
 descuento: '41.26'
 average: '56.43'

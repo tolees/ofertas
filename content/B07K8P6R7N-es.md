@@ -16,6 +16,7 @@ comparePrice: 18.43 EUR
 prodname: 'B Blesiya Juguete de Peonza Ráfaga Gyro Burst de Lucha Maestro de Rapidez - Spriggan/Spryzen Requiem B-111-6'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K8P6R7N/?tag=tolees-21'
 descuento: '44.44'
 average: '10.24'

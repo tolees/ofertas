@@ -16,6 +16,7 @@ comparePrice: 12.79 EUR
 prodname: '6 Pares 7mm Pendientes pour Hombre Mujer Chico Unisex  Bisuteria Pendientes Tornillo Negro  Pendientes Hombres Plata Pequeños Pendientes de Tous Plata Oro Redondos Piercing Oreja'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CKLTRPV/?tag=tolees-21'
 descuento: '36.75'
 average: '8.09'

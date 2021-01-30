@@ -16,6 +16,7 @@ comparePrice: 11.25 EUR
 prodname: 'Live At Woodstock'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SQTM2JL/?tag=tolees-21'
 descuento: '37.87'
 average: '6.99'

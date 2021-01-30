@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Woo Well Bolsas de vegetales reutilizables de algodón bolsas de frutas y vegetales  bolsas de malla transpirables  hermosas bolsas de algodón natural 6 piezas - 2x S  2x M  2x L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FFP9G21/?tag=tolees-21'
 descuento: '46.02'
 average: '10.79'

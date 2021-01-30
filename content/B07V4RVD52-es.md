@@ -16,6 +16,7 @@ comparePrice: 139.9 EUR
 prodname: 'Calvin Klein - Neat Hobo Md  Shoppers y bolsos de hombro Mujer  Negro  Black   1x1x1 cm  W x H L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V4RVD52/?tag=tolees-21'
 descuento: '51.49'
 average: '67.86'

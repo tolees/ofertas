@@ -16,6 +16,7 @@ comparePrice: 22.85 EUR
 prodname: 'Victory Endurance Oxy Storm 90 capsulas. Nitratos estandarizados. Efecto Pump y Vasodilatador'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J5PKKRY/?tag=tolees-21'
 descuento: '40.04'
 average: '13.7'

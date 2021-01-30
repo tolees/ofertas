@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Under Armour UA GS Infinity 2  Zapatillas de Running Unisex Niños  Negro  Black 001   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HKP1PWQ/?tag=tolees-21'
 descuento: '69.86'
 average: '19.59'

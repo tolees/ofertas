@@ -16,6 +16,7 @@ comparePrice: 399.99 EUR
 prodname: 'Outsunny Columpio Balancín Jardín 3 Plazas Convertible en Cama Techo Parasol Regulable Bandeja para Bebida Terrza Balcón Exterior Acero Beige Carga máx. 340kg - 200x120x164cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CPRJ7X3/?tag=tolees-21'
 descuento: '52.75'
 average: '188.99'

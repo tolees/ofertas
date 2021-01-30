@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'J.Endéar Letra Inicial A-Z Alfabeto Pulsera de Piedras Preciosas  Pulsera de Granate Natural Rojo de 5 mm  Pulseras de Cuentas elásticas de Plata con Letras'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WTV2HP8/?tag=tolees-21'
 descuento: '30.05'
 average: '14.39'

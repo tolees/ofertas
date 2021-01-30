@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Testosterona vigorizante  aumento de rendimiento masculino. TESTOFEN + ginseng  zinc y maca. Testosterona natural REGISTRADA y avalada con estudios clínicos. Aumento de potencia sexual. ISO 9001'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MXKR4DK/?tag=tolees-21'
 descuento: '36.03'
 average: '16.724'

@@ -16,6 +16,7 @@ comparePrice: 120.9 EUR
 prodname: 'HP C7115X - Tóner  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00005NHAB/?tag=tolees-21'
 descuento: '52.47'
 average: '57.46'

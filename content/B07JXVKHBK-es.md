@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'DAM. DMX195BKCorrea Cerámica Iwatch 38Mm / 40Mm. Cierre De Seguridad De Mariposa. Compatible Series 1  2  3  Y 4. Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JXVKHBK/?tag=tolees-21'
 descuento: '56.54'
 average: '29.99'

@@ -16,6 +16,7 @@ comparePrice: 156.0 EUR
 prodname: 'Rettos - Zapatillas Bajas  Hombre  Afelpado  Color: Brandy  Caucho  Talla: 39'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084X2D6GP/?tag=tolees-21'
 descuento: '65.00'
 average: '54.6'

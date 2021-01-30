@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Pack de 2 x Bloc de Dibujo Profesional  A4  9”x12”  con Espiral - 200 x Hojas Blancas  100gr  - Cuadernos de Dibujo con Tapa Rígida - Block de Páginas Vírgenes para Dibujar  Garabatear'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FNXH8BL/?tag=tolees-21'
 descuento: '36.77'
 average: '19.30333333333333'

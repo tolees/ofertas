@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'QHOHQ Funda Samsung Galaxy A51 4G  No 5G +2 Pack Cristal Templado Protector de Pantalla Samsung Galaxy A51 4G  Ultra Fina Silicona Transparente TPU Cases Anti-Caíd'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083LJTNV3/?tag=tolees-21'
 descuento: '45.86'
 average: '5.95'

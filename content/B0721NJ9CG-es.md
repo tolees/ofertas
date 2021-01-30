@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Superga Damen 2790 Lamew Sneaker  Grau  Grey   39'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0721NJ9CG/?tag=tolees-21'
 descuento: '51.27'
 average: '31.36'

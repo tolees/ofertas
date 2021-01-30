@@ -16,6 +16,7 @@ comparePrice: 329.95 EUR
 prodname: 'Fitbit Ionic Adidas Edition   El Smartwatch Deportivo  Azul  Tinta  / Gris  Hielo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079P2J6GM/?tag=tolees-21'
 descuento: '43.95'
 average: '225.79166666666666'

@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Kipling PALMBEACH Bolsa de Viaje  23 cm  7 Liters  Negro  Charcoal '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V3M9BCG/?tag=tolees-21'
 descuento: '46.78'
 average: '47.37'

@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Asics Gel-Contend 6  Sneaker Mens  Negro  42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S9DW78T/?tag=tolees-21'
 descuento: '27.20'
 average: '48.21857142857142'

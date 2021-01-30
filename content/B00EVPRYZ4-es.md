@@ -16,6 +16,7 @@ comparePrice: 15.5 EUR
 prodname: 'Calvin Klein Thong Tanga  Schwarz  Black 001   40  Talla del fabricante: Medium  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EVPRYZ4/?tag=tolees-21'
 descuento: '42.00'
 average: '8.99'

@@ -16,6 +16,7 @@ comparePrice: 23.24 EUR
 prodname: 'ibohr Mini Ventilador silencioso Ventilador eléctrico de Mano portátil Ventilador de Mano con 7 Cuchillas  3 velocidades  Carga USB  Color Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CN7FD1N/?tag=tolees-21'
 descuento: '33.73'
 average: '14.673333333333334'

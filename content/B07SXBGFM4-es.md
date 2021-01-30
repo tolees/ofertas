@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'Revlon ColorStay Base de Maquillaje piel mixto/graso FPS15  #390 Rich Maple  - 30ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SXBGFM4/?tag=tolees-21'
 descuento: '51.74'
 average: '6.5'

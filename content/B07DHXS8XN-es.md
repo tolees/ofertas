@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance 997H m  Zapatillas para Mujer  Blanco  White/Incense EC Blue   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DHXS8XN/?tag=tolees-21'
 descuento: '30.00'
 average: '53.693333333333335'

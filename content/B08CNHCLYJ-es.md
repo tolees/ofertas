@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Aspiradora de Mano Sin Cable Potente 9000PA/120W  con Luz LED  2600mAh Batería Aspirador de Coche（Mojado y Seco  Lnflable y Soplado de Polvo  Ruido Bajo 70db  Carga Rápida  Filtro Reutilizable Hodekt'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CNHCLYJ/?tag=tolees-21'
 descuento: '28.01'
 average: '35.99'

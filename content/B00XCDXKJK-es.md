@@ -16,6 +16,7 @@ comparePrice: 56.79 EUR
 prodname: 'SADES SA901 7.1 de Sonido Envolvente estéreo Pro USB PC Gaming Auriculares Cinta de Cabeza de los Auriculares con micrófono Deep Bass Over-The-Ear Control de Volumen para Jugadores de PC  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XCDXKJK/?tag=tolees-21'
 descuento: '56.00'
 average: '31.633333333333333'

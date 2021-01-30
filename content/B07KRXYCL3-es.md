@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'SALOMON Agile LS tee M Hombre  Azul  Night Sky '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KRXYCL3/?tag=tolees-21'
 descuento: '61.02'
 average: '26.77'

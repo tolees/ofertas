@@ -16,6 +16,7 @@ comparePrice: 110 EUR
 prodname: 'INTEY Silla de Oficina  Silla Ergonómica  Ajustables Reposacabezas y Soporte Lumbar  Malla Transpirable  Instalación Modular  Carga máx. 110kg/240lb'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FQ3KBH8/?tag=tolees-21'
 descuento: '27.28'
 average: '81.49'

@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'Gigandet Reloj de Hombre Cuarzo Aquazone Cronógrafo Reloj Submarinismo Analógico Silicona Naranja Negro G23-005'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M3R6PE9/?tag=tolees-21'
 descuento: '27.93'
 average: '129.0'

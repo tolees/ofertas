@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Comprobador de enchufe de 48 a 250V  KAIWEETS Probador de enchufe con LCD pantalla que medir voltaje  examinar circuito y RCD  CAT II 300V  7 tipo de indicación para uso doméstico y profesional'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087F58VDW/?tag=tolees-21'
 descuento: '35.02'
 average: '12.99'

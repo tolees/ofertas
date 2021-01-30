@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'auna Stereosonic Stereo System - Equipo estéreo   Compacto   Montaje en la Pared   Reproductor de CD   USB   Bluetooth   AUX   Mando a Distancia   Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HHXDSZQ/?tag=tolees-21'
 descuento: '62.50'
 average: '62.489999999999995'

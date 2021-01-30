@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Luchild Dispensador de Leche en Polvo  Fórmula Portátil Dispensador de Polvo Contenedor Caja de Ollas Essentials de Viaje para Bebé de 3 Capas  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WVW7SXH/?tag=tolees-21'
 descuento: '31.27'
 average: '10.99'

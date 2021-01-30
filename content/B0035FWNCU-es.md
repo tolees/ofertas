@@ -16,6 +16,7 @@ comparePrice: 8.95 EUR
 prodname: 'Pranarôm  Aceite esencial  Eucalipto  - 10 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0035FWNCU/?tag=tolees-21'
 descuento: '51.62'
 average: '4.550000000000001'

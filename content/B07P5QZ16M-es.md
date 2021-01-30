@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'ENEGON Batería de Repuesto  Paquete de 2  y Cargador rápido rápido para Canon LP-E5 y Canon EOS Rebel XS  Rebel T1i  Rebel XSi  1000D  500D  450D  Kiss X3  Kiss X2  Kiss F'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P5QZ16M/?tag=tolees-21'
 descuento: '26.68'
 average: '21.32333333333333'

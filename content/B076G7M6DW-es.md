@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'PUMA Smash v2 L Jr  Zapatillas Unisex Niños  White White  38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076G7M6DW/?tag=tolees-21'
 descuento: '70.19'
 average: '11.91'

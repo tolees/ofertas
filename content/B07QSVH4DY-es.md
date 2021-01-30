@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: '24 Turquesa PEGATINAS lisas para pegar sobre azulejos cuadrados de 15cm en cocina baños Directamente de TILE STYLE DECALS sin intermediarios resistentes al agua y aceite Turquesa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QSVH4DY/?tag=tolees-21'
 descuento: '33.37'
 average: '5.99'

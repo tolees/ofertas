@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Kipling - New Hiphurray  Bolsos totes Mujer  Multicolor  Scribble L Bl '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DKH6ZXP/?tag=tolees-21'
 descuento: '37.86'
 average: '21.75'

@@ -16,6 +16,7 @@ comparePrice: 241.99 EUR
 prodname: 'Netgear JGS516PE-100EUS - Smart Switch gestionable  16 Puertos Gigabit PoE y Montaje en Bastidor  alimentación a través de Ethernet de 8 Puertos y 85 W '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00F3XSLWI/?tag=tolees-21'
 descuento: '34.71'
 average: '169.17562499999997'

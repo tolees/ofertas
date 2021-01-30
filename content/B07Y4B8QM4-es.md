@@ -16,6 +16,7 @@ comparePrice: 249.99 EUR
 prodname: 'ZIGLINT Z9 2 en 1 aspiradora a batería 19000Pa de Alta Potencia sin Bolsa  2 Niveles de succión  35 min  Ideal para sofá/Alfombra/Suelo Duro/baldosas/Coche/Espacio Restringido 200W/22.2v'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y4B8QM4/?tag=tolees-21'
 descuento: '32.00'
 average: '169.99'

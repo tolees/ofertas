@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Levi s 502 Regular Taper Jeans  Azul  Headed South 0279   31W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D2FXQXY/?tag=tolees-21'
 descuento: '37.04'
 average: '69.26'

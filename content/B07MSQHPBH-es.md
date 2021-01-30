@@ -16,6 +16,7 @@ comparePrice: 16.36 EUR
 prodname: 'Creed Ii. La Leyenda De Rocky [DVD]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MSQHPBH/?tag=tolees-21'
 descuento: '32.82'
 average: '10.99'

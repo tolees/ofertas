@@ -16,6 +16,7 @@ comparePrice: 14.26 EUR
 prodname: 'Creaciones Arppe. S. A. 2910019100 Champú Insectifugo  1 L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00O276UQK/?tag=tolees-21'
 descuento: '45.72'
 average: '7.74'

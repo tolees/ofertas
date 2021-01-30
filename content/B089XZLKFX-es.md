@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Dispensador de jabón automático  dispensadores de jabón de espuma infrarroja sin contacto Botellas de bomba  desinfectante de manos ajustable Dispensador de jabón de espuma para baño Cocina Oficina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089XZLKFX/?tag=tolees-21'
 descuento: '28.01'
 average: '17.99'

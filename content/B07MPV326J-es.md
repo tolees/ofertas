@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'TEENO Multiherramienta oscilante 300W con 8 acoplamientos  6 Hojas de Lija y maletín  230 V'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MPV326J/?tag=tolees-21'
 descuento: '60.61'
 average: '39.0'

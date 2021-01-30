@@ -16,6 +16,7 @@ comparePrice: 4.0 EUR
 prodname: 'CAMPINGAZ Nuevo CP 250 Cartucho de Gas  Gris  Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XY9B7M4/?tag=tolees-21'
 descuento: '37.50'
 average: '2.0714285714285716'

@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'JACK & JONES Jfwalbany Leather  Botas Estilo Motero para Hombre  Marrón  Coffee Bean Coffee Bean   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R412YLW/?tag=tolees-21'
 descuento: '60.01'
 average: '39.99'

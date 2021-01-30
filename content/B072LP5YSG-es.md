@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Under Armour Challenger II Knit Warm-Up Chándal  Hombre  Azul  410   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072LP5YSG/?tag=tolees-21'
 descuento: '49.39'
 average: '40.49'

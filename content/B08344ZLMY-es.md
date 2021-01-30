@@ -16,6 +16,7 @@ comparePrice: 2.22 EUR
 prodname: 'Moliies Funda para Tableta Universal portátil Funda Ultra Suave Impermeable a Prueba de Golpes Funda Protectora a Prueba de Golpes para computadora portátil  Negro + 7" '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08344ZLMY/?tag=tolees-21'
 descuento: '35.14'
 average: '1.44'

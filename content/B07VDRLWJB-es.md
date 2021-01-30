@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Calcetines Deportivos Quarter Pro 5 Pares  Negro sólido  EU 43-47 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VDRLWJB/?tag=tolees-21'
 descuento: '67.67'
 average: '16.15'

@@ -16,6 +16,7 @@ comparePrice: 29.57 EUR
 prodname: 'IBRA - 2m Cable de Antena HDTV Premium | Cable coaxial HDTV/Full HD | coaxial Macho en coaxial Hembra | UHF/RF/TDT | contactos Dorados | Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072FHP3TD/?tag=tolees-21'
 descuento: '73.86'
 average: '7.73'

@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'ANEWSIR 3 Piezas Protector de Pantalla para Samsung Galaxy A51 Cristal Templado de Resistente a Arañazos 9H Dureza Cristal Vidrio Templado Protector para Samsung Galaxy A51  6.5" .'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082PT6VLG/?tag=tolees-21'
 descuento: '25.16'
 average: '5.95'

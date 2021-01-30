@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'BOSS Schino-Slim D Pantalones  Plateado  Silver 43   W36/L36  Talla del Fabricante: 3636  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V9HWG53/?tag=tolees-21'
 descuento: '40.06'
 average: '52.919999999999995'

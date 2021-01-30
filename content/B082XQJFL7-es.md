@@ -16,6 +16,7 @@ comparePrice: 65.76 EUR
 prodname: 'Zapatillas de Baloncesto para Hombres Damas Deportes al Aire Libre Correr Fitness Transpirable Resistente al Desgaste Antideslizante 35-45'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082XQJFL7/?tag=tolees-21'
 descuento: '50.00'
 average: '32.88'

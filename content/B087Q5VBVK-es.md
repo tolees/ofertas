@@ -16,6 +16,7 @@ comparePrice: 59.98 EUR
 prodname: 'Cámara Digital para Niños  8MP Digital Cámaras Fotos Infantil Digitales Selfie  1080P HD Video Pantalla de 2 Pulgadas con Tarjeta TF 32GB Regalos Juego Cámara para niños de 3 a 12 años  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087Q5VBVK/?tag=tolees-21'
 descuento: '60.17'
 average: '23.89'

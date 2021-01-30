@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Funko Pop! - Figura de Vinilo Raiden  21711 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071GV16VQ/?tag=tolees-21'
 descuento: '47.22'
 average: '7.557272727272728'

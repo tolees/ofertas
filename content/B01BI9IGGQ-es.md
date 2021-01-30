@@ -16,6 +16,7 @@ comparePrice: 36.9 EUR
 prodname: 'Somatoline Use & Go Spray Reductor - 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BI9IGGQ/?tag=tolees-21'
 descuento: '32.66'
 average: '24.85'

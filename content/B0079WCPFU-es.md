@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Orbegozo HO232 Horno eléctrico de sobremesa  1500 W  23 litros  Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0079WCPFU/?tag=tolees-21'
 descuento: '26.86'
 average: '53.6527868852459'

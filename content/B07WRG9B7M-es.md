@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: '6amLifestyle Alfombrilla para Raton Grande 800 * 300 * 4mm Diseño de Nebulosa Espacial  Bordes Reforzados  Base de Caucho Anti Deslizante  Alfombrilla Ratón Gaming Adecuada para Juegos y Trabajo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WRG9B7M/?tag=tolees-21'
 descuento: '50.38'
 average: '14.252857142857144'

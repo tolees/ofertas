@@ -16,6 +16,7 @@ comparePrice: 18.42 EUR
 prodname: '2 Pares Calcetines Mujer Hombre Senderismo Calcetines para Trekking Transpirable  Alto Rendimiento Térmicos  Transpirables  Acolchados y Antiampollas  Calcetines de Montaña  2 Pares Azul  EU 39-42 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08GKDVWHQ/?tag=tolees-21'
 descuento: '45.77'
 average: '9.99'

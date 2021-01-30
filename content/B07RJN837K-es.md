@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'HyAdierTech Protector de Asiento de Coche  Premium Cubierta Isofix por Asiento Delantero y Trasero con Bolsillo y Tamaño Universal  Antideslizante y Resistente  Funda Impermeable protegida  A   A   A '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RJN837K/?tag=tolees-21'
 descuento: '35.73'
 average: '17.99'

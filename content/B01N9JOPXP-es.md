@@ -16,6 +16,7 @@ comparePrice: 2.39 EUR
 prodname: 'Gillette Mach3 Irritation Defense Espuma de Afeitado Suave - 250 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N9JOPXP/?tag=tolees-21'
 descuento: '28.45'
 average: '1.4849999999999999'

@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'EUKO Guirnalda luces exterior 10 m 100 LEDs impermeable Cadena de luces 8 Modos con Control Remoto para Dormitorio Jardines Boda Cumpleaños  blanco cálido '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VHD5FZW/?tag=tolees-21'
 descuento: '26.68'
 average: '10.99'

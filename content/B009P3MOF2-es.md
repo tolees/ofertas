@@ -16,6 +16,7 @@ comparePrice: 19.0 EUR
 prodname: 'SRAM Soporte Quick View  31.8  Carretera  Computer Tachos Pulsmes Halterung  Schwarz  31 8mm Klemmung  00.7918.020.000  Multicolor  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009P3MOF2/?tag=tolees-21'
 descuento: '28.16'
 average: '13.65'

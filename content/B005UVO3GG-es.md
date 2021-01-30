@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Cuéntame Cómo Pasó - Temporada 12 [DVD]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005UVO3GG/?tag=tolees-21'
 descuento: '40.02'
 average: '10.79'

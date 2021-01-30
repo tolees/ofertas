@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance Fresh Foam Roav h  Zapatillas de Running para Hombre  Gris Foncã Argent Blanc  42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RGTKHHD/?tag=tolees-21'
 descuento: '49.83'
 average: '45.15'

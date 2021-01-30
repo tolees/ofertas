@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'VEIERSIA Calentador de Mano Recargable Portátil con USB Power Bank 6000mAh  Calentamiento de Doble Cara  Valentín  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XHKBJKD/?tag=tolees-21'
 descuento: '33.34'
 average: '19.99'

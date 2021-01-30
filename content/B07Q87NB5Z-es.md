@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Superdry OL Elite Ziphood Capucha  Verde  Eagle Green A7h   L  Talla del Fabricante:14  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q87NB5Z/?tag=tolees-21'
 descuento: '44.07'
 average: '42.97666666666667'

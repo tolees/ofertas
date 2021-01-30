@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Alfombrilla de Baño  Extralargo Alfombra para Bañera Antideslizante con 200 Potentes Ventosas  Antibacterial Resistente al Moho  Lavable a Máquina  para Niños Ancianos  100*40cm  Blanco transparente '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085DLWGNC/?tag=tolees-21'
 descuento: '40.76'
 average: '15.523333333333333'

@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'Vernee M6 Smartphone 4G de Pantalla Grande 5.7 Pulgadas  Cámara Dual 16MP+13MP   4GB RAM 64GB Memoria Interna   Octa-Core 1.5GHz  Móviles Libres Buenos  Dual SIM - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F1NSGNB/?tag=tolees-21'
 descuento: '25.00'
 average: '119.99'

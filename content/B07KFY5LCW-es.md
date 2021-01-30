@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'PUMA INTERFLEX Runner  Zapatillas de Running Unisex Adulto  Negro Black/Bridal Rose  42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFY5LCW/?tag=tolees-21'
 descuento: '33.37'
 average: '29.95'

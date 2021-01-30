@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Einhell TH-CS 1200/1 - Sierra circular  5000 rpm  diámetro de 160 mm  1230 W  230 V  color negro y rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IYEESUW/?tag=tolees-21'
 descuento: '40.12'
 average: '35.9'

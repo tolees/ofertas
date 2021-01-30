@@ -16,6 +16,7 @@ comparePrice: 129.78 EUR
 prodname: 'Tommy Hilfiger Reloj de Pulsera 1782023'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KTQDRC9/?tag=tolees-21'
 descuento: '40.71'
 average: '76.95'

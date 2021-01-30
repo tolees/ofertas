@@ -16,6 +16,7 @@ comparePrice: 54.6 EUR
 prodname: 'Pack de 12 filtros bi-flux que mejoran el sabor del agua  reducen la cal y el cloro  compatibles con las jarras Laica y Brita entre otras. Cada filtro dura 150 litros o 1 mes.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01D1CUOB8/?tag=tolees-21'
 descuento: '26.76'
 average: '39.99'

@@ -16,6 +16,7 @@ comparePrice: 32.06 EUR
 prodname: 'LEADSTAR Toalla Bebé con Capucha  Capa de Baño Infantil  90 x 90 cm Toalla de Baño para Bebé  Ultra Suave Hipoalergénica de Bambú Orgánico Super Absorbente para Recién Nacido Nacimiento'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZPLBBJ8/?tag=tolees-21'
 descuento: '47.01'
 average: '16.99'

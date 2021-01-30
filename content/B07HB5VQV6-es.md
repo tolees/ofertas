@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'AUNA IR-120 Radio de Internet - MP3  WMA  Acc  Wi-Fi  conexión USB y AUX  Alarma  Autoapagado  15000 emisoras  Mando a Distancia  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HB5VQV6/?tag=tolees-21'
 descuento: '50.01'
 average: '49.99'

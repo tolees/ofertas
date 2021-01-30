@@ -16,6 +16,7 @@ comparePrice: 42.34 EUR
 prodname: 'Solido S1802202 421184930-1:18 Renault 4LF4  1975  Modelo de Coche'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T7GF9DH/?tag=tolees-21'
 descuento: '25.56'
 average: '31.52'

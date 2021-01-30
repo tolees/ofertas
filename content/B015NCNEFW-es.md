@@ -16,6 +16,7 @@ comparePrice: 27.98 EUR
 prodname: 'DCCN Carcasa para portátiles Alfombrilla de ratón de Neopreno Impermeable 2 en 1 para Pantallas de 15-15.6"; Adecuado para laptops  computadoras portátiles  ultrabooks  MacBooks  ECCs.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015NCNEFW/?tag=tolees-21'
 descuento: '50.00'
 average: '13.99'

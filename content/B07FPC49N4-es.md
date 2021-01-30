@@ -16,6 +16,7 @@ comparePrice: 233.99 EUR
 prodname: 'Rowenta HQ7111 Air Force Hot & Cool Calefactor y ventilador  flujo de aire silencioso  modo automático  hasta 45 m²  seguridad reforzada y fácil transporte'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FPC49N4/?tag=tolees-21'
 descuento: '39.32'
 average: '133.1966666666667'

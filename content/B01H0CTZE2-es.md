@@ -16,6 +16,7 @@ comparePrice: 6.75 EUR
 prodname: 'Chicco Natural Sensation - Crema balsámica 4 en 1  100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01H0CTZE2/?tag=tolees-21'
 descuento: '40.74'
 average: '4.0'

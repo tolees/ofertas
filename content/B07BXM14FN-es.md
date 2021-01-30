@@ -16,6 +16,7 @@ comparePrice: 35.98 EUR
 prodname: 'Arthome Papel Pintado Adhesivo  53cm x 565cm Autoadhesivo Espesar Impermeable Duradero Vinilo Vintage Madera Papel Para forrar Muebles  Papel Para Decorar Pared'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BXM14FN/?tag=tolees-21'
 descuento: '30.57'
 average: '24.64666666666667'

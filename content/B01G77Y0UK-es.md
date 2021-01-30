@@ -16,6 +16,7 @@ comparePrice: 10.67 EUR
 prodname: 'KabelDirekt 1m Cable Micro USB   USB 2.0  Conector USB A al Conector Micro USB B  Sincronización y Carga   PRO Series'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01G77Y0UK/?tag=tolees-21'
 descuento: '31.87'
 average: '7.27'

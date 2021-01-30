@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Montse Interiors Saco Nórdico Estrellas y Lunas  Moon Gris  para Cama de 90x190/200 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MHLK8WQ/?tag=tolees-21'
 descuento: '43.37'
 average: '33.95'

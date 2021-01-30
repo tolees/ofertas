@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Energy Sistem Music Box 7+ Altavoz portátil con Bluetooth  20 W  Manos Libres  Entrada de Audio y batería Recargable  - Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GR6K7K4/?tag=tolees-21'
 descuento: '35.77'
 average: '44.62333333333333'

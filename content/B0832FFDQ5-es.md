@@ -16,6 +16,7 @@ comparePrice: 143.99 EUR
 prodname: 'Puma Evospeed High Jump 4 Track and Field Zapatillas Correr De Clavos - 42.5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0832FFDQ5/?tag=tolees-21'
 descuento: '66.67'
 average: '47.99'

@@ -16,6 +16,7 @@ comparePrice: 16.76 EUR
 prodname: 'Licor del Polo - Enjuague Bucal Frozen Senses - Tecnología Extra Fesh - 4 uds de 500ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NR8Q6XN/?tag=tolees-21'
 descuento: '52.51'
 average: '7.96'

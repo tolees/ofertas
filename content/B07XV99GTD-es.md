@@ -16,6 +16,7 @@ comparePrice: 21.95 EUR
 prodname: 'PRIXTON - Bombilla Inteligente Wifi/Smart Bulb/Bombillas Led Inteligentes  E27 7W RGB+cálido+frío  Programable  Compatible con los Asistentes de Voz  16 millones de Colores Diferentes | BW10'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XV99GTD/?tag=tolees-21'
 descuento: '31.89'
 average: '14.95'

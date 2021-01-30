@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'adidas Grand Court I  Zapatillas de Estar por casa para Bebés  Blanco  Ftwbla/Negbás/Ftwbla 000   26 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QD9XZFP/?tag=tolees-21'
 descuento: '29.92'
 average: '20.99'

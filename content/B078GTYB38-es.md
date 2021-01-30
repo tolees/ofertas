@@ -16,6 +16,7 @@ comparePrice: 68.0 EUR
 prodname: 'Asalvo 15549 - Andador'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078GTYB38/?tag=tolees-21'
 descuento: '26.25'
 average: '50.15'

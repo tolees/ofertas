@@ -16,6 +16,7 @@ comparePrice: 1.57 EUR
 prodname: 'PU Funda de Cuero para teléfono Riñonera Cinturón Clip para Hombre Cintura Colgante Bolsa de Almacenamiento Macho Portátil Sólido para Hombre Bolsa para teléfono al Aire Libre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088LSCCHV/?tag=tolees-21'
 descuento: '40.13'
 average: '0.94'

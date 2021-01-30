@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Halloween 4 - El Regreso de Michael Myers BD + DVD de Extras 1988 Halloween 4: The Return of Michael Myers [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KP749VV/?tag=tolees-21'
 descuento: '46.49'
 average: '8.0'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'LifeVit BT-125 Termómetro inteligente para Bebé  conexión Bluetooth con móviles y Tablets  Alarma Configurable en App  alta precisión'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01F5BEHA2/?tag=tolees-21'
 descuento: '25.23'
 average: '29.9'

@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'Superdry Classic Superstate S/s Polo  Amarillo  Upstate Gold Pg5   L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TMNVFKY/?tag=tolees-21'
 descuento: '40.01'
 average: '32.99'

@@ -16,6 +16,7 @@ comparePrice: 11.0 EUR
 prodname: 'Max Factor Colour Elixir Honey Lacquer Gloss Brillo de Labios Tono  05 Nude - 28 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073FWQRYK/?tag=tolees-21'
 descuento: '62.73'
 average: '4.54'

@@ -16,6 +16,7 @@ comparePrice: 7.34 EUR
 prodname: 'Cáncer de Mama Pasadores Broche de Conciencia Caridad Cinta Accesorios Ropa - Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MQCZZCI/?tag=tolees-21'
 descuento: '44.41'
 average: '4.08'

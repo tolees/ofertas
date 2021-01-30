@@ -16,6 +16,7 @@ comparePrice: 4.0 EUR
 prodname: 'Instituto Español Gel de Baño y Ducha 10% Urea para Piel Seca - 1250 ML'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BN7XF1U/?tag=tolees-21'
 descuento: '48.25'
 average: '2.051428571428571'

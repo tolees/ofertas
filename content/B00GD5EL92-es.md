@@ -16,6 +16,7 @@ comparePrice: 115.02 EUR
 prodname: 'Versa 20361010 Mesa entrada madera color blanco Dallas  110x80x25  Consola/Cómoda'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GD5EL92/?tag=tolees-21'
 descuento: '38.06'
 average: '80.79666666666665'

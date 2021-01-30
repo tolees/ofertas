@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'WateLves Leggings de Yoga para Mujer  Pantalones de Deporte  Mallas para Correr  Cintura Alta  con Bolsillos  elásticos  para Yoga  Deporte  Fitness  Mujer  Pantaloni Cropped  Gris  Extra-Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JZX9C6B/?tag=tolees-21'
 descuento: '50.02'
 average: '14.99'

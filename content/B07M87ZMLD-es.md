@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'PETEMOO Asiento del Coche de Seguridad para Mascotas Perro Plegable Lavable Viaje Bolsas y Otra Mascota Pequeña con Cremallera Bolsillo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M87ZMLD/?tag=tolees-21'
 descuento: '33.34'
 average: '23.99'

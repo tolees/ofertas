@@ -16,6 +16,7 @@ comparePrice: 33.52 EUR
 prodname: 'Reebok Ovett Ropa Interior  Hombre  Negro/Gris  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075S3CK1S/?tag=tolees-21'
 descuento: '35.56'
 average: '20.365000000000002'

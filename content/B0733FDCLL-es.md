@@ -16,6 +16,7 @@ comparePrice: 22 EUR
 prodname: 'find. Pantalones Estilo  Jogger  de Tacto Suave para Hombre  Gris  Light Grey Marl    Talla del fabricante: Large '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0733FDCLL/?tag=tolees-21'
 descuento: '50.00'
 average: '11'

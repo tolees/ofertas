@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Braun Satin Hair 3 HD350 Style & Go - Secador de pelo viaje  1600 W  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LZSPLP0/?tag=tolees-21'
 descuento: '28.31'
 average: '20.740000000000002'

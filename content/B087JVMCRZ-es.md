@@ -16,6 +16,7 @@ comparePrice: 10.95 EUR
 prodname: '10 unidades – Protector bucal para nariz con soporte nasal  protector bucal  protección facial  producto desechable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087JVMCRZ/?tag=tolees-21'
 descuento: '28.86'
 average: '7.79'

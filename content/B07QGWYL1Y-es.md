@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Funko Pop Bobble Vinyle Marvel: Holiday-Groot Figura Coleccionable  Multicolor  43333 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QGWYL1Y/?tag=tolees-21'
 descuento: '29.43'
 average: '11.78'

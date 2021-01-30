@@ -16,6 +16,7 @@ comparePrice: 10.95 EUR
 prodname: 'Curver 230010 Rectangular  Azul Bruma  27.6x20.2x15.2 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IEKKQVA/?tag=tolees-21'
 descuento: '54.43'
 average: '4.99'

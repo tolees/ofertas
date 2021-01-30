@@ -16,6 +16,7 @@ comparePrice: 42.31 EUR
 prodname: 'Kärcher Set completo  1/2"  de 20metros con pistola de riego  2.645-115.0 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001TJ4GPQ/?tag=tolees-21'
 descuento: '35.76'
 average: '27.18'

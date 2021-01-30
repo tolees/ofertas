@@ -16,6 +16,7 @@ comparePrice: 9.41 EUR
 prodname: 'Cortador de pan Faminess  hecho a mano  cortador para masa de pan  con 5 cuchillas y cubierta protectora de cuero auténtico  para hacer pan y hornear'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089SV3YQ5/?tag=tolees-21'
 descuento: '51.33'
 average: '4.58'

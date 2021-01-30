@@ -16,6 +16,7 @@ comparePrice: 221.95 EUR
 prodname: 'JBL Flip 4 - Altavoz inalámbrico portátil con Bluetooth  parlante resistente al agua  IPX7   JBL Connect+  hasta 12h de reproducción con sonido de alta fidelidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N2TLGMF/?tag=tolees-21'
 descuento: '63.96'
 average: '97.44'

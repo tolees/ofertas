@@ -16,6 +16,7 @@ comparePrice: 15.23 EUR
 prodname: 'Frozen Wind-Bolso Redondo 3D'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZTPX3N5/?tag=tolees-21'
 descuento: '60.93'
 average: '8.100000000000001'

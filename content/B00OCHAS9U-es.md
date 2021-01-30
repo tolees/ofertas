@@ -16,6 +16,7 @@ comparePrice: 49.87 EUR
 prodname: 'Sónica cepillo de dientes portátil con pilas  2 cepillos de dientes con 4 cabezas de cepillo GRATIS  niños y adultos. TempIR Onda Sónica Turbo Electrónico 30.000 Cepillos de Cepillo Un Minuto. Garantía de por vida.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OCHAS9U/?tag=tolees-21'
 descuento: '56.15'
 average: '21.87'

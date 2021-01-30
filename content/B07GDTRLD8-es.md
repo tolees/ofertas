@@ -16,6 +16,7 @@ comparePrice: 34.05 EUR
 prodname: 'Toyvelt 32-Piece Wrestling Toys For Kids - WWE Wrestler Warriors Toys with Ring & Realistic Accessories - Fun Miniature Fighting Action Figures Includes 2 Rings - Great Gift For Boys and Girls'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GDTRLD8/?tag=tolees-21'
 descuento: '30.01'
 average: '23.83'

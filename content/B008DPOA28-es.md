@@ -16,6 +16,7 @@ comparePrice: 154.61 EUR
 prodname: 'Danish Design DZ120139 - Reloj para Caballero de Cuero Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008DPOA28/?tag=tolees-21'
 descuento: '37.42'
 average: '96.76'

@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Adidas VS Set  Zapatillas de Tenis para Hombre  Multicolor  Negbás/Negbás/Gris 000   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LC49T1S/?tag=tolees-21'
 descuento: '60.09'
 average: '21.93'

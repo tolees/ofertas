@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Facial Patches  Parches Faciales Antiarrugas  Parches Faciales Antiarrugas  Parches para la Reducción de Arrugas del Entrecejo  Antiarrugas Frente  elimina las arrugas de cejas  5PCS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0825X4GRB/?tag=tolees-21'
 descuento: '46.68'
 average: '15.99'

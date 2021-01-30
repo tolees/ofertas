@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'L Oreal Paris Dermo Expertise Revitalift Filler Mascarilla Rellenadora  Acido Hialurónico - 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BYSY65V/?tag=tolees-21'
 descuento: '39.75'
 average: '11.669090909090908'

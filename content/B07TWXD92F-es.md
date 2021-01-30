@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Women s Secret Packs 1 Maternity Braguita  Gris  Marengo 90    Tamaño del Fabricante: M  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TWXD92F/?tag=tolees-21'
 descuento: '49.21'
 average: '8.63'

@@ -16,6 +16,7 @@ comparePrice: 74.66 EUR
 prodname: 'NAIXUES 2020 Smartwatch Niños  Reloj Inteligente para Niños Impermeable 67 con Linterna  SOS  LBS  Comunicación Bidireccional Cámara Chat de Voz  Reloj Infantil Regalo para Niño Niña de 3-12 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WJ41VPZ/?tag=tolees-21'
 descuento: '59.83'
 average: '31.857999999999997'

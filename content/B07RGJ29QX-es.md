@@ -16,6 +16,7 @@ comparePrice: 213.55 EUR
 prodname: 'Monix Siena Set de 75 Piezas de Acero Inoxidable  con Cuchillo chuletero  Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RGJ29QX/?tag=tolees-21'
 descuento: '47.09'
 average: '112.99'

@@ -16,6 +16,7 @@ comparePrice: 15.71 EUR
 prodname: 'Revlon Total Color Care Antifading Shampoo Champú - 1000 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BZXAKTG/?tag=tolees-21'
 descuento: '36.41'
 average: '12.850000000000001'

@@ -16,6 +16,7 @@ comparePrice: 11.45 EUR
 prodname: 'Trixie Rejilla Ventilación para Coche  30-110 cm  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0029ETIAI/?tag=tolees-21'
 descuento: '29.00'
 average: '8.13'

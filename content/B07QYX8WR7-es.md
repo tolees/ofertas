@@ -16,6 +16,7 @@ comparePrice: 5.61 EUR
 prodname: 'Stor Vaso Easy 260 ML | Frozen 2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QYX8WR7/?tag=tolees-21'
 descuento: '68.27'
 average: '1.78'

@@ -16,6 +16,7 @@ comparePrice: 16.0 EUR
 prodname: 'Elizabeth Arden Liquid Lip Gloss Finish Pintalabios  Pretty Obsessed  2 4 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079Z5W2ZM/?tag=tolees-21'
 descuento: '49.44'
 average: '8.09'

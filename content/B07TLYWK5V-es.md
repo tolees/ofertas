@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Vans Ward Suede/Canvas  Zapatillas para Hombre  Verde   Otw Scatter  Forest Night/White Syk   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TLYWK5V/?tag=tolees-21'
 descuento: '51.03'
 average: '36.73'

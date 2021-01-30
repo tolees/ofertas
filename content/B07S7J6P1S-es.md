@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'Festina Hombre F20279/A'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S7J6P1S/?tag=tolees-21'
 descuento: '41.89'
 average: '69.15'

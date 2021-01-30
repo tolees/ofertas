@@ -16,6 +16,7 @@ comparePrice: 33.97 EUR
 prodname: 'Mono de bebé Promini para bebé – If Grandad Can t Fix It No One Can DIY Herramientas – Body de bebé de una sola pieza mameluco de bebé el mejor regalo para bebé'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08723WDTK/?tag=tolees-21'
 descuento: '61.32'
 average: '13.4'

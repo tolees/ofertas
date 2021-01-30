@@ -16,6 +16,7 @@ comparePrice: 20.74 EUR
 prodname: 'Ferilinso Funda para Samsung Galaxy M20  Ultra [Slim Thin] Resistente a los arañazos TPU Caucho Piel Suave Silicona Funda Protectora para Samsung Galaxy M20  Transparente '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MV71RDG/?tag=tolees-21'
 descuento: '61.48'
 average: '7.99'

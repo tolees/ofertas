@@ -16,6 +16,7 @@ comparePrice: 159.07 EUR
 prodname: 'Casio Reloj de Pulsera EFV-580D-7AVUEF'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K8PSV3H/?tag=tolees-21'
 descuento: '50.21'
 average: '72.325'

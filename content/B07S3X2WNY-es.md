@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'New Balance 373 h  Zapatillas para Hombre  Azul  Navy/Yellow AA   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S3X2WNY/?tag=tolees-21'
 descuento: '41.04'
 average: '47.17'

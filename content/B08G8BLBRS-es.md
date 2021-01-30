@@ -16,6 +16,7 @@ comparePrice: 19.98 EUR
 prodname: 'Lechnical Termómetros infrarrojos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08G8BLBRS/?tag=tolees-21'
 descuento: '65.07'
 average: '14.78'

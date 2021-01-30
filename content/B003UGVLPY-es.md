@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Nixon Reloj Unisex de Digital con Correa en Acero Inoxidable Chapado A158-001-00'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003UGVLPY/?tag=tolees-21'
 descuento: '39.83'
 average: '78.0375'

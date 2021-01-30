@@ -16,6 +16,7 @@ comparePrice: 61.99 EUR
 prodname: 'La Mulana 1 & 2 - Hidden Treasures Edition'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XJ6SPFZ/?tag=tolees-21'
 descuento: '29.36'
 average: '51.25666666666667'

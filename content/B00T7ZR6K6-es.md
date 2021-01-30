@@ -16,6 +16,7 @@ comparePrice: 35.95 EUR
 prodname: 'Shock Absorber Active Shaped Support  Sujetador Deportivo para Mujer  Negro/Azul Neon  75B'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00T7ZR6K6/?tag=tolees-21'
 descuento: '29.29'
 average: '25.42'

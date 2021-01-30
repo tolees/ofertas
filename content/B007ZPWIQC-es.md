@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Melissa & Doug- Box of Rainbow Mini Tarjetas para Dibujar  Multicolor  15945 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007ZPWIQC/?tag=tolees-21'
 descuento: '25.53'
 average: '7.44'

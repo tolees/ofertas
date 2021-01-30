@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'New Balance Fresh Foam Zante Pursuit  Zapatillas de Running para Mujer  Negro  Black/White Black/White   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BL2QWPZ/?tag=tolees-21'
 descuento: '56.14'
 average: '48.66'

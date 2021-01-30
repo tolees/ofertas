@@ -16,6 +16,7 @@ comparePrice: 12.98 EUR
 prodname: 'Funda iphone 7 Plus/iphone 8 Plus Case ultrafino diseño de dibujos lindo TPU Parachoques Anti-Arañazos Anti-huella dactilar a prueba de choque case protectora  Cactus '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HH7H2WG/?tag=tolees-21'
 descuento: '53.93'
 average: '5.98'

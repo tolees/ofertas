@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Skechers Be-Lux-Daylights  Merceditas para Mujer  Azul  Navy Mesh/Druabuck/Off White Trim Nvy   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TTJGND4/?tag=tolees-21'
 descuento: '46.69'
 average: '32.620000000000005'

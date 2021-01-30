@@ -16,6 +16,7 @@ comparePrice: 10.93 EUR
 prodname: 'Car Styling Platinum Power Handle Volante Volante asistido por metal Booster Spin Knob Clamp Apto para automóviles universales'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0895KJRMP/?tag=tolees-21'
 descuento: '39.98'
 average: '6.56'

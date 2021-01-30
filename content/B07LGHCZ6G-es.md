@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Nike Jordan CLC99 - Gorra  Unisex Adulto  Black/White  MISC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LGHCZ6G/?tag=tolees-21'
 descuento: '44.15'
 average: '16.75'

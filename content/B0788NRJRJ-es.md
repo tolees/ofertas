@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Salomon Quest 4D 3 GTX W  Botas de Senderismo para Mujer  Multicolor  Lead/Stormy Weather/Bird of Paradis 000   36 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0788NRJRJ/?tag=tolees-21'
 descuento: '27.00'
 average: '145.99'

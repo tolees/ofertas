@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Edge Entertainment- Stormtroopers Sw Imperial Assault: Soldados de Asalto - español  Color  Fantsy Flight Games EDGSWI14 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CUQPIXA/?tag=tolees-21'
 descuento: '29.83'
 average: '10.49'

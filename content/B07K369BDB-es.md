@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'adidas Runfalcon  Zapatillas de Running para Hombre  Multicolor  Dark Blue/FTWR White/Core Black F36201   44 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K369BDB/?tag=tolees-21'
 descuento: '37.44'
 average: '29.645'

@@ -16,6 +16,7 @@ comparePrice: 37.05 EUR
 prodname: 'Nike Downshifter 9  PSV   Zapatillas de Running Unisex Niños  Rosa  Pink Foam/White/Mtlc Silver/Pure Platinum 601   33 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LCS2JLC/?tag=tolees-21'
 descuento: '29.96'
 average: '25.95'

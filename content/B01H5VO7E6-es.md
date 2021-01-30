@@ -16,6 +16,7 @@ comparePrice: 12.5 EUR
 prodname: 'L Óreal Paris Dermo Expertise - Age Perfect  loción serum Golden Age  pieles maduras - 125 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01H5VO7E6/?tag=tolees-21'
 descuento: '28.80'
 average: '10.1'

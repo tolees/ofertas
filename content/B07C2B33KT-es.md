@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'JACK & JONES Jjebasic Knit V-Neck Noos suéter  Azul Navy Blazer  Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C2B33KT/?tag=tolees-21'
 descuento: '44.02'
 average: '14.192'

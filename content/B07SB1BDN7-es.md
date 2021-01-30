@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'GREAT ART Foto Mural Infantil Animales de la Selva Decoracion Jungla Poster para Ninos 210 x 140 cm - Papel Pintado 5 Piezas incluye Pasta para pegar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SB1BDN7/?tag=tolees-21'
 descuento: '43.88'
 average: '44.9'

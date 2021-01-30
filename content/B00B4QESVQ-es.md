@@ -16,6 +16,7 @@ comparePrice: 80.61 EUR
 prodname: 'HGST Travelstar 7K1000 1TB - Disco Duro Interno de 1 TB  Serial ATA III  1000 GB  2.5"   Negro y Plateado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00B4QESVQ/?tag=tolees-21'
 descuento: '36.41'
 average: '51.26'

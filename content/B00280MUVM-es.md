@@ -16,6 +16,7 @@ comparePrice: 11.16 EUR
 prodname: 'Chuckit! 17030 Ultra Ball Large  1 Pelota para Perros Compatible con el Lanzador  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00280MUVM/?tag=tolees-21'
 descuento: '46.33'
 average: '5.99'

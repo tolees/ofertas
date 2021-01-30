@@ -16,6 +16,7 @@ comparePrice: 259.0 EUR
 prodname: 'Moza Mini C - Estabilizador portátil para Smartphones  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XQ1RDM7/?tag=tolees-21'
 descuento: '65.62'
 average: '92.76'

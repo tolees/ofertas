@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Philips Avent Classic - Set de 2 chupetes decorados  para niños de 0 a 6 meses  multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01J3T1I3G/?tag=tolees-21'
 descuento: '31.04'
 average: '4.82'

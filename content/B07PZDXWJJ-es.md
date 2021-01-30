@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Pop! Figura De Vinil: TV: Dark Crystal - Aughra'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PZDXWJJ/?tag=tolees-21'
 descuento: '33.11'
 average: '9.583333333333334'

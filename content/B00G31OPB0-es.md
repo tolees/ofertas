@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Kingston DTVP30/8GB - Memoria USB 3.0 de 8 GB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00G31OPB0/?tag=tolees-21'
 descuento: '36.14'
 average: '31.9'

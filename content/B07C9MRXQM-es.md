@@ -16,6 +16,7 @@ comparePrice: 3.68 EUR
 prodname: 'Bullet - Barra de cacao Deale para labios  7 x 1.8 cm   Azul claro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C9MRXQM/?tag=tolees-21'
 descuento: '33.42'
 average: '2.45'

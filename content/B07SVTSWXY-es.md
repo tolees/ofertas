@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'Maneki Neko Feng Shui Colgante con gato Japonés Porcelana tradicional Lucky Charm Gift Rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SVTSWXY/?tag=tolees-21'
 descuento: '70.29'
 average: '10.99'

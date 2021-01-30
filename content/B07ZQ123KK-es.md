@@ -16,6 +16,7 @@ comparePrice: 4.66 EUR
 prodname: 'KOKO Zhu Espejo de lechón Asiento de Seguridad para el automóvil Vista Interior Vista Posterior del bebé Orientación Posterior Cuidado Niño Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZQ123KK/?tag=tolees-21'
 descuento: '51.72'
 average: '2.25'

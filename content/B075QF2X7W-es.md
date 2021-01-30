@@ -16,6 +16,7 @@ comparePrice: 169.0 EUR
 prodname: 'Fossil Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero FS5381'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075QF2X7W/?tag=tolees-21'
 descuento: '47.10'
 average: '89.504'

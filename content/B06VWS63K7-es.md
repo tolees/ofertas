@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Joyoldelf 30 Moldes para Galletas Moldes Galletas Acero Inoxidable para Pastel  Cookie  Fondant'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06VWS63K7/?tag=tolees-21'
 descuento: '25.02'
 average: '10.323333333333334'

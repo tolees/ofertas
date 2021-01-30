@@ -16,6 +16,7 @@ comparePrice: 33.3 EUR
 prodname: 'Fleet & Foster - Zapatillas Deportivas Canary Summer para Mujer señora  39 EU   Gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BZXRB2Z/?tag=tolees-21'
 descuento: '33.33'
 average: '22.2'

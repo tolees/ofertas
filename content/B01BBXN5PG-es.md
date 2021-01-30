@@ -16,6 +16,7 @@ comparePrice: 450.0 EUR
 prodname: 'Samsonite 73349/1549 Cosmolite Spinner - Equipaje de Mano  Azul  Midnight Blue   S  55 cm-36 L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BBXN5PG/?tag=tolees-21'
 descuento: '30.00'
 average: '335.25'

@@ -16,6 +16,7 @@ comparePrice: 19.32 EUR
 prodname: 'Lámpara de mesita de Noche Redonda Minimalista de Madera Maciza  lámpara de Escritorio Redonda con Pantalla de Tela para Dormitorio  habitación de los niños  Sala de Estar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QNSGSQ4/?tag=tolees-21'
 descuento: '31.00'
 average: '13.33'

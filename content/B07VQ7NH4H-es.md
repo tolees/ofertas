@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Edge Entertainment- Hellboy: el Juego de Tablero  Color  EEMTHB01 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VQ7NH4H/?tag=tolees-21'
 descuento: '33.38'
 average: '71.4625'

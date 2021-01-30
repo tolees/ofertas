@@ -16,6 +16,7 @@ comparePrice: 120 EUR
 prodname: 'Salomon X Radiant Mid GTX W  Zapatillas de Senderismo para Mujer  Marrón  Bungee Cord/Kaki/Velvet Morning   40 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D12MYS7/?tag=tolees-21'
 descuento: '38.88'
 average: '73.35'

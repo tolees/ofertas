@@ -16,6 +16,7 @@ comparePrice: 38.68 EUR
 prodname: 'Dek - Deportivas de Cordones Erica Super Ligeras para Chica Mujer  38 EU   Marino/Turquesa '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VXWB9G8/?tag=tolees-21'
 descuento: '52.30'
 average: '18.45'

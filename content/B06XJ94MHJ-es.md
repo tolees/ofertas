@@ -16,6 +16,7 @@ comparePrice: 37.23 EUR
 prodname: 'Winhappyhome Logotipo De La Belleza De La PeluqueríA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XJ94MHJ/?tag=tolees-21'
 descuento: '65.94'
 average: '12.636666666666667'

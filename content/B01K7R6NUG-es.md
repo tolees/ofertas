@@ -16,6 +16,7 @@ comparePrice: 1.67 EUR
 prodname: 'Granini Zumo Naranja - 1 l'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K7R6NUG/?tag=tolees-21'
 descuento: '40.12'
 average: '1.0'

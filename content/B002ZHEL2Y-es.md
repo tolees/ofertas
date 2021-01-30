@@ -16,6 +16,7 @@ comparePrice: 11.79 EUR
 prodname: 'Zeller 13130 Reposapiés  Madera  Marrón  39x19x21 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002ZHEL2Y/?tag=tolees-21'
 descuento: '32.23'
 average: '7.99'

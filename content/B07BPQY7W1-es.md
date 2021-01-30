@@ -16,6 +16,7 @@ comparePrice: 30.15 EUR
 prodname: 'Jura Journey Single Malt Scotch Whisky - 0.7 L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BPQY7W1/?tag=tolees-21'
 descuento: '32.67'
 average: '21.913333333333334'

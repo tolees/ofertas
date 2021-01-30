@@ -16,6 +16,7 @@ comparePrice: 33.45 EUR
 prodname: 'Levi s Sipsey Cinturón  Marrón  Medium Brown 27   100 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076H4ZVFQ/?tag=tolees-21'
 descuento: '53.69'
 average: '15.49'

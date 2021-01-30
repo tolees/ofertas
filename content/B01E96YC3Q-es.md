@@ -16,6 +16,7 @@ comparePrice: 182.0 EUR
 prodname: 'UGG 1016501  Botas de Nieve Mujer  Marrón  Chestnut   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01E96YC3Q/?tag=tolees-21'
 descuento: '28.42'
 average: '130.64499999999998'

@@ -16,6 +16,7 @@ comparePrice: 11.26 EUR
 prodname: 'Compo Compo Fazilo Insecticida Acción Total  Para plantas ornamentales de interior y exterior  Envase pulverizador  Multicolor  750 ml  1463502011'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00WSGTTN8/?tag=tolees-21'
 descuento: '73.36'
 average: '5.473999999999999'

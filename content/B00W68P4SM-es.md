@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Dickies Slim Fit Work Pant Pantalones  Negro  Black BK    Tamaño del Fabricante:40/34  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00W68P4SM/?tag=tolees-21'
 descuento: '29.84'
 average: '38.59'

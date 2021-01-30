@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'LEWOTE Airpods Carcasa de Silicona Compatible con Airpods de Apple 1 y 2 [Diseño de Dibujos][Niñas o Parejas]  Captain America '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WQW2YW2/?tag=tolees-21'
 descuento: '25.02'
 average: '10.49'

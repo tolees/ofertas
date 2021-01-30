@@ -16,6 +16,7 @@ comparePrice: 42.99 EUR
 prodname: 'Lonsdale - Pantalones de correr con dos rayas  con cordón y bolsillos para hombre Color gris y blanco. XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008XFDXM6/?tag=tolees-21'
 descuento: '53.50'
 average: '19.99'

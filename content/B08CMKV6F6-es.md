@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Reloj Digital Deportivo para Niños  Reloj de Pulsera Niña Multifunción con Pantalla LED Impermeable 30M para Niños  Niñas Reloj Infantil Aprendizaje para Niños 4-15 Años  Rosa '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CMKV6F6/?tag=tolees-21'
 descuento: '39.56'
 average: '13.29'

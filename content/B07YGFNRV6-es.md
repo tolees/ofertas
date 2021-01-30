@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'MTNG Attitude 69145  Zapatillas para Mujer  Azul  /Puntini Azul Claro C49334   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YGFNRV6/?tag=tolees-21'
 descuento: '49.99'
 average: '20.0'

@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Jack & Jones Jacharry Belt Noos Cinturón  Marrón  Black Coffee Black Coffee   80 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078HHB1H8/?tag=tolees-21'
 descuento: '30.79'
 average: '8.940000000000001'

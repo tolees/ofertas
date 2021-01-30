@@ -16,6 +16,7 @@ comparePrice: 220.0 EUR
 prodname: 'NOX Pala ML10 Pro Cup Survivor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077PGY1SB/?tag=tolees-21'
 descuento: '32.84'
 average: '146.25'

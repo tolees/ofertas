@@ -16,6 +16,7 @@ comparePrice: 63.34 EUR
 prodname: 'Casio Reloj de Pulsera MTP-1303PD-1AVEF'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0039UT5HW/?tag=tolees-21'
 descuento: '44.76'
 average: '35.29277777777778'

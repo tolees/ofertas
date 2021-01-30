@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'WeightWorld Plataforma Vibratoria 3D para Adelgazar y Relajar Músculos - Máquina de Ejercicio  Entrenamiento en Casa  Mejora Circulación  Altavoces Bluetooth  Bandas de Resistencia  99 Niveles'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LH6X6VC/?tag=tolees-21'
 descuento: '33.34'
 average: '99.99'

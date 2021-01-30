@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Doact Corrector de Postura  Corrector de Postura Espalda con Hombreras Blandas y Cinturones Elásticos Ajustables para Niños y Adolescentes Cifosis  Jorobado  L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K24LL3T/?tag=tolees-21'
 descuento: '56.03'
 average: '14.389999999999999'

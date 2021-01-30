@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'GLOBE Motley  Zapatillas de Skateboard para Hombre  Negro  Black Suede/Toffee 20462   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MXW54KT/?tag=tolees-21'
 descuento: '65.40'
 average: '23.325'

@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'HiFi Walker A6 Triple Driver Auriculares intrauditivos Auriculares de Alta resolución  Bajos estéreo y Sonido de Cristal  micrófono y Control Remoto en línea con Control de Volumen'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JMV5H9G/?tag=tolees-21'
 descuento: '64.03'
 average: '16.99'

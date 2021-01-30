@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Maclaren Organizador Universal Twin Para Tener Lo Esencial Siempre a Mano  Se Adapta a Maclarens y Mayoría de las Marcas  Accesorio Ideal para Sillas de Paseo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00T7R52YG/?tag=tolees-21'
 descuento: '51.49'
 average: '16.98'

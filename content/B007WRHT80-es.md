@@ -16,6 +16,7 @@ comparePrice: 1999.0 EUR
 prodname: 'Gre KIT730W Pacific - Piscina Elevada Ovalada  Aspecto Madera  730 x 375 x 120 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007WRHT80/?tag=tolees-21'
 descuento: '76.74'
 average: '465.0'

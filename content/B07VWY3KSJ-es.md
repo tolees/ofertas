@@ -16,6 +16,7 @@ comparePrice: 13.85 EUR
 prodname: 'Fairy Tail & Glitzer Fee - Granulado de arena decorativa  620 g  para rellenar vasos  jarrones o cuencos  colores rosa  rojo  azul  verde y negro  rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VWY3KSJ/?tag=tolees-21'
 descuento: '31.05'
 average: '9.55'

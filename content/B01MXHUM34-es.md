@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Under Armour Rival Fitted Tapered Jogger Pantalones  Hombre  Gris  Carbon Heather/Black 090   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MXHUM34/?tag=tolees-21'
 descuento: '51.84'
 average: '26.74'

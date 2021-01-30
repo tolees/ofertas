@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Finocam - Agenda Curso 2020-2021 para Secundaria Octavo  120 x 169  1 Día Página  sept-jun  Mini Institut Vuela  Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085R1GZSZ/?tag=tolees-21'
 descuento: '30.15'
 average: '6.95'

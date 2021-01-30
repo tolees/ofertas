@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Manijas de Inclinación para Asiento Delantero Derecho e Izquierdo para F-ord Fiesta MK6 2002-2008  1 par '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q5XV17R/?tag=tolees-21'
 descuento: '30.78'
 average: '18.59'

@@ -16,6 +16,7 @@ comparePrice: 12.1 EUR
 prodname: 'STANLEY 4-18-298 - Juego de 3 cinceles de albanil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000X29DSA/?tag=tolees-21'
 descuento: '34.71'
 average: '7.9'

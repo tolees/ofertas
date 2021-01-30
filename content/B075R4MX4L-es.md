@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Firbon Álbum de Fotos  álbum de Recortes  Pegatina Creativa del Diario con Grabado en Forma de corazón. Aniversario de Boda  cumpleaños  día de la Madre  día de San Valentín Idea de Regalo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075R4MX4L/?tag=tolees-21'
 descuento: '28.96'
 average: '13.89'

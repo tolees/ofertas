@@ -16,6 +16,7 @@ comparePrice: 62.99 EUR
 prodname: 'Igrome Utensilios Cocina Camping 13PCS Camping Kit de Portátil y Liviano Acero Inoxidable Ollas y Sartenes para Acampada Excursión  Escalada Senderismo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SNRHTCW/?tag=tolees-21'
 descuento: '63.50'
 average: '22.99'

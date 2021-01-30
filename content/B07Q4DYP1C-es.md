@@ -16,6 +16,7 @@ comparePrice: 40.5 EUR
 prodname: 'Licor Picante de Guindilla Verde Dr Zas - 3 botellas de 70 cl - Total: 210 cl'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q4DYP1C/?tag=tolees-21'
 descuento: '50.00'
 average: '20.25'

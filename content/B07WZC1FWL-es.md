@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Asbww | Dron GPS con Cámara Full HD 1080p para Principiantes - Drone Cuadricóptero RC con Retorno Automático / Fotos y Vídeo HD 1080p / Transmisión en Tiempo Real FPV'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WZC1FWL/?tag=tolees-21'
 descuento: '36.67'
 average: '95.46619047619048'

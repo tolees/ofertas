@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Mini Vibrador Neo Plus super potente/Masajeador perfecto para uso externo/Ideal para jugar por todo el cuerpo  para hombre y mujer  Lila '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K6KJDG5/?tag=tolees-21'
 descuento: '42.87'
 average: '19.99'

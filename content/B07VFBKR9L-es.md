@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'CARPISA ® Cartera mujer con cierre de clip - Soya Wallet'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VFBKR9L/?tag=tolees-21'
 descuento: '49.97'
 average: '9.98'

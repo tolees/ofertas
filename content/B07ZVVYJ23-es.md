@@ -16,6 +16,7 @@ comparePrice: 40.49 EUR
 prodname: 'Levi s 511 Slim Hemmed Denim Shorts  Rye Short  31 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZVVYJ23/?tag=tolees-21'
 descuento: '27.14'
 average: '29.5'

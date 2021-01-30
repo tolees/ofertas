@@ -16,6 +16,7 @@ comparePrice: 11.59 EUR
 prodname: 'Multímetro De Mano Multímetro Luminoso Pantalla LCD Digital Durable Resistente A Caídas Multímetro De Alta Precisión Para Electricista'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B16RDMS/?tag=tolees-21'
 descuento: '52.03'
 average: '5.56'

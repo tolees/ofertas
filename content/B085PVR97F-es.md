@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Bombilla H4 LED para Moto con Ojos de Angel  6400LM Moto LED Faro DC 12V 1 Lámpara-Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085PVR97F/?tag=tolees-21'
 descuento: '30.56'
 average: '24.99'

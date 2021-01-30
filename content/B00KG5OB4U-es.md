@@ -16,6 +16,7 @@ comparePrice: 68.29 EUR
 prodname: 'Love2Wait Sophia Pantalones  Negro  Schwarz-Schwarz   W28 para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KG5OB4U/?tag=tolees-21'
 descuento: '87.11'
 average: '8.8'

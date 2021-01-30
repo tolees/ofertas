@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Adidas Falcon  Zapatillas de Trail Running para Hombre  Negro/Blanco  Core Black/Cloud White F36199   43 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JMJNGFY/?tag=tolees-21'
 descuento: '28.01'
 average: '35.480000000000004'

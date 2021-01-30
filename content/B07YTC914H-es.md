@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Cortapelo Profesional Hombre Máquina Afeitar Barba Recargable Inalámbrica con Peines 4-24 mm/Derecha/Izquierda Para Usar en el Hogar y la Peluquería ELEHOT'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YTC914H/?tag=tolees-21'
 descuento: '34.10'
 average: '21.74'

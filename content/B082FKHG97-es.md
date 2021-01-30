@@ -16,6 +16,7 @@ comparePrice: 2.26 EUR
 prodname: 'Nuevos Hombres Mujeres Cabello Champú Cuero cabelludo Masaje corporal Masajeador Cepillo Peine - Mezclar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082FKHG97/?tag=tolees-21'
 descuento: '31.86'
 average: '1.54'

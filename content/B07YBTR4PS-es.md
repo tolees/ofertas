@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Máscara para pelo  Crecimiento del cabell  Tratamiento para el Cabello Hair Mask  para acelerar el crecimiento del cabello  promueve más cabello ticker  más completo y más rápido crecimiento'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YBTR4PS/?tag=tolees-21'
 descuento: '34.63'
 average: '16.99'

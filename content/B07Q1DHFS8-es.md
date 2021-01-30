@@ -16,6 +16,7 @@ comparePrice: 20.55 EUR
 prodname: 'Lav ADR15 Coloure - Vasos de whisky  290 ml  6 unidades   Vidrio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q1DHFS8/?tag=tolees-21'
 descuento: '29.68'
 average: '14.45'

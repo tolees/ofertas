@@ -16,6 +16,7 @@ comparePrice: 4.25 EUR
 prodname: 'La Toja Selection - Gel de ducha Exfoliante con Sales Minerales - 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QD4GMMF/?tag=tolees-21'
 descuento: '43.76'
 average: '2.5433333333333334'

@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Skechers Men s Stamina-CONTIC Trainers  Grey  Gray & Red Gray Leather/Pu/Blue Mesh/Black Trim Gymt   5.5  39 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GH2R45H/?tag=tolees-21'
 descuento: '52.58'
 average: '37.04'

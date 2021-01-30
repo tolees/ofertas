@@ -16,6 +16,7 @@ comparePrice: 55.99 EUR
 prodname: 'Bolsas de plástico resellables  bolsa sellada  bolsa de almacenamiento  30X40cm 100pcs  engrosamiento y duradero  se aplican a diversos artículos del hogar/almacenamiento de la cocina/ropa sellada'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CNH45ZB/?tag=tolees-21'
 descuento: '51.79'
 average: '26.99'

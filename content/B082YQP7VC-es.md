@@ -16,6 +16,7 @@ comparePrice: 8.97 EUR
 prodname: 'Hilo de bordado diy de 100 colores Hilo de bordado de 8 m 6 hilos Hilo de bordado de algodón ecológico Hilo de punto de cruz'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082YQP7VC/?tag=tolees-21'
 descuento: '29.99'
 average: '6.28'

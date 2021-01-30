@@ -16,6 +16,7 @@ comparePrice: 96.0 EUR
 prodname: 'Lacoste Ph4014  Polo para Hombre  Negro  Black 031   Small  Talla del fabricante: 3 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00Y4XUOYQ/?tag=tolees-21'
 descuento: '50.05'
 average: '46.160000000000004'

@@ -16,6 +16,7 @@ comparePrice: 58.66 EUR
 prodname: 'Memoria USB 16GB 10 Piezas Pen Drives - Portátil Pendrive 16 GB Práctico USB 2.0 Flash Drive Multicolor Pulsera - Almacenamiento de Datos Económico Llaves USB para Regalo de Cumpleaños by FEBNISCTE'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00P2JEGZ4/?tag=tolees-21'
 descuento: '28.42'
 average: '41.99'

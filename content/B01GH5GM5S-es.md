@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Under Armour Tech Polo  Hombre  Blanco  White/Graphite/Graphite 100   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GH5GM5S/?tag=tolees-21'
 descuento: '51.28'
 average: '19.74'

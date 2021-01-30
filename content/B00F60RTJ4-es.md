@@ -16,6 +16,7 @@ comparePrice: 5.77 EUR
 prodname: 'Equip 625423 - Cable de Red  0 25 m  Cat6  U/UTP  UTP   RJ-45  RJ-45  Rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00F60RTJ4/?tag=tolees-21'
 descuento: '83.54'
 average: '0.95'

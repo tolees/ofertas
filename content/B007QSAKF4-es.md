@@ -16,6 +16,7 @@ comparePrice: 229.0 EUR
 prodname: 'Dainese Action Vest Pro Protector  Hombre  Blanco/Negro  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007QSAKF4/?tag=tolees-21'
 descuento: '68.03'
 average: '73.2'

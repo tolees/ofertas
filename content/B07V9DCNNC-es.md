@@ -16,6 +16,7 @@ comparePrice: 12.39 EUR
 prodname: 'Máscara para los ojos del sueño - Máscara para los ojos del sueño para hombres y mujeres - Máscara para los ojos que duerme  Máscara para los ojos transpirable  Gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V9DCNNC/?tag=tolees-21'
 descuento: '61.34'
 average: '4.79'

@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'IntimaTe WM Heart 2 x Taburetes de Bar Cuadrado y Moderno Tapizados en Cuero de PU Silla Altura Ajustable Giratoria para Bar Cocina  Rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C5PV4VB/?tag=tolees-21'
 descuento: '46.93'
 average: '68.99'

@@ -16,6 +16,7 @@ comparePrice: 40.9 EUR
 prodname: 'Orbegozo PCE 5000 - Placa vitrocerámica portatil  2000 W de potencia  cuerpo de acero inoxidable  termostato regulable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LXPDJF0/?tag=tolees-21'
 descuento: '29.34'
 average: '28.9'

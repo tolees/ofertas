@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'H1 LED 10800LM Bombillas para Montaje de Faros Delanteros de Coches  12V  6000K'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TV4H1G7/?tag=tolees-21'
 descuento: '39.30'
 average: '16.99'

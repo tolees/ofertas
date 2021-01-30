@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'AngLink Mechero Electrico  Encendedor USB Doble Arco Eléctrico - Mechero Recargable y Resistente al Viento con Indicación de Batería para Cigarrillos Velas Cocina  Caja de Regalo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JQHH1GT/?tag=tolees-21'
 descuento: '50.02'
 average: '14.99'

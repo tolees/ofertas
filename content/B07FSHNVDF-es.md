@@ -16,6 +16,7 @@ comparePrice: 299.95 EUR
 prodname: 'Oral-B Genius 10000N CrossAction - Cepillo Eléctrico  1 Negro Noche Mango Conectado  6 Modos Blanqueado  Sensible  Encías  4 Cabezales  Funda de Viaje con Puerto USB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FSHNVDF/?tag=tolees-21'
 descuento: '65.33'
 average: '142.6418181818182'

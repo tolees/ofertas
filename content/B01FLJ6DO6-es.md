@@ -16,6 +16,7 @@ comparePrice: 168.19 EUR
 prodname: 'Bosch Professional 0601066E00 Nivel GCL 2-15 interior  con puntos de plomada  3 pilas AA  soporte giratorio RM 1  placa reflectora  estuche de protección  Láser rojo sin maletín  1.5 V  15 m'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FLJ6DO6/?tag=tolees-21'
 descuento: '40.55'
 average: '106.56333333333333'

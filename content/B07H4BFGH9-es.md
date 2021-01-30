@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Silver HT Space - Funda Universal Estampada  9-10.1"  Color Azul metálico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H4BFGH9/?tag=tolees-21'
 descuento: '35.02'
 average: '12.99'

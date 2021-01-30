@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Vinilos para Cristales Zindoo Vinilo Ventana Vinilo Translucido Vinilos Decorativos Cristales Laminas para Ventanas Proteger la Privacidad del Bano 45 X 200 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XGHV89F/?tag=tolees-21'
 descuento: '37.52'
 average: '9.99'

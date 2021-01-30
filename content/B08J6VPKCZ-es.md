@@ -16,6 +16,7 @@ comparePrice: 6.03 EUR
 prodname: 'DEtasyXworld Funda para portátil de 15 Pulgadas Funda Protectora Repelente a Prueba de Golpes Funda para portátil y Tableta Funda para Macbook-Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08J6VPKCZ/?tag=tolees-21'
 descuento: '33.50'
 average: '4.01'

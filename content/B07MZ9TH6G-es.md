@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'Levi s  ® L Series Small Twill Tape Bolsa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZ9TH6G/?tag=tolees-21'
 descuento: '50.02'
 average: '14.49'

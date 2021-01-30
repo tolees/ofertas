@@ -16,6 +16,7 @@ comparePrice: 112.49 EUR
 prodname: 'New Balance Wl697trb  Zapatillas de Running para Mujer  Azul  Pigment/Smoke Blue TRB   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075R7JNMN/?tag=tolees-21'
 descuento: '72.66'
 average: '32.195'

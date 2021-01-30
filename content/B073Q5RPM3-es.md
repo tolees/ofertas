@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Real Madrid Funda Tablet Universal de 10.1" Pulgadas - Tipo Libro con Escudo Oficial y de Color Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073Q5RPM3/?tag=tolees-21'
 descuento: '56.76'
 average: '12.95'

@@ -16,6 +16,7 @@ comparePrice: 1469.0 EUR
 prodname: 'Canon 12x32 IS - Prismático  12x  diámetro Efectivo de 32 mm  óptica de Prisma Porro II  estabilizador de Imagen motorizado  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074N98VRP/?tag=tolees-21'
 descuento: '44.73'
 average: '811.95'

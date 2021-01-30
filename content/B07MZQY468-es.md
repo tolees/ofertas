@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Pepe Jeans Misshine suéter   Light Khaki 715   Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZQY468/?tag=tolees-21'
 descuento: '46.00'
 average: '30.07'

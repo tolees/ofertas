@@ -16,6 +16,7 @@ comparePrice: 59.38 EUR
 prodname: 'B Blesiya Unidad Disquete USB Externa Sfrm72-du26 Complimentos Fácil Instalación Conveniente Duradero'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L6L9FNG/?tag=tolees-21'
 descuento: '44.44'
 average: '30.714782608695653'

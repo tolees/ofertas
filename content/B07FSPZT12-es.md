@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Clarks Step Cali Cove  Zapatillas para Mujer  Azul  Blue -   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FSPZT12/?tag=tolees-21'
 descuento: '57.57'
 average: '29.68'

@@ -16,6 +16,7 @@ comparePrice: 28.95 EUR
 prodname: 'Buff Adventure Junior Frozen Tubular Polar  Unisex Adulto  Azul  Scuba   Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FQFDNPF/?tag=tolees-21'
 descuento: '39.59'
 average: '17.49'

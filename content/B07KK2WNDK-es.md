@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Columbia Peakfreak X2 Mid Outdry  Botas de Senderismo para Mujer  Gris  Shark  Lagoon 011   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KK2WNDK/?tag=tolees-21'
 descuento: '57.68'
 average: '55.01'

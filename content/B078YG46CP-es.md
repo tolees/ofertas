@@ -16,6 +16,7 @@ comparePrice: 33.91 EUR
 prodname: 'Lorus Reloj Digital para Unisex de Cuarzo con Correa en Silicona R2393LX9'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078YG46CP/?tag=tolees-21'
 descuento: '44.94'
 average: '14.175333333333336'

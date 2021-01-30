@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Paquete de 20 máscaras Desechables  máscara de Filtro de Triple Capa con bucles para los oídos  máscara Antipolvo  máscara de Pintura  Media máscara'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086YZLS81/?tag=tolees-21'
 descuento: '30.02'
 average: '13.99'

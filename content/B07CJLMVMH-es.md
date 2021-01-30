@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Only Onlelcos 4/5 Top Jrs Noos suéter  Gris  Night Sky AOP: Night Sky with White Flowers   40  Talla del Fabricante: Medium  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CJLMVMH/?tag=tolees-21'
 descuento: '30.22'
 average: '13.95'

@@ -16,6 +16,7 @@ comparePrice: 52.32 EUR
 prodname: 'Nelly Espuma para Pelo - 12 Recipientes de 300 ml - Total: 3600 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0784QSVJS/?tag=tolees-21'
 descuento: '47.25'
 average: '27.6'

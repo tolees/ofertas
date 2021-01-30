@@ -16,6 +16,7 @@ comparePrice: 109.95 EUR
 prodname: 'PUMA LQDCELL Optic Sheer  Zapatillas de Running para Hombre  Gray Violet Black  44.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFY5PYM/?tag=tolees-21'
 descuento: '46.54'
 average: '58.7'

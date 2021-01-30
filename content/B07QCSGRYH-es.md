@@ -16,6 +16,7 @@ comparePrice: 9.5 EUR
 prodname: 'L Oréal Men Expert - Hydra Energetic 2 en 1 aftershave y cuidado hidratante  para hombres - 125 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QCSGRYH/?tag=tolees-21'
 descuento: '47.47'
 average: '6.484'

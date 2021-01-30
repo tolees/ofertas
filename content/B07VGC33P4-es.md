@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Nike Pico 5  TDV   Unisex-Baby  White White Pure Platinum  25 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VGC33P4/?tag=tolees-21'
 descuento: '26.77'
 average: '19.04'

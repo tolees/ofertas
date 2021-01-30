@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'MTNG Attitude 69861  Zapatillas para Mujer  Beige  Soft Taupe C27824   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QB3XQ59/?tag=tolees-21'
 descuento: '33.69'
 average: '15.56'

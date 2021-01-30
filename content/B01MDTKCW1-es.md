@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Festina Reloj Análogo clásico para Hombre de Cuarzo con Correa en Cuero F20249/2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MDTKCW1/?tag=tolees-21'
 descuento: '50.34'
 average: '74.93241379310345'

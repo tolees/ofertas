@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Medidor de Contornos para Suelo 120MM Herramienta de Medición de Perfil Irregular Medidor de Forma y Contorno Duplicador de Contorno para Medición Precisa de Baldosas en Madera Laminada Marcado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WZFC7J5/?tag=tolees-21'
 descuento: '38.49'
 average: '7.99'

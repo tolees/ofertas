@@ -16,6 +16,7 @@ comparePrice: 259.0 EUR
 prodname: 'Calvin Klein Reloj para de con Correa en Caucho K8R114D1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CYS12WY/?tag=tolees-21'
 descuento: '54.05'
 average: '102.33333333333333'

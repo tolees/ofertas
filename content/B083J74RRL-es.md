@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Auriculares inalámbricos Bluetooth 5.0  Auriculares inalámbricos estéreo Proda TWS 3D en la Oreja con micrófono con cancelación de Ruido y Caja de Carga Compatible para Android/iPhone Samsung'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083J74RRL/?tag=tolees-21'
 descuento: '44.45'
 average: '69.99'

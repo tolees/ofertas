@@ -16,6 +16,7 @@ comparePrice: 25.18 EUR
 prodname: 'Alfombrilla de ratón para juegos RGB ampliada  extra grande para juegos  alfombrilla de ratón para jugador  resistente al agua  para oficina DEST con 10 modos de iluminación  para PC Ordenador RGB Teclado Ratón MacBook  800 x 400 x 4 mm  mapa de dibujos animados '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z7CTYRX/?tag=tolees-21'
 descuento: '49.52'
 average: '12.71'

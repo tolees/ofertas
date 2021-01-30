@@ -16,6 +16,7 @@ comparePrice: 50.99 EUR
 prodname: 'Nightmare Boy - Mongano´s Edition'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089Z3KCC2/?tag=tolees-21'
 descuento: '41.18'
 average: '29.99'

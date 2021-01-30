@@ -16,6 +16,7 @@ comparePrice: 33.76 EUR
 prodname: 'Blow 750M Antena emisora CB 300W base magnética desmontable  coches  furgonetas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BN6TS2Q/?tag=tolees-21'
 descuento: '25.98'
 average: '24.99'

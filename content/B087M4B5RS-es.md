@@ -16,6 +16,7 @@ comparePrice: 16.02 EUR
 prodname: 'ikeepi 100 unidades desechables Mund-Nasen-Schutz 3-lagig Staubschutz Vliesstoff Schutzfilter confortable  100 unidades  1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087M4B5RS/?tag=tolees-21'
 descuento: '50.69'
 average: '7.95'

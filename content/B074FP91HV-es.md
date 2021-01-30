@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Reloj Festina - Mujer F20336/1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074FP91HV/?tag=tolees-21'
 descuento: '27.47'
 average: '94.565'

@@ -16,6 +16,7 @@ comparePrice: 56.89 EUR
 prodname: 'Beslands Esterilla de calefacción Perros y Gatos  15 W  Esterilla térmica e Impermeable  con 7 temperaturas Ajustables  40 x 30 cm   S '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZL9XD5/?tag=tolees-21'
 descuento: '90.86'
 average: '5.2'

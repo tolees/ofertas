@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'UniqueMe Funda para Huawei P30 Lite  Ultra [Slim Thin] TPU Funda Protectora TPU de Silicona Suave - Transparente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MJ96YQB/?tag=tolees-21'
 descuento: '85.78'
 average: '1.99'

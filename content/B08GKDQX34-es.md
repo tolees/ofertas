@@ -16,6 +16,7 @@ comparePrice: 5.98 EUR
 prodname: 'GZ Caja De Almacenamiento De Máscara A Prueba De Polvo Impermeable Caja De Organizador De Cubierta Facial Desechable  3 Piezas Azul Rosado Verde '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08GKDQX34/?tag=tolees-21'
 descuento: '40.13'
 average: '3.58'

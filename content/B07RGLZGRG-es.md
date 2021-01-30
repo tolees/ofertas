@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'SALOMON Sense Feel  Zapatillas de Trail Running para Hombre  Gris  Mineral Gray/Pearl Blue/Safety Yellow   40 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RGLZGRG/?tag=tolees-21'
 descuento: '54.17'
 average: '42.08'

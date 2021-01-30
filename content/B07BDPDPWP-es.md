@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'American Tourister Sunside Spinner 55/20 Equipaje de Mano  55 cm  35 litros  Rojo  Sunset Red '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BDPDPWP/?tag=tolees-21'
 descuento: '35.63'
 average: '77.39999999999999'

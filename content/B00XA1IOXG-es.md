@@ -16,6 +16,7 @@ comparePrice: 37.0 EUR
 prodname: 'BabyVip - Body para niño y niña  Estilo Abotonado  100% algodón  Hilo escocés - Blanco - 18-24 Meses'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XA1IOXG/?tag=tolees-21'
 descuento: '41.62'
 average: '21.6'

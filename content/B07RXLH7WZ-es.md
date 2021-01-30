@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'New Balance 500  Zapatillas para Mujer  Gris  Grey HHC   36.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RXLH7WZ/?tag=tolees-21'
 descuento: '52.56'
 average: '30.26'

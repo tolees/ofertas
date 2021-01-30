@@ -16,6 +16,7 @@ comparePrice: 209.0 EUR
 prodname: 'Chicco Liteway 3 Silla de paseo plegable y multifuncional  Unisex Bambini  Gris  Titanium '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G38C4TD/?tag=tolees-21'
 descuento: '28.25'
 average: '150.93200000000002'

@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Puma RS-X Toys 370920 01'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V8N5LLS/?tag=tolees-21'
 descuento: '36.41'
 average: '69.95'

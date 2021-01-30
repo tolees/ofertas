@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Tommy Hilfiger Tjw Tommy Classics tee Ropa Deportiva de Punto  Gris  Pale Grey Htr PPP   38  Talla del Fabricante: Medium  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VQW4BHG/?tag=tolees-21'
 descuento: '51.72'
 average: '13.99'

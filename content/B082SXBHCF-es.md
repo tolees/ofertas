@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Guess SG766246 BILLETERAS mujer Rosa TU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082SXBHCF/?tag=tolees-21'
 descuento: '26.17'
 average: '43.56'

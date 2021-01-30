@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Telémetro láser 50m  USB 30mins Carga rápida  TECCPO Medidor Láser  Electrónico Ángulo Sensores  99 Datos  2.25   LCD Retroiluminación  Medición de distancia  Área  Volumen  Trípode  IP54  TDLM26P'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TSCBCBH/?tag=tolees-21'
 descuento: '50.01'
 average: '29.09'

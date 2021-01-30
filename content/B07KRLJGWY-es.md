@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'New Balance 373 Zapatillas Hombre  Negro  Black/Blue Black/Blue   38.5 EU  5.5 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KRLJGWY/?tag=tolees-21'
 descuento: '41.35'
 average: '46.92'

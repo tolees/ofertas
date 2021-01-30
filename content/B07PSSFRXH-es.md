@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Rieker Herbst/Winter  Botas Chelsea para Mujer  Verde  Tanne/Wood/Brown 54   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PSSFRXH/?tag=tolees-21'
 descuento: '80.87'
 average: '13.38'

@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Vans Filmore  Zapatillas para Hombre Negro  Suede/canvas  47 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078W3MRGP/?tag=tolees-21'
 descuento: '33.01'
 average: '48.815000000000005'

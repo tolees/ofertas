@@ -16,6 +16,7 @@ comparePrice: 74.99 EUR
 prodname: 'Vans Old Skool  Zapatillas Unisex Adulto  Negro  Black Vd3hy28   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MPZJ4YN/?tag=tolees-21'
 descuento: '30.67'
 average: '51.99'

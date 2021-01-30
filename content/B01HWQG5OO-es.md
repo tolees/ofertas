@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'ITALY MORN Hombre Jogging Pantalones Stretch Skinny Largo M Café'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HWQG5OO/?tag=tolees-21'
 descuento: '60.69'
 average: '34.99'

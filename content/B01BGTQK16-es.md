@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-STAR RAW Bronson  Pantalones para Hombre  Gris  Grey   W32/L32'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BGTQK16/?tag=tolees-21'
 descuento: '58.99'
 average: '40.99'

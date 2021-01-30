@@ -16,6 +16,7 @@ comparePrice: 119.9 EUR
 prodname: 'Devolo Magic 1 LAN - Starter Kit de Powerline para una Red Doméstica Fiable a Través de Techos y Paredes Mediante los Cables de Corriente  Innovadora Tecnología G.hn  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GTFHSQ9/?tag=tolees-21'
 descuento: '49.98'
 average: '59.97'

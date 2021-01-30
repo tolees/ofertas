@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Camper Uno  Zapatillas para Mujer  Negro  Black 047   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0746YR3VH/?tag=tolees-21'
 descuento: '37.00'
 average: '69.3'

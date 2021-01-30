@@ -16,6 +16,7 @@ comparePrice: 140.99 EUR
 prodname: 'NMDD Ornament Modernen Minimalistischen Mode Mädchen Band Harz Skulptur Handwerk Retro Wohnzimmer TV Schrank Büro Dekorationen Geschenk  Größe: 14 * 10 5 * 54 cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZLZWGKY/?tag=tolees-21'
 descuento: '44.68'
 average: '77.99'

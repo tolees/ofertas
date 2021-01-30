@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Calledelregalo Regalo Personalizable para Mujer: Rosa de Oro Personalizada con el Texto Que tú Quieras.  Rosa de Oro Personalizada '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CBXVTMB/?tag=tolees-21'
 descuento: '31.45'
 average: '47.95'

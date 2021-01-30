@@ -16,6 +16,7 @@ comparePrice: 6 EUR
 prodname: 'find. 18105 camisetas  Gris  Grau   38  Talla del Fabricante: Small '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073QS5D7L/?tag=tolees-21'
 descuento: '70.00'
 average: '1.8'

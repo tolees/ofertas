@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Scholl Plantilla In-Balance para el alivio del dolor en la zona lumbar  1 par  talla M  40 - 42 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZC83NMD/?tag=tolees-21'
 descuento: '31.06'
 average: '14.47'

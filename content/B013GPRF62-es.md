@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Thumbs Up iLounge - Cojín para Tablet  Color Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013GPRF62/?tag=tolees-21'
 descuento: '42.98'
 average: '17.1'

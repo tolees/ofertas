@@ -16,6 +16,7 @@ comparePrice: 5.98 EUR
 prodname: 'Cable de Cargador Micro USB Trenzado Duradero Cable de Carga y sincronización de Datos de Alta Velocidad para Samsung Galaxy S7/S6/S5  HTC One  LG G4/G3 y más  Rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JZT1FTX/?tag=tolees-21'
 descuento: '46.82'
 average: '3.18'

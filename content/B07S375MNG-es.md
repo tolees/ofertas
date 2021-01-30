@@ -16,6 +16,7 @@ comparePrice: 46.99 EUR
 prodname: 'Plastificadora A4 A5 A7  ABOX OL145 Máquina para Plastificar Térmica con Función ABS  Cortador  Esquina Redondeado y 12 Fundas  300 mm/min para el Uso en Colegio  Oficina y Hogar  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S375MNG/?tag=tolees-21'
 descuento: '36.18'
 average: '30.12333333333333'

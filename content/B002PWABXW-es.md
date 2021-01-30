@@ -16,6 +16,7 @@ comparePrice: 501.97 EUR
 prodname: 'HP 516824-B21 - Disco duro  300 GB  88.9 mm  3.5 "   15000 RPM '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002PWABXW/?tag=tolees-21'
 descuento: '49.46'
 average: '253.7'

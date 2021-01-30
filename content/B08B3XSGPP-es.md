@@ -16,6 +16,7 @@ comparePrice: 11.98 EUR
 prodname: 'Donci Termómetro de Interior Medidor de Humedad LCD Termómetro Digital Higrómetro Habitación ℃ / ℉ Medidor de Humedad de Temperatura Medidor Reloj Despertador Termohigrómetro con Memoria MAX/MIN'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B3XSGPP/?tag=tolees-21'
 descuento: '33.39'
 average: '10.646666666666667'

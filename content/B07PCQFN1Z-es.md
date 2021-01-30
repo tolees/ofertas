@@ -16,6 +16,7 @@ comparePrice: 14.4 EUR
 prodname: 'BE-TOOL - Cuchillas de sierra de calar T244D  5 piezas  mango en T  hoja de sierra universal para cortar metal madera PVC y más – para Bosch  Dewalt  Hitachi  Makita  Festool etc.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PCQFN1Z/?tag=tolees-21'
 descuento: '51.39'
 average: '7.0'

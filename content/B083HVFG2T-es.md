@@ -16,6 +16,7 @@ comparePrice: 87.98 EUR
 prodname: 'K9CK Luces LED para Technic Grúa Todoterreno 42082  Kit de Iluminación Luz Compatible con Bloques de construcción  NO Incluido en el Modelo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083HVFG2T/?tag=tolees-21'
 descuento: '50.00'
 average: '43.99'

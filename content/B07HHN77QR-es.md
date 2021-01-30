@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Parfois - Poncho Cuello Mao - Mujeres - Tallas Única - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HHN77QR/?tag=tolees-21'
 descuento: '40.01'
 average: '17.99'

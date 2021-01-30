@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Puma Liga Training Pant Core Pantalones  Hombre  Azul  Azul Oscuro Blanco   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0781VL8DB/?tag=tolees-21'
 descuento: '36.66'
 average: '18.97'

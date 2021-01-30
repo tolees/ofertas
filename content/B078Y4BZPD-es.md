@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'BRA Advanced Grill con rayas  28 cm  aluminio fundido con antiadherente  sin PFOA  súper reforzado de rendimiento superior y alta resistencia a los arañazos y a la abrasión  apta para Inducción'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078Y4BZPD/?tag=tolees-21'
 descuento: '33.24'
 average: '34.66666666666667'

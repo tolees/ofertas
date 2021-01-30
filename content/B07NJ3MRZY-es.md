@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Springfield 4.2.Pc.Mono Liso Navy  Pantalones para Mujer  Multicolor  Multicolor 18   Talla única  Talla del fabricante: Large '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJ3MRZY/?tag=tolees-21'
 descuento: '71.19'
 average: '11.52'

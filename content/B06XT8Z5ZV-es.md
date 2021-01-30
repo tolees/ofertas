@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'AngLink Mini Ventilador USB Portatil Recargable Bateria Ventilador Clip 4 Modo de Velocidad 360°Ajustable para de Entrenamiento de Cochecito de bebé Autocaravana Oficina en Casa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XT8Z5ZV/?tag=tolees-21'
 descuento: '37.51'
 average: '22.32333333333333'

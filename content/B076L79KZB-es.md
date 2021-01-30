@@ -16,6 +16,7 @@ comparePrice: 38.27 EUR
 prodname: 'Plantronics RIG 100HX Monoaural Diadema Negro  Gris Auricular con micrófono - Auriculares con micrófono  Consola de Juegos  Monoaural  Diadema  Negro  Gris  Dinámico  Control en línea '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076L79KZB/?tag=tolees-21'
 descuento: '34.28'
 average: '25.15'

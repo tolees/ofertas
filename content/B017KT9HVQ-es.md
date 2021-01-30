@@ -16,6 +16,7 @@ comparePrice: 73.77 EUR
 prodname: 'Chic Orange Alfombra Scherzo Crema 120 x 170 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017KT9HVQ/?tag=tolees-21'
 descuento: '26.07'
 average: '54.54'

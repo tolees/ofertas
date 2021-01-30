@@ -16,6 +16,7 @@ comparePrice: 22.21 EUR
 prodname: 'WYT Almohada Bebé Cojín Recién nacido para Anti Plagiocefalia 0-12 Meses Amarillo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075MXKV4Y/?tag=tolees-21'
 descuento: '51.01'
 average: '10.88'

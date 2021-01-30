@@ -16,6 +16,7 @@ comparePrice: 20.48 EUR
 prodname: 'Garhe - Mesa Auxiliar Plegable 10Kg 6Alturas 3 Pos.Bandeja 18600'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00L2IFPGS/?tag=tolees-21'
 descuento: '26.76'
 average: '15.0'

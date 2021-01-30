@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'GANT Solid Pique SS Rugger  Polo para Hombre  Blanco  White   46  Talla del Fabricante: S '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004E9TXEW/?tag=tolees-21'
 descuento: '36.26'
 average: '43.28'

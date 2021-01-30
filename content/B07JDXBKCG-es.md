@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Crocs Crocband Rain Boot Kids  Botas de Agua Unisex Niños  Rosa  Pink Lemonade/Lavender 6qm   25/26 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JDXBKCG/?tag=tolees-21'
 descuento: '65.02'
 average: '13.129999999999999'

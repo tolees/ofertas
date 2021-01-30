@@ -16,6 +16,7 @@ comparePrice: 145.0 EUR
 prodname: 'Castellanísimos Mocasines de Mujer con Antifaz en Piel Florentic Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H8JZTTQ/?tag=tolees-21'
 descuento: '55.18'
 average: '64.99'

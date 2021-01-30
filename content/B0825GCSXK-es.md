@@ -16,6 +16,7 @@ comparePrice: 10.78 EUR
 prodname: 'Baoblaze 5 Unids Almohadillas Adhesivas Antidesgaste Pegatina de Protección de Pies Cortable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0825GCSXK/?tag=tolees-21'
 descuento: '44.43'
 average: '6.596666666666667'

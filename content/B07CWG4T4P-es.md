@@ -16,6 +16,7 @@ comparePrice: 24.0 EUR
 prodname: 'Melatonina 1 8 mg con 5-HTP  Magnesio y Vitamina B6  180 Cápsulas | Ayuda con el insomnio o trastornos del sueño | Vegano  No-GMO  GMP  libre de aditivos  sin Gluten | de Zenement'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CWG4T4P/?tag=tolees-21'
 descuento: '37.62'
 average: '14.97'

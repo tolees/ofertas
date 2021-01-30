@@ -16,6 +16,7 @@ comparePrice: 44.0 EUR
 prodname: 'Rowenta tn1422 F0 Nomad Cortapelos  batería de red de funcionamiento  Tritan revestimiento  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0757KJTFD/?tag=tolees-21'
 descuento: '50.00'
 average: '22.98888888888889'

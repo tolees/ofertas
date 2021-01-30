@@ -16,6 +16,7 @@ comparePrice: 21.95 EUR
 prodname: 'Mr. Wonderful WOA09211EM - Organizador de oficina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C84JNJ8/?tag=tolees-21'
 descuento: '40.00'
 average: '13.17'

@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'PUMA LQDCELL Shatter TR FM WN S  Zapatillas Deportivas para Interior para Mujer  Negro Black/Tapioca  37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SBVSY47/?tag=tolees-21'
 descuento: '39.99'
 average: '59.98'

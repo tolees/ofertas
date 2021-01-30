@@ -16,6 +16,7 @@ comparePrice: 17.98 EUR
 prodname: 'kesoto Kit de Herramientas 3 En 1 para Redes de Computadoras para Krone Pouyet Quante Moudle Accesorio Y 2 Ganchos - Mango de PC Extraíble'
 country: 'es'
 flag: '🇪🇸'
+brand: 'KESOTO'
 buyurl: 'https://www.amazon.es/dp/B015WJBTMG/?tag=tolees-21'
 descuento: '44.44'
 average: '9.99'
@@ -27,10 +28,10 @@ Tienes [kesoto Kit de Herramientas 3 En 1 para Redes de Computadoras para Krone 
 
 ℹ️:
 
-- La amplia aplicación para el trabajo de conexión de cables de red de computadoras, módulos, cables, cumple con varios requisitos de terminación de campo.
-- Para el bloque de terminales Quante SID-C, para Pouyet STG, para el módulo Krone 110.
-- Hecho de un cabezal de corte duradero y un cómodo mango de plástico para PC.
 - Multifunción, como enganche, empalme, introducción de ranuras de lá, posicionamiento y módulos de montaje.
+- Para el bloque de terminales Quante SID-C, para Pouyet STG, para el módulo Krone 110.
 - Con 2 pequeños ganchos metálicos para remover cables de los terminales.
+- Hecho de un cabezal de corte duradero y un cómodo mango de plástico para PC.
+- La amplia aplicación para el trabajo de conexión de cables de red de computadoras, módulos, cables, cumple con varios requisitos de terminación de campo.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B015WJBTMG/?tag=tolees-21)

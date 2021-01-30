@@ -16,6 +16,7 @@ comparePrice: 499.95 EUR
 prodname: 'Icons Corner Pack 4 sillas Verde Oliva IMS Modelo Eiffel Patas cromadas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082BC49QW/?tag=tolees-21'
 descuento: '84.00'
 average: '79.99'

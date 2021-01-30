@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'JACK & JONES Jjiliam Jjoriginal Am 014 Lid Noos  Jeans Hombre  Azul  Blue Denim   W32/L30  Talla del fabricante: 32 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01E5MWSXA/?tag=tolees-21'
 descuento: '35.96'
 average: '30.98510204081632'

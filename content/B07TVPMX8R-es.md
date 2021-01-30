@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Boys  Elite Flex HYDROX Trainers  Grey  Stone Synthetic/Black & Chocolate Trim STN   11  28.5 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TVPMX8R/?tag=tolees-21'
 descuento: '64.74'
 average: '24.725'

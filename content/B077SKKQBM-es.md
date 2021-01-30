@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'MTNG Rolling  Zapatillas de Deporte para Mujer  Rosa  Raspe Coral   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077SKKQBM/?tag=tolees-21'
 descuento: '43.41'
 average: '17.189999999999998'

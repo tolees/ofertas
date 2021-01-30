@@ -16,6 +16,7 @@ comparePrice: 16.53 EUR
 prodname: 'Venta caliente Superior Tikuanyin Oolong Tea Gift Package Chinese Organic Green Tea Anxi Tie Guan Yin adelgaza el té en caja Green Food'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FFRXLJD/?tag=tolees-21'
 descuento: '49.97'
 average: '8.27'

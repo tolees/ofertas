@@ -16,6 +16,7 @@ comparePrice: 57.87 EUR
 prodname: 'adidas Energyfalcon X  Zapatillas de Entrenamiento para Mujer  Multicolor  Core Black/FTWR White/Grey Ee9941   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S967JFV/?tag=tolees-21'
 descuento: '39.55'
 average: '34.98'

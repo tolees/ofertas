@@ -16,6 +16,7 @@ comparePrice: 17.6 EUR
 prodname: 'Albal Papel vegetal para horno  antiadherente  impermeable  100 m'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XDO14F0/?tag=tolees-21'
 descuento: '26.19'
 average: '12.99'

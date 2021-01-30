@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'bugatti 311822604100  Botas clásicas. para Hombre  marrón  40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ND9RSBQ/?tag=tolees-21'
 descuento: '52.91'
 average: '41.964'

@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Reebok Ex-o-Fit Clean Logo Int  Zapatillas para Hombre  Blanco  AR3169 39 EU White/Royal Blue/Royal Blue   44'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IY4G9WQ/?tag=tolees-21'
 descuento: '50.61'
 average: '40.32166666666667'

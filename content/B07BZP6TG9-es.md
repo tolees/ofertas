@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'New Bee Cargador Inalámbrico 5W con Soporte Auriculares para iPhone XS MAX/XS/XR/X/ 8/8 Plus/  Samsung S9/ S9 Plus/ S8 / S8 Plus / S7 / S7 Edge / S6 / S6 Edge con indicador LED'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BZP6TG9/?tag=tolees-21'
 descuento: '46.17'
 average: '13.87888888888889'

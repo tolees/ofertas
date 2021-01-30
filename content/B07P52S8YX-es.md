@@ -16,6 +16,7 @@ comparePrice: 23.18 EUR
 prodname: 'Boulevard - Zapatos/Bailarinas diseño Flor y Puntera Abierta para Mujer señora  36 EU   Brillante Plateado Claro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P52S8YX/?tag=tolees-21'
 descuento: '33.35'
 average: '15.45'

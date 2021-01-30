@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'Revlon Super Lustrous Brillo Labial  #243 Sizzling Coral '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VRAJU12/?tag=tolees-21'
 descuento: '74.97'
 average: '2.3692857142857147'

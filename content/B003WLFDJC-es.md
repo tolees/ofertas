@@ -16,6 +16,7 @@ comparePrice: 31.57 EUR
 prodname: 'Julius-K9 Mini-Mini  40-53 cm  Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003WLFDJC/?tag=tolees-21'
 descuento: '39.85'
 average: '18.656666666666666'

@@ -16,6 +16,7 @@ comparePrice: 27.89 EUR
 prodname: 'Logitech® Speakers Z130 - Black - Analog - PLUGC - EMEA - EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003FRXFWK/?tag=tolees-21'
 descuento: '28.33'
 average: '20.615'

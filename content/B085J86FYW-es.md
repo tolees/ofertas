@@ -16,6 +16,7 @@ comparePrice: 25.88 EUR
 prodname: 'Jack & Jones JJIRICK JJICON Shorts AMA STS Pantalones Cortos  Verde Oliva  S para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085J86FYW/?tag=tolees-21'
 descuento: '54.10'
 average: '11.88'

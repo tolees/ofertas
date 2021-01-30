@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'DuneDesign Tabla de Cortar en Madera de Bambú - 51x37 - Tabla de Cocina con Cajón de Acero'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RD7SXD7/?tag=tolees-21'
 descuento: '37.50'
 average: '49.99'

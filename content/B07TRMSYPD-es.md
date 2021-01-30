@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Levi s Plus Size Pl 501 Original Pantalones Cortos  Azul  Tango Dibs Plus Short 0001   Talla Única  Talla del Fabricante: 24  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TRMSYPD/?tag=tolees-21'
 descuento: '60.29'
 average: '21.84'

@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Funko Pop: Fortnite: Tower Recon Specialist  multicolor  34463    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HQ1M5C2/?tag=tolees-21'
 descuento: '51.35'
 average: '8.117142857142856'

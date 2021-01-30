@@ -16,6 +16,7 @@ comparePrice: 34.5 EUR
 prodname: 'Star Wars FX14233 Lampara 3D de Pared R2 D2  Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XHUO88K/?tag=tolees-21'
 descuento: '33.01'
 average: '23.11'

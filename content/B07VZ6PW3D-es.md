@@ -16,6 +16,7 @@ comparePrice: 48 EUR
 prodname: 'Showyoo Fitness Pulsera de Actividad Inteligente Impermeable IP68 con Pantalla Color  Reloj Inteligente Pulsómetro  Cronómetros  Monitor de Sueño Podómetro GPS Reloj Deportivo Mujeres Hombres Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VZ6PW3D/?tag=tolees-21'
 descuento: '37.54'
 average: '31.43'

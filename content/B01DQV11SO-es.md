@@ -16,6 +16,7 @@ comparePrice: 7.61 EUR
 prodname: 'Twins Looney Tunes 1 127 67-Camiseta Bebé Bebé unisex    Weiß  weiss 4013  1 mes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DQV11SO/?tag=tolees-21'
 descuento: '64.65'
 average: '2.69'

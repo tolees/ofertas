@@ -16,6 +16,7 @@ comparePrice: 27.95 EUR
 prodname: 'Gillette Fusion ProShield Chill Recambios - 6 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018M3GDBQ/?tag=tolees-21'
 descuento: '32.02'
 average: '19.0'

@@ -16,6 +16,7 @@ comparePrice: 23.08 EUR
 prodname: 'Piz Buin - Crema solar Allergy Lotion SPF30  200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003ELEZS0/?tag=tolees-21'
 descuento: '65.55'
 average: '7.9754545454545465'

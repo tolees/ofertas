@@ -16,6 +16,7 @@ comparePrice: 80.98 EUR
 prodname: 'B Blesiya 2 Pcs Disquetes USB Tornillos con Jumpers Adecuada para Textiles Reemplazo Interfraz Compatibilidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KQ6RDBD/?tag=tolees-21'
 descuento: '44.44'
 average: '42.4408695652174'

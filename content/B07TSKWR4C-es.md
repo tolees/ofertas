@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Kipling Firefly Up  Mochilas para Mujer  Rojo  Metallic Rust   22x31x14 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TSKWR4C/?tag=tolees-21'
 descuento: '64.55'
 average: '34.06'

@@ -16,6 +16,7 @@ comparePrice: 275.0 EUR
 prodname: 'Tom Ford FT0754 52N Dark Havana FT0754 Pilot Sunglasses Lens Category 3 Size 59'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZRWLH7B/?tag=tolees-21'
 descuento: '29.45'
 average: '194.0'

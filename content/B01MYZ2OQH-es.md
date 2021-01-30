@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Under Armour W Thrill 3 1295770-001  Zapatillas de Entrenamiento para Mujer  Negro  Black 1295770/001   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MYZ2OQH/?tag=tolees-21'
 descuento: '63.04'
 average: '19.83'

@@ -16,6 +16,7 @@ comparePrice: 5.99 EUR
 prodname: 'Typicshop Tapa Cámara Ultra Delgada 0.85mm  Webcam Cover para Macbook  iPad  Ordenador  Smartphones. Blanco  3 Unidades '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089NWD9PF/?tag=tolees-21'
 descuento: '33.39'
 average: '3.99'

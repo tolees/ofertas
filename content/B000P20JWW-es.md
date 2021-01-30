@@ -16,6 +16,7 @@ comparePrice: 3.95 EUR
 prodname: 'Rimmel London Soft Khol Kajal Eyeliner Pencil Liners Tono 071 Pure White - 4 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000P20JWW/?tag=tolees-21'
 descuento: '47.85'
 average: '2.06'

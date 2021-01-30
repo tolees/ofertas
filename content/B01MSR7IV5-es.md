@@ -16,6 +16,7 @@ comparePrice: 26 EUR
 prodname: 'Aigle B. Flac  Botas de Agua Unisex Niños  Rosa  Guimauve   21 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MSR7IV5/?tag=tolees-21'
 descuento: '51.92'
 average: '12.5'

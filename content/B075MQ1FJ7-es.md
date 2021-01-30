@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Belkin Cable de Carga USB 2.0 USB-A a USB Type C  USB-C  de 3 m con certificación USB-IF  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075MQ1FJ7/?tag=tolees-21'
 descuento: '43.77'
 average: '11.24'

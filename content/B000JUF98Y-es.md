@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'SEVERIN Raclette Partygrill con Piedra Natural y Plancha Reversible  1.500 W aprox.  Incl. 8 Mini-Sartenes  RG 2341'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000JUF98Y/?tag=tolees-21'
 descuento: '30.00'
 average: '41.654444444444444'

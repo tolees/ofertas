@@ -16,6 +16,7 @@ comparePrice: 35.84 EUR
 prodname: 'The Blacklist Temporada 2 Blu-Ray [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B011SVN6HI/?tag=tolees-21'
 descuento: '72.24'
 average: '9.95'

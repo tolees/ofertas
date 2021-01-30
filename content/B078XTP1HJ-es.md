@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Kitchen Emperor Cuchillo de Cocina  Profesional Cuchillo de Cocinero Acero al Carbono Inoxidable de Alta Calidad  20 cm para Cocina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078XTP1HJ/?tag=tolees-21'
 descuento: '64.29'
 average: '24.99'

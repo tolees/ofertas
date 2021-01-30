@@ -16,6 +16,7 @@ comparePrice: 599.0 EUR
 prodname: 'Mengshen Mini DLP Proyector  Portátil Recargable Proyectores HD 50000 Horas 1080P Soportado USB/VGA/AV/IR/SD con Altavoces Incorporado Cine en Casa MS-GP1SWhite'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GHCDG78/?tag=tolees-21'
 descuento: '68.28'
 average: '192.2757142857143'

@@ -16,6 +16,7 @@ comparePrice: 24.9 EUR
 prodname: 'Champion Freedom Seamless  Soutien-Gorge de Sport Femme  Noir  Noir 3am   Small  Taille Fabricant: S '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FYCV42G/?tag=tolees-21'
 descuento: '50.80'
 average: '12.25'

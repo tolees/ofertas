@@ -16,6 +16,7 @@ comparePrice: 368.53 EUR
 prodname: 'T-EQUIP PSC-130MSRT - Carro de armario utilitario de plástico  3 estantes  AnxPxAl: 85 x 48 x 100 cm  capacidad de carga 250 kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XWHYGVW/?tag=tolees-21'
 descuento: '74.25'
 average: '94.9'

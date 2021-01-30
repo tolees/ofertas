@@ -16,6 +16,7 @@ comparePrice: 200.65 EUR
 prodname: 'Danish Design 3310081 - Reloj analógico de Cuarzo para Hombre con Correa de Piel  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007KX9PAG/?tag=tolees-21'
 descuento: '52.19'
 average: '125.17099999999999'

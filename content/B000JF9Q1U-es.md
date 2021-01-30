@@ -16,6 +16,7 @@ comparePrice: 27.95 EUR
 prodname: 'Redken 54461 - Cuidado capilar  150 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000JF9Q1U/?tag=tolees-21'
 descuento: '55.60'
 average: '14.405'

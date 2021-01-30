@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Salomon out Night 30+5 Mochila  Capacidad 35 L  Unisex Adulto  Amarillo  Citronelle   S/M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LGXQBFP/?tag=tolees-21'
 descuento: '37.51'
 average: '74.99'

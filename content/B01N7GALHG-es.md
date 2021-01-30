@@ -16,6 +16,7 @@ comparePrice: 10.45 EUR
 prodname: 'Ruavieja Licor de Té con Jengibre - 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N7GALHG/?tag=tolees-21'
 descuento: '40.19'
 average: '6.864999999999999'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'El Misterioso Viaje de Layton'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TSCGD9W/?tag=tolees-21'
 descuento: '30.01'
 average: '32.139374999999994'

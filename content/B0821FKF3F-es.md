@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'SMARTOMI - 2 cartucho de tóner negro de alto rendimiento compatible con cartuchos TN2220 para impresoras Brother HL-2130 2132 2220 2230 2240 2242D 2250DN 2270DW 2280DW MFC-7360N 7460DN 7860DW DCP-7070'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0821FKF3F/?tag=tolees-21'
 descuento: '27.80'
 average: '15.33'

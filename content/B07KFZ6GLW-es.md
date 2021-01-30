@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'PUMA CARACAL  Zapatillas Unisex Adulto  Negro Black White  47 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFZ6GLW/?tag=tolees-21'
 descuento: '50.19'
 average: '32.35'

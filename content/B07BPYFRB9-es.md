@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Colchoneta de Masaje Estera de Masaje de Yoga  4 Programas de Estiramiento  3 Intensidades Ajustables para Relajación Corporal Total  Liberación de Tensión  Mejora de la Flexibilidad  Plegado Simple'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BPYFRB9/?tag=tolees-21'
 descuento: '60.00'
 average: '121.99000000000001'

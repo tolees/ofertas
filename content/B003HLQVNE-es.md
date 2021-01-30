@@ -16,6 +16,7 @@ comparePrice: 3.5 EUR
 prodname: 'Revlon Esmalte de Uñas 14 7ml  Revlon Red '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003HLQVNE/?tag=tolees-21'
 descuento: '44.29'
 average: '1.975'

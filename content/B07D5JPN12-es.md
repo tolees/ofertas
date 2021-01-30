@@ -16,6 +16,7 @@ comparePrice: 7.9 EUR
 prodname: 'Revlon Professional Style Masters Fanaticurls Activador de Rizos Fuertes y Definidos 150 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D5JPN12/?tag=tolees-21'
 descuento: '25.82'
 average: '5.943333333333333'

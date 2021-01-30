@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Ferilinso Funda Para Huawei P Smart Z Funda [Reforzar la versión con cuatro esquinas][Funda protectora de la cámara]Funda protectora de silicona de piel de goma TPU prueba de goma suave Transparente '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RFH59F7/?tag=tolees-21'
 descuento: '30.03'
 average: '6.99'

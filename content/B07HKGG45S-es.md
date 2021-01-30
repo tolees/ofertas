@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Under Armour UA W Charged Escape 3  Zapatillas de Running para Mujer  Negro  Black/Black/Black  002  002   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HKGG45S/?tag=tolees-21'
 descuento: '50.06'
 average: '44.95'

@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Victoria Basket Lona Dos Velcros  Zapatillas Unisex Niños  Gris  Zinc   22 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077VN6YK1/?tag=tolees-21'
 descuento: '67.22'
 average: '9.8'

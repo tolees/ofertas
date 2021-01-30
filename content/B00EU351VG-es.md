@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Tuscany Silver 8.24.7042 - Pulsera de plata de ley  925/1000   sin gema'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EU351VG/?tag=tolees-21'
 descuento: '65.22'
 average: '24.0'

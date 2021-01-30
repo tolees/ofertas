@@ -16,6 +16,7 @@ comparePrice: 33.99 EUR
 prodname: 'HAVIT Auricular Bluetooth V4.2 IPX5 Deportes magnéticos Cableado Bluetooth In-Ear Móvil 7-10 horas 10M Rango inalámbrico a prueba de agua con Mai y computadora con teléfono  Rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075FSXDF9/?tag=tolees-21'
 descuento: '41.19'
 average: '19.99'

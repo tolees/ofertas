@@ -16,6 +16,7 @@ comparePrice: 21.89 EUR
 prodname: 'Utensilios barbacoa  Blusmart Juego de utensilios para barbacoa de acero inoxidable kit 5 piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01G6DGSB4/?tag=tolees-21'
 descuento: '45.23'
 average: '12.49'

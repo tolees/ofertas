@@ -16,6 +16,7 @@ comparePrice: 174.68 EUR
 prodname: 'APEMAN A80 Action CAM 4K WiFi 20MP EIS Cámara subacuática 40M Resistente al Agua  con maletín de Transporte y 24 Accesorios múltiples'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TTDR2TY/?tag=tolees-21'
 descuento: '29.60'
 average: '118.96'

@@ -16,6 +16,7 @@ comparePrice: 64.06 EUR
 prodname: 'RICOO Soporte de Techo TV Inclinable y Giratorio D0122 para Pantallas de 13-33 Pulgadas  Aprox. 33cm-84cm  Brazo abatible Universal para televisores LED LCD VESA 100x100 200x200 Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00I0QGMBW/?tag=tolees-21'
 descuento: '40.70'
 average: '37.99'

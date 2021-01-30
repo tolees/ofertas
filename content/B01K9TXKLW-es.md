@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Musou HDMI a AV Convertidor HDMI a RCA Convertidor Compuesto RCA CVBS Señal Audio y Vídeo Adaptador Soporte PAL/NTSC Interruptor Full HD 3D 1080P'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K9TXKLW/?tag=tolees-21'
 descuento: '26.35'
 average: '12.74'

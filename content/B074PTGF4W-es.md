@@ -16,6 +16,7 @@ comparePrice: 82.14 EUR
 prodname: 'Saucony Jazz O Vintage  Zapatillas de Cross para Hombre  Azul  Blue/Navy/ Silver 4   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074PTGF4W/?tag=tolees-21'
 descuento: '37.83'
 average: '51.07'

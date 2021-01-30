@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Cepillo para llantas El cepillo de ruedas de limpia las llantas y los radios de manera óptima  además de quitar el polvo del freno'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PYX946C/?tag=tolees-21'
 descuento: '41.20'
 average: '9.99'

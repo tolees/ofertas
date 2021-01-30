@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Oxímetro de Pulso Oxímetro de Dedo Digital  Monitor de Oxígeno Portátil  Monitor de Frecuencia Cardíaca para Adultos  Niños  Mayores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0865J1KZN/?tag=tolees-21'
 descuento: '48.51'
 average: '35.99'

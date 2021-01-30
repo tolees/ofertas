@@ -16,6 +16,7 @@ comparePrice: 7.85 EUR
 prodname: 'Hewlett Packard CHP850 PREMIUM Papel A4 80 gr 500 Lados universale'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CB9MLZ9/?tag=tolees-21'
 descuento: '27.77'
 average: '5.67'

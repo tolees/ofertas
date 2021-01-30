@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Shock Absorber Ultimate Fly Bra Sujetador Deportivo  Negro  Noir Brise De Corail   100B  Taille Fabricant: Taille Fabricant 100B  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076CF9BCK/?tag=tolees-21'
 descuento: '62.00'
 average: '18.98'

@@ -16,6 +16,7 @@ comparePrice: 6.72 EUR
 prodname: 'Panamami Magic Drawing Light Effect Board Sketch Board Tablet Drawing Creative Children Pen Gift Light Art Drawing Toy/Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083Z65VYF/?tag=tolees-21'
 descuento: '34.97'
 average: '4.37'

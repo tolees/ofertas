@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Chicco Oasys 1 Evo  Silla de coche grupo 1 Isofix  gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M0RSQ6J/?tag=tolees-21'
 descuento: '49.84'
 average: '170.245'

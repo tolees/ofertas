@@ -16,6 +16,7 @@ comparePrice: 10.52 EUR
 prodname: 'MyProtein Flavdrops Saborizante Natural  Sabor Caramelo - 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JUUM13K/?tag=tolees-21'
 descuento: '43.16'
 average: '5.98'

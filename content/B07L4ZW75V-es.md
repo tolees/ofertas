@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'Adidas Terrex AX3 GTX W  Zapatillas de Deporte para Mujer  Gris  Carbon/Core Black/Active Pink 0   37 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L4ZW75V/?tag=tolees-21'
 descuento: '60.03'
 average: '47.95'

@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'LUDOS Comfy Almohadillas de Espuma Viscoelástica para Auriculares  12 Almohadillas de Nueva Generación  Lavables  Duraderas y Muy Resistentes  4 9 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VB24MWC/?tag=tolees-21'
 descuento: '50.15'
 average: '9.97'

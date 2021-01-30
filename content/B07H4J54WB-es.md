@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'SlowTon Sin tirones Arnés de Perro  Suave Malla Acolchada Ajustable Fácil de Poner y Quitar el arnés con Hebilla de Bloqueo para Perros Grande Mascotas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H4J54WB/?tag=tolees-21'
 descuento: '35.31'
 average: '9.05'

@@ -16,6 +16,7 @@ comparePrice: 58.99 EUR
 prodname: 'BRIKSMAX Kit de Iluminación Led para Lego Star Wars Y-Wing Starfighter  Compatible con Ladrillos de Construcción Lego Modelo 75181  Juego de Legos no Incluido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TSJZB5V/?tag=tolees-21'
 descuento: '50.86'
 average: '33.190000000000005'

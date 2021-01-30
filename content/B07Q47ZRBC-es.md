@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Black Hawk derribado  4K UHD + BD  [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q47ZRBC/?tag=tolees-21'
 descuento: '47.94'
 average: '16.2275'

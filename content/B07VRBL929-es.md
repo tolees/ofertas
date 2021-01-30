@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'Hossom Organizadores para Coche  2 pcs Kick Mats de Coche  Universal Multi-Bolsillos Organizanizador para ipad Impermeable Fácil de limpiar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VRBL929/?tag=tolees-21'
 descuento: '54.08'
 average: '14.69'

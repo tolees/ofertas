@@ -16,6 +16,7 @@ comparePrice: 149.95 EUR
 prodname: 'GRAND CANYON Robson 3 – tienda tipo túnel  tienda para 3 personas   oliva/negro  602004'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005TSUF9E/?tag=tolees-21'
 descuento: '46.00'
 average: '80.98'

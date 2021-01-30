@@ -16,6 +16,7 @@ comparePrice: 11.61 EUR
 prodname: 'American Crew Espuma de Afeitar 300 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072BJB89P/?tag=tolees-21'
 descuento: '40.48'
 average: '8.312'

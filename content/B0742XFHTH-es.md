@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Skechers Women s RETROS-OG 85-GOLDN GURL Trainers  Grey  Charcoal Suede/Nylon/Mesh/Rose Gold Trim Ccl   2  35 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0742XFHTH/?tag=tolees-21'
 descuento: '43.80'
 average: '29.238333333333337'

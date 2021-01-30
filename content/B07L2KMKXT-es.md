@@ -16,6 +16,7 @@ comparePrice: 6.87 EUR
 prodname: 'Playshoes 507424 Juego de baberos  Azul Claro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L2KMKXT/?tag=tolees-21'
 descuento: '25.33'
 average: '5.13'

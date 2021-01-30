@@ -16,6 +16,7 @@ comparePrice: 35.89 EUR
 prodname: 'Pendrive 8GB 3.0 5 Piezas Memorias USB - Metal Aluminio Flash Drive con Llevaro 8 GB Portátil Almacenamiento de Datos Llave USB by Datarm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R5FCC6S/?tag=tolees-21'
 descuento: '27.86'
 average: '25.89'

@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Superdry OL Elite Ziphood Capucha  Morado  Dusty Lilac De U   XX-Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NZ29T5N/?tag=tolees-21'
 descuento: '63.85'
 average: '31.35'

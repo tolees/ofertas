@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Meliconi Speak Pro - Auricular DJ estéreo  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MRX0VI8/?tag=tolees-21'
 descuento: '61.05'
 average: '11.510000000000002'

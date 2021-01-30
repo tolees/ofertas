@@ -16,6 +16,7 @@ comparePrice: 5.49 EUR
 prodname: 'TRIXES Protector elástico para dedos  apoyo artritis ayuda en deportes x 10'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DHJL9B0/?tag=tolees-21'
 descuento: '59.02'
 average: '2.25'

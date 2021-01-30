@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Diesel S-Clever Low  Zapatillas para Hombre  Blanco H4034 H4034  39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077CX8Y2Z/?tag=tolees-21'
 descuento: '72.42'
 average: '33.09'

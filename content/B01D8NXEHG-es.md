@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Esponja Konjac Facial 100% Naturales  Esponja Exfoliante Facial  3PCS Esponja Konjac Cuidado de la Piel Facial y Limpieza Profundamente a la Piel Facial  Negro Carbón  Blanco y Verde）'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01D8NXEHG/?tag=tolees-21'
 descuento: '52.66'
 average: '8.99'

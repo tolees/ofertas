@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'VAUDE ROM II Bolsas  Unisex Adulto  Marine  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZUR4ES/?tag=tolees-21'
 descuento: '27.40'
 average: '29.04'

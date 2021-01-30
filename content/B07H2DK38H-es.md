@@ -16,6 +16,7 @@ comparePrice: 10.78 EUR
 prodname: 'Juntas Cilindro Maestro Junta de Mirilla de Vista Hierro + Caucho Retrovisor 18mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H2DK38H/?tag=tolees-21'
 descuento: '44.43'
 average: '5.99'

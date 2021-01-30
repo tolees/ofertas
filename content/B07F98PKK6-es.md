@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Philips Avent Biberón Natural SCF033/17 - Biberón de 260 ml con tetina con flujo para recién nacidos  diseñada para imitar el tacto del pecho  0% BPA  1m+  color transparente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F98PKK6/?tag=tolees-21'
 descuento: '26.39'
 average: '7.1610000000000005'

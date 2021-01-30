@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Coche Teledirigido ETEPON 1:16 2.4GHz RC Coche  Conducir a Doble Cara  Giro de 360° Stunt Car  Q70 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X3ZWCHT/?tag=tolees-21'
 descuento: '25.01'
 average: '30.656666666666666'

@@ -16,6 +16,7 @@ comparePrice: 25.98 EUR
 prodname: 'Fesjoy V-111 Altavoz de computadora Cableado USB Barra Potente Subwoofer estéreo Altavoz de Graves Caja de Sonido Envolvente Compatible with PC Laptop Teléfono Tableta MP3 MP4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086QSYWGZ/?tag=tolees-21'
 descuento: '50.00'
 average: '16.2375'

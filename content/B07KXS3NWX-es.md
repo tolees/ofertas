@@ -16,6 +16,7 @@ comparePrice: 14.4 EUR
 prodname: 'P Prettyia 1 Juego de Tornillos Accesorios de Fotografía Cámaras de Aire Libre Duradero'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KXS3NWX/?tag=tolees-21'
 descuento: '44.24'
 average: '8.03'

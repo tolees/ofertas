@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Splash Pad Tapete de Juegos de Agua 170CM Aspersor Niños de Juego Piscina para Niño Aspersor Juego de Salpicaduras y Salpicaduras Colchoneta de los Chorros de Agua Juguete al Aire Libre para Jardín'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088TLKTQ3/?tag=tolees-21'
 descuento: '27.29'
 average: '15.99'

@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Kipling - City Pack Mini  Mochilas Mujer  Dorado  Cloud Metal   27x29x14 cm  B x H T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PRCDWW5/?tag=tolees-21'
 descuento: '64.21'
 average: '34.93'

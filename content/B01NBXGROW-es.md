@@ -16,6 +16,7 @@ comparePrice: 229.99 EUR
 prodname: 'Garmin DriveSmart 51 Western EU LMT-D - Navegador GPS con mapas de por Vida y tráfico Digital  Pantalla de 5"  Mapa Oeste Europa '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NBXGROW/?tag=tolees-21'
 descuento: '50.14'
 average: '114.68'

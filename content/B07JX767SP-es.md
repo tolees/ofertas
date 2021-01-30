@@ -16,6 +16,7 @@ comparePrice: 78.12 EUR
 prodname: '6800mAh 14.4V Capacidad de la batería Ni-MH para iRobot Roomba aspiradoras Serie 500 600 700 800'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JX767SP/?tag=tolees-21'
 descuento: '25.00'
 average: '58.59'

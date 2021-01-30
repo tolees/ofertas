@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Salomon XA Pro 3D Winter TS CSWP J  Calzado de Invierno Unisex Niños  Negro/Naranja  Black/Magnet/Tangelo   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BS2D9NW/?tag=tolees-21'
 descuento: '39.43'
 average: '54.48'

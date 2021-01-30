@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'BOSS Carmello Cinturón  Azul  Navy 410   120 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V9Y9WXM/?tag=tolees-21'
 descuento: '81.47'
 average: '18.34'

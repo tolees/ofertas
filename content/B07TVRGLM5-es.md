@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Lámpara LED de Armario  10 LED USB Recargable Barra de Luz Làmpara con Sensor de Movimiento Inalámbrico para Armario  Gabinete  Pasillo  Baño  Cajón [Clase de eficiencia energética A]  1pack '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TVRGLM5/?tag=tolees-21'
 descuento: '43.56'
 average: '9.59'

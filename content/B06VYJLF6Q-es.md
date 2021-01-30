@@ -16,6 +16,7 @@ comparePrice: 46.45 EUR
 prodname: 'INTEY Plastificador A4 / A5 / A6 : Función ABS / 3 minutos Velocidad de calentamiento rápida Laminador Laminado en Frío / Caliente para Oficina / Escuela / hogar [Incluye 10 películas laminadas PCS]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06VYJLF6Q/?tag=tolees-21'
 descuento: '42.67'
 average: '25.935'

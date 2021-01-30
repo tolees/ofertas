@@ -16,6 +16,7 @@ comparePrice: 185.0 EUR
 prodname: 'PRIXTON - Robot Aspirador Fregasuelos Barre y Friega/Aspirador Robot con WiFi y App para Móvil  Realiza Rutas Inteligentes  Función 4 en 1: Barre  Friega  Aspira  Pasa la Mopa | Spire 916'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YZCNBLC/?tag=tolees-21'
 descuento: '29.74'
 average: '129.99'

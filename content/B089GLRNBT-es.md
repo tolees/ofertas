@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'BEUSS Pez Mariposa Botella de Agua Frasco de Vacío Aislamiento de Acero Inoxidable Termo de Embalaje de Cuero a Prueba de Fugas Termica Botella  500 ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089GLRNBT/?tag=tolees-21'
 descuento: '54.01'
 average: '22.99'

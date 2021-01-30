@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'VeagleFly Shiatsu Masajeador de cuello con Calor  Cervical Masajeador Eléctrico de Espalda de Tejido Profundo con Amasamiento Potente en 3D para Alivio de Cuerpo Completo en Casa  Oficina o Coche'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZKKG8NC/?tag=tolees-21'
 descuento: '27.76'
 average: '33.827272727272735'

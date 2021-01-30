@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'OtterBox Commuter Lite - Funda de Protección para Samsung Galaxy A40 Negra'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RNZY3T4/?tag=tolees-21'
 descuento: '48.35'
 average: '15.49'

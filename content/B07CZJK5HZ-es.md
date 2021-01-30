@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Under Armour Tech 6in 2 Pack Ropa Interior  Hombre  Azul  Academy/Mod Gray Light Heather 409   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZJK5HZ/?tag=tolees-21'
 descuento: '48.60'
 average: '21.32333333333333'

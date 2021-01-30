@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'DON HIERRO - Vajilla de 20 Piezas de Porcelana  Anna  6 Servicios  Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0822XYMY8/?tag=tolees-21'
 descuento: '43.48'
 average: '39.0'

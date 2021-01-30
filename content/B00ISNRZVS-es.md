@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Taurus 999.185 Recambio Envasadora'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ISNRZVS/?tag=tolees-21'
 descuento: '70.82'
 average: '7.0'

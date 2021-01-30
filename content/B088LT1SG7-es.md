@@ -16,6 +16,7 @@ comparePrice: 21.7 EUR
 prodname: 'qingqingR Estuche dispensador automático de bastoncillos de algodón con bastoncillos de algodón Decoración del hogar del Hotel'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088LT1SG7/?tag=tolees-21'
 descuento: '50.00'
 average: '10.85'

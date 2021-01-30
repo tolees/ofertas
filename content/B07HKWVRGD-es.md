@@ -16,6 +16,7 @@ comparePrice: 645.0 EUR
 prodname: 'Dolce&Gabbana - Cartera para Mujer  Negro  Negro  - BI0473AI07380999'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HKWVRGD/?tag=tolees-21'
 descuento: '48.45'
 average: '332.5'

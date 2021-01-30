@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Skechers Women s BOBS Squad 2-Grand Jubilee Trainers  Black  Black Blk   3  36 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NF7F7DZ/?tag=tolees-21'
 descuento: '34.09'
 average: '33.61'

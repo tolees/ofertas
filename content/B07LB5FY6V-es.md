@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'TOOHUI 6Pcs Acoplador HDMI  HDMI Acoplador Hembra a Hembra  Empalme HDMI Hembra  Chapado en Oro de Alta Velocidad HDMI Hembra Acoplador'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LB5FY6V/?tag=tolees-21'
 descuento: '42.89'
 average: '7.99'

@@ -16,6 +16,7 @@ comparePrice: 125 EUR
 prodname: 'American Tourister Modern Dream - Spinner S Equipaje de mano  55 cm  35 L  Blanco  Stardust '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J6QJWZP/?tag=tolees-21'
 descuento: '37.78'
 average: '78.735'

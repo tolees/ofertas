@@ -16,6 +16,7 @@ comparePrice: 6.09 EUR
 prodname: 'KIKI Alimento Completo para jilgueros y pájaros Silvestres'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KSF8GP8/?tag=tolees-21'
 descuento: '58.95'
 average: '2.5'

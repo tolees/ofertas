@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'SELECT – Rodillera para Balonmano Vendaje  Hombre  Color Negro  tamaño Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01I4QYPIY/?tag=tolees-21'
 descuento: '31.95'
 average: '24.49'

@@ -16,6 +16,7 @@ comparePrice: 24.9 EUR
 prodname: 'Samsung EB-B500BEBECWW - Batería oficial para móvil Galaxy S4 Mini  litio ion - Versión española'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00D9R2JA0/?tag=tolees-21'
 descuento: '70.12'
 average: '7.073333333333334'

@@ -16,6 +16,7 @@ comparePrice: 96.99 EUR
 prodname: 'Wagner Wood&Metal Sprayer  Pulverizador eléctrico de pintura para madera y metal  Amarillo/Negro  100W'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BUDIY2G/?tag=tolees-21'
 descuento: '27.01'
 average: '83.89'

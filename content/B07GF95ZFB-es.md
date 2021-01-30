@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Festina Reloj Analógico para Mujer de Cuarzo con Correa en Cuero F20407/1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GF95ZFB/?tag=tolees-21'
 descuento: '38.56'
 average: '82.60000000000001'

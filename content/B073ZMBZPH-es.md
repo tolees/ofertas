@@ -16,6 +16,7 @@ comparePrice: 299.99 EUR
 prodname: 'WD My Book Duo Disco duro externo de Sobremesa de 4 TB con RAID  USB 3.1 gen 1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073ZMBZPH/?tag=tolees-21'
 descuento: '65.01'
 average: '149.905'

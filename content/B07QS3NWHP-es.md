@@ -16,6 +16,7 @@ comparePrice: 142.99 EUR
 prodname: 'Swiss Home Set Black 16/20/24 y Batería Cocina  Acero Inoxidable y Aluminio prensado  5 piezas + 3 sartenes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QS3NWHP/?tag=tolees-21'
 descuento: '58.86'
 average: '58.73363636363636'

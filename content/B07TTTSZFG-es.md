@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Verrado Crafton  Zapatillas para Hombre  Marrón  Dark Brown Leather Acdb   47.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TTTSZFG/?tag=tolees-21'
 descuento: '41.90'
 average: '40.64'

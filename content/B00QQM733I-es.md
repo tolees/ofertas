@@ -16,6 +16,7 @@ comparePrice: 37.99 EUR
 prodname: 'Munchkin - Espejo musical con luz Day & Night'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00QQM733I/?tag=tolees-21'
 descuento: '25.01'
 average: '28.49'

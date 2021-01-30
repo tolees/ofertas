@@ -16,6 +16,7 @@ comparePrice: 61.42 EUR
 prodname: 'PUMA Future 5.3 Netfit FG/AG  Zapatillas de fútbol para Hombre  Negro Black/Asphalt  42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S9SH5ZB/?tag=tolees-21'
 descuento: '42.62'
 average: '35.24'

@@ -16,6 +16,7 @@ comparePrice: 10.49 EUR
 prodname: 'atFoliX Antichoque Película Protectora para Suunto EON Core Protector Película  Ultra Clara y Que Absorbe los Golpes FX Película Protectora  3X '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078B2BWCW/?tag=tolees-21'
 descuento: '39.08'
 average: '6.39'

@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'Calvin Klein Underwear Perfectly FIT-Memory Touch Push-UP Sujetador  Black 001  90B para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PVVK0BW/?tag=tolees-21'
 descuento: '37.73'
 average: '27.99'

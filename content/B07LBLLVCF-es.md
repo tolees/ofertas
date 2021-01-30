@@ -16,6 +16,7 @@ comparePrice: 15.9 EUR
 prodname: 'Tommy Hilfiger Thong Tanga  Azul  Navy Blazer 416   40  Talla del Fabricante: MD  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBLLVCF/?tag=tolees-21'
 descuento: '35.85'
 average: '10.2'

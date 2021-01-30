@@ -16,6 +16,7 @@ comparePrice: 22.75 EUR
 prodname: 'Bandas de resistencia ejercicio con asas deportes casa y gimnasio Entrenamiento'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01J7YNS12/?tag=tolees-21'
 descuento: '42.99'
 average: '11.636666666666667'

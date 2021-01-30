@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Ever-Pretty A-línea Vestito de Gala Gasa Cuello en V sin Mangas Largo para Mujer Sonrojo 42'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079DN7XSF/?tag=tolees-21'
 descuento: '25.00'
 average: '59.99'

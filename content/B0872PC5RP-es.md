@@ -16,6 +16,7 @@ comparePrice: 16.88 EUR
 prodname: 'Funda Transparente Compatible para Xiaomi Mi A3 Carcasa Suave Silicona TPU Gel Dibujos Animal Ultra Fina Anti Choques y Anti Arañazos Clear Bumper Case Cover para Xiaomi Mi A3 A3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0872PC5RP/?tag=tolees-21'
 descuento: '52.73'
 average: '7.98'

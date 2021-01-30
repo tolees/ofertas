@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Reebok Princess  Zapatillas para Mujer  Negro  Black 001   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077Q6WVBY/?tag=tolees-21'
 descuento: '33.34'
 average: '39.18666666666667'

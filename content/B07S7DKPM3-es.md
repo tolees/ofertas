@@ -16,6 +16,7 @@ comparePrice: 109.9 EUR
 prodname: 'Spiuk Culote Corto C/T BIOMECHANIC Hombre Petroleo/Fluor T. XL/XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S7DKPM3/?tag=tolees-21'
 descuento: '34.85'
 average: '71.6'

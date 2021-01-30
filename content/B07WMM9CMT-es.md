@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'TUBBZ Fallout T-51 Collectible Duck'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WMM9CMT/?tag=tolees-21'
 descuento: '60.31'
 average: '8.049'

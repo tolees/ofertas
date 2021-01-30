@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Women s Flex Appeal 3.0 Trainers  Grey  Slate & Pink Knit Mesh/White Trim Sltp   3.5 UK  36.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B144PDQ/?tag=tolees-21'
 descuento: '36.57'
 average: '44.17666666666666'

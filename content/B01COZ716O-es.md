@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Clarks Originals Boot  Botas Desert para Mujer  Azul  Dark Navy Suede   39.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01COZ716O/?tag=tolees-21'
 descuento: '50.00'
 average: '65.0'

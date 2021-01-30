@@ -16,6 +16,7 @@ comparePrice: 65.95 EUR
 prodname: 'PONY DANCE Cortinas Termicas Exterior - Cortinas Blancas Gris Trabillas 1 Panel  132 x 213 cm  An x Al  / Cortinas Gordas Impermeables para Jardin Terraza Puerta Ducha'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NY4RF9M/?tag=tolees-21'
 descuento: '25.78'
 average: '48.95'

@@ -16,6 +16,7 @@ comparePrice: 17.98 EUR
 prodname: 'MagiDeal Apareciendo Bolsa de Papel Caja Flor de Cerca Apoyos Truco Magia para Fiesta Escuela'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077MD4XNV/?tag=tolees-21'
 descuento: '44.44'
 average: '9.99'

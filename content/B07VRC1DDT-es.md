@@ -16,6 +16,7 @@ comparePrice: 98.16 EUR
 prodname: 'Tommy Hilfiger Organic Cotton Silk Crew Neck Pantalones  Azul  Faded Indigo Heather DVD   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VRC1DDT/?tag=tolees-21'
 descuento: '55.57'
 average: '36.495000000000005'

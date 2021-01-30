@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'FCSDETAIL Alfombrilla de Baño Antideslizantes de 50X80 cm  Tapete para el Piso Lavable a Máquina con Microfibras Suaves Absorbentes de Agua para Bañera  Ducha y Baño'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PHF35SZ/?tag=tolees-21'
 descuento: '33.34'
 average: '19.99'

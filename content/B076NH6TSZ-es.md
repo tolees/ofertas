@@ -16,6 +16,7 @@ comparePrice: 140.97 EUR
 prodname: 'Fellowes - Platinum Series - Soporte De Monitor Individual con Brazo Flexible Ajustable para Colocar La Pantalla A La Altura Adecuada  Compatible con Vesa  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076NH6TSZ/?tag=tolees-21'
 descuento: '32.54'
 average: '95.1'

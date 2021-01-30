@@ -16,6 +16,7 @@ comparePrice: 239.0 EUR
 prodname: 'Seiko Reloj Analógico de Cuarzo para Hombre con Correa de Titanio – SGG731P1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000J1YMWW/?tag=tolees-21'
 descuento: '34.21'
 average: '155.55'

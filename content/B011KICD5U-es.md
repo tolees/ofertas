@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'MaxHold Sistema de vacío Doble Ganchos para colgadores - No-perforar - Acero inoxidable Nunca Moho - almacenamiento de la cocina&baño'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B011KICD5U/?tag=tolees-21'
 descuento: '50.03'
 average: '9.99'

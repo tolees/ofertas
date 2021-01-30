@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'didisky 2 unidades LED linterna  5 modos enfoque ajustable de bolsillo CREE linterna LED  IP65  resistente al agua  3 x AAA Pilas no incluidas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073TVCGLC/?tag=tolees-21'
 descuento: '45.48'
 average: '11.967777777777778'

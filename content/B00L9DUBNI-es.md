@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'DC Shoes  DCSHI  Trase TX-Shoes for Men  Zapatillas de Skateboard para Hombre  Black/Gum  38.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00L9DUBNI/?tag=tolees-21'
 descuento: '46.15'
 average: '30.41'

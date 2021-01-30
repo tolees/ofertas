@@ -16,6 +16,7 @@ comparePrice: 260.45 EUR
 prodname: 'ASUS DUAL-GTX1650-4G - Tarjeta gráfica  4 GB GDDR5  OC 1695 MHz  128 bit  PCIE 3.0  896 núcleos CUDA  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QT61W4Y/?tag=tolees-21'
 descuento: '39.82'
 average: '156.74'

@@ -16,6 +16,7 @@ comparePrice: 17.38 EUR
 prodname: 'Dragon Ball Z. Tv Special 1:Batalla Final Solitaria + Tv Special 2: ¡Resistencia Hasta La Desesperación! [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EIPTLDE/?tag=tolees-21'
 descuento: '41.31'
 average: '10.594999999999999'

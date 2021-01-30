@@ -16,6 +16,7 @@ comparePrice: 21.2 EUR
 prodname: 'Shunga Aceite Orgánico Sweet Almond  Color Amarillo Translúcido - 250 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SUNGK5S/?tag=tolees-21'
 descuento: '30.61'
 average: '13.55'

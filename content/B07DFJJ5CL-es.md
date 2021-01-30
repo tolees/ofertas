@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'LAST LEVEL- Funko Pop: Kingdom Hearts 3: Goofy  Monsters Inc.  Figura  Multicolor  FFK34058 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFJJ5CL/?tag=tolees-21'
 descuento: '40.56'
 average: '7.06625'

@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Tommy Hilfiger - Reloj para mujer - 1781742'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JLI77L6/?tag=tolees-21'
 descuento: '32.17'
 average: '144.99'

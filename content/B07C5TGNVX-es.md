@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'WMF Perfect Premium - Olla ultra rápida/a presión de acero inoxidable de 22 cm y 4 5 litros  apta para inducción  fabricado en Alemania'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C5TGNVX/?tag=tolees-21'
 descuento: '36.50'
 average: '127.15666666666667'

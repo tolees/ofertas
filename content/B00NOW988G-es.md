@@ -16,6 +16,7 @@ comparePrice: 29.84 EUR
 prodname: 'BAUSCH + LOMB - SofLens® Natural Colors - Lentes De Contacto De Color  Con y Sin Graduación - 2 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NOW988G/?tag=tolees-21'
 descuento: '56.77'
 average: '12.9'

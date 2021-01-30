@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Quiksilver Principle - Cinturón De Nailon Belts  Hombre  Black  1SZ'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0825MQV3X/?tag=tolees-21'
 descuento: '43.78'
 average: '8.99'

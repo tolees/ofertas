@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Levi s Limit  Bufanda Unisex adulto  Negro  Black   Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00D2LRUAM/?tag=tolees-21'
 descuento: '45.83'
 average: '18.296666666666667'

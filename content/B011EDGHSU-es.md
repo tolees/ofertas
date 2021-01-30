@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Apilables Recipiente De Lavado - Ideal para Camping  Los colores pueden variar '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B011EDGHSU/?tag=tolees-21'
 descuento: '41.10'
 average: '8.24'

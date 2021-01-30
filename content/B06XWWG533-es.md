@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Activision - Figura Sim Sensei Tidepool'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XWWG533/?tag=tolees-21'
 descuento: '48.09'
 average: '9.206666666666667'

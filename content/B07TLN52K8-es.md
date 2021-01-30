@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Nûby 36M+ - Taza de tritan con botón Push y pajita  530 ml  Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TLN52K8/?tag=tolees-21'
 descuento: '39.96'
 average: '9.6'

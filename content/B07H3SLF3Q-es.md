@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'TOPERSUN Funda de Barbacoa Funda Protectora para Barbacoa BBQ Funda Impermeable para 77cm*70cm Parrilla de Barbacoa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H3SLF3Q/?tag=tolees-21'
 descuento: '60.02'
 average: '10.656666666666666'

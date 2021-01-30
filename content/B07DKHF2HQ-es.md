@@ -16,6 +16,7 @@ comparePrice: 23 EUR
 prodname: 'Kipling - Inami S  Monederos Mujer  Multicolor  Dynamic Dots '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DKHF2HQ/?tag=tolees-21'
 descuento: '30.00'
 average: '14.413333333333334'

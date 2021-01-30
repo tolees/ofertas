@@ -16,6 +16,7 @@ comparePrice: 181.44 EUR
 prodname: 'BC Lithium Batteries BCTZ14S-FP-S Batería Litio para Moto LiFePO4 HJTZ14S-FP-S / YTX14L-BS /16HL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00FG49YXE/?tag=tolees-21'
 descuento: '30.08'
 average: '126.86'

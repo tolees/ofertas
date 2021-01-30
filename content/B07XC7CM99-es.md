@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Giochi Preziosi - Camión de policía con 2 Personajes y Accesorios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XC7CM99/?tag=tolees-21'
 descuento: '34.33'
 average: '37.05324999999999'

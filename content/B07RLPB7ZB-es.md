@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'J.Rosée Collana Donna Argento Sterling 925 Pendente Ciondolo Infinito'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RLPB7ZB/?tag=tolees-21'
 descuento: '89.01'
 average: '10.99'

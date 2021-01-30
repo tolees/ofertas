@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Braun FaceSpa 851 - Sistema 3 en 1 de depiladora facial  cepillo limpiador y masaje  color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06W54T9DH/?tag=tolees-21'
 descuento: '48.00'
 average: '43.87875'

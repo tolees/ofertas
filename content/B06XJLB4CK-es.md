@@ -16,6 +16,7 @@ comparePrice: 34.74 EUR
 prodname: 'AiSi - Cartera de mano para mujer negro negro Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XJLB4CK/?tag=tolees-21'
 descuento: '30.45'
 average: '24.16'

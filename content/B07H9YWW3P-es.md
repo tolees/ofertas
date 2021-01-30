@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Funko Modern Family Llavero Pop Gloria  Color Mulitcolor  1337-398862 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H9YWW3P/?tag=tolees-21'
 descuento: '67.02'
 average: '5.59'

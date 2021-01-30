@@ -16,6 +16,7 @@ comparePrice: 42 EUR
 prodname: 'Estee Lauder 50590 - Base de maquillaje'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000WIGQJO/?tag=tolees-21'
 descuento: '42.98'
 average: '23.95'

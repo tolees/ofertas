@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'AXT SHADE Toldo Vela de Sombra Rectangular 2 x 3 m  protección Rayos UV Impermeable para Patio  Exteriores  Jardín  Color Arena'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KPZ636V/?tag=tolees-21'
 descuento: '30.01'
 average: '30.490000000000002'

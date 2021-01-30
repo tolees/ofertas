@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Think Gizmos Equipo de construcción para niños – Ingenious Machines a Control Remoto Kit de Construcción de Juguete  grúa  Carretilla elevadora  topadora y camión volquete '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075XPHGLW/?tag=tolees-21'
 descuento: '60.07'
 average: '27.95'

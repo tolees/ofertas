@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: '1 x de Almohadilla de Tinta para Dedos para Pintura de Huella Dactilar de Tela - Matcha verde  45x30x25mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CXL5BZ5/?tag=tolees-21'
 descuento: '33.37'
 average: '5.99'

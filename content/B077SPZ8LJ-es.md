@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'PUMA 655307 03 Capucha  Hombre  Negro  Puma Black/Puma White   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077SPZ8LJ/?tag=tolees-21'
 descuento: '44.40'
 average: '27.982'

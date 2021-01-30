@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'WOLTU Persiana Enrollable Sin Perforación Persiana Enrollable Lateral Translúcida 120x150 cm Blanco VH5524ws'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017NEDJC6/?tag=tolees-21'
 descuento: '26.86'
 average: '25.59'

@@ -16,6 +16,7 @@ comparePrice: 98.99 EUR
 prodname: 'Asics Gel-BND  Zapatillas de Balonmano para Hombre  Azul  Midnight/Sheet Rock 400   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RZLV48Z/?tag=tolees-21'
 descuento: '34.35'
 average: '47.215'

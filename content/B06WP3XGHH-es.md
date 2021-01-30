@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'find. Slip para Hombre Y-Front  Pack de 5  Negro  Black X5   Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WP3XGHH/?tag=tolees-21'
 descuento: '25.01'
 average: '14.99'

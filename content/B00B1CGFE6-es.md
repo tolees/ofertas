@@ -16,6 +16,7 @@ comparePrice: 5.3 EUR
 prodname: 'Bourjois - Rouge edition  barra de labios  tono 12'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00B1CGFE6/?tag=tolees-21'
 descuento: '51.89'
 average: '2.55'

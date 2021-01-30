@@ -16,6 +16,7 @@ comparePrice: 27.05 EUR
 prodname: 'Amazon Essentials - Cazadora ligera para hombre  Azul marino/ Blanco  US L  EU L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HK7YQS7/?tag=tolees-21'
 descuento: '36.23'
 average: '20.165'

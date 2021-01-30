@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'ZAFUL Mujeres Pantalones con Cordones a Rayas Pantalones de Chándal Pantalones de Cintura Alto Leggines Negro  S - L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H3KBJL4/?tag=tolees-21'
 descuento: '66.01'
 average: '16.99'

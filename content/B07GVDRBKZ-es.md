@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'TACKLIFE Bandas de Lija  10PCS 75x457mm Papeles de Lija  Banda Abrasiva 2x40/60/80/120/180 Granos  Lijadora de Banda ASB01A'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GVDRBKZ/?tag=tolees-21'
 descuento: '29.19'
 average: '8.49'

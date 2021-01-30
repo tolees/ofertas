@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Samsung - Funda de silicona para Galaxy Note 9  color púrpura  lavanda - Version española'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F1ZWJLX/?tag=tolees-21'
 descuento: '49.87'
 average: '11.387142857142857'

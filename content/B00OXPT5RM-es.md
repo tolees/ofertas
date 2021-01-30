@@ -16,6 +16,7 @@ comparePrice: 63.53 EUR
 prodname: 'Reality Luster Apliques y plafones E14  4 W  Transparente claro  32 x 27 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OXPT5RM/?tag=tolees-21'
 descuento: '49.00'
 average: '30.74'

@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Columbia Childrens Rope Tow III Waterproof  Botas de Nieve para Niñas  Azul  Iceberg  Camellia Rose   26 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078T7VFQ8/?tag=tolees-21'
 descuento: '69.35'
 average: '21.45'

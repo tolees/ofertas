@@ -16,6 +16,7 @@ comparePrice: 31.95 EUR
 prodname: 'DANISH ENDURANCE Calcetines de Compresión de Algodón Orgánico Pack de 1  Rojo  EU 39-42 // UK 7-9 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M4N0GH1/?tag=tolees-21'
 descuento: '53.21'
 average: '14.95'

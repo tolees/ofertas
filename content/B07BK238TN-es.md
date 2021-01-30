@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'BOSHUN Pintar por Numeros para Adultos Niños Pintura por Números con Pinceles y Pinturas Decoraciones para el Hogar Parque de Flores de Cerezo  16 * 20 Pulgadas  Sin Marco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BK238TN/?tag=tolees-21'
 descuento: '41.53'
 average: '8.18'

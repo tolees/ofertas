@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Piscina Hinchable Infantil Bestway Deluxe Octagon Family 250x250x51 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00FILJHIW/?tag=tolees-21'
 descuento: '47.25'
 average: '36.9'

@@ -16,6 +16,7 @@ comparePrice: 60.64 EUR
 prodname: 'Levi s 502 Regular Taper Jeans  Azul  Prewash 95977 0181   32W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D6ZZLQ1/?tag=tolees-21'
 descuento: '26.83'
 average: '43.54333333333333'

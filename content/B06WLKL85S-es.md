@@ -16,6 +16,7 @@ comparePrice: 13.95 EUR
 prodname: ' AL  Fliegenohren Esperia  rosenholz/smaragd  Pony  rosenholz/smaragd  Pony'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WLKL85S/?tag=tolees-21'
 descuento: '60.50'
 average: '5.51'

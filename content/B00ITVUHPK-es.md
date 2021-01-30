@@ -16,6 +16,7 @@ comparePrice: 9.54 EUR
 prodname: 'Wd-40 - Lubricante Doble Accion  500 Ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ITVUHPK/?tag=tolees-21'
 descuento: '27.15'
 average: '6.95'

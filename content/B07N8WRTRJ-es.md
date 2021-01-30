@@ -16,6 +16,7 @@ comparePrice: 109.95 EUR
 prodname: 'MSI Vigor GK60 CR - Teclado Español  N-Key  Windows Key  Cherry MX Red   Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N8WRTRJ/?tag=tolees-21'
 descuento: '27.33'
 average: '79.9'

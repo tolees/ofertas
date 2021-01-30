@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'L Oreal Paris Colorista Hair Make Up Red'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BR5YBGF/?tag=tolees-21'
 descuento: '74.97'
 average: '1.99'

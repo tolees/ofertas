@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Sveon SCT022 - Lector de DNI electrónico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OV3O7GK/?tag=tolees-21'
 descuento: '27.16'
 average: '10.19'

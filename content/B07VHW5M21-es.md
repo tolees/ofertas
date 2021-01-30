@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'HUGO Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable 1540027'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VHW5M21/?tag=tolees-21'
 descuento: '67.04'
 average: '59.0'

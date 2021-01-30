@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Tommy Hilfiger - Classic Saffiano Bumbag  Bolsos bandolera Mujer  Negro  Black   4x0.1x16 cm  W x H L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RS6C9WK/?tag=tolees-21'
 descuento: '59.41'
 average: '36.49'

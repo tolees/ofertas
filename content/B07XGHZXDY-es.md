@@ -16,6 +16,7 @@ comparePrice: 53.98 EUR
 prodname: 'Ayete Smartwatch Fitness Tracker con frecuencia cardíaca Monitoreo de la presión Arterial Salud Deporte Reloj Impermeable IP67 Reloj de Pulsera Cámara remota Pulsera Inteligente  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XGHZXDY/?tag=tolees-21'
 descuento: '50.00'
 average: '26.99'

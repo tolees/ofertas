@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Salomon Tech Lite  Zapatillas de Senderismo acuáticas para Hombre  Gris  Quiet Shade/Black/Alloy   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RJSYGBR/?tag=tolees-21'
 descuento: '36.25'
 average: '61.495000000000005'

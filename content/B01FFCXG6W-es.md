@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Dino Dini s Kick Off Revival - Day One Edition'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FFCXG6W/?tag=tolees-21'
 descuento: '31.97'
 average: '12.879999999999999'

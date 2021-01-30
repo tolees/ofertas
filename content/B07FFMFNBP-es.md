@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Fossil Smartwatch FTW4012'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FFMFNBP/?tag=tolees-21'
 descuento: '44.01'
 average: '183.9975'

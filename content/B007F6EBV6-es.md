@@ -16,6 +16,7 @@ comparePrice: 26.95 EUR
 prodname: 'Lékué Estuche de Vapor Hondo 500 Ml con Bandeja  Silicona Platino  Verde  21.2 x 15.5 x 8.5 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007F6EBV6/?tag=tolees-21'
 descuento: '30.06'
 average: '18.85'

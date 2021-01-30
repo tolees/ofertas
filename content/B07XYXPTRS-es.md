@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'UCMDA Funda para Xiaomi Redmi Note 8 Pro con Protector de Pantalla  Funda Duro PC Delgada Minimalista Protector Carcasa para Redmi Note 8 Pro con Cristal Templado  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XYXPTRS/?tag=tolees-21'
 descuento: '45.50'
 average: '5.99'

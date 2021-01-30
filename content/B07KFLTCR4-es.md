@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'adidas RUNFALCON  Running Shoe Mens  Footwear White/Footwear White/Footwear White  41 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFLTCR4/?tag=tolees-21'
 descuento: '30.95'
 average: '34.656666666666666'

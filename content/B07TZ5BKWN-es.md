@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Women s Secret Soft Touch 2 St Special Nd Grey Camisón  Gris  Gama Grises 46   Small  Tamaño del Fabricante: S  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZ5BKWN/?tag=tolees-21'
 descuento: '70.39'
 average: '12.386666666666667'

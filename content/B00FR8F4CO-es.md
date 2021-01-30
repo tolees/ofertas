@@ -16,6 +16,7 @@ comparePrice: 14.0 EUR
 prodname: 'SUCK UK Sacacorchos De Vino | Abridor Manual Diseño Pirata | Abre Botellas Cocina  Acero Inoxidable  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00FR8F4CO/?tag=tolees-21'
 descuento: '25.29'
 average: '10.29'

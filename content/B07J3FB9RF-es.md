@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Under Armour Undeniable Duffel 4.0 MD Deportes  Bolsa De Entrenamiento  Unisex  Azul  OSFA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J3FB9RF/?tag=tolees-21'
 descuento: '48.91'
 average: '28.554999999999996'

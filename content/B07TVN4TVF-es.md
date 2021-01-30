@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'SHAN ZU Cuchillo de Cocina Nakiri  16.5cm Cuchillo Japones para Verduras  Cuchillo Chef de Acero Inoxidable Alemán  Cuchillo de Cocinero Profesional con el Mango Madera Pakka'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TVN4TVF/?tag=tolees-21'
 descuento: '50.01'
 average: '29.99'

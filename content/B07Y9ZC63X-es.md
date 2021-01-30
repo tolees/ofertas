@@ -16,6 +16,7 @@ comparePrice: 497.92 EUR
 prodname: 'Monitor 27   Gigabyte AORUS CV27Q'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y9ZC63X/?tag=tolees-21'
 descuento: '34.54'
 average: '401.4466666666667'

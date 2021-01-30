@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'AUKEY Soporte Móvil Coche Magnético Universal  2 Pack  para Rejillas del Aire Soporte Smartphone Coche para iPhone 7 / 6s / 6 / 5s / 5  Samsung  LG G3 y Dispositivo GPS-Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M8K8C0K/?tag=tolees-21'
 descuento: '40.03'
 average: '8.99'

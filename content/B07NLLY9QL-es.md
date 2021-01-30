@@ -16,6 +16,7 @@ comparePrice: 105.0 EUR
 prodname: 'Versace Jeans CouturePortafoglioMujerCarterasRosa  Fuxia  2x12.5x22 centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NLLY9QL/?tag=tolees-21'
 descuento: '33.34'
 average: '69.75'

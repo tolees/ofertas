@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'Logitech MK710 Combo Teclado y Ratón Inalámbrico para Windows  Conexión Inalámbrica 2 4 GHz  Ratón Inalámbrico  Teclas Multimedias  Batería de 3 Años  PC/Mac  QWERTY Español  color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0055ZWQUW/?tag=tolees-21'
 descuento: '40.36'
 average: '72.27000000000001'

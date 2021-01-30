@@ -16,6 +16,7 @@ comparePrice: 97.77 EUR
 prodname: 'ASICS Gel-Lyte Runner 2  Zapatillas para Correr para Hombre  Negro  44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SMQT867/?tag=tolees-21'
 descuento: '56.78'
 average: '42.26'

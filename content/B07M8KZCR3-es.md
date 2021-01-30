@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee Luke Corduroy Pantalones  Azul  Dark Marine 21   31W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M8KZCR3/?tag=tolees-21'
 descuento: '74.24'
 average: '23.17'

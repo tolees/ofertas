@@ -16,6 +16,7 @@ comparePrice: 1.85 EUR
 prodname: 'TE BLANCO INFUSION 20U. C.INDI'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00V6AOCUC/?tag=tolees-21'
 descuento: '45.95'
 average: '1.0'

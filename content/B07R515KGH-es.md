@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Máquina de cortar pelo  maquina cortar pelo  cortador de cabello inalámbrico de precisión  cortador de cabello  4 guías de peine  cortapelos para hombres  mujeres  niños  peluqueros y estilistas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R515KGH/?tag=tolees-21'
 descuento: '28.58'
 average: '49.99'

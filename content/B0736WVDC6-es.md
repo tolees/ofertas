@@ -16,6 +16,7 @@ comparePrice: 5.89 EUR
 prodname: 'VENI MASEE Muñequera Deportiva con Cremallera  Gruesa  Color sólido. Muñequera Cartera 1Piece/2Piece '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0736WVDC6/?tag=tolees-21'
 descuento: '62.14'
 average: '2.23'

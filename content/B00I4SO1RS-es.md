@@ -16,6 +16,7 @@ comparePrice: 34.94 EUR
 prodname: 'Mobiclinic  Pedalier  Ejercitador de brazos y piernas  Camino'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00I4SO1RS/?tag=tolees-21'
 descuento: '38.47'
 average: '25.869230769230775'

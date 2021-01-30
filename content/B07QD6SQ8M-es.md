@@ -16,6 +16,7 @@ comparePrice: 22.49 EUR
 prodname: 'PUMA Alpha Leggings G Mallas Deporte  Niñas  Light Gray Heather  116'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QD6SQ8M/?tag=tolees-21'
 descuento: '49.67'
 average: '11.32'

@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Jack & Jones Jorrafael Sweat Hood Capucha  Rojo  Brick Redslim/Org   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VC1K7QC/?tag=tolees-21'
 descuento: '67.28'
 average: '11.895'

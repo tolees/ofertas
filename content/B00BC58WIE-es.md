@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Philips GC160/02 - Plancha en seco con suela DynaGlide 1200 W  punta estrecha  control de temperatura fácil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BC58WIE/?tag=tolees-21'
 descuento: '31.21'
 average: '14.44'

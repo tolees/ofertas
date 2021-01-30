@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Salomon RX Break 4.0  Calzado de recuperación para Hombre  Negro  Black/Black/White   40 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZF5N2X/?tag=tolees-21'
 descuento: '30.03'
 average: '38.45'

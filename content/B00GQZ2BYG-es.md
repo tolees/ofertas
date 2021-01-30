@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Reticare 351P-3500-B - Protector de Ojos  Universal  High'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GQZ2BYG/?tag=tolees-21'
 descuento: '27.28'
 average: '5.81'

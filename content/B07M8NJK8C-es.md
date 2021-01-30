@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Braun 9 En 1 Recortadora todo en uno MGK5080  Máquina recortadora barba  cortapelos  recortador de vello de nariz y orejas  para detalles  afeitadora corporal'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M8NJK8C/?tag=tolees-21'
 descuento: '38.74'
 average: '49.285000000000004'

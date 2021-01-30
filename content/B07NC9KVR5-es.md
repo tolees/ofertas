@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Pepe Jeans MC Queen Short para Hombre  Naranja  Spice 193   W36  Talla del fabricante: 36 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NC9KVR5/?tag=tolees-21'
 descuento: '39.90'
 average: '28.43'

@@ -16,6 +16,7 @@ comparePrice: 21.08 EUR
 prodname: 'Moreplus Báscula digital de cocina multifunción con botón táctil  ultra delgada con pantalla LCD grande  acero inoxidable  pilas incluidas  5000g/1g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M9M6JL6/?tag=tolees-21'
 descuento: '39.09'
 average: '12.84'

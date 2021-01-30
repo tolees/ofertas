@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Columbia Drainmaker™ IV  Zapatillas para Mujer  Rojo  Graphite  Red Coral   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DV7KCGQ/?tag=tolees-21'
 descuento: '70.77'
 average: '26.3'

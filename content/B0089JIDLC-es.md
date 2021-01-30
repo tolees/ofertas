@@ -16,6 +16,7 @@ comparePrice: 60.99 EUR
 prodname: 'Kingston KVR16N11/8 - Memoria RAM de 8 GB  1600 MHz DDR3 Non-ECC CL11 DIMM  240-pin  1.5V '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0089JIDLC/?tag=tolees-21'
 descuento: '28.18'
 average: '42.589999999999996'

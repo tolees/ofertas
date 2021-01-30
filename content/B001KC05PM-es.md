@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Lindam Barrera blanca de seguridad con puerta y ajuste a presión. 76-82 cm. Máximo 117cm con extensión'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001KC05PM/?tag=tolees-21'
 descuento: '49.61'
 average: '36.225'

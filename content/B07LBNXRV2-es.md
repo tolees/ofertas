@@ -16,6 +16,7 @@ comparePrice: 25.5 EUR
 prodname: 'Helly Hansen Traverse Beanie Gorro Sombrero de Invierno  Unisex Adulto  Electric Blue  One Size'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBNXRV2/?tag=tolees-21'
 descuento: '41.65'
 average: '14.88'

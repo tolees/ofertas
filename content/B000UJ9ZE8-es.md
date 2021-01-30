@@ -16,6 +16,7 @@ comparePrice: 48.2 EUR
 prodname: 'BAUSCH + LOMB  - SofLens® 38 - Lentes de contacto - Pack de 6'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000UJ9ZE8/?tag=tolees-21'
 descuento: '71.06'
 average: '13.95'

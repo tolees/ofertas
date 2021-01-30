@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Pioneer TS-A133Ci Altavoces de componentes  2 vías  13 cm  300W  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AJTMXI8/?tag=tolees-21'
 descuento: '31.05'
 average: '75.85'

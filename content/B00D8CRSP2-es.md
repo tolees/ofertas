@@ -16,6 +16,7 @@ comparePrice: 28.45 EUR
 prodname: 'Picadora de Hielo A Mano O X Mojito Granizados Made In Italy!!'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00D8CRSP2/?tag=tolees-21'
 descuento: '35.85'
 average: '18.25'

@@ -16,6 +16,7 @@ comparePrice: 73.0 EUR
 prodname: 'Carita Haute Beaute Corps Sérum Expert Réducteur Contours - Loción corporal  200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00U95QU9Q/?tag=tolees-21'
 descuento: '43.84'
 average: '40.166666666666664'

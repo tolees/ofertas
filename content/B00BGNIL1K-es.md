@@ -16,6 +16,7 @@ comparePrice: 7.9 EUR
 prodname: 'Lancaster  Gel y jabón - 250 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BGNIL1K/?tag=tolees-21'
 descuento: '62.28'
 average: '2.98'

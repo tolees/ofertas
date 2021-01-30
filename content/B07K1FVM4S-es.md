@@ -16,6 +16,7 @@ comparePrice: 58.95 EUR
 prodname: 'Versace Eros Flame Edp Vapo 100 ml - 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K1FVM4S/?tag=tolees-21'
 descuento: '32.32'
 average: '39.9'

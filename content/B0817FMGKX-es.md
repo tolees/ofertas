@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Columbia Fast Trek Light Forro Polar con Cremallera  Mujer  Naranja  Bright Poppy   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0817FMGKX/?tag=tolees-21'
 descuento: '61.12'
 average: '17.49'

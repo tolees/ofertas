@@ -16,6 +16,7 @@ comparePrice: 229.9 EUR
 prodname: 'Drift DR300BG - Silla Gaming Profesional   Polipiel Alta Calidad  Ergonómica   Color Negro/Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BPFOPWM/?tag=tolees-21'
 descuento: '26.10'
 average: '179.45'

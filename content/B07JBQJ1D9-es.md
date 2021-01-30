@@ -16,6 +16,7 @@ comparePrice: 1361.89 EUR
 prodname: 'AMD Ryzen Threadripper 2970WX - Procesador  24 cores/48 Threads  4.2 GHz Boost  64 MB L3 Cache  DDR4 2933 MHz '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JBQJ1D9/?tag=tolees-21'
 descuento: '31.24'
 average: '1007.725'

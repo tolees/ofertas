@@ -16,6 +16,7 @@ comparePrice: 32.95 EUR
 prodname: 'SESDERMA Hidraderm Hyal Crema Hidratante 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00A7JWKO8/?tag=tolees-21'
 descuento: '68.19'
 average: '14.391666666666666'

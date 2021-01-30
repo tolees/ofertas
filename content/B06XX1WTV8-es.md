@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'Vogel s Thin 405  Soporte de Pared para TV 26-55 Pulgadas  Fijo  Máx 25 kg y con Sistema VESA máx. 400x400'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XX1WTV8/?tag=tolees-21'
 descuento: '33.39'
 average: '43.29'

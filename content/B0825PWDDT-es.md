@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Roxy Milady Beach-Short Vaquero Elástico para Mujer  Dark Indigo  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0825PWDDT/?tag=tolees-21'
 descuento: '26.01'
 average: '40.160000000000004'

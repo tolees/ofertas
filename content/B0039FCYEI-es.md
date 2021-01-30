@@ -16,6 +16,7 @@ comparePrice: 3.75 EUR
 prodname: 'IBILI 716010 - Aro INOX 10X4 50 Cms.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0039FCYEI/?tag=tolees-21'
 descuento: '26.67'
 average: '2.75'

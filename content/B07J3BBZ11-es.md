@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Fariña [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J3BBZ11/?tag=tolees-21'
 descuento: '40.01'
 average: '20.99'

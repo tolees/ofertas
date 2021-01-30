@@ -16,6 +16,7 @@ comparePrice: 3.99 EUR
 prodname: 'IEC 10a C14 3 Pines Chasis Panel Montar Clavija Pines Conector 6 35 mm TABS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003OSUIRK/?tag=tolees-21'
 descuento: '47.87'
 average: '2.1'

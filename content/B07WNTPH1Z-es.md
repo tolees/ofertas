@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'TOOBUR Pulsera de Actividad Inteligente  IP68 Impermeable Reloj Inteligente con Pulsómetro Podómetro Calorias Monitor de Sueño  Pulsera Actividad Smartwatch para Mujer Hombre Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WNTPH1Z/?tag=tolees-21'
 descuento: '35.01'
 average: '26.656666666666666'

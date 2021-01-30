@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Kono Bolsa de Viaje Ligero 40x20x25 Maleta de Cabina Segundo Equipaje para Vuelos en Ryanair 20L  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BNL64VS/?tag=tolees-21'
 descuento: '40.93'
 average: '12.99'

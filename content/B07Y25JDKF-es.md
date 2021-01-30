@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'SPC Epic  - Teléfono móvil   Números y letras grandes  Agenda hasta 300 contactos  cámara  radio  alarma y multi-idioma  – Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y25JDKF/?tag=tolees-21'
 descuento: '26.56'
 average: '43.99'

@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'PUMA Cilia SD  Zapatillas para Mujer  Vineyard Wine-Pastel Parchment Silver White  40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFWQC2K/?tag=tolees-21'
 descuento: '56.36'
 average: '26.16'

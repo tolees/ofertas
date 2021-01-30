@@ -16,6 +16,7 @@ comparePrice: 81.83 EUR
 prodname: 'Edifier H840 - Auriculares de Diadema'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013J7WUGC/?tag=tolees-21'
 descuento: '39.61'
 average: '34.5225'

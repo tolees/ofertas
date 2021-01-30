@@ -16,6 +16,7 @@ comparePrice: 886.0 EUR
 prodname: 'MILLE AMORI ∞ Pendientes Mujer Oro y Diamantes - Oro Blanco 9 Kt 375 ∞ Diamantes 0.03 Kt'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H2FKZ8S/?tag=tolees-21'
 descuento: '40.07'
 average: '531.0'

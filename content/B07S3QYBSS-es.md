@@ -16,6 +16,7 @@ comparePrice: 14.67 EUR
 prodname: 'koulate Luz De Gabinete Led  2 Piezas De Gabinete Multifuncional Empotrado En El Armario De La Escalera Empotrada En La Pared con Imanes para Pared  Armario  HabitacióN'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S3QYBSS/?tag=tolees-21'
 descuento: '42.81'
 average: '8.39'

@@ -16,6 +16,7 @@ comparePrice: 28.12 EUR
 prodname: 'Total Effects 7 en 1 BB Cream de Olay 7-en-1 Cutis Base SPF 15 - 50ml Light'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002IPH6Y8/?tag=tolees-21'
 descuento: '46.66'
 average: '15.0'

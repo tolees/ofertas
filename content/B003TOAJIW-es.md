@@ -16,6 +16,7 @@ comparePrice: 66.44 EUR
 prodname: 'BRA Efficient - Cacerola alta con tapa de cristal y asas de silicona extraíbles  diámetro 24 cm apta para inducción.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003TOAJIW/?tag=tolees-21'
 descuento: '42.20'
 average: '39.989999999999995'

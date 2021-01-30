@@ -16,6 +16,7 @@ comparePrice: 27.95 EUR
 prodname: 'Adidas VL Court 2.0 CMF I  Zapatillas de Gimnasia Unisex bebé  Blanco  FTWR White/Core Black/FTWR White FTWR White/Core Black/FTWR White   25 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075GPGYFM/?tag=tolees-21'
 descuento: '32.06'
 average: '18.99'

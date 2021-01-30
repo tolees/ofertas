@@ -16,6 +16,7 @@ comparePrice: 118.02 EUR
 prodname: 'Pandora Brazalete Mujer plata - 596438CZ-1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071WQQRM8/?tag=tolees-21'
 descuento: '49.58'
 average: '76.18333333333334'

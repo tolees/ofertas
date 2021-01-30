@@ -16,6 +16,7 @@ comparePrice: 34.9 EUR
 prodname: 'Tommy Hilfiger Sujetador Deportivo de Estilo Bralette de Algodón y Panel de Malla Rematado y Cuello Redondo  Blanco  White   M para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WVM93DV/?tag=tolees-21'
 descuento: '36.99'
 average: '21.656666666666666'

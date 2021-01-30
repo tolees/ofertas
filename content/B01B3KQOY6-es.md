@@ -16,6 +16,7 @@ comparePrice: 37.9 EUR
 prodname: 'DIM Generous Minimizer Sujetador Reductor  Beige  New Skin   100C para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01B3KQOY6/?tag=tolees-21'
 descuento: '63.06'
 average: '14.0'

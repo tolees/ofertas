@@ -16,6 +16,7 @@ comparePrice: 379 EUR
 prodname: 'Bresser Messier AR-90/900 EXOS1/EQ4 Telescopio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004DZVF34/?tag=tolees-21'
 descuento: '40.60'
 average: '225.12'

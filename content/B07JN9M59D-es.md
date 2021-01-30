@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Cloudnola Botanical Magnolia - Reloj de Pared  Talla única   Color Madera de Pino'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JN9M59D/?tag=tolees-21'
 descuento: '64.29'
 average: '25.0'

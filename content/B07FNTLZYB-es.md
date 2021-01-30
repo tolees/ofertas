@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'Buff Ebba Cloud Calentador Tricot Y Polar  Mujer  Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FNTLZYB/?tag=tolees-21'
 descuento: '63.23'
 average: '16.53'

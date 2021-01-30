@@ -16,6 +16,7 @@ comparePrice: 5.99 EUR
 prodname: 'Maped 106310 Technic Duo Borrador  1 unidad  colores surtidos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01E6YCGOI/?tag=tolees-21'
 descuento: '50.08'
 average: '2.33'

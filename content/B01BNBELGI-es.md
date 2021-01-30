@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Hugo Boss Orange 1513351 - Reloj analógico de pulsera para hombre  correa de piel'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BNBELGI/?tag=tolees-21'
 descuento: '52.71'
 average: '65.99312500000002'

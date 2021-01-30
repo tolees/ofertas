@@ -16,6 +16,7 @@ comparePrice: 279.0 EUR
 prodname: 'Citizen Reloj Analogico para Hombre de Energía Solar con Correa en Acero Inoxidable BN0191-80L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075GN9YBT/?tag=tolees-21'
 descuento: '29.96'
 average: '195.005'

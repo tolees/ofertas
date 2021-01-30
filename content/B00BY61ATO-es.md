@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Panasonic KX-TG7851 - Teléfono fijo inalámbrico  LCD de 1.45" de color   identificador de llamadas 70 números  bloqueo de llamadas  modo ECO  manos libres   Negro  TG7851 Solo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BY61ATO/?tag=tolees-21'
 descuento: '26.43'
 average: '29.39'

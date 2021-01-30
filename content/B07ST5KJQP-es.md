@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'LG Tone HBS-835S - Auriculares con Altavoz Externo  Sonido JBL  Bluetooth 5.0  Doble micrófono MEMS  Auriculares retráctiles  Tone & Talk  Advanced Quad Layer  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ST5KJQP/?tag=tolees-21'
 descuento: '35.36'
 average: '80.78'

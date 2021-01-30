@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Tacens Aura II - Ventilador para ordenador  9 cm  +60.000 h  sistema anti-polvo   negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004T1R4YQ/?tag=tolees-21'
 descuento: '37.22'
 average: '6.9'

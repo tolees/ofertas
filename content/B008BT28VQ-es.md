@@ -16,6 +16,7 @@ comparePrice: 62.51 EUR
 prodname: 'Samsung CLT-M406S - Tóner para Samsung CLP-360/365/368  CLX-3300/3305  magenta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008BT28VQ/?tag=tolees-21'
 descuento: '28.03'
 average: '36.995000000000005'

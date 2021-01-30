@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Sorel Glacy Short  Botas para Mujer  Marrón  Delta/Autumn Bronze 257   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F6PZKZJ/?tag=tolees-21'
 descuento: '78.43'
 average: '25.88'

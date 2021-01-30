@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'Vogel s Base 05 L - Soporte de Pared Fijo para TV 40 - 80"  con Sistema VESA máx. 800x400  Carga máx. de peso 70kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00E20KOBY/?tag=tolees-21'
 descuento: '38.47'
 average: '33.62214285714286'

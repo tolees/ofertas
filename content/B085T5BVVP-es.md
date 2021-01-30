@@ -16,6 +16,7 @@ comparePrice: 4.79 EUR
 prodname: 'Funda para Samsung Galaxy A71 + [2 Pack] Cristal Templado Protector de Pantalla Suave TPU Transparente Gel Silicona Anti-caída Anti-arañazos Protectora Carcasa para Samsung Galaxy A71  6.7 Pulgadas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085T5BVVP/?tag=tolees-21'
 descuento: '79.12'
 average: '1.0'

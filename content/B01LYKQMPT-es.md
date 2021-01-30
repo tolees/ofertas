@@ -16,6 +16,7 @@ comparePrice: 30.63 EUR
 prodname: 'HERMA 7188 Surtido cartón diseño carpeta estrellas DIN A4  70 mm de ancho  varios motivos  Juego con 10 unidades '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LYKQMPT/?tag=tolees-21'
 descuento: '79.27'
 average: '6.35'

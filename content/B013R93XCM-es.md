@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: '8GB Pendrive 10 Piezas Memoria USB - Portátil Pen Drive 8 GB Giratoria Negro Práctico y Económico Flash Drives - FEBNISCTE Giratoria Llaves USB 2.0 para Almacenamiento Datos con 10 Unidades Cordones'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013R93XCM/?tag=tolees-21'
 descuento: '30.91'
 average: '37.99'

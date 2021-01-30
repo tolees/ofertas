@@ -16,6 +16,7 @@ comparePrice: 2.49 EUR
 prodname: 'Libertroy USB Splitter 3usb Multifunción 3a Conversor Conversor Extensión de línea Multipuerto Hub Hub - Blanco - 1m'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WJTZXFW/?tag=tolees-21'
 descuento: '31.73'
 average: '1.7'

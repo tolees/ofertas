@@ -16,6 +16,7 @@ comparePrice: 77.99 EUR
 prodname: 'Cooler Master MasterBox MB520 RGB ATX Mid-Tower con Panel Frontal DarkMirror  entradas de Malla Frontal  Panel Lateral de Vidrio Templado y 3 Ventiladores RGB de 120 mm con Controlador RGB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H57N8SK/?tag=tolees-21'
 descuento: '25.03'
 average: '60.45428571428572'

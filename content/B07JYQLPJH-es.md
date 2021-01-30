@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Tommy Hilfiger TJM Tommy Classics Solid Polo  Gris  Lt Grey Htr 038   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JYQLPJH/?tag=tolees-21'
 descuento: '45.76'
 average: '32.49'

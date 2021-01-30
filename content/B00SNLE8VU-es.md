@@ -16,6 +16,7 @@ comparePrice: 37.5 EUR
 prodname: 'Mars Gaming MSB1  altavoces bluetooth 8W  Jack 3.5  Pc/Mac/smartphone/tablet USB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SNLE8VU/?tag=tolees-21'
 descuento: '54.91'
 average: '17.96'

@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Kappa Dolomo  Botas Clasicas para Hombre  Black/Grey 1116  41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBLW3K9/?tag=tolees-21'
 descuento: '49.61'
 average: '20.13'

@@ -16,6 +16,7 @@ comparePrice: 2.56 EUR
 prodname: 'La Masía Aceite de Oliva Suave - 1 l'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K7QVYV0/?tag=tolees-21'
 descuento: '60.94'
 average: '1.942727272727273'

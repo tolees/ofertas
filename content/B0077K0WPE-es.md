@@ -16,6 +16,7 @@ comparePrice: 492.15 EUR
 prodname: 'Tamiya 40-Foot Container - Scale Model Accessories  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0077K0WPE/?tag=tolees-21'
 descuento: '83.48'
 average: '81.32'

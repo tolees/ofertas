@@ -16,6 +16,7 @@ comparePrice: 615.99 EUR
 prodname: 'Canon EF 24mm f/2.8 IS USM - Objetivo para Canon  Distancia Focal Fija 24mm  Apertura f/2.8-22  estabilizador  diámetro: 58mm  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0077NPEEA/?tag=tolees-21'
 descuento: '26.95'
 average: '471.31333333333333'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Aphro Celina® PESTAÑAS SUERO - para el crecimiento activo de las pestañas de 3 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008RWQ2MS/?tag=tolees-21'
 descuento: '38.16'
 average: '24.73'

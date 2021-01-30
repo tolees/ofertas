@@ -16,6 +16,7 @@ comparePrice: 26.19 EUR
 prodname: 'Luz solar para el césped  luz solar de la flor del jacinto de la energía solar para la lámpara al aire libre del paisaje del césped del jardín de la yarda  1# '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QCZCY3B/?tag=tolees-21'
 descuento: '59.56'
 average: '10.59'

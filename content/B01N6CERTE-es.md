@@ -16,6 +16,7 @@ comparePrice: 279.95 EUR
 prodname: 'Medisana MCN Pro Funda de asiento de masaje Shiatsu  asiento de masaje con vibración  desconexión automática  masaje de cuello regulable  3 intensidades  con función de calentamiento'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N6CERTE/?tag=tolees-21'
 descuento: '54.96'
 average: '103.5775'

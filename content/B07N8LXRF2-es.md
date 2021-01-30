@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Izod Performance Pique Polo  Azul  True Blue 426   L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N8LXRF2/?tag=tolees-21'
 descuento: '50.27'
 average: '14.87'

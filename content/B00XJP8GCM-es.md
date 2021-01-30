@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'NIVEA Q10 Power Antiarrugas Cuidado de Día  1 x 50 ml   crema facial antiarrugas para piel mixta  crema hidratante con protector solar 15  crema antiedad  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XJP8GCM/?tag=tolees-21'
 descuento: '30.03'
 average: '7.880000000000001'

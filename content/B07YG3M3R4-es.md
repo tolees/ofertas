@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Videocámara Videocamara Full HD 18X Zoom Digital Camara de Video de Visión Nocturna con LCD y Pantalla de Rotación de 270 Grados con Control Remoto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YG3M3R4/?tag=tolees-21'
 descuento: '53.85'
 average: '59.99'

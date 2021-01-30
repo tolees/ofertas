@@ -16,6 +16,7 @@ comparePrice: 16.9 EUR
 prodname: 'Cerdá 2200004036 Toalla Polyester Toy Story Buzz Lightyear  Azul  70x140cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MT5KD69/?tag=tolees-21'
 descuento: '58.64'
 average: '6.99'

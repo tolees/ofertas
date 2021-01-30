@@ -16,6 +16,7 @@ comparePrice: 44.76 EUR
 prodname: 'Localizador de llaves'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077ZV3HX4/?tag=tolees-21'
 descuento: '47.52'
 average: '23.49'

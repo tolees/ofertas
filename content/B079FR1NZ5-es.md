@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Casio EDIFICE Reloj en caja sólida  10 BAR  Negro  para Hombre  con Correa de Acero inoxidable  EFV-540DC-1AVUEF'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079FR1NZ5/?tag=tolees-21'
 descuento: '33.88'
 average: '89.98666666666666'

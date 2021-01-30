@@ -16,6 +16,7 @@ comparePrice: 15.97 EUR
 prodname: 'adidas Barra de Empuje'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004KQXS8G/?tag=tolees-21'
 descuento: '25.17'
 average: '11.95'

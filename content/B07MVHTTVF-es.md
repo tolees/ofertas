@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Kipling - Money Keeper  Carteras Mujer  Gris  Chalk Grey   11x7.5x1 cm  B x H T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVHTTVF/?tag=tolees-21'
 descuento: '75.85'
 average: '9.42'

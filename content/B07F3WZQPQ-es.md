@@ -16,6 +16,7 @@ comparePrice: 31.59 EUR
 prodname: 'Cortapelos Profesional Hombre Cortadora de Pelo Eléctrico con Cuchilla de Cerámica  Cortapelo de Barba Maquina Cortar Pelo Recargable Recortadora de Pelos for Hombres'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F3WZQPQ/?tag=tolees-21'
 descuento: '39.89'
 average: '18.99'

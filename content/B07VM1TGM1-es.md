@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Hackett London Slim Fit Logo Polo  Azul  593royal Blue 593   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VM1TGM1/?tag=tolees-21'
 descuento: '60.06'
 average: '33.95'

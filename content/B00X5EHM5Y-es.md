@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Star Wars - Disfraz de Storm Trooper para niños  talla M infantil 5-6 años  Rubies 620267-M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X5EHM5Y/?tag=tolees-21'
 descuento: '26.11'
 average: '22.16'

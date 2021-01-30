@@ -16,6 +16,7 @@ comparePrice: 66.13 EUR
 prodname: 'DADAWEN - Zapatillas de Deporte para Mujer  Color Blanco  Color Blanco  Talla 32 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YJN6HHD/?tag=tolees-21'
 descuento: '29.88'
 average: '46.37'

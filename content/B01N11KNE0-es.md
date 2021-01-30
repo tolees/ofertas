@@ -16,6 +16,7 @@ comparePrice: 44.79 EUR
 prodname: 'Toshiba Canvio - Disco Duro Externo  500 GB  Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N11KNE0/?tag=tolees-21'
 descuento: '39.79'
 average: '28.384999999999998'

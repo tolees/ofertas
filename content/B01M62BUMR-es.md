@@ -16,6 +16,7 @@ comparePrice: 23.43 EUR
 prodname: 'vidaXL Barandilla de Seguridad Cama de Niños Azul Barrera Infantil de Dormir'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M62BUMR/?tag=tolees-21'
 descuento: '64.49'
 average: '8.32'

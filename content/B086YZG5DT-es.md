@@ -16,6 +16,7 @@ comparePrice: 8.84 EUR
 prodname: 'Fifet Chupete Chupete Clips Cadenas x 4  para Bebés y Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086YZG5DT/?tag=tolees-21'
 descuento: '29.64'
 average: '6.22'

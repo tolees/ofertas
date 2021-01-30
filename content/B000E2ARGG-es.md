@@ -16,6 +16,7 @@ comparePrice: 8.88 EUR
 prodname: 'K&N KN-113 Filtro de aceite Oil Filter Powersport Cartridge Moto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000E2ARGG/?tag=tolees-21'
 descuento: '38.85'
 average: '5.43'

@@ -16,6 +16,7 @@ comparePrice: 239.99 EUR
 prodname: 'RFIVER 2 Taburetes Altos de Bar Cafe en Cuero para Comedor Salón Cocina Marrón Vintage BS1004'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KW328WV/?tag=tolees-21'
 descuento: '50.00'
 average: '119.99'

@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'TANBURO Grifo de cocina  Mezclador de cocina giratorio de 360 ° ajustable en agua frío y caliente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0837MRDFB/?tag=tolees-21'
 descuento: '25.64'
 average: '17.84'

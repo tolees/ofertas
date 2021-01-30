@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Columbia Klamath Range II Forro Polar con Media Cremallera  Hombre  Azul  Azure-Blue/Collegiate-Navy   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RC8CKLT/?tag=tolees-21'
 descuento: '38.35'
 average: '18.49'

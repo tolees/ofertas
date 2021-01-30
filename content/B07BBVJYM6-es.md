@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Philips QP2520/64 OneBlade  - Pack de recortadora de barba con 3 peines-guía  estuche de viaje  uso en seco o en húmedo  recargable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BBVJYM6/?tag=tolees-21'
 descuento: '25.01'
 average: '29.99'

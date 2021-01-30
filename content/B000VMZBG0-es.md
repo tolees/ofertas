@@ -16,6 +16,7 @@ comparePrice: 7.47 EUR
 prodname: 'Wentronic Goobay 10m RJ-11/RJ-45 Cable Negro - Adaptador para Cable  RJ-11  RJ-45  Male Connector/Male Connector  10 m  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000VMZBG0/?tag=tolees-21'
 descuento: '51.81'
 average: '3.6'

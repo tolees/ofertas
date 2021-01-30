@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Saucony Jazz 21  Zapatillas de Running para Hombre  Azul Aguamarina  42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T6LHFMZ/?tag=tolees-21'
 descuento: '43.88'
 average: '49.95'

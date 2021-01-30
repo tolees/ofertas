@@ -16,6 +16,7 @@ comparePrice: 18.09 EUR
 prodname: 'SPTwj - Mecha para desoldar  3 mm de ancho  1 5 m de largo  sin desoldar  de cobre  con 2 esponjas de soldadura para trabajos de soldadura y desoldadura'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WFZKSNW/?tag=tolees-21'
 descuento: '46.99'
 average: '10.256666666666666'

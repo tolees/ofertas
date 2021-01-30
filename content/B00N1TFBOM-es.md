@@ -16,6 +16,7 @@ comparePrice: 26.58 EUR
 prodname: 'Tescoma VINAGRERA 500ML VITAMINO  Colores Variados  500 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00N1TFBOM/?tag=tolees-21'
 descuento: '27.16'
 average: '19.36'

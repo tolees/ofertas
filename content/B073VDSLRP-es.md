@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Alimentador antiahogo bebe  chupete fruta bebe de NatureBond  2 piezas   mordedores bebes | Además incluye bolsitas de silicona de todos los tamaños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073VDSLRP/?tag=tolees-21'
 descuento: '44.02'
 average: '13.637058823529411'

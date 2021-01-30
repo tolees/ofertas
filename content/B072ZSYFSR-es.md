@@ -16,6 +16,7 @@ comparePrice: 23.64 EUR
 prodname: 'Wandf Kit para artículos de tocador expandible Dopp con Juego de Botellas Aprobado por TSA Resistente al Agua Nylon  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072ZSYFSR/?tag=tolees-21'
 descuento: '48.60'
 average: '12.15'

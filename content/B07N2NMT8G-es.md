@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'BRIKSMAX Kit de Iluminación Led para The Big Bang Theory-Compatible con Ladrillos de Construcción Lego Modelo 21302-Juego de Legos no Incluido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N2NMT8G/?tag=tolees-21'
 descuento: '60.01'
 average: '19.99'

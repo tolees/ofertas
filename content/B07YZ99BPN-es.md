@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Femometer Pastillero Semanal 3 Tomas 7 Dias 21 compartimentos   Dispensador diario de medicación  Con Estuche de Cuero para'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YZ99BPN/?tag=tolees-21'
 descuento: '50.03'
 average: '9.99'

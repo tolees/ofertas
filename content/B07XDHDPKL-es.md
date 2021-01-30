@@ -16,6 +16,7 @@ comparePrice: 1399.0 EUR
 prodname: 'Greenworks Optimow 15 Robot cortacésped para 1.500m2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XDHDPKL/?tag=tolees-21'
 descuento: '63.19'
 average: '515.0'

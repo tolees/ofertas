@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'adidas Tiro19 WOV PNTY Pantalones de Deporte  Unisex niños  Black/White  9-10Y'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K7GH94B/?tag=tolees-21'
 descuento: '39.94'
 average: '20.99'

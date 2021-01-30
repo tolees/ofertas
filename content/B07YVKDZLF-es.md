@@ -16,6 +16,7 @@ comparePrice: 11.95 EUR
 prodname: 'Ghost in the Shell  BD + BD Extras  [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YVKDZLF/?tag=tolees-21'
 descuento: '37.24'
 average: '7.5'

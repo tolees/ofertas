@@ -16,6 +16,7 @@ comparePrice: 9.45 EUR
 prodname: 'VARON DANDY colonia masaje botella 1 lt'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BN7ZY7S/?tag=tolees-21'
 descuento: '37.88'
 average: '6.4159999999999995'

@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'ENDARK Papercraft 3D  T-Rex '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G73T8LT/?tag=tolees-21'
 descuento: '41.31'
 average: '26.99'

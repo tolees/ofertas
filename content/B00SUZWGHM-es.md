@@ -16,6 +16,7 @@ comparePrice: 19.67 EUR
 prodname: '[Total 2Pcs] The Face Shop Rice Water Bright Cleansing Oil + Foam SET by Thinkpichaidai'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SUZWGHM/?tag=tolees-21'
 descuento: '32.59'
 average: '13.26'

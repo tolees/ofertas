@@ -16,6 +16,7 @@ comparePrice: 49.86 EUR
 prodname: 'Tropicaleu Grifo de Cocina 360° Tire Moderno Fregadero Extraíble Monomando Acero Inoxidable de Agua Fría y Caliente 2 Funciones'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FFWMP5P/?tag=tolees-21'
 descuento: '27.84'
 average: '32.276666666666664'

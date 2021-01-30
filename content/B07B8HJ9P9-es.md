@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Make My Day mask'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B8HJ9P9/?tag=tolees-21'
 descuento: '30.03'
 average: '6.263333333333334'

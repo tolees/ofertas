@@ -16,6 +16,7 @@ comparePrice: 204.49 EUR
 prodname: 'Bosch Professional GWS 18-125 V-LI Amoladora Angular  10.000 RPM  Disco 125 mm  sin batería  en Caja  18 V  Azul  12.7 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ABOAEAQ/?tag=tolees-21'
 descuento: '51.10'
 average: '110.592'

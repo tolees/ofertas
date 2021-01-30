@@ -16,6 +16,7 @@ comparePrice: 299.99 EUR
 prodname: 'Philips Optimal Temp GC9410/60 - Centro de Planchado de 6.7 bares  Autonomía Ilimitada  Golpe de Vapor 450 g  Suela Tionic Glide  Planchado Sin Ajuste de Temperatura  Calentamiento Rápido  Autoapagado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01H54SATQ/?tag=tolees-21'
 descuento: '33.66'
 average: '210.53199999999998'

@@ -16,6 +16,7 @@ comparePrice: 19.29 EUR
 prodname: 'MOSNOVO [Transparente Funda iPhone XR con Absorción de Choque Resistente para Apple iPhone XR [Astronaut]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S9NPHFG/?tag=tolees-21'
 descuento: '32.66'
 average: '12.99'

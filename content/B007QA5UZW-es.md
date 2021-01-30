@@ -16,6 +16,7 @@ comparePrice: 6.09 EUR
 prodname: 'Soother Cadena Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007QA5UZW/?tag=tolees-21'
 descuento: '43.35'
 average: '3.67'

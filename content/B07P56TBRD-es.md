@@ -16,6 +16,7 @@ comparePrice: 20.95 EUR
 prodname: 'Bourjois  Brocha para maquillaje facial - 40 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P56TBRD/?tag=tolees-21'
 descuento: '73.37'
 average: '4.13'

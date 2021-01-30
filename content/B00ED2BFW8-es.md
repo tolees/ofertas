@@ -16,6 +16,7 @@ comparePrice: 13.05 EUR
 prodname: 'Grupo Erik Editores   Poster Breaking Bad- I Am The One Who Knocks'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ED2BFW8/?tag=tolees-21'
 descuento: '67.20'
 average: '9.64'

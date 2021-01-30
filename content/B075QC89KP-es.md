@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Kennti Alpargatas de Cordones y Chambray Hombre Blanco 42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075QC89KP/?tag=tolees-21'
 descuento: '27.79'
 average: '25.99'

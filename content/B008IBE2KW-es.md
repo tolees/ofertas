@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Woxter UPS 800 VA - Sistema SAI de alimentación ininterrumpida SAI  800VA/480 Watts  Autonomía aproximativamente 8-15 Minutos   Fuente de alimentación Continua  2 Tomas Schuko'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008IBE2KW/?tag=tolees-21'
 descuento: '28.58'
 average: '54.99'

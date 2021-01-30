@@ -16,6 +16,7 @@ comparePrice: 84.0 EUR
 prodname: 'Fujifilm Instax Mini 9 - Cámara instantanea  solo cámara  Blanco  Smoky White '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y62H8YR/?tag=tolees-21'
 descuento: '28.69'
 average: '55.10173913043478'

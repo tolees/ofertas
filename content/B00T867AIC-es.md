@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'JINX- Minecraft Llavero Diamond Pickaxe  3784 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00T867AIC/?tag=tolees-21'
 descuento: '50.56'
 average: '3.95'

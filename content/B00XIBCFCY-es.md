@@ -16,6 +16,7 @@ comparePrice: 206.15 EUR
 prodname: 'IMEX EL ZORRO Cajón para Barbacoa con Parrilla de INOX  68 x 40 x 26 cm  Negro  71409'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XIBCFCY/?tag=tolees-21'
 descuento: '54.40'
 average: '94.0'

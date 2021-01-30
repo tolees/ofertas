@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Wahl ColorPro - Cortapelos con estuche de almacenaje'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001C1GSZW/?tag=tolees-21'
 descuento: '30.96'
 average: '35.29666666666667'

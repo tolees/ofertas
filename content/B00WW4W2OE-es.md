@@ -16,6 +16,7 @@ comparePrice: 19.0 EUR
 prodname: 'Calvin Klein Thong Tanga  Grau  Grey Heather 020   XL para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00WW4W2OE/?tag=tolees-21'
 descuento: '36.89'
 average: '12.219999999999999'

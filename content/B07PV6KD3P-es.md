@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'K KYUER T8220E Tablet Batería para Samsung Galaxy Note 10.1 2014 SM-P600 P601 P602 P605 P605V P607T P6000 P6010 P6020 LTE 3G Turkey WiFi  Tab Pro 10.1 SM-T520 T521 T525 T527P T8200K T8220U with Tools'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PV6KD3P/?tag=tolees-21'
 descuento: '36.12'
 average: '23.656666666666666'

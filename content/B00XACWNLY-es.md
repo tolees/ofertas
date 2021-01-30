@@ -16,6 +16,7 @@ comparePrice: 12.6 EUR
 prodname: 'Durex Preservativos Saboreame con Sabores Afrutados - 12 Condones'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XACWNLY/?tag=tolees-21'
 descuento: '26.98'
 average: '9.2'

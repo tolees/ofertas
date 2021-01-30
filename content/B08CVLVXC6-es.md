@@ -16,6 +16,7 @@ comparePrice: 3.19 EUR
 prodname: 'Panamar Borradores y fichas de ajedrez de Madera Natural y Pieza de ajedrez de Backgammon para niños Juego de Mesa Aprendizaje Camping con Disco - Madera y Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CVLVXC6/?tag=tolees-21'
 descuento: '33.54'
 average: '2.12'

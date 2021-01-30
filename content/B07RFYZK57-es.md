@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Under Armour Armour Fly Fast Tight Pantalones Transpirables  Mallas Deportivas de compresión ultraligeras  Mujer  Gris  MD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RFYZK57/?tag=tolees-21'
 descuento: '45.53'
 average: '32.68'

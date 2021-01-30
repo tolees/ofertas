@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Disfraz Familiar Carnaval Trajes Super Mario Luigi para Niños Adultos Disfraces Fiesta de Carnaval de Halloween Cosplay Sombrero + Ropa + Barba 3 Piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081VBN9G9/?tag=tolees-21'
 descuento: '69.46'
 average: '10.99'

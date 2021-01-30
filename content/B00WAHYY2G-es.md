@@ -16,6 +16,7 @@ comparePrice: 6.59 EUR
 prodname: 'OOTB 93/2072 - Tubos de ensayo de plástico para chupitos  transparente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00WAHYY2G/?tag=tolees-21'
 descuento: '33.23'
 average: '5.275'

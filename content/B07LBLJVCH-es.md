@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Tommy Hilfiger TJM Reversible Short Bañador  Azul  Black Iris/Multi 002   M para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBLJVCH/?tag=tolees-21'
 descuento: '68.48'
 average: '23.174999999999997'

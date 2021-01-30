@@ -16,6 +16,7 @@ comparePrice: 124.9 EUR
 prodname: 'Supra Breaker  Zapatillas de Skateboard Unisex Adulto  Negro  Black/Lime-Black-M 18   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MR8LZK5/?tag=tolees-21'
 descuento: '71.51'
 average: '35.59'

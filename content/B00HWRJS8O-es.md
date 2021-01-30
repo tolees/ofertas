@@ -16,6 +16,7 @@ comparePrice: 22.41 EUR
 prodname: 'Maurer 2160807 Extractor de 2 Brazos  6"'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HWRJS8O/?tag=tolees-21'
 descuento: '72.02'
 average: '6.27'

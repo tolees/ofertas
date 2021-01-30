@@ -16,6 +16,7 @@ comparePrice: 107.37 EUR
 prodname: 'Habitdesign 007833BO - Comoda Estilo nórdico  sinfonier Tres cajones  Acabado Blanco Brillo  Medida 76 x 80 x 40 cm Fondo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01C2RGRNM/?tag=tolees-21'
 descuento: '29.22'
 average: '76.91333333333334'

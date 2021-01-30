@@ -16,6 +16,7 @@ comparePrice: 56.82 EUR
 prodname: 'Tommy Hilfiger Premium Suede Runner  Zapatillas para Hombre  Azul  Midnight Cki  - 41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N6TWSRS/?tag=tolees-21'
 descuento: '41.01'
 average: '33.52'

@@ -16,6 +16,7 @@ comparePrice: 39.2 EUR
 prodname: 'First - Lote de 50 máscaras de protección para la boca  3 capas  vellón '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088JTFWRT/?tag=tolees-21'
 descuento: '71.94'
 average: '11.0'

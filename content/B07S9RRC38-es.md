@@ -16,6 +16,7 @@ comparePrice: 109.95 EUR
 prodname: 'PUMA RS-X Reinvent WN S  Zapatillas para Mujer  Rosa  Rosewater/Plein Air   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S9RRC38/?tag=tolees-21'
 descuento: '25.68'
 average: '77.80666666666666'

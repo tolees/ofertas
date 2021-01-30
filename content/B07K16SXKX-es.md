@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Leggings de yoga para mujer  talle alto  bolsillos para efecto faja  pantalones de entrenamiento  pantalones informales.  Mujer  Pantaloni cropped  negro  xx-large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K16SXKX/?tag=tolees-21'
 descuento: '50.02'
 average: '14.99'

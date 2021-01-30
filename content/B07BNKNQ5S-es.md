@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Estuche para Sony SRS-XB10  Estuche rígido para Viaje para Sony SRS-XB10 Estuche portátil Compacto Inalã¡Mbrico.  Solo Estuche  Altavoz y Accesorios no incluidos  - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BNKNQ5S/?tag=tolees-21'
 descuento: '37.77'
 average: '9.95'

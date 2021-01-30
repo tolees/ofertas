@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'New Balance 574S v2  Zapatillas para Mujer  Negro  Black/Black Teal Black   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DJ7HM9Y/?tag=tolees-21'
 descuento: '41.60'
 average: '64.72999999999999'

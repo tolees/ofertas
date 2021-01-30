@@ -16,6 +16,7 @@ comparePrice: 114.95 EUR
 prodname: 'Ingenuity Jungle Journey - Columpio portátil  unisex'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EUN9XD2/?tag=tolees-21'
 descuento: '27.97'
 average: '82.8'

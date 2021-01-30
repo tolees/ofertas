@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: '8 piezas Broca Uso Power Tuerca Conductor Juego de puntas 1/4 hexagonal magnéticos destornillador Cruz Bits Set destornillador eléctrico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085LBF86B/?tag=tolees-21'
 descuento: '66.69'
 average: '9.99'

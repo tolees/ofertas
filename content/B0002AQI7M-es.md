@@ -16,6 +16,7 @@ comparePrice: 15.65 EUR
 prodname: 'Marina 11061 Limpiador de Grava Easy Clean  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0002AQI7M/?tag=tolees-21'
 descuento: '25.94'
 average: '11.59'

@@ -16,6 +16,7 @@ comparePrice: 100.95 EUR
 prodname: 'Salomon XA Pro 3D GTX  Zapatillas de Trail Running para Hombre  Azul Marino  Navy Blazer/Hawaiian Ocean/Dawn Blue   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HD6RNM6/?tag=tolees-21'
 descuento: '34.63'
 average: '67.49'

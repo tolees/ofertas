@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Fossil Reloj Cronógrafo para Hombre de Cuarzo con Correa en Piel FS5279'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MTUY6CX/?tag=tolees-21'
 descuento: '46.98'
 average: '79.0'

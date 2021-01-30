@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'Triumph Sexy Angel Spotlight WHP Sujetador  Azul  Deep Water Wg    Talla del Fabricante: 80D  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075GCHD4Q/?tag=tolees-21'
 descuento: '50.19'
 average: '22.226000000000003'

@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'Triumph My Perfect Shaper WP  Sujetador Mujer  Beige  NUDE BEIGE   95C'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IX0LD9A/?tag=tolees-21'
 descuento: '30.03'
 average: '31.45'

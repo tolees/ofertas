@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Mydours Almohadilla Teclado y Alfombrilla de Ratón Ergonómico Cojín de Muñeca con Reposamuñecas de Memoria  Base de Goma no Deslizante   para Trabajadores  Oficinas  Jugadores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZHF4LP3/?tag=tolees-21'
 descuento: '52.54'
 average: '18.98'

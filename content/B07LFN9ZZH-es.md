@@ -16,6 +16,7 @@ comparePrice: 16.0 EUR
 prodname: 'Sloggi Zero Feel Top Ex Corto   Bordeaux 3407   M para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFN9ZZH/?tag=tolees-21'
 descuento: '40.00'
 average: '12.8'

@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Ringke Funda para Xiaomi Mi 6  [Fusion] Protector de TPU con Parte Posterior Transparente de PC Protectora biselada para Xiaomi Mi6 - Negro Humo Smoke Black'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0716NTS4G/?tag=tolees-21'
 descuento: '26.68'
 average: '10.99'

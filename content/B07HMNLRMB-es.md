@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Men s Heston-ROGIC Oxfords  Grey  Grey Gry   9.5  44 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HMNLRMB/?tag=tolees-21'
 descuento: '31.49'
 average: '44.5'

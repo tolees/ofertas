@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Compatible con Huawei P30 Pro  funda transparente de silicona ultrafina [antiamarillo] antihuellas  funda protectora antiarañazos  patrón de Halloween para Huawei P30 PRO 2 Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y53CZBC/?tag=tolees-21'
 descuento: '47.39'
 average: '9.99'

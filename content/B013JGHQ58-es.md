@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Sony ICF-306 - Radio analógica portátil FM/AM  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013JGHQ58/?tag=tolees-21'
 descuento: '46.56'
 average: '25.693333333333335'

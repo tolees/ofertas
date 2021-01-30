@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'adidas Continental 80 I  Zapatillas de Estar por casa Bebé Unisex  Negro  Negbás/Escarl/Maruni 000   20 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2LV1ZW/?tag=tolees-21'
 descuento: '33.77'
 average: '29.77'

@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Under Armour Men s Braided 2.0 Belt Cinturón  Hombre  Azul  Academy/Charcoal 409   30'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077XPV2HL/?tag=tolees-21'
 descuento: '42.43'
 average: '23.03'

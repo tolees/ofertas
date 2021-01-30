@@ -16,6 +16,7 @@ comparePrice: 26.07 EUR
 prodname: 'Smart MAX My First Farm Animals  Multicolor  25cm x 25cm x 6cm  Smart Toys and Games GmbH SMX 221 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FYG8FC5/?tag=tolees-21'
 descuento: '25.82'
 average: '19.34'

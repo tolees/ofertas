@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'VIASOLAR Panel Solar policristalino 50W 12V'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DCKBWXI/?tag=tolees-21'
 descuento: '37.51'
 average: '49.99'

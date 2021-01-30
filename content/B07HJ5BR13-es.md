@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Funko Pop Vinyl: Rocks: Queen: Roger Taylor Figura De Vinilo Multicolor  33716'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HJ5BR13/?tag=tolees-21'
 descuento: '79.93'
 average: '7.615'

@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'HUGO Dinoso202 Polo  Rosa  Open Pink 693   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VJP4HS9/?tag=tolees-21'
 descuento: '50.19'
 average: '44.8'

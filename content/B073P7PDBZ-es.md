@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'FIRENZE ARTEGIANI.Cartera de Mujer Piel auténtica.Bolso de Piel Acabado Dollaro Tacto Suave. Made IN Italy. Vera Pelle Italiana. 24x14 5x2 cm. Color: Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073P7PDBZ/?tag=tolees-21'
 descuento: '66.68'
 average: '29.99'

@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'GoPro Karma Replacement Arm - Brazo de Repuesto Delantero Derecho para dron Karma  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZ5OON8/?tag=tolees-21'
 descuento: '38.56'
 average: '39.93'

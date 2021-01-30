@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Auriculares inalámbricos Bluetooth  Cascos Bluetooth 5.0 Mini Estéreo In-Ear Deportivos con Micrófono Incorporado 30H Tiempo Espera IPX5 con Funda de Carga para iPhone Huawei'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SX1KVWF/?tag=tolees-21'
 descuento: '25.00'
 average: '44.99'

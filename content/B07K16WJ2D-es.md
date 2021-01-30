@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'adidas DQ1071 - Bolsa deportiva  Unisex Adulto  Black/White  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K16WJ2D/?tag=tolees-21'
 descuento: '28.71'
 average: '28.015714285714285'

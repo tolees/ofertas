@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Essort Funda Mesa Jardin 213x123x74cm  Fundas para Muebles de Jardin Impermeables  Juego de Fundas para Sofa de Jardin  al Aire Libre  Patio  Plazas Funda para Sofa de Esquina  Mesa y Sillas  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075CGLK1Q/?tag=tolees-21'
 descuento: '35.01'
 average: '25.99'

@@ -16,6 +16,7 @@ comparePrice: 10.98 EUR
 prodname: 'Oihxse Cristal Funda Compatible con OPPO Realme 3/Realme 3i Silicona Estuche TPU Suave Flexible Transparente Carcasa Calavera Rosa Flores Patrón Anti Rasguños Protector Caso E2 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088W76NHQ/?tag=tolees-21'
 descuento: '27.32'
 average: '7.98'

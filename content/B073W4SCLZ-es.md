@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Lorus Reloj de Pulsera RT315GX9'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073W4SCLZ/?tag=tolees-21'
 descuento: '41.45'
 average: '61.57428571428571'

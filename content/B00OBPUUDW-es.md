@@ -16,6 +16,7 @@ comparePrice: 20.27 EUR
 prodname: 'Sharkoon Skiller Pro - Teclado  USB  Juego  QWERTY  Inglés de EE. UU  Alámbrico  Universal '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OBPUUDW/?tag=tolees-21'
 descuento: '26.05'
 average: '14.99'

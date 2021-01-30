@@ -16,6 +16,7 @@ comparePrice: 112.0 EUR
 prodname: 'D-LINK Punto DE Acceso Dual Band 2.4/5GHZ DAP-1665'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KZRTWRK/?tag=tolees-21'
 descuento: '33.08'
 average: '74.95'

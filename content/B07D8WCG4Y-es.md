@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'HBselect 10 Pares Calcetines Mujer Cortos Algodon Calcetines Invisibles Mujer Silicona Antideslizante'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D8WCG4Y/?tag=tolees-21'
 descuento: '33.35'
 average: '11.656666666666666'

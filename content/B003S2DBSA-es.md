@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Vans Herren Classic Vggg T-Shirt  Schwarz  BLACK-WHITE Y28   Medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003S2DBSA/?tag=tolees-21'
 descuento: '51.07'
 average: '17.94'

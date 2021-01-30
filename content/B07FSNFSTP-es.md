@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Clarks Un Adorn Strap  Mocasines para Mujer  Negro  Black Combi-   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FSNFSTP/?tag=tolees-21'
 descuento: '50.53'
 average: '54.42'

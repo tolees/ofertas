@@ -16,6 +16,7 @@ comparePrice: 3.86 EUR
 prodname: 'YAZILIND Joyería de la Vendimia de Plata tibetana Twisted 2 Layer Ajustable Rimous Verde Turquesa Brazo Brazalete Pulsera para la Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HFQDL8A/?tag=tolees-21'
 descuento: '74.35'
 average: '0.99'

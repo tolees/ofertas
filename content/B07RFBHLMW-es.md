@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'FAMTOP Purificador de Aire para Hogar  Air Purifier 4 en 1 hasta 99.97%  con Filtro HEPA Catalizador Frío  No Ozono  CADR 120m³/h  Captura Polvo  Humo  Caspa de Mascotas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RFBHLMW/?tag=tolees-21'
 descuento: '46.19'
 average: '67.46'

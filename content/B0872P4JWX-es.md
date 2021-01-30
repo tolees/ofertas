@@ -16,6 +16,7 @@ comparePrice: 16.88 EUR
 prodname: 'Funda Transparente Compatible para Redmi K30/K30 Pro Carcasa Suave Silicona TPU Gel Dibujos Animal Ultra Fina Anti Choques y Anti Arañazos Clear Bumper Case Cover para Redmi K30/K30 Pro A15'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0872P4JWX/?tag=tolees-21'
 descuento: '52.73'
 average: '7.98'

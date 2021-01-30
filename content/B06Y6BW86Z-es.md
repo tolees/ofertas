@@ -16,6 +16,7 @@ comparePrice: 84.0 EUR
 prodname: 'Fujifilm Instax Mini 9 - Cámara instantánea  Solo cámara  Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y6BW86Z/?tag=tolees-21'
 descuento: '29.77'
 average: '58.39'

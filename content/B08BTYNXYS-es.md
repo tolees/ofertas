@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'Max Mara 45760993 Beanie Mujer Camello UNI'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BTYNXYS/?tag=tolees-21'
 descuento: '30.60'
 average: '110.35'

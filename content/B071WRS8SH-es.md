@@ -16,6 +16,7 @@ comparePrice: 32.19 EUR
 prodname: 'Lenny Sky EG.Liberty.PYV.MZ Conjunto Ropa Deportiva  Gris  Gris Ch/Anthra Ch   12 años para Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071WRS8SH/?tag=tolees-21'
 descuento: '80.12'
 average: '6.4'

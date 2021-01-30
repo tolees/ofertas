@@ -16,6 +16,7 @@ comparePrice: 7.72 EUR
 prodname: 'Universal Bebé Niños Seguridad del automóvil Cinturón de seguridad Correa de almohada Cojín suave para el hombro Reposacabezas Auto Car Cojín Ayuda para niños Protección - Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X1KY1W2/?tag=tolees-21'
 descuento: '34.97'
 average: '5.02'

@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Wanxian Lámpara de Ventilador de Escritorio 2600mAh Batería Rrecargable USB Ventilador Personal 3 Velocidades 3 Brillo de Luz Pequeño LED Lámpara Ventilador de Mesa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082Z6ML5V/?tag=tolees-21'
 descuento: '33.45'
 average: '16.63'

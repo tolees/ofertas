@@ -16,6 +16,7 @@ comparePrice: 17.57 EUR
 prodname: 'AmazonBasics – Cargador USB de pared de dos puertos  2 4 amperios   Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0773HDJYM/?tag=tolees-21'
 descuento: '31.76'
 average: '11.99'

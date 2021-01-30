@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'oneConcept Woodpecker Equipo de Sonido 5.1 - Equipo para Home Cinema   Juego de Altavoces   Potencia Media de 45 W   Bluetooth   USB   Ranura SD   Aspecto de Madera   Mando a Distancia   Negro-marrón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JG7SMT6/?tag=tolees-21'
 descuento: '51.67'
 average: '57.99'

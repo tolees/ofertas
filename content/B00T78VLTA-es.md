@@ -16,6 +16,7 @@ comparePrice: 3.0 EUR
 prodname: 'Adidas After Sport Gel de ducha para Hombre - 400 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00T78VLTA/?tag=tolees-21'
 descuento: '38.33'
 average: '1.85'

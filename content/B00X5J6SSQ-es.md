@@ -16,6 +16,7 @@ comparePrice: 90.66 EUR
 prodname: 'IGLOO Nevera Portátil Transformer 56 litros con Ruedas y Asa Telescópica  Camping  Deportes  Playa  Azul  53 x 48 x 53'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X5J6SSQ/?tag=tolees-21'
 descuento: '32.52'
 average: '61.18'

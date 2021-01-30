@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Soporte Tablet Coche  Soporte iPad Tablet  Soporte Reposacabezas con 4 5-10 5 Pulgadas  Apoyo 270 Rotación  Silicona Antideslizante  Compatible con iPad Samsung Huawei Xiaomi y Otras Tabletas etc.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NWFYLKV/?tag=tolees-21'
 descuento: '29.43'
 average: '12.323333333333334'

@@ -16,6 +16,7 @@ comparePrice: 64.5 EUR
 prodname: 'Zippo Jim Beam | Emblem Lighter - Mechero  Color Color Plateado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001E5FLU4/?tag=tolees-21'
 descuento: '46.59'
 average: '34.45'

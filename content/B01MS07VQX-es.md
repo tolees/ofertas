@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'SAMSUNG EF-CA520PPEGWW - Funda para Galaxy A5 2017  Color Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MS07VQX/?tag=tolees-21'
 descuento: '68.87'
 average: '12.14'

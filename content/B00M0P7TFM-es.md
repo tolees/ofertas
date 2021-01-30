@@ -16,6 +16,7 @@ comparePrice: 44.28 EUR
 prodname: 'Quid Gastro Fun - Sartén doble para tortilla  26 cm  aluminio estampado  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00M0P7TFM/?tag=tolees-21'
 descuento: '34.91'
 average: '25.952857142857145'

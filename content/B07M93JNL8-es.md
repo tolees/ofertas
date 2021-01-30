@@ -16,6 +16,7 @@ comparePrice: 8.49 EUR
 prodname: 'NIVEA MEN Gel Hidratante Rostro y Barba Corta  1 x 50 ml   gel para el cuidado de la barba  cuidado facial para una barba suave y una piel hidratada'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M93JNL8/?tag=tolees-21'
 descuento: '41.11'
 average: '5.0'

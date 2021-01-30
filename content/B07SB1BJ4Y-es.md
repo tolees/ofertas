@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'GREAT ART Foto Mural de Mundo Submarino Oceano Poster Colores Arrecife 210 x 140 cm - Papel Pintado 5 Piezas incluye Pasta para pegar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SB1BJ4Y/?tag=tolees-21'
 descuento: '43.88'
 average: '44.9'

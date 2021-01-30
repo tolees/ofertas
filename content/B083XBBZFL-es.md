@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Kosiy Dispensadores de jabón automático  Dispensador Jabón Manos Libres con Sensor  Dispensadores de Jabón Líquido electrónicos para baño y Cocina  Impermeable IPX6 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083XBBZFL/?tag=tolees-21'
 descuento: '28.93'
 average: '18.47'

@@ -16,6 +16,7 @@ comparePrice: 69.98 EUR
 prodname: 'Searchyou True Blue Mini Ultradrive Pack con 813 Juegos para Genesis / MegaDrive Mini'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0828D4MSN/?tag=tolees-21'
 descuento: '54.29'
 average: '31.99'

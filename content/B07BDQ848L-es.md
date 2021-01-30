@@ -16,6 +16,7 @@ comparePrice: 145.0 EUR
 prodname: 'American Tourister Disney Wavebreaker - Maleta Infantil  Spinner L  77 cm - 96 L   Multicolor  Minnie Close-Up '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BDQ848L/?tag=tolees-21'
 descuento: '32.90'
 average: '97.3'

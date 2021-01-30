@@ -16,6 +16,7 @@ comparePrice: 62.99 EUR
 prodname: 'ODLICNO Mini cámara de Seguridad WiFi Inalámbrica Cámara Oculta HD 1080P Mini Cámara Secreta Cámara de niñera Grabadora de Video en Interiores Activada por Movimiento/Visión Nocturna'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082F14PWG/?tag=tolees-21'
 descuento: '31.75'
 average: '42.99'

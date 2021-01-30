@@ -16,6 +16,7 @@ comparePrice: 7.43 EUR
 prodname: 'Maybelline New York Dr.Rescue CC Nails Base Coat  Esmalte de Uñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UA8JS8W/?tag=tolees-21'
 descuento: '42.93'
 average: '4.24'

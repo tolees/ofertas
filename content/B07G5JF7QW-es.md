@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Impresora Multifuncional Canon PIXMA TS6250 Negra Wifi de inyección de tinta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G5JF7QW/?tag=tolees-21'
 descuento: '35.40'
 average: '73.97'

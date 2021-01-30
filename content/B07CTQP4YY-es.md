@@ -16,6 +16,7 @@ comparePrice: 8.5 EUR
 prodname: 'FIND - Midnight Queen - Paleta de sombras de ojos de 10 tonos n.1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CTQP4YY/?tag=tolees-21'
 descuento: '57.18'
 average: '3.9559999999999995'

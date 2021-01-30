@@ -16,6 +16,7 @@ comparePrice: 11.95 EUR
 prodname: 'Carpeta con recambio Europeanbinder A4+ Oxford Touch color Ice Mint Pastel'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SF2GQTJ/?tag=tolees-21'
 descuento: '36.40'
 average: '11.143333333333333'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Russell Hobbs Retro 25230-56 - Batidora de mano 700 W  cuchilla y cuerpo acero inoxidable Infinity  2 velocidades  color rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G8F6TXJ/?tag=tolees-21'
 descuento: '40.19'
 average: '34.925'

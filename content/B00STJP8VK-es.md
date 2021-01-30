@@ -16,6 +16,7 @@ comparePrice: 230.0 EUR
 prodname: 'Vision Xiam 1.5 - Pala de Nivel Medio Alto de Juego'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00STJP8VK/?tag=tolees-21'
 descuento: '69.59'
 average: '69.95'

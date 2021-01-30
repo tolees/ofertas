@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Puma Basket Heart Patent Wn s  Zapatillas para Mujer  Naranja  Dusty Coral   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZ3PRC3/?tag=tolees-21'
 descuento: '53.99'
 average: '40.510000000000005'

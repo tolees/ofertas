@@ -16,6 +16,7 @@ comparePrice: 28.93 EUR
 prodname: 'Jim Beam Kentucky Straight Bourbon Whisky  40% - 1750 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005HQNC7A/?tag=tolees-21'
 descuento: '27.24'
 average: '22.813333333333333'

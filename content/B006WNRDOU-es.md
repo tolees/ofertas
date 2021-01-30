@@ -16,6 +16,7 @@ comparePrice: 60.38 EUR
 prodname: 'Grohe - Dispensador de jabón estilo Contemporáneo  color cromo  Ref.40536000 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006WNRDOU/?tag=tolees-21'
 descuento: '37.99'
 average: '37.44'

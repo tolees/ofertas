@@ -16,6 +16,7 @@ comparePrice: 139.15 EUR
 prodname: 'Grohe Eurosmart - Grifo para baño y ducha  inversor automático  tecnología Grohe SilkMove  Ref. 33300002 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00RTG0DZK/?tag=tolees-21'
 descuento: '42.54'
 average: '79.965'

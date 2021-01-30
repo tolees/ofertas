@@ -16,6 +16,7 @@ comparePrice: 84.0 EUR
 prodname: 'Giraffe Boy. Juguete de ganchillo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N96NIYO/?tag=tolees-21'
 descuento: '40.00'
 average: '50.4'

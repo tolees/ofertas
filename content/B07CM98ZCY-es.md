@@ -16,6 +16,7 @@ comparePrice: 6.9 EUR
 prodname: 'Ultra Pro- Pokemon Ultra Ball Deck Box  Color carbón  85457 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CM98ZCY/?tag=tolees-21'
 descuento: '56.67'
 average: '2.99'

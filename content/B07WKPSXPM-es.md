@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Pepe Jeans Bryan Bañador  Rojo  Spicy Red 232   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WKPSXPM/?tag=tolees-21'
 descuento: '44.99'
 average: '21.95'

@@ -16,6 +16,7 @@ comparePrice: 482.98 EUR
 prodname: 'Garmin Fenix 5X- Reloj GPS con pulsómetro  zafiro gris con correa negra  talla 51 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N12MIMZ/?tag=tolees-21'
 descuento: '36.02'
 average: '397.0'

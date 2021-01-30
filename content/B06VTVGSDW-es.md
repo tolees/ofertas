@@ -16,6 +16,7 @@ comparePrice: 135.0 EUR
 prodname: 'Logitech Spotlight Presentador Inalámbrico  2.4 GHz y Bluetooth  Receptor USB  Puntero Láser Digital  Distancia de 30 Metros  Cronometro  PC/Mac/Android/iOS  Dorado/Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06VTVGSDW/?tag=tolees-21'
 descuento: '40.35'
 average: '80.53'

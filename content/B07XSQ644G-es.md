@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'L.O.L Surprise Giochi Preziosi Hairvibes - Juguete para niños mayores de 6 años   color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XSQ644G/?tag=tolees-21'
 descuento: '31.27'
 average: '20.55'

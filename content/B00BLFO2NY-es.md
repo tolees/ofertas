@@ -16,6 +16,7 @@ comparePrice: 10.44 EUR
 prodname: 'American Crew Superglue Gel Fijador   Fijación Extrema y Brillo Alto  100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BLFO2NY/?tag=tolees-21'
 descuento: '38.70'
 average: '6.4'

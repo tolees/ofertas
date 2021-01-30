@@ -16,6 +16,7 @@ comparePrice: 92.7 EUR
 prodname: 'Giow Papel Pintado  Thicken Square Bedroom Non-Wove Wall Paper Backdrop para Sala de Estar Moderno e Industrial con imitación de Viento de Piedra  Color: 2 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TYVHNDF/?tag=tolees-21'
 descuento: '42.84'
 average: '52.99'

@@ -16,6 +16,7 @@ comparePrice: 14.5 EUR
 prodname: 'Calvin Klein underwear BOTTOMS UP - THONG - Ropa interior para mujer  Schwarz  Black 001   40'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EVPRYUY/?tag=tolees-21'
 descuento: '38.00'
 average: '8.99'

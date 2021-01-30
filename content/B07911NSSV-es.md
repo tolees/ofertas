@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'culiclean Pinza Flor  48 Piezas  Azul-Amarillo-Verde-Rosa '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07911NSSV/?tag=tolees-21'
 descuento: '34.23'
 average: '12.49'

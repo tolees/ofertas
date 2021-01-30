@@ -16,6 +16,7 @@ comparePrice: 109.95 EUR
 prodname: 'Habitdesign 0N6743A - Recibidor con cajón + Espejo  Medidas 19 x 95 x 26 cm de Fondo  Blanco Artik y Nogal '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QQ2W6H9/?tag=tolees-21'
 descuento: '36.38'
 average: '69.95'

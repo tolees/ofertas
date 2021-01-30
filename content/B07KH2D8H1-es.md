@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Under Armour Blitzing II - Gorra  Hombre  Negro  Black 023  L/XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KH2D8H1/?tag=tolees-21'
 descuento: '50.05'
 average: '9.99'

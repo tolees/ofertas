@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Activision - SIM Classic Triple Pack 3  Countdown - Stealth Elf - Riptide '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LW6J7UB/?tag=tolees-21'
 descuento: '41.89'
 average: '10.3375'

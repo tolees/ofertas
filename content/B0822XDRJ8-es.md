@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'LACORAMO Alarma Sensor De Puerta y Ventana Con Remoto  Sensor Puerta Con Receptor De Alarma Enchufable Con 656 Pies Rango 52 Timbres Volumen De 5 Niveles Con Indicador Led'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0822XDRJ8/?tag=tolees-21'
 descuento: '27.51'
 average: '28.99'

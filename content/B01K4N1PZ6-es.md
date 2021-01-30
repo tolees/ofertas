@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Sennheiser HD 4.20s - Microauriculares de Diadema Cerrados  Compatible con Smartphones y Tablets  Color Negro  Around-Ear'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K4N1PZ6/?tag=tolees-21'
 descuento: '62.15'
 average: '36.01583333333334'

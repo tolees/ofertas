@@ -16,6 +16,7 @@ comparePrice: 109.0 EUR
 prodname: 'American Tourister Disney Legends Spinner S Equipaje de Mano Infantil  55 cm  36 L Turquesa  Take Me Away Minnie Amsterdam '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TX9D2HG/?tag=tolees-21'
 descuento: '40.64'
 average: '78.305'

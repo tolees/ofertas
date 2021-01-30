@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'adidas Forest Grove C  Zapatillas de Gimnasia Unisex Niños  Naranja  Clear Orange/FTWR White/Clear Orange Clear Orange/FTWR White/Clear Orange   31.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K12CW7P/?tag=tolees-21'
 descuento: '54.31'
 average: '22.82'

@@ -16,6 +16,7 @@ comparePrice: 23.29 EUR
 prodname: 'Lebze Muselina Manta Bebé -"Diseño de Zorro" Muselinas Bebé Algodón Bambú Chica o Baby Boy Mantas 120x120 cm Swaddle'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QB5FZ99/?tag=tolees-21'
 descuento: '40.32'
 average: '13.9'

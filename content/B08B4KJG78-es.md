@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Luces solares Jardín Exterior 【2020 Más Reciente-4 Pcs】 MOOB 8 LED Lamparas solares Jardín/Paisaje IP65 Impermeable Focos Solares Suelo Decoracion Jardin  Luz Solar de Césped para Pasillo  Césped'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B4KJG78/?tag=tolees-21'
 descuento: '43.38'
 average: '18.68'

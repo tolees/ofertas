@@ -16,6 +16,7 @@ comparePrice: 132.9 EUR
 prodname: 'Electroestimuladores TENS/EMS Digital Masaje Portatil  2 Canales Estimulador Muscular Recargable Masajeador Electro para Alivio del Dolor de Cervical/Piernas/Abdominal/Cuello  16 Modos 8 Pads '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08126JXYS/?tag=tolees-21'
 descuento: '75.24'
 average: '32.9'

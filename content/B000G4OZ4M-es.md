@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'adidas Originals Mundial Team  Botas de fútbol Unisex Adulto  Black/Running White FTW/Red  46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000G4OZ4M/?tag=tolees-21'
 descuento: '45.86'
 average: '70.35'

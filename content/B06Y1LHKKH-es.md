@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Wrangler ARIZONA DENIM PANTS Pantalones  Bright Stroke  35W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y1LHKKH/?tag=tolees-21'
 descuento: '43.31'
 average: '50.99'

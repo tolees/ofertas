@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'OWSOO 720P Cámara Webcam Incorporado Micrófono  Cámara USB para Reuniones/Estudio en Línea'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088F1K5DN/?tag=tolees-21'
 descuento: '27.79'
 average: '12.99'

@@ -16,6 +16,7 @@ comparePrice: 127.99 EUR
 prodname: 'BRA Advanced - Batería de 3 piezas de aluminio fundido con antiadherente  para todo tipo de cocinas incluso inducción  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V1LT56R/?tag=tolees-21'
 descuento: '34.38'
 average: '83.99'

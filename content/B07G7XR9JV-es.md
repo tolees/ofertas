@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'New Balance FuelCell Propel  Zapatillas de Running para Hombre  Negro  Summer Fog Summer Fog   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G7XR9JV/?tag=tolees-21'
 descuento: '40.00'
 average: '72.0'

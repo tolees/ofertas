@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Clarks Tri Solar  Zapatillas para Hombre  Negro  Black Leather Black Leather   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MFM444Y/?tag=tolees-21'
 descuento: '55.08'
 average: '44.50333333333334'

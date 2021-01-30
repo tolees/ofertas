@@ -16,6 +16,7 @@ comparePrice: 106.15 EUR
 prodname: 'Aspiradora inalámbrica  150 W  13 kPa  potente aspiradora con batería desmontable  ligera  sin bolsa para alfombras  pelo de mascotas  montaje en pared'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082TNYG3C/?tag=tolees-21'
 descuento: '26.20'
 average: '78.34'

@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'Far Cry 5 - The Father Edition'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072KDX14X/?tag=tolees-21'
 descuento: '46.74'
 average: '66.94'

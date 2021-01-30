@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'WMF Profi Plus Tenedor para Carne  Acero Inoxidable Pulido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00008XVJD/?tag=tolees-21'
 descuento: '27.14'
 average: '14.870000000000001'

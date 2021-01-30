@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'Accesorios de Herramientas Rotativas  Meterk 349pcs 1/8" Vástago Eléctrico Grinder  Universal Accesorios con Caja Almacenamiento  Para Corte  Amolado  Lijado  Afilado  Tallado y Pulido de Accesorios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C1XLLXN/?tag=tolees-21'
 descuento: '32.44'
 average: '24.99'

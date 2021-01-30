@@ -16,6 +16,7 @@ comparePrice: 25.98 EUR
 prodname: 'VBIGER Riñonera Running para Botellas de Agua Bolsa Cintura Cinturón Deportiva Impermeable Ciclismo Viajar Senderismo  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WDKMGP7/?tag=tolees-21'
 descuento: '46.19'
 average: '14.265714285714287'

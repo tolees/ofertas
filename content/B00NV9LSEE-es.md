@@ -16,6 +16,7 @@ comparePrice: 458.81 EUR
 prodname: 'Transcend StoreJet 500 - 512GB SSD Externo Metálico para Mac con doble conexión: Thunderbold & USB 3.1. Gen 1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NV9LSEE/?tag=tolees-21'
 descuento: '55.57'
 average: '199.19'

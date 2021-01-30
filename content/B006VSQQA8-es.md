@@ -16,6 +16,7 @@ comparePrice: 38.99 EUR
 prodname: 'KanaaN Converter - Convertidor de BNC-Video  S-Video o Entrada VGA a Salida VGA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006VSQQA8/?tag=tolees-21'
 descuento: '48.73'
 average: '19.99'

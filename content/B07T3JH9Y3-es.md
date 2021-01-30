@@ -16,6 +16,7 @@ comparePrice: 60.99 EUR
 prodname: 'BESTEK Inversor de Corriente 12V a 220V Inversor Onda Modificada 500W para Coche con 2 USB Puertos y 1 Toma de AC - 1 Toma de Encendedor Mechero de Coche y 2 Clips de Cocodrilo Gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T3JH9Y3/?tag=tolees-21'
 descuento: '31.15'
 average: '41.99'

@@ -16,6 +16,7 @@ comparePrice: 5.55 EUR
 prodname: 'Legami - Agenda de 12 meses/semanal - Agenda 2020 de espiral Edición Limitada  color Wonderful SMALL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJ8Q46P/?tag=tolees-21'
 descuento: '28.83'
 average: '4.75'

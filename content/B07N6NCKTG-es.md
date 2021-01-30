@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Lico Cathrin  Botas de Nieve para Niñas  Rosa Pink/Silber  25 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N6NCKTG/?tag=tolees-21'
 descuento: '76.40'
 average: '11.79'

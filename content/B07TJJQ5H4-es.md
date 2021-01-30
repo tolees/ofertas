@@ -16,6 +16,7 @@ comparePrice: 13.46 EUR
 prodname: 'Funko Pop! - Super Mario  Cuaderno A5 Espiral Run  Windows '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJJQ5H4/?tag=tolees-21'
 descuento: '58.32'
 average: '5.61'

@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'Olivia Burton Reloj Analógico para Mujer de Cuarzo con Correa en Cuero OB16BF21'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MPT75M6/?tag=tolees-21'
 descuento: '39.50'
 average: '72.0'

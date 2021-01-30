@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Funko Pop!- Pennywise w/Crab Legs Figura de Vinilo  29526 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0797MYW9S/?tag=tolees-21'
 descuento: '33.62'
 average: '9.95'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'WESCO Destornillador Eléctrico Inalámbrico 3 6V  Atornillador Pequeño Recargable Batería 1500mAh Li-ion  Luz LED  6 Puntas WS2013'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XWXHPRJ/?tag=tolees-21'
 descuento: '27.51'
 average: '31.10111111111111'

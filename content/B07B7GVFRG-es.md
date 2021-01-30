@@ -16,6 +16,7 @@ comparePrice: 32.78 EUR
 prodname: 'Kuman 100pcs WS2812B 5050 Addressable SMD smart rgb led strip Great Pixel LED lights for Arduino 5V DC single 1-led LED Module Pixels color Light little rgb LEDs lamp on Black Heat Sink PCB Board'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B7GVFRG/?tag=tolees-21'
 descuento: '35.97'
 average: '20.99'

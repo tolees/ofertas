@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'LEABAGS Fort Grant Estuche de auténtico Cuero búfalo en el Estilo Vintage - Rouge'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DCSFY47/?tag=tolees-21'
 descuento: '56.62'
 average: '19.95'

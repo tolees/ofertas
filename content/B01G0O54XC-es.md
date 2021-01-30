@@ -16,6 +16,7 @@ comparePrice: 24.9 EUR
 prodname: 'DISFRAZ HIPPIE CHICA TALLA XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01G0O54XC/?tag=tolees-21'
 descuento: '43.49'
 average: '14.07'

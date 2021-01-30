@@ -16,6 +16,7 @@ comparePrice: 5.83 EUR
 prodname: 'Manija de puerta Star Design Crash Pad Perilla de puerta Protector de pared Autoadhesivo Perilla de goma Lock Crash Mat Pad - Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XBWMZ2T/?tag=tolees-21'
 descuento: '34.99'
 average: '3.79'

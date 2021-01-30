@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'PUMA ST Runner v2 Mesh  Zapatillas de Deporte para Hombre  Black White  45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B8NX2ZC/?tag=tolees-21'
 descuento: '27.30'
 average: '39.95'

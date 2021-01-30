@@ -16,6 +16,7 @@ comparePrice: 45 EUR
 prodname: 'Nike Portmore II Ultralight  GS   Zapatillas de Deporte para Niños  Multicolor  Red Crush/Blue Void/White 601   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FWD9G16/?tag=tolees-21'
 descuento: '50.00'
 average: '22.5'

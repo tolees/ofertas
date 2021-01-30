@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'STLOVe Ventilador USB Mini Ventilador Doble Cabeza 360° Rotación Rotación Horizontal 180 ° 3 Velocidades Ventilador Portatil Adecuado para Coche/Mesa/Oficina/Camping/La Pesca etc - Negro  Fans 3 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NWDHP71/?tag=tolees-21'
 descuento: '26.14'
 average: '19.384'

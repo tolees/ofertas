@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'BAIGIO Bolsa de Herramientas con Cinturón de Nailon Ajustable Bolsa para Electricista del Organizador del Sostenedor Bolsillo Porta Herramientas para Cinturón  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XD94THD/?tag=tolees-21'
 descuento: '34.63'
 average: '16.99'

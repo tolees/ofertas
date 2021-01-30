@@ -16,6 +16,7 @@ comparePrice: 16.88 EUR
 prodname: 'Iron Man 2 [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00F3U9N4Q/?tag=tolees-21'
 descuento: '28.97'
 average: '11.075'

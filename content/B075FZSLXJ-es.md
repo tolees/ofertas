@@ -16,6 +16,7 @@ comparePrice: 134.95 EUR
 prodname: 'Salomon Wings Flyte 2 GTX  Zapatillas de Running para Asfalto para Hombre  Azul  Night Sky/Snorkel Blue/Graphite Night Sky/Snorkel Blue/Graphite   43 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075FZSLXJ/?tag=tolees-21'
 descuento: '34.80'
 average: '87.99'

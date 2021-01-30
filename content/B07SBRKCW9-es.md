@@ -16,6 +16,7 @@ comparePrice: 9.19 EUR
 prodname: 'Nihlsen Almohadilla de PVC Inflable Redonda para niños colchoneta de Piscina para césped al Aire Libre Juguete para niños - Color'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SBRKCW9/?tag=tolees-21'
 descuento: '25.03'
 average: '6.89'

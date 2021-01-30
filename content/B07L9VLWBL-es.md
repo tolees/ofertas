@@ -16,6 +16,7 @@ comparePrice: 83.2 EUR
 prodname: 'Adidas Predator 19.3 FG J  Botas de fútbol Unisex niño  Azul  Blanco  37 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9VLWBL/?tag=tolees-21'
 descuento: '27.01'
 average: '56.42666666666666'

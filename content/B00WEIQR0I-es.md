@@ -16,6 +16,7 @@ comparePrice: 850.0 EUR
 prodname: 'Sony Handycam FDR-AX33 4KUHD - Videocámara  pantalla de 3"  zoom óptico 10x  estabilizador óptico   negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00WEIQR0I/?tag=tolees-21'
 descuento: '50.10'
 average: '531.541111111111'

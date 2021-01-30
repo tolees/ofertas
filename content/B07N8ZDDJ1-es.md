@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Tommy Hilfiger Damen Heritage Crew Neck Graphic Tee T-Shirt  Grau  Light Grey Htr 039   Medium  Herstellergröße: M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N8ZDDJ1/?tag=tolees-21'
 descuento: '27.89'
 average: '21.56'

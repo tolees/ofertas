@@ -16,6 +16,7 @@ comparePrice: 19.0 EUR
 prodname: 'Orlane Loción Desmaquillante para Pieles Normales - 200 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ERCBL1I/?tag=tolees-21'
 descuento: '51.74'
 average: '9.585'

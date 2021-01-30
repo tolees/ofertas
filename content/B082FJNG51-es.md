@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'VTIN Altavoz Bluetooth con Sonido HD 5W  Mini Altavoz Bluetooth 10H Música  Pequeño Altavoces Bluetooth Portátil  Modo de Bluetooth/AUX 3.5MM/Tarjerta TF  para PC/Móviles/Tableta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082FJNG51/?tag=tolees-21'
 descuento: '62.52'
 average: '14.99'

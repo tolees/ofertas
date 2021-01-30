@@ -16,6 +16,7 @@ comparePrice: 29.62 EUR
 prodname: 'KitchenCraft Master Class Escurreplatos Horizontal pequeño de Acero Inoxidable  41 x 22 x 13 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ARVMTKA/?tag=tolees-21'
 descuento: '30.01'
 average: '20.73'

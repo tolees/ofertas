@@ -16,6 +16,7 @@ comparePrice: 29.32 EUR
 prodname: 'Pro Mountain - Calcetines deportivos unisex de algodón -  Negro -  S US Women Shoes 5.5~7.5  size 9 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FXDL9AS/?tag=tolees-21'
 descuento: '27.15'
 average: '28.75473684210526'

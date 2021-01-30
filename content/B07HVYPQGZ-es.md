@@ -16,6 +16,7 @@ comparePrice: 23.5 EUR
 prodname: 'Bio Crema Hidratante facial Mujer y Hombre con Ácido Hialurónico Puro y ORGÁNICA●Ingredientes ANTIARRUGAS●GIGANTE 100 ml●Cremas nocturnas faciales con Retinol+Vitamin C+Aloe Vera●Para Contorno de Ojos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HVYPQGZ/?tag=tolees-21'
 descuento: '31.96'
 average: '16.448333333333334'

@@ -16,6 +16,7 @@ comparePrice: 24.9 EUR
 prodname: 'KROM Knout XL RGB - NXKROMKNTXLRGB - Alfombrilla Gaming XL  RGB  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081B9V9PF/?tag=tolees-21'
 descuento: '31.77'
 average: '16.99'

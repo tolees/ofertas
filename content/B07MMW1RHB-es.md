@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Lee Luke Corduroy Pantalones  Naranja  POTTER S Clay 93   33W / 30L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MMW1RHB/?tag=tolees-21'
 descuento: '76.55'
 average: '21.09'

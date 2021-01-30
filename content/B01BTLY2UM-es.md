@@ -16,6 +16,7 @@ comparePrice: 58.48 EUR
 prodname: 'Bresser MyTime-Reloj de Cocina Retro  Acero Inoxidable   Dorado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BTLY2UM/?tag=tolees-21'
 descuento: '71.26'
 average: '16.81'

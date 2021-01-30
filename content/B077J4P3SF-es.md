@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Novex Aceite de Argán  Mascarilla Capilar - 400g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077J4P3SF/?tag=tolees-21'
 descuento: '59.37'
 average: '2.84'

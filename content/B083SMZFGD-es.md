@@ -16,6 +16,7 @@ comparePrice: 53.99 EUR
 prodname: 'San Ignacio Q3246 Set 3pc Utensilios de Cocina Silicona Madera  Colección Daimiel de la Marca'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083SMZFGD/?tag=tolees-21'
 descuento: '61.12'
 average: '20.99'

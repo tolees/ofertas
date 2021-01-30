@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Tommy Hilfiger Essential Tommy Jeans Sneaker  Zapatillas para Hombre  Azul  Twilight Navy C87   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V6TL57K/?tag=tolees-21'
 descuento: '71.00'
 average: '28.97'

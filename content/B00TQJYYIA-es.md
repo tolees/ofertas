@@ -16,6 +16,7 @@ comparePrice: 5.95 EUR
 prodname: 'Eylure Naturals pestañas falsas Número 031'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TQJYYIA/?tag=tolees-21'
 descuento: '25.21'
 average: '4.45'

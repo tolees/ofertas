@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Scottex Collection Servilletas - 1500 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BQFKJP2/?tag=tolees-21'
 descuento: '26.01'
 average: '22.19'

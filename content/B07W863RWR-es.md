@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'BaByliss ST397E Planchas de pelo profesionales  placas extra anchas para alisar más rápido  peine extraíble para un alisado más pulido. 6 temperaturas de 140ºC a 235ºC  tecnología Advanced Ceramic'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W863RWR/?tag=tolees-21'
 descuento: '44.22'
 average: '45.795'

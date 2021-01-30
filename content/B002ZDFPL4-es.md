@@ -16,6 +16,7 @@ comparePrice: 48.4 EUR
 prodname: 'HP AU656AA - Cable antirrobo  Negro  Metálico  250g  HP EliteBook Notebook PC HP ProBook Notebook PC HP 120W Advanced Docking Station '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002ZDFPL4/?tag=tolees-21'
 descuento: '28.47'
 average: '34.62'

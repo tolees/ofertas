@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'YZCX Auriculares Gaming G2000 USB 3.5mm Estéreo Gaming Auriculares para Juegos Iluminación LED/Micrófono/Cancelación de Ruido/Control del Volumen para PC Tablet Laptop'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DWNLVCN/?tag=tolees-21'
 descuento: '50.01'
 average: '29.99'

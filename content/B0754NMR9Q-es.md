@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Salomon Mallas para running  AGILE LONG TIGHT  tejido de punto  negro  mujer  talla: M  l40125900'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0754NMR9Q/?tag=tolees-21'
 descuento: '40.08'
 average: '33.645'

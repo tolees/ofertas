@@ -16,6 +16,7 @@ comparePrice: 125.0 EUR
 prodname: 'Armani Exchange - Embossed Logo Crossbody Bag  Bolsos bandolera Mujer  Dorado  Gold   10x10x10 cm  W x H L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2SLYF5/?tag=tolees-21'
 descuento: '53.35'
 average: '59.633750000000006'

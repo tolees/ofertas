@@ -16,6 +16,7 @@ comparePrice: 13.39 EUR
 prodname: 'Halls - Caramelos Extra Fuerte  sin Azúcar - 20 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00WOGXRLC/?tag=tolees-21'
 descuento: '92.53'
 average: '1.0'

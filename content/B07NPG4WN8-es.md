@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Elite Flex-Lochbay  Zapatillas para Hombre  Azul  Navy/Multicoloured Nvmt   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NPG4WN8/?tag=tolees-21'
 descuento: '40.03'
 average: '41.95'

@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Women s D Lites-Biggest Fan Trainers  Blue  Navy Trubuck/White Mesh/Carolina Blue Trim NVW   3.5 UK 36.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016R0KR9U/?tag=tolees-21'
 descuento: '58.63'
 average: '28.746666666666666'

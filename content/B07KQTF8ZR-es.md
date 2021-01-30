@@ -16,6 +16,7 @@ comparePrice: 17.87 EUR
 prodname: 'P Prettyia +La Cubierta De Puerta Trasera Impermeable con Adhesivo Caja De Flotación Flotante para Hero 3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KQTF8ZR/?tag=tolees-21'
 descuento: '50.87'
 average: '8.78'

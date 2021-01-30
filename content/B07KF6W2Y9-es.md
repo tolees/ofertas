@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'NACATIN Esterilla Inflable Acampada  Colchón de Aire con Almohada Impermeable  Colchoneta Hinchable y Plegable  Resistente a la Humedad para Camping/Senderismo/Viaje/Escalada'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KF6W2Y9/?tag=tolees-21'
 descuento: '50.01'
 average: '27.49'

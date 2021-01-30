@@ -16,6 +16,7 @@ comparePrice: 17.49 EUR
 prodname: 'Amazon Essentials Fleece-Outerwear-Jackets  Negro  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0738K7RDD/?tag=tolees-21'
 descuento: '37.79'
 average: '10.88'

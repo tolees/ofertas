@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'American Tourister Bon Air - Spinner Small Strict Equipaje de Mano  55 cm  31.5 Liters  Amarillo  Light Yellow '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P6RFJ2S/?tag=tolees-21'
 descuento: '50.00'
 average: '69.73235294117647'

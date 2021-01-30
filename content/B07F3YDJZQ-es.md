@@ -16,6 +16,7 @@ comparePrice: 74.9 EUR
 prodname: 'Casio Reloj de Pulsera LA670WEGD-1EF'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F3YDJZQ/?tag=tolees-21'
 descuento: '50.73'
 average: '36.9'

@@ -16,6 +16,7 @@ comparePrice: 195.0 EUR
 prodname: 'Ferrari 0830339 RedRev Evo - Reloj analógico de pulsera para hombre  cuarzo  correa de silicona '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HM71AJ8/?tag=tolees-21'
 descuento: '39.99'
 average: '123.51333333333332'

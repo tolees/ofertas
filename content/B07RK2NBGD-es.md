@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'UPF50+ Sombrero de Sol con Cubrenuca para Bebé Niños Niñas Anti-UV Gorro Verano Gorrito para Playa  Natación  Pesca  Viaje  Excursión  Escuela Ajustable con Barbijo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RK2NBGD/?tag=tolees-21'
 descuento: '29.56'
 average: '15.49'

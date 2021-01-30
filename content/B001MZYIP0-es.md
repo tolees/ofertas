@@ -16,6 +16,7 @@ comparePrice: 19.49 EUR
 prodname: 'EUKANUBA Raza Mediana Adulto Activo rico en pollo fresco [3 kg]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001MZYIP0/?tag=tolees-21'
 descuento: '35.76'
 average: '12.52'

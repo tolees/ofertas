@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'JACK & JONES Jfwtrent PU 19 Noos  Zapatillas para Hombre  Blanco Bright White  40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JHPJTK4/?tag=tolees-21'
 descuento: '30.01'
 average: '32.795'

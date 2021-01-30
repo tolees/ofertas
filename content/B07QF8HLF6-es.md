@@ -16,6 +16,7 @@ comparePrice: 65.99 EUR
 prodname: 'cortapelos nariz y orejas recargable  4 en 1 Breett recortador pelos nariz y orejas  pelos nariz usb  Recortador para Nariz / Orejas / Ceja / Barba  4 Cabezas de Acero Inoxidable  impermeable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QF8HLF6/?tag=tolees-21'
 descuento: '81.89'
 average: '11.95'

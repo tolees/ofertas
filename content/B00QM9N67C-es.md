@@ -16,6 +16,7 @@ comparePrice: 98.02 EUR
 prodname: 'Kärcher T 350T-Racer Surface Cleaner  2.643-252.0 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00QM9N67C/?tag=tolees-21'
 descuento: '50.01'
 average: '50.99333333333333'

@@ -16,6 +16,7 @@ comparePrice: 23.77 EUR
 prodname: 'memumi Delgado para Samsung Galaxy S20 6.2" Funda Mate Protectora Carcasa para Samsung Galaxy S20 Fundas Translúcido [[0.3mm Súper Ligero y Delgado] con Anti-arañazos  S20 Blanco Mate '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083TXLVQP/?tag=tolees-21'
 descuento: '46.28'
 average: '12.77'

@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Banpresto - Disney Character Scar  Bandai 85652 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R25H5ND/?tag=tolees-21'
 descuento: '30.79'
 average: '19.38'

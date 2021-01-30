@@ -16,6 +16,7 @@ comparePrice: 67.03 EUR
 prodname: 'E-concept Stormtrooper Edition.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GD6QXCS/?tag=tolees-21'
 descuento: '42.07'
 average: '38.83'

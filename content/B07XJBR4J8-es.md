@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Rmeet Bolsa para Cosméticos Portátil Bolsas de Maquillaje de Viaje Impermeable Árbol Neceser de Maquillajepara Mujeres niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XJBR4J8/?tag=tolees-21'
 descuento: '53.61'
 average: '6.49'

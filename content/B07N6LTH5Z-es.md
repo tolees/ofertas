@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'JACK & JONES Jjirick Jjicon Shorts GE 854 I.k. STS Pantalones Cortos  Azul  Blue Denim Blue Denim   52  Talla del Fabricante: Medium  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N6LTH5Z/?tag=tolees-21'
 descuento: '25.00'
 average: '15.0'

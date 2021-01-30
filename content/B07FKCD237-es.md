@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Nike M NSW Tank Icon Futura Top  Hombre  Black/ Habanero Red '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FKCD237/?tag=tolees-21'
 descuento: '42.14'
 average: '8.65'

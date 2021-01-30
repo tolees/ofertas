@@ -16,6 +16,7 @@ comparePrice: 360.0 EUR
 prodname: 'Foppapedretti Asso - Tabla de planchar plegable de madera maciza'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006EJ2OO6/?tag=tolees-21'
 descuento: '34.71'
 average: '235.06'

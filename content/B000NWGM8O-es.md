@@ -16,6 +16,7 @@ comparePrice: 41.7 EUR
 prodname: 'Joop! Homme After Shave - 75ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000NWGM8O/?tag=tolees-21'
 descuento: '56.35'
 average: '18.494999999999997'

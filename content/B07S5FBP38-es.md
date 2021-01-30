@@ -16,6 +16,7 @@ comparePrice: 23.6 EUR
 prodname: 'Stanley 65387 Linterna Led Indestructible De Aluminio 200Lm  Negro/Amarillo  142 x 45.9 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S5FBP38/?tag=tolees-21'
 descuento: '34.15'
 average: '15.54'

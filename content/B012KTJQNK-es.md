@@ -16,6 +16,7 @@ comparePrice: 85.56 EUR
 prodname: 'Technaxx BT-X15 - Auriculares Gris TXX4545  Circumaural  Diadema  20-2000'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B012KTJQNK/?tag=tolees-21'
 descuento: '59.19'
 average: '29.955000000000002'

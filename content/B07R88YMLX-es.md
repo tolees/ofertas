@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'Grupo Erik Carpeta 4 anillas troquelada premium Glitter gold dreams'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R88YMLX/?tag=tolees-21'
 descuento: '30.82'
 average: '5.5'

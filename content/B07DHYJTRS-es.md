@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'Lacoste Chaymon BL 1 CMA  Zapatillas para Hombre  Azul  Navy/White   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DHYJTRS/?tag=tolees-21'
 descuento: '29.62'
 average: '83.75'

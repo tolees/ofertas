@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'Nike MD Runner 2  Zapatillas para Hombre  Midnight Navy/White/Wolf Grey  47 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PYDWYSY/?tag=tolees-21'
 descuento: '48.47'
 average: '56.732'

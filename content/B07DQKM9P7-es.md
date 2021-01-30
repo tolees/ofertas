@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'LEADSTAR 5V 10A 50W Fuente de Alimentación Conmutada AC-DC Transformador cConvertidor para la Vigilancia de Circuito Cerrado de Televisión Tira de LED Strip'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DQKM9P7/?tag=tolees-21'
 descuento: '30.45'
 average: '15.99'

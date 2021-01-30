@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Mevo Boost Cargador Rápido para Cámara Mevo con 10 Horas de Batería Extra - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FP9MFR2/?tag=tolees-21'
 descuento: '27.04'
 average: '145.92'

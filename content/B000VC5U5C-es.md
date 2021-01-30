@@ -16,6 +16,7 @@ comparePrice: 130.42 EUR
 prodname: 'Bosch 2 602 317 031 - Carril guía FSN 140  1400 mm  pack de 1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000VC5U5C/?tag=tolees-21'
 descuento: '54.05'
 average: '59.93'

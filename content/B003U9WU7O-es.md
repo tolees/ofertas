@@ -16,6 +16,7 @@ comparePrice: 219.0 EUR
 prodname: 'Bosch PLL 360 - Nivel láser 360º con trípode'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003U9WU7O/?tag=tolees-21'
 descuento: '49.79'
 average: '125.475'

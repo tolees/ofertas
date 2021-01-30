@@ -16,6 +16,7 @@ comparePrice: 10.78 EUR
 prodname: '10pcs Juegos de Mesa Dados de Seis Caras D & D TRPG - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LC71HFQ/?tag=tolees-21'
 descuento: '35.25'
 average: '6.98'

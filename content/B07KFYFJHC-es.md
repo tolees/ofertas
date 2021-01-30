@@ -16,6 +16,7 @@ comparePrice: 14.02 EUR
 prodname: 'PUMA Auriz V Jr  Zapatillas de Balonmano Unisex Niños  White-Green Glimmer  38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFYFJHC/?tag=tolees-21'
 descuento: '36.45'
 average: '8.91'

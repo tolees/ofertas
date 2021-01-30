@@ -16,6 +16,7 @@ comparePrice: 13.9 EUR
 prodname: 'Goobay 51824 - Cable HDMI  1080p  3D  10 m   negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001JIQQM8/?tag=tolees-21'
 descuento: '31.22'
 average: '9.56'

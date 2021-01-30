@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'LJP Funda Samsung Galaxy Note 20 Ultra  Anti-arañazos Glitter Liquida TPU Silicona Móvil Case Gel Carcasa Cristal Flowing Telefono Case Cover Bumper Sparkle Protección Tapa para Samsung Note 20 Ultra'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08H2HYDBC/?tag=tolees-21'
 descuento: '30.94'
 average: '7.59'

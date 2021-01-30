@@ -16,6 +16,7 @@ comparePrice: 9.98 EUR
 prodname: 'Funko- Pop Movies: It-Mike Hanlon  Multicolor  9 cm  30020 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0797QM5LM/?tag=tolees-21'
 descuento: '49.90'
 average: '6.975'

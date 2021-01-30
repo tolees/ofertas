@@ -16,6 +16,7 @@ comparePrice: 6.52 EUR
 prodname: 'Protectores de la cubierta del respaldo del asiento universal para niños Proteger la parte trasera de los asientos automáticos para bebés de Mud Dirt'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VFS5YZG/?tag=tolees-21'
 descuento: '34.97'
 average: '4.24'

@@ -16,6 +16,7 @@ comparePrice: 15.05 EUR
 prodname: 'Gallia & Corsica - Erweiterung zu Concordia'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MA33M6K/?tag=tolees-21'
 descuento: '32.29'
 average: '10.175'

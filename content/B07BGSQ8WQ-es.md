@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'PETCUTE Gateras Puerta Magnética Puerta para Mascotas Manual de 4 vías de Bloqueo Puerta Gato y Perro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BGSQ8WQ/?tag=tolees-21'
 descuento: '48.01'
 average: '25.99'

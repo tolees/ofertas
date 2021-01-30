@@ -16,6 +16,7 @@ comparePrice: 28.93 EUR
 prodname: 'Homyl 1 Pieza de Reproductores de MP3 MP4 de 32GB Radio con LCD Pantalla Regalo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BBP8Y1R/?tag=tolees-21'
 descuento: '44.45'
 average: '16.07'

@@ -16,6 +16,7 @@ comparePrice: 209.95 EUR
 prodname: 'Dainese solarys Aire Motocicleta Botas Negro 45  Euro/11 5  EE. UU.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0771YHKGC/?tag=tolees-21'
 descuento: '53.41'
 average: '97.81'

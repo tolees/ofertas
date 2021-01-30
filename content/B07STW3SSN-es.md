@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Quiksilver Espadrilled  Alpargata para Hombre  Verde  Green/Green/Green Xggg   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07STW3SSN/?tag=tolees-21'
 descuento: '35.01'
 average: '25.99'

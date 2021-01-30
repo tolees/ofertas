@@ -16,6 +16,7 @@ comparePrice: 4.99 EUR
 prodname: 'Liderpapel PA03 - Papel'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PDR5FKU/?tag=tolees-21'
 descuento: '39.28'
 average: '3.03'

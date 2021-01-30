@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Columbia Altitude Aspect Forro Polar  Hombre  Negro  Black Heather   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0059RZ9NC/?tag=tolees-21'
 descuento: '56.76'
 average: '43.24'

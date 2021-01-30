@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Hackett Aston Martin Racing T544 Polo  Blanco  White/Multi 8aj   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QJ6XLF9/?tag=tolees-21'
 descuento: '59.02'
 average: '53.28'

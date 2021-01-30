@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Agenda 2020 con Vista Semanal – Planificador 2020 Semana Vista – Diario Espiral que Inspira Productividad - Tapa Blanda  Intervalos de 30 minutos - Calendario Semanal A4 – 21 x 28cm  en Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S1GX5GL/?tag=tolees-21'
 descuento: '36.81'
 average: '18.15'

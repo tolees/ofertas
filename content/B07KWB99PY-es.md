@@ -16,6 +16,7 @@ comparePrice: 149.95 EUR
 prodname: 'Salomon Speedcross 4 GTX  Zapatillas de Trail Running para Hombre  Negro/Amarillo  Black/Reflecting Pond/Spectra Yellow   40 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KWB99PY/?tag=tolees-21'
 descuento: '39.45'
 average: '90.8'

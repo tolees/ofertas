@@ -16,6 +16,7 @@ comparePrice: 285.9 EUR
 prodname: 'HP 824A - Tambor de imágenes Laserjet para Laserjet CP6015  CM6030mfp y CM6040mfp  Color Magenta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00166TYOK/?tag=tolees-21'
 descuento: '35.88'
 average: '183.32'

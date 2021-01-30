@@ -16,6 +16,7 @@ comparePrice: 278.17 EUR
 prodname: 'WXQ Bote de Basura de Acero Inoxidable Tipo Pedal Duradero Antideslizante Diseño de manija Antideslizante Silenciar Oficina doméstica cilíndrica Negro 12l 01'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089CNLDZ9/?tag=tolees-21'
 descuento: '40.33'
 average: '165.99'

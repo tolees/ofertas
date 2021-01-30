@@ -16,6 +16,7 @@ comparePrice: 64.9 EUR
 prodname: 'Weider Mega Mass 4000 Sabor Chocolate  4000 g . 69% de hidratos.Enriquecido con Vitaminas y Minerales.  Con menos azúcares'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0762XPSM1/?tag=tolees-21'
 descuento: '41.51'
 average: '39.766666666666666'

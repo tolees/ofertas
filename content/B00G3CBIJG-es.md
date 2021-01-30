@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Led Lenser T7.2 - Linterna LED'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00G3CBIJG/?tag=tolees-21'
 descuento: '46.92'
 average: '36.06666666666666'

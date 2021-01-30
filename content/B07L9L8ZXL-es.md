@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Lacoste Sideline 319 1 Cfa  Zapatillas para Mujer  Blanco  White/Navy 042   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9L8ZXL/?tag=tolees-21'
 descuento: '64.57'
 average: '31.53'

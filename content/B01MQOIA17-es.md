@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Aigostar - Bombilla LED B5 T3 4U  E27 15W  Ángulo 360°  Luz Blanca Fría 6400K  1200 lúmenes  no regulable -Pack de 5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MQOIA17/?tag=tolees-21'
 descuento: '30.78'
 average: '17.99'

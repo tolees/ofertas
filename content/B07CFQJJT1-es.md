@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Pulsera Inteligente IP68  CHEREEKI Fitness Tracker Pantalla Color Bracelet'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CFQJJT1/?tag=tolees-21'
 descuento: '47.24'
 average: '18.99'

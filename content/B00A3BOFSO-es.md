@@ -16,6 +16,7 @@ comparePrice: 1.75 EUR
 prodname: 'Dodot Toallitas Para Bebé 1 Paquetes  64 Toallitas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00A3BOFSO/?tag=tolees-21'
 descuento: '35.43'
 average: '1.13'

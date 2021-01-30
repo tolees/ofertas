@@ -16,6 +16,7 @@ comparePrice: 19.98 EUR
 prodname: 'touchbeauty Cejas automática retráctil Pinzas con luz LED del vello facial tb-1058'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B7KDL8L/?tag=tolees-21'
 descuento: '50.05'
 average: '9.98'

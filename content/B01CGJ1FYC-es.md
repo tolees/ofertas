@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Taurus TC 600 Exprimidor 40 W  0.7 litros  0 Decibelios  PU  Naranja  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CGJ1FYC/?tag=tolees-21'
 descuento: '41.73'
 average: '12.565000000000001'

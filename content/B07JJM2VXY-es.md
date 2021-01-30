@@ -16,6 +16,7 @@ comparePrice: 97.99 EUR
 prodname: 'Todeco - Household Tool Box  Home Tool Kit - Material: Acero - Peso: 4 1 kg - con estuche negro  114 herramientas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JJM2VXY/?tag=tolees-21'
 descuento: '52.25'
 average: '46.79'

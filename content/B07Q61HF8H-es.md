@@ -16,6 +16,7 @@ comparePrice: 359.9 EUR
 prodname: 'Britax Römer Silla de coche 15 meses - 12 años  9 - 36 kg  ADVANSAFIX IV M  ISOFIX  Grupo 1/2/3  Storm Grey'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q61HF8H/?tag=tolees-21'
 descuento: '43.04'
 average: '218.004'

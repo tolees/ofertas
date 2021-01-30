@@ -16,6 +16,7 @@ comparePrice: 239.0 EUR
 prodname: 'Armani Exchange Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable AX2169'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X5EY4BY/?tag=tolees-21'
 descuento: '40.52'
 average: '142.15'

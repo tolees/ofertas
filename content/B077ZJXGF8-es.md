@@ -16,6 +16,7 @@ comparePrice: 24.78 EUR
 prodname: 'Avène  Aceite corporal - 250 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077ZJXGF8/?tag=tolees-21'
 descuento: '31.60'
 average: '16.95'

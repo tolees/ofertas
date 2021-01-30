@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: '4 Piezas Gorras de Peluca  URAQT Redecillas Casquillo de Peluca de Nylon  Desnudo Beige Natural y Negro Malla'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076D5X5LQ/?tag=tolees-21'
 descuento: '48.94'
 average: '4.59'

@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'PUMA Vikky v2 Fur Zapatillas para Mujer Marrón   Nougat-Puma White-Puma Silver     40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG5K8GH/?tag=tolees-21'
 descuento: '56.95'
 average: '23.32166666666667'

@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'adidas Lite Racer K  Zapatillas de Running Unisex Niños  Rojo  Real Magenta/Mystery Ruby F17/Mystery Ruby F17 Real Magenta/Mystery Ruby F17/Mystery Ruby F17   37 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DXHPQVX/?tag=tolees-21'
 descuento: '49.99'
 average: '19.98'

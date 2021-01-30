@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Under Armour Performance 2.0 Polo  Hombre  Negro  Black/Pitch Gray 001   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZFJCMR/?tag=tolees-21'
 descuento: '41.02'
 average: '29.284999999999997'

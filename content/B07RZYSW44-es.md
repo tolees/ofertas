@@ -16,6 +16,7 @@ comparePrice: 189.0 EUR
 prodname: 'Love MoschinoJc4009pp1aMujerBolsos mochilaRojo  Rosso 10x21x26 centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RZYSW44/?tag=tolees-21'
 descuento: '37.94'
 average: '117.3'

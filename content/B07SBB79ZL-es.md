@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Crocs Swiftwater Expedition Sandal Kids  Sandalia con Pulsera Unisex Niños  Negro  Black/Slate Grey 0dd   22/23 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SBB79ZL/?tag=tolees-21'
 descuento: '49.98'
 average: '12.5'

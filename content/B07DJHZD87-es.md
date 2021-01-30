@@ -16,6 +16,7 @@ comparePrice: 338.99 EUR
 prodname: 'D-Link COVR-2202 - Kit WiFi Mesh  Tri-Banda  2 Extensores Inteligentes AC 2200 Mbps  2.4/5 GHz  Chipset Qualcomm  WPS  2p LANb 1000 Mbps  Wave2  MU-MIMO  Streaming 4K  Oro/Blanco/Cobre  hasta 465 m2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DJHZD87/?tag=tolees-21'
 descuento: '44.33'
 average: '174.85333333333332'

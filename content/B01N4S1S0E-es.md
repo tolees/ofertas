@@ -16,6 +16,7 @@ comparePrice: 72.64 EUR
 prodname: 'BHR 11797 Casco Moto Demi-Jet Linea One 801  Verde  XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N4S1S0E/?tag=tolees-21'
 descuento: '42.66'
 average: '41.65'

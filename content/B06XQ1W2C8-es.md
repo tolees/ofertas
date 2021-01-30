@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'VTech-80-196622 Suave muñeca interactiva para abrazar al dormir.  3480-196622    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XQ1W2C8/?tag=tolees-21'
 descuento: '29.51'
 average: '14.645'

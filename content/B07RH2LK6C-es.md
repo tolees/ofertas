@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'G-STAR RAW 3301 Slim Fit Jeans  Antic Faded Ripped Marine  26W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RH2LK6C/?tag=tolees-21'
 descuento: '82.82'
 average: '22.168'

@@ -16,6 +16,7 @@ comparePrice: 18.0 EUR
 prodname: 'HEY JOE - Genuine Hair Pomade MATT 100 ml | Pomada para el cabello MATE FIJACIÓN MEDIA 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WVDR9BC/?tag=tolees-21'
 descuento: '30.61'
 average: '12.469999999999999'

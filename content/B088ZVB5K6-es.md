@@ -16,6 +16,7 @@ comparePrice: 4.91 EUR
 prodname: 'Fifet Conector coaxial  Metal  Oro  3 Way RP-SMA Macho a RP-SMA Gato Femenino de RF'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088ZVB5K6/?tag=tolees-21'
 descuento: '47.05'
 average: '2.6'

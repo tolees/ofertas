@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Triumph Amourette Charm N Sujetador sin Aros  Blanco  White 0003   95B  Talla del Fabricante: 80  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J45BSYC/?tag=tolees-21'
 descuento: '37.92'
 average: '24.8'

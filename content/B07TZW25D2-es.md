@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Merrell Terran Lattice II  Sandalia con Pulsera para Mujer  Rojo  Chilli Chilli   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZW25D2/?tag=tolees-21'
 descuento: '47.31'
 average: '44.79'

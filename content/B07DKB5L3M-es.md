@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Kipling - Izellah  Bolsos bandolera Mujer  Gris  Active Grey Bl '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DKB5L3M/?tag=tolees-21'
 descuento: '40.00'
 average: '45.0'

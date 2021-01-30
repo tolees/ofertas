@@ -16,6 +16,7 @@ comparePrice: 127.76 EUR
 prodname: 'Casio Reloj Analogico para Unisex de Cuarzo con Correa en Acero Inoxidable LTP-E140B-1AEF'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073K2YZKK/?tag=tolees-21'
 descuento: '66.74'
 average: '51.24'

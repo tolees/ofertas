@@ -16,6 +16,7 @@ comparePrice: 9.5 EUR
 prodname: 'DESCHE para Funda Xiaomi Redmi Note 5  Hard PC Soft TPU 2 en 1 360 Armadura Protectora Funda Resistente a los arañazos a Prueba de Golpes Funda Duradera para teléfono + Vidrio Templado -Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FF6KX4J/?tag=tolees-21'
 descuento: '50.32'
 average: '4.72'

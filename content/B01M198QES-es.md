@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'LEDMO tiras led 12V Blanco 6000K 300led 5m tira led exterior SMD5630 6000LM IP65 Impermeable CRI80 cinta led'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M198QES/?tag=tolees-21'
 descuento: '44.02'
 average: '13.74'

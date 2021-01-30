@@ -16,6 +16,7 @@ comparePrice: 629 EUR
 prodname: 'Sangean DDR-66BT  SmartLink 9  Minicadena de música para Uso doméstico Negro 14 W - Microcadena  Minicadena de música para Uso doméstico  Negro  14 W  De 2 vías  7 62 cm  8 Ω '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K6TRLTF/?tag=tolees-21'
 descuento: '30.21'
 average: '439'

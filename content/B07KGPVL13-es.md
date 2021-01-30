@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Buff Laelia Gorra Baseball  Mujer  Pale Peach  Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KGPVL13/?tag=tolees-21'
 descuento: '54.43'
 average: '11.99'

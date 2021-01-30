@@ -16,6 +16,7 @@ comparePrice: 21.01 EUR
 prodname: 'HUAWEI 02452312 - Cargador de Coche Dual USB  Super Charge 2A o 4.5A + 1A '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XQTYRC4/?tag=tolees-21'
 descuento: '33.46'
 average: '13.98'

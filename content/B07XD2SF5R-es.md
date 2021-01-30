@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'COOAU Palo Flotante para Selfie Palo Flotante de Agarre Palo Impermeable para Selfie'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XD2SF5R/?tag=tolees-21'
 descuento: '46.19'
 average: '6.99'

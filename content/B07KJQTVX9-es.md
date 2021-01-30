@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'AmazonBasics - Ganchos para cortinas de ducha  bola redonda  amarillo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KJQTVX9/?tag=tolees-21'
 descuento: '49.94'
 average: '4'

@@ -16,6 +16,7 @@ comparePrice: 109.95 EUR
 prodname: 'TROTEC Convector Cristal de Diseño TCH 2011 E  2000 W  Calefacto  Radiador  Control Temperatura Automático  2 Niveles de Calor  Mando a Distancia  Pantalla LCD táctil  Vidrio de Seguridad  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077V2B6HG/?tag=tolees-21'
 descuento: '40.93'
 average: '64.95'

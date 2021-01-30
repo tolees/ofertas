@@ -16,6 +16,7 @@ comparePrice: 17.95 EUR
 prodname: 'adidas 6P Cotton Gorra de Tenis  Hombre  Blanco  Blanco/Blanco/Negro   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N2PLMII/?tag=tolees-21'
 descuento: '40.00'
 average: '10.76'

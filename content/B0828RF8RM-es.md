@@ -16,6 +16,7 @@ comparePrice: 3.58 EUR
 prodname: 'ivencase Funda para Samsung Galaxy A71  Ultra Fina Silicona Transparente TPU Carcasa Protector Airbag Anti-Choque Anti-arañazos Case Cover para Samsung Galaxy A71'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0828RF8RM/?tag=tolees-21'
 descuento: '44.41'
 average: '3.3233333333333337'

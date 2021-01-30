@@ -16,6 +16,7 @@ comparePrice: 8.22 EUR
 prodname: 'DeoMeat 2 mm HSS Acero de Alta Velocidad a 3 mm dañado Tornillo Extractor Remover'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0868RPS5L/?tag=tolees-21'
 descuento: '65.33'
 average: '2.85'

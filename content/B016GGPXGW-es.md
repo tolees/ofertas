@@ -16,6 +16,7 @@ comparePrice: 18.13 EUR
 prodname: 'Victoria S Secret Hombres 1 Unidad 200 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016GGPXGW/?tag=tolees-21'
 descuento: '94.48'
 average: '1.0'

@@ -16,6 +16,7 @@ comparePrice: 43.99 EUR
 prodname: 'Stanley 1-51-937 Martillo de carpintero'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000VCZU8O/?tag=tolees-21'
 descuento: '31.92'
 average: '29.95'

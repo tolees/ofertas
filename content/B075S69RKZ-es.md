@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Maybelline New York - SuperStay 24H  Base de Maquillaje Semi-Mate de Alta Cobertura  Tono 32 Golden'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075S69RKZ/?tag=tolees-21'
 descuento: '55.74'
 average: '5.75'

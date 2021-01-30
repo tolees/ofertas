@@ -16,6 +16,7 @@ comparePrice: 4.73 EUR
 prodname: 'Rexona Desodorante Antitranspirante Shower Fresh 200ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B019A7XR3A/?tag=tolees-21'
 descuento: '52.43'
 average: '2.25'

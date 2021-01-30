@@ -16,6 +16,7 @@ comparePrice: 315.0 EUR
 prodname: 'Apple iPad Air 32GB Wi-Fi - Silver  Reacondicionado '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00M4L4P7W/?tag=tolees-21'
 descuento: '39.68'
 average: '190.0'

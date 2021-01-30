@@ -16,6 +16,7 @@ comparePrice: 47.9 EUR
 prodname: 'Skechers Skech-Air Dynamight-Fast Brak  Zapatillas para Mujer  Negro  Black Mesh/Black Trim BBK   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZNH44H/?tag=tolees-21'
 descuento: '25.05'
 average: '35.9'

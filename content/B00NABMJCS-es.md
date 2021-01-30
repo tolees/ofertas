@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Beurer MG155 - Funda a siento Masaje vibratoria  2 niveles de intensidad  función de calor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NABMJCS/?tag=tolees-21'
 descuento: '29.88'
 average: '34.99'

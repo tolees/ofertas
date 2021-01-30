@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Cecotec Barbacoa eléctrica PerfectSteak 4250 Stand con 2400 W  Parrilla de Acero Inoxidable  Soportes con Gran Superficie  3 Niveles de Altura y Panel Cortavientos.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L147KMD/?tag=tolees-21'
 descuento: '29.86'
 average: '38.34444444444445'

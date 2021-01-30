@@ -16,6 +16,7 @@ comparePrice: 16.06 EUR
 prodname: 'Piccalilly - Body para bebé  algodón orgánico Suave  Unisex  diseño de Elefante   Color Rojo Rojo Rosso 24 Meses'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XYDJ6Q8/?tag=tolees-21'
 descuento: '42.53'
 average: '9.23'

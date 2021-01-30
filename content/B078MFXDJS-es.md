@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'SONGMICS Carrito de Cocina con Ruedas  Estantería con 3 Niveles para Cocina  Oficina y Baño  61 cm de Altura  Blanco KSC03WT'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078MFXDJS/?tag=tolees-21'
 descuento: '27.77'
 average: '18.05'

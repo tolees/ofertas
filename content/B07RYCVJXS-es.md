@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'LIGHTAILING Conjunto de Luces  Creator Expert Ford Mustang  Modelo de Construcción de Bloques - Kit de luz LED Compatible con Lego 10265  NO Incluido en el Modelo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RYCVJXS/?tag=tolees-21'
 descuento: '53.76'
 average: '36.99'

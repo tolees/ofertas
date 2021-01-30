@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'XTI 57028  Zapatillas para Niñas  Amarillo  Amarillo Amarillo   32 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y934QXM/?tag=tolees-21'
 descuento: '33.39'
 average: '19.95'

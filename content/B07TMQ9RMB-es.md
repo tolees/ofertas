@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'GRIDINLUX. Aparato de Radiofrecuencia Facial. Tecnología LED  Efecto Lifting  Belleza Profesional  5 programas. Hidrata y Reafirma la piel'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TMQ9RMB/?tag=tolees-21'
 descuento: '46.32'
 average: '85.44333333333333'

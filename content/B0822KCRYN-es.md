@@ -16,6 +16,7 @@ comparePrice: 80.07 EUR
 prodname: 'HOLULO 3X 10X Lámpara Lupa  Lámpara de Aumento con Luz y Pinza - para leer  hobbies  manualidades  Negro  3X 10X '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0822KCRYN/?tag=tolees-21'
 descuento: '56.30'
 average: '34.27571428571429'

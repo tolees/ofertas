@@ -16,6 +16,7 @@ comparePrice: 22.16 EUR
 prodname: 'ABC PARTS Princesas Disney PRIN104 Alzador'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KSFXB12/?tag=tolees-21'
 descuento: '45.85'
 average: '12.0'

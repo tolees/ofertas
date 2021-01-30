@@ -16,6 +16,7 @@ comparePrice: 195.74 EUR
 prodname: 'EDIMAX RG21S INALAMBRICO ENRUTADOR AC2600 2.4/5 GHz  Dual Band  GIGABIT Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06VT7J7DH/?tag=tolees-21'
 descuento: '34.71'
 average: '127.79'

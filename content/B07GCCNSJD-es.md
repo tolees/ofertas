@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'HBselect 10 Diademas Mujer Turbantes Mujer Vendas De Pelo Elasticas Para Cabeza Yoga Lavarse'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GCCNSJD/?tag=tolees-21'
 descuento: '35.31'
 average: '10.99'

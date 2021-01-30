@@ -16,6 +16,7 @@ comparePrice: 77.98 EUR
 prodname: 'Bosch Home and Garden 0600833101 Bosch Tijera Jardín ISIO Cortasetos  3.6 W  3.6 V  Negro  Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GFQLYGW/?tag=tolees-21'
 descuento: '27.03'
 average: '56.9'

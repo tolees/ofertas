@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Pioneer PHA-M70-H - Amplificador de Sonido Personal  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KPKJXWX/?tag=tolees-21'
 descuento: '75.00'
 average: '49.99'

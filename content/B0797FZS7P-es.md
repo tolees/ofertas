@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Chicos- Futbolín Strategic Champion 2018  72458 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0797FZS7P/?tag=tolees-21'
 descuento: '40.00'
 average: '41.97'

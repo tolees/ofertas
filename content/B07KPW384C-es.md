@@ -16,6 +16,7 @@ comparePrice: 14.9 EUR
 prodname: 'Max Factor  Base de maquillaje  Matificante y minimizador de poros - 1 Unidad  30 ml  99240012252 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KPW384C/?tag=tolees-21'
 descuento: '55.44'
 average: '7.613333333333333'

@@ -16,6 +16,7 @@ comparePrice: 9.96 EUR
 prodname: 'Intex 57506NP - Set 3 posavasos Unicornio  12 x 20 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LH5G3Y4/?tag=tolees-21'
 descuento: '29.82'
 average: '6.99'

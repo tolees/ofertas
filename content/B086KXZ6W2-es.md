@@ -16,6 +16,7 @@ comparePrice: 19.98 EUR
 prodname: 'Arthome 43.5 × 305cm Muebles De Ladrillo Blanco Pegatinas Para Armario Paneles De Pared Papel Tapiz Para Despegar Y Pegar Para Sala De Estar Dormitorio Fondo DecoracióN De Pared'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086KXZ6W2/?tag=tolees-21'
 descuento: '30.03'
 average: '13.98'

@@ -16,6 +16,7 @@ comparePrice: 16.0 EUR
 prodname: 'Adidas Altarun CF I  Zapatillas de Estar por casa Bebé Unisex  Azul  Azul/Ftwbla/Reauni 000   20 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0757ZTLB5/?tag=tolees-21'
 descuento: '37.81'
 average: '13.383333333333333'

@@ -16,6 +16,7 @@ comparePrice: 48.99 EUR
 prodname: 'BRIKSMAX Kit de Iluminación Led para Lego Creator Deportivo de Competición Sunset Compatible con Ladrillos de Construcción Lego Modelo 31089  Juego de Legos no Incluido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081RC65KG/?tag=tolees-21'
 descuento: '61.24'
 average: '18.99'

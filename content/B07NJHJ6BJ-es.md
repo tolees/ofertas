@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Tamaris 1-1-26096-23  Botas Altas para Mujer  Rosa  Old Rose 517   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJHJ6BJ/?tag=tolees-21'
 descuento: '76.44'
 average: '18.84'

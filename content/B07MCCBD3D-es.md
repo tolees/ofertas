@@ -16,6 +16,7 @@ comparePrice: 20.55 EUR
 prodname: 'Arsenal FC - Bufanda modelo Gunners  132 x 19cm   Azul marino '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MCCBD3D/?tag=tolees-21'
 descuento: '33.33'
 average: '14.075'

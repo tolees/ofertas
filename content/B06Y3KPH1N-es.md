@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'Festina Reloj Análogo clásico para Hombre de Automático con Correa en Cuero F6858/3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y3KPH1N/?tag=tolees-21'
 descuento: '43.92'
 average: '139.64'

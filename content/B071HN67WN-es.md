@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Lacoste Pf7841 Polo  Negro  Noir   34  Talla del Fabricante: 34  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071HN67WN/?tag=tolees-21'
 descuento: '42.67'
 average: '57.33'

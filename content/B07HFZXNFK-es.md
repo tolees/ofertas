@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'New Balance Fresh Foam Vongo  Zapatillas de Running para Hombre  Negro  Black Black   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HFZXNFK/?tag=tolees-21'
 descuento: '54.81'
 average: '65.14333333333333'

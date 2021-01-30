@@ -16,6 +16,7 @@ comparePrice: 329.0 EUR
 prodname: 'Michael Kors Reloj Unisex de Analogico con Correa en Chapado en Acero Inoxidable MKT4000'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HBNT40K/?tag=tolees-21'
 descuento: '44.39'
 average: '194.17000000000002'

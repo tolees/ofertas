@@ -16,6 +16,7 @@ comparePrice: 17.52 EUR
 prodname: 'Relojes deportivos digitales para niñas Yesure. Reloj deportivo impermeable de 5 ATM con cronómetro de alarma  7 luces traseras LED'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075HBLB1X/?tag=tolees-21'
 descuento: '26.37'
 average: '12.9'

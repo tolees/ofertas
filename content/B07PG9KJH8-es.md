@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'One Piece - Figura de colección Nami versión B  Bandai 85444 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PG9KJH8/?tag=tolees-21'
 descuento: '28.57'
 average: '25.0'

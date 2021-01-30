@@ -16,6 +16,7 @@ comparePrice: 7.32 EUR
 prodname: 'DeLOCK Cable Power SATA 15pin > 2X SATA HDD – Straight 0 15 m - Cables de alimentación Interna  0 15 m  15pin SATA  2X SATA  Multicolor '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0011ECJ6M/?tag=tolees-21'
 descuento: '58.47'
 average: '3.04'

@@ -16,6 +16,7 @@ comparePrice: 330.66 EUR
 prodname: 'sogoo 50 x 70cm 22.5W Espejo de pared espejo luminoso con LED para cuarto de baño  lámpara espejo de baño LED  espejo sala baño con iluminación integrado LED y función antivaho blanco frío 6500K'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GCVKPNN/?tag=tolees-21'
 descuento: '52.15'
 average: '158.23'

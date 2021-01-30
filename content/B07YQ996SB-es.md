@@ -16,6 +16,7 @@ comparePrice: 10.88 EUR
 prodname: 'L Oréal Men Expert  gel de lavado de carbón puro  contra las impurezas de la piel de los hombres  grano  espinillas  piel grasa y grasa   2 x 100 ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YQ996SB/?tag=tolees-21'
 descuento: '33.27'
 average: '7.26'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Lámpara de Mesa de Cristal Tomshine Lámpara Mesilla de Noche  Doble USB Recargable  Pantalla de Lámpara Plateada con Cristal K5 para Sala de Estar  Dormitorio  Comedor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TMLSXS2/?tag=tolees-21'
 descuento: '37.51'
 average: '23.355'

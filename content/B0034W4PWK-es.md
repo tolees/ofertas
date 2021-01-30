@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Suvorna Professional Manicure Nail and Cuticle Pusher Tool Manipro M15  Polished Steel  0.8 Ounce by Suvorna'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0034W4PWK/?tag=tolees-21'
 descuento: '40.13'
 average: '8.95'

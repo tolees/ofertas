@@ -16,6 +16,7 @@ comparePrice: 71.99 EUR
 prodname: 'Philips Satinelle Advanced BRE620/00 - Depiladora Wet & Dry para mujer inalámbrica  3 accesorios  verde y blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BNMSWV2/?tag=tolees-21'
 descuento: '33.34'
 average: '42.80666666666667'

@@ -16,6 +16,7 @@ comparePrice: 33.99 EUR
 prodname: 'JUMTOP 12V DC Bomba de inflado de neumáticos digital  Bomba de compresor de Aire portátil eléctrica de 150 PSI con indicador para automóviles  Camiones  Bicicletas o básquetbol  colchones de Aire'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K43QZP1/?tag=tolees-21'
 descuento: '35.30'
 average: '21.99'

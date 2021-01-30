@@ -16,6 +16,7 @@ comparePrice: 16.9 EUR
 prodname: 'loud + proud Striped Shorts Organic Cotton Pantalones Cortos  Verde  Mint Min   62/68 para Bebés'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TWD4QRS/?tag=tolees-21'
 descuento: '45.15'
 average: '9.27'

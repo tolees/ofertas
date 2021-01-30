@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'LAST LEVEL- Funko Figura Pop Warhammer 40K: Dark Angels Veteran  Multicolor  FFK38326 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KPSYW51/?tag=tolees-21'
 descuento: '28.52'
 average: '10.0'

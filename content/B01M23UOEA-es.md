@@ -16,6 +16,7 @@ comparePrice: 8.5 EUR
 prodname: 'Max Factor False Lash Effect Epic Máscara de Pestañas Tono Black - 27 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M23UOEA/?tag=tolees-21'
 descuento: '32.47'
 average: '6.546666666666667'

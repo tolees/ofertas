@@ -16,6 +16,7 @@ comparePrice: 156.9 EUR
 prodname: 'VADIM Sillas Comedor Blanca Nordica Juego de 4 Silla diseño nórdico Retro Sillas Salon Modernas Robusta Madera de Haya Imitación Pies de Metal'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081NFK62M/?tag=tolees-21'
 descuento: '49.08'
 average: '79.9'

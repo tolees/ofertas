@@ -16,6 +16,7 @@ comparePrice: 17.39 EUR
 prodname: 'adidas Ctr365 Crew Calcetines  Unisex Adulto  Blanco/Negro  2XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RXXWRZC/?tag=tolees-21'
 descuento: '55.20'
 average: '7.79'

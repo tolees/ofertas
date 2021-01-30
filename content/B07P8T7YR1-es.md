@@ -16,6 +16,7 @@ comparePrice: 50 EUR
 prodname: 'Morgan 192-pelini.n Pantalones  Negro  Noir Noir   Talla única  Talla del Fabricante: T46  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P8T7YR1/?tag=tolees-21'
 descuento: '61.28'
 average: '19.36'

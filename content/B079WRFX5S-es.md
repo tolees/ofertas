@@ -16,6 +16,7 @@ comparePrice: 23 EUR
 prodname: 'Sans Complexe Coton D ARUM Sujetador sin Aros  Negro  Noir 4   90C para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079WRFX5S/?tag=tolees-21'
 descuento: '36.70'
 average: '14.56'

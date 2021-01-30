@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Clarks'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P5SYTBT/?tag=tolees-21'
 descuento: '48.52'
 average: '36.959999999999994'

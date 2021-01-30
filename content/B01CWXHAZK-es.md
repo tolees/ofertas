@@ -16,6 +16,7 @@ comparePrice: 15.8 EUR
 prodname: 'Schwarzkopf Professional Osis Mighty Ultra Strong Matte Tratamiento Capilar - 85 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CWXHAZK/?tag=tolees-21'
 descuento: '62.85'
 average: '5.87'

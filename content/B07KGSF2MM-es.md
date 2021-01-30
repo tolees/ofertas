@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Energy Beat Box 2+ Lightcube  Beat Lights  TWS  Bluetooth v4.2  5W  microSD MP3  FM Radio  - Morado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KGSF2MM/?tag=tolees-21'
 descuento: '44.98'
 average: '16.45'

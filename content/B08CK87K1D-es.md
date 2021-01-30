@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Colmanda Juguetes de Maquillaje Niños  18 Piezas Kit de Maquillaje para Niñas Juego de Juguetes de Maquillaje  Cosméticos Belleza Juguetes Juego de Maquillaje Lavable para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CK87K1D/?tag=tolees-21'
 descuento: '40.02'
 average: '14.99'

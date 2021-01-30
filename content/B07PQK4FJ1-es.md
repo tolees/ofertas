@@ -16,6 +16,7 @@ comparePrice: 55.73 EUR
 prodname: 'non-brand Muñeca Bebé Reborn con Bañera Azul y Accesorios  Juego de Baño para Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PQK4FJ1/?tag=tolees-21'
 descuento: '44.45'
 average: '30.96'

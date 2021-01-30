@@ -16,6 +16,7 @@ comparePrice: 329.95 EUR
 prodname: 'Cybex Silver Pallas 2-Fix 515111001 Silla de Coche 2 en 1  Grupo 1/2/3  Colección de Color 2019  Gris  Gray Rabbit '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00M2O9PTY/?tag=tolees-21'
 descuento: '37.01'
 average: '218.55666666666667'

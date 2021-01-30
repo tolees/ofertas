@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'ENJOHOS Arnés de Escalada  arnés Arnés de Escalada  arnés guía  Cinturones de Seguridad para montañismo de Alto Nivel Espeleología de Rescate Recordatorio de Escalada Equipar Medio Cuerpo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YFNXR3Q/?tag=tolees-21'
 descuento: '34.00'
 average: '65.99'

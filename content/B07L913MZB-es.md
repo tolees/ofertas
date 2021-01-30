@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'Rubies - Disfraz Oficial de los Vengadores Endgame Thanos  Talla M  Edad 5 – 7  Altura 132 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L913MZB/?tag=tolees-21'
 descuento: '47.43'
 average: '30.75'

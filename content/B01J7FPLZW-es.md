@@ -16,6 +16,7 @@ comparePrice: 21.54 EUR
 prodname: 'Chibis Star Trek 50th Anniversary Complete Mini Collectible Figure Set'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01J7FPLZW/?tag=tolees-21'
 descuento: '36.77'
 average: '13.62'

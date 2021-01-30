@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'INTEY Ahuyentador de Animales  2 Piezas  Ultrasonido Impermeable Ahuyentador del Gato Energía Solar Carga de la Batería  Utilizada en el Jardín Ahuyentador Gatos Repelente ultrasonico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083TFWQJS/?tag=tolees-21'
 descuento: '42.86'
 average: '39.99'

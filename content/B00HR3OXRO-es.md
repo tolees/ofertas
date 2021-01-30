@@ -16,6 +16,7 @@ comparePrice: 9.91 EUR
 prodname: 'Bayer Sano & Bello Limpiador Dental - 140 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HR3OXRO/?tag=tolees-21'
 descuento: '29.47'
 average: '6.99'

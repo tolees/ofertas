@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Litthing 1/2/3 Piezas Sujetadore Deportivo Encaje Sexy Transpirable Confort Yoga Deportes de Yoga para Mujeres（Rosa  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PJ3M6R3/?tag=tolees-21'
 descuento: '69.28'
 average: '3.99'

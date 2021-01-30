@@ -16,6 +16,7 @@ comparePrice: 4.95 EUR
 prodname: 'GARNIER Fructis Hair Food Champú de Papaya Reparadora para Pelo Dañado - 350 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084K2SCXM/?tag=tolees-21'
 descuento: '30.30'
 average: '3.45'

@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'E-Vitta EVUN000298 - Funda con soporte para tablet de 10.1"  diseño Furry'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NFT5K7Q/?tag=tolees-21'
 descuento: '25.13'
 average: '12.72'

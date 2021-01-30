@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Ferilinso Funda para Xiaomi Redmi Note 7/ Note 7S/ Note 7 Pro  Híbrido Armadura Holster Defender Protección Corporal Completa Heavy Duty Hard Bumper Case con Kickstand y Soporte（Negro）'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MJL2QJL/?tag=tolees-21'
 descuento: '57.17'
 average: '8.99'

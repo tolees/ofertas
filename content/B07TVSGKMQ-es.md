@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Tommy Hilfiger Th Women Short Sock 2p Translucent Calcetines  Blanco  White 300   39/42  Pack de 2  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TVSGKMQ/?tag=tolees-21'
 descuento: '54.13'
 average: '5.5'

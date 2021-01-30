@@ -16,6 +16,7 @@ comparePrice: 241.99 EUR
 prodname: 'Festnight Mesa para TV Mueble TV Salón Mesa Televisión con 2 Puertas y 2 Compartimentos 120x30x40 cm Madera Maciza de Mango'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VKLXQ5Z/?tag=tolees-21'
 descuento: '27.27'
 average: '175.99'

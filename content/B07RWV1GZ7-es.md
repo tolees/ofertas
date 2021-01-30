@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Jack & Jones Jjimarco Jjconnor AKM 769 Herring Noos Pantalones  Gris  Dark Grey Dark Grey   46 /L32  Talla del Fabricante: 32  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RWV1GZ7/?tag=tolees-21'
 descuento: '25.00'
 average: '44.99'

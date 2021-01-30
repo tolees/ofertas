@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Umami® ⭐ Lunch Box EcoloChic™ Bleu & Bambou'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZYZQLVG/?tag=tolees-21'
 descuento: '41.82'
 average: '32.0'

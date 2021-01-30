@@ -16,6 +16,7 @@ comparePrice: 21.76 EUR
 prodname: 'Meritene Meritene Junior Batido Chocolate 15Sbrs  450 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DN9JKUQ/?tag=tolees-21'
 descuento: '51.52'
 average: '10.5175'

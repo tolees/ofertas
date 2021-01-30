@@ -16,6 +16,7 @@ comparePrice: 22.95 EUR
 prodname: 'Otger Lensker - Juego de brocas escalonadas  machos de roscar combinados  atornillador inalámbrico  adaptador de llave de vaso de 7 a 19 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VMD143P/?tag=tolees-21'
 descuento: '46.80'
 average: '12.21'

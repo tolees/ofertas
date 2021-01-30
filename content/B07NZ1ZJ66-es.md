@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'KitGarden - Armario Camping con Paraviento  88x47x80 cm  Negro  Cabinet BBQ'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NZ1ZJ66/?tag=tolees-21'
 descuento: '28.59'
 average: '49.95'

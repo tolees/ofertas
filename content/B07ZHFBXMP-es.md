@@ -16,6 +16,7 @@ comparePrice: 14.39 EUR
 prodname: 'Karactermania Villanas Disney -Saco de Cuerdas Storm  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZHFBXMP/?tag=tolees-21'
 descuento: '34.68'
 average: '9.4'

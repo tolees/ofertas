@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Merrell Trail Glove 5  Zapatillas Deportivas para Interior para Hombre  Negro  Black   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DYFVVXQ/?tag=tolees-21'
 descuento: '34.17'
 average: '78.99'

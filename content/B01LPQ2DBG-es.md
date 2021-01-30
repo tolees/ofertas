@@ -16,6 +16,7 @@ comparePrice: 2.75 EUR
 prodname: 'Babaria Vinagre Champú Protección Natural Cabello 600 ml 1 Unidad 600 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LPQ2DBG/?tag=tolees-21'
 descuento: '27.64'
 average: '1.99'

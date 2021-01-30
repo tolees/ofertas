@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Slendertone Ceinture Electrodos de Repuesto para cinturón Abdominal  Unisex  Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0002XVJZ0/?tag=tolees-21'
 descuento: '25.30'
 average: '10.45'

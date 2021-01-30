@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'New Balance Ryval Run  Zapatillas de Running para Mujer  Rosa  Pink Sp1   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RXLGWXK/?tag=tolees-21'
 descuento: '41.59'
 average: '40.89'

@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Pendientes Luxenter Panya plata y circonita brillante'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081FJYJPH/?tag=tolees-21'
 descuento: '30.00'
 average: '20.93'

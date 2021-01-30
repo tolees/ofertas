@@ -16,6 +16,7 @@ comparePrice: 13.9 EUR
 prodname: 'Axe Dark Temptation Pack Duplo Ahorro - 2 Paquetes de 2 x 150 ml  Total: 600 ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P7VKTGH/?tag=tolees-21'
 descuento: '38.99'
 average: '8.280000000000001'

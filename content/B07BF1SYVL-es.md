@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Sushi Striker: The Way Of Sushido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BF1SYVL/?tag=tolees-21'
 descuento: '69.99'
 average: '15'

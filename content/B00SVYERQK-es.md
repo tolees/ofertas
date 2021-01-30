@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Funko Pop!- Pocket Keychain: Marvel: Avengers AOU: Captain America  5224 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SVYERQK/?tag=tolees-21'
 descuento: '54.75'
 average: '8.043750000000001'

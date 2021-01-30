@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Razer Basilisk  Ratón con Cable para Juegos FPS  con Sensor Óptico de 16000 DPI  5G  Interruptor DPI Extraíble y Rueda de Desplazamiento Personalizable  USB  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0756Z1XTW/?tag=tolees-21'
 descuento: '42.99'
 average: '36.767272727272726'

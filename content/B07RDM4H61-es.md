@@ -16,6 +16,7 @@ comparePrice: 179.95 EUR
 prodname: 'adidas Ultraboost S&l  Zapatillas de Running para Hombre  Azul  Blue/FTWR White/Grey Three F17 Blue/FTWR White/Grey Three F17   40 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RDM4H61/?tag=tolees-21'
 descuento: '55.56'
 average: '79.97'

@@ -16,6 +16,7 @@ comparePrice: 19.98 EUR
 prodname: 'TOUCHBeauty Mujeres Mini Ladies  Shaver Pluma Portátil Eléctrico Facial Hair Trimmer Ceja Trimmer Slice AG-815S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B014SP20AK/?tag=tolees-21'
 descuento: '35.04'
 average: '12.98'

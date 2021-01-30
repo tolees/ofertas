@@ -16,6 +16,7 @@ comparePrice: 51.99 EUR
 prodname: 'Giraffe and Annika - Limited Edition'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0873NHJD2/?tag=tolees-21'
 descuento: '28.49'
 average: '45.7875'

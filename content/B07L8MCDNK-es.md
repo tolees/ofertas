@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'Fossil Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero FS5132IE'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L8MCDNK/?tag=tolees-21'
 descuento: '32.74'
 average: '106.94'

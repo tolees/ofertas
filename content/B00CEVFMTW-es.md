@@ -16,6 +16,7 @@ comparePrice: 19.55 EUR
 prodname: 'STANLEY FATMAX FMHT0-20559 - Serrucho FatMax Plegable para Placa de Yeso'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CEVFMTW/?tag=tolees-21'
 descuento: '30.59'
 average: '13.386'

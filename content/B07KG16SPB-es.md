@@ -16,6 +16,7 @@ comparePrice: 55.31 EUR
 prodname: 'PUMA Insurge Mesh 2.0  Zapatillas Unisex Adulto  Rhubarb Black White  37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG16SPB/?tag=tolees-21'
 descuento: '63.03'
 average: '20.45'

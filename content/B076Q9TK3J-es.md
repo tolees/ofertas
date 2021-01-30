@@ -16,6 +16,7 @@ comparePrice: 1299.0 EUR
 prodname: 'Olympus Objetivo - M.Zuiko Digital ED 45 mm F1.2 Pro  Longitud Focal Fija Rápida  Apto para Todas Las Cámaras MFT  Modelos Olympus OM-D & Pen  Serie G de Panasonic  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076Q9TK3J/?tag=tolees-21'
 descuento: '32.26'
 average: '966.9554545454546'

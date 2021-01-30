@@ -16,6 +16,7 @@ comparePrice: 74.9 EUR
 prodname: 'Bionaire BTF001X-01 Ventilador de torre  40 W  10 litros  Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JVJRKZY/?tag=tolees-21'
 descuento: '51.05'
 average: '48.323750000000004'

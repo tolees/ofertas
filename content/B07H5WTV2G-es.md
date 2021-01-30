@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Riot: Civil Unrest'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H5WTV2G/?tag=tolees-21'
 descuento: '33.78'
 average: '16.682000000000002'

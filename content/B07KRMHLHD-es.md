@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'New Balance Wsx90tv1  Zapatillas para Mujer  Azul  Blue Blue   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KRMHLHD/?tag=tolees-21'
 descuento: '75.75'
 average: '26.68'

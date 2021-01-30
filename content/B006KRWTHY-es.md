@@ -16,6 +16,7 @@ comparePrice: 20.8 EUR
 prodname: 'Hugo Boss 28666 - Desodorante'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006KRWTHY/?tag=tolees-21'
 descuento: '32.93'
 average: '14.658'

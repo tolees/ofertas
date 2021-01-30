@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Pepe Jeans Verona W Set  Zapatillas para Mujer  Blanco  White 800   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VDT3DLQ/?tag=tolees-21'
 descuento: '62.15'
 average: '30.812500000000004'

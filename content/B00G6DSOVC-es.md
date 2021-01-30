@@ -16,6 +16,7 @@ comparePrice: 58.1 EUR
 prodname: 'Jata GR208 Plancha de Asar de Terracota Superficie: 26 x 21 cm que No se raya Fabricada Artesanalmente en España'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00G6DSOVC/?tag=tolees-21'
 descuento: '44.06'
 average: '32.5'

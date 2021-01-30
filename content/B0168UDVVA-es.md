@@ -16,6 +16,7 @@ comparePrice: 38 EUR
 prodname: 'Clint Eastwood - Pack 10 [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0168UDVVA/?tag=tolees-21'
 descuento: '35.03'
 average: '24.69'

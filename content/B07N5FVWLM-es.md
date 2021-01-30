@@ -16,6 +16,7 @@ comparePrice: 415.0 EUR
 prodname: 'Bed Comforter King  King size quilt handmade Bright Quilt Bohemian  King size duvet set  Gift for New Mom  FREE SHIPPING'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N5FVWLM/?tag=tolees-21'
 descuento: '35.90'
 average: '266.0'

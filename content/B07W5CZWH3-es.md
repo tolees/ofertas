@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'Brunoko Vajilla Bebé Set de Plato Ventosa + Cubiertos -Cuenco y Cuchara Silicona Destete - Vajilla Infantil Antideslizante con Succión + Utensilios Infantiles Aprendizaje BLW-Diseñado en España  Gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W5CZWH3/?tag=tolees-21'
 descuento: '34.49'
 average: '18.99'

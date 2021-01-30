@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Romanticist 20 Piezas Utensilios para Barbacoa para Hombres con Paquete de Caja de Regalo  Accesorios Profesionales para Cubiertos de Barbacoa de Acero Inoxidable en Caja de Aluminio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072JVYKDL/?tag=tolees-21'
 descuento: '45.72'
 average: '37.59'

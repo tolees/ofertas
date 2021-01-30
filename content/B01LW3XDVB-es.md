@@ -16,6 +16,7 @@ comparePrice: 13.86 EUR
 prodname: 'Pañuelos Kleenex Ultrasoft Delicados y Suaves - 5 Packs de 10 Paquetes - Total: 50 Paquetes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LW3XDVB/?tag=tolees-21'
 descuento: '49.57'
 average: '6.99'

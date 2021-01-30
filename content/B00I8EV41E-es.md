@@ -16,6 +16,7 @@ comparePrice: 68.99 EUR
 prodname: 'Epson C13T789240 - Cartucho de tinta para la serie WF-5xxx  cian  Ya disponible en Amazon Dash Replenishment'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00I8EV41E/?tag=tolees-21'
 descuento: '42.04'
 average: '40.722'

@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Men s Flex Advantage 3.0- Jection Trainers  Blue  Navy Black Nvbk   7 UK 41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CVDWNNF/?tag=tolees-21'
 descuento: '51.39'
 average: '45.983333333333334'

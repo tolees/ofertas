@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'PUMA Smash V2  Zapatillas Unisex Adulto  Negro Black White Silver  45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077MLZ8C1/?tag=tolees-21'
 descuento: '32.76'
 average: '33.93'

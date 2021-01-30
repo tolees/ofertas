@@ -16,6 +16,7 @@ comparePrice: 16.7 EUR
 prodname: 'Philips SNOW Super Speed 32 GB USB Flash Drivee 3.0  Leer hasta 100 MB/s'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BJAUT4W/?tag=tolees-21'
 descuento: '46.23'
 average: '7.42111111111111'

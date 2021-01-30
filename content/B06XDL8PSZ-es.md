@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Bourjois Volume Reveal Máscara de pestañas Tono 31 Black - 40 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XDL8PSZ/?tag=tolees-21'
 descuento: '72.86'
 average: '4.2275'

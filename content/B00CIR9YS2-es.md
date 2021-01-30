@@ -16,6 +16,7 @@ comparePrice: 15.15 EUR
 prodname: 'Polesie Wader - Vehículo de Juguete  38166 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CIR9YS2/?tag=tolees-21'
 descuento: '43.96'
 average: '8.49'

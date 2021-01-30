@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'MADE4U [20"] [enmarcado de madera] Kit de pintura por números con pinceles y pinturas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PB5GV3D/?tag=tolees-21'
 descuento: '57.17'
 average: '29.98'

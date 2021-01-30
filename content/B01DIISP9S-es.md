@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'TOMSHOO Bolsas Estancas 10L/20L Bolsa Seca para Viajar Rafting Navegación Kayak Canotaje Camping Snowboard'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DIISP9S/?tag=tolees-21'
 descuento: '26.68'
 average: '10.99'

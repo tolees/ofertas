@@ -16,6 +16,7 @@ comparePrice: 145.0 EUR
 prodname: 'Calvin Klein ENFOLD TOP HANDLEMujerBolsos bandoleraRosa  Nude  14.5x24x34 centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N5RJ6DF/?tag=tolees-21'
 descuento: '53.39'
 average: '66.96000000000001'

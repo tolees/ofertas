@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'PUMA JARO  Zapatillas para Correr de Carretera para Hombre  Negro Black White  45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SBVR5NV/?tag=tolees-21'
 descuento: '26.67'
 average: '36.36666666666667'

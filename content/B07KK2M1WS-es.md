@@ -16,6 +16,7 @@ comparePrice: 53.99 EUR
 prodname: 'GEKER Aspirador Mano de coche  Aspiradora Automotriz 6 KPA  120 W Uso dual seco y húmedo  Carga Rápida  filtro HEPA fácil de limpiar  el cable de alimentación de 4 5 m y la bolsa Oxford'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KK2M1WS/?tag=tolees-21'
 descuento: '66.68'
 average: '22.32333333333333'

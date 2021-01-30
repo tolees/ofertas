@@ -16,6 +16,7 @@ comparePrice: 17.95 EUR
 prodname: 'Frozen Pijamas de Manga Larga para niños El Reino del Hielo Frozen Azul 4-5 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081VC8DNW/?tag=tolees-21'
 descuento: '27.86'
 average: '12.95'

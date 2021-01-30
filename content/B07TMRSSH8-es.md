@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'TUBBZ Oficial Borderlands 3 Mercancías Lillith Figurita Carácter del Pato'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TMRSSH8/?tag=tolees-21'
 descuento: '60.31'
 average: '5.95'

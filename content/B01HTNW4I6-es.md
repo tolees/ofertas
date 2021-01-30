@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'adidas Cosmic W  Zapatillas de Running para Mujer  Morado  Pursho/Puruni/Puruni   37 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HTNW4I6/?tag=tolees-21'
 descuento: '58.57'
 average: '24.84'

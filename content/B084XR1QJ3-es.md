@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Ymea Silueta| Tratamiento de la Menopausia | Doble acción - Control de Sofocos y Control de la Silueta | Apto para Uso Prolongado | Sin Estrogenos  Soja o Consevantes| 64 cápsulas | Tratamiento 1 mes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084XR1QJ3/?tag=tolees-21'
 descuento: '26.76'
 average: '23.712500000000002'

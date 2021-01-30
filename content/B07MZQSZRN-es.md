@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Pepe Jeans Emerson Jeans para Niños  Azul  Medium Used Denim 000   6 años  Talla fabricante: 6y/116 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZQSZRN/?tag=tolees-21'
 descuento: '49.45'
 average: '20.17'

@@ -16,6 +16,7 @@ comparePrice: 14.9 EUR
 prodname: 'Case Logic QHDC101K - Estuche compacto para disco duro  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003WUBIZQ/?tag=tolees-21'
 descuento: '46.98'
 average: '7.9'

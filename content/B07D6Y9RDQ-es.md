@@ -16,6 +16,7 @@ comparePrice: 94.95 EUR
 prodname: 'adidas Gazelle  Zapatillas para Hombre  Rojo  Collegiate Burgundy/Footwear White/Footwear White 0   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D6Y9RDQ/?tag=tolees-21'
 descuento: '42.07'
 average: '54.018'

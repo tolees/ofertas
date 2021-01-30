@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'PUMA SMASH V2 L  Zapatillas Unisex-Adulto  Blanco White Black  38.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077M8YXMX/?tag=tolees-21'
 descuento: '41.94'
 average: '29.0'

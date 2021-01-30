@@ -16,6 +16,7 @@ comparePrice: 8.69 EUR
 prodname: 'NAUTICAL Classic Bag'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MRY69G6/?tag=tolees-21'
 descuento: '37.28'
 average: '5.17'

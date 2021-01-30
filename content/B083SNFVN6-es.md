@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'San Ignacio Q3249 Set 3pc Utensilios de Cocina Nylon  Colección Jolie de la Marca'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083SNFVN6/?tag=tolees-21'
 descuento: '61.31'
 average: '11.99'

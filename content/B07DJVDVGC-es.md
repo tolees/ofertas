@@ -16,6 +16,7 @@ comparePrice: 179.99 EUR
 prodname: 'Pro Breeze Digital Radiador de Aceite 2500W - 10 Elementos  4 Configuraciones de Calor  Temporizador y Termostato'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DJVDVGC/?tag=tolees-21'
 descuento: '30.56'
 average: '124.99'

@@ -16,6 +16,7 @@ comparePrice: 25.48 EUR
 prodname: 'Joy Toy Star Wars - Protector Yoda con conexión USB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001W0ZX2M/?tag=tolees-21'
 descuento: '41.33'
 average: '14.95'

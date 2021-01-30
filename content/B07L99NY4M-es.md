@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Nike Legend React 2  Zapatillas de Trail Running para Hombre  Blanco  White/Pure Platinum 100   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L99NY4M/?tag=tolees-21'
 descuento: '35.51'
 average: '64.49'

@@ -16,6 +16,7 @@ comparePrice: 9.0 EUR
 prodname: 'Rimmel London Stay Satin Liquid Lip Colour Barra De Labios  Tono 600 Scrunchie - 21 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D8YP83Z/?tag=tolees-21'
 descuento: '58.78'
 average: '3.51'

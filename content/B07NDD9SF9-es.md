@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Ingenuity 11576-1 - Asiento elevador'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDD9SF9/?tag=tolees-21'
 descuento: '28.63'
 average: '35.68'

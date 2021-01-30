@@ -16,6 +16,7 @@ comparePrice: 116.6 EUR
 prodname: 'Nk NK-AC3091-36D WIFI - Cámara de Acción Doble Óptica  Wifi  USB  360º X2  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FG7EVFQ/?tag=tolees-21'
 descuento: '34.27'
 average: '83.315'

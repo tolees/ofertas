@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'HAUEA Almohadilla Teclado y Alfombrilla de Ratón Ergonómico Cojín de Muñeca con Reposamuñecas de Memoria para Trabajadores y Jugadores.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073RCJRKV/?tag=tolees-21'
 descuento: '49.97'
 average: '8.0'

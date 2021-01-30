@@ -16,6 +16,7 @@ comparePrice: 20.47 EUR
 prodname: 'Head Club Lucy W Camisetas  Mujer  Magenta/Dark Blue  Extra-Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P2ZPYF6/?tag=tolees-21'
 descuento: '38.98'
 average: '12.49'

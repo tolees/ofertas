@@ -16,6 +16,7 @@ comparePrice: 35.05 EUR
 prodname: 'Tijeras de Cocina de Alta Resistencia – Galardonadas como las Mejores Tijeras Multiusos  para Pollo  Carnes  Pescado  Aves  Verduras  Hierbas y Barbacoas – Afiladas como un Cuchillo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WRQQLCN/?tag=tolees-21'
 descuento: '49.19'
 average: '17.81'

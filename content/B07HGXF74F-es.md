@@ -16,6 +16,7 @@ comparePrice: 59.29 EUR
 prodname: 'Tiny Dreamer de Tiny Love  proyector musical de luz nocturna tranquilizadora  proyector de luz de estrellas y farol portátil  a partir de 0 meses  17 melodías  Into the Forest'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HGXF74F/?tag=tolees-21'
 descuento: '30.17'
 average: '41.25333333333333'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'GoPro The Handler - Empuñadura flotante  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0755PDKCN/?tag=tolees-21'
 descuento: '26.68'
 average: '22.775999999999996'

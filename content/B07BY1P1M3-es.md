@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'JAIMIE JACOBS Key Boy Llavero de Cuero  Marrón '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BY1P1M3/?tag=tolees-21'
 descuento: '61.79'
 average: '14.9'

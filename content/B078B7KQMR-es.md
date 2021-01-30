@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Crosstour Cámara De Coche 1080P Full HD Dash CAM 12MP 3" Pantalla con 170° Gran Ángulo  WDR  G-Sensor  Grabación en Bucle y Detección de Movimiento CR300'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078B7KQMR/?tag=tolees-21'
 descuento: '33.34'
 average: '29.990000000000002'

@@ -16,6 +16,7 @@ comparePrice: 22.98 EUR
 prodname: '50Pcs Tamaño de Cara Libre desechable Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087NFBWXK/?tag=tolees-21'
 descuento: '43.43'
 average: '13.0'

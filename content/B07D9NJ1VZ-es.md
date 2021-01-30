@@ -16,6 +16,7 @@ comparePrice: 14.38 EUR
 prodname: 'Adorables Trajes Flacos de Baile de Ballet para 18 Pulgadas Americanas Chicas Muñecas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D9NJ1VZ/?tag=tolees-21'
 descuento: '44.44'
 average: '7.99'

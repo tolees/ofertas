@@ -16,6 +16,7 @@ comparePrice: 460 EUR
 prodname: 'VAUDE Hogan UL 2P Tienda  Unisex Adulto  Verde  Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0196O0DDY/?tag=tolees-21'
 descuento: '42.14'
 average: '260.06'

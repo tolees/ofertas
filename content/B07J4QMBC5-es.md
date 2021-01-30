@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Pop! Stranger Things - Figura de Vinilo Movie Moment Eleven & Demogorgon'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J4QMBC5/?tag=tolees-21'
 descuento: '38.97'
 average: '31.429499999999997'

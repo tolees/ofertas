@@ -16,6 +16,7 @@ comparePrice: 499.99 EUR
 prodname: 'SUAOKI - 400Wh/120 000mAh Generador Portátil Solar  Cargador de Batería Almacenamiento Suministro de Energía  AC salida/coche  4 USB puertos  AC y DC inversor de corriente  1 mechero de coche '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GQZ4VN9/?tag=tolees-21'
 descuento: '30.00'
 average: '344.99'

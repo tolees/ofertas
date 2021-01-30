@@ -16,6 +16,7 @@ comparePrice: 40.92 EUR
 prodname: 'Mesa de cama para ordenador portátil  escritorio de regazo portátil  soporte para lectura  mesa para portátil dormitorio con patas plegables y ranura para tazas  para desayunar  leer '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084VJ6DPF/?tag=tolees-21'
 descuento: '34.02'
 average: '27.0'

@@ -16,6 +16,7 @@ comparePrice: 27.66 EUR
 prodname: 'KRY Ear Wax Remover - Limpiador de oídos en espiral seguro y suave - Herramienta profesional portátil de extracción de orejas Pick Ear'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088LYQ2ZL/?tag=tolees-21'
 descuento: '28.20'
 average: '19.86'

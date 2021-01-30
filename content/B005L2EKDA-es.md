@@ -16,6 +16,7 @@ comparePrice: 169.99 EUR
 prodname: 'Sorel Caribou  Botas de Invierno para Hombre  Marrón  Bruno 238   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005L2EKDA/?tag=tolees-21'
 descuento: '50.59'
 average: '83.99'

@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Tommy Hilfiger - Classic Saffiano cartera para mujeres  azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RS71SHN/?tag=tolees-21'
 descuento: '31.33'
 average: '48.0'

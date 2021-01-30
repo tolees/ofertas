@@ -16,6 +16,7 @@ comparePrice: 1.99 EUR
 prodname: 'Mini Chupa Chups Caramelo con Palo de Sabores Variados - Bolsa de 20 unidades de 6 gr/ud'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X67QXXX/?tag=tolees-21'
 descuento: '29.15'
 average: '1.1500000000000001'

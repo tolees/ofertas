@@ -16,6 +16,7 @@ comparePrice: 15.7 EUR
 prodname: 'Ocobudbxw 10 Piezas SMA-JB3 Conector RF RP-SMA Macho Jack Centro de Soldadura Semi-rígido para RG402'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CRTRP8G/?tag=tolees-21'
 descuento: '50.00'
 average: '7.85'

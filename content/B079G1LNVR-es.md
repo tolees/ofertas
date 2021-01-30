@@ -16,6 +16,7 @@ comparePrice: 34.9 EUR
 prodname: 'Samsung Hyperknit - Funda para Galaxy S9+  color gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079G1LNVR/?tag=tolees-21'
 descuento: '77.65'
 average: '7.865'

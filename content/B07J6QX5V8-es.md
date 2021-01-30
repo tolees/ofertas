@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Hackett Aston Martin Racing Polo  Blanco  White/Multi 8aj   XXX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J6QX5V8/?tag=tolees-21'
 descuento: '53.46'
 average: '61.53'

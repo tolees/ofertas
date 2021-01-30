@@ -16,6 +16,7 @@ comparePrice: 29.03 EUR
 prodname: 'Dcasa DC-2430192 - Cubos de basura para pañales y recambios  unisex'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WGRCT6W/?tag=tolees-21'
 descuento: '31.28'
 average: '19.95'

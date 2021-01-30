@@ -16,6 +16,7 @@ comparePrice: 7.5 EUR
 prodname: 'SYOSS - Espuma Rizos Flex - Rizos Perfectamente Definidos Sin Encrespamiento - 2uds de 250ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NRF2FS8/?tag=tolees-21'
 descuento: '33.33'
 average: '5.0'

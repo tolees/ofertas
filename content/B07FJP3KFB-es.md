@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Surplex 2 pza Soporte Seguridad de la Cabeza para Bebe en el Coche  Soporte de Cabeza del Cochecito para Bebé Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FJP3KFB/?tag=tolees-21'
 descuento: '45.82'
 average: '7.58'

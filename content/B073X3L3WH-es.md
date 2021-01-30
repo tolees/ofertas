@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'PDP - Pixel Pals DC Comics Superman'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073X3L3WH/?tag=tolees-21'
 descuento: '33.62'
 average: '9.95'

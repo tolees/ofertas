@@ -16,6 +16,7 @@ comparePrice: 8.22 EUR
 prodname: 'IPOTCH Calcomanías de Soplador Protector Pegatinas Adhesivas para Secador de Pelo - A5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L3YH6V3/?tag=tolees-21'
 descuento: '33.33'
 average: '5.48'

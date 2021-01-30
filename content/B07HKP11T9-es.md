@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Under Armour UA W Ripple 2.0  Zapatillas de Running para Mujer  Azul  Blue Heights/White  400   44.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HKP11T9/?tag=tolees-21'
 descuento: '61.82'
 average: '24.82'

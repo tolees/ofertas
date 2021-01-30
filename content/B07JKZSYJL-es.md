@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'NIVEA Pack Hyalurron Cellular Filler Crema Antiedad Día y 2 Ampollas de Ácido Hialurónico - Estuche'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JKZSYJL/?tag=tolees-21'
 descuento: '31.21'
 average: '12.663333333333334'

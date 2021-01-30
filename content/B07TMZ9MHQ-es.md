@@ -16,6 +16,7 @@ comparePrice: 6.41 EUR
 prodname: 'Cocoty-store Pantalones 2019 Hombre Cinturón de cintura elástico Pantalones de chándal de algodón largo Jogging Pantalones de carga deportiva de talla grande Pantalones cortos con bolsillos Pantalones'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TMZ9MHQ/?tag=tolees-21'
 descuento: '46.80'
 average: '3.41'

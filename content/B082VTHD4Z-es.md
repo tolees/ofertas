@@ -16,6 +16,7 @@ comparePrice: 3.6 EUR
 prodname: 'Axe Antitranspirante Ice Chill  150ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082VTHD4Z/?tag=tolees-21'
 descuento: '30.56'
 average: '2.5'

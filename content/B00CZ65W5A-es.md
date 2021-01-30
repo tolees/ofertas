@@ -16,6 +16,7 @@ comparePrice: 15.92 EUR
 prodname: 'whiskas Anti-Hairball de 60g para Bolas de Pelo de Uso Diario para Gatos  Pack de 8 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CZ65W5A/?tag=tolees-21'
 descuento: '52.26'
 average: '7.6'

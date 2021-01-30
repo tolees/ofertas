@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Esprit 089ee2k008 Polo  Gris  Medium Grey 035   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S19ML1Y/?tag=tolees-21'
 descuento: '50.02'
 average: '14.99'

@@ -16,6 +16,7 @@ comparePrice: 20.46 EUR
 prodname: 'Trilogía X-Men Original Blu-Ray [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071HV6MZ4/?tag=tolees-21'
 descuento: '25.66'
 average: '13.546666666666667'

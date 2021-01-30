@@ -16,6 +16,7 @@ comparePrice: 76.51 EUR
 prodname: 'G-STAR RAW ARC 3D Sport Bañador  Azul  Worn in Deep Ocean 9136-B183   28 W para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VPQG7ZB/?tag=tolees-21'
 descuento: '37.83'
 average: '47.57'

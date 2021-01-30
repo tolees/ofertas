@@ -16,6 +16,7 @@ comparePrice: 88.95 EUR
 prodname: 'Levi s 502 Regular Taper Jeans  Azul  Crocodile Adapt 0160   31W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K5L4LKG/?tag=tolees-21'
 descuento: '31.48'
 average: '63.745000000000005'

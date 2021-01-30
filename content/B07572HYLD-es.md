@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Real Farm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07572HYLD/?tag=tolees-21'
 descuento: '30.73'
 average: '27.9125'

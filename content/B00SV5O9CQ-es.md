@@ -16,6 +16,7 @@ comparePrice: 299 EUR
 prodname: 'Seiko Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero SPC155P1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SV5O9CQ/?tag=tolees-21'
 descuento: '46.82'
 average: '159'

@@ -16,6 +16,7 @@ comparePrice: 75 EUR
 prodname: 'Kipling - Amiel  Bolsos maletín Mujer  Morado  Dark Plum   27x24.5x14.5 cm  B x H T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVJ8V3L/?tag=tolees-21'
 descuento: '33.35'
 average: '49.99'

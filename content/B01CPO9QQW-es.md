@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Pierre Cardin Reloj Analogico para Mujer de Cuarzo con Correa en Cuero PC901852F02'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CPO9QQW/?tag=tolees-21'
 descuento: '61.18'
 average: '35.25333333333333'

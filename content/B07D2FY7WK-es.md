@@ -16,6 +16,7 @@ comparePrice: 15.9 EUR
 prodname: 'Dim Generous D4D58 Braguita  Rojo  Burdeos 6na     Tamaño del Fabricante:L  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D2FY7WK/?tag=tolees-21'
 descuento: '51.38'
 average: '9.31'

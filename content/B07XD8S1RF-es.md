@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Tableta de Escritura Color LCD 10 Pulgadas  Tablet Escritura Pantalla Colorido Infantil  Tableta Grafica Dibujo Niños Adecuada para el Hogar  Escuela  Oficina  Cuaderno de Notas con Fundas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XD8S1RF/?tag=tolees-21'
 descuento: '50.01'
 average: '17.904'

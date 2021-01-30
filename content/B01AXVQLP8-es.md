@@ -16,6 +16,7 @@ comparePrice: 21.07 EUR
 prodname: 'Butter London Plush Rush Pintalabios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AXVQLP8/?tag=tolees-21'
 descuento: '90.56'
 average: '1.99'

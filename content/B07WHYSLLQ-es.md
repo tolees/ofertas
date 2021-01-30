@@ -16,6 +16,7 @@ comparePrice: 279.0 EUR
 prodname: 'Samsung Galaxy A30s - Smartphone de 6.4" Super AMOLED  4 GB RAM  64 GB ROM  16 MP ultra angular  Dual SIM  versión española  blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WHYSLLQ/?tag=tolees-21'
 descuento: '32.26'
 average: '189.98891304347828'

@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'Tommy Hilfiger Reloj Multiesfera para Hombre de Cuarzo con Correa en Cuero 1791487'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B6C88XZ/?tag=tolees-21'
 descuento: '30.00'
 average: '120.88749999999999'

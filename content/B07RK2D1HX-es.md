@@ -16,6 +16,7 @@ comparePrice: 67.33 EUR
 prodname: 'New Balance Fresh Foam Arishi V3  Zapatillas de Running para Hombre  Rojo  Neo Crimson Cr3   415 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RK2D1HX/?tag=tolees-21'
 descuento: '35.56'
 average: '43.39'

@@ -16,6 +16,7 @@ comparePrice: 39.71 EUR
 prodname: 'P Prettyia Mini Combo De Teclado Y Mouse Inalámbricos Super-Slim 2.4G para Computadora De Escritorio - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088C1N2VF/?tag=tolees-21'
 descuento: '44.45'
 average: '22.06'

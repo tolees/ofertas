@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'PUMA Tarrenz SB  Zapatillas Unisex Adulto  Castlerock Black  40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFXG2D2/?tag=tolees-21'
 descuento: '64.28'
 average: '28.56'

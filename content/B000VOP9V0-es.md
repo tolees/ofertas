@@ -16,6 +16,7 @@ comparePrice: 4.14 EUR
 prodname: 'Charlie Bleu  Agua Fresca para Mujer con vaporizador  100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000VOP9V0/?tag=tolees-21'
 descuento: '99.76'
 average: '3.245'

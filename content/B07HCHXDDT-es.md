@@ -16,6 +16,7 @@ comparePrice: 349.0 EUR
 prodname: 'Citizen Reloj Analógico para Mujer de Cuarzo con Correa en Titanio EM0726-89Y'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HCHXDDT/?tag=tolees-21'
 descuento: '31.69'
 average: '228.58'

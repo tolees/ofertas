@@ -16,6 +16,7 @@ comparePrice: 159 EUR
 prodname: 'ASUS Lyra - Sistema WiFi Mesh Individual Tri-Banda AC2200 Gigabit  App de gestión  Smart Connect  única Red  compatible con Ai Mesh wifi '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076CWNCDC/?tag=tolees-21'
 descuento: '36.69'
 average: '100.66'

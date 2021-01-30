@@ -16,6 +16,7 @@ comparePrice: 9.0 EUR
 prodname: 'Floïd Floïd After Shave Loción 150 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NE3T4XE/?tag=tolees-21'
 descuento: '41.67'
 average: '5.25'

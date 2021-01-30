@@ -16,6 +16,7 @@ comparePrice: 29.03 EUR
 prodname: 'Imanes Neodimio  FEYG imanes pequeños potentes Imanes Nevera  neodimio con muy alta adhesiva fuerza 8X3mm   60pc '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075FQKNR4/?tag=tolees-21'
 descuento: '75.92'
 average: '6.6899999999999995'

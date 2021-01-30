@@ -16,6 +16,7 @@ comparePrice: 85.99 EUR
 prodname: 'COMVIP Cojín Trenzado de Felpa con Nudos para Cuna  decoración del hogar  Tela  Pink/White/Blue  3 m'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YJBH8JB/?tag=tolees-21'
 descuento: '38.03'
 average: '53.29'

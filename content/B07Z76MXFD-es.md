@@ -16,6 +16,7 @@ comparePrice: 46.45 EUR
 prodname: 'Pantalla de Proyector de 100 Pulgadas  Portátil para Interiores y Exteriores  Pantalla de Proyección Plegable 16: 9 en Relación con School Home Cinema 4K'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z76MXFD/?tag=tolees-21'
 descuento: '63.66'
 average: '17.435'

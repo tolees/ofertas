@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Sylvie Flirty Swimwear Bendi  Traje de Baño de Una Pieza para Mujer  Azul  Mare Blue 4977   44  Talla del fabricante: 42B '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077YDGFP5/?tag=tolees-21'
 descuento: '77.07'
 average: '14.74'

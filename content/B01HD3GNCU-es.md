@@ -16,6 +16,7 @@ comparePrice: 9.56 EUR
 prodname: 'Pósteres Muestra Lata Arte de Cartel Café Placa Vintage Pub Barra Metálica Decoración Motocicleta 34'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HD3GNCU/?tag=tolees-21'
 descuento: '44.46'
 average: '5.31'

@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'LifeProof Fre - Funda estanca y Anti caídas para Apple iPhone 6/6s Plus  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00Z7RPGSC/?tag=tolees-21'
 descuento: '73.35'
 average: '23.98'

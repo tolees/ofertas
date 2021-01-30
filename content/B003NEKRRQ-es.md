@@ -16,6 +16,7 @@ comparePrice: 13.2 EUR
 prodname: 'Crema Pedicura para grietas  callos y asperezas 250 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003NEKRRQ/?tag=tolees-21'
 descuento: '54.55'
 average: '7.674999999999999'

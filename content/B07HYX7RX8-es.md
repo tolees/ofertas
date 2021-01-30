@@ -16,6 +16,7 @@ comparePrice: 26.51 EUR
 prodname: 'Case Logic Reflect MacBook Sleeve 13    Funda para MacBook Pro con Pantalla de 13"  Acolchado Memory Foam  Interior de Felpa   Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HYX7RX8/?tag=tolees-21'
 descuento: '37.65'
 average: '16.53'

@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'GARVIRP para Mujer Pantalones Cortos de Malla Panel Elástico Sporting Gym Transpirable Verano Pantalones Calientes Deep Black L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R1HK3GN/?tag=tolees-21'
 descuento: '27.79'
 average: '12.99'

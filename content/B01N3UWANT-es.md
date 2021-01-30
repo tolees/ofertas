@@ -16,6 +16,7 @@ comparePrice: 19.0 EUR
 prodname: 'BabyVip - Body Polo Cuello Alto para niño y niña  Estilo básico  100% algodón  algodón cálido  Ideal para el Invierno - Rojo - 24-36 Meses'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N3UWANT/?tag=tolees-21'
 descuento: '30.00'
 average: '13.3'

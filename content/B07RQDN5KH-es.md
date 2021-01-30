@@ -16,6 +16,7 @@ comparePrice: 3.76 EUR
 prodname: 'Jiali Trigo plegable taza de viaje plegable  creativo  portátil  pajita de trigo expansible  juego de vasos de bebida sin BPA para casa  oficina  viajes azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RQDN5KH/?tag=tolees-21'
 descuento: '30.05'
 average: '2.63'

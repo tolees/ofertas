@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Naruto Ultimate Ninja Storm 3 Full Burst  Code In a Box '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YBN2RT9/?tag=tolees-21'
 descuento: '29.30'
 average: '14.84'

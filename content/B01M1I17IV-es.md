@@ -16,6 +16,7 @@ comparePrice: 1299.0 EUR
 prodname: 'Sigma F1 4 DG AF HSM Art - Objetivo para cámara para réflex  85 mm  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M1I17IV/?tag=tolees-21'
 descuento: '43.80'
 average: '730.0'

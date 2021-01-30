@@ -16,6 +16,7 @@ comparePrice: 44.9 EUR
 prodname: 'Primigi Pbb 43604  Botas para Bebés  Senape 4360444  18 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NGWQPFX/?tag=tolees-21'
 descuento: '69.24'
 average: '13.81'

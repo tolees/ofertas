@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'hummel 022030 Socks  Unisex Adulto  Blanco  10'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002N5UL9A/?tag=tolees-21'
 descuento: '28.34'
 average: '7.13'

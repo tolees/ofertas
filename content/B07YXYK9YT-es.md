@@ -16,6 +16,7 @@ comparePrice: 10.88 EUR
 prodname: 'GEARGO Corrector de Postura  Ajustar el Peso de la Espalda para Hombre Mujer  Mejorar Postura Espalda y Hombros Posture Corrector Incluye 2X Soportes para Hombreras'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YXYK9YT/?tag=tolees-21'
 descuento: '44.21'
 average: '16.475'

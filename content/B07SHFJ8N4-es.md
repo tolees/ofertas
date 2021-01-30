@@ -16,6 +16,7 @@ comparePrice: 170.0 EUR
 prodname: 'Asics Gel-Quantum 360 5  Running Shoe Mens  Gris Clair Gris Clair  46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SHFJ8N4/?tag=tolees-21'
 descuento: '57.51'
 average: '72.58'

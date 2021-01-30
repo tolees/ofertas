@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Wartoon 24Pack que esculpe las herramientas con la bolsa reutilizable para el arte de cerámica del arte de cerámica de la arcilla de polímero'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HHVQSMC/?tag=tolees-21'
 descuento: '29.38'
 average: '13.41'

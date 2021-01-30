@@ -16,6 +16,7 @@ comparePrice: 25.78 EUR
 prodname: 'Queta Juego 12 Pinceles para Pintar Artistas Pinceles Acrílicos Sujetan una punta fina y una pluma para óleo  acuarela  acrílico  uñas y modelos  pinceles de detalle '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086QRLW8G/?tag=tolees-21'
 descuento: '50.00'
 average: '12.89'

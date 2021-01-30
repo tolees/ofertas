@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Test de embarazo 3 Pruebas - Prueba de Embarazo Resultado Rápido Formato Económico 20 mIU/ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QDK53DF/?tag=tolees-21'
 descuento: '53.64'
 average: '8.34'

@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Munchkin Set De Alimentación Para Niños Grandes Food Adventure Splash  Morado 1 unidad 540 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X41VNDL/?tag=tolees-21'
 descuento: '66.28'
 average: '8.09'

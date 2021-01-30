@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Luz nocturna con altavoz Bluetooth  lámpara de cabecera con sensor táctil inteligente   regulable 3 niveles de luz blanca cálida y cambio de color de RGB  compatible con Micro SD '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W3K4W6S/?tag=tolees-21'
 descuento: '48.91'
 average: '22.99'

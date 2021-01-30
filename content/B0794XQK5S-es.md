@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Echo Plus  2.ª generación  - Sonido de alta calidad y controlador de Hogar digital integrado  tela de color antracita'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0794XQK5S/?tag=tolees-21'
 descuento: '50.00'
 average: '101.03690476190476'

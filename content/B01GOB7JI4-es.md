@@ -16,6 +16,7 @@ comparePrice: 33.99 EUR
 prodname: 'Aigostar Steel Blue 31HGB-Plancha de vapor de suela de acero inoxidable  2200W  control de vapor variable  sistema antigoteo y función de autolimpieza. Depósito de 370ml. Diseño Exclusivo.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GOB7JI4/?tag=tolees-21'
 descuento: '41.19'
 average: '19.99'

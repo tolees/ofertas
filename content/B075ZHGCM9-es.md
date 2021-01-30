@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Fujifilm Instax Mini 9 - Cámara instantánea  Cámara con 1x10 películas  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075ZHGCM9/?tag=tolees-21'
 descuento: '27.78'
 average: '65.34714285714286'

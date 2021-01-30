@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'KUNGYO Letras Tipo Balón Doradas Happy Birthday+Número 40 Mylar Foil Globo+24 Piezas Negro Oro Blanco Globo de Látex 40 Años de Antigüedad Fiesta de Cumpleaños Decoraciones'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073VGLJP4/?tag=tolees-21'
 descuento: '56.69'
 average: '12.99'

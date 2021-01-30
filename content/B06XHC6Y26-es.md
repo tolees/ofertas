@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Helly Hansen HH LIFA T-Shirt SS Baselayer  Hombre  Negro  Negro   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XHC6Y26/?tag=tolees-21'
 descuento: '60.29'
 average: '14.516666666666666'

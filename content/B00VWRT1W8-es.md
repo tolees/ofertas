@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'Ecus Kids  colchón cuna para bebé anti-plagiocefalia - Pigü  120x60x12'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VWRT1W8/?tag=tolees-21'
 descuento: '30.43'
 average: '110.62'

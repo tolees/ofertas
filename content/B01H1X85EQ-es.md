@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Panama Jack Glasgow Igloo  Botas Clasicas para Hombre  Negro  Negro C3   47 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01H1X85EQ/?tag=tolees-21'
 descuento: '39.72'
 average: '119.95'

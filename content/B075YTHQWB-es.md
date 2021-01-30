@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: '4UMOR Báscula Digital para Maleta Viaje de Mano de Ergonómica LCD para Equipaje 50KG de Precisión con Función de Tara'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075YTHQWB/?tag=tolees-21'
 descuento: '37.52'
 average: '9.99'

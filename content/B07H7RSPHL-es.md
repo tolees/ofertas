@@ -16,6 +16,7 @@ comparePrice: 7.49 EUR
 prodname: 'Sereney Mujer Sexy Criada Disfraz Lace Lencería Hot Halter Picardias Camisón Transparente Cuello V Bata Maid Costume Cosplay Medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H7RSPHL/?tag=tolees-21'
 descuento: '33.38'
 average: '7.656666666666667'

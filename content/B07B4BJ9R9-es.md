@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Bourjois Rouge Edition Velvet Barra de Labios Líquida Tono 31 Floribeige!  - 28 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B4BJ9R9/?tag=tolees-21'
 descuento: '64.72'
 average: '3.51'

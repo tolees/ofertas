@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Columbia IVO Trail Breeze  Zapatillas Deportivas para Mujer  Gris  Earl Grey  Juicy 025   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RDM94K6/?tag=tolees-21'
 descuento: '64.22'
 average: '35.78'

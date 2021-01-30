@@ -16,6 +16,7 @@ comparePrice: 43.99 EUR
 prodname: 'Filtro de ducha - Filtro de cabezal de ducha de 16 etapas Filtro de agua universal Eliminar cloro y metales pesados - Purificador de agua reemplazable para cualquier cabezal de ducha  M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0833WRFB9/?tag=tolees-21'
 descuento: '52.28'
 average: '20.99'

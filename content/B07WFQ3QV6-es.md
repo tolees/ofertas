@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'GC Pro Cargador para Portátil Lenovo IdeaPad 100 100-15IBD 100-15IBY 100s-14IBR 110 110-15IBR Yoga 510 520 Ordenador Adaptador de Corriente  20V 2.25A 45W '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WFQ3QV6/?tag=tolees-21'
 descuento: '50.06'
 average: '19.95'

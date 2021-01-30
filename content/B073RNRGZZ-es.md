@@ -16,6 +16,7 @@ comparePrice: 22.19 EUR
 prodname: 'Helly Hansen Logo Visera  Unisex Adulto  Azul  Navy   Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073RNRGZZ/?tag=tolees-21'
 descuento: '51.78'
 average: '10.7'

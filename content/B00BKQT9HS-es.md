@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Daniel Wellington - Reloj analógico para mujer de nailon multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BKQT9HS/?tag=tolees-21'
 descuento: '48.68'
 average: '81.41333333333333'

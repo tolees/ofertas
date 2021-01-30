@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'SALOMON Comet Warm Tight W Mallas para Running  Mezcla de sintéticos  Mujer  Gris  Ebony   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KRXQKQD/?tag=tolees-21'
 descuento: '72.57'
 average: '16.46'

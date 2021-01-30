@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'G-STAR RAW Duko Belt Cinturón  Marrón  Dk Cognac/antic Silver 8128   80 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M8PY8TE/?tag=tolees-21'
 descuento: '75.97'
 average: '8.685'

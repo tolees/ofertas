@@ -16,6 +16,7 @@ comparePrice: 16.95 EUR
 prodname: 'LaCabine Ampollas Contorno De Ojos 10 X 2 Ml - 1 Unidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D1F7WBG/?tag=tolees-21'
 descuento: '41.30'
 average: '9.95'

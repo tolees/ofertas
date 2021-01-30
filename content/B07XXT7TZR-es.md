@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'FOGAWA Banda de Cuero Plana Banda de Piel Correa 20mmx2mm Leather Cord Cintas de Cuero Marrón Tira de Piel para Manualidades Bricolaje Artesanía Hogar Costura Decoración 1metros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XXT7TZR/?tag=tolees-21'
 descuento: '31.27'
 average: '10.99'

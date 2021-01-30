@@ -16,6 +16,7 @@ comparePrice: 27.56 EUR
 prodname: 'PenDrives 8GB 5 Piezas Memorias USB - Portátil Pen Drive 8 GB Práctico 5 Unidades Multicolor Unidad Flash USB 2.0 - FEBNISCTE Nuevo Giratoria Llave USB Almacenamiento para Música Fotos Vídeo Películas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01D1FVL8A/?tag=tolees-21'
 descuento: '25.40'
 average: '20.56'

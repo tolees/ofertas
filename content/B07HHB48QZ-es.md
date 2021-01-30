@@ -16,6 +16,7 @@ comparePrice: 18.27 EUR
 prodname: 'Cúrcuma 6000 mg  Extracto al 95% con Pimienta Negra | 120 cápsulas vegetales | Para mejorar la circulación sanguínea  la salud cardiovascular  combatir la inflamación y el dolor de las articulaciones.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HHB48QZ/?tag=tolees-21'
 descuento: '26.55'
 average: '13.553333333333335'

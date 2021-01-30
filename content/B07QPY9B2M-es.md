@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: '200 palos luminosos  equipo para festivales  luces festivas con bastoncitos luminosos incl.200 conector 2D  5 conectores circulares  mezcla de 6 colores  427piezas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QPY9B2M/?tag=tolees-21'
 descuento: '50.01'
 average: '17.99'

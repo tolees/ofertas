@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'Triumph Amourette Spotlight WHP Sujetador  Blanco  100A  Talla fabricante: 85A  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EE79NGW/?tag=tolees-21'
 descuento: '30.03'
 average: '31.45'

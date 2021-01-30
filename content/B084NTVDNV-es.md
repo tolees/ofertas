@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Eléctrico Lima de uñas del bebé Lima de uñas Set de Manicura y Pedicura para dedos de los pies y las uñas kit de Cortaúñas 6 intercambiables para niños recién nacidos y adultos cuidado seguro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084NTVDNV/?tag=tolees-21'
 descuento: '35.80'
 average: '13.159999999999998'

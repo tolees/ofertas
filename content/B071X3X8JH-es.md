@@ -16,6 +16,7 @@ comparePrice: 70 EUR
 prodname: 'find. Gabardina Larga Oversize para Mujer    Beige  Stone   44  Talla del Fabricante: X-Large '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071X3X8JH/?tag=tolees-21'
 descuento: '77.07'
 average: '16.05'

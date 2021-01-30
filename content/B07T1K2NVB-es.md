@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'San Ignacio Q2956 Cuchillo multiusos 12.5cm acer inox TOLEDO  Inoxidable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T1K2NVB/?tag=tolees-21'
 descuento: '46.19'
 average: '6.99'

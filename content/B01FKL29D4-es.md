@@ -16,6 +16,7 @@ comparePrice: 8.95 EUR
 prodname: 'Revlon Ultra HD Pintalabios Matte  #650 Spark '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FKL29D4/?tag=tolees-21'
 descuento: '51.62'
 average: '4.035'

@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Sonoka Lector Tarjetas de Memoria - Auelek 4 en 1 Adaptador Tarjetas USB 2.0 / Lightning/Micro USB/Tipo C Conector  Lector Tarjetas Micro SD y Adaptador OTG para iPhone  iPad  MacBook y Phone Andriod'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CYF94N8/?tag=tolees-21'
 descuento: '31.60'
 average: '12.99'

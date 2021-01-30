@@ -16,6 +16,7 @@ comparePrice: 219.95 EUR
 prodname: 'Cybex Gold - Silla de coche Solution S-Fix  para coches con y sin Isofix  Grupo 2/3  15-36 kg   Desde los 3 hasta los 12 años aprox.  Azul  Indigo Blue '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GL2SR5K/?tag=tolees-21'
 descuento: '34.14'
 average: '144.195'

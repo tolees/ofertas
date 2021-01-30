@@ -16,6 +16,7 @@ comparePrice: 29.76 EUR
 prodname: 'PUMA Vista Lux  Zapatillas Unisex Adulto  Galaxy Blue-High Rise White  46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFYZZ7J/?tag=tolees-21'
 descuento: '34.21'
 average: '19.58'

@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Tommy Hilfiger Lightweight Signature Colour-Blocked Trn  Zapatillas Deportivos para Hombre  Blanco  White Ybs   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V8VL7VV/?tag=tolees-21'
 descuento: '64.82'
 average: '28.03'

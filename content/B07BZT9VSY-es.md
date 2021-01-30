@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Triumph Infinite Sensation W01 Sujetador con Aros  Negro  Black 0004   100C  Talla del Fabricante: 85  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BZT9VSY/?tag=tolees-21'
 descuento: '30.04'
 average: '27.95'

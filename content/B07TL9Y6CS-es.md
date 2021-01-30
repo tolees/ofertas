@@ -16,6 +16,7 @@ comparePrice: 1.02 EUR
 prodname: 'Negro Cepillo y Recogedor para Ventana de Seguimiento Teclado Mini 2 en 1 Multifuncional Desmontable Escoba y Recogedor para Carril de la Puerta Esquina Teclado por SamGreatWorld'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TL9Y6CS/?tag=tolees-21'
 descuento: '49.02'
 average: '0.8766666666666668'

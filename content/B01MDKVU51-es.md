@@ -16,6 +16,7 @@ comparePrice: 61 EUR
 prodname: 'SSLR Pantalones para Hombre Slim Fit Largos Casuales Negocios a Lunares  W31  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MDKVU51/?tag=tolees-21'
 descuento: '64.10'
 average: '21.9'

@@ -16,6 +16,7 @@ comparePrice: 32 EUR
 prodname: 'Kappa Casarano - Pantalones de Deporte para Hombre  Color Negro  Talla YS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OHFXYFW/?tag=tolees-21'
 descuento: '56.28'
 average: '13.99'

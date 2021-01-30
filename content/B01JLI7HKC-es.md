@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Reloj para hombre Tommy Hilfiger 1791308.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JLI7HKC/?tag=tolees-21'
 descuento: '32.19'
 average: '134.95'

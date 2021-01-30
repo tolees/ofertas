@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'Hanmir Adaptador de Red LAN Ethernet RJ45  USB 2.0 10 / 100Mbps  Tarjeta de Red LAN Ethernet Compatible con Mac OS y el Sistema operativo Windows - Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TNHCX9J/?tag=tolees-21'
 descuento: '65.54'
 average: '9.99'

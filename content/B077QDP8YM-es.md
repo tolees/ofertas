@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'New Balance 500 Core  Zapatillas para Hombre  Negro Black Silver Black Silver  45.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077QDP8YM/?tag=tolees-21'
 descuento: '39.40'
 average: '40.86666666666667'

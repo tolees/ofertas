@@ -16,6 +16,7 @@ comparePrice: 48.81 EUR
 prodname: 'Nike Wmns Air Heights  Zapatillas de Running para Asfalto para Mujer  Negro  Black/Black 001   38.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M64ST5V/?tag=tolees-21'
 descuento: '35.01'
 average: '31.72'

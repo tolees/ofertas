@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'HOTLIKE 3x Bolsa de Pañales  Reutilizable Wetbag  Bolsa con Cremallera Impermeable para Mamá de Bebé  Ecológica Lavable Transpirable Portátil Organizador de Maquillaje de Colgar  Viaje  Playa  color2 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VZ7F5K8/?tag=tolees-21'
 descuento: '31.83'
 average: '14.99'

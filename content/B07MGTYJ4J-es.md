@@ -16,6 +16,7 @@ comparePrice: 13.86 EUR
 prodname: 'Star Wars Galaxy Oficial Saco Plano Grande 350x400mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MGTYJ4J/?tag=tolees-21'
 descuento: '43.80'
 average: '7.79'

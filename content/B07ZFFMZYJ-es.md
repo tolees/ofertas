@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'SONARIN Saco Silla de Paseo universal  Impermeable y a prueba de viento Protección antideslizante Cosy Toes  Forro Polar térmico Deluxe para Sillas de paseo Cochecito Gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZFFMZYJ/?tag=tolees-21'
 descuento: '60.01'
 average: '31.99'

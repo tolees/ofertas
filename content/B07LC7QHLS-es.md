@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Campark X20 - Cámara de acción 4K de 20 MP con Pantalla táctil EIS con ángulo de visión Ajustable de 30 m  Impermeable  con Control Remoto  baterías Dobles de 1050 mAh y Kit de Accesorios  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LC7QHLS/?tag=tolees-21'
 descuento: '30.00'
 average: '71.49'

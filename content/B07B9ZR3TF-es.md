@@ -16,6 +16,7 @@ comparePrice: 229.0 EUR
 prodname: 'Hugo BOSS Reloj Multiesfera para Mujer de Cuarzo con Correa en Cuero 1502419'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B9ZR3TF/?tag=tolees-21'
 descuento: '29.97'
 average: '160.36'

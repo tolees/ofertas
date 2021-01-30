@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Pop! Figura de Vinilo: Música: The Police - Sting'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PBB2Z2V/?tag=tolees-21'
 descuento: '33.11'
 average: '9.02'

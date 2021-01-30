@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'ICZI Adaptador USB Tipo C a HDMI de Aluminio  Hub USB C HDMI 4K Dex Station + USB 3.0 + USB PD Carga Rapida con Conectores Niquelados para Dispositivos USB-C con DP ALT Modo MHL. Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074QN82WH/?tag=tolees-21'
 descuento: '26.10'
 average: '17.43'

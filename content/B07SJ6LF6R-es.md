@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'Little Nightmares - Complete Edition  Code In A Box '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SJ6LF6R/?tag=tolees-21'
 descuento: '42.24'
 average: '17.9'

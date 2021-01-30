@@ -16,6 +16,7 @@ comparePrice: 7.44 EUR
 prodname: 'Versele-laga A-16540 Prestige Premium Loro Peri Australiano - 1 kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001IM7Y9Y/?tag=tolees-21'
 descuento: '56.99'
 average: '3.2'

@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'ARCTIC F9 PWM PST – 99 mm Ventilador de Caja para CPU con PWM Sharing Technology  PST   Motor Trifásico Muy Silencioso  Computadora  150-1800 RPM – Gris/Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002QVLBPO/?tag=tolees-21'
 descuento: '25.53'
 average: '5.95'

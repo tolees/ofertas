@@ -16,6 +16,7 @@ comparePrice: 139.95 EUR
 prodname: 'Bestron Refrigerador/Purificador móvil con Mando a Distancia  Uso continuo hasta 20h  70 W  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079HSGZVW/?tag=tolees-21'
 descuento: '75.31'
 average: '38.415'

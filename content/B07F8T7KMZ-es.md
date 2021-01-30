@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'VNOX de Acero Inoxidable y Chapado en Oro 3A Cubic Zirconia Que Empareja el Anillo de La Pareja de Compromiso de Boda para Hombres Tamaño 22'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F8T7KMZ/?tag=tolees-21'
 descuento: '52.51'
 average: '18.99'

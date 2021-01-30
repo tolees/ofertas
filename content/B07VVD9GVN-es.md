@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'PIKOLINOS Sandalia Plana de Piel MARAZUL W3F'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VVD9GVN/?tag=tolees-21'
 descuento: '68.98'
 average: '27.9'

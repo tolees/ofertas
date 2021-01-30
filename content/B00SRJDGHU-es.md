@@ -16,6 +16,7 @@ comparePrice: 101.3 EUR
 prodname: 'Asics Mexico 66  Zapatillas de Deporte Unisex Adulto  Blanco  White/Dark Blue 0152   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SRJDGHU/?tag=tolees-21'
 descuento: '33.27'
 average: '67.6'

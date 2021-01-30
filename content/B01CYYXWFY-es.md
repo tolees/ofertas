@@ -16,6 +16,7 @@ comparePrice: 4.6 EUR
 prodname: 'Collistar Sensitive Skin Gel de Afeitar - 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CYYXWFY/?tag=tolees-21'
 descuento: '45.65'
 average: '2.5'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Nacon - Controlador Gaming  Color Gris  Windows XP  Vista  7  8  10 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073VDWFMQ/?tag=tolees-21'
 descuento: '33.48'
 average: '19.95'

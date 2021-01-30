@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Under Armour Armour Mid Crossback Heather Sujetador Deportivo  Mujer  Gris  LG'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071VMGBPP/?tag=tolees-21'
 descuento: '68.86'
 average: '10.9'

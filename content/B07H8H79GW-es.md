@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Pioneer DEH-S110UBG - Sintonizador RDS con CD  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H8H79GW/?tag=tolees-21'
 descuento: '33.99'
 average: '58.75'

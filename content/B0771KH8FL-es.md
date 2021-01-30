@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Eastpak Tranverz S Maleta  51 cm  42 L  Negro  Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0771KH8FL/?tag=tolees-21'
 descuento: '46.15'
 average: '71.09'

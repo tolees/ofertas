@@ -16,6 +16,7 @@ comparePrice: 315.0 EUR
 prodname: 'OFICINAS MONTIEL Mesa Escritorio Oficina Blanca de Madera Grande Resistente para Teletrabajar Estudiar Biblioteca  Despachos  Ordenador de Sobremesa  Gaming  Youtubers  Salas de Estudio  Blanco  140 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VN63SBZ/?tag=tolees-21'
 descuento: '26.98'
 average: '230.0'

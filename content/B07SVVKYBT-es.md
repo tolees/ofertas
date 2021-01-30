@@ -16,6 +16,7 @@ comparePrice: 17.31 EUR
 prodname: 'BNC a HDMI Convertidor Monitor a HDMI HD 1080P / 720P Entrada sin conversor de conversión a una Caja de interruptores Digital para Adaptador de PC - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SVVKYBT/?tag=tolees-21'
 descuento: '32.00'
 average: '11.77'

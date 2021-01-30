@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Gytech Salvamanteles Plegables Ajustables  Almohadillas Antideslizantes Resistentes al Calor para Platos Calientes o ollas de Mesa de Comedor  Forma de Corazon Beige '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HV8HDRL/?tag=tolees-21'
 descuento: '47.73'
 average: '8.88'

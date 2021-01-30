@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Virklyee Colador de cocina plegable  2 piezas de filtro de silicona para verduras o frutas Incluye 2 tamaños 8 y 9 5 pulgadas de cesta de filtro  rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MURX53U/?tag=tolees-21'
 descuento: '52.41'
 average: '9.323333333333334'

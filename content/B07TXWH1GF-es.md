@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Boys  ELITE FLEX HYDROX Trainers  Brown  Chocolate Synthetic/Black & Brown Trim Chocolate   4  37 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TXWH1GF/?tag=tolees-21'
 descuento: '42.86'
 average: '37.11'

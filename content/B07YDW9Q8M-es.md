@@ -16,6 +16,7 @@ comparePrice: 635.0 EUR
 prodname: 'Pikolin Veza  colchón de muelles ensacados y viscoelástica premium  90x190  firmeza media-alta  colchones confort y calidad máxima'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YDW9Q8M/?tag=tolees-21'
 descuento: '36.15'
 average: '405.44'

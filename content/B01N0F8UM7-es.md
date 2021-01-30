@@ -16,6 +16,7 @@ comparePrice: 170.0 EUR
 prodname: 'MONTEMAGGI - Mueble de planchado con tabla y 3 cestas de mimbre. De 54 x 36 x 86 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N0F8UM7/?tag=tolees-21'
 descuento: '32.35'
 average: '115.0'

@@ -16,6 +16,7 @@ comparePrice: 1149.0 EUR
 prodname: 'Samsung Galaxy S10 - Smartphone de 6.1”  Dual SIM  512GB  Blanco  Prism White '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MTY3FFX/?tag=tolees-21'
 descuento: '36.31'
 average: '734.7409090909091'

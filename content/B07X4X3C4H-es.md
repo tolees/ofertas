@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'GSOTTA Calcetines deportivos 6 paquetes  calcetines para mujeres y hombres  calcetines de algodón transpirables  unisex  medias impermeables con una pretina suave  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X4X3C4H/?tag=tolees-21'
 descuento: '50.08'
 average: '14.95'

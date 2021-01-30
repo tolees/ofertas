@@ -16,6 +16,7 @@ comparePrice: 28.9 EUR
 prodname: 'Salter Báscula de Cocina Digital de Acero Inoxidable  Capacidad 5kg  Función de Añadir y Pesar  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00140VYBE/?tag=tolees-21'
 descuento: '30.83'
 average: '21.529999999999998'

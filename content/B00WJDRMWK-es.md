@@ -16,6 +16,7 @@ comparePrice: 219.0 EUR
 prodname: 'Taurus VB 02 Ventilador climatizador  nebulizador  90 W  0 Decibeles  Acero'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00WJDRMWK/?tag=tolees-21'
 descuento: '41.10'
 average: '129.0'

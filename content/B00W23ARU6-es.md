@@ -16,6 +16,7 @@ comparePrice: 9.14 EUR
 prodname: 'Pack 2 Kajal delineador de ojos arabe / curativo/natural/sin plomo/autentico...kohl'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00W23ARU6/?tag=tolees-21'
 descuento: '35.67'
 average: '5.88'

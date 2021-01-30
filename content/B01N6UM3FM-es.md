@@ -16,6 +16,7 @@ comparePrice: 24.8 EUR
 prodname: 'Fellowes Foam Fusion Plus Touch - Alfombrilla con reposamuñecas ergonómico para ratón  gel y espuma  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N6UM3FM/?tag=tolees-21'
 descuento: '26.41'
 average: '18.5'

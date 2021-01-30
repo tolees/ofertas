@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'DC Shoes The Locker 23l-Mochila Mediana para Hombre  Black  1SZ'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DHTKSRY/?tag=tolees-21'
 descuento: '33.39'
 average: '19.95'

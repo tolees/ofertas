@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Vans Y Atwood - Zapatillas para niños  Color Army/Negro  Talla 36.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KJJZA2K/?tag=tolees-21'
 descuento: '55.56'
 average: '20.466666666666665'

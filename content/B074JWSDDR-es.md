@@ -16,6 +16,7 @@ comparePrice: 280.0 EUR
 prodname: 'Bulova Reloj de Pulsera 98A197'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074JWSDDR/?tag=tolees-21'
 descuento: '54.21'
 average: '127.0775'

@@ -16,6 +16,7 @@ comparePrice: 1.9 EUR
 prodname: 'Rapesco Accesorios - Sacapuntas tradicional metalico de 2 agujeros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006ZGE2ZW/?tag=tolees-21'
 descuento: '27.89'
 average: '1.37'

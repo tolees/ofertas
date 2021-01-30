@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'PUSHIDE 2PCS Alta Calidad Almohadillas para cinturón de seguridad Auto de seguridad Cinturón Correa para el hombro Protector Pads para niños y adultos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075FBVJP8/?tag=tolees-21'
 descuento: '45.10'
 average: '10.98'

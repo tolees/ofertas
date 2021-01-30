@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Un Costa Lace  Zapatillas  Marrón  British Tan Lea British Tan Lea   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TMRQ6WL/?tag=tolees-21'
 descuento: '58.05'
 average: '41.93'

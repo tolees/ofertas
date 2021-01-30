@@ -16,6 +16,7 @@ comparePrice: 35.96 EUR
 prodname: 'ikeepi Corrector de Postura para Hombres/Mujeres M-2 XL Correa de Soporte Lumbar Ajustable  Mejora la Postura y Proporciona Soporte Lumbar | Alivio del Dolor de Espalda Inferior y Superior soport'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QBNRT6V/?tag=tolees-21'
 descuento: '36.07'
 average: '22.99'

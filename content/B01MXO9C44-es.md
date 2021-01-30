@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'PUMA Basket Heart Patent WN S  Zapatillas para Mujer  Negro Black Black  37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MXO9C44/?tag=tolees-21'
 descuento: '63.05'
 average: '34.461999999999996'

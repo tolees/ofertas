@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Superdry Keystone Crew suéter  Azul  Tuscan Blue Twist 1sl   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q5YQJH3/?tag=tolees-21'
 descuento: '50.01'
 average: '34.99'

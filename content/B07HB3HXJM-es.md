@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Funko- Pop Vinyl: The Lion King-Luau Timon Disney Figura  Multicolor  889698364133 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HB3HXJM/?tag=tolees-21'
 descuento: '27.96'
 average: '9.64'

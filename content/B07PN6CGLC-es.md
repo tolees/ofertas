@@ -16,6 +16,7 @@ comparePrice: 11.94 EUR
 prodname: 'Bourjois  Velvet the Pencil  Barra de labios Tono 06  3g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PN6CGLC/?tag=tolees-21'
 descuento: '67.25'
 average: '3.8'

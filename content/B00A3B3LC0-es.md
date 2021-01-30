@@ -16,6 +16,7 @@ comparePrice: 11.95 EUR
 prodname: 'Essie Esmalte de Uñas  45 Sole Mate'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00A3B3LC0/?tag=tolees-21'
 descuento: '59.92'
 average: '4.79'

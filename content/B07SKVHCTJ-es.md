@@ -16,6 +16,7 @@ comparePrice: 25.06 EUR
 prodname: 'TINYAT Riñonera Mujer Cinturón Riñonera Sling - Bolsillo Súper Ligero para Correr Travel Seaside Bum Bag T2011.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SKVHCTJ/?tag=tolees-21'
 descuento: '62.37'
 average: '9.43'

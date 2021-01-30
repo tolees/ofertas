@@ -16,6 +16,7 @@ comparePrice: 16.69 EUR
 prodname: 'Arcos 610600 - Afilador con mango'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00I9XTLSC/?tag=tolees-21'
 descuento: '49.07'
 average: '9.317499999999999'

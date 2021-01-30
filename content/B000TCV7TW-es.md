@@ -16,6 +16,7 @@ comparePrice: 31.7 EUR
 prodname: 'Reflex Nutrition Creapure Creatine Monohydrate Standard - 500 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000TCV7TW/?tag=tolees-21'
 descuento: '44.98'
 average: '17.44'

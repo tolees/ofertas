@@ -16,6 +16,7 @@ comparePrice: 799.0 EUR
 prodname: 'Sonos Playbar barra de sonido HiFi - sonido envolvente para cine en casa y transmisión de música   altavoz compatible con AirPlay  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BEHTKWC/?tag=tolees-21'
 descuento: '25.16'
 average: '650.4866666666667'

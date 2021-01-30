@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Moulinex Principio LS160111 - Tostadora de una ranura larga de 25  cm  bandeja recoge-migas con 7 niveles de tueste  modo de descongelación y botón apagado  para gran variedad de pan'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075ZVW9QR/?tag=tolees-21'
 descuento: '26.64'
 average: '22.384'

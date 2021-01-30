@@ -16,6 +16,7 @@ comparePrice: 10.8 EUR
 prodname: 'Madal Bal Gel Aloe Árbol Te - 200 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003VTVRVS/?tag=tolees-21'
 descuento: '30.46'
 average: '7.916666666666667'

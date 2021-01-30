@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'GGMM Base de batería para Dot de 3ª generación y Altavoces Inteligentes  blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X8NMJ2Q/?tag=tolees-21'
 descuento: '32.01'
 average: '32.32333333333334'

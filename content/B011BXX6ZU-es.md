@@ -16,6 +16,7 @@ comparePrice: 250.47 EUR
 prodname: 'Teka 40229085 - Encimera Butano  60 cm  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B011BXX6ZU/?tag=tolees-21'
 descuento: '31.64'
 average: '171.21'

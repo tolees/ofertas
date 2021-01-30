@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Puma Hybrid NX  Zapatillas de Running para Hombre  Azul  Peacoat-High Risk Red White   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DBZWW2G/?tag=tolees-21'
 descuento: '59.98'
 average: '36.0'

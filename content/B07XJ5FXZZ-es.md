@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Luz Solar Exterior QTshine Foco Solar Exterior 118 LED【Versión Ultra-Brillante】con Sensor de Movimiento Lámpara Solar Impermeable Gran Ángulo 270º de Iluminación Luces Solares Jardín 2-Paquete'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XJ5FXZZ/?tag=tolees-21'
 descuento: '33.38'
 average: '21.97'

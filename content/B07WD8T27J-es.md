@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Relaxdays  Marrón  Pasamanos Escalera Redondo para Interior y Exterior Ø 42mm  Aluminio  200 cm  2000 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WD8T27J/?tag=tolees-21'
 descuento: '53.40'
 average: '69.9'

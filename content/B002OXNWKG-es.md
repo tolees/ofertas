@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Converse M5039c  Sneaker Unisex-Adult  Black Monochrome  39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002OXNWKG/?tag=tolees-21'
 descuento: '28.69'
 average: '49.91'

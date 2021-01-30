@@ -16,6 +16,7 @@ comparePrice: 9.84 EUR
 prodname: 'JewelryWe Anillo de Hombre Mujer Anillo de craneo Acero Inoxidable Anillo de Calavera Grande para el Compromiso y la Boda de Plata Talla 7 Americana  ES#30=US#13 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00F9XHWFO/?tag=tolees-21'
 descuento: '59.45'
 average: '3.99'

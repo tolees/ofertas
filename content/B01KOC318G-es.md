@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Beurer HK42 Almohadilla eléctrica térmica  transpirable  tacto extra suave  calentamiento ultrarápido  función apagado automático 90 minutos  lavable  3 potencias  display iluminado  40 x 33 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KOC318G/?tag=tolees-21'
 descuento: '37.37'
 average: '24.99'

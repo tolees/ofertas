@@ -16,6 +16,7 @@ comparePrice: 27.95 EUR
 prodname: 'Jack & Jones JJIRICK JJICON Shorts AMA STS Pantalones Cortos  Azul Marino  S para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085J8GKWN/?tag=tolees-21'
 descuento: '57.50'
 average: '11.88'

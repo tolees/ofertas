@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'IPOTCH 1 Piezas De Pinceles De Pintura De Arte  Aceite Acrílico  Pincel De Artista De Acuarela  Pinceles Negros para Suministros De Pintura De Arte  Herramie - 20mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBWF3RY/?tag=tolees-21'
 descuento: '33.37'
 average: '5.99'

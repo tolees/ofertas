@@ -16,6 +16,7 @@ comparePrice: 12.0 EUR
 prodname: 'Max Power Digital Funda para Xiaomi Mi 9  6.39"  con Soporte - Carcasa híbrida antigolpes Resistente  Xiaomi Mi 9  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VJB88HW/?tag=tolees-21'
 descuento: '39.58'
 average: '7.25'

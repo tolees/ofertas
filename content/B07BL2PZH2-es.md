@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'New Balance Fuel Cell Impulse  Zapatillas de Running para Hombre  Blanco  White/Deep Ozone Blue/Black Wg   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BL2PZH2/?tag=tolees-21'
 descuento: '72.21'
 average: '38.9'

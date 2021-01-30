@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Saucony Freedom ISO 2  Zapatillas de Running para Mujer  Naranja Blanco  39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MCY53XG/?tag=tolees-21'
 descuento: '40.00'
 average: '89.4'

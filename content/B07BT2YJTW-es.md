@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Piz Buin Tan & Protect Protector Solar en Spray  Acelerador del Bronceado  SPF 30  Protección Alta - 150 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BT2YJTW/?tag=tolees-21'
 descuento: '48.74'
 average: '11.125'

@@ -16,6 +16,7 @@ comparePrice: 75 EUR
 prodname: 'Pepe Jeans London Verona W Sequins  Zapatillas Mujer  Rosa  Factory Pink   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0787KRDX1/?tag=tolees-21'
 descuento: '50.00'
 average: '42.875'

@@ -16,6 +16,7 @@ comparePrice: 9.63 EUR
 prodname: 'Bourjois Velvet  Barra de Labios Líquida  Tono 03 Hot pepper  7.7ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00J5MCHUK/?tag=tolees-21'
 descuento: '34.58'
 average: '6.3'

@@ -16,6 +16,7 @@ comparePrice: 21.95 EUR
 prodname: 'Farmacell 302  Negro  M/L  Mini Pantalon Corto masajeador  Moldeador y con Efecto Push-up en los gluteos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0058E9ANQ/?tag=tolees-21'
 descuento: '30.98'
 average: '15.15'

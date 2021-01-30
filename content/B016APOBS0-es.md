@@ -16,6 +16,7 @@ comparePrice: 9.4 EUR
 prodname: 'Twistshake 78012 - Biberón  color Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016APOBS0/?tag=tolees-21'
 descuento: '30.96'
 average: '5.8933333333333335'

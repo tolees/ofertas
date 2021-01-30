@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Smile Pin Up Style - Bolsa reversible para cámara réflex  DSLR   mirrorless  compacta  Multicolor  tamaño S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00U7HUY7K/?tag=tolees-21'
 descuento: '42.66'
 average: '21.903333333333332'

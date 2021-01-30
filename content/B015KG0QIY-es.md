@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'King Cock Dildo Correa - 1 unidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015KG0QIY/?tag=tolees-21'
 descuento: '48.49'
 average: '25.75'

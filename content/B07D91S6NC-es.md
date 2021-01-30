@@ -16,6 +16,7 @@ comparePrice: 14.23 EUR
 prodname: 'KabelDirekt - Adaptador USB C a DisplayPort DP - 0 15 m -  4K/60Hz  USB C 3.1 y Thunderbolt 3  Adecuado para MacBook Pro 2016/2017  MacBook 12“  Chromebook Pixel y Otros Dispositivos '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D91S6NC/?tag=tolees-21'
 descuento: '45.05'
 average: '7.82'

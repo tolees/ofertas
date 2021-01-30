@@ -16,6 +16,7 @@ comparePrice: 5.99 EUR
 prodname: 'StarVie PT17R Protector de Palas de Pádel  Rojo  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B8SWLGN/?tag=tolees-21'
 descuento: '34.06'
 average: '3.95'

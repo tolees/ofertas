@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'auna Radio Gaga AN - Radio por Internet  Digital  WLAN  Sintonizador Dab/Dab+/FM  RDS  Entrada Auxiliar  Salida de línea  Puerto USB  Despertador  Ecualizador  Altavoz Banda Ancha  Arce'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OCOYWGS/?tag=tolees-21'
 descuento: '37.50'
 average: '99.99'

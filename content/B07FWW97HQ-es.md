@@ -16,6 +16,7 @@ comparePrice: 8.98 EUR
 prodname: 'Enchufe A Prueba de Polvo/Antipolvo Para Macbook Pro/Air/Retina de Cuaderno - Claro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FWW97HQ/?tag=tolees-21'
 descuento: '44.43'
 average: '4.99'

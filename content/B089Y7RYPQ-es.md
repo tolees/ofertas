@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'KKTECT Parque de Atracciones de Bolas Blandas de plástico Interior Bañera Inflable para niños Valla de Juguete Interior Piscina Divertida Piscina de Ducha Plegable Inflable para Perros Patos Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089Y7RYPQ/?tag=tolees-21'
 descuento: '50.25'
 average: '9.9'

@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'Adler AD 4437 - Pimentero  Cerámico  Color rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00M712KAI/?tag=tolees-21'
 descuento: '37.61'
 average: '4.96'

@@ -16,6 +16,7 @@ comparePrice: 18.17 EUR
 prodname: 'Montibel-Lo Finalfine  Laca Ultra Extra Fuerte Sin Gas  400 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XCCDKH4/?tag=tolees-21'
 descuento: '39.52'
 average: '10.99'

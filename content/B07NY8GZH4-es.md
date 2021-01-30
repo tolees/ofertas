@@ -16,6 +16,7 @@ comparePrice: 155.0 EUR
 prodname: 'Art Marina  Botas Slouch Unisex Adulto  Rojo  Burdeos Burdeos   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NY8GZH4/?tag=tolees-21'
 descuento: '74.97'
 average: '38.8'

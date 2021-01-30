@@ -16,6 +16,7 @@ comparePrice: 11.95 EUR
 prodname: 'Selene Sujetador Deportivo Confort Blanco 95B'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ADKSEBO/?tag=tolees-21'
 descuento: '45.69'
 average: '8.6325'

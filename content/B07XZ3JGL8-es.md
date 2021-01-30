@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Micrófono inalámbrico con auriculares 2 en 1  EXJOY del micrófono inalámbrico UHF de 60 m con transmisión estable  para amplificador de voz  para conferencia/escenario/enseñanza/guía/turismo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XZ3JGL8/?tag=tolees-21'
 descuento: '27.51'
 average: '28.99'

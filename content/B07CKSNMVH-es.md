@@ -16,6 +16,7 @@ comparePrice: 41.99 EUR
 prodname: 'Peppa Pig PPC28 Kit de Figura de Juguete para niños Chica - Kits de Figuras de Juguete para niños  3 año s   Multicolor  Chica  13/08/18  2 Pieza s  '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CKSNMVH/?tag=tolees-21'
 descuento: '47.63'
 average: '21.99'

@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'L Oreal Paris Magic Retouch Precision Cepillo Cubrecanas  Tono Castaño Oscuro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G35CB7V/?tag=tolees-21'
 descuento: '25.16'
 average: '5.1899999999999995'

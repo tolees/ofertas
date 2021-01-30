@@ -16,6 +16,7 @@ comparePrice: 17.95 EUR
 prodname: 'adidas Core18 TR SHO Y Pantalones Cortos de Deporte  Unisex niños  Dark Blue/White  7-8Y'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076HRJN47/?tag=tolees-21'
 descuento: '38.77'
 average: '10.99'

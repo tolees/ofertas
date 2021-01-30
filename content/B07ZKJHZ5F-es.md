@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Hollylife Bandeja Extraible de Papel para Oficina  Organizador de Escritorio de Rejilla con Bandeja Triple  Gran Tamaño para A4 Papel  Documentos  y Material de Oficina  Plateado '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZKJHZ5F/?tag=tolees-21'
 descuento: '31.60'
 average: '12.99'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Gaming ratón Zelotes 12 botones Ratón Gaming Programable 4000 dpi   hasta 8000DPI por el software   peso Tuning Set  multi-modes LED luces  negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LYOMBC0/?tag=tolees-21'
 descuento: '35.01'
 average: '24.99'

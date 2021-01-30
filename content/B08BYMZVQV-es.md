@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Anillo de Tope  ZoneYan Topes de Profundidad para Brocas  Tope Broca Taladro  Posicionador de Taladros  8 pcs Anillo Posicionador con la Llave Hexagonal  3–16 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BYMZVQV/?tag=tolees-21'
 descuento: '65.03'
 average: '6.99'

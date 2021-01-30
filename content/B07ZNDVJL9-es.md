@@ -16,6 +16,7 @@ comparePrice: 7.14 EUR
 prodname: 'Wuyee 1Pcs Interruptor de Bloqueo para la máquina de Correr Llave de Seguridad Cinta de Correr Interruptor magnético Bloqueo Fitness  Rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZNDVJL9/?tag=tolees-21'
 descuento: '60.78'
 average: '2.8'

@@ -16,6 +16,7 @@ comparePrice: 53.99 EUR
 prodname: 'Willful Pulsera Inteligente con Pulsómetro  Pulsera de Actividad para Deporte  Monitor de Ritmo Cardíaco  Sueño Calorías  Notificación de Mensajes  Podómetro  Impermeable IP67 para Teléfono'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074GZFC3Y/?tag=tolees-21'
 descuento: '50.01'
 average: '29.323333333333334'

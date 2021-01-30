@@ -16,6 +16,7 @@ comparePrice: 599.99 EUR
 prodname: 'MSI Optix MAG341CQ - Monitor Gaming Curvo de 34" UWQHD LED Display 100Hz 3440 x 1440 Pixeles  ratio 21:9  8ms de respuesta  brillo 250nits  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HVN65LF/?tag=tolees-21'
 descuento: '35.04'
 average: '428.5854545454546'

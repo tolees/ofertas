@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Mini Ventilador  NASUM USB Ventilador Portatil Batería Recargable con 3 Modos de Velocidad  Ventilador de Mano para Oficinas Casas Coches al Aire Libre Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PGNMG3T/?tag=tolees-21'
 descuento: '50.04'
 average: '10.268888888888888'

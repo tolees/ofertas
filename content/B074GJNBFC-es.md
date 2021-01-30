@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'My Little Pony-21642 MLP Movie Figura de Vinilo Pinkie Pie Sea Pony  Color Rosa  Funko 21642 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074GJNBFC/?tag=tolees-21'
 descuento: '44.10'
 average: '8.38'

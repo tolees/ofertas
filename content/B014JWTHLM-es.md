@@ -16,6 +16,7 @@ comparePrice: 71.65 EUR
 prodname: 'Lancaster 365 Skin Repair Serum Youth Renewal Tratamiento Facial - 30 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B014JWTHLM/?tag=tolees-21'
 descuento: '59.80'
 average: '29.076666666666668'

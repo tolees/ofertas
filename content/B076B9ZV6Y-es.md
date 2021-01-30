@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'MagicLux Tech picadora Manual 3 Cuchillas Mini picadora de Carne Cortador Cebolla Picador de Verduras para Picar Frutas  Frutos Secos  Hierbas Cebolla  la Salsa  Ensalada 750ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076B9ZV6Y/?tag=tolees-21'
 descuento: '50.02'
 average: '14.906666666666666'

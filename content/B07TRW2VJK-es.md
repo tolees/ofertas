@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'PowerLocus Auriculares Bluetooth Inalámbricos  35h Autonomía  Auriculares Bluetooth con Micrófonos TWS Mini Twins Estéreo Auriculares Bluetooth 5.0 Impermeable Auriculares Deportivos In-Ear'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TRW2VJK/?tag=tolees-21'
 descuento: '50.01'
 average: '29.99'

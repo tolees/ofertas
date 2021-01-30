@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'HP ENVY Photo 6234  - Impresora multifunción  Inyección de tinta térmica  4800 x 1200 DPI  125 hojas  A4  Impresión directa   color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076HXM2WX/?tag=tolees-21'
 descuento: '48.27'
 average: '73.87250000000002'

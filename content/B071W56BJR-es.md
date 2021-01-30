@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Premium Whisky Stones Gift Set de Amerigo- ¿Aguar tu Whisky? ¡Nunca más! Juego de 9 Piedras Whisky - Empaquetado en un Exclusivo set de Regalo - Cubitos de Hielo Reutilizables - Gratis EBOOK'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071W56BJR/?tag=tolees-21'
 descuento: '46.68'
 average: '15.99'

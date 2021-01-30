@@ -16,6 +16,7 @@ comparePrice: 37.0 EUR
 prodname: 'CORDAYS - Organizador de Mandos a Distancia y Material de Oficina o Herramientas de Trabajo Caja para Mandos a Distancia - Hecho a Mano- Color Marrón CDM-00031'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018YDMFRU/?tag=tolees-21'
 descuento: '27.30'
 average: '26.9'

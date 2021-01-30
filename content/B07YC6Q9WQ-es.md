@@ -16,6 +16,7 @@ comparePrice: 70.99 EUR
 prodname: 'PAIPU Deshumidificador Compacto y portátil 900 ml Deshumidificador Ultra Silencioso  Deshumidificador Pequeño Portátil para Hogar  Armarios  Habitación  Baño  Cocina  Garaje'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YC6Q9WQ/?tag=tolees-21'
 descuento: '43.67'
 average: '41.97'

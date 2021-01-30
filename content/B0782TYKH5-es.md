@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'Cuencos mezcladores apilables de acero inoxidable  acabado mate y brillante   set de 6 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0782TYKH5/?tag=tolees-21'
 descuento: '35.14'
 average: '23.79'

@@ -16,6 +16,7 @@ comparePrice: 114.82 EUR
 prodname: 'San Ignacio PK661 San Ignacio Set de Cacerolas Ã˜20/24/28 y Tartera Ã˜28 Cms  Color Cobre  Con Tapa de Vidrio  Asas Y  Cobre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KPKBV37/?tag=tolees-21'
 descuento: '25.98'
 average: '92.464'

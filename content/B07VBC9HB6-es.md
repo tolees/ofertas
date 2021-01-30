@@ -16,6 +16,7 @@ comparePrice: 32.64 EUR
 prodname: 'Optimum Nutrition 1094185 Optimum Protein Shakes Strawberry Listo a Consumir 50G de Proteína sin Azúcar Añadido  Carbohidratos 10 Unidades 500 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VBC9HB6/?tag=tolees-21'
 descuento: '28.92'
 average: '23.2'

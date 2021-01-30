@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'L Oréal Infalible 24 H Matte Cover Base De Maquillaje Alta Cobertura Mate Piel Clara Subtono Dorado 330 Noisette 40 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0812DMGJC/?tag=tolees-21'
 descuento: '46.33'
 average: '7.45'

@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Eastpak Talky Riñonera  23 cm  2 L  Gris  Sunday Grey '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004D2B5HS/?tag=tolees-21'
 descuento: '35.71'
 average: '18.0'

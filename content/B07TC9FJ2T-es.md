@@ -16,6 +16,7 @@ comparePrice: 12.8 EUR
 prodname: 'Rodillera Menisco y Ligamentos Deportiva Rodillera de Compresión 2 Piezas de Tejido 3D Flexible Transpirable Antideslizante Previene Lesiones Alivia Dolor para Hombres y Mujeres MUBYTREE  L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TC9FJ2T/?tag=tolees-21'
 descuento: '29.77'
 average: '8.99'

@@ -16,6 +16,7 @@ comparePrice: 799.99 EUR
 prodname: 'MEDION AKOYA M80 - PCC965 Ordenador de Sobremesa  Intel Core i7-9700  RAM de 8GB DDR4  1TB HDD + 128GB SSD  Tarjeta Gráfica Integrada   Bluetooth  Windows 10 Home  Negro/Plateado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TCFR2G9/?tag=tolees-21'
 descuento: '37.50'
 average: '537.6949999999999'

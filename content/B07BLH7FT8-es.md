@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'World Of Warcraft: Battle For Azeroth - Edición Estándar  Código Digital '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BLH7FT8/?tag=tolees-21'
 descuento: '62.74'
 average: '18.0725'

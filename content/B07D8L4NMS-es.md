@@ -16,6 +16,7 @@ comparePrice: 12.58 EUR
 prodname: 'Homyl - Candado antirrobo para Ordenador portátil con 2 Llaves'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D8L4NMS/?tag=tolees-21'
 descuento: '44.44'
 average: '6.99'

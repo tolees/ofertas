@@ -16,6 +16,7 @@ comparePrice: 12.15 EUR
 prodname: 'David Walliams Memory Game'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DVGXNJF/?tag=tolees-21'
 descuento: '29.05'
 average: '8.62'

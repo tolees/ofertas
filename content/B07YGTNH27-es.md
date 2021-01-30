@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'LCQI Dardos Punta Acero Bandera Inglaterra Gran Bretaña UK'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YGTNH27/?tag=tolees-21'
 descuento: '25.16'
 average: '5.95'

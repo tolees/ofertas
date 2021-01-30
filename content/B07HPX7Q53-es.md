@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Barra De Labios Mate Permanente De Pintalabios Impermeable Natural Brillo De Labios 005 rosa frambuesa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HPX7Q53/?tag=tolees-21'
 descuento: '60.04'
 average: '5.99'

@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Hummel Slimmer Stadil Low  Zapatillas Unisex Adulto  Negro-Schwarz  Black/White KH 2113   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00FLR43KK/?tag=tolees-21'
 descuento: '62.22'
 average: '22.845'

@@ -16,6 +16,7 @@ comparePrice: 23.75 EUR
 prodname: 'Symantec Norton AntiVirus Basic Base license 1usuario s  1año s  - Seguridad y antivirus  1  1 año s   Base license  Soporte físico '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZSOD69/?tag=tolees-21'
 descuento: '28.04'
 average: '17.765'

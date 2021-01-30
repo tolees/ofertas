@@ -16,6 +16,7 @@ comparePrice: 24.48 EUR
 prodname: 'AUKEY Ratón Vertical 2 DPI ajustable Diseño ergonómico ratón Prevención Contra el brazo del ratón  Síndrome RSI Codo  USB ratón óptico con cable para ordenadores  Computer Personal y portátil – Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LANS7VO/?tag=tolees-21'
 descuento: '30.47'
 average: '18.29666666666667'

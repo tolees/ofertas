@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Clay Dinosaur Toys Set for Kids - Magic Modeling Clay 26 Pieces - Safe & Non Toxic 3D Dinosaur Figures for Kids – For Boys and Girls Age 3-12 Years Old'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KJPQL33/?tag=tolees-21'
 descuento: '46.75'
 average: '15.97'

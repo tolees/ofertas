@@ -16,6 +16,7 @@ comparePrice: 37.0 EUR
 prodname: '28 Palms 9" Inseam Cotton Tencel Chino Short Shorts  Bronceado  38'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JQHW4TM/?tag=tolees-21'
 descuento: '52.00'
 average: '17.76'

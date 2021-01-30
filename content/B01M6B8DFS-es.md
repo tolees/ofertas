@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Bergner Infinity Chef Set de Cuchillos y Barra magnética  Acero Inoxidable  Bronce  20 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M6B8DFS/?tag=tolees-21'
 descuento: '67.47'
 average: '25.99'

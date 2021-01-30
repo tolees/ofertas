@@ -16,6 +16,7 @@ comparePrice: 101.58 EUR
 prodname: 'Grohe Nova Cosmopolitan S Escudo - Placa de descarga'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07124TGQZ/?tag=tolees-21'
 descuento: '28.81'
 average: '64.56'

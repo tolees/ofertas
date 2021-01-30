@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Bolsa/NIKE:NK ACDMY Team S MISC Marino'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BLVBB28/?tag=tolees-21'
 descuento: '39.95'
 average: '12.99'

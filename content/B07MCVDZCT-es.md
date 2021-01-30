@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Gant D1.2-Pack Barstripe and Solid Sock Calcetines  Naranja  Blood Orange 818   única  Talla del Fabricante: Oversize  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MCVDZCT/?tag=tolees-21'
 descuento: '50.96'
 average: '6.183333333333334'

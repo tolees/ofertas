@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Jabra Drive – Altavoz Bluetooth para Automóvil  Micrófono y Altavoz Manos Libres con Cancelación de Ruido para Llamadas  Música y GPS  Conexión Rápida con Jabra Tour  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0058VDTO0/?tag=tolees-21'
 descuento: '49.41'
 average: '28.864'

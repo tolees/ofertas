@@ -16,6 +16,7 @@ comparePrice: 1559.0 EUR
 prodname: 'Apple iPhone XS Max  de 512GB  - Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HWMN9ZT/?tag=tolees-21'
 descuento: '30.15'
 average: '1187.878888888889'

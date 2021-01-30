@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'adidas Gazelle C  Zapatillas Unisex Niños  Azul  Collegiate Navy/Footwear White/Footwear White 0   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N9VT2U7/?tag=tolees-21'
 descuento: '38.14'
 average: '33.99'

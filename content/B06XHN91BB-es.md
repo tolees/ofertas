@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Swimways 6038062 - Pelota de fútbol Luminosa reactorz  Colores Surtidos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XHN91BB/?tag=tolees-21'
 descuento: '59.98'
 average: '8'

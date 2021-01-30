@@ -16,6 +16,7 @@ comparePrice: 18.55 EUR
 prodname: 'Piscina Luz LED Impermeables Luces Sumergibles Control Remoto Bajo El Agua Luces Multicolores LED Luz Sumergible para Acuario Estanque Bodas Fiesta Jardín 1 PCS）'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083ZXJV8Q/?tag=tolees-21'
 descuento: '35.36'
 average: '11.99'

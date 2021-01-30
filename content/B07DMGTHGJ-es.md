@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Philips Avent SCF041/27-2 - Tetinas natural flujo recién nacido  0m+  con 1 agujero'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DMGTHGJ/?tag=tolees-21'
 descuento: '37.91'
 average: '4.558461538461539'

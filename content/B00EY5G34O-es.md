@@ -16,6 +16,7 @@ comparePrice: 79.82 EUR
 prodname: 'Taurus Tasty Ncream Heladera  12 W  1.5 litros  Plástico  Verde  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EY5G34O/?tag=tolees-21'
 descuento: '26.10'
 average: '41.854285714285716'

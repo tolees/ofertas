@@ -16,6 +16,7 @@ comparePrice: 28.59 EUR
 prodname: 'Optimum Nutrition ON Amino Energy Pre Workout Powder Keto Friendly con Beta Alanina  Cafeína  Vitamina C  Aminoacidos Micronizados Incluyendo BCAA  Piña  30 Porciones  270 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013AYGIO4/?tag=tolees-21'
 descuento: '31.83'
 average: '18.715'

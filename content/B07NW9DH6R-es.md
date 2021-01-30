@@ -16,6 +16,7 @@ comparePrice: 51.26 EUR
 prodname: 'Skechers On-The-Go Joy  Botas Altas para Mujer  Beige  39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NW9DH6R/?tag=tolees-21'
 descuento: '35.66'
 average: '32.98'

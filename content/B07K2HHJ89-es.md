@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Skip Ultimate Triple Poder Detergente Capsulas Fragancia Mimosín - 32 Lavados'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2HHJ89/?tag=tolees-21'
 descuento: '48.45'
 average: '5.15'

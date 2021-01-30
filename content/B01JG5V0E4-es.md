@@ -16,6 +16,7 @@ comparePrice: 58.03 EUR
 prodname: 'Gianni Versace Versace Dylan Azul por Gianni Versace'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JG5V0E4/?tag=tolees-21'
 descuento: '39.86'
 average: '34.9'

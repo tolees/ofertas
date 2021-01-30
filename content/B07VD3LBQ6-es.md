@@ -16,6 +16,7 @@ comparePrice: 58.31 EUR
 prodname: 'Samsung EF-ZN970CPEGWW Clear View - Funda para Galaxy Note10  Galaxy Note 5G  Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VD3LBQ6/?tag=tolees-21'
 descuento: '74.33'
 average: '14.97'

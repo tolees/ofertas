@@ -16,6 +16,7 @@ comparePrice: 14.87 EUR
 prodname: 'Arcos 692500 - Soporte magnético  300 x 45 mm  blister '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005LRSI88/?tag=tolees-21'
 descuento: '26.70'
 average: '10.9'

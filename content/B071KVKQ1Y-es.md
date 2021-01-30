@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Linksys EA8300 - Router Wi-Fi AC2200 Tri-Banda MAX-Stream  MU-MIMO  4 Antenas  Beamforming  4 x Gigabit Ethernet  1 x USB 3.0  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071KVKQ1Y/?tag=tolees-21'
 descuento: '25.90'
 average: '112.12444444444444'

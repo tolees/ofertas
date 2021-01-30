@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'E·Durable 5pcs 125mm Alicates tenaza Para el mantenimiento diario industrial  electromecánico  instrumentación  herramientas de reparación de electrodomésticos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SFDFS86/?tag=tolees-21'
 descuento: '50.02'
 average: '13.99'

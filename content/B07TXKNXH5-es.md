@@ -16,6 +16,7 @@ comparePrice: 0.5 EUR
 prodname: '4 en 1 4 x 1 DiSEqc Interruptor de Banda Ancha de 4 vías DS-04C Alto Aislamiento Conectar 4 Antenas parabólicas 4 LNB para Receptor de satélite - Plateado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TXKNXH5/?tag=tolees-21'
 descuento: '34.00'
 average: '0.33'

@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Pop! Star Vs. The Forces of Evil - Figura de Vinilo Marco Diaz'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J62DFN1/?tag=tolees-21'
 descuento: '53.04'
 average: '8.356'

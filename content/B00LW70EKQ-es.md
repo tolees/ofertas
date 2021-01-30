@@ -16,6 +16,7 @@ comparePrice: 22.0 EUR
 prodname: 'Nivea soft - Tarro  300 ml  pack of 3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LW70EKQ/?tag=tolees-21'
 descuento: '49.68'
 average: '12.184285714285714'

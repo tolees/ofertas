@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Dickies Original 874 Work Pants  Pantalones Para Hombre  Gris  Charcoal Grey   w34/l34'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0000WLTOE/?tag=tolees-21'
 descuento: '43.65'
 average: '30.99'

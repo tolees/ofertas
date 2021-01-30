@@ -16,6 +16,7 @@ comparePrice: 66.89 EUR
 prodname: 'Thermaltake SMART SE 630W Alimentación'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BDBZH3A/?tag=tolees-21'
 descuento: '25.27'
 average: '49.99'

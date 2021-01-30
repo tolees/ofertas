@@ -16,6 +16,7 @@ comparePrice: 316.36 EUR
 prodname: 'Seiko Reloj Analógico Automático para Hombre con Correa de Acero Inoxidable – SNZF15K1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001ELSSOO/?tag=tolees-21'
 descuento: '40.26'
 average: '195.33333333333334'

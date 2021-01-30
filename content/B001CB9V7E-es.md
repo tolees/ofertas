@@ -16,6 +16,7 @@ comparePrice: 6.95 EUR
 prodname: 'Revlon Super Lustrous Pintalabios  Wink for Pink '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001CB9V7E/?tag=tolees-21'
 descuento: '71.37'
 average: '1.99'

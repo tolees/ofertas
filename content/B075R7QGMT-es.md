@@ -16,6 +16,7 @@ comparePrice: 80 EUR
 prodname: 'New Balance 420  Zapatillas para Hombre  Rojo  Classic Burgundy/Castelrock Bug   38.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075R7QGMT/?tag=tolees-21'
 descuento: '63.68'
 average: '29.06'

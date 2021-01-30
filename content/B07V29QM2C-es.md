@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'KAPORAL Mura Polo  Multicolor  Medgrm Medgrm   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V29QM2C/?tag=tolees-21'
 descuento: '78.73'
 average: '9.57'

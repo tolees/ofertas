@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Grohe SilverFlex - Flexo con pieza de unión giratoria para la función TwistFree  1500 mm  28364000 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001LF74PC/?tag=tolees-21'
 descuento: '34.16'
 average: '13.82'

@@ -16,6 +16,7 @@ comparePrice: 36.82 EUR
 prodname: 'IFC HELIOCARE 360º 30 cápsulas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BMOIZB8/?tag=tolees-21'
 descuento: '28.03'
 average: '26.5'

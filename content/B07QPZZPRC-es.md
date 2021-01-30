@@ -16,6 +16,7 @@ comparePrice: 52 EUR
 prodname: 'Asics Gel-Rocket 9  Zapatillas de Deporte Interior para Mujer  Azul Blue/White 400  39.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QPZZPRC/?tag=tolees-21'
 descuento: '30.00'
 average: '36.4'

@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Dickies New York Short  Pantalones Cortos de Deporte  Hombre  Negro Black   W31'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00H8PT0FG/?tag=tolees-21'
 descuento: '77.29'
 average: '24.904999999999998'

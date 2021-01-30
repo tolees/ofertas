@@ -16,6 +16,7 @@ comparePrice: 85.86 EUR
 prodname: 'Licuadora Prensado en Frio  Jocuu Licuadora Frutas Verduras  Extractor de zumos con Función inversa  Regulación de Dos Velocidades y Motor Silencioso  Fácil de Limpiar con Cepillo de Limpieza extra'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RK2HGVZ/?tag=tolees-21'
 descuento: '32.02'
 average: '76.69666666666666'

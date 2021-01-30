@@ -16,6 +16,7 @@ comparePrice: 7.22 EUR
 prodname: 'Rimmel London Match Perfection Foundation Base de Maquillaje Tono 603 Chocolate - 123 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079L5JSMM/?tag=tolees-21'
 descuento: '58.31'
 average: '3.01'

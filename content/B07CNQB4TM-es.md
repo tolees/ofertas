@@ -16,6 +16,7 @@ comparePrice: 19.98 EUR
 prodname: 'Paquete de 6 Piezas de Ropa Interior de Niña de Algodón de Entre 1 y 7 años  Bragas para Niñas Ropa Interior de Niña Pequeña  Flamenco  1-3 años/cintura 15.6"  altura 33" -37" '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CNQB4TM/?tag=tolees-21'
 descuento: '40.04'
 average: '11.98'

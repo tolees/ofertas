@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Intex 29040NP - Dispensador químico para piscinas y Spa diámetro 12 7 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EZVTK88/?tag=tolees-21'
 descuento: '54.77'
 average: '4.5'

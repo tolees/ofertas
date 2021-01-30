@@ -16,6 +16,7 @@ comparePrice: 11.9 EUR
 prodname: 'Atrayente de micciones 125 ml educador de perros cachorros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B019ZSNTXW/?tag=tolees-21'
 descuento: '41.60'
 average: '8.31'

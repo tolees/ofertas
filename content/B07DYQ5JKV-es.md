@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Superga 2730-cotropew  Zapatillas de Gimnasia para Mujer  Azul  Navy 933   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DYQ5JKV/?tag=tolees-21'
 descuento: '43.40'
 average: '42.970000000000006'

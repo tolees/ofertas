@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'LIFEBEE Smartwatch  Reloj Inteligente Impermeable 5ATM Pantalla Táctil Completa con Pulsómetro Monitor de Sueño Podómetro Caloría Cronómetros  Pulsera Actividad Inteligente para Hombre Mujer niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087TFH1TM/?tag=tolees-21'
 descuento: '26.09'
 average: '33.99'

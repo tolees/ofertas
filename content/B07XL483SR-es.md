@@ -16,6 +16,7 @@ comparePrice: 17.95 EUR
 prodname: 'Montse Interiors  S.L. Cuadrante o Cojín Decoración Liso 45x45 + Relleno  Bellagio Taupe '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XL483SR/?tag=tolees-21'
 descuento: '66.63'
 average: '5.99'

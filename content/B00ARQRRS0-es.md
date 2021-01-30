@@ -16,6 +16,7 @@ comparePrice: 4.5 EUR
 prodname: 'Rimmel London Lasting Finish Matte by Kate Barra De Labios Tono 101-18 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ARQRRS0/?tag=tolees-21'
 descuento: '33.33'
 average: '3.39'

@@ -16,6 +16,7 @@ comparePrice: 13.1 EUR
 prodname: 'Superga 2750-cot3strapu  Zapatillas de Gimnasia Unisex Adulto  Amarillo  Yellow Golden W8u   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TXLTN8J/?tag=tolees-21'
 descuento: '27.33'
 average: '10.218'

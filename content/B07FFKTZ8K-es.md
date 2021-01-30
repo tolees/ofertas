@@ -16,6 +16,7 @@ comparePrice: 279.0 EUR
 prodname: 'Fossil Smartwatch para Hombre con Correa en Cuero FTW4016'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FFKTZ8K/?tag=tolees-21'
 descuento: '35.84'
 average: '199.5'

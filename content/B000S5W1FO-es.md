@@ -16,6 +16,7 @@ comparePrice: 6.46 EUR
 prodname: 'pjur AQUA - Lubricante Premium acuoso - Excelentes propiedades lubricantes  hidrata y no se pega - para juguetes sexuales - pack de 1  1x30ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000S5W1FO/?tag=tolees-21'
 descuento: '70.59'
 average: '3.13'

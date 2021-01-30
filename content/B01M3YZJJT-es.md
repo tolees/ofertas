@@ -16,6 +16,7 @@ comparePrice: 38.35 EUR
 prodname: 'Kombat UK niños Kit del ejército DPM Camuflaje Explorer  Infantil  Color Camuflaje  tamaño 3-4 años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M3YZJJT/?tag=tolees-21'
 descuento: '27.09'
 average: '33.68857142857143'

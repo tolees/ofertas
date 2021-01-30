@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Lee Extreme Motion Short Pantalones Cortos  Verde  Khaki 08   56  Talla del Fabricante: 32  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VBGL8M4/?tag=tolees-21'
 descuento: '61.98'
 average: '18.99'

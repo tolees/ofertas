@@ -16,6 +16,7 @@ comparePrice: 330.9 EUR
 prodname: 'Tienda de campaña Vinson Altus'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016IQ2PPC/?tag=tolees-21'
 descuento: '30.50'
 average: '229.99'

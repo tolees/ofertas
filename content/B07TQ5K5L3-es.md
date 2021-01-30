@@ -16,6 +16,7 @@ comparePrice: 6.84 EUR
 prodname: 'Cocoty-store Pantalones 2019 Pantalones de Hombre Casuales Chino Deporte Joggers Pants Algodón Slim Fit Jeans Cargo Trouser Negro XXXL '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TQ5K5L3/?tag=tolees-21'
 descuento: '43.86'
 average: '3.84'

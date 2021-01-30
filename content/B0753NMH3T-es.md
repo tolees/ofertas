@@ -16,6 +16,7 @@ comparePrice: 10.0 EUR
 prodname: 'Bourjois Air Mate Powder Polvos Tono 05 Caramel - 47 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0753NMH3T/?tag=tolees-21'
 descuento: '44.00'
 average: '6.0633333333333335'

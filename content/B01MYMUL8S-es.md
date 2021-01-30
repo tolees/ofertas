@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Vaultskin Eton Armour - Funda de cuero para iPhone 7  cognac '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MYMUL8S/?tag=tolees-21'
 descuento: '60.01'
 average: '19.99'

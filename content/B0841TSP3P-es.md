@@ -16,6 +16,7 @@ comparePrice: 7.98 EUR
 prodname: 'Panamami Gel de sílice Galactorrhea Colección Tapa Colector de leche materna Suave Postparto Masaje de mama Cojín del recipiente de succión del pezón/Transparente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0841TSP3P/?tag=tolees-21'
 descuento: '34.96'
 average: '5.19'

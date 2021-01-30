@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Skechers Flex Appeal 3.0-Endless Glamo  Zapatillas para Mujer  Negro  Black Mint Bkmt   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CYV8RNN/?tag=tolees-21'
 descuento: '64.60'
 average: '28.18'

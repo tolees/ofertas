@@ -16,6 +16,7 @@ comparePrice: 151 EUR
 prodname: 'Nike M NK ZNL AROSHLD JKT Jacket  Hombre  Reflect Black  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JNQ4LK2/?tag=tolees-21'
 descuento: '62.65'
 average: '56.4'

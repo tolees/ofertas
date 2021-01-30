@@ -16,6 +16,7 @@ comparePrice: 38.63 EUR
 prodname: 'RuiDaXiang Casa de muñecas  baño con Muebles  iluminación  Mini muñeca.Juguetes de casa de muñecas para niñas  Baño-Rosado '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BJRNFR4/?tag=tolees-21'
 descuento: '45.66'
 average: '20.99'

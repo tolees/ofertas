@@ -16,6 +16,7 @@ comparePrice: 5.69 EUR
 prodname: 'TOYANDONA 1pc pezones de bebé pezones creativos biberones de bebé biberones de bebé.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W7RYMRQ/?tag=tolees-21'
 descuento: '49.38'
 average: '2.88'

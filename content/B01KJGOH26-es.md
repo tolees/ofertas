@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Maybelline New York Paleta de Sombras de Ojos The Rock Nudes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KJGOH26/?tag=tolees-21'
 descuento: '31.10'
 average: '8.983333333333333'

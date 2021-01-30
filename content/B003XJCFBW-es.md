@@ -16,6 +16,7 @@ comparePrice: 13.7 EUR
 prodname: 'Texet - Plastificadora  tamaño A4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003XJCFBW/?tag=tolees-21'
 descuento: '26.72'
 average: '11.796'

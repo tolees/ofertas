@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'PUMA Liga Sideline Polo T-Shirt  Hombre  Negro  Black/White   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078WGQW5X/?tag=tolees-21'
 descuento: '34.19'
 average: '19.71'

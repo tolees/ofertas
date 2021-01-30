@@ -16,6 +16,7 @@ comparePrice: 24.48 EUR
 prodname: 'B6 Dotted Journal de Scribbles That Matter - Crea tu Bujo perfecto con papel ultragrueso de 160 g / m2 sin sangrado - Cuaderno de tapa dura - Plumas estilográficas Papel amigable - Tostado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z6RWXR7/?tag=tolees-21'
 descuento: '38.85'
 average: '14.97'

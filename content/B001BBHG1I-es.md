@@ -16,6 +16,7 @@ comparePrice: 165.0 EUR
 prodname: 'Seiko Reloj Analógico Automático para Hombre con Correa de Acero Inoxidable – SNK603K1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001BBHG1I/?tag=tolees-21'
 descuento: '37.24'
 average: '104.44'

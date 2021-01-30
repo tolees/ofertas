@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Tommy Jeans Hombre Original  Ryan-DM0DM03947 Jeans  Azul  Berry Light BLUE COMFORT 911   W31/L34'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07772DNXK/?tag=tolees-21'
 descuento: '47.38'
 average: '49.99'

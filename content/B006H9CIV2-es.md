@@ -16,6 +16,7 @@ comparePrice: 39.5 EUR
 prodname: 'Clinique 36567 - Gel de ducha'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006H9CIV2/?tag=tolees-21'
 descuento: '44.43'
 average: '20.95'

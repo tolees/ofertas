@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'adidas CORE18 tee T-Shirt  Hombre  Black/White  XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076HRQBKN/?tag=tolees-21'
 descuento: '30.38'
 average: '14.254000000000001'

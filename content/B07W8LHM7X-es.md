@@ -16,6 +16,7 @@ comparePrice: 52.0 EUR
 prodname: 'Dc Colección 7 Películas  2019  Blu-Ray [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W8LHM7X/?tag=tolees-21'
 descuento: '31.92'
 average: '30.266666666666666'

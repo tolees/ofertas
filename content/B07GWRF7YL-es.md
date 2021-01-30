@@ -16,6 +16,7 @@ comparePrice: 499.0 EUR
 prodname: 'Suunto 9 Reloj con GPS para Multideporte  Unisex  Blanco  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GWRF7YL/?tag=tolees-21'
 descuento: '42.49'
 average: '283.38666666666666'

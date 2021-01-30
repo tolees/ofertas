@@ -16,6 +16,7 @@ comparePrice: 59.97 EUR
 prodname: 'Caja para pilas ignífuga  bolsa de transporte con probador  mantiene 216 pilas de diferentes tamaños para AAA  AA  9 V  C y D  tamaño y comprobador  sin pilas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083DWL6CB/?tag=tolees-21'
 descuento: '43.47'
 average: '33.980000000000004'

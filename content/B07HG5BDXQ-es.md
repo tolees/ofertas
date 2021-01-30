@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'New Balance Fuell Cell Propel  Zapatillas de Running para Mujer  Negro  Black/Lead Black/Lead   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HG5BDXQ/?tag=tolees-21'
 descuento: '69.81'
 average: '36.23'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Auriculares Bluetooth Auriculares inalámbricos 5.0 Auriculares Bluetooth en Oreja Auricular Estéreo inalámbrico en Oreja Manos Libres para Todos los Dispositivos Bluetooth'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FSNDH39/?tag=tolees-21'
 descuento: '40.01'
 average: '29.99'

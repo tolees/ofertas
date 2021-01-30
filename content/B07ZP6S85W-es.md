@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Tarros de Almacenamiento  Tarros de Cristal con Cierre Hermético Tapa de Bambú  Botes de Cristal para Dulces  Galletas  Arroz  Azúcar  Harina  Pasta  Café - Conjunto de 3  250ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZP6S85W/?tag=tolees-21'
 descuento: '40.76'
 average: '15.99'

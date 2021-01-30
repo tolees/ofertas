@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Skechers Equalizer 3.0-Aquablast  Zapatillas para Niños  Azul  Navy & Gray Textile/Navy & Orange Trim Nvgy   29 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NR1V2KH/?tag=tolees-21'
 descuento: '35.86'
 average: '38.45'

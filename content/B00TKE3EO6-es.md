@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Trust Siano - Ratón inalámbrico Bluetooth  Negro y Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TKE3EO6/?tag=tolees-21'
 descuento: '31.02'
 average: '14.286666666666667'

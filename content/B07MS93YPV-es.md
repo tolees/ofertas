@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'Kickers Hobbytwo  Botas Slouch para Mujer   Gris Taupe 123   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MS93YPV/?tag=tolees-21'
 descuento: '80.83'
 average: '22.04'

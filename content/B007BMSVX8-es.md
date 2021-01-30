@@ -16,6 +16,7 @@ comparePrice: 158.99 EUR
 prodname: 'Orbegozo MIG 2330 - Microondas con grill integrable full INOX  23 litros  6 niveles de potencia  8 menús de cocción automática  display digital  potencia 1400 W microondas y 1000 W grill'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007BMSVX8/?tag=tolees-21'
 descuento: '37.73'
 average: '99.0'

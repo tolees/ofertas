@@ -16,6 +16,7 @@ comparePrice: 6.05 EUR
 prodname: 'Rimmel London Exaggerate Automatic Lipliner. Perfilador de Labios Tono 018 Addiction - 3 9 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001V9LAWG/?tag=tolees-21'
 descuento: '62.64'
 average: '2.26'

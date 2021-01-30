@@ -16,6 +16,7 @@ comparePrice: 22.79 EUR
 prodname: 'Redskins Toniko - Zapatillas de Deporte de Cuero para Hombre Negro Negro 40'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DM4Q3WA/?tag=tolees-21'
 descuento: '31.72'
 average: '15.56'

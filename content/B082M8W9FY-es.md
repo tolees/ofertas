@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Lámpara de Pie Tomshine 126 LEDs Lámpara de Pie Salon 4 Color Temperatura 5 Modos de Escena Infinito Regulable Control Remoto y Control Táctil Luz de Lectura Desmontable para Salón Dormitorio Oficina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082M8W9FY/?tag=tolees-21'
 descuento: '49.34'
 average: '31.656666666666666'

@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Women s STAMINA-CLASSY TRAIL Trainers  Black  Black Suede/Mesh/White & Gum Trim BKW   5  38 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NW53KKJ/?tag=tolees-21'
 descuento: '34.25'
 average: '45.99'

@@ -16,6 +16,7 @@ comparePrice: 3.1 EUR
 prodname: 'Instituto Español Desodorante Roll On de Aloe Vera - 75 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LPLJ0GI/?tag=tolees-21'
 descuento: '53.23'
 average: '1.48'

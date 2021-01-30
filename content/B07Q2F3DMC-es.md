@@ -16,6 +16,7 @@ comparePrice: 10.95 EUR
 prodname: 'L Oréal Paris - Les Macarons  Pintalabios Mate Permanente Rosa Amarronado  Tono 820 Praline De Paris - 30.5 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q2F3DMC/?tag=tolees-21'
 descuento: '38.63'
 average: '7.13'

@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Educa- Identic Gorjuss Juego Educativo de Memoria para niños  110 Cartas  a Partir de 6 años  17292 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06X91LYD3/?tag=tolees-21'
 descuento: '73.91'
 average: '3.9'

@@ -16,6 +16,7 @@ comparePrice: 118.27 EUR
 prodname: 'Scarpa Fila Venom Low Bianca Fuxia nera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PGQ5F1Q/?tag=tolees-21'
 descuento: '27.89'
 average: '85.29'

@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Pack Galería Nocturna - 86 Historias Macabras  Night Gallery  1970 [DVD]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0742GZNVY/?tag=tolees-21'
 descuento: '70.00'
 average: '21.0'

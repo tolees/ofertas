@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Levi s Billy  Zapatillas para Hombre  Marrón  Brown 28   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N4JQ8FS/?tag=tolees-21'
 descuento: '30.02'
 average: '40.019999999999996'

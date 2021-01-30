@@ -16,6 +16,7 @@ comparePrice: 202.83 EUR
 prodname: 'Manfrotto MKBFRLA-BH Befree Advanced - Trípode de Viaje  Bloqueo por Palanca con rótula de Bola y Bolsa para cámaras sin Espejo Sony  DSLR  CSC  Carga máxima 8 kg  Aluminio Ligero  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079YHY9BB/?tag=tolees-21'
 descuento: '31.47'
 average: '139.0'

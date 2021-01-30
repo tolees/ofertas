@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'Pokèmon Bañador para Niña Pikachu 3 a 4 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R4ZKK8M/?tag=tolees-21'
 descuento: '46.33'
 average: '6.95'

@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Columbia Drainmaker IV  Zapatillas para Hombre  Gris  City Grey  Mountain Red 023   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073RNZXC1/?tag=tolees-21'
 descuento: '33.45'
 average: '59.89'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Jack & Jones Jjecorp Logo Sweat Hood Noos Capucha  Azul  Navy Blazer   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VBN96QL/?tag=tolees-21'
 descuento: '30.01'
 average: '19.99'

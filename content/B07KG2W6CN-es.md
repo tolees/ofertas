@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'PUMA RS 9.8 Space  Zapatillas para Hombre  Pastel Parchment White  44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG2W6CN/?tag=tolees-21'
 descuento: '57.74'
 average: '37.83'

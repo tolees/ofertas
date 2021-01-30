@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'OMRON VIVA - Báscula inteligente y monitor de composición corporal con medición de peso  grasa corporal  grasa visceral  músculo esquelético  metabolismo basal e IMC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CLRK7Y8/?tag=tolees-21'
 descuento: '30.00'
 average: '55.32333333333333'

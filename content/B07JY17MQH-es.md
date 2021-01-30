@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Tommy Hilfiger Modern Rev Leather Belt 3.5 Cinturón  Marrón  95  Talla del fabricante:  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JY17MQH/?tag=tolees-21'
 descuento: '55.69'
 average: '28.240000000000002'

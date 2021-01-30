@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Tommy Jeans Mujer Mid Rise Sandy Jeans  Azul  New Rinse Stretch 911   W25/L34'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0776XH2PF/?tag=tolees-21'
 descuento: '68.79'
 average: '29.65'

@@ -16,6 +16,7 @@ comparePrice: 17.98 EUR
 prodname: 'USB Cable de Carga Clip Pinza para Polar Smart Watch V800 Reloj'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LGB24HS/?tag=tolees-21'
 descuento: '44.44'
 average: '9.99'

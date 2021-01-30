@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Funko Pop Heroes: Birds of Prey - Black Canary  Boobytrap Battle   Multicolor  Estándar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SM8BSYM/?tag=tolees-21'
 descuento: '26.94'
 average: '8.76'

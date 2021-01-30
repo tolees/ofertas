@@ -16,6 +16,7 @@ comparePrice: 6.41 EUR
 prodname: 'Cocoty-store Pantalones 2019 Hombre Pantalones Jogger Deportivo Entrenamiento Fitness Motivo Rojo L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TR4PYP5/?tag=tolees-21'
 descuento: '46.80'
 average: '3.41'

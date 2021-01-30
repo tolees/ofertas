@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-STAR RAW Rackam Core Low  Zapatillas para Hombre  Multicolor  Black/White A940-964   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VTWTKQN/?tag=tolees-21'
 descuento: '56.48'
 average: '33.095'

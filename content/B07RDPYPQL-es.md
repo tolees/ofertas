@@ -16,6 +16,7 @@ comparePrice: 44.9 EUR
 prodname: 'Tommy Hilfiger Longline Bra Sujetador con Push-up  Rosa  Pale Blush 612   K  Talla del Fabricante: C70  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RDPYPQL/?tag=tolees-21'
 descuento: '36.55'
 average: '28.689999999999998'

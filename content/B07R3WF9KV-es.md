@@ -16,6 +16,7 @@ comparePrice: 26.68 EUR
 prodname: 'JACK & JONES Jfwwalcot Synthetic Suede Navy Blazer  Zapatillas para Hombre  Azul  41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R3WF9KV/?tag=tolees-21'
 descuento: '31.45'
 average: '20.23'

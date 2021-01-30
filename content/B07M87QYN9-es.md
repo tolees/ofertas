@@ -16,6 +16,7 @@ comparePrice: 75.51 EUR
 prodname: 'REPLAY ReplayFu3062.000.a0021bUnisex adultoMochilasNegro  Black  14x41x30 centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M87QYN9/?tag=tolees-21'
 descuento: '42.25'
 average: '43.61'

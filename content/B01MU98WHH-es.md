@@ -16,6 +16,7 @@ comparePrice: 90 EUR
 prodname: 'dockers Alpha Original Khaki Slim Tapered-Stretch Twill Pantalones  Safari Beige 0431  28W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MU98WHH/?tag=tolees-21'
 descuento: '63.31'
 average: '33.02'

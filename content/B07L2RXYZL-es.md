@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'ammoon Inalámbrico Guitarra Receptor Transmisor de Guitarra Sistema de Guitarra Cable Inalámbrico  2.4G '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L2RXYZL/?tag=tolees-21'
 descuento: '36.84'
 average: '37.589999999999996'

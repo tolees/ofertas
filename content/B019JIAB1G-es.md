@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Funko-6560 Triwizard Tournament Figura de Vinilo  colección de Pop  seria Harry Potter  6560 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B019JIAB1G/?tag=tolees-21'
 descuento: '37.36'
 average: '8.976666666666667'

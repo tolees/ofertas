@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Relojes Hombre Cuero Marrón Impermeable Cuarzo Analógico Reloj de Pulsera de para Hombres Marca LIGE Cronógrafo Fecha Reloj de Pulsera de Negocios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TYRMLF6/?tag=tolees-21'
 descuento: '63.34'
 average: '32.99'

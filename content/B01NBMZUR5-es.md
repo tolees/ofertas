@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Vans Classic Slip-on Platform  Zapatillas sin Cordones para Mujer  Negro  Black and White Checker/White Bww   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NBMZUR5/?tag=tolees-21'
 descuento: '32.79'
 average: '50.41'

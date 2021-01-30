@@ -16,6 +16,7 @@ comparePrice: 117.99 EUR
 prodname: 'LW Cable de tendido electrónico de alta calidad Cable de red Gigabit S/FTP PIMF 1000MHz Cat7 4x2xAWG23 LSZH Cableado Cable de datos LanCable CAT7 Naranja Cat7 100m'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077XKYGYM/?tag=tolees-21'
 descuento: '41.70'
 average: '68.79'

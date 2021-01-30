@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Columbia Peakfreak X2 Mid Outdry  Botas de Senderismo para Hombre  Negro  Black  Elk 010   40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KK4JKYF/?tag=tolees-21'
 descuento: '66.79'
 average: '43.17'

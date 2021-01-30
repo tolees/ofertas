@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Ultra Groove Pure Vision  Zapatillas para Mujer  Azul Marino Malla Rosa Caliente Borde Nvhp  36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VZRX7KG/?tag=tolees-21'
 descuento: '52.14'
 average: '36.27285714285714'

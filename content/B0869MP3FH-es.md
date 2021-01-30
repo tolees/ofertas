@@ -16,6 +16,7 @@ comparePrice: 16.88 EUR
 prodname: 'Suhctup Funda Compatible con Huawei Y5 2018 Transparente Carcasa con Dibujos Animados TPU Silicona Protectora de Golpes Anti Choques Slim Case Cover Bumper para Huawei Y5 2018 12 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0869MP3FH/?tag=tolees-21'
 descuento: '52.73'
 average: '7.98'

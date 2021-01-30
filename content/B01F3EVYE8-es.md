@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Fotopro Palo Selfie para Gopro  Selfie Stick con Mini Trípode  Monopié con Control Remoto Bluetooth para iPhone  Samsung Galaxy，Huawei，Xiaomi'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01F3EVYE8/?tag=tolees-21'
 descuento: '33.35'
 average: '19.99'

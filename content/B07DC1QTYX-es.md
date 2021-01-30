@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Puma Cali Nubuck  Zapatillas Deportivas para Mujer  Rosa  Peach Bud-Peach Bud   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DC1QTYX/?tag=tolees-21'
 descuento: '39.98'
 average: '59.99'

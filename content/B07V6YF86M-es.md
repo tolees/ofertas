@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Tommy Hilfiger - Business Leather Extra Cc & Coin  Carteras Hombre  Gris  Concrete Grey   1x1x1 cm  W x H L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V6YF86M/?tag=tolees-21'
 descuento: '48.07'
 average: '41.49'

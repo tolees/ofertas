@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Wesimplelife 3en1 Madera Caballete de para Niños Pizarra Magnetica Infantil Altura Ajustable con Rollo de Papel y Delantal Tablero de Dibujo por 4 5 6 7 8 9 años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QG9KP3Y/?tag=tolees-21'
 descuento: '40.02'
 average: '59.97'

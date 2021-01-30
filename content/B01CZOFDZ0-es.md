@@ -16,6 +16,7 @@ comparePrice: 69 EUR
 prodname: 'American Tourister 75506/1099 - Funshine upright 2 ruedas 55/20 equipaje de mano  turquesa  blue ocean   55 cm  39 L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CZOFDZ0/?tag=tolees-21'
 descuento: '31.59'
 average: '47.2'

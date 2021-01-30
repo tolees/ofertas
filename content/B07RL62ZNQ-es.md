@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Under Armour UA Charged Assert 8 LTD  Zapatillas para Correr  Calzado Deportivo para Hombre  Negro  Black/White/White   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RL62ZNQ/?tag=tolees-21'
 descuento: '46.38'
 average: '41.33'

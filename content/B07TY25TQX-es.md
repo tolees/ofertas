@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Delson 2.0 Kemper  Zapatillas para Hombre  Azul  Blue Canvas BLU   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TY25TQX/?tag=tolees-21'
 descuento: '40.00'
 average: '38.97'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Exquisite Gaming - Cable Guys- Crash Bandicoot XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B5G3VYF/?tag=tolees-21'
 descuento: '25.01'
 average: '28.474999999999998'

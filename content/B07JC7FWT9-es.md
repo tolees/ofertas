@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Hackett London Garment Dye Texture Pantalones  Marrón  Taupe 951   31W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JC7FWT9/?tag=tolees-21'
 descuento: '86.40'
 average: '19.04'

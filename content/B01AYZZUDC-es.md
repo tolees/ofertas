@@ -16,6 +16,7 @@ comparePrice: 329.0 EUR
 prodname: 'Audio-Technica ATH-ADG1 X Aire Libre Juegos de Alta fidelidad Auricular con micrófono'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AYZZUDC/?tag=tolees-21'
 descuento: '40.73'
 average: '181.9725'

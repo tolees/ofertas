@@ -16,6 +16,7 @@ comparePrice: 38.95 EUR
 prodname: 'Cabin Max Manhattan Stowaway XL – Maleta de Cabina para Ryanair 40x20x25 Maleta de Viaje Nuevas Regulaciones sobre Equipaje Gratuito en Vuelos de Ryanair  Yellow Detail '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K4FGLMS/?tag=tolees-21'
 descuento: '35.94'
 average: '24.95'

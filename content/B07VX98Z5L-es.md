@@ -16,6 +16,7 @@ comparePrice: 6.29 EUR
 prodname: 'TOYANDONA Cuatro juegos de protección para bebés con arenas gruesas tapones de mesa.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VX98Z5L/?tag=tolees-21'
 descuento: '45.63'
 average: '3.42'

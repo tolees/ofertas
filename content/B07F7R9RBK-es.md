@@ -16,6 +16,7 @@ comparePrice: 33.99 EUR
 prodname: 'Louvra Capazo del Perro Portador del Perro Bolsa del Perro para Viaje que Se Permite para Aerolínea  hasta 4kg  Color Negro-rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F7R9RBK/?tag=tolees-21'
 descuento: '47.07'
 average: '17.99'

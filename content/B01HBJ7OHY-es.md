@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Tommy Hilfiger 1791269 - Reloj análogico de cuarzo con correa de cuero para hombre  color marrón/negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HBJ7OHY/?tag=tolees-21'
 descuento: '49.20'
 average: '104.214'

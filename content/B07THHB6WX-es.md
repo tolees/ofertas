@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Mydours Alfombrillas de Ratón de Cuero de la PU  95 x40cm Estera Impermeable del Juego de la Escritura del Escritorio del cojín de Escritorio para la Oficina/el hogar  Verde '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07THHB6WX/?tag=tolees-21'
 descuento: '48.05'
 average: '25.97'

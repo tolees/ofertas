@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Proyector Estrellas  Lampara Estrellas Proyector 4 in 1 Nocturnas de Nebulosa Giratorio de Música con de Voz Control Bluetooth y Temporizador Luz de Noche Infantil  Luna Lámpara Proyector Niños Regalo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CDTVK5B/?tag=tolees-21'
 descuento: '60.01'
 average: '39.99'

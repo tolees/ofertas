@@ -16,6 +16,7 @@ comparePrice: 32.91 EUR
 prodname: 'Tacklife RTD35ACL/RTD34AC Herramienta multifunción  herramienta giratoria con varios accesorios  mini Drill con velocidad variable para grabar  cortar  taladrar  etc.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MMYTNT2/?tag=tolees-21'
 descuento: '31.51'
 average: '22.584999999999997'

@@ -16,6 +16,7 @@ comparePrice: 135.0 EUR
 prodname: 'Western Digital My Book Disco Duro Externo de Sobremesa de 4 TB  3.5"  USB 3.0  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZHJ77Q/?tag=tolees-21'
 descuento: '32.04'
 average: '105.23666666666668'

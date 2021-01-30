@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Nike MD Runner 2  PSV   Zapatillas Unisex Niños  Multicolor Negro 000  32 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016EPN1GE/?tag=tolees-21'
 descuento: '50.11'
 average: '23.977999999999998'

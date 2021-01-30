@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Clatronic ST 3629 Sandwichera para 4 Sándwiches  1200 W  1 Cubic Feet  1 Decibeles  Plástico  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0157D1BRU/?tag=tolees-21'
 descuento: '37.59'
 average: '24.9'

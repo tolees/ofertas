@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Asics Gel-Sonoma 4  Zapatillas de Running para Hombre  Negro  Black/Stone Grey 002   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QTJJ71R/?tag=tolees-21'
 descuento: '49.42'
 average: '42.99'

@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Levi s Malibu Beach S  Zapatillas para Mujer  Rosa  Light Pink 81   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SCB1SSD/?tag=tolees-21'
 descuento: '29.80'
 average: '24.57'

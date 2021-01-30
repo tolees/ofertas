@@ -16,6 +16,7 @@ comparePrice: 37.44 EUR
 prodname: 'Pikolin Home - Protector de colchón/Cubre colchón acolchado  impermeable  antiácaros  135x190/200cm-Cama 135  Todas las medidas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y62BYB1/?tag=tolees-21'
 descuento: '35.92'
 average: '23.659999999999997'

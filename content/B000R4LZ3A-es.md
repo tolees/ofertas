@@ -16,6 +16,7 @@ comparePrice: 19.35 EUR
 prodname: 'MediaRange MR222 CD de reescritura - CD-RW vírgenes  CD-R  900 MB  100 min  Caja para Pastel '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000R4LZ3A/?tag=tolees-21'
 descuento: '28.11'
 average: '13.91'

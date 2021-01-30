@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Funko- Pocket Pop Keychain: Fortnite: Cuddle Team Leader  Multicolor  35717    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HPZQ8SP/?tag=tolees-21'
 descuento: '49.95'
 average: '5.442'

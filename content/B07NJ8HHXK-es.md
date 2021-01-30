@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Casio Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable LTS-100D-4AVEF'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJ8HHXK/?tag=tolees-21'
 descuento: '43.68'
 average: '48.15'

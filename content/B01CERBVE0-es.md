@@ -16,6 +16,7 @@ comparePrice: 160 EUR
 prodname: 'American Tourister Air Force 1 - Maleta  Turquesa  Aero Turquoise   M  66cm-69L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CERBVE0/?tag=tolees-21'
 descuento: '47.88'
 average: '83.4'

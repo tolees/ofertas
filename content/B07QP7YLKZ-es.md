@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'PINPOXE Lámpara Antimosquitos  Lámpara Camping Antimosquitos  Lámpara de Asesino del Larvas Mosquito al Aire Libre Portátil Noche Lámpara LED Zapper Mosquito Recargable Impermeable para Acampar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QP7YLKZ/?tag=tolees-21'
 descuento: '65.72'
 average: '23.99'

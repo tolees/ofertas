@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'Remington AS800 Dry & Style - Moldeador de Aire Caliente  Cepillo Térmico de 21 - 38 mm  800 W  Cerámica  Turmalina  Iónico  3 Accesorios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00T2XXJG8/?tag=tolees-21'
 descuento: '25.81'
 average: '24.779999999999998'

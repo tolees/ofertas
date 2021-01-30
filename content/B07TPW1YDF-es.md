@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Superdry Core Logo Stripe Hood Capucha  Azul  Eclipse Navy 98t   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TPW1YDF/?tag=tolees-21'
 descuento: '47.76'
 average: '41.79'

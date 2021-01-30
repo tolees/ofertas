@@ -16,6 +16,7 @@ comparePrice: 269.0 EUR
 prodname: 'Guess Reloj cronógrafo para Mujer de Cuarzo con Correa en Piel W0289L4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B012N6SHH6/?tag=tolees-21'
 descuento: '84.37'
 average: '42.05'

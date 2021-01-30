@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'MOSNOVO Ultra Hybrid Funda iPhone XR Funda protección híbrida de la Gota Transparente para Apple iPhone XR - Snake Floral'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K8JZYG6/?tag=tolees-21'
 descuento: '56.69'
 average: '12.99'

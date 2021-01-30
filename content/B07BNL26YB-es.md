@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'deAO Juego de Herramientas y Accessorios Taller de Bricolaje Play Set Infantil Conjunto de Herramientas  28 Piezas en Total '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BNL26YB/?tag=tolees-21'
 descuento: '55.03'
 average: '8.09'

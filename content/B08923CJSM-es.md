@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Cordón Goma Elástico Bandas  Cordón Elástico Para Costura y Manualidades  Blanco Banda Plana Elástica  3mm  18metro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08923CJSM/?tag=tolees-21'
 descuento: '84.68'
 average: '1.99'

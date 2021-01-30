@@ -16,6 +16,7 @@ comparePrice: 33.71 EUR
 prodname: 'Syncwire Cable iPhone Cable Lightning a USB 1m - [MFi Certificado] Cable Cargador para iPhone XS/XS MAX/XR/X / 8/8 Plus / 7/7 Plus / 6 6s / 6 Plus / 5 5S / iPad/iPod - Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFHCHRD/?tag=tolees-21'
 descuento: '67.40'
 average: '10.99'

@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'PUMA Puma Vikky v2 Ribbon P Zapatillas Mujer  Negro  Puma Black-Puma Silver 1   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FHDFGWD/?tag=tolees-21'
 descuento: '35.80'
 average: '38.49'

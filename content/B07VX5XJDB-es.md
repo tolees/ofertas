@@ -16,6 +16,7 @@ comparePrice: 350.91 EUR
 prodname: 'Bonio Silla de coche grupo 1/2/3  9-36 kg  ISOFIX Reclinable ECE R44/04 Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VX5XJDB/?tag=tolees-21'
 descuento: '60.68'
 average: '137.99'

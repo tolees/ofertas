@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Fossil Joyas para Mujer JA6539791'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KX94VVC/?tag=tolees-21'
 descuento: '43.59'
 average: '22.0'

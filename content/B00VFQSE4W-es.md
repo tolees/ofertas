@@ -16,6 +16,7 @@ comparePrice: 475.0 EUR
 prodname: 'Samsonite Lite-Shock - Spinner M Maleta  69 cm  73 L  Color Azul  Petrol Blue '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VFQSE4W/?tag=tolees-21'
 descuento: '27.30'
 average: '345.31'

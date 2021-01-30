@@ -16,6 +16,7 @@ comparePrice: 32.0 EUR
 prodname: 'Tenswall Humidificador Ultrasónico 400ml  Difusor de Aromaterapia  Difusor de Aceites Esenciales  purificador de aire con LED de 7 colores de para luminoterapia en el Hogar  Oficina  Spa  Bebé'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LAW2LIU/?tag=tolees-21'
 descuento: '37.53'
 average: '19.474999999999998'

@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Funko Pop! - Figura de Vinilo Watcher  22613 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071XD33FK/?tag=tolees-21'
 descuento: '33.44'
 average: '10.562'

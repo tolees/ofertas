@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Columbia Buga II Mono de esquí  Niños  Azul  Collegiate Navy   Talla: 4T'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K6LYPWJ/?tag=tolees-21'
 descuento: '36.51'
 average: '82.53'

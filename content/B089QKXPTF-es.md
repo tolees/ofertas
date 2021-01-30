@@ -16,6 +16,7 @@ comparePrice: 28.85 EUR
 prodname: 'Kinberry - Cámara para exteriores  versión nocturna '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089QKXPTF/?tag=tolees-21'
 descuento: '44.99'
 average: '15.87'

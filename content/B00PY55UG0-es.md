@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'murando - Cuadro en Lienzo 200x100 cm New York Impresión de 5 Piezas Material Tejido no Tejido Impresión Artística Imagen Gráfica Decoracion de Pared Ciudad 030102-25'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PY55UG0/?tag=tolees-21'
 descuento: '25.01'
 average: '29.99'

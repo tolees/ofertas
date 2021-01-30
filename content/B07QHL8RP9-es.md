@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'PUMA ACM Away Shirt Replica SS with Sponsor Logo Maillot  Hombre  White-Tango Red  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QHL8RP9/?tag=tolees-21'
 descuento: '36.55'
 average: '63.03'

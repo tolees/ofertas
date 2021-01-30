@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Tommy Hilfiger M2285Axwell 11C1  Zapatillas para Hombre  Azul  Midnight   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06ZZRTD3D/?tag=tolees-21'
 descuento: '35.45'
 average: '64.82333333333332'

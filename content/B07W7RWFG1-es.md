@@ -16,6 +16,7 @@ comparePrice: 32.6 EUR
 prodname: 'Durex Preservativos Dame Placer + Preservativos Sensitivo Suave + Lubricante Naturals H20 - Total 24 condones + Gel 100ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W7RWFG1/?tag=tolees-21'
 descuento: '30.00'
 average: '21.895'

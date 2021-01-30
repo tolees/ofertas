@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Under Armour UA HOVR Sonic 2  Zapatillas de Running para Hombre  Negro  Black/White/White 002   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CTPKQ9C/?tag=tolees-21'
 descuento: '40.02'
 average: '74.95333333333333'

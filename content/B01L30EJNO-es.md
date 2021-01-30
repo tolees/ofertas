@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Activision - SIM Crash Adventure Pack  Crash Bandicoot-Dr. Neo Cortex '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01L30EJNO/?tag=tolees-21'
 descuento: '40.48'
 average: '17.85'

@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'RockJam Superkit Guitarra eléctrica de tamaño completo con amplificador de guitarra  Cuerdas de guitarra  Sintonizador  Correa  Estuche y cable  color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B014WEJF6E/?tag=tolees-21'
 descuento: '29.29'
 average: '118.48200000000001'

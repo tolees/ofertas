@@ -16,6 +16,7 @@ comparePrice: 3.99 EUR
 prodname: 'Trixie 5355 Noria con Pelotas Jaula y Cascabel  10 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000OLZJGA/?tag=tolees-21'
 descuento: '31.33'
 average: '2.74'

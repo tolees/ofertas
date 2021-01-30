@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'UniqueMe Funda Huawei Mate 20 X  Ultra [Slim Thin] TPU Funda Protectora TPU de Silicona Suave para Mate 20 X - Transparente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KHN23GR/?tag=tolees-21'
 descuento: '85.78'
 average: '1.99'

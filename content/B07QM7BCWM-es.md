@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'TAOCOCO 1080P Cámaras de Vigilancia  Cámara IP WiFi FHD Detección de Movimiento/Sonar  Audio Bidireccional  Visión Nocturna para Bebés/Personas Mayores/Mascotas/Pan/Tilt'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QM7BCWM/?tag=tolees-21'
 descuento: '50.01'
 average: '28.09'

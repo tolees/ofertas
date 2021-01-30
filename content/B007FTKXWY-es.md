@@ -16,6 +16,7 @@ comparePrice: 16.0 EUR
 prodname: 'RockShox Kit Mantenimiento Horquilla Reba/SID  retenes+toricas   Unisex  Negro  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007FTKXWY/?tag=tolees-21'
 descuento: '31.31'
 average: '10.99'

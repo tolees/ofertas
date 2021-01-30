@@ -16,6 +16,7 @@ comparePrice: 35.52 EUR
 prodname: 'Premier Housewares - Cubo para compost  color púrpura'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008MXHR12/?tag=tolees-21'
 descuento: '37.47'
 average: '22.21'

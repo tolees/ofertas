@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Maybelline New York - Total Temptation  Máscara de Pestañas Waterproof  Tono Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BR76RQB/?tag=tolees-21'
 descuento: '49.95'
 average: '5.5'

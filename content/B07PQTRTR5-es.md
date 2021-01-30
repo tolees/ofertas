@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'New Balance 373 n  Zapatillas para Niños  Verde  Green/Yellow Green/Yellow   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PQTRTR5/?tag=tolees-21'
 descuento: '30.00'
 average: '35.0'

@@ -16,6 +16,7 @@ comparePrice: 21.82 EUR
 prodname: 'Superdry Label Sport Trunk Triple Bañador  Naranja  Orange Multi Pack J6e   S para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q5YT8J9/?tag=tolees-21'
 descuento: '30.16'
 average: '15.24'

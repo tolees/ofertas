@@ -16,6 +16,7 @@ comparePrice: 14.37 EUR
 prodname: 'Universal 69-UN-99 - Boquilla para aspiradoras'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00F0Q4GWW/?tag=tolees-21'
 descuento: '35.14'
 average: '9.173529411764706'

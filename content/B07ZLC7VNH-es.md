@@ -16,6 +16,7 @@ comparePrice: 198.43 EUR
 prodname: 'Crucial CT32G4SFD832A Memoria RAM de 32 GB  DDR4  3200 MT/s  SODIMM  260-Pin  1.2V  CL22 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZLC7VNH/?tag=tolees-21'
 descuento: '36.59'
 average: '125.83'

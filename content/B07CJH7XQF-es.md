@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'Michael Kors Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero MK8636'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CJH7XQF/?tag=tolees-21'
 descuento: '53.60'
 average: '115.53'

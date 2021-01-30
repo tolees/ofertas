@@ -16,6 +16,7 @@ comparePrice: 51.68 EUR
 prodname: 'cuzit Durable modo de reloj para el entrenamiento regazo tf807 portátil de mano LCD Digital Cronógrafo Temporizador Cronómetro Deportes temporizador de metal con cordón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077QJYM1K/?tag=tolees-21'
 descuento: '65.96'
 average: '17.59'

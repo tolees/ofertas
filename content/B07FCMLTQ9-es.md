@@ -16,6 +16,7 @@ comparePrice: 69.38 EUR
 prodname: 'ETNAB|#Etnies Marana Vulc  Zapatillas de Skateboard para Hombre  White/Grey/Gum 133  10 UK EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FCMLTQ9/?tag=tolees-21'
 descuento: '49.39'
 average: '35.11'

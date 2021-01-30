@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Pop! Figura de Vinilo: Disney: Hocus Pocus - Winifred w/Magic'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P82NPN7/?tag=tolees-21'
 descuento: '43.64'
 average: '9.405416666666667'

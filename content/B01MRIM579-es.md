@@ -16,6 +16,7 @@ comparePrice: 23.96 EUR
 prodname: 'Playmobil-9101 Maletín Grande Exploración Espacial  Multicolor  única  9101 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MRIM579/?tag=tolees-21'
 descuento: '37.81'
 average: '14.614'

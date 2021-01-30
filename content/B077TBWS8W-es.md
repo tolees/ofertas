@@ -16,6 +16,7 @@ comparePrice: 24.54 EUR
 prodname: 'Trespass unificar de la Mujer Manga Larga Top/Camiseta Interior térmica para Mujer  Mujer  Color Azul Marino  tamaño L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077TBWS8W/?tag=tolees-21'
 descuento: '53.18'
 average: '11.49'

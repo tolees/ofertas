@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Philips MUE4088RT - Bombilla Wi-Fi E27  Led  Controlada de forma inalámbrica  Regulación continua por APP  9 W  Blanco  110X61 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PY84ZMV/?tag=tolees-21'
 descuento: '54.60'
 average: '6.740000000000001'

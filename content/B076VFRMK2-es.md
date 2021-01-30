@@ -16,6 +16,7 @@ comparePrice: 4.99 EUR
 prodname: 'WETOO Gorra de Béisbol de Lana de Invierno para Hombre  Orejeras Plegables'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076VFRMK2/?tag=tolees-21'
 descuento: '40.08'
 average: '2.99'

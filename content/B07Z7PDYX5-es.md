@@ -16,6 +16,7 @@ comparePrice: 2.04 EUR
 prodname: 'loonBonnie Cómodo Absorción de Sudor Deporte Gimnasio Pulsera Algodón Unisex Tenis Baloncesto Brazalete elástico Alto Muñequera - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z7PDYX5/?tag=tolees-21'
 descuento: '49.02'
 average: '1.04'

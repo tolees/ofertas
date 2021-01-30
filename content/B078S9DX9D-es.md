@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Quemagrasas Natural Termogénico Adelgazante Fat Burner Supresor de Apetito Ingredientes 100% Naturales 120 Cápsulas Vegetal Alta Concentración Certificado VEGANO Fabricado en CE. N2 Natural Nutrition'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078S9DX9D/?tag=tolees-21'
 descuento: '25.01'
 average: '16.7075'

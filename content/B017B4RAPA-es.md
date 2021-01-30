@@ -16,6 +16,7 @@ comparePrice: 8.95 EUR
 prodname: 'Revlon Ultra HD Pintalabios Mate  Love '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017B4RAPA/?tag=tolees-21'
 descuento: '54.53'
 average: '4.07'

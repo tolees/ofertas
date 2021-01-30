@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Asics GT-1000 9 GS  Running Shoe Unisex niños  Directoire Blue/Black  37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0812GZNDM/?tag=tolees-21'
 descuento: '25.00'
 average: '45.0'

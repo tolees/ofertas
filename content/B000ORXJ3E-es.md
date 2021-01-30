@@ -16,6 +16,7 @@ comparePrice: 9.36 EUR
 prodname: 'Max factor - Miracle touch creamy blush  base de maquillaje  color 14 rosa suave  12 ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000ORXJ3E/?tag=tolees-21'
 descuento: '40.38'
 average: '5.140000000000001'

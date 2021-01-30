@@ -16,6 +16,7 @@ comparePrice: 13.95 EUR
 prodname: 'Mr; Wonderful Woa09057Es Organizador Semanal De Sobremesa Tú Haces Magia'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F451CRP/?tag=tolees-21'
 descuento: '49.96'
 average: '6.98'

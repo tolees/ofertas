@@ -16,6 +16,7 @@ comparePrice: 41.85 EUR
 prodname: 'DC-77 de 16MP 4X Zoom Digital de Alta definición cámara de vídeo cámara 2 4 Pulgadas TFT LCD de Pantalla de 8 GB de Apagado automático'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KPWNSGJ/?tag=tolees-21'
 descuento: '60.00'
 average: '16.426666666666666'

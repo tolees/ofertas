@@ -16,6 +16,7 @@ comparePrice: 163.37 EUR
 prodname: 'Seiko Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable SSB259P1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074Z2ZJDG/?tag=tolees-21'
 descuento: '30.22'
 average: '135.0'

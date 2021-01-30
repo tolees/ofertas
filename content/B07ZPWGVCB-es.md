@@ -16,6 +16,7 @@ comparePrice: 29.98 EUR
 prodname: 'NYZ - Auriculares inalámbricos con Bluetooth 5.0  Sonido estéreo 3D con micrófono y Funda de Carga  Color Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZPWGVCB/?tag=tolees-21'
 descuento: '56.70'
 average: '12.98'

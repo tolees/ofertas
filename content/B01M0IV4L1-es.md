@@ -16,6 +16,7 @@ comparePrice: 6.75 EUR
 prodname: 'L Oreal Paris Casting Crème Gloss Tropical Spray Aclarado Progresivo 125 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M0IV4L1/?tag=tolees-21'
 descuento: '29.63'
 average: '4.75'

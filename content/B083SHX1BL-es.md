@@ -16,6 +16,7 @@ comparePrice: 51.99 EUR
 prodname: 'Home Fleek - Envases de Vidrio para Alimentos | 6 Recipientes + 6 Tapas | Herméticos | Sin BPA  Set 6  Mixto Verde '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083SHX1BL/?tag=tolees-21'
 descuento: '63.47'
 average: '22.295'

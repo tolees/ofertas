@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Buscando a Dory - Disfraza a Dory  Bandai 36690 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CZMSYZS/?tag=tolees-21'
 descuento: '73.51'
 average: '10.98'

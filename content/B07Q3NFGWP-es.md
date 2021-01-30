@@ -16,6 +16,7 @@ comparePrice: 21.6 EUR
 prodname: 'Axe Collision Bodyspray Desodorante Leather & Cookies para hombre - Pack de 6 x 150 ml  Total: 900 ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q3NFGWP/?tag=tolees-21'
 descuento: '26.39'
 average: '16.486666666666668'

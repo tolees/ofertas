@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'Pioneer DJ HDJ-X5BT-R Auriculares Bluetooth para DJ  Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JC4KD3W/?tag=tolees-21'
 descuento: '37.11'
 average: '99.99'

@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'NAME IT Nmsian L/s O-Neck Knit Noos suéter  Blanco  Bright White   36  Talla del Fabricante: X-Small  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GYX11YC/?tag=tolees-21'
 descuento: '45.57'
 average: '11.97'

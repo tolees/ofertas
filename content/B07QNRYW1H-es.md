@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'O³ Crema Anticelulítica 200 ml | Crema Reductora Abdomen Mujer – Tonifica – Reafirma – Hidrata – Relaja | Anticelulitico Reductor – Crema Reductora Para Piernas – Glúteos – Abdomen'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QNRYW1H/?tag=tolees-21'
 descuento: '66.69'
 average: '9.99'

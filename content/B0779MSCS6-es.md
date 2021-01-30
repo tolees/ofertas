@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Bliqniq 5 pares de Pendientes de los Aros de las Mujeres Hombres de Acero inoxidable 8 10 12 14 16 redondo mini/grandes que cuelgan la Joyería de Oro Rosa Plata Negro Oro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0779MSCS6/?tag=tolees-21'
 descuento: '35.31'
 average: '10.99'

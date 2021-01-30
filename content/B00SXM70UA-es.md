@@ -16,6 +16,7 @@ comparePrice: 31.2 EUR
 prodname: 'La Roche Posay  Agua Micelar Piel Sensible – 750'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SXM70UA/?tag=tolees-21'
 descuento: '49.36'
 average: '15.8'

@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Corsair MM200 - Alfombrilla de ratón para Juego  Superficie paño  Tela  Tamaño Extendido  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0149QBQE4/?tag=tolees-21'
 descuento: '42.87'
 average: '22.06142857142857'

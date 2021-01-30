@@ -16,6 +16,7 @@ comparePrice: 47.7 EUR
 prodname: 'Mannesmann - M19828-5 piezas Juego de llaves de carraca'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003RRWMOA/?tag=tolees-21'
 descuento: '32.24'
 average: '32.32'

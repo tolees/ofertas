@@ -16,6 +16,7 @@ comparePrice: 7.21 EUR
 prodname: 'HYMY Funda para Xiaomi Redmi 8A Smartphone + 2 x Cristal Templado - Transparente Tapa TPU Silicona [Refuerzo de Cuatro Esquinas  Absorción de Golpes] Caso Carcasa para Xiaomi Redmi 8A  6.2" '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YY9S5GP/?tag=tolees-21'
 descuento: '46.19'
 average: '3.88'

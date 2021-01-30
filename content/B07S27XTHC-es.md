@@ -16,6 +16,7 @@ comparePrice: 25 EUR
 prodname: 'Nike M NSW tee Icon Futura T-Shirt  Hombre  Obsidian/lt Photo Blue/ White '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S27XTHC/?tag=tolees-21'
 descuento: '65.40'
 average: '10.68'

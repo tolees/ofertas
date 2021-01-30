@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Taylor Shine  Botas Chelsea para Mujer  Azul  Navy Suede   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TDSLHZM/?tag=tolees-21'
 descuento: '70.04'
 average: '29.95'

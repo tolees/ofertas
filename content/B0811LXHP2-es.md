@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'FYLINA Almohada de Viaje Viscoelástica de Espuma de Memoria  Cervical Orthopedic Pillow Almohada de Cuello para el Tren de avión Viajes con máscara de Ojos  Tapones y Bolsa de Transporte  Azul Claro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0811LXHP2/?tag=tolees-21'
 descuento: '27.72'
 average: '12.28'

@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'Skagen Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable SKW6525'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QFGYFX9/?tag=tolees-21'
 descuento: '49.58'
 average: '82.89333333333333'

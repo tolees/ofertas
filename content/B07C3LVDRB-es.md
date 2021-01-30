@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Yuanguo Pulsera de Actividad Inteligente Reloj Deportivo con Pulseras de Repuesto Podómetro Monitor de Sueño Pulsera Cuenta Pasos y Calorias Pulsera Deporte Impermeable para Mujer Hombr Niño'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C3LVDRB/?tag=tolees-21'
 descuento: '25.01'
 average: '20.59'

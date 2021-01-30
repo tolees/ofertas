@@ -16,6 +16,7 @@ comparePrice: 23.66 EUR
 prodname: '100 hojas 4x6in Papel fotográfico para impresión láser a ambos lados  adecuado para imprimir fotos/invitaciones/tarjetas postales/tarjetas de índice/cartulina/stock de portadas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HNV8KGZ/?tag=tolees-21'
 descuento: '69.06'
 average: '7.32'

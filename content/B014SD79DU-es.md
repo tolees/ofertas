@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Nike MD Runner 2  TDV   Zapatillas de Deporte Unisex niño  Negro  Black/White-Wolf Grey 001   27 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B014SD79DU/?tag=tolees-21'
 descuento: '28.01'
 average: '26.776666666666667'

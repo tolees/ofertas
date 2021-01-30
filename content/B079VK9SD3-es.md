@@ -16,6 +16,7 @@ comparePrice: 131.18 EUR
 prodname: 'Casio G-SHOCK Reloj Digital  Contador de pasos  Sensor de movimiento  Aplicación de deporte gratuita para descargar  20 BAR  Negro  para Hombre  GBA-800-1AER'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079VK9SD3/?tag=tolees-21'
 descuento: '26.82'
 average: '82.73714285714284'

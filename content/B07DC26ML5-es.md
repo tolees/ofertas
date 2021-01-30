@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'PUMA Vikky Stacked SD  Zapatillas para Mujer  Negro Black Black  41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DC26ML5/?tag=tolees-21'
 descuento: '29.47'
 average: '45.81'

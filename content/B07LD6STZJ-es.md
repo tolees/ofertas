@@ -16,6 +16,7 @@ comparePrice: 38.49 EUR
 prodname: 'New Balance Q Speed Crew Running Short Bañador  Hombre  Negro  XX-Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LD6STZJ/?tag=tolees-21'
 descuento: '50.01'
 average: '19.24'

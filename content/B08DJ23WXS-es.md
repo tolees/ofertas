@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Smart Sir Calcetines Hombre y Mujer 4 Pares de Calcetines de deporte Blanco Largo Calcetines de tenis 47-50'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DJ23WXS/?tag=tolees-21'
 descuento: '31.83'
 average: '14.99'

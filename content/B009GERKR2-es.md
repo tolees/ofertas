@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Maidenform Comfort Devotion Demi - Sujetador para mujer  Black  BKB   95C'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009GERKR2/?tag=tolees-21'
 descuento: '59.80'
 average: '17.072499999999998'

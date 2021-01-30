@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Anker Cargador inalámbrico rápido  Soporte de Carga inalámbrico rápido 7.5W / 10W / 5W para iPhone  Samsung para iPhone XR/XS MAX/XS/X / 8  Galaxy S9/ S9 + / S8 Adaptador de CA no Incluido '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DBXNV58/?tag=tolees-21'
 descuento: '28.58'
 average: '19.99'

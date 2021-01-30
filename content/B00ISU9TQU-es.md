@@ -16,6 +16,7 @@ comparePrice: 44.63 EUR
 prodname: 'Casio Collection TP-1154PQ-7B  Reloj Redondo para Mujer  Análogo Clásico  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ISU9TQU/?tag=tolees-21'
 descuento: '50.39'
 average: '22.23'

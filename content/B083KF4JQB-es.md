@@ -16,6 +16,7 @@ comparePrice: 15.9 EUR
 prodname: 'Party Feet Scholl Plantillas Protector Talón Pack 2 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083KF4JQB/?tag=tolees-21'
 descuento: '37.17'
 average: '9.99'

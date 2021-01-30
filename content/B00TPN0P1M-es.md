@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Disney - I-610384s - Disfraz para niños - Classic Woody Hat - Talla S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TPN0P1M/?tag=tolees-21'
 descuento: '43.68'
 average: '16.89'

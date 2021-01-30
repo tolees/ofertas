@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Proze - Carcasa Delgada de Silicona para iPhone 11  6 1"  - Roja'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y6MHXBP/?tag=tolees-21'
 descuento: '33.44'
 average: '9.95'

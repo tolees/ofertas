@@ -16,6 +16,7 @@ comparePrice: 169.99 EUR
 prodname: 'Cámara vigilancia bebe  Vigilabebés Inalambrico con cámara Bebé Monitor Inteligente con Pantalla LCD de 4.3"'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W3M3PXS/?tag=tolees-21'
 descuento: '58.83'
 average: '62.989999999999995'

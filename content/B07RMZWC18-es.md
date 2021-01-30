@@ -16,6 +16,7 @@ comparePrice: 77.06 EUR
 prodname: 'Casio Reloj Mujer de Digital con Correa en Acero Inoxidable A700WEMG-9AEF'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RMZWC18/?tag=tolees-21'
 descuento: '37.05'
 average: '48.51'

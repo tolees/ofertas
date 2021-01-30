@@ -16,6 +16,7 @@ comparePrice: 86.91 EUR
 prodname: 'Eastpak Traf ik Light L Maleta  85 cm  101 L  Negro  Blackout Sailor '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X51FCYF/?tag=tolees-21'
 descuento: '30.04'
 average: '60.8'

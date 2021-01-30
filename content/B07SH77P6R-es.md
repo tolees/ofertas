@@ -16,6 +16,7 @@ comparePrice: 14.01 EUR
 prodname: '40 protectores de ojos  máscara para los ojos  colágeno para máscara de ojos  antiedad con tratamiento hialurónico para los ojos  antifn hidratante  elimina bolsas  ojeras'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SH77P6R/?tag=tolees-21'
 descuento: '59.39'
 average: '5.69'

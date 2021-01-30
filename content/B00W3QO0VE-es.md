@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Nokia Lumia 640 XL - Smartphone 5.7"  3G  Qualcomm MSM8926 Snapdragon 400  1 GB de RAM  Dual SIM  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00W3QO0VE/?tag=tolees-21'
 descuento: '33.45'
 average: '134.11878787878794'

@@ -16,6 +16,7 @@ comparePrice: 13.95 EUR
 prodname: 'Tasty Bone Bovino para Asar y Vino Tinto pequeño'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0785D3HZM/?tag=tolees-21'
 descuento: '49.18'
 average: '7.09'

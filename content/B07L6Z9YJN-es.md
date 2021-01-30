@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'FitFlop Anni Flex  Zapatillas sin Cordones para Mujer  Blanco  Urban White 194   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L6Z9YJN/?tag=tolees-21'
 descuento: '71.32'
 average: '25.81'

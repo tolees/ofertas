@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Under Armour Playoff 2.0 Polo  Hombre  Negro  Black/Pitch Gray 003   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZJPZPP/?tag=tolees-21'
 descuento: '60.86'
 average: '26.11'

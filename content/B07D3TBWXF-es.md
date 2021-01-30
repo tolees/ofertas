@@ -16,6 +16,7 @@ comparePrice: 3.55 EUR
 prodname: 'Kingnew Perro Techo Pet Cojín Perro Gato Cama Suave Caliente Dormir Cojín Nest Esterilla para Cachorros Perro Gato Pet Zwinger  M  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D3TBWXF/?tag=tolees-21'
 descuento: '56.06'
 average: '1.56'

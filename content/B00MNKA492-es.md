@@ -16,6 +16,7 @@ comparePrice: 33.16 EUR
 prodname: 'Led Lenser T² Linterna LED  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MNKA492/?tag=tolees-21'
 descuento: '27.77'
 average: '23.95'

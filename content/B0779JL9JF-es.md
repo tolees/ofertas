@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Pepe Jeans Poppy  Pantalones Cortos Para Mujer  Azul  Denim Ta2   26W'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0779JL9JF/?tag=tolees-21'
 descuento: '39.92'
 average: '35.99'

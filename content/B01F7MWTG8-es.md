@@ -16,6 +16,7 @@ comparePrice: 12.75 EUR
 prodname: 'Luxana Phyto Nature Tónico Azul Cabellos Grises y Blancos Tratamiento Capilar - 500 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01F7MWTG8/?tag=tolees-21'
 descuento: '32.16'
 average: '8.65'

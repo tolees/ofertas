@@ -16,6 +16,7 @@ comparePrice: 104.1 EUR
 prodname: 'Waterpik WP-70 - Producto de cuidado dental  color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001QMQE3S/?tag=tolees-21'
 descuento: '71.23'
 average: '29.95'

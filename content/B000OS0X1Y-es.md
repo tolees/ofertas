@@ -16,6 +16,7 @@ comparePrice: 14.87 EUR
 prodname: 'Pfeilring Solingen Pinza de Depilar - 1 Unidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000OS0X1Y/?tag=tolees-21'
 descuento: '32.82'
 average: '9.99'

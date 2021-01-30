@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Kappa Memni  Zapatillas para Mujer  Rosa/White 2110  37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBMQP54/?tag=tolees-21'
 descuento: '69.76'
 average: '10.57'

@@ -16,6 +16,7 @@ comparePrice: 12.27 EUR
 prodname: 'AmazonBasics - Funda de disco duro  color negro y naranja'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00F5CKWBA/?tag=tolees-21'
 descuento: '35.70'
 average: '7.89'

@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'PUMA Tazon 6 FM  Zapatillas para Correr de Carretera para Hombre  Blanco White Black Silver  44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01H4CW2Q6/?tag=tolees-21'
 descuento: '32.11'
 average: '46.19833333333334'

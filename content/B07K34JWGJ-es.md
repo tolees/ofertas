@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'auna DigiPlug FM - Radio de Enchufe   Radio con RDS   Sintonizador FM   Bluetooth   USB   Pantalla LCD   con Altavoz de Banda Ancha Integrado   Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K34JWGJ/?tag=tolees-21'
 descuento: '38.47'
 average: '39.99'

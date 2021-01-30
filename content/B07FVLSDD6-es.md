@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Destornillador Eléctrico  TECCPO 4Nm Atornillador Inalámbrico  2000mAh Batería de Litio  11 Accesorios  Incluye Broca de taladro y Varilla de extensión  Cable USB  Luz LED - TDSC02P'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FVLSDD6/?tag=tolees-21'
 descuento: '36.03'
 average: '23.72333333333333'

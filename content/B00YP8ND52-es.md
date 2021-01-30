@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'VicTsing Altavoz Bluetooth Ducha Impermeable  radio FM y pantalla LCD digital  duración de la batería de 10 horas   impermeable IPX4  adecuado baño'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00YP8ND52/?tag=tolees-21'
 descuento: '25.94'
 average: '24.990000000000002'

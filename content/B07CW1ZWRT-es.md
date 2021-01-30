@@ -16,6 +16,7 @@ comparePrice: 20.55 EUR
 prodname: 'Sheba Craft Collection - Elegante alimento húmedo para Gatos - pequeñas cantidades y Salsa en Bolsa de porción de 85 g  Diferentes variedades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CW1ZWRT/?tag=tolees-21'
 descuento: '38.83'
 average: '12.57'

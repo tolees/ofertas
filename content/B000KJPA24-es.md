@@ -16,6 +16,7 @@ comparePrice: 43.35 EUR
 prodname: 'Wedo 212 Taburete con Ruedas  Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000KJPA24/?tag=tolees-21'
 descuento: '27.59'
 average: '33.623333333333335'

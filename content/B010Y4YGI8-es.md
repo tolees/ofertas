@@ -16,6 +16,7 @@ comparePrice: 22.95 EUR
 prodname: 'Cúrcuma orgánica 745mg + Jengibre + Pimienta negra. Suplemento alimenticio a base de cúrcuma ecológica Bioperine. Potente antioxidante natural. 120 cápsulas vegetales. Vegano y sin gluten.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B010Y4YGI8/?tag=tolees-21'
 descuento: '34.12'
 average: '17.537142857142857'

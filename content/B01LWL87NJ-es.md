@@ -16,6 +16,7 @@ comparePrice: 15.25 EUR
 prodname: 'Kimi Koala'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LWL87NJ/?tag=tolees-21'
 descuento: '39.67'
 average: '9.2'

@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Sony SRSXB41R - Altavoz portátil Bluetooth  Extra Bass  Modo Sonido Live  Party Booster  Luces de Fiesta llamativas  Conector USB para Cargar Smartphone   Color Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078WTWRJK/?tag=tolees-21'
 descuento: '30.74'
 average: '103.2'

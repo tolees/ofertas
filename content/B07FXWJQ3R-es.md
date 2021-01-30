@@ -16,6 +16,7 @@ comparePrice: 50 EUR
 prodname: 'Vans Palomar  Zapatillas para Niños  Negro   Suede/Canvas  Black/White Iju   32.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FXWJQ3R/?tag=tolees-21'
 descuento: '28.20'
 average: '35.9'

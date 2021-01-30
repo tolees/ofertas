@@ -16,6 +16,7 @@ comparePrice: 84.95 EUR
 prodname: 'Skechers On-the-go Joy Botas Altas Mujer  Marrón  Chocolate Suede/Textile Chocolate   37.5 EU  4.5 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NW9MVLT/?tag=tolees-21'
 descuento: '59.95'
 average: '34.02'

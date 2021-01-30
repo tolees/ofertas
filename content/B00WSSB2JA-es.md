@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Lotus Minimalist 18117/1- Reloj para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00WSSB2JA/?tag=tolees-21'
 descuento: '25.36'
 average: '93.37333333333333'

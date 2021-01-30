@@ -16,6 +16,7 @@ comparePrice: 74.99 EUR
 prodname: 'Eukanuba Adulto Raza pequeña y mediana Rico en cordero y arroz [12 Kg]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00B7GOI9K/?tag=tolees-21'
 descuento: '53.34'
 average: '34.99'

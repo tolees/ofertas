@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Crema De Cacahuete Loaded Nuts | Crema De Cacahuete Con Chocolate Premium | Sin Aceite De Palma | Fuente De Proteínas | Brownie Deep Choc Dive | THE PROTEIN WORKS | 500 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JQN875K/?tag=tolees-21'
 descuento: '43.88'
 average: '7.29'

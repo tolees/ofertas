@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Pepe Jeans Sloane Pantalones   Deep Sea 597   W31/L34 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CCDDC7D/?tag=tolees-21'
 descuento: '67.88'
 average: '20.88'

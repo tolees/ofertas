@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Kappa Monteba OC  Zapatillas Unisex Adulto  Black 1111  36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBCK9HF/?tag=tolees-21'
 descuento: '51.46'
 average: '19.39'

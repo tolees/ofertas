@@ -16,6 +16,7 @@ comparePrice: 81.92 EUR
 prodname: 'Altavoz Bluetooth Ducha  COMISO IPX7 Impermeable Altavoz Inalambrico Portátil con Ventosa  Micrófono Integrado  12 Horas para Hogar Fiesta Ducha Baño y Piscina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MDH5RSX/?tag=tolees-21'
 descuento: '81.70'
 average: '14.99'

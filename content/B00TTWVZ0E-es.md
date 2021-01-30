@@ -16,6 +16,7 @@ comparePrice: 9.11 EUR
 prodname: 'Lacer Enjuagues Bucales 1 Unidad 200 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TTWVZ0E/?tag=tolees-21'
 descuento: '64.87'
 average: '3.2'

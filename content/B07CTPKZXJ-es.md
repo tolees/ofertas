@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Under Armour UA W HOVR Sonic 2  Zapatillas de Running para Mujer  Negro  Black/White/White  003  003   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CTPKZXJ/?tag=tolees-21'
 descuento: '65.92'
 average: '45.155'

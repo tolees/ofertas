@@ -16,6 +16,7 @@ comparePrice: 279.0 EUR
 prodname: 'Michael Kors Reloj Cronógrafo para Hombre de Cuarzo con Correa en Silicona MK8184'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004X8VOC8/?tag=tolees-21'
 descuento: '57.03'
 average: '131.22727272727275'

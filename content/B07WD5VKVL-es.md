@@ -16,6 +16,7 @@ comparePrice: 125.99 EUR
 prodname: 'HyperX Fury HX432C16FB3K2/16 DIMM DDR4 16 GB Kit  2 x 8 GB  3200 MHz  CL16 1Rx8  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WD5VKVL/?tag=tolees-21'
 descuento: '44.44'
 average: '75.85714285714286'

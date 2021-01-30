@@ -16,6 +16,7 @@ comparePrice: 167.33 EUR
 prodname: 'Makita FS4200 atornillador  500 W  120 V   L X A X  mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002VPEEJ0/?tag=tolees-21'
 descuento: '25.09'
 average: '125.35'

@@ -16,6 +16,7 @@ comparePrice: 12.15 EUR
 prodname: 'Capicua - Preparado graso Especial para cocinar - 5 litros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X4FC7KE/?tag=tolees-21'
 descuento: '26.83'
 average: '9.076666666666668'

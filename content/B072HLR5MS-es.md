@@ -16,6 +16,7 @@ comparePrice: 25.01 EUR
 prodname: 'CINTA ANTIDESLIZANTE - LUMINOSO FLUORESCENTE - 50 mm x 5 M - INTERHOME©'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072HLR5MS/?tag=tolees-21'
 descuento: '56.06'
 average: '10.99'

@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Omega 3 6 7 9  90 perlas enriquecidas con aceite de lino  onagra  oliva  germen de trigo y nueces de Macadamia  beneficioso para el corazón  vista y cerebro  novonatur'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XJD35V6/?tag=tolees-21'
 descuento: '36.07'
 average: '15.95'

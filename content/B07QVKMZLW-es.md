@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Receptor Bluetooth Jack 3.5 MM  ieGeek Adaptador de Audio Inalámbrico Mini  Kit Manos Libres para Llamada Salida Estéreo Admite para Auriculares  Teléfono  PC  Vehículo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QVKMZLW/?tag=tolees-21'
 descuento: '31.83'
 average: '14.195128205128205'

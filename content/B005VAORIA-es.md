@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Plantronics 81960-15 - Auriculares con micrófono  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005VAORIA/?tag=tolees-21'
 descuento: '34.30'
 average: '22.99'

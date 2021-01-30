@@ -16,6 +16,7 @@ comparePrice: 39.98 EUR
 prodname: 'Bolsa de Herramientas  TECCPO Professional Bolsa de Trabajo Pesado  Almacenamiento de Bolsa Resistente con Base de Goma Resistente al Desgaste  Correa de Hombro Ajustable - THTB02B'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FXYBQXK/?tag=tolees-21'
 descuento: '62.56'
 average: '15.470000000000002'

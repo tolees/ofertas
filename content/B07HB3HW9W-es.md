@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Pop! Modern Family - Figura de Vinilo Claire'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HB3HW9W/?tag=tolees-21'
 descuento: '55.92'
 average: '7.03'

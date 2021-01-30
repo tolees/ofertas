@@ -16,6 +16,7 @@ comparePrice: 16.7 EUR
 prodname: 'Funko- Pop Figura de Vinilo: Disney: Little Mermaid-Prince Eric Coleccionable  Multicolor  Talla única  40106 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZNY2MT/?tag=tolees-21'
 descuento: '46.11'
 average: '9.373333333333335'

@@ -16,6 +16,7 @@ comparePrice: 12.7 EUR
 prodname: 'AZGIANT Toalla De Deporte  De Enfriamiento  Toalla De RefrigeracióN  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D5X1PX6/?tag=tolees-21'
 descuento: '53.62'
 average: '5.89'

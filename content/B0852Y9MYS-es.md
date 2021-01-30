@@ -16,6 +16,7 @@ comparePrice: 2.05 EUR
 prodname: 'TPU Soft Cover Gel Skin Case Accesorios para teléfono Celular para LG Optimus P760 Exquisitamente diseñado Durable-Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0852Y9MYS/?tag=tolees-21'
 descuento: '48.78'
 average: '1.05'

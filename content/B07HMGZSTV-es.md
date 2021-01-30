@@ -16,6 +16,7 @@ comparePrice: 42.99 EUR
 prodname: 'Star Wars E0329EW0 SW S2 Yoda - Máscara electrónica  Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HMGZSTV/?tag=tolees-21'
 descuento: '55.83'
 average: '18.99'

@@ -16,6 +16,7 @@ comparePrice: 305.65 EUR
 prodname: 'ASUS DUAL-GTX1060-O6G - Tarjeta gráfica  Dual  NVIDIA GeForce GTX 1060  6 GB  GDDR5  HDMI  DVI  DP  Color Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IPFN7UQ/?tag=tolees-21'
 descuento: '34.89'
 average: '241.505'

@@ -16,6 +16,7 @@ comparePrice: 13.73 EUR
 prodname: 'adidas Gymsack SP Bolsa de Deporte  Unisex Adulto  Black/Black/White  NS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KKZWSHH/?tag=tolees-21'
 descuento: '36.64'
 average: '8.774999999999999'

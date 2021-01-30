@@ -16,6 +16,7 @@ comparePrice: 8.25 EUR
 prodname: 'Rimmel London  Lasting Finish Extreme Barra de Labios  Tono 720'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RD14LLS/?tag=tolees-21'
 descuento: '46.30'
 average: '4.43'

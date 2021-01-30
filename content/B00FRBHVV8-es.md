@@ -16,6 +16,7 @@ comparePrice: 57.95 EUR
 prodname: 'PURLINE SIRIUS Biochimenea con tamaño compacto y vidrio frontal que protege la llama'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00FRBHVV8/?tag=tolees-21'
 descuento: '30.99'
 average: '39.99'

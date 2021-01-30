@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Triumph Lace Spotlight W Sujetador con Aros  Naranja  Dusty Pink 6237   95C  Talla del Fabricante: 80  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JVQ2C79/?tag=tolees-21'
 descuento: '54.94'
 average: '18.0'

@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Birkenstock Rio  Sandalia con Pulsera para Niñas  Blanco Metallic Stones White  29 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079C4HPCW/?tag=tolees-21'
 descuento: '34.67'
 average: '35.93'

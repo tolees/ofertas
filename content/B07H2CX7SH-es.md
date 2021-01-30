@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'TiaoBug 4Pcs Disfraz de Anime Mujer Cosplay de Marinero Chica Mujer para Fiesta Halloween Carnaval Actuación Cumpleaños Fotografía Morado Medium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H2CX7SH/?tag=tolees-21'
 descuento: '36.50'
 average: '23.49'

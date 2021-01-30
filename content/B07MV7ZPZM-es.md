@@ -16,6 +16,7 @@ comparePrice: 29.55 EUR
 prodname: 'perfk Soporte de Carga Inalámbrica Qi Herramientas Moviles Intelligentes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MV7ZPZM/?tag=tolees-21'
 descuento: '36.51'
 average: '18.76'

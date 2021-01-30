@@ -16,6 +16,7 @@ comparePrice: 45.97 EUR
 prodname: 'Ueleknight Reproductor de MP3 MP4 con Micro SD de 16G  de Música Digital Portátil/de Video/Lector de Libros Electrónicos/Visualización de Imágenes  Pantalla de 1 8 Pulgadas de Música  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VQD9C3V/?tag=tolees-21'
 descuento: '60.91'
 average: '17.97'

@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Deportes Hera Ropa Ciclismo Perneras Térmicas Calentadores de Las piernas Medias de Invierno Ciclistas Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OYJLH1Y/?tag=tolees-21'
 descuento: '29.12'
 average: '8.84'

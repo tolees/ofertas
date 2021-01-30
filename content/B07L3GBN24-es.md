@@ -16,6 +16,7 @@ comparePrice: 94.9 EUR
 prodname: 'Tommy Hilfiger Tommy Stripe Retro Sneaker  Zapatillas para Mujer  Blanco  Off White 156   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L3GBN24/?tag=tolees-21'
 descuento: '50.00'
 average: '47.065'

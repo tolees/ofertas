@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Taurus Babel - Ventilador de torre sin control remoto  3 velocidades  45W  color gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007PS4WJ0/?tag=tolees-21'
 descuento: '27.29'
 average: '41.996'

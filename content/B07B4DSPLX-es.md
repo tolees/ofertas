@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Bikers-Lineage  Botas Estilo Motero para Mujer  Marrón  Chocolate Suede/Flash Chocolate   35.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B4DSPLX/?tag=tolees-21'
 descuento: '73.82'
 average: '18.31'

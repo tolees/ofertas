@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Figura Pop! Garbage Pail Kids Ghastly Ashley'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0798GTLX7/?tag=tolees-21'
 descuento: '31.10'
 average: '10.685'

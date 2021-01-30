@@ -16,6 +16,7 @@ comparePrice: 15.0 EUR
 prodname: 'Targus - AMW060EU - Targus Wireless Optical Laptop Mouse Ratón óptico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0087O4CKK/?tag=tolees-21'
 descuento: '33.40'
 average: '9.99'

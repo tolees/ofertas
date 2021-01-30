@@ -16,6 +16,7 @@ comparePrice: 47.99 EUR
 prodname: 'Sunstech ARGOS4GBBL - Reproductor MP3 deportivo resistente al agua  Negro y Azul  4 GB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B014Q1BSYU/?tag=tolees-21'
 descuento: '34.30'
 average: '38.39'

@@ -16,6 +16,7 @@ comparePrice: 128.0 EUR
 prodname: 'Shiseido Bio-Performance Glow Revival Crema - 50 ml  0768614119562 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018URIN76/?tag=tolees-21'
 descuento: '43.38'
 average: '72.48'

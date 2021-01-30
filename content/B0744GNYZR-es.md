@@ -16,6 +16,7 @@ comparePrice: 444.83 EUR
 prodname: 'DXRacer OH/RE21/NY/NAVI Asiento Acolchado Respaldo Acolchado - Silla  Asiento Acolchado  Respaldo Acolchado  Negro  Amarillo  Negro  Amarillo  Imitación Piel  Imitación Piel '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0744GNYZR/?tag=tolees-21'
 descuento: '27.39'
 average: '322.99'

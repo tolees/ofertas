@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Men s Heston-Avano Trainers  Black  Black Blk   6 UK  39.5 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JH8DG6M/?tag=tolees-21'
 descuento: '47.81'
 average: '37.75'

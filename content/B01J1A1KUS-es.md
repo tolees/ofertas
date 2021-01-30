@@ -16,6 +16,7 @@ comparePrice: 6.0 EUR
 prodname: 'Rimmel London Royal Blush Colorete en crema Tono 3  3.5 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01J1A1KUS/?tag=tolees-21'
 descuento: '34.67'
 average: '4.123333333333333'

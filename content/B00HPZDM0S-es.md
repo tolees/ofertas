@@ -16,6 +16,7 @@ comparePrice: 84.95 EUR
 prodname: 'PUMA Basket Classic LFS  Zapatillas para Hombre  Blanco  White/White   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HPZDM0S/?tag=tolees-21'
 descuento: '50.03'
 average: '41.65555555555556'

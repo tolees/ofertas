@@ -16,6 +16,7 @@ comparePrice: 1499.0 EUR
 prodname: 'Apple MacBook Air  de 13 pulgadas  Modelo Anterior  8GB RAM  256GB de almacenamiento  - Gris Espacial'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V49Y2PS/?tag=tolees-21'
 descuento: '27.35'
 average: '1170.4666666666667'

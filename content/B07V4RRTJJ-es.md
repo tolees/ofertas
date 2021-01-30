@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Tommy Hilfiger - Soft Turnlock Cc Holder  Carteras Mujer  Marrón  Tobacco   1x1x1 cm  W x H L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V4RRTJJ/?tag=tolees-21'
 descuento: '50.18'
 average: '24.86'

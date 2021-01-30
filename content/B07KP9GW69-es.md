@@ -16,6 +16,7 @@ comparePrice: 48.0 EUR
 prodname: 'DlandHome Mesa Auxiliar En Forma de U con Ruedas Cesta  Portátil para Sofá Salón Mesa de Centro Soporte para Ordenador para Lectura/Desayuno  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KP9GW69/?tag=tolees-21'
 descuento: '31.27'
 average: '32.99'

@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'L Oreal Paris Make-up Designer Polvo Bronceador Glam Bronze La Terra 04 Taormina de L Oreal Paris Make-up Designer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00I6E4WIS/?tag=tolees-21'
 descuento: '29.97'
 average: '10.47'

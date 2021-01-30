@@ -16,6 +16,7 @@ comparePrice: 37.95 EUR
 prodname: 'Intex 28602 - Depuradora cartucho tipo H Krystal Clear 1.250 litros/hora'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MQEM6OU/?tag=tolees-21'
 descuento: '44.45'
 average: '36.67333333333333'

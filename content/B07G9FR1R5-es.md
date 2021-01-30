@@ -16,6 +16,7 @@ comparePrice: 169.99 EUR
 prodname: 'Outsunny Calefactor Infrarrojo Calentador Eléctrico de Exterior Patio Montado en Sombrilla Poste 2000W 4 Cabezas Φ55.5x13cm Acero y Aluminio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G9FR1R5/?tag=tolees-21'
 descuento: '64.71'
 average: '59.99'

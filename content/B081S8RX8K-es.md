@@ -16,6 +16,7 @@ comparePrice: 77.61 EUR
 prodname: 'Duérmete Online Colchón Juvenil Vale Reversible Eliocel Grosor 15cm con Doble Cara  Invierno/Verano  Fabricado en España  Muy Transpirable  80x190'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081S8RX8K/?tag=tolees-21'
 descuento: '33.24'
 average: '51.81'

@@ -16,6 +16,7 @@ comparePrice: 219.0 EUR
 prodname: 'HP 27wm - Monitor de 27" con altavoces  IPS LED  FHD 1920 x 1080  16:9  75Hz  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HIT8T2G/?tag=tolees-21'
 descuento: '36.08'
 average: '153.13833333333335'

@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'WMF 545304021 Permadur Element Paellera Aluminio  Antiadherente  Apto para Todo Tipo de Cocinas Incluido Inducción  Exterior Resistente en Acero  30 cm sin PFOA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QJLL3CH/?tag=tolees-21'
 descuento: '30.91'
 average: '37.99'

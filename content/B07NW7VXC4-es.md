@@ -16,6 +16,7 @@ comparePrice: 51.96 EUR
 prodname: 'Skechers Women s SYNERGY Ankle Boots  Brown  Chestnut Micro Leather/Natural Faux Sherpa Csnt   5  38 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NW7VXC4/?tag=tolees-21'
 descuento: '25.00'
 average: '38.97'

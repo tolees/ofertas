@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'American Tourister Soundbox Spinner Equipaje de mano S  55 cm 41 L   Azul  Midnight Navy '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071CK7FKF/?tag=tolees-21'
 descuento: '31.32'
 average: '100.175'

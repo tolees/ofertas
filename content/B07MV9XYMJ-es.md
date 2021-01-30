@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Kipling - Money Keeper  Carteras Mujer  Negro  Black Indigo   11x7.5x1 cm  B x H T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MV9XYMJ/?tag=tolees-21'
 descuento: '28.38'
 average: '27.93'

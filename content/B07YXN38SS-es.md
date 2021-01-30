@@ -16,6 +16,7 @@ comparePrice: 140.7 EUR
 prodname: 'Pistola de Masaje portátil con Pantalla LCD de 6 Cabezas  20 velocidades masajeador manual de músculos profundos para la recuperación de los dolores musculares y la relajación física'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YXN38SS/?tag=tolees-21'
 descuento: '28.22'
 average: '100.99'

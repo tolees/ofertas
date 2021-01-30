@@ -16,6 +16,7 @@ comparePrice: 48.0 EUR
 prodname: 'Weider 40% Protein Low Carb. Barrita  alto contenido en proteínas sin hidratos de carbono. 40% de proteínas por barrita. Sabor Chocolate  24 x 50 g '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00H2E97RY/?tag=tolees-21'
 descuento: '27.29'
 average: '39.785'

@@ -16,6 +16,7 @@ comparePrice: 44.9 EUR
 prodname: 'Tommy Hilfiger Bra Sujetador Push-up  Azul  Navy Blazer 416   70D para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06W5BTZ32/?tag=tolees-21'
 descuento: '50.40'
 average: '22.27'

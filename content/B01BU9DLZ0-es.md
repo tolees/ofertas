@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Lacoste Reloj Analógico para Mujer de Cuarzo con Correa en Silicona 2020107'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BU9DLZ0/?tag=tolees-21'
 descuento: '40.41'
 average: '50.65'

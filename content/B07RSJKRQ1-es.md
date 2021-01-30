@@ -16,6 +16,7 @@ comparePrice: 37.66 EUR
 prodname: 'Kegel Kit de ejercicio de peso – 5 bolas de kegel para principiantes y avanzados  recomendado por médicos para mujeres control de vejiga y ejercicio de suelo pélvico  bolas de masaje Ben Wa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RSJKRQ1/?tag=tolees-21'
 descuento: '51.54'
 average: '18.25'

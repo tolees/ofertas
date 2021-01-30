@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Bayala the Game'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y2M7RLY/?tag=tolees-21'
 descuento: '28.06'
 average: '31.630000000000003'

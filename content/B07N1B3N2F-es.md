@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'superfit Husky  Botas de Nieve para Niñas  Schwarz Rot 05  26 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1B3N2F/?tag=tolees-21'
 descuento: '50.04'
 average: '34.95'

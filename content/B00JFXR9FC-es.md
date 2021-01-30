@@ -16,6 +16,7 @@ comparePrice: 33.99 EUR
 prodname: '256 MB Memoria Flash USB 10 Piezas Pendrives - Portátil 256MB Pen Drive Económico Metal Llave USB para el Trabajo - Giratorio Almacenamiento de Datos Azul Práctico Regalo Unidad Flash USB by FEBNISCTE'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JFXR9FC/?tag=tolees-21'
 descuento: '32.36'
 average: '22.99'

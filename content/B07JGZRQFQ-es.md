@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Altavoz inalámbrico con Bluetooth  AICase Altavoz Bluetooth Portatiles  A8  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JGZRQFQ/?tag=tolees-21'
 descuento: '60.02'
 average: '15.99'

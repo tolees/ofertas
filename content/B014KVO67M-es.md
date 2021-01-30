@@ -16,6 +16,7 @@ comparePrice: 8.0 EUR
 prodname: 'Nostalgic-Art 48016 - Llavero Redondo  Forma de tacómetro de BMW  4 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B014KVO67M/?tag=tolees-21'
 descuento: '37.62'
 average: '4.99'

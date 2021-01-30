@@ -16,6 +16,7 @@ comparePrice: 48.76 EUR
 prodname: 'HP C4906AE 940XL Cartucho de Tinta Original de alto rendimiento  1 unidad  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001OBS8W6/?tag=tolees-21'
 descuento: '32.32'
 average: '33'

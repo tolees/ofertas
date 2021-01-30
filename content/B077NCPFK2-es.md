@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'modamoda de - pequeño de cuero embrague ital metálico M106-151  Color:M151 Negro Metálico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077NCPFK2/?tag=tolees-21'
 descuento: '36.73'
 average: '31.0'

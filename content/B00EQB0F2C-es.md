@@ -16,6 +16,7 @@ comparePrice: 66.99 EUR
 prodname: 'Braun TS715 - Plancha ropa vapor  2300 W  140 gr/min golpe de vapor  acero inoxidable  blanco y lila'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EQB0F2C/?tag=tolees-21'
 descuento: '34.06'
 average: '39.54'

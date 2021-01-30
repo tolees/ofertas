@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'G-STAR RAW 3301 Slim 1/2 Pantalones cortos  Mehrfarbig  Medium Indigo Aged 8968-6028   W25  Talla del fabricante: 25W  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L3BLSXP/?tag=tolees-21'
 descuento: '69.97'
 average: '27.01'

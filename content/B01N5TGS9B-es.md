@@ -16,6 +16,7 @@ comparePrice: 72.64 EUR
 prodname: 'BHR 41691 Casco Moto Demi-Jet Linea One 801  L  59 cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N5TGS9B/?tag=tolees-21'
 descuento: '42.66'
 average: '41.65'

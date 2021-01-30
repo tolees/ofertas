@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Columbia MARAGAL WP  Botas Casual para Mujer  Marrón  Espresso MHW  L   36 1/2 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JHWD86R/?tag=tolees-21'
 descuento: '76.15'
 average: '28.62'

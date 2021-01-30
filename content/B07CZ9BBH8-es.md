@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Under Armour Streaker 2.0 Racer Tanque  Mujer  Negro  Black/Black/Reflective 001   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZ9BBH8/?tag=tolees-21'
 descuento: '60.26'
 average: '13.91'

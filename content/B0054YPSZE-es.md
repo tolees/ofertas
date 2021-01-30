@@ -16,6 +16,7 @@ comparePrice: 299.99 EUR
 prodname: 'VITALmaxx Trainer a vibrazione con 99 livelli di vibrazione e 10 programmi e Display LCD | Allenamento per Tutto il Corpo a casa  comprese le Bande di espansione'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0054YPSZE/?tag=tolees-21'
 descuento: '43.33'
 average: '169.99'

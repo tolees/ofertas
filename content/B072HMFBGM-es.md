@@ -16,6 +16,7 @@ comparePrice: 257.5 EUR
 prodname: 'Ferplast Espaciosa Jaula para Canarios  periquitos y pájaros exóticos Planeta  con Accesorios y Soporte con Ruedas con repisa portaobjetos  Alambre Pintado Negro y cubeta marrón  97 x 58 x h 173 5 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072HMFBGM/?tag=tolees-21'
 descuento: '53.40'
 average: '119.99'

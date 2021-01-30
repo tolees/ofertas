@@ -16,6 +16,7 @@ comparePrice: 32.9 EUR
 prodname: 'Yunteng Precisión Cosido y Durable Dragonfly Oil Custom Mouse Pad Alfombrillas Impermeables con Base de Goma Antideslizante para Juegos de Oficina Estudio de alfombras para Hombres y Mujeres'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PJKNZTD/?tag=tolees-21'
 descuento: '88.18'
 average: '3.89'

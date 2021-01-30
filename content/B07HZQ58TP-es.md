@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'Timex Reloj Mujer de Digital con Correa en Silicona TW5M23600'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HZQ58TP/?tag=tolees-21'
 descuento: '28.80'
 average: '34.89'

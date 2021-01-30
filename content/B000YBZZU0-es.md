@@ -16,6 +16,7 @@ comparePrice: 13.67 EUR
 prodname: 'Fellowes Gel Crystals - Reposamuñecas flexible  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000YBZZU0/?tag=tolees-21'
 descuento: '36.50'
 average: '8.867272727272727'

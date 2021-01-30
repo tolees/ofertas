@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Superga 2750-efglu  Zapatillas de Gimnasia Unisex Adulto  Blanco  White 900   35.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B012XD34ZE/?tag=tolees-21'
 descuento: '82.08'
 average: '16.386'

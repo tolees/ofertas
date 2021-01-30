@@ -16,6 +16,7 @@ comparePrice: 26.5 EUR
 prodname: 'Orbegozo CM 2360 - Crepera eléctrica  superficie antiadherente de 30 cm de diámetro   temperatura regulable  1000 W de potencia'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LLH5BNQ/?tag=tolees-21'
 descuento: '25.47'
 average: '19.75'

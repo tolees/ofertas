@@ -16,6 +16,7 @@ comparePrice: 349.86 EUR
 prodname: 'Jabra Speak 750 - Altavoz Portátil para Conferencias con Adaptador Bluetooth y USB  Certificado para Comunicaciones Unificadas  Compatible con PC  Smartphones y Tabletas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0856XWK5P/?tag=tolees-21'
 descuento: '33.16'
 average: '233.86'

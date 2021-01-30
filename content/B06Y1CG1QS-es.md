@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Wrangler HIGH RISE SKINNY Pantalones  Negro  Rinsewash 023   31W / 30L para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y1CG1QS/?tag=tolees-21'
 descuento: '31.91'
 average: '54.44'

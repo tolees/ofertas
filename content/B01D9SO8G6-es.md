@@ -16,6 +16,7 @@ comparePrice: 4.8 EUR
 prodname: 'Pendientes Yazilind deslumbrante Ba?ado En Plata l¨¢grima cortada Negro Hook Circonita cuelga gota mujeres'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01D9SO8G6/?tag=tolees-21'
 descuento: '65.00'
 average: '1.68'

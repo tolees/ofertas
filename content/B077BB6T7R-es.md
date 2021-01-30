@@ -16,6 +16,7 @@ comparePrice: 39.5 EUR
 prodname: 'Calvin Klein Cotton Stretch-3er Calcetines  Negro  Black W. Black WB Xwb   X-Large  Pack de 3  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077BB6T7R/?tag=tolees-21'
 descuento: '29.24'
 average: '27.95'

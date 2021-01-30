@@ -16,6 +16,7 @@ comparePrice: 80.39 EUR
 prodname: 'Suhu Redondo Puff Baúl Taburete de Terciopelo Asiento Otomana Elegante Patas de Madera Maciza Asiento Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MC4LMXP/?tag=tolees-21'
 descuento: '46.52'
 average: '42.99'

@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Geographical Norway Polar RIAKOLO Mujer Gris Claro 02'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082BCK82T/?tag=tolees-21'
 descuento: '30.00'
 average: '48.3'

@@ -16,6 +16,7 @@ comparePrice: 19.53 EUR
 prodname: 'Baines - Bebida Pacharán Navarro  1 L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MTWSF68/?tag=tolees-21'
 descuento: '40.96'
 average: '11.53'

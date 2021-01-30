@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'Under Armour Warp Knit High Impact Bra Sujetador Deportivo  Mujer  Rosa  Impulse Pink/Ash Taupe/Reflective 671   36D'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KH92QW9/?tag=tolees-21'
 descuento: '72.81'
 average: '14.95'

@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Eastpak Stand + Bolsa de viaje  53 cm  34 L  Azul  Cloud Navy '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DP3NX4W/?tag=tolees-21'
 descuento: '32.13'
 average: '40.72'

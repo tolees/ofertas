@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Medisana IPL 836 99120 - Depiladora a base de luz para una piel lisa y duradera - Reducción del cabello con 100.000 pulsos de luz - Depiladora con sensor de piel y 6 niveles de intensidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QRTJM9X/?tag=tolees-21'
 descuento: '34.16'
 average: '48.431666666666665'

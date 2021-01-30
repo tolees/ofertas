@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Foto Clip cadena de luces LED 2.4m 20 foto clips luces  Alimentado por Batería para Día de San Valentín  fiesta de cumpleaños  Blanco cálido '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DBKTGCG/?tag=tolees-21'
 descuento: '35.02'
 average: '12.99'

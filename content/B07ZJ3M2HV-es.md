@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'NETVIP WiFi USB Adaptador 1200Mpbs Receptor WiFi Inalámbrico Dual Band 2.4G / 5.8G WiFi Dongle con Antena de 5dBi Receptor Soporte Windows 10/8/8.1/7/Vista/XP Mac OS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZJ3M2HV/?tag=tolees-21'
 descuento: '48.59'
 average: '17.99'

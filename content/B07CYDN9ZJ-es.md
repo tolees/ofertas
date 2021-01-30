@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Salomon XA Pro 3D J  Zapatillas de Trail Running Unisex Niños  Rojo/Naranja  Cerise/Dubarry/Peach Amber   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CYDN9ZJ/?tag=tolees-21'
 descuento: '37.34'
 average: '44.535'

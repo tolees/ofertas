@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'GERUIKE Estante Ducha Rinconera Ducha Estanteria Baño Cesta de Ducha Estante de almacenaje baño y Cocina Bandeja de Ducha Rectangular Adhesiva con 2 Ganchos Aluminio Clavos sin Taladro Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GTDYKJK/?tag=tolees-21'
 descuento: '31.83'
 average: '15.989999999999998'

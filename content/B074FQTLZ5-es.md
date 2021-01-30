@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Festina Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable F16864/5'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074FQTLZ5/?tag=tolees-21'
 descuento: '60.40'
 average: '59.0'

@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'Panasonic KX-TGB212SPB - Teléfono fijo digital  DECT Dúo  función alarma/despertador  6 melodías de timbre  Identificación de llamada entrante   Negro  TGB21 Duo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00L7QUBM8/?tag=tolees-21'
 descuento: '26.81'
 average: '27.596666666666668'

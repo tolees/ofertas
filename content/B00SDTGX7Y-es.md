@@ -16,6 +16,7 @@ comparePrice: 22.98 EUR
 prodname: 'Sophie La Girafe 000004 - Mi primer set y muselina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SDTGX7Y/?tag=tolees-21'
 descuento: '26.11'
 average: '16.98'

@@ -16,6 +16,7 @@ comparePrice: 84.95 EUR
 prodname: 'Skechers On-the- Go Joy Botas Altas Mujer  Dark Taupe Suede Dktp   35 EU  2 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NW6FTDN/?tag=tolees-21'
 descuento: '76.72'
 average: '21.990000000000002'

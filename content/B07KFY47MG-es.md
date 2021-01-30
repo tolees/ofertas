@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'PUMA Drift Cat 5 AC  Zapatillas Unisex Adulto  White White  43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFY47MG/?tag=tolees-21'
 descuento: '62.76'
 average: '24.19'

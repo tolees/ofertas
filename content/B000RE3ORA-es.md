@@ -16,6 +16,7 @@ comparePrice: 4.5 EUR
 prodname: 'Brabantia 365263 Espatula de Cocina pequeña  Nailon  Negro  Centimeters'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000RE3ORA/?tag=tolees-21'
 descuento: '33.56'
 average: '3.056666666666667'

@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Recipientes para envasar al vacío  Aicok Juego de Recipientes para el Almacenamiento/Envasado al Vacío  Rápida Conservación  Juego de 2 Piezas  Apto para Microondas / Lavavajillas / Congelador'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076VFLZW1/?tag=tolees-21'
 descuento: '32.01'
 average: '17.21222222222222'

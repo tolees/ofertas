@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Taurus Striker 2.0 Robot Aspirador Compacto  con Sensor Anti-caída  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BQZ1SCW/?tag=tolees-21'
 descuento: '25.01'
 average: '89.09285714285716'

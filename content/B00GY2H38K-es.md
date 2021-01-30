@@ -16,6 +16,7 @@ comparePrice: 9.13 EUR
 prodname: 'GASA ESTERIL INDAS CAJA 100 UNID SOBRE 5 U'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GY2H38K/?tag=tolees-21'
 descuento: '37.79'
 average: '5.68'

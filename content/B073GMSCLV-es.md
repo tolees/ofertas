@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Lysport Cámara Web De 1080P HD Webcam con Micrófono Incorporado para Cualquier Computadora Portátil y De Escritorio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073GMSCLV/?tag=tolees-21'
 descuento: '27.51'
 average: '28.99'

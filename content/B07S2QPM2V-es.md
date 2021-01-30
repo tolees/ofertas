@@ -16,6 +16,7 @@ comparePrice: 134.99 EUR
 prodname: 'Mizuno Wave Ultima 11  Zapatillas de Running para Hombre  Azul  Blue/Wht/Dress Blue 08   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S2QPM2V/?tag=tolees-21'
 descuento: '29.99'
 average: '94.5'

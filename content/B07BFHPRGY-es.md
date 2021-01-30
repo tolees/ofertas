@@ -16,6 +16,7 @@ comparePrice: 249 EUR
 prodname: 'Bébé Confort TITÁN  Nomad Black   Silla de auto  grupo 1/2/3  9-36 Kg  convertible  reclinable  ISOFIX  9 meses-12 años  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BFHPRGY/?tag=tolees-21'
 descuento: '31.73'
 average: '169.99'

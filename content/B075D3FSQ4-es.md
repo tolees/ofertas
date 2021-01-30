@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Trust GXT 310D Radius - Auriculares Gaming Multi-Plataforma  Color Camuflaje Desierto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075D3FSQ4/?tag=tolees-21'
 descuento: '48.02'
 average: '16.942'

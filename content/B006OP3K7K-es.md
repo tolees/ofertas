@@ -16,6 +16,7 @@ comparePrice: 3.99 EUR
 prodname: 'Puma 205203001  Calcetines Para Bebés  Multicolor  Powder Blue   15/18'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006OP3K7K/?tag=tolees-21'
 descuento: '25.06'
 average: '2.99'

@@ -16,6 +16,7 @@ comparePrice: 118.58 EUR
 prodname: 'Bosch Professional de carga inalámbrica clásico juego de accesorios  18 V  1600A009CN'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XW5H68O/?tag=tolees-21'
 descuento: '52.78'
 average: '55.99'

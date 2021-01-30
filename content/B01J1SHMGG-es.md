@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'WWE 2K17 - Edición NXT'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01J1SHMGG/?tag=tolees-21'
 descuento: '39.99'
 average: '60'

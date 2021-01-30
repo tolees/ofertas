@@ -16,6 +16,7 @@ comparePrice: 30.04 EUR
 prodname: 'Smatree Funda para portátil Funda para portátil de 14 Pulgadas Maletín Maletín Compatible para HP 14-cm0008ns/ HP Pavilion x360 14-cd0010ns/ HP 14-cf0007ns/ ASUS VivoBook E14 E402WA-GA007TS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XHJP73X/?tag=tolees-21'
 descuento: '36.85'
 average: '18.97'

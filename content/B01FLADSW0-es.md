@@ -16,6 +16,7 @@ comparePrice: 37.3 EUR
 prodname: 'Lowcy skarbow'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FLADSW0/?tag=tolees-21'
 descuento: '34.75'
 average: '19.44'

@@ -16,6 +16,7 @@ comparePrice: 17.28 EUR
 prodname: 'Zooloretto junior'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AJV5R6G/?tag=tolees-21'
 descuento: '26.97'
 average: '12.62'

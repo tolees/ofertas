@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Pulsar Reloj cronografo para Hombre de Energía Solar con Correa en Acero Inoxidable PZ5065X1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GBDXGKN/?tag=tolees-21'
 descuento: '37.95'
 average: '123.8825'

@@ -16,6 +16,7 @@ comparePrice: 5.43 EUR
 prodname: 'L Oréal Paris Colorista Coloración Temporal Colorista Spray - Turquoise Hair'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MXL39I7/?tag=tolees-21'
 descuento: '90.79'
 average: '0.5'

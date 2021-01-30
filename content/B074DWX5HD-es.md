@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Lorus Reloj Digital para Hombre de Cuarzo con Correa en Silicona R2335LX9'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074DWX5HD/?tag=tolees-21'
 descuento: '40.09'
 average: '38.1023076923077'

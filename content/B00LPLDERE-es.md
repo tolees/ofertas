@@ -16,6 +16,7 @@ comparePrice: 13.95 EUR
 prodname: 'L Oréal Paris - Infallible 24H  Maquillaje en Polvo Compacto  Tono 160'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LPLDERE/?tag=tolees-21'
 descuento: '42.72'
 average: '8.854000000000001'

@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'iMagicBox Kit de Magia con Cartas  Cife Spain 41448 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079NHHDQ4/?tag=tolees-21'
 descuento: '25.03'
 average: '7.46'

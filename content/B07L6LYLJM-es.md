@@ -16,6 +16,7 @@ comparePrice: 169 EUR
 prodname: 'Skagen Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable SKW2751'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L6LYLJM/?tag=tolees-21'
 descuento: '29.62'
 average: '118.625'

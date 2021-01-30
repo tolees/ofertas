@@ -16,6 +16,7 @@ comparePrice: 118.34 EUR
 prodname: 'Reloj - BY BENYAR - para - BY-5164'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0813GHQGQ/?tag=tolees-21'
 descuento: '67.90'
 average: '37.99'

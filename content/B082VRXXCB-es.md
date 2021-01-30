@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Transmisor FM Bluetooth 5.0 Coche Manos Libres  Reproductor MP3 Coche Carga Rapida QC3.0  2 USB Portes 5V/3A y 2.4A  Apoyo Tarjeta TF AUX  SIRI/Google con Luz Colorida'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082VRXXCB/?tag=tolees-21'
 descuento: '36.37'
 average: '20.99'

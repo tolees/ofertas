@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'L Oréal Paris Make-up designer Infalible 24H Fresh Wear Base de Maquillaje de Larga Duración - Tono 220 Sable/Sand  30 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DSBJF9F/?tag=tolees-21'
 descuento: '37.73'
 average: '9.31'

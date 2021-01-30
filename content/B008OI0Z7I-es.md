@@ -16,6 +16,7 @@ comparePrice: 20.9 EUR
 prodname: 'Atosa-10420 Disfraz Policía  color negro  M-L  10420 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008OI0Z7I/?tag=tolees-21'
 descuento: '30.81'
 average: '14.46'

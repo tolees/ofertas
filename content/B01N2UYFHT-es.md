@@ -16,6 +16,7 @@ comparePrice: 11.95 EUR
 prodname: 'Bourjois Healthy Mix Base de Maquillaje Tono 52 Vanilla  30 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N2UYFHT/?tag=tolees-21'
 descuento: '53.22'
 average: '5.755'

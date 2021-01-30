@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Nike Sunray Adjust 5  TD   Zapatillas de Gimnasia para Niños  Azul  Game Royal/Wolf Grey 400   25 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GT5RYP1/?tag=tolees-21'
 descuento: '55.19'
 average: '11.65'

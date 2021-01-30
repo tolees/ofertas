@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'TOPELEK Teclado y Raton Inálambrico con Tapa de Suspensión de Forma de Gota de Agua  104 Tecla chiclet QWERTY Español  12 Mutimedios  2.4 GHz   para Apple Mac OS Windows  Linus  Vista  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DYLM63Q/?tag=tolees-21'
 descuento: '40.01'
 average: '15.989999999999998'

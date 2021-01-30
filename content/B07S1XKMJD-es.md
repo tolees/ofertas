@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'BOSS Long John Thermal+ Pantalones térmicos  Negro  Black 1   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S1XKMJD/?tag=tolees-21'
 descuento: '59.22'
 average: '20.655'

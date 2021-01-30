@@ -16,6 +16,7 @@ comparePrice: 17.31 EUR
 prodname: 'AmazonBasics - Auriculares de botón con micrófono  Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HH223KV/?tag=tolees-21'
 descuento: '70.02'
 average: '5.19'

@@ -16,6 +16,7 @@ comparePrice: 269.99 EUR
 prodname: 'Relaxdays Estantería y Toallero Escalera para Baño  Bambú  Beige  184 x 48 5 x 21 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079VM8PBS/?tag=tolees-21'
 descuento: '77.81'
 average: '59.9'

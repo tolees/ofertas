@@ -16,6 +16,7 @@ comparePrice: 325 EUR
 prodname: 'Maclaren Quest Silla de paseo - ligero  para recién nacidos hasta los 25kg  Asiento multiposición  suspensión en las 4 ruedas  Capota extensible con UPF 50+'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078WV84KV/?tag=tolees-21'
 descuento: '41.54'
 average: '194.99'

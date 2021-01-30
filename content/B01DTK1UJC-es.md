@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Ozone TRIFX - OZTRIFX - Auriculares in-Ear para Gaming'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DTK1UJC/?tag=tolees-21'
 descuento: '33.48'
 average: '21.36'

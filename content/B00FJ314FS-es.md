@@ -16,6 +16,7 @@ comparePrice: 6.0 EUR
 prodname: 'Rimmel London Moisture Renew Barra De Labios Tono 360 As Want Victoria- 19 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00FJ314FS/?tag=tolees-21'
 descuento: '80.00'
 average: '2.203333333333333'

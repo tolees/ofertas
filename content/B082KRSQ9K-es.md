@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Parches Faciales Parches Antiarrugas Anti-Arrugas Parches Arrugas Faciales Para Alisar Arrugas Parches para la frente 1 paquete de 15 parches'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082KRSQ9K/?tag=tolees-21'
 descuento: '25.02'
 average: '11.24'

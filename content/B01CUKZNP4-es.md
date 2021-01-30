@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Amazon - Funda protectora para Kindle  color blanco y gris — no es compatible con el modelo del 2019  10.ª generación '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CUKZNP4/?tag=tolees-21'
 descuento: '32.29'
 average: '16.740000000000002'

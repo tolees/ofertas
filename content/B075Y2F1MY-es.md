@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Skechers On-The-go 600-Foxy  Sandalia con Pulsera para Mujer  Negro  Black BBK   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075Y2F1MY/?tag=tolees-21'
 descuento: '65.15'
 average: '19.15'

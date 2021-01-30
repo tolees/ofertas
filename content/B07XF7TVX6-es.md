@@ -16,6 +16,7 @@ comparePrice: 28.79 EUR
 prodname: 'Funko- Pop Ride: Frozen 2-Elsa Riding Nokk Figura Coleccionable  Multicolor  46586 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XF7TVX6/?tag=tolees-21'
 descuento: '48.07'
 average: '21.47'

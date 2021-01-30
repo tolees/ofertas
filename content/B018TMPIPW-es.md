@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'National Geographic 9083000 Action Camera - Videocámara'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018TMPIPW/?tag=tolees-21'
 descuento: '50.51'
 average: '47.75666666666666'

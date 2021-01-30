@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Marshall MODE - Auriculares Mode - Negro/Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OHVZTTK/?tag=tolees-21'
 descuento: '39.17'
 average: '35.89'

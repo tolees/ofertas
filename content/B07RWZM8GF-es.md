@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Cubierta de Enfermería Lactancia Materna Bufanda para Asiento del Coche Sillita del Bebé Da el Pecho de Forma Discreta en Público  Elefante'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RWZM8GF/?tag=tolees-21'
 descuento: '41.68'
 average: '13.99'

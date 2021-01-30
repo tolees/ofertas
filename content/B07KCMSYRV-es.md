@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'adidas T19 WOV Pnt W Pantalones de Deporte  Mujer  Black/White  2XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KCMSYRV/?tag=tolees-21'
 descuento: '44.40'
 average: '24.99'

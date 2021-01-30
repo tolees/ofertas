@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'LIDIWEE Web Cámara de Video de HD con Micrófono Incorporado Cámara de PC Giratoria de 360 Grados para Computadora Portátil O de Escritorio Cámara de Computadora para Videollamadas Y Clase de'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088CZ8MPT/?tag=tolees-21'
 descuento: '26.68'
 average: '10.99'

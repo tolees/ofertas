@@ -16,6 +16,7 @@ comparePrice: 190.0 EUR
 prodname: 'Saucony Triumph ISO 5 - Zapatillas de running para hombre  Azul  Blue/Orange 36  45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JQXNHFX/?tag=tolees-21'
 descuento: '54.74'
 average: '85.99'

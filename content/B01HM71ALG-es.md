@@ -16,6 +16,7 @@ comparePrice: 345.0 EUR
 prodname: 'Ferrari 0830344 Gran Premio - Reloj analógico de pulsera para hombre  cuarzo  correa de silicona '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HM71ALG/?tag=tolees-21'
 descuento: '31.49'
 average: '209.78285714285713'

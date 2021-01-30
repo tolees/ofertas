@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Justfwater Deporte Botella de Agua de Cristal con Funda de Silicona 350ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M4PVU3Z/?tag=tolees-21'
 descuento: '33.76'
 average: '15.89'

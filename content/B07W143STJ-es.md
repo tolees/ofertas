@@ -16,6 +16,7 @@ comparePrice: 2.99 EUR
 prodname: 'Todotumovil Protector de Pantalla Xiaomi Mi 9 SE Mi9 SE Mi9SE de Cristal Templado Vidrio 9H para movil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W143STJ/?tag=tolees-21'
 descuento: '34.11'
 average: '1.97'

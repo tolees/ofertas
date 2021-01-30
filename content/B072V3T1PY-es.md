@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Aodoor Parasol para Parabrisa  parasoles de Coche Delantero  Protección Auto Frontal Plegable contra el Calor y los Rayos UV del Sol  160 x 86cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072V3T1PY/?tag=tolees-21'
 descuento: '26.35'
 average: '11.04'

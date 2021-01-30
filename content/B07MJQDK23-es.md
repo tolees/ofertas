@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'Medidor de Perfil de Contorno  Wysgvazgv 5   120MM Calibre de Medición Irregular Plástico Duplicador Copia Tallar Bordes Laminados Regla de Medición Manualidades Herramientas de Carpintería  1 PACK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MJQDK23/?tag=tolees-21'
 descuento: '62.52'
 average: '11.99'

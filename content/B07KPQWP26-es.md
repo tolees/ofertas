@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Mr. Wonderful MRPWB038  Batería Externa de 10.000 Mah con Diseño Unicorns  Talla única  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KPQWP26/?tag=tolees-21'
 descuento: '34.02'
 average: '23.06'

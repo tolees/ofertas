@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Anker Powerbank-Portable USB móvil Energien-Bank-Kasten Ladegerät-Satz-Box para 1 x 18650 Neu-Aisumi rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CN5N7H7/?tag=tolees-21'
 descuento: '37.55'
 average: '4.99'

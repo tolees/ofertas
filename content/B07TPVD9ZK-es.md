@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Superdry Core Cargo Shorts Pantalones Cortos  Beige  Dress Beige L3l   48  Talla del Fabricante: 32  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TPVD9ZK/?tag=tolees-21'
 descuento: '47.06'
 average: '31.76'

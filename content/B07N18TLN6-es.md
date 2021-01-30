@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'TATAY Urban Food Casual - Bolsa térmica porta alimentos con 4 tapers herméticos incluidos  3 litros de capacidad  Gris  22.5 x 10 x 22 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N18TLN6/?tag=tolees-21'
 descuento: '27.82'
 average: '14.955555555555557'

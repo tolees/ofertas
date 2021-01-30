@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'Thomas Sabo  Colgante para Mujer "Flor de LisCharm Club"  Plata de Ley 925  Plateado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079VNDZRJ/?tag=tolees-21'
 descuento: '48.98'
 average: '25.0'

@@ -16,6 +16,7 @@ comparePrice: 134.12 EUR
 prodname: 'Camfosy - Botas de Cuero para mujer  color Marrón  talla 38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HR9DG45/?tag=tolees-21'
 descuento: '41.96'
 average: '77.84'

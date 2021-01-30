@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Aquabeads - 79278 - Set Anillos Deslumbrantes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0197TY1EA/?tag=tolees-21'
 descuento: '57.80'
 average: '4.296666666666667'

@@ -16,6 +16,7 @@ comparePrice: 10.74 EUR
 prodname: 'LAQI - Herramienta de Corte de Cristal de carburo de Aceite con Mango Antideslizante de Metal Resistente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082HJNWPH/?tag=tolees-21'
 descuento: '69.55'
 average: '3.27'

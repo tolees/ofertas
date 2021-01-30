@@ -16,6 +16,7 @@ comparePrice: 369.0 EUR
 prodname: 'Samsung Galaxy A51 - Dual SIM  Smartphone de 6.5" Super AMOLED  4 GB RAM  128 GB ROM  cámara Trasera 48.0 MP + 12.0 MP + 5.0 MP + 5 MP  cámara Frontal 32 MP  Azul [Versión española]'
 country: 'es'
 flag: '🇪🇸'
+brand: 'SAMSUNG'
 buyurl: 'https://www.amazon.es/dp/B082WFVKL7/?tag=tolees-21'
 descuento: '39.10'
 average: '261.402948717948'
@@ -27,10 +28,10 @@ Ahora mismo tienes [Samsung Galaxy A51 - Dual SIM  Smartphone de 6.5" Super AMOL
 
 🔎:
 
-- Una pantalla casi sin bordes sumérgete profundamente en tus series y juegos favoritos gracias a su pantalla fhd+ de 6 5" con tecnología super amoled
-- Un innovador sistema de cámara s conviértete en un profesional de las fotos con sus 4 cámara s traseras y hazte selfies espectaculares con la cámara frontal de 32 m
 - Estilo y elegancia enamórate de su elegante diseño en increíbles tonos pastel y su acabado brillante de primera calidad
 - Bate todos los records sin preocuparte por la batería disfruta de largas sesiones de juego o de ma ratón es de tus series favoritas con una batería de 4 000 mah
+- Una pantalla casi sin bordes sumérgete profundamente en tus series y juegos favoritos gracias a su pantalla fhd+ de 6 5" con tecnología super amoled
 - Mucho más espacio con 128 gde memoria interna y 4 gde ram tienes suficiente almacenamiento para todo lo que quieras
+- Un innovador sistema de cámara s conviértete en un profesional de las fotos con sus 4 cámara s traseras y hazte selfies espectaculares con la cámara frontal de 32 m
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082WFVKL7/?tag=tolees-21)

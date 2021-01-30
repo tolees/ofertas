@@ -16,6 +16,7 @@ comparePrice: 25.8 EUR
 prodname: 'Kerastase 57977 Blond Bain Lumiere  250 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KQPKGH6/?tag=tolees-21'
 descuento: '31.40'
 average: '17.85'

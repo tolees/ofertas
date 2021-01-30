@@ -16,6 +16,7 @@ comparePrice: 8.87 EUR
 prodname: 'Desodorante Mussvital Dermactive Nature Pack 2 Uds x 75ml. Roll-on'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BJ66S6C/?tag=tolees-21'
 descuento: '47.01'
 average: '4.7'

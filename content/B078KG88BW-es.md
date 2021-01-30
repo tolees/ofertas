@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Puma Leader Vt SL  Zapatillas de Running Unisex Adulto  Blanco  Puma White - Puma Black - Flame Scarlet   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078KG88BW/?tag=tolees-21'
 descuento: '26.69'
 average: '41.45'

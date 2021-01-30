@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Báscula de Baño Zuzpao Báscula Grasa Corporal  Básculas Digitales con App y 14 Datos del Cuerpo  Balanza Baño para Peso  Músculo  Grasa Corporal  IMC  BMR  Tasa de proteína  180 kg / 400 lb'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TVXY28B/?tag=tolees-21'
 descuento: '39.21'
 average: '21.88'

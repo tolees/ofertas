@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Di4 Jet Pressing 5b Centro de planchado con caldera de acero inoxidable  5 bar  2300 W  Cerámica  Blanco/Negro/Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0719RYJ3V/?tag=tolees-21'
 descuento: '35.39'
 average: '77.60999999999999'

@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'RHA S500 Universal: Auriculares Intrauditivos Compactos con Aislamiento de Ruido con Micrófono y Control Remoto Universal'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074QQQ51L/?tag=tolees-21'
 descuento: '33.95'
 average: '32.99'

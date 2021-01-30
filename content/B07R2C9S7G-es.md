@@ -16,6 +16,7 @@ comparePrice: 50.99 EUR
 prodname: 'Zombie Army Trilogy - Survivor Edition'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R2C9S7G/?tag=tolees-21'
 descuento: '41.26'
 average: '29.93333333333333'

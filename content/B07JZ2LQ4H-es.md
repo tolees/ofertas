@@ -16,6 +16,7 @@ comparePrice: 42.99 EUR
 prodname: 'Bable Calienta Biberones 丨 Esterilizador Biberon 丨 Calentador de Alimentos con Control Remoto y Pantalla LCD de Temperatura en Tiempo Real y Objetivo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JZ2LQ4H/?tag=tolees-21'
 descuento: '34.89'
 average: '27.99'

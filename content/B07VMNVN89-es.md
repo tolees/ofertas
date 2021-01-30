@@ -16,6 +16,7 @@ comparePrice: 39.28 EUR
 prodname: 'Calvin Klein Push Up Plunge Almohadillas y Rellenos de Sujetador  Negro  Black 001    Talla del Fabricante: Dd32  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VMNVN89/?tag=tolees-21'
 descuento: '56.82'
 average: '16.96'

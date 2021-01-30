@@ -16,6 +16,7 @@ comparePrice: 4.5 EUR
 prodname: 'Rimmel London Lasting  Barra de Labios Tono 8  Dusty Rose   4 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006WZ9YI6/?tag=tolees-21'
 descuento: '37.78'
 average: '2.83'

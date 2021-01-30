@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'L Oreal Paris Sublime Mousse 1 Coloración'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X9W97FK/?tag=tolees-21'
 descuento: '32.16'
 average: '6.75'

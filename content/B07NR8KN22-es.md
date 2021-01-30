@@ -16,6 +16,7 @@ comparePrice: 33.82 EUR
 prodname: 'INFILAND Estuche Kindle 2019  10ª generación - Modelo 2019  - Función de Despertador/Reposo automático - Estuche de Cuero Ultra Delgado y liviano para Amazon Kindle 2019 - Menta Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NR8KN22/?tag=tolees-21'
 descuento: '49.76'
 average: '16.99'

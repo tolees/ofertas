@@ -16,6 +16,7 @@ comparePrice: 5.99 EUR
 prodname: 'Maybelline Color Sensational Vivids 912 Electric Orange - barras de labios  Naranja  Electric Orange  Francia '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KCHTM8C/?tag=tolees-21'
 descuento: '33.22'
 average: '4.0'

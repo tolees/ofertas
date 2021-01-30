@@ -16,6 +16,7 @@ comparePrice: 603.99 EUR
 prodname: 'Epson WFDS530 - Escáner de Documentos en Color A4  Capacidad de USB  Blanco y Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LKWK86M/?tag=tolees-21'
 descuento: '40.08'
 average: '356.9026086956522'

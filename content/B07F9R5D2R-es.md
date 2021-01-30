@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'adidas 3Mc  Zapatillas de Skateboard Unisex Adulto  Negro  Core Black/Core Black/FTWR White Core Black/Core Black/FTWR White   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F9R5D2R/?tag=tolees-21'
 descuento: '52.29'
 average: '30.99'

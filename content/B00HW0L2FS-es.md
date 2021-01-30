@@ -16,6 +16,7 @@ comparePrice: 18.88 EUR
 prodname: 'Vileda Bayetas Microfibra Azul - 5 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HW0L2FS/?tag=tolees-21'
 descuento: '27.07'
 average: '14.814'

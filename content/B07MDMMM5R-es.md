@@ -16,6 +16,7 @@ comparePrice: 43.61 EUR
 prodname: 'Equipo fotográfico portátil de Photo Booster de Mini Cabina de fotografía portátil Caja de luz de fotografía Plegable con Brillo 2x20 Cubo Tira de LED 8"6 Colores de Fondo  White-Photo Light Box '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MDMMM5R/?tag=tolees-21'
 descuento: '62.28'
 average: '16.49'

@@ -16,6 +16,7 @@ comparePrice: 17.06 EUR
 prodname: 'Vintage Rectangle Mantel de lino de algodón  Yanyi Brand Wood Stripe Mantel de mesa para el restaurante del hotel de casa Restaurante  calor y humedad Resistencia90*90cm 35*35inch '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071VTFPB7/?tag=tolees-21'
 descuento: '29.72'
 average: '11.99'

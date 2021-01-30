@@ -16,6 +16,7 @@ comparePrice: 19.04 EUR
 prodname: 'Lebze Bebé Muselina Swaddle Manta "Diseño de Panda" Bambú Algodon Muselinas 120x120 cm Mantitas para Bebes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SVCTPPD/?tag=tolees-21'
 descuento: '27.00'
 average: '13.9'

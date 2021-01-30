@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Medisana NM 870 Masajeador de cuello con masaje vibratorio  media luna para el cuello ideal para el hogar  la oficina o de camino  calmante para el cuello y los hombros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0188XP7EO/?tag=tolees-21'
 descuento: '66.94'
 average: '11.467500000000001'

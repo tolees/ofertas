@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'BOROK Display Stand Soporte para Lego 75257 Halcón Milenario'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085PYQL6Y/?tag=tolees-21'
 descuento: '28.01'
 average: '17.99'

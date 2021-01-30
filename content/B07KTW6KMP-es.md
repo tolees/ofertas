@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'adidas Must Have 3-Streifen Tiro Hose Pantalones Deportivos  Hombre  Negro  Black/White   3XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KTW6KMP/?tag=tolees-21'
 descuento: '30.03'
 average: '33.45'

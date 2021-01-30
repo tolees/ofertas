@@ -16,6 +16,7 @@ comparePrice: 12.09 EUR
 prodname: 'Fablon Fine Décor Rollo de plástico Adhesivo  45 x 200 cm   Color Plateado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CZ6U6LA/?tag=tolees-21'
 descuento: '29.94'
 average: '8.47'

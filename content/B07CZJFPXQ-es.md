@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Under Armour Tech Mesh 3 Inch Corto  Mujer  Negro  SM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZJFPXQ/?tag=tolees-21'
 descuento: '50.05'
 average: '9.99'

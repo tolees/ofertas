@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Anti Manchas Cara  Anti Manchas Piel  Crema blanqueadora  Anti Manchas regeneradora y aclarante  Crema Hidratante Aclarante y Anti Manchas con Vitamina C  para las manchas producidas por la edad  Tratamiento Antienvejecimiento y Blanqueador para Manchas Oscuras  Cicatrices y Arrugas del Acné  30ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0053A0MSW/?tag=tolees-21'
 descuento: '50.02'
 average: '15.49'

@@ -16,6 +16,7 @@ comparePrice: 27.98 EUR
 prodname: 'Air Wick Spray V.I. Poo Perfume Anti Olor  Fragrancia Lemon Idol 55 ml - Paquete de 3 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077C3GRM7/?tag=tolees-21'
 descuento: '64.30'
 average: '9.99'

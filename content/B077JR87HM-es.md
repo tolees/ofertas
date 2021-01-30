@@ -16,6 +16,7 @@ comparePrice: 164.19 EUR
 prodname: 'Makita DTD152Z - Destornillador de impacto inalámbrico LXT de 18 V con 1 batería de 4 0 Ah y cargador'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077JR87HM/?tag=tolees-21'
 descuento: '41.80'
 average: '95.56'

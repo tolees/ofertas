@@ -16,6 +16,7 @@ comparePrice: 605.99 EUR
 prodname: 'Epson EcoTank ET-7700 - Impresora  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075DBF43N/?tag=tolees-21'
 descuento: '42.41'
 average: '367.04'

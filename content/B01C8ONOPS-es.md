@@ -16,6 +16,7 @@ comparePrice: 69.48 EUR
 prodname: 'Pikolin Home - Edredón/Relleno nórdico  de fibra antiácaros  otoño-invierno  300gr/m²  color blanco  240x220cm-Cama 150/160  Todas las medidas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01C8ONOPS/?tag=tolees-21'
 descuento: '42.44'
 average: '39.57333333333334'

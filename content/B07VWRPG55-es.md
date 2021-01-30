@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Tamaris 1-1-28339-24  Sandalia con Pulsera para Mujer  Rosa  Old Rose 558   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VWRPG55/?tag=tolees-21'
 descuento: '78.53'
 average: '15.02'

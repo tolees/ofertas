@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'ONEVER Luces de tira llevadas flexibles con el cable del USB para la iluminación decorativa del fondo de la computadora de la TV  blanco caliente de SMD 3528 los 50CM  1 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F3YKDDY/?tag=tolees-21'
 descuento: '70.07'
 average: '2.99'

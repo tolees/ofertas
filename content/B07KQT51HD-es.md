@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'adidas Essential Linear Medias  Mujer  Negro/Blanco  XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KQT51HD/?tag=tolees-21'
 descuento: '29.64'
 average: '18.82333333333333'

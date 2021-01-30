@@ -16,6 +16,7 @@ comparePrice: 81.0 EUR
 prodname: 'GABOL L Atlanta  Maleta  52x75x29 cm  90 liters  Turquesa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PWN8NVB/?tag=tolees-21'
 descuento: '44.00'
 average: '45.36'

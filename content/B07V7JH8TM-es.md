@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Otterbox Symmetry Clear - Funda Anti-Caídas Fina y Elegante para Apple iPhone 11  Transparente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V7JH8TM/?tag=tolees-21'
 descuento: '34.47'
 average: '21.575'

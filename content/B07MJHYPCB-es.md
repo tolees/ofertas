@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'molezu Máscara de Veneno con Cara de fusión de la Lengua  Casco látex Cosplay Accesorios de Disfraces Halloween Prop Film'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MJHYPCB/?tag=tolees-21'
 descuento: '33.35'
 average: '17.990000000000002'

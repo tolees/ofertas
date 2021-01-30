@@ -16,6 +16,7 @@ comparePrice: 64.28 EUR
 prodname: 'NZI 150262G860 Capital Visor Graphics Bloom Casco de Moto  Talla M 57-58 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DVUOLFA/?tag=tolees-21'
 descuento: '32.59'
 average: '43.33'

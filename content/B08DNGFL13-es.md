@@ -16,6 +16,7 @@ comparePrice: 18.63 EUR
 prodname: 'UniqueMe [2 Pack] Protector de Pantalla para Xiaomi Mi Note 10 Lite + [3 Pack] Protector de Lente de Cámara para Xiaomi Mi Note 10 Lite  [Sin Burbujas] HD Film [Flexible]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DNGFL13/?tag=tolees-21'
 descuento: '51.74'
 average: '8.656666666666666'

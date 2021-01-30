@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'laamei  Sacacorchos para Botellas con Tapones Reutilizables Abrebotellas de Vino de Acero Inoxidable Multifunción Winged Sacacorchos para Botellas para Los Amantes del Vino o Camareros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X2NZHBW/?tag=tolees-21'
 descuento: '94.02'
 average: '2.99'

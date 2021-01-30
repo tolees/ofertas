@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'UMIDIGI Reloj Inteligente Pulsera Actividad con Pulsómetro Mujer Hombre Monitor de Actividad Deportiva Ritmo Cardíaco Impermeable IP67 Reloj Fitness con Dos Correas Pulsera Deporte [Rosa]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XDSCPMV/?tag=tolees-21'
 descuento: '26.01'
 average: '34.656666666666666'

@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Ty Beanie Boos Twiggy-Búho Rosa 15 cm  37158TY   Color United Labels Ibérica'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071W29TRB/?tag=tolees-21'
 descuento: '64.98'
 average: '5.6'

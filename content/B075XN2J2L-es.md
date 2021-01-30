@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance Fuel Core 5000  Zapatillas de Running para Hombre  Azul  Petrol/Black GG   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075XN2J2L/?tag=tolees-21'
 descuento: '62.52'
 average: '33.73'

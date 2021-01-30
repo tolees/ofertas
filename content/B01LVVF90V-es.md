@@ -16,6 +16,7 @@ comparePrice: 439.0 EUR
 prodname: 'Apple iPhone 7 - Smartphone de 4.7"  32 GB  oro rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LVVF90V/?tag=tolees-21'
 descuento: '29.39'
 average: '350.13000000000005'

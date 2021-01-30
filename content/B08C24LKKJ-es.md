@@ -16,6 +16,7 @@ comparePrice: 10.18 EUR
 prodname: 'Panamar Bolsas de Compras de Lona de Gran Capacidad Bolsas de Tela de algodón Bolsa de Compras Reutilizable Mujeres Bolsos de Playa Impresos - Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08C24LKKJ/?tag=tolees-21'
 descuento: '33.50'
 average: '6.77'

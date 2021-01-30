@@ -16,6 +16,7 @@ comparePrice: 26.95 EUR
 prodname: 'Oral-B Stages Power Kids  Cepillo eléctrico niños personajes Star Wars'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EODEPC2/?tag=tolees-21'
 descuento: '44.34'
 average: '18.2'

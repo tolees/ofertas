@@ -16,6 +16,7 @@ comparePrice: 26.04 EUR
 prodname: 'Jovego Calcetines de Lana Mujer Suave Cómodo Gruesa de Invierno Calcetines 6 Pares'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WDN5T76/?tag=tolees-21'
 descuento: '61.64'
 average: '9.99'

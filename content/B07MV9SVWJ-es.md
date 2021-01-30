@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Kipling Cindy  Cartera para Mujer  Azul  Aqua Frost   11.5x8x1 centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MV9SVWJ/?tag=tolees-21'
 descuento: '30.00'
 average: '20.3'

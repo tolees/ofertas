@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'New Balance Draft  Zapatillas para Correr de Carretera para Hombre  Azul  Blue Lv1   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RFQCQSV/?tag=tolees-21'
 descuento: '37.48'
 average: '37.51'

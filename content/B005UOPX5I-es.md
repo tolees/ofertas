@@ -16,6 +16,7 @@ comparePrice: 114.24 EUR
 prodname: 'Berghoff Set de Pasta 20 Piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005UOPX5I/?tag=tolees-21'
 descuento: '84.10'
 average: '23.380000000000003'

@@ -16,6 +16,7 @@ comparePrice: 7.14 EUR
 prodname: 'Ybarra - La clásica Rosa - Salsa Cocktail - 225 ml -   Pack de 6'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N41AC2W/?tag=tolees-21'
 descuento: '34.17'
 average: '4.697500000000001'

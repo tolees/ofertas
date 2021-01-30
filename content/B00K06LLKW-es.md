@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Fissler Q! - Sopa de Cuchara'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00K06LLKW/?tag=tolees-21'
 descuento: '43.49'
 average: '22.6'

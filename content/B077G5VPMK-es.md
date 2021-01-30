@@ -16,6 +16,7 @@ comparePrice: 144.99 EUR
 prodname: 'Brother HLL2370DN - Impresora láser monocromo con red y dúplex  34 ppm  Ethernet  USB 2.0  procesador de 600 MHz  memoria de 64 MB  gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077G5VPMK/?tag=tolees-21'
 descuento: '33.80'
 average: '100.715'

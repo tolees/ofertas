@@ -16,6 +16,7 @@ comparePrice: 8.15 EUR
 prodname: 'Papel Maché SIO-2 500 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PDRK6FE/?tag=tolees-21'
 descuento: '49.33'
 average: '4.13'

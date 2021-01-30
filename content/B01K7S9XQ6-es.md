@@ -16,6 +16,7 @@ comparePrice: 4.9 EUR
 prodname: 'Garnier Skin Active Agua Micelar Clásica para pieles normales todo en uno – 400 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K7S9XQ6/?tag=tolees-21'
 descuento: '59.39'
 average: '1.99'

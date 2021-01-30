@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Lima electrónica para el cuidado de los pies  lima eléctrica para pies secos y húmedos  Eléctrica Pedicura Lima Pies para hombres y mujeres - Kit de eliminación de callos recargable con 2 rodillos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087JPJTTG/?tag=tolees-21'
 descuento: '57.51'
 average: '17.79'

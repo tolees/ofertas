@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'QHOHQ Funda para Samsung Galaxy A50S  A50  A30S  Cases Silicona Thin Slim TPU Anti-caída Cuatro Esquinas-Transparente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XQJ4JJP/?tag=tolees-21'
 descuento: '30.43'
 average: '6.95'

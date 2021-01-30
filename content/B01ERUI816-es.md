@@ -16,6 +16,7 @@ comparePrice: 23.95 EUR
 prodname: 'Joma - Malla Corta Elite v Royal para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ERUI816/?tag=tolees-21'
 descuento: '66.64'
 average: '7.99'

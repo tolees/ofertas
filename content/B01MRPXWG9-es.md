@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'HOUSE DAY 8Pcs Perchas mágicas Armario Ahorro de Espacio Armario Ropa Perchas mágicas Organizador Perchas Pesadas de Cromo 26.7cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MRPXWG9/?tag=tolees-21'
 descuento: '29.43'
 average: '11.99'

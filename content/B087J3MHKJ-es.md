@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'ZoneYan Mini Ventilador USB Portatil  Ventilador de Mano USB  Personal Hand Fan Batería Recargable  Ventilador con Base Escritorio y 3 Velocidades Ajustable  para Oficina Hogar Viaje'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087J3MHKJ/?tag=tolees-21'
 descuento: '60.02'
 average: '11.99'

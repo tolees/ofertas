@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Intex 57107NP - Piscina hinchable 3 aros +base hinchable 61 x 22 cm  28 l'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CQVGN92/?tag=tolees-21'
 descuento: '60.30'
 average: '4.54'

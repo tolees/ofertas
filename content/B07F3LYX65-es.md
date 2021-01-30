@@ -16,6 +16,7 @@ comparePrice: 14.38 EUR
 prodname: '2pcs Cintas de Gimnasia Rítmica  Cinta de Baile Ballet Accesorio para Fiesta Cerimonia Juguete para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F3LYX65/?tag=tolees-21'
 descuento: '44.44'
 average: '7.99'

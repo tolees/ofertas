@@ -16,6 +16,7 @@ comparePrice: 41.0 EUR
 prodname: 'SRAM 89.2711.114.105 Cadena  1071  Hollowpin  114 eslabones  10v  Multicolor  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003VFEF8O/?tag=tolees-21'
 descuento: '34.17'
 average: '26.99'

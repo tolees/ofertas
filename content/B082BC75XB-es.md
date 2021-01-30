@@ -16,6 +16,7 @@ comparePrice: 499.95 EUR
 prodname: 'Icons Corner Pack 4 sillas Negra Patas Negras IMS Modelo Eiffel'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082BC75XB/?tag=tolees-21'
 descuento: '84.00'
 average: '79.99'

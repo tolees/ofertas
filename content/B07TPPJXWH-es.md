@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Levi s 501 Original Shorts Pantalones Cortos  Azul  Pate Short 0086   W29  Talla del Fabricante: 29  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TPPJXWH/?tag=tolees-21'
 descuento: '55.47'
 average: '24.49'

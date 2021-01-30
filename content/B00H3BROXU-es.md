@@ -16,6 +16,7 @@ comparePrice: 6.0 EUR
 prodname: 'Rimmel London Stay Matte Base de Maquillaje Tono 300 Sand - 41 545 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00H3BROXU/?tag=tolees-21'
 descuento: '50.83'
 average: '2.95'

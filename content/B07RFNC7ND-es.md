@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'adidas Duramo 9  Zapatillas de Entrenamiento para Hombre  Negro  Core Black/Active Green/Grey 0   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RFNC7ND/?tag=tolees-21'
 descuento: '36.36'
 average: '34.97'

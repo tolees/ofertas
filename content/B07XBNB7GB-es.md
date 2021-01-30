@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Martina D Antiochia  La Diversión de Martina  Pink-Mochila HS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XBNB7GB/?tag=tolees-21'
 descuento: '50.15'
 average: '14.95'

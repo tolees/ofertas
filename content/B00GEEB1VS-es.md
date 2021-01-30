@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Columbia Tech Shade Hat Gorra  Unisex Adulto  Beige  Fossil   One Size  Adjustable '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GEEB1VS/?tag=tolees-21'
 descuento: '37.52'
 average: '12.485555555555557'

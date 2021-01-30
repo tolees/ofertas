@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Pioneer Se-MJ771BT-W - Auriculares  microfono  Bluetooth   Blanco  20 3 x 20 x 9 5 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015ZO9OVQ/?tag=tolees-21'
 descuento: '45.19'
 average: '54.8'

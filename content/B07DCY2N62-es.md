@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Ringke Protector de Pantalla Motorola Moto G6  2018   Invisible Defender Glass [3-Pack] Caso Compatible Transparente Pantalla de Vidrio Templado  de la Calidad de la HD  9H de Dureza de Tecnología'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DCY2N62/?tag=tolees-21'
 descuento: '37.52'
 average: '9.99'

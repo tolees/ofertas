@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Anself Kit de Pie Escofina Doble Cara + 10pcs Papel de Lija Pedicura Eliminador de Piel Muerta Removedor del Callo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073PWZ9TN/?tag=tolees-21'
 descuento: '30.79'
 average: '8.99'

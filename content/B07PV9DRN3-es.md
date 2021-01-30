@@ -16,6 +16,7 @@ comparePrice: 45.6 EUR
 prodname: 'Tyroler Bright Tools Mopa de Microfibra para Usar Seca y Húmeda  45 cm de Ancho  Cabeza de Silicona Flexible | Limpieza Profesional del Hogar para Suelo de Madera  Laminado  Baldosas  Cocina  Baño'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PV9DRN3/?tag=tolees-21'
 descuento: '32.24'
 average: '30.9'

@@ -16,6 +16,7 @@ comparePrice: 16.0 EUR
 prodname: 'THEE Alfombrilla de Planchar Esterilla de Planchar Lavadora Secadora Cubierta Tablero Manta Resistente al Calor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CMQHF2T/?tag=tolees-21'
 descuento: '50.06'
 average: '7.99'

@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'WANSENDA Memoria USB Tipo C 512GB  Unidad Flash USB 3.0 de Doble Puerto & USB C OTG Memory Stick Pendrive para Dispositivos Tipo C Android/Mac/PC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081Q93TWG/?tag=tolees-21'
 descuento: '51.27'
 average: '73.09'

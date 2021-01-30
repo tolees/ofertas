@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Jack & Jones Jjebasic Knit Crew Neck Noos suéter  Azul  Navy Blazer   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CG3FHB4/?tag=tolees-21'
 descuento: '42.02'
 average: '14.325'

@@ -16,6 +16,7 @@ comparePrice: 11.9 EUR
 prodname: 'Junta de tapa compatible con Thermomix TM31'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FAJX7S2/?tag=tolees-21'
 descuento: '25.21'
 average: '8.9'

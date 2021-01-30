@@ -16,6 +16,7 @@ comparePrice: 4.99 EUR
 prodname: 'Fanvans Premamá Algodón Briefs Ropa Interior Bragas De Maternidad Madre Embarazada Grey One Size'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G3GJPZF/?tag=tolees-21'
 descuento: '60.12'
 average: '1.99'

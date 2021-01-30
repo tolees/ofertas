@@ -16,6 +16,7 @@ comparePrice: 4.75 EUR
 prodname: 'Revlon Pintalabios Lustrous Fire & Ice 720  4.2 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000W9FS2Y/?tag=tolees-21'
 descuento: '44.21'
 average: '2.65'

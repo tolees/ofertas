@@ -16,6 +16,7 @@ comparePrice: 279.0 EUR
 prodname: 'Michael Kors Reloj Cronógrafo para Hombre de Cuarzo con Correa en Silicona MK8295'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GJNL04W/?tag=tolees-21'
 descuento: '29.56'
 average: '205.48333333333335'

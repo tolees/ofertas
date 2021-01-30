@@ -16,6 +16,7 @@ comparePrice: 28.31 EUR
 prodname: 'Game Of Thrones Póster  Multicolor  61 x 91.5cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QLJLVJJ/?tag=tolees-21'
 descuento: '83.54'
 average: '4.66'

@@ -16,6 +16,7 @@ comparePrice: 74.95 EUR
 prodname: 'Skechers Men s Heston Classic Boots  Brown  Dark Brown Leather Cdb   10 UK  45 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NZ1XPRH/?tag=tolees-21'
 descuento: '40.03'
 average: '44.95'

@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Flex Advantage 3.0  Zapatillas para Hombre  Negro  Black Mesh/Trim Black   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TVVGKJ8/?tag=tolees-21'
 descuento: '33.52'
 average: '40.82666666666667'

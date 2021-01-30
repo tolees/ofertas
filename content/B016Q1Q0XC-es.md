@@ -16,6 +16,7 @@ comparePrice: 6.25 EUR
 prodname: 'Maybelline New York Barra de Labios Color Drama 110'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016Q1Q0XC/?tag=tolees-21'
 descuento: '56.00'
 average: '3.4966666666666666'

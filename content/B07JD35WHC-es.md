@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'HUAWEI 55030369 Viaje Cable de Carga Charger Super Charge 2.0 cp84'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JD35WHC/?tag=tolees-21'
 descuento: '66.99'
 average: '8.597999999999999'

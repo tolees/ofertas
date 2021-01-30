@@ -16,6 +16,7 @@ comparePrice: 22.6 EUR
 prodname: 'Davines Authentic Fórmulas Cleansing Nectar C&C - 280 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0040LRLE8/?tag=tolees-21'
 descuento: '30.40'
 average: '15.8575'

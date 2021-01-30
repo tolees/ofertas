@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: ' gestionado por Amazon  cámara Web 1080P HD  cámara Web incorporada micrófono cámara con Clip Web para computadora PC portátiles Skype Vedieo Call & Record Webcam  Web 1 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088GWXR41/?tag=tolees-21'
 descuento: '79.01'
 average: '56.82870967741935'

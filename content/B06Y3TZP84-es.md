@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'ELEGOO Mega 2560 R3 Tarjeta Placa Compatible con Arduino IDE con Microcontrolador Basada en el ATmega2560 ATmega16U2 con USB Cable Negro Versión Mega Kit'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y3TZP84/?tag=tolees-21'
 descuento: '36.38'
 average: '13.99'

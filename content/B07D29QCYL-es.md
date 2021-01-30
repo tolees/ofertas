@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'Hitchy Trípode Movil Trípode iPhone 42" Pulgadas 106cm Aluminio Ligero  Tripode Camara para iPhone/Samsung/Huawei  Camara y GoPro con Control Remoto Bluetooth  Móvil Holder y Soporte GoPro  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D29QCYL/?tag=tolees-21'
 descuento: '51.63'
 average: '15.49'

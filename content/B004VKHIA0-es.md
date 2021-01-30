@@ -16,6 +16,7 @@ comparePrice: 24.28 EUR
 prodname: 'OPI Natural Nail Strengthener – Endurecedor para Uñas Naturales  Efecto Manicura Profesional - 15 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004VKHIA0/?tag=tolees-21'
 descuento: '59.02'
 average: '9.95'

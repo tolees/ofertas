@@ -16,6 +16,7 @@ comparePrice: 175.45 EUR
 prodname: 'Bosch Professional GLI 18V-2200 C Foco de obra  2200 lúmenes  sin batería  en caja  18 V  Azul  Size'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FWZYSNX/?tag=tolees-21'
 descuento: '40.73'
 average: '99.32333333333332'

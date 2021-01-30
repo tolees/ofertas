@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance 247v2  Zapatillas para Hombre  Blanco  Pigment Pigment   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HG4CXDV/?tag=tolees-21'
 descuento: '52.48'
 average: '51.52'

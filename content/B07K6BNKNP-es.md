@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'adidas CONDIVO18 SHO Pantalones Cortos de Deporte  Hombre  Collegiate Gold/Black  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K6BNKNP/?tag=tolees-21'
 descuento: '40.55'
 average: '23.75'

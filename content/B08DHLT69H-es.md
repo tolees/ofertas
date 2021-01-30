@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Tesecu luz Nocturna-USB de Carga LED de Inducción del Cuerpo Humano luz Cálida Inteligente luz de Noche Portátil Magnética  Se puede Utilizar en Gabinetes  Habitaciones Infantiles  Dormitorios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DHLT69H/?tag=tolees-21'
 descuento: '43.35'
 average: '16.99'

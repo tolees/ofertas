@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'Astor Mattitude Foundation Base de Maquillaje  Tono 102'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BF8OLQE/?tag=tolees-21'
 descuento: '39.62'
 average: '4.8'

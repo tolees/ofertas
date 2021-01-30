@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Anbber Aire Acondicionado móvil 4 en 1 multifunción USB portátil  Mini Aire Acondicionado  humidificador y purificador de Aire con luz Nocturna  3 Niveles de Potencia para Camping en el hogar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SPX5NPK/?tag=tolees-21'
 descuento: '40.00'
 average: '59.99'

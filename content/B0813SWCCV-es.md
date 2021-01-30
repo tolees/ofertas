@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'FIDECH Masajeador Portátil  7 Modos de Frecuencia  Silicona Suave  Impermeable  Carga USB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0813SWCCV/?tag=tolees-21'
 descuento: '27.79'
 average: '9.656666666666666'

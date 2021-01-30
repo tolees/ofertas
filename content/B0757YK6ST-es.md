@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'Marvel -Saco de Cuerdas Storm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0757YK6ST/?tag=tolees-21'
 descuento: '50.19'
 average: '6.45'

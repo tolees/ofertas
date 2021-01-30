@@ -16,6 +16,7 @@ comparePrice: 18.32 EUR
 prodname: 'Sikasil Pool  Sellante silicona neutra para sellados en piscinas  Blanco  300ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00N2T7VA8/?tag=tolees-21'
 descuento: '49.84'
 average: '9.19'

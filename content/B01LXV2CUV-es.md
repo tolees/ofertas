@@ -16,6 +16,7 @@ comparePrice: 2.56 EUR
 prodname: 'Vernel Aromaterapia Secretos de Bienestar Suavizante Concentrado Aceite de Argán y Jazmín - 1311 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LXV2CUV/?tag=tolees-21'
 descuento: '60.94'
 average: '1.0'

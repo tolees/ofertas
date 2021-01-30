@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Detector de Pared  Tacklife DMS03 Detector de Metal  Madera y AC Cable  Escáner de Pared Clásico y Multifuncional  Retroiluminación LCD  Indicación de Distancia  Batería Incluida  Lleva una Bolsa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073DWVVGY/?tag=tolees-21'
 descuento: '25.01'
 average: '31.790000000000003'

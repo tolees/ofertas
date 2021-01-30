@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'LEE  DAREN  - Pantalones para hombre  Azul  Rinse   30W x 34L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LWA7OWY/?tag=tolees-21'
 descuento: '47.16'
 average: '45.94'

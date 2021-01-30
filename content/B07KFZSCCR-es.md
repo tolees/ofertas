@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'PUMA Cell Venom Alert  Zapatillas Unisex Adulto  White Black  47 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFZSCCR/?tag=tolees-21'
 descuento: '73.91'
 average: '27.78'

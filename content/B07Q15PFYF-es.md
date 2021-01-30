@@ -16,6 +16,7 @@ comparePrice: 6.95 EUR
 prodname: 'L Oreal Paris Color Queen Mono Sombra de Ojos  Alta Pigmentación  Tono 01 Unsurpassed'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q15PFYF/?tag=tolees-21'
 descuento: '49.64'
 average: '3.58'

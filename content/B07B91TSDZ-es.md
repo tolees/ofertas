@@ -16,6 +16,7 @@ comparePrice: 160.0 EUR
 prodname: 'Clarks Rushwaymid GTX  Botas Chelsea para Hombre  Negro  Blk Tumbled Lea   39.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B91TSDZ/?tag=tolees-21'
 descuento: '67.50'
 average: '61.065'

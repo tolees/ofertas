@@ -16,6 +16,7 @@ comparePrice: 15.17 EUR
 prodname: 'Dasket Bin cesto de Ropa de lavandería Cesta de Malla Lavado Pop Up Bolsa de almacenaje Plegable Juguete Tidy'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0863VWS9Q/?tag=tolees-21'
 descuento: '35.33'
 average: '9.81'

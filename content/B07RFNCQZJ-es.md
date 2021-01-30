@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'adidas Predator 19.3 TF  Zapatillas de Fútbol para Hombre  Multicolor  legacy green/sand/solar yellow EF8210    39 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RFNCQZJ/?tag=tolees-21'
 descuento: '49.99'
 average: '44.98'

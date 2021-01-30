@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'JACK & JONES Jjeunion Knit Crew Neck Noos suéter  Verde  Olive Night Detail: Melange   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C2CKB57/?tag=tolees-21'
 descuento: '37.15'
 average: '23.49'

@@ -16,6 +16,7 @@ comparePrice: 41.94 EUR
 prodname: 'Garcima 76040 L40 - Hornillo paellero gas plano  2 fuegos  Negro  41 x 65 x 12 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004GVLDYG/?tag=tolees-21'
 descuento: '29.14'
 average: '29.72'

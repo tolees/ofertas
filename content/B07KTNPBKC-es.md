@@ -16,6 +16,7 @@ comparePrice: 10.0 EUR
 prodname: 'Helly Hansen 3 Pares de Calcetines Invisibles para Deportes  Unisex Adulto  Negro  M  42-44 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KTNPBKC/?tag=tolees-21'
 descuento: '27.30'
 average: '7.27'

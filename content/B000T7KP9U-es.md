@@ -16,6 +16,7 @@ comparePrice: 5.0 EUR
 prodname: 'Finder serie 40 - Rele mini reticulado 5mm conmutado 16a 24vdc'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000T7KP9U/?tag=tolees-21'
 descuento: '50.20'
 average: '2.49'

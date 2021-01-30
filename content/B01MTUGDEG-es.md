@@ -16,6 +16,7 @@ comparePrice: 599.0 EUR
 prodname: 'ION FITNESS CORSA T1 FI6140 Cinta de correr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MTUGDEG/?tag=tolees-21'
 descuento: '43.41'
 average: '339.0'

@@ -16,6 +16,7 @@ comparePrice: 29.54 EUR
 prodname: 'LKXHarleya Baby Anniversary Monthly Milestone Blanket Age Blanket Baby Mantas Newborn Photo Prop'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GJJBRWH/?tag=tolees-21'
 descuento: '40.62'
 average: '17.54'

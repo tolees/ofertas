@@ -16,6 +16,7 @@ comparePrice: 10.59 EUR
 prodname: 'Bruni Película Protectora Compatible con BOOX Nova2 Protector Película  Claro Lámina Protectora  2X '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087SNZVC1/?tag=tolees-21'
 descuento: '43.44'
 average: '5.99'

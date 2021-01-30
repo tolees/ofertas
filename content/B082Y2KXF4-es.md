@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Cocoda Dispensador Jabón Automático 500ml/17oz  Dispensador Jabon Cocina Sin Contacto con 5 Interruptor Ajustable y Tanque de Agua Visible  Dispensador Sensor de Líquidos Manos para Cocina Hotel Baño'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082Y2KXF4/?tag=tolees-21'
 descuento: '28.94'
 average: '19.89'

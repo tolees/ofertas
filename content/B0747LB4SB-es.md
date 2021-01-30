@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'SkullCap® Casco BMX Bici y Casco Skate - Hombres Mujeres Niños y Niños  Design: Eagle  Talla: L  58 – 61 cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0747LB4SB/?tag=tolees-21'
 descuento: '41.74'
 average: '34.9'

@@ -16,6 +16,7 @@ comparePrice: 14.06 EUR
 prodname: 'Guardians O/T Galaxy 2 Llavero  Gris  Gris  - BIO-KE109108GOG'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XTRG3T6/?tag=tolees-21'
 descuento: '50.57'
 average: '6.95'

@@ -16,6 +16,7 @@ comparePrice: 74.99 EUR
 prodname: 'Naipo Respaldo de Masaje Cojín Asiento Masajeador Portátil para Toda la Espalda y Cuello con 8 Motores de Vibración 2 Pads de Calor en Coche Casa Oficina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BRCN34L/?tag=tolees-21'
 descuento: '33.34'
 average: '50.989999999999995'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Vibrador Parejas  FIDECH Estimulador de Clítoris Impermeable con 12 Modos de vibracion y Dual Motor Con control remoto de 10M  Recargable y Silencioso Juguetes eróticos para solitario o parejas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VYJJ1Q5/?tag=tolees-21'
 descuento: '50.01'
 average: '14.989999999999998'

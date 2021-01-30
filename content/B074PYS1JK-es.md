@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Artix Auriculares Plegables con Micrófono  Auriculares estéreo NRGSound CL750 compactos en la Oreja  Ideales para niños/Adolescentes/Adultos  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074PYS1JK/?tag=tolees-21'
 descuento: '40.01'
 average: '17.99'

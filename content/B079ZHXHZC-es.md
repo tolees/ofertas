@@ -16,6 +16,7 @@ comparePrice: 15.96 EUR
 prodname: 'Oral-B 3D White Luxe Brillo Seductor  Pasta Dentífrica  75 ml  Paquete de 4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079ZHXHZC/?tag=tolees-21'
 descuento: '44.86'
 average: '9.120000000000001'

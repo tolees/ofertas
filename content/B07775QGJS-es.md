@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'Tommy Jeans Mujer Mid Rise Nora Jeans  Azul  Boogie Blue Stretch 980   W24/L30'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07775QGJS/?tag=tolees-21'
 descuento: '32.18'
 average: '77.99'

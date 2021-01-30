@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Under Armour Men s UA Launch SW 15cm Shorts Pantalones Cortos Deportivos para Hombre  Gris  Gray   S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZJ6Z9T/?tag=tolees-21'
 descuento: '63.73'
 average: '14.51'

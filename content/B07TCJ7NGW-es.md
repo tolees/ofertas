@@ -16,6 +16,7 @@ comparePrice: 289.0 EUR
 prodname: 'Samsonite Spinner 69/25  Equipaje de Mano  69 cm  85 Litros  Gris  Ivory Gold '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TCJ7NGW/?tag=tolees-21'
 descuento: '46.90'
 average: '153.47'

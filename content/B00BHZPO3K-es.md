@@ -16,6 +16,7 @@ comparePrice: 29.3 EUR
 prodname: 'Arcos Universal - Cuchillo para queso  145 mm  hoja '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BHZPO3K/?tag=tolees-21'
 descuento: '27.88'
 average: '21.13'

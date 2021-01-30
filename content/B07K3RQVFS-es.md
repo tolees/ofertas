@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Adidas Continental 80 W - Zapatillas de Deporte para Mujer  Multicolor  39 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K3RQVFS/?tag=tolees-21'
 descuento: '32.64'
 average: '63.16'

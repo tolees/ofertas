@@ -16,6 +16,7 @@ comparePrice: 30.89 EUR
 prodname: 'Kingston SDCG3/128GBSP Tarjeta microSD   128GB microSDXC Canvas Go Plus 170R A2 U3 V30 Sin SD adaptador '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085T71SBK/?tag=tolees-21'
 descuento: '38.52'
 average: '19.54'

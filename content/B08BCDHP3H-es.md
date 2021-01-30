@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'YINGJEE Tienda de Playa Pop Up  Tienda Campaña Playa Plegable y Portátil con Protección Sol Anti UV SPF 50+  para 2-4 Personas Familia Bebé Niños  Pop-up Beach Tent para Vacación Parque'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BCDHP3H/?tag=tolees-21'
 descuento: '25.01'
 average: '29.99'

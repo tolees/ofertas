@@ -16,6 +16,7 @@ comparePrice: 23.0 EUR
 prodname: 'Hugo Boss 11563 - Desodorante'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001MJ0XIC/?tag=tolees-21'
 descuento: '35.00'
 average: '14.652000000000001'

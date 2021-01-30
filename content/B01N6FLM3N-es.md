@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Motorola MBP 481 - Vigilabebés vídeo con pantalla LCD a color de 2.0"  modo eco y visión nocturna  color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N6FLM3N/?tag=tolees-21'
 descuento: '40.99'
 average: '59.0'

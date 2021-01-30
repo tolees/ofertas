@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Under Armour Play Up Solid Corto  Niñas  Rosa  YXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SHVDCXG/?tag=tolees-21'
 descuento: '30.15'
 average: '13.97'

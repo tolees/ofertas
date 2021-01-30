@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Tommy Hilfiger Medium Drawstring Bañador de natación  Rosa  Phlox Pink 658   XL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBMJCCY/?tag=tolees-21'
 descuento: '45.42'
 average: '29.99'

@@ -16,6 +16,7 @@ comparePrice: 37.36 EUR
 prodname: 'Hollister Wave U Edt 100 Vapo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GONKCVS/?tag=tolees-21'
 descuento: '44.35'
 average: '20.70642857142857'

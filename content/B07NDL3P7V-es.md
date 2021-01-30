@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'G-STAR RAW Rovic Slim Trainer Pantalones  Gris  Asfalt A791/995   W30/L36  Talla del Fabricante: 30W/ L36  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDL3P7V/?tag=tolees-21'
 descuento: '69.60'
 average: '39.51'

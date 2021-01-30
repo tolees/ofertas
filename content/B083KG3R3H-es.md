@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Pestañas Magnéticas  Delineador Magnético a Prueba de Agua  Naturales Reutilizables en 3D con 5 Imanes  Pestañas Hechas a Mano  Sin Necesidad de Pegamento + Pinzas Kit  2 Pares '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083KG3R3H/?tag=tolees-21'
 descuento: '52.24'
 average: '12.89'

@@ -16,6 +16,7 @@ comparePrice: 28.59 EUR
 prodname: 'Bergner Red Stone Plancha-asador en Aluminio Fundido  Silicona  Negro  36 x 23 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01709DSGG/?tag=tolees-21'
 descuento: '26.58'
 average: '21.49'

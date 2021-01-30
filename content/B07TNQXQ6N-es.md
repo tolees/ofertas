@@ -16,6 +16,7 @@ comparePrice: 43.5 EUR
 prodname: 'Unidad de Estado Sólido Lexar NS100 2 5" 256GB SATA III  6Gb/s '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TNQXQ6N/?tag=tolees-21'
 descuento: '32.74'
 average: '29.26'

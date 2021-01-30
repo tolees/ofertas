@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Pokémon Crystal - Edición Limitada  Código Digital '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078HXSXFH/?tag=tolees-21'
 descuento: '28.13'
 average: '7.263333333333333'

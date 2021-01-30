@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Bolsa de Maquillaje Mármol PU Bolsa de Cosméticos de Viaje Grande Impermeable para Mujer  19 x 7 x 9 cm  LOCN'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YFPYQ7H/?tag=tolees-21'
 descuento: '50.04'
 average: '6.99'

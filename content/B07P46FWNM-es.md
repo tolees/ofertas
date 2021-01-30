@@ -16,6 +16,7 @@ comparePrice: 114.11 EUR
 prodname: 'Reloj - Guanqin - para - GH17001'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P46FWNM/?tag=tolees-21'
 descuento: '47.43'
 average: '59.99'

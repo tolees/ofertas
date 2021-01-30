@@ -16,6 +16,7 @@ comparePrice: 229.0 EUR
 prodname: 'SMEG BLF01BLEU Batidora  150 W  0.45 litros  Metal  plástico  4 Velocidades  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00Q3CECNK/?tag=tolees-21'
 descuento: '47.94'
 average: '119.22'

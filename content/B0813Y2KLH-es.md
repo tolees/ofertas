@@ -16,6 +16,7 @@ comparePrice: 54.92 EUR
 prodname: 'Adidas Duramo Lite 2.0  Zapatillas para Correr para Hombre  Core Black/FTWR White/Glory Red  41 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0813Y2KLH/?tag=tolees-21'
 descuento: '43.57'
 average: '30.99'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'ICZI Hub USB Ethernet 3.0 +3 Puertos USB 3.0  Hub USB 3.0 RJ45 Gigabit para Xiaomi Box PC Adaptador USB Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y4LCF9V/?tag=tolees-21'
 descuento: '27.76'
 average: '15.2975'

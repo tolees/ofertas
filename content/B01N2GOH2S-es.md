@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'L Oreal Paris Colorista Coloración Temporal Colorista Spray - Pastel Blue Hair'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N2GOH2S/?tag=tolees-21'
 descuento: '74.84'
 average: '2.0'

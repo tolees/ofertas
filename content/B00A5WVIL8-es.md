@@ -16,6 +16,7 @@ comparePrice: 14.15 EUR
 prodname: 'Haribo Lampions Negros Dulces de Regaliz - 2000 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00A5WVIL8/?tag=tolees-21'
 descuento: '31.45'
 average: '9.7'

@@ -16,6 +16,7 @@ comparePrice: 32.13 EUR
 prodname: 'Optimum Nutrition Protein Whipped Bites barrita proteica  Sabor de Fresa y Crema - Paquete de 12 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079HB6VNF/?tag=tolees-21'
 descuento: '25.33'
 average: '21.49'

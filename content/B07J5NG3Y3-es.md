@@ -16,6 +16,7 @@ comparePrice: 14.58 EUR
 prodname: 'GARRAPATIN Antiparasitario pulgas casetas y Camas de Perro y Caballo Polvo 1 Kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J5NG3Y3/?tag=tolees-21'
 descuento: '33.13'
 average: '9.75'

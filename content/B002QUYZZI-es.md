@@ -16,6 +16,7 @@ comparePrice: 169.0 EUR
 prodname: 'Citizen Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable BM8434-58AE'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002QUYZZI/?tag=tolees-21'
 descuento: '32.38'
 average: '114.27'

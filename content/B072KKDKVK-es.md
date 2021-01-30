@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Vibram Fivefingers KSO EVO  Zapatillas de Deporte para Hombre  Negro  Black/Red Black/Red   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072KKDKVK/?tag=tolees-21'
 descuento: '28.43'
 average: '67.99'

@@ -16,6 +16,7 @@ comparePrice: 54.53 EUR
 prodname: 'Calvin Klein Short Runner Bañador  Rojo  High Risk XBG   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VPRDZGF/?tag=tolees-21'
 descuento: '36.75'
 average: '34.49'

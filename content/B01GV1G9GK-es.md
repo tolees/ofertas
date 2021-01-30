@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'TomTom Funda protectora clásica para todos los navegadores de 6 pulgadas  como Start  Via  GO  GO Basic  GO Essential  GO Premium  Rider  GO Professional o GO Camper'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GV1G9GK/?tag=tolees-21'
 descuento: '28.02'
 average: '17.96'

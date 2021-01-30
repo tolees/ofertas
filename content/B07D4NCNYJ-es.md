@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Krups Dispensador de cerveza The Sub Compact VB641810 - Tirador de cerveza para barriles de 2 l  mantiene la temperatura a 2 º  hasta 15 días de frescura  compatible con una gran variedad de cervezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D4NCNYJ/?tag=tolees-21'
 descuento: '42.50'
 average: '89.01607142857144'

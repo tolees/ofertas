@@ -16,6 +16,7 @@ comparePrice: 10.7 EUR
 prodname: 'Bolero Bebida Instantánea sin Azúcar  Sabor Plátano y Fresa - Paquete de 24 x 9 gr - Total: 216 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00M779CSK/?tag=tolees-21'
 descuento: '29.07'
 average: '7.59'

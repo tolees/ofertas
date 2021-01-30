@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Calvin Klein - Primary L 5cc W/Coin  Carteras Hombre  Negro  Blackwhite Black   1x1x1 cm  W x H L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V4RVD4J/?tag=tolees-21'
 descuento: '29.55'
 average: '42.2'

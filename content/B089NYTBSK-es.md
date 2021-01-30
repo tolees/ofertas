@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'USE Family Bamboo. Escurreplatos de plástico Fregadero con Bandeja Anti- Goteo  escurridor de Platos y Vasos de Cocina  Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089NYTBSK/?tag=tolees-21'
 descuento: '25.27'
 average: '13.97'

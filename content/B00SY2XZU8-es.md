@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Lotus Reloj Analógico para Niños de Cuarzo con Correa en Tela 18171/3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SY2XZU8/?tag=tolees-21'
 descuento: '30.71'
 average: '43.083333333333336'

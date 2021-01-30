@@ -16,6 +16,7 @@ comparePrice: 279.99 EUR
 prodname: 'Garmin Smartwatch Vivoactive 3 GPS Mano Ciclismo Unisex Adulto  Blanco  Rose Gold/White Band   Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D191SPD/?tag=tolees-21'
 descuento: '25.53'
 average: '232.894'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Jack & Jones Jcobase Sweat Hood Capucha  Verde  Winter Moss Detail: Melange   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V69X9SJ/?tag=tolees-21'
 descuento: '73.49'
 average: '11.156666666666666'

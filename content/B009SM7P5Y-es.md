@@ -16,6 +16,7 @@ comparePrice: 13.25 EUR
 prodname: 'ISDIN Nutraisdin Crema Protectora Facial Diaria Para Bebé SPF 30'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009SM7P5Y/?tag=tolees-21'
 descuento: '29.81'
 average: '10.463333333333333'

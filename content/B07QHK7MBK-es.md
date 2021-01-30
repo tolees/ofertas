@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'PUMA VCF Future Flare Mini Ball Balón de Fútbol  Adultos Unisex  White-Vibrant Orange Black  Mini'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QHK7MBK/?tag=tolees-21'
 descuento: '26.72'
 average: '9.49'

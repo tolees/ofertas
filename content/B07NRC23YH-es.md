@@ -16,6 +16,7 @@ comparePrice: 22.98 EUR
 prodname: 'Dunlop Stage 2 Orange - Pelota de Tenis para Adulto  Unisex  Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NRC23YH/?tag=tolees-21'
 descuento: '73.72'
 average: '6.04'

@@ -16,6 +16,7 @@ comparePrice: 50.14 EUR
 prodname: 'AND TREND Softee Kit Tenis Mesa 2 Palas con Red y 2 Bolas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081TLB8CW/?tag=tolees-21'
 descuento: '75.65'
 average: '12.21'

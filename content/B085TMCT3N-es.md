@@ -16,6 +16,7 @@ comparePrice: 125.0 EUR
 prodname: 'Mandarina Duck MD20 Bandolera Coral'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085TMCT3N/?tag=tolees-21'
 descuento: '45.00'
 average: '68.75'

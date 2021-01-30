@@ -16,6 +16,7 @@ comparePrice: 22.56 EUR
 prodname: 'Scitec Nutrition Protein Pancake comida funcional chocolate blanco-coco 1036 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00V6XSOR6/?tag=tolees-21'
 descuento: '41.80'
 average: '12.616666666666667'

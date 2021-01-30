@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'adidas 4k SPR GF Bos Pantalones Cortos de Deporte  Hombre  Black  XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KNVNK7K/?tag=tolees-21'
 descuento: '34.22'
 average: '22.99'

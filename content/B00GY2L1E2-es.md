@@ -16,6 +16,7 @@ comparePrice: 12.5 EUR
 prodname: 'Just For Men  Tinte Colorante en champu para el cabello del hombre. Elimina las canas y rejuvenece el cabello en 5 minutos. Castaño Oscuro  30 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GY2L1E2/?tag=tolees-21'
 descuento: '42.80'
 average: '7.15'

@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Saco Nórdico Colores  Para Cama de 90x190/200 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072BH4DR8/?tag=tolees-21'
 descuento: '43.37'
 average: '33.95'

@@ -16,6 +16,7 @@ comparePrice: 606.0 EUR
 prodname: 'Benq TH550 Video - Proyector  3500 lúmenes ANSI  DLP  1080p  1920x1080   20000:1  16:9  762 - 7620 mm  30 - 300"  '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L6XFYLV/?tag=tolees-21'
 descuento: '41.75'
 average: '353.0'

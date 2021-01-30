@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'New Balance 411 h  Zapatillas de Running para Hombre  Negro  Black/Black Black/Black   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BL2S76P/?tag=tolees-21'
 descuento: '44.06'
 average: '27.97'

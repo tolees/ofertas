@@ -16,6 +16,7 @@ comparePrice: 32.2 EUR
 prodname: 'TATAY 7738001 Carrito auxiliar de cocina con 3 cestas y con ruedas. Plástico polipropileno blanco. 36 x 52 x 63 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HFOJVQ8/?tag=tolees-21'
 descuento: '25.50'
 average: '23.99'

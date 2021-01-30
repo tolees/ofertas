@@ -16,6 +16,7 @@ comparePrice: 16.8 EUR
 prodname: 'Victory Endurance Recovery Bar Sabor Piña Colada. Barrita recuperadora con 32% de proteína  12x35 g '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081HLHRS4/?tag=tolees-21'
 descuento: '41.43'
 average: '9.84'

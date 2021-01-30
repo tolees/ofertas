@@ -16,6 +16,7 @@ comparePrice: 10.0 EUR
 prodname: 'Under Armour  UNDKU Heatgear Calcetines  Unisex adulto  Gris  MD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R1ZFXCK/?tag=tolees-21'
 descuento: '50.10'
 average: '4.99'

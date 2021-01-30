@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'PUMA Ralph Sampson Lo  Zapatillas Unisex Adulto  Rosa  Pastel Parchment-Pastel Parchment-Puma White 07   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG3MYYQ/?tag=tolees-21'
 descuento: '52.93'
 average: '37.63'

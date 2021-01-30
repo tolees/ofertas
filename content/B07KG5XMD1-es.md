@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'PUMA Axis Plus SD  Zapatillas Unisex Adulto  Castlerock Black-High Risk Red White  42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG5XMD1/?tag=tolees-21'
 descuento: '47.73'
 average: '33.95'

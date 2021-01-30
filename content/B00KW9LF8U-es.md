@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'AUSONIA - 72007 ABRELATAS PROFESIONAL DE MESA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KW9LF8U/?tag=tolees-21'
 descuento: '33.09'
 average: '93.0'

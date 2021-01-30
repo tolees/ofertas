@@ -16,6 +16,7 @@ comparePrice: 25.8 EUR
 prodname: 'HHUIWIND Funda Xiaomi Redmi 9 + Cristal Templado Protector  PU Cuero Flip Folio Carcasa Cover Xiaomi Redmi 9 Protectora Cierre Magnético para Xiaomi Redmi 9 Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DKQMLGP/?tag=tolees-21'
 descuento: '65.50'
 average: '8.9'

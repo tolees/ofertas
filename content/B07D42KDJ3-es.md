@@ -16,6 +16,7 @@ comparePrice: 9.0 EUR
 prodname: 'Rimmel London Stay Satin Liquid Lip Colour Barra De Labios  Tono 430 For Sure - 21 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D42KDJ3/?tag=tolees-21'
 descuento: '58.00'
 average: '3.84'

@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'FLORA GUARD 6.5inch Micro Punta de Hoja Recortadora de jardineria poda SNIP Tijeras de podar con Mano de Acero Inoxidable?Orange?'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MT3PHTY/?tag=tolees-21'
 descuento: '55.29'
 average: '8.24'

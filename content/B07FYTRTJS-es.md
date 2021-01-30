@@ -16,6 +16,7 @@ comparePrice: 14.28 EUR
 prodname: 'OSRAM NIGHT BREAKER LASER H1  Gen 2  +150% más luz  bombilla H1 para faros delanteros  64150NL-01B  12V  blister simple  1 lámpara '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FYTRTJS/?tag=tolees-21'
 descuento: '27.31'
 average: '10.394285714285713'

@@ -16,6 +16,7 @@ comparePrice: 349.0 EUR
 prodname: 'Silla de paseo compacta iCOO Acrobat hasta 18 kg con función de tumbado desde el nacimiento  plegable con una mano  ligero - chassis de aluminio  manillar regulable en altura  reflectores - rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M9BX7RG/?tag=tolees-21'
 descuento: '42.70'
 average: '199.99'

@@ -16,6 +16,7 @@ comparePrice: 17.95 EUR
 prodname: 'adidas 6P 3S Cap Cotto - Gorra  Unisex Adulto  Black/White  OSFL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KP2YGKH/?tag=tolees-21'
 descuento: '40.00'
 average: '11.36'

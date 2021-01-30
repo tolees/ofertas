@@ -16,6 +16,7 @@ comparePrice: 125.99 EUR
 prodname: 'Asics Chaussures Gel-Court Speed Clay'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B5ZQY97/?tag=tolees-21'
 descuento: '52.39'
 average: '59.99'

@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Tobillera Infinito para mujeres niñas plata de ley 925  tobillera hecha a mano 32cm tobillera ajustable  regalo de amistad de amor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SZ84B5D/?tag=tolees-21'
 descuento: '34.52'
 average: '18.99'

@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Under Armour Whisperlight Tie Back Tank Tanque  Mujer  Negro  MD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9GGYW1/?tag=tolees-21'
 descuento: '55.77'
 average: '13.27'

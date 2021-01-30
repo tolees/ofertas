@@ -16,6 +16,7 @@ comparePrice: 2.85 EUR
 prodname: 'Rexona Desodorante Active Pro+ Frescor Hombre - 200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BQDDBNW/?tag=tolees-21'
 descuento: '64.91'
 average: '1.0'

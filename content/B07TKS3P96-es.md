@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Clarks Alexis Shine  Sandalia con Pulsera para Mujer  Negro  Black Black   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TKS3P96/?tag=tolees-21'
 descuento: '57.31'
 average: '33.36333333333333'

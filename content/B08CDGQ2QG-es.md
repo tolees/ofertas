@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Uniky Cortador de Verdura 4 en 1【2020 La última versión】 Rallador de Verduras Calabacin Pasta Espiralizador Vegetal Veggetti Slicer Pepino  Espaguetis de Calabacin  Cortador Espiral Manual'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CDGQ2QG/?tag=tolees-21'
 descuento: '53.87'
 average: '11.99'

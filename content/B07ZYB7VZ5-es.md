@@ -16,6 +16,7 @@ comparePrice: 43.05 EUR
 prodname: 'Scimitar - Deportivas Casuales de Cierre Adhesivo para Chico Hombre  42 EU   Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZYB7VZ5/?tag=tolees-21'
 descuento: '33.33'
 average: '28.7'

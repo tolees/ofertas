@@ -16,6 +16,7 @@ comparePrice: 269.0 EUR
 prodname: 'Invicta 1513 I-Force Reloj para Hombre acero inoxidable Cuarzo Esfera azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005FMZWD8/?tag=tolees-21'
 descuento: '53.53'
 average: '101.866'

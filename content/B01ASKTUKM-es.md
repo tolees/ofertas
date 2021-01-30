@@ -16,6 +16,7 @@ comparePrice: 24.91 EUR
 prodname: 'Vichy - Protector anti-manchas 3 en 1 spf 50+'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ASKTUKM/?tag=tolees-21'
 descuento: '32.24'
 average: '18.677500000000002'

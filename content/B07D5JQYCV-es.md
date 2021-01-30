@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'KHOMO - Funda para iPad de 9 7 Pulgadas  2017 y 2018  Carbon Fiber iPad 9.7 Inch  2017 & 2018 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D5JQYCV/?tag=tolees-21'
 descuento: '35.07'
 average: '12.33'

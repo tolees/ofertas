@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Braun BT3041 - Recortadora de barba y cortapelos  eléctrico con cuchillas afiladas de larga duración  maquinilla Gillette Fusion5 ProGlide Con Tecnología FlexBall de regalo  negro/verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M97X4TH/?tag=tolees-21'
 descuento: '31.85'
 average: '33.93285714285714'

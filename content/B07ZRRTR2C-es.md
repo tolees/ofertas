@@ -16,6 +16,7 @@ comparePrice: 35.98 EUR
 prodname: 'Suhctup Espejo Funda Reemplazo para Xiaomi Redmi 6A Caso PC + PU Mirror Brillante Flip Tapa Libro Case Carcasa Espejo Caja Soporte de Maquillaje con Marco de Cuero Anti-Scratch Cover Oro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZRRTR2C/?tag=tolees-21'
 descuento: '69.48'
 average: '10.98'

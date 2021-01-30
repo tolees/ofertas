@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'New Balance 373 Core  Zapatillas Bajas para Hombre  Bordeaux  45.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MQNVU7O/?tag=tolees-21'
 descuento: '36.25'
 average: '51.0'

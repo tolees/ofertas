@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'WAVLINK Tipo-A USB 3.0 a 4 Puertos de USB 3.0 Hub Alta Velocidad Soporta Hot Swapping Diseño de Aluminio  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0778LHWRM/?tag=tolees-21'
 descuento: '25.02'
 average: '11.99'

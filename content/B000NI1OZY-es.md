@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Clevamama Capa de Baño Bebé - Toalla Delantal con Capucha  Algodón - Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000NI1OZY/?tag=tolees-21'
 descuento: '27.69'
 average: '15.9'

@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'KiplingDelia CompactMujerMochilasNegro  Charcoal 18x23.5x13 Centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZYMJZY/?tag=tolees-21'
 descuento: '71.06'
 average: '24.549999999999997'

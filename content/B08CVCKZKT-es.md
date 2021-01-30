@@ -16,6 +16,7 @@ comparePrice: 88.45 EUR
 prodname: 'Molyflower Black Remote Take Picture 240 * 240 píxeles Reloj Inteligente Teléfono King-Wear KW18 Tarjeta SIM y TF Smartwatch de frecuencia cardíaca - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CVCKZKT/?tag=tolees-21'
 descuento: '35.00'
 average: '57.49'

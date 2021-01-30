@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Tommy Hilfiger Bralette Sujetador Deportivo  Gris  GREY HEATHER 004   34  talla del fabricante: SM  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UT2O3A2/?tag=tolees-21'
 descuento: '36.49'
 average: '18.99'

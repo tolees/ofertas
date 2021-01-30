@@ -16,6 +16,7 @@ comparePrice: 23 EUR
 prodname: 'Rastar - Coche teledirigido 1:18 AUDI R8 LMS Performance  41233 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075GW2B4L/?tag=tolees-21'
 descuento: '32.65'
 average: '15.49'

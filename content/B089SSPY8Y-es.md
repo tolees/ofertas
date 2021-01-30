@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'ZoneYan Pistola de Agua Grande  Pistola de Agua para Niños  Pistola de Agua de Juguete para Adultos  Supersoaker  Pistola Blaster  Doble Boquilla  con Correa  8 Metros Rango  600ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089SSPY8Y/?tag=tolees-21'
 descuento: '42.51'
 average: '21.49'

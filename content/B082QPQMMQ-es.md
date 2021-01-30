@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'SEELOK Lentejuelas Redondas Planas 24 bolsas Lentejuelas Iridiscentes 6mm Lentejuelas Sueltas para DIY Manualidades Bordado Tarjetas de Felicitación Decoración de Huevos de Lentejuelas para Pascua'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082QPQMMQ/?tag=tolees-21'
 descuento: '50.10'
 average: '11.97'

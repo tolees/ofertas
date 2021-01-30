@@ -16,6 +16,7 @@ comparePrice: 33.54 EUR
 prodname: 'Mantona 20142 - Bolsa para cámara Color Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NVMSJT8/?tag=tolees-21'
 descuento: '50.66'
 average: '16.55'

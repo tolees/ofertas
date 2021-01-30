@@ -16,6 +16,7 @@ comparePrice: 111.0 EUR
 prodname: 'Nike Jordan Jumpman 2020  Zapatillas de básquetbol para Hombre  Black Mtlc Silver White Digital Pink  40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZTWLGVV/?tag=tolees-21'
 descuento: '30.00'
 average: '77.7'

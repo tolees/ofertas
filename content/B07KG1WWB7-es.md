@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Puma Flyer Runner  Zapatillas de Running Unisex Adulto  Gris  Glacier Gray-Milky Blue   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG1WWB7/?tag=tolees-21'
 descuento: '46.19'
 average: '26.88'

@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'adidas Coast Star W  Zapatillas de Gimnasia para Mujer  Negro  Core Black/Icey Pink F17/Ftwr White Core Black/Icey Pink F17/Ftwr White   36 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SSCFWYT/?tag=tolees-21'
 descuento: '46.35'
 average: '42.89'

@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'G-STAR RAW Rovulc Low  Zapatillas para Mujer  Rosa  Bright Bazooka 7178   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0798HL4BL/?tag=tolees-21'
 descuento: '76.80'
 average: '24.285000000000004'

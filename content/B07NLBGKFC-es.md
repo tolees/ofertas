@@ -16,6 +16,7 @@ comparePrice: 29.92 EUR
 prodname: 'Skechers Bobs Squad  Zapatillas para Niñas  Gris  Gray/Hot Pink Glitter & Embroidered Sneaker Gyhp   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NLBGKFC/?tag=tolees-21'
 descuento: '27.21'
 average: '21.78'

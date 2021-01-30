@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Estante de Toalla  Toallero de baño  Barra de Toalla pared de acero inoxidable  Estantería de Almacenamiento para Baño montado en la pared con Ganchos y Barras  para el baño de Home Hotel 60x22x16CM '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KX1ZMHB/?tag=tolees-21'
 descuento: '34.23'
 average: '15.12'

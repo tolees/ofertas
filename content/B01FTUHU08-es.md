@@ -16,6 +16,7 @@ comparePrice: 37.93 EUR
 prodname: 'BSN  Suplemento Dietético en Polvo "NO Xplode XE Edge Pre-Entreno"  Sabor de Manzana Verde - 263 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FTUHU08/?tag=tolees-21'
 descuento: '47.19'
 average: '20.05'

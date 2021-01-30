@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Gigaset SL910 - Teléfono Inalámbrico con Pantalla táctil  Manos Libres  Bluetooth'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006Y4FU6A/?tag=tolees-21'
 descuento: '38.76'
 average: '98.63'

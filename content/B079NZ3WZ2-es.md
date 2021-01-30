@@ -16,6 +16,7 @@ comparePrice: 55.99 EUR
 prodname: 'Hapilife Grifo 360° Giratorio Grifo de Cocina Grifo de Fregadero Montado en la pared Monomando para Fregadero Grifo de Cuenca Agua Fría y Caliente Cromado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079NZ3WZ2/?tag=tolees-21'
 descuento: '32.15'
 average: '37.99'

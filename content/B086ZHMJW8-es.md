@@ -16,6 +16,7 @@ comparePrice: 11.02 EUR
 prodname: 'nakw88 Universal Montaje Lateral Magnético Soporte con Clip Portátil Teléfono Móvil Soporte  Monitor de Ordenador para Tableta & Dual Ajustable Multi Pantalla Lado - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086ZHMJW8/?tag=tolees-21'
 descuento: '49.91'
 average: '5.52'

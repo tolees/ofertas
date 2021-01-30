@@ -16,6 +16,7 @@ comparePrice: 20.89 EUR
 prodname: 'CARE OF by PUMA Zapatillas bajas informales en cuero para hombre  Blanco  40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R7BH2W4/?tag=tolees-21'
 descuento: '34.42'
 average: '16.47'

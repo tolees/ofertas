@@ -16,6 +16,7 @@ comparePrice: 13.09 EUR
 prodname: 'Luckywing Termómetro de Frente，Termómetro Infrarrojos Lecturas Instantáneas Termómetro Digital sin Contacto Profesional Alarma de Fiebre Conversión ℃ / ℉ para Bebés  Niños  Adultos  Comida'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08D7H2WS6/?tag=tolees-21'
 descuento: '31.78'
 average: '8.93'

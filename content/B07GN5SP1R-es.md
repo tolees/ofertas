@@ -16,6 +16,7 @@ comparePrice: 45.16 EUR
 prodname: 'WinWonder 17 piezas de fabricación de joyas  herramientas de hallazgos de joyería con 2 rollos de poliéster elástico Strester Cord cordón de cristal y 750 piezas de joyería para hacer joyas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GN5SP1R/?tag=tolees-21'
 descuento: '40.23'
 average: '27.33'

@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Rowenta Multistyler 8 en 1 Basic TN8940F0 -  Cortapelos y barbero profesional con 60 min de autonomía  8 accesorios de corte y fácil limpieza'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GHC64YL/?tag=tolees-21'
 descuento: '28.58'
 average: '24.99'

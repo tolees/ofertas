@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Cudy AX3000 WiFi 6 Adaptador PCIe  Tarjeta WiFi pc  Bluetooth 5.0 PCIe  2402Mbps + 574Mbps  Intel AX200  802.11ax/AC/a/b/g/n  Bluetooth 5.0/4.2/4.0  Windows 10 Solo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0833VWGHM/?tag=tolees-21'
 descuento: '56.32'
 average: '34.9'

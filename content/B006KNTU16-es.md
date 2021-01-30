@@ -16,6 +16,7 @@ comparePrice: 8.34 EUR
 prodname: 'CUMLAUDE Visilaude - Toallitas de Higiene Ocular - Limpieza de Párpados y Pestañas - Descongestionante y Calmante - 16 Toallitas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006KNTU16/?tag=tolees-21'
 descuento: '28.30'
 average: '5.446666666666666'

@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'Muvit MUCHL0052 Coche - Soporte  Teléfono móvil/Smartphone  Coche  Soporte pasivo  Negro  230 g '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ZWF0NKU/?tag=tolees-21'
 descuento: '33.90'
 average: '8.47'

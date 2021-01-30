@@ -16,6 +16,7 @@ comparePrice: 78.9 EUR
 prodname: 'find. Amelie  Botas Chelsea para Mujer  Negro  Black   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XHQD9X5/?tag=tolees-21'
 descuento: '64.07'
 average: '28.35'

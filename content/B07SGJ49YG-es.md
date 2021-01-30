@@ -16,6 +16,7 @@ comparePrice: 9.89 EUR
 prodname: 'Jeffergarden Mosquitero electrónico Potencia de batería inalámbrica Batería eléctrica Mosquito Swatter Insecto Zapper Raqueta Insectos Asesino  Verde '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SGJ49YG/?tag=tolees-21'
 descuento: '33.37'
 average: '6.59'

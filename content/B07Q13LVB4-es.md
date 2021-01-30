@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Under Armour Heatgear Armoury Corto  Mujer  Rojo  XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q13LVB4/?tag=tolees-21'
 descuento: '48.12'
 average: '13.49'

@@ -16,6 +16,7 @@ comparePrice: 369.0 EUR
 prodname: 'Diesel Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero DZ7406'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074W13WTK/?tag=tolees-21'
 descuento: '40.49'
 average: '222.202'

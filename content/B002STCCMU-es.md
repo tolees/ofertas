@@ -16,6 +16,7 @@ comparePrice: 181.5 EUR
 prodname: 'Stanley FatMax Taller de laminado de metal-plástico  1-95-622 - Carro de herramientas  vacío - Caja de herramientas versátil para piezas pequeñas y grandes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002STCCMU/?tag=tolees-21'
 descuento: '46.75'
 average: '110.275'

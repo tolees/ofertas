@@ -16,6 +16,7 @@ comparePrice: 147.85 EUR
 prodname: 'Dewalt Lijadora Rotorbital DWE6423-QS  280 W  230 V  Negro  Amarillo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EYESJUA/?tag=tolees-21'
 descuento: '28.99'
 average: '101.32666666666667'

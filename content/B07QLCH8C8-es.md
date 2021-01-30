@@ -16,6 +16,7 @@ comparePrice: 7.39 EUR
 prodname: 'Reshias Funda BQ Aquaris X/X Pro  Cárcasa Silicona Transparente Gel TPU Protector Bumper Case Cover para Teléfono Móvil BQ Aquaris X/X Pro  El Amor  con  2 Pack  Cristal Templado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QLCH8C8/?tag=tolees-21'
 descuento: '74.42'
 average: '1.89'

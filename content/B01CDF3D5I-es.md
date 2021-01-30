@@ -16,6 +16,7 @@ comparePrice: 16.86 EUR
 prodname: 'Moskovskaya Vodka - 1000 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CDF3D5I/?tag=tolees-21'
 descuento: '29.36'
 average: '11.91'

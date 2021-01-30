@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Asics Patriot 11  Zapatillas de Running para Hombre  Azul  Blue Expanse/Imperial 400   43.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L2SQV22/?tag=tolees-21'
 descuento: '32.78'
 average: '41.405'

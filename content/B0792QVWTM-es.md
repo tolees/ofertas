@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'ENKEEO - 23x103.5cm Longboard  Monopatín con Rodamiento de ABEC-11 y 9 Capas Flexible de Arce  Tabla Completa  Cielo Nocturno '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0792QVWTM/?tag=tolees-21'
 descuento: '28.58'
 average: '49.99'

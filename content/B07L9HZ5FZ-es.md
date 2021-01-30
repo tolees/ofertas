@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Under Armour Play Up P Pantalones Cortos con Bolsillos  Mujer  Negro  Black 001   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9HZ5FZ/?tag=tolees-21'
 descuento: '48.12'
 average: '17.15285714285714'

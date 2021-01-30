@@ -16,6 +16,7 @@ comparePrice: 73.92 EUR
 prodname: 'Blanton Bourbon Original Whiskey  1 x 0 7 l '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005IZX04A/?tag=tolees-21'
 descuento: '31.07'
 average: '50.95'

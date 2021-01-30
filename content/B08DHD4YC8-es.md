@@ -16,6 +16,7 @@ comparePrice: 9.47 EUR
 prodname: 'TRUUA 100PCS de Goma Tubo de 802 830 815 816 810 835 Cartucho de Tinta Hueco tapón de Sellado del Cartucho'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DHD4YC8/?tag=tolees-21'
 descuento: '48.26'
 average: '4.9'

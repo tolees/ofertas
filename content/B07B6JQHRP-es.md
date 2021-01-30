@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Tommy Hilfiger X Sujetador estilo bralette  Azul  Navy Blazer 416   LG para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B6JQHRP/?tag=tolees-21'
 descuento: '33.61'
 average: '26.49'

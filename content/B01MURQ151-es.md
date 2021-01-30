@@ -16,6 +16,7 @@ comparePrice: 35.91 EUR
 prodname: 'Nike Court Borough Low  PSV   Zapatillas para Niñas  Blanco  White/White 100   30 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MURQ151/?tag=tolees-21'
 descuento: '29.96'
 average: '25.15'

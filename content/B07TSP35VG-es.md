@@ -16,6 +16,7 @@ comparePrice: 7.41 EUR
 prodname: 'Depesche Cepillo de Pelo Plegable 8846  Modelo Top  Aprox. 7 x 6 2 x 2 5 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TSP35VG/?tag=tolees-21'
 descuento: '46.69'
 average: '3.95'

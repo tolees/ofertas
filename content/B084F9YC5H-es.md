@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Avoalre Organizador de Bolsos de Fieltro  Mujer Organizador de Fieltro Bolsa en Bolsa Insertar con Bolsa de Cremallera Desmontable y Llavero  Rojo  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084F9YC5H/?tag=tolees-21'
 descuento: '46.68'
 average: '15.99'

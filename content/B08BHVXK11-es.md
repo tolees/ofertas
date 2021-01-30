@@ -16,6 +16,7 @@ comparePrice: 22.84 EUR
 prodname: 'Kits Traviesos: No Tengas Miedo De Tomar Tu Tra/In Lentamente y Saborear Cada Momento Bondḁgêromḁnce Esclḁvitûd Para Pḁrejḁs Principḁlês Sêxo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BHVXK11/?tag=tolees-21'
 descuento: '29.99'
 average: '15.99'

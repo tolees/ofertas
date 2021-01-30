@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Oxímetro konjac  Oxímetro dedo  Oxímetro de Pulso Pulsioxímetro de dedo profesional  Monitor de Oxígeno Portátil  Monitor de Frecuencia Cardíaca para Adultos  Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085ZTPHB2/?tag=tolees-21'
 descuento: '40.01'
 average: '29.99'

@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Kipling - New Hiphurray L Fold  Bolsos totes Mujer  Amarillo  Lively Yellow   0.1x45x49.5 cm  B x H T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BHBLQF7/?tag=tolees-21'
 descuento: '53.38'
 average: '18.6'

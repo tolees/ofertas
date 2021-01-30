@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'VAIRO Short Columns Negro  XXL '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079ZYLNBF/?tag=tolees-21'
 descuento: '50.19'
 average: '19.9'

@@ -16,6 +16,7 @@ comparePrice: 39.5 EUR
 prodname: 'Calvin Klein Cotton Stretch-3er Cierre  Negro  Black W. Black WB Xwb   Large  Pack de 3  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077BCPSML/?tag=tolees-21'
 descuento: '29.24'
 average: '27.95'

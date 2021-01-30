@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'GSOTTA Calcetines invisibles 6 paquetes  calcetines para mujeres y hombres  calcetines unisex  invisibles y antideslizantes  que no se muestran  hechos de algodón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XLN647X/?tag=tolees-21'
 descuento: '50.08'
 average: '14.95'

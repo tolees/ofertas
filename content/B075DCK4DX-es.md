@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'EIS  Aceite de masaje cálido prémium  Excitante efecto calor  olor choco  250ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075DCK4DX/?tag=tolees-21'
 descuento: '78.37'
 average: '6.49'

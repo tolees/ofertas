@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Adidas Kaiser 5 Team Botas de fútbol hombre  Multicolor  Negro/Blanco  42 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000G4O6FA/?tag=tolees-21'
 descuento: '35.98'
 average: '60.97666666666667'

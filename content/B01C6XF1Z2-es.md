@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Arena Fundamentals Logo Bañador  Hombre  Rojo/Blanco  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01C6XF1Z2/?tag=tolees-21'
 descuento: '58.46'
 average: '12.780000000000001'

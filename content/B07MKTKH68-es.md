@@ -16,6 +16,7 @@ comparePrice: 16.69 EUR
 prodname: 'Memory Matching Game Pairs Juego Brain Entrenamiento Desk Juguete para niños regalo favorito'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MKTKH68/?tag=tolees-21'
 descuento: '30.56'
 average: '11.59'

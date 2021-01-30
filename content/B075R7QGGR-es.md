@@ -16,6 +16,7 @@ comparePrice: 95 EUR
 prodname: 'New Balance Fresh Foam Cruz v2  Zapatillas para Mujer  Rosa  Conch Shell/Dark Oxide Na2   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075R7QGGR/?tag=tolees-21'
 descuento: '40.00'
 average: '57'

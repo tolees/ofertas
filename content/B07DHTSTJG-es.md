@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Lacoste Graduate BL 1 SFA  Zapatillas para Mujer  Azul  Navy/White   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DHTSTJG/?tag=tolees-21'
 descuento: '43.20'
 average: '53.96'

@@ -16,6 +16,7 @@ comparePrice: 17.95 EUR
 prodname: 'adidas Core18 TR SHO Y Sport Shorts  Unisex niños  Black/White  5-6Y'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076HRLDW2/?tag=tolees-21'
 descuento: '37.99'
 average: '11.06'

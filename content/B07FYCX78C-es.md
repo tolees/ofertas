@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'L Oréal Paris Make-up designer X Isabel Marant "Palais Royal Field" Pintalabios Mate Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FYCX78C/?tag=tolees-21'
 descuento: '47.15'
 average: '7.18'

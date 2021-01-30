@@ -16,6 +16,7 @@ comparePrice: 61.99 EUR
 prodname: 'Taurus Galexia Premium - Plancha asador lisa  2200 W'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NOGU23M/?tag=tolees-21'
 descuento: '43.70'
 average: '32.906666666666666'

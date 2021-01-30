@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Pop! Vinilo: Disney: The Lion King: Timon'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KPHL367/?tag=tolees-21'
 descuento: '33.78'
 average: '9.045714285714286'

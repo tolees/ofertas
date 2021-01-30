@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'Podofo Kit de cámara de respaldo inalámbrico DC 12V-24V Impermeable Pantalla de 7 pulgadas Monitor de vehículo Visión nocturna Cámara de visión trasera IR para autobuses  camiones'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0736H1DLG/?tag=tolees-21'
 descuento: '42.77'
 average: '98.24'

@@ -16,6 +16,7 @@ comparePrice: 42.0 EUR
 prodname: 'Kelme - Zapatillas K-goleiro 17'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BZKS3WN/?tag=tolees-21'
 descuento: '50.00'
 average: '21.0'

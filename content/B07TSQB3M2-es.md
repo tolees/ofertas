@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Delson 2.0 Larwin  Zapatillas sin Cordones para Hombre  Gris  Gray Canvas Gry   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TSQB3M2/?tag=tolees-21'
 descuento: '26.17'
 average: '47.95'

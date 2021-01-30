@@ -16,6 +16,7 @@ comparePrice: 80.99 EUR
 prodname: 'LEILEI Cámara Web de Video USB Cámara de Video HD de 12MP 1080P Rotación de 360 Grados Corrección de luz Ajustable Micrófonos incorporados Cámara de Video para Conferencia de enseñanza en Red'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0895WG5CQ/?tag=tolees-21'
 descuento: '33.34'
 average: '53.99'

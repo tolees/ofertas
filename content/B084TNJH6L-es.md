@@ -16,6 +16,7 @@ comparePrice: 30.23 EUR
 prodname: 'Triamisu Vaporizador de Ropa portátil de Viaje Multifuncional JK-2106 Vapores de Mano de Hierro Vaporizador de Ropa - Blanco y Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084TNJH6L/?tag=tolees-21'
 descuento: '33.51'
 average: '20.1'

@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: '[3 Pack] UniqueMe protector de pantalla para Samsung Galaxy S7 [9H Dureza] [HD Film] [Anti-mancha]Cristal Vidrio Templado Premium para Samsung Galaxy S7'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XPVQ21C/?tag=tolees-21'
 descuento: '36.40'
 average: '6.99'

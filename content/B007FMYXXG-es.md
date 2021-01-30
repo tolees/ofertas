@@ -16,6 +16,7 @@ comparePrice: 659.0 EUR
 prodname: 'BK-5 - Teclado inteligente Roland BK-5 -'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007FMYXXG/?tag=tolees-21'
 descuento: '38.54'
 average: '556.384'

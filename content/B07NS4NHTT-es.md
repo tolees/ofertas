@@ -16,6 +16,7 @@ comparePrice: 82.11 EUR
 prodname: 'GP-PRO GB10L-B 12V 11Ah GEL Batería de arranque  compatible con YB10L-B / YB10L-B2   Sin necesidad de mantenimiento/Sellado  Scooters y Motos Acumulador'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NS4NHTT/?tag=tolees-21'
 descuento: '36.41'
 average: '52.21'

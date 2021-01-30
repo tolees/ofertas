@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'Vibrador Parejas  Juegos Eroticos Silicona Masajeador Sexual Vibradores Dual Motor Con control remoto - Vibración de 10 Modos Con Estimulador de Punto G/Clítoris Para Mujer  Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K9V38HZ/?tag=tolees-21'
 descuento: '39.14'
 average: '27.656666666666666'

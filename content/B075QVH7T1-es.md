@@ -16,6 +16,7 @@ comparePrice: 13.95 EUR
 prodname: 'Figura Vinyl Cuphead'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075QVH7T1/?tag=tolees-21'
 descuento: '36.99'
 average: '8.866666666666665'

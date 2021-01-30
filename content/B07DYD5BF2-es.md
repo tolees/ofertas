@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Merrell Waterpro Maipo 2  Zapatillas Impermeables para Mujer  Azul  Navy/Smoke   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DYD5BF2/?tag=tolees-21'
 descuento: '38.01'
 average: '61.99'

@@ -16,6 +16,7 @@ comparePrice: 235.62 EUR
 prodname: 'Samsung Galaxy Watch Active Reloj Inteligente Negro SAMOLED 2 79 cm  1.1"  GPS  satélite  - Relojes Inteligentes  2 79 cm  1.1"   SAMOLED  Pantalla táctil  GPS  satélite   25 g  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NQ9BBB9/?tag=tolees-21'
 descuento: '29.97'
 average: '176.50333333333333'

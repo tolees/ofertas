@@ -16,6 +16,7 @@ comparePrice: 360 EUR
 prodname: 'Samsonite Neopulse - Spinner M Maleta  69 cm  74 L  Negro  Matte Black '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01D1HKCAQ/?tag=tolees-21'
 descuento: '47.62'
 average: '188.55'

@@ -16,6 +16,7 @@ comparePrice: 13.95 EUR
 prodname: 'L Oréal Paris Color Riche Quad Pro S4 - Sombra de ojos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00AQDP2DQ/?tag=tolees-21'
 descuento: '57.06'
 average: '5.693333333333333'

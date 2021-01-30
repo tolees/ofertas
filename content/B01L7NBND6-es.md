@@ -16,6 +16,7 @@ comparePrice: 14.31 EUR
 prodname: 'Trucos de Magia Hierro con Memoria en Forma de Alambre Calle Tabla de Posiciones'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01L7NBND6/?tag=tolees-21'
 descuento: '44.30'
 average: '7.97'

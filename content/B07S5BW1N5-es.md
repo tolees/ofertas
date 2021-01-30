@@ -16,6 +16,7 @@ comparePrice: 137.7 EUR
 prodname: 'Love MoschinoJc4043pp1aMujerBolso de manoRojo  Rosso 8x16x20 centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S5BW1N5/?tag=tolees-21'
 descuento: '39.71'
 average: '83.02'

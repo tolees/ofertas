@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'LUCATEX - rollo Césped artificial Vegas 1x4metros - 40mm de altura - alta densidad - muy realista - profesional - ideal para exteriores  piscinas  terrazas  jardín  ideal mascotas - fácil instalación'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CCBPHHB/?tag=tolees-21'
 descuento: '50.07'
 average: '74.9'

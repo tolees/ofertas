@@ -16,6 +16,7 @@ comparePrice: 1400.0 EUR
 prodname: 'Sony Cyber-Shot DSC-RX10 II - Cámara compacta de 20.2 MP y Sensor de 1" Exmor RS con 20 MP  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ZUFRCHY/?tag=tolees-21'
 descuento: '40.07'
 average: '839.0'

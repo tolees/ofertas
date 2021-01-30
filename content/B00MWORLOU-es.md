@@ -16,6 +16,7 @@ comparePrice: 270.0 EUR
 prodname: 'Orient Reloj Analógico para Hombre de Automático con Correa en Cuero FEV0U002WH'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MWORLOU/?tag=tolees-21'
 descuento: '54.27'
 average: '129.94'

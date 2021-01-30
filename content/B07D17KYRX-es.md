@@ -16,6 +16,7 @@ comparePrice: 9.24 EUR
 prodname: 'BOLSA MERIENDA PATRULLA CANINA COLORS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D17KYRX/?tag=tolees-21'
 descuento: '56.82'
 average: '3.99'

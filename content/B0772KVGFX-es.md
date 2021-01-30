@@ -16,6 +16,7 @@ comparePrice: 8.49 EUR
 prodname: 'Funko Pop! - Ready Player One Sorrento Figura de Vinilo 22055'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0772KVGFX/?tag=tolees-21'
 descuento: '29.92'
 average: '6.176'

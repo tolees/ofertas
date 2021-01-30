@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'KAILH Doble Pared con Aislamiento de Botella Agua de Acero Inoxidable  Botella Agua Gimnasio  Botella Agua Deportiva  para Niños  Deporte  Oficina  Yoga  Ciclismo  Eco-Friendly & sin BPA  500ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082NZW56J/?tag=tolees-21'
 descuento: '43.35'
 average: '16.99'

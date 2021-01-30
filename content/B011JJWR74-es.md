@@ -16,6 +16,7 @@ comparePrice: 109.9 EUR
 prodname: 'Supra Zapatillas abotinadas  Negro  45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B011JJWR74/?tag=tolees-21'
 descuento: '51.64'
 average: '51.9525'

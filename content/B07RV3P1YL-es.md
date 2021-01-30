@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Bikinis Mujer 2020 Push up Sexy de Lunares de Playa Conjunto de Traje de BañO Estampado Bohemio BañAdores con Relleno Sujetador Tops y Braguitas Ropa de Playa vikinis riou'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RV3P1YL/?tag=tolees-21'
 descuento: '33.37'
 average: '5.99'

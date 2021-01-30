@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Calentador de Cera Eléctrico Profesional 500 ML  Kit de Depilación de Cera con LCD Pantalla  Botones Tactiles  Función de Memoria  4 Bolsitas de Cera  20 Palitos de Madera para Mujeres y Hombres'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PMN134L/?tag=tolees-21'
 descuento: '51.68'
 average: '29.99'

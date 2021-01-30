@@ -16,6 +16,7 @@ comparePrice: 31.93 EUR
 prodname: 'NECA 49503 Coraline Fashion - Muñeca  Color Amarillo  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001QDR2D8/?tag=tolees-21'
 descuento: '25.31'
 average: '23.85'

@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'hotbesteu Cortinas Dormitorio Moderno Lujo Flores Impreso de Tul Cortina Traslúcidas Cortinas Transparentes 100x250'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C1MNDZY/?tag=tolees-21'
 descuento: '29.88'
 average: '9.81'

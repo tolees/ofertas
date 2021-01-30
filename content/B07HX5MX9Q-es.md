@@ -16,6 +16,7 @@ comparePrice: 288.0 EUR
 prodname: 'Nox AT10 Gold Palas  Adultos Unisex  Negro  375'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HX5MX9Q/?tag=tolees-21'
 descuento: '58.68'
 average: '118.87666666666667'

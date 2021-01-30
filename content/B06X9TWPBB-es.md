@@ -16,6 +16,7 @@ comparePrice: 47.39 EUR
 prodname: 'SANGEAN DT-160 Am/FM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06X9TWPBB/?tag=tolees-21'
 descuento: '36.91'
 average: '29.9'

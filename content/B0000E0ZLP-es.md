@@ -16,6 +16,7 @@ comparePrice: 109.0 EUR
 prodname: 'Zwilling TWIN POLLUX - Juego 3 piezas  puntilla  carne y cebollero'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0000E0ZLP/?tag=tolees-21'
 descuento: '33.99'
 average: '66.26666666666667'

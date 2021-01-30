@@ -16,6 +16,7 @@ comparePrice: 359.99 EUR
 prodname: 'Plancha eléctrica Antiadherente Cocina sin Humo Plancha eléctrica con Bandeja de Goteo y Control de Temperatura para Interiores Exteriores 10"x21 Tamaño Familiar  Revestimiento antiadheren'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089WG8LBK/?tag=tolees-21'
 descuento: '37.50'
 average: '224.99'

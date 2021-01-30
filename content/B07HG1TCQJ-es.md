@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'New Balance Fresh Foam Beacon  Zapatillas de Running para Hombre  Azul  Navy Navy   44.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HG1TCQJ/?tag=tolees-21'
 descuento: '27.27'
 average: '80.0'

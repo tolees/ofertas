@@ -16,6 +16,7 @@ comparePrice: 53.43 EUR
 prodname: 'Limpiador de Poros  Succionador de Puntos Negros y Espinillas  Extractor Puntos Negros  Limpiador Facial para Espinillas y Acné con 3 Cabezales y 6 Modos de Succión  con Pantalla LCD Grande'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XLGL1RV/?tag=tolees-21'
 descuento: '62.59'
 average: '19.99'

@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Tamaris 1-1-26096-23  Botas Altas para Mujer  Marrón  Rust 444   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJHKPB6/?tag=tolees-21'
 descuento: '84.15'
 average: '12.67'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Disfraz de La casa de Papel para Disfraz Ladrón Disfraces Carnaval Halloween. Incluye un Traje con Capucha y una Dali máscara Ametralladora Hombre Mujer Adulto Niño AdultM155~170CM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081LH2G9M/?tag=tolees-21'
 descuento: '41.99'
 average: '29.0'

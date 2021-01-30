@@ -16,6 +16,7 @@ comparePrice: 196.01 EUR
 prodname: 'Besrey Silla de paseo de bebe Compacta y Ligera Cochecito para Viaje Plegable Carritos de Bebe 3 años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WYY85XP/?tag=tolees-21'
 descuento: '48.99'
 average: '99.99'

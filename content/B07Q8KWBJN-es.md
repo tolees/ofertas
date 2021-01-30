@@ -16,6 +16,7 @@ comparePrice: 33.99 EUR
 prodname: 'yidenguk Almohadilla de enfriamiento para computadora portátil  soporte de refrigerador de computadora portátil ultra silenciosa de ángulo ajustable con 6 ventiladores  luces LED azules  2 puertos USB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q8KWBJN/?tag=tolees-21'
 descuento: '26.48'
 average: '24.99'

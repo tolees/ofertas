@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'Nike Court Borough Mid  Zapatillas de Baloncesto para Niños  Negro  Black/Black-Black 001   36.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IH3CD60/?tag=tolees-21'
 descuento: '36.35'
 average: '35.0'

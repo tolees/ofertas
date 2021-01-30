@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Kodak Photo Printer Mini WiFi - Impresora fotográfica  Impresión por sublimación  Cian  Magenta  Amarillo  16 7 M  MicroUSB   negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KO0T5VA/?tag=tolees-21'
 descuento: '26.99'
 average: '81.07428571428572'

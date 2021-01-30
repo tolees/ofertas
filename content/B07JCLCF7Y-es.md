@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'ANEWSIR [2 Pack Protector de Pantalla para Motorola One  Cristal Templado Motorola One  Vidrio Templado película Protectora para Motorola Moto One [Ultra-Transparente] [Resistente a Arañazos]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JCLCF7Y/?tag=tolees-21'
 descuento: '72.76'
 average: '5.99'

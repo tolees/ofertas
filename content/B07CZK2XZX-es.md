@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Under Armour UA Pennant Jacket 2.0 Parte Superior del Calentamiento  Niños  Negro  Black/White 002   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZK2XZX/?tag=tolees-21'
 descuento: '47.65'
 average: '20.94'

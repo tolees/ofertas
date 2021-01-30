@@ -16,6 +16,7 @@ comparePrice: 6.95 EUR
 prodname: 'Revlon Super Lustroso Pintalabios mate – 4.2 g  realmente rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AVF225Y/?tag=tolees-21'
 descuento: '61.87'
 average: '2.65'

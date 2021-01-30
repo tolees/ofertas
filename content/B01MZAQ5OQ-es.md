@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Citizen Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero CA0641-16X'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MZAQ5OQ/?tag=tolees-21'
 descuento: '33.52'
 average: '133.23800000000003'

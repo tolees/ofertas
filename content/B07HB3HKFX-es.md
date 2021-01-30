@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Funko Pop Fallout Vault Dweller Figura Coleccionable  Multicolor  Standard  33974 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HB3HKFX/?tag=tolees-21'
 descuento: '35.74'
 average: '9.656666666666668'

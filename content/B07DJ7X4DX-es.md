@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Lacoste Ziane BL 2 CFA  Zapatillas para Mujer  Azul  Navy/White   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DJ7X4DX/?tag=tolees-21'
 descuento: '48.67'
 average: '38.5'

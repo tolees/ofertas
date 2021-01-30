@@ -16,6 +16,7 @@ comparePrice: 41.06 EUR
 prodname: 'Suizo Digital Dulect IP66 Caja de Sonido a Prueba de Agua BT Soporte de Sonido Extra Bass Wireless Dos Canales estéreo y Sonido 3D SP09'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G1TTVRP/?tag=tolees-21'
 descuento: '35.00'
 average: '26.69'

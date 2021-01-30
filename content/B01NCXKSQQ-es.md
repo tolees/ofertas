@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Manteca de Karité Bio Hidratante Ecológica con Aceite de Oliva  Cera de Abeja  Aceite de Argán  Helicrisum | Cuidado Natural Cabello y Piel | 250 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NCXKSQQ/?tag=tolees-21'
 descuento: '55.56'
 average: '17.33'

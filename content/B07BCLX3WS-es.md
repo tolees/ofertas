@@ -16,6 +16,7 @@ comparePrice: 11.0 EUR
 prodname: 'Tefal Ingenio Ice Cuchillo pelador  acero cepillado  cuchillo de una sola pieza  mango remachado  negro  7 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BCLX3WS/?tag=tolees-21'
 descuento: '27.36'
 average: '7.99'

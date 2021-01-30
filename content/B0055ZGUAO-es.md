@@ -16,6 +16,7 @@ comparePrice: 31.9 EUR
 prodname: 'Jata 756 Balanza electrónica  Cristal temperit  Plateado/Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0055ZGUAO/?tag=tolees-21'
 descuento: '43.57'
 average: '18.0'

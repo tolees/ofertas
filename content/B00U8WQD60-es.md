@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Sesderma Factor G Renew Antiedad  30 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00U8WQD60/?tag=tolees-21'
 descuento: '35.34'
 average: '32.3'

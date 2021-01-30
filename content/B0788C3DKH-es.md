@@ -16,6 +16,7 @@ comparePrice: 36.9 EUR
 prodname: 'Tommy Hilfiger X Sujetador Estilo Bralette  Gris  Grey Heather 004   Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0788C3DKH/?tag=tolees-21'
 descuento: '40.41'
 average: '21.99'

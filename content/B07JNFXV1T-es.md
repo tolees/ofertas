@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Synergy 3.0  Zapatillas para Mujer  Blanco  White Leather/Silver Trim #Yellow WSL   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JNFXV1T/?tag=tolees-21'
 descuento: '35.20'
 average: '45.33'

@@ -16,6 +16,7 @@ comparePrice: 55.37 EUR
 prodname: 'RuiDaXiang Friends-Casa del árbol Conjunto de Bloques de construcción creativos de City Street View Sakura  Architecture Inari Shrine Building Bricks Toy 1103 Piezas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089RKD78L/?tag=tolees-21'
 descuento: '45.84'
 average: '29.99'

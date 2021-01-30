@@ -16,6 +16,7 @@ comparePrice: 1.95 EUR
 prodname: 'Kinder Bueno Mini Barritas con Relleno de Leche y Avellanas  Recubiertas de Chocolate - 20 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LCU6TBK/?tag=tolees-21'
 descuento: '48.72'
 average: '1.19'

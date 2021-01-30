@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Gillette Platinum  Cuchillas de afeitar de doble filo para maquinillas de afeitar clásicas  50 recambios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081CWWYF9/?tag=tolees-21'
 descuento: '26.63'
 average: '7.0225'

@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Subnautica'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GPZRT4D/?tag=tolees-21'
 descuento: '32.37'
 average: '18.756666666666668'

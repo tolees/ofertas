@@ -16,6 +16,7 @@ comparePrice: 26.98 EUR
 prodname: 'Baoblaze Regleta De Carga  Enchufe De - 3 tomacorrientes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089NL3TX1/?tag=tolees-21'
 descuento: '44.44'
 average: '14.99'

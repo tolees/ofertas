@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Gant Classic Leather Belt Cinturón  Marrón  Dark Brown 205   95  Talla del fabricante: 80  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N9K6RTU/?tag=tolees-21'
 descuento: '64.57'
 average: '26.113999999999997'

@@ -16,6 +16,7 @@ comparePrice: 11.95 EUR
 prodname: 'Tela algodon para coser 7 PCS  DIY Floral Telas Patchwork Material Cuadrados con Cuerda Elástica Puente de la Nariz Clip Tira  Tela por metros Manualidades para costura de acolchado de Scrapbooking'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088NK8M6F/?tag=tolees-21'
 descuento: '40.17'
 average: '7.15'

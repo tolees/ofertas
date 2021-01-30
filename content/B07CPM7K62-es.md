@@ -16,6 +16,7 @@ comparePrice: 88.49 EUR
 prodname: 'Jimmy Choo  Agua fresca - 100 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CPM7K62/?tag=tolees-21'
 descuento: '58.04'
 average: '38.21777777777778'

@@ -16,6 +16,7 @@ comparePrice: 9.0 EUR
 prodname: 'Bourjois Boite Ronde Sombra de ojos Tono 1 Ingénude  - 17 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015WSD0UG/?tag=tolees-21'
 descuento: '77.78'
 average: '2.0'

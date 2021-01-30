@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance 574  Zapatillas Clásicas para Mujer  Morado  Canyon Violet with White   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S2QLLFS/?tag=tolees-21'
 descuento: '63.51'
 average: '32.84'

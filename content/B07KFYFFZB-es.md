@@ -16,6 +16,7 @@ comparePrice: 32.61 EUR
 prodname: 'PUMA Cell Plasmic Fluo Wn s  Zapatillas Deportivas para Interior para Mujer  White Black-Yellow Alert  38.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFYFFZB/?tag=tolees-21'
 descuento: '30.27'
 average: '22.15'

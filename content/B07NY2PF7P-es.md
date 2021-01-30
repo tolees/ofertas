@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'Volumax Velvet Golden Nude - 7.5 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NY2PF7P/?tag=tolees-21'
 descuento: '31.89'
 average: '8.82'

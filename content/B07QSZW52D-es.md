@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'SIMUER 3Pcs Bolsa de Riñonera Impermeable Funda con Triple Cierre Hermético y Cinta Ajustable Bolsa Estanca Bolsas de Deporte para Móvil Cámara Efectivo Mp3 Pasaporte  Azul Verde Amarillo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QSZW52D/?tag=tolees-21'
 descuento: '34.38'
 average: '9.18'

@@ -16,6 +16,7 @@ comparePrice: 20.33 EUR
 prodname: 'Griffin Technology Funda Survivor Endurance para iPhone 11 Negra/Gris/ahumada'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WSHP9LC/?tag=tolees-21'
 descuento: '61.19'
 average: '7.89'

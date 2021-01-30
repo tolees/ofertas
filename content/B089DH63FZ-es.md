@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'Sandalia Plana para Mujer  Plateado  38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089DH63FZ/?tag=tolees-21'
 descuento: '40.00'
 average: '29.4'

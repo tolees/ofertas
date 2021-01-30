@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Columbia Nikiski  Botas Bajas para Mujer  Beige  Elk  Lagoon   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JWVGTTN/?tag=tolees-21'
 descuento: '65.42'
 average: '44.95'

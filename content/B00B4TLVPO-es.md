@@ -16,6 +16,7 @@ comparePrice: 11.95 EUR
 prodname: 'Essie Esmalte de Uñas 073 Cute As a Button'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00B4TLVPO/?tag=tolees-21'
 descuento: '29.79'
 average: '8.39'

@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'amison 8 pieza automático de riego  dispensador de agua para habitaciones de cerámica Planta pinchos de riego  Bonsai  plantas  flores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CG7TW5W/?tag=tolees-21'
 descuento: '36.86'
 average: '10.723333333333333'

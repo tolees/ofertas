@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Einhell 4512040 Kit con Cargador batería de Repuesto de 18 V  2  0 W  21 V  Negro  Rojo  2.0 Ah  duración de carga: 30 minutos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M1MMZ7V/?tag=tolees-21'
 descuento: '36.27'
 average: '50.95'

@@ -16,6 +16,7 @@ comparePrice: 229.99 EUR
 prodname: 'Misfit Smartwatch MIS7203'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J49R9CT/?tag=tolees-21'
 descuento: '48.84'
 average: '121.742'

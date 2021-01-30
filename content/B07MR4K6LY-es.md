@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'L Oreal Paris Infalible More Than Concealer  Corrector Cobertura Completa  Tono 336 Toffee/ Caramel Fonce - 11  ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MR4K6LY/?tag=tolees-21'
 descuento: '38.61'
 average: '8.736666666666668'

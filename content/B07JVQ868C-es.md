@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'TESmart Ultra HD 4k30Hz 1x2 Hdmi Splitter 1 in 2 out  Hdmi Splitter 1 a 2 Amplificador Switcher Box Hub Support 4kx2k30hz 1080p 3D 2160p para DVD Player TV Box Ps3 / 4 Xbox…'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JVQ868C/?tag=tolees-21'
 descuento: '37.05'
 average: '16.99'

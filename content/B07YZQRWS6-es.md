@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Jack & Jones Jjelogo Sweat Hood 2 Col 19/20 Noos Capucha  Amarillo  Gelb   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YZQRWS6/?tag=tolees-21'
 descuento: '36.68'
 average: '18.99'

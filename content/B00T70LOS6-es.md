@@ -16,6 +16,7 @@ comparePrice: 45.62 EUR
 prodname: 'Toms Women Clemente Fuchsia  Alpargatas para Mujer  Azul  Navy Stripe University   35.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00T70LOS6/?tag=tolees-21'
 descuento: '48.73'
 average: '25.988333333333337'

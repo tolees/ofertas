@@ -16,6 +16,7 @@ comparePrice: 15 EUR
 prodname: 'L Oréal Paris Make-up designer Accord Parfait Base maquillaje acabado natural Tono de piel bronceado 8R Noisette 30 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0746SCP9H/?tag=tolees-21'
 descuento: '36.67'
 average: '9.5'

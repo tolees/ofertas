@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Tommy Hilfiger Essential Craft Vulc  Zapatillas para Hombre  Azul  Chambray Blue 458   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JYNJRGW/?tag=tolees-21'
 descuento: '52.42'
 average: '30.683333333333334'

@@ -16,6 +16,7 @@ comparePrice: 25.94 EUR
 prodname: 'non-brand Mini Space Toys Airplane Rocket Car Model Set para Regalos de Cumpleaños de Niños - Estilo 2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PBK3PQ2/?tag=tolees-21'
 descuento: '44.45'
 average: '14.41'

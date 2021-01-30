@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Puma Reloj Digital para Hombre de Cuarzo con Correa en Plástico PU911261005'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06X6HJ6JQ/?tag=tolees-21'
 descuento: '43.73'
 average: '30.359333333333332'

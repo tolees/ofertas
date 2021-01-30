@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Dungeons 3 - Complete Collection'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087CC77PB/?tag=tolees-21'
 descuento: '66.99'
 average: '17.974'

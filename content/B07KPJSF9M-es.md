@@ -16,6 +16,7 @@ comparePrice: 389.99 EUR
 prodname: 'Klarstein Beersafe XL Mix It Edition Nevera - Nevera de bebidas  Mininevera  Minibar  De 0 a 13°C  60 L  LED  4 Rejillas metálicas  Puerta acristalada  Silencioso  Plateado negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KPJSF9M/?tag=tolees-21'
 descuento: '43.59'
 average: '219.99'

@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Clarks Tri Amelia Bar  Zapatillas sin Cordones para Mujer  Beige  Black Mesh Black Mesh   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TPYQBFY/?tag=tolees-21'
 descuento: '28.07'
 average: '64.7'

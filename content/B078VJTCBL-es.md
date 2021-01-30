@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'ASUS Lyra Mini - Kit de 2 Sistemas Wi-Fi Mesh Doble Banda AC1300 Gigabit  App de gestión  Smart Connect  única Red  compatible con Ai Mesh wifi '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078VJTCBL/?tag=tolees-21'
 descuento: '27.38'
 average: '117.47000000000001'

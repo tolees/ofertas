@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Amzchef Picadora de Carne Eléctrica con alta y baja velocidad función de frenado  recipiente de vidrio de 1  8L para carnes verduras y frutas  4 cuchillas de acero inoxidable Picadora Múltiples  300W'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QSQFX17/?tag=tolees-21'
 descuento: '31.44'
 average: '23.99'

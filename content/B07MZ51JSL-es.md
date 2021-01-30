@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'on way Balon DE Futbol REGLAMENTARIO'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZ51JSL/?tag=tolees-21'
 descuento: '33.36'
 average: '9.323333333333334'

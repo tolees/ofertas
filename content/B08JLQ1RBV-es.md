@@ -16,6 +16,7 @@ comparePrice: 77.91 EUR
 prodname: 'Webcam con micrófono  cámara Web de transmisión HD 1080P con trípode para computadora portátil PC Mac Webcam giratoria Plug and Play USB para videoconferencias grabación conferencias'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08JLQ1RBV/?tag=tolees-21'
 descuento: '62.79'
 average: '28.99'

@@ -16,6 +16,7 @@ comparePrice: 46.66 EUR
 prodname: 'TEECY Wallet Tarjeteros para Tarjetas de Crédito Bloqueo RFID Automático Pop Up Capacidad 8-10 Hojas Caqui'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0836W2GPK/?tag=tolees-21'
 descuento: '59.30'
 average: '18.99'

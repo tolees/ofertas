@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Philips Avent SCD301/03 - Set de recién nacido gama natural  4 biberones  chupete y escobilla  rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GX4DG81/?tag=tolees-21'
 descuento: '25.01'
 average: '26.09'

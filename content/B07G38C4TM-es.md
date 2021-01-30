@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'Chicco Echo Silla de paseo  ligera y compacta  soporta hasta 22kg  Rosa  Deep Pink '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G38C4TM/?tag=tolees-21'
 descuento: '42.02'
 average: '68.17333333333333'

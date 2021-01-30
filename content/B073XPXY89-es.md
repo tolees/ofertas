@@ -16,6 +16,7 @@ comparePrice: 46.8 EUR
 prodname: 'Cébé CBH256 Cascos de Esquí  Unisex Adulto  Gris  Matt Ciment Lime   56-58 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073XPXY89/?tag=tolees-21'
 descuento: '25.15'
 average: '35.03'

@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'ACTMAN Cámara Deportiva 4K 16 MP WiFi Sumergible con Pantalla táctil  cámara subacuática con Control Remoto  cámara de acción  2 baterías Recargables y Accesorios gratuitos Kits Compatibles GoPro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DKZLCS1/?tag=tolees-21'
 descuento: '42.86'
 average: '39.99'

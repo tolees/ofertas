@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Estuche rígido para Unidades de Estado sólido externas Samsung T5 / T3 / T1 portátiles de 250 GB 500 GB 1 TB 2 TB SSD USB 3.0  Bolsa de Almacenamiento portátil - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MBZSVS4/?tag=tolees-21'
 descuento: '40.22'
 average: '11.95'

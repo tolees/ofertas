@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'SILIK para Mujer Entrenamiento Deportivo Leggings Deportivos Pantalones Largos de Yoga Gimnasio Pantalones para Correr Medias Negro XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076LN6XHL/?tag=tolees-21'
 descuento: '29.64'
 average: '18.99'

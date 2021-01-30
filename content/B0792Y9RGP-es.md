@@ -16,6 +16,7 @@ comparePrice: 18.92 EUR
 prodname: 'Neviti- Glitz & Glamour-Cake Topper-Gold-Age 18 Figura para tartas  773581 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0792Y9RGP/?tag=tolees-21'
 descuento: '70.08'
 average: '5.66'

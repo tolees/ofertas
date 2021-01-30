@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Carrera RC - Watergun 2.0 Coche  Multicolor  370142033 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BXVBJFP/?tag=tolees-21'
 descuento: '35.55'
 average: '32.22'

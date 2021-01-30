@@ -16,6 +16,7 @@ comparePrice: 23.2 EUR
 prodname: 'Dim Coton Stretch Slip X3  Negro  S  talla del fabricante: 2   Pack de 3  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005XYNNX4/?tag=tolees-21'
 descuento: '35.56'
 average: '14.95'

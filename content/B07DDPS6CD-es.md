@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Casio Reloj de Pulsera BA-110CR-2AER'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DDPS6CD/?tag=tolees-21'
 descuento: '39.60'
 average: '77.91'

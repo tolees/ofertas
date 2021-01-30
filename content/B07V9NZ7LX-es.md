@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Reebok Royal Cljog 2 KC  Zapatillas de Trail Running para Niños  Multicolor  White/Collegiate Navy 000   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V9NZ7LX/?tag=tolees-21'
 descuento: '26.58'
 average: '21.99'

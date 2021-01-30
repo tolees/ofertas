@@ -16,6 +16,7 @@ comparePrice: 24.39 EUR
 prodname: 'Herramientas de pulido de la joyería de la regla del papel de lija  pulido abrasivo multifuncional Pulido y accesorio de pulido Uso Para Herramientas de pulido de la joyería Accesorios de la herramien'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RFJD6H7/?tag=tolees-21'
 descuento: '76.67'
 average: '5.69'

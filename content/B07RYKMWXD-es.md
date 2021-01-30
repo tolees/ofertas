@@ -16,6 +16,7 @@ comparePrice: 742.98 EUR
 prodname: 'Taurus Mycook Touch Black Edition  1600 W  2 litros  0 Decibelios  Plástico|Acero Inoxidable  10 Velocidades  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RYKMWXD/?tag=tolees-21'
 descuento: '26.65'
 average: '593.0962500000002'

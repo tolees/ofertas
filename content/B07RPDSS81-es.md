@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Amtier Pulsera de Mujer con Acero Inoxidable Viene con 7 Piezas deslizable Cristales de circonio cúbico Oro Rosa & Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RPDSS81/?tag=tolees-21'
 descuento: '40.01'
 average: '23.99'

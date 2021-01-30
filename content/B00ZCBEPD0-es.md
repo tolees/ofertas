@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Party Fiesta Cubo Golosinas 1 5 Kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ZCBEPD0/?tag=tolees-21'
 descuento: '39.53'
 average: '7.25'

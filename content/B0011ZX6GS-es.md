@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Anita Maternity 5068  Sujetador de Lactancia Para Mujer  Beige  Skin 722   80E'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0011ZX6GS/?tag=tolees-21'
 descuento: '30.03'
 average: '34.95'

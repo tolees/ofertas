@@ -16,6 +16,7 @@ comparePrice: 54.07 EUR
 prodname: 'Bosch X-Line Titanio - Maletín de 70 unidades para taladrar y atornillar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000P4IQN4/?tag=tolees-21'
 descuento: '48.97'
 average: '30.511428571428574'

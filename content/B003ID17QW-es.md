@@ -16,6 +16,7 @@ comparePrice: 10.0 EUR
 prodname: 'Valueline AC-018 - Adaptador de audio Estereo Jack 3.5mm Hembra a Jack 2.5mm Macho  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003ID17QW/?tag=tolees-21'
 descuento: '52.70'
 average: '4.73'

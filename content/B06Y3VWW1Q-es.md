@@ -16,6 +16,7 @@ comparePrice: 47.99 EUR
 prodname: 'Bluefinity Aro Pilates  Anillo Ejercicio  Yoga  Resistencia  Deporte  Fitness  Plástico Reforzado  1 Ud  39 cm  Turquesa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y3VWW1Q/?tag=tolees-21'
 descuento: '41.86'
 average: '27.9'

@@ -16,6 +16,7 @@ comparePrice: 29.31 EUR
 prodname: 'Facetoworld Lampada da Tavolo 4W Luce LED Pieghevole Touch Control  Lampada Scrivania Studio 3 livelli Dimmerabili  Porta di Ricarica USB  Risparmio Energetico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075YDBJJC/?tag=tolees-21'
 descuento: '42.03'
 average: '16.99'

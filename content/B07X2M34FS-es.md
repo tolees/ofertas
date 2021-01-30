@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'El precio del poder  4K UHD + BD  [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X2M34FS/?tag=tolees-21'
 descuento: '50.02'
 average: '12.993333333333334'

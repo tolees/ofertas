@@ -16,6 +16,7 @@ comparePrice: 699.0 EUR
 prodname: 'Fujifilm X-E3 - Cuerpo de cámara EVIL de 24.3 MP  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075JH3MFT/?tag=tolees-21'
 descuento: '33.48'
 average: '483.77333333333337'

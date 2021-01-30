@@ -16,6 +16,7 @@ comparePrice: 3.3 EUR
 prodname: 'Generic PB20586 Adaptador de Cable Mini HDMI HDMI Negro - Adaptador para Cable  Mini HDMI  HDMI  Male Connector/Female Connector  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ESXN4IK/?tag=tolees-21'
 descuento: '50.61'
 average: '1.63'

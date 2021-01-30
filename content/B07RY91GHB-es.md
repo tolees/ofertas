@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'BRIKSMAX Kit de Iluminación Led para Lego City Vehicles Camioneta y Caravana-Compatible con Ladrillos de Construcción Lego Modelo 60182  Juego de Legos no Incluido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RY91GHB/?tag=tolees-21'
 descuento: '63.01'
 average: '36.99'

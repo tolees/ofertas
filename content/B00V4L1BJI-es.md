@@ -16,6 +16,7 @@ comparePrice: 8.91 EUR
 prodname: 'Adidas - Get Ready - Aftershave para hombres - 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00V4L1BJI/?tag=tolees-21'
 descuento: '41.75'
 average: '6.556666666666667'

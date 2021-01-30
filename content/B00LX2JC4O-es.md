@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Acer Monitor K222HQLbid 55cm  21.5    5ms 100M:1 ACM 200nits LED HDMI DVI EURO/UK EMEA MPRII Black Acer EcoDisplay'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LX2JC4O/?tag=tolees-21'
 descuento: '40.66'
 average: '60.83666666666666'

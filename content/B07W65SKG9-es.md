@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'kupet Cuchillo para Tallar Madera 6 Piezas  MA003 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W65SKG9/?tag=tolees-21'
 descuento: '37.70'
 average: '42.99'

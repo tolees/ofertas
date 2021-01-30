@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'TensCare Flexistim - Electroestimulador Completo con 4 terapias: EMS  Tens  Ift y Microcorriente. Dispositivo pequeño Pero potente  con mas de 50 programas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HQ2IXZ8/?tag=tolees-21'
 descuento: '52.04'
 average: '95.45'

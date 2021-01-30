@@ -16,6 +16,7 @@ comparePrice: 5.6 EUR
 prodname: 'Suavinex - Chupete para bebés 0-6 meses. Chupete con tetina anatómica de silicona. 0% BPA. Color gris.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084DSVSXL/?tag=tolees-21'
 descuento: '31.25'
 average: '3.85'

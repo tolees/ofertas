@@ -16,6 +16,7 @@ comparePrice: 14.16 EUR
 prodname: 'AMTION Crafts Bone Folder Scoring Folding Creasing Paper Crafting Tool DIY Leather Burnishing by AMTION'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FYULPUY/?tag=tolees-21'
 descuento: '41.38'
 average: '8.3'

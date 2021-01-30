@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'BRIKSMAX Kit de Iluminación Led para Lego Technic Chevrolet Corvette ZR1  Compatible con Ladrillos de Construcción Lego Modelo 42093  Juego de Legos no Incluido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TB8BT8J/?tag=tolees-21'
 descuento: '72.01'
 average: '27.99'

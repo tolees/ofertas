@@ -16,6 +16,7 @@ comparePrice: 7.0 EUR
 prodname: 'Rimmel London Exaggerate Automatic Eyeliner Waterproof - Delineador de Ojos Retráctil  Tono 212- Marrón  Rich Brown   0.28 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00L38KCGA/?tag=tolees-21'
 descuento: '50.00'
 average: '3.5'

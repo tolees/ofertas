@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'Puma One 17.4 AG  Zapatillas de Fútbol para Hombre  Azul  Atomic Blue-White-Safety Yellow   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0711NWXZC/?tag=tolees-21'
 descuento: '55.51'
 average: '20.0'

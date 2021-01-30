@@ -16,6 +16,7 @@ comparePrice: 146.0 EUR
 prodname: 'Zafferano Poldina Lámpara de Mesa LED Recargable  Regulable  Cuerpo de Aluminio  H 38cm  Protección IP54  Adecuada para Uso Exterior/Interior  Enchufe UE - Blanco  2.2 W'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FPPQKPC/?tag=tolees-21'
 descuento: '39.73'
 average: '89.0'

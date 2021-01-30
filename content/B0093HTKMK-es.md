@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Skylanders 2012 - Expansion Pack'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0093HTKMK/?tag=tolees-21'
 descuento: '66.66'
 average: '10.0'

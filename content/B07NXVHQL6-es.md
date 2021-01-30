@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Helly Hansen Active Duffel Bag 33l Bolsa De Deporte  Unisex Adulto  Black'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NXVHQL6/?tag=tolees-21'
 descuento: '31.50'
 average: '34.475'

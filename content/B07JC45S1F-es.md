@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'Pioneer DJ HDJ-X5BT-W Auriculares Bluetooth  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JC45S1F/?tag=tolees-21'
 descuento: '31.45'
 average: '118.9925'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Black+Decker BXJB800E Batidora de Vaso  800 W  1.5 litros  Acero Inoxidable  Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J5V5VCF/?tag=tolees-21'
 descuento: '37.51'
 average: '33.74'

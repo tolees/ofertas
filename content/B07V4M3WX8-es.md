@@ -16,6 +16,7 @@ comparePrice: 110.7 EUR
 prodname: 'Love MoschinoJc4247pp0aMujerCarteras de manoPlateado  Silver 7x14x22 Centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V4M3WX8/?tag=tolees-21'
 descuento: '47.08'
 average: '62.66'

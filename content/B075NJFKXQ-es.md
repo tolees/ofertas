@@ -16,6 +16,7 @@ comparePrice: 37.99 EUR
 prodname: 'Termómetro Infrarrojo  Termómetro Láser Digital Pistola de Temperatura -26 ° F ~ 1022 ° F  -32 ° C ~ 550 ° C  Sonda de Temperatura para Cocinar / Aire / Refrigerador - Termómetro Carne Incluido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075NJFKXQ/?tag=tolees-21'
 descuento: '39.75'
 average: '22.89'

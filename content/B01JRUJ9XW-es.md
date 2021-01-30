@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Buff Merino  Gorro lana unisex  Negro   Thermalblack   Talla unica'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JRUJ9XW/?tag=tolees-21'
 descuento: '35.69'
 average: '19.26'

@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'MOZOOSON Pistola de Agua de Juguete para Niñas de Niños  Potente Chorro de Agua con un Alcance Largo 33ft  Water Pistol Gun para Batalla de Agua  Fiestas de Verano al Aire Libre  Capacidad de 650ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082D5MJS1/?tag=tolees-21'
 descuento: '50.03'
 average: '14.99'

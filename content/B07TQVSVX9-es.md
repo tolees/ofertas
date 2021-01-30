@@ -16,6 +16,7 @@ comparePrice: 21.87 EUR
 prodname: 'Clarks Un Balsa Go  Mocasines para Mujer  Azul  Navy Navy   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TQVSVX9/?tag=tolees-21'
 descuento: '25.70'
 average: '16.25'

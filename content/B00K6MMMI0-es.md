@@ -16,6 +16,7 @@ comparePrice: 289.0 EUR
 prodname: 'Guess Reloj analogico para Hombre de Cuarzo con Correa en Acero Inoxidable W0377G4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00K6MMMI0/?tag=tolees-21'
 descuento: '49.15'
 average: '145.97333333333336'

@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'PUMA RS 9.8 Grid  Zapatillas Unisex-Adulto  Blanco White White  42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S7QBPCT/?tag=tolees-21'
 descuento: '73.39'
 average: '23.94'

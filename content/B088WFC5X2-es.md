@@ -16,6 +16,7 @@ comparePrice: 10.98 EUR
 prodname: 'Oihxse Compatible con Huawei Honor 8 Lite Silicona Funda Transparente Gel TPU Flexible Protectora Carcasa Dibujos Elefante Patrón Ultra Thin Estuche Cover Case D8 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088WFC5X2/?tag=tolees-21'
 descuento: '27.32'
 average: '7.98'

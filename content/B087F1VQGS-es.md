@@ -16,6 +16,7 @@ comparePrice: 60.99 EUR
 prodname: 'Naruto Sudaderas con Capucha de Manga Larga de otoño Invierno 3D Impresas Hoodies Crop Top Hip Hop Suelto Pullover Uchiha Sharingan Hokage Ninja para Mujeres Amantes del Anime'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087F1VQGS/?tag=tolees-21'
 descuento: '85.26'
 average: '8.99'

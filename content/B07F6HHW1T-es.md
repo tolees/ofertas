@@ -16,6 +16,7 @@ comparePrice: 429.0 EUR
 prodname: 'HP 27xq - Monitor gaming con pantalla Quad HD  2560 x 1440 a 60 Hz   TN 1ms  AMD FreeSync  144 Hz  Negro/Verde  27"'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F6HHW1T/?tag=tolees-21'
 descuento: '32.83'
 average: '287.5125'

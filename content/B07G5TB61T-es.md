@@ -16,6 +16,7 @@ comparePrice: 60.9 EUR
 prodname: 'ZHENROG Electroestimulador Muscular Abdominales  Masajeador Eléctrico Cinturón  EMS Estimulador Muscular con USB  6 Modos y 10 Niveles de Intensidad para Abdomen/Cintura/Pierna/Brazo  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G5TB61T/?tag=tolees-21'
 descuento: '49.26'
 average: '31.900000000000002'

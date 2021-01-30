@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Napapijri DAIN C Suéter  Gris  Dark Grey Mel 197   XXL para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MCSPPV9/?tag=tolees-21'
 descuento: '78.07'
 average: '30.48'

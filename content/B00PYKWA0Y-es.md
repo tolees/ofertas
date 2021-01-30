@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Nike Court Royale  Zapatillas Hombre  Negro/Blanco  Black/White   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PYKWA0Y/?tag=tolees-21'
 descuento: '50.00'
 average: '35.475'

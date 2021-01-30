@@ -16,6 +16,7 @@ comparePrice: 9.1 EUR
 prodname: 'Maybelline New York - Polvos Fijadores Translúcidos Master Fix 01 Translucent - 6 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Maybelline New York'
 buyurl: 'https://www.amazon.es/dp/B06XWYWBFV/?tag=tolees-21'
 descuento: '31.21'
 average: '6.61104166666666'
@@ -27,10 +28,10 @@ Está [Maybelline New York - Polvos Fijadores Translúcidos Master Fix 01 Transl
 
 ℹ️:
 
+- Sin sensación de talco o aspereza en la piel
 - Aportan una fijación duradera
+- Polvos translúcidos matificantes fijadores de maquillaje
 - Su aplicación es muy cómoda gracias a su fórmula microfina
 - Difumina y suaviza para obtener un acabado de velo sedoso indetectable
-- Sin sensación de talco o aspereza en la piel
-- Polvos translúcidos matificantes fijadores de maquillaje
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XWYWBFV/?tag=tolees-21)

@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Energy Lights-Elate  Zapatillas Altas para Niños  Blanco  White   30 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FTYNKIK/?tag=tolees-21'
 descuento: '26.17'
 average: '47.95'

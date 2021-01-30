@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'Esprit Maternity Pants Knit Utb Yd Check Pantalones premamá  Multicolor  Black 001   44  Talla del Fabricante: X-Large  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZQL5MV/?tag=tolees-21'
 descuento: '34.79'
 average: '29.99'

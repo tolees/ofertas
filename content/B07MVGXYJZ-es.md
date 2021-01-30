@@ -16,6 +16,7 @@ comparePrice: 17.95 EUR
 prodname: 'Disney Bañador de Dos Piezas para niña Moana Multicolor 3-4 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVGXYJZ/?tag=tolees-21'
 descuento: '33.43'
 average: '11.95'

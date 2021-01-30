@@ -16,6 +16,7 @@ comparePrice: 189 EUR
 prodname: 'Panama Jack Bambina  Botas Altas para Mujer   Negro B60   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OPAQGRM/?tag=tolees-21'
 descuento: '41.93'
 average: '109.75'

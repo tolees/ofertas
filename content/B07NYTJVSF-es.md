@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Men s Zinger Trainers  Black  Black Leather/Navy Trim Bk Nv   8  42 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NYTJVSF/?tag=tolees-21'
 descuento: '30.02'
 average: '45.45'

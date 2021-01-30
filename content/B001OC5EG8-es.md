@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Ecco Helsinki  Mocasines para Hombre  Negro  BLACK101   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001OC5EG8/?tag=tolees-21'
 descuento: '32.35'
 average: '87.95'

@@ -16,6 +16,7 @@ comparePrice: 78.48 EUR
 prodname: 'Lancardo - Reloj de pulsera para pareja Lovers con correa de piel sintética  esfera con números romanos  movimiento de cuarzo  color café  1 par '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NAM8NJ7/?tag=tolees-21'
 descuento: '73.70'
 average: '20.64'

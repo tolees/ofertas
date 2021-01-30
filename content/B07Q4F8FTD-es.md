@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Dockers by Gerli 43fa307  Botas Militar para Mujer  Beige  Taupe/Braun 433   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q4F8FTD/?tag=tolees-21'
 descuento: '41.62'
 average: '28.650000000000002'

@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'Roxy Endless Summer Pantalones Cortos  Mujer  Negro  Antracite   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M2YRSET/?tag=tolees-21'
 descuento: '40.01'
 average: '25.942500000000003'

@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'EasyAcc USB Mini Ventilador de Escritorio Ventilador Silencioso de Dos Táctil Ventilador para Hogar Oficina - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C4SGT6F/?tag=tolees-21'
 descuento: '68.90'
 average: '13.99'

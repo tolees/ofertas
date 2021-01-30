@@ -16,6 +16,7 @@ comparePrice: 153.0 EUR
 prodname: 'Albero Bambino SET12016CB - Set de minicuna  edredón + parachoques   color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XG575YK/?tag=tolees-21'
 descuento: '68.93'
 average: '47.54'

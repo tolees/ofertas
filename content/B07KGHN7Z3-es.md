@@ -16,6 +16,7 @@ comparePrice: 21.95 EUR
 prodname: 'Buff R-Equilateral Visera Pack Run  Unisex Adulto  Cape Blue  Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KGHN7Z3/?tag=tolees-21'
 descuento: '60.00'
 average: '10.836666666666666'

@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'G-STAR RAW ZED Cinturón  Marrón  Dk Brown/black Metal 8127   100 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M9IHRQ7/?tag=tolees-21'
 descuento: '34.94'
 average: '25.99'

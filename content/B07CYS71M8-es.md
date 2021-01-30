@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'TankerStreet 2 Piezas Alfombras de Cocina Antideslizante Alfombra de Casa Moderna Patrón Alfombra Lavable Aceite Resistente Manta Larga Decorativa para Baño Comedor Dormitorio 40x60+40x120cm Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CYS71M8/?tag=tolees-21'
 descuento: '27.24'
 average: '17.896666666666665'

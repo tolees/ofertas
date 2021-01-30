@@ -16,6 +16,7 @@ comparePrice: 106.25 EUR
 prodname: 'Lancaster Suractif Comfort Lift Rich Day Cream 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BNAPO7K/?tag=tolees-21'
 descuento: '55.60'
 average: '50.06'

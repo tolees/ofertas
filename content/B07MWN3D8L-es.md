@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Clarks Cloud Air T  Zapatillas Altas para Niños  Marrón  Burgundy Leather Burgundy Leather   20 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MWN3D8L/?tag=tolees-21'
 descuento: '79.31'
 average: '11.37'

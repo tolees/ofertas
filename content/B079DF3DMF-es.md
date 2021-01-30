@@ -16,6 +16,7 @@ comparePrice: 247.49 EUR
 prodname: 'Campingaz 2 Series Classic LX Vario Barbacoa a Gas  BBQ con 2 Quemadores  7.5 KW  Plancha y Parrilla de Acero Estampado  2 Mesas Laterales'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079DF3DMF/?tag=tolees-21'
 descuento: '25.15'
 average: '176.2'

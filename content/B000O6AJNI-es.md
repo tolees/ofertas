@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Cressi Water Shoes Escarpines  Unisex Adulto  Claro  Transparente   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000O6AJNI/?tag=tolees-21'
 descuento: '33.36'
 average: '7.970000000000001'

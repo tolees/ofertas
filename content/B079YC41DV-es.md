@@ -16,6 +16,7 @@ comparePrice: 13.09 EUR
 prodname: 'Funko Pop!- Bad Dinosaur Figura de Vinilo  Multicolor  30984 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079YC41DV/?tag=tolees-21'
 descuento: '36.97'
 average: '8.3125'

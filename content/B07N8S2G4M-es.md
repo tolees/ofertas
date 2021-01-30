@@ -16,6 +16,7 @@ comparePrice: 129.9 EUR
 prodname: 'ICONIC TOMMY TOTEMujerBolsos bandoleraAzul  Sky Captain 15.3x30.5x43.2 centimeters  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N8S2G4M/?tag=tolees-21'
 descuento: '40.03'
 average: '77.9'

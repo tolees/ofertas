@@ -16,6 +16,7 @@ comparePrice: 369.0 EUR
 prodname: 'Michael Kors MKT5046 - Smartwatch'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G9RST68/?tag=tolees-21'
 descuento: '37.67'
 average: '238.88047619047617'

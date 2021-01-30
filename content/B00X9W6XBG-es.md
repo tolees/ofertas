@@ -16,6 +16,7 @@ comparePrice: 9.65 EUR
 prodname: 'L Oréal Paris Sublime Mousse Coloración Permanente  Tono: 530 Castaño Dorado Radiante'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X9W6XBG/?tag=tolees-21'
 descuento: '30.05'
 average: '6.75'

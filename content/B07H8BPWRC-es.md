@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'DORRISO Linda Sombrero y Bufanda Niño Niña Primavera Otoño Invierno Calentar Pequeña Zorro Gorro Bufanda Sombrero de Niño'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H8BPWRC/?tag=tolees-21'
 descuento: '66.69'
 average: '19.98'

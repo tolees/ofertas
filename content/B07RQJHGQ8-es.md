@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'PUMA Ralph Sampson LO  Zapatillas Unisex-Adulto  White White White  37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RQJHGQ8/?tag=tolees-21'
 descuento: '43.85'
 average: '44.89'

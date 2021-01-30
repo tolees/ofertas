@@ -16,6 +16,7 @@ comparePrice: 12.98 EUR
 prodname: 'Leabags - Cuaderno de notas  68 páginas  9 x 14 cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CNQCFMM/?tag=tolees-21'
 descuento: '30.82'
 average: '8.98'

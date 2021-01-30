@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Mono Azul Atrevido Bolsa de Mano de Compra Reutilizable Portátil Bolsa al Hombro ecológica para viajes Mujeres Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08D92W2ZL/?tag=tolees-21'
 descuento: '53.35'
 average: '13.99'

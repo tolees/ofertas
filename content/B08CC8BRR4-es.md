@@ -16,6 +16,7 @@ comparePrice: 1.82 EUR
 prodname: 'Cepillo de pelo rizado y rizado Peine Salón Cepillo redondo Herramienta de peluquería antiestática Salon Stylist Barbershop Brush - Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CC8BRR4/?tag=tolees-21'
 descuento: '40.11'
 average: '1.09'

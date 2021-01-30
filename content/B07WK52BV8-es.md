@@ -16,6 +16,7 @@ comparePrice: 299.99 EUR
 prodname: 'Bowers & Wilkins PX5 Auriculares Supraurales Bluetooth con Cancelación Adaptativa de Ruido - Space Grey'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WK52BV8/?tag=tolees-21'
 descuento: '33.35'
 average: '199.95'

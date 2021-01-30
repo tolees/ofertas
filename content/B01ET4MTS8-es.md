@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Helly Hansen W Aden Long Coat Jacket  Mujer  Black  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ET4MTS8/?tag=tolees-21'
 descuento: '51.08'
 average: '63.6'

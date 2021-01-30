@@ -16,6 +16,7 @@ comparePrice: 22.72 EUR
 prodname: 'Edimax EU-4306 - Adaptador USB 3.0 Gigabit Ethernet'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CDTIGV6/?tag=tolees-21'
 descuento: '38.42'
 average: '13.99'

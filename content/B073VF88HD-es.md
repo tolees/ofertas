@@ -16,6 +16,7 @@ comparePrice: 12.9 EUR
 prodname: 'Ewparts 3mm Mini cuentas de cristal para los niños DIY Bracelet Arte y joyería-Making  cadena de cuentas de fabricación de juego  Fadeless Color  Full color '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073VF88HD/?tag=tolees-21'
 descuento: '31.86'
 average: '9.546'

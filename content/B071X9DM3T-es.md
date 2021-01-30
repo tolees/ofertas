@@ -16,6 +16,7 @@ comparePrice: 11.85 EUR
 prodname: 'Palette Intense Cream Coloration Intensive Coloración del Cabello 5.5 Castaño Luminoso - Pack de 3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071X9DM3T/?tag=tolees-21'
 descuento: '39.49'
 average: '7.17'

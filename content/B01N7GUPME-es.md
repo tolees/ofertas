@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'adidas Gazelle  Zapatillas Unisex Niños  Negro  Core Black/Ftwr White/Gold Metallic   31 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N7GUPME/?tag=tolees-21'
 descuento: '54.50'
 average: '29.8975'

@@ -16,6 +16,7 @@ comparePrice: 134.1 EUR
 prodname: 'Reloj Viceroy - Hombre 42295-47'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0711HMJC4/?tag=tolees-21'
 descuento: '44.44'
 average: '74.5'

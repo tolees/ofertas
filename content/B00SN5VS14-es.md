@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'C.P. Sports Muelle Tope de 30 mm de diámetro 2 Unidades/1 par'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SN5VS14/?tag=tolees-21'
 descuento: '34.37'
 average: '5.9'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Soy Luna YLU23000 Patín  Niñas  Rosa/Amarillo  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CFVE5DY/?tag=tolees-21'
 descuento: '62.52'
 average: '14.965'

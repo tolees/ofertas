@@ -16,6 +16,7 @@ comparePrice: 37.85 EUR
 prodname: 'Ease Leap Bufanda Mujer con Tacto Cachemira Fiesta Chal para Boda Suave Pashmina 200 * 70cm/ Blanco lechoso '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HBNQ9VB/?tag=tolees-21'
 descuento: '65.68'
 average: '12.99'

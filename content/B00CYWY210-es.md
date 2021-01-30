@@ -16,6 +16,7 @@ comparePrice: 18.63 EUR
 prodname: 'Fellowes I-Spire - Alfombrilla con reposamuñecas Flexible para ratón  Color Blanco y Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CYWY210/?tag=tolees-21'
 descuento: '25.39'
 average: '13.9'

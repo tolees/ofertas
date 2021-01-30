@@ -16,6 +16,7 @@ comparePrice: 30.25 EUR
 prodname: 'Jumbo-19765 Papiro Quilling  Multicolor  19765 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PLD3B7B/?tag=tolees-21'
 descuento: '50.45'
 average: '14.99'

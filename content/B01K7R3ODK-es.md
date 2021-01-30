@@ -16,6 +16,7 @@ comparePrice: 2.38 EUR
 prodname: 'Evax Salvaslip Normal Protegeslips - 50 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K7R3ODK/?tag=tolees-21'
 descuento: '55.04'
 average: '1.0966666666666667'

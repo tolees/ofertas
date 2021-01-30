@@ -16,6 +16,7 @@ comparePrice: 33.3 EUR
 prodname: 'Pazo Das Bruxas  Vino Blanco - 3 botellas de 75 cl  Total: 2250 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OISVG4O/?tag=tolees-21'
 descuento: '28.02'
 average: '24.595714285714283'

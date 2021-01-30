@@ -16,6 +16,7 @@ comparePrice: 185.58 EUR
 prodname: 'ZXL Adornos Modernes Cerámica Escultura Einfaches Wohnzimmer Pers & ouml; nlichkeit Hauptdekoration Kreativer Weinschrank Kunst Ornamente TV Schrank Handwerk Crafts GAOLILI  Tamaño: B '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081KRXDK2/?tag=tolees-21'
 descuento: '39.12'
 average: '112.99'

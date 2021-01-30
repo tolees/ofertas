@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Smooce Piedras Luminosas  200 Piezas Piedras Decorativas Guijarros  Piedras Decorativas del jardín para Las calzadas Decoración al Aire Libre Tanque de Peces de Acuario Camino Lawn Yard  Color '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XD9CQXN/?tag=tolees-21'
 descuento: '30.02'
 average: '13.99'

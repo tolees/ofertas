@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Masajeador facial LED  dispositivos reafirmantes con forma de V de la cara del cuello  45 ℃ ± 5 ℃ Arrugas antienvejecimiento por calor  3 modos  USB recargable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0867HXK3Q/?tag=tolees-21'
 descuento: '42.86'
 average: '39.99'

@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'Columbia Rainy Creek  Gabardina impermeable  Mujer  Negro  S'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PHM16CK/?tag=tolees-21'
 descuento: '46.32'
 average: '75.565'

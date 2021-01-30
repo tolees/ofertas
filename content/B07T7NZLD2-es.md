@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'The North Face M Croda Rossa Forro Polar  Hombre  Asphalt Grey  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T7NZLD2/?tag=tolees-21'
 descuento: '48.67'
 average: '51.33'

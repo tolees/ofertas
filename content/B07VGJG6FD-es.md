@@ -16,6 +16,7 @@ comparePrice: 12.57 EUR
 prodname: 'Qkiss Cepillo Redondo  Cepillo Redondo Cerámico Profesional Iones Negativos Portátil Antiestático Cepillo de Salón de Belleza Herramientas para el Cabello Peine Masajeador Dorado 25mm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VGJG6FD/?tag=tolees-21'
 descuento: '28.48'
 average: '8.99'

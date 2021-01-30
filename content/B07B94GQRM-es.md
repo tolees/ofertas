@@ -16,6 +16,7 @@ comparePrice: 38.44 EUR
 prodname: 'Purina Friskies Vitafit Omega Pienso para Perro Adulto Buey y Pescado 4 x 3 Kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B94GQRM/?tag=tolees-21'
 descuento: '34.44'
 average: '25.2'

@@ -16,6 +16,7 @@ comparePrice: 5.95 EUR
 prodname: 'Camano 3403 - Calcetines unisex  Azul  jeans 6   39/42'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ESYVP8K/?tag=tolees-21'
 descuento: '25.38'
 average: '4.44'

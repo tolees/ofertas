@@ -16,6 +16,7 @@ comparePrice: 200 EUR
 prodname: 'Silla de paseo Globetrotter de Maclaren: ligera  compacta y fácil de Maniobrar. Capota Extensible e impermeable con Fpu 50+ y asiento reclinable. incluye Burbuja para la lluvia. ¡Perfecta para viajar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078WWCM1Q/?tag=tolees-21'
 descuento: '47.45'
 average: '127.55000000000001'

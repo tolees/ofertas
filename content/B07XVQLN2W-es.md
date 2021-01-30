@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Esprit 119EE1G007 Torera  Negro  Black 001   M para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XVQLN2W/?tag=tolees-21'
 descuento: '55.01'
 average: '29.990000000000002'

@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'DY Jin Tablero de Juego de matemáticas de Madera con Juego de Pesca magnética  acertijos numéricos  Juego de conteo de clasificador de Formas  Aprendizaje Educativo Preescolar de matemáticas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085QNTDQN/?tag=tolees-21'
 descuento: '37.52'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 8.29 EUR
 prodname: 'Zerodis Plasma Ball Light USB Globe Night Touch Sensible Lightning USB/con Pilas Creativo decoración mágica para Escritorio de Oficina  niños Fiesta Infantil Regalo de cumpleaños Presente decoración'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B5Y5CF5/?tag=tolees-21'
 descuento: '44.63'
 average: '4.59'

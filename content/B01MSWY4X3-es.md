@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Womanizer +Size Vibrator Potente estimulador del clítoris sin contacto con 12 niveles de intensidad  modo silencioso  impermeable  blanco y dorado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MSWY4X3/?tag=tolees-21'
 descuento: '40.20'
 average: '119.0'

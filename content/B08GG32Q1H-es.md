@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'FERYES - Exprimidor de pasta de dientes de 2 piezas  dispensador de exprimidor de asiento de pasta de dientes con tubo rodante para baño  blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08GG32Q1H/?tag=tolees-21'
 descuento: '30.93'
 average: '6.9'

@@ -16,6 +16,7 @@ comparePrice: 21.95 EUR
 prodname: 'Charles Wilson Juego de Toallas 100% Algodón 500g/m²  2 Toallas de Mano  Morado '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJJT1DH/?tag=tolees-21'
 descuento: '63.78'
 average: '7.95'

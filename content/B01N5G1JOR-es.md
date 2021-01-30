@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Lampara Led Uñas SUNUV 48W  Secador de Uñas UV Led Curado Esmalte Gel con Temporizador en Hogar de Nivel de Salón SUN2C'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N5G1JOR/?tag=tolees-21'
 descuento: '36.26'
 average: '30.323333333333334'

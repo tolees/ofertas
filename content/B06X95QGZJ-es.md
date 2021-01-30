@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'DOBEN - Barra de dominadas Profesional  telescópica  para Puerta  con Almohadilla para Las Manos  Color Verde  tamaño 60-100CM  23.62 x 1.97 x 1.97inches'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06X95QGZJ/?tag=tolees-21'
 descuento: '27.28'
 average: '34.758'

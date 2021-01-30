@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Isdin Isdinceutics Pigment Expert Serum corrector despigmentante facial | Previene y Trata las Manchas en la Piel Monodosis 30 x 2ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GL1B4VQ/?tag=tolees-21'
 descuento: '32.87'
 average: '33.53'

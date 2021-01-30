@@ -16,6 +16,7 @@ comparePrice: 10.4 EUR
 prodname: 'SANOFI - VASELINA CUSI 30 G'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TTWVA72/?tag=tolees-21'
 descuento: '68.75'
 average: '3.25'

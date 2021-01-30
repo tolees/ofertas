@@ -16,6 +16,7 @@ comparePrice: 781.83 EUR
 prodname: 'Garmin Fenix 5S Plus Sapphire Rose Gold  Unisex  1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F3L8BN4/?tag=tolees-21'
 descuento: '37.45'
 average: '494.0'

@@ -16,6 +16,7 @@ comparePrice: 101.99 EUR
 prodname: 'HP 364XL N9J74AE  Pack de 4  Negro  Cian  Magenta y Amarillo  Cartuchos Originales  para impresoras HP Photosmart serie C5300  C6300  B210  B110 y Deskjet serie 3520'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ARRTHPO/?tag=tolees-21'
 descuento: '25.12'
 average: '70.548'

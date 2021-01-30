@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'PUMA Ftblnxt Casual Pant Chándal  Hombre  Black-Deep Lichen Green  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XCWZTB9/?tag=tolees-21'
 descuento: '41.78'
 average: '29.08'

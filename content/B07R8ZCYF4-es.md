@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'Hisense H32BE5000 - TV LED 32  HD  2 HDMI  1 USB  Salida Óptica  Audio DD+  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R8ZCYF4/?tag=tolees-21'
 descuento: '27.38'
 average: '129.99'

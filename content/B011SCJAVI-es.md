@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Reloj Swatch - Unisex SUOR106'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B011SCJAVI/?tag=tolees-21'
 descuento: '33.71'
 average: '46.4'

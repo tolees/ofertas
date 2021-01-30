@@ -16,6 +16,7 @@ comparePrice: 22.9 EUR
 prodname: 'Alfa Costurero Creativity Box  Goma  Azul  29x12.5x29 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M8QZG0K/?tag=tolees-21'
 descuento: '48.03'
 average: '12.105'

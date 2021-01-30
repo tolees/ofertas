@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'BULLPADEL GOLD EDITION JUNIOR'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079KFDTPZ/?tag=tolees-21'
 descuento: '46.28'
 average: '41.150000000000006'

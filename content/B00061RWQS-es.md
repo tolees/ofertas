@@ -16,6 +16,7 @@ comparePrice: 129.9 EUR
 prodname: 'HP Q5949A 49A Cartucho de Tóner Original  1 unidad  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00061RWQS/?tag=tolees-21'
 descuento: '36.26'
 average: '69.78666666666666'

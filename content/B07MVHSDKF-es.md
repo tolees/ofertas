@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Bolsa isotermica para llevar almuerzo - Bolsa termica para alimentos – Bolsa refrigeradora reutilizable con recipientes – Bolsa comida termica aislada para hombres y mujeres'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVHSDKF/?tag=tolees-21'
 descuento: '46.61'
 average: '15.99'

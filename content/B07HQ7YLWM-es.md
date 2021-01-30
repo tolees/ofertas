@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Barra De Labios Mate Permanente De Pintalabios Impermeable Natural Brillo De Labios 008 Rosa Coral Brillante'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HQ7YLWM/?tag=tolees-21'
 descuento: '46.70'
 average: '7.99'

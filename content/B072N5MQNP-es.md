@@ -16,6 +16,7 @@ comparePrice: 17.7 EUR
 prodname: 'Magno - Desodorante Classic - 150ml  pack de 6  Total: 900ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072N5MQNP/?tag=tolees-21'
 descuento: '41.02'
 average: '11.304545454545455'

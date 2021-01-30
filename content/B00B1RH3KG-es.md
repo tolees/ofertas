@@ -16,6 +16,7 @@ comparePrice: 54.45 EUR
 prodname: 'Bosch Professional GBA 12V 2.0Ah - Batería de litio  1 batería x 2.0 Ah  compatible 10 8V / 12V '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00B1RH3KG/?tag=tolees-21'
 descuento: '39.58'
 average: '35.974999999999994'

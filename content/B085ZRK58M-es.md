@@ -16,6 +16,7 @@ comparePrice: 2.11 EUR
 prodname: 'MarinoBIRD T10 3PCS Rectangle Plastic Webcam Cover Ultra-Thin Privacy Protector Camera Shutter Sticker para teléfono Tableta portátil de Escritorio - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085ZRK58M/?tag=tolees-21'
 descuento: '33.65'
 average: '1.4'

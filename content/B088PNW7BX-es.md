@@ -16,6 +16,7 @@ comparePrice: 1999.99 EUR
 prodname: 'ASUS ROG Zephyrus M15 GU502LV-AZ057T - Ordenador portátil Gaming de 15.6" FullHD 240Hz  Intel Core i7-10750H  16GB RAM  512GB SSD  GeForce RTX2060-6GB  Windows 10 Home  Negro - Teclado QWERTY español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088PNW7BX/?tag=tolees-21'
 descuento: '25.05'
 average: '1499.0'

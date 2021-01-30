@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'L Oréal Paris Make-up designer Millón de Pestañas Fatale Máscara de Pestañas volumen definido - 9.4 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JLM4NY6/?tag=tolees-21'
 descuento: '67.09'
 average: '5.113333333333333'

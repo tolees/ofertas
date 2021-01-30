@@ -16,6 +16,7 @@ comparePrice: 100.34 EUR
 prodname: 'Rizador Pelo Profesional 6 en 1  Plancha Pelo Curling Iron Juego de varillas de hierro curling negro con turmalina de cerámica Barril de hierro con guante resistente al calor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H1WY3WB/?tag=tolees-21'
 descuento: '65.13'
 average: '34.99'

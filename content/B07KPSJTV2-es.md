@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'LAST LEVEL- Figura Pop Warhammer 40K: ULTRAMARINES INTERCESOR  Multicolor  FFK38324 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KPSJTV2/?tag=tolees-21'
 descuento: '28.88'
 average: '10.646666666666667'

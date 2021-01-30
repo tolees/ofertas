@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'L Oréal Paris Sublime Mousse Tinte en Espuma Coloración 740 Cobrizo Ardiente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X9W9NYU/?tag=tolees-21'
 descuento: '32.16'
 average: '6.75'

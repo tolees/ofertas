@@ -16,6 +16,7 @@ comparePrice: 6.45 EUR
 prodname: 'Natural Honey Loción Corporal Extra Hidratante 700ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JBWBV6B/?tag=tolees-21'
 descuento: '26.36'
 average: '4.75'

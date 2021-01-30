@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'Salomon Speedcross 4 W  Zapatillas de Trail Running para Mujer  Azul Poseidon Eggshell Blue Black  41 1/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073JZS1DC/?tag=tolees-21'
 descuento: '29.98'
 average: '83.99'

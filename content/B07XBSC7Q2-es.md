@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Trust Yvi Ratón inalámbrico - Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XBSC7Q2/?tag=tolees-21'
 descuento: '44.47'
 average: '9.99'

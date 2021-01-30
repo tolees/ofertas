@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Funko- Pop Vinilo Squarepants S3: Spongebob  Rainbow  Figura Coleccionable  Multicolor  39552 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZQQ2GY/?tag=tolees-21'
 descuento: '49.84'
 average: '8.245000000000001'

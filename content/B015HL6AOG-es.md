@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'New Balance 500  Zapatillas para Hombre  Marrón  Brown/Grey Sgg   40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015HL6AOG/?tag=tolees-21'
 descuento: '53.60'
 average: '34.8'

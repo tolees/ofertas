@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Brooks Launch 6  Zapatillas de Running para Hombre  Multicolor  Bluebird/Peacoat/Shade 435   40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S1WVQPF/?tag=tolees-21'
 descuento: '62.43'
 average: '49.43142857142857'

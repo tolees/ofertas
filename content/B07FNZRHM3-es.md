@@ -16,6 +16,7 @@ comparePrice: 299.99 EUR
 prodname: 'Panasonic RP-HD605NE-T Auriculares Bluetooth Premium  Noise-Cancelling  Sonido Hi-Fi  Compatible Siri  Carga Rápida  Manos Libres  20h Reproducción  Compatible con Cable  con Funda de Viaje  Burdeos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FNZRHM3/?tag=tolees-21'
 descuento: '43.77'
 average: '178.845'

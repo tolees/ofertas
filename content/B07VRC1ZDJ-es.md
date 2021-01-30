@@ -16,6 +16,7 @@ comparePrice: 98.16 EUR
 prodname: 'Tommy Hilfiger Organic Cotton Silk V Neck Pantalones  Azul  Blue Quartz Heather DVH   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VRC1ZDJ/?tag=tolees-21'
 descuento: '72.65'
 average: '26.85'

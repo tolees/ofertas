@@ -16,6 +16,7 @@ comparePrice: 11.7 EUR
 prodname: 'Licor del Polo - Pasta de dientes 2 en 1 Blanqueador avanzado - 6 uds de 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GZ4TIHK/?tag=tolees-21'
 descuento: '33.76'
 average: '8.285'

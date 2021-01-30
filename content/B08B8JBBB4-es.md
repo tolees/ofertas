@@ -16,6 +16,7 @@ comparePrice: 14.08 EUR
 prodname: 'Portátil Creativo Único Cobre Clave Forma USB2.0 Interfaz Stick Mini USB Flash Drive con Anillo Colgante Pulgar Stick-Coppery'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B8JBBB4/?tag=tolees-21'
 descuento: '33.52'
 average: '9.36'

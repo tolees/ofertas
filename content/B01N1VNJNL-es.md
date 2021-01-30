@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Maybelline New York - Fit Me  Base de Maquillaje Mate Afina Poros  Tono 360 Mocha - 30 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N1VNJNL/?tag=tolees-21'
 descuento: '43.49'
 average: '3.95'

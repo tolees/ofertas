@@ -16,6 +16,7 @@ comparePrice: 13.43 EUR
 prodname: 'Funko- Pop Movies: Warriors-Cochise The Collectible Toy  Multicolor  44844 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TVDQRR6/?tag=tolees-21'
 descuento: '25.54'
 average: '12.996666666666666'

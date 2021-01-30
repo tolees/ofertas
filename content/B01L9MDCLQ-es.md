@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Belkin F8J206BTGRY - Funda y Soporte para Apple Pencil  Color Negro/ Blanco/ Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01L9MDCLQ/?tag=tolees-21'
 descuento: '43.35'
 average: '17.365'

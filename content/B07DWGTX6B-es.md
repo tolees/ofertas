@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Neo Geo Mini - Gamepad Mini  Blanco  Neo Geo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DWGTX6B/?tag=tolees-21'
 descuento: '59.99'
 average: '14.995'

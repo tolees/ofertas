@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Lacoste Carnaby EVO BL 1 SPW  Zapatillas para Mujer  Negro  Black   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MY09TOX/?tag=tolees-21'
 descuento: '56.21'
 average: '40.78'

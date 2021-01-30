@@ -16,6 +16,7 @@ comparePrice: 143.26 EUR
 prodname: 'Cepewa Aspiradora de Mano 2 en 1  silenciosa con Buena Fuerza de succión  Soporte de Pared  Boquilla para Juntas y Potente batería'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085GG8NHV/?tag=tolees-21'
 descuento: '58.18'
 average: '59.91'

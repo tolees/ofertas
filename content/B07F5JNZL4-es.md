@@ -16,6 +16,7 @@ comparePrice: 136.69 EUR
 prodname: 'Máquina de eliminación de grasa congelada  sistema de pérdida de grasa congelador  método revolucionario de congelación y fusión de células grasas para pérdida de grasa de celulitis y exceso de grasa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F5JNZL4/?tag=tolees-21'
 descuento: '56.48'
 average: '59.49'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Nike Legend 8 Club FG/MG  Zapatillas de Fútbol para Hombre  Negro Black Blue Hero 004  39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M6BNRRT/?tag=tolees-21'
 descuento: '25.43'
 average: '37.28'

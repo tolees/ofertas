@@ -16,6 +16,7 @@ comparePrice: 35.21 EUR
 prodname: 'Mono de bebé Promini para bebé con texto en inglés «Future Carpenter Just Like My Uncle»  de una pieza  el mejor regalo para el bebé'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08723GLWR/?tag=tolees-21'
 descuento: '61.32'
 average: '13.62'

@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Columbia Hombre Mallas técnicas  M Engineered Tight  Nailon  Azul  Mountain   Talla S  1820791'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K42KJFL/?tag=tolees-21'
 descuento: '71.25'
 average: '17.25'

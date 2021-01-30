@@ -16,6 +16,7 @@ comparePrice: 65.46 EUR
 prodname: 'Tommy Hilfiger Tommy Regular Polo  Azul  Blue Ink   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VPQR9C1/?tag=tolees-21'
 descuento: '60.01'
 average: '26.18'

@@ -16,6 +16,7 @@ comparePrice: 57 EUR
 prodname: 'Lalique Lalique Encre Noire Sport Etv 50Ml - 1 Unidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GCW0LFO/?tag=tolees-21'
 descuento: '58.25'
 average: '23.4'

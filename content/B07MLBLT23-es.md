@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: '7 Unids UV Gel Nail Art Pluma Cepillos de Pintura Punteada DIY Kit de Herreamientas de Manicura'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MLBLT23/?tag=tolees-21'
 descuento: '96.57'
 average: '0.24'

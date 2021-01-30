@@ -16,6 +16,7 @@ comparePrice: 799.99 EUR
 prodname: 'Acer Swift 3 - Ordenador portátil de 15.6" FullHD AMD Ryzen 7 2700U  8GB de RAM  256GB SSD  Radeon RX Vega 10 Graphics  Windows 10 Home  Plata - Teclado QWERY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RDZ414D/?tag=tolees-21'
 descuento: '25.00'
 average: '550.985'

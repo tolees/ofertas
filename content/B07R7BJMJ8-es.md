@@ -16,6 +16,7 @@ comparePrice: 28.52 EUR
 prodname: 'CARE OF by PUMA 372883 Low-Top Sneakers  Negro Black Black   43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R7BJMJ8/?tag=tolees-21'
 descuento: '30.89'
 average: '19.71'

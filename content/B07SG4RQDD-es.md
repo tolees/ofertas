@@ -16,6 +16,7 @@ comparePrice: 46.99 EUR
 prodname: 'Zambrero Remanufacturado HP 304XL 304 XL Cartuchos de tinta Negro y Tricolor para HP DeskJet 2620 2630 3720 3730 3732 3735 3760 HP ENVY 5020 5030 5032'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SG4RQDD/?tag=tolees-21'
 descuento: '29.79'
 average: '32.99'

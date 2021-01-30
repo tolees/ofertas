@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'LOFIR Calcetines Cortos de Algodón para Hombres Calcetines Invisibles con Dedos Separados  Cortes Bajos Tobilleros Calcetines de Cinco 5 Dedos de Deporte para Hombre  talla 39-48  6 pares'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D6P8K8N/?tag=tolees-21'
 descuento: '33.34'
 average: '19.99'

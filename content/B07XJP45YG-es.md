@@ -16,6 +16,7 @@ comparePrice: 45.94 EUR
 prodname: 'Fullmosa Correa Compatible de Acero Inoxidable y Desmontar sin Herramientas para Apple Watch Series 5/4/3/2/1  Correa Desmontable Manual para iWatch 38mm 40mm 42mm 44mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XJP45YG/?tag=tolees-21'
 descuento: '41.25'
 average: '26.99'

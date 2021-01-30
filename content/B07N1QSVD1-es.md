@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Jack & Jones Jjecorp Logo Sweat Hood Noos Capucha  Azul  Surf The Webreg/Large Print   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1QSVD1/?tag=tolees-21'
 descuento: '25.31'
 average: '22.4'

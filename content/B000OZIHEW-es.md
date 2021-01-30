@@ -16,6 +16,7 @@ comparePrice: 4.78 EUR
 prodname: 'Olówek automatyczny Grip 1345 czerwony'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000OZIHEW/?tag=tolees-21'
 descuento: '38.91'
 average: '2.92'

@@ -16,6 +16,7 @@ comparePrice: 109.0 EUR
 prodname: 'Lacoste Carnaby EVO 120 6 Us SFA  Zapatillas para Mujer  Color Blanco  421 g  39.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SQZWRX9/?tag=tolees-21'
 descuento: '49.76'
 average: '54.76'

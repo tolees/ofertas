@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Taladro Percutor  GALAX PRO 600W Mejorado Taladro Percutor  Taladro Eléctrico 3000RPM  Tope de Profundidad  Martillo Taladro 2 Funciones en 1  Portabroca de 13mm  Empuñadura Giratoria 360°'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QHSZN91/?tag=tolees-21'
 descuento: '46.67'
 average: '31.99'

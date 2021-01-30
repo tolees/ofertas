@@ -16,6 +16,7 @@ comparePrice: 14.0 EUR
 prodname: 'Curver 227328 Cubo De Basura Essentials Con Separador  Gris/Antracita  35.4x31.1x53 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KWXG6KC/?tag=tolees-21'
 descuento: '25.00'
 average: '10.5'

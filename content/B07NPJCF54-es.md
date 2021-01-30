@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Skechers Dynamight 2.0-fallford  Zapatillas para Hombre  Gris  Gris  Charcoal/Black Ccbk   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NPJCF54/?tag=tolees-21'
 descuento: '40.04'
 average: '31.543333333333337'

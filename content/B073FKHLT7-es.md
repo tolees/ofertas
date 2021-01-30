@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Philips SHB4805RG Flite Everlite - Auriculares Bluetooth inalámbricos  Elegante y Plegables  12 Horas de reproducción  Oro Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073FKHLT7/?tag=tolees-21'
 descuento: '67.50'
 average: '26.53'

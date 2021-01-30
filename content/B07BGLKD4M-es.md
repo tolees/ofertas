@@ -16,6 +16,7 @@ comparePrice: 277.99 EUR
 prodname: 'HyperX Impact DDR4 HX432S20IBK2/32 Memoria RAM 3200MHz CL20 SODIMM 32GB Kit  2x16GB '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BGLKD4M/?tag=tolees-21'
 descuento: '50.00'
 average: '169.94'

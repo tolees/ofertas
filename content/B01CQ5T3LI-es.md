@@ -16,6 +16,7 @@ comparePrice: 72.25 EUR
 prodname: 'San Ignacio PK128 Bandeja Grill 35 x 26 cm  Aluminio Fundido  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CQ5T3LI/?tag=tolees-21'
 descuento: '62.64'
 average: '26.99'

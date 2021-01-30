@@ -16,6 +16,7 @@ comparePrice: 8.92 EUR
 prodname: 'Fiween Clips 4pcs Niños Chupete Chupete Titular de bebé Chupete Chupete Clip'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088QJM9TN/?tag=tolees-21'
 descuento: '38.23'
 average: '5.51'

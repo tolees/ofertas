@@ -16,6 +16,7 @@ comparePrice: 38.57 EUR
 prodname: 'Star Wars - Taza de cerámica  diseño R2-D2 3D  sin Tapa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DDXM75Q/?tag=tolees-21'
 descuento: '64.82'
 average: '13.57'

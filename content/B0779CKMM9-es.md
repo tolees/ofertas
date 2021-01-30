@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Cosstars Unisex 3D Digital Estampado Gimnasia del Deporte Que Activan los Pantalones Ocasionales Sweatpants Pants'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0779CKMM9/?tag=tolees-21'
 descuento: '50.04'
 average: '19.98'

@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Tranjis Games - POC! - Juego de mesa  TRG-014poc '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PFKDQX8/?tag=tolees-21'
 descuento: '33.11'
 average: '10.0'

@@ -16,6 +16,7 @@ comparePrice: 9.19 EUR
 prodname: 'Mando a Distancia para Philips UHD LED TV 43PUH4900/88 43PUK4900/12 43PUT4900/12 49PUH4900/88 49PUK4900/12 49PUT4900/12 55PUH4900/88'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071P3FRR5/?tag=tolees-21'
 descuento: '29.27'
 average: '6.5'

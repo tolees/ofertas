@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'PUMA 074892 01 Bolsa Mediana  Unisex Adulto  Negro  Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072KKBJD7/?tag=tolees-21'
 descuento: '73.26'
 average: '17.375714285714288'

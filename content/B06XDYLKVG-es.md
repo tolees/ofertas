@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Kepmem Memoria USB de 16GB Figuras Tortuga con Llavero USB Pen Drive'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XDYLKVG/?tag=tolees-21'
 descuento: '31.27'
 average: '10.99'

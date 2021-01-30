@@ -16,6 +16,7 @@ comparePrice: 32.9 EUR
 prodname: 'Philips CAFETERAS  1 Liter  Plástico  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015PKR1ME/?tag=tolees-21'
 descuento: '39.51'
 average: '19.9'

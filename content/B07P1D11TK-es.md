@@ -16,6 +16,7 @@ comparePrice: 12.0 EUR
 prodname: 'Gommy s Factory  Golosina  Coca colas  - 12 de 90 gr.  Total 1080 gr. '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P1D11TK/?tag=tolees-21'
 descuento: '29.08'
 average: '8.505'

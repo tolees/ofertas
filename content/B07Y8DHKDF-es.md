@@ -16,6 +16,7 @@ comparePrice: 21.45 EUR
 prodname: 'Konesky Portátil Podómetro Digital para Caminar 3D Mosquetón Deportivo Clip en el Paso y Contador de Calorías Rastreador de Actividad Física'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y8DHKDF/?tag=tolees-21'
 descuento: '56.69'
 average: '9.29'

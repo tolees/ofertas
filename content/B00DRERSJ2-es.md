@@ -16,6 +16,7 @@ comparePrice: 42.13 EUR
 prodname: 'BRA Bella - Vinagrera  4 Piezas  Acero Inoxidable 18/10 y Vidrio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DRERSJ2/?tag=tolees-21'
 descuento: '71.64'
 average: '19.0'

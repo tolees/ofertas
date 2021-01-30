@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Lico Bernie V  Zapatillas Deportivas para Interior Unisex Niños  Azul  Marine/Weiss   32 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004UBDX54/?tag=tolees-21'
 descuento: '35.84'
 average: '12.8'

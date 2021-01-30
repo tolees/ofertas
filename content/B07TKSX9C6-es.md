@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Clarks Un Rio Lace  Zapatillas  Azul  Dark Blush Combi Dark Blush Combi   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TKSX9C6/?tag=tolees-21'
 descuento: '51.26'
 average: '53.61'

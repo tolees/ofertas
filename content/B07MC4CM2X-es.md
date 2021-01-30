@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Hackett London Amr SS Polo   Navy/Multi 5cv   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MC4CM2X/?tag=tolees-21'
 descuento: '45.07'
 average: '54.905'

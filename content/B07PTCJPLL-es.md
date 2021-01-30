@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Sekey 230x160 cm Cortina Mosquitera magnética para la protección contra Insectos  el mosquitera magnético Ideal para Puerta de balcón  Puerta de terraza  se Puede Cortar en Altura y Ancho   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PTCJPLL/?tag=tolees-21'
 descuento: '58.46'
 average: '14.95'

@@ -16,6 +16,7 @@ comparePrice: 12.75 EUR
 prodname: 'EXCITE Gel lubricante a base de agua. Neutro. 100ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ND1TJ8Z/?tag=tolees-21'
 descuento: '37.33'
 average: '7.99'

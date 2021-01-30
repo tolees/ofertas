@@ -16,6 +16,7 @@ comparePrice: 3.0 EUR
 prodname: 'Rimmel Nail Polish SuperGel Kate 82 Purple Splash Żelowy lakier do paznokci 12ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06W9NPHP3/?tag=tolees-21'
 descuento: '70.00'
 average: '1.45'

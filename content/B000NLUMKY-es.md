@@ -16,6 +16,7 @@ comparePrice: 34.9 EUR
 prodname: 'Casio Reloj Digital para Mujer de Cuarzo con Correa en Resina LW-200-2AVEF'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000NLUMKY/?tag=tolees-21'
 descuento: '34.67'
 average: '22.746470588235297'

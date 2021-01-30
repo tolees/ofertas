@@ -16,6 +16,7 @@ comparePrice: 509 EUR
 prodname: 'Samyang F1112201101 - Objetivo fotográfico DSLR para Canon EF  Distancia Focal Fija 135mm  Apertura f/2-22 ED UMC  diámetro Filtro: 77mm   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TS9GLSE/?tag=tolees-21'
 descuento: '48.43'
 average: '262.47'

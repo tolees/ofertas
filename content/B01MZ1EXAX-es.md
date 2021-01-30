@@ -16,6 +16,7 @@ comparePrice: 349.0 EUR
 prodname: 'VS Venta-stock Aparador Java 3 cajones y 2 Puertas Gris/Cera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MZ1EXAX/?tag=tolees-21'
 descuento: '51.29'
 average: '169.99'

@@ -16,6 +16,7 @@ comparePrice: 92.99 EUR
 prodname: 'ART VVIES Wandbild mit Haken Sonnenwende Sommer Sonne Rot Landschaft Dämmerung Abenddämmerung für Hauptdekorationen Küche Holz gerahmte Leinwanddrucke 36 x 24 Zoll'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082HBJKV3/?tag=tolees-21'
 descuento: '55.92'
 average: '40.99'

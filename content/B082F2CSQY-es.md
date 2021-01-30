@@ -16,6 +16,7 @@ comparePrice: 10.27 EUR
 prodname: 'Cobertura de lactancia de algodón Cubiertas de lactancia  mantón de enfermería cubiertas de lactancia  manta de lactancia delantal de lactancia 100% superior bueno  azul cielo 98 * 57 cm  '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082F2CSQY/?tag=tolees-21'
 descuento: '48.69'
 average: '5.27'

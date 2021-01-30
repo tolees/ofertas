@@ -16,6 +16,7 @@ comparePrice: 176.0 EUR
 prodname: 'EUROHIKE Avon Tienda de campaña Camping Gear Rojo  Rojo  Talla Ãšnica'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00WUH73OC/?tag=tolees-21'
 descuento: '58.74'
 average: '72.62'

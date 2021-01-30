@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'PUMA ftblNXT Graphic Shorts Pantalones Cortos  Hombre  Verde  Green Gecko   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JH2ZQJG/?tag=tolees-21'
 descuento: '61.94'
 average: '11.4'

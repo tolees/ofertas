@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Liebeskind Berlin - Piperf8 Core  Mujer Carteras  Beige  Powder Blossom   3x15x11 cm  B x H x T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076H7TTM3/?tag=tolees-21'
 descuento: '27.86'
 average: '72.07'

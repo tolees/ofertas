@@ -16,6 +16,7 @@ comparePrice: 14.0 EUR
 prodname: 'Vaseline Essential Moisture Cocoa Radiant Lotion 200ml Pack of 3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OQ84SAA/?tag=tolees-21'
 descuento: '44.43'
 average: '7.78'

@@ -16,6 +16,7 @@ comparePrice: 16.65 EUR
 prodname: 'Wire Strippers  Drillpro Alicates Pelacables Autoajustable Automática Wire Crimpers Profesional Multifuncional Alambre & Cable Crimping Stripping Cutting Pliers Strippers Cutters Rango 0.08-4mm2 Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06X6FYVSW/?tag=tolees-21'
 descuento: '40.00'
 average: '9.99'

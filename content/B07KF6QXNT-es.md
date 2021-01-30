@@ -16,6 +16,7 @@ comparePrice: 110 EUR
 prodname: 'Levi s Ex-Boyfriend Trucker Giacca in Jeans  Blu  for Real 0089   X-Small Donna'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KF6QXNT/?tag=tolees-21'
 descuento: '64.59'
 average: '38.95'

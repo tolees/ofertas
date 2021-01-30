@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'EACLL GU10 Bases para Lámparas  Casquillo Portalámparas Zócalo de Cerámica  Con Cable de Silicona de Calidad  Conector Para LED GU10 y Bombilla Halógena  Pack de 10'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QS1R7WB/?tag=tolees-21'
 descuento: '40.54'
 average: '7.465'

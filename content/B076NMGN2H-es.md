@@ -16,6 +16,7 @@ comparePrice: 21.73 EUR
 prodname: 'DIXIUZA 72Pcs Spoke Skins Cubierta del Radio de Rueda de Motocicleta para Motocross Bicis de la Suciedad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076NMGN2H/?tag=tolees-21'
 descuento: '49.42'
 average: '10.99'

@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'BLEND 20708180 Polo  Rojo  Mineral Red 73817   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FD95R8N/?tag=tolees-21'
 descuento: '58.30'
 average: '8.635'

@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'auna IR-160 - Radio Internet   WiFi   USB   MP3   AUX   Alarma   Streaming   Pantalla TFT   Air Music Control App   Mando a Distancia   Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GR2XBWL/?tag=tolees-21'
 descuento: '60.00'
 average: '59.41857142857143'

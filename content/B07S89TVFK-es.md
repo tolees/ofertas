@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Lee Belt Cinturón  Negro  Black 01   85 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S89TVFK/?tag=tolees-21'
 descuento: '76.40'
 average: '11.79'

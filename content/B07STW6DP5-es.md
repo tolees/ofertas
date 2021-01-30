@@ -16,6 +16,7 @@ comparePrice: 3.39 EUR
 prodname: 'Lorjoyx Silicona Cono de Helado Molde en Forma de Cubos de Hielo de Bricolaje Herramientas de moldeo de Cocina con Tapas Color al Azar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07STW6DP5/?tag=tolees-21'
 descuento: '34.51'
 average: '2.22'

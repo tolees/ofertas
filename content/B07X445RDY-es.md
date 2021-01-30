@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'AOQUSSQOA Mujer Yoga Leggings Mallas Pantalones Deportivos Leggings Deportes Pantalones Fitness Yoga Pants  XL  A03-Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X445RDY/?tag=tolees-21'
 descuento: '47.51'
 average: '19.389999999999997'

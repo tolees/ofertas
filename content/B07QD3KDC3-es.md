@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'WisFox Ratón inalámbrico  2.4G Óptico Ratón Ratón de computadora de Ratón ergonómico con USB Receptor Nano 6 Botones  5 Niveles 2400 dpi  ambidiestro  para Microsoft Windows Vista7/8 Mac y Linux-Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QD3KDC3/?tag=tolees-21'
 descuento: '45.02'
 average: '9.89'

@@ -16,6 +16,7 @@ comparePrice: 166.8 EUR
 prodname: 'Gant Reloj Analógico para Hombre de Cuarzo con Correa en Cuero 7630043930946'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KM2PLH2/?tag=tolees-21'
 descuento: '71.46'
 average: '54.092499999999994'

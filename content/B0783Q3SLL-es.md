@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Vampirina-78105 Muñeca Básica  Multicolor  Bandai JPL78105 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0783Q3SLL/?tag=tolees-21'
 descuento: '56.64'
 average: '8.336'

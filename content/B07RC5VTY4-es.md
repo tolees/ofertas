@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Trust Duet XP Auriculares Bluetooth sin Cables'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RC5VTY4/?tag=tolees-21'
 descuento: '74.25'
 average: '23.17'

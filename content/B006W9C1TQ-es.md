@@ -16,6 +16,7 @@ comparePrice: 15.0 EUR
 prodname: 'Rayen - Funda para tabla de planchar Universal  funda de planchar fácil de colocar con sistema EasyClip   2 capas: Espuma y tejido 100% algodón estampado. Gama Basic de Rayen. 130x47 cm  Floral'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006W9C1TQ/?tag=tolees-21'
 descuento: '56.13'
 average: '6.58'

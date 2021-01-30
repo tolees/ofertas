@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Huevos Vibradores FIDECH pro 2 - Balas para Mujer  12 Modos de Frecuencia  Inalámbrico  Control Remoto  Recargable USB  IPX7 100% Impermeable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QST8W6D/?tag=tolees-21'
 descuento: '47.39'
 average: '18.965'

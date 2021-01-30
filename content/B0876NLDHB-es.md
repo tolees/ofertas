@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Depiladora de Cejas  Eléctrica Depiladora Facial Mujer  Recortador de Vello Nariz/Orejas  Luz LED Incorporada  USB Recargable  Eyebrows Trimmer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0876NLDHB/?tag=tolees-21'
 descuento: '46.70'
 average: '8.656666666666668'

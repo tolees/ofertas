@@ -16,6 +16,7 @@ comparePrice: 74.99 EUR
 prodname: 'Vis a vis - Serie Completa - BD [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NRTDTHX/?tag=tolees-21'
 descuento: '52.29'
 average: '52.885'

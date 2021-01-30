@@ -16,6 +16,7 @@ comparePrice: 11.59 EUR
 prodname: 'Enjoyee -4 Viseras Protectoras para la Cara  plástico Ligero  Ajustable  Transparente  para Evitar la Saliva  Las Gotas  el Polen y el Polvo  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0863PRHN3/?tag=tolees-21'
 descuento: '37.96'
 average: '7.550000000000001'

@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Tri Abby  Zapatillas para Mujer  Negro  Black Black   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1JX2LZ/?tag=tolees-21'
 descuento: '44.89'
 average: '55.08'

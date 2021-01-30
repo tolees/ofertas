@@ -16,6 +16,7 @@ comparePrice: 25.93 EUR
 prodname: 'Power extra Set de soldadura Soldadura 220 V 60 W Temperatura ajustable 200 °C de 450 °C con 5 puntas  Bomba desoldadora  soldador Soporte  estaño  pinzas para Elektrotechnik difuminar Reparaciones'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BSB8GMT/?tag=tolees-21'
 descuento: '26.73'
 average: '19.0'

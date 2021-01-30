@@ -16,6 +16,7 @@ comparePrice: 19.03 EUR
 prodname: 'Desconocido USB 2.0 MP3 Reproductor de Música Grabación con Función FM Radio Ebook Capacidad Memoria 8GB / 4GB - Negro  8GB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K36FC6W/?tag=tolees-21'
 descuento: '44.46'
 average: '10.4'

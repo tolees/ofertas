@@ -16,6 +16,7 @@ comparePrice: 37.9 EUR
 prodname: 'Tommy Hilfiger 3p Brief Cierre  Multicolor  Multi/Peacoat 904   Small  Pack de 3  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MTG9AQY/?tag=tolees-21'
 descuento: '34.06'
 average: '24.525384615384613'

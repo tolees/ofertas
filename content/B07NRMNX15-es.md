@@ -16,6 +16,7 @@ comparePrice: 79 EUR
 prodname: 'Cámara IP Exterior  Camara IP WiFi 1080p  Cámara Vigilancia Exterior WiFi Visión Nocturna Audio de 2 Vías Detección de Movimiento Monitorización Remota vía PC/Smartphone/Tableta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NRMNX15/?tag=tolees-21'
 descuento: '49.38'
 average: '39.99'

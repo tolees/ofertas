@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Vogel s WALL 3345 Blanco  Soporte de pared para TV 40 - 65 Pulgadas  Inclinable y Giratorio 180º  Máx 30 kg y con sistema VESA máx. 600x400'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076HQ3GKR/?tag=tolees-21'
 descuento: '42.50'
 average: '115.0'

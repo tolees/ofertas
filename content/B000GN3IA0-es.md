@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Kempa Needle Agujas para Hinchar Balones  Hombre  Transparente  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000GN3IA0/?tag=tolees-21'
 descuento: '85.69'
 average: '1.0'

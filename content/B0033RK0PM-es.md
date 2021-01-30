@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Wrangler Stitched Belt Brown  Cinturón para Hombre  Marrón  Mid Brown   110 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0033RK0PM/?tag=tolees-21'
 descuento: '41.47'
 average: '17.53'

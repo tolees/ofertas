@@ -16,6 +16,7 @@ comparePrice: 94.95 EUR
 prodname: 'adidas Gazelle  Zapatillas de deporte Unisex Adulto  Varios colores  Vapour Pink/White/Gold Metalic   48 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IDFQGJC/?tag=tolees-21'
 descuento: '58.72'
 average: '43.870000000000005'

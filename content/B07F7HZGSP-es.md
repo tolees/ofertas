@@ -16,6 +16,7 @@ comparePrice: 198.07 EUR
 prodname: 'BRA Profesional Batería 5 Piezas  Apta para Todo Tipo De Cocinas Incluida Inducción  Acero Inoxidable  18/10  20-24-16 Cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F7HZGSP/?tag=tolees-21'
 descuento: '29.32'
 average: '131.80818181818182'

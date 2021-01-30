@@ -16,6 +16,7 @@ comparePrice: 7.03 EUR
 prodname: 'Floso – Calcetines antideslizantes para hombre  gris  EUR 40-47'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006HY3NDO/?tag=tolees-21'
 descuento: '29.59'
 average: '4.95'

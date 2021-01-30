@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Pop! Vinilo: Dragonball Z S6: Radditz'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZPR8LH/?tag=tolees-21'
 descuento: '33.88'
 average: '9.25125'

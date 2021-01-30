@@ -16,6 +16,7 @@ comparePrice: 159.95 EUR
 prodname: 'Obey Your Body Peeling Facial'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002U0UZCG/?tag=tolees-21'
 descuento: '69.99'
 average: '48.198'

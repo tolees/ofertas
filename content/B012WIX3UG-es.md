@@ -16,6 +16,7 @@ comparePrice: 6.91 EUR
 prodname: '151Y12 - Aceitera Cristal Tapon Corcho 1/2L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B012WIX3UG/?tag=tolees-21'
 descuento: '47.90'
 average: '3.6'

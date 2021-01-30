@@ -16,6 +16,7 @@ comparePrice: 182.0 EUR
 prodname: 'Yellow Cab Soldier 6 Botas militares hombre  Marrón  Cognac   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CJ3UD9E/?tag=tolees-21'
 descuento: '72.49'
 average: '50.06'

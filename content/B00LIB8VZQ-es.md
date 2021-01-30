@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Fantasy Flight Games- Tie Fantasma  Multicolor  FFSWX19 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LIB8VZQ/?tag=tolees-21'
 descuento: '46.56'
 average: '7.99'

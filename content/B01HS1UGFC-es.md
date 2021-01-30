@@ -16,6 +16,7 @@ comparePrice: 5.95 EUR
 prodname: 'L Oréal Paris Elvive Champú Aceite Extraordinario - 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HS1UGFC/?tag=tolees-21'
 descuento: '29.58'
 average: '4.19'

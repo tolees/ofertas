@@ -16,6 +16,7 @@ comparePrice: 17.46 EUR
 prodname: 'Motorkit MOT1000 Kit Restaurador De Faros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DB3Y7WM/?tag=tolees-21'
 descuento: '42.73'
 average: '10.0'

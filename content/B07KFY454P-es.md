@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'PUMA Cell Plasmic WN S  Zapatillas Deportivas para Interior para Mujer  Negro Black White  38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFY454P/?tag=tolees-21'
 descuento: '66.02'
 average: '23.924999999999997'

@@ -16,6 +16,7 @@ comparePrice: 105.16 EUR
 prodname: 'BRA Efficient - Set de 3 sartenes  18-22-26 cm  aluminio fundido con antiadherente Platinum Plus  apta para inducción'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KBONLBU/?tag=tolees-21'
 descuento: '33.48'
 average: '68.57'

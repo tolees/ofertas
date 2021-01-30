@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Slypnos - Estera de la Silla de PVC  Estera de Protección para el Suelo Transparente  Alfombrilla para Silla para Suelos Duros  Protector de Suelo  Rectangular  sin BPA  122 cm x 76 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RWLQKZD/?tag=tolees-21'
 descuento: '28.01'
 average: '35.99'

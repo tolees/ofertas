@@ -16,6 +16,7 @@ comparePrice: 57.41 EUR
 prodname: 'El Ministerio del Tiempo - Temporadas 1 a 3 [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081WPY6DB/?tag=tolees-21'
 descuento: '34.99'
 average: '37.32'

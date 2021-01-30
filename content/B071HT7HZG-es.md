@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Sennheiser CX 7.00 BT - Auricular Intraural Inalámbrico  Color Negro y Azul  1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071HT7HZG/?tag=tolees-21'
 descuento: '45.66'
 average: '74.97999999999999'

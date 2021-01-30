@@ -16,6 +16,7 @@ comparePrice: 12.69 EUR
 prodname: 'Horquillas Pelo Niña  Remebe 36 Piezas Pinzas Niña e Gomas Pelo Niña Bebe Pinza de Pelo Niña con Tela Accesorios para el Pelo Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YFSG6SZ/?tag=tolees-21'
 descuento: '29.47'
 average: '10.263333333333334'

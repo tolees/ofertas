@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Tommy Hilfiger Iconic Slip On Sneaker  Zapatillas para Hombre  Negro  Black 990   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N2MFRL8/?tag=tolees-21'
 descuento: '55.78'
 average: '29.293333333333333'

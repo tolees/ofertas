@@ -16,6 +16,7 @@ comparePrice: 287.48 EUR
 prodname: 'Novokart-Mountain Bike Unisex  Bicicletas montaña 21/24/27 Pulgadas  MTB para Hombre  Mujer  con Asiento Ajustable  Frenos de Doble Disco  Negro  27-Speed Shift Rueda de radios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B5XVGHN/?tag=tolees-21'
 descuento: '58.26'
 average: '120.0'

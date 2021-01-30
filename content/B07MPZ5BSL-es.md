@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Plancha de vapor - Cecotec GoForce 8000 Folding Titanium  De viaje  1200 W  53 g/min  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MPZ5BSL/?tag=tolees-21'
 descuento: '35.68'
 average: '13.850000000000001'

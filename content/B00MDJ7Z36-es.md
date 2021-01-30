@@ -16,6 +16,7 @@ comparePrice: 198.0 EUR
 prodname: 'Tesa Assa Abloy  1930908NV  Barra Antipánico Universal 1930 con dos puntos de cierre  Picaportes de Acero Basculante  Negro y Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MDJ7Z36/?tag=tolees-21'
 descuento: '50.10'
 average: '98.81'

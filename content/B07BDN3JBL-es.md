@@ -16,6 +16,7 @@ comparePrice: 159.9 EUR
 prodname: 'BaByliss Pro Miracurl Rose Gold - Rizador de pelo profesional 100% automático  190°C-210°C-230°C  3 tiempos de marcado para hacer ondas y rizos  selector de la dirección para hacer diferentes peinados'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BDN3JBL/?tag=tolees-21'
 descuento: '43.72'
 average: '98.16916666666665'

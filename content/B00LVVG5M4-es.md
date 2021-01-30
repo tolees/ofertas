@@ -16,6 +16,7 @@ comparePrice: 209.9 EUR
 prodname: 'Rio LAHR-C - Depiladora con láser'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LVVG5M4/?tag=tolees-21'
 descuento: '73.19'
 average: '59.59666666666667'

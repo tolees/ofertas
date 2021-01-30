@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: '5BILLION Fortalecedor de Mano & Estiramiento de Dedo - Entrenador de Fuerza para Ejercicio de Antebrazo  Fortalezas de Dedo de Guitarra y Escalada de Roca  Hand & Finger Set '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MED7LTG/?tag=tolees-21'
 descuento: '58.71'
 average: '17.49'

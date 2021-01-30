@@ -16,6 +16,7 @@ comparePrice: 32.33 EUR
 prodname: 'AiSi - Cartera de mano para mujer rojo rosso Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XJDRS26/?tag=tolees-21'
 descuento: '26.17'
 average: '23.87'

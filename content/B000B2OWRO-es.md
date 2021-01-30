@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Reebok 6394  Zapatillas de Trail Running para Mujer  Blanco  Blanco  White /         Light Grey   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000B2OWRO/?tag=tolees-21'
 descuento: '48.16'
 average: '36.26'

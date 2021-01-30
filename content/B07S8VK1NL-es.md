@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'One enjoy Pasta térmica de Metal líquido  79 W/MK de Alto Rendimiento  Pasta de disipador de Calor de Silver King  CPU para Todos los refrigeradores  1 gramo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S8VK1NL/?tag=tolees-21'
 descuento: '25.01'
 average: '14.99'

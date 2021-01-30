@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'L Oréal Paris Total Cover  Base Maquillaje Cobertura Total  Tono de Piel Medio 22 Beige Éclat - 35 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NCXHH6W/?tag=tolees-21'
 descuento: '50.04'
 average: '7.6850000000000005'

@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'DANISH ENDURANCE Calcetines de Algodón  para Hombre y Mujer  Calcetines Clásicos de Vestir  Cómodos  Transpirables  para el Uso Diario  Negro  Gris  Rojo  Pack de 3  Negro  EU 39-42 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DNF8NPY/?tag=tolees-21'
 descuento: '30.08'
 average: '13.283333333333333'

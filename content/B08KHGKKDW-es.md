@@ -16,6 +16,7 @@ comparePrice: 16.1 EUR
 prodname: 'Mr. Wonderful - Agenda clásica 2021 Semana vista - LLéname de risas  aventuras y retos cumplidos'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Mr. Wonderful'
 buyurl: 'https://www.amazon.es/dp/B08KHGKKDW/?tag=tolees-21'
 descuento: '47.52'
 average: '15.6832704402516'
@@ -27,10 +28,10 @@ En este momento está [Mr. Wonderful - Agenda clásica 2021 Semana vista - LLén
 
 🔎:
 
-- Agenda Clásica Grande Semana Vista 2021 con encuadernación en Espiral.
 - 160 páginas con frases diarias motivacionales, blocs de notas adhesivas con formas y 8 hojas de pegatinas. Cierre con goma elástica.
-- Medidas del producto: 17 x 22,1 x 2,6 cm​. Peso: 485 gr​ / Gramaje: 100 gr
 - Separadores con pestaña para cada mes, bolsillo interior transparente y regla de plástico interior
 - Planificador mensual, tablas de ahorro, horarios, calendarios y juegos y extras divertidísimos
+- Agenda Clásica Grande Semana Vista 2021 con encuadernación en Espiral.
+- Medidas del producto: 17 x 22,1 x 2,6 cm​. Peso: 485 gr​ / Gramaje: 100 gr
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08KHGKKDW/?tag=tolees-21)

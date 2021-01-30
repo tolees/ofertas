@@ -16,6 +16,7 @@ comparePrice: 46.63 EUR
 prodname: 'Adaptador Bluetooth 5.0 Receptor Transmisor Bluetooth 2 en 1 Adaptador Audio Bluetooth RCA & 3.5mm AUX  Audio HD Baja Latencia Audio Estéreo para TV  PC  Cascos  Portátil Auriculares'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0894TH4KJ/?tag=tolees-21'
 descuento: '63.56'
 average: '15.29'

@@ -16,6 +16,7 @@ comparePrice: 66.99 EUR
 prodname: 'Auriculares Inalámbricos Bluetooth 5.0 True  Auriculares Deportivos En La Oreja  Graves Mejorados Binaural Micrófono  Solo oído Control  IPX5 Impermeable Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088GTFC5W/?tag=tolees-21'
 descuento: '49.26'
 average: '33.99'

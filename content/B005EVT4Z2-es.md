@@ -16,6 +16,7 @@ comparePrice: 16.6 EUR
 prodname: 'Cars 2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005EVT4Z2/?tag=tolees-21'
 descuento: '49.64'
 average: '8.36'

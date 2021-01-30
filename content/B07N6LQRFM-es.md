@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Tommy Hilfiger Downtown Seasonal Belt 3.5 Cinturón   Brown 0im   130  Talla del fabricante: 115.0  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N6LQRFM/?tag=tolees-21'
 descuento: '58.96'
 average: '20.763333333333335'

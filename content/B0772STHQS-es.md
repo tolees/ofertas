@@ -16,6 +16,7 @@ comparePrice: 23.87 EUR
 prodname: 'Call Of Duty: World War II'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0772STHQS/?tag=tolees-21'
 descuento: '33.93'
 average: '18.900000000000002'

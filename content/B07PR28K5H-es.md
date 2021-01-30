@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Under Armour Tech Corto  Hombre  Gris  30'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PR28K5H/?tag=tolees-21'
 descuento: '41.64'
 average: '29.18'

@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'HBselect 6 Piezas Multicolor Cepillo Dientes Bebe Silicona Con Caja Cepillo Dedo Bebe Para 0-24 Meses'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D7P69WR/?tag=tolees-21'
 descuento: '31.27'
 average: '9.24'

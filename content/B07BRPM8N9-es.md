@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Nike Internationalist  Zapatillas para Mujer  Blanco  White/White-White-Gum Light Brown 103   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BRPM8N9/?tag=tolees-21'
 descuento: '44.04'
 average: '50.36'

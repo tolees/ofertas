@@ -16,6 +16,7 @@ comparePrice: 799.99 EUR
 prodname: 'HP 14-dk0017ns - Ordenador portátil de 14" FullHD  AMD Ryzen 7-3700U  8GB RAM  256GB SSD  AMD Radeon RX Vega 10  Windows 10   Color Plata - Teclado QWERTY Español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z3QQ7BB/?tag=tolees-21'
 descuento: '36.46'
 average: '535.9835714285715'

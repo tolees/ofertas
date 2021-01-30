@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'PUMA Rebound Layup SD Fur  Zapatillas Unisex Adulto  Burnt Olive Black-Gum  37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG69TX3/?tag=tolees-21'
 descuento: '51.44'
 average: '26.025'

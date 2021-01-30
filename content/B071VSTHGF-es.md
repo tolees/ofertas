@@ -16,6 +16,7 @@ comparePrice: 2.95 EUR
 prodname: 'Vegetalia  Jengibre seco en polvo  - 80 gr.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071VSTHGF/?tag=tolees-21'
 descuento: '25.08'
 average: '2.21'

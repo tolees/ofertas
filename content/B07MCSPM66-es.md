@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Napapijri EISBERG Polo  Azul  Clematis Blue Vb1   L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MCSPM66/?tag=tolees-21'
 descuento: '60.00'
 average: '27.6'

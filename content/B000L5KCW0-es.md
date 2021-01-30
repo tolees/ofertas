@@ -16,6 +16,7 @@ comparePrice: 6.85 EUR
 prodname: 'Pelikan 520866 - Cinta para Canon/Facit/Sharp Grupo 51 S+U  Bicolor negro / rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000L5KCW0/?tag=tolees-21'
 descuento: '27.15'
 average: '4.99'

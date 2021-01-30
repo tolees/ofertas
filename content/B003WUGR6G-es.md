@@ -16,6 +16,7 @@ comparePrice: 5.99 EUR
 prodname: 'Munchkin - Cubierto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003WUGR6G/?tag=tolees-21'
 descuento: '25.04'
 average: '4.99'

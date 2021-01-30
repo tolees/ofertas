@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'HOMECHO Mesa Auxiliar con 3 Estantes Mesa para Lámpara  Teléfono  Planta de Bambú y DM de Color Blanco 60 x 30 x 64.5cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XRDJXNX/?tag=tolees-21'
 descuento: '28.58'
 average: '49.99'

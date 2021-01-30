@@ -16,6 +16,7 @@ comparePrice: 95 EUR
 prodname: 'Lacoste Graduate BL 1 SFA  Zapatillas para Mujer  Blanco  White/White   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DHYTB2G/?tag=tolees-21'
 descuento: '53.17'
 average: '44.49'

@@ -16,6 +16,7 @@ comparePrice: 634.04 EUR
 prodname: 'Bosch Professional GAS 35 L SFC+ - Aspirador seco/húmedo  1380 W  capacidad 35 l  manguera 3 m  SFC+  254 mbar '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00D1ULH0I/?tag=tolees-21'
 descuento: '41.65'
 average: '379.32666666666665'

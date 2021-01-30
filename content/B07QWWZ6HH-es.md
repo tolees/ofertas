@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Antena de TV  Antena de TV Digital HD para Interiores  Antena de TV de Alcance de 130KM con Amplificador de Señal Gratuita con Cable Coaxial de 5M  4K 1080P  Antena de TV más Potente  Estilo-2 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QWWZ6HH/?tag=tolees-21'
 descuento: '44.46'
 average: '19.99'

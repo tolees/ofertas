@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Fullmosa Compatible Correa Apple Watch Series 5  Series 4  en 4 Colores  Vintage Pulsera de Cuero Reemplazo de Apple Watch 40 mm/44 mm para Mujeres Hombres  Marrón Claro + Hebilla Plata 44mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JG131ST/?tag=tolees-21'
 descuento: '52.52'
 average: '18.99'

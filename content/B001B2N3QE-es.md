@@ -16,6 +16,7 @@ comparePrice: 3.49 EUR
 prodname: 'Revlon ColorSilk Tinte de Cabello Permanente Tono #10 Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001B2N3QE/?tag=tolees-21'
 descuento: '42.98'
 average: '1.99'

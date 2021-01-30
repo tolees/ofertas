@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'adidas Tiro 19 Cotton Pant Pantalones  Hombre  Black/White  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W7TTG1Z/?tag=tolees-21'
 descuento: '44.88'
 average: '27.53'

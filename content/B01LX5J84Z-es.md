@@ -16,6 +16,7 @@ comparePrice: 249.95 EUR
 prodname: 'Cybex Silver Juno 2-Fix 517000955 Silla de Coche  Grupo 1  con Isofix  Azul  Blue Moon '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LX5J84Z/?tag=tolees-21'
 descuento: '32.01'
 average: '169.95'

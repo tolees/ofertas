@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'PREMYO Bandas Reflectantes Set de 4 Ajustable Brazalete Alta Visibilidad al Correr Ciclismo Deportistas Niños Actividad al Aire Libre Cinta Reflectante Banda Seguridad Cierre de Velcro Amarillo Neón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HRLD7JR/?tag=tolees-21'
 descuento: '31.10'
 average: '8.955714285714285'

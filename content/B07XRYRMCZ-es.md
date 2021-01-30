@@ -16,6 +16,7 @@ comparePrice: 25.95 EUR
 prodname: 'CARPISA ® Shopper de fantasía con cremallera - Foresta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XRYRMCZ/?tag=tolees-21'
 descuento: '49.98'
 average: '12.98'

@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Fanvans Vestidos de Playa Elegante de Encaje de la Mujer White M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06VV1KKS1/?tag=tolees-21'
 descuento: '60.04'
 average: '5.99'

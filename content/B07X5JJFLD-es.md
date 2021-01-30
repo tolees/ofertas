@@ -16,6 +16,7 @@ comparePrice: 5.99 EUR
 prodname: 'Funda para Xiaomi Redmi Note 8 Pro + Protector de Pantalla de Vidrio Templado  Carcasa Ultra Fino Suave Flexible Silicona Colores del Caramelo Protectora Caso Anti-rasguños Case - Rosa Claro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X5JJFLD/?tag=tolees-21'
 descuento: '83.47'
 average: '0.99'

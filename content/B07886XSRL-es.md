@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Pepe Jeans London Bio Flowers  Mules Niñas  Azul  Bright Blue   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07886XSRL/?tag=tolees-21'
 descuento: '76.38'
 average: '25.745'

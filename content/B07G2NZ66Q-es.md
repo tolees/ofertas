@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'L Oreal Paris Magic Retouch Spray Retoca Raíces Castaño 100 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G2NZ66Q/?tag=tolees-21'
 descuento: '47.55'
 average: '4.17'

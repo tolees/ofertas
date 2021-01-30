@@ -16,6 +16,7 @@ comparePrice: 54.0 EUR
 prodname: 'CRZ YOGA Mujer Naked Feeling Deportivos 7/8 Leggings Yoga Fitness Pantalon de Cintura Alta con Bolsillos-63cm True Navy-R009 46'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N2SSN9B/?tag=tolees-21'
 descuento: '66.67'
 average: '18.0'

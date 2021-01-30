@@ -16,6 +16,7 @@ comparePrice: 22.8 EUR
 prodname: 'Garcima 5020073 Paellera Valenciana de 60 cm. Pulida para 19 Personas  Acero  Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000QYNSSG/?tag=tolees-21'
 descuento: '31.10'
 average: '17.02'

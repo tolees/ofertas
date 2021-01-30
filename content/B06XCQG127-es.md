@@ -16,6 +16,7 @@ comparePrice: 21.36 EUR
 prodname: 'Roberto Verino  Agua fresca - 75 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XCQG127/?tag=tolees-21'
 descuento: '29.73'
 average: '15.01'

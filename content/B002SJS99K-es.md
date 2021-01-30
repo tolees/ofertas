@@ -16,6 +16,7 @@ comparePrice: 16.45 EUR
 prodname: 'Wella Sp Perfect Hair - 150 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002SJS99K/?tag=tolees-21'
 descuento: '39.27'
 average: '9.99'

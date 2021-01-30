@@ -16,6 +16,7 @@ comparePrice: 19.89 EUR
 prodname: 'Espejo de coche para bebé Espejo automático Espejo retrovisor para bebé para monitorizar al bebé en el asiento trasero para seguridad de viaje Perrito '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083PY7R4Z/?tag=tolees-21'
 descuento: '46.76'
 average: '10.59'

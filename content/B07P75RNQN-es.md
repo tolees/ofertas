@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'deAO Unidad de Defensa Base Militar Vehículos de Fuerzas Armadas Coleccionables Conjunto de 12 Piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P75RNQN/?tag=tolees-21'
 descuento: '50.03'
 average: '8.99'

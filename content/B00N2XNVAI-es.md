@@ -16,6 +16,7 @@ comparePrice: 39.45 EUR
 prodname: 'Maclean - Mc-628 - Montaje Soporte para Monitor Pantalla LCD led TV  13"-27"  15kg  vesa 75 y 100 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00N2XNVAI/?tag=tolees-21'
 descuento: '43.22'
 average: '22.4'

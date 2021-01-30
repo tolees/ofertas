@@ -16,6 +16,7 @@ comparePrice: 16.35 EUR
 prodname: 'Ureadin Gel De Baño Hidratante Sin Jabón Para Piel Seca - 1000ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00J5G4SYY/?tag=tolees-21'
 descuento: '63.79'
 average: '13.239999999999998'

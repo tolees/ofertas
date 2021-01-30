@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'Preciva CT480300 Crimpadora Terminales Electricos  0.5-1.5 mm² de Trinquete Ajustable con 300 Terminal Para Conector de Cable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H4LCNKT/?tag=tolees-21'
 descuento: '29.04'
 average: '21.656666666666666'

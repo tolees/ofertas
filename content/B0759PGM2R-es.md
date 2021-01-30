@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Clarks Brixby Cove  Sandalia con Pulsera para Hombre  Marrón  Dark Brown Leather-   39.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0759PGM2R/?tag=tolees-21'
 descuento: '45.03'
 average: '43.95'

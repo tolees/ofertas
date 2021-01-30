@@ -16,6 +16,7 @@ comparePrice: 23.53 EUR
 prodname: 'Code: Realize Wintertide Miracles'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LD5M3QS/?tag=tolees-21'
 descuento: '30.09'
 average: '16.45'

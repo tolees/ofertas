@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'WERNNSAI Manta de Hito de la Jungla - 150 x 100 cm Franela Manta de Bebé Selva Mono Elefante Jirafa Manta de Cama Baby Shower Regalo de Cumpleaños Nacido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DR2PLGQ/?tag=tolees-21'
 descuento: '43.35'
 average: '16.99'

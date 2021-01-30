@@ -16,6 +16,7 @@ comparePrice: 229.99 EUR
 prodname: 'Trust Gaming GXT 707R Resto - Silla para Gaming  Color Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079FWGHXQ/?tag=tolees-21'
 descuento: '31.63'
 average: '157.25'

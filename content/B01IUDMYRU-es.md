@@ -16,6 +16,7 @@ comparePrice: 27.9 EUR
 prodname: 'Dakine Penelope Dinero Bolsa  Color Sand Dollar  tamaño Talla única  Volumen Liters 1.0'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IUDMYRU/?tag=tolees-21'
 descuento: '28.67'
 average: '19.9'

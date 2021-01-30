@@ -16,6 +16,7 @@ comparePrice: 219.0 EUR
 prodname: 'Diesel Pendiente DZ1864'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C895GLL/?tag=tolees-21'
 descuento: '58.12'
 average: '91.71'

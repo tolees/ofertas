@@ -16,6 +16,7 @@ comparePrice: 10.45 EUR
 prodname: 'AROMASENSES VELON 7 POTENCIAS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JY9DNJR/?tag=tolees-21'
 descuento: '37.80'
 average: '6.5'

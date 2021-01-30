@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Esprit 119EE2K006 suéter  Azul  Navy 400   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XVR2M75/?tag=tolees-21'
 descuento: '70.93'
 average: '22.730000000000004'

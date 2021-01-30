@@ -16,6 +16,7 @@ comparePrice: 44.9 EUR
 prodname: 'Tommy Hilfiger New Danny Belt Cinturón  Azul  NIGHT SKY 421   85 cm para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018LLP9O6/?tag=tolees-21'
 descuento: '37.66'
 average: '25.993333333333332'

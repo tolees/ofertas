@@ -16,6 +16,7 @@ comparePrice: 7.29 EUR
 prodname: 'Bruni Película Protectora Compatible con Huawei Watch GT 2 46 mm Protector Película  Claro Lámina Protectora  2X '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y8TNGBG/?tag=tolees-21'
 descuento: '49.38'
 average: '3.69'

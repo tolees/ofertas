@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'Columbia Meadows Omni  Botas para Mujer  Blanco Roto  Heat 3D-Sea Salt  Rosew   39 1/2 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KK41GPK/?tag=tolees-21'
 descuento: '58.00'
 average: '40.272499999999994'

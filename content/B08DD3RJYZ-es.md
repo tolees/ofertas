@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Bochee Juego de Sushi 14 Pcs  Kit para Hacer Sushi y Sushi Plato - Caja de Regalo  Tutoriales en Video y Ebook  2 Esterillas para Sushi  Sushi Maker  Palillos x 5  Bandeja para Sushi  Plato  Paleta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DD3RJYZ/?tag=tolees-21'
 descuento: '30.78'
 average: '17.99'

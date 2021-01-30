@@ -16,6 +16,7 @@ comparePrice: 5.2 EUR
 prodname: 'B Blesiya 1 x Unidad Flash USB 2.0 Panelado de Arce Memoria Extraíble Fácil de Leer Velocidad Máxima de Lectura - 256 MB Madera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H4P56MZ/?tag=tolees-21'
 descuento: '44.42'
 average: '2.89'

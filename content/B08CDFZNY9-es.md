@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Colmanda 4 Pcs Planos de Espuma + 4 Pcs Juguete de Paracaídas  Planeador de Espuma para niños Juguete Paracaídas Set Mano Lanzamiento Glider Aviones Juguete Volador para niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CDFZNY9/?tag=tolees-21'
 descuento: '37.52'
 average: '14.99'

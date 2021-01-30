@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'El Agente De  C.I.P.O.L. - Temporada 1  Parte 1 [DVD]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IYPUB70/?tag=tolees-21'
 descuento: '49.98'
 average: '15.0'

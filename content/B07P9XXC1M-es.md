@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'ENEGON Batería de Repuesto  Paquete de 2  y Kit de Cargador rápido para Nikon EN-EL15/EL15a/15b y Nikon Z6 Z7 D500 D7100 D750 D7000  D7200 D810 D610 D800 D600 D800e D810a D880'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P9XXC1M/?tag=tolees-21'
 descuento: '25.72'
 average: '25.49'

@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'H.Koenig V 85 Centro de Planchado  2400 W  Cerámica  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00FLTP5AK/?tag=tolees-21'
 descuento: '56.84'
 average: '59.99'

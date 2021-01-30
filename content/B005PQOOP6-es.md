@@ -16,6 +16,7 @@ comparePrice: 14.9 EUR
 prodname: 'Lékué Protection - Pinza para Cocina  Silicona  Color Rojo/Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005PQOOP6/?tag=tolees-21'
 descuento: '32.95'
 average: '9.99'

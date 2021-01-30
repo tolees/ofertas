@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'caseable - Funda para Kindle y Kindle Paperwhite  diseño "Ornate Elephant"'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PHEAIJC/?tag=tolees-21'
 descuento: '37.51'
 average: '24.99'

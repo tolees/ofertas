@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'SOONAN Herramientas de reparación de Correas Profesional Kit de reparación de Reloj  Herramienta de Banda de Reloj  Correa de Banda de vigilancia de Enlace del removedor de Herramientas Kit'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RRZSVLZ/?tag=tolees-21'
 descuento: '35.74'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 12.22 EUR
 prodname: 'Funko- Huckleberry-Pop 10 Collectible Toy  Multicolor  45542 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W45KX6X/?tag=tolees-21'
 descuento: '27.00'
 average: '8.92'

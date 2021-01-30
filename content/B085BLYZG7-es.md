@@ -16,6 +16,7 @@ comparePrice: 51.99 EUR
 prodname: 'YIMINYUER Juego de Alfombrillas de Espuma EVA para niños   12 Azulejos de Espuma  conectan Entre sí Blanco Amarillo marrón R01R05R06G301020'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085BLYZG7/?tag=tolees-21'
 descuento: '33.78'
 average: '34.43'

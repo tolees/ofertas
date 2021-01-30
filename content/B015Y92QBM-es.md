@@ -16,6 +16,7 @@ comparePrice: 4.95 EUR
 prodname: 'Rimmel London Magnifeyes Mono Sombra de Ojos Tono 005 Superstar Sparkle - 22 2 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015Y92QBM/?tag=tolees-21'
 descuento: '39.39'
 average: '2.3333333333333335'

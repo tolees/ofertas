@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Ultimate Ears Megaboom - Altavoz portátil  Bluetooth  360 grados  Resistente al agua  20 horas de batería  resistente a golpes   Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00QM4S0IC/?tag=tolees-21'
 descuento: '50.17'
 average: '153.0425'

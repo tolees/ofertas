@@ -16,6 +16,7 @@ comparePrice: 145.06 EUR
 prodname: 'Guess Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable W1145L3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F3FQ2FG/?tag=tolees-21'
 descuento: '35.90'
 average: '92.7125'

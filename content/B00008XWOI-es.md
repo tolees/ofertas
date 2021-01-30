@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'WMF Profi Sartén  Acero Inoxidable Pulido  28 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00008XWOI/?tag=tolees-21'
 descuento: '35.73'
 average: '49.22'

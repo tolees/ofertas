@@ -16,6 +16,7 @@ comparePrice: 115.43 EUR
 prodname: 'MAGEFESA Star Olla a presión rápida  fácil Uso  Acero Inoxidable 18/10  Apta para inducción. Fondo termodifusor  3 Sistemas de Seguridad  Recta  14L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00R2X2MZY/?tag=tolees-21'
 descuento: '31.56'
 average: '79.0'

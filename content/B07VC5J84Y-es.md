@@ -16,6 +16,7 @@ comparePrice: 4.86 EUR
 prodname: 'Panamami 2.5 a 3.5 Pulgadas Unidad de Disco Duro SSD HDD Unidad de Disco Duro Adaptador de riel Soporte Soporte con Tornillos Rojos - como Muestra la Imagen'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VC5J84Y/?tag=tolees-21'
 descuento: '34.98'
 average: '3.16'

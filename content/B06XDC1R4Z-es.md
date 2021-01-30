@@ -16,6 +16,7 @@ comparePrice: 221.99 EUR
 prodname: 'Epson WF4720 Impresora multifunción c11cf74402  Ya disponible en Amazon Dash Replenishment'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XDC1R4Z/?tag=tolees-21'
 descuento: '40.34'
 average: '129.89499999999998'

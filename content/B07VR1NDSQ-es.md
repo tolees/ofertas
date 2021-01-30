@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Olaplex No.7 Bond Smoother New 30 ml  90 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VR1NDSQ/?tag=tolees-21'
 descuento: '30.96'
 average: '17.95'

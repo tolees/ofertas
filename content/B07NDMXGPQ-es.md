@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-STAR RAW Lanc Slim Tapered Pantalones de Deporte  Negro  Dk Black B409/6484   44  Talla del Fabricante: Medium  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDMXGPQ/?tag=tolees-21'
 descuento: '51.40'
 average: '49.336666666666666'

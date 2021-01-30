@@ -16,6 +16,7 @@ comparePrice: 21.25 EUR
 prodname: 'Lullage acneXpert Gel Limpiador Purificante para la limpieza Facial de la piel grasa con imperfecciones o propensa al acné Sebo-Regulador | Purifica y Suaviza el Rostro de Manera Profunda  200 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IHZLXFU/?tag=tolees-21'
 descuento: '50.12'
 average: '10.6'

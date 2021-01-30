@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'WSTOO Máscara de Snorkel Máscara de Buceo Plegable 180 Vista panorámica para Adultos y niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QTHNN5T/?tag=tolees-21'
 descuento: '30.45'
 average: '15.99'

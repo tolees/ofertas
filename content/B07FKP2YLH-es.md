@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'The Gourmet Collection - Mezcla de especias - Sazonador de Hierbas para Pasta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FKP2YLH/?tag=tolees-21'
 descuento: '77.86'
 average: '1.99'

@@ -16,6 +16,7 @@ comparePrice: 20.9 EUR
 prodname: 'Eckonaver Funda de Silla de Oficina Modernas Estilo Simplista Cubiertas de la Silla de la computadora de Oficina Cubierta de la Silla Oficina removible  no Incluye Sillas   Azul  M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QTPYWRJ/?tag=tolees-21'
 descuento: '33.06'
 average: '13.99'

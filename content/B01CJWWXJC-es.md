@@ -16,6 +16,7 @@ comparePrice: 724.79 EUR
 prodname: 'Elinchrom EL20847.2 - Equipo Completo Flash Estudio D-Lite RX One/One Softbox  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CJWWXJC/?tag=tolees-21'
 descuento: '35.59'
 average: '466.87'

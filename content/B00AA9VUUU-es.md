@@ -16,6 +16,7 @@ comparePrice: 32.05 EUR
 prodname: 'Advance Sensitive Pienso para Gato Esterilizado Adulto con Salmón - 3000 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00AA9VUUU/?tag=tolees-21'
 descuento: '47.52'
 average: '14.787142857142857'

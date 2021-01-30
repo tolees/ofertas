@@ -16,6 +16,7 @@ comparePrice: 169.99 EUR
 prodname: 'SteelSeries Apex M750 - Teclado para Juegos mecánico - Iluminación RGP por tecla - Disposición QWERTZ alemán'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K3GKY16/?tag=tolees-21'
 descuento: '48.14'
 average: '88.15'

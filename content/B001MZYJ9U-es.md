@@ -16,6 +16,7 @@ comparePrice: 16.8 EUR
 prodname: 'Ferplast Siesta Deluxe 4 - Cama para Gatos y Perros  61 5 x 45 x 21 5 cm  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001MZYJ9U/?tag=tolees-21'
 descuento: '63.69'
 average: '6.1'

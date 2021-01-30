@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Meidong HE8C Cancelación de Ruido Activa intrauditivos con Bluetooth Auriculares Deportivos con Bajos Profundos/Estuche de Viaje Duro / 15 Horas Playtime【Mejorar】'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JVR53XT/?tag=tolees-21'
 descuento: '42.51'
 average: '72.99'

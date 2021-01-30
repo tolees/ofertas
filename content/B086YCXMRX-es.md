@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'HAOYE Funda para Xiaomi Mi 10 5G  Shockproof Carcasa con 360 Grados Giratorio Anillo Kickstand [Soporte de Coche Magnético Compatible]  Hard PC y Silicona TPU Tough Armor Case. Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086YCXMRX/?tag=tolees-21'
 descuento: '42.92'
 average: '3.99'

@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'New Balance Gw500v1  Zapatillas de Deporte para Mujer  Azul  Navy/Light Blue Pt   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01I9VUN0S/?tag=tolees-21'
 descuento: '49.28'
 average: '38.04'

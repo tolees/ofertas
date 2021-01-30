@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Ping Pop Pijamas para niños Necesito Espacio Ajuste Ceñido Multicolor 2-3 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JW7G6VB/?tag=tolees-21'
 descuento: '60.15'
 average: '7.95'

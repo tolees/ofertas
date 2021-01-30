@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Sesderma Repaskin Fotoprotector Solar- 50 ML'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NGK8VCA/?tag=tolees-21'
 descuento: '50.10'
 average: '12.45'

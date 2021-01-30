@@ -16,6 +16,7 @@ comparePrice: 5.5 EUR
 prodname: 'Rimmel London 1000 Kisses Lipliner Perfilador de Labios Tono 047 Cappuccino - 1 2 gr  0.04 oz'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003LPUWU4/?tag=tolees-21'
 descuento: '28.18'
 average: '1.9375'

@@ -16,6 +16,7 @@ comparePrice: 20.75 EUR
 prodname: 'Digimon Data Squad  Vol. 3 [Alemania] [DVD]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NN3BM9X/?tag=tolees-21'
 descuento: '33.88'
 average: '13.72'

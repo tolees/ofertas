@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Under Armour UA HG Armour Capri Leggings  Mujer  Rosa  Hushed Pink/Black/Metallic Silver 662   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RH37FWC/?tag=tolees-21'
 descuento: '51.28'
 average: '19.49'

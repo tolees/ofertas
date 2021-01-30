@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Lorus Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable RG229PX9'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NSJ85LN/?tag=tolees-21'
 descuento: '59.40'
 average: '23.884999999999998'

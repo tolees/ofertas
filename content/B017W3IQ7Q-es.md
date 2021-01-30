@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Trust Atlanta - Maletín para portátiles de hasta 17.3"  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017W3IQ7Q/?tag=tolees-21'
 descuento: '27.74'
 average: '11.039166666666665'

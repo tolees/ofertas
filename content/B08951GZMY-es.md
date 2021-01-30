@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Disco de Almacenamiento USB 2.0  Disco Flash  Disco U de Dibujos Animados con Tarjeta de Memoria  Mini Guitarra de Piano  Notas Musicales  Regalos  diversas personalidades  Disco U Creativo PVC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08951GZMY/?tag=tolees-21'
 descuento: '32.15'
 average: '18.99'

@@ -16,6 +16,7 @@ comparePrice: 128.98 EUR
 prodname: 'Bosch TDI903239A Sensixx x DI90 - Plancha de inyección  3200 W  200 g de supervapor  65 g/min  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IWLOUZ0/?tag=tolees-21'
 descuento: '34.11'
 average: '83.32333333333332'

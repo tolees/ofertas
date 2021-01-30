@@ -16,6 +16,7 @@ comparePrice: 22.05 EUR
 prodname: 'Joe s Super Sealant Antipinchazo Preventivo  Reparador  1000 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00G0MZIUE/?tag=tolees-21'
 descuento: '27.48'
 average: '15.99'

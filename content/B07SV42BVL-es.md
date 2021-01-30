@@ -16,6 +16,7 @@ comparePrice: 11.28 EUR
 prodname: 'Diyeeni Ratón para Juegos con Cable  Metal USB USB Computadora óptica Ratón para Computadora Portátil Ratones Ergonómicos 1200/1600 dpi Ajustable  Rueda de Cuatro Direcciones Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SV42BVL/?tag=tolees-21'
 descuento: '49.56'
 average: '5.69'

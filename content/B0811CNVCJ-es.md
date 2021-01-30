@@ -16,6 +16,7 @@ comparePrice: 114.29 EUR
 prodname: 'Sierra Sable Inalámbrica  Sierra de Sable HYCHIKA 18V  Sierra Alternativa de Batería  2 Baterías 2.0Ah  Velocidad Variable de 0-2800 RPM  4 Hojas de Sierra  Luz LED  Ideal para Cortar Madera y Metal'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0811CNVCJ/?tag=tolees-21'
 descuento: '30.01'
 average: '77.98833333333333'

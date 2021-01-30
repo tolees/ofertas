@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'Puma Phase Wallet Cartera  Puma Black  OSFA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D5NF3WS/?tag=tolees-21'
 descuento: '25.03'
 average: '5.96'

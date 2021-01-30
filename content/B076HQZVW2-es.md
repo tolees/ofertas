@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Adidas CORE18 SW PNT Pantalones de Deporte  Hombre  Negro  Negro/Blanco   XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076HQZVW2/?tag=tolees-21'
 descuento: '37.55'
 average: '24.95'

@@ -16,6 +16,7 @@ comparePrice: 29.94 EUR
 prodname: 'NIVEA Bajo la Ducha Body Milk Nutritivo en pack de 6  6 x 400 ml   leche hidratante para la ducha  acondicionador de piel con aceite de almendras para piel seca'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GSBVJ24/?tag=tolees-21'
 descuento: '31.10'
 average: '17.085'

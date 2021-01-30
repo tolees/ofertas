@@ -16,6 +16,7 @@ comparePrice: 89.98 EUR
 prodname: 'TOUCHBeauty - Cepillo limpiador cara y Calentador sónico recargable impermeable al agua para limpiar los poros en profundidad y exfoliación dulce ag-1788 gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZFY6XM/?tag=tolees-21'
 descuento: '66.68'
 average: '29.98'

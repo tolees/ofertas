@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Under Armour Pre School Assert 8 Ufm Syn Ac Zapatillas de Running Unisex Niños  Negro  Black/Black/Black  001  001   18 EU  2 UK '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2LN8HQ/?tag=tolees-21'
 descuento: '80.56'
 average: '9.72'

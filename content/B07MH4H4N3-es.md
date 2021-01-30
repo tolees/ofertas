@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'UniqueMe [3 Pack] Protector de Pantalla para Huawei Honor 8A  [ 9H Dureza ] Vidrio Templado Libre con garantía de reemplazo de por Vida'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MH4H4N3/?tag=tolees-21'
 descuento: '90.52'
 average: '1.99'

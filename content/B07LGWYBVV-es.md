@@ -16,6 +16,7 @@ comparePrice: 121.9 EUR
 prodname: 'Antena TV Interior DVB-T  Mayor Rango de Recepción de 120 Millas  Digital HDTV Antena con Amplificador 4 Metros de Cables de Alto Rendimiento'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LGWYBVV/?tag=tolees-21'
 descuento: '82.03'
 average: '21.9'

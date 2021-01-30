@@ -16,6 +16,7 @@ comparePrice: 14.82 EUR
 prodname: '100 Ml Original Mujer Elegante Perfume Señora Perfume Natural De Larga Duración Fruta Fragancia De Flores Eternidad Euforia Cumpleaños Regalos De Vacaciones'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082CCGPD1/?tag=tolees-21'
 descuento: '37.31'
 average: '9.29'

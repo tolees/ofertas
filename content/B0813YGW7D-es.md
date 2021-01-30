@@ -16,6 +16,7 @@ comparePrice: 54.92 EUR
 prodname: 'adidas Duramo Lite 2.0  Zapatillas para Correr para Hombre  Tech Indigo/Matte Silver/Legend Ink  42 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0813YGW7D/?tag=tolees-21'
 descuento: '29.01'
 average: '32.76777777777777'

@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'ESI PROPOLAID PROPOLGOLA Spray 20ml voz de la garganta propóleos erisimo miel por manuka'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01B96JFYA/?tag=tolees-21'
 descuento: '30.74'
 average: '9.0'

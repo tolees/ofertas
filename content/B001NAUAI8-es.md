@@ -16,6 +16,7 @@ comparePrice: 98.93 EUR
 prodname: 'K&N HD-0900 Filtro de Aire para Harley Davidson Sportster Screamin  Eagle Element 88-12 Moto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001NAUAI8/?tag=tolees-21'
 descuento: '44.94'
 average: '54.47'

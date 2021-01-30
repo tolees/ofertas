@@ -16,6 +16,7 @@ comparePrice: 11.6 EUR
 prodname: 'Agger Transparente bebé de Silicona Mam Anillo Chupete Chupete Chupete Holder Clips 10PCS del Clip del sostenedor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086QH79FW/?tag=tolees-21'
 descuento: '58.71'
 average: '4.79'

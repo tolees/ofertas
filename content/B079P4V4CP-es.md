@@ -16,6 +16,7 @@ comparePrice: 146.57 EUR
 prodname: 'Zyxel N300 LTE 4G Router Wi-Fi de banda dual con ranura desbloqueada para SIM [LTE3301]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079P4V4CP/?tag=tolees-21'
 descuento: '37.57'
 average: '91.5'

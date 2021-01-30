@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'UniqueMe Funda para Nokia 9  Ultra [Slim Thin] TPU Funda Protectora TPU de Silicona Suave - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KPXV5CR/?tag=tolees-21'
 descuento: '85.78'
 average: '1.99'

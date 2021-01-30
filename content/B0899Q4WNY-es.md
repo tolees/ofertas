@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'Tira LED Bluetooth 10M  VITCOCO Luces de Tiras LED WiFi RGB 5050 12V 5A con 300 LEDs  Ser Controlado Por APP  Sincronizado Con el Ritmo de la Música  Mando a distancia de 24 teclas para decoración'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0899Q4WNY/?tag=tolees-21'
 descuento: '27.03'
 average: '26.99'

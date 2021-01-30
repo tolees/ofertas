@@ -16,6 +16,7 @@ comparePrice: 312.99 EUR
 prodname: 'Philips Sonicare DiamondClean HX9394/92 - Pack 2 Cepillos de Dientes Electricos Recargables  5 Modos  4 Cabezales  Plataforma de Carga QI  Estuche de Viaje de Piel  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N5SWFZ6/?tag=tolees-21'
 descuento: '30.28'
 average: '218.21'

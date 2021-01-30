@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Fossil Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable ES3020'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007NM84PQ/?tag=tolees-21'
 descuento: '30.27'
 average: '89.95'

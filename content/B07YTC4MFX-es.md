@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Cine Quinqui [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YTC4MFX/?tag=tolees-21'
 descuento: '40.02'
 average: '14.656666666666666'

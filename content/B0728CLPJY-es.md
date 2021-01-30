@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'BB-9E App-Enabled Droid con Droid Trainer de Sphero'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0728CLPJY/?tag=tolees-21'
 descuento: '50.01'
 average: '74.98'

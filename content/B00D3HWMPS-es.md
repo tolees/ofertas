@@ -16,6 +16,7 @@ comparePrice: 22.21 EUR
 prodname: 'VICHY IDEAL SOLEIL Leche Protectora Niños spf 50 300 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00D3HWMPS/?tag=tolees-21'
 descuento: '59.52'
 average: '11.9825'

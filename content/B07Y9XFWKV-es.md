@@ -16,6 +16,7 @@ comparePrice: 161.0 EUR
 prodname: 'Eva López Botín Piel Cowboy Negro Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y9XFWKV/?tag=tolees-21'
 descuento: '56.53'
 average: '69.99'

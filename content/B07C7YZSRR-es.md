@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Ariete 4615 - Mini freidora saludable Airy  sin aceite  temporizador  amarillo y blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C7YZSRR/?tag=tolees-21'
 descuento: '44.06'
 average: '39.1'

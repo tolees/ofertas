@@ -16,6 +16,7 @@ comparePrice: 13.97 EUR
 prodname: 'Rankie Cable Mini DisplayPort  Thunderbolt Port Compatible  a HDMI  4K  3 m  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HXNCN0Q/?tag=tolees-21'
 descuento: '27.06'
 average: '11.709999999999999'

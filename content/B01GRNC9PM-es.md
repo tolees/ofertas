@@ -16,6 +16,7 @@ comparePrice: 369.05 EUR
 prodname: 'MOMO Design Reloj Informal MD6002SS-12'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GRNC9PM/?tag=tolees-21'
 descuento: '80.35'
 average: '72.5'

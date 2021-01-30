@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Supertrip Bombas de baño  9PCS Set de regalo de bolas de baño hecho de aceites esenciales orgánicos naturales Regalos de San Valentín/Navidad/Cumpleaños para novias  madres  esposas  niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LWWMCDI/?tag=tolees-21'
 descuento: '30.78'
 average: '17.99'

@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Lee Luke Jeans  True Authentic Gcby  29W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06ZZPP4XB/?tag=tolees-21'
 descuento: '57.49'
 average: '40.519999999999996'

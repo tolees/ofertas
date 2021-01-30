@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Panama Jack Capri Cork  Sandalia con Pulsera para Mujer  Rojo  Rojo B1   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076JB23HN/?tag=tolees-21'
 descuento: '59.72'
 average: '39.88'

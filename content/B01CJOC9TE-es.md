@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'JewelryWe Reloj de Parejas los Enamorados Retro Reloj de Cuarzo con Calendario Tres Ojos de decoración Correa de Cuero marrón Elegante Regalo de San Valentín'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CJOC9TE/?tag=tolees-21'
 descuento: '59.98'
 average: '23.99'

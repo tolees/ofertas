@@ -16,6 +16,7 @@ comparePrice: 16.7 EUR
 prodname: 'Omino Bianco Producto para el Lavado a Mano y de Prendas Delicadas  Marsella - 2000 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KBKCBT4/?tag=tolees-21'
 descuento: '46.11'
 average: '9.5475'

@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Skip Active Clean Detergente Cápsulas para Lavadora - 28 lavados'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K1XZYZ6/?tag=tolees-21'
 descuento: '54.32'
 average: '3.63'

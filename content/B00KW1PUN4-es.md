@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'CSL - Ventilador USB - Ventilador de Mesa - Ventilador - PC - Portátil - En Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KW1PUN4/?tag=tolees-21'
 descuento: '25.02'
 average: '8.99'

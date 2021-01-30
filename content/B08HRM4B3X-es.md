@@ -16,6 +16,7 @@ comparePrice: 13.0 EUR
 prodname: 'Lepeuxi Detector de pulso Pulso de la yema del dedo Monitor de operación conveniente de baja potencia Medidor de frecuencia de pulso para viajes deportivos en casa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08HRM4B3X/?tag=tolees-21'
 descuento: '51.38'
 average: '11.33'

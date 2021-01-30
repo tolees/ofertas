@@ -16,6 +16,7 @@ comparePrice: 3.19 EUR
 prodname: 'LaCasa - Turron Praline De Trufa  225 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IT44LIA/?tag=tolees-21'
 descuento: '37.30'
 average: '2.0'

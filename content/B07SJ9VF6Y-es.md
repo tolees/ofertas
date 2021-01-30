@@ -16,6 +16,7 @@ comparePrice: 34.39 EUR
 prodname: 'Lebze Muselina Manta Bebé | Mantas de Muselina de Bambú Algodón | 120x120 cm Pack de 2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SJ9VF6Y/?tag=tolees-21'
 descuento: '30.50'
 average: '23.9'

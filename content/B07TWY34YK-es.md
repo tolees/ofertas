@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Delson 2.0 Kemper  Zapatillas para Hombre  Verde  Khaki Canvas Khk   39.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TWY34YK/?tag=tolees-21'
 descuento: '52.30'
 average: '32.99333333333333'

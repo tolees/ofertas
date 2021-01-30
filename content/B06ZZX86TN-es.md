@@ -16,6 +16,7 @@ comparePrice: 199 EUR
 prodname: 'Samsung S27E330H  Monitor para Gaming de 27"  LCD  Full HD  tiempo de respuesta 1 ms  consumo máximo 35 W   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06ZZX86TN/?tag=tolees-21'
 descuento: '28.57'
 average: '142.20333333333335'

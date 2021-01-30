@@ -16,6 +16,7 @@ comparePrice: 129.9 EUR
 prodname: 'prorelax TENS y EMS SuperDuo PLUS - Aparato de estimulación eléctrica'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FD2YQ40/?tag=tolees-21'
 descuento: '36.34'
 average: '82.69'

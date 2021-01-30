@@ -16,6 +16,7 @@ comparePrice: 15.79 EUR
 prodname: 'Interruptor de límite micro  10pcs Interruptor de límite momentáneo micro Acción rápida 250VAC 15A y 250VDC 0.3A y 125V 0.6A BM-15-1C25 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P56HSWX/?tag=tolees-21'
 descuento: '62.06'
 average: '5.99'

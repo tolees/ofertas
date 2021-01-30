@@ -16,6 +16,7 @@ comparePrice: 206.9 EUR
 prodname: 'Crucial Ballistix BL2K16G36C16U4R 3600 MHz  DDR4  DRAM  Memoria Gamer para Ordenadores de sobremesa  32GB  16GB x2   CL16  Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083TRXZ9N/?tag=tolees-21'
 descuento: '25.73'
 average: '153.66'

@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Tommy Hilfiger Core Corporate Leather Sneaker  Zapatillas para Hombre  Azul  Desert Sky Dw5   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V4N5M1K/?tag=tolees-21'
 descuento: '37.30'
 average: '32.4'

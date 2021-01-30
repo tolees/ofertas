@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'Maleta de cabina Mickey Colored rígida 55cm blanca'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JBJF87F/?tag=tolees-21'
 descuento: '44.35'
 average: '64.0'

@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Audio-Technica ATH-SR50BT - Auriculares de diadema inalámbricos  color gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MFMGX19/?tag=tolees-21'
 descuento: '34.68'
 average: '135.07666666666668'

@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'BSDY YQWRFEWYT Repuesto para Cecotec Conga Excellence 990 Robot Aspirador Kit de accesorios Paquete de 1 cepillo principal  8 filtros Hepa  8 cepillos laterales  2 trapos de limpieza'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T136WCN/?tag=tolees-21'
 descuento: '31.05'
 average: '19.99'

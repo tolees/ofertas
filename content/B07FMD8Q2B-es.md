@@ -16,6 +16,7 @@ comparePrice: 4.68 EUR
 prodname: 'IPOTCH Cables de Gestión Clips de Almacenamiento de Cables  4 Orificios  5 Colores Opcionales - marrón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FMD8Q2B/?tag=tolees-21'
 descuento: '33.33'
 average: '3.075'

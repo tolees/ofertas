@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Superdry Retro Sport Hood Capucha  Gris  Grey Marl 07q   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P16DT1T/?tag=tolees-21'
 descuento: '61.26'
 average: '30.99'

@@ -16,6 +16,7 @@ comparePrice: 150.79 EUR
 prodname: 'Habitdesign - Estantería librería  estanteria despacho  Comedor o Salon  Medidas: 192x96x25 cm de Fondo  Roble Canadian - '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0781VKCPX/?tag=tolees-21'
 descuento: '29.71'
 average: '105.99'

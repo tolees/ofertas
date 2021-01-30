@@ -16,6 +16,7 @@ comparePrice: 20.26 EUR
 prodname: 'Funrise Collectible Character Set Figuras Wonder Park 10 cm Pack 5 unds  Multicolor  tamaño único  31034 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K782NVX/?tag=tolees-21'
 descuento: '60.56'
 average: '7.99'

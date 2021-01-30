@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Kipling - City Pack Mini  Mochilas Mujer  Azul  Active Denim '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DKHBJZF/?tag=tolees-21'
 descuento: '30.00'
 average: '59.5'

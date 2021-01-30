@@ -16,6 +16,7 @@ comparePrice: 149.95 EUR
 prodname: 'Salomon Speedcross 4 GTX  Zapatillas de Trail Running para Hombre  Negro  Black/Black/Silver Metallic-X   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017SR02GO/?tag=tolees-21'
 descuento: '34.65'
 average: '87.0775'

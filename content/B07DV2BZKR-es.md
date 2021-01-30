@@ -16,6 +16,7 @@ comparePrice: 36.0 EUR
 prodname: 'SYROKAN - Sujetador Deportivo de Alto Impacto con Aros y Fina Espuma para Mujer Blanco ES:105C  EU 90C '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DV2BZKR/?tag=tolees-21'
 descuento: '33.33'
 average: '24.0'

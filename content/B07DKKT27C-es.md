@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Kipling - Silen  Bolsos bandolera Mujer  Gris  Active Grey Bl '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DKKT27C/?tag=tolees-21'
 descuento: '40.00'
 average: '51.0'

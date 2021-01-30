@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Adidas Hoops 2.0 CMF C  Zapatillas de Baloncesto Unisex niño  Multicolor  Azuosc/Azul/Gritre 000   30 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TBJ57TC/?tag=tolees-21'
 descuento: '65.92'
 average: '11.91'

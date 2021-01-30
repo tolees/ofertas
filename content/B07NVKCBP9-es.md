@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Zer one Ventilador de refrigeración de la CPU  portátil de bajo Ruido Ventilador de la CPU Disipación rápida del Calor Laptop Ventilador de refrigeración de la CPU para portátil HP EliteBook'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NVKCBP9/?tag=tolees-21'
 descuento: '43.37'
 average: '6.890000000000001'

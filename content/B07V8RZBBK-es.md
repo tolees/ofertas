@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'ZIGJOY Strangers TV Unisex Students School Bookbags para Niños RF16S01'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V8RZBBK/?tag=tolees-21'
 descuento: '48.29'
 average: '14.99'

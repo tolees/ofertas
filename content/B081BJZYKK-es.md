@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Jvchengxi Funda Protectora para Huawei Watch GT 2 46mm  Cubierta Protectora de Marco Resistente a los rasguños TPU Protector de Pantalla de Cobertura Total para Huawei Watch GT 2 46mm  Claro/Claro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081BJZYKK/?tag=tolees-21'
 descuento: '43.84'
 average: '8.98'

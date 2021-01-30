@@ -16,6 +16,7 @@ comparePrice: 13.5 EUR
 prodname: 'Max Factor LipFinity Velvet Matte Pintalabios Tono 055 Oran glow'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GS8LZ1V/?tag=tolees-21'
 descuento: '36.00'
 average: '8.64'

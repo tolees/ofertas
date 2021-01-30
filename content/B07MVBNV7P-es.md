@@ -16,6 +16,7 @@ comparePrice: 59 EUR
 prodname: 'Napapijri Eisberg SS Polo  Azul  Clematis Blue VB1   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVBNV7P/?tag=tolees-21'
 descuento: '50.00'
 average: '29.5'

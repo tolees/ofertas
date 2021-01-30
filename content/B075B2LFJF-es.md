@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Altavoz Bluetooth10W Altavoz de Bicicleta Bluetooth 5.0  Impermerable 24H de Reproducción Altavoz Portátil Exterior con Micrófono  AUX/TF Luz de Flash LED 4000mAh Power Bank'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075B2LFJF/?tag=tolees-21'
 descuento: '30.01'
 average: '34.99'

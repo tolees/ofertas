@@ -16,6 +16,7 @@ comparePrice: 44.86 EUR
 prodname: 'NEWHEY Bolsa Deporte Bolsa Gimnasio de Viaje Impermeable Bolsos Deportivos Fin de Semana Travel Duffle Bag para Hombre y Mujer Negro  Gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F29WKRN/?tag=tolees-21'
 descuento: '33.44'
 average: '30.637777777777778'

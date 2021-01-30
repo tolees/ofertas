@@ -16,6 +16,7 @@ comparePrice: 22.12 EUR
 prodname: 'Aokey - Repelente ultrasónico de plagas  repelente de insectos  control de plagas ultrasónico  control de plagas electrónico  apto para varios insectos  negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087R2MCYW/?tag=tolees-21'
 descuento: '43.58'
 average: '12.48'

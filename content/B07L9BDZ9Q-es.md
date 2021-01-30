@@ -16,6 +16,7 @@ comparePrice: 117.6 EUR
 prodname: 'Nike Renew Rival 2  Zapatillas de Running para Hombre  Negro  Black/White/Anthracite 002   44 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9BDZ9Q/?tag=tolees-21'
 descuento: '49.83'
 average: '54.10666666666666'

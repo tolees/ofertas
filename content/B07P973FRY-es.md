@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'World Rally Championship 8  WRC 8   Versión española'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P973FRY/?tag=tolees-21'
 descuento: '25.15'
 average: '46.845'

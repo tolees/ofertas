@@ -16,6 +16,7 @@ comparePrice: 25.88 EUR
 prodname: 'Zapatillas Casa Hombre Forro de Felpa Más Grueso Zapatillas de casa de Hombre Antideslizante de Interior y Exterior Pantuflas Cálido y Confortable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YHQZ827/?tag=tolees-21'
 descuento: '34.78'
 average: '16.88'

@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'Anita Active Momentum - Sujetador deportivo para mujer  Negro  Schwarz 001   95F EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0039NZTII/?tag=tolees-21'
 descuento: '30.03'
 average: '31.45'

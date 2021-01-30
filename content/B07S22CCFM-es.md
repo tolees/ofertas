@@ -16,6 +16,7 @@ comparePrice: 224.1 EUR
 prodname: 'Love MoschinoJc4004pp1aMujerBolsos mochilaNegro  Negro 14x29x37 centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S22CCFM/?tag=tolees-21'
 descuento: '61.33'
 average: '106.91333333333334'

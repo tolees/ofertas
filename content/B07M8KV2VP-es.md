@@ -16,6 +16,7 @@ comparePrice: 90.33 EUR
 prodname: 'Salewa WS Speed Beat GTX  Zapatillas de Running para Asfalto para Mujer  Azul  Patriot Blue/Fluor Coral 8638   36.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M8KV2VP/?tag=tolees-21'
 descuento: '67.39'
 average: '29.46'

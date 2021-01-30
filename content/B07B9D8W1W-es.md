@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Easton Marlowe 6 PR Calcetines Sutilmente Estampados Hombre - 6pk #4-2  Negro - 43-46 talla de calzado UE'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B9D8W1W/?tag=tolees-21'
 descuento: '36.68'
 average: '18.99'

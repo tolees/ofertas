@@ -16,6 +16,7 @@ comparePrice: 19.35 EUR
 prodname: 'StarTech.com USB3S2SAT3CB - Adaptador USB 3.0-2.5" SATA III  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HJZJI84/?tag=tolees-21'
 descuento: '47.70'
 average: '10.553999999999998'

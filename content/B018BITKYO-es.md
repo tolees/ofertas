@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'COMPRESSPORT Ultralight Visera  Unisex  Blanco  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018BITKYO/?tag=tolees-21'
 descuento: '54.19'
 average: '12.48'

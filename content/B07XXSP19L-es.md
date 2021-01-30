@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'FitBeast Kit de Entrenamiento para Ejercitar el Agarre – Paquete de 5 Piezas  Pinzas para Manos Ajustables  Ejercicio para Dedos  para Estirar los Dedos  Anillo para Entrenar y Pelota Anti Estrés'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XXSP19L/?tag=tolees-21'
 descuento: '60.02'
 average: '17.323333333333334'

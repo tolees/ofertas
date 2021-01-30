@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Columbia IVO Trail Breeze  Zapatillas Deportivas para Hombre  Azul  Carbon  Rust Red 469   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RLYT7VG/?tag=tolees-21'
 descuento: '37.50'
 average: '63.24'

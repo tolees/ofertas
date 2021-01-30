@@ -16,6 +16,7 @@ comparePrice: 11.89 EUR
 prodname: 'Tamaño 3 puertos HDMI Adaptador divisor Cable HDMI Interruptor 4K * 2K 1080P Switcher 3 en 1 puerto de salida para HDTV - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V7V7HD3/?tag=tolees-21'
 descuento: '34.99'
 average: '7.73'

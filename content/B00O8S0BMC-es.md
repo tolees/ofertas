@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Intex 28501 - Almohada hinchable para Spa  color Beige  39 x 30 x 23 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00O8S0BMC/?tag=tolees-21'
 descuento: '26.63'
 average: '4.458333333333334'

@@ -16,6 +16,7 @@ comparePrice: 8.76 EUR
 prodname: 'Amazon Essentials 4-Pack Seamless Bonded Stretch Thong Panty Novelty Underwear  Color Piel  Nude   US XL  EU 2XL '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HZ92CRD/?tag=tolees-21'
 descuento: '57.53'
 average: '3.72'

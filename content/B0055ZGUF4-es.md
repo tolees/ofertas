@@ -16,6 +16,7 @@ comparePrice: 11.9 EUR
 prodname: 'Jata 610 - Báscula de cocina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0055ZGUF4/?tag=tolees-21'
 descuento: '45.46'
 average: '6.49'

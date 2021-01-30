@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'Lactacyd Gel de Higiene Íntima Diario  Ph Equilibrado  sin Jabón  400 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BN7XGBO/?tag=tolees-21'
 descuento: '32.43'
 average: '8.661'

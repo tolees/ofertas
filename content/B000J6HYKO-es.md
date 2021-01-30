@@ -16,6 +16,7 @@ comparePrice: 185.9 EUR
 prodname: 'HP 51A - Cartucho de tóner original LaserJet para HP Laserjet series P3005  M3027mfp y M3035mfp  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000J6HYKO/?tag=tolees-21'
 descuento: '89.57'
 average: '19.39'

@@ -16,6 +16,7 @@ comparePrice: 5.77 EUR
 prodname: 'Garnier Niños Sensitive Advanced - Protector Solar para Pieles Claras  Sensibles e Intolerantes al Sol  IP50+  - 50 ml  Formato Viaje '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006TD3M7U/?tag=tolees-21'
 descuento: '43.67'
 average: '3.8333333333333335'

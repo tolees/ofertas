@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'edc by Esprit 079cc1i006 suéter  Marrón  Taupe 5 244   Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S3HSBKM/?tag=tolees-21'
 descuento: '55.85'
 average: '15.89'

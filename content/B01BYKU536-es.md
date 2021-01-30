@@ -16,6 +16,7 @@ comparePrice: 14.85 EUR
 prodname: 'Got2b - Espuma Twisted Rizos Perfectos - 3 unidades de 250ml - Schwarzkopf'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BYKU536/?tag=tolees-21'
 descuento: '53.20'
 average: '9.09'

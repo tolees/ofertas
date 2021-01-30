@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Flamingueo Zapatillas Casa - Zapatillas de Casa para Mujer  Pantuflas Mujer con Forma de Conejo  Zapatillas Acolchadas con Pelo  Zapatillas de Animales  Regalos Originales para Mujer  Rosa  36/38 EU '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082PZ6Q9X/?tag=tolees-21'
 descuento: '55.59'
 average: '7.99'

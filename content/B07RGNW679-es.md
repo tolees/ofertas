@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'New Balance Draft  Zapatillas de Running para Hombre  Gris  Grey Lg1   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RGNW679/?tag=tolees-21'
 descuento: '42.97'
 average: '34.22'

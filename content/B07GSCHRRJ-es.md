@@ -16,6 +16,7 @@ comparePrice: 12.0 EUR
 prodname: 'Max Factor LipFinity Classic Pintalabios Tono 210 Endlessly Mesmerising'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GSCHRRJ/?tag=tolees-21'
 descuento: '54.58'
 average: '5.654'

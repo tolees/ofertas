@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Skechers OG 85-Old School Cool 699  Zapatillas Altas para Mujer  Blanco  White Wht   35.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076TDRLR4/?tag=tolees-21'
 descuento: '30.03'
 average: '27.531428571428574'

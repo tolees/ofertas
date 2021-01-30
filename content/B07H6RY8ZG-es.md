@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Auriculares para Dormir  Lauva Suaves y Cómodos Auriculares para Dormir Tapones para Los oídos Auriculares con Micrófono para el Insomnio  De Lado  Durmiente Ligero  Ronquidos  Viajes  Meditación'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H6RY8ZG/?tag=tolees-21'
 descuento: '42.32'
 average: '14.99'

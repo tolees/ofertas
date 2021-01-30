@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Helly Hansen Duffel 2 Bolsa De Viaje Deporte  Unisex Adulto  Blue Tint  30L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LBNZD1B/?tag=tolees-21'
 descuento: '26.41'
 average: '58.87'

@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'Merrell Trail Glove 5  Zapatillas Deportivas para Interior para Hombre  Gris  Castlerock   49 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KM3DC1N/?tag=tolees-21'
 descuento: '30.01'
 average: '83.95'

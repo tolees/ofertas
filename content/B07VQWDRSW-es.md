@@ -16,6 +16,7 @@ comparePrice: 40.35 EUR
 prodname: 'Calvin Klein Brazilian Braguita brasileña  Azul  Surf The Web CKB    Talla del Fabricante: Medium  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VQWDRSW/?tag=tolees-21'
 descuento: '39.03'
 average: '24.6'

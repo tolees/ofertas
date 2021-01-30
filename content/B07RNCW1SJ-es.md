@@ -16,6 +16,7 @@ comparePrice: 64.14 EUR
 prodname: 'Habitación infantil Lámpara de pared Dormitorio nórdico Lámpara de pared Creativo Simple de dibujos animados Lectura linda Lámpara de cabecera  Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RNCW1SJ/?tag=tolees-21'
 descuento: '54.97'
 average: '28.88'

@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Philips myLiving Hailton - Lámpara colgante  iluminación interior  LED  8 W  color bronce'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XJIXT5S/?tag=tolees-21'
 descuento: '44.32'
 average: '43.99'

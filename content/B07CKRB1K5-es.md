@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'GearGo Purificador de Aire con Filtro Hepa  Purificador de Aire para Hogar Diseño Desmontable Multifunción como Difusor de Aceites Esenciales  Eliminador para PM2.5  Alergias  Bacterias  Malos olores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CKRB1K5/?tag=tolees-21'
 descuento: '58.89'
 average: '32.38'

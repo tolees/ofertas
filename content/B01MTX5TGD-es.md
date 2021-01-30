@@ -16,6 +16,7 @@ comparePrice: 14.8 EUR
 prodname: 'Dispensador de jabón Kapitan de repuesto con rosca de 28 mm en acero inoxidable con acabado de alta calidad  2 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MTX5TGD/?tag=tolees-21'
 descuento: '32.50'
 average: '9.99'

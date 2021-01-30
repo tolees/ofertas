@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Women s Flex Appeal 3.0-INSIDERS Trainers  Black  Black & Gray Mesh/Black Trim BKHP   3.5 UK 36.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZ8QBHS/?tag=tolees-21'
 descuento: '50.19'
 average: '32.35'

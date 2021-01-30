@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Radio Meteorológica de 5 Vías para Emergencias Domésticas al Aire Libre  Radio Portátil NOAA/Am/FM/SW y Alarma SOS  Energía Solar  Manivela de Dinamo Manual  Linterna  Lámpara de Campamento  Brújula'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085G5JKN7/?tag=tolees-21'
 descuento: '50.01'
 average: '49.99'

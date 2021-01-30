@@ -16,6 +16,7 @@ comparePrice: 117.61 EUR
 prodname: 'Pendientes de tuerca de bola de oro amarillo de 14 quilates con rosca azul turquesa de 3 mm a 8 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0833CLWP9/?tag=tolees-21'
 descuento: '60.79'
 average: '46.12'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Hatteker Barbero Electrico Cortapelos Profesional Hombre Cortador Pelo Cortadora de Pelo Recargable Máquina de Afeitar Recortadora Barba y Precisión Impermeable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0867WPLKD/?tag=tolees-21'
 descuento: '36.26'
 average: '33.74166666666666'

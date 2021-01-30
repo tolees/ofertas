@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Charles Wilson Paquete 5 Camisetas Cuello Redondo Lisas  Medium  Purple Type 19 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S94JVWJ/?tag=tolees-21'
 descuento: '50.08'
 average: '14.95'

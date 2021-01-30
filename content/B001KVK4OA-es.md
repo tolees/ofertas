@@ -16,6 +16,7 @@ comparePrice: 13.84 EUR
 prodname: 'Bolsas de esterilización reutilizables Quick Clean  Medela'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001KVK4OA/?tag=tolees-21'
 descuento: '31.36'
 average: '9.807142857142857'

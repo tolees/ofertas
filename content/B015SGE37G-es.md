@@ -16,6 +16,7 @@ comparePrice: 23.9 EUR
 prodname: 'Havaianas Brasil Logo Zehentrenner Unisex-Erwachsene  Multicolor  Red   39/40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015SGE37G/?tag=tolees-21'
 descuento: '31.00'
 average: '15.445'

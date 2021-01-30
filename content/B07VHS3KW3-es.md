@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Calvin Klein Exposed Waistband Milano Pant Pantalones  Negro  CK Black Bae   W36  Talla del Fabricante: X-Large  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VHS3KW3/?tag=tolees-21'
 descuento: '67.03'
 average: '29.34'

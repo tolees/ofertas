@@ -16,6 +16,7 @@ comparePrice: 63.34 EUR
 prodname: 'kesoto M10 Timbres Inalambricos para Exterior  Conectar WiFi de Casa y Lograr Intercomunicador Bidireccional Entre Timbre y Teléfono Celular - Plata  Con Jingle Machine'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084T76ZBW/?tag=tolees-21'
 descuento: '44.44'
 average: '35.19'

@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'PCTEB Rosas 24K Rosa de la Galaxia  Rosas Artificiales Luminosas Son Regalos para la Novia y la Esposa  Día de San Valentín  Día de la Madre  Aniversario  Cumpleaños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0899MWX4W/?tag=tolees-21'
 descuento: '40.05'
 average: '11.99'

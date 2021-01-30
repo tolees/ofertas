@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Adidas Predator 19.3 AG J - Botas de fútbol Unisex Niños  Azufue/Plamet/Rojact  36 2/3 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZZQXFJ/?tag=tolees-21'
 descuento: '44.91'
 average: '33.37'

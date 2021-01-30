@@ -16,6 +16,7 @@ comparePrice: 31.95 EUR
 prodname: 'Calcetines de Compresión de Algodón Orgánico Pack de 1  Púrpura/Naranja  EU 35-38 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0756FGW5S/?tag=tolees-21'
 descuento: '53.21'
 average: '14.95'

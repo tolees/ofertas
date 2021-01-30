@@ -16,6 +16,7 @@ comparePrice: 1609.0 EUR
 prodname: 'Samsung Galaxy S10+ - Smartphone de 6.4" QHD+ Curved Dynamic AMOLED  16 MP  Exynos 9820  Wireless & Fast & Reverse Charging  1 TB  Blanco Ceramica  Ceramic White '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDDDDQQ/?tag=tolees-21'
 descuento: '44.13'
 average: '913.6542857142856'

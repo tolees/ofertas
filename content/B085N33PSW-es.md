@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'RHSMY 9 Pcs 3D Máscara de Esponja Estéreo Cómodo Respirable Unisexo a Prueba de Polvo Mascaras Lavable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085N33PSW/?tag=tolees-21'
 descuento: '56.59'
 average: '7.145'

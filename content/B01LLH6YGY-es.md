@@ -16,6 +16,7 @@ comparePrice: 61.59 EUR
 prodname: 'Monix Mineral - Cacerola alta 24 cm aluminio forjado con antiadherente  tipo piedra  sin PFOA  aptas inducción'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LLH6YGY/?tag=tolees-21'
 descuento: '48.06'
 average: '31.99'

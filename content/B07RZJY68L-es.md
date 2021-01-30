@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'New Balance 500  Zapatillas para Mujer  Azul  Blue Hhf   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RZJY68L/?tag=tolees-21'
 descuento: '66.53'
 average: '25.1'

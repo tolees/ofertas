@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Levi s Tijuana  Zapatillas para Mujer  Negro  R Black 59   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SFJBBYT/?tag=tolees-21'
 descuento: '43.29'
 average: '26.835'

@@ -16,6 +16,7 @@ comparePrice: 52.95 EUR
 prodname: ' BOTÍN DE Mujer XTI Basic con Tacon DE 6 CM con Cierre DE Cremallera Abotinado  - para: Mujer Color: Negro Talla: 36'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JBMKRRQ/?tag=tolees-21'
 descuento: '60.00'
 average: '21.18'

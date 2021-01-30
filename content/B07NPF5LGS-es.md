@@ -16,6 +16,7 @@ comparePrice: 26.38 EUR
 prodname: 'Tom Tailor 7980801  Botas Clasicas para Hombre  Marrón  Brandy 01823   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NPF5LGS/?tag=tolees-21'
 descuento: '28.66'
 average: '18.82'

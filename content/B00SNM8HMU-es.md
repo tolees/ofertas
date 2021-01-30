@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Samsung BT-EPLN915UB - Cargador de coche con Micro USB  2A  color negro- Versión española'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SNM8HMU/?tag=tolees-21'
 descuento: '73.58'
 average: '7.9'

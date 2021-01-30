@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Anoopsyche Hombrera Ajustable  Hombro Apoyo Transpirable de Neopreno  Dolor en el Hombro  Hombros Artríticos  Prevenir y Restaurar Lesiones Deportivas  para el Hombro Izquierdo/Derecho  Hombre/Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PPWBPPW/?tag=tolees-21'
 descuento: '27.29'
 average: '15.49'

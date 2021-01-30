@@ -16,6 +16,7 @@ comparePrice: 195.0 EUR
 prodname: 'Pala De Padel Adidas Faster Pink 1 9'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N88DGC3/?tag=tolees-21'
 descuento: '64.13'
 average: '69.94'

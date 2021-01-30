@@ -16,6 +16,7 @@ comparePrice: 19.8 EUR
 prodname: 'NaturGreen Semillas de Sésamo natural -  Pack de 6 unidades de 450 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FY8SBML/?tag=tolees-21'
 descuento: '51.06'
 average: '9.69'

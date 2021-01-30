@@ -16,6 +16,7 @@ comparePrice: 22.9 EUR
 prodname: 'Kipling Creativity S  Cartera para Mujer  Azul  True Navy   14.5x9.5x5 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077V2X4ZM/?tag=tolees-21'
 descuento: '34.54'
 average: '13.181428571428572'

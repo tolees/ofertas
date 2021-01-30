@@ -16,6 +16,7 @@ comparePrice: 98.16 EUR
 prodname: 'Tommy Hilfiger Organic Cotton Silk V Neck Pantalones  Azul  Blue Ink C7H   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VQ75JV4/?tag=tolees-21'
 descuento: '52.06'
 average: '47.06'

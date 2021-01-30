@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Pepe Jeans Alice Pl211308 Pantalones   Dulwich 594   W24  Talla del Fabricante: X-Small  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JGSNWQH/?tag=tolees-21'
 descuento: '60.40'
 average: '33.66'

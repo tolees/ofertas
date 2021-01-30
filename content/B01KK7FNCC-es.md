@@ -16,6 +16,7 @@ comparePrice: 16.3 EUR
 prodname: 'NIVEA Hyaluron Cellular Filler + Volumen y Contorno Serum Pearls  1 x 30 ml   sérum facial antiarrugas  sérum antiedad para mejorar el volumen  sérum de ácido hialurónico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KK7FNCC/?tag=tolees-21'
 descuento: '30.00'
 average: '11.505'

@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Tommy Hilfiger BB Cap Gorra de béisbol  Azul  Talla única  Talla del Fabricante:  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JQ8P8ZX/?tag=tolees-21'
 descuento: '49.20'
 average: '14.93'

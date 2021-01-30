@@ -16,6 +16,7 @@ comparePrice: 45.04 EUR
 prodname: 'Invero anti-vibración Universal para habitaciones amortiguado alfombrilla de goma para lavadora  secadora  lavavajillas o de otros aparatos 600 mm x 600 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B019CN3AUC/?tag=tolees-21'
 descuento: '57.57'
 average: '19.1'

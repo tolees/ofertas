@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Clarks Tri Path Mid  Zapatillas Altas para Hombre  Braun Tan Combi Tan Combi  41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MSKMMR5/?tag=tolees-21'
 descuento: '46.60'
 average: '56.260000000000005'

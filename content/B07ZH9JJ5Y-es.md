@@ -16,6 +16,7 @@ comparePrice: 44.44 EUR
 prodname: 'FBLWT Smartwatches Reloj Inteligente para Mujer Kw10 Color Ip68 Señoras Fitness Tracker Pantalla Táctil Redonda - Correa De Acero Plateado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZH9JJ5Y/?tag=tolees-21'
 descuento: '29.34'
 average: '31.4'

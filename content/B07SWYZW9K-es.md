@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'FITTOO Mallas 3/4 Leggings Mujer Pantalones de Yoga Alta Cintura Elásticos y Transpirables Negro L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SWYZW9K/?tag=tolees-21'
 descuento: '43.37'
 average: '16.74'

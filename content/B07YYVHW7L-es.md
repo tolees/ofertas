@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Elbe Regleta multienchufe retráctil  2 USB  Mesa Enchufe Regleta multienchufe con 3 Toma  Cubierta superior impermeable Regleta de Mesa Regleta de protección contra sobretensiones para Escritorio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YYVHW7L/?tag=tolees-21'
 descuento: '25.01'
 average: '29.99'

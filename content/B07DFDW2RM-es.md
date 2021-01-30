@@ -16,6 +16,7 @@ comparePrice: 15.0 EUR
 prodname: 'Freaks and Geeks - Yu Gi Oh Funko Pop Vinyl 389 Blue Eyes White Dragon'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFDW2RM/?tag=tolees-21'
 descuento: '42.80'
 average: '9.462'

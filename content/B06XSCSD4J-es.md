@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'New balance wlazr MP'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XSCSD4J/?tag=tolees-21'
 descuento: '63.73'
 average: '29.0'

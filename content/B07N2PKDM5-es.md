@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'HOMCOM Mesilla de Centro Mesita de Noche Mesa de Café Té Mesita Auxiliar 2 Niveles para Salón Dormitorio Librería Estante de Almacenamiento 40x40x43cm Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N2PKDM5/?tag=tolees-21'
 descuento: '25.63'
 average: '29.74'

@@ -16,6 +16,7 @@ comparePrice: 5.65 EUR
 prodname: 'Listerine Enjuague Bucal - 500 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006USGEOC/?tag=tolees-21'
 descuento: '34.51'
 average: '3.7'

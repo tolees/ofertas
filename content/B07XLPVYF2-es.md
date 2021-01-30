@@ -16,6 +16,7 @@ comparePrice: 7.49 EUR
 prodname: 'Cuchara de Limpieza de Cerumen Oído con Luz LED Herramienta de Removedor de Cera de Oido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XLPVYF2/?tag=tolees-21'
 descuento: '33.38'
 average: '4.99'

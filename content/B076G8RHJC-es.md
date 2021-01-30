@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'PUMA Smash V2 L JR  Zapatillas Unisex niños  Negro Black White  39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076G8RHJC/?tag=tolees-21'
 descuento: '70.19'
 average: '11.91'

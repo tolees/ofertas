@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Meykey Slow Juicer - Licuadora de verduras y frutas  sin BPA  licuadora lenta y contenedor de zumo y cepillo de limpieza  motor silencioso y función de inversión  150 W '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TQLJ7J9/?tag=tolees-21'
 descuento: '61.67'
 average: '70.65666666666667'

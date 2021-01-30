@@ -16,6 +16,7 @@ comparePrice: 48.0 EUR
 prodname: 'IKERLEX LED Linternas Tácticas Militares LED Antorcha Alta Potencia 1000 Lumen con 5 Modos de Luz de Enfoque Ajustable Portátil Perfecta para Ciclismo Camping  Montañismo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CHWDTKS/?tag=tolees-21'
 descuento: '79.73'
 average: '9.73'

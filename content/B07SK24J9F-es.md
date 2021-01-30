@@ -16,6 +16,7 @@ comparePrice: 6.42 EUR
 prodname: 'NUTRE COLOR NIRVEL MORADO 200 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SK24J9F/?tag=tolees-21'
 descuento: '33.80'
 average: '4.25'

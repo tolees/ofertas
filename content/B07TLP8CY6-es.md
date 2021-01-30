@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Clarks Stanford Zip  Botas Chelsea para Hombre  Marrón  Tan Leather Tan Leather   45 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TLP8CY6/?tag=tolees-21'
 descuento: '50.51'
 average: '54.44'

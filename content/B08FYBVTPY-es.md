@@ -16,6 +16,7 @@ comparePrice: 29.56 EUR
 prodname: 'Panamar Juego de Red de Voleibol de Agua  Juguete de Agua  Red de Voleibol de Agua  Juguete para Piscina  Red de Voleibol  Red de Baloncesto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FYBVTPY/?tag=tolees-21'
 descuento: '33.49'
 average: '19.66'

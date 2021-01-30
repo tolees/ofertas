@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Munich G 3 KID VCO INDOOR 72  Zapatillas Niño  Multicolor  27 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VKGKWKX/?tag=tolees-21'
 descuento: '40.04'
 average: '29.95'

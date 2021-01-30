@@ -16,6 +16,7 @@ comparePrice: 24 EUR
 prodname: 'Perla de agua dulce genuina 925 hecho a mano de plata esterlina sólida anillo tamaño 4 a 29 ES'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LD94ZBG/?tag=tolees-21'
 descuento: '25.00'
 average: '18.0'

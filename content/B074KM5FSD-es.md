@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'Fantasy Flight Games- Hera Syndulla y C1-10P  colección Imperial Assault  FFSWI43 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074KM5FSD/?tag=tolees-21'
 descuento: '28.26'
 average: '9.29'

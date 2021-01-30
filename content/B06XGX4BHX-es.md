@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Funko Pop! - Vivec Figura de Vinilo  seria The Elder Scrolls Online  ESO  Morrowind  14332 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XGX4BHX/?tag=tolees-21'
 descuento: '33.62'
 average: '9.31'

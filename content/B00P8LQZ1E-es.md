@@ -16,6 +16,7 @@ comparePrice: 24.3 EUR
 prodname: 'Canterbury - Calcetines/medias de deporte/entrenamiento para hombre/caballero - Medias Rugby/Fútbol/Hockey  Pequeña  S    Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00P8LQZ1E/?tag=tolees-21'
 descuento: '33.33'
 average: '16.2'

@@ -16,6 +16,7 @@ comparePrice: 16.95 EUR
 prodname: 'Montse Interiors  S.L. Cuadrante o Cojín Decoración Terciopèlo en Rayas 45x45 + Relleno  VARENNA Antracita '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XQH3HLM/?tag=tolees-21'
 descuento: '41.30'
 average: '9.95'

@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'Maleta de cabina Pepe Jeans Cambridge Roja rígida 55cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BHYP9GG/?tag=tolees-21'
 descuento: '31.57'
 average: '88.675'

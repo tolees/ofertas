@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Tommy Hilfiger Core Thick Textile Sneaker  Zapatillas para Hombre  Azul  Midnight 403   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L3FTPWB/?tag=tolees-21'
 descuento: '43.80'
 average: '44.9'

@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s Perfect Tee T-shirt  Multicolore  Raita Indigo 0033   XX-Small Donna'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KF76SKP/?tag=tolees-21'
 descuento: '38.20'
 average: '14.074'

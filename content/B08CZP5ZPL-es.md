@@ -16,6 +16,7 @@ comparePrice: 62.99 EUR
 prodname: 'BAITITON MSATA III Disco Duro sólido Interno de Estado sólido 256GB SSD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CZP5ZPL/?tag=tolees-21'
 descuento: '49.85'
 average: '31.59'

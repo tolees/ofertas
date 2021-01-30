@@ -16,6 +16,7 @@ comparePrice: 55.99 EUR
 prodname: 'H+Y Mini Grabadora de Voz  Grabadora Espia Portátil de 16 GB  Recargable MP3 por USB  HD Grabadora de Audio con Activación por Voz  Ideal para Clases  Reuniones  Entrevistas  Hasta 284 Horas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WZL1NT9/?tag=tolees-21'
 descuento: '33.22'
 average: '37.39'

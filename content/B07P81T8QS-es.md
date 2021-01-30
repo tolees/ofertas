@@ -16,6 +16,7 @@ comparePrice: 16.7 EUR
 prodname: 'Pop! Figura de Vinilo: Música: The Police - Andy Summers'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P81T8QS/?tag=tolees-21'
 descuento: '60.06'
 average: '7.363333333333333'

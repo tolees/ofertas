@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'SP-Cow Adaptador Bluetooth 4.2 USB Dongle  WiFi Antena 650Mbps Emisor Receptor  para Ordenador/Portatil/Auriculares  compatible con Windows10/8/8.1/7'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089S34NVS/?tag=tolees-21'
 descuento: '33.02'
 average: '13.39'

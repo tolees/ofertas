@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'New Balance 500  Zapatillas Mujer  Rosa  Gw500Hha   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S3V57GX/?tag=tolees-21'
 descuento: '42.37'
 average: '43.22'

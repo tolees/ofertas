@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Remington Bodyguard BHT2000A - Afeitadora Corporal  Cuchillas de Titanio  Inalámbrica  Uso Seco y Mojado  Miniafeitadora de Láminas  Plata y Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IBDVR4G/?tag=tolees-21'
 descuento: '29.98'
 average: '26.990000000000002'

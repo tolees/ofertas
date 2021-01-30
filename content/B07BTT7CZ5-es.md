@@ -16,6 +16,7 @@ comparePrice: 33.08 EUR
 prodname: 'Bebé Saco de dormir Con Cremallera Piernas Separadas Mangas Extraíbles 1.5 Tog Manzana Rosa L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BTT7CZ5/?tag=tolees-21'
 descuento: '45.62'
 average: '17.99'

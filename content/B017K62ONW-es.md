@@ -16,6 +16,7 @@ comparePrice: 27.66 EUR
 prodname: 'Ghd ghd Style Final Shine Spray 100 Ml 100 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017K62ONW/?tag=tolees-21'
 descuento: '35.10'
 average: '17.95'

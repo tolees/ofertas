@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Fantasy Flight Games- Star Wars Imperial Assault  Princesa Leia  Comandante Rebelde  Edge Entertainment EDGSWI22 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KY5GOVE/?tag=tolees-21'
 descuento: '29.75'
 average: '6.99'

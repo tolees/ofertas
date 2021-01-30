@@ -16,6 +16,7 @@ comparePrice: 60.99 EUR
 prodname: 'Morbid: The Seven Acolytes - Signature Edition'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08J8LZYNH/?tag=tolees-21'
 descuento: '42.63'
 average: '34.99'

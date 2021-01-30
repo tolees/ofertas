@@ -16,6 +16,7 @@ comparePrice: 159.95 EUR
 prodname: 'Fitbit Versa Lite - Reloj Deportivo Smartwatch  Adultos Unisex  Blanco/Plata Aluminio  Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MFZ9MHM/?tag=tolees-21'
 descuento: '40.01'
 average: '105.695'

@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Pepe Jeans Eggo Long PM501321 Top de Manga Larga  Azul  Navy 595   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XTHXG9D/?tag=tolees-21'
 descuento: '30.33'
 average: '20.424999999999997'

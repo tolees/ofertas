@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'PUMA Ralph Sampson LO  Zapatillas Deportivas para Hombre  Schwarz Black White White  36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG6MZ2J/?tag=tolees-21'
 descuento: '46.59'
 average: '37.396666666666675'

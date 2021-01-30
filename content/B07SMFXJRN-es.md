@@ -16,6 +16,7 @@ comparePrice: 169 EUR
 prodname: 'Mini PC Intel Atom Z8350 de Windows 10 Mini computadora 4GB DDR de 64 GB eMMC Soporte 4K HD  Wi-Fi de Doble Banda AC  BT 4.2'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SMFXJRN/?tag=tolees-21'
 descuento: '34.92'
 average: '109.99'

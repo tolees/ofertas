@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Under Armour Tech Polo  Hombre  Azul  Midnight Navy/Graphite 410   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GH5JOJY/?tag=tolees-21'
 descuento: '47.53'
 average: '20.99'

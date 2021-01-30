@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Jack & Jones Jjicody Jjspencer WW Noos Pantalones  Azul  Navy Blazer   W31/L32  Talla del Fabricante: 31  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071NSM3C4/?tag=tolees-21'
 descuento: '49.99'
 average: '25.0'

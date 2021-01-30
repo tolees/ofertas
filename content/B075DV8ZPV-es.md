@@ -16,6 +16,7 @@ comparePrice: 19.98 EUR
 prodname: 'GOXAWEE Mini Disco Corte Diamante & Mini Hoja de Sierra Circular HSS & Mini Disco de Corte de Resina （3mm Mandril）para Cortar Madera Piedra Metal - Paquete de 30 Piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075DV8ZPV/?tag=tolees-21'
 descuento: '25.03'
 average: '14.98'

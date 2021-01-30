@@ -16,6 +16,7 @@ comparePrice: 220.0 EUR
 prodname: 'HEAD GRAPHENE TORNADO CONTROL LTD AZUL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077JVPKR9/?tag=tolees-21'
 descuento: '63.66'
 average: '79.95'

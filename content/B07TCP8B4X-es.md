@@ -16,6 +16,7 @@ comparePrice: 8.4 EUR
 prodname: 'Finocam - Recambio Anual 2020 semana vista vertical Open R1099 español  1000-155x215 mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TCP8B4X/?tag=tolees-21'
 descuento: '30.36'
 average: '5.85'

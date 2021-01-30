@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Under Armour Recovery Sleepwear Pantalones Cortos  Mujer  Negro  XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9JNQJ7/?tag=tolees-21'
 descuento: '70.78'
 average: '13.15'

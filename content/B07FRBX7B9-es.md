@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Clarks Triactive Up  Zapatillas para Hombre  Verde  Olive Combination-   44.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FRBX7B9/?tag=tolees-21'
 descuento: '49.66'
 average: '52.075'

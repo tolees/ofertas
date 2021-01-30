@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'Clarks Orinoco Demi  Botas Estilo Motero para Mujer  Marrón  Burgundy Leather Burgundy Leather   36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1JWNW3/?tag=tolees-21'
 descuento: '65.63'
 average: '29.206666666666667'

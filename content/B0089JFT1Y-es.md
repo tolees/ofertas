@@ -16,6 +16,7 @@ comparePrice: 11.9 EUR
 prodname: 'Silikomart GEL01MB MINI CLASSIC  - Mini moldes de congelador para helados y aperitivos  silicona  se incluyen 50 soportes de madera   diseño ovalado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0089JFT1Y/?tag=tolees-21'
 descuento: '57.98'
 average: '5.0'

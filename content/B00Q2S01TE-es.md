@@ -16,6 +16,7 @@ comparePrice: 259.0 EUR
 prodname: 'Gigandet G6-015 - Reloj  Correa de Acero Inoxidable Color Oro Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00Q2S01TE/?tag=tolees-21'
 descuento: '30.89'
 average: '179.0'

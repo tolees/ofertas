@@ -16,6 +16,7 @@ comparePrice: 129.14 EUR
 prodname: 'Toomax 162R Baùl  Plástico  Antracita'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00C9Z7JC6/?tag=tolees-21'
 descuento: '28.21'
 average: '91.3325'

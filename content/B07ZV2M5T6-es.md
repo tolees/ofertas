@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Helly Hansen Transat Polo  Hombre  Navy  L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZV2M5T6/?tag=tolees-21'
 descuento: '50.02'
 average: '22.49'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Lomogo Funda Huawei Y5 2019 / Honor 8S  Cartera Funda de Cuero Ranuras para Tarjetas Cierre Magnetico Soporte Plegable Carcasa Antigolpes para Huawei Y5 2019 - LOKTU100190 Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WP3WF8M/?tag=tolees-21'
 descuento: '60.23'
 average: '7.95'

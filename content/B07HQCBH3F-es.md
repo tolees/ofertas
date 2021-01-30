@@ -16,6 +16,7 @@ comparePrice: 686.63 EUR
 prodname: 'Fujitsu Scansnap IX 1500  Escáner de documentos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HQCBH3F/?tag=tolees-21'
 descuento: '42.47'
 average: '395.0'

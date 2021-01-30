@@ -16,6 +16,7 @@ comparePrice: 81.0 EUR
 prodname: 'K&N SU-4002-TDK Funda para Filtro de Aire para DRYCHARGER FOR SU-4002-T BLACK Moto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000FGI5G0/?tag=tolees-21'
 descuento: '88.95'
 average: '8.95'

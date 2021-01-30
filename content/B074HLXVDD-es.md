@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Funko Pop!- 21804 NBA: Kevin Durant  Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074HLXVDD/?tag=tolees-21'
 descuento: '46.63'
 average: '8.0'

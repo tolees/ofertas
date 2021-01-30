@@ -16,6 +16,7 @@ comparePrice: 51.5 EUR
 prodname: 'Gloss - caja de maquillaje  caja de regalo para mujeres - Malette maquillaje esencial'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KX0TCQE/?tag=tolees-21'
 descuento: '36.12'
 average: '32.9'

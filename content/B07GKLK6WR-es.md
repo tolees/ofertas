@@ -16,6 +16,7 @@ comparePrice: 115.36 EUR
 prodname: 'Olymbros Cámara de Caza 16MP 1080P IP66 Impermeable 24 LED de IR Invisible 2.3    LCD Visión Nocturna hasta 20m para Fauna Seguridad Hogar Mascota Animal  T3 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GKLK6WR/?tag=tolees-21'
 descuento: '48.44'
 average: '59.48'

@@ -16,6 +16,7 @@ comparePrice: 19.14 EUR
 prodname: 'Trabanco Sidra Natural. Caja de 6 Botellas de 70 cl.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B5FX97Q/?tag=tolees-21'
 descuento: '39.92'
 average: '11.246666666666668'

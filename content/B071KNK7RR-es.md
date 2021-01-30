@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Targus Click-in - Funda para el iPad Pro de 10.5"  Color Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071KNK7RR/?tag=tolees-21'
 descuento: '60.32'
 average: '11.9'

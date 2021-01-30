@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Cable Eléctrico de 3 Núcleos Redondo de PVC Cable Eléctrico de Alambre Cobre de Alta Resistencia a la Temperatura 3 x 0 75 mm² Cable Alimentación Doble y Cable de Tierra - 5 Metros Longitud - Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HCLY31D/?tag=tolees-21'
 descuento: '45.48'
 average: '11.99'

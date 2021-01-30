@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Wrangler Sign Off Crew Error:#  Gris  Mid Grey Mel A37   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FY8LL62/?tag=tolees-21'
 descuento: '53.54'
 average: '27.85'

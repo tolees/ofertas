@@ -16,6 +16,7 @@ comparePrice: 13.95 EUR
 prodname: 'L Oréal Paris Color Riche Mate Pintalabios mate rojo 347 Haute Rouge'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N4QZG8U/?tag=tolees-21'
 descuento: '39.43'
 average: '7.1'

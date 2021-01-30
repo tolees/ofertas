@@ -16,6 +16,7 @@ comparePrice: 7.28 EUR
 prodname: '8PCS/Set Multi-Purposes Car Wire Cable Holder Easy To Install Multifunctional Car Charger Line Earphone Cable Clip Organizer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K6ZFQMM/?tag=tolees-21'
 descuento: '27.47'
 average: '5.28'

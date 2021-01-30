@@ -16,6 +16,7 @@ comparePrice: 182.0 EUR
 prodname: 'HP Q6470A - Cartucho de tóner'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000BMXMDE/?tag=tolees-21'
 descuento: '63.21'
 average: '69.16'

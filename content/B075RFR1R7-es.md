@@ -16,6 +16,7 @@ comparePrice: 249.99 EUR
 prodname: 'Pioneer SX-10AE-B - Receptor de Audio  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075RFR1R7/?tag=tolees-21'
 descuento: '29.20'
 average: '176.99'

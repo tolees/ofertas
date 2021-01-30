@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Lee Daren Button Fly Jeans  Azul  Strong Hand Db   38W / 30L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ZPMB5WA/?tag=tolees-21'
 descuento: '63.68'
 average: '37.58333333333333'

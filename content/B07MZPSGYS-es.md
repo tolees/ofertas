@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Pepe Jeans Helaia suéter   Dulwich 594   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZPSGYS/?tag=tolees-21'
 descuento: '59.57'
 average: '28.8325'

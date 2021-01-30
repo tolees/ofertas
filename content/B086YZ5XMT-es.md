@@ -16,6 +16,7 @@ comparePrice: 8.84 EUR
 prodname: 'DeoMeat Cadenas Chupete Clips de Chupete de bebé para niños  4  Que se'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086YZ5XMT/?tag=tolees-21'
 descuento: '29.64'
 average: '6.22'

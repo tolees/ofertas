@@ -16,6 +16,7 @@ comparePrice: 249.95 EUR
 prodname: 'Michael Kors Reloj Analogico para Hombre de Cuarzo con Correa en Silicona MKT4010'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075WWR7MZ/?tag=tolees-21'
 descuento: '46.29'
 average: '154.53666666666666'

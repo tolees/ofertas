@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Milacolato 8 Pares de Aretes de Plata de ley 925 Circle Bar Ball Heart Tiny Earring Stud Set para Mujeres'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085Y2GN4F/?tag=tolees-21'
 descuento: '40.01'
 average: '23.99'

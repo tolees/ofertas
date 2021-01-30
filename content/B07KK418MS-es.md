@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Columbia Redmond V2 Mid  Botas de Senderismo de Piel Impermeables para Hombre  Gris  Dark Grey  Madd 089   43.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KK418MS/?tag=tolees-21'
 descuento: '50.87'
 average: '58.95'

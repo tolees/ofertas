@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Pitaya Afilador De Cuchillos Profesional  Amoladora Angular de Acero Inoxidable con 4 Piedra para Afilar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZHCN2HQ/?tag=tolees-21'
 descuento: '79.01'
 average: '20.99'

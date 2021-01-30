@@ -16,6 +16,7 @@ comparePrice: 16.49 EUR
 prodname: 'Adidas Core18 3/4 Pnt Sport Trousers  Hombre  black/white  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076HPB8HC/?tag=tolees-21'
 descuento: '45.36'
 average: '11.323333333333334'

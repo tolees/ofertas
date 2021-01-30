@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Tommy Hilfiger Bralette Corsetto  Gris  GREY HEATHER 004   36  talla del fabricante: MD  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UT2NX44/?tag=tolees-21'
 descuento: '36.49'
 average: '18.89'

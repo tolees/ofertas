@@ -16,6 +16,7 @@ comparePrice: 3.49 EUR
 prodname: 'Revlon ColorSilk Tinte de Cabello Permanente Tono #43 Castaño Dorado Medio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000GCT7ZG/?tag=tolees-21'
 descuento: '41.83'
 average: '2.138'

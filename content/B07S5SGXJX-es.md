@@ -16,6 +16,7 @@ comparePrice: 129.6 EUR
 prodname: 'Love MoschinoJc4021pp1aMujerCarteras de mano con asaPlateado  Argento 1x17x23 centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S5SGXJX/?tag=tolees-21'
 descuento: '51.60'
 average: '75.08999999999999'

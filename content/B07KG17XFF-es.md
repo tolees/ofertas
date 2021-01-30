@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'PUMA Nova 2 Wn s  Zapatillas Deportivas para Mujer  Blanco White-Pastel Parchment  42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG17XFF/?tag=tolees-21'
 descuento: '60.09'
 average: '38.28888888888889'

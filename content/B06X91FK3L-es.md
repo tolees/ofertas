@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Osprey Transporter 40 Unisex Durable Duffel Travel Pack with Harness and Detachable Padded Shoulder Strap - Black  O/S '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06X91FK3L/?tag=tolees-21'
 descuento: '25.25'
 average: '89.7'

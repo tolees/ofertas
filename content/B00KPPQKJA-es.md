@@ -16,6 +16,7 @@ comparePrice: 18.33 EUR
 prodname: 'mondex 278Y254 - Cubo Ecobin 25L Con Tapa Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KPPQKJA/?tag=tolees-21'
 descuento: '30.44'
 average: '12.75'

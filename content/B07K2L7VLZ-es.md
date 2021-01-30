@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'adidas Runfalcon  Zapatillas de Running para Hombre  Negro  Core Black/Core Black/Core Black   46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2L7VLZ/?tag=tolees-21'
 descuento: '29.95'
 average: '37.32333333333334'

@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Ferilinso Cristal Templado para Huawei Mate 20 Lite  [2 Pack] [Cobertura Completa] Estuche Libre de Burbujas Película Protectora de Protector de Pantalla  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GTJXJ54/?tag=tolees-21'
 descuento: '52.97'
 average: '7.99'

@@ -16,6 +16,7 @@ comparePrice: 12.79 EUR
 prodname: 'Funko Pop Pusheen Mermaid  Multicolor  FK34105 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFDTK9V/?tag=tolees-21'
 descuento: '35.50'
 average: '8.25'

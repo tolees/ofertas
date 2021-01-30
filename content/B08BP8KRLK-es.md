@@ -16,6 +16,7 @@ comparePrice: 11.79 EUR
 prodname: 'Wuyee Naranja de Halloween Que cuelga del Fantasma de Halloween Creepy Puntales Scary Bruja Colgantes de la muñeca de la casa encantada Puntales'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BP8KRLK/?tag=tolees-21'
 descuento: '53.35'
 average: '5.5'

@@ -16,6 +16,7 @@ comparePrice: 8.53 EUR
 prodname: 'Longspeed Dibujar con luz Tablero de Dibujo Divertido Tablero Luminoso Tablero de Dibujo de Graffiti mágico Brillante para niños Tablero de Dibujo para niños - Colorido + M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08C7KFCWJ/?tag=tolees-21'
 descuento: '33.53'
 average: '5.67'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Joligrace Bolsa de Maquillaje Profesional de tela Oxford Grande Correa Posterior Extraíble Estuche Cosmético Caja de Belleza Organizador  Grande  Púrpura '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QR562DQ/?tag=tolees-21'
 descuento: '50.01'
 average: '19.99'

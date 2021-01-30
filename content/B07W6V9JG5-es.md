@@ -16,6 +16,7 @@ comparePrice: 17.09 EUR
 prodname: 'Akozon Car Radio Clip de puerta Panel Trim Dash Audio Stereo Removal Tools Kit Auto Repair 12pcs'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W6V9JG5/?tag=tolees-21'
 descuento: '45.64'
 average: '8.79'

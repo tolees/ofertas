@@ -16,6 +16,7 @@ comparePrice: 46.55 EUR
 prodname: 'toys'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VK9NC3N/?tag=tolees-21'
 descuento: '88.61'
 average: '5.3'

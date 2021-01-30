@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'L Oréal Paris  Infallible Stick de Maquillaje 24h  Tono 140 Natural Rose'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078CR8HKZ/?tag=tolees-21'
 descuento: '29.03'
 average: '9.35'

@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'TenGO RT3067BT - Mando de juegos Bluetooth'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00RVGCJHS/?tag=tolees-21'
 descuento: '31.95'
 average: '17.071666666666665'

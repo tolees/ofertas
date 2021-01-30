@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Bolsa reutilizable Squooshi para comida | Pack con 6 animales'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IYW6AVS/?tag=tolees-21'
 descuento: '44.47'
 average: '9.99'

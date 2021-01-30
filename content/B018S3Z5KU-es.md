@@ -16,6 +16,7 @@ comparePrice: 47.25 EUR
 prodname: 'Hill s HPD Feline Metabolic - 4 kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018S3Z5KU/?tag=tolees-21'
 descuento: '32.30'
 average: '32.99'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Targus Click-in - Funda para el iPad Pro de 10.5"  Color Oro Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071XM3VR5/?tag=tolees-21'
 descuento: '66.76'
 average: '10.935'

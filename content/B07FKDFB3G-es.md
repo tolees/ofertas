@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Nike W NP Tight Sport Trousers  Mujer  Gunsmoke/htr/Black/ Black   L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FKDFB3G/?tag=tolees-21'
 descuento: '29.45'
 average: '28.22'

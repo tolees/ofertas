@@ -16,6 +16,7 @@ comparePrice: 169.0 EUR
 prodname: 'Singer Tradition 2263 Máquina de Coser  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001CBVORE/?tag=tolees-21'
 descuento: '28.01'
 average: '136.25833333333335'

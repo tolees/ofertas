@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Funko- Pop Disney: Onward-Barley Collectible Toy  Multicolor  45583 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZNQ75J/?tag=tolees-21'
 descuento: '28.63'
 average: '10.67'

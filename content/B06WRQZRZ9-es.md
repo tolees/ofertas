@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Waldhausen X-Line Trensenzaum Crowncaps'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WRQZRZ9/?tag=tolees-21'
 descuento: '32.25'
 average: '47.39'

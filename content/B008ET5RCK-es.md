@@ -16,6 +16,7 @@ comparePrice: 85.85 EUR
 prodname: 'Grohe Recambios - Recambio de Teleducha para grifos de cocina  Ref. 46312IE0 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008ET5RCK/?tag=tolees-21'
 descuento: '25.10'
 average: '64.3'

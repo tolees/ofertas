@@ -16,6 +16,7 @@ comparePrice: 176.0 EUR
 prodname: 'BC-02ppAuricolare Bluetooth XuanPad  Auricolari 5.0 Auricolari Bluetooth 5.0 Senza fili  Auricolari con microfono Stereo  15 Ore di riproduzione impermeabile IPX6'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W71QBR6/?tag=tolees-21'
 descuento: '71.02'
 average: '51.0'

@@ -16,6 +16,7 @@ comparePrice: 16.22 EUR
 prodname: 'Under Armour Sujetador Deportivo para Mujer Cross Back Graphic  Mujer  1317111-001  Negro/Blanco  Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077XQJSNM/?tag=tolees-21'
 descuento: '27.93'
 average: '11.69'

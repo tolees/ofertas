@@ -16,6 +16,7 @@ comparePrice: 16.6 EUR
 prodname: 'Ferilinso Funda para Moto G8 Plus Carcasa [Reforzar la versión con Cuatro Esquinas][Funda Protectora de la cámara] Funda Protectora de Silicona de Piel de Goma TPU a Prueba de Goma  Transparente '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZTKC9HG/?tag=tolees-21'
 descuento: '69.94'
 average: '4.99'

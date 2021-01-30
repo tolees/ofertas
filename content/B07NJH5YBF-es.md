@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Tamaris 1-1-25561-23  Botas Altas para Mujer  Rojo  Vino 558   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJH5YBF/?tag=tolees-21'
 descuento: '71.01'
 average: '26.08'

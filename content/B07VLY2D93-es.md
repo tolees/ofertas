@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'JACK & JONES Jorflash suéter  Azul  Navy Blazer   XX-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VLY2D93/?tag=tolees-21'
 descuento: '69.99'
 average: '9.0'

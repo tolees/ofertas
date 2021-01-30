@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Salomon Cami seta deportiva de manga larga  agile ls tee  mezcla de sintéticos  azul  Night Sky   hombre  talla: M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0788LQYH2/?tag=tolees-21'
 descuento: '33.36'
 average: '29.99'

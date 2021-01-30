@@ -16,6 +16,7 @@ comparePrice: 26.98 EUR
 prodname: 'B Blesiya Mini Adaptador De Audio Inalámbrico Portátil Transmisor USB Dongle Receptor para'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086ZRRN73/?tag=tolees-21'
 descuento: '44.44'
 average: '14.99'

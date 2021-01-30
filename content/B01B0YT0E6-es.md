@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'Russell Hobbs Textures  -  Hervidor de Agua Eléctrico  2400 W  1.7 L  Plástico Alto Brillo  sin BPA  Negro  ref. 22591-70'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01B0YT0E6/?tag=tolees-21'
 descuento: '25.41'
 average: '20.408749999999998'

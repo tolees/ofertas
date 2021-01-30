@@ -16,6 +16,7 @@ comparePrice: 8.68 EUR
 prodname: 'Mamá Lactancia materna Con una sola mano Extractor de leche manual Biberón Saver Biberón de silicona Artefacto Recipiente de succión del pezón - Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0854H8VMT/?tag=tolees-21'
 descuento: '35.02'
 average: '5.64'

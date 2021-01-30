@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'OXO Good Grips INOXO.1050586ML  500 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00005RKOE/?tag=tolees-21'
 descuento: '30.15'
 average: '6.95'

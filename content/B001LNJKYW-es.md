@@ -16,6 +16,7 @@ comparePrice: 149.36 EUR
 prodname: 'Samsung MLT-D2082L/ELS - Tóner AC SCX-5635FN/5835FN  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001LNJKYW/?tag=tolees-21'
 descuento: '48.47'
 average: '76.97'

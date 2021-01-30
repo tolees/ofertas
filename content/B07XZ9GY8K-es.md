@@ -16,6 +16,7 @@ comparePrice: 55.9 EUR
 prodname: 'Masajeadores eléctricos para pies  Pulsos de Baja Frecuencia Estimulación Muscular Eléctrica EMS Cojín de Masaje de Pies Fisioterapia Inteligente para Mejorar la Circulación Sanguínea'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XZ9GY8K/?tag=tolees-21'
 descuento: '53.67'
 average: '25.9'

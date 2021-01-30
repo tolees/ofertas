@@ -16,6 +16,7 @@ comparePrice: 43.85 EUR
 prodname: 'Fristone - Colchón de espuma viscoelástica para perro  con funda extraíble y lavable.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089DDZMNL/?tag=tolees-21'
 descuento: '27.09'
 average: '31.97'

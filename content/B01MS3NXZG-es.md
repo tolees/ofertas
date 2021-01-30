@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Reebok Club C 85  Zapatillas Deportivas para Interior Hombre  Blanco  Int / White / Green   40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MS3NXZG/?tag=tolees-21'
 descuento: '35.02'
 average: '53.95'

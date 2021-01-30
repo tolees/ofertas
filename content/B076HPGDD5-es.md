@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Adidas Core 18 Presentation TR Pnt Pantalones Deportivos  Hombre  Negro  Negro/Blanco   XS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076HPGDD5/?tag=tolees-21'
 descuento: '33.56'
 average: '18.753999999999998'

@@ -16,6 +16,7 @@ comparePrice: 23.95 EUR
 prodname: 'adidas I Lin Jogg FL Tracksuit  Unisex niños  Real Blue/Medium Grey Heather/Blue  3-4Y'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SDH1TLW/?tag=tolees-21'
 descuento: '37.49'
 average: '14.97'

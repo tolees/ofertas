@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: '2pcs Mosquitera Carrito Bebe Universal Mosquitera para Cochecito Silla de Paseo Cuna de Viaje protección Anti Mosquitos Para Bebe'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PZZF19V/?tag=tolees-21'
 descuento: '86.70'
 average: '3.99'

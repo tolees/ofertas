@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Lacoste PH4012  Polo Para Hombre  Gris  Argent Chine   Large  Talla del fabricante: 5 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00Y4XVK62/?tag=tolees-21'
 descuento: '34.32'
 average: '62.4'

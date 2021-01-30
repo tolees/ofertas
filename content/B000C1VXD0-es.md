@@ -16,6 +16,7 @@ comparePrice: 74.6 EUR
 prodname: 'Guerlain - Eau de Cologne Eau Impériale'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000C1VXD0/?tag=tolees-21'
 descuento: '35.43'
 average: '48.17'

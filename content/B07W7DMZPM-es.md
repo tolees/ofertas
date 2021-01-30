@@ -16,6 +16,7 @@ comparePrice: 6.95 EUR
 prodname: 'Ganchos para silla de ruedas Silla de ruedas Cochecito Cochecito de niño Cochecito para colgar Gancho Cochecitos de bebé Bolsa de la compra Clip Cochecito Accesorios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W7DMZPM/?tag=tolees-21'
 descuento: '28.78'
 average: '4.95'

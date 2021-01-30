@@ -16,6 +16,7 @@ comparePrice: 52.95 EUR
 prodname: 'XTI 49506  Zapatillas para Mujer  Azul  Navy Navy   38 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PHV8J5D/?tag=tolees-21'
 descuento: '60.00'
 average: '21.18'

@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Siux Cajon DE 24 Botes con Bolas Match'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YZGS23P/?tag=tolees-21'
 descuento: '31.54'
 average: '89.0'

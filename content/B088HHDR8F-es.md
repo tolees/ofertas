@@ -16,6 +16,7 @@ comparePrice: 13.45 EUR
 prodname: 'HAPPY - 10 para nin@s productos  el efecto alcanza el 95%  CE'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088HHDR8F/?tag=tolees-21'
 descuento: '41.34'
 average: '17.64'

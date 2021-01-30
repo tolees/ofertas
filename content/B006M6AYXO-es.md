@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Converse Chuck Taylor Core Lea Ox  Zapatillas De Cuero Unisex Adulto  Blanco  41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006M6AYXO/?tag=tolees-21'
 descuento: '39.90'
 average: '48.08'

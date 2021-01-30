@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'Agua micelar Garnier para piel sensible 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M6UUOY2/?tag=tolees-21'
 descuento: '31.45'
 average: '5.866666666666667'

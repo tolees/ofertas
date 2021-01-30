@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Coleman 3000005133 Nevera Rígida  Unisex Adulto  Azul  4 L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000IBWI42/?tag=tolees-21'
 descuento: '36.56'
 average: '13.95'

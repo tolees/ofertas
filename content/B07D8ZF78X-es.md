@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Adidas LITE RACER CLN I  Zapatillas de deporte Unisex niños  Blanco  Bb7053 Blanco   21 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D8ZF78X/?tag=tolees-21'
 descuento: '31.36'
 average: '23.99'

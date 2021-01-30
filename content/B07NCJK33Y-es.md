@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Bandolera pequeña Pepe Jeans Freida'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NCJK33Y/?tag=tolees-21'
 descuento: '42.18'
 average: '28.88'

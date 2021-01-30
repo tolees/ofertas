@@ -16,6 +16,7 @@ comparePrice: 9.7 EUR
 prodname: 'Beaphar Pipetas Calming Spot On para Perros  3 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00E5DK1QG/?tag=tolees-21'
 descuento: '46.29'
 average: '5.21'

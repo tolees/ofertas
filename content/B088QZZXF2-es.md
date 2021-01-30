@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'king do way Funda para Barbacoa Impermeable  183x66x130cm  Cubierta para Barbacoa 420D Oxford  Protector para Barbacoa Anti-Viento/UV/Impermeabilidad para Weber  Brinkmann Outback Char Broil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088QZZXF2/?tag=tolees-21'
 descuento: '30.01'
 average: '20.99'

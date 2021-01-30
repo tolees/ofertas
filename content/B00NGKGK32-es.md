@@ -16,6 +16,7 @@ comparePrice: 11.45 EUR
 prodname: 'Lactacyd Pharma Protección - Con extractos naturales de acción antiseptica y antibacteriana  enriquecido con tomillo que proporciona una protección activa en la zona íntima externa  250 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NGKGK32/?tag=tolees-21'
 descuento: '39.21'
 average: '6.96'

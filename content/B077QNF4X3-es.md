@@ -16,6 +16,7 @@ comparePrice: 21.49 EUR
 prodname: 'Zapatillas de Taekwondo Cómodos Antideslizantes Zapatillas Deportivos de Taekwondo Kung Fu Tai Chi   tamaño : 26  '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077QNF4X3/?tag=tolees-21'
 descuento: '47.46'
 average: '11.29'

@@ -16,6 +16,7 @@ comparePrice: 190.0 EUR
 prodname: 'Versus by Versace Reloj Analogico para Hombre de Cuarzo con Correa en Cuero VSP520118'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BBFD27D/?tag=tolees-21'
 descuento: '42.11'
 average: '104.40529411764706'

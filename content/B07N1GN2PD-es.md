@@ -16,6 +16,7 @@ comparePrice: 180.0 EUR
 prodname: 'Clarks Un Elda Hi  Botas Slouch para Mujer  Marrón  Dark Tan Suede Dark Tan Suede   37.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1GN2PD/?tag=tolees-21'
 descuento: '55.91'
 average: '100.10499999999999'

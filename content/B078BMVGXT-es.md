@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Pala NOX Equation A.4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078BMVGXT/?tag=tolees-21'
 descuento: '28.09'
 average: '80.87272727272727'

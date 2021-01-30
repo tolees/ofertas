@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Durex Preservativos Mutual Clímax con Puntos y Estrías para ella y Efecto Retardante para él - 12 condones'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0869ZVYXL/?tag=tolees-21'
 descuento: '40.62'
 average: '7.934'

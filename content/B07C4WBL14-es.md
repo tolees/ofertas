@@ -16,6 +16,7 @@ comparePrice: 6.54 EUR
 prodname: 'LuckyGirls Bañadores de Natación Hombre Calzoncillos Cortos para Hombre Boxers Playa Surf Deportivos Corriendo Respirable Secado Rápido Trajes de Baño Estampado de Estrellas Slips Tanga  XL  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C4WBL14/?tag=tolees-21'
 descuento: '65.14'
 average: '2.28'

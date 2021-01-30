@@ -16,6 +16,7 @@ comparePrice: 10.58 EUR
 prodname: 'Baoblaze Regla De Planchado En Caliente Patchwork Tailor Craft DIY Herramienta De Medición De Suministros De Costura'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WQJCMVQ/?tag=tolees-21'
 descuento: '43.38'
 average: '5.99'

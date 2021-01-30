@@ -16,6 +16,7 @@ comparePrice: 36.17 EUR
 prodname: 'Lark & Ro Long Sleeve Mixed Lace Dress  Azul Marino Oscuro  US 10  EU M - L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NYYFDNF/?tag=tolees-21'
 descuento: '52.59'
 average: '17.15'

@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'U.S. Polo Assn. Cree  Zapatillas de Gimnasia para Hombre  Marrón  Dk BR 028   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NFHYPPZ/?tag=tolees-21'
 descuento: '40.00'
 average: '47.97'

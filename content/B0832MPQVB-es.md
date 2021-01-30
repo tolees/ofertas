@@ -16,6 +16,7 @@ comparePrice: 19.55 EUR
 prodname: 'Wakana Trampa para Ratones 2 Pcs Ratonera Ratas Vivos Trampa para Ratas Ratonera de Plástico Reutilizable con Diseño de Cola Anti-Roto y Agujeros de Aire para Cocina Jardín Hogar Cocina Ático Garaje'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0832MPQVB/?tag=tolees-21'
 descuento: '28.44'
 average: '13.99'

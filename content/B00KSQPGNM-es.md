@@ -16,6 +16,7 @@ comparePrice: 62.48 EUR
 prodname: 'BaByliss IPro Slim ST387E – Plancha de pelo iónica  placas profesionales de cerámica para cabello húmedo y seco  calentamiento instantáneo  6 temperaturas 140º - 235º'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KSQPGNM/?tag=tolees-21'
 descuento: '37.60'
 average: '38.79'

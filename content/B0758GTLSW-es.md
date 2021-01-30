@@ -16,6 +16,7 @@ comparePrice: 10.55 EUR
 prodname: 'Horquillas para el pelo de Miaoo  40 piezas de cristal con perlas y diamantes de imitación en forma de flor  accesorio perfecto para uso diario'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0758GTLSW/?tag=tolees-21'
 descuento: '33.74'
 average: '6.99'

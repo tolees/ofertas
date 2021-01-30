@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Colcolo Tarjetas De Plumas Hechas A Mano para Saludos De Invitaciones De Cumpleaños De Boda  - E'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CKDRF1K/?tag=tolees-21'
 descuento: '37.48'
 average: '4.3566666666666665'

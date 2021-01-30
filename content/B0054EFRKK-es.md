@@ -16,6 +16,7 @@ comparePrice: 53.55 EUR
 prodname: 'Bausch & Lomb - PureVision 2 Esféricas - Lentes de Contacto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0054EFRKK/?tag=tolees-21'
 descuento: '67.15'
 average: '15.83'

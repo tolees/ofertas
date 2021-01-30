@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Polaroid Originals - 4671 - Película Negro y Blanco para cámara 600 - Marco Clásico Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075GY3ZD1/?tag=tolees-21'
 descuento: '25.28'
 average: '14.19'

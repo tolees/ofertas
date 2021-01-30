@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'HP Omen X9000 - Ratón con Cable Gaming 8200 PPP  Negro y Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OHVWPWO/?tag=tolees-21'
 descuento: '38.47'
 average: '35.074'

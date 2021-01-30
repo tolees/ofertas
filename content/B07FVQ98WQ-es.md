@@ -16,6 +16,7 @@ comparePrice: 12.72 EUR
 prodname: 'Eazyhurry - Funda con tapa para iPhone 6 y 6S  incluye protector de pantalla delantera   diseño en relieve  piel sintética  Patrón-1  iPhone 6 Plus/iPhone 6S Plus 5.5  '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FVQ98WQ/?tag=tolees-21'
 descuento: '54.09'
 average: '5.84'

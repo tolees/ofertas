@@ -16,6 +16,7 @@ comparePrice: 22.95 EUR
 prodname: 'Pyramid International - Felpudo "You Shall Not Pass!" De El Señor De Los Anillos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NBYGE3X/?tag=tolees-21'
 descuento: '34.86'
 average: '15.558'

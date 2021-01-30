@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Wrangler Arizona Straight Jeans  Negro  Black   38W / 36L para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y1F4LDG/?tag=tolees-21'
 descuento: '51.23'
 average: '38.99'

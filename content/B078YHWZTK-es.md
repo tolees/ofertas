@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Scuderia Ferrari Reloj Analógico para Niños de Cuarzo con Correa en Silicona 840019'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078YHWZTK/?tag=tolees-21'
 descuento: '37.54'
 average: '55.59'

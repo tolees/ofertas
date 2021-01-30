@@ -16,6 +16,7 @@ comparePrice: 77.07 EUR
 prodname: 'Zapatillas Converse Chuck Taylor All Stars para mujer  Mujer  1009188380019  gris  35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07STC4HXQ/?tag=tolees-21'
 descuento: '28.64'
 average: '55.0'

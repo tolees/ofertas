@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'LABISTS Impresora 3D  Impresora Mini y Portátil con Filamento PLA de 10 m  Placa de Construcción Extraíble  Impresión en Línea/Fuera de Línea Impresora 3D Tamaño de Impresión 100mm x 100mm x 100mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082KMSVRQ/?tag=tolees-21'
 descuento: '25.00'
 average: '126.015'

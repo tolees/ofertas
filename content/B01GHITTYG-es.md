@@ -16,6 +16,7 @@ comparePrice: 105.28 EUR
 prodname: 'Plantronics Voyager 5200 Monoaural gancho de oreja Negro  Gris - Auriculares   IPX4  Bluetooth '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GHITTYG/?tag=tolees-21'
 descuento: '25.83'
 average: '78.09'

@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'JOHN SMITH OGNI J 001 AZUL REAL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V5LP82B/?tag=tolees-21'
 descuento: '47.70'
 average: '13.05'

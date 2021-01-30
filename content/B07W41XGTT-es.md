@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Luces LED Armario Tomshine 6PCS RGBW Lámpara de Armario 10 Brillo Regulable/3 Iluminación Modo Luz Nocturna con Pilas con 2 Control Remoto Para Vitrina Cocina Garaje[Clase Eficiencia Energética A++]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W41XGTT/?tag=tolees-21'
 descuento: '35.73'
 average: '17.99'

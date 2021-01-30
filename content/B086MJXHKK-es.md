@@ -16,6 +16,7 @@ comparePrice: 10.98 EUR
 prodname: 'Oihxse Funda para Xiaomi Redmi S2/Y2 Transparente  Estuche con Xiaomi Redmi S2/Y2 Ultra-Delgado Silicona TPU Suave Protectora Carcasa Océano Animal Serie Bumper  C6 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086MJXHKK/?tag=tolees-21'
 descuento: '27.32'
 average: '7.98'

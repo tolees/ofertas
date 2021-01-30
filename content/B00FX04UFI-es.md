@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'World Of Warcraft 5.0'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00FX04UFI/?tag=tolees-21'
 descuento: '39.96'
 average: '11.6975'

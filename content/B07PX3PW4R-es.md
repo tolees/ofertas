@@ -16,6 +16,7 @@ comparePrice: 16.7 EUR
 prodname: 'Funko- Pop Figura De Vinil: Disney Clause-Santa Coleccionable  Multicolor  42600 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PX3PW4R/?tag=tolees-21'
 descuento: '40.72'
 average: '9.225'

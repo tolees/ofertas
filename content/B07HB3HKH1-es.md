@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Pop! Fallout - Figura de Vinilo Nerd Rage'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HB3HKH1/?tag=tolees-21'
 descuento: '33.48'
 average: '10.61'

@@ -16,6 +16,7 @@ comparePrice: 199.95 EUR
 prodname: 'Imperial Confort - Topper viscoelástico - 150 x 190 cm - Grosor 8 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XY68B4W/?tag=tolees-21'
 descuento: '41.92'
 average: '111.88666666666667'

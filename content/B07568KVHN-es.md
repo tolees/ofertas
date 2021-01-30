@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Classic Fit-Delson-Camden  Men’s Sneakers  Taupe  9 UK  10 US '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07568KVHN/?tag=tolees-21'
 descuento: '54.89'
 average: '29.3'

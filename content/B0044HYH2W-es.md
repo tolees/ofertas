@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'Elizabeth Arden Prevage Eye Ultra Protection Crema Antiarrugas SPF15 15 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0044HYH2W/?tag=tolees-21'
 descuento: '46.27'
 average: '63.9'

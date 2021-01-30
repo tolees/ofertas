@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Decodificador TDT Terrestre - Leelbox Digital TV HD Euroconector Sintonizador Receptor DVB T2 Tuner Full HD / HD Ready / 1080P / H.264 / MPEG / Multimedia  DVB T2  PVR  SCART '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LGT8PZ7/?tag=tolees-21'
 descuento: '25.01'
 average: '25.82333333333333'

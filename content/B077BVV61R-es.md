@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Papi Max 4 Piezas X Large Baseplate 32x32 Studs 25.4cm X 25.4cm estándar Puntos Ladrillos Minifigures Proyecto Gris Placa de construcción Placa Base Verde Paquete de Paquete de Regalo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077BVV61R/?tag=tolees-21'
 descuento: '32.01'
 average: '16.99'

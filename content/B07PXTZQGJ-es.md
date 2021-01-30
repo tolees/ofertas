@@ -16,6 +16,7 @@ comparePrice: 53.14 EUR
 prodname: 'Under Armour UA W Charged Rogue 2  Zapatillas de Running para Mujer  Azul  Rift Blue/Rift Blue/Blue Haze   42 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PXTZQGJ/?tag=tolees-21'
 descuento: '40.99'
 average: '31.36'

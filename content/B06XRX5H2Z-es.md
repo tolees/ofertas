@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'LG SJ4 Barra de sonido  Subwoofer inalámbrico  Bluetooth   Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XRX5H2Z/?tag=tolees-21'
 descuento: '30.15'
 average: '142.5'

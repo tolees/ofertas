@@ -16,6 +16,7 @@ comparePrice: 26.8 EUR
 prodname: 'Lancaster Aquamilk Cream Tube 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BKUP1GW/?tag=tolees-21'
 descuento: '38.06'
 average: '15.053333333333335'

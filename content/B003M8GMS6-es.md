@@ -16,6 +16,7 @@ comparePrice: 11.31 EUR
 prodname: 'OXO Good Grips Limpieza Profunda del Sistema de Cepillo - Cepillos para Limpiar en Profundidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003M8GMS6/?tag=tolees-21'
 descuento: '29.71'
 average: '9.02'

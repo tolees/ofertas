@@ -16,6 +16,7 @@ comparePrice: 47.99 EUR
 prodname: 'Daga Vendaje Térmico Muñeca - Neopreno  Calor y compresión  Autonomía 90 Min  Cargador'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0154O8DXC/?tag=tolees-21'
 descuento: '51.30'
 average: '23.37'

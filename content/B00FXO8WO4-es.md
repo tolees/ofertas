@@ -16,6 +16,7 @@ comparePrice: 269.0 EUR
 prodname: 'BLACK+DECKER GWC3600L20-QW - Soplador  aspirador  triturador 36V  incluye batería litio 2Ah'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00FXO8WO4/?tag=tolees-21'
 descuento: '40.78'
 average: '146.35285714285715'

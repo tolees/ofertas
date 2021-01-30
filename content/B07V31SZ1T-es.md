@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Zellar Fuente De Agua para Mascotas  Fuente para Beber para Perros  Fuente Dispensadora Automática De Agua para Gatos  2L  Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V31SZ1T/?tag=tolees-21'
 descuento: '25.01'
 average: '23.99'

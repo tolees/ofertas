@@ -16,6 +16,7 @@ comparePrice: 10.86 EUR
 prodname: 'Dilwe Reloj Analógico Casual Esfera Redonda Patrón de Conejo Banda de Reloj Ajustable de Cuero de PU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G78J9XB/?tag=tolees-21'
 descuento: '54.97'
 average: '4.89'

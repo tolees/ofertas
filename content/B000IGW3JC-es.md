@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Varta ACCU - Pack de 4 pilas AAA recargables  NiMH  1000 mAh  precargadas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000IGW3JC/?tag=tolees-21'
 descuento: '34.02'
 average: '8.440000000000001'

@@ -16,6 +16,7 @@ comparePrice: 68.99 EUR
 prodname: 'Epson C13T789440 - Tóner para impresoras láser  4000 páginas  color amarillo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00I8EVCJ8/?tag=tolees-21'
 descuento: '41.83'
 average: '42.165000000000006'

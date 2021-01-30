@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Dragon Quest Builders - Edición Estándar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078J17FGJ/?tag=tolees-21'
 descuento: '34.03'
 average: '36.90833333333333'

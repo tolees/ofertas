@@ -16,6 +16,7 @@ comparePrice: 58.9 EUR
 prodname: 'Calvin Klein Medium Drawstring Bañador  Blanco  PVH Classic White YCD   Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VMNX6JL/?tag=tolees-21'
 descuento: '37.86'
 average: '36.6'

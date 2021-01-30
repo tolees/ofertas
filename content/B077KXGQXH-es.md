@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'VicTsing Ratón Inalámbrico Bluetooth 4.0 & 2.4G  5 dpi Adjustables y Control de Multi-Dispositivo  para PC  Computadora  Portátil  Mac  y Tableta Andorid  Móviles Inteligentes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077KXGQXH/?tag=tolees-21'
 descuento: '33.35'
 average: '13.98923076923077'

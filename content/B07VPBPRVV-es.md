@@ -16,6 +16,7 @@ comparePrice: 280.0 EUR
 prodname: 'Pinko Love Classic Simply 1 Cl Pelle  Bolsa de mensajero para Mujer  Beige  BEIGE-CHIARO DI LUNA   7.5x16.5x27 centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VPBPRVV/?tag=tolees-21'
 descuento: '39.51'
 average: '169.38'

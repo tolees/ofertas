@@ -16,6 +16,7 @@ comparePrice: 0.2 EUR
 prodname: 'Manual del bebé Aspirador nasal de silicona Aspirador nasal Bomba de succión nasal Dispositivo de aspiración nasal Herramienta de limpieza de nariz fría-Rosa-1 Tamaño'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZG1G1F/?tag=tolees-21'
 descuento: '95.00'
 average: '0.01'

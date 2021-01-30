@@ -16,6 +16,7 @@ comparePrice: 45.67 EUR
 prodname: 'Under Armour UA W Charged Assert 8 LTD  Zapatillas de Running para Mujer  Blanco  White/White/Mod Gray   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S6GY8C8/?tag=tolees-21'
 descuento: '32.32'
 average: '30.91'

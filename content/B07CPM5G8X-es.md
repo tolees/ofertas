@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Lunvon 12 Canales Enchufes Inalámbricos Inteligentes con Mando a Distancia con Control Remoto Interruptores a Distancia  Juego de Enchufes de 5 x Por Enchufe Con 2 x Mando a Distancia  1000 W  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CPM5G8X/?tag=tolees-21'
 descuento: '27.76'
 average: '25.73333333333333'

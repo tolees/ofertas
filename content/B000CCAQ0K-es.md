@@ -16,6 +16,7 @@ comparePrice: 17.18 EUR
 prodname: 'Maxell 2347477'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000CCAQ0K/?tag=tolees-21'
 descuento: '29.51'
 average: '12.11'

@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Pop! Austin Powers - Figura de Vinilo Dr. Evil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFJCMVH/?tag=tolees-21'
 descuento: '37.99'
 average: '10.3585'

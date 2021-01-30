@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Springfield Básico Piel Cinturón  Dark Brown  105 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NQT1M2C/?tag=tolees-21'
 descuento: '43.71'
 average: '9'

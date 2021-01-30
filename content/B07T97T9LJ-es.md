@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'The North Face M Sur-EU Forro Polar  Hombre  Black Camo PRT'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T97T9LJ/?tag=tolees-21'
 descuento: '50.00'
 average: '35.0'

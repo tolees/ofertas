@@ -16,6 +16,7 @@ comparePrice: 45.16 EUR
 prodname: 'Beeasy Dispensador Jabón Automático 400mL Dosificador Gel Hidroalcohólico Automatico Montable en la Pared IPX7 Impermeable para Cocina Baño Aseo Escuela Hospital Hotel Restaurante Lugar Público'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089NR6RWY/?tag=tolees-21'
 descuento: '33.59'
 average: '32.49'

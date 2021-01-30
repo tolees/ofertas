@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Anita - Sujetador para mujer  Negro  schwarz 001   80B'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HNACR24/?tag=tolees-21'
 descuento: '45.75'
 average: '32.52'

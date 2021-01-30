@@ -16,6 +16,7 @@ comparePrice: 49.5 EUR
 prodname: 'i-baby Manta Franela Grande para Adulto Cama Sofá Manta de Fina Lana l Estampado Decorativo de Estrella de Terciopelo Super Suave  Rosado  180x200cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MSLTWJN/?tag=tolees-21'
 descuento: '43.64'
 average: '27.9'

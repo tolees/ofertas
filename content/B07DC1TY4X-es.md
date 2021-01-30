@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Puma Nova 90 s Bloc Wn s  Zapatillas para Mujer  Negro Black  40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DC1TY4X/?tag=tolees-21'
 descuento: '58.32'
 average: '37.49'

@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Reebok Club C 85  Zapatillas para Mujer  Blanco  White/Light Grey 0   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071ZSQ6ZR/?tag=tolees-21'
 descuento: '37.25'
 average: '50.17'

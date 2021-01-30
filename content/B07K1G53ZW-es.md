@@ -16,6 +16,7 @@ comparePrice: 18.25 EUR
 prodname: 'KUONIIY Tijeras de Cocina para Trabajo Pesado  Tijeras de Cocción Desmontable  Tijeras para Pollo Aves Pescados Carnes Verduras Hierbas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K1G53ZW/?tag=tolees-21'
 descuento: '50.74'
 average: '8.99'

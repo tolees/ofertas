@@ -16,6 +16,7 @@ comparePrice: 81.27 EUR
 prodname: 'BRA RÁPIDA Vitesse Olla de 6 litros apta para todo tipo de cocinas incluida inducción  Acero Inoxidable  Plata  22 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006FXBUM8/?tag=tolees-21'
 descuento: '28.82'
 average: '55.92000000000001'

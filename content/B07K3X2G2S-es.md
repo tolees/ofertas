@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'E·Durable 86in1 Herramientas pc Kit Destornilladores Precision Juego Destornilladores Precision Profesional Herramientas Completa para electronico reparación iPhone  iPad  Reloj  Tablet PC  MacBook'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K3X2G2S/?tag=tolees-21'
 descuento: '33.34'
 average: '19.99'

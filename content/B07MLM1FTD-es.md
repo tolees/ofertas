@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'L3 Tech Estuche rígido para SanDisk SSD portátil SDSSDE60 de 250GB / 500GB / 1TB / 2TB  Bolsa de Almacenamiento portátil - Negro  Forro Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MLM1FTD/?tag=tolees-21'
 descuento: '30.22'
 average: '13.95'

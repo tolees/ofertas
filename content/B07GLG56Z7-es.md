@@ -16,6 +16,7 @@ comparePrice: 12.5 EUR
 prodname: '100g  0.22LB  China Yunnan conservas de té Puerh Chen Xiang pequeños Tuocha puer té Pu er té maduro Alimentos verdes Pu er té Té negro Té chino Pu er té Pu-erh té Pu er té té cocido Té rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GLG56Z7/?tag=tolees-21'
 descuento: '50.00'
 average: '6.25'

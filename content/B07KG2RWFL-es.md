@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'PUMA Ralph Sampson Lo  Zapatillas Deportivas Unisex Adulto  Weiß White White Jaffa Orange  36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KG2RWFL/?tag=tolees-21'
 descuento: '61.26'
 average: '36.346666666666664'

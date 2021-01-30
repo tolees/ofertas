@@ -16,6 +16,7 @@ comparePrice: 44.79 EUR
 prodname: 'ASICS Cuffed Knit Pant - XXL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SX8Y5R0/?tag=tolees-21'
 descuento: '62.51'
 average: '16.79'

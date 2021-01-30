@@ -16,6 +16,7 @@ comparePrice: 34.85 EUR
 prodname: 'Ciroc Pineapple Vodka - 700 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UJJKCL4/?tag=tolees-21'
 descuento: '46.46'
 average: '23.07'

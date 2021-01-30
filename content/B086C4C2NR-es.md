@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Dispensador de Jabón Automático con Sensor de Movimiento Inteligente para Baño Cocina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086C4C2NR/?tag=tolees-21'
 descuento: '40.01'
 average: '23.99'

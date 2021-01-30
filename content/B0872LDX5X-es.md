@@ -16,6 +16,7 @@ comparePrice: 240.47 EUR
 prodname: 'NMBC Fundas de Asiento Protector de cojín de Asiento de automóvil Asiento de cojín de Asiento de automóvil Funda con Calefacción y Función de ventilación Portátil Transpirable-1 Beige'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0872LDX5X/?tag=tolees-21'
 descuento: '40.12'
 average: '143.99'

@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Viedouce Baberos Bebe Bandanas con 2 Ajustables Botón a Presión 100% Algodón Orgánico Suave & Absorbente Baberos Drool para Niños Niñas  Color-01  9 Packs '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S23S2FH/?tag=tolees-21'
 descuento: '48.02'
 average: '12.99'

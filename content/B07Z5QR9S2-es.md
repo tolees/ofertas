@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Funny House 40 PCS Bolsa de Fiesta Arco Iris  Papel Regalo Bolsas con 100 PCS Pegatina de Forma de Corazon   Fiesta de Cumpleaños Favores Bolsas para Niños Suministros Fiesta de Cumpleaños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z5QR9S2/?tag=tolees-21'
 descuento: '28.59'
 average: '9.99'

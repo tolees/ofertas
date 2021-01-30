@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'SDINAZ Mochilas para computadora portátil para con Puerto de Carga USB y Puerto para Auriculares  Tela Oxford Impermeable School Computer Notebook Mochilas Escolares ES883'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089M5NWMG/?tag=tolees-21'
 descuento: '53.01'
 average: '46.99'

@@ -16,6 +16,7 @@ comparePrice: 169.0 EUR
 prodname: 'Fossil Reloj de Bolsillo Analógico de Cuarzo FTW5039'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MH66XGD/?tag=tolees-21'
 descuento: '41.42'
 average: '96.1'

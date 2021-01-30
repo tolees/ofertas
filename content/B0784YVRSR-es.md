@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Reebok Workout Plus  Zapatillas de Deporte para Niños  Blanco  White/Steel/Royal 000   36.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0784YVRSR/?tag=tolees-21'
 descuento: '26.12'
 average: '33.925'

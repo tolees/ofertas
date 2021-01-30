@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Funda iPhone 11 Pro  5.8"  Silicona Anti-Golpes Detalles Plateados  Carcasa Apple iPhone 11 Protección Puerto Carga  Transparente '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085TLJLZQ/?tag=tolees-21'
 descuento: '48.63'
 average: '7.7'

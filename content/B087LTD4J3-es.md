@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Fuutuu Mini Máquinas de coser Portátil Herramienta de Puntada Rápida para Tela Ropa con Set de Costura para Uso de Viaje y Casa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087LTD4J3/?tag=tolees-21'
 descuento: '47.34'
 average: '10.0'

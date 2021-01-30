@@ -16,6 +16,7 @@ comparePrice: 7.15 EUR
 prodname: 'Neutrogena Bálsamo Nariz y Labios Reparación Intensa - 15 ml.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00M75MEXW/?tag=tolees-21'
 descuento: '39.30'
 average: '4.652'

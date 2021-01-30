@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Ventilador Personal Portáti Ventilador de Cuello Colgante  Mini USB Ventilador sin Cuchillas Recargable Ventilador Personal Portátil con 3 Velocidades（222x207x58mm）'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BHM5R4K/?tag=tolees-21'
 descuento: '33.62'
 average: '21.9'

@@ -16,6 +16,7 @@ comparePrice: 32.0 EUR
 prodname: 'Tommy Hilfiger Unlined Bralette Sujetador sin Aros  Gris  Grey Heather 020   Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078WTLZQH/?tag=tolees-21'
 descuento: '46.91'
 average: '23.424999999999997'

@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Carol-JA Gris  39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P15RRGV/?tag=tolees-21'
 descuento: '30.00'
 average: '45.5'

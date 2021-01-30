@@ -16,6 +16,7 @@ comparePrice: 53.62 EUR
 prodname: 'Homyl Unidad Disquete USB Externa Sfrm72-du26 Accesorios de Ordenador Herramienta Fácil de Usar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L6NF9D5/?tag=tolees-21'
 descuento: '44.44'
 average: '29.91'

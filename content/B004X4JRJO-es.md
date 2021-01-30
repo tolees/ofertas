@@ -16,6 +16,7 @@ comparePrice: 264.59 EUR
 prodname: 'Braun BN0035WHBKG - Reloj cronógrafo de caballero de cuarzo con correa de piel negra'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004X4JRJO/?tag=tolees-21'
 descuento: '44.94'
 average: '143.275'

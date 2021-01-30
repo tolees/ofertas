@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'SHYOSUCCE Soporte para Portátil  Aluminio Ventilado Refrigeración Soporte Ordenador Portátil  Laptop Stand Ajustable pour Huawei MateBook  HP  Dell  Samsung'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087BWS2KR/?tag=tolees-21'
 descuento: '27.29'
 average: '16.59'

@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Intex-57500NP Set 3 posavasos hinchables diseño de flamenco  multicolor  1.Mini  57500 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LH27HM3/?tag=tolees-21'
 descuento: '54.77'
 average: '6.66'

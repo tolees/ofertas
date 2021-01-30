@@ -16,6 +16,7 @@ comparePrice: 15.42 EUR
 prodname: 'Ravensburger- Dinosaurier Memory  diseño Dinosaurios  Multicolor  22099 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0068JRSFW/?tag=tolees-21'
 descuento: '35.21'
 average: '14.0275'

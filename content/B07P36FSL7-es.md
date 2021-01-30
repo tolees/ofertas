@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Dickies Fairdale  Pantalones para Hombre  Negro  Black Bk   W40/L34'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P36FSL7/?tag=tolees-21'
 descuento: '80.51'
 average: '13.45'

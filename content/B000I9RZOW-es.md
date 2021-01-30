@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Intex 58924NP - Piscina 3 aros bebé Sunset  86 x 25cm  68L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000I9RZOW/?tag=tolees-21'
 descuento: '40.20'
 average: '6.433333333333332'

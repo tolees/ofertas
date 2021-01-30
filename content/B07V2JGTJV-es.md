@@ -16,6 +16,7 @@ comparePrice: 11.95 EUR
 prodname: 'Max Factor Velvet Mattes Lipstick  Tono 065  1 unidad 40 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V2JGTJV/?tag=tolees-21'
 descuento: '46.53'
 average: '4.35'

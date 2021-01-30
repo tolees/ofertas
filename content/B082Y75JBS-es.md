@@ -16,6 +16,7 @@ comparePrice: 22.51 EUR
 prodname: 'perfk Protector para Asiento de Coche  Antideslizante  Fácil de Limpiar y Transpirable  Felpa  Ideal para Turismos/SUV - Crema'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082Y75JBS/?tag=tolees-21'
 descuento: '36.96'
 average: '14.19'

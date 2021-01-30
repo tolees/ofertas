@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Columbia Canyon Point Waterproof  Zapatillas de Senderismo  Impermeable para Mujer  Beige  Pebble  Sky Blue   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CVW6W6N/?tag=tolees-21'
 descuento: '33.45'
 average: '59.89'

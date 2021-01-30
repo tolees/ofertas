@@ -16,6 +16,7 @@ comparePrice: 31.49 EUR
 prodname: '6x Bolas de Baño Sal de Baño Bolas Perfumadas Esenciales para Mujeres'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H2X6GCX/?tag=tolees-21'
 descuento: '33.34'
 average: '20.99'

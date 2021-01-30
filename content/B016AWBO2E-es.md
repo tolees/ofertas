@@ -16,6 +16,7 @@ comparePrice: 189.0 EUR
 prodname: 'ASUS VP278H TFT 27" Negro Full HD Matt - Monitor  1920 x 1080 Pixeles  LCD  Full HD  TFT  Matt  1920 x 1080  HD 1080  '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016AWBO2E/?tag=tolees-21'
 descuento: '33.86'
 average: '123.61000000000001'

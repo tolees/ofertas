@@ -16,6 +16,7 @@ comparePrice: 109.95 EUR
 prodname: 'GLOBE Sabre  Zapatillas de Skateboard para Hombre  Multicolor  Grey/Black Split 14316   37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W5T8QYP/?tag=tolees-21'
 descuento: '34.52'
 average: '57.54'

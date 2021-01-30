@@ -16,6 +16,7 @@ comparePrice: 594.92 EUR
 prodname: 'Zeno Watch Basel 6569-a1 - Reloj analógico automático para Hombre con Correa de Piel  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0087BLVNO/?tag=tolees-21'
 descuento: '42.52'
 average: '350.2866666666667'

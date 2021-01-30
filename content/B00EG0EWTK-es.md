@@ -16,6 +16,7 @@ comparePrice: 87.9 EUR
 prodname: 'Bosch MFQ40303 Styline Batidora y Amasadora  500 W  color rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EG0EWTK/?tag=tolees-21'
 descuento: '38.57'
 average: '39.76222222222222'

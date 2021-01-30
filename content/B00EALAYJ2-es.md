@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Bausch & Lomb - Biotrue One Day Esféricas - Lentes de Contacto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EALAYJ2/?tag=tolees-21'
 descuento: '63.24'
 average: '10.99'

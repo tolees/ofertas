@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Rubies - Disfraz infantil de bruja  color púrpura  1-2 años  Rubie s Spain 11518-T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002FU56TI/?tag=tolees-21'
 descuento: '49.95'
 average: '5.0'

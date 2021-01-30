@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Napapijri Erzin Polo  Verde  New Olive Green Gd6   X-Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L9QVTKW/?tag=tolees-21'
 descuento: '70.54'
 average: '21.515'

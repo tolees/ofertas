@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Converse Chuck Taylor CT As SP Hi  Zapatillas Altas Unisex Adulto  Blanco  Blanc Optical   46.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0012RN0DY/?tag=tolees-21'
 descuento: '40.74'
 average: '41.48'

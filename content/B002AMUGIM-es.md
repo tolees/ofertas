@@ -16,6 +16,7 @@ comparePrice: 134.0 EUR
 prodname: 'Sisley Phyto Jour&Nuit Crema Hidratantee ConcSombra Pot 50 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002AMUGIM/?tag=tolees-21'
 descuento: '39.40'
 average: '81.2'

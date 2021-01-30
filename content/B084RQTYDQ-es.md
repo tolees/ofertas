@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'MSI Pro MP221 - Monitor de 22" FHD 60 Hz  1920 x 1080 Pixeles  Ratio 16:9  5 ms de repuesta  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084RQTYDQ/?tag=tolees-21'
 descuento: '25.00'
 average: '89.99'

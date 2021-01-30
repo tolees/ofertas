@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'adidas Core18 Rn Jkt Y Sport Jacket  Unisex niños  Power Red/White  5-6Y'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076HPV36V/?tag=tolees-21'
 descuento: '42.37'
 average: '20.14'

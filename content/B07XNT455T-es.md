@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Foto Clip Cadena de Luces LED - Elegear Cadena Luces de Clip para Fotos 3m 20 LED Garland Light Clamp Batería 8 Modos Iluminación Decoración para Colgar Fotos  Memos  Obras de Arte  3M 20LED '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XNT455T/?tag=tolees-21'
 descuento: '52.41'
 average: '9.99'

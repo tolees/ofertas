@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Einhell  4513495 RT-SD 3 6/2 Li Kit  -  Atornillador inalámbrico con  caja de puntas de 32 piezas  bateria ión de litio  5.4 W  3.6 V  Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HNLQZXA/?tag=tolees-21'
 descuento: '42.68'
 average: '26.4'

@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Cressi Light Aletas  Unisex-Youth  Blanco  43/44'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004F0XQ9I/?tag=tolees-21'
 descuento: '26.33'
 average: '13.99'

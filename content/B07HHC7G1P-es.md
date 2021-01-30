@@ -16,6 +16,7 @@ comparePrice: 30.67 EUR
 prodname: 'SYOSS  Laca - 6 de 400 ml.  Total 2400 ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HHC7G1P/?tag=tolees-21'
 descuento: '57.48'
 average: '13.04'

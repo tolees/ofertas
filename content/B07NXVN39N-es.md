@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Skechers Elite Flex  Zapatillas para Hombre  Negro  Black Premium Wool/Synthetic/Metal/Trim Black   40 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NXVN39N/?tag=tolees-21'
 descuento: '56.89'
 average: '39.048'

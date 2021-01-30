@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Schneespitze Kitchen Sink Estantería Fregadero Soporte Cesta Sponge Holder Sink Plana Basket Cesta Colgante para El Almacenamiento Otro Almacenamiento'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VM41QW2/?tag=tolees-21'
 descuento: '72.56'
 average: '3.29'

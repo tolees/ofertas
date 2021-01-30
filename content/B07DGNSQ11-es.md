@@ -16,6 +16,7 @@ comparePrice: 176.9 EUR
 prodname: 'Dreaming Kamahaus Damas Colchón  120 x 200'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DGNSQ11/?tag=tolees-21'
 descuento: '53.49'
 average: '82.28'

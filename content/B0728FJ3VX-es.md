@@ -16,6 +16,7 @@ comparePrice: 18.68 EUR
 prodname: 'RED WAGON Zapatillas Altas para Niñas  Rosa  Pink   30.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0728FJ3VX/?tag=tolees-21'
 descuento: '64.67'
 average: '6.6'

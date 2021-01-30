@@ -16,6 +16,7 @@ comparePrice: 1.59 EUR
 prodname: 'Knorr Pot Plato Preparado de Pasta Boloñesa - 68 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BH8FX59/?tag=tolees-21'
 descuento: '37.11'
 average: '1.342'

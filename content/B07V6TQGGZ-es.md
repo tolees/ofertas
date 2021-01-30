@@ -16,6 +16,7 @@ comparePrice: 22.28 EUR
 prodname: 'Pour Moi? Suspense Suspender Suspensores  Rojo  Red Red   XXL para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V6TQGGZ/?tag=tolees-21'
 descuento: '61.13'
 average: '8.66'

@@ -16,6 +16,7 @@ comparePrice: 52.99 EUR
 prodname: 'Auna CS-Red-4 - Pack de Altavoces para Coche  400 W'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0088MIF5O/?tag=tolees-21'
 descuento: '56.61'
 average: '20.99'

@@ -16,6 +16,7 @@ comparePrice: 147.0 EUR
 prodname: 'Maytronics 9995670-ASSY - Cuadro alimentacion basico para robot piscina Dolphin'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BQVGXGK/?tag=tolees-21'
 descuento: '43.17'
 average: '121.18'

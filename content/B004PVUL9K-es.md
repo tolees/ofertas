@@ -16,6 +16,7 @@ comparePrice: 46.89 EUR
 prodname: 'Clatronic FR 3390 Freidora  capacidad 2 litros  1800 W  Plástico  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004PVUL9K/?tag=tolees-21'
 descuento: '26.66'
 average: '33.2675'

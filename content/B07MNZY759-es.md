@@ -16,6 +16,7 @@ comparePrice: 90 EUR
 prodname: 'Nike Air MAX Infuriate III Low  Zapatillas de Baloncesto para Hombre  Multicolor  Phantom/Black/Wolf Grey/Gum Light Brown 5   40.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MNZY759/?tag=tolees-21'
 descuento: '25.61'
 average: '70.965'

@@ -16,6 +16,7 @@ comparePrice: 11.15 EUR
 prodname: 'NUK Chupete espacial de silicona  forma adaptada a la mandíbula  18 – 36 meses  gato y oso polar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YWTM28P/?tag=tolees-21'
 descuento: '40.90'
 average: '6.59'

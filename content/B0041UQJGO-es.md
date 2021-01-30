@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Reebok Classic Leather  Zapatillas de Trail Running para Niños  Blanco  White 0   29 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0041UQJGO/?tag=tolees-21'
 descuento: '30.73'
 average: '28.27'

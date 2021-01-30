@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'WIWJ Funda para iPhone XR Carcasa Hollow Pintado Suave Silicona Gel Cover Cristal Transparente Flexible [Ultra Fina] TPU Movil Case 360 Anti-rasguños con Tapa Protectores Planta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XP1NGDS/?tag=tolees-21'
 descuento: '54.60'
 average: '4.99'

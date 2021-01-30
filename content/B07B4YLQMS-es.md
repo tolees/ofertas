@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Circuito ferrocarril Ciudad ajetreada'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B4YLQMS/?tag=tolees-21'
 descuento: '38.89'
 average: '48.88'

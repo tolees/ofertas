@@ -16,6 +16,7 @@ comparePrice: 34.59 EUR
 prodname: 'Vareone Cajas Cesta de Almacenamiento Plegables de Plástico  Color Gris y negro  3 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S1SR2SL/?tag=tolees-21'
 descuento: '30.64'
 average: '23.99'

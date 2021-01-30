@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Dickies Adairville suéter  Azul  X-Large  Talla del Fabricante:  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P22Q3TP/?tag=tolees-21'
 descuento: '67.35'
 average: '24.49'

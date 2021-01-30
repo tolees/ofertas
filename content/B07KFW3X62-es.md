@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'PUMA Speed SUTAMINA Wns  Zapatillas de Running para Mujer  Black-Milky Blue-Pink Alert  36 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFW3X62/?tag=tolees-21'
 descuento: '74.13'
 average: '25.86'

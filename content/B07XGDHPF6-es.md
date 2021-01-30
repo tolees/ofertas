@@ -16,6 +16,7 @@ comparePrice: 66.54 EUR
 prodname: 'Hauck Autoclose N Stop 2 puerta de segurida 75-80 cm  cierre magnético  autocierre  indicadore visual  apertura a ambos lados  ampliable hasta 122 cm sin agujeros en pared  metal blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XGDHPF6/?tag=tolees-21'
 descuento: '32.39'
 average: '44.99'

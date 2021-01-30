@@ -16,6 +16,7 @@ comparePrice: 17.94 EUR
 prodname: 'Romeo y Julieta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002VFCE9C/?tag=tolees-21'
 descuento: '34.78'
 average: '13.236666666666665'

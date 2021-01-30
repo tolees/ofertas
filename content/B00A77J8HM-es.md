@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'iRobot HEPA Replensishment Kit de Recambios serie 700  color gris   plástico  textil'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00A77J8HM/?tag=tolees-21'
 descuento: '40.01'
 average: '29.99'

@@ -16,6 +16,7 @@ comparePrice: 260.0 EUR
 prodname: 'Helly Hansen Verglas Hooded Down Insulator Jacket  Hombre  Black  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XHD5SXJ/?tag=tolees-21'
 descuento: '50.00'
 average: '135.98000000000002'

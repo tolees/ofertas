@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Levi s Essential Polo  Azul  Sea Captain Blue 0005   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFNRZ1V/?tag=tolees-21'
 descuento: '50.00'
 average: '23.983333333333334'

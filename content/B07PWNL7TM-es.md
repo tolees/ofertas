@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Under Armour UA GS Charged Pursuit 2  Zapatillas de Running Unisex Niños  Negro  Black/White/White   38.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PWNL7TM/?tag=tolees-21'
 descuento: '39.60'
 average: '33.19'

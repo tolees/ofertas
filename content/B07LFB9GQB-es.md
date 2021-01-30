@@ -16,6 +16,7 @@ comparePrice: 4.29 EUR
 prodname: '15 unids/rollo bolsas de pañales para bebés desechables portátiles de basura de mascotas de mascotas bolsas de bebé accesorio cochecito para mami y bebé'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFB9GQB/?tag=tolees-21'
 descuento: '33.57'
 average: '2.85'

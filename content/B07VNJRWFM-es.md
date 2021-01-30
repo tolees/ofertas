@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'FITTOO Leggings Mallas Mujer Pantalones Deportivos Yoga Alta Cintura Elásticos y Transpirables Negro Extra Grande'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VNJRWFM/?tag=tolees-21'
 descuento: '45.74'
 average: '17.99'

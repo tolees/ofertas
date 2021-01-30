@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Aiglam Sistema de Enfriamiento por Nebulización Kit Nebulizadores para Terrazas  Sistema de Nebulizacion para Exteriores  Kits de Riego por Goteo para Invernaderos 12 Boquilla   Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083HV7TQV/?tag=tolees-21'
 descuento: '28.09'
 average: '18.69'

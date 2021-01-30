@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'SALAKA Gardening Weeder Hand Weeder Gardening Weeding Tool Extractor de remoción de malezas de Mano para Garden Lawn Yard'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WBZRQ48/?tag=tolees-21'
 descuento: '49.50'
 average: '10.1'

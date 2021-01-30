@@ -16,6 +16,7 @@ comparePrice: 29 EUR
 prodname: 'Navaja Plegable Morpilot Cuchillo de Acero Inoxidable con Punta Rompevidrio y Cutter Cinturón Cuchillo Plegable con Mango Acero Inoxidable para Acampar  Picnic  Caza'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZH74TJW/?tag=tolees-21'
 descuento: '55.21'
 average: '12.99'

@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'HOMYBABY Reductor WC Niños | Adaptador WC Niños para Aprender a ir al Baño | Asiento Inodoro Niños Universal | Adaptador Baño Antideslizante | Orinal Bebe WC Portatil | Asiento Bebe Blanco y Turquesa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082J5XFBC/?tag=tolees-21'
 descuento: '33.36'
 average: '9.99'

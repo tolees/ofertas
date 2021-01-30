@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Isabel + La corona partida + Carlos  Rey Emperador [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MDOUIER/?tag=tolees-21'
 descuento: '54.35'
 average: '45.65'

@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'G-STAR RAW ZED Cinturón  Marrón  Dk Cognac/Antic Silver 8128   110 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M74F1TP/?tag=tolees-21'
 descuento: '63.08'
 average: '20.35'

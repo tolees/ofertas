@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Young & Min Funda para Xiaomi Mi Note 10 / Note 10 Pro   3 Pack  Transparente TPU Silicona Carcasa Delgado Antigolpes Resistente  Amor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0819TXT7S/?tag=tolees-21'
 descuento: '58.53'
 average: '8.29'

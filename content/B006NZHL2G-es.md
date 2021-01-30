@@ -16,6 +16,7 @@ comparePrice: 30 EUR
 prodname: 'Nike W Np Pro Classic Swoosh Bra  Sujetador deportivo para Mujer  Blanco  White/Black   M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006NZHL2G/?tag=tolees-21'
 descuento: '37.83'
 average: '20.549999999999997'

@@ -16,6 +16,7 @@ comparePrice: 399.0 EUR
 prodname: 'Sigma 30mm f/1.4 DC DN Contemporary - Objetivo estándar para el Sistema Micro Cuatro Tercios  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01C3SCKT0/?tag=tolees-21'
 descuento: '53.35'
 average: '250.53'

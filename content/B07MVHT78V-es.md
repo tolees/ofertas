@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Kipling - Art Nc  Bolsos maletín Mujer  Naranja  Funky Orange Nc   44x27x20 cm  B x H T '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVHT78V/?tag=tolees-21'
 descuento: '53.72'
 average: '39.34'

@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Remington Compact Control IPL3500 - Depiladora de Luz Pulsada  Depiladora IPL con 350 000 Disparos para Cuerpo y Cara  Unisex  Blanco y Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079KNTD1W/?tag=tolees-21'
 descuento: '53.04'
 average: '119.12230769230769'

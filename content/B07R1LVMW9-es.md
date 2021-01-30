@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'dothnix Collares Antiparasitos para Perros y Gatos contra Pulgas  Garrapatas y Mosquitos  8 Meses de Protección  con Cortaúñas Tijera de Uñas para Mascotas 55cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R1LVMW9/?tag=tolees-21'
 descuento: '30.07'
 average: '13.983333333333333'

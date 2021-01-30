@@ -16,6 +16,7 @@ comparePrice: 8.54 EUR
 prodname: 'Aquabeads- Plantillas  Epoch para Imaginar 30288 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06W2GW7GJ/?tag=tolees-21'
 descuento: '53.28'
 average: '5.03'

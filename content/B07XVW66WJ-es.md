@@ -16,6 +16,7 @@ comparePrice: 259.95 EUR
 prodname: 'CYBEX Gold Silla de coche para niños Sirona M2 i-Size  Para niños de 45 cm a 105 cm  Máximum 19kg   Classic Beige'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XVW66WJ/?tag=tolees-21'
 descuento: '38.63'
 average: '159.53'

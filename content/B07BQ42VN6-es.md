@@ -16,6 +16,7 @@ comparePrice: 3.99 EUR
 prodname: 'Moussel -  Gel Ducha Clasico  900 ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BQ42VN6/?tag=tolees-21'
 descuento: '36.09'
 average: '2.7099999999999995'

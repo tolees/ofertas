@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'MO Bermuda Algodón Hombre - Azul Oscuro - Talla 48'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q5GNC2S/?tag=tolees-21'
 descuento: '49.97'
 average: '9.0'

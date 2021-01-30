@@ -16,6 +16,7 @@ comparePrice: 129 EUR
 prodname: 'Gant Cotton Pique Crew  suéter Hombre  Gris  Dark Grey Melange   X-Large'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D2Q8QGR/?tag=tolees-21'
 descuento: '34.88'
 average: '74.17'

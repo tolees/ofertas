@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'RATEL Tira de Sellado Junta de 30 m 4 x 7.5 m   Goma burlete para Puerta Ventana Antigolpes Resistente al Agua Autoadhesiva con 1 tijera y 1 cinta métrica para bloquear grietas y huecos  blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SJ4GHW7/?tag=tolees-21'
 descuento: '25.02'
 average: '10.139999999999999'

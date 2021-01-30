@@ -16,6 +16,7 @@ comparePrice: 37.99 EUR
 prodname: 'CASALS VBLI12 - Taladro Atornillador con batería de Litio de 12 V  1 3 A-h  750 RPM  15 N-m  Color Verde y Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078KP6K7S/?tag=tolees-21'
 descuento: '26.30'
 average: '28'

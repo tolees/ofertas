@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Auriculares inalámbricos de diadema para TV  con estación de carga digital de 2 4 GHz para TV  Hi-Fi  DVD  emisor con puerto óptico y auxiliar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CRDXBHD/?tag=tolees-21'
 descuento: '30.77'
 average: '89.99'

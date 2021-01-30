@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Levi s LEVIS FOOTWEAR AND ACCESSORIES Ivan Belt Cinturón  Negro  R Black 59   95 para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RF1SZ93/?tag=tolees-21'
 descuento: '31.33'
 average: '27.47'

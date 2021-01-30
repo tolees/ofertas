@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Levi s Essential Polo  Rojo  Brilliant Red 0009   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFL9T5J/?tag=tolees-21'
 descuento: '50.78'
 average: '19.41'

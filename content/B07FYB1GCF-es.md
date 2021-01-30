@@ -16,6 +16,7 @@ comparePrice: 19.04 EUR
 prodname: 'Nuevo té verde Dongting Biluochun Tea fragante primavera 250g  0.55LB  conservado verde biluochun primavera nueva la comida verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FYB1GCF/?tag=tolees-21'
 descuento: '50.00'
 average: '9.52'

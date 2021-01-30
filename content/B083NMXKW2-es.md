@@ -16,6 +16,7 @@ comparePrice: 1.65 EUR
 prodname: 'LoveOlvido Suéter Peine Manual Cepillo de Ropa Bola de Pelo Trimmer Removedor de Pelusa Afeitadora Lana de Cachemir Cepillos de Limpieza del hogar - Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083NMXKW2/?tag=tolees-21'
 descuento: '33.33'
 average: '1.1'

@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Hauck Sport Silla de paseo ligera y practica para bebes de 0 meses hasta 15 kg  sistema de arnés de 5 puntos  respaldo reclinable  plegable  Rojo  Caviar Tango '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00F0LEGJU/?tag=tolees-21'
 descuento: '26.03'
 average: '61.18000000000001'

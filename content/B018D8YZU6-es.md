@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Vizaro - Cambiador Bebé Textil Acolchado - Portátil - Muy cálido - Viaje 70x75cm - Algodón Puro - Hecho UE  OekoTex - Búhos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018D8YZU6/?tag=tolees-21'
 descuento: '42.01'
 average: '28.99'

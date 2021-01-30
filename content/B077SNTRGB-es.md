@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'InvisibleShield Ultra Clear Protective Case - Funda Protectora para Apple iPhone 8 Plus/7 Plus  Transparente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077SNTRGB/?tag=tolees-21'
 descuento: '54.60'
 average: '4.99'

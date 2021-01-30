@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'Fossil Reloj Analogico para Mujer de Cuarzo con Correa en Cuero FTW5007'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074QTBVGY/?tag=tolees-21'
 descuento: '36.11'
 average: '135.7742857142857'

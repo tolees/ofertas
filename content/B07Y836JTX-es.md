@@ -16,6 +16,7 @@ comparePrice: 80.99 EUR
 prodname: 'BANLVS Smartwatch  Reloj Inteligente Impermeable 67 con Pulsómetro Presión Arterial  Pulsera Actividad Inteligente con Monitor de Sueño Calorías GPS  Reloj Deportiva para Hombre Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y836JTX/?tag=tolees-21'
 descuento: '50.62'
 average: '39.99'

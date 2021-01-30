@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Clarks Sift Speed  Zapatillas para Hombre  Marrón  British Tan Lea British Tan Lea   47 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TPYK319/?tag=tolees-21'
 descuento: '30.00'
 average: '77.0'

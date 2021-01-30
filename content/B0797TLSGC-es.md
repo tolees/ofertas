@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'VENTILADOR Digital Dardaruga WFD NEBULIZADOR  tanque XXL de 3.10 litros  Ionizador  Antimosquitos y Repelente de Insectos  Compartimento AROMA  Temporizador  Control Remoto  Oscilación  Ruedas  PLATA '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0797TLSGC/?tag=tolees-21'
 descuento: '26.67'
 average: '109.99'

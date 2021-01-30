@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Jata MP423 CORTAPELOS  Gris  PEQUEÑO'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V5H3GQ8/?tag=tolees-21'
 descuento: '72.05'
 average: '13.97'

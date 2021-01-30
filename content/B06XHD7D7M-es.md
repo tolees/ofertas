@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Helly Hansen HH LIFA Merino Crew LS Baselayer  Hombre  Negro  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XHD7D7M/?tag=tolees-21'
 descuento: '37.51'
 average: '44.626666666666665'

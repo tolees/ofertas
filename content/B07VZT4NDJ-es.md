@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Reloj Digital para niños  7 Colores  con luz LED  para niños  niñas  Resistente al Agua  Reloj Deportivo Digital para niños  pequeño Rosa '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VZT4NDJ/?tag=tolees-21'
 descuento: '65.02'
 average: '12.59'

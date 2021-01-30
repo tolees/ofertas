@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Bisk 00403 Deco Portarollos con Tapa  11.5 x 8.5 x 13.5 cm  Acabado latón Envejecido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BFQLD4A/?tag=tolees-21'
 descuento: '51.04'
 average: '18.298333333333336'

@@ -16,6 +16,7 @@ comparePrice: 43.06 EUR
 prodname: 'Bananas- Megabananas  Multicolor  Bandai BB00778 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PK5MC14/?tag=tolees-21'
 descuento: '41.94'
 average: '25.0'

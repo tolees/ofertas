@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Under Armour Men s Webbing 2.0 Belt Cinturón  Hombre  Blanco  100   Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072BXH9T6/?tag=tolees-21'
 descuento: '47.55'
 average: '14.056250000000002'

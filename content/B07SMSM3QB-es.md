@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Planescape: Torment + Icewind Dale - Enhanced Edition'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SMSM3QB/?tag=tolees-21'
 descuento: '27.27'
 average: '39.685'

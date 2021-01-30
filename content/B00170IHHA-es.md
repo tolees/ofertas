@@ -16,6 +16,7 @@ comparePrice: 37.0 EUR
 prodname: 'CASIO Reloj analógico MTP-1183Q-7A'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00170IHHA/?tag=tolees-21'
 descuento: '30.00'
 average: '28.7425'

@@ -16,6 +16,7 @@ comparePrice: 1.92 EUR
 prodname: 'Calcetines de barco Calcetines de marea de estudiante Calcetines femeninos de baja ayuda Calcetines invisibles Harajuku Wind Calcetines bajos antideslizantes para niñas - Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0851CG1KF/?tag=tolees-21'
 descuento: '33.33'
 average: '1.28'

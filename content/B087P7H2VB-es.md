@@ -16,6 +16,7 @@ comparePrice: 55.79 EUR
 prodname: 'Pendientes de perro para mujer 925 plata esterlina Shiba Animal Ear Stud Pendientes hipoalergénicos Regalo de joyería para damas Niñas Adolescentes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087P7H2VB/?tag=tolees-21'
 descuento: '60.01'
 average: '22.31'

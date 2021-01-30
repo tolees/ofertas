@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'BERING Reloj Analógico para Unisex Adultos de Cuarzo con Correa en Acero Inoxidable 13436-166'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0749MTRG9/?tag=tolees-21'
 descuento: '29.92'
 average: '111.43'

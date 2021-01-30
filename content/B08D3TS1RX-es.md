@@ -16,6 +16,7 @@ comparePrice: 20.18 EUR
 prodname: 'Panamar Almohadilla de Juguete Inflable de Agua de PVC de 170 cm Almohadilla de pulverización de Agua al Aire Libre para niños Espesamiento Inflable de Verano - 170 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08D3TS1RX/?tag=tolees-21'
 descuento: '33.50'
 average: '13.42'

@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Citizen Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable EQ0608-55EE'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0117DM4MA/?tag=tolees-21'
 descuento: '43.41'
 average: '63.765'

@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'SanDisk Extreme - Tarjeta de Memoria SD UHS-I  256 GB  hasta 150MB/s'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H4BPZZG/?tag=tolees-21'
 descuento: '48.94'
 average: '70.4222222222222'

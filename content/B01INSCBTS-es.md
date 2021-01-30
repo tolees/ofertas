@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'Libratone ONE Style - Altavoz con Bluetooth y función SoundSpaces  color rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01INSCBTS/?tag=tolees-21'
 descuento: '33.66'
 average: '78.95'

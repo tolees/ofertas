@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Buffalo Corin  Zapatillas Altas para Mujer  Negro  Black 000   39 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JN2DS5F/?tag=tolees-21'
 descuento: '29.44'
 average: '70.49'

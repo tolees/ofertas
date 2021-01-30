@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Swatch Reloj Analógico para Hombre de Cuarzo con Correa en Silicona SUOB166'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V1W2KSS/?tag=tolees-21'
 descuento: '28.53'
 average: '53.6'

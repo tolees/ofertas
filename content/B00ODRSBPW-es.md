@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Jabra Evolve 20 UC - Auriculares Estéreo de Comunicaciones Unificadas para VoIP Softphone  Cancelación Pasiva de Ruido  Cable USB con Unidad de Control  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ODRSBPW/?tag=tolees-21'
 descuento: '34.82'
 average: '42.711999999999996'

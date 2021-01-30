@@ -16,6 +16,7 @@ comparePrice: 50.57 EUR
 prodname: 'Oral-B Pro 750 Sensi Ultrathin Adulto Azul - Cepillo de dientes eléctrico  Alemania  Batería  330 g  100 mm  178 mm  253 mm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076JLJXQ5/?tag=tolees-21'
 descuento: '28.81'
 average: '36.0'

@@ -16,6 +16,7 @@ comparePrice: 399.99 EUR
 prodname: 'XINZUO Set Cuchillo Cocina 5 Piezas Damasco Japonés 67 Capas Profesional Cuchillo Chef 20cm Cuchillo Santoku 17 8cm Cuchillo Trinchar 20cm Cuchillo Uso Cuchillos Pelar Pakkawood Mango - Ya Serie'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078VT77NF/?tag=tolees-21'
 descuento: '35.00'
 average: '259.99'

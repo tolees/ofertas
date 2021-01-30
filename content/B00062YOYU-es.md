@@ -16,6 +16,7 @@ comparePrice: 81.0 EUR
 prodname: 'K&N RC-2580 filtro cromado universal Coche y Moto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00062YOYU/?tag=tolees-21'
 descuento: '44.95'
 average: '44.59'

@@ -16,6 +16,7 @@ comparePrice: 15.42 EUR
 prodname: 'Gladiator  Edición especial  [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0053CBPDG/?tag=tolees-21'
 descuento: '35.47'
 average: '9.95'

@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'HAISSKY Riñonera de Correr con 2 x 175 ml Botellas de Agua Cinturón de Hydrabelt Ideal para Correr Ciclismo Maratón al Aire Libre Fitness para iPhone  Samsung y Todos los teléfonos  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T6ZMB89/?tag=tolees-21'
 descuento: '27.60'
 average: '20.99'

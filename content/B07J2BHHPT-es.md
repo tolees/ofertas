@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Lee Rider Short Pantalones Cortos  Azul  Flick Dark Ka   28W para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J2BHHPT/?tag=tolees-21'
 descuento: '80.95'
 average: '12.37'

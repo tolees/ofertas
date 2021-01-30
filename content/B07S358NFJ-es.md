@@ -16,6 +16,7 @@ comparePrice: 216.0 EUR
 prodname: 'Love MoschinoJc4001pp1aMujerBolsos totesMarfil  Avorio 11x25x39 centimeters  W x H x L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S358NFJ/?tag=tolees-21'
 descuento: '38.77'
 average: '132.25'

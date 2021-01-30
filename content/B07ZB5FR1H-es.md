@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Anpro 6D Vinilo Coche Fibra de Carbono Adhesiva 300 X 300CM Cubierta Adhesiva Negro para Coche Pegatinas para Coche Moto Computadora'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZB5FR1H/?tag=tolees-21'
 descuento: '60.76'
 average: '5.49'

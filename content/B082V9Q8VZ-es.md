@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'ventilador silencioso USB  RATEL ventilador de Escritorio portátil mini  180° velocidad variable & Ángulo de rotación de 20 °  Con cable de 1 2 m  adecuado para el hogar  la oficina  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082V9Q8VZ/?tag=tolees-21'
 descuento: '42.49'
 average: '7.47'

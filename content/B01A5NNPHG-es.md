@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Maybelline New York Brow Drama  Máscara De Cejas  Medium Brown 002 - 1 Máscara De Cejas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01A5NNPHG/?tag=tolees-21'
 descuento: '25.91'
 average: '6.046666666666667'

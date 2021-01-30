@@ -16,6 +16,7 @@ comparePrice: 37.03 EUR
 prodname: 'adidas Superstar  Zapatillas para Hombre  FTWR White/Core Black/FTWR White  46 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0813XNHFQ/?tag=tolees-21'
 descuento: '27.06'
 average: '29.549999999999997'

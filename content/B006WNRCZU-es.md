@@ -16,6 +16,7 @@ comparePrice: 64.01 EUR
 prodname: 'Grohe Cosmopolitan - Dispensador de jabón líquido con capacidad de 0 4 l  Ref. 40535000 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006WNRCZU/?tag=tolees-21'
 descuento: '37.74'
 average: '39.875'

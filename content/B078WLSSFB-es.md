@@ -16,6 +16,7 @@ comparePrice: 26.98 EUR
 prodname: 'Relojes para Hombres LIGE Correa de Cuero Marrón Deportivo Analógico de Cuarzo Relojes de Pulsera Impermeable Cronógrafo Negocios Casual Luminoso Reloj Oro Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078WLSSFB/?tag=tolees-21'
 descuento: '25.91'
 average: '23.32'

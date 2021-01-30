@@ -16,6 +16,7 @@ comparePrice: 16.57 EUR
 prodname: 'Tribe Warner Bros DC Comics Wonder Woman - Memoria USB 2.0 de 16 GB Pendrive Flash Drive de Goma con Llavero  Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BFH787E/?tag=tolees-21'
 descuento: '39.71'
 average: '9.99'

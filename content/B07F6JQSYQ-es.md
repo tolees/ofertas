@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Sorel Glacy Short  Botas para Mujer  Negro  Black/Shark 010   36.5 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F6JQSYQ/?tag=tolees-21'
 descuento: '60.00'
 average: '48.0'

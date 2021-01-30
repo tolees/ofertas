@@ -16,6 +16,7 @@ comparePrice: 59 EUR
 prodname: 'Napapijri Eils SS Polo  Verde  Green Forest 2 GE3   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MVLQVW1/?tag=tolees-21'
 descuento: '62.90'
 average: '21.8'

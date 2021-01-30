@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Lunasol Home Funda de Silicona con Cremallera para Patinete 6 5" - Cubierta Carcasa Protectora para Monopatines Hoverboard'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HYYMS1K/?tag=tolees-21'
 descuento: '38.48'
 average: '15.99'

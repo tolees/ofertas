@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Orient Reloj Analógico para Hombre de Cuarzo con Correa en Caucho FQC0S00BA0'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BHTMYBB/?tag=tolees-21'
 descuento: '54.92'
 average: '47.13666666666666'

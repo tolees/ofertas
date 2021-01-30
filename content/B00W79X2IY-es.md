@@ -16,6 +16,7 @@ comparePrice: 11.95 EUR
 prodname: 'iap PHARMA PARFUMS nº 51 - Perfume Floral con vaporizador para Hombre - 150 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00W79X2IY/?tag=tolees-21'
 descuento: '56.15'
 average: '7.5680000000000005'

@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Funko Pop!- Horror: 8-bit Jason Voorhees  24596 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0763ZTC8L/?tag=tolees-21'
 descuento: '34.02'
 average: '9.89'

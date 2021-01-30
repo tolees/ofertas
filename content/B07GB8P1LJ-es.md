@@ -16,6 +16,7 @@ comparePrice: 56.18 EUR
 prodname: 'Casio Reloj Digital para Hombre de Cuarzo con Correa en Resina W-800HM-7AVEF'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GB8P1LJ/?tag=tolees-21'
 descuento: '64.40'
 average: '19.727142857142855'

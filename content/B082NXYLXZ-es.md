@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'MEGALITH Relojes Hombre Relojes de Pulsera Militar Elegante Esqueleto Automatico Mecanicos Acero Inoxidable Reloj de Analogicos Clasicos Impermeable Diseño'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082NXYLXZ/?tag=tolees-21'
 descuento: '66.67'
 average: '49.99'

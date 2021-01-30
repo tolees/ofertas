@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'New Balance 373v2  Zapatillas para Mujer  Negro  Black Ce2   35 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S2YZ4L1/?tag=tolees-21'
 descuento: '33.75'
 average: '53.0'

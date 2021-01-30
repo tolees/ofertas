@@ -16,6 +16,7 @@ comparePrice: 18.54 EUR
 prodname: 'Magic Memory Iron Wire Card Magic Trick Permitir Que El Cable Se Forme En Una Selección'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KZNTNSS/?tag=tolees-21'
 descuento: '44.44'
 average: '10.3'

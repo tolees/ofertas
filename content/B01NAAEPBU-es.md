@@ -16,6 +16,7 @@ comparePrice: 240.79 EUR
 prodname: 'Reloj Fossil para Hombre FTW1114'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NAAEPBU/?tag=tolees-21'
 descuento: '43.66'
 average: '112.19333333333333'

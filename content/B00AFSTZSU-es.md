@@ -16,6 +16,7 @@ comparePrice: 620.0 EUR
 prodname: 'Keter -  Caseta de jardín exterior Factor 6x6 con escuadra incluida  Color marrón / Beige'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00AFSTZSU/?tag=tolees-21'
 descuento: '41.94'
 average: '360.0'

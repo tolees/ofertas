@@ -16,6 +16,7 @@ comparePrice: 324.1 EUR
 prodname: 'Bullpadel Hack 2019 Palas  Adultos Unisex  Amarillo  380'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MH7NFWX/?tag=tolees-21'
 descuento: '54.64'
 average: '173.475'

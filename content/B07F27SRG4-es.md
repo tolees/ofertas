@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Levi s Original Hm Zipup Hoodie Capucha  Azul  Indigo 0001   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F27SRG4/?tag=tolees-21'
 descuento: '25.73'
 average: '51.99'

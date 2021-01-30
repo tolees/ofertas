@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Superga Classic  Zapatillas Unisex Adulto  gris  gris claro  Wbt  37 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BNRJOOC/?tag=tolees-21'
 descuento: '43.73'
 average: '35.435'

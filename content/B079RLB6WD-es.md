@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Converse Taylor Chuck 70 Hi  Sneaker para Hombre  Sunflower/Black/Egret  43 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079RLB6WD/?tag=tolees-21'
 descuento: '44.64'
 average: '60.475'

@@ -16,6 +16,7 @@ comparePrice: 87.3 EUR
 prodname: 'Cámara de acción Sansnail H9 Outdoor  mini  30 metros de resistencia al agua  Ultra HD 4K  cámara de vídeo digital  cámara de acción de vídeo digital  recomendada para actividades acuáticas  wifi  cargador de 3 pines para el Reino Unido.  pantalla de 2.0 inches  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074MQFTT5/?tag=tolees-21'
 descuento: '53.05'
 average: '40.99'

@@ -16,6 +16,7 @@ comparePrice: 13.44 EUR
 prodname: 'Neutro Roberts - Jabón líquido antibacteriano'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00E4KYTHW/?tag=tolees-21'
 descuento: '47.77'
 average: '7.516666666666667'

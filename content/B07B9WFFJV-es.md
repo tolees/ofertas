@@ -16,6 +16,7 @@ comparePrice: 199.95 EUR
 prodname: 'Fitbit Versa Smartwatch Deportivo  Melocotón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B9WFFJV/?tag=tolees-21'
 descuento: '35.01'
 average: '130.5109090909091'

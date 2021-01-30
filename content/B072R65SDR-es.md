@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'Pioneer X-SMC02-W - Microcadena slim  CD  Bluetooth  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072R65SDR/?tag=tolees-21'
 descuento: '26.26'
 average: '132.0'

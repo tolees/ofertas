@@ -16,6 +16,7 @@ comparePrice: 56.48 EUR
 prodname: 'FoodSaver Fresh Appliance Envasadora al vacío  25 W  Acero Inoxidable  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MU6LIDY/?tag=tolees-21'
 descuento: '64.68'
 average: '50.337500000000006'

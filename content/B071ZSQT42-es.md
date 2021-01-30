@@ -16,6 +16,7 @@ comparePrice: 65.38 EUR
 prodname: 'Kerbl Rustica - Casa para Gatos  57 x 45 x 43 cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071ZSQT42/?tag=tolees-21'
 descuento: '39.55'
 average: '39.895'

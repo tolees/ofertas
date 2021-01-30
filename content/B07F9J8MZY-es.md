@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: '6 Inch Llaves ajustables Llaves inglesas con micrómetro 36 x 300 mm  6" '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F9J8MZY/?tag=tolees-21'
 descuento: '74.31'
 average: '8.99'

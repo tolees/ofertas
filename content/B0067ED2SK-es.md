@@ -16,6 +16,7 @@ comparePrice: 11.62 EUR
 prodname: 'K&N PS-7000 filtro de aceite Coche'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0067ED2SK/?tag=tolees-21'
 descuento: '36.83'
 average: '6.305'

@@ -16,6 +16,7 @@ comparePrice: 27.0 EUR
 prodname: 'Eastpak Springer Riñonera Interior  23 cm  2 Liters  Morado  Little Stripe '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KY8SG1X/?tag=tolees-21'
 descuento: '50.00'
 average: '13.5'

@@ -16,6 +16,7 @@ comparePrice: 49.05 EUR
 prodname: 'find. Mocasines Borlas Texturizado en Piel para Hombre  Marrón  Tan   41 EU'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XGHHNDH/?tag=tolees-21'
 descuento: '51.58'
 average: '23.27'

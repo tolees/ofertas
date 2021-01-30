@@ -16,6 +16,7 @@ comparePrice: 16.11 EUR
 prodname: 'Tecboss Encendedor Eléctrico Encendedor de Arco Eléctrico Con Pantalla LED de Batería USB recargable para Camping Cocina BBQs Fuegos Artificiales'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZ761KR/?tag=tolees-21'
 descuento: '44.20'
 average: '12.49'

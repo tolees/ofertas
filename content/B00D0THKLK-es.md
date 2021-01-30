@@ -16,6 +16,7 @@ comparePrice: 9.0 EUR
 prodname: 'Max Factor Colour Elixir Lipstick Barra de Labios Tono 720 Scarlet Ghost - 28 gr'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00D0THKLK/?tag=tolees-21'
 descuento: '45.00'
 average: '3.975'

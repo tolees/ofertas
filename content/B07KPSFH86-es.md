@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Funko X-Men Pop Dark Phoenix  Multicolor  Talla única  37063 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KPSFH86/?tag=tolees-21'
 descuento: '37.62'
 average: '9.95'

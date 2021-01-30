@@ -16,6 +16,7 @@ comparePrice: 21.56 EUR
 prodname: 'Sparco SPC1111KAZ Almohadillas y Funda de Volante  Negro/Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01INE5XT2/?tag=tolees-21'
 descuento: '30.66'
 average: '14.95'

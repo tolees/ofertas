@@ -16,6 +16,7 @@ comparePrice: 33.99 EUR
 prodname: 'Liberex Máquina de Cortar Pelo Profesional - Barbero Electrico Recargable  Cortapelos Afeitadora Corporal Máquina de Afeitar  Peine de 4 Posiciones  Base de Carga Inalámbrica para Hombres  Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R7TMGPS/?tag=tolees-21'
 descuento: '28.54'
 average: '25.64'

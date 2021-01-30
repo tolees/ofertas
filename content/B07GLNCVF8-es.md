@@ -16,6 +16,7 @@ comparePrice: 47.99 EUR
 prodname: 'ASICS Lite-Show 7 Pulgada Pantalones Cortos para Correr - L'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GLNCVF8/?tag=tolees-21'
 descuento: '62.51'
 average: '17.99'

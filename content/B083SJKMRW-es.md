@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Home Fleek - Envases de Vidrio para Alimentos | 4 Recipientes + 4 Tapas | Herméticos | Sin BPA  Set 4  Rectangular Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083SJKMRW/?tag=tolees-21'
 descuento: '26.68'
 average: '17.056666666666665'

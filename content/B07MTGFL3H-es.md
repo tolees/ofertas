@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'GANT MD. Extrafine Lambswool V-Neck suéter  Rojo  Red 610   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MTGFL3H/?tag=tolees-21'
 descuento: '53.85'
 average: '46.15'

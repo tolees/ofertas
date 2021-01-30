@@ -16,6 +16,7 @@ comparePrice: 4.91 EUR
 prodname: 'Espirógrafo multifuncional Gobernante geométrico Niños estudiantes que aprenden a dibujar Dibujo Papelería Útiles de oficina - Amarillo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XQYSMN2/?tag=tolees-21'
 descuento: '35.03'
 average: '3.19'

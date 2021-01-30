@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Sombras De Guerra Definitive Edition'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GFNP7M9/?tag=tolees-21'
 descuento: '66.72'
 average: '24.283333333333335'

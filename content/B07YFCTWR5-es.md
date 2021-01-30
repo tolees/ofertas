@@ -16,6 +16,7 @@ comparePrice: 56.99 EUR
 prodname: 'TROMEE Bastones de Senderismo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YFCTWR5/?tag=tolees-21'
 descuento: '29.83'
 average: '39.32333333333334'

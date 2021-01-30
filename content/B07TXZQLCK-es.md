@@ -16,6 +16,7 @@ comparePrice: 28.65 EUR
 prodname: 'New Look Iris Utility Paperbag Pantalones  Negro  Black 1   40  Talla del Fabricante: 12  para Mujer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TXZQLCK/?tag=tolees-21'
 descuento: '79.06'
 average: '6'

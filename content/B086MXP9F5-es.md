@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Slabo Lámina de Vidrio Premium para MacBook Pro 13"  2018  | Pro 13"  2019  Protectora Protector de Pantalla Templado Tempered Glass Claro dureza 9H'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086MXP9F5/?tag=tolees-21'
 descuento: '45.50'
 average: '5.99'

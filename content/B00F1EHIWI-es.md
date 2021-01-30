@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Sony MDRXD150 - Auriculares de Diadema Cerrados  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00F1EHIWI/?tag=tolees-21'
 descuento: '42.89'
 average: '15.656666666666666'

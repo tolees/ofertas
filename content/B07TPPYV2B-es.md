@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Levi s XX Std II Pantalones  Beige  True Chino Shady GD Ccu B 0011   W31/L34  Talla del Fabricante: 31 34  para Hombre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TPPYV2B/?tag=tolees-21'
 descuento: '33.76'
 average: '52.99'

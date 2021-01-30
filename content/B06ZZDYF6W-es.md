@@ -16,6 +16,7 @@ comparePrice: 73.9 EUR
 prodname: 'Mobiclinic  modelo Alcazaba  Silla de ruedas para minusválidos  premium  manual  plegable  ortopédica  de aluminio  freno en manetas  reposapiés  reposabrazos  color Negro  asiento  ultraligera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06ZZDYF6W/?tag=tolees-21'
 descuento: '33.45'
 average: '67.4825'

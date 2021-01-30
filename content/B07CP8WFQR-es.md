@@ -16,6 +16,7 @@ comparePrice: 191.34 EUR
 prodname: 'Habitdesign 0M7448Y - Armario Juvenil Infantil  Acabado en Blanco Alpes  Gris y Rosa Pastel  Medidas: 90 cm  Largo  x 200 cm  Alto  x 52 cm  Fondo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CP8WFQR/?tag=tolees-21'
 descuento: '27.35'
 average: '139.0'

@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Under Armour Charged Cotton 3In 3 Pack Ropa Interior  Hombre  Negro  XL'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZJGJH4/?tag=tolees-21'
 descuento: '51.28'
 average: '19.49'

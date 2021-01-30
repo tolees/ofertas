@@ -16,6 +16,7 @@ comparePrice: 28.56 EUR
 prodname: 'Tolyneil 36 piezas de acero Punch Alphabet Letter Number Stamper Set herramientas de punzonado de cuero DIY Leather Craft Printing Tools  6mm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LCGM2CP/?tag=tolees-21'
 descuento: '30.01'
 average: '19.99'

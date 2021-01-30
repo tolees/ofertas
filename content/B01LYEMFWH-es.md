@@ -16,6 +16,7 @@ comparePrice: 7.42 EUR
 prodname: 'Victor Toallitas Perfumadas - 10 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LYEMFWH/?tag=tolees-21'
 descuento: '58.36'
 average: '3.09'
